@@ -1,0 +1,409 @@
+#!/usr/bin/env python3
+"""
+Audio Review Integrity Check Script
+
+This script provides the following functionality:
+1. Automatic search and parsing of all review files
+2. Consistency check between overall score and sum of individual evaluation criteria
+3. Compliance check with review policy (dev/review_policy.md)
+4. Generation of detailed validation reports
+
+Usage:
+    python review_validator.py
+"""
+
+import os
+import re
+import yaml
+import glob
+from pathlib import Path
+from typing import Dict, List, Optional, Tuple
+from dataclasses import dataclass, field
+from datetime import datetime
+
+@dataclass
+class ReviewData:
+    """Class to store review data"""
+    file_path: str
+    layout: str
+    title: str
+    target_name: str
+    company_id: str
+    lang: str
+    ref: str
+    date: str
+    rating: List[float]
+    summary: str
+    tags: List[str]
+    permalink: str
+    
+    # Evaluation criteria scores (extracted from rating array)
+    total_score: float = 0.0
+    individual_scores: List[float] = field(default_factory=list)
+    
+    # Validation results
+    issues: List[str] = field(default_factory=list)
+
+class ReviewValidator:
+    """Review file validation class"""
+    
+    def __init__(self, base_path: str = ".."):
+        self.base_path = Path(base_path)
+        self.policy_path = self.base_path / "dev" / "review_policy.md"
+        self.reviews: List[ReviewData] = []
+        self.policy_requirements = self._load_policy_requirements()
+    
+    def _load_policy_requirements(self) -> Dict:
+        """Load review policy requirements"""
+        requirements = {
+            "rating_count": 6,  # Overall + 5 evaluation criteria
+            "score_range": (0.0, 1.0),  # Score range for each evaluation criterion
+            "required_sections_ja": [
+                "概要",
+                "科学的有効性", 
+                "技術レベル",
+                "コストパフォーマンス",
+                "信頼性・サポート",
+                "設計思想の合理性",
+                "アドバイス"
+            ],
+            "required_sections_en": [
+                "Overview",
+                "Scientific Validity", 
+                "Technology Level",
+                "Cost-Performance",
+                "Reliability & Support",
+                "Rationality of Design Philosophy",
+                "Advice"
+            ],
+            "required_fields": [
+                "layout", "title", "target_name", "company_id", 
+                "lang", "ref", "date", "rating", "summary", 
+                "tags", "permalink"
+            ],
+            "layouts": ["company", "product"],
+            "languages": ["ja", "en"],
+            "date_format": r"^\d{4}-\d{2}-\d{2}$"
+        }
+        
+        # Load more detailed requirements from policy file if it exists
+        if self.policy_path.exists():
+            with open(self.policy_path, 'r', encoding='utf-8') as f:
+                policy_content = f.read()
+                # Extract additional requirements from policy file
+                requirements["policy_content"] = policy_content
+        
+        return requirements
+    
+    def find_review_files(self) -> List[str]:
+        """Search for review files"""
+        patterns = [
+            "_companies/**/*.md",
+            "_products/**/*.md"
+        ]
+        
+        files = []
+        for pattern in patterns:
+            files.extend(glob.glob(str(self.base_path / pattern), recursive=True))
+        
+        return sorted(files)
+    
+    def parse_review_file(self, file_path: str) -> Optional[ReviewData]:
+        """Parse review file and create ReviewData object"""
+        try:
+            with open(file_path, 'r', encoding='utf-8') as f:
+                content = f.read()
+            
+            # Extract front matter
+            if not content.startswith('---'):
+                return None
+            
+            # Find the end position of front matter
+            end_match = re.search(r'\n---\n', content)
+            if not end_match:
+                return None
+            
+            front_matter = content[3:end_match.start()]
+            body = content[end_match.end():]
+            
+            # Parse YAML
+            try:
+                metadata = yaml.safe_load(front_matter)
+            except yaml.YAMLError as e:
+                print(f"YAML parse error in {file_path}: {e}")
+                return None
+            
+            # Create ReviewData object
+            review = ReviewData(
+                file_path=file_path,
+                layout=metadata.get('layout', ''),
+                title=metadata.get('title', ''),
+                target_name=metadata.get('target_name', ''),
+                company_id=metadata.get('company_id', ''),
+                lang=metadata.get('lang', ''),
+                ref=metadata.get('ref', ''),
+                date=metadata.get('date', ''),
+                rating=metadata.get('rating', []),
+                summary=metadata.get('summary', ''),
+                tags=metadata.get('tags', []),
+                permalink=metadata.get('permalink', '')
+            )
+            
+            # Convert rating to float
+            if isinstance(review.rating, list) and len(review.rating) >= 1:
+                review.total_score = float(review.rating[0])
+                review.individual_scores = [float(x) for x in review.rating[1:]]
+            
+            return review
+            
+        except Exception as e:
+            print(f"Error parsing {file_path}: {e}")
+            return None
+    
+    def validate_score_consistency(self, review: ReviewData) -> List[str]:
+        """Check score consistency"""
+        issues = []
+        
+        if not review.rating:
+            issues.append("Rating array is empty")
+            return issues
+        
+        if len(review.rating) != self.policy_requirements["rating_count"]:
+            issues.append(f"Invalid rating array length (expected: {self.policy_requirements['rating_count']}, actual: {len(review.rating)})")
+        
+        if len(review.individual_scores) == 5:
+            # Calculate sum of individual evaluation criteria
+            calculated_sum = sum(review.individual_scores)
+            
+            # Tolerance (considering floating point calculation errors)
+            tolerance = 0.01
+            
+            if abs(review.total_score - calculated_sum) > tolerance:
+                issues.append(f"Overall score and sum of individual evaluations do not match (overall: {review.total_score}, sum: {calculated_sum:.2f}, difference: {abs(review.total_score - calculated_sum):.3f})")
+        
+        # Check score range for each score
+        min_score, max_score = self.policy_requirements["score_range"]
+        for i, score in enumerate(review.individual_scores):
+            if not (min_score <= score <= max_score):
+                issues.append(f"Score for evaluation criterion {i+1} is out of range (value: {score}, range: {min_score}-{max_score})")
+        
+        return issues
+    
+    def validate_policy_compliance(self, review: ReviewData) -> List[str]:
+        """Check compliance with review policy"""
+        issues = []
+        
+        # Check required fields
+        for field in self.policy_requirements["required_fields"]:
+            if not hasattr(review, field) or not getattr(review, field):
+                issues.append(f"Required field '{field}' is not set")
+        
+        # Check layout validity
+        if review.layout not in self.policy_requirements["layouts"]:
+            issues.append(f"Invalid layout value: {review.layout} (allowed values: {self.policy_requirements['layouts']})")
+        
+        # Check language code validity
+        if review.lang not in self.policy_requirements["languages"]:
+            issues.append(f"Invalid language code: {review.lang} (allowed values: {self.policy_requirements['languages']})")
+        
+        # Check date format
+        if review.date and not re.match(self.policy_requirements["date_format"], str(review.date)):
+            issues.append(f"Invalid date format: {review.date} (expected format: YYYY-MM-DD)")
+        
+        # Check file placement
+        path_parts = Path(review.file_path).parts
+        if review.layout == "company" and "_companies" not in path_parts:
+            issues.append("Company reviews must be placed in _companies directory")
+        elif review.layout == "product" and "_products" not in path_parts:
+            issues.append("Product reviews must be placed in _products directory")
+        
+        # Check permalink
+        if review.layout == "company":
+            expected_prefix = f"/companies/{review.lang}/"
+        elif review.layout == "product":
+            expected_prefix = f"/products/{review.lang}/"
+        else:
+            expected_prefix = f"/{review.layout}s/{review.lang}/"
+        
+        if not review.permalink.startswith(expected_prefix):
+            issues.append(f"Invalid permalink format (expected: {expected_prefix}*, actual: {review.permalink})")
+        
+        return issues
+    
+    def validate_content_structure(self, review: ReviewData) -> List[str]:
+        """Check content structure"""
+        issues = []
+        
+        try:
+            with open(review.file_path, 'r', encoding='utf-8') as f:
+                content = f.read()
+            
+            # Check existence of required sections (by language)
+            if review.lang == "ja":
+                required_sections = self.policy_requirements["required_sections_ja"]
+            elif review.lang == "en":
+                required_sections = self.policy_requirements["required_sections_en"]
+            else:
+                required_sections = self.policy_requirements["required_sections_ja"]  # Default to Japanese
+            
+            for section in required_sections:
+                if f"## {section}" not in content:
+                    issues.append(f"Required section '{section}' not found")
+            
+            # Check score display in evaluation criteria sections
+            score_sections = required_sections[1:6]  # 5 evaluation criteria
+            for i, section in enumerate(score_sections):
+                if f"## {section}" in content:
+                    # Search for $$ \Large \text{score} $$ pattern
+                    section_match = re.search(f"## {re.escape(section)}.*?(?=## |$)", content, re.DOTALL)
+                    if section_match:
+                        section_content = section_match.group(0)
+                        score_pattern = r'\$\$ \\Large \\text\{([\d.]+)\} \$\$'
+                        score_match = re.search(score_pattern, section_content)
+                        if score_match:
+                            displayed_score = float(score_match.group(1))
+                            if i < len(review.individual_scores):
+                                actual_score = review.individual_scores[i]
+                                if abs(displayed_score - actual_score) > 0.01:
+                                    issues.append(f"Displayed score ({displayed_score}) in section '{section}' does not match rating score ({actual_score})")
+                        else:
+                            issues.append(f"Score display not found in section '{section}'")
+        
+        except Exception as e:
+            issues.append(f"Error occurred during content structure validation: {e}")
+        
+        return issues
+    
+    def validate_all_reviews(self) -> None:
+        """Validate all review files"""
+        print("Searching for review files...")
+        files = self.find_review_files()
+        print(f"Found {len(files)} files")
+        
+        for file_path in files:
+            print(f"\nProcessing: {file_path}")
+            review = self.parse_review_file(file_path)
+            
+            if review is None:
+                print(f"  ⚠️  Failed to parse")
+                continue
+            
+            # Execute various validations
+            issues = []
+            issues.extend(self.validate_score_consistency(review))
+            issues.extend(self.validate_policy_compliance(review))
+            issues.extend(self.validate_content_structure(review))
+            
+            review.issues = issues
+            self.reviews.append(review)
+            
+            # Display results
+            if issues:
+                print(f"  ❌ Issues found: {len(issues)}")
+                for issue in issues:
+                    print(f"    - {issue}")
+            else:
+                print(f"  ✅ Validation OK")
+    
+    def generate_report(self) -> str:
+        """Generate validation result report"""
+        report = []
+        report.append("# Audio Review Integrity Check Report")
+        report.append(f"Generated: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
+        report.append("")
+        
+        # Summary statistics
+        total_reviews = len(self.reviews)
+        reviews_with_issues = len([r for r in self.reviews if r.issues])
+        total_issues = sum(len(r.issues) for r in self.reviews)
+        
+        report.append("## Summary Statistics")
+        report.append(f"- Reviews validated: {total_reviews}")
+        report.append(f"- Reviews with issues: {reviews_with_issues}")
+        report.append(f"- Total issues detected: {total_issues}")
+        report.append(f"- Compliance rate: {((total_reviews - reviews_with_issues) / total_reviews * 100):.1f}%")
+        report.append("")
+        
+        # Issue classification
+        issue_categories = {}
+        for review in self.reviews:
+            for issue in review.issues:
+                # Classify issue types
+                if "overall score" in issue.lower() or "総合得点" in issue:
+                    category = "Score Consistency Error"
+                elif "required field" in issue.lower() or "required section" in issue.lower() or "必須フィールド" in issue or "必須セクション" in issue:
+                    category = "Missing Required Elements"
+                elif "out of range" in issue.lower() or "範囲外" in issue:
+                    category = "Score Range Error"
+                elif "format" in issue.lower() or "フォーマット" in issue or "形式" in issue:
+                    category = "Format Error"
+                elif "placement" in issue.lower() or "配置" in issue:
+                    category = "File Placement Error"
+                else:
+                    category = "Other"
+                
+                issue_categories[category] = issue_categories.get(category, 0) + 1
+        
+        if issue_categories:
+            report.append("## Issue Classification")
+            for category, count in sorted(issue_categories.items(), key=lambda x: x[1], reverse=True):
+                report.append(f"- {category}: {count} issues")
+            report.append("")
+        
+        # Detailed results
+        if reviews_with_issues > 0:
+            report.append("## Detailed Validation Results")
+            for review in self.reviews:
+                if review.issues:
+                    report.append(f"### {review.file_path}")
+                    report.append(f"- Title: {review.title}")
+                    report.append(f"- Language: {review.lang}")
+                    report.append(f"- Rating: {review.rating}")
+                    report.append("- Issues:")
+                    for issue in review.issues:
+                        report.append(f"  - {issue}")
+                    report.append("")
+        
+        # Recommended improvement actions
+        report.append("## Recommended Improvement Actions")
+        if "Score Consistency Error" in issue_categories:
+            report.append("1. **Score Consistency Error**: Fix so that the first value in rating matches the sum of the remaining 5 values")
+        if "Missing Required Elements" in issue_categories:
+            report.append("2. **Missing Required Elements**: Add required fields and sections listed in review_policy.md")
+        if "Score Range Error" in issue_categories:
+            report.append("3. **Score Range Error**: Set scores for each evaluation criterion within the range of 0.0-1.0")
+        if "Format Error" in issue_categories:
+            report.append("4. **Format Error**: Correctly set formats for dates, permalinks, etc.")
+        if "File Placement Error" in issue_categories:
+            report.append("5. **File Placement Error**: Place company reviews under _companies/ and product reviews under _products/")
+        
+        return "\n".join(report)
+    
+    def save_report(self, filename: str = "review_validation_report.md") -> None:
+        """Save report to file"""
+        report_content = self.generate_report()
+        report_path = self.base_path / filename
+        
+        with open(report_path, 'w', encoding='utf-8') as f:
+            f.write(report_content)
+        
+        print(f"\n📄 Report saved: {report_path}")
+
+def main():
+    """Main function"""
+    print("🔍 Starting audio review integrity check...")
+    
+    # Execute validation in current directory or specified directory
+    validator = ReviewValidator()
+    
+    # Validate all review files
+    validator.validate_all_reviews()
+    
+    # Generate and save report
+    validator.save_report()
+    
+    print("\n✅ Validation complete!")
+    print("Please check review_validation_report.md for details.")
+
+if __name__ == "__main__":
+    main()

@@ -1,0 +1,100 @@
+---
+layout: default
+---
+<article class="company-review">
+  <header class="review-header">
+    <h1>{{ page.target_name }}</h1>
+    
+    <!-- Overall Rating Display -->
+    <div class="overall-rating">
+      <div class="overall-rating-number">
+        {% if page.rating and page.rating.size > 0 %}
+          <span class="rating-number-large">{{ page.rating[0] }}</span>
+        {% else %}
+          <span class="rating-number-large">N/A</span>
+        {% endif %}
+      </div>
+    </div>
+    
+    <!-- Evaluation Criteria Table -->
+    {% if page.rating and page.rating.size >= 6 %}
+    <div class="evaluation-table">
+      <table>
+        <thead>
+          <tr>
+            <th>{{ site.data.strings[page.lang].evaluation_criteria }}</th>
+            <th>{{ site.data.strings[page.lang].scientific_validity }}</th>
+            <th>{{ site.data.strings[page.lang].technology_level }}</th>
+            <th>{{ site.data.strings[page.lang].cost_performance }}</th>
+            <th>{{ site.data.strings[page.lang].reliability_support }}</th>
+            <th>{{ site.data.strings[page.lang].design_rationality }}</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td><strong>{{ site.data.strings[page.lang].score }}</strong></td>
+            <td>{{ page.rating[1] }}</td>
+            <td>{{ page.rating[2] }}</td>
+            <td>{{ page.rating[3] }}</td>
+            <td>{{ page.rating[4] }}</td>
+            <td>{{ page.rating[5] }}</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    {% endif %}
+    
+    <p class="review-summary">{{ page.summary }}</p>
+    <div class="review-meta">
+      <time datetime="{{ page.date | date: '%Y-%m-%d' }}">{% if page.lang == 'ja' %}{{ page.date | date: '%Y年%m月%d日' }}{% else %}{{ page.date | date: '%B %d, %Y' }}{% endif %}</time>
+      {% if page.tags %}
+      <div class="tags">
+        {% for tag in page.tags %}
+          <span class="tag">{{ tag }}</span>
+        {% endfor %}
+      </div>
+      {% endif %}
+    </div>
+  </header>
+
+  <div class="review-content">
+    {{ content }}
+  </div>
+
+  <!-- AdSense Placeholder - Commented Out -->
+  {% comment %}
+  {% include adsense.html %}
+  {% endcomment %}
+  
+  <section class="related-products">
+    <h2>{{ site.data.strings[page.lang].related_products }}</h2>
+    {% assign current_company_id = page.company_id %}
+    {% assign related_products = site.products | where: 'company_id', current_company_id | where: 'lang', page.lang %}
+    
+    {% if related_products.size > 0 %}
+      <div class="products-grid">
+        {% for product in related_products %}
+          <div class="product-card">
+            <h3><a href="{{ product.url | relative_url }}">{{ product.target_name }}</a></h3>
+            <div class="product-rating">
+              <span class="rating-value">
+                {% if product.rating and product.rating.size > 0 %}
+                  {{ product.rating[0] }}
+                {% else %}
+                  N/A
+                {% endif %}
+              </span>
+              <span class="rating-stars">★</span>
+            </div>
+            <p class="product-summary">{{ product.summary }}</p>
+            <time class="product-date" datetime="{{ product.date | date: '%Y-%m-%d' }}">
+              {% if page.lang == 'ja' %}{{ product.date | date: '%Y年%m月%d日' }}{% else %}{{ product.date | date: '%B %d, %Y' }}{% endif %}
+            </time>
+          </div>
+        {% endfor %}
+      </div>
+    {% else %}
+      <p class="no-products">{{ site.data.strings[page.lang].no_products }}</p>
+    {% endif %}
+  </section>
+</article>

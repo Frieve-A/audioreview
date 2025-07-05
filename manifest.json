@@ -1,0 +1,16 @@
+{
+  "name": "Frieve - Audio Review",
+  "short_name": "Audio Review",
+  "description": "Audio review for those who want high quality sound without any irrationality",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "/assets/images/favicon.ico",
+      "sizes": "any",
+      "type": "image/vnd.microsoft.icon"
+    }
+  ]
+}

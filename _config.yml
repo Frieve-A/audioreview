@@ -1,0 +1,41 @@
+title: Frieve - Audio Review
+description: 物語に耳を貸さず、ブランドに目を眩まさず。静寂の中で向き合うオーディオの真価。
+url: ""
+baseurl: ""
+
+# Multi-language settings
+languages: ["en", "ja"]
+default_lang: "en"
+
+collections:
+  companies:
+    output: true
+  products:
+    output: true
+
+defaults:
+  - scope:
+      path: ""
+      type: "companies"
+    values:
+      layout: "company"
+  - scope:
+      path: ""
+      type: "products"
+    values:
+      layout: "product"
+
+plugins:
+  - jekyll-seo-tag
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - dev

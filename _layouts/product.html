@@ -1,0 +1,100 @@
+---
+layout: default
+---
+<article class="product-review">
+  <header class="review-header">
+    <h1>{{ page.target_name }}</h1>
+    
+    {% assign current_company_id = page.company_id %}
+    {% assign parent_company = site.companies | where: 'company_id', current_company_id | first %}
+    {% if parent_company %}
+      <div class="parent-company">
+        <span class="company-label">{{ site.data.strings[page.lang].provided_by }}：</span>
+        <a href="{{ parent_company.url }}" class="company-link">{{ parent_company.target_name }}</a>
+      </div>
+    {% endif %}
+
+    <!-- Overall Rating Display -->
+    <div class="overall-rating">
+      <div class="overall-rating-number">
+        {% if page.rating and page.rating.size > 0 %}
+          <span class="rating-number-large">{{ page.rating[0] }}</span>
+        {% else %}
+          <span class="rating-number-large">N/A</span>
+        {% endif %}
+      </div>
+    </div>
+    
+    <!-- Evaluation Criteria Table -->
+    {% if page.rating and page.rating.size >= 6 %}
+    <div class="evaluation-table">
+      <table>
+        <thead>
+          <tr>
+            <th>{{ site.data.strings[page.lang].evaluation_criteria }}</th>
+            <th>{{ site.data.strings[page.lang].scientific_validity }}</th>
+            <th>{{ site.data.strings[page.lang].technology_level }}</th>
+            <th>{{ site.data.strings[page.lang].cost_performance }}</th>
+            <th>{{ site.data.strings[page.lang].reliability_support }}</th>
+            <th>{{ site.data.strings[page.lang].design_rationality }}</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td><strong>{{ site.data.strings[page.lang].score }}</strong></td>
+            <td>{{ page.rating[1] }}</td>
+            <td>{{ page.rating[2] }}</td>
+            <td>{{ page.rating[3] }}</td>
+            <td>{{ page.rating[4] }}</td>
+            <td>{{ page.rating[5] }}</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    {% endif %}
+    
+    <p class="review-summary">{{ page.summary }}</p>
+    <div class="review-meta">
+      <time datetime="{{ page.date | date: '%Y-%m-%d' }}">{% if page.lang == 'ja' %}{{ page.date | date: '%Y年%m月%d日' }}{% else %}{{ page.date | date: '%B %d, %Y' }}{% endif %}</time>
+      {% if page.tags %}
+      <div class="tags">
+        {% for tag in page.tags %}
+          <span class="tag">{{ tag }}</span>
+        {% endfor %}
+      </div>
+      {% endif %}
+    </div>
+  </header>
+
+  <div class="review-content">
+    {{ content }}
+  </div>
+
+  <!-- AdSense Placeholder - Commented Out -->
+  {% comment %}
+  {% include adsense.html %}
+  {% endcomment %}
+  
+  {% if parent_company %}
+  <section class="related-company">
+    <h2>{{ site.data.strings[page.lang].related_company }}</h2>
+    <div class="company-card">
+      <h3><a href="{{ parent_company.url }}">{{ parent_company.target_name }}</a></h3>
+      <div class="company-rating">
+        <span class="rating-value">
+          {% if parent_company.rating and parent_company.rating.size > 0 %}
+            {{ parent_company.rating[0] }}
+          {% else %}
+            N/A
+          {% endif %}
+        </span>
+        <span class="rating-stars">★</span>
+      </div>
+      <p class="company-summary">{{ parent_company.summary }}</p>
+      <time class="company-date" datetime="{{ parent_company.date | date: '%Y-%m-%d' }}">
+        {% if page.lang == 'ja' %}{{ parent_company.date | date: '%Y年%m月%d日' }}{% else %}{{ parent_company.date | date: '%B %d, %Y' }}{% endif %}
+      </time>
+    </div>
+  </section>
+  {% endif %}
+</article>
