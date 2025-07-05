@@ -105,6 +105,65 @@ a:hover {
   margin-bottom: 40px;
   border-bottom: 2px solid #f0f0f0;
   padding-bottom: 20px;
+  position: relative;
+}
+
+/* Social share buttons */
+.social-share {
+  position: absolute;
+  top: 0;
+  right: 0;
+  display: flex;
+  gap: 10px;
+  z-index: 10;
+}
+
+.share-button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  text-decoration: none;
+  font-size: 18px;
+  transition: all 0.3s ease;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  background-color: white;
+}
+
+.share-button:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+  text-decoration: none;
+  color: white;
+}
+
+.share-button.twitter {
+  color: #000000;
+}
+
+.share-button.twitter:hover {
+  background-color: #000000;
+  color: white;
+}
+
+.share-button.facebook {
+  color: #1877F2;
+}
+
+.share-button.facebook:hover {
+  background-color: #1877F2;
+  color: white;
+}
+
+.share-button.reddit {
+  color: #FF4500;
+}
+
+.share-button.reddit:hover {
+  background-color: #FF4500;
+  color: white;
 }
 
 .review-header h1 {
@@ -564,6 +623,19 @@ a:hover {
 
   .container {
     padding: 0 15px;
+  }
+
+  /* Mobile adjustments for social share buttons */
+  .social-share {
+    position: static;
+    justify-content: center;
+    margin-bottom: 20px;
+  }
+
+  .share-button {
+    width: 36px;
+    height: 36px;
+    font-size: 16px;
   }
 }
 

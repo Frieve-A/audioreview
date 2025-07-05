@@ -3,6 +3,7 @@ layout: default
 ---
 <article class="product-review">
   <header class="review-header">
+    {% include social_share.html %}
     <h1>{{ page.target_name }}</h1>
     
     {% assign current_company_id = page.company_id %}
