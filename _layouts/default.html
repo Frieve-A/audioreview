@@ -53,7 +53,7 @@
         <a href="{% if page.lang %}{{ '/products/' | append: page.lang | append: '/' | relative_url }}{% else %}{{ '/products/' | relative_url }}{% endif %}">{% if page.lang %}{{ site.data.strings[page.lang].products }}{% else %}製品一覧{% endif %}</a>
         <a href="#" id="search-toggle">{% if page.lang %}{{ site.data.strings[page.lang].search }}{% else %}検索{% endif %}</a>
         <a href="{% if page.lang == 'en' %}https://forms.gle/PacNpgAyN646CYrZA{% else %}https://forms.gle/hXeh72BCSBhKDZm77{% endif %}" target="_blank" rel="noopener noreferrer">{% if page.lang %}{{ site.data.strings[page.lang].review_request }}{% else %}レビュー依頼{% endif %}</a>
-        <a href="{% if page.lang %}{{ '/' | append: page.lang | append: '/about/' | relative_url }}{% else %}{{ '/about/' | relative_url }}{% endif %}">{% if page.lang %}{{ site.data.strings[page.lang].about }}{% else %}About{% endif %}</a>
+        <a href="{% if page.lang %}{{ '/' | append: page.lang | append: '/about' | relative_url }}{% else %}{{ '/about' | relative_url }}{% endif %}">{% if page.lang %}{{ site.data.strings[page.lang].about }}{% else %}About{% endif %}</a>
       </nav>
       {% include language_switcher.html %}
     </div>
