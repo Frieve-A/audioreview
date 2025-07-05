@@ -26,9 +26,15 @@ layout: default
     <a href="{% if page.lang %}{{ '/companies/' | append: page.lang | append: '/' | relative_url }}{% else %}{{ '/companies/' | relative_url }}{% endif %}">{{ site.data.strings[page.lang].view_more }}</a>
   </div>
   <div class="products-grid">
-    {% assign filtered_companies = site.companies | where: 'lang', page.lang %}
+    {% assign filtered_companies = site.companies | where: 'lang', page.lang | sort: 'date' | reverse %}
     {% for company in filtered_companies limit:3 %}
       <div class="product-card">
+        {% assign current_date = 'now' | date: '%s' %}
+        {% assign company_date = company.date | date: '%s' %}
+        {% assign days_diff = current_date | minus: company_date | divided_by: 86400 %}
+        {% if days_diff <= 3 %}
+          <span class="new-badge">NEW</span>
+        {% endif %}
         <h3><a href="{{ company.url }}">{{ company.target_name }}</a></h3>
         <div class="product-rating">
           <span class="rating-value">
@@ -55,9 +61,15 @@ layout: default
     <a href="{% if page.lang %}{{ '/products/' | append: page.lang | append: '/' | relative_url }}{% else %}{{ '/products/' | relative_url }}{% endif %}">{{ site.data.strings[page.lang].view_more }}</a>
   </div>
   <div class="products-grid">
-    {% assign filtered_products = site.products | where: 'lang', page.lang %}
+    {% assign filtered_products = site.products | where: 'lang', page.lang | sort: 'date' | reverse %}
     {% for product in filtered_products limit:3 %}
       <div class="product-card">
+        {% assign current_date = 'now' | date: '%s' %}
+        {% assign product_date = product.date | date: '%s' %}
+        {% assign days_diff = current_date | minus: product_date | divided_by: 86400 %}
+        {% if days_diff <= 3 %}
+          <span class="new-badge">NEW</span>
+        {% endif %}
         <h3><a href="{{ product.url }}">{{ product.target_name }}</a></h3>
         <div class="product-rating">
           <span class="rating-value">

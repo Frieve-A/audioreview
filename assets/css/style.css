@@ -399,6 +399,7 @@ a:hover {
   border-radius: 8px;
   padding: 20px;
   transition: box-shadow 0.3s ease;
+  position: relative;
 }
 
 .product-card h3, .company-card h3 {
@@ -713,4 +714,21 @@ a:hover {
 
 .home-card a:hover {
   background-color: #008833;
+}
+
+/* NEW badge for recently updated items */
+.new-badge {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  background-color: #FFD700;
+  color: #1A1A1A;
+  font-size: 10px;
+  font-weight: 700;
+  padding: 4px 8px;
+  border-radius: 4px;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  z-index: 10;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
 }
