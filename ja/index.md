@@ -1,7 +1,7 @@
 ---
 layout: home
-title: "オーディオレビューサイトへようこそ"
+title: "Frieve - Audio Review"
 lang: ja
 ---
 
-# {{ site.data.strings[page.lang].welcome_title }}
+# Frieve - Audio Review
