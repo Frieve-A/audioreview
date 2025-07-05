@@ -6,7 +6,7 @@ company_id: sony
 lang: en
 ref: sony
 date: 2025-07-05
-rating: [3.8, 0.7, 0.9, 0.5, 0.9, 0.8]
+rating: [3.7, 0.7, 0.9, 0.4, 0.9, 0.8]
 summary: "Japanese electronics manufacturer that created the history of portable music with the Walkman and continues to lead wireless earbud technology innovation. Leveraging technical expertise cultivated across fields from music production to consumer products, they boast world-class performance particularly in noise cancellation technology. Their product lineup ranges from professional monitor headphones to high-quality wireless earbuds for general consumers, meeting diverse needs."
 tags: [Japan, audio, wireless, noise cancellation, Walkman]
 permalink: /companies/en/sony/
@@ -36,9 +36,9 @@ LDAC technology has been adopted as a standard specification by the Bluetooth SI
 
 ## Cost-Performance
 
-$$ \Large \text{0.5} $$
+$$ \Large \text{0.4} $$
 
-WH-1000XM5 ($400) equivalent measurement performance Chinese wireless headphones are sold for $200, so CP = $200 ÷ $400 = 0.5. WF-1000XM4 ($280) with equivalent THD+N 0.3% and frequency response has budget alternatives available for $140, so CP = $140 ÷ $280 = 0.5. MDR-7506 ($180) also has equivalent measurement performance products sold for $90, so CP = $90 ÷ $180 = 0.5.
+WH-1000XM5 (USD 396) has equivalent noise cancellation performance to the Soundcore Life Q30 (USD 67), resulting in CP = 67 ÷ 396 = 0.2. WF-1000XM4 (USD 220) has equivalent THD+N 0.3% and frequency response to the Soundcore Liberty 3 Pro (USD 87), resulting in CP = 87 ÷ 220 = 0.4. MDR-7506 (USD 147) has equivalent measurement performance to the Audio-Technica ATH-M40x (USD 81), resulting in CP = 81 ÷ 147 = 0.5.
 
 ## Reliability & Support
 
