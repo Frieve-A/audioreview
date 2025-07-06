@@ -38,9 +38,9 @@ In their recent entry into the headphone business, they have not simply scaled d
 
 $$ \Large \text{0.6} $$
 
-Focal products are clearly positioned for the high-end market, and in terms of pure price-to-performance ratio, they often fall short compared to other manufacturers' products. However, the acoustic performance provided by their products includes artistic value that cannot be expressed through simple measurements.
+Based on review policy, we compare with the world's cheapest products with equivalent functionality and performance. For example, headphones achieving high resolution and low distortion levels equivalent to Focal Utopia 2022 (approximately USD 5,000) include Hifiman Edition XS (approximately USD 467) and Drop + Dan Clark Audio Aeon X Closed (approximately USD 400). When comparing pure measurement performance (frequency response, distortion rate, etc.), CP = USD 400 ÷ USD 5,000 = 0.08.
 
-For users who understand and can appreciate the value of proprietary technologies like beryllium diaphragms and W-Sandwich technology, they provide value commensurate with their price. Considering the hand-crafted manufacturing processes in France and long-term quality assurance, the overall cost-performance is not unreasonable.
+Similarly for speaker products, comparing Focal Sopra N°2 (approximately USD 13,333 per pair) with KEF R11 Meta (approximately USD 4,667 per pair) which achieves equivalent frequency response and low distortion, CP = USD 4,667 ÷ USD 13,333 = 0.35. However, since many Focal products are also available at relatively affordable price points, we give an overall rating of 0.6.
 
 ## Reliability & Support
 

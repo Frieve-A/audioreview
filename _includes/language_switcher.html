@@ -1,32 +1,32 @@
 <div class="language-switcher">
   <ul>
-    {% assign posts = site.companies | concat: site.products %}
-    {% assign current_ref = page.ref %}
-    {% assign available_langs = "" | split: "," %}
+    {%- assign posts = site.companies | concat: site.products -%}
+    {%- assign current_ref = page.ref -%}
+    {%- assign available_langs = "" | split: "," -%}
     
     <!-- Find corresponding translation versions for current page -->
-    {% if current_ref %}
-      {% for p in posts %}
-        {% if p.ref == current_ref %}
-          {% assign available_langs = available_langs | push: p.lang %}
-        {% endif %}
-      {% endfor %}
+    {%- if current_ref -%}
+      {%- for p in posts -%}
+        {%- if p.ref == current_ref -%}
+          {%- assign available_langs = available_langs | push: p.lang -%}
+        {%- endif -%}
+      {%- endfor -%}
       
       <!-- Generate links for found language versions -->
-      {% for p in posts %}
-        {% if p.ref == current_ref %}
-          <li{% if p.lang == page.lang %} class="active"{% endif %}>
+      {%- for p in posts -%}
+        {%- if p.ref == current_ref -%}
+          <li{%- if p.lang == page.lang %} class="active"{%- endif -%}>
             <a href="{{ p.url | relative_url }}">{{ p.lang | upcase }}</a>
           </li>
-        {% endif %}
-      {% endfor %}
-    {% else %}
+        {%- endif -%}
+      {%- endfor -%}
+    {%- else -%}
       <!-- For home page -->
-      {% for lang in site.languages %}
-        <li{% if lang == page.lang %} class="active"{% endif %}>
+      {%- for lang in site.languages -%}
+        <li{%- if lang == page.lang %} class="active"{%- endif -%}>
           <a href="{{ '/' | append: lang | append: '/' | relative_url }}">{{ lang | upcase }}</a>
         </li>
-      {% endfor %}
-    {% endif %}
+      {%- endfor -%}
+    {%- endif -%}
   </ul>
 </div>

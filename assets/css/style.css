@@ -178,58 +178,96 @@ a:hover {
   color: #1A1A1A;
 }
 
-/* Overall rating large number display */
-.overall-rating {
-  text-align: center;
+/* Rating Gauges */
+.rating-gauges {
   margin: 30px 0;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
 }
 
-.overall-rating-number {
-  margin: 20px 0;
+.overall-gauge {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 20px;
 }
 
-.rating-number-large {
-  font-size: 4rem;
+.individual-gauges {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 20px;
+}
+
+.gauge-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+}
+
+.gauge-label {
+  font-size: 14px;
+  font-weight: 600;
+  color: #333;
+  text-align: center;
+  margin-bottom: 5px;
+}
+
+.gauge-chart {
+  position: relative;
+  width: 120px;
+  height: 120px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.gauge-svg {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.gauge-progress {
+  transition: stroke-dasharray 1.8s cubic-bezier(0.65, 0, 0.35, 1);
+}
+
+.gauge-score {
+  position: relative;
+  z-index: 2;
+  font-size: 18px;
   font-weight: 700;
   color: #1A1A1A;
-  font-family: 'Georgia', 'Times New Roman', serif;
-  text-shadow: 1px 1px 2px rgba(0,0,0,0.1);
+  background-color: white;
+  border-radius: 50%;
+  width: 80px;
+  height: 80px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
 }
 
-/* Evaluation criteria table */
-.evaluation-table {
-  margin: 30px 0;
-  overflow-x: auto;
+
+
+/* Overall gauge larger styling */
+.overall-gauge .gauge-chart {
+  width: 150px;
+  height: 150px;
 }
 
-.evaluation-table table {
-  width: 100%;
-  border-collapse: collapse;
-  margin: 20px 0;
-  font-size: 14px;
+.overall-gauge .gauge-score {
+  width: 100px;
+  height: 100px;
+  font-size: 24px;
 }
 
-.evaluation-table th,
-.evaluation-table td {
-  border: 1px solid #e0e0e0;
-  padding: 12px 8px;
-  text-align: center;
-}
-
-.evaluation-table th {
-  background-color: #f8f8f8;
-  font-weight: 600;
-  color: #1A1A1A;
-}
-
-.evaluation-table td {
-  background-color: #FFFFFF;
-  color: #333333;
-}
-
-.evaluation-table td:first-child {
-  font-weight: 600;
-  background-color: #F5F5F5;
+.overall-gauge .gauge-label {
+  font-size: 18px;
+  font-weight: 700;
 }
 
 .rating {
@@ -612,17 +650,51 @@ a:hover {
     font-size: 28px;
   }
 
-  .rating-number-large {
-    font-size: 3rem;
+  /* Mobile gauge chart adjustments */
+  .individual-gauges {
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+    gap: 15px;
   }
-
-  .evaluation-table {
+  
+  .gauge-chart {
+    width: 100px;
+    height: 100px;
+  }
+  
+  .gauge-score {
+    width: 70px;
+    height: 70px;
+    font-size: 16px;
+  }
+  
+  .overall-gauge .gauge-chart {
+    width: 130px;
+    height: 130px;
+  }
+  
+  .overall-gauge .gauge-score {
+    width: 90px;
+    height: 90px;
+    font-size: 20px;
+  }
+  
+  .gauge-label {
     font-size: 12px;
   }
-
-  .evaluation-table th,
-  .evaluation-table td {
-    padding: 8px 4px;
+  
+  .overall-gauge .gauge-label {
+    font-size: 16px;
+  }
+  
+  /* Mobile SVG stroke width adjustments */
+  .gauge-chart .gauge-background,
+  .gauge-chart .gauge-progress {
+    stroke-width: 15;
+  }
+  
+  .overall-gauge .gauge-background,
+  .overall-gauge .gauge-progress {
+    stroke-width: 18;
   }
 
   .products-grid {

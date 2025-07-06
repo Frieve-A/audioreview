@@ -15,42 +15,90 @@ layout: default
       </div>
     {% endif %}
 
-    <!-- Overall Rating Display -->
-    <div class="overall-rating">
-      <div class="overall-rating-number">
-        {% if page.rating and page.rating.size > 0 %}
-          <span class="rating-number-large">{{ page.rating[0] }}</span>
-        {% else %}
-          <span class="rating-number-large">N/A</span>
-        {% endif %}
-      </div>
-    </div>
-    
-    <!-- Evaluation Criteria Table -->
+    <!-- Gauge Charts -->
     {% if page.rating and page.rating.size >= 6 %}
-    <div class="evaluation-table">
-      <table>
-        <thead>
-          <tr>
-            <th>{{ site.data.strings[page.lang].evaluation_criteria }}</th>
-            <th>{{ site.data.strings[page.lang].scientific_validity }}</th>
-            <th>{{ site.data.strings[page.lang].technology_level }}</th>
-            <th>{{ site.data.strings[page.lang].cost_performance }}</th>
-            <th>{{ site.data.strings[page.lang].reliability_support }}</th>
-            <th>{{ site.data.strings[page.lang].design_rationality }}</th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr>
-            <td><strong>{{ site.data.strings[page.lang].score }}</strong></td>
-            <td>{{ page.rating[1] }}</td>
-            <td>{{ page.rating[2] }}</td>
-            <td>{{ page.rating[3] }}</td>
-            <td>{{ page.rating[4] }}</td>
-            <td>{{ page.rating[5] }}</td>
-          </tr>
-        </tbody>
-      </table>
+    <div class="rating-gauges">
+      <!-- Overall Rating Gauge -->
+      <div class="gauge-container overall-gauge">
+        <div class="gauge-label">{{ site.data.strings[page.lang].overall_rating }}</div>
+        <div class="gauge-chart" data-score="{{ page.rating[0] }}" data-color="#FFD580">
+          <svg class="gauge-svg" viewBox="0 0 200 200">
+            <!-- Background arc -->
+            <path class="gauge-background" d="M 46.97 153.03 A 75 75 0 1 1 153.03 153.03" stroke="#E9ECEF" stroke-width="20" fill="none" stroke-linecap="round"/>
+            <!-- Progress arc -->
+            <path class="gauge-progress" d="M 46.97 153.03 A 75 75 0 1 1 153.03 153.03" stroke="#FFD580" stroke-width="20" fill="none" stroke-linecap="round"/>
+          </svg>
+          <div class="gauge-score">{{ page.rating[0] }}</div>
+        </div>
+      </div>
+      
+      <!-- Individual Rating Gauges -->
+      <div class="individual-gauges">
+        <div class="gauge-container">
+          <div class="gauge-label">{{ site.data.strings[page.lang].scientific_validity }}</div>
+          <div class="gauge-chart" data-score="{{ page.rating[1] }}" data-color="#AEC6CF">
+            <svg class="gauge-svg" viewBox="0 0 200 200">
+              <!-- Background arc -->
+              <path class="gauge-background" d="M 46.97 153.03 A 75 75 0 1 1 153.03 153.03" stroke="#E9ECEF" stroke-width="20" fill="none" stroke-linecap="round"/>
+              <!-- Progress arc -->
+              <path class="gauge-progress" d="M 46.97 153.03 A 75 75 0 1 1 153.03 153.03" stroke="#AEC6CF" stroke-width="20" fill="none" stroke-linecap="round"/>
+            </svg>
+            <div class="gauge-score">{{ page.rating[1] }}</div>
+          </div>
+        </div>
+        
+        <div class="gauge-container">
+          <div class="gauge-label">{{ site.data.strings[page.lang].technology_level }}</div>
+          <div class="gauge-chart" data-score="{{ page.rating[2] }}" data-color="#B2DFDB">
+            <svg class="gauge-svg" viewBox="0 0 200 200">
+              <!-- Background arc -->
+              <path class="gauge-background" d="M 46.97 153.03 A 75 75 0 1 1 153.03 153.03" stroke="#E9ECEF" stroke-width="20" fill="none" stroke-linecap="round"/>
+              <!-- Progress arc -->
+              <path class="gauge-progress" d="M 46.97 153.03 A 75 75 0 1 1 153.03 153.03" stroke="#B2DFDB" stroke-width="20" fill="none" stroke-linecap="round"/>
+            </svg>
+            <div class="gauge-score">{{ page.rating[2] }}</div>
+          </div>
+        </div>
+        
+        <div class="gauge-container">
+          <div class="gauge-label">{{ site.data.strings[page.lang].cost_performance }}</div>
+          <div class="gauge-chart" data-score="{{ page.rating[3] }}" data-color="#C1E1C1">
+            <svg class="gauge-svg" viewBox="0 0 200 200">
+              <!-- Background arc -->
+              <path class="gauge-background" d="M 46.97 153.03 A 75 75 0 1 1 153.03 153.03" stroke="#E9ECEF" stroke-width="20" fill="none" stroke-linecap="round"/>
+              <!-- Progress arc -->
+              <path class="gauge-progress" d="M 46.97 153.03 A 75 75 0 1 1 153.03 153.03" stroke="#C1E1C1" stroke-width="20" fill="none" stroke-linecap="round"/>
+            </svg>
+            <div class="gauge-score">{{ page.rating[3] }}</div>
+          </div>
+        </div>
+        
+        <div class="gauge-container">
+          <div class="gauge-label">{{ site.data.strings[page.lang].reliability_support }}</div>
+          <div class="gauge-chart" data-score="{{ page.rating[4] }}" data-color="#D7BDE2">
+            <svg class="gauge-svg" viewBox="0 0 200 200">
+              <!-- Background arc -->
+              <path class="gauge-background" d="M 46.97 153.03 A 75 75 0 1 1 153.03 153.03" stroke="#E9ECEF" stroke-width="20" fill="none" stroke-linecap="round"/>
+              <!-- Progress arc -->
+              <path class="gauge-progress" d="M 46.97 153.03 A 75 75 0 1 1 153.03 153.03" stroke="#D7BDE2" stroke-width="20" fill="none" stroke-linecap="round"/>
+            </svg>
+            <div class="gauge-score">{{ page.rating[4] }}</div>
+          </div>
+        </div>
+        
+        <div class="gauge-container">
+          <div class="gauge-label">{{ site.data.strings[page.lang].design_rationality }}</div>
+          <div class="gauge-chart" data-score="{{ page.rating[5] }}" data-color="#D3D3D3">
+            <svg class="gauge-svg" viewBox="0 0 200 200">
+              <!-- Background arc -->
+              <path class="gauge-background" d="M 46.97 153.03 A 75 75 0 1 1 153.03 153.03" stroke="#E9ECEF" stroke-width="20" fill="none" stroke-linecap="round"/>
+              <!-- Progress arc -->
+              <path class="gauge-progress" d="M 46.97 153.03 A 75 75 0 1 1 153.03 153.03" stroke="#D3D3D3" stroke-width="20" fill="none" stroke-linecap="round"/>
+            </svg>
+            <div class="gauge-score">{{ page.rating[5] }}</div>
+          </div>
+        </div>
+      </div>
     </div>
     {% endif %}
     
