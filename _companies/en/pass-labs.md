@@ -6,8 +6,8 @@ company_id: pass-labs
 lang: en
 ref: pass-labs
 date: 2025-07-05
-rating: [2.8, 0.7, 0.7, 0.0, 0.9, 0.5]
-summary: "Founded in 1991 by Nelson Pass, this American high-end amplifier manufacturer focuses on MOSFET-based Class A/AB designs pursuing simple, natural sound quality. While measurement data is good, their designs involve significant power consumption and heat generation, lacking rationality by modern standards. Cost-performance is extremely poor compared to latest high-performance Class D amplifiers. Despite high corporate reliability, their design philosophy remains divisive."
+rating: [2.4, 0.7, 0.3, 0.0, 0.9, 0.5]
+summary: "Founded in 1991 by Nelson Pass, this American high-end amplifier manufacturer focuses on MOSFET-based Class A/AB designs pursuing simple, natural sound quality. While measurement data is good, their designs involve significant power consumption and heat generation, lacking rationality by modern standards. Cost-performance is extremely poor compared to latest high-performance Class D amplifiers. Despite high corporate reliability, the technology is largely outdated with strong obsolete aspects, making evaluation difficult from modern engineering perspectives."
 tags: [America, Nelson Pass, MOSFET, Class A, AB Class, California]
 permalink: /companies/en/pass-labs/
 ---
@@ -26,9 +26,9 @@ Pass Labs products publish measurement data with no unscientific claims, which i
 
 ## Technology Level
 
-$$ \Large \text{0.7} $$
+$$ \Large \text{0.3} $$
 
-Nelson Pass's analog amplifier design based on deep circuit knowledge has been industry-recognized for years. The simple circuit configuration utilizing MOSFET characteristics particularly embodies the company's design philosophy. However, this technology remains skilled craftsmanship within analog amplification frameworks, showing limitations compared to modern cutting-edge technology. For example, latest Class D amplifiers developed by companies like Hypex and Purifi achieve vastly superior power efficiency while realizing equivalent or better measurement performance in key metrics like THD+N and S/N ratio. While analog circuit completion is high, the existence of more efficient, higher-performance alternative technologies limits technical superiority.
+Nelson Pass's circuit design received some recognition from the 1970s to 1990s, but is clearly outdated by modern technological standards. The company's Class A/AB amplifier technology is fundamentally inferior compared to latest Class D amplifier technology. For example, latest Class D amplifier modules like Hypex NCx500 and Purifi 1ET9040SA achieve vastly superior THD+N (below 0.0003%), S/N ratio (above 120dB), and power efficiency (above 90%) compared to Pass Labs' Class A amplifiers. The XA60.8's S/N ratio of 80.9dB is clearly inadequate by contemporary standards. The simple circuit configuration using MOSFETs is now merely adherence to obsolete technology. From the latest technological standards, the company's technology significantly falls below industry average, with no technical superiority whatsoever.
 
 ## Cost-Performance
 

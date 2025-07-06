@@ -35,6 +35,19 @@ We evaluate not only the manufacturer's published specifications but also long-t
 ### 5. Rationality of Design Philosophy: Does That "Premium Feature" Really Contribute to Sound Quality?
 We rigorously evaluate whether the specifications and component choices claimed to produce "high-quality sound" are genuinely scientifically and technically sound. We do not credit occult claims or irrational designs whose effects cannot be proven, even in expensive products.
 
+## Scoring System
+
+Each of the five evaluation criteria above is scored on a scale of 0.0 to 1.0. The sum of these scores is displayed as an overall rating from 0.0 to 5.0.
+
+The four evaluation criteria other than cost performance (Scientific Validity, Technical Level, Reliability & Support, and Rationality of Design Philosophy) are scored as follows:
+- **0.0-0.2**: Significantly poor
+- **0.2-0.4**: Poor
+- **0.4-0.6**: Average
+- **0.6-0.8**: Good
+- **0.8-1.0**: Excellent
+
+The overall rating is the sum of the five criteria, resulting in a maximum of 5.0 points and a minimum of 0.0 points.
+
 ---
 
 The most expensive product isn't necessarily the best product for you.  
