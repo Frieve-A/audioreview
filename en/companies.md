@@ -5,15 +5,46 @@ lang: en
 permalink: /companies/en/
 ---
 
-<h1 class="page-title-with-search">Companies <span class="search-icon">🔍</span></h1>
+<div class="page-header-with-sort">
+  <h1 class="page-title-with-search">Companies <span class="search-icon">🔍</span></h1>
+  <div class="sort-controls">
+    <label for="sort-select">Sort by:</label>
+    <select id="sort-select" class="sort-dropdown">
+      <option value="name-asc">Alphabetical (A-Z)</option>
+      <option value="name-desc">Alphabetical (Z-A)</option>
+      <option value="date-asc">Date Updated (Oldest)</option>
+      <option value="date-desc">Date Updated (Newest)</option>
+      <option value="rating-asc">Overall Rating (Low to High)</option>
+      <option value="rating-desc">Overall Rating (High to Low)</option>
+      <option value="scientific-asc">Scientific Validity (Low to High)</option>
+      <option value="scientific-desc">Scientific Validity (High to Low)</option>
+      <option value="technical-asc">Technical Level (Low to High)</option>
+      <option value="technical-desc">Technical Level (High to Low)</option>
+      <option value="cost-asc">Cost Performance (Low to High)</option>
+      <option value="cost-desc">Cost Performance (High to Low)</option>
+      <option value="reliability-asc">Reliability & Support (Low to High)</option>
+      <option value="reliability-desc">Reliability & Support (High to Low)</option>
+      <option value="design-asc">Design Philosophy (Low to High)</option>
+      <option value="design-desc">Design Philosophy (High to Low)</option>
+    </select>
+  </div>
+</div>
 
 {% assign all_companies = site.companies | where: 'lang', 'en' | sort: 'target_name' %}
+<p class="review-count">{{ all_companies.size }} company reviews available</p>
 
-<div class="home-grid">
+<div class="home-grid" id="companies-grid">
   {% for company in all_companies %}
-    <div class="company-card">
+    <div class="company-card" 
+         data-overall="{{ company.rating[0] | default: 0 }}"
+         data-scientific="{{ company.rating[1] | default: 0 }}"
+         data-technical="{{ company.rating[2] | default: 0 }}"
+         data-cost="{{ company.rating[3] | default: 0 }}"
+         data-reliability="{{ company.rating[4] | default: 0 }}"
+         data-design="{{ company.rating[5] | default: 0 }}">
       <h3><a href="{{ company.url }}">{{ company.target_name }}</a></h3>
       <div class="company-rating">
+        <span class="rating-label" id="rating-label">Overall Rating</span>
         <span class="rating-value">
           {% if company.rating and company.rating.size > 0 %}
             {{ company.rating[0] }}

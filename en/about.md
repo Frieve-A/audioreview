@@ -5,6 +5,7 @@ lang: en
 ---
 
 # An Objective "Yardstick" for Audio Selection
+{: .about-title}
 
 The world is flooded with audio reviews.  
 "Deep, immersive sound," "high resolution"... these words alone don't really tell you whether a product is truly right for you.

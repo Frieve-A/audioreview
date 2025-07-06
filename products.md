@@ -4,15 +4,46 @@ title: 製品一覧
 permalink: /products/
 ---
 
-<h1 class="page-title-with-search">製品一覧 (Coming soon) <span class="search-icon">🔍</span></h1>
+<div class="page-header-with-sort">
+  <h1 class="page-title-with-search">製品一覧 (Coming soon) <span class="search-icon">🔍</span></h1>
+  <div class="sort-controls">
+    <label for="sort-select">並び替え:</label>
+    <select id="sort-select" class="sort-dropdown">
+      <option value="name-asc">アルファベット順（昇順）</option>
+      <option value="name-desc">アルファベット順（降順）</option>
+      <option value="date-asc">更新日順（昇順）</option>
+      <option value="date-desc">更新日順（降順）</option>
+      <option value="rating-asc">総合評価順（昇順）</option>
+      <option value="rating-desc">総合評価順（降順）</option>
+      <option value="scientific-asc">科学的有効性順（昇順）</option>
+      <option value="scientific-desc">科学的有効性順（降順）</option>
+      <option value="technical-asc">技術レベル順（昇順）</option>
+      <option value="technical-desc">技術レベル順（降順）</option>
+      <option value="cost-asc">コストパフォーマンス順（昇順）</option>
+      <option value="cost-desc">コストパフォーマンス順（降順）</option>
+      <option value="reliability-asc">信頼性・サポート順（昇順）</option>
+      <option value="reliability-desc">信頼性・サポート順（降順）</option>
+      <option value="design-asc">設計思想の合理性順（昇順）</option>
+      <option value="design-desc">設計思想の合理性順（降順）</option>
+    </select>
+  </div>
+</div>
 
 {% assign all_products = site.products | where: 'lang', 'ja' %}
+<p class="review-count">{{ all_products.size }}製品のレビューを掲載中</p>
 
-<div class="products-grid">
+<div class="products-grid" id="products-grid">
   {% for product in all_products %}
-    <div class="product-card">
+    <div class="product-card" 
+         data-overall="{{ product.rating[0] | default: 0 }}"
+         data-scientific="{{ product.rating[1] | default: 0 }}"
+         data-technical="{{ product.rating[2] | default: 0 }}"
+         data-cost="{{ product.rating[3] | default: 0 }}"
+         data-reliability="{{ product.rating[4] | default: 0 }}"
+         data-design="{{ product.rating[5] | default: 0 }}">
       <h3><a href="{{ product.url }}">{{ product.target_name }}</a></h3>
       <div class="product-rating">
+        <span class="rating-label" id="rating-label">総合評価</span>
         <span class="rating-value">
           {% if product.rating and product.rating.size > 0 %}
             {{ product.rating[0] }}

@@ -5,15 +5,46 @@ lang: en
 permalink: /products/en/
 ---
 
-<h1 class="page-title-with-search">Products (Coming soon) <span class="search-icon">🔍</span></h1>
+<div class="page-header-with-sort">
+  <h1 class="page-title-with-search">Products (Coming soon) <span class="search-icon">🔍</span></h1>
+  <div class="sort-controls">
+    <label for="sort-select">Sort by:</label>
+    <select id="sort-select" class="sort-dropdown">
+      <option value="name-asc">Alphabetical (A-Z)</option>
+      <option value="name-desc">Alphabetical (Z-A)</option>
+      <option value="date-asc">Date Updated (Oldest)</option>
+      <option value="date-desc">Date Updated (Newest)</option>
+      <option value="rating-asc">Overall Rating (Low to High)</option>
+      <option value="rating-desc">Overall Rating (High to Low)</option>
+      <option value="scientific-asc">Scientific Validity (Low to High)</option>
+      <option value="scientific-desc">Scientific Validity (High to Low)</option>
+      <option value="technical-asc">Technical Level (Low to High)</option>
+      <option value="technical-desc">Technical Level (High to Low)</option>
+      <option value="cost-asc">Cost Performance (Low to High)</option>
+      <option value="cost-desc">Cost Performance (High to Low)</option>
+      <option value="reliability-asc">Reliability & Support (Low to High)</option>
+      <option value="reliability-desc">Reliability & Support (High to Low)</option>
+      <option value="design-asc">Design Philosophy (Low to High)</option>
+      <option value="design-desc">Design Philosophy (High to Low)</option>
+    </select>
+  </div>
+</div>
 
 {% assign all_products = site.products | where: 'lang', 'en' %}
+<p class="review-count">{{ all_products.size }} product reviews available</p>
 
-<div class="products-grid">
+<div class="products-grid" id="products-grid">
   {% for product in all_products %}
-    <div class="product-card">
+    <div class="product-card" 
+         data-overall="{{ product.rating[0] | default: 0 }}"
+         data-scientific="{{ product.rating[1] | default: 0 }}"
+         data-technical="{{ product.rating[2] | default: 0 }}"
+         data-cost="{{ product.rating[3] | default: 0 }}"
+         data-reliability="{{ product.rating[4] | default: 0 }}"
+         data-design="{{ product.rating[5] | default: 0 }}">
       <h3><a href="{{ product.url }}">{{ product.target_name }}</a></h3>
       <div class="product-rating">
+        <span class="rating-label" id="rating-label">Overall Rating</span>
         <span class="rating-value">
           {% if product.rating and product.rating.size > 0 %}
             {{ product.rating[0] }}

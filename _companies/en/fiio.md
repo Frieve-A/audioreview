@@ -5,7 +5,7 @@ target_name: "FiiO"
 company_id: fiio
 lang: en
 ref: fiio
-date: 2025-07-05
+date: 2025-07-06
 rating: [4.0, 0.8, 0.7, 0.9, 0.7, 0.9]
 summary: "Chinese portable audio equipment manufacturer founded in 2007. Rapidly grown by providing high-performance products at affordable prices, centering on DACs, headphone amplifiers, and portable players. Products like K3, E10K, and BTR5 have achieved high sound quality previously only available in expensive price ranges at significantly lower costs, contributing to the democratization of portable audio. While there are challenges in quality control, they lead the industry in technological innovation and cost-performance."
 tags: [China, DAC, Headphone Amplifier, Portable, High Cost-Performance]
@@ -58,4 +58,4 @@ FiiO products are optimal choices for those seeking high-quality sound at reason
 
 When purchasing, clearly define your usage environment (desktop, portable, wireless) and select products optimized for that purpose. We also recommend choosing retailers with solid return/exchange policies, considering the possibility of initial defects. Many products provide value exceeding their price, significantly contributing to improved audio experiences.
 
-(2025.07.05)
+(2025.07.06)

@@ -90,6 +90,7 @@ a:hover {
   display: flex;
   align-items: center;
   gap: 10px;
+  margin-bottom: 10px;
 }
 
 .search-icon {
@@ -103,6 +104,71 @@ a:hover {
 .search-icon:hover {
   opacity: 1;
   transform: scale(1.1);
+}
+
+/* Review count display */
+.review-count {
+  font-size: 14px;
+  color: #666666;
+  margin-top: 8px;
+  font-weight: 400;
+}
+
+/* Page header with sort controls */
+.page-header-with-sort {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 10px;
+  flex-wrap: wrap;
+  gap: 15px;
+}
+
+.page-header-with-sort h1 {
+  margin: 0;
+  flex: 1;
+  min-width: 250px;
+}
+
+/* Sort controls */
+.sort-controls {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 10px 15px;
+  background-color: #f8f9fa;
+  border-radius: 8px;
+  border: 1px solid #e9ecef;
+  flex-shrink: 0;
+}
+
+.sort-controls label {
+  font-weight: 500;
+  color: #495057;
+  font-size: 14px;
+  white-space: nowrap;
+}
+
+.sort-dropdown {
+  padding: 8px 12px;
+  border: 1px solid #ced4da;
+  border-radius: 4px;
+  background-color: white;
+  color: #495057;
+  font-size: 14px;
+  cursor: pointer;
+  transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+  min-width: 200px;
+}
+
+.sort-dropdown:focus {
+  outline: none;
+  border-color: #00AA44;
+  box-shadow: 0 0 0 0.2rem rgba(0, 170, 68, 0.25);
+}
+
+.sort-dropdown:hover {
+  border-color: #adb5bd;
 }
 
 /* Review header */
@@ -251,8 +317,6 @@ a:hover {
   box-shadow: 0 2px 8px rgba(0,0,0,0.1);
 }
 
-
-
 /* Overall gauge larger styling */
 .overall-gauge .gauge-chart {
   width: 150px;
@@ -373,7 +437,6 @@ a:hover {
 .main-content h1 {
   font-size: 32px;
   font-weight: 700;
-  margin-bottom: 25px;
   color: #1A1A1A;
 }
 
@@ -457,9 +520,23 @@ a:hover {
 }
 
 .product-rating, .company-rating {
+  display: flex;
+  align-items: center;
+  gap: 5px;
   margin: 10px 0;
-  font-weight: 600;
+}
+
+.rating-label {
+  font-size: 11px;
   color: #666;
+  font-weight: 500;
+  opacity: 0.8;
+}
+
+.rating-value {
+  font-size: 18px;
+  font-weight: 700;
+  color: #00AA44;
 }
 
 .product-summary, .company-summary {
@@ -701,6 +778,34 @@ a:hover {
     grid-template-columns: 1fr;
   }
 
+  /* Mobile page header and sort controls */
+  .page-header-with-sort {
+    flex-direction: column;
+    align-items: stretch;
+    gap: 15px;
+  }
+
+  .page-header-with-sort h1 {
+    min-width: auto;
+    text-align: center;
+  }
+
+  .sort-controls {
+    flex-direction: column;
+    align-items: stretch;
+    gap: 8px;
+    padding: 12px;
+  }
+
+  .sort-controls label {
+    text-align: left;
+  }
+
+  .sort-dropdown {
+    min-width: auto;
+    width: 100%;
+  }
+
   .search-content {
     margin: 20px;
     padding: 20px;
@@ -803,4 +908,9 @@ a:hover {
   letter-spacing: 0.5px;
   z-index: 10;
   box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+/* About page title style */
+.about-title {
+  margin-bottom: 25px;
 }
