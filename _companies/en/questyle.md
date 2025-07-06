@@ -32,7 +32,7 @@ With 50+ patents, particularly the Current Mode Amplification technology (PCT Pa
 
 $$ \Large \text{0.5} $$
 
-The M15i (USD $249-299) faces competition from equivalent-performance products like FiiO BTR17 and Moondrop Dawn Pro (~USD $50, 2Vrms output). Dawn Pro is noted as "one-fifth the price of M15i" while delivering equivalent 300Ohm performance. The CMA15 (USD $2,500) is claimed to "compete in the USD $2,000-4,000 range," but alternatives like Topping A90D (~USD $500, THD 0.00006%) exist at the same price point. CP = 50 ÷ 249 = 0.20, resulting in harsh cost-performance evaluation. While technical advantages exist, they don't justify the price premium.
+The M15i (USD 249-299) faces competition from equivalent-performance products like FiiO BTR17 and Moondrop Dawn Pro (~USD 50, 2Vrms output). Dawn Pro is noted as "one-fifth the price of M15i" while delivering equivalent 300Ohm performance. The CMA15 (USD 2,500) is claimed to "compete in the USD 2,000-4,000 range," but alternatives like Topping A90D (~USD 500, THD 0.00006%) exist at the same price point. CP = 50 ÷ 249 = 0.20, resulting in harsh cost-performance evaluation. While technical advantages exist, they don't justify the price premium.
 
 ## Reliability & Support
 
@@ -48,6 +48,6 @@ The Current Mode Amplification technical approach has theoretical foundation, di
 
 ## Advice
 
-While Questyle products maintain technical competence, alternative products deserve consideration for cost-performance priorities. For M15i consideration, carefully evaluate performance differences versus Moondrop Dawn Pro (~USD $50). For CMA15 consideration, compare with Topping A90D or SMSL products to determine if 5x+ price premium offers commensurate value. When purchasing, strongly recommend avoiding Questyle's direct shop in favor of reliable retailers. Only consider Questyle if CMA technology uniqueness provides value and customer support issues are acceptable. For pure performance and price efficiency priorities, numerous superior alternatives exist.
+While Questyle products maintain technical competence, alternative products deserve consideration for cost-performance priorities. For M15i consideration, carefully evaluate performance differences versus Moondrop Dawn Pro (~USD 50). For CMA15 consideration, compare with Topping A90D or SMSL products to determine if 5x+ price premium offers commensurate value. When purchasing, strongly recommend avoiding Questyle's direct shop in favor of reliable retailers. Only consider Questyle if CMA technology uniqueness provides value and customer support issues are acceptable. For pure performance and price efficiency priorities, numerous superior alternatives exist.
 
 (2025.7.6)

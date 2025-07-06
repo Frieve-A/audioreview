@@ -32,7 +32,7 @@ The concept and implementation of incorporating passive networks into cables is 
 
 $$ \Large \text{0.0} $$
 
-MIT products are among the most expensive cables on the market. For example, their speaker cables range from hundreds of thousands to millions of yen. Meanwhile, brands like Mogami and Canare, standard in professional audio, are available for mere thousands of yen while boasting extremely flat, low-loss transmission characteristics in measurements. Based on this site's policy of "price of world's cheapest equivalent performance product ÷ review target product price," comparing with professional cables (e.g., Mogami 2549, 3m pair for about $33), MIT product cost-performance must be evaluated as nearly zero.
+MIT products are among the most expensive cables on the market. For example, their speaker cables range from hundreds of thousands to millions of yen. Meanwhile, brands like Mogami and Canare, standard in professional audio, are available for mere thousands of yen while boasting extremely flat, low-loss transmission characteristics in measurements. Based on this site's policy of "price of world's cheapest equivalent performance product ÷ review target product price," comparing with professional cables (e.g., Mogami 2549, 3m pair for about USD 33), MIT product cost-performance must be evaluated as nearly zero.
 
 ## Reliability & Support
 

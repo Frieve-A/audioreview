@@ -38,7 +38,7 @@ What's particularly impressive is that despite being a design from over 20 years
 
 $$ \Large \text{0.5} $$
 
-The biggest weakness of the HD650 is its cost-performance. The fact that the "Drop HD 6XX" with nearly equivalent performance to the HD650, currently selling for about $350, is available for around $220 makes this evaluation harsh. Measurement-wise, the difference between the two is within margin of error, and blind discrimination is difficult. This gives us `CP = 220/350 = 0.63`, resulting in a low score by our evaluation criteria.
+The biggest weakness of the HD650 is its cost-performance. The fact that the "Drop HD 6XX" with nearly equivalent performance to the HD650, currently selling for about USD 350, is available for around USD 220 makes this evaluation harsh. Measurement-wise, the difference between the two is within margin of error, and blind discrimination is difficult. This gives us `CP = 220/350 = 0.63`, resulting in a low score by our evaluation criteria.
 
 However, this is purely from a performance-to-price perspective and doesn't consider added values like "Sennheiser brand," "original," and "long-term support." Also, considering the value retention rate in the used market, the practical cost-performance could be better than the score suggests.
 

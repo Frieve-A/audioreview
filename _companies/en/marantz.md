@@ -34,7 +34,7 @@ Marantz maintains near-industry-leading technical capabilities centered on HDAM 
 
 $$ \Large \text{0.1} $$
 
-While Marantz products achieve excellent measured performance, manufacturers like Topping deliver equivalent or superior performance at significantly lower prices. The STEREO 70s ($1,000, THD+N 0.08%, 80W+80W/8Ω) faces competition from the equivalent Topping PA5 Plus ($167, THD+N 0.0004%, 80W+80W/8Ω), yielding CP = $167 ÷ $1,000 = 0.17. The MODEL 10 ($4,000, THD+N 0.001%, 200W+200W/8Ω) competes with the equivalent Topping LA90 Discrete ($533, THD+N 0.0007%, 200W+200W/8Ω), yielding CP = $533 ÷ $4,000 = 0.13. Primary products are priced 6-7 times above globally available equivalents, resulting in extremely poor cost-performance.
+While Marantz products achieve excellent measured performance, manufacturers like Topping deliver equivalent or superior performance at significantly lower prices. The STEREO 70s (USD 1,000, THD+N 0.08%, 80W+80W/8Ω) faces competition from the equivalent Topping PA5 Plus (USD 167, THD+N 0.0004%, 80W+80W/8Ω), yielding CP = USD 167 ÷ USD 1,000 = 0.17. The MODEL 10 (USD 4,000, THD+N 0.001%, 200W+200W/8Ω) competes with the equivalent Topping LA90 Discrete (USD 533, THD+N 0.0007%, 200W+200W/8Ω), yielding CP = USD 533 ÷ USD 4,000 = 0.13. Primary products are priced 6-7 times above globally available equivalents, resulting in extremely poor cost-performance.
 
 ## Reliability & Support
 

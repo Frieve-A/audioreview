@@ -14,7 +14,7 @@ permalink: /products/en/topping-arpegear-hane/
 
 ## Overview
 
-The Topping ArpegEar Hane is the inaugural IEM from DAC-renowned Topping under their new ArpegEar brand, released in 2024. Priced at $129, it features a 10mm dynamic driver with DLC (Diamond-Like Carbon) coating. Its primary feature is 16 tuning options via 4 DIP switches. Specifications include 80Ω±15% impedance, 115dB/Vrms sensitivity, and 5Hz-35kHz frequency response. The housing uses glossy black resin with blue feathered faceplates.
+The Topping ArpegEar Hane is the inaugural IEM from DAC-renowned Topping under their new ArpegEar brand, released in 2024. Priced at USD 129, it features a 10mm dynamic driver with DLC (Diamond-Like Carbon) coating. Its primary feature is 16 tuning options via 4 DIP switches. Specifications include 80Ω±15% impedance, 115dB/Vrms sensitivity, and 5Hz-35kHz frequency response. The housing uses glossy black resin with blue feathered faceplates.
 
 ## Scientific Validity
 
@@ -32,7 +32,7 @@ The DLC-coated dynamic driver adoption shows technical consideration. The 4 DIP 
 
 $$ \Large \text{0.5} $$
 
-The Hane costs $129, but superior or equivalent competitors exist at lower prices. The Truthear Hexa ($89.99) offers excellent hybrid configuration with neutral tuning, while the Dunu Titan S (under $100) provides engaging sound with wide soundstage. Additionally, the 7Hz Salnotes Zero 2 (~$20-30) demonstrates $100-class IEM performance. CP = $89.99 ÷ $129 = 0.70, clearly indicating overpricing. While tuning functionality adds value, it doesn't justify the premium when basic performance lags competitors.
+The Hane costs USD 129, but superior or equivalent competitors exist at lower prices. The Truthear Hexa (USD 89.99) offers excellent hybrid configuration with neutral tuning, while the Dunu Titan S (under USD 100) provides engaging sound with wide soundstage. Additionally, the 7Hz Salnotes Zero 2 (~USD 20-30) demonstrates USD 100-class IEM performance. CP = USD 89.99 ÷ USD 129 = 0.70, clearly indicating overpricing. While tuning functionality adds value, it doesn't justify the premium when basic performance lags competitors.
 
 ## Reliability & Support
 
@@ -48,6 +48,6 @@ The 16 tuning option approach represents rational thinking toward user preferenc
 
 ## Advice
 
-The Topping ArpegEar Hane offers interesting tuning functionality but is difficult to recommend in 2024's competitive IEM market. With a $129 budget, consider alternatives like the Truthear Hexa ($79.99) or Dunu Titan S (under $100), which provide superior fundamental performance. The Truthear Hexa particularly offers neutral tuning and excellent coherency, leaving budget for better cables or ear tips. The Hane might only appeal to users frequently utilizing tuning functionality, but even then, one must accept sound quality degradation from adjustments.
+The Topping ArpegEar Hane offers interesting tuning functionality but is difficult to recommend in 2024's competitive IEM market. With a USD 129 budget, consider alternatives like the Truthear Hexa (USD 79.99) or Dunu Titan S (under USD 100), which provide superior fundamental performance. The Truthear Hexa particularly offers neutral tuning and excellent coherency, leaving budget for better cables or ear tips. The Hane might only appeal to users frequently utilizing tuning functionality, but even then, one must accept sound quality degradation from adjustments.
 
 (2025.7.6)

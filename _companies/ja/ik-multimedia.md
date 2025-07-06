@@ -67,15 +67,15 @@ $$ \Large \text{0.3} $$
 IK Multimediaの製品は、機能性と価格のバランスにおいて厳しい評価となります：
 
 **ソフトウェア製品の価格比較**：
-- **AmpliTube 5 MAX**（USD $399）vs **Reaper**（USD $60）+ **無料アンプシム**
-- **T-RackS 6 MAX**（USD $399）vs **Reaper内蔵エフェクト**（USD $60）
-- **SampleTank 4 MAX**（USD $399）vs **Kontakt Player**（無料）+ **無料サンプル**
-- **Total Studio 5 MAX**（USD $999）vs **Reaper**（USD $60）+ **無料プラグイン集**
+- **AmpliTube 5 MAX**（USD 399）vs **Reaper**（USD 60）+ **無料アンプシム**
+- **T-RackS 6 MAX**（USD 399）vs **Reaper内蔵エフェクト**（USD 60）
+- **SampleTank 4 MAX**（USD 399）vs **Kontakt Player**（無料）+ **無料サンプル**
+- **Total Studio 5 MAX**（USD 999）vs **Reaper**（USD 60）+ **無料プラグイン集**
 
 **ハードウェア製品の価格比較**：
-- **iLoud MTM MKII**（USD $399）vs **KRK Rokit 5 G4**（USD $149）
-- **ARC Studio**（USD $349）vs **REW**（無料）+ **測定マイク**（USD $100）
-- **TONEX Pedal**（USD $399）vs **HX Stomp**（USD $649、より多機能）
+- **iLoud MTM MKII**（USD 399）vs **KRK Rokit 5 G4**（USD 149）
+- **ARC Studio**（USD 349）vs **REW**（無料）+ **測定マイク**（USD 100）
+- **TONEX Pedal**（USD 399）vs **HX Stomp**（USD 649、より多機能）
 
 **CP計算例**：
 - ソフトウェア：CP = 60 ÷ 399 = 0.15
@@ -145,12 +145,12 @@ IK Multimediaは音楽制作の統合ソリューションを求めるユーザ�
 - **時間効率重視**：豊富なプリセットで迅速な音楽制作を行いたい
 
 **製品選択の指針**：
-- **ソフトウェア**：Total Studio 5（USD $999）は包括的だが、個別製品（AmpliTube、T-RackS等）から始める方が経済的
-- **ハードウェア**：iLoud MTM MKII（USD $399）は統合性が魅力だが、KRK Rokit 5 G4（USD $149）の方が高CP
+- **ソフトウェア**：Total Studio 5（USD 999）は包括的だが、個別製品（AmpliTube、T-RackS等）から始める方が経済的
+- **ハードウェア**：iLoud MTM MKII（USD 399）は統合性が魅力だが、KRK Rokit 5 G4（USD 149）の方が高CP
 - **モバイル**：iRigシリーズは唯一無二の価値を提供、モバイル制作には最適
 
 **代替案との比較**：
-- **予算重視**：Reaper（USD $60）+ 無料プラグイン集で同等機能を大幅に安価で実現
+- **予算重視**：Reaper（USD 60）+ 無料プラグイン集で同等機能を大幅に安価で実現
 - **高音質重視**：専門メーカー（RME、Neumann等）の方が技術的に優位
 - **学習重視**：IK製品は音楽制作の入門として優秀だが、中級者以上は他選択肢も検討
 

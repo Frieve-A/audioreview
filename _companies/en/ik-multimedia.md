@@ -68,15 +68,15 @@ $$ \Large \text{0.3} $$
 IK Multimedia products face challenging evaluation in terms of functionality-to-price balance:
 
 **Software Product Price Comparison**:
-- **AmpliTube 5 MAX** (USD $399) vs **Reaper** (USD $60) + **Free Amp Sims**
-- **T-RackS 6 MAX** (USD $399) vs **Reaper Built-in Effects** (USD $60)
-- **SampleTank 4 MAX** (USD $399) vs **Kontakt Player** (Free) + **Free Samples**
-- **Total Studio 5 MAX** (USD $999) vs **Reaper** (USD $60) + **Free Plugin Collection**
+- **AmpliTube 5 MAX** (USD 399) vs **Reaper** (USD 60) + **Free Amp Sims**
+- **T-RackS 6 MAX** (USD 399) vs **Reaper Built-in Effects** (USD 60)
+- **SampleTank 4 MAX** (USD 399) vs **Kontakt Player** (Free) + **Free Samples**
+- **Total Studio 5 MAX** (USD 999) vs **Reaper** (USD 60) + **Free Plugin Collection**
 
 **Hardware Product Price Comparison**:
-- **iLoud MTM MKII** (USD $399) vs **KRK Rokit 5 G4** (USD $149)
-- **ARC Studio** (USD $349) vs **REW** (Free) + **Measurement Microphone** (USD $100)
-- **TONEX Pedal** (USD $399) vs **HX Stomp** (USD $649, more features)
+- **iLoud MTM MKII** (USD 399) vs **KRK Rokit 5 G4** (USD 149)
+- **ARC Studio** (USD 349) vs **REW** (Free) + **Measurement Microphone** (USD 100)
+- **TONEX Pedal** (USD 399) vs **HX Stomp** (USD 649, more features)
 
 **CP Calculation Example**:
 - Software: CP = 60 ÷ 399 = 0.15
@@ -146,12 +146,12 @@ IK Multimedia is suitable for users seeking integrated music production solution
 - **Time Efficiency Priority**: Wanting rapid music production with rich presets
 
 **Product Selection Guidelines**:
-- **Software**: Total Studio 5 (USD $999) is comprehensive but starting with individual products (AmpliTube, T-RackS, etc.) is more economical
-- **Hardware**: iLoud MTM MKII (USD $399) offers integration appeal but KRK Rokit 5 G4 (USD $149) provides higher CP
+- **Software**: Total Studio 5 (USD 999) is comprehensive but starting with individual products (AmpliTube, T-RackS, etc.) is more economical
+- **Hardware**: iLoud MTM MKII (USD 399) offers integration appeal but KRK Rokit 5 G4 (USD 149) provides higher CP
 - **Mobile**: iRig series provides unique value, optimal for mobile production
 
 **Alternative Comparisons**:
-- **Budget Priority**: Reaper (USD $60) + free plugin collection achieves equivalent functionality at significantly lower cost
+- **Budget Priority**: Reaper (USD 60) + free plugin collection achieves equivalent functionality at significantly lower cost
 - **High Quality Priority**: Specialized manufacturers (RME, Neumann, etc.) are technically superior
 - **Learning Priority**: IK products excel as music production introduction but intermediate+ users should consider other options
 

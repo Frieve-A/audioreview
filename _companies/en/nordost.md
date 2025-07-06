@@ -32,7 +32,7 @@ Regardless of the scientific validity of claimed sonic effects, Nordost products
 
 $$ \Large \text{0.0} $$
 
-Nordost product prices are extremely high. For example, their Red Dawn speaker cable (2m pair) exceeds $1,000 in the market. Meanwhile, speaker cables from brands like Canare and Mogami, which are standard in professional recording studios and excel in electrical characteristics (low resistance, low capacitance), can be purchased for mere dozens of dollars at equivalent lengths. No scientifically demonstrable performance difference exists between them. Based on the review policy definition of "price of world's cheapest equivalent performance product ÷ review target product price" and the guideline stating "if equivalent products exist at 1/20 or less the price, unhesitatingly rate 0.0," cost-performance is rated 0.0.
+Nordost product prices are extremely high. For example, their Red Dawn speaker cable (2m pair) exceeds USD 1,000 in the market. Meanwhile, speaker cables from brands like Canare and Mogami, which are standard in professional recording studios and excel in electrical characteristics (low resistance, low capacitance), can be purchased for mere dozens of dollars at equivalent lengths. No scientifically demonstrable performance difference exists between them. Based on the review policy definition of "price of world's cheapest equivalent performance product ÷ review target product price" and the guideline stating "if equivalent products exist at 1/20 or less the price, unhesitatingly rate 0.0," cost-performance is rated 0.0.
 
 ## Reliability & Support
 

@@ -7,7 +7,7 @@ lang: en
 ref: aful-performer8
 date: 2025-07-06
 rating: [3.7, 0.8, 0.8, 0.3, 0.8, 1.0]
-summary: "A luxury hybrid IEM featuring 7BA+1DD driver configuration at $369.99. Advanced acoustic technologies including 4-way crossover and RLC network achieve 5Hz-35kHz frequency response. Measurement performance is excellent, particularly the smooth treble extension rivals top-tier products in its price range. However, cost-performance suffers due to the emergence of ultra-budget IEMs like the CCA CRA at $15-20."
+summary: "A luxury hybrid IEM featuring 7BA+1DD driver configuration at USD 369.99. Advanced acoustic technologies including 4-way crossover and RLC network achieve 5Hz-35kHz frequency response. Measurement performance is excellent, particularly the smooth treble extension rivals top-tier products in its price range. However, cost-performance suffers due to the emergence of ultra-budget IEMs like the CCA CRA at USD 15-20."
 tags: [IEM, Hybrid, 7BA+1DD, China, High-Resolution]
 permalink: /products/en/aful-performer8/
 ---
@@ -16,7 +16,7 @@ permalink: /products/en/aful-performer8/
 
 The Aful Performer8 is a flagship IEM released in 2023 by Chinese audio manufacturer Aful. Featuring a sophisticated 8-driver configuration with seven balanced armature drivers and one 8mm dynamic driver, it aims to achieve both high resolution and natural tonality.
 
-At $369.99, the Performer8 competes directly with established mid-range IEMs like the Moondrop Blessing 2 ($319.99) and sits below premium options like the DUNU SA6 MK2 ($579). The IEM incorporates advanced acoustic technologies including RLC network frequency division correction, high-damping air-pressure balance technology, and 3D-printed acoustic tube structure. The smooth and extended treble response beyond 10kHz has earned praise from numerous reviewers.
+At USD 369.99, the Performer8 competes directly with established mid-range IEMs like the Moondrop Blessing 2 (USD 319.99) and sits below premium options like the DUNU SA6 MK2 (USD 579). The IEM incorporates advanced acoustic technologies including RLC network frequency division correction, high-damping air-pressure balance technology, and 3D-printed acoustic tube structure. The smooth and extended treble response beyond 10kHz has earned praise from numerous reviewers.
 
 ## Scientific Validity
 
@@ -34,7 +34,7 @@ The 7BA+1DD configuration controlled by a 4-way crossover represents advanced en
 
 $$ \Large \text{0.3} $$
 
-At $369.99, the Performer8 faces significant competition from much cheaper IEMs with comparable performance. The CCA CRA ($15) achieves excellent frequency response with a single dynamic driver and receives high praise from reviewers. The KZ ZSN Pro X (under $30) offers hybrid 1DD+1BA configuration with good performance. CP = $15 ÷ $369.99 = 0.04, but considering driver count and technology differences, we rate this 0.3 due to the excessive price premium relative to performance differences.
+At USD 369.99, the Performer8 faces significant competition from much cheaper IEMs with comparable performance. The CCA CRA (USD 15) achieves excellent frequency response with a single dynamic driver and receives high praise from reviewers. The KZ ZSN Pro X (under USD 30) offers hybrid 1DD+1BA configuration with good performance. CP = USD 15 ÷ USD 369.99 = 0.04, but considering driver count and technology differences, we rate this 0.3 due to the excessive price premium relative to performance differences.
 
 ## Reliability & Support
 
@@ -55,12 +55,12 @@ The Aful Performer8 is technically excellent but requires careful consideration 
 **Recommended for**:
 - Those interested in multi-driver IEM technology
 - Users prioritizing smooth, extended treble characteristics
-- Those with $370 budget seeking latest technology experience
+- Those with USD 370 budget seeking latest technology experience
 
 **Alternative Considerations**:
-- Budget-focused: CCA CRA ($15) or KZ ZSN Pro X (under $30)
-- Similar price range: Moondrop Blessing 2 ($319.99)
-- Higher price tier: DUNU SA6 MK2 ($579)
+- Budget-focused: CCA CRA (USD 15) or KZ ZSN Pro X (under USD 30)
+- Similar price range: Moondrop Blessing 2 (USD 319.99)
+- Higher price tier: DUNU SA6 MK2 (USD 579)
 
 While the absolute sound quality merits high praise, the rapid evolution of budget IEMs creates challenges for cost-performance evaluation. The purchase decision depends heavily on whether you prioritize absolute sound quality or price-to-performance ratio.
 

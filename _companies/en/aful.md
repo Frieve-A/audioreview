@@ -32,7 +32,7 @@ The 8-driver (1DD+7BA) hybrid configuration and patented RLC technology demonstr
 
 $$ \Large \text{0.6} $$
 
-The Performer8 (USD $369.99) faces strong competition at similar price points. KiwiEars KE4 (~USD $199) is evaluated as "one of the most easily recommended IEMs in 2024," offering excellent performance at half the price. Moondrop Blessing 3 (~USD $320) is considered technically superior while costing $50 less. Although the Performer8 is deemed "a new benchmark in its price range," comparison with KE4 yields CP = 199 ÷ 369.99 = 0.54, resulting in harsh cost-performance evaluation. While sonic advantages are recognized, the performance gap doesn't justify the price difference.
+The Performer8 (USD 369.99) faces strong competition at similar price points. KiwiEars KE4 (~USD 199) is evaluated as "one of the most easily recommended IEMs in 2024," offering excellent performance at half the price. Moondrop Blessing 3 (~USD 320) is considered technically superior while costing USD 50 less. Although the Performer8 is deemed "a new benchmark in its price range," comparison with KE4 yields CP = 199 ÷ 369.99 = 0.54, resulting in harsh cost-performance evaluation. While sonic advantages are recognized, the performance gap doesn't justify the price difference.
 
 ## Reliability & Support
 
@@ -48,6 +48,6 @@ The philosophy "Only Real Progress in Technology can bring Tangible benefits to 
 
 ## Advice
 
-While Aful maintains competent technical standards as an emerging manufacturer, careful consideration is necessary for cost-performance priorities. When considering the Performer8, recommend comparing with KiwiEars KE4 (~USD $199) and Moondrop Blessing 3 (~USD $320). Particularly, KE4 is evaluated as "the most easily recommended IEM in 2024" at half the price, making it the priority choice for price efficiency. Although Aful products receive sonic recognition, as a 6-year-old emerging company, long-term reliability remains unknown. Consider Aful only if RLC technology uniqueness provides value and emerging brand risks are acceptable. For greater certainty, prioritize established competitive products.
+While Aful maintains competent technical standards as an emerging manufacturer, careful consideration is necessary for cost-performance priorities. When considering the Performer8, recommend comparing with KiwiEars KE4 (~USD 199) and Moondrop Blessing 3 (~USD 320). Particularly, KE4 is evaluated as "the most easily recommended IEM in 2024" at half the price, making it the priority choice for price efficiency. Although Aful products receive sonic recognition, as a 6-year-old emerging company, long-term reliability remains unknown. Consider Aful only if RLC technology uniqueness provides value and emerging brand risks are acceptable. For greater certainty, prioritize established competitive products.
 
 (2025.7.6)

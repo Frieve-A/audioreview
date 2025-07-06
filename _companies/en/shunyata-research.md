@@ -35,7 +35,7 @@ $$ \Large \text{0.1} $$
 Shunyata Research products receive extremely low evaluation when calculated based on definition. The company's entry-level power cable with "noise reduction" function, the "Venom NR-V10," has an actual selling price of approximately USD 600. In contrast, professional/consumer products with similar AC power EMI/RFI noise filtering functions plus surge protection, such as the **Tripp Lite ISOBAR2-6**, sell for approximately USD 50. The ISOBAR2-6 clearly publishes noise attenuation specifications, making its functionality evident. For pure power supply capability, **12AWG hospital-grade power cords** with safety certifications (UL approved) are available for approximately USD 30, fully meeting the "high current supply" basic requirements claimed by Shunyata products.
 
 `CP = Price of world's cheapest product with equivalent function ÷ Review target product price`
-`CP = $50 (Tripp Lite) ÷ $600 (Venom NR-V10) ≈ 0.08`
+`CP = USD 50 (Tripp Lite) ÷ USD 600 (Venom NR-V10) ≈ 0.08`
 
 Therefore, the score is 0.1.
 

@@ -34,7 +34,7 @@ The company leverages advanced German precision manufacturing technology, with d
 
 $$ \Large \text{0.3} $$
 
-Comparing the Canton Reference 5 ($11,000 USD/pair) against competitive models reveals significant price premiums. The KEF R5 ($2,800 USD/pair, THD 0.1%@90dB, 87dB sensitivity) and Bowers & Wilkins 703 S3 ($6,000 USD/pair, THD 0.1%@90dB, 88dB sensitivity) offer comparable performance metrics. Given that the KEF R5 represents the world's lowest-cost option for equivalent 20Hz-40kHz frequency response and 88dB sensitivity, the CP calculation yields: CP = 2,800 ÷ 11,000 = 0.25. This indicates the Reference 5 costs approximately 4 times more than competitors for similar measured performance. While "Made in Germany" manufacturing quality and long-term support partially justify the premium, pure cost-performance metrics suggest room for improvement.
+Comparing the Canton Reference 5 (USD 11,000 USD/pair) against competitive models reveals significant price premiums. The KEF R5 (USD 2,800 USD/pair, THD 0.1%@90dB, 87dB sensitivity) and Bowers & Wilkins 703 S3 (USD 6,000 USD/pair, THD 0.1%@90dB, 88dB sensitivity) offer comparable performance metrics. Given that the KEF R5 represents the world's lowest-cost option for equivalent 20Hz-40kHz frequency response and 88dB sensitivity, the CP calculation yields: CP = 2,800 ÷ 11,000 = 0.25. This indicates the Reference 5 costs approximately 4 times more than competitors for similar measured performance. While "Made in Germany" manufacturing quality and long-term support partially justify the premium, pure cost-performance metrics suggest room for improvement.
 
 ## Reliability & Support
 

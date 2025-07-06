@@ -7,7 +7,7 @@ lang: en
 ref: truthear
 date: 2025-07-06
 rating: [3.9, 0.8, 0.7, 1.0, 0.7, 0.7]
-summary: "A Chinese IEM startup founded in 2022, gaining significant attention with measurement-based precision tuning in products like Crinacle×Zero, Hexa, and Zero:RED. Reportedly founded by ex-Moondrop engineers, the company releases low-cost, high-performance IEMs adhering to Harman target curves. The Zero:RED ($55) is rated as the best IEM under $100, achieving price-disruptive cost-performance. Despite being a newcomer, it poses a significant threat to established manufacturers."
+summary: "A Chinese IEM startup founded in 2022, gaining significant attention with measurement-based precision tuning in products like Crinacle×Zero, Hexa, and Zero:RED. Reportedly founded by ex-Moondrop engineers, the company releases low-cost, high-performance IEMs adhering to Harman target curves. The Zero:RED (USD 55) is rated as the best IEM under USD 100, achieving price-disruptive cost-performance. Despite being a newcomer, it poses a significant threat to established manufacturers."
 tags: [China, IEM, Startup, Crinacle, Measurement-focused]
 permalink: /companies/en/truthear/
 ---
@@ -16,7 +16,7 @@ permalink: /companies/en/truthear/
 
 Truthear is an emerging audio manufacturer founded in 2022 in Shenzhen, China. Within just two years of establishment, the company has made a significant impact on the industry. Their primary distinguishing feature is collaboration with renowned IEM reviewer Crinacle and a scientific tuning approach based on Harman target curves.
 
-One of the founders is reportedly an engineer from Moondrop, inheriting the successful pattern of measurement-focused design, anime-based marketing, and aggressive pricing strategies. The company debuted with the Zero, followed by highly-acclaimed releases including Hexa and Zero:RED. The Zero:RED, priced at $50, earned recognition as "the best IEM under $100," significantly disrupting industry pricing structures.
+One of the founders is reportedly an engineer from Moondrop, inheriting the successful pattern of measurement-focused design, anime-based marketing, and aggressive pricing strategies. The company debuted with the Zero, followed by highly-acclaimed releases including Hexa and Zero:RED. The Zero:RED, priced at USD 50, earned recognition as "the best IEM under USD 100," significantly disrupting industry pricing structures.
 
 ## Scientific Validity
 
@@ -34,7 +34,7 @@ Technically solid but limited in innovation. The Zero:RED's 10mm+7.8mm dual dyna
 
 $$ \Large \text{1.0} $$
 
-Cost-performance is industry-leading. The Zero:RED ($55) achieves performance levels unmatched by any other IEM at this price point, resulting in CP = $55 ÷ $55 = 1.0. The Hexa (under $100) delivers frequency response similar to the Moondrop Blessing 2 ($319.99) at less than one-third the price. The balance of measured performance, sound quality evaluation, and pricing represents one of the best values currently available. In the sub-$55 IEM market, it significantly outperforms traditional competitors like KZ/CCA.
+Cost-performance is industry-leading. The Zero:RED (USD 55) achieves performance levels unmatched by any other IEM at this price point, resulting in CP = USD 55 ÷ USD 55 = 1.0. The Hexa (under USD 100) delivers frequency response similar to the Moondrop Blessing 2 (USD 319.99) at less than one-third the price. The balance of measured performance, sound quality evaluation, and pricing represents one of the best values currently available. In the sub-USD 55 IEM market, it significantly outperforms traditional competitors like KZ/CCA.
 
 ## Reliability & Support
 
@@ -53,7 +53,7 @@ Design philosophy is rational but lacks originality. Harman target curve adheren
 Truthear represents one of the most noteworthy emerging audio manufacturers today. For those prioritizing cost-performance, the company's products offer optimal choices.
 
 **Strongly Recommended for**:
-- Those seeking maximum performance within $55-100 budgets
+- Those seeking maximum performance within USD 55-100 budgets
 - Users prioritizing objective sound quality based on measurement data
 - Those willing to accept startup company risks
 

@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="ja">
+<html lang="{{ page.lang | default: 'ja' }}">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -89,7 +89,26 @@
     </div>
   </footer>
 
+  <script>
+    // Embed language and strings data for JavaScript
+    window.siteLanguage = '{{ page.lang | default: "ja" }}';
+    window.tagFilterStrings = {
+      filterTitle: '{% if page.lang %}{{ site.data.strings[page.lang].filter_by_tags }}{% else %}{{ site.data.strings.ja.filter_by_tags }}{% endif %}',
+      selectedTags: '{% if page.lang %}{{ site.data.strings[page.lang].selected_tags }}{% else %}{{ site.data.strings.ja.selected_tags }}{% endif %}',
+      clearFilters: '{% if page.lang %}{{ site.data.strings[page.lang].clear_filters }}{% else %}{{ site.data.strings.ja.clear_filters }}{% endif %}',
+      region: '{% if page.lang %}{{ site.data.strings[page.lang].region }}{% else %}{{ site.data.strings.ja.region }}{% endif %}',
+      productCategory: '{% if page.lang %}{{ site.data.strings[page.lang].product_category }}{% else %}{{ site.data.strings.ja.product_category }}{% endif %}',
+      technologyFeatures: '{% if page.lang %}{{ site.data.strings[page.lang].technology_features }}{% else %}{{ site.data.strings.ja.technology_features }}{% endif %}',
+      purpose: '{% if page.lang %}{{ site.data.strings[page.lang].purpose }}{% else %}{{ site.data.strings.ja.purpose }}{% endif %}',
+      other: '{% if page.lang %}{{ site.data.strings[page.lang].other }}{% else %}{{ site.data.strings.ja.other }}{% endif %}',
+      companiesShowing: '{% if page.lang %}{{ site.data.strings[page.lang].companies_showing }}{% else %}{{ site.data.strings.ja.companies_showing }}{% endif %}',
+      productsShowing: '{% if page.lang %}{{ site.data.strings[page.lang].products_showing }}{% else %}{{ site.data.strings.ja.products_showing }}{% endif %}',
+      companiesAvailable: '{% if page.lang %}{{ site.data.strings[page.lang].companies_available }}{% else %}{{ site.data.strings.ja.companies_available }}{% endif %}',
+      productsAvailable: '{% if page.lang %}{{ site.data.strings[page.lang].products_available }}{% else %}{{ site.data.strings.ja.products_available }}{% endif %}'
+    };
+  </script>
   <script src="{{ '/assets/js/search.js' | relative_url }}"></script>
   <script src="{{ '/assets/js/gauge.js' | relative_url }}"></script>
+  <script src="{{ '/assets/js/tag-filter.js' | relative_url }}"></script>
 </body>
 </html>

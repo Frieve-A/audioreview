@@ -32,7 +32,7 @@ dCS technology level occupies the industry pinnacle. Rather than relying on off-
 
 $$ \Large \text{0.0} $$
 
-Cost-performance must be evaluated as 0.0. While dCS products boast exceptional performance, their prices are extremely high. The Rossini APEX DAC ($32,800, THD+N -120dB, SNR 125dB) faces competition from the equivalent Topping D90SE ($900, THD+N -120dB, SNR 125dB), yielding CP = $900 ÷ $32,800 = 0.027. With equivalent products available at 1/20th the price (1/36th), the score becomes 0.0 based on review policy. dCS value lies in build quality, support infrastructure, and brand prestige, but pure performance-to-price ratios receive extremely low evaluation.
+Cost-performance must be evaluated as 0.0. While dCS products boast exceptional performance, their prices are extremely high. The Rossini APEX DAC (USD 32,800, THD+N -120dB, SNR 125dB) faces competition from the equivalent Topping D90SE (USD 900, THD+N -120dB, SNR 125dB), yielding CP = USD 900 ÷ USD 32,800 = 0.027. With equivalent products available at 1/20th the price (1/36th), the score becomes 0.0 based on review policy. dCS value lies in build quality, support infrastructure, and brand prestige, but pure performance-to-price ratios receive extremely low evaluation.
 
 ## Reliability & Support
 

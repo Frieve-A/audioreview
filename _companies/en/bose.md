@@ -38,7 +38,7 @@ Their proprietary speaker driver design and technology for reproducing rich bass
 
 $$ \Large \text{0.5} $$
 
-QuietComfort 45 ($350) equivalent measurement performance Chinese wireless headphones are sold for $170, so CP = $170 ÷ $350 = 0.48. QuietComfort Earbuds ($300) with equivalent THD+N 0.2% and frequency response has budget alternatives available for $150, so CP = $150 ÷ $300 = 0.5. SoundLink Revolve ($150) also has equivalent measurement performance products sold for $75, so CP = $75 ÷ $150 = 0.5.
+QuietComfort 45 (USD 350) equivalent measurement performance Chinese wireless headphones are sold for USD 170, so CP = USD 170 ÷ USD 350 = 0.48. QuietComfort Earbuds (USD 300) with equivalent THD+N 0.2% and frequency response has budget alternatives available for USD 150, so CP = USD 150 ÷ USD 300 = 0.5. SoundLink Revolve (USD 150) also has equivalent measurement performance products sold for USD 75, so CP = USD 75 ÷ USD 150 = 0.5.
 
 ## Reliability & Support
 

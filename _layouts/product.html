@@ -8,12 +8,6 @@ layout: default
     
     {% assign current_company_id = page.company_id %}
     {% assign parent_company = site.companies | where: 'company_id', current_company_id | where: 'lang', page.lang | first %}
-    {% if parent_company %}
-      <div class="parent-company">
-        <span class="company-label">{{ site.data.strings[page.lang].provided_by }}：</span>
-        <a href="{{ parent_company.url }}" class="company-link">{{ parent_company.target_name }}</a>
-      </div>
-    {% endif %}
 
     <!-- Gauge Charts -->
     {% if page.rating and page.rating.size >= 6 %}

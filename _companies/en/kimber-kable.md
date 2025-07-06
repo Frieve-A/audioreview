@@ -32,7 +32,7 @@ Kimber Kable's technical level is embodied in their proprietary braided construc
 
 $$ \Large \text{0.1} $$
 
-Cost-performance must be evaluated as extremely poor. For example, their representative speaker cable "8TC" sells for approximately $550 for an 8ft (about 2.4m) pair. Meanwhile, **Canare 4S11** (star-quad construction) and **Mogami W3103**, which enjoy tremendous trust in professional audio environments, achieve equivalent electrical characteristics (low resistance, low inductance) at far lower costs. Building equivalent length using Canare 4S11 with high-quality banana plugs costs under $40. This represents less than one-tenth the price of Kimber 8TC. From a pure signal transmission performance perspective, no justification exists for this price difference.
+Cost-performance must be evaluated as extremely poor. For example, their representative speaker cable "8TC" sells for approximately USD 550 for an 8ft (about 2.4m) pair. Meanwhile, **Canare 4S11** (star-quad construction) and **Mogami W3103**, which enjoy tremendous trust in professional audio environments, achieve equivalent electrical characteristics (low resistance, low inductance) at far lower costs. Building equivalent length using Canare 4S11 with high-quality banana plugs costs under USD 40. This represents less than one-tenth the price of Kimber 8TC. From a pure signal transmission performance perspective, no justification exists for this price difference.
 
 `CP = Price of world's cheapest equivalent performance product ÷ Review target product price`
 `CP = 40 (Canare 4S11 DIY) ÷ 550 (Kimber 8TC) ≈ 0.07`

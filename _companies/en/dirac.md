@@ -32,15 +32,15 @@ They possess industry-leading technology. While many inexpensive room correction
 
 $$ \Large \text{0.7} $$
 
-Dirac's technology is provided as software licensing, with pricing that is not inexpensive. For example, PC/Mac full-range stereo version licenses are sold at approximately $349. However, considering their effects, achieving equivalent improvements through physical room tuning would cost far more, making it reasonable from one perspective.
+Dirac's technology is provided as software licensing, with pricing that is not inexpensive. For example, PC/Mac full-range stereo version licenses are sold at approximately USD 349. However, considering their effects, achieving equivalent improvements through physical room tuning would cost far more, making it reasonable from one perspective.
 
-The most affordable alternative with equivalent performance is the combination of free measurement software **REW (Room EQ Wizard)** with **miniDSP 2x4 HD** (approximately $225 retail) and measurement microphone **UMIK-1** (approximately $79 retail). This $304 configuration enables frequency response and limited phase correction at levels approaching Dirac, though requiring manual operation.
+The most affordable alternative with equivalent performance is the combination of free measurement software **REW (Room EQ Wizard)** with **miniDSP 2x4 HD** (approximately USD 225 retail) and measurement microphone **UMIK-1** (approximately USD 79 retail). This USD 304 configuration enables frequency response and limited phase correction at levels approaching Dirac, though requiring manual operation.
 
-Considering that the **miniDSP DDRC-24** with Dirac Live is sold for $499, the added value of automatic correction and impulse response correction can be evaluated at $195.
+Considering that the **miniDSP DDRC-24** with Dirac Live is sold for USD 499, the added value of automatic correction and impulse response correction can be evaluated at USD 195.
 
-`CP = $304 (REW+miniDSP) ÷ $499 (DDRC-24) = 0.61`
+`CP = USD 304 (REW+miniDSP) ÷ USD 499 (DDRC-24) = 0.61`
 
-However, AV amplifiers with standard Dirac Live (such as Onkyo TX-RZ50, approximately $1,399 retail) also exist, broadening the options. Here we evaluated the software's standalone value to determine the score.
+However, AV amplifiers with standard Dirac Live (such as Onkyo TX-RZ50, approximately USD 1,399 retail) also exist, broadening the options. Here we evaluated the software's standalone value to determine the score.
 
 ## Reliability & Support
 

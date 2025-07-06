@@ -268,9 +268,89 @@ class ReviewValidator:
                                     issues.append(f"Displayed score ({displayed_score}) in section '{section}' does not match rating score ({actual_score})")
                         else:
                             issues.append(f"Score display not found in section '{section}'")
+            
+            # Check for potential LaTeX issues caused by unescaped USD symbols
+            issues.extend(self.validate_latex_issues(content))
         
         except Exception as e:
             issues.append(f"Error occurred during content structure validation: {e}")
+        
+        return issues
+    
+    def validate_latex_issues(self, content: str) -> List[str]:
+        """Check for potential LaTeX issues caused by USD symbols"""
+        issues = []
+        
+        # Extract content after front matter
+        end_match = re.search(r'\n---\n', content)
+        if end_match:
+            body_content = content[end_match.end():]
+        else:
+            body_content = content
+        
+        # Find isolated dollar signs that could be mistaken for LaTeX
+        # Pattern: $ followed by text/numbers, not part of LaTeX expressions
+        dollar_pattern = r'(?<!\$)\$(?!\$)(?![\\])[^$\n]*?(?<![\\])\$(?!\$)'
+        
+        # Also check for single $ signs that might be intended as USD
+        single_dollar_pattern = r'(?<!\$)\$(?!\$)(?![\\{])'
+        
+        # Find all matches
+        latex_matches = re.finditer(dollar_pattern, body_content)
+        single_dollar_matches = re.finditer(single_dollar_pattern, body_content)
+        
+        # Check for potential LaTeX expressions
+        for match in latex_matches:
+            matched_text = match.group()
+            # Skip if it's actually a proper LaTeX expression
+            if not (r'\Large' in matched_text or r'\text{' in matched_text or r'\{' in matched_text):
+                line_num = body_content[:match.start()].count('\n') + 1
+                issues.append(f"Potential LaTeX issue detected at line {line_num}: '{matched_text}' (Consider escaping dollar signs for USD)")
+        
+        # Check for single dollar signs that might be USD
+        for match in single_dollar_matches:
+            line_num = body_content[:match.start()].count('\n') + 1
+            context_start = max(0, match.start() - 20)
+            context_end = min(len(body_content), match.end() + 20)
+            context = body_content[context_start:context_end].strip()
+            
+            # Skip if it's part of a LaTeX expression
+            if not (r'\Large' in context or r'\text{' in context):
+                issues.append(f"Single dollar sign detected at line {line_num}: '{context}' (Consider escaping as \\$ if intended as USD)")
+        
+        return issues
+
+    def validate_summary_latex_issues(self, text: str) -> List[str]:
+        """Check for potential LaTeX issues caused by USD symbols in summary or other metadata"""
+        issues = []
+        
+        # Find isolated dollar signs that could be mistaken for LaTeX
+        # Pattern: $ followed by text/numbers, not part of LaTeX expressions
+        dollar_pattern = r'(?<!\$)\$(?!\$)(?![\\])[^$\n]*?(?<![\\])\$(?!\$)'
+        
+        # Also check for single $ signs that might be intended as USD
+        single_dollar_pattern = r'(?<!\$)\$(?!\$)(?![\\{])'
+        
+        # Find all matches
+        latex_matches = re.finditer(dollar_pattern, text)
+        single_dollar_matches = re.finditer(single_dollar_pattern, text)
+        
+        # Check for potential LaTeX expressions
+        for match in latex_matches:
+            matched_text = match.group()
+            # Skip if it's actually a proper LaTeX expression
+            if not (r'\Large' in matched_text or r'\text{' in matched_text or r'\{' in matched_text):
+                issues.append(f"Potential LaTeX issue detected in summary: '{matched_text}' (Consider escaping dollar signs for USD)")
+        
+        # Check for single dollar signs that might be USD
+        for match in single_dollar_matches:
+            context_start = max(0, match.start() - 20)
+            context_end = min(len(text), match.end() + 20)
+            context = text[context_start:context_end].strip()
+            
+            # Skip if it's part of a LaTeX expression
+            if not (r'\Large' in context or r'\text{' in context):
+                issues.append(f"Single dollar sign detected in summary: '{context}' (Consider escaping as \\$ if intended as USD)")
         
         return issues
     
@@ -285,7 +365,7 @@ class ReviewValidator:
             review = self.parse_review_file(file_path)
             
             if review is None:
-                print(f"  ⚠️  Failed to parse")
+                print(f"  [WARNING] Failed to parse")
                 continue
             
             # Execute various validations
@@ -293,17 +373,19 @@ class ReviewValidator:
             issues.extend(self.validate_score_consistency(review))
             issues.extend(self.validate_policy_compliance(review))
             issues.extend(self.validate_content_structure(review))
+            # Check for USD symbol issues in summary
+            issues.extend(self.validate_summary_latex_issues(review.summary))
             
             review.issues = issues
             self.reviews.append(review)
             
             # Display results
             if issues:
-                print(f"  ❌ Issues found: {len(issues)}")
+                print(f"  [ERROR] Issues found: {len(issues)}")
                 for issue in issues:
                     print(f"    - {issue}")
             else:
-                print(f"  ✅ Validation OK")
+                print(f"  [OK] Validation OK")
     
     def generate_report(self) -> str:
         """Generate validation result report"""
@@ -339,6 +421,8 @@ class ReviewValidator:
                     category = "Format Error"
                 elif "placement" in issue.lower() or "配置" in issue:
                     category = "File Placement Error"
+                elif "latex" in issue.lower() or "dollar" in issue.lower():
+                    category = "LaTeX/USD Symbol Error"
                 else:
                     category = "Other"
                 
@@ -376,22 +460,21 @@ class ReviewValidator:
             report.append("4. **Format Error**: Correctly set formats for dates, permalinks, etc.")
         if "File Placement Error" in issue_categories:
             report.append("5. **File Placement Error**: Place company reviews under _companies/ and product reviews under _products/")
+        if "LaTeX/USD Symbol Error" in issue_categories:
+            report.append("6. **LaTeX/USD Symbol Error**: Escape dollar signs with backslash (\\$) when referring to USD to prevent LaTeX rendering issues")
         
         return "\n".join(report)
     
-    def save_report(self, filename: str = "review_validation_report.md") -> None:
-        """Save report to file"""
+    def print_report(self) -> None:
+        """Print report to console"""
         report_content = self.generate_report()
-        report_path = self.base_path / filename
-        
-        with open(report_path, 'w', encoding='utf-8') as f:
-            f.write(report_content)
-        
-        print(f"\n📄 Report saved: {report_path}")
+        print("\n" + "="*60)
+        print(report_content)
+        print("="*60)
 
 def main():
     """Main function"""
-    print("🔍 Starting audio review integrity check...")
+    print("[INFO] Starting audio review integrity check...")
     
     # Execute validation in current directory or specified directory
     validator = ReviewValidator()
@@ -399,11 +482,10 @@ def main():
     # Validate all review files
     validator.validate_all_reviews()
     
-    # Generate and save report
-    validator.save_report()
+    # Generate and print report
+    validator.print_report()
     
-    print("\n✅ Validation complete!")
-    print("Please check review_validation_report.md for details.")
+    print("\n[INFO] Validation complete!")
 
 if __name__ == "__main__":
     main()

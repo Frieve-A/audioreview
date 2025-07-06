@@ -14,7 +14,7 @@ permalink: /companies/en/luxman/
 
 ## Overview
 
-Founded in 1925, Luxman is a venerable Japanese audio manufacturer operating under the slogan "Seeking higher sound quality." The company specializes in luxury integrated amplifiers, power amplifiers, and preamplifiers, with flagship products including the L-509X (approximately $6,667) and L-595A Special Edition (approximately $8,667). These integrated amplifiers feature proprietary ODNF (Only Distortion Negative Feedback) technology and LECUA1000 electronic controlled attenuator, demonstrating high technical competence.
+Founded in 1925, Luxman is a venerable Japanese audio manufacturer operating under the slogan "Seeking higher sound quality." The company specializes in luxury integrated amplifiers, power amplifiers, and preamplifiers, with flagship products including the L-509X (approximately USD 6,667) and L-595A Special Edition (approximately USD 8,667). These integrated amplifiers feature proprietary ODNF (Only Distortion Negative Feedback) technology and LECUA1000 electronic controlled attenuator, demonstrating high technical competence.
 
 The company has expanded from vacuum tube amplifiers to solid-state Class A designs, establishing a strong foothold in Japan's luxury audio market. Their distinctive aesthetic, featuring VU meters and tone controls, revives classic audio equipment design for modern applications.
 
@@ -34,7 +34,7 @@ Nine decades of accumulated engineering expertise result in commendable design a
 
 $$ \Large \text{0.0} $$
 
-The L-509X ($6,667, THD 0.007%, 120W+120W/8Ω) faces competition from the equivalent Topping LA90 Discrete ($533, THD 0.0007%, 200W+200W/8Ω), yielding CP = $533 ÷ $6,667 = 0.08. The L-595A Special Edition ($8,667, 30W+30W pure Class A) competes with the Topping PA5 Plus ($167, THD+N 0.0004%, 80W+80W/8Ω) providing sufficient performance, yielding CP = $167 ÷ $8,667 = 0.019. Both products have equivalent alternatives at 1/20th or less of their price, resulting in a 0.0 score based on review policy.
+The L-509X (USD 6,667, THD 0.007%, 120W+120W/8Ω) faces competition from the equivalent Topping LA90 Discrete (USD 533, THD 0.0007%, 200W+200W/8Ω), yielding CP = USD 533 ÷ USD 6,667 = 0.08. The L-595A Special Edition (USD 8,667, 30W+30W pure Class A) competes with the Topping PA5 Plus (USD 167, THD+N 0.0004%, 80W+80W/8Ω) providing sufficient performance, yielding CP = USD 167 ÷ USD 8,667 = 0.019. Both products have equivalent alternatives at 1/20th or less of their price, resulting in a 0.0 score based on review policy.
 
 ## Reliability & Support
 
@@ -52,10 +52,10 @@ Basic amplification circuit design follows sound electronic engineering principl
 
 Luxman products represent the pinnacle of Japanese craftsmanship and engineering expertise, but lack competitiveness in pure performance-to-price ratios.
 
-- **Budget-conscious buyers**: With a $6,667 budget for the L-509X, consider the equivalent Topping LA90 Discrete ($533) plus high-quality preamplifier ($200), achieving superior performance while saving $5,934.
+- **Budget-conscious buyers**: With a USD 6,667 budget for the L-509X, consider the equivalent Topping LA90 Discrete (USD 533) plus high-quality preamplifier (USD 200), achieving superior performance while saving USD 5,934.
 - **Brand-oriented buyers**: If Japanese luxury aesthetics and traditional audio equipment design hold value, the L-509X merits consideration, though performance differences versus competitors are minimal.
 - **Technology enthusiasts**: For interest in ODNF technology or pure Class A operation, consider lower-priced alternatives with equivalent technologies from Pass Labs, Benchmark, and others.
 
-From purely performance and price perspectives, international manufacturers offer more rational choices than Luxman. The decision depends on whether Japanese tradition and craftsmanship justify the $6,000-8,500 premium.
+From purely performance and price perspectives, international manufacturers offer more rational choices than Luxman. The decision depends on whether Japanese tradition and craftsmanship justify the USD 6,000-8,500 premium.
 
 (2025.07.05)
