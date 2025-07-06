@@ -6,7 +6,7 @@ company_id: lumin
 lang: ja
 ref: lumin
 date: 2025-07-05
-rating: [2.4, 0.3, 0.7, 0.1, 0.8, 0.4]
+rating: [2.3, 0.3, 0.7, 0.1, 0.8, 0.4]
 summary: "香港発のネットワークストリーマー専門ブランド。独自のデジタルボリューム制御『Leedh Processing』を音質的優位性の根拠として挙げるが、その主張には客観的証拠が欠けている。科学的妥当性よりもマーケティングを優先する姿勢がうかがえ、機能に対する価格も極めて高く、推奨は困難。"
 tags: [香港, ネットワークオーディオ, ストリーマー, Roon, Leedh Processing]
 permalink: /companies/ja/lumin/

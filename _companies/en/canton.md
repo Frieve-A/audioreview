@@ -6,7 +6,7 @@ company_id: canton
 lang: en
 ref: canton
 date: 2025-07-05
-rating: [4.0, 0.8, 0.9, 0.3, 0.9, 1.0]
+rating: [3.9, 0.8, 0.9, 0.3, 0.9, 1.0]
 summary: "Germany's largest speaker manufacturer, established in 1972, with over 50 years of heritage. Their Reference Series features cutting-edge Black Ceramic (BC) technology drivers developed in-house. The company maintains strict quality standards through their manufacturing facilities in Weilrod, Germany, and the Czech Republic, staying true to their commitment to German engineering excellence."
 tags: [Germany, speakers, Black Ceramic, Reference Series, Weilrod]
 permalink: /companies/en/canton/

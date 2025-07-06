@@ -6,7 +6,7 @@ company_id: akg
 lang: en
 ref: akg
 date: 2025-07-05
-rating: [3.8, 0.9, 0.9, 0.3, 0.7, 0.9]
+rating: [3.7, 0.9, 0.9, 0.3, 0.7, 0.9]
 summary: "An Austrian audio equipment manufacturer founded in 1947. Leading the industry for many years with professional microphones and headphones, their reliability especially in studio monitoring applications is outstanding. Currently under Samsung, their technical legacy continues to be inherited in many products. Classic models like the K240 and K702 continue to be beloved in many music production settings today."
 tags: [Austria, Audio, Microphones, Studio, Professional]
 permalink: /companies/en/akg/

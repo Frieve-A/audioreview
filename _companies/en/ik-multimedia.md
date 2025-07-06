@@ -109,7 +109,7 @@ Over 25 years of business continuity, direct operations in 7 countries, and a ne
 
 However, specific hardware failure rate data and detailed warranty information remain limited, showing room for improvement compared to industry-leading standards.
 
-## Design Philosophy Rationality
+## Rationality of Design Philosophy
 
 $$ \Large \text{0.8} $$
 

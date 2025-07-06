@@ -6,7 +6,7 @@ company_id: devore-fidelity
 lang: en
 ref: devore-fidelity
 date: 2025-07-05
-rating: [3.3, 0.7, 0.8, 0.2, 0.9, 0.8]
+rating: [3.4, 0.7, 0.8, 0.2, 0.9, 0.8]
 summary: "Established in 2000, this American luxury audio manufacturer continues to handcraft speakers in Brooklyn. Their design based on founder John DeVore's musical sensibilities receives high praise particularly when paired with tube amplifiers. While technical perfection is high and reliability excellent, prices are extremely high, and pure measured performance alone may be inferior to competing products in the same price range. They are an attractive choice for users who value love of music."
 tags: [USA, speakers, high-efficiency, tubes, handmade, Brooklyn]
 permalink: /companies/en/devore-fidelity/

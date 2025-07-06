@@ -48,7 +48,7 @@ $$ \Large \text{0.6} $$
 
 IK Multimedia's business continuity of over 25 years and worldwide network of 15,000 dealers demonstrates a certain level of reliability. Reviews of the ARC Studio praise its operational stability, and the simple configuration due to standalone operation contributes to reducing failure factors. However, as dedicated hardware, there are concerns about repair support and long-term parts supply continuity in case of failure. Compared to software-centric approaches of competing products (such as Dirac Live), there are long-term support risks due to hardware dependency. With no published warranty periods or specific failure rate data, there is room for improvement compared to industry-leading reliability and support systems.
 
-## Design Philosophy Rationality
+## Rationality of Design Philosophy
 
 $$ \Large \text{0.7} $$
 

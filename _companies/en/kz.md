@@ -40,7 +40,7 @@ KZ's technical capabilities are steadily improving, demonstrating superiority pa
 
 ## Cost-Performance
 
-$$ \Large \text{0.8} $$
+$$ \Large \text{0.9} $$
 
 While KZ remains the market king in cost-performance, their stronghold is not as impregnable as before. Particularly in the ultra-low price range around USD 20, more refined competitors like 7Hz Salnotes Zero and Moondrop Chu II with superior tuning have emerged.
 

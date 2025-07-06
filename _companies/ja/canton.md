@@ -6,7 +6,7 @@ company_id: canton
 lang: ja
 ref: canton
 date: 2025-07-05
-rating: [4.0, 0.8, 0.9, 0.3, 0.9, 1.0]
+rating: [3.9, 0.8, 0.9, 0.3, 0.9, 1.0]
 summary: "1972年設立のドイツの老舗スピーカーメーカー。ドイツ国内最大のスピーカーメーカーとして50年以上の歴史を持ち、Reference Seriesでは独自のBlack Ceramic（BC）技術を投入した最先端ドライバーを開発。ドイツ・ヴァイルロットでの自社製造にこだわり、チェコ共和国の製造施設と合わせて高い品質基準を維持しています。"
 tags: [ドイツ, スピーカー, Black Ceramic, Reference Series, ヴァイルロット]
 permalink: /companies/ja/canton/
