@@ -4,8 +4,9 @@ title: "Esoteric 企業レビュー"
 target_name: "Esoteric"
 company_id: esoteric
 lang: ja
-ref: esoteric-review
+ref: esoteric
 date: 2025-07-05
+permalink: /companies/ja/esoteric/
 rating: [2.0, 0.3, 0.5, 0.1, 0.9, 0.2]
 summary: "日本のハイエンドオーディオを象徴するブランドですが、その評価は二分されます。物理的な作り込みや信頼性は業界最高クラスである一方、その核心技術であるVRDSメカニズム等は、現代のデジタル技術の前では忠実度向上への寄与が科学的に証明されていません。結果として、客観的な測定性能は価格に見合っておらず、特にコストパフォーマンスは破綻的です。性能よりも、工芸品としての価値やブランドの物語性を重視するユーザー向けの製品と言えます。"
 tags: [日本, ハイエンドオーディオ, SACD, DAC, アンプ]

@@ -891,6 +891,7 @@ a:hover {
 
 .home-card a:hover {
   background-color: #008833;
+  color: #FFFFFF;
 }
 
 /* NEW badge for recently updated items */

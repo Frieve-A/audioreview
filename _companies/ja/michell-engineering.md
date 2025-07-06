@@ -4,11 +4,12 @@ title: "Michell Engineering 企業レビュー"
 target_name: "Michell Engineering"
 company_id: michell-engineering
 lang: ja
-ref: michell-engineering-review
+ref: michell-engineering
 date: 2025-07-05
 rating: [1.8, 0.2, 0.4, 0.1, 0.8, 0.3]
 summary: "英国の著名なオーディオメーカー。精緻な機械工学と象徴的なデザインで知られますが、その技術は物理的に性能限界の低いアナログレコードというメディアの欠点を補うことに特化しています。マスター音源への忠実度という絶対的な評価基準に基づけば、その性能は現代の標準的なデジタル再生に遠く及ばず、コストパフォーマンスは著しく低いと評価されます。製品は、性能ではなく趣味のプロセスや機械工芸品としての価値を求めるユーザーに限られます。"
 tags: [イギリス, アナログ, ターンテーブル, GyroDec, Orbe]
+permalink: /companies/ja/michell-engineering/
 ---
 ## 概要
 
