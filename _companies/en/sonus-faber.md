@@ -8,7 +8,7 @@ ref: sonus-faber
 date: 2025-07-05
 rating: [3.4, 0.6, 0.9, 0.1, 0.8, 1.0]
 summary: "An Italian high-end speaker manufacturer founded in 1983. Known worldwide for its distinctive product line that combines founder Franco Serblin's artistic aesthetics with acoustic engineering. Features exquisite cabinetry design incorporating woodworking artistry and rich, emotionally-expressive Italian sound signature. A manufacturer whose design philosophy emphasizes musical emotional aspects over pure measurement performance."
-tags: [Italy, speakers, high-end, art, woodworking, Franco Serblin]
+tags: [Italy, Speaker, high-end, art, woodworking, "Franco Serblin"]
 permalink: /companies/en/sonus-faber/
 ---
 

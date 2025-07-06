@@ -8,7 +8,7 @@ ref: dynaudio
 date: 2025-07-05
 rating: [3.9, 0.8, 0.9, 0.5, 0.8, 0.9]
 summary: "Danish speaker manufacturer founded in 1977. Known for proprietary driver development and strict quality control, adopted as standard equipment in many professional studios. Offers wide product range from home to professional use, particularly acclaimed for beautiful mid-high frequency reproduction and natural acoustic characteristics. While technically advanced, pure performance-to-price ratio is expensive."
-tags: [Danish, Speakers, Professional, Audio, High-quality]
+tags: [Danish, Speaker, Professional, Audio, High-quality]
 permalink: /companies/en/dynaudio/
 ---
 

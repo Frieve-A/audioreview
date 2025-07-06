@@ -8,7 +8,7 @@ ref: yg-acoustics
 date: 2025-07-05
 rating: [3.7, 0.8, 0.9, 0.4, 0.8, 0.8]
 summary: "Founded in 2002 by 24-year-old Yoav Geva in Denver, Colorado, this high-end speaker manufacturer is renowned for its BilletCore technology that machines 99% of aircraft-grade aluminum from massive blocks. Entry-level Tor starts at USD 15,250, while flagship Gemini exceeds USD 670,000. Since 2020, the company has established R&D facilities in Cambridge, UK, promoting optimization through computational modeling. While boasting extremely high technical capabilities and measurement performance, prices are also at the world's highest level."
-tags: [USA, High-End, Speakers, Aluminum, CNC Machining]
+tags: [USA, High-End, Speaker, Aluminum, "CNC Machining"]
 permalink: /companies/en/yg-acoustics/
 ---
 

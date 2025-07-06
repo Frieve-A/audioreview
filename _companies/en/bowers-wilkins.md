@@ -8,7 +8,7 @@ ref: bowers-wilkins
 date: 2025-07-05
 rating: [3.6, 0.8, 0.9, 0.2, 0.8, 0.9]
 summary: "Premium British speaker manufacturer founded in 1966. Operates across professional applications from cinemas to recording studios, as well as high-end audiophile products. The diamond tweeters of the 800 series are an iconic industry symbol. Recently expanded into wireless headphones and smart speakers, maintaining its traditional audio brand status while adapting to modern lifestyle needs."
-tags: [British, Speakers, High-end, Diamond Tweeter, Professional]
+tags: [British, Speaker, High-end, "Diamond Tweeter", Professional]
 permalink: /companies/en/bowers-wilkins/
 ---
 

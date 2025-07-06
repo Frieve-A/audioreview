@@ -8,7 +8,7 @@ ref: elac
 date: 2025-07-05
 rating: [4.3, 0.9, 1.0, 0.6, 0.9, 0.9]
 summary: "A veteran German audio equipment manufacturer established in 1926. Known as an innovator in acoustic technology from its founding, particularly as a worldwide pioneer in the development of concentric (coaxial) drivers. In recent years, with the participation of renowned speaker designer Andrew Jones, they have developed a product lineup with excellent cost-performance. One of the few manufacturers that successfully balances technical advancement with accessible pricing."
-tags: [Germany, Speakers, Concentric, Andrew Jones, Coaxial Drivers]
+tags: [Germany, Speaker, Concentric, "Andrew Jones", "Coaxial Drivers"]
 permalink: /companies/en/elac/
 ---
 

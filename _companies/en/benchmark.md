@@ -8,7 +8,7 @@ ref: benchmark
 date: 2025-07-05
 rating: [4.2, 1.0, 1.0, 0.4, 0.9, 0.9]
 summary: "Founded in 1985 in Syracuse, New York, this American audio equipment manufacturer is operated by a hybrid team of musicians, audiophiles, and professional audio engineers. Pursuing measurement-grade ultra-low distortion and noise performance, they established new 'reference' standards with products like the DAC3 series and AHB2 power amplifier, achieving overwhelming cost-performance at 1/16th the price of dCS while earning Stereophile's Digital Component of the Year finalist status."
-tags: [America, DAC, amplifier, reference, measurement-grade]
+tags: [America, DAC, amplifier, Reference, measurement-grade]
 permalink: /companies/en/benchmark/
 ---
 

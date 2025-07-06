@@ -8,7 +8,7 @@ ref: dcs
 date: 2025-07-05
 rating: [4.0, 1.0, 1.0, 0.0, 1.0, 1.0]
 summary: "The pinnacle of British digital audio technology. Armed with proprietary FPGA-based 'Ring DAC™' technology, dCS continuously pushes the limits of measured performance. Their sound represents the crystallization of engineering dedicated to achieving the most faithful reproduction possible to master sources. However, the astronomical cost of achieving this exceptional performance results in zero cost-performance evaluation, as equivalent measured performance exists at 1/30th the price."
-tags: [Britain, DAC, digital, high-end, Ring DAC]
+tags: [Britain, DAC, Digital, high-end, "Ring DAC"]
 permalink: /companies/en/dcs/
 ---
 

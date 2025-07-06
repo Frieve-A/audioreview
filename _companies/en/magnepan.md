@@ -8,7 +8,7 @@ ref: magnepan
 date: 2025-07-05
 rating: [3.0, 0.8, 0.8, 0.1, 0.6, 0.7]
 summary: "An American pioneer that has been innovating planar magnetic speakers in Minnesota for 55 years since its founding in 1969. The Magneplanar technology developed by founder Jim Winey in his basement realizes the openness and spatial reproduction that cannot be achieved with box speakers. Recent introduction of Quasi-ribbon technology has achieved even lower distortion rates. However, when compared purely by acoustic measurement performance, they are approximately 10 times more expensive than conventional speakers with equivalent performance, making cost-performance limited."
-tags: [America, Speaker, Planar-magnetic, Audiophile, Minnesota]
+tags: [America, Speaker, "Planar Magnetic", Audiophile, Minnesota]
 permalink: /companies/en/magnepan/
 ---
 

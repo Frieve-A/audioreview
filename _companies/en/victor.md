@@ -8,7 +8,7 @@ ref: victor
 date: 2025-07-06
 rating: [3.4, 0.9, 0.8, 0.5, 0.8, 0.4]
 summary: "A veteran Japanese audio manufacturer known for their unique 'Wood Cone' speakers. While the natural acoustics produced by wooden diaphragms are highly regarded, they face challenges in modern cost-performance competition. A brand that shines in niche markets pursuing specific sounds."
-tags: [Japan, audio, speakers]
+tags: [Japan, audio, Speaker]
 permalink: /companies/en/victor/
 ---
 

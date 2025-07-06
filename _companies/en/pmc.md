@@ -8,7 +8,7 @@ ref: pmc
 date: 2025-07-05
 rating: [3.5, 0.8, 0.9, 0.1, 0.8, 0.9]
 summary: "Professional monitor speaker specialist established in the UK in 1991. Utilizes proprietary ATL (Advanced Transmission Line) technology to achieve deep, controlled bass reproduction from compact enclosures. Adopted by major studios worldwide including BBC and Metropolis Mastering. While technically advanced, cost-performance is extremely poor as equivalent-performance products are available at significantly lower prices."
-tags: [UK, studio monitors, professional, transmission line, BBC]
+tags: [UK, "studio monitors", Professional, "transmission line", BBC]
 permalink: /companies/en/pmc/
 ---
 

@@ -6,7 +6,7 @@ company_id: lumin
 lang: en
 ref: lumin
 date: 2025-07-06
-rating: [2.4, 0.3, 0.7, 0.1, 0.8, 0.5]
+rating: [2.3, 0.3, 0.7, 0.1, 0.8, 0.4]
 summary: "Hong Kong-based network streamer specialist brand. Claims proprietary digital volume control 'Leedh Processing' as evidence of sonic superiority, but lacks objective evidence for these claims. Shows a tendency to prioritize marketing over scientific validity, with extremely high pricing relative to functionality, making recommendation difficult."
 tags: [Hong Kong, Network Audio, Streamer, Roon, Leedh Processing]
 permalink: /companies/en/lumin/
@@ -48,7 +48,7 @@ Software stability and continuous firmware updates receive reasonable evaluation
 
 ## Rationality of Design Philosophy
 
-$$ \Large \text{0.5} $$
+$$ \Large \text{0.4} $$
 
 Some rational design philosophy is evident, such as separating power supplies for noise control. However, significant questions exist regarding core technology selection and marketing methods that should support product value.
 

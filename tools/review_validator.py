@@ -43,6 +43,9 @@ class ReviewData:
     
     # Validation results
     issues: List[str] = field(default_factory=list)
+    
+    # Product identifier for cross-language comparison
+    product_id: str = ""
 
 class ReviewValidator:
     """Review file validation class"""
@@ -108,6 +111,32 @@ class ReviewValidator:
         
         return sorted(files)
     
+    def _extract_product_id(self, file_path: str) -> str:
+        """Extract product identifier from file path for cross-language comparison"""
+        path = Path(file_path)
+        parts = path.parts
+        
+        # For product reviews: _products/[lang]/[company]/[product].md
+        if "_products" in parts:
+            # Find the index of _products
+            products_index = parts.index("_products")
+            if len(parts) > products_index + 3:
+                # Extract company and product name
+                company = parts[products_index + 2]
+                product_file = parts[products_index + 3]
+                product_name = product_file.replace('.md', '')
+                return f"{company}/{product_name}"
+        
+        # For company reviews: _companies/[lang]/[company].md
+        elif "_companies" in parts:
+            companies_index = parts.index("_companies")
+            if len(parts) > companies_index + 2:
+                company_file = parts[companies_index + 2]
+                company_name = company_file.replace('.md', '')
+                return f"company/{company_name}"
+        
+        return ""
+
     def parse_review_file(self, file_path: str) -> Optional[ReviewData]:
         """Parse review file and create ReviewData object"""
         try:
@@ -148,6 +177,9 @@ class ReviewValidator:
                 tags=metadata.get('tags', []),
                 permalink=metadata.get('permalink', '')
             )
+            
+            # Extract product ID for cross-language comparison
+            review.product_id = self._extract_product_id(file_path)
             
             # Convert rating to float
             if isinstance(review.rating, list) and len(review.rating) >= 1:
@@ -354,6 +386,44 @@ class ReviewValidator:
         
         return issues
     
+    def validate_score_consistency_between_languages(self) -> List[str]:
+        """Check score consistency between Japanese and English reviews of the same product"""
+        issues = []
+        
+        # Group reviews by product ID
+        product_reviews = {}
+        for review in self.reviews:
+            if review.product_id:
+                if review.product_id not in product_reviews:
+                    product_reviews[review.product_id] = {}
+                product_reviews[review.product_id][review.lang] = review
+        
+        # Check for products with both Japanese and English reviews
+        for product_id, lang_reviews in product_reviews.items():
+            if 'ja' in lang_reviews and 'en' in lang_reviews:
+                ja_review = lang_reviews['ja']
+                en_review = lang_reviews['en']
+                
+                # Compare total scores
+                if abs(ja_review.total_score - en_review.total_score) > 0.01:
+                    issues.append(f"Cross-language score mismatch for {product_id}: "
+                                f"Japanese total score ({ja_review.total_score}) != "
+                                f"English total score ({en_review.total_score})")
+                
+                # Compare individual scores
+                if len(ja_review.individual_scores) == len(en_review.individual_scores):
+                    for i, (ja_score, en_score) in enumerate(zip(ja_review.individual_scores, en_review.individual_scores)):
+                        if abs(ja_score - en_score) > 0.01:
+                            issues.append(f"Cross-language score mismatch for {product_id} "
+                                        f"evaluation criterion {i+1}: "
+                                        f"Japanese score ({ja_score}) != English score ({en_score})")
+                elif len(ja_review.individual_scores) != len(en_review.individual_scores):
+                    issues.append(f"Cross-language evaluation criteria count mismatch for {product_id}: "
+                                f"Japanese ({len(ja_review.individual_scores)}) != "
+                                f"English ({len(en_review.individual_scores)})")
+        
+        return issues
+    
     def validate_all_reviews(self) -> None:
         """Validate all review files"""
         print("Searching for review files...")
@@ -386,6 +456,18 @@ class ReviewValidator:
                     print(f"    - {issue}")
             else:
                 print(f"  [OK] Validation OK")
+        
+        # Check cross-language score consistency after all reviews are processed
+        print("\n" + "="*50)
+        print("Checking cross-language score consistency...")
+        cross_lang_issues = self.validate_score_consistency_between_languages()
+        
+        if cross_lang_issues:
+            print(f"[ERROR] Cross-language issues found: {len(cross_lang_issues)}")
+            for issue in cross_lang_issues:
+                print(f"  - {issue}")
+        else:
+            print("[OK] Cross-language score consistency check passed")
     
     def generate_report(self) -> str:
         """Generate validation result report"""
@@ -399,10 +481,14 @@ class ReviewValidator:
         reviews_with_issues = len([r for r in self.reviews if r.issues])
         total_issues = sum(len(r.issues) for r in self.reviews)
         
+        # Cross-language consistency check
+        cross_lang_issues = self.validate_score_consistency_between_languages()
+        
         report.append("## Summary Statistics")
         report.append(f"- Reviews validated: {total_reviews}")
         report.append(f"- Reviews with issues: {reviews_with_issues}")
         report.append(f"- Total issues detected: {total_issues}")
+        report.append(f"- Cross-language consistency issues: {len(cross_lang_issues)}")
         report.append(f"- Compliance rate: {((total_reviews - reviews_with_issues) / total_reviews * 100):.1f}%")
         report.append("")
         
@@ -428,10 +514,21 @@ class ReviewValidator:
                 
                 issue_categories[category] = issue_categories.get(category, 0) + 1
         
+        # Add cross-language issues to categories
+        for issue in cross_lang_issues:
+            issue_categories["Cross-Language Score Mismatch"] = issue_categories.get("Cross-Language Score Mismatch", 0) + 1
+        
         if issue_categories:
             report.append("## Issue Classification")
             for category, count in sorted(issue_categories.items(), key=lambda x: x[1], reverse=True):
                 report.append(f"- {category}: {count} issues")
+            report.append("")
+        
+        # Cross-language consistency issues
+        if cross_lang_issues:
+            report.append("## Cross-Language Score Consistency Issues")
+            for issue in cross_lang_issues:
+                report.append(f"- {issue}")
             report.append("")
         
         # Detailed results
@@ -442,6 +539,7 @@ class ReviewValidator:
                     report.append(f"### {review.file_path}")
                     report.append(f"- Title: {review.title}")
                     report.append(f"- Language: {review.lang}")
+                    report.append(f"- Product ID: {review.product_id}")
                     report.append(f"- Rating: {review.rating}")
                     report.append("- Issues:")
                     for issue in review.issues:
@@ -449,20 +547,46 @@ class ReviewValidator:
                     report.append("")
         
         # Recommended improvement actions
-        report.append("## Recommended Improvement Actions")
-        if "Score Consistency Error" in issue_categories:
-            report.append("1. **Score Consistency Error**: Fix so that the first value in rating matches the sum of the remaining 5 values")
-        if "Missing Required Elements" in issue_categories:
-            report.append("2. **Missing Required Elements**: Add required fields and sections listed in review_policy.md")
-        if "Score Range Error" in issue_categories:
-            report.append("3. **Score Range Error**: Set scores for each evaluation criterion within the range of 0.0-1.0")
-        if "Format Error" in issue_categories:
-            report.append("4. **Format Error**: Correctly set formats for dates, permalinks, etc.")
-        if "File Placement Error" in issue_categories:
-            report.append("5. **File Placement Error**: Place company reviews under _companies/ and product reviews under _products/")
-        if "LaTeX/USD Symbol Error" in issue_categories:
-            report.append("6. **LaTeX/USD Symbol Error**: Escape dollar signs with backslash (\\$) when referring to USD to prevent LaTeX rendering issues")
+        report.append("\n## Recommended Improvement Actions")
         
+        # Create a set of unique issue types for recommendations
+        issue_types = set()
+        for review in self.reviews:
+            for issue in review.issues:
+                # Extract the issue type (e.g., "Invalid rating array length")
+                match = re.match(r"^([A-Za-z\s/]+)", issue)
+                if match:
+                    issue_types.add(match.group(1).strip())
+        
+        # Generate improvement recommendations based on issue types
+        recommendations = {
+            "Invalid rating array length": "1. **Score Consistency**: Ensure rating array length matches policy requirements",
+            "Overall score and sum of individual evaluations do not match": "2. **Score Accuracy**: Verify that overall score equals the sum of individual evaluation scores",
+            "Score for evaluation criterion": "3. **Score Range**: Check that all scores are within the valid range (0.0-1.0)",
+            "Required field": "4. **Metadata Completeness**: Fill in all required metadata fields in the front matter",
+            "Invalid layout value": "5. **Layout Compliance**: Use only allowed layout values (e.g., 'company', 'product')",
+            "LaTeX/USD Symbol Error": "6. **LaTeX/USD Symbol Error**: Escape dollar signs with backslash (\\$) when referring to USD to prevent LaTeX rendering issues",
+            "Single dollar sign detected": "6. **LaTeX/USD Symbol Error**: Escape dollar signs with backslash (\\$) when referring to USD to prevent LaTeX rendering issues",
+            "Potential LaTeX issue detected": "6. **LaTeX/USD Symbol Error**: Escape dollar signs with backslash (\\$) when referring to USD to prevent LaTeX rendering issues"
+        }
+        
+        # Get unique recommendations
+        unique_recommendations = set()
+        for issue_type in issue_types:
+            for key, rec in recommendations.items():
+                if issue_type.startswith(key):
+                    unique_recommendations.add(rec)
+        
+        if unique_recommendations:
+            for i, rec in enumerate(sorted(list(unique_recommendations))):
+                report.append(rec)
+        
+        # If there are any LaTeX/USD symbol issues, add a note about the auto-fix script
+        has_usd_issue = any("LaTeX/USD Symbol Error" in rec for rec in unique_recommendations)
+        if has_usd_issue:
+            report.append("\nNote: Issues related to USD symbols ($) can be fixed automatically by running:")
+            report.append("python tools/fix_usd_symbols.py")
+
         return "\n".join(report)
     
     def print_report(self) -> None:
@@ -476,10 +600,10 @@ def main():
     """Main function"""
     print("[INFO] Starting audio review integrity check...")
     
-    # Execute validation in current directory or specified directory
-    validator = ReviewValidator()
+    # Create validator with default path (root directory)
+    validator = ReviewValidator(".")
     
-    # Validate all review files
+    # Run all validations
     validator.validate_all_reviews()
     
     # Generate and print report

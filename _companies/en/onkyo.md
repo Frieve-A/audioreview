@@ -8,7 +8,7 @@ ref: onkyo
 date: 2025-07-05
 rating: [3.5, 0.8, 0.7, 0.8, 0.5, 0.7]
 summary: "A veteran brand that has long led Japan's audio industry. Particularly in the AV amplifier field, they have led the market with rapid adoption of the latest formats and high cost-performance. After experiencing a major turning point with bankruptcy and business transfer in 2022, the brand continues under Premium Audio Company, which owns Klipsch and others. While their traditional acoustic technology and future development under new capital are noteworthy, the contrast between past glory and current organizational changes creates a divide in evaluation."
-tags: [Japan, AV amplifier, speakers, home theater, Premium Audio Company]
+tags: [Japan, "AV amplifier", Speaker, "home theater", "Premium Audio Company"]
 permalink: /companies/en/onkyo/
 ---
 
