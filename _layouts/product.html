@@ -7,7 +7,7 @@ layout: default
     <h1>{{ page.target_name }}</h1>
     
     {% assign current_company_id = page.company_id %}
-    {% assign parent_company = site.companies | where: 'company_id', current_company_id | first %}
+    {% assign parent_company = site.companies | where: 'company_id', current_company_id | where: 'lang', page.lang | first %}
     {% if parent_company %}
       <div class="parent-company">
         <span class="company-label">{{ site.data.strings[page.lang].provided_by }}：</span>

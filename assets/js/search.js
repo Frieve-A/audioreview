@@ -461,6 +461,18 @@ class SearchEngine {
     div.textContent = text;
     return div.innerHTML;
   }
+
+  getCurrentLanguage() {
+    // Get language from URL (/en/ or /ja/)
+    const path = window.location.pathname;
+    if (path.includes('/en/')) {
+      return 'en';
+    } else if (path.includes('/ja/')) {
+      return 'ja';
+    }
+    // Default to Japanese for root pages
+    return 'ja';
+  }
 }
 
 // Initialize search engine and sort manager after DOM is loaded
