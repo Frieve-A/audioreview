@@ -34,11 +34,11 @@ $$ \Large \text{0.6} $$
 
 The cost-performance evaluation of the ER4SR varies greatly depending on which features are valued.
 
-If focusing solely on pure sound quality (frequency response fidelity, low distortion), the USD 349 price is hard to justify when excellent, inexpensive products like the Moondrop CHU II (around USD 22) exist.
+If focusing solely on pure sound quality (frequency response fidelity, low distortion), the 349 USD price is hard to justify when excellent, inexpensive products like the Moondrop CHU II (around 22 USD) exist.
 
-However, the ER4SR's true value lies in its combination of ">35dB passive isolation comparable to custom IEMs" and "reference-grade measurement accuracy." While high-isolation products like the Shure SE215 (around USD 100, up to -37dB) and Etymotic's own ER2SE (around USD 100) exist, they don't undergo the same rigorous quality control (e.g., ±1dB channel matching).
+However, the ER4SR's true value lies in its combination of ">35dB passive isolation comparable to custom IEMs" and "reference-grade measurement accuracy." While high-isolation products like the Shure SE215 (around 100 USD, up to -37dB) and Etymotic's own ER2SE (around 100 USD) exist, they don't undergo the same rigorous quality control (e.g., ±1dB channel matching).
 
-If we define "equivalent function and performance" as both high isolation and measurement accuracy, the ER4SR becomes a unique product, and its cost-performance approaches 1.0. However, for many, "reference-grade accuracy" may be overkill. If "practically sufficient high isolation" is the only requirement, alternatives exist for around USD 100, leading to a calculation of `CP = $100 / $349 ≒ 0.29`.
+If we define "equivalent function and performance" as both high isolation and measurement accuracy, the ER4SR becomes a unique product, and its cost-performance approaches 1.0. However, for many, "reference-grade accuracy" may be overkill. If "practically sufficient high isolation" is the only requirement, alternatives exist for around 100 USD, leading to a calculation of `CP = 100 USD / 349 USD ≒ 0.29`.
 
 Here, we assign a score of 0.6, considering a middle ground and its reliability for professional use. The product's value is determined not just by sound quality, but by what one will pay for the physical function of isolation.
 
@@ -58,7 +58,7 @@ The ER4SR's design philosophy is based on an extremely rational approach that pr
 
 The ER4SR remains valuable for specific applications, but careful consideration is needed for general listening purposes. When considering purchase, I strongly recommend finding an opportunity to experience the deep-insertion fit firsthand. Many users cannot adapt to this fit and abandon use.
 
-For those prioritizing price-performance ratio, I recommend first trying lower-priced products like the Moondrop CHU II (USD 22) or CCA CRA (USD 15). These products offer sufficiently high basic sound quality performance, with the quality difference from the ER4SR not being as large as the price difference suggests.
+For those prioritizing price-performance ratio, I recommend first trying lower-priced products like the Moondrop CHU II (22 USD) or CCA CRA (15 USD). These products offer sufficiently high basic sound quality performance, with the quality difference from the ER4SR not being as large as the price difference suggests.
 
 The ER4SR truly shines in the following special situations: use in environments requiring extremely high isolation (aircraft, subways, etc.), studio monitoring work, or as a reference device for hearing tests. In these applications, the ER4SR's characteristics provide value that is difficult to replace with other products.
 

@@ -47,7 +47,15 @@ The four evaluation criteria other than cost performance (Scientific Validity, T
 - **0.2-0.4**: Poor
 - **0.0-0.2**: Significantly poor
 
+
 The overall rating is the sum of the five criteria, resulting in a maximum of 5.0 points and a minimum of 0.0 points.
+
+## Using the Company and Product Lists
+
+1. **Search**: Click the magnifying glass in the page header or the "Search" link in the navigation bar to open the search window. Enter at least two characters to search company names, product names, summaries, and tags.
+2. **Sorting**: Use the "Sort by" dropdown at the top of each list page. You can sort alphabetically, by update date, by overall rating, or by any individual metric. The selected sort order is reflected in the page URL so it can be bookmarked.
+3. **Tag Filtering**: Select "🏷️ Filter by Tags" to open the tag panel. Check one or more tags to narrow the list and use the AND/OR toggle to change the filtering logic. Selected tags are also stored in the URL for easy sharing.
+4. **Combining Features**: Tag filtering and sorting work together. For example, filter by the tags `Wireless` and `Noise-Cancelling` in **OR** mode and then sort by **Cost Performance (High to Low)** to quickly find affordable wireless noise‑cancelling models. Copying the page URL reproduces the same conditions later.
 
 ---
 

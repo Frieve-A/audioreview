@@ -36,13 +36,13 @@ On the other hand, its maximum battery life of 12 hours is inferior to competito
 
 $$ \Large \text{0.5} $$
 
-The cost-performance of the ULT FIELD 1 at its USD 130 MSRP must be rated as low.
+The cost-performance of the ULT FIELD 1 at its 130 USD MSRP must be rated as low.
 
-When comparing pure performance and price, the Anker Soundcore 3 is available for about USD 60. The Soundcore 3 offers very balanced sound quality for its price range, IPX7 waterproof performance, and double the battery life at 24 hours. While the ULT FIELD 1's bass-boosted sound is distinctive, it lacks a clear advantage in sound quality to justify the price difference, and in some aspects of overall performance, the Soundcore 3 is significantly superior.
+When comparing pure performance and price, the Anker Soundcore 3 is available for about 60 USD. The Soundcore 3 offers very balanced sound quality for its price range, IPX7 waterproof performance, and double the battery life at 24 hours. While the ULT FIELD 1's bass-boosted sound is distinctive, it lacks a clear advantage in sound quality to justify the price difference, and in some aspects of overall performance, the Soundcore 3 is significantly superior.
 
 Calculating the cost-performance based on this fact:
 
-`CP = $60 (Anker Soundcore 3) ÷ $130 (Sony ULT FIELD 1) ≈ 0.46`
+`CP = 60 USD (Anker Soundcore 3) ÷ 130 USD (Sony ULT FIELD 1) ≈ 0.46`
 
 The ULT bass boost function is not significantly different from a general loudness feature and does not add enough value to overturn this calculation. The fact that a product with comparable performance is available for less than half the price clearly indicates that this product's pricing is not aligned with its performance.
 
@@ -64,9 +64,9 @@ The ULT FIELD 1's design philosophy represents a rational approach focused on ma
 
 When considering the purchase of the ULT FIELD 1, its low cost-performance must be fully understood.
 
-If pure price-to-performance is the top priority, the Anker Soundcore 3 (approx. USD 60) is an overwhelmingly superior choice. It offers comparable sound quality and double the battery performance at less than half the price of the ULT FIELD 1.
+If pure price-to-performance is the top priority, the Anker Soundcore 3 (approx. 60 USD) is an overwhelmingly superior choice. It offers comparable sound quality and double the battery performance at less than half the price of the ULT FIELD 1.
 
-For those seeking higher performance in the same price range (around USD 130), the JBL Flip 6, which supports stereo playback and has richer codec support, should be considered.
+For those seeking higher performance in the same price range (around 130 USD), the JBL Flip 6, which supports stereo playback and has richer codec support, should be considered.
 
 The reasons to choose this product are extremely limited. Except for cases where you absolutely want to stay within the Sony ecosystem or if it is heavily discounted to a price close to the Anker Soundcore 3, there is no compelling reason to recommend it. While its basic performance is solid, its pricing is detached from the market reality, and many smarter alternatives exist.
 
