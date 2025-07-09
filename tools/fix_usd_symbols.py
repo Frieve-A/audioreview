@@ -179,7 +179,7 @@ def process_file(file_path):
 
 def main():
     """Main function"""
-    base_path = Path("..")
+    base_path = Path(".")
     
     # Find all markdown files in companies and products directories
     patterns = [

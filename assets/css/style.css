@@ -114,6 +114,15 @@ a:hover {
   font-weight: 400;
 }
 
+/* Section help text for UI guidance */
+.section-help-text {
+  font-size: 12px;
+  color: #777777;
+  margin: 8px 0 16px 0;
+  font-style: italic;
+  opacity: 0.8;
+}
+
 /* Page header layout */
 .page-header {
   display: flex;

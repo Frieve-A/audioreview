@@ -25,6 +25,7 @@ layout: default
     <h2>{{ site.data.strings[page.lang].latest_companies }}</h2>
     <a href="{% if page.lang %}{{ '/companies/' | append: page.lang | append: '/' | relative_url }}{% else %}{{ '/companies/' | relative_url }}{% endif %}">{{ site.data.strings[page.lang].view_more }}</a>
   </div>
+  <p class="section-help-text">{% if page.lang == 'ja' %}タイトルをクリックして詳細レビューを表示{% else %}Click the title to view detailed reviews{% endif %}</p>
   <div class="products-grid">
     {% assign filtered_companies = site.companies | where: 'lang', page.lang | sort: 'date' | reverse %}
     {% for company in filtered_companies limit:3 %}
@@ -60,6 +61,7 @@ layout: default
     <h2>{{ site.data.strings[page.lang].latest_products }}</h2>
     <a href="{% if page.lang %}{{ '/products/' | append: page.lang | append: '/' | relative_url }}{% else %}{{ '/products/' | relative_url }}{% endif %}">{{ site.data.strings[page.lang].view_more }}</a>
   </div>
+  <p class="section-help-text">{% if page.lang == 'ja' %}タイトルをクリックして詳細レビューを表示{% else %}Click the title to view detailed reviews{% endif %}</p>
   <div class="products-grid">
     {% assign filtered_products = site.products | where: 'lang', page.lang | sort: 'date' | reverse %}
     {% for product in filtered_products limit:3 %}

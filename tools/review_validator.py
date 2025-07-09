@@ -9,13 +9,15 @@ This script provides the following functionality:
 4. Generation of detailed validation reports
 
 Usage:
-    python review_validator.py
+    python review_validator.py                    # Validate all files
+    python review_validator.py -f path/to/file.md # Validate single file
 """
 
 import os
 import re
 import yaml
 import glob
+import argparse
 from pathlib import Path
 from typing import Dict, List, Optional, Tuple
 from dataclasses import dataclass, field
@@ -512,6 +514,19 @@ class ReviewValidator:
         files = self.find_review_files()
         print(f"Found {len(files)} files")
         
+        self._validate_files(files)
+    
+    def validate_single_file(self, file_path: str) -> None:
+        """Validate a single review file"""
+        if not os.path.exists(file_path):
+            print(f"[ERROR] File not found: {file_path}")
+            return
+        
+        print(f"Validating single file: {file_path}")
+        self._validate_files([file_path])
+    
+    def _validate_files(self, files: List[str]) -> None:
+        """Common validation logic for multiple files"""
         for file_path in files:
             review = self.parse_review_file(file_path)
             
@@ -538,16 +553,18 @@ class ReviewValidator:
                     print(f"    - {issue}")
         
         # Check cross-language score consistency after all reviews are processed
-        print("\n" + "="*50)
-        print("Checking cross-language score consistency...")
-        cross_lang_issues = self.validate_score_consistency_between_languages()
-        
-        if cross_lang_issues:
-            print(f"[ERROR] Cross-language issues found: {len(cross_lang_issues)}")
-            for issue in cross_lang_issues:
-                print(f"  - {issue}")
-        else:
-            print("[OK] Cross-language score consistency check passed")
+        # (only if we have multiple files)
+        if len(files) > 1:
+            print("\n" + "="*50)
+            print("Checking cross-language score consistency...")
+            cross_lang_issues = self.validate_score_consistency_between_languages()
+            
+            if cross_lang_issues:
+                print(f"[ERROR] Cross-language issues found: {len(cross_lang_issues)}")
+                for issue in cross_lang_issues:
+                    print(f"  - {issue}")
+            else:
+                print("[OK] Cross-language score consistency check passed")
     
     def generate_report(self) -> str:
         """Generate validation result report"""
@@ -692,13 +709,33 @@ class ReviewValidator:
 
 def main():
     """Main function"""
+    parser = argparse.ArgumentParser(
+        description='Audio Review Integrity Check Script',
+        formatter_class=argparse.RawDescriptionHelpFormatter,
+        epilog="""Examples:
+  python review_validator.py                           # Validate all files
+  python review_validator.py -f _companies/ja/sony.md # Validate single file
+  python review_validator.py --file ../path/to/file.md # Validate single file with relative path"""
+    )
+    
+    parser.add_argument(
+        '-f', '--file',
+        type=str,
+        help='Path to a single review file to validate'
+    )
+    
+    args = parser.parse_args()
+    
     print("[INFO] Starting audio review integrity check...")
     
     # Create validator with default path (root directory)
     validator = ReviewValidator(".")
     
-    # Run all validations
-    validator.validate_all_reviews()
+    # Run validation based on arguments
+    if args.file:
+        validator.validate_single_file(args.file)
+    else:
+        validator.validate_all_reviews()
     
     # Generate and print report
     validator.print_report()
