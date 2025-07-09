@@ -7,8 +7,8 @@ permalink: /products/
 <!-- Page header with title, count, and sort -->
 <div class="page-header">
   <div class="page-title-section">
-    <h1 class="page-title-with-search">製品一覧 (Coming soon) <span class="search-icon">🔍</span> <span class="review-count" id="result-count">{{ all_products.size }}{{ site.data.strings.ja.products_available }}</span></h1>
-    {% assign all_products = site.products | where: 'lang', 'ja' %}
+    <h1 class="page-title-with-search">製品一覧 <span class="search-icon">🔍</span> <span class="review-count" id="result-count">{{ all_products.size }}{{ site.data.strings.ja.products_available }}</span></h1>
+    {% assign all_products = site.products | where: 'lang', 'ja' | sort: 'date' | reverse %}
   </div>
   <div class="sort-controls">
     <label for="sort-select">{{ site.data.strings.ja.sort_by }}</label>
@@ -16,7 +16,7 @@ permalink: /products/
       <option value="name-asc">アルファベット順（昇順）</option>
       <option value="name-desc">アルファベット順（降順）</option>
       <option value="date-asc">更新日順（昇順）</option>
-      <option value="date-desc">更新日順（降順）</option>
+      <option value="date-desc" selected>更新日順（降順）</option>
       <option value="rating-asc">総合評価順（昇順）</option>
       <option value="rating-desc">総合評価順（降順）</option>
       <option value="scientific-asc">科学的有効性順（昇順）</option>
@@ -48,6 +48,12 @@ permalink: /products/
          data-reliability="{{ product.rating[4] | default: 0 }}"
          data-design="{{ product.rating[5] | default: 0 }}"
          data-tags="{% if product.tags %}{{ product.tags | join: ',' }}{% endif %}">
+      {% assign current_date = 'now' | date: '%s' %}
+      {% assign product_date = product.date | date: '%s' %}
+      {% assign days_diff = current_date | minus: product_date | divided_by: 86400 %}
+      {% if days_diff <= 3 %}
+        <span class="new-badge">NEW</span>
+      {% endif %}
       <h3><a href="{{ product.url }}">{{ product.target_name }}</a></h3>
       <div class="product-rating">
         <span class="rating-label" id="rating-label">総合評価</span>

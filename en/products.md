@@ -8,8 +8,8 @@ permalink: /products/en/
 <!-- Page header with title, count, and sort -->
 <div class="page-header">
   <div class="page-title-section">
-    <h1 class="page-title-with-search">{{ site.data.strings.en.products }} (Coming soon) <span class="search-icon">🔍</span> <span class="review-count" id="result-count">{{ all_products.size }} {{ site.data.strings.en.products_available }}</span></h1>
-    {% assign all_products = site.products | where: 'lang', 'en' %}
+    <h1 class="page-title-with-search">{{ site.data.strings.en.products }} <span class="search-icon">🔍</span> <span class="review-count" id="result-count">{{ all_products.size }} {{ site.data.strings.en.products_available }}</span></h1>
+    {% assign all_products = site.products | where: 'lang', 'en' | sort: 'date' | reverse %}
   </div>
   <div class="sort-controls">
     <label for="sort-select">{{ site.data.strings.en.sort_by }}</label>
@@ -17,7 +17,7 @@ permalink: /products/en/
       <option value="name-asc">Alphabetical (A-Z)</option>
       <option value="name-desc">Alphabetical (Z-A)</option>
       <option value="date-asc">Date Updated (Oldest)</option>
-      <option value="date-desc">Date Updated (Newest)</option>
+      <option value="date-desc" selected>Date Updated (Newest)</option>
       <option value="rating-asc">Overall Rating (Low to High)</option>
       <option value="rating-desc">Overall Rating (High to Low)</option>
       <option value="scientific-asc">Scientific Validity (Low to High)</option>
@@ -49,6 +49,12 @@ permalink: /products/en/
          data-reliability="{{ product.rating[4] | default: 0 }}"
          data-design="{{ product.rating[5] | default: 0 }}"
          data-tags="{% if product.tags %}{{ product.tags | join: ',' }}{% endif %}">
+      {% assign current_date = 'now' | date: '%s' %}
+      {% assign product_date = product.date | date: '%s' %}
+      {% assign days_diff = current_date | minus: product_date | divided_by: 86400 %}
+      {% if days_diff <= 3 %}
+        <span class="new-badge">NEW</span>
+      {% endif %}
       <h3><a href="{{ product.url }}">{{ product.target_name }}</a></h3>
       <div class="product-rating">
         <span class="rating-label" id="rating-label">Overall Rating</span>

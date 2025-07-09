@@ -483,16 +483,25 @@ class TagFilterManager {
     const clearButton = document.getElementById('clear-filters');
     const searchModeToggle = document.getElementById('search-mode-toggle');
     
+    // Check if elements exist before accessing their properties
     if (this.selectedTags.length > 0) {
-      selectedTagsDisplay.style.display = 'block';
-      clearButton.style.display = 'inline-block';
+      if (selectedTagsDisplay) {
+        selectedTagsDisplay.style.display = 'block';
+      }
+      if (clearButton) {
+        clearButton.style.display = 'inline-block';
+      }
       if (searchModeToggle && this.isExpanded) {
         searchModeToggle.style.display = 'flex';
       }
       this.renderSelectedTags();
     } else {
-      selectedTagsDisplay.style.display = 'none';
-      clearButton.style.display = 'none';
+      if (selectedTagsDisplay) {
+        selectedTagsDisplay.style.display = 'none';
+      }
+      if (clearButton) {
+        clearButton.style.display = 'none';
+      }
       if (searchModeToggle) {
         searchModeToggle.style.display = 'none';
       }

@@ -1,6 +1,6 @@
 ---
 layout: product
-title: "Acourate 製品レビュー"
+title: "AudioVero Acourate 製品レビュー"
 target_name: "Acourate"
 company_id: audiovero
 lang: ja

@@ -6,7 +6,7 @@ company_id: adam-audio
 lang: en
 ref: adam-audio
 date: 2025-07-05
-rating: [4.1, 0.8, 0.9, 0.6, 0.8, 1.0]
+rating: [4.2, 0.8, 0.9, 0.7, 0.8, 1.0]
 summary: "Berlin-based studio monitor specialist leveraging proprietary ART ribbon tweeter technology to achieve 4x the air movement of conventional piston speakers, delivering high SPL with ultra-low distortion. Their product lineup spans from professional studio environments to compact home studios with the D3V, serving diverse needs across the audio production spectrum."
 tags: [Germany, Studio Monitors, ART, Ribbon Tweeter, Berlin]
 permalink: /companies/en/adam-audio/
@@ -32,7 +32,7 @@ Adam Audio's technical standards rank among the industry's highest. Each generat
 
 ## Cost-Performance
 
-$$ \Large \text{0.6} $$
+$$ \Large \text{0.7} $$
 
 Based on WebSearch market price research for 2025:
 
@@ -42,8 +42,8 @@ Based on WebSearch market price research for 2025:
 - **D3V (pair)**: USD 300 (approximately 45,000 yen)
 
 **Competitor Pricing:**
-- **PreSonus Eris E5 (pair)**: USD 200 (approximately 30,000 yen, estimated)
-- **KRK Rokit 5 G4 (pair)**: USD 280 (approximately 42,000 yen)
+- **PreSonus Eris E5 (pair)**: USD 200 (30,000 yen, market research price)
+- **KRK Rokit 5 G4 (pair)**: USD 280 (42,000 yen, from USD 280 conversion)
 
 When compared to the most cost-effective equivalent products, even the entry-level D3V costs 1.5x the PreSonus Eris E5 (CP = USD 200 ÷ USD 300 = 0.67). The flagship A7V shows approximately 6x price differential against equivalent performance products (CP = USD 200 ÷ USD 1,217 = 0.16), resulting in low pure performance-to-price ratings.
 

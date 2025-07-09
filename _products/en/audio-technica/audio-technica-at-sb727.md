@@ -6,7 +6,7 @@ company_id: audio-technica
 lang: en
 ref: audio-technica-at-sb727
 date: 2025-07-07
-rating: [2.2, 0.7, 0.6, 0.4, 0.3, 0.2]
+rating: [2.5, 0.7, 0.6, 0.7, 0.3, 0.2]
 summary: "A modern revival of the 1980s portable turntable concept. While Bluetooth connectivity and built-in battery offer appealing portability, audio quality compromises are significant. At USD 200, stationary turntables provide superior performance. Appeals to nostalgia and convenience but unsuitable for serious audio applications."
 tags: [Audio-Technica, Portable Turntable, Bluetooth, Sound Burger, Retro]
 permalink: /products/en/audio-technica-at-sb727/
@@ -30,7 +30,7 @@ The AT-SB727 updates 1980s design with modern technology. Bluetooth 5.2, USB-C c
 
 ## Cost-Performance
 
-$$ \Large \text{0.4} $$
+$$ \Large \text{0.7} $$
 
 The AT-SB727 costs approximately USD 200, but the Sony PS-LX310BT (approximately USD 250, fully automatic, USB output, superior construction) exists in the same price range. For pure audio quality, the Audio-Technica AT-LP60X (approximately USD 150, stationary, more stable playback) is superior. CP = USD 150 ÷ USD 200 = 0.75, indicating poor cost-performance even considering portability as added value. For USD 200 invested in portable functionality, choosing a higher-quality stationary turntable would be more rational.
 

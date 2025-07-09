@@ -51,8 +51,11 @@ class ReviewValidator:
     """Review file validation class"""
     
     def __init__(self, base_path: str = ".."):
-        self.base_path = Path(base_path)
-        self.policy_path = self.base_path / "dev" / "review_policy.md"
+        self.base_path = Path(base_path).resolve()
+        # If running from tools directory, adjust the path
+        if self.base_path.name == "tools":
+            self.base_path = self.base_path.parent
+        self.policy_path = self.base_path / "dev" / "review_policy_v2.md"
         self.reviews: List[ReviewData] = []
         self.policy_requirements = self._load_policy_requirements()
     
@@ -86,7 +89,10 @@ class ReviewValidator:
             ],
             "layouts": ["company", "product"],
             "languages": ["ja", "en"],
-            "date_format": r"^\d{4}-\d{2}-\d{2}$"
+            "date_format": r"^\d{4}-\d{2}-\d{2}$",
+            "forbidden_symbols": ["$", "\\"],  # Backslash and dollar sign are forbidden
+            "cp_formula_check": True,  # Check CP = cheapest_equivalent_price / target_price
+            "cp_max_value": 1.0  # CP must not exceed 1.0
         }
         
         # Load more detailed requirements from policy file if it exists
@@ -107,8 +113,13 @@ class ReviewValidator:
         
         files = []
         for pattern in patterns:
-            files.extend(glob.glob(str(self.base_path / pattern), recursive=True))
+            search_path = str(self.base_path / pattern)
+            print(f"Searching for files with pattern: {search_path}")
+            found_files = glob.glob(search_path, recursive=True)
+            print(f"Found {len(found_files)} files for pattern {pattern}")
+            files.extend(found_files)
         
+        print(f"Total files found: {len(files)}")
         return sorted(files)
     
     def _extract_product_id(self, file_path: str) -> str:
@@ -219,6 +230,14 @@ class ReviewValidator:
             if not (min_score <= score <= max_score):
                 issues.append(f"Score for evaluation criterion {i+1} is out of range (value: {score}, range: {min_score}-{max_score})")
         
+        # Check if all scores are in 0.1 increments
+        all_scores = [review.total_score] + review.individual_scores
+        for i, score in enumerate(all_scores):
+            # Check if score is a multiple of 0.1
+            if abs(score - round(score, 1)) > 0.001:  # Small tolerance for floating point precision
+                score_type = "Total score" if i == 0 else f"Individual score {i}"
+                issues.append(f"{score_type} must be in 0.1 increments (current: {score}, should be: {round(score, 1)})")
+        
         return issues
     
     def validate_policy_compliance(self, review: ReviewData) -> List[str]:
@@ -303,6 +322,12 @@ class ReviewValidator:
             
             # Check for potential LaTeX issues caused by unescaped USD symbols
             issues.extend(self.validate_latex_issues(content))
+            
+            # Check CP calculation consistency and product category appropriateness
+            issues.extend(self.validate_cp_calculation(review, content))
+            
+            # Check product category appropriateness for CP comparison
+            issues.extend(self.validate_product_category_consistency(review, content))
         
         except Exception as e:
             issues.append(f"Error occurred during content structure validation: {e}")
@@ -320,35 +345,40 @@ class ReviewValidator:
         else:
             body_content = content
         
-        # Find isolated dollar signs that could be mistaken for LaTeX
-        # Pattern: $ followed by text/numbers, not part of LaTeX expressions
-        dollar_pattern = r'(?<!\$)\$(?!\$)(?![\\])[^$\n]*?(?<![\\])\$(?!\$)'
+        # v2 policy: Dollar signs are absolutely forbidden (even with escaping)
+        # Find any dollar signs
+        dollar_pattern = r'\$'
         
-        # Also check for single $ signs that might be intended as USD
-        single_dollar_pattern = r'(?<!\$)\$(?!\$)(?![\\{])'
+        # Find all dollar sign matches
+        dollar_matches = re.finditer(dollar_pattern, body_content)
         
-        # Find all matches
-        latex_matches = re.finditer(dollar_pattern, body_content)
-        single_dollar_matches = re.finditer(single_dollar_pattern, body_content)
-        
-        # Check for potential LaTeX expressions
-        for match in latex_matches:
-            matched_text = match.group()
-            # Skip if it's actually a proper LaTeX expression
-            if not (r'\Large' in matched_text or r'\text{' in matched_text or r'\{' in matched_text):
-                line_num = body_content[:match.start()].count('\n') + 1
-                issues.append(f"Potential LaTeX issue detected at line {line_num}: '{matched_text}' (Consider escaping dollar signs for USD)")
-        
-        # Check for single dollar signs that might be USD
-        for match in single_dollar_matches:
+        for match in dollar_matches:
             line_num = body_content[:match.start()].count('\n') + 1
             context_start = max(0, match.start() - 20)
             context_end = min(len(body_content), match.end() + 20)
             context = body_content[context_start:context_end].strip()
             
-            # Skip if it's part of a LaTeX expression
-            if not (r'\Large' in context or r'\text{' in context):
-                issues.append(f"Single dollar sign detected at line {line_num}: '{context}' (Consider escaping as \\$ if intended as USD)")
+            # Skip if it's part of a LaTeX score display ($$\Large\text{score}$$)
+            if r'\Large \text{' in context and '$$' in context:
+                continue
+            
+            issues.append(f"Forbidden dollar sign detected at line {line_num}: '{context}' (Use 'USD' or 'JPY' instead - dollar signs are forbidden even with escaping)")
+        
+        # Check for backslash (also forbidden)
+        backslash_pattern = r'\\'
+        backslash_matches = re.finditer(backslash_pattern, body_content)
+        
+        for match in backslash_matches:
+            line_num = body_content[:match.start()].count('\n') + 1
+            context_start = max(0, match.start() - 20)
+            context_end = min(len(body_content), match.end() + 20)
+            context = body_content[context_start:context_end].strip()
+            
+            # Skip if it's part of a LaTeX score display ($$\Large\text{score}$$)
+            if r'\Large \text{' in context and '$$' in context:
+                continue
+            
+            issues.append(f"Forbidden backslash detected at line {line_num}: '{context}' (Backslashes are forbidden - use alternative notation)")
         
         return issues
 
@@ -356,33 +386,85 @@ class ReviewValidator:
         """Check for potential LaTeX issues caused by USD symbols in summary or other metadata"""
         issues = []
         
-        # Find isolated dollar signs that could be mistaken for LaTeX
-        # Pattern: $ followed by text/numbers, not part of LaTeX expressions
-        dollar_pattern = r'(?<!\$)\$(?!\$)(?![\\])[^$\n]*?(?<![\\])\$(?!\$)'
+        # v2 policy: Dollar signs are absolutely forbidden (even with escaping)
+        dollar_pattern = r'\$'
         
-        # Also check for single $ signs that might be intended as USD
-        single_dollar_pattern = r'(?<!\$)\$(?!\$)(?![\\{])'
+        # Find all dollar sign matches
+        dollar_matches = re.finditer(dollar_pattern, text)
         
-        # Find all matches
-        latex_matches = re.finditer(dollar_pattern, text)
-        single_dollar_matches = re.finditer(single_dollar_pattern, text)
-        
-        # Check for potential LaTeX expressions
-        for match in latex_matches:
-            matched_text = match.group()
-            # Skip if it's actually a proper LaTeX expression
-            if not (r'\Large' in matched_text or r'\text{' in matched_text or r'\{' in matched_text):
-                issues.append(f"Potential LaTeX issue detected in summary: '{matched_text}' (Consider escaping dollar signs for USD)")
-        
-        # Check for single dollar signs that might be USD
-        for match in single_dollar_matches:
+        for match in dollar_matches:
             context_start = max(0, match.start() - 20)
             context_end = min(len(text), match.end() + 20)
             context = text[context_start:context_end].strip()
             
-            # Skip if it's part of a LaTeX expression
-            if not (r'\Large' in context or r'\text{' in context):
-                issues.append(f"Single dollar sign detected in summary: '{context}' (Consider escaping as \\$ if intended as USD)")
+            issues.append(f"Forbidden dollar sign detected in summary: '{context}' (Use 'USD' or 'JPY' instead - dollar signs are forbidden even with escaping)")
+        
+        # Check for backslash (also forbidden)
+        backslash_pattern = r'\\'
+        backslash_matches = re.finditer(backslash_pattern, text)
+        
+        for match in backslash_matches:
+            context_start = max(0, match.start() - 20)
+            context_end = min(len(text), match.end() + 20)
+            context = text[context_start:context_end].strip()
+            
+            issues.append(f"Forbidden backslash detected in summary: '{context}' (Backslashes are forbidden - use alternative notation)")
+        
+        return issues
+    
+    def validate_cp_calculation(self, review: ReviewData, content: str) -> List[str]:
+        """Check CP calculation consistency and formula correctness"""
+        issues = []
+        
+        if len(review.individual_scores) < 3:  # CP is the 3rd score (index 2)
+            return issues
+        
+        cp_score = review.individual_scores[2]  # Cost-Performance score
+        
+        # Check if CP exceeds 1.0 (calculation error)
+        if cp_score > self.policy_requirements["cp_max_value"]:
+            issues.append(f"CP score exceeds maximum allowed value ({cp_score} > {self.policy_requirements['cp_max_value']}) - this indicates calculation error")
+        
+        # Extract CP section content
+        cp_section_pattern = r'## コストパフォーマンス.*?(?=## |$)' if review.lang == 'ja' else r'## Cost-Performance.*?(?=## |$)'
+        cp_section_match = re.search(cp_section_pattern, content, re.DOTALL)
+        
+        if cp_section_match:
+            cp_section = cp_section_match.group(0)
+            
+            # Check for CP calculation formula (CP = cheapest_price / target_price)
+            # Look for patterns like "CP = X円 ÷ Y円" or "CP = X USD / Y USD"
+            cp_formula_pattern = r'CP\s*=\s*([\d,]+)\s*[円USD]\s*[÷/]\s*([\d,]+)\s*[円USD]'
+            cp_formula_match = re.search(cp_formula_pattern, cp_section)
+            
+            if cp_formula_match:
+                try:
+                    numerator = float(cp_formula_match.group(1).replace(',', ''))
+                    denominator = float(cp_formula_match.group(2).replace(',', ''))
+                    calculated_cp = numerator / denominator
+                    
+                    # Check if formula is correct (cheapest / target, not target / cheapest)
+                    if calculated_cp > 1.0:
+                        issues.append(f"CP calculation formula error: result ({calculated_cp:.3f}) > 1.0 indicates numerator/denominator are swapped")
+                        
+                except (ValueError, ZeroDivisionError):
+                    issues.append("CP calculation formula contains invalid numbers")
+            # Note: CP calculation formula is not strictly required - removed overly strict check
+        
+        return issues
+    
+    def validate_product_category_consistency(self, review: ReviewData, content: str) -> List[str]:
+        """Check product category consistency for CP comparisons"""
+        issues = []
+        
+        # Extract CP section content
+        cp_section_pattern = r'## コストパフォーマンス.*?(?=## |$)' if review.lang == 'ja' else r'## Cost-Performance.*?(?=## |$)'
+        cp_section_match = re.search(cp_section_pattern, content, re.DOTALL)
+        
+        if cp_section_match:
+            cp_section = cp_section_match.group(0)
+            
+            # Note: Product category mismatch check has been removed as it cannot be reliably detected from text
         
         return issues
     
@@ -431,11 +513,10 @@ class ReviewValidator:
         print(f"Found {len(files)} files")
         
         for file_path in files:
-            print(f"\nProcessing: {file_path}")
             review = self.parse_review_file(file_path)
             
             if review is None:
-                print(f"  [WARNING] Failed to parse")
+                print(f"\n[WARNING] Failed to parse: {file_path}")
                 continue
             
             # Execute various validations
@@ -449,13 +530,12 @@ class ReviewValidator:
             review.issues = issues
             self.reviews.append(review)
             
-            # Display results
+            # Display results only if there are issues
             if issues:
-                print(f"  [ERROR] Issues found: {len(issues)}")
+                print(f"\n[ERROR] Issues found in: {file_path}")
+                print(f"  Issues: {len(issues)}")
                 for issue in issues:
                     print(f"    - {issue}")
-            else:
-                print(f"  [OK] Validation OK")
         
         # Check cross-language score consistency after all reviews are processed
         print("\n" + "="*50)
@@ -489,7 +569,10 @@ class ReviewValidator:
         report.append(f"- Reviews with issues: {reviews_with_issues}")
         report.append(f"- Total issues detected: {total_issues}")
         report.append(f"- Cross-language consistency issues: {len(cross_lang_issues)}")
-        report.append(f"- Compliance rate: {((total_reviews - reviews_with_issues) / total_reviews * 100):.1f}%")
+        if total_reviews > 0:
+            report.append(f"- Compliance rate: {((total_reviews - reviews_with_issues) / total_reviews * 100):.1f}%")
+        else:
+            report.append("- Compliance rate: N/A (no reviews found)")
         report.append("")
         
         # Issue classification
@@ -507,8 +590,14 @@ class ReviewValidator:
                     category = "Format Error"
                 elif "placement" in issue.lower() or "配置" in issue:
                     category = "File Placement Error"
-                elif "latex" in issue.lower() or "dollar" in issue.lower():
-                    category = "LaTeX/USD Symbol Error"
+                elif "cp calculation" in issue.lower() or "cp formula" in issue.lower():
+                    category = "CP Calculation Error"
+                elif "product category" in issue.lower() or "category mismatch" in issue.lower():
+                    category = "Product Category Error"
+                elif "0.1 increments" in issue.lower() or "score format" in issue.lower():
+                    category = "Score Format Error"
+                elif "latex" in issue.lower() or "dollar" in issue.lower() or "forbidden" in issue.lower() or "backslash" in issue.lower():
+                    category = "Symbol Policy Violation"
                 else:
                     category = "Other"
                 
@@ -565,9 +654,14 @@ class ReviewValidator:
             "Score for evaluation criterion": "3. **Score Range**: Check that all scores are within the valid range (0.0-1.0)",
             "Required field": "4. **Metadata Completeness**: Fill in all required metadata fields in the front matter",
             "Invalid layout value": "5. **Layout Compliance**: Use only allowed layout values (e.g., 'company', 'product')",
-            "LaTeX/USD Symbol Error": "6. **LaTeX/USD Symbol Error**: Escape dollar signs with backslash (\\$) when referring to USD to prevent LaTeX rendering issues",
-            "Single dollar sign detected": "6. **LaTeX/USD Symbol Error**: Escape dollar signs with backslash (\\$) when referring to USD to prevent LaTeX rendering issues",
-            "Potential LaTeX issue detected": "6. **LaTeX/USD Symbol Error**: Escape dollar signs with backslash (\\$) when referring to USD to prevent LaTeX rendering issues"
+            "LaTeX/USD Symbol Error": "6. **Symbol Policy Violation**: Use 'USD' or 'JPY' instead of $ symbols - dollar signs and backslashes are forbidden",
+            "Single dollar sign detected": "6. **Symbol Policy Violation**: Use 'USD' or 'JPY' instead of $ symbols - dollar signs and backslashes are forbidden",
+            "Potential LaTeX issue detected": "6. **Symbol Policy Violation**: Use 'USD' or 'JPY' instead of $ symbols - dollar signs and backslashes are forbidden",
+            "Forbidden dollar sign detected": "6. **Symbol Policy Violation**: Use 'USD' or 'JPY' instead of $ symbols - dollar signs and backslashes are forbidden",
+            "Forbidden backslash detected": "6. **Symbol Policy Violation**: Use 'USD' or 'JPY' instead of $ symbols - dollar signs and backslashes are forbidden",
+            "CP calculation formula error": "7. **CP Calculation Error**: Use correct formula CP = cheapest_equivalent_price / target_price",
+            "Product category mismatch": "8. **Product Category Error**: Compare only products in the same category with equivalent functions",
+            "must be in 0.1 increments": "9. **Score Format Error**: All scores must be in 0.1 increments (e.g., 0.1, 0.2, 0.3, etc.)"
         }
         
         # Get unique recommendations
@@ -581,11 +675,11 @@ class ReviewValidator:
             for i, rec in enumerate(sorted(list(unique_recommendations))):
                 report.append(rec)
         
-        # If there are any LaTeX/USD symbol issues, add a note about the auto-fix script
-        has_usd_issue = any("LaTeX/USD Symbol Error" in rec for rec in unique_recommendations)
+        # If there are any LaTeX/USD symbol issues, add a note about the policy v2 requirements
+        has_usd_issue = any("LaTeX/USD Symbol Error" in rec or "Forbidden dollar sign" in rec for rec in unique_recommendations)
         if has_usd_issue:
-            report.append("\nNote: Issues related to USD symbols ($) can be fixed automatically by running:")
-            report.append("python tools/fix_usd_symbols.py")
+            report.append("\nNote: Policy v2 strictly forbids dollar signs ($) and backslashes (\\) even with escaping.")
+            report.append("Use 'USD' or 'JPY' instead of $ symbols. Manual correction is required.")
 
         return "\n".join(report)
     

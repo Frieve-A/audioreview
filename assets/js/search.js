@@ -231,12 +231,20 @@ class SortManager {
     if (sortParam && this.isValidSortOption(sortParam)) {
       this.sortSelect.value = sortParam;
       this.handleSort(sortParam);
+    } else {
+      // If no URL parameter, use the selected option from HTML
+      const selectedOption = this.sortSelect.querySelector('option[selected]');
+      if (selectedOption) {
+        const defaultSort = selectedOption.value;
+        this.sortSelect.value = defaultSort;
+        this.handleSort(defaultSort);
+      }
     }
   }
 
   updateURL(sortType) {
     const url = new URL(window.location);
-    if (sortType === 'name-asc') {
+    if (sortType === 'date-desc') {
       // Remove sort parameter for default sorting
       url.searchParams.delete('sort');
     } else {

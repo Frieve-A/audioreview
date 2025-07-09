@@ -9,7 +9,7 @@ permalink: /companies/ja/
 <div class="page-header">
   <div class="page-title-section">
     <h1 class="page-title-with-search">企業一覧 <span class="search-icon">🔍</span> <span class="review-count" id="result-count">{{ all_companies.size }}{{ site.data.strings.ja.companies_available }}</span></h1>
-    {% assign all_companies = site.companies | where: 'lang', 'ja' | sort: 'target_name' %}
+    {% assign all_companies = site.companies | where: 'lang', 'ja' | sort: 'date' | reverse %}
   </div>
   <div class="sort-controls">
     <label for="sort-select">{{ site.data.strings.ja.sort_by }}</label>
@@ -17,7 +17,7 @@ permalink: /companies/ja/
       <option value="name-asc">アルファベット順（昇順）</option>
       <option value="name-desc">アルファベット順（降順）</option>
       <option value="date-asc">更新日順（昇順）</option>
-      <option value="date-desc">更新日順（降順）</option>
+      <option value="date-desc" selected>更新日順（降順）</option>
       <option value="rating-asc">総合評価順（昇順）</option>
       <option value="rating-desc">総合評価順（降順）</option>
       <option value="scientific-asc">科学的有効性順（昇順）</option>
@@ -49,6 +49,12 @@ permalink: /companies/ja/
          data-reliability="{{ company.rating[4] | default: 0 }}"
          data-design="{{ company.rating[5] | default: 0 }}"
          data-tags="{% if company.tags %}{{ company.tags | join: ',' }}{% endif %}">
+      {% assign current_date = 'now' | date: '%s' %}
+      {% assign company_date = company.date | date: '%s' %}
+      {% assign days_diff = current_date | minus: company_date | divided_by: 86400 %}
+      {% if days_diff <= 3 %}
+        <span class="new-badge">NEW</span>
+      {% endif %}
       <h3><a href="{{ company.url }}">{{ company.target_name }}</a></h3>
       <div class="company-rating">
         <span class="rating-label" id="rating-label">総合評価</span>
