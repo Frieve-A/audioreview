@@ -14,7 +14,7 @@ permalink: /products/en/yamaha-tt-s303/
 
 ## Overview
 
-The YAMAHA TT-S303 is a belt-drive turntable released in 2018 with a suggested retail price of 64,900 yen (tax included). It features a cabinet made from high-density MDF material and a 30cm aluminum die-cast turntable with a straight tonearm. The design is characterized by an authentic appearance with gloss coating and includes a built-in phono equalizer amplifier. However, the basic performance specification of 0.20% wow and flutter is clearly inferior when viewed from modern high-fidelity reproduction standards.
+The YAMAHA TT-S303 is a belt-drive turntable released in 2018 with a suggested retail price of 433 USD (tax included). It features a cabinet made from high-density MDF material and a 30cm aluminum die-cast turntable with a straight tonearm. The design is characterized by an authentic appearance with gloss coating and includes a built-in phono equalizer amplifier. However, the basic performance specification of 0.20% wow and flutter is clearly inferior when viewed from modern high-fidelity reproduction standards.
 
 ## Scientific Validity
 
@@ -32,7 +32,7 @@ The design itself meets industry-standard levels with its belt-drive system adop
 
 $$ \Large \text{0.1} $$
 
-The TT-S303's current price is approximately 49,800 yen, but competing products with equivalent or superior performance include the Pioneer PLX-500 (52,800 yen with higher rotational accuracy) and Audio-Technica AT-LP120X (higher precision with USB functionality). More importantly, when comparing the 0.20% wow and flutter performance against digital sources (theoretically 0% wow and flutter), smartphone digital source playback can achieve 0% wow and flutter even with DACs costing a few thousand yen. CP = 3,000 yen (digital playback system) ÷ 49,800 yen = 0.06, resulting in extremely low cost-performance even when considering the added value of analog reproduction.
+The TT-S303's current price is approximately 332 USD, but competing products with equivalent or superior performance include the Pioneer PLX-500 (352 USD with higher rotational accuracy) and Audio-Technica AT-LP120X (higher precision with USB functionality). More importantly, when comparing the 0.20% wow and flutter performance against digital sources (theoretically 0% wow and flutter), smartphone digital source playback can achieve 0% wow and flutter even with DACs costing a few dozen USD. CP = 20 USD (digital playback system) ÷ 332 USD = 0.06, resulting in extremely low cost-performance even when considering the added value of analog reproduction.
 
 ## Reliability & Support
 
@@ -48,6 +48,6 @@ While the adoption of belt-drive technology has theoretical justification from a
 
 ## Advice
 
-When considering the purchase of the YAMAHA TT-S303, first carefully evaluate whether the 0.20% wow and flutter performance is acceptable according to modern sound quality standards. If sound quality is a priority, we strongly recommend considering higher-performance options at similar price points such as the Pioneer PLX-500 or Technics SL-1200MK7 (higher price but overwhelmingly superior performance). As an even more rational choice, consider a high-quality digital source and DAC combination playback system. Even DACs costing tens of thousands of yen can achieve theoretically 0% wow and flutter, enabling higher-fidelity music reproduction. Even if you prioritize the physical appeal of analog records, selecting a higher-performance turntable will maximize the true value of analog reproduction.
+When considering the purchase of the YAMAHA TT-S303, first carefully evaluate whether the 0.20% wow and flutter performance is acceptable according to modern sound quality standards. If sound quality is a priority, we strongly recommend considering higher-performance options at similar price points such as the Pioneer PLX-500 or Technics SL-1200MK7 (higher price but overwhelmingly superior performance). As an even more rational choice, consider a high-quality digital source and DAC combination playback system. Even DACs costing a few hundred USD can achieve theoretically 0% wow and flutter, enabling higher-fidelity music reproduction. Even if you prioritize the physical appeal of analog records, selecting a higher-performance turntable will maximize the true value of analog reproduction.
 
 (2025.7.7)

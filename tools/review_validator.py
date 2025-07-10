@@ -150,6 +150,38 @@ class ReviewValidator:
         
         return ""
 
+    def _find_counterpart_file(self, file_path: str) -> Optional[str]:
+        """Find the corresponding file in the other language."""
+        p = Path(file_path)
+        parts = list(p.parts) # Make it mutable
+
+        try:
+            # Find the index of the collection directory
+            if '_products' in parts:
+                base_index = parts.index('_products')
+            elif '_companies' in parts:
+                base_index = parts.index('_companies')
+            else:
+                return None
+
+            # The language directory should be right after the collection directory
+            lang_index = base_index + 1
+            if lang_index < len(parts):
+                lang = parts[lang_index]
+                if lang == 'ja':
+                    parts[lang_index] = 'en'
+                elif lang == 'en':
+                    parts[lang_index] = 'ja'
+                else:
+                    return None # This path does not seem to have the expected lang component
+
+                return str(Path(*parts))
+            else:
+                return None
+        except ValueError:
+            # '_products' or '_companies' not found in path parts.
+            return None
+
     def parse_review_file(self, file_path: str) -> Optional[ReviewData]:
         """Parse review file and create ReviewData object"""
         try:
@@ -517,13 +549,25 @@ class ReviewValidator:
         self._validate_files(files)
     
     def validate_single_file(self, file_path: str) -> None:
-        """Validate a single review file"""
+        """Validate a single review file and its counterpart in the other language if it exists."""
         if not os.path.exists(file_path):
             print(f"[ERROR] File not found: {file_path}")
             return
         
         print(f"Validating single file: {file_path}")
-        self._validate_files([file_path])
+        
+        files_to_validate = [file_path]
+        
+        # Find the counterpart file in the other language
+        counterpart_path = self._find_counterpart_file(file_path)
+        if counterpart_path:
+            if os.path.exists(counterpart_path):
+                print(f"Found counterpart file, adding to validation: {counterpart_path}")
+                files_to_validate.append(counterpart_path)
+            else:
+                print(f"Counterpart file not found at expected path: {counterpart_path}")
+        
+        self._validate_files(files_to_validate)
     
     def _validate_files(self, files: List[str]) -> None:
         """Common validation logic for multiple files"""

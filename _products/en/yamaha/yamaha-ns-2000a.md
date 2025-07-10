@@ -32,7 +32,7 @@ Harmonious Diaphragm technology represents innovative approach combining aerospa
 
 $$ \Large \text{0.8} $$
 
-At 396,000 yen per unit (792,000 yen/pair), it provides reasonable performance versus competitive products. Focal Aria 936 (approximately 656,000 yen/pair) offers 92dB high efficiency and 39Hz-28kHz characteristics, but NS-2000A's 26Hz extension is advantageous. Monitor Audio Silver 500 7G (approximately 625,000 yen/pair) provides 90.5dB high efficiency. B&W 703 S3 (approximately 930,000 yen/pair) offers 89.3dB efficiency. CP = 656,000 yen ÷ 792,000 yen = 0.83, indicating competitive pricing for practical acoustic performance.
+At 2,640 USD per unit (5,280 USD/pair), it provides reasonable performance versus competitive products. Focal Aria 936 (approximately 4,373 USD/pair) offers 92dB high efficiency and 39Hz-28kHz characteristics, but NS-2000A's 26Hz extension is advantageous. Monitor Audio Silver 500 7G (approximately 4,167 USD/pair) provides 90.5dB high efficiency. B&W 703 S3 (approximately 6,200 USD/pair) offers 89.3dB efficiency. CP = 4,373 USD ÷ 5,280 USD = 0.83, indicating competitive pricing for practical acoustic performance.
 
 ## Reliability & Support
 

@@ -7,14 +7,14 @@ lang: en
 ref: yamaha-sr-b30a
 date: 2025-07-07
 rating: [3.7, 0.8, 0.7, 1.0, 0.8, 0.4]
-summary: "The YAMAHA SR-B30A is an entry-class soundbar offering Dolby Atmos support for 24,389 yen. Priced approximately 4,600 yen below its competitor, the DENON DHT-S218 (around 29,000 yen), it boasts the highest cost-performance for a product with this feature. Its spatial representation via angled upward-firing speakers is also excellent, proving particularly effective for movie viewing. However, its mid-high frequency resolution for music reproduction shows limitations inherent to its price point."
+summary: "The YAMAHA SR-B30A is an entry-class soundbar offering Dolby Atmos support for 163 USD. Priced approximately 31 USD below its competitor, the DENON DHT-S218 (around 193 USD), it boasts the highest cost-performance for a product with this feature. Its spatial representation via angled upward-firing speakers is also excellent, proving particularly effective for movie viewing. However, its mid-high frequency resolution for music reproduction shows limitations inherent to its price point."
 tags: [YAMAHA, Soundbar, Dolby Atmos, Entry Class, Virtual Surround]
 permalink: /products/en/yamaha-sr-b30a/
 ---
 
 ## Overview
 
-The YAMAHA SR-B30A is an entry-class Dolby Atmos-compatible soundbar released in 2023. It features a total 120W output configuration with 4.6cm cones×4, 2.5cm domes×2, and 7.5cm subwoofers×2, adopting distinctive angled upward speaker arrangement. At 24,389 yen, it achieves Dolby Atmos virtual surround with four sound modes (Stereo, Standard, Movie, Game) and Clear Voice functionality. Equalizer adjustment via app is also possible, providing practical features despite its entry-class positioning.
+The YAMAHA SR-B30A is an entry-class Dolby Atmos-compatible soundbar released in 2023. It features a total 120W output configuration with 4.6cm cones×4, 2.5cm domes×2, and 7.5cm subwoofers×2, adopting distinctive angled upward speaker arrangement. At 163 USD, it achieves Dolby Atmos virtual surround with four sound modes (Stereo, Standard, Movie, Game) and Clear Voice functionality. Equalizer adjustment via app is also possible, providing practical features despite its entry-class positioning.
 
 ## Scientific Validity
 
@@ -32,7 +32,7 @@ Technical sophistication is moderate. The angled upward speaker arrangement show
 
 $$ \Large \text{1.0} $$
 
-Cost-performance is rated highest. The SR-B30A's price of 24,389 yen makes it one of the most affordable options on the market for a Dolby Atmos-compatible soundbar. Considering its competitor, the DENON DHT-S218, sells for around 29,000 yen, the SR-B30A has a clear price advantage of about 4,600 yen. It does not fall short in spatial representation capabilities based on measurement data or in low-frequency performance for movies, and it offers basic features at a comparable level, making its value in this price range outstanding.
+Cost-performance is rated highest. The SR-B30A's price of 163 USD makes it one of the most affordable options on the market for a Dolby Atmos-compatible soundbar. Considering its competitor, the DENON DHT-S218, sells for around 193 USD, the SR-B30A has a clear price advantage of about 31 USD. It does not fall short in spatial representation capabilities based on measurement data or in low-frequency performance for movies, and it offers basic features at a comparable level, making its value in this price range outstanding.
 
 ## Reliability & Support
 
@@ -48,6 +48,6 @@ The rationality of the design philosophy is somewhat low. While the angled upwar
 
 ## Advice
 
-When considering the purchase of the SR-B30A, it is important to clarify its primary use. If you prioritize powerful bass for movies and games, it is a cost-effective choice, being about 4,600 yen cheaper than the competing DENON DHT-S218 while providing equivalent or better effects. However, if you emphasize clarity in music reproduction and mid-high frequency resolution, the DHT-S218 may be more suitable. As an entry-class soundbar, it offers sufficient performance for users seeking a clear upgrade from their TV's built-in speakers. If you are considering expanding to a full home theater system in the future, it is recommended to consider a separate-type system from the beginning. While high ratings on Price.com are a good reference, actual listening tests in your own environment should be prioritized if possible.
+When considering the purchase of the SR-B30A, it is important to clarify its primary use. If you prioritize powerful bass for movies and games, it is a cost-effective choice, being about 31 USD cheaper than the competing DENON DHT-S218 while providing equivalent or better effects. However, if you emphasize clarity in music reproduction and mid-high frequency resolution, the DHT-S218 may be more suitable. As an entry-class soundbar, it offers sufficient performance for users seeking a clear upgrade from their TV's built-in speakers. If you are considering expanding to a full home theater system in the future, it is recommended to consider a separate-type system from the beginning. While high ratings on Price.com are a good reference, actual listening tests in your own environment should be prioritized if possible.
 
 (2025.7.7)
