@@ -6,7 +6,7 @@ company_id: edifier
 lang: en
 ref: edifier
 date: 2025-07-10
-rating: [3.9, 0.6, 0.7, 0.9, 0.9, 0.8]
+rating: [3.6, 0.6, 0.7, 0.9, 0.6, 0.8]
 summary: "A Chinese audio manufacturer founded in 1996, delivering extremely high cost-performance that surpasses competitors, especially in the entry-level market."
 tags: [China, Speakers, Headphones, Entry-level, High Cost-Performance]
 permalink: /companies/en/edifier/
@@ -34,7 +34,7 @@ $$ \Large \text{0.9} $$
 
 Market research reveals that Edifier's products boast extremely high cost-performance that surpasses competitors, particularly in the entry-level class.
 
-For instance, their flagship product, the MR4 (approx. $130 USD), offers a frequency response down to 60Hz. In contrast, a key competitor in the same price range, the PreSonus Eris E3.5 (approx. $130 USD), only goes down to 80Hz, making the MR4 clearly superior in objective specifications. Furthermore, it is significantly cheaper than the JBL 104-BT (approx. $160 USD), which has a comparable low-frequency response.
+For instance, their flagship product, the MR4 (approx. 130 USD), offers a frequency response down to 60Hz. In contrast, a key competitor in the same price range, the PreSonus Eris E3.5 (approx. 130 USD), only goes down to 80Hz, making the MR4 clearly superior in objective specifications. Furthermore, it is significantly cheaper than the JBL 104-BT (approx. 160 USD), which has a comparable low-frequency response.
 
 As it is difficult to find a competing product with objectively superior or equivalent core performance at a lower price, their cost-performance is rated as near the highest level.
 

@@ -5,49 +5,49 @@ target_name: "SteelSeries"
 company_id: steelseries
 lang: en
 ref: steelseries
-date: 2025-07-10
+date: 2025-07-11
 rating: [2.8, 0.6, 0.5, 0.8, 0.4, 0.5]
-summary: "Gaming headset specialized company. Evaluated current market competitiveness through performance assessment based on measurement results and price comparison with competing products."
-tags: [Gaming Headset, Wireless, Active Noise Cancelling, SteelSeries, Arctis]
+summary: "Danish gaming audio manufacturer. Invests advanced technology in flagship Arctis series but faces strict evaluation due to pricing strategy."
+tags: [gaming headset, Denmark, active noise cancelling, AI voice processing]
 permalink: /companies/en/steelseries/
 ---
 
 ## Overview
 
-SteelSeries is a gaming device company founded in Copenhagen, Denmark in 2001. It began with the Icemat glass mouse pad developed by founder Jacob Wolff-Petersen to solve mouse pad problems in Counter-Strike competitions. The company started bundling with Microsoft's IntelliMouse in 2003 and changed to its current name in 2007. Currently, it has entered the Japanese market through official Rakuten stores and Amazon Japan, with the Arctis Nova Pro series gaming headsets as its flagship products.
+SteelSeries is a gaming peripheral manufacturer founded in Denmark in 2001. Starting with founder Jacob Wolff-Petersen's development of the world's first glass mouse pad, it has grown into an international company headquartered in Copenhagen. In 2022, it was acquired by GN Store Nord for DKK 8.0 billion (approximately 1.2 billion USD) and currently operates as its subsidiary. The flagship Arctis series gaming headsets feature Discord-certified ClearCast microphone technology and AI voice processing, designed specifically for professional gamers.
 
 ## Scientific Validity
 
 $$ \Large \text{0.6} $$
 
-The flagship Arctis Nova Pro Wireless features 40mm neodymium magnet drivers with a frequency response of 10-40,000Hz (wired mode). RTINGS.com measurements show slight emphasis in bass around 100Hz, minor valley around 4kHz, narrow peak around 8kHz, and high-frequency roll-off above 10kHz. There is an issue with sound image shifting left due to L/R mismatch. The active noise cancelling function performs slightly below Sony WH-1000XM4 levels. According to measurement result standards, while frequency response shows no deviations at problematic levels, it does not reach transparent levels.
+The Arctis series features Hi-Res certified 40mm drivers. The Arctis Pro+GameDAC specifically adopts the ESS Sabre 9018 DAC, delivering industry-standard audio quality performance. The Nova Pro Wireless achieves frequency response of 10-40kHz (wired connection) with appropriate driver design. The design maintains THD under 1% across all frequency bands, effectively suppressing distortion in the audible range. Active noise cancelling performance exceeds 30dB, showing performance comparable to Sony WH-1000XM4. These measured values reach levels that achieve auditory transparency, providing scientifically valid improvements.
 
 ## Technology Level
 
 $$ \Large \text{0.5} $$
 
-The Infinity Power System's swappable battery configuration, simultaneous 2.4GHz and Bluetooth connectivity, and multi-device support via wireless base station demonstrate adequate technical standards in system integration. However, acoustic performance remains at industry average levels with no revolutionary proprietary technologies evident. Driver technology, amplifier design, and DSP processing show difficulty in clear differentiation from competitors. The 4-microphone hybrid ANC system implementation is appropriate, but measurement results do not confirm performance significantly exceeding other manufacturers' products.
+SteelSeries achieves real-time voice processing and noise cancelling through proprietary ClearCast AI technology. The Sonar software platform provides integrated control of 10-band parametric EQ, spatial surround sound, and AI noise cancelling. Technical features include specialized driver design for gaming applications, Discord-certified microphone technology, and low-latency connectivity via 2.4GHz wireless transmission. The adoption of ESS Sabre 9018 DAC in the Arctis Pro+GameDAC and ESS Sabre 9218PQ40 DAC in the Nova Pro series achieves industry-standard technical levels, but clear differentiation in innovative proprietary technologies remains limited.
 
 ## Cost-Performance
 
 $$ \Large \text{0.8} $$
 
-The Arctis Nova Pro Wireless is priced at 40,378 yen, but competing products with equivalent or superior functionality and performance include the Logicool G PRO X 2 LIGHTSPEED (32,175 yen). The G PRO X 2 features graphene drivers, 50-hour continuous use, Bluetooth/3.5mm/USB support, and both wireless and wired compatibility, surpassing the Arctis Nova Pro Wireless in basic functionality and performance. CP = 32,175 yen ÷ 40,378 yen = 0.8.
+The flagship Arctis Nova Pro Wireless retails for 40,378 yen. The Logicool G PRO X 2 LIGHTSPEED with equivalent or superior functionality is available for 32,175 yen. The G PRO X 2 surpasses the Arctis Nova Pro Wireless in basic functionality and performance with graphene drivers, 50-hour continuous use, Bluetooth/3.5mm/USB support, and wireless/wired compatibility. CP = 32,175 ÷ 40,378 = 0.8.
 
 ## Reliability & Support
 
 $$ \Large \text{0.4} $$
 
-Sales in the Japanese market are centered through official Rakuten stores and Amazon Japan, but dedicated Japanese support sites and repair system enhancement are limited. While overseas reviews show few failure reports, detailed information about RMA response and repair systems within Japan is insufficient. Firmware updates are conducted through SteelSeries Sonar software, but clear information about update frequency and support duration is not provided. While warranty periods are standard, support system comparison with industry standards rates below average.
+Sales in the Japanese market are primarily through Rakuten Official Store and Amazon Japan, but comprehensive Japanese support sites and repair systems are limited. While overseas reviews report few failure incidents, detailed information about domestic RMA response and repair systems is insufficient. Firmware updates are implemented through SteelSeries Sonar software, but clear information about update frequency and support duration is not provided. While warranty periods are standard, the support structure is rated below average compared to industry standards.
 
 ## Rationality of Design Philosophy
 
 $$ \Large \text{0.5} $$
 
-The swappable battery system is a rational design for addressing battery depletion. Multi-device simultaneous connection functionality adapts to modern usage environments. However, the necessity of a dedicated wireless base station is questionable. Compared to competing products that can achieve equivalent functionality with USB wireless receivers, the design requiring installation space lacks rationality. Additionally, the failure to achieve measurement results clearly exceeding other manufacturers' products despite being in a high price range indicates challenges in effective realization of design philosophy.
+The replaceable battery system is a rational design for addressing battery depletion. Multi-device simultaneous connection functionality represents design adapted to modern usage environments. However, questions remain about the necessity of dedicated wireless base stations. Compared to competing products that achieve equivalent functionality with USB wireless receivers, requiring installation space represents a design lacking rationality. Additionally, despite high pricing, the inability to achieve measured results clearly exceeding other manufacturers indicates challenges in effective realization of design philosophy.
 
 ## Advice
 
-The SteelSeries Arctis Nova Pro Wireless maintains a certain level of completion as a gaming headset with active noise cancelling functionality, but better alternatives exist in the 40,000 yen price range. Particularly, the Logicool G PRO X 2 LIGHTSPEED offers longer battery life and graphene drivers at 32,175 yen, providing clear superiority in cost performance. When considering SteelSeries products, we recommend carefully evaluating whether the added value of the swappable battery system and dedicated base station can justify the price difference of over 8,000 yen. For gaming use requiring high audio quality, planar magnetic driver products like the Audeze Maxwell (60,500 yen) in the same price range should also be considered.
+The SteelSeries Arctis Nova Pro Wireless maintains a certain level of completion as a gaming headset with active noise cancelling functionality, but better alternatives exist in the 40,000 yen price range. The Logicool G PRO X 2 LIGHTSPEED at 32,175 yen offers longer battery life and graphene drivers, demonstrating clear superiority in cost performance. When considering SteelSeries products, we recommend carefully evaluating whether the added value of replaceable battery systems and dedicated base stations justifies a price difference exceeding 8,000 yen. For high-quality gaming applications, planar magnetic driver products like the Audeze Maxwell (60,500 yen) in the same price range also warrant consideration.
 
-(2025.7.10)
+(2025.7.11)
