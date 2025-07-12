@@ -8,7 +8,7 @@ ref: fiio-k11
 date: 2025-07-07
 rating: [4.0, 0.8, 0.8, 0.8, 0.8, 0.8]
 summary: "An entry-level USB DAC-integrated headphone amplifier that brings authentic balanced output to compact desktop environments. Featuring the CS43198 DAC chip, it achieves excellent measured performance with SNR of 123dB and THD+N below 0.00035% at an early 20,000 yen price point. High output power of 1400mW at 32Ω load and 250mW at 300Ω load via balanced output ensures comfortable driving of wide range of headphones."
-tags: [FiiO, USB DAC, headphone amplifier, balanced output, desktop audio, entry-level]
+tags: [FiiO, "USB DAC", "Headphone amplifier", "Balanced output", "Desktop audio", Entry-level]
 permalink: /products/en/fiio-k11/
 ---
 

@@ -8,7 +8,7 @@ ref: technics-eah-az80
 date: 2025-07-09
 rating: [3.5, 0.7, 0.6, 0.8, 0.8, 0.6]
 summary: "10mmアルミ合金ドライバーとLDAC対応で高解像度音質を実現したプレミアム完全ワイヤレスイヤホン"
-tags: [イヤホン, 完全ワイヤレス, ノイズキャンセリング, ハイレゾ]
+tags: [イヤフォン, ノイズキャンセリング, ハイレゾ, 完全ワイヤレスイヤホン]
 permalink: /products/ja/technics-eah-az80/
 ---
 

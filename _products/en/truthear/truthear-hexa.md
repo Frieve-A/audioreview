@@ -8,7 +8,7 @@ ref: truthear-hexa
 date: 2025-07-07
 rating: [3.5, 0.8, 0.7, 0.3, 0.7, 1.0]
 summary: "The Truthear Hexa is a Chinese IEM offering a 1DD+3BA hybrid configuration at USD 79.99. While its measured performance is solid, it faces serious price competitiveness issues, as competitors like the CCA C10 offer a 1DD+4BA configuration for around USD 25. Although praised for excellent isolation and a flat frequency response, its cost-performance ratio significantly lags behind alternatives."
-tags: [IEM, hybrid, China, 1DD3BA, Truthear]
+tags: [1DD3BA, China, "Hybrid technology", "In-ear monitors", Truthear]
 permalink: /products/en/truthear-hexa/
 ---
 

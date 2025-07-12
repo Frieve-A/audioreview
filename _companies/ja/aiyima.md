@@ -8,7 +8,7 @@ ref: aiyima
 date: 2025-07-09
 rating: [3.4, 0.6, 0.4, 1.0, 0.4, 1.0]
 summary: "深圳YiMa Technology Co., Ltd.による中国のDIYオーディオメーカー。低価格でTPA3255ベースのD級アンプを提供。科学的根拠に基づく合理的設計でCPは最高水準。"
-tags: [中国メーカー, D級アンプ, DIYオーディオ, TPA3255]
+tags: [中国, D級アンプ, DIYオーディオ, TPA3255]
 permalink: /companies/ja/aiyima/
 ---
 

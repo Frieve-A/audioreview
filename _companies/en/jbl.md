@@ -8,7 +8,7 @@ ref: jbl
 date: 2025-07-05
 rating: [3.7, 0.8, 0.7, 0.6, 0.9, 0.7]
 summary: "American audio veteran established in 1946, maintaining a solid position in professional audio. Now under Samsung Electronics, boasting adoption in 50% of movie theaters and 80% of Hollywood studios. Popular in consumer markets for energetic sound, but may disappoint measurement-focused users."
-tags: [America, Speaker, Professional, entertainment, Samsung]
+tags: [America, Speaker, Professional, Entertainment, Samsung]
 permalink: /companies/en/jbl/
 ---
 

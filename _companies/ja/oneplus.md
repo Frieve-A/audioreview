@@ -8,7 +8,7 @@ ref: oneplus
 date: 2025-07-11
 rating: [2.4, 0.5, 0.6, 0.3, 0.4, 0.6]
 summary: "OnePlusは中国のBBK Electronics傘下のスマートフォンブランドとして知られ、近年ワイヤレスイヤホン市場に参入している。OnePlus Buds Pro 3を中心とする音響製品は、手頃な価格でプレミアム機能を提供し、市場最高水準のコストパフォーマンスを実現している。"
-tags: [OnePlus, ワイヤレスイヤホン, 中国メーカー, BBK Electronics]
+tags: [OnePlus, ワイヤレスイヤホン, 中国, "BBK Electronics"]
 permalink: /companies/ja/oneplus/
 ---
 

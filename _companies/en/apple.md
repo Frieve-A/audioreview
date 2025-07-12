@@ -8,7 +8,7 @@ ref: apple
 date: 2025-07-05
 rating: [3.1, 0.7, 0.8, 0.4, 0.8, 0.4]
 summary: "The world's largest technology company made a full-scale entry into the audio market, with AirPods quickly becoming the world's best-selling headphone brand. With advanced integration via proprietary H1/H2 chips and innovative features like spatial audio, their products offer exceptional convenience but fall short of dedicated audio manufacturers in pure sound quality performance at similar price points, resulting in poor cost-performance. Ideal for users prioritizing ecosystem convenience, but not recommended for those focused on audio quality."
-tags: [USA, Audio, Wireless, AirPods, Beats, Spatial Audio]
+tags: [America, Audio, Wireless, AirPods, Beats, "Spatial Audio"]
 permalink: /companies/en/apple/
 ---
 

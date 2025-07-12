@@ -8,7 +8,7 @@ ref: eversolo
 date: 2025-07-08
 rating: [4.2, 0.9, 0.8, 0.9, 0.8, 0.8]
 summary: "Emerging Chinese audio company from Shenzhen specializing in streaming DACs. Shows strong technical capabilities with DMP-A8 and DMP-A10 featuring excellent measurement specs using AKM and ESS DACs, but faces pricing pressure from competitive alternatives."
-tags: [streamer, DAC, preamp, Chinese manufacturer, network]
+tags: [Streamer, DAC, Preamp, "Chinese manufacturer", Network]
 permalink: /companies/en/eversolo/
 ---
 

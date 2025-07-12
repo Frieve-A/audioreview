@@ -8,7 +8,7 @@ ref: edifier-neobuds-pro
 date: 2025-07-11
 rating: [2.2, 0.2, 0.4, 0.5, 0.7, 0.4]
 summary: "Edifier NeoBuds Pro 2は13dBの補正が必要な12kHz付近の深刻な周波数特性問題と、50dB宣伝に対し実測38dBのANC性能により、科学的有効性が著しく低い。"
-tags: [完全ワイヤレス, ANC, ハイレゾ, LDAC, LHDC]
+tags: [LDAC, LHDC, アクティブノイズキャンセリング, ハイレゾ, 完全ワイヤレスイヤホン]
 permalink: /products/ja/edifier-neobuds-pro/
 ---
 

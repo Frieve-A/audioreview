@@ -8,7 +8,7 @@ ref: neumann
 date: 2025-07-05
 rating: [4.8, 1.0, 1.0, 0.9, 0.9, 1.0]
 summary: "Founded in 1928, this legendary German acoustic equipment manufacturer established industry standards with microphones like the U87 and achieves high-precision acoustic reproduction through DSP technology in their KH series monitors. With both technical excellence and reliability at the highest levels, their monitor systems including the MA 1 automatic acoustic correction deliver exceptional cost-performance in professional environments."
-tags: [Germany, Microphones, Studio Monitors, Recording, Industry Standard]
+tags: [Germany, Microphones, "Studio Monitor", Recording, "Industry Standard"]
 permalink: /companies/en/neumann/
 ---
 

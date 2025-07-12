@@ -8,10 +8,9 @@ ref: edifier-mr4
 date: 2025-07-11
 rating: [3.3, 0.4, 0.6, 1.0, 0.7, 0.6]
 summary: "An entry-level studio monitor offered at an affordable price, but notable for its sub-bass reproduction limitations below 60Hz and mediocre measurement performance"
-tags: [studio monitor, active speaker, nearfield monitor, entry-level]
+tags: [Active speakers, Entry-level, Nearfield monitor, Studio monitors]
 permalink: /products/en/edifier-mr4/
 ---
-
 ## Overview
 
 The Edifier MR4 is an entry-level active studio monitor developed by Chinese audio equipment manufacturer Edifier. It features a 4-inch woofer and 1-inch silk dome tweeter with 42W (21W×2) output in a 2-way design. Priced around 115 USD, it includes monitor mode and music mode switching functionality, designed for home studios and small production environments. The MDF cabinet construction suppresses resonance, and it is equipped with balanced XLR/TRS inputs and RCA inputs.

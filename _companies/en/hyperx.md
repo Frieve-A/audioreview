@@ -8,7 +8,7 @@ ref: hyperx
 date: 2025-07-11
 rating: [2.1, 0.3, 0.4, 0.6, 0.5, 0.3]
 summary: "A gaming headset-focused brand that emphasizes functionality-oriented design, but falls behind general-purpose audio equipment in measured performance and faces challenges in price competitiveness"
-tags: [gaming headset, HyperX, Kingston, HP, wireless]
+tags: ["Gaming headset", HyperX, Kingston, HP, Wireless]
 permalink: /companies/en/hyperx/
 ---
 

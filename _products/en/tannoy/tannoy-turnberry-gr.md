@@ -8,10 +8,9 @@ ref: tannoy-turnberry-gr
 date: 2025-07-08
 rating: [3.1, 0.7, 0.8, 0.4, 0.6, 0.6]
 summary: "A floor-standing speaker carrying forward British dual concentric technology tradition. Features 93dB/W high efficiency and 1.3kHz crossover for musical coherence, but at USD 8,880 the price presents significant cost-performance challenges when equivalent performance is available at 1/3 the cost."
-tags: [UK, Floor-standing, Speakers, Dual-Concentric, High-Efficiency]
+tags: [Dual-Concentric, Floor-standing, High-Efficiency, Speakers, United Kingdom]
 permalink: /products/en/tannoy-turnberry-gr/
 ---
-
 ## Overview
 
 The Tannoy Turnberry GR is a floor-standing speaker employing traditional British dual concentric technology. Featuring a 10-inch dual concentric driver with 93dB/W high efficiency, it achieves adequate volume levels with low-power amplifiers. The design emphasizes musical coherence through 34Hz to 44kHz frequency response and 1.3kHz crossover. The cabinet uses premium American walnut veneer/solid wood measuring 456×950×336mm, weighing 30kg, selling for USD 8,880 USD (¥1,298,000 per pair).

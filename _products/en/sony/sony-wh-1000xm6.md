@@ -8,7 +8,7 @@ ref: sony-wh-1000xm6
 date: 2025-07-11
 rating: [4.2, 0.8, 0.9, 0.7, 0.9, 0.9]
 summary: "Sony's flagship wireless noise-canceling headphones. Features the return of the folding mechanism and improved sound quality, with a better cost-performance."
-tags: [Headphones, Wireless, Noise Cancelling, Bluetooth, ANC]
+tags: ["Active noise cancelling", Bluetooth, Headphones, Wireless]
 permalink: /products/en/sony-wh-1000xm6/
 ---
 

@@ -9,7 +9,7 @@ date: 2025-07-06
 permalink: /companies/en/rega/
 rating: [1.3, 0.2, 0.2, 0.1, 0.5, 0.3]
 summary: "Rega is an extremely niche legacy company specialized in analog reproduction that falls far short of modern digital standards in scientific fidelity and technological advancement. Its technology refines outdated formats and is valued low from a cutting-edge technology perspective. Pure performance-to-price ratio is catastrophic, and its value depends entirely on personal taste and nostalgia."
-tags: [UK, Audio, Turntable, Amplifier, Analog, Legacy Technology, Digital Comparison]
+tags: ["United Kingdom", Audio, Turntable, Amplifier, Analog, "Legacy Technology", "Digital Comparison"]
 ---
 
 ## Overview

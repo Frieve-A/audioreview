@@ -8,7 +8,7 @@ ref: ifi-audio-zen-dac-3
 date: 2025-07-07
 rating: [4.5, 0.9, 1.0, 0.7, 1.0, 0.9]
 summary: "34,794円という価格でTHD+N 0.0015%、SNR 113dBという高性能を実現したデスクトップDAC/ヘッドホンアンプ。同価格帯のFiiO K7と比較しても測定性能で明確に優位。DSD512/PCM768対応、MQAフルデコードなど機能面も充実しており、コストパフォーマンスは極めて優秀。"
-tags: [イギリス, DAC, ヘッドホンアンプ, デスクトップ, USB]
+tags: [DAC, USB, イギリス, デスクトップ, ヘッドフォンアンプ]
 permalink: /products/ja/ifi-audio-zen-dac-3/
 ---
 

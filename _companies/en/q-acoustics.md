@@ -8,7 +8,7 @@ ref: q-acoustics
 date: 2025-07-08
 rating: [3.4, 0.6, 0.7, 0.5, 0.8, 0.8]
 summary: "UK emerging speaker manufacturer with P2P bracing technology and other innovations, but measurement performance advantage over price is limited."
-tags: [speakers, UK, P2P bracing, bookshelf]
+tags: [Speaker, "United Kingdom", "P2P bracing", Bookshelf]
 permalink: /companies/en/q-acoustics/
 ---
 

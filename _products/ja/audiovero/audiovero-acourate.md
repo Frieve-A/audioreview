@@ -8,7 +8,7 @@ ref: audiovero-acourate
 date: 2025-07-07
 rating: [4.4, 1.0, 0.9, 0.9, 0.8, 0.8]
 summary: "プロフェッショナル向けルーム補正・測定ソフトウェアの最高峰。FIRフィルター生成に加え、独自のICPA技術による高度な位相補正機能が特徴。Bob Katzなど著名エンジニアに支持される業界標準ツールの一つ。直接の競合であるAudiolense XOと比較しても遜色ない機能性を持ち、価格も妥当な範囲にある。"
-tags: [AudioVero, Acourate, ルーム補正, FIRフィルター, プロフェッショナル]
+tags: [Acourate, AudioVero, FIRフィルター, プロフェッショナル, ルーム音響補正]
 permalink: /products/ja/audiovero-acourate/
 ---
 

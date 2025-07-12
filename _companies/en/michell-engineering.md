@@ -8,7 +8,7 @@ ref: michell-engineering
 date: 2025-07-06
 rating: [1.8, 0.2, 0.4, 0.1, 0.8, 0.3]
 summary: "A prominent British audio manufacturer known for sophisticated mechanical engineering and iconic design. However, their technology specializes in compensating for the shortcomings of analog records - a medium with physically low performance limitations. Based on the absolute evaluation criterion of fidelity to master sources, their performance falls far short of modern standard digital reproduction, with markedly low cost-performance. Their products are limited to users seeking not performance, but hobbyist processes and mechanical craftsmanship value."
-tags: [Britain, Analog, Turntable, GyroDec, Orbe]
+tags: ["United Kingdom", Analog, Turntable, GyroDec, Orbe]
 permalink: /companies/en/michell-engineering/
 ---
 

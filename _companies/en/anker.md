@@ -8,7 +8,7 @@ ref: anker
 date: 2025-07-09
 rating: [3.2, 0.5, 0.6, 0.9, 0.6, 0.6]
 summary: "Anker entered the audio field with its Soundcore brand, expanding market share through a cost-performance focused approach. While technical level relies mainly on combining existing products, it outperforms competitors in noise-cancelling technology and long battery life in the 10,000 yen price range"
-tags: [Anker, Soundcore, wireless earbuds, Bluetooth speakers, cost-performance]
+tags: [Anker, Soundcore, "Wireless Earphones", "Bluetooth Speaker", "Cost Performance"]
 permalink: /companies/en/anker/
 ---
 

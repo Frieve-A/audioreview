@@ -8,7 +8,7 @@ ref: final-audio
 date: 2025-07-05
 rating: [4.2, 0.8, 1.0, 0.5, 0.9, 1.0]
 summary: "A Japanese veteran audio manufacturer founded in 1974. Starting with cartridges, amplifiers, and speakers, they are now globally acclaimed for high-end headphones and IEMs. Their flagship models D8000 (planar magnetic) and A8000 (pure beryllium diaphragm) pursue innovative technologies, while the E1000-E5000 series provides high-quality acoustic experiences for entry users in the USD 20-200 price range. Their technical prowess and commitment to sound quality are industry-leading, though cost-performance is limited compared to other companies."
-tags: [Japanese, High-End, Beryllium, Planar Magnetic, Earphones, Headphones]
+tags: [Japan, High-End, Beryllium, "Planar Magnetic", Earphones, Headphones]
 permalink: /companies/en/final-audio/
 ---
 

@@ -8,7 +8,7 @@ ref: realme
 date: 2025-07-11
 rating: [3.7, 0.6, 0.7, 0.8, 0.8, 0.8]
 summary: "As an audio brand under China's BBK Electronics, realme offers competitive TWS earphones with superior cost-performance. The Buds Air 6 Pro delivers excellent specifications including 50dB ANC and LDAC support at competitive pricing."
-tags: [TWS, Chinese manufacturer, BBK, entry-level, mid-range]
+tags: ["Wireless Earphones", "Chinese manufacturer", BBK, Entry-level, Mid-range]
 permalink: /companies/en/realme/
 ---
 

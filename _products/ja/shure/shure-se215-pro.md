@@ -8,7 +8,7 @@ ref: shure-se215-pro
 date: 2025-07-09
 rating: [3.5, 0.8, 0.7, 1.0, 0.6, 0.4]
 summary: "37dB遮音性能が際立つプロフェッショナル向けIEM"
-tags: [有線イヤホン, モニターイヤホン, カナル型]
+tags: [カナル型, モニターイヤホン, 有線イヤフォン]
 permalink: /products/ja/shure-se215-pro/
 ---
 

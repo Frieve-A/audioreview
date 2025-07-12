@@ -8,7 +8,7 @@ ref: kef
 date: 2025-07-05
 rating: [4.4, 0.9, 1.0, 0.7, 0.9, 0.9]
 summary: "Innovative British speaker manufacturer founded in 1961. Revolutionized the audio industry with proprietary Uni-Q coaxial driver technology and continues technological innovation to this day. From developing BBC monitor LS3/5A to the latest Meta technology, they consistently lead the frontiers of acoustic engineering. Despite being under Hong Kong's GP Acoustics, they maintain their UK design and R&D structure, providing world-class acoustic technology."
-tags: [Britain, Speaker, Uni-Q, "Meta technology", BBC, "acoustic engineering"]
+tags: ["United Kingdom", Speaker, Uni-Q, "Meta technology", BBC, "Acoustic engineering"]
 permalink: /companies/en/kef/
 ---
 

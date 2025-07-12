@@ -8,7 +8,7 @@ ref: sony
 date: 2025-07-05
 rating: [3.7, 0.7, 0.9, 0.4, 0.9, 0.8]
 summary: "Japanese electronics manufacturer that created the history of portable music with the Walkman and continues to lead wireless earbud technology innovation. Leveraging technical expertise cultivated across fields from music production to consumer products, they boast world-class performance particularly in noise cancellation technology. Their product lineup ranges from professional monitor headphones to high-quality wireless earbuds for general consumers, meeting diverse needs."
-tags: [Japan, audio, wireless, noise cancellation, Walkman]
+tags: [Japan, Audio, Wireless, "Noise cancellation", Walkman]
 permalink: /companies/en/sony/
 ---
 

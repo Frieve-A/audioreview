@@ -8,11 +8,9 @@ ref: wiim-pro-plus
 date: 2025-07-08
 rating: [4.2, 0.8, 0.8, 0.9, 0.8, 0.9]
 summary: "AKM4493SEQ DAC搭載のミュージックストリーマー（219USD）。SNR 120dB、THD+N -110dB、32bit/768kHz PCM・DSD512対応で透明レベルの測定値を実現。同価格帯に競合製品が存在しない圧倒的なコストパフォーマンス。"
-tags: [streamer, akm, dac, budget, velvet-sound]
+tags: [AKM, DAC, Velvet-sound, コストパフォーマンス, ネットワークストリーマー]
 permalink: /products/ja/wiim-pro-plus/
----
-
-## 概要
+---## 概要
 
 WiiM Pro Plusは中国LinkPlay Technology傘下WiiMブランドの中級ミュージックストリーマーです。219USDという価格でAKM4493SEQ Velvet Sound DACを搭載し、SNR 120dB、THD+N -110dB（0.00032%）の透明レベル測定値を実現しています。32bit/768kHz PCM、DSD512対応で、Wi-Fi 6、Bluetooth 5.3、Room Correction機能を搭載。従来この価格帯では不可能であった高性能DAC搭載により、エントリーレベルのミュージックストリーマー市場を完全に塗り替えた製品です。
 

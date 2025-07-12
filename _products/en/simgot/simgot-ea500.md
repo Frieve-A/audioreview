@@ -8,7 +8,7 @@ ref: simgot-ea500
 date: 2025-07-07
 rating: [2.7, 0.7, 0.6, 0.4, 0.6, 0.4]
 summary: "Single-driver IEM featuring 10mm DLC dynamic driver at 79USD price point. Features dual-magnetic circuit design and interchangeable nozzle tuning system. While measurement performance and technical competence are decent, overwhelming cost-performance advantage is lacking compared to 20USD Moondrop Chu or same-priced Truthear Hexa."
-tags: [IEM, Dynamic Driver, DLC, China, 79USD]
+tags: [79USD, China, DLC, "Dynamic driver", "In-ear monitors"]
 permalink: /products/en/simgot-ea500/
 ---
 

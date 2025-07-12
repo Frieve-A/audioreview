@@ -8,7 +8,7 @@ ref: focusrite
 date: 2025-07-08
 rating: [4.2, 0.9, 0.8, 0.8, 0.8, 0.9]
 summary: "UK comprehensive audio company with 13 brands. Achieves professional quality at consumer prices through RedNet technology."
-tags: [audio interface, preamp, recording, UK]
+tags: ["Audio interface", Preamp, Recording, "United Kingdom"]
 permalink: /companies/en/focusrite/
 ---
 

@@ -8,7 +8,7 @@ ref: harbeth
 date: 2025-07-05
 rating: [3.7, 0.8, 0.8, 0.3, 0.9, 0.9]
 summary: "Founded in 1977 by BBC Research Department's Dudley Harwood and led by Alan Shaw since 1986, this British heritage speaker manufacturer pursues natural sound through thin-wall cabinet technology inheriting BBC monitor DNA and proprietary RADIAL2 driver technology. From P3ESR XD (USD 3,635) to Monitor 40.5 (exceeding USD 6,670), this prestigious British audio company enjoys broad support from professionals to audiophiles for natural sound reproduction."
-tags: [UK, BBC Monitor, Natural Sound, Studio Monitor, Thin-Wall Cabinet]
+tags: ["United Kingdom", "BBC Monitor", "Natural Sound", "Studio Monitor", "Thin-Wall Cabinet"]
 permalink: /companies/en/harbeth/
 ---
 

@@ -8,7 +8,7 @@ ref: tannoy
 date: 2025-07-08
 rating: [3.5, 0.6, 0.8, 0.3, 0.9, 0.9]
 summary: "Traditional UK/Scottish speaker manufacturer with 98-year history, but 2017 factory closure reduced scale. Dual Concentric technology is unique but cost-performance has declined by modern measurement standards."
-tags: [speakers, UK, Dual Concentric, coaxial driver, Prestige]
+tags: [Speaker, "United Kingdom", "Dual Concentric", "Coaxial driver", Prestige]
 permalink: /companies/en/tannoy/
 ---
 

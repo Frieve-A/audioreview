@@ -8,7 +8,7 @@ ref: eversolo-dmp-a8
 date: 2025-07-08
 rating: [4.2, 0.9, 0.8, 0.9, 0.8, 0.8]
 summary: "AKM Velvet Sound技術搭載のプレミアムストリーミングDAC。XLR出力でTHD+N -120dB、SNR 128dBの優秀な測定性能を実現。6インチタッチスクリーン、フルバランス構成、R2Rボリューム制御など上位機能を搭載するが、29万円台の価格でコスパに課題。"
-tags: [ストリーマー, DAC, プリアンプ, AKM, バランス出力]
+tags: [AKM, DAC, ネットワークストリーマー, バランス出力, プリアンプ]
 permalink: /products/ja/eversolo-dmp-a8/
 ---
 

@@ -8,7 +8,7 @@ ref: wireworld
 date: 2025-07-05
 rating: [1.5, 0.0, 0.5, 0.1, 0.8, 0.1]
 summary: "A US-based premium cable manufacturer known for unique cable structures and designs. However, most of their claims lack scientific basis, and their impact on sound quality is not objectively proven. With professional-grade cables offering equivalent or superior electrical performance at a fraction of the price, cost-performance is extremely poor. Best positioned as high-end accessories for users attracted to product appearance and brand value."
-tags: [USA, Cable, High-End Audio]
+tags: [America, Cable, "High-End Audio"]
 permalink: /companies/en/wireworld/
 ---
 

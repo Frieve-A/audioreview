@@ -8,7 +8,7 @@ ref: aiyima
 date: 2025-07-09
 rating: [3.4, 0.6, 0.4, 1.0, 0.4, 1.0]
 summary: "Chinese DIY audio manufacturer by Shenzhen YiMa Technology Co., Ltd. Provides low-cost TPA3255-based Class D amplifiers. Rational design based on scientific evidence with maximum CP performance."
-tags: [Chinese Manufacturer, Class D Amplifier, DIY Audio, TPA3255]
+tags: ["Chinese Manufacturer", "Class D", "DIY Audio", TPA3255]
 permalink: /companies/en/aiyima/
 ---
 

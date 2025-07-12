@@ -8,7 +8,7 @@ ref: earfun
 date: 2025-07-11
 rating: [3.2, 0.5, 0.4, 1.0, 0.6, 0.7]
 summary: "Chinese cost-focused audio brand established in 2018. Offers high-feature products with 50dB noise cancellation exceeding industry standards and reasonable cost-performance."
-tags: [cost-performance, China, wireless earphones, noise cancelling, low price]
+tags: ["Cost Performance", China, "Wireless earphones", "Noise cancelling", "Low price"]
 permalink: /companies/en/earfun/
 ---
 

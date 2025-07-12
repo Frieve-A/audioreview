@@ -8,7 +8,7 @@ ref: etymotic-research-er2se-er2xr
 date: 2025-07-07
 rating: [4.4, 0.9, 0.8, 0.8, 0.9, 1.0]
 summary: "The Etymotic Research ER2SE/ER2XR are single dynamic driver IEMs priced at USD 100. Their greatest feature is the scientifically-proven, industry-leading 35-42dB passive noise isolation. While there are cheaper options for sound quality alone, no other product offers this level of isolation at this price point. This makes them an exceptional value for those who need to block out external noise. Their technical competence and reliability are also highly rated."
-tags: [IEM, single dynamic, USA, Etymotic, isolation performance]
+tags: [America, Etymotic, "In-ear monitors", "Isolation performance", "Single dynamic"]
 permalink: /products/en/etymotic-research-er2se-er2xr/
 ---
 

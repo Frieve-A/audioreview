@@ -8,7 +8,7 @@ ref: soundpeats
 date: 2025-07-11
 rating: [3.2, 0.6, 0.5, 1.0, 0.8, 0.3]
 summary: "2010年創業の中国系ワイヤレスイヤホン専門メーカー。コストパフォーマンス重視の製品展開で価格帯5,000円～8,000円台を中心とし、ANC性能では競争力のある製品を提供している。"
-tags: [ワイヤレスイヤホン, 中国メーカー, コストパフォーマンス, TWS]
+tags: [ワイヤレスイヤホン, 中国, コストパフォーマンス, "Wireless Earphones"]
 permalink: /companies/ja/soundpeats/
 ---
 

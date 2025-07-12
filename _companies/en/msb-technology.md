@@ -8,7 +8,7 @@ ref: msb-technology
 date: 2025-07-06
 rating: [4.0, 1.0, 1.0, 0.0, 1.0, 1.0]
 summary: "A group of engineers based in Silicon Valley pursuing the ultimate in digital reproduction. For over 20 years, they have continued in-house development of their discrete ladder DAC, challenging the limits of measured performance. Their products are designed with a modular structure that allows for upgrades, ensuring long-term value. However, their pursuit of technological ideals comes at an uncompromising price, with equivalent or superior measured performance available at 1/40th the cost, resulting in zero cost-performance rating. This brand embodies the pinnacle of engineering and its corresponding price."
-tags: [USA, DAC, Digital, High-end, Ladder DAC, Modular]
+tags: [America, DAC, Digital, High-end, "Ladder DAC", Modular]
 permalink: /companies/en/msb-technology/
 ---
 

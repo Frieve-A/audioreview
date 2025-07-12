@@ -8,7 +8,7 @@ ref: ps-audio
 date: 2025-07-06
 rating: [3.0, 0.5, 0.8, 0.1, 0.8, 0.8]
 summary: "American high-end audio manufacturer founded in 1973. Renowned for their DirectStream series utilizing DSD upsampling technology, particularly leading the industry in DAC development. While their long-term support through firmware updates and technical innovation is commendable, their products are expensive, and equivalent performance can often be obtained at much lower prices. An attractive choice for users pursuing the latest digital audio technology."
-tags: [USA, DAC, DSD, High-end Audio, Digital]
+tags: [America, DAC, DSD, "High-end Audio", Digital]
 permalink: /companies/en/ps-audio/
 ---
 

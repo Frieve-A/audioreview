@@ -8,10 +8,9 @@ ref: jbl-flip-7
 date: 2025-07-07
 rating: [3.2, 0.6, 0.7, 0.6, 0.8, 0.5]
 summary: "The JBL FLIP 7 is a solid evolution from its predecessor, featuring increased output, IP68 waterproofing, and support for the next-generation Bluetooth standard, Auracast. However, these improvements come at a higher price, making its cost-performance less compelling than the previous model and warranting careful consideration."
-tags: [JBL, Speaker, Portable, Bluetooth, Waterproof, AI]
+tags: [AI, Bluetooth, JBL, Portable audio, Speakers, Waterproof]
 permalink: /products/en/jbl-flip-7/
 ---
-
 ## Overview
 
 The JBL FLIP 7 is a portable Bluetooth speaker launched in April 2025. It features a 2-way configuration with a 45×80mm woofer and 16mm tweeter, complemented by passive radiators at both ends, delivering a total output of 35W. The AI Sound Boost feature optimizes audio quality in real-time, reducing distortion while providing powerful sound. With IP68 waterproof and dustproof rating, it offers up to 16 hours of continuous playback from its 4,800mAh battery. USB-C connectivity enables lossless playback up to 48kHz/24bit resolution.

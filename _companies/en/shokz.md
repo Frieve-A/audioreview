@@ -8,7 +8,7 @@ ref: shokz
 date: 2025-07-06
 rating: [3.4, 0.8, 0.7, 0.4, 0.8, 0.7]
 summary: "Pioneer in bone conduction technology with over 10 years of history. Rebranded from AfterShokz in December 2021, specializing in sports and fitness-oriented bone conduction headphones. While inferior to traditional headphones in audio quality, offers unique value in safety and comfort. Technically optimized within bone conduction limitations, but pricing is higher compared to competing products."
-tags: [China, bone conduction, sports, fitness, safety]
+tags: [China, "Bone conduction", Sports, Fitness, Safety]
 permalink: /companies/en/shokz/
 ---
 

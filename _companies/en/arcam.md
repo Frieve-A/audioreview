@@ -8,7 +8,7 @@ ref: arcam
 date: 2025-07-06
 rating: [4.3, 0.9, 0.9, 0.7, 0.9, 0.9]
 summary: "UK powerhouse balancing practicality and performance. Incorporating proprietary Class G amplifier technology and advanced room correction like Dirac Live into realistically priced products. Provides high value to audiophiles."
-tags: [United Kingdom, Hi-Fi, Amplifier, Class G, Dirac Live, Cost-Performance]
+tags: ["United Kingdom", Hi-Fi, Amplifier, "Class G", "Dirac Live", "Cost Performance"]
 permalink: /companies/en/arcam/
 ---
 

@@ -8,7 +8,7 @@ ref: audioquest
 date: 2025-07-06
 rating: [2.6, 0.3, 0.8, 0.1, 0.8, 0.6]
 summary: "American cable specialist founded in 1980. Develops high-end cables using proprietary technologies like silver wire, single-crystal copper, and DBS (Dielectric Bias System). While some products show measurable electrical characteristic improvements, audible changes are often not scientifically proven. With products reaching tens of thousands of dollars per meter, cost-performance is not recommendable. However, high-quality construction and beautiful finishes provide satisfaction as system components."
-tags: [United States, Cables, Accessories, High-End, Controversial]
+tags: [America, Cables, Accessories, High-End, Controversial]
 permalink: /companies/en/audioquest/
 ---
 

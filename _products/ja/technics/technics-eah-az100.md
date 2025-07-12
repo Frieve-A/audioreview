@@ -8,7 +8,7 @@ ref: technics-eah-az100
 date: 2025-07-08
 rating: [3.5, 0.6, 0.8, 0.7, 0.8, 0.6]
 summary: "磁流体ドライバー技術を搭載したフラッグシップ完全ワイヤレスイヤホン"
-tags: [完全ワイヤレス, ノイズキャンセリング, Technics, ハイレゾ対応]
+tags: [Technics, ノイズキャンセリング, ハイレゾ対応, 完全ワイヤレスイヤホン]
 permalink: /products/ja/technics-eah-az100/
 ---
 

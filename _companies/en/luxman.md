@@ -8,7 +8,7 @@ ref: luxman
 date: 2025-07-05
 rating: [2.4, 0.5, 0.8, 0.0, 0.9, 0.2]
 summary: "A century-old Japanese audio manufacturer established in 1925. While maintaining a solid position in the luxury amplifier market with technically accomplished products like the L-509X and L-595A Special Edition, the company struggles with cost-performance due to equivalent products available at 1/12th to 1/50th the price. The brand tends to rely on subjective 'sound quality' arguments rather than scientific evaluation, though build quality and reliability remain exemplary."
-tags: [Japan, amplifier, luxury audio, integrated amplifier, Luxman]
+tags: [Japan, Amplifier, High-end, "Integrated amplifier", Luxman]
 permalink: /companies/en/luxman/
 ---
 

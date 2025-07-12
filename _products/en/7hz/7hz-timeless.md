@@ -8,7 +8,7 @@ ref: 7hz-timeless
 date: 2025-07-06
 rating: [3.1, 0.8, 0.8, 0.3, 0.6, 0.6]
 summary: "The 7Hz Timeless was a revolutionary 14.2mm planar magnetic IEM that sparked the 'planar war' when released in 2021. Originally priced at USD220, it brought kilogram-class audio quality to the masses and significantly contributed to the popularization of planar IEMs. While technically competent with characteristic planar low distortion and fast transient response, the 2024 release of Timeless II has rendered the original largely obsolete. With numerous excellent planar IEMs now available under USD90 and the superior Timeless II at USD229, the original Timeless faces strong headwinds in the current competitive landscape."
-tags: [China, IEM, "Planar Magnetic", Revolutionary-Product, Low-Distortion, Legacy-Product]
+tags: [China, "In-ear monitors", Legacy-Product, Low-Distortion, "Planar magnetic", Revolutionary-Product]
 permalink: /products/en/7hz-timeless/
 ---
 

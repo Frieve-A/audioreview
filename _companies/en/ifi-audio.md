@@ -8,7 +8,7 @@ ref: ifi-audio
 date: 2025-07-06
 rating: [2.4, 0.5, 0.7, 0.2, 0.6, 0.4]
 summary: "A distinctive British brand that redefines 'musical enjoyment,' diverging from measurement-supremacist approaches to pursue a unique 'iFi sound' through Burr-Brown DAC chips and analog circuitry. Diverse acoustic correction features like XBass+ and 3D+ serve as tools to enrich listening experiences. However, this philosophy conflicts with the objectivity and fidelity standards defined by our policy, resulting in extremely low cost-performance ratings. A choice for users who prioritize feeling over data."
-tags: [UK, DAC, Amplifier, Portable, MQA, Burr-Brown]
+tags: ["United Kingdom", DAC, Amplifier, Portable, MQA, Burr-Brown]
 permalink: /companies/en/ifi-audio/
 ---
 

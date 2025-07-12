@@ -8,7 +8,7 @@ ref: nothing
 date: 2025-07-09
 rating: [2.9, 0.4, 0.5, 0.9, 0.5, 0.6]
 summary: "British technology company founded in 2021 by OnePlus co-founder Carl Pei. Achieved 577% growth in 2024 through transparent design and innovative UI differentiation, but audio product acoustic measurement performance remains at average levels"
-tags: [true wireless earbuds, smartphone, transparent design, innovation, Britain]
+tags: ["True wireless earbuds", Smartphone, "Transparent design", Innovation, "United Kingdom"]
 permalink: /companies/en/nothing/
 ---
 

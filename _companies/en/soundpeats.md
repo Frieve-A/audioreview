@@ -8,7 +8,7 @@ ref: soundpeats
 date: 2025-07-11
 rating: [3.2, 0.6, 0.5, 1.0, 0.8, 0.3]
 summary: "Chinese wireless earphone manufacturer founded in 2010. Cost-performance focused product lineup primarily in the 5,000-8,000 JPY price range, offering competitive ANC performance."
-tags: [wireless earphones, Chinese manufacturer, cost performance, TWS]
+tags: ["Wireless earphones", "Chinese manufacturer", "Cost performance", "Wireless Earphones"]
 permalink: /companies/en/soundpeats/
 ---
 

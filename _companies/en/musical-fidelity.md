@@ -8,7 +8,7 @@ ref: musical-fidelity
 date: 2025-07-05
 rating: [3.3, 0.8, 0.8, 0.1, 0.8, 0.8]
 summary: "Prestigious British amplifier manufacturer founded in 1982. From founder Anthony Michaelson's first handcrafted product on his kitchen table to the 100,000-unit shipment of the A1 and revolutionary NuVista vacuum tube technology, the company has carved its name in the industry. Acquired by Austria's Audio Tuning in 2018, but maintains the British tradition of 'natural and authentic sound.' Currently offers a comprehensive lineup from entry to flagship models, led by the A1 reissue that won Stereophile's 2024 Budget Component Award."
-tags: [Britain, Amplifier, Class A, Vacuum Tube, NuVista, Integrated Amplifier]
+tags: ["United Kingdom", Amplifier, "Class A", "Vacuum Tube", NuVista, "Integrated Amplifier"]
 permalink: /companies/en/musical-fidelity/
 ---
 

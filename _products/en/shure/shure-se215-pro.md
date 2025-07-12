@@ -8,7 +8,7 @@ ref: shure-se215-pro
 date: 2025-07-09
 rating: [3.5, 0.8, 0.7, 1.0, 0.6, 0.4]
 summary: "Professional IEM with exceptional 37dB isolation performance"
-tags: [wired earphones, monitor earphones, in-ear]
+tags: ["Wired earphones", "Monitor earphones", In-ear]
 permalink: /products/en/shure-se215-pro/
 ---
 

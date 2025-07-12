@@ -8,7 +8,7 @@ ref: creative-outlier-air-v3
 date: 2025-07-10
 rating: [2.0, 0.2, 0.3, 1.0, 0.2, 0.3]
 summary: "Creative Outlier Air V3 functions as a basic wireless earphone but lacks competitiveness under modern standards due to technical limitations"
-tags: [Wireless Earphones, ANC, Creative, True Wireless]
+tags: ["Active noise cancelling", Creative, "Wireless Earphones"]
 permalink: /products/en/creative-outlier-air-v3/
 ---
 

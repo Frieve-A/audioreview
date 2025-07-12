@@ -8,7 +8,7 @@ ref: moondrop
 date: 2025-07-05
 rating: [4.1, 0.8, 0.9, 0.7, 0.8, 0.9]
 summary: "2015年創業の中国・成都に拠点を置くオーディオメーカー。「Chi-Fi」（中国製ハイファイ）の代表格として、Harmanカーブをベースとした科学的アプローチで高品質なIEMを低価格で提供。特にAria・Starfield・Blessing等の製品は世界的に高い評価を得ており、従来の価格帯の常識を覆す圧倒的なコストパフォーマンスを実現。Audio Precision APx555等の最先端測定機器を駆使した開発体制で、オーディオファイル層からエントリーユーザーまで幅広い支持を獲得しています。"
-tags: [中国, Chi-Fi, IEM, イヤホン, コスパ, Harman]
+tags: [中国, Chi-Fi, IEM, イヤホン, コストパフォーマンス, Harman]
 permalink: /companies/ja/moondrop/
 ---
 

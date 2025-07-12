@@ -8,7 +8,7 @@ ref: focusrite-scarlett-18i20-gen-4
 date: 2025-07-08
 rating: [3.5, 0.8, 0.7, 0.6, 0.8, 0.6]
 summary: "18in20out audio interface achieving 122dB dynamic range with RedNet converters. Excellent audio quality but faces price competitiveness challenges."
-tags: [audio interface, USB-C, RedNet, 18in20out, DTM, recording]
+tags: ["Audio interface", USB-C, RedNet, 18in20out, DTM, Recording]
 permalink: /products/en/focusrite-scarlett-18i20-gen-4/
 ---
 

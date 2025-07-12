@@ -8,11 +8,9 @@ ref: etymotic-research-er2se-er2xr
 date: 2025-07-07
 rating: [4.4, 0.9, 0.8, 0.8, 0.9, 1.0]
 summary: "Etymotic Research ER2SE/ER2XRは、USD 100で販売される単一ダイナミックドライバーIEMです。最大の特徴は、科学的に証明された業界最高水準の35-42dBのパッシブノイズアイソレーション性能にあります。音質だけならより安価な選択肢も存在しますが、この遮音性能をこの価格で実現する製品は他に類を見ません。そのため、外部騒音の遮断を必要とするユーザーにとっては卓越した価値を提供します。技術的完成度と信頼性も高く評価されています。"
-tags: [IEM, 単一ダイナミック, アメリカ, Etymotic, 遮音性能]
+tags: [Etymotic, アメリカ, インイヤーモニター, 単一ダイナミック, 遮音性能]
 permalink: /products/ja/etymotic-research-er2se-er2xr/
----
-
-## 概要
+---## 概要
 
 Etymotic ER2SE/ER2XRは、聴覚科学の権威であるEtymotic Researchが開発した単一ダイナミックドライバーIEMです。ER2SE（Studio Edition）は完全にフラットな周波数特性を持つリファレンスモデルで、ER2XR（Extended Response）は低域を1-2dB（中低域）、3-4dB（サブベース）強化したコンシューマー向けチューニングを採用しています。
 

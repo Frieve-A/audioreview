@@ -8,7 +8,7 @@ ref: shunyata-research-review
 date: 2025-07-05
 rating: [1.9, 0.1, 0.6, 0.1, 0.9, 0.2]
 summary: "A US-based high-end audio accessories manufacturer. Centering on power cables and power conditioners, they deploy products incorporating numerous proprietary patented technologies. While promoting adoption in professional audio and medical fields, significant questions remain regarding price settings and scientific basis of claimed effects. Products are robustly constructed with high-quality materials, but claimed sound quality improvements lack objective data, resulting in extremely poor cost-performance."
-tags: [USA, Cable, Power, High-End Audio, Occult Audio]
+tags: [America, Cable, Power, "High-End Audio", "Occult Audio"]
 permalink: /companies/en/shunyata-research/
 ---
 

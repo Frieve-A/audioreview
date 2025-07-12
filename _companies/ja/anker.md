@@ -8,7 +8,7 @@ ref: anker
 date: 2025-07-09
 rating: [3.2, 0.5, 0.6, 0.9, 0.6, 0.6]
 summary: "Soundcoreブランドでオーディオ分野に参入したAnkerは、コストパフォーマンスに特化したアプローチで市場シェアを拡大している。技術レベルは既製品の組み合わせが中心だが、1万円台でのノイズキャンセリング技術や長時間バッテリー性能で競合他社を上回る"
-tags: [アンカー, Soundcore, ワイヤレスイヤホン, Bluetoothスピーカー, コスパ]
+tags: [アンカー, Soundcore, ワイヤレスイヤホン, Bluetoothスピーカー, コストパフォーマンス]
 permalink: /companies/ja/anker/
 ---
 

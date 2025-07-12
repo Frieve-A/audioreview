@@ -8,10 +8,9 @@ ref: sonus-faber-lumina-ii-amator
 date: 2025-07-08
 rating: [1.8, 0.4, 0.4, 0.3, 0.5, 0.2]
 summary: "A bookshelf speaker combining traditional Italian craftsmanship with modern driver technology. Features beautiful wood finish and DAD™ tweeter technology, but at USD 1,888 the price presents significant cost-performance challenges when equivalent acoustic performance is available at 1/4 the cost."
-tags: [Italy, Bookshelf, Speakers, High-End Audio, Craftsmanship]
+tags: [Bookshelf, Craftsmanship, High-End Audio, Italy, Speakers]
 permalink: /products/en/sonus-faber-lumina-ii-amator/
 ---
-
 ## Overview
 
 The Sonus faber Lumina II Amator is a 2-way bookshelf speaker hand-assembled in Vicenza, Italy. Released in March 2024, it inherits technology from the flagship "Homage Collection" while aiming for a more accessible price point. It features a 150mm natural fabric cone woofer and 28mm DAD™ (Damped Apex Dome) silk soft dome tweeter, with frequency response of 55Hz to 24kHz. Operating at 4Ω impedance with 86dB/2.83V/m sensitivity, it sells for USD 1,888 USD (¥272,800 tax-included, pair).

@@ -8,7 +8,7 @@ ref: genelec
 date: 2025-07-05
 rating: [4.4, 0.9, 0.9, 0.9, 0.8, 0.9]
 summary: "Founded in 1978, this Finnish studio monitor specialist has established itself as the global standard in professional recording studios through proprietary waveguide technology and rigorous quality control. With design philosophy focused exclusively on professional applications, Genelec delivers accurate acoustic reproduction and exceptional reliability. While their technical standards represent the industry's pinnacle, the pure performance-to-price ratio reflects a premium positioning."
-tags: [Finland, Studio Monitors, Professional, Audio, High-Precision]
+tags: [Finland, "Studio Monitor", Professional, Audio, High-Precision]
 permalink: /companies/en/genelec/
 ---
 

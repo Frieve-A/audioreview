@@ -8,10 +8,9 @@ ref: technics-eah-az80
 date: 2025-07-09
 rating: [3.5, 0.7, 0.6, 0.8, 0.8, 0.6]
 summary: "Premium true wireless earbuds achieving high-resolution audio with 10mm aluminum alloy drivers and LDAC support"
-tags: [earbuds, true-wireless, noise-cancelling, hi-res]
+tags: [Earbuds, Hi-res, Noise cancelling, True-wireless]
 permalink: /products/en/technics-eah-az80/
 ---
-
 ## Overview
 
 The Technics EAH-AZ80 is a premium true wireless earbuds released by Panasonic in 2023. Featuring 10mm free-edge aluminum alloy drivers with LDAC support for 24-bit/96kHz hi-res audio playback. Key features include 3-device multipoint connectivity, dual hybrid active noise cancellation, and 7-hour continuous playback (24 hours with case). Currently priced at USD 165 USD.

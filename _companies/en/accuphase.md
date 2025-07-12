@@ -8,7 +8,7 @@ ref: accuphase
 date: 2025-07-05
 rating: [3.7, 0.8, 0.9, 0.0, 1.0, 1.0]
 summary: "Founded in 1972, this Japanese high-end audio manufacturer represents the pinnacle of audio excellence. Under the founding philosophy of 'pursuing the essence of sound and contributing to people's spiritual richness through scientific technology,' they have been manufacturing the highest quality audio equipment for over 50 years. Renowned for crystal-clear sound beauty, but with extremely high prices. Their reliability with lifelong after-sales service is unmatched in the industry."
-tags: [Japan, High-end, Amplifier, Integrated Amplifier, Luxury Audio]
+tags: [Japan, High-end, Amplifier, "Integrated Amplifier", High-end]
 permalink: /companies/en/accuphase/
 ---
 

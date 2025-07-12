@@ -1,3 +1,18 @@
+const categoryRules_en = {
+    region: /^(USA|America|American|UK|United Kingdom|British|Denmark|Danish|Germany|German|Japan|Japanese|Made-in-Japan|China|Chinese|Canada|Canadian|Taiwan|France|French|Italy|Italian|Austria)$/i,
+    productType: /^(Headphones|Over-ear|Earphones|In-ear monitors?|IEM|True wireless earbuds|Wireless Earphones|Wired earphones|Monitor earphones|Open-Ear|Earbuds|Speakers|Bookshelf speakers|Floorstanding speakers|Studio monitors|Active speakers|Passive speakers|Soundbar|Subwoofer|Portable Speaker|Desktop speaker|Center speaker|Amplifier|Integrated amplifier|Power amplifier|Headphone amplifier|Portable amplifier|Streaming amplifier|DAC|USB DAC|Desktop DAC|Portable DAC|DAC\/Amp combo|Digital audio player|DAP|Network streamer|Network player|Turntable|Record-player|Portable Turntable|Phono cartridge|MM cartridge|MC cartridge|Audio interface|AV Receiver|Portable Recorder|2-Way|3-Way|Tweeter)$/i,
+    technology: /^(Planar magnetic|Electrostatic|Dynamic driver|Balanced armature|Multi-BA|Hybrid technology|Coaxial driver|Bone conduction|Ribbon-type|Horn Tweeter|Titanium Tweeter|AMT|Uni-Q|C-CAM|Wood Fiber|DLC|ZYLON|Active noise cancelling|ANC|Noise cancelling|Open-back|Closed-back|Open design|Wireless|Bluetooth|LDAC|aptX|aptX HD|aptX Adaptive|AirPlay|LHDC|Bluetooth LE Audio|DSP|Room correction|Equalizer|EQ|PEQ|Acourate|Audiolense XO|FIR Filter|CustomTune|USB-C|USB|Balanced output|Dolby Atmos|DTS:X|Spatial audio|Virtual Surround|Direct-drive|Belt-drive|Bi-amp|Class D|Full Digital|AKM|ESS|Velvet-sound|S-Master Pro|H1 Chip|H2 Chip|V2 Processor|VRM Technology|SMC Technology|Harmonious-Diaphragm)$/i,
+    purpose: /^(Budget-friendly|Mid-range|High-end|Summit-fi|Premium|Entry-level|Gaming|Studio|Monitoring|Mixing|Mastering|Music Production|Recording|DTM|DJ|Professional|Portable audio|Desktop audio|Nearfield|Sports|Fit|Classic|Retro|Reference|Legacy product|Discontinued|Limited edition|Revolutionary|Collaboration)$/i
+};
+
+const categoryRules_ja = {
+    region: /^(アメリカ|米国|イギリス|英国|デンマーク|ドイツ|独|日本|日本製|中国|中華|カナダ|台湾|フランス|イタリア|韓国|オーストリア)$/i,
+    productType: /^(ヘッドフォン|オーバーイヤー|ヘッドフォンアンプ|イヤフォン|完全ワイヤレスイヤホン|ワイヤレスイヤホン|有線イヤフォン|モニターイヤホン|オープンイヤー|インイヤーモニター|スピーカー|ブックシェルフスピーカー|フロア型スピーカー|スタジオモニター|アクティブスピーカー|パッシブスピーカー|サウンドバー|サブウーファー|ポータブルスピーカー|デスクトップスピーカー|センタースピーカー|アンプ|プリメインアンプ|パワーアンプ|ポータブルアンプ|ストリーミングアンプ|DAC|USB DAC|デスクトップDAC|ポータブルDAC|DAC\/アンプコンボ|デジタルオーディオプレーヤー|ネットワークストリーマー|ネットワークプレイヤー|レコードプレイヤー|ポータブルターンテーブル|カートリッジ|MCカートリッジ|MMカートリッジ|オーディオインターフェース|AVレシーバー|ポータブルレコーダー|2ウェイ|3ウェイ|ツイーター)$/i,
+    technology: /^(平面駆動型|コンデンサー型|ダイナミック型|バランスドアーマチュア|マルチBA|ハイブリッド構成|同軸ドライバー|骨伝導|軟骨伝導|リボン型|ホーンツイーター|チタンツイーター|アクティブノイズキャンセリング|ノイキャン|オープンバック|密閉型|開放型|オープンデザイン|ワイヤレス|Bluetooth|LDAC|aptX|aptX HD|aptX Adaptive|AirPlay|DSP|ルーム音響補正|イコライザー|FIRフィルター|バランス出力|空間オーディオ|バーチャルサラウンド|ダイレクトドライブ|ベルトドライブ|バイアンプ|D級アンプ|フルデジタル|VRM技術|SMC技術|ハーモニアス・ダイアフラム)$/i,
+    purpose: /^(コストパフォーマンス|ミッドレンジ|ハイエンド|プレミアム|エントリークラス|ゲーミング|スタジオ|モニタリング|ミキシング|マスタリング|音楽制作|レコーディング|プロ用|ポータブルオーディオ|デスクトップオーディオ|ニアフィールド|スポーツ|フィット|クラシック|レトロ|低価格|高価格帯|リファレンス|レガシー製品|生産終了|限定版|革命的製品|コラボレーション)$/i
+};
+
+
 /**
  * Tag Filter Manager
  * Handles collapsible tag filtering for companies and products pages
@@ -13,145 +28,81 @@ class TagFilterManager {
     this.tagCategories = {};
     this.currentLanguage = window.siteLanguage || 'ja';
     this.strings = window.tagFilterStrings || {};
+    
+    // Set category rules based on language
+    this.categoryRules = this.currentLanguage === 'ja' ? categoryRules_ja : categoryRules_en;
+
     this.init();
   }
 
   init() {
-    // Don't override this.currentLanguage - it's already set correctly in constructor
     this.loadAllItems();
     this.generateTagCategories();
     this.buildTagFilter();
     this.bindEvents();
-    this.loadStateFromURL(); // Load URL state after everything is initialized
-  }
-
-  getCurrentLanguage() {
-    return document.documentElement.lang || 
-           (window.location.pathname.includes('/ja/') ? 'ja' : 'en');
+    this.loadStateFromURL();
   }
 
   loadAllItems() {
     const grid = document.getElementById('companies-grid') || document.getElementById('products-grid');
     if (grid) {
       this.allItems = Array.from(grid.children).map(card => {
-        const title = card.querySelector('h3 a')?.textContent || '';
-        const summary = card.querySelector('.company-summary, .product-summary')?.textContent || '';
         const tags = this.extractTagsFromCard(card);
-        
-        // Collect all unique tags
         tags.forEach(tag => this.allTags.add(tag));
-        
-        return {
-          element: card,
-          title: title,
-          summary: summary,
-          tags: tags
-        };
+        return { element: card, tags: tags };
       });
     }
   }
 
   extractTagsFromCard(card) {
-    const tags = [];
-    
-    // Extract tags from data attributes (primary source)
     const tagData = card.dataset.tags;
-    if (tagData && tagData.trim()) {
-      tags.push(...tagData.split(',').map(tag => tag.trim()).filter(tag => tag));
-    }
-    
-    return [...new Set(tags)]; // Remove duplicates
+    return tagData ? [...new Set(tagData.split(',').map(tag => tag.trim()).filter(tag => tag))] : [];
+  }
+
+  getCategory(tag) {
+      for (const category in this.categoryRules) {
+          if (this.categoryRules[category].test(tag)) {
+              return category;
+          }
+      }
+      // A few special cases that don't fit regex well
+      if (tag.endsWith('BA') || tag.endsWith('DD')) return 'technology';
+      if (tag.includes('Channel') || tag.includes('チャンネル')) return 'productType';
+      if (tag.includes('Woofer') || tag.includes('ウーファー')) return 'productType';
+      if (tag.match(/^\d+in\d+out$/)) return 'productType'; // For 18in20out, 2in2out
+
+      return 'other';
   }
 
   generateTagCategories() {
-    const tags = Array.from(this.allTags);
-    
-    // Define category rules for automatic classification
-    const categoryRules = {
-      'region': {
-        'patterns': [
-          // Countries/Regions in Japanese
-          /^(日本|中国|アメリカ|ドイツ|イギリス|フランス|イタリア|カナダ|デンマーク|スウェーデン|オーストリア|スイス|フィンランド|香港|韓国|台湾|シンガポール|ノルウェー|オランダ|ベルギー|スペイン|ポルトガル|ロシア|インド|ブラジル|オーストラリア|ニュージーランド|Utah|California|ミネソタ|イリノイ|英国|ユタ州|カリフォルニア|ニューヨーク|テキサス|フロリダ|バイエルン|バーデン|ロンバルディア|トスカーナ|プロヴァンス|ブルターニュ|スコットランド|ウェールズ|北アイルランド|イングランド)$/,
-          // Countries/Regions in English
-          /^(Japan|China|USA|America|Germany|UK|Britain|France|Italy|Canada|Denmark|Sweden|Austria|Switzerland|Finland|Hong Kong|Korea|Taiwan|Singapore|Norway|Netherlands|Belgium|Spain|Portugal|Russia|India|Brazil|Australia|New Zealand|Utah|California|Minnesota|Illinois|New York|Texas|Florida|Bavaria|Baden|Lombardy|Tuscany|Provence|Brittany|Scotland|Wales|Northern Ireland|England)$/i
-        ]
-      },
-      'category': {
-        'patterns': [
-          // Product categories in Japanese
-          /^(IEM|イヤホン|ヘッドホン|スピーカー|DAC|アンプ|ケーブル|マイクロホン|ターンテーブル|レコードプレーヤー|プリメインアンプ|AVアンプ|ストリーマー|ネットワークプレーヤー|電源|フィルター|静電型|イヤースピーカー|楽器|室内音響補正|オーディオインターフェース|真空管|測定マイク|測定機器|アクセサリー|オーディオソフトウェア|ハードウェア|平面磁界|同軸ドライバー|コンセントリック|フルレンジドライバー|トゥイーター|ウーファー|ミッドレンジ|サブウーファー|パワーアンプ|プリアンプ|統合アンプ|モノブロック|AVレシーバー|フォノアンプ|ヘッドホンアンプ|ライン出力|DAP|ポータブルアンプ|ネットワークオーディオ|ストリーミング|USB-DAC|光デジタル|同軸デジタル|XLR|RCA|TRS|バナナプラグ|スピーカーケーブル|インターコネクト|デジタルケーブル|光ケーブル|同軸ケーブル|USBケーブル|電源ケーブル|アース線|ラックマウント|デスクトップ|ポータブル|バッテリー駆動|AC駆動|DC駆動)$/i,
-          // Product categories in English
-          /^(Audio|IEM|Headphones|Speakers|Amplifier|Cables|Microphones|Turntables|Integrated Amplifier|AV Receiver|Streamer|Network Player|Power Supply|Filter|Electrostatic|Ear Speakers|Instruments|Room Acoustic Correction|Audio Interface|Vacuum Tube|Measurement Microphone|Measurement Equipment|Accessories|Audio Software|Hardware|Coaxial Driver|Concentric|Full Range Driver|Tweeter|Woofer|Midrange|Subwoofer|Power Amplifier|Preamplifier|Monoblock|AV Receiver|Phono Amplifier|Headphone Amplifier|Line Output|DAP|Portable Amplifier|Network Audio|Streaming|USB DAC|Optical Digital|Coaxial Digital|XLR|RCA|TRS|Banana Plug|Speaker Cable|Interconnect|Digital Cable|Optical Cable|Coaxial Cable|USB Cable|Power Cable|Ground Wire|Rack Mount|Desktop|Portable|Battery Powered|AC Powered|DC Powered|AirPods|Beats|Sonova)$/i
-        ]
-      },
-      'technology': {
-        'patterns': [
-          // Technology features in Japanese
-          /^(ハイエンド|ワイヤレス|ノイズキャンセリング|Chi-Fi|高コスパ|コスパ|ハイブリッド|ダイナミックドライバー|バランスドアーマチュア|フルデジタル|DSP|MQA|DSD|LDAC|aptX|高効率|低歪み|超低歪み|革命的製品|レガシー製品|生産終了|高コストパフォーマンス|低価格|予算|エントリー|中級|上級|CNC加工|アルミニウム|ベリリウム|木工芸術|手作り|家族経営|老舗|廃業|新興企業|タイムコヒーレント|位相コヒーレント|透明性|高級|ラグジュアリー|オカルト|科学的設計|技術革新|AI技術|VRM技術|高精度|測定器レベル|クラシック|現代的|伝統的|革新的|先進的|コスト重視|性能重視|品質重視|信頼性|耐久性|長期使用|短期使用|経年劣化|メンテナンス|サポート|アフターサービス|保証|修理|交換|アップグレード|拡張性|互換性|標準化|カスタマイズ|調整可能|設定可能|プログラム可能|自動調整|手動調整|リモート制御|アプリ制御|ワイヤレス制御|有線制御|デジタル制御|アナログ制御|ハイブリッド制御)$/i,
-          // Technology features in English
-          /^(High-End|Wireless|Noise-Cancelling|Chi-Fi|Hybrid|Dynamic Driver|Balanced Armature|Full Digital|High Efficiency|Low Distortion|Revolutionary Product|Legacy Product|Discontinued|High Cost Performance|Budget|Entry Level|Mid Level|High Level|CNC Machining|Aluminum|Beryllium|Woodcraft|Handmade|Family Business|Established|Bankrupt|Startup|Time Coherent|Phase Coherent|Transparency|Luxury|Occult|Scientific Design|Technical Innovation|AI Technology|VRM Technology|High Precision|Measurement Level|Classic|Modern|Traditional|Innovative|Advanced|Cost Focused|Performance Focused|Quality Focused|Reliability|Durability|Long Term Use|Short Term Use|Aging|Maintenance|Support|After Service|Warranty|Repair|Replacement|Upgrade|Expandability|Compatibility|Standardization|Customization|Adjustable|Configurable|Programmable|Auto Adjustment|Manual Adjustment|Remote Control|App Control|Wireless Control|Wired Control|Digital Control|Analog Control|Hybrid Control|Planar Magnetic|Open-back|Closed-back|Semi-open|Spatial Audio|Noise Cancelling|True Wireless|Wired|Bluetooth|USB-C|Lightning|3.5mm|6.35mm|XLR|Balanced|Unbalanced|Hi-Res|Lossless|Lossy|DSD|MQA|FLAC|MP3|AAC|LDAC|aptX|SBC|Impedance|Sensitivity|Frequency Response|THD|SNR|Dynamic Range|Soundstage|Imaging|Separation|Detail|Clarity|Warmth|Brightness|Neutrality|Coloration|Fatigue|Comfort|Build Quality|Materials|Drivers|Diaphragm|Magnet|Voice Coil|Crossover)$/i
-        ]
-      },
-      'purpose': {
-        'patterns': [
-          // Purpose/Usage in Japanese
-          /^(音楽制作|スタジオモニター|業界標準|録音|プロ用|リファレンス|ホームシアター|DJ|ゲーミング|ポータブル|モニター|分析的|測定性能|コラボレーション|プロフェッショナル|測定重視|測定|分析|音質評価|正確性|忠実性|客観性|主観性|音楽性|芸術性|美的価値|ステータス|投資価値|資産価値|入門|初心者|中級者|上級者|専門家|愛好家|オーディオファイル|音楽愛好家|楽器愛好家|技術愛好家|音質重視|性能重視|価格重視|機能重視|デザイン重視|ブランド重視|個人使用|家庭使用|業務使用|商業使用|教育使用|研究使用|開発使用|試験使用|評価使用|比較使用|学習使用|訓練使用|練習使用|体験使用|娯楽使用|趣味使用|仕事使用|クリエイティブ|創作活動|作曲|編曲|ミキシング|マスタリング|録音制作|音響設計|音響測定|音響分析|音響評価|音響研究|音響開発|音響教育|音響コンサルティング|音響エンジニアリング|オーディオエンジニアリング|サウンドエンジニアリング|アコースティックエンジニアリング|電気音響工学|音響物理学|音響心理学|音響生理学|音響医学|聴覚学|補聴|聴力補助|聴力改善|聴力保護|聴力測定|聴覚検査|聴覚診断|聴覚治療|聴覚リハビリ|聴覚訓練|聴覚教育|聴覚研究|聴覚開発|聴覚評価|聴覚測定|聴覚分析|聴覚心理学|聴覚生理学|聴覚医学|聴覚工学|聴覚技術|聴覚機器|聴覚装置|聴覚システム|聴覚ソリューション|聴覚サポート|聴覚アシスト|聴覚補助|聴覚改善|聴覚保護|聴覚強化|聴覚最適化|聴覚カスタマイズ|聴覚パーソナライズ|聴覚個別化|聴覚特化|聴覚専門|聴覚プロフェッショナル|聴覚エキスパート|聴覚スペシャリスト|聴覚コンサルタント|聴覚アドバイザー|聴覚カウンセラー|聴覚セラピスト|聴覚トレーナー|聴覚インストラクター|聴覚エデュケーター|聴覚ティーチャー|聴覚レクチャラー|聴覚プロフェッサー|聴覚リサーチャー|聴覚サイエンティスト|聴覚テクニシャン|聴覚エンジニア|聴覚デザイナー|聴覚アーキテクト|聴覚プランナー|聴覚ストラテジスト|聴覚アナリスト|聴覚コンサルタント)$/i,
-          // Purpose/Usage in English
-          /^(Music Production|Studio Monitor|Industry Standard|Recording|Professional|Reference|Home Theater|Portable|Gaming|Monitor|Analytical|Measurement Performance|Collaboration|Measurement Focused|Measurement|Analysis|Sound Quality Evaluation|Accuracy|Fidelity|Objectivity|Subjectivity|Musicality|Artistry|Aesthetic Value|Status|Investment Value|Asset Value|Entry|Beginner|Intermediate|Advanced|Expert|Enthusiast|Audiophile|Music Lover|Instrument Lover|Technology Enthusiast|Sound Quality Focused|Performance Focused|Price Focused|Function Focused|Design Focused|Brand Focused|Personal Use|Home Use|Business Use|Commercial Use|Educational Use|Research Use|Development Use|Testing Use|Evaluation Use|Comparison Use|Learning Use|Training Use|Practice Use|Experience Use|Entertainment Use|Hobby Use|Work Use|Creative|Creative Activity|Composition|Arrangement|Mixing|Mastering|Recording Production|Acoustic Design|Acoustic Measurement|Acoustic Analysis|Acoustic Evaluation|Acoustic Research|Acoustic Development|Acoustic Education|Acoustic Consulting|Acoustic Engineering|Audio Engineering|Sound Engineering|Acoustical Engineering|Electroacoustic Engineering|Acoustic Physics|Acoustic Psychology|Acoustic Physiology|Acoustic Medicine|Audiology|Hearing Aid|Hearing Assistance|Hearing Improvement|Hearing Protection|Hearing Measurement|Hearing Test|Hearing Diagnosis|Hearing Treatment|Hearing Rehabilitation|Auditory Training|Auditory Education|Auditory Research|Auditory Development|Auditory Evaluation|Auditory Measurement|Auditory Analysis|Auditory Psychology|Auditory Physiology|Auditory Medicine|Auditory Engineering|Auditory Technology|Auditory Equipment|Auditory Device|Auditory System|Auditory Solution|Auditory Support|Auditory Assist|Auditory Aid|Auditory Improvement|Auditory Protection|Auditory Enhancement|Auditory Optimization|Auditory Customization|Auditory Personalization|Auditory Individualization|Auditory Specialization|Auditory Professional|Auditory Expert|Auditory Specialist|Auditory Consultant|Auditory Advisor|Auditory Counselor|Auditory Therapist|Auditory Trainer|Auditory Instructor|Auditory Educator|Auditory Teacher|Auditory Lecturer|Auditory Professor|Auditory Researcher|Auditory Scientist|Auditory Technician|Auditory Engineer|Auditory Designer|Auditory Architect|Auditory Planner|Auditory Strategist|Auditory Analyst|Auditory Consultant|DJ|Gaming|Fitness|Sports|Commuting|Travel|Office|Study|Sleep|Meditation|Exercise|Workout|Running|Cycling|Flying|Walking|Driving|Cooking|Cleaning|Reading|Writing|Relaxation|Entertainment|Movies|TV|Podcast|Audiobook|Conference|Call|Meeting|Presentation|Streaming|Broadcasting|Live|Concert|Festival|Party|Club|Bar|Restaurant|Hotel|Airport|Train|Bus|Subway|Plane|Car|Motorcycle|Bicycle|Boat|Ship|Home|Garden|Patio|Balcony|Terrace|Roof|Basement|Garage|Attic|Shed|Cabin|Cottage|Villa|Apartment|Condo|Loft|Studio|Office|Factory|Warehouse|Store|Shop|Mall|Market|Hospital|Clinic|School|University|Library|Museum|Gallery|Theater|Cinema|Stadium|Arena|Park|Beach|Forest|Mountain|Desert|Lake|River|Ocean|Island|City|Town|Village|Farm|Ranch|Camping|Hiking|Backpacking|Trekking|Climbing|Skiing|Snowboarding|Surfing|Swimming|Diving|Fishing|Hunting|Shooting|Archery|Golf|Tennis|Football|Basketball|Baseball|Soccer|Hockey|Cricket|Rugby|Volleyball|Badminton|Squash|Ping Pong|Bowling|Billiards|Darts|Chess|Checkers|Backgammon|Poker|Blackjack|Roulette|Slots|Lottery|Bingo|Karaoke|Dancing|Singing|Playing|Instrument|Piano|Guitar|Violin|Drum|Saxophone|Trumpet|Flute|Harmonica|Accordion|Organ|Harp|Cello|Bass|Banjo|Mandolin|Ukulele|Recorder|Clarinet|Oboe|Bassoon|Tuba|Trombone|French Horn|Percussion|Xylophone|Marimba|Vibraphone|Timpani|Cymbal|Triangle|Tambourine|Cowbell|Shaker|Rattle|Whistle|Kazoo|Melodica|Theremin|Synthesizer|Keyboard|Sampler|Sequencer|Mixer|Amplifier|Speaker|Headphone|Earphone|Microphone|Recording|Editing|Mixing|Mastering|Composing|Arranging|Producing|Engineering|Mixing|Mastering|Remixing|Scratching|Beatmatching|Cueing|Looping|Sampling|Sequencing|Programming|Triggering|Controlling|Monitoring|Analyzing|Measuring|Testing|Evaluating|Comparing|Reviewing|Rating|Ranking|Scoring|Grading|Judging|Critiquing|Assessing|Appraising|Estimating|Calculating|Computing|Processing|Analyzing|Interpreting|Understanding|Learning|Teaching|Training|Coaching|Mentoring|Tutoring|Instructing|Educating|Informing|Explaining|Demonstrating|Showing|Guiding|Directing|Leading|Managing|Supervising|Overseeing|Coordinating|Organizing|Planning|Scheduling|Timing|Synchronizing|Aligning|Matching|Pairing|Coupling|Connecting|Linking|Bonding|Joining|Merging|Combining|Integrating|Unifying|Harmonizing|Balancing|Equalizing|Adjusting|Tuning|Calibrating|Optimizing|Enhancing|Improving|Upgrading|Updating|Modifying|Customizing|Personalizing|Individualizing|Specializing|Focusing|Concentrating|Intensifying|Amplifying|Boosting|Strengthening|Reinforcing|Supporting|Assisting|Helping|Aiding|Facilitating|Enabling|Empowering|Motivating|Inspiring|Encouraging|Stimulating|Energizing|Activating|Triggering|Initiating|Starting|Beginning|Launching|Introducing|Presenting|Demonstrating|Showcasing|Displaying|Exhibiting|Featuring|Highlighting|Emphasizing|Stressing|Accentuating|Underlining|Pointing|Indicating|Signaling|Marking|Labeling|Tagging|Categorizing|Classifying|Sorting|Grouping|Organizing|Arranging|Structuring|Formatting|Styling|Designing|Creating|Building|Constructing|Developing|Producing|Manufacturing|Making|Crafting|Shaping|Forming|Molding|Sculpting|Carving|Cutting|Trimming|Polishing|Finishing|Completing|Finalizing|Wrapping|Packaging|Shipping|Delivering|Transporting|Moving|Transferring|Relocating|Migrating|Traveling|Journeying|Touring|Exploring|Discovering|Finding|Locating|Positioning|Placing|Setting|Installing|Mounting|Attaching|Connecting|Plugging|Wiring|Cabling|Networking|Communicating|Transmitting|Broadcasting|Streaming|Sharing|Distributing|Spreading|Disseminating|Publishing|Releasing|Launching|Unveiling|Revealing|Exposing|Showing|Displaying|Presenting|Demonstrating|Performing|Playing|Acting|Entertaining|Amusing|Delighting|Pleasing|Satisfying|Fulfilling|Completing|Achieving|Accomplishing|Succeeding|Winning|Triumphing|Conquering|Overcoming|Surpassing|Exceeding|Outperforming|Beating|Defeating|Dominating|Ruling|Governing|Controlling|Managing|Directing|Leading|Commanding|Ordering|Instructing|Telling|Asking|Requesting|Demanding|Requiring|Needing|Wanting|Desiring|Wishing|Hoping|Expecting|Anticipating|Predicting|Forecasting|Projecting|Estimating|Calculating|Computing|Processing|Analyzing|Interpreting|Understanding|Comprehending|Grasping|Realizing|Recognizing|Identifying|Distinguishing|Differentiating|Discriminating|Separating|Dividing|Splitting|Breaking|Cracking|Shattering|Destroying|Demolishing|Wrecking|Ruining|Damaging|Harming|Hurting|Injuring|Wounding|Bleeding|Bruising|Scratching|Cutting|Slicing|Chopping|Dicing|Mincing|Grinding|Crushing|Smashing|Pounding|Hammering|Hitting|Striking|Punching|Kicking|Stomping|Stepping|Walking|Running|Jogging|Sprinting|Dashing|Rushing|Hurrying|Racing|Competing|Contesting|Challenging|Opposing|Resisting|Fighting|Battling|Struggling|Striving|Trying|Attempting|Endeavoring|Effort|Work|Labor|Toil|Sweat|Strain|Stress|Pressure|Tension|Anxiety|Worry|Concern|Fear|Dread|Terror|Horror|Panic|Alarm|Alert|Warning|Caution|Care|Attention|Focus|Concentration|Intensity|Power|Strength|Force|Energy|Vigor|Vitality|Life|Spirit|Soul|Heart|Mind|Brain|Thought|Idea|Concept|Notion|Understanding|Knowledge|Wisdom|Intelligence|Smartness|Cleverness|Brilliance|Genius|Talent|Skill|Ability|Capability|Capacity|Potential|Possibility|Opportunity|Chance|Luck|Fortune|Fate|Destiny|Purpose|Meaning|Significance|Importance|Value|Worth|Merit|Quality|Excellence|Perfection|Ideal|Standard|Benchmark|Reference|Criteria|Requirement|Specification|Demand|Need|Want|Desire|Wish|Hope|Dream|Vision|Goal|Objective|Target|Aim|Purpose|Intention|Plan|Strategy|Tactic|Approach|Method|Technique|Way|Manner|Style|Fashion|Trend|Fashion|Mode|Custom|Tradition|Culture|Society|Community|Group|Team|Organization|Institution|Company|Corporation|Business|Enterprise|Venture|Project|Initiative|Program|Campaign|Movement|Cause|Mission|Vision|Purpose|Goal|Objective|Target|Aim|Intention|Plan|Strategy|Tactic|Approach|Method|Technique|Way|Manner|Style|Fashion|Trend|Fashion|Mode|Custom|Tradition|Culture|Society|Community|Group|Team|Organization|Institution|Company|Corporation|Business|Enterprise|Venture|Project|Initiative|Program|Campaign|Movement|Cause|Mission)$/i
-        ]
-      }
-    };
+      // Initialize categories
+      Object.keys(this.categoryRules).forEach(key => {
+          this.tagCategories[key] = { tags: [] };
+      });
+      this.tagCategories['other'] = { tags: [] };
 
-    // Initialize categories
-    Object.keys(categoryRules).forEach(categoryKey => {
-      this.tagCategories[categoryKey] = {
-        'tags': []
-      };
-    });
+      // Categorize all unique tags
+      this.allTags.forEach(tag => {
+          const categoryKey = this.getCategory(tag);
+          this.tagCategories[categoryKey].tags.push(tag);
+      });
 
-    // Create "other" category for uncategorized tags
-    this.tagCategories['other'] = {
-      'tags': []
-    };
-
-    // Categorize tags
-    tags.forEach(tag => {
-      let categorized = false;
-      
-      for (const [categoryKey, categoryRule] of Object.entries(categoryRules)) {
-        for (const pattern of categoryRule.patterns) {
-          if (pattern.test(tag)) {
-            this.tagCategories[categoryKey].tags.push(tag);
-            categorized = true;
-            break;
+      // Remove empty categories
+      Object.keys(this.tagCategories).forEach(categoryKey => {
+          if (this.tagCategories[categoryKey].tags.length === 0) {
+              delete this.tagCategories[categoryKey];
           }
-        }
-        if (categorized) break;
-      }
-      
-      // If tag doesn't match any category, put it in "other"
-      if (!categorized) {
-        this.tagCategories['other'].tags.push(tag);
-      }
-    });
-
-    // Remove empty categories
-    Object.keys(this.tagCategories).forEach(categoryKey => {
-      if (this.tagCategories[categoryKey].tags.length === 0) {
-        delete this.tagCategories[categoryKey];
-      }
-    });
+      });
   }
 
   getCategoryName(categoryKey) {
     const categoryMappings = {
       'region': 'region',
-      'category': 'productCategory',
+      'productType': 'productCategory',
       'technology': 'technologyFeatures',
       'purpose': 'purpose',
       'other': 'other'
     };
-    
     const mappedKey = categoryMappings[categoryKey];
     return this.strings[mappedKey] || categoryKey;
   }
@@ -229,25 +180,17 @@ class TagFilterManager {
       const visibleTags = sortedTags.slice(0, 6);
       const hiddenTags = sortedTags.slice(6);
 
-      const visibleTagsHtml = visibleTags
-        .map(tag => `
-          <div class="tag-checkbox-item">
-            <input type="checkbox" class="tag-checkbox" value="${tag}" id="tag-${tag.replace(/\s+/g, '-')}">
-            <label class="tag-label" for="tag-${tag.replace(/\s+/g, '-')}">
-              ${tag} <span class="tag-count">(${tagCounts[tag] || 0})</span>
-            </label>
-          </div>
-        `).join('');
+      const createTagHtml = (tag) => `
+        <div class="tag-checkbox-item">
+          <input type="checkbox" class="tag-checkbox" value="${tag}" id="tag-${tag.replace(/[\s/]/g, '-')}">
+          <label class="tag-label" for="tag-${tag.replace(/[\s/]/g, '-')}">
+            ${tag} <span class="tag-count">(${tagCounts[tag] || 0})</span>
+          </label>
+        </div>
+      `;
 
-      const hiddenTagsHtml = hiddenTags
-        .map(tag => `
-          <div class="tag-checkbox-item">
-            <input type="checkbox" class="tag-checkbox" value="${tag}" id="tag-${tag.replace(/\s+/g, '-')}">
-            <label class="tag-label" for="tag-${tag.replace(/\s+/g, '-')}">
-              ${tag} <span class="tag-count">(${tagCounts[tag] || 0})</span>
-            </label>
-          </div>
-        `).join('');
+      const visibleTagsHtml = visibleTags.map(createTagHtml).join('');
+      const hiddenTagsHtml = hiddenTags.map(createTagHtml).join('');
 
       const moreButton = hiddenTags.length > 0 ? `
         <div class="tag-more-section">
@@ -276,15 +219,12 @@ class TagFilterManager {
   bindEvents() {
     const toggleButton = document.getElementById('tag-filter-toggle');
     if (toggleButton) {
-      toggleButton.addEventListener('click', () => this.togglePanel());
+      toggleButton.addEventListener('click', (e) => {
+        if (!e.target.closest('#search-mode-toggle')) {
+          this.togglePanel();
+        }
+      });
     }
-
-    // Prevent search mode toggle from closing the panel
-    document.addEventListener('click', (e) => {
-      if (e.target.closest('#search-mode-toggle')) {
-        e.stopPropagation();
-      }
-    });
 
     document.addEventListener('change', (e) => {
       if (e.target.classList.contains('tag-checkbox')) {
@@ -299,6 +239,10 @@ class TagFilterManager {
       if (moreButton) {
         this.handleMoreButtonClick(moreButton);
       }
+      const removeButton = e.target.closest('.selected-tag-remove');
+      if (removeButton) {
+        this.removeTag(removeButton.dataset.tag);
+      }
     });
 
     const clearButton = document.getElementById('clear-filters');
@@ -306,10 +250,7 @@ class TagFilterManager {
       clearButton.addEventListener('click', () => this.clearAllFilters());
     }
 
-    // Handle browser back/forward buttons
     window.addEventListener('popstate', () => this.loadStateFromURL());
-    
-    // Handle window resize
     window.addEventListener('resize', () => {
       if (this.isExpanded) {
         this.adjustPanelHeight();
@@ -326,7 +267,6 @@ class TagFilterManager {
     if (!panel || !icon) return;
 
     if (this.isExpanded) {
-      // Show full content without height restrictions
       panel.style.maxHeight = panel.scrollHeight + 'px';
       icon.textContent = '▲';
       panel.classList.add('expanded');
@@ -344,62 +284,42 @@ class TagFilterManager {
   }
 
   expandPanel() {
+    if (this.isExpanded) return;
+    this.isExpanded = true;
     const panel = document.getElementById('tag-filter-panel');
     const icon = document.getElementById('toggle-icon');
     const searchModeToggle = document.getElementById('search-mode-toggle');
     
     if (!panel || !icon) return;
     
-    // Only expand if not already expanded
-    if (!this.isExpanded) {
-      this.isExpanded = true;
-      // Show full content without height restrictions
-      panel.style.maxHeight = panel.scrollHeight + 'px';
-      icon.textContent = '▲';
-      panel.classList.add('expanded');
-      if (searchModeToggle && this.selectedTags.length > 0) {
-        searchModeToggle.style.display = 'flex';
-      }
+    panel.style.maxHeight = panel.scrollHeight + 'px';
+    icon.textContent = '▲';
+    panel.classList.add('expanded');
+    if (searchModeToggle && this.selectedTags.length > 0) {
+      searchModeToggle.style.display = 'flex';
     }
   }
 
   adjustPanelHeight() {
     const panel = document.getElementById('tag-filter-panel');
     if (!panel || !this.isExpanded) return;
-    
-    // Recalculate panel height to show all content
     panel.style.maxHeight = panel.scrollHeight + 'px';
   }
 
   handleTagSelection(checkbox) {
     const tagValue = checkbox.value;
-    
     if (checkbox.checked) {
       this.selectedTags.push(tagValue);
     } else {
       this.selectedTags = this.selectedTags.filter(tag => tag !== tagValue);
     }
     
-    // Only filter if at least one tag is selected
-    if (this.selectedTags.length > 0) {
-      this.applyFilters();
-    } else {
-      this.showAllItems();
-    }
-    
-    this.updateUI();
-    this.updateURL();
+    this.applyFiltersAndUI();
   }
 
   handleSearchModeChange(radio) {
     this.searchMode = radio.value;
-    
-    // Re-apply filters with new search mode if tags are selected
-    if (this.selectedTags.length > 0) {
-      this.applyFilters();
-    }
-    
-    this.updateURL();
+    this.applyFiltersAndUI();
   }
 
   handleMoreButtonClick(button) {
@@ -408,72 +328,54 @@ class TagFilterManager {
     const moreText = button.querySelector('.more-text');
     const lessText = button.querySelector('.less-text');
     
-    if (hiddenList.classList.contains('show')) {
-      // Hide tags
-      hiddenList.classList.remove('show');
-      moreText.style.display = 'inline';
-      lessText.style.display = 'none';
-    } else {
-      // Show hidden tags
-      hiddenList.classList.add('show');
-      moreText.style.display = 'none';
-      lessText.style.display = 'inline';
-    }
+    hiddenList.classList.toggle('show');
+    moreText.style.display = hiddenList.classList.contains('show') ? 'none' : 'inline';
+    lessText.style.display = hiddenList.classList.contains('show') ? 'inline' : 'none';
     
-    // Adjust panel height after content change
-    setTimeout(() => {
-      this.adjustPanelHeight();
-    }, 350); // Wait for transition to complete
+    setTimeout(() => this.adjustPanelHeight(), 350);
   }
 
   applyFilters() {
-    this.filteredItems = this.allItems.filter(item => {
-      if (this.searchMode === 'and') {
-        // AND logic: item must have all selected tags
-        return this.selectedTags.every(tag => item.tags.includes(tag));
-      } else {
-        // OR logic: item must have at least one selected tag
-        return this.selectedTags.some(tag => item.tags.includes(tag));
-      }
-    });
-    
-    this.displayItems(this.filteredItems);
+    if (this.selectedTags.length > 0) {
+      this.filteredItems = this.allItems.filter(item => {
+        if (this.searchMode === 'and') {
+          return this.selectedTags.every(tag => item.tags.includes(tag));
+        } else {
+          return this.selectedTags.some(tag => item.tags.includes(tag));
+        }
+      });
+      this.displayItems(this.filteredItems);
+    } else {
+      this.showAllItems();
+    }
     this.updateResultCount();
   }
 
   showAllItems() {
     this.displayItems(this.allItems);
-    this.updateResultCount();
   }
 
   displayItems(items) {
-    const grid = document.getElementById('companies-grid') || document.getElementById('products-grid');
-    if (!grid) return;
-
-    // Hide all items first
+    const itemElements = new Set(items.map(item => item.element));
     this.allItems.forEach(item => {
-      item.element.style.display = 'none';
-    });
-
-    // Show filtered items
-    items.forEach(item => {
-      item.element.style.display = 'block';
+      item.element.style.display = itemElements.has(item.element) ? 'block' : 'none';
     });
   }
 
   clearAllFilters() {
     this.selectedTags = [];
     this.searchMode = 'and';
-    
     document.querySelectorAll('.tag-checkbox').forEach(checkbox => {
       checkbox.checked = false;
     });
-    
-    // Reset search mode radio buttons
     const andRadio = document.querySelector('input[name="search-mode"][value="and"]');
     if (andRadio) andRadio.checked = true;
     
-    this.showAllItems();
+    this.applyFiltersAndUI();
+  }
+
+  applyFiltersAndUI() {
+    this.applyFilters();
     this.updateUI();
     this.updateURL();
   }
@@ -483,28 +385,13 @@ class TagFilterManager {
     const clearButton = document.getElementById('clear-filters');
     const searchModeToggle = document.getElementById('search-mode-toggle');
     
-    // Check if elements exist before accessing their properties
-    if (this.selectedTags.length > 0) {
-      if (selectedTagsDisplay) {
-        selectedTagsDisplay.style.display = 'block';
-      }
-      if (clearButton) {
-        clearButton.style.display = 'inline-block';
-      }
-      if (searchModeToggle && this.isExpanded) {
-        searchModeToggle.style.display = 'flex';
-      }
+    const hasSelection = this.selectedTags.length > 0;
+    if (selectedTagsDisplay) selectedTagsDisplay.style.display = hasSelection ? 'block' : 'none';
+    if (clearButton) clearButton.style.display = hasSelection ? 'inline-block' : 'none';
+    if (searchModeToggle) searchModeToggle.style.display = hasSelection && this.isExpanded ? 'flex' : 'none';
+
+    if (hasSelection) {
       this.renderSelectedTags();
-    } else {
-      if (selectedTagsDisplay) {
-        selectedTagsDisplay.style.display = 'none';
-      }
-      if (clearButton) {
-        clearButton.style.display = 'none';
-      }
-      if (searchModeToggle) {
-        searchModeToggle.style.display = 'none';
-      }
     }
   }
 
@@ -515,28 +402,18 @@ class TagFilterManager {
     container.innerHTML = this.selectedTags.map(tag => `
       <span class="selected-tag">
         ${tag}
-        <button class="selected-tag-remove" onclick="window.tagFilter.removeTag('${tag}')">×</button>
+        <button class="selected-tag-remove" data-tag="${tag}">×</button>
       </span>
     `).join('');
   }
 
   removeTag(tag) {
     this.selectedTags = this.selectedTags.filter(t => t !== tag);
-    
-    // Uncheck the corresponding checkbox
-    const checkbox = document.querySelector(`input[value="${tag}"]`);
+    const checkbox = document.querySelector(`input.tag-checkbox[value="${CSS.escape(tag)}"]`);
     if (checkbox) {
       checkbox.checked = false;
     }
-    
-    if (this.selectedTags.length > 0) {
-      this.applyFilters();
-    } else {
-      this.showAllItems();
-    }
-    
-    this.updateUI();
-    this.updateURL();
+    this.applyFiltersAndUI();
   }
 
   updateResultCount() {
@@ -544,33 +421,18 @@ class TagFilterManager {
     if (!countElement) return;
 
     const total = this.allItems.length;
-    const filtered = this.selectedTags.length > 0 ? this.filteredItems.length : total;
+    const filteredCount = this.selectedTags.length > 0 ? this.filteredItems.length : total;
+    const isCompanyPage = !!document.getElementById('companies-grid');
     
-    const isCompanyPage = document.getElementById('companies-grid') !== null;
+    let countText = '';
+    const unit = isCompanyPage ? (this.strings.companyUnit || '社') : (this.strings.productUnit || '製品');
     
-    let countText;
     if (this.selectedTags.length > 0) {
-      // Show filtered count
-      if (this.currentLanguage === 'ja') {
-        const unit = isCompanyPage ? '社' : '製品';
-        const showingText = isCompanyPage ? this.strings.companiesShowing : this.strings.productsShowing;
-        countText = `${total}${unit}中${filtered}${unit}${showingText || 'を表示'}`;
-      } else {
-        const entityType = isCompanyPage ? 'companies' : 'products';
-        const showingText = isCompanyPage ? this.strings.companiesShowing : this.strings.productsShowing;
-        countText = `${showingText || 'Showing'} ${filtered} of ${total} ${entityType}`;
-      }
+        const showing = this.strings.showing || 'を表示';
+        countText = `${total}${unit}中 ${filteredCount}${unit}${showing}`;
     } else {
-      // Show total count
-      if (this.currentLanguage === 'ja') {
-        const unit = isCompanyPage ? '社' : '製品';
         const available = isCompanyPage ? this.strings.companiesAvailable : this.strings.productsAvailable;
         countText = `${total}${available || (unit + 'のレビューを掲載中')}`;
-      } else {
-        const available = isCompanyPage ? this.strings.companiesAvailable : this.strings.productsAvailable;
-        const fallback = isCompanyPage ? 'company reviews available' : 'product reviews available';
-        countText = `${total} ${available || fallback}`;
-      }
     }
     
     countElement.textContent = countText;
@@ -578,7 +440,6 @@ class TagFilterManager {
 
   updateURL() {
     const url = new URL(window.location);
-    
     if (this.selectedTags.length > 0) {
       url.searchParams.set('tags', this.selectedTags.join(','));
       url.searchParams.set('mode', this.searchMode);
@@ -586,7 +447,6 @@ class TagFilterManager {
       url.searchParams.delete('tags');
       url.searchParams.delete('mode');
     }
-    
     history.replaceState({}, '', url.toString());
   }
 
@@ -595,36 +455,20 @@ class TagFilterManager {
     const tagsParam = url.searchParams.get('tags');
     const modeParam = url.searchParams.get('mode');
     
-    // Reset all checkboxes and radio buttons first
-    document.querySelectorAll('.tag-checkbox').forEach(checkbox => {
-      checkbox.checked = false;
-    });
-    
-    // Set search mode from URL or default to 'and'
     this.searchMode = (modeParam === 'or') ? 'or' : 'and';
     const radioButton = document.querySelector(`input[name="search-mode"][value="${this.searchMode}"]`);
     if (radioButton) radioButton.checked = true;
     
-    if (tagsParam && tagsParam.trim()) {
-      this.selectedTags = tagsParam.split(',').map(tag => tag.trim()).filter(tag => tag);
-      
-      // Check corresponding checkboxes
-      document.querySelectorAll('.tag-checkbox').forEach(checkbox => {
-        if (this.selectedTags.includes(checkbox.value)) {
-          checkbox.checked = true;
-        }
-      });
-      
-      // Apply filters if tags are selected
-      if (this.selectedTags.length > 0) {
-        this.applyFilters();
-        // Expand the panel if tags are selected
-        this.expandPanel();
-      } else {
-        this.showAllItems();
-      }
+    this.selectedTags = tagsParam ? tagsParam.split(',').map(tag => tag.trim()).filter(tag => tag) : [];
+    
+    document.querySelectorAll('.tag-checkbox').forEach(checkbox => {
+      checkbox.checked = this.selectedTags.includes(checkbox.value);
+    });
+    
+    if (this.selectedTags.length > 0) {
+      this.applyFilters();
+      this.expandPanel();
     } else {
-      this.selectedTags = [];
       this.showAllItems();
     }
     
@@ -632,7 +476,6 @@ class TagFilterManager {
   }
 }
 
-// Initialize when DOM is ready
 document.addEventListener('DOMContentLoaded', () => {
   window.tagFilter = new TagFilterManager();
 }); 

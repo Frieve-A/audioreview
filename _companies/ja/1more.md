@@ -8,7 +8,7 @@ ref: 1more
 date: 2025-07-11
 rating: [3.5, 0.8, 0.7, 1.0, 0.5, 0.5]
 summary: "中国発のオーディオブランド1MOREは、2013年設立で元FoxconnのエグゼクティブがXiaomiの投資を受けて設立。コストパフォーマンスに優れたイヤホン・ヘッドホンを製造し、THX認証を取得した製品も展開している。"
-tags: [中国ブランド, コストパフォーマンス, THX認証, Triple Driver]
+tags: [中国, コストパフォーマンス, THX認証, "Triple Driver"]
 permalink: /companies/ja/1more/
 ---
 

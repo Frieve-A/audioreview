@@ -8,7 +8,7 @@ ref: jabra
 date: 2025-07-09
 rating: [3.0, 0.6, 0.7, 0.5, 0.6, 0.6]
 summary: "A veteran Danish audio equipment manufacturer and member of the GN Group with over 150 years of history. Has long led the headset market but decided to exit the consumer earphone business in 2024. While maintaining industry-average technical standards, it lags behind in measured performance compared to cutting-edge digital technology."
-tags: [wireless earbuds, headsets, Denmark, exit]
+tags: ["Wireless Earphones", Headsets, Denmark, Exit]
 permalink: /companies/en/jabra/
 ---
 

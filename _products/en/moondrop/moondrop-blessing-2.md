@@ -8,7 +8,7 @@ ref: moondrop-blessing-2
 date: 2025-07-06
 rating: [2.7, 0.8, 0.7, 0.2, 0.6, 0.4]
 summary: "A revolutionary product that shook the IEM market in 2020. With its 1DD+4BA configuration at USD 320, it provided performance comparable to USD 1000 IEMs of its era, causing industry-wide price disruption. Measurement performance is excellent, particularly the natural midrange reproduction. However, after 4 years, numerous competitors like Truthear Nova (USD 169.99) offer equal or superior performance at approximately half the price, severely degrading its cost-performance ratio."
-tags: [China, IEM, Hybrid, 1DD4BA, Measurement Performance]
+tags: [1DD4BA, China, "Hybrid technology", "In-ear monitors", "Measurement Performance"]
 permalink: /products/en/moondrop-blessing-2/
 ---
 

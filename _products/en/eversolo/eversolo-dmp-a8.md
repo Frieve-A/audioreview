@@ -8,7 +8,7 @@ ref: eversolo-dmp-a8
 date: 2025-07-08
 rating: [4.2, 0.9, 0.8, 0.9, 0.8, 0.8]
 summary: "Premium streaming DAC featuring AKM Velvet Sound technology. Achieves excellent measured performance with THD+N -120dB and SNR 128dB via XLR outputs. Includes 6-inch touchscreen, fully balanced topology, and R2R volume control, but faces value challenges at USD 1,980 USD pricing."
-tags: [streamer, DAC, preamp, AKM, balanced output]
+tags: [AKM, "Balanced output", DAC, "Network streamer", Preamp]
 permalink: /products/en/eversolo-dmp-a8/
 ---
 

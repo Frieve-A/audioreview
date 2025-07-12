@@ -8,7 +8,7 @@ ref: audiovero-acourate
 date: 2025-07-07
 rating: [4.4, 1.0, 0.9, 0.9, 0.8, 0.8]
 summary: "The pinnacle of professional room correction and measurement software. Features advanced phase correction with its proprietary ICPA technology, in addition to FIR filter generation. An industry-standard tool supported by renowned engineers like Bob Katz. Offers functionality comparable to its direct competitor, Audiolense XO, at a reasonable price point."
-tags: [AudioVero, Acourate, Room Correction, FIR Filter, Professional]
+tags: [Acourate, AudioVero, "FIR Filter", Professional, "Room correction"]
 permalink: /products/en/audiovero-acourate/
 ---
 

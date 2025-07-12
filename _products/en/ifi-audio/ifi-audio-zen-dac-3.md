@@ -8,7 +8,7 @@ ref: ifi-audio-zen-dac-3
 date: 2025-07-07
 rating: [4.5, 0.9, 1.0, 0.7, 1.0, 0.9]
 summary: "A desktop DAC/headphone amplifier achieving high performance with THD+N 0.0015% and SNR 113dB at a price of 34,794 yen. Clearly superior in measured performance compared to competitors like the FiiO K7 at similar price points. Excellent cost-performance with comprehensive features including DSD512/PCM768 support and MQA full decoding."
-tags: [UK, DAC, headphone-amplifier, desktop, USB]
+tags: ["United Kingdom", DAC, Headphone-amplifier, Desktop, USB]
 permalink: /products/en/ifi-audio-zen-dac-3/
 ---
 

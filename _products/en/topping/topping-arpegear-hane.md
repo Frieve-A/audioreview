@@ -8,7 +8,7 @@ ref: topping-arpegear-hane
 date: 2025-07-06
 rating: [2.9, 0.7, 0.6, 0.5, 0.6, 0.5]
 summary: "Topping's first IEM under their new ArpegEar brand, featuring a 10mm dynamic driver at USD 129 with 16 tuning options via 4 DIP switches. Measurements show low THD <0.05% at 90dB SPL, but rising to 5% at 110dB. Features aggressive V-shaped sound signature. Compared to competitors like Truthear Hexa (USD 89.99) and Dunu Titan S (under USD 100), the price-performance advantage is limited."
-tags: [China, IEM, Dynamic Driver, Tunable, ArpegEar]
+tags: [ArpegEar, China, "Dynamic driver", "In-ear monitors", Tunable]
 permalink: /products/en/topping-arpegear-hane/
 ---
 

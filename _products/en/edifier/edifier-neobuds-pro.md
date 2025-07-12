@@ -8,7 +8,7 @@ ref: edifier-neobuds-pro
 date: 2025-07-11
 rating: [2.2, 0.2, 0.4, 0.5, 0.7, 0.4]
 summary: "The Edifier NeoBuds Pro 2 suffers from severe frequency response issues including 12kHz peak requiring 13dB correction, with actual ANC performance at 38dB maximum despite 50dB claims, resulting in poor scientific effectiveness."
-tags: [True Wireless, ANC, Hi-Res, LDAC, LHDC]
+tags: ["Active noise cancelling", Hi-Res, LDAC, LHDC, "Wireless Earphones"]
 permalink: /products/en/edifier-neobuds-pro/
 ---
 

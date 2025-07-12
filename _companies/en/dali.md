@@ -8,7 +8,7 @@ ref: dali
 date: 2025-07-08
 rating: [3.7, 0.7, 0.8, 0.6, 0.8, 0.8]
 summary: "Veteran Danish speaker manufacturer with proprietary SMC technology and other innovations, but measurement performance remains appropriate for the price range."
-tags: [speakers, Denmark, hi-fi, SMC technology]
+tags: [Speaker, Denmark, Hi-fi, "SMC technology"]
 permalink: /companies/en/dali/
 ---
 

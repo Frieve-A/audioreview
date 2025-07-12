@@ -8,7 +8,7 @@ ref: hifiman-he400se
 date: 2025-07-08
 rating: [3.6, 0.7, 0.7, 0.8, 0.7, 0.7]
 summary: "Entry-level planar magnetic headphones that balance basic sound quality performance with convenience"
-tags: [planar magnetic, open-back, HiFiMan, entry-level]
+tags: [Entry-level, HiFiMan, Open-back, "Planar magnetic"]
 permalink: /products/en/hifiman-he400se/
 ---
 

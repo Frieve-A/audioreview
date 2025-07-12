@@ -8,7 +8,7 @@ ref: audio-technica-ath-cks50tw
 date: 2025-07-09
 rating: [3.1, 0.6, 0.6, 0.5, 0.7, 0.7]
 summary: "9mmドライバー搭載で50時間の圧倒的バッテリー持続時間を誇る重低音重視の完全ワイヤレスイヤホン"
-tags: [イヤホン, 完全ワイヤレス, ノイズキャンセリング, 重低音]
+tags: [イヤフォン, ノイズキャンセリング, 完全ワイヤレスイヤホン, 重低音]
 permalink: /products/ja/audio-technica-ath-cks50tw/
 ---
 

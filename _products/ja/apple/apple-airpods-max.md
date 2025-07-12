@@ -8,7 +8,7 @@ ref: apple-airpods-max
 date: 2025-07-09
 rating: [2.8, 0.4, 0.5, 0.7, 0.6, 0.6]
 summary: "有線DACに匹敵する音質を持つプレミアムワイヤレスヘッドホンだが、449ドルの価格設定を正当化するのは難しい"
-tags: [ヘッドホン, ワイヤレス, ノイズキャンセリング, オーバーイヤー]
+tags: [オーバーイヤー, ノイズキャンセリング, ヘッドフォン, ワイヤレス]
 permalink: /products/ja/apple-airpods-max/
 ---
 

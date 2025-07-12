@@ -8,7 +8,7 @@ ref: creative
 date: 2025-07-08
 rating: [2.5, 0.3, 0.7, 0.5, 0.7, 0.3]
 summary: "Veteran PC peripherals manufacturer. Established industry standards with Sound Blaster, but current measurement performance remains average for the price range."
-tags: [sound card, speakers, gaming audio, PC peripherals]
+tags: ["Sound card", Speaker, "Gaming audio", "PC peripherals"]
 permalink: /companies/en/creative/
 ---
 

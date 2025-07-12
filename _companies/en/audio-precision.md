@@ -8,7 +8,7 @@ ref: audio-precision
 date: 2025-07-06
 rating: [4.7, 1.0, 1.0, 0.7, 1.0, 1.0]
 summary: "The absolute global standard in audio measurement. Without Audio Precision's audio analyzers, modern high-performance audio products would not exist. Audio Precision (AP) provides the very 'yardstick' that defines and validates audio performance through objective numerical data, fundamentally supporting the quality of the entire audio industry."
-tags: [USA, Test Equipment, Industry Standard, Audio Analyzer, B2B]
+tags: [America, "Test Equipment", "Industry Standard", "Audio Analyzer", B2B]
 permalink: /companies/en/audio-precision/
 ---
 

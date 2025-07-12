@@ -8,10 +8,9 @@ ref: audio-technica-ath-cks50tw
 date: 2025-07-09
 rating: [3.1, 0.6, 0.6, 0.5, 0.7, 0.7]
 summary: "Bass-focused true wireless earbuds with 9mm drivers delivering overwhelming 50-hour battery life"
-tags: [earbuds, true-wireless, noise-cancelling, bass-heavy]
+tags: [Bass-heavy, Earbuds, Noise cancelling, True-wireless]
 permalink: /products/en/audio-technica-ath-cks50tw/
 ---
-
 ## Overview
 
 The Audio-Technica ATH-CKS50TW is a true wireless earbuds released in 2022. Features 9mm full-range dynamic drivers with acoustic ducts for enhanced bass sound signature. Equipped with Bluetooth 5.2, aptX Adaptive support, and active noise cancellation, achieving overwhelming 20-hour continuous playback from earbuds alone and 50-hour total with charging case. Currently priced at USD 149 USD, with improved ATH-CKS50TW2 version released in 2025.

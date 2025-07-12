@@ -8,7 +8,7 @@ ref: bose-soundlink-flex
 date: 2025-07-07
 rating: [3.0, 0.7, 0.7, 0.4, 0.7, 0.5]
 summary: "Bose's compact portable speaker featuring IP67 waterproofing, 12-hour battery life, and PositionIQ technology. At 149 USD regular price (currently 113 USD on sale), it competes against significantly cheaper alternatives like the JBL Clip 5 (80 USD) and Tribit StormBox Micro 2 (60 USD) that offer similar functionality with better value proposition."
-tags: [USA, Portable Speaker, Bluetooth, Waterproof, Compact]
+tags: [America, "Portable Speaker", Bluetooth, Waterproof, Compact]
 permalink: /products/en/bose-soundlink-flex/
 ---
 

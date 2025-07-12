@@ -8,7 +8,7 @@ ref: bose-quietcomfort-ultra-earbuds
 date: 2025-07-06
 rating: [3.8, 0.8, 0.8, 0.8, 0.8, 0.6]
 summary: "CustomTune技術とImmersive Audio機能を搭載し、業界最高クラスのANC性能（400Hz以下で34dB、1kHz以上で39dB減衰）を実現する完全ワイヤレスイヤホン。Snapdragon Sound認証、aptX Adaptive対応、マルチポイント接続など先進機能を網羅。重量7.1gの軽量設計ながら最大6時間のバッテリー持続を実現。ただし、30Hz付近で14dB、2.5kHz付近での過度な周波数強調など、純粋な忠実再生からは逸脱した音質チューニングが施されています。"
-tags: [アメリカ, 完全ワイヤレス, ANC最高峰, CustomTune, Immersive Audio]
+tags: [ANC最高峰, CustomTune, "Immersive Audio", アメリカ, 完全ワイヤレスイヤホン]
 permalink: /products/ja/bose-quietcomfort-ultra-earbuds/
 ---
 

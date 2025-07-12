@@ -8,7 +8,7 @@ ref: atc
 date: 2025-07-05
 rating: [4.2, 1.0, 1.0, 0.3, 0.9, 1.0]
 summary: "Professional audio manufacturer from the UK founded in 1974. Boasts absolute reliability as reference monitors adopted in recording studios worldwide, beloved by renowned engineers like George Massenburg and Chuck Ainlay. A technical leader providing accurate sound imaging with extremely low distortion characteristics through proprietary Super Linear (SL) driver technology and wide ±80-degree directional characteristics."
-tags: [UK, Speaker, Professional, "Studio Monitor", "Super Linear"]
+tags: ["United Kingdom", Speaker, Professional, "Studio Monitor", "Super Linear"]
 permalink: /companies/en/atc/
 ---
 

@@ -8,7 +8,7 @@ ref: q-acoustics-3030i
 date: 2025-07-08
 rating: [3.9, 0.8, 0.7, 0.9, 0.7, 0.8]
 summary: "英国のQ Acousticsが開発した6.5インチウーファー搭載のブックシェルフスピーカー。46Hz-30kHz(+3dB/-6dB)の周波数特性と88dBの能率を持ち、中域の表現力に優れた音響設計が特徴。399米ドル(約6万円)という価格設定で、競合のWharfedale Diamond 12.2やKEF Q350と比較しても合理的な選択肢を提供する。"
-tags: [英国, スピーカー, ブックシェルフ, Q Acoustics, 3000iシリーズ]
+tags: [3000iシリーズ, "Q Acoustics", スピーカー, ブックシェルフスピーカー, 英国]
 permalink: /products/ja/q-acoustics-3030i/
 ---
 

@@ -8,7 +8,7 @@ ref: campfire-audio
 date: 2025-07-05
 rating: [3.6, 0.6, 0.8, 0.4, 0.9, 0.9]
 summary: "Boutique IEM manufacturer based in Portland, America, founded in 2015. Split from ALO Audio led by Ken Ball, achieving high acclaim through hand assembly and unique acoustic tuning. Flagship models like Andromeda and Solaris are expensive at USD 1,000-1,800 but have passionate fans for their musical appeal and distinctive sound. Their approach emphasizing listening-based adjustments over measurement data and differentiation through physical acoustic design is unique. However, from a cost-performance perspective, competitiveness with other companies presents challenges."
-tags: [USA, Portland, boutique, IEM, handmade, Ken Ball]
+tags: [America, Portland, Boutique, IEM, Handmade, "Ken Ball"]
 permalink: /companies/en/campfire-audio/
 ---
 

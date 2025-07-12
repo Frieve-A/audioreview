@@ -8,7 +8,7 @@ ref: etymotic-research
 date: 2025-07-05
 rating: [4.3, 1.0, 0.9, 0.6, 0.9, 0.9]
 summary: "Acoustic engineering research company established in 1983 by audiologist Dr. Mead Killion in Illinois. True to the name Etymotic meaning 'true to the ear,' the company is dedicated to hearing protection and accurate acoustic reproduction, developing the world's first noise-isolating high-fidelity earphone ER-4. Currently providing reference-grade sound quality with the ER2-ER4 series, while their ER20 series hearing protection earplugs have become the standard in the music industry. With excellent 35-42dB isolation and analytical, flat acoustic characteristics, they have earned absolute trust from professionals."
-tags: [USA, Illinois, Audiology, Reference, Isolation, Analytical]
+tags: [America, Illinois, Audiology, Reference, Isolation, Analytical]
 permalink: /companies/en/etymotic-research/
 ---
 

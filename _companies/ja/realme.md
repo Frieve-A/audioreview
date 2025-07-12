@@ -8,7 +8,7 @@ ref: realme
 date: 2025-07-11
 rating: [3.7, 0.6, 0.7, 0.8, 0.8, 0.8]
 summary: "中国BBK Electronics傘下のオーディオブランドとして、優れたコストパフォーマンスでTWSイヤホンを展開。Buds Air 6 Proは50dB ANCとLDAC対応で競合他社を上回る仕様を競争力のある価格で提供。"
-tags: [TWS, 中国メーカー, BBK, エントリー, ミドルレンジ]
+tags: ["Wireless Earphones", 中国, BBK, 低価格, ミドルレンジ]
 permalink: /companies/ja/realme/
 ---
 

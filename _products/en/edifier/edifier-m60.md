@@ -8,10 +8,9 @@ ref: edifier-m60
 date: 2025-07-11
 rating: [2.5, 0.3, 0.4, 1.0, 0.4, 0.4]
 summary: "Compact desktop speaker with 66W output and LDAC support. Despite winning VGP2025 Gold Award, insufficient measurement data prevents performance verification, resulting in poor scientific validity. However, excellent cost-performance compared to similar 66W RMS alternatives."
-tags: [desktop speaker, Bluetooth, LDAC, hi-res, active speaker]
+tags: [Active speakers, Bluetooth, Desktop speaker, Hi-res, LDAC]
 permalink: /products/en/edifier-m60/
 ---
-
 ## Overview
 
 The Edifier M60 is a compact desktop speaker released in 2024, featuring 66W output (15W×2 for high frequencies, 18W×2 for mid-bass). It incorporates a 1-inch silk dome tweeter and 3-inch aluminum mid-bass driver, with Bluetooth 5.3 LDAC codec support, 24bit/96kHz high-resolution processing, and Texas Instruments Class D amplifier. It supports USB-C and AUX inputs, with customization available through the dedicated "Edifier ConneX" app. The product has won VGP2025 Gold Award and Cost Performance Award, attracting market attention.

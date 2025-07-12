@@ -8,7 +8,7 @@ ref: yamaha
 date: 2025-07-05
 rating: [3.7, 0.8, 0.9, 0.4, 0.8, 0.8]
 summary: "Representative Japanese comprehensive musical instrument and audio equipment manufacturer founded in 1887. Based on acoustic technologies cultivated through instrument manufacturing, they operate broadly from audio equipment to professional sound systems, leading the industry with proprietary sound field technologies. While performance and reliability are high, cost-performance receives harsh evaluation compared to recent high-performance, low-cost products. However, as the only company handling both instruments and audio, they remain an attractive choice for users who deeply love music."
-tags: [Japan, instruments, AV amplifiers, CINEMA DSP, comprehensive manufacturer]
+tags: [Japan, Instruments, "AV amplifiers", "CINEMA DSP", "Comprehensive manufacturer"]
 permalink: /companies/en/yamaha/
 ---
 

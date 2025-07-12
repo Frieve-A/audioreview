@@ -8,7 +8,7 @@ ref: chord-electronics
 date: 2025-07-05
 rating: [3.4, 0.8, 0.9, 0.0, 0.8, 0.9]
 summary: "Founded in 1989, this British high-end audio manufacturer is renowned for its proprietary FPGA-based digital signal processing technology, particularly developing innovative products in the DAC field. Through the expertise of founder John Franks and Robert Watts, they achieve advanced digital processing that sets them apart from conventional DACs. While valued for technical uniqueness and high measurement performance, cost-performance is extremely poor, making them overpriced in pure performance-to-price terms."
-tags: [UK, DAC, High-end, FPGA, Digital Signal Processing]
+tags: ["United Kingdom", DAC, High-end, FPGA, "Digital Signal Processing"]
 permalink: /companies/en/chord-electronics/
 ---
 

@@ -8,10 +8,9 @@ ref: yamaha-ns-2000a
 date: 2025-07-08
 rating: [3.8, 0.8, 0.8, 0.8, 0.8, 0.6]
 summary: "A floor-standing speaker combining Japanese acoustic engineering with grand piano manufacturing expertise. Features Harmonious Diaphragm technology using ZYLON® and spruce across all drivers, achieving 26Hz-40kHz response. At USD 2,700 the price offers competitive value versus equivalent performance products, though some competitors provide higher efficiency."
-tags: [Japan, Floor-standing, Speakers, ZYLON, Harmonious-Diaphragm]
+tags: [Floor-standing, Harmonious-Diaphragm, Japan, Speakers, ZYLON]
 permalink: /products/en/yamaha-ns-2000a/
 ---
-
 ## Overview
 
 The YAMAHA NS-2000A is a 3-way floor-standing speaker combining Japanese acoustic technology with grand piano manufacturing expertise. It employs "Harmonious Diaphragm" technology across all drivers, made from ZYLON® (used in flagship models) and spruce wood (used in Yamaha grand piano soundboards). Achieving 26Hz to 40kHz frequency response with 88dB/2.83V/m sensitivity, it operates at 6Ω load (3.5Ω minimum). Features FEM analysis and laser vibrometry optimized cabinet design, selling for USD 2,700 USD (¥396,000 tax-included, single unit).

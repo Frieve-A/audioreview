@@ -8,11 +8,9 @@ ref: wiim-ultra
 date: 2025-07-08
 rating: [4.4, 0.9, 0.8, 0.9, 0.8, 1.0]
 summary: "ES9038Q2M DAC搭載の統合型ストリーマー・プリアンプ（329USD）。SNR 121dB、THD+N -116dB、3.5インチタッチスクリーン、HDMI ARC、フォノ入力搭載。専用機器として完璧な機能統合と透明レベルの測定性能を両立。"
-tags: [streamer, preamp, dac, ess, touchscreen, hdmi-arc]
+tags: [DAC, ESS, HDMI ARC, タッチスクリーン, ネットワークストリーマー, プリアンプ]
 permalink: /products/ja/wiim-ultra/
----
-
-## 概要
+---## 概要
 
 WiiM Ultraは中国LinkPlay Technology傘下WiiMブランドのフラッグシップ統合型ストリーマー・プリアンプです。329USDという価格でES9038Q2M DAC、SNR 121dB、THD+N -116dB（0.00018%）の透明レベル測定値に加え、3.5インチタッチスクリーン、HDMI ARC、MMフォノ入力、サブウーファー出力、ヘッドホン出力を統合しています。Wi-Fi 6、Bluetooth 5.3、Room Correction機能を搭載し、専用オーディオ機器として必要な全機能を単体で実現した革新的な製品です。
 

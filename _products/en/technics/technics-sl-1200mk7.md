@@ -8,7 +8,7 @@ ref: technics-sl-1200mk7
 date: 2025-07-09
 rating: [2.6, 0.6, 0.5, 0.4, 0.6, 0.5]
 summary: "Modern SL-1200 designed for DJs, but significantly inferior in cost-performance and technological innovation"
-tags: [turntable, DJ, analog, direct-drive]
+tags: [Turntable, DJ, Analog, Direct-drive]
 permalink: /products/en/technics-sl-1200mk7/
 ---
 

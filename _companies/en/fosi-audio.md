@@ -8,7 +8,7 @@ ref: fosi-audio
 date: 2025-07-08
 rating: [3.8, 0.8, 0.7, 0.9, 0.7, 0.7]
 summary: "Chinese startup from Shenzhen challenging high-end price structures with quality chips and exceptional cost-performance."
-tags: [amplifier, China, digital amplifier, TPA3255, CS43131]
+tags: [Amplifier, China, "Digital amplifier", TPA3255, CS43131]
 permalink: /companies/en/fosi-audio/
 ---
 

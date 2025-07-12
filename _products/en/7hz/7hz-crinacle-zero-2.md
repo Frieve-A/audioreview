@@ -8,7 +8,7 @@ ref: 7hz-crinacle-zero-2
 date: 2025-07-06
 rating: [4.0, 0.8, 0.7, 1.0, 0.7, 0.8]
 summary: "Ultra-budget 25USD IEM from 7Hz and Crinacle collaboration. Enhanced the neutral tuning of original Zero with 3dB bass reinforcement for more mainstream appeal. Provides THD<1%, 32Ω, 108dB/V specifications at 25USD, achieving excellent price efficiency in this price segment. Technical performance at industry average level but sufficiently practical considering the price. Some durability concerns but optimal choice for pure price efficiency prioritization."
-tags: [China, IEM, Budget, Crinacle, Collaboration]
+tags: [Budget-friendly, China, Collaboration, Crinacle, "In-ear monitors"]
 permalink: /products/en/7hz-crinacle-zero-2/
 ---
 

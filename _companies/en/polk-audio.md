@@ -8,7 +8,7 @@ ref: polk-audio
 date: 2025-07-05
 rating: [4.0, 0.7, 0.7, 0.9, 0.8, 0.9]
 summary: "A venerable American speaker manufacturer founded in Baltimore in 1972. Polk Audio has maintained its founding principle of 'delivering the best speakers to more people at reasonable prices' for over 50 years, with all products still manufactured in America. Through proprietary Power Port technology and Hi-Res Audio certification, the company offers a comprehensive product lineup from entry-level to serious music reproduction."
-tags: [American, Speaker, Cost-Performance, Hi-Res, "Power Port"]
+tags: [American, Speaker, "Cost Performance", Hi-Res, "Power Port"]
 permalink: /companies/en/polk-audio/
 ---
 

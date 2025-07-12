@@ -8,7 +8,7 @@ ref: creative-outlier-air-v3
 date: 2025-07-10
 rating: [2.0, 0.2, 0.3, 1.0, 0.2, 0.3]
 summary: "Creative Outlier Air V3は基本的なワイヤレスイヤホンとして機能するが、技術的な限界により現代の基準では競争力に欠ける製品"
-tags: [ワイヤレスイヤホン, ANC, Creative, 完全ワイヤレス]
+tags: [Creative, アクティブノイズキャンセリング, ワイヤレスイヤホン, 完全ワイヤレスイヤホン]
 permalink: /products/ja/creative-outlier-air-v3/
 ---
 

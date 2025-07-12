@@ -8,7 +8,7 @@ ref: kef-ls50-meta
 date: 2025-07-08
 rating: [3.9, 0.9, 0.8, 0.6, 0.8, 0.8]
 summary: "KEF's flagship bookshelf speaker featuring 12th-generation Uni-Q technology and Metamaterial Absorption Technology (MAT). At USD 1,500, it demonstrates high evaluation in both technical innovation and measured performance. However, cost-performance receives harsh evaluation when considering price differences with competing products offering equivalent acoustic performance."
-tags: [KEF, Bookshelf Speakers, Uni-Q, MAT, British, 2-Way]
+tags: [2-Way, "Bookshelf speakers", British, KEF, MAT, Uni-Q]
 permalink: /products/en/kef-ls50-meta/
 ---
 

@@ -8,7 +8,7 @@ ref: aful
 date: 2025-07-06
 rating: [3.1, 0.6, 0.6, 0.6, 0.7, 0.6]
 summary: "Chinese IEM specialist manufacturer founded in 2018. Named after the Chinese word for 'prosperity', showing rapid growth with high-quality in-ear monitors like the Performer8. Features patented RLC frequency division correction technology as core development focus. Released multiple acclaimed products in 2024, earning recognition as new Chi-Fi brand leader. However, being recently established, long-term reliability remains unknown."
-tags: [China, IEM, In-Ear Monitor, Chi-Fi, Hybrid Driver]
+tags: [China, IEM, IEM, Chi-Fi, "Hybrid Driver"]
 permalink: /companies/en/aful/
 ---
 

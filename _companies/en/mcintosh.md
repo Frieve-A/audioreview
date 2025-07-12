@@ -8,7 +8,7 @@ ref: mcintosh
 date: 2025-07-05
 rating: [2.9, 0.7, 0.6, 0.0, 0.9, 0.7]
 summary: "Founded in 1949, this American luxury audio amplifier manufacturer is known for its iconic design featuring blue meters and black glass front panels, along with extensive amplifier technology from tubes to transistors. While possessing Autoformer technology and proprietary output circuit designs, equivalent or superior performance products exist at 1/20th the price or less, resulting in minimum cost-performance rating per review policy. A brand for users who prioritize brand value and design."
-tags: [USA, Amplifier, Vacuum Tube, Transistor, Autoformer, High-end]
+tags: [America, Amplifier, "Vacuum Tube", Transistor, Autoformer, High-end]
 permalink: /companies/en/mcintosh/
 ---
 

@@ -8,7 +8,7 @@ ref: stax
 date: 2025-07-05
 rating: [4.3, 0.9, 1.0, 0.5, 0.9, 1.0]
 summary: "Japanese acoustic manufacturer founded in 1938. Nearly the world's only specialist in developing and manufacturing electrostatic headphones (which they call 'earspeakers'). Their unique method of driving ultra-thin diaphragms with high voltage achieves ultra-low distortion and high resolution difficult to attain with other methods. Since 2011, under the ownership of China's Edifier, they continue to preserve their unique technology with a stable management foundation. While handling requires a dedicated amplifier and isn't convenient, their unique sound continues to receive enthusiastic support from audiophiles worldwide."
-tags: [Japan, electrostatic, earspeakers, high-end, Edifier]
+tags: [Japan, Electrostatic, Earspeakers, High-end, Edifier]
 permalink: /companies/en/stax/
 ---
 

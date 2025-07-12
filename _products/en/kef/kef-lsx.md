@@ -8,7 +8,7 @@ ref: kef-lsx
 date: 2025-07-08
 rating: [4.3, 0.9, 0.8, 1.0, 0.8, 0.8]
 summary: "A wireless active speaker released by KEF in 2018, now discontinued and succeeded by the LSX II LT. Features downsized LS50 technology with Uni-Q drivers in a compact desktop speaker design. Supports Wi-Fi, Bluetooth, and wired connections with dedicated app control. Originally priced at 1,099 USD, it offers excellent measurement performance for its class with reasonable value when compared to equivalent wireless speaker products."
-tags: [KEF, Active Speakers, Wireless, Uni-Q, Desktop]
+tags: ["Active speakers", Desktop, KEF, Uni-Q, Wireless]
 permalink: /products/en/kef-lsx/
 ---
 

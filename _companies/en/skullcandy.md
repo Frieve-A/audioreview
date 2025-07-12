@@ -8,7 +8,7 @@ ref: skullcandy
 date: 2025-07-09
 rating: [2.3, 0.3, 0.4, 0.6, 0.6, 0.4]
 summary: "Skullcandy is an American audio brand founded in 2003 by Rick Alden. While appealing for sports/outdoor use with distinctive design and accessible pricing, their products consistently exhibit bass-heavy V-shaped acoustic characteristics, prioritizing fashion appeal over scientific acoustic design."
-tags: [Skullcandy, American, sports, outdoor, V-shaped audio]
+tags: [Skullcandy, American, Sports, Outdoor, "V-shaped audio"]
 permalink: /companies/en/skullcandy/
 ---
 

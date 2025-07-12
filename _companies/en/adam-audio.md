@@ -8,7 +8,7 @@ ref: adam-audio
 date: 2025-07-05
 rating: [4.2, 0.8, 0.9, 0.7, 0.8, 1.0]
 summary: "Berlin-based studio monitor specialist leveraging proprietary ART ribbon tweeter technology to achieve 4x the air movement of conventional piston speakers, delivering high SPL with ultra-low distortion. Their product lineup spans from professional studio environments to compact home studios with the D3V, serving diverse needs across the audio production spectrum."
-tags: [Germany, Studio Monitors, ART, Ribbon Tweeter, Berlin]
+tags: [Germany, "Studio Monitor", ART, "Ribbon Tweeter", Berlin]
 permalink: /companies/en/adam-audio/
 ---
 

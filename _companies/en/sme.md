@@ -8,7 +8,7 @@ ref: sme
 date: 2025-07-06
 rating: [1.3, 0.2, 0.5, 0.0, 0.5, 0.1]
 summary: "SME is a British company that produces extremely sophisticated products from a mechanical engineering perspective using precision processing technology. However, their technology specializes in reproducing 'analog records' - a medium with physically low performance limitations. From the absolute evaluation axis of fidelity to master sources, the company's products are inferior to modern standard digital reproduction systems in all performance indicators. As a result, cost-performance as audio equipment is virtually nonexistent, with their value limited to the realm of highly hobbyist craftsmanship rather than performance."
-tags: [Britain, Turntable, Tonearm, High-end, Analog]
+tags: ["United Kingdom", Turntable, Tonearm, High-end, Analog]
 permalink: /companies/en/sme/
 ---
 

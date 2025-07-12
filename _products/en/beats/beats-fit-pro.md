@@ -8,7 +8,7 @@ ref: beats-fit-pro
 date: 2025-07-09
 rating: [2.8, 0.6, 0.6, 0.6, 0.5, 0.5]
 summary: "Apple H1 chip-equipped earbuds offering stable connectivity and balanced sound quality, but challenged by microphone performance and price competitiveness"
-tags: [true wireless, ANC, sports, Apple H1, fit]
+tags: ["Active noise cancelling", "Apple H1", Fit, Sports, "Wireless Earphones"]
 permalink: /products/en/beats-fit-pro/
 ---
 

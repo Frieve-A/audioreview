@@ -8,7 +8,7 @@ ref: dan-clark-audio
 date: 2025-07-05
 rating: [4.0, 0.9, 0.9, 0.7, 0.7, 0.8]
 summary: "US planar magnetic headphone specialist founded in 2012. Achieves industry-leading low distortion characteristics through proprietary V-planar technology and AMTS. While technologically innovative with high performance in its price class, competing products with similar performance exist at lower prices, making absolute cost-performance less than optimal."
-tags: [USA, "Planar Magnetic", Headphones, "innovative technology", "Dan Clark"]
+tags: [America, "Planar Magnetic", Headphones, "Innovative technology", "Dan Clark"]
 permalink: /companies/en/dan-clark-audio/
 ---
 

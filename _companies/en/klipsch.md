@@ -8,7 +8,7 @@ ref: klipsch
 date: 2025-07-05
 rating: [4.0, 0.9, 0.8, 0.6, 0.8, 0.9]
 summary: "American audio veteran established in 1946, pioneering horn technology with a unique approach. Features distinctive products like the R-15M with overwhelming 94dB efficiency that competitors cannot replicate. Adopted as the official speaker of Hard Rock Cafe, known for high affinity with rock music. Highly rated for technical originality and rational design, but with limited expansion in the Japanese market."
-tags: [America, Speaker, "horn technology", "high efficiency", "rock music"]
+tags: [America, Speaker, "Horn technology", "High efficiency", "Rock music"]
 permalink: /companies/en/klipsch/
 ---
 

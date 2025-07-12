@@ -8,7 +8,7 @@ ref: beats
 date: 2025-07-09
 rating: [3.2, 0.7, 0.6, 0.5, 0.8, 0.6]
 summary: "An audio brand founded in 2008 by Dr. Dre and Jimmy Iovine. Acquired by Apple for 3 billion USD in 2014 and currently operates as Apple's subsidiary. While excelling in consumer branding, measured performance remains at industry average levels with higher pricing."
-tags: [wireless earbuds, headphones, Apple, Dr. Dre, Jimmy Iovine]
+tags: ["Wireless Earphones", Headphones, Apple, "Dr. Dre", "Jimmy Iovine"]
 permalink: /companies/en/beats/
 ---
 

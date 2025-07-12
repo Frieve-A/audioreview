@@ -8,7 +8,7 @@ ref: wiim
 date: 2025-07-08
 rating: [3.9, 0.8, 0.7, 0.9, 0.8, 0.7]
 summary: "中国LinkPlay Technology傘下の音楽ストリーミング機器ブランド。ES9038Q2M DAC搭載のUltra（329 USD）でSNR 121dB/THD+N -116dBの高性能を低価格で実現。価格破壊的なコストパフォーマンスが最大の特徴。"
-tags: [streamer, dac, chinese, budget, linkplay]
+tags: [Streamer, DAC, China, Budget, Linkplay]
 permalink: /companies/ja/wiim/
 ---
 

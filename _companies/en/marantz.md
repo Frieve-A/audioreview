@@ -8,7 +8,7 @@ ref: marantz
 date: 2025-07-05
 rating: [3.2, 0.8, 0.9, 0.1, 0.8, 0.6]
 summary: "A premium audio brand founded in 1953, renowned for its proprietary HDAM technology and 'warm, musical sound.' Under Harman ownership alongside Denon, Marantz focuses on luxury-oriented products with excellent measured performance. However, equivalent or superior performance exists at significantly lower prices from manufacturers like Topping, resulting in extremely poor cost-performance."
-tags: [America, audio, amplifier, AV receiver, HDAM, premium, Harman]
+tags: [America, Audio, Amplifier, "AV receiver", HDAM, Premium, Harman]
 permalink: /companies/en/marantz/
 ---
 

@@ -8,7 +8,7 @@ ref: eclipse
 date: 2025-07-05
 rating: [3.3, 1.0, 0.8, 0.2, 0.5, 0.8]
 summary: "The pride of DENSO TEN, born from 'Time Domain' theory. The amazingly accurate sound imaging and time-axis representation from an egg-shaped enclosure and single driver is unique. Their ability to vividly reproduce music groove and performance nuances is remarkable, but they also have physical constraints of narrow reproduction bandwidth and low efficiency. Their pursuit of scientific ideals is commendable, but cost-performance is extremely low due to high prices. This is a brand for enthusiastic fans who can understand specific values."
-tags: [Japan, Speaker, "Time Domain", "DENSO TEN", "point source"]
+tags: [Japan, Speaker, "Time Domain", "DENSO TEN", "Point source"]
 permalink: /companies/en/eclipse/
 ---
 

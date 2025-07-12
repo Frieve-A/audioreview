@@ -8,7 +8,7 @@ ref: razer
 date: 2025-07-10
 rating: [2.4, 0.2, 0.4, 0.8, 0.5, 0.5]
 summary: "A brand known for its gaming-focused RGB lighting, but problematic from an audio fidelity perspective. While feature-rich, its pricing is reasonable considering the existence of competing products with similar features."
-tags: [gaming, headset, wireless, RGB]
+tags: [Gaming, Headset, Wireless, RGB]
 permalink: /companies/en/razer/
 ---
 

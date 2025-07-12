@@ -8,7 +8,7 @@ ref: jabra-elite-8-active
 date: 2025-07-09
 rating: [2.7, 0.5, 0.6, 0.5, 0.6, 0.5]
 summary: "スポーツ用途に特化した完全ワイヤレスイヤホンとして堅牢性とANC性能を両立するも、価格競争力と測定性能の透明度に課題"
-tags: [完全ワイヤレス, ANC, スポーツ, 防水, アクティブ]
+tags: [アクティブ, アクティブノイズキャンセリング, スポーツ, 完全ワイヤレスイヤホン, 防水]
 permalink: /products/ja/jabra-elite-8-active/
 ---
 

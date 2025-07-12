@@ -8,7 +8,7 @@ ref: cambridge-audio
 date: 2025-07-06
 rating: [3.1, 0.7, 0.8, 0.2, 0.7, 0.7]
 summary: "A British audio manufacturer established in 1968, known for cost-effective product development and supported by a wide range of users from beginners to intermediates. With comprehensive product lineups including amplifiers, DACs, and streaming equipment, they achieve excellent measurement performance in their price range. However, pure performance comparisons reveal more affordable alternatives, making absolute cost-performance less impressive. Products designed for users who evaluate high-end audio entry machines including brand and design considerations."
-tags: [UK, Audio, Cost-Performance, Entry-Level, Amplifier]
+tags: ["United Kingdom", Audio, "Cost Performance", Entry-Level, Amplifier]
 permalink: /companies/en/cambridge-audio/
 ---
 

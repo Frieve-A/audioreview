@@ -8,7 +8,7 @@ ref: anthem
 date: 2025-07-05
 rating: [4.7, 1.0, 1.0, 0.8, 0.9, 1.0]
 summary: "A Canadian technical group that scientifically solves 'room acoustic problems.' With the world's highest-level room correction technology 'ARC' at its core, it draws out the true performance of speakers. An extremely rational brand that enjoys absolute trust in the AV amplifier field."
-tags: [Canada, AV amplifier, home theater, ARC, room correction, Paradigm]
+tags: [Canada, "AV amplifier", "Home theater", ARC, "Room correction", Paradigm]
 permalink: /companies/en/anthem/
 ---
 

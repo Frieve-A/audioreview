@@ -8,7 +8,7 @@ ref: audio-note
 date: 2025-07-05
 rating: [1.0, 0.1, 0.2, 0.0, 0.5, 0.2]
 summary: "A British luxury audio brand with strong devotion to vacuum tubes and silver wire. Adheres to a unique philosophy that prioritizes subjective musicality over measured values, resulting in extremely expensive products with remarkably low cost-performance from modern technical standards. Can be considered products for passionate fans who deeply resonate with their unique acoustic philosophy."
-tags: [Britain, Vacuum Tube Amplifier, Luxury Audio, SET]
+tags: ["United Kingdom", "Tube Amp", High-end, SET]
 permalink: /companies/en/audio-note/
 ---
 

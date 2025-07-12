@@ -8,7 +8,7 @@ ref: final-cotsubu-for-asmr-mk2
 date: 2025-07-09
 rating: [2.6, 0.6, 0.5, 0.4, 0.6, 0.5]
 summary: "An evolved version of the world's first ASMR-dedicated wireless earphones, but falls short in measurable acoustic performance compared to general wireless earphones"
-tags: [wireless earphones, ASMR, final, ag]
+tags: ["Wireless earphones", ASMR, Final, Ag]
 permalink: /products/en/final-cotsubu-for-asmr-mk2/
 ---
 

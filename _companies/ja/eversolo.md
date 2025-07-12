@@ -8,7 +8,7 @@ ref: eversolo
 date: 2025-07-08
 rating: [4.2, 0.9, 0.8, 0.9, 0.8, 0.8]
 summary: "中国深圳発の新興オーディオ企業。DMP-A8やDMP-A10などの測定スペックに優れたストリーミングDAC製品で急成長。AKMやESS製DACを用いた技術的実力は高いが、コストパフォーマンスで競合に圧倒される。"
-tags: [ストリーマー, DAC, プリアンプ, 中国メーカー, ネットワーク]
+tags: [ストリーマー, DAC, プリアンプ, 中国, ネットワーク]
 permalink: /companies/ja/eversolo/
 ---
 

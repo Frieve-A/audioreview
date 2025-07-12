@@ -8,7 +8,7 @@ ref: technics-eah-az100
 date: 2025-07-08
 rating: [3.5, 0.6, 0.8, 0.7, 0.8, 0.6]
 summary: "Flagship true wireless earbuds featuring industry-first magnetic fluid driver technology"
-tags: [true wireless, noise cancelling, Technics, hi-res]
+tags: ["Active noise cancelling", Hi-res, Technics, "Wireless Earphones"]
 permalink: /products/en/technics-eah-az100/
 ---
 

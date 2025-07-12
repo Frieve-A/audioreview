@@ -8,7 +8,7 @@ ref: steelseries
 date: 2025-07-11
 rating: [2.8, 0.6, 0.5, 0.8, 0.4, 0.5]
 summary: "Danish gaming audio manufacturer. Invests advanced technology in flagship Arctis series but faces strict evaluation due to pricing strategy."
-tags: [gaming headset, Denmark, active noise cancelling, AI voice processing]
+tags: ["Gaming headset", Denmark, "Active noise cancelling", "AI voice processing"]
 permalink: /companies/en/steelseries/
 ---
 

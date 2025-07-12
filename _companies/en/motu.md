@@ -8,7 +8,7 @@ ref: motu
 date: 2025-07-08
 rating: [4.0, 0.8, 0.8, 0.8, 0.8, 0.8]
 summary: "US Massachusetts-based comprehensive music technology company with Digital Performer and ESS DAC technology advantage in software-hardware integration."
-tags: [audio interface, MIDI, DAW, Digital Performer, ESS Sabre]
+tags: ["Audio interface", MIDI, DAW, "Digital Performer", "ESS Sabre"]
 permalink: /companies/en/motu/
 ---
 

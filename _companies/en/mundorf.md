@@ -8,7 +8,7 @@ ref: mundorf
 date: 2025-07-10
 rating: [2.5, 0.6, 0.8, 0.0, 0.7, 0.4]
 summary: "German audio capacitor manufacturer Mundorf. Established in 1985, this veteran company is falling behind in performance compared to modern technology. Despite high pricing, general-purpose components with equivalent functionality are available at dramatically lower prices."
-tags: [capacitor, inductor, resistor, Germany, audio components]
+tags: [Capacitor, Inductor, Resistor, Germany, "Audio components"]
 permalink: /companies/en/mundorf/
 ---
 
