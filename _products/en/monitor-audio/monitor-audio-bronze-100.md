@@ -8,10 +8,9 @@ ref: monitor-audio-bronze-100
 date: 2025-07-08
 rating: [3.4, 0.7, 0.6, 0.7, 0.7, 0.7]
 summary: "Bookshelf speaker with 8-inch woofer from the established British speaker manufacturer. Features unusually large driver for its price range, delivering deep bass extension down to 37Hz (-6dB). While the C-CAM technology drivers show excellent measured characteristics, the USD 399 price point faces tough competition from rivals like KEF Q150 at USD 299."
-tags: [British, Speaker, Bookshelf, C-CAM, 8-inch woofer]
+tags: [8-inch woofer, Bookshelf, British, C-CAM, Speakers]
 permalink: /products/en/monitor-audio-bronze-100/
 ---
-
 ## Overview
 
 The Monitor Audio Bronze 100 is a premium model in the Bronze series from Monitor Audio, a venerable British speaker manufacturer. It features an 8-inch C-CAM (Ceramic-Coated Aluminum) woofer and a 1-inch gold-plated dome tweeter, utilizing an unusually large driver for a bookshelf speaker to achieve exceptional low-frequency reproduction capabilities. Incorporating DCM (Damped Concentric Mode) technology and UD (Uniform Dispersion) waveguide, measurements demonstrate bass extension down to 37Hz (-6dB) and flat frequency response within ±1.6dB (200Hz-20kHz). The relatively large enclosure measures 376×231×325mm and weighs 7.8kg, accommodating these advanced driver technologies.

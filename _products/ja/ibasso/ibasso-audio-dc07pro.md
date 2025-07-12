@@ -9,8 +9,10 @@ date: 2025-07-08
 rating: [4.2, 0.9, 0.8, 0.7, 0.9, 0.9]
 summary: "クアッドCS43131搭載のポータブルDAC/アンプ。最高級の測定性能と優れた機能性を持ち、価格帯において良好なコストパフォーマンス"
 tags: [CS43131, FPGA, USB-C, ポータブルDAC, 高出力]
-permalink: /products/ja/ibasso-dc07pro/
----## 概要
+permalink: /products/ja/ibasso/ibasso-audio-dc07pro/
+---
+
+## 概要
 
 iBasso Audio DC07PROは、4基のCirrus Logic CS43131 DACチップとiBasso独自のFPGA技術を組み合わせたポータブルDAC/アンプです。PCM 768kHz/32bit、DSD512に対応し、0.96インチOLEDディスプレイ、ALPSエンコーダー、3段階ゲイン調整機能を搭載しています。134dBのSNR、THD+N 0.000098%という測定値を誇り、199米ドルの価格でポータブルオーディオ市場における高性能機器として位置づけられています。
 

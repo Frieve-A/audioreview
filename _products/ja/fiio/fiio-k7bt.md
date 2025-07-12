@@ -10,7 +10,9 @@ rating: [3.8, 0.8, 0.8, 0.6, 0.9, 0.7]
 summary: "K7にBluetooth機能を追加したデスクトップDAC/アンプコンボ、ただしデスクトップでのBluetooth実装の必要性は疑問"
 tags: [Bluetooth, DAC/アンプコンボ, FiiO, デスクトップDAC, ヘッドフォンアンプ]
 permalink: /products/ja/fiio-k7bt/
----## 概要
+---
+
+## 概要
 
 Fiio K7BTは、人気のデスクトップDAC/ヘッドホンアンプK7にBluetooth機能を追加した製品です。K7と同様にデュアルAK4493SEQ DACチップとデュアルTHX AAA 788+アンプを搭載し、QCC5124 Bluetoothチップによる高品質ワイヤレス機能を付加しています。LDAC、aptX HD、aptX Adaptiveなどの高解像度Bluetoothコーデックに対応し、FiiO Controlアプリによる詳細なコントロールが可能です。K7の優秀な有線性能に加えて、Bluetooth 5.1による無線接続機能を実現した製品ですが、デスクトップ用途におけるBluetooth機能の実用性には検討の余地があります。
 

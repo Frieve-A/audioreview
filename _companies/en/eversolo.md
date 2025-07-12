@@ -6,7 +6,7 @@ company_id: eversolo
 lang: en
 ref: eversolo
 date: 2025-07-08
-rating: [4.2, 0.9, 0.8, 0.9, 0.8, 0.8]
+rating: [3.7, 0.9, 0.8, 0.4, 0.8, 0.8]
 summary: "Emerging Chinese audio company from Shenzhen specializing in streaming DACs. Shows strong technical capabilities with DMP-A8 and DMP-A10 featuring excellent measurement specs using AKM and ESS DACs, but faces pricing pressure from competitive alternatives."
 tags: [Streamer, DAC, Preamp, "Chinese manufacturer", Network]
 permalink: /companies/en/eversolo/
@@ -30,9 +30,9 @@ Technical design shows above-industry-standard implementation using AKM AK4499EX
 
 ## Cost-Performance
 
-$$ \Large \text{0.9} $$
+$$ \Large \text{0.4} $$
 
-Against WiiM Ultra (¥49,800, THD+N -115dB, SNR 121dB), the DMP-A8 (¥300,000, THD+N -120dB, SNR 128dB) shows CP of approximately 0.17. Compared to FiiO R9 (¥224,000, THD+N -122dB, SNR 132dB) with equivalent performance, CP is around 0.75. The DMP-A10 (¥550,000) faces even greater pressure against FiiO R9 at more than double the price while showing inferior performance in some metrics, resulting in CP of approximately 0.41. While measurement performance is excellent, pricing lacks competitiveness in a market with numerous capable Chinese alternatives offering similar specifications at significantly lower costs.
+The flagship product, DMP-A8 (1,980 USD), exhibits a Cost-Performance (CP) of approximately 0.17 when compared to the more affordable WiiM Ultra (329 USD). Even against the similarly high-performing FiiO R9 (1,499 USD), the CP is only about 0.76, indicating a significant price disadvantage. The higher-end DMP-A10 (approx. 2,999 USD) faces even greater pressure, with a CP of about 0.50 against the FiiO R9. Overall, the product lineup is priced very high for its excellent measurement performance, forcing a low rating for cost-performance.
 
 ## Reliability & Support
 
