@@ -2,6 +2,7 @@ title: Frieve - Audio Review
 description: 物語に耳を貸さず、ブランドに目を眩まさず。静寂の中で向き合うオーディオの真価。
 url: "https://audioreview.frieve.com"
 baseurl: ""
+logo: /assets/images/og-image.png
 
 # Multi-language settings
 languages: ["en", "ja"]

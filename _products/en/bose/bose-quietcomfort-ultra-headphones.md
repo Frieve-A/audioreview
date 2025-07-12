@@ -1,7 +1,7 @@
 ---
 layout: product
 title: "Bose QuietComfort Ultra Headphones Product Review"
-target_name: "Bose-QuietComfort Ultra Headphones"
+target_name: "Bose QuietComfort Ultra Headphones"
 company_id: bose
 lang: en
 ref: bose-quietcomfort-ultra-headphones

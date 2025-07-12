@@ -1,7 +1,7 @@
 ---
 layout: product
 title: "Edifier M60 製品レビュー"
-target_name: "edifier-m60"
+target_name: "Edifier M60"
 company_id: edifier
 lang: ja
 ref: edifier-m60

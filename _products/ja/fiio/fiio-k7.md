@@ -1,7 +1,7 @@
 ---
 layout: product
-title: "Fiio-K7 製品レビュー"
-target_name: "Fiio-K7"
+title: "Fiio K7 製品レビュー"
+target_name: "Fiio K7"
 company_id: fiio
 lang: ja
 ref: fiio-k7

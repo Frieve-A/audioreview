@@ -1,7 +1,7 @@
 ---
 layout: product
 title: "TEAC-Portacapture X8 Product Review"
-target_name: "TEAC-Portacapture X8"
+target_name: "TEAC Portacapture X8"
 company_id: teac
 lang: en
 ref: teac-portacapture-x8

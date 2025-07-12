@@ -1,7 +1,7 @@
 ---
 layout: product
 title: "JBL TOUR PRO 3 製品レビュー"
-target_name: "JBL-TOUR PRO 3"
+target_name: "JBL TOUR PRO 3"
 company_id: jbl
 lang: ja
 ref: jbl-tour-pro-3

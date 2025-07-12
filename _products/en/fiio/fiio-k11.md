@@ -1,7 +1,7 @@
 ---
 layout: product
-title: "FiiO-K11 Product Review"
-target_name: "FiiO-K11"
+title: "FiiO K11 Product Review"
+target_name: "FiiO K11"
 company_id: fiio
 lang: en
 ref: fiio-k11

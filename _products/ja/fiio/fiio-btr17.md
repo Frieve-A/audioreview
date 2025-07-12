@@ -1,7 +1,7 @@
 ---
 layout: product
-title: "FiiO-BTR17 製品レビュー"
-target_name: "FiiO-BTR17"
+title: "FiiO BTR17 製品レビュー"
+target_name: "FiiO BTR17"
 company_id: fiio
 lang: ja
 ref: fiio-btr17

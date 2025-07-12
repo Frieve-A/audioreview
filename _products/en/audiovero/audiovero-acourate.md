@@ -1,7 +1,7 @@
 ---
 layout: product
 title: "AudioVero Acourate Product Review"
-target_name: "AudioVero-Acourate"
+target_name: "AudioVero Acourate"
 company_id: audiovero
 lang: en
 ref: audiovero-acourate

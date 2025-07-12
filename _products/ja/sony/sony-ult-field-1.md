@@ -1,7 +1,7 @@
 ---
 layout: product
-title: "Sony-ULT FIELD 1 製品レビュー"
-target_name: "Sony-ULT FIELD 1"
+title: "Sony ULT FIELD 1 製品レビュー"
+target_name: "Sony ULT FIELD 1"
 company_id: sony
 lang: ja
 ref: sony-ult-field-1

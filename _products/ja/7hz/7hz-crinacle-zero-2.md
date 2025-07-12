@@ -1,7 +1,7 @@
 ---
 layout: product
-title: "7Hz-Crinacle Zero:2 製品レビュー"
-target_name: "7Hz-Crinacle Zero:2"
+title: "7Hz Crinacle Zero:2 製品レビュー"
+target_name: "7Hz Crinacle Zero:2"
 company_id: 7hz
 lang: ja
 ref: 7hz-crinacle-zero-2

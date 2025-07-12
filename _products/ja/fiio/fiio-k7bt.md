@@ -1,7 +1,7 @@
 ---
 layout: product
-title: "Fiio-K7BT 製品レビュー"
-target_name: "Fiio-K7BT"
+title: "Fiio K7BT 製品レビュー"
+target_name: "Fiio K7BT"
 company_id: fiio
 lang: ja
 ref: fiio-k7bt

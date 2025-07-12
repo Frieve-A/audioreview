@@ -1,7 +1,7 @@
 ---
 layout: product
-title: "Aful-Performer8 製品レビュー"
-target_name: "Aful-Performer8"
+title: "Aful Performer8 製品レビュー"
+target_name: "Aful Performer8"
 company_id: aful
 lang: ja
 ref: aful-performer8

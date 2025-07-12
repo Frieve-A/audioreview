@@ -99,7 +99,7 @@ layout: default
       {% if page.tags %}
       <div class="tags">
         {% for tag in page.tags %}
-          <span class="tag">{{ tag }}</span>
+          <a href="/companies/{{ page.lang }}/?tags={{ tag | url_encode }}" class="tag">{{ tag }}</a>
         {% endfor %}
       </div>
       {% endif %}

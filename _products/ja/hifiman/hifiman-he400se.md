@@ -1,7 +1,7 @@
 ---
 layout: product
 title: "HiFiMan HE400se 製品レビュー"
-target_name: "HiFiMan-HE400se"
+target_name: "HiFiMan HE400se"
 company_id: hifiman
 lang: ja
 ref: hifiman-he400se

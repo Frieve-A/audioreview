@@ -1,7 +1,7 @@
 ---
 layout: product
 title: "Marantz MODEL M1 Product Review"
-target_name: "Marantz-MODEL-M1"
+target_name: "Marantz MODEL-M1"
 company_id: marantz
 lang: en
 ref: marantz-model-m1

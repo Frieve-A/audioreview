@@ -1,7 +1,7 @@
 ---
 layout: product
-title: "final-COTSUBU for ASMR MK2 Product Review"
-target_name: "final-COTSUBU for ASMR MK2"
+title: "final COTSUBU for ASMR MK2 Product Review"
+target_name: "final COTSUBU for ASMR MK2"
 company_id: final
 lang: en
 ref: final-cotsubu-for-asmr-mk2

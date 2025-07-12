@@ -14,7 +14,7 @@ layout: default
   </div>
   
   <div class="home-card">
-    <h3>{{ site.data.strings[page.lang].product_review }} (Coming soon)</h3>
+    <h3>{{ site.data.strings[page.lang].product_review }}</h3>
     <p>{{ site.data.strings[page.lang].product_reviews_desc }}</p>
     <a href="{% if page.lang %}{{ '/products/' | append: page.lang | append: '/' | relative_url }}{% else %}{{ '/products/' | relative_url }}{% endif %}">{{ site.data.strings[page.lang].view_products }}</a>
   </div>

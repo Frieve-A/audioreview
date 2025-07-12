@@ -1,7 +1,7 @@
 ---
 layout: product
-title: "Bose-QuietComfort Ultra Earbuds 製品レビュー"
-target_name: "Bose-QuietComfort Ultra Earbuds"
+title: "Bose QuietComfort Ultra Earbuds 製品レビュー"
+target_name: "Bose QuietComfort Ultra Earbuds"
 company_id: bose
 lang: ja
 ref: bose-quietcomfort-ultra-earbuds

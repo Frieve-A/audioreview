@@ -1,7 +1,7 @@
 ---
 layout: product
-title: "SENNHEISER-MOMENTUM True Wireless 4 Product Review"
-target_name: "SENNHEISER-MOMENTUM True Wireless 4"
+title: "SENNHEISER MOMENTUM True Wireless 4 Product Review"
+target_name: "SENNHEISER MOMENTUM True Wireless 4"
 company_id: sennheiser
 lang: en
 ref: sennheiser-momentum-true-wireless-4

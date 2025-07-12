@@ -3,26 +3,44 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>{% if page.title %}{{ page.title }} - {% endif %}{% if page.lang %}{{ site.data.strings[page.lang].site_title }}{% else %}{{ site.title }}{% endif %}</title>
-  <meta name="description" content="{% if page.summary %}{{ page.summary }}{% elsif page.lang %}{{ site.data.strings[page.lang].site_description }}{% else %}{{ site.description }}{% endif %}">
-  
-  <!-- Open Graph Protocol -->
-  <meta property="og:title" content="{% if page.title %}{{ page.title }} - {% endif %}{% if page.lang %}{{ site.data.strings[page.lang].site_title }}{% else %}{{ site.title }}{% endif %}">
-  <meta property="og:description" content="{% if page.summary %}{{ page.summary }}{% elsif page.lang %}{{ site.data.strings[page.lang].site_description }}{% else %}{{ site.description }}{% endif %}">
-  <meta property="og:url" content="{{ page.url | absolute_url }}">
-  <meta property="og:image" content="https://audioreview.frieve.com/assets/images/og-image.png">
-  <meta property="og:type" content="website">
-  
-  <!-- Twitter Card -->
-  <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:title" content="{% if page.title %}{{ page.title }} - {% endif %}{% if page.lang %}{{ site.data.strings[page.lang].site_title }}{% else %}{{ site.title }}{% endif %}">
-  <meta name="twitter:description" content="{% if page.summary %}{{ page.summary }}{% elsif page.lang %}{{ site.data.strings[page.lang].site_description }}{% else %}{{ site.description }}{% endif %}">
-  <meta name="twitter:image" content="https://audioreview.frieve.com/assets/images/og-image.png">
-  
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
   <link rel="icon" href="{{ '/assets/images/favicon.ico' | relative_url }}" type="image/x-icon">
   <link rel="manifest" href="{{ '/manifest.json' | relative_url }}">
   
+  <link rel="canonical" href="{{ page.url | absolute_url }}">
+  <title>{% if page.title %}{{ page.title }} - {% endif %}{{ site.title }}</title>
+  
+  {% assign meta_description = site.description %}
+  {% if page.summary %}
+    {% assign meta_description = page.summary | strip_html | rstrip_newlines | escape %}
+  {% endif %}
+  <meta name="description" content="{{ meta_description }}">
+  
+  <!-- Open Graph / Facebook -->
+  {% if page.layout == 'product' or page.layout == 'company' %}
+    <meta property="og:type" content="article">
+    <meta property="article:published_time" content="{{ page.date | date_to_xmlschema }}">
+  {% else %}
+    <meta property="og:type" content="website">
+  {% endif %}
+  <meta property="og:site_name" content="{{ site.title }}">
+  {% if page.lang == 'ja' %}
+    <meta property="og:locale" content="ja_JP">
+  {% else %}
+    <meta property="og:locale" content="en_US">
+  {% endif %}
+  <meta property="og:url" content="{{ page.url | absolute_url }}">
+  <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
+  <meta property="og:description" content="{{ meta_description }}">
+  <meta property="og:image" content="{{ site.logo | absolute_url }}">
+  
+  <!-- Twitter -->
+  <meta property="twitter:card" content="summary_large_image">
+  <meta property="twitter:url" content="{{ page.url | absolute_url }}">
+  <meta property="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
+  <meta property="twitter:description" content="{{ meta_description }}">
+  <meta property="twitter:image" content="{{ site.logo | absolute_url }}">
+
   <!-- Google Analytics -->
   {% if jekyll.environment == "production" %}
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-59SPN3M8X4"></script>
@@ -49,7 +67,6 @@
     };
   </script>
   
-  {% seo %}
 </head>
 <body>
   <header class="site-header">
