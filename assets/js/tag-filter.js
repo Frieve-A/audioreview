@@ -28,6 +28,7 @@ class TagFilterManager {
     this.tagCategories = {};
     this.currentLanguage = window.siteLanguage || 'ja';
     this.strings = window.tagFilterStrings || {};
+    this.originalResultText = '';
     
     // Set category rules based on language
     this.categoryRules = this.currentLanguage === 'ja' ? categoryRules_ja : categoryRules_en;
@@ -36,6 +37,10 @@ class TagFilterManager {
   }
 
   init() {
+    const resultCountElement = document.getElementById('result-count');
+    if (resultCountElement) {
+      this.originalResultText = resultCountElement.innerHTML;
+    }
     this.loadAllItems();
     this.generateTagCategories();
     this.buildTagFilter();
@@ -417,25 +422,26 @@ class TagFilterManager {
   }
 
   updateResultCount() {
-    const countElement = document.getElementById('result-count');
-    if (!countElement) return;
+    const resultCountElement = document.getElementById('result-count');
+    if (!resultCountElement) return;
 
-    const total = this.allItems.length;
-    const filteredCount = this.selectedTags.length > 0 ? this.filteredItems.length : total;
-    const isCompanyPage = !!document.getElementById('companies-grid');
-    
-    let countText = '';
-    const unit = isCompanyPage ? (this.strings.companyUnit || '社') : (this.strings.productUnit || '製品');
-    
     if (this.selectedTags.length > 0) {
-        const showing = this.strings.showing || 'を表示';
-        countText = `${total}${unit}中 ${filteredCount}${unit}${showing}`;
+      const totalCount = this.allItems.length;
+      const filteredCount = this.filteredItems.length;
+      const isCompanyPage = !!document.getElementById('companies-grid');
+
+      if (this.currentLanguage === 'ja') {
+        const unit = isCompanyPage ? '社' : '製品';
+        resultCountElement.innerHTML = `${totalCount}${unit}中${filteredCount}${unit}のレビューを表示中`;
+      } else {
+        const unit_singular = isCompanyPage ? 'company review' : 'product review';
+        const unit_plural = isCompanyPage ? 'company reviews' : 'product reviews';
+        const totalUnit = totalCount === 1 ? unit_singular : unit_plural;
+        resultCountElement.innerHTML = `Showing ${filteredCount} of ${totalCount} ${totalUnit}`;
+      }
     } else {
-        const available = isCompanyPage ? this.strings.companiesAvailable : this.strings.productsAvailable;
-        countText = `${total}${available || (unit + 'のレビューを掲載中')}`;
+      resultCountElement.innerHTML = this.originalResultText;
     }
-    
-    countElement.textContent = countText;
   }
 
   updateURL() {

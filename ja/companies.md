@@ -8,8 +8,8 @@ permalink: /companies/ja/
 <!-- Page header with title, count, and sort -->
 <div class="page-header">
   <div class="page-title-section">
-    <h1 class="page-title-with-search">企業一覧 <span class="search-icon">🔍</span> <span class="review-count" id="result-count">{{ all_companies.size }}{{ site.data.strings.ja.companies_available }}</span></h1>
     {% assign all_companies = site.companies | where: 'lang', 'ja' | sort: 'date' | reverse %}
+    <h1 class="page-title-with-search">企業一覧 <span class="search-icon">🔍</span> <span class="review-count" id="result-count">{{ all_companies.size }}{{ site.data.strings.ja.companies_available }}</span></h1>
   </div>
   <div class="sort-controls">
     <label for="sort-select">{{ site.data.strings.ja.sort_by }}</label>

@@ -8,8 +8,8 @@ permalink: /products/en/
 <!-- Page header with title, count, and sort -->
 <div class="page-header">
   <div class="page-title-section">
-    <h1 class="page-title-with-search">{{ site.data.strings.en.products }} <span class="search-icon">🔍</span> <span class="review-count" id="result-count">{{ all_products.size }} {{ site.data.strings.en.products_available }}</span></h1>
     {% assign all_products = site.products | where: 'lang', 'en' | sort: 'date' | reverse %}
+    <h1 class="page-title-with-search">{{ site.data.strings.en.products }} <span class="search-icon">🔍</span> <span class="review-count" id="result-count">{{ all_products.size }} {{ site.data.strings.en.products_available }}</span></h1>
   </div>
   <div class="sort-controls">
     <label for="sort-select">{{ site.data.strings.en.sort_by }}</label>

@@ -26,7 +26,7 @@ Within the context of analog playback, its performance is respectable. The speci
 
 ## Technology Level
 
-$$ \Large \text{0.4} $$
+$$ \Large \text{0.2} $$
 
 The high-output MC cartridge design is a well-established technology by modern standards and offers no particular novelty. The 0.1 x 0.2 mm special elliptical stylus and cantilever materials are also standard for this price point. Many less expensive MM cartridges offer equivalent or better groove tracking through modern technologies like laser-cut styli and advanced magnetic circuits. As it maintains a basic design from over 40 years ago, it shows no technical innovation, and its level is limited when compared to the latest modern technology.
 

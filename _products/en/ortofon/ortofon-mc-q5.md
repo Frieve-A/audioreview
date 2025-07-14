@@ -42,7 +42,7 @@ Ortofon, established in 1918, has built long-term product support and quality co
 
 ## Rationality of Design Philosophy
 
-$$ \Large \text{0.4} $$
+$$ \Large \text{0.2} $$
 
 Examining the MC Q5's design itself reveals rational approaches for an analog cartridge. The combination of high-purity copper coil windings, elliptical stylus, and aluminum cantilever is technically appropriate, with 15μm/mN compliance settings ensuring compatibility with many tonearms. The recommended 2.3g tracking force is standard, properly controlling load on records.
 

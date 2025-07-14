@@ -3,9 +3,17 @@
     {%- assign posts = site.companies | concat: site.products -%}
     {%- assign current_ref = page.ref -%}
     {%- assign available_langs = "" | split: "," -%}
-    
-    <!-- Find corresponding translation versions for current page -->
-    {%- if current_ref -%}
+
+    {%- if page.permalink == '/products/en/' or page.permalink == '/products/ja/' -%}
+      <!-- Special handling for Products list page -->
+      <li{% if page.lang == 'ja' %} class="active"{% endif %}><a href="/products/ja/">JA</a></li>
+      <li{% if page.lang == 'en' %} class="active"{% endif %}><a href="/products/en/">EN</a></li>
+    {%- elsif page.permalink == '/companies/en/' or page.permalink == '/companies/ja/' -%}
+      <!-- Special handling for Companies list page -->
+      <li{% if page.lang == 'ja' %} class="active"{% endif %}><a href="/companies/ja/">JA</a></li>
+      <li{% if page.lang == 'en' %} class="active"{% endif %}><a href="/companies/en/">EN</a></li>
+    {%- elsif current_ref -%}
+      <!-- Find corresponding translation versions for current page -->
       {%- for p in posts -%}
         {%- if p.ref == current_ref -%}
           {%- assign available_langs = available_langs | push: p.lang -%}
@@ -21,7 +29,7 @@
         {%- endif -%}
       {%- endfor -%}
     {%- else -%}
-      <!-- For home page -->
+      <!-- For other pages like home -->
       {%- for lang in site.languages -%}
         <li{%- if lang == page.lang %} class="active"{%- endif -%}>
           <a href="{{ '/' | append: lang | append: '/' | relative_url }}">{{ lang | upcase }}</a>
