@@ -5,7 +5,7 @@ target_name: "dbx"
 company_id: dbx
 lang: en
 ref: dbx
-date: 2024-07-26
+date: 2025-07-16
 rating: [3.8, 0.7, 0.6, 1.0, 0.8, 0.7]
 summary: "A veteran American company with over 50 years of history in the professional audio industry. Currently operates as part of Harman International (Samsung subsidiary), focusing on signal processors and speaker management equipment."
 tags: [Professional Audio, Signal Processing, Compressor, Preamp, American]
@@ -50,4 +50,4 @@ The technology development direction contributing to measurement performance imp
 
 dbx is an excellent choice for those seeking reliable, professional-grade audio processing equipment at the best possible price. Their products are particularly well-suited for project studios, live sound reinforcement, and broadcasting applications where proven performance, durability, and value are critical. The 286s channel strip, being the most cost-effective option in its category, is a highly recommended investment for vocalists and podcasters. While not always at the cutting edge of digital technology, dbx delivers consistent, high-quality analog performance, backed by the robust support of the Harman group, making it a pragmatic choice for budget-conscious professionals.
 
-(2024.7.26)
+(2025.7.16)

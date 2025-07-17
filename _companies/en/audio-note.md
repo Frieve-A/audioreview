@@ -52,4 +52,4 @@ Audio Note (UK) products are completely unsuitable for users seeking "original s
 
 However, if you find modern hi-fi sound "cold" or "analytical" and seek more organic, "musical" sound that resonates emotionally—even if it constitutes a form of "coloration"—Audio Note (UK) could be your unique choice. These are not products to be purchased through spec sheet comparison; everything depends on whether you can be captivated by their sound and philosophy. When considering purchase, you should carefully audition with your own system and ears to determine whether their distinctive worldview matches what you seek.
 
-(2024/07/26)
+(2025.7.5)

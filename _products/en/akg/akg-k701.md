@@ -5,7 +5,7 @@ target_name: "AKG K701"
 company_id: akg
 lang: en
 ref: akg-k701
-date: 2024-07-14
+date: 2025-07-14
 rating: [2.5, 0.4, 0.6, 0.8, 0.3, 0.4]
 summary: "The AKG K701 once set a standard for reference headphones, but by modern standards, it faces challenges in frequency response fidelity, with better alternatives available in terms of cost-performance and reliability."
 tags: [Headphones, Open-Back, Studio Monitor, AKG]
@@ -55,4 +55,4 @@ From a cost-performance perspective, numerous headphones in the same price range
 
 If you wish to experience the specific sound character known as "the K701 sound," or are attracted to its historical value and design, it might be a viable option. However, for those seeking pure acoustic performance and value for money, we strongly recommend considering other modern alternatives.
 
-(2024.7.14) 
+(2025.7.14) 

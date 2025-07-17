@@ -6,9 +6,9 @@ company_id: qcy
 lang: ja
 ref: qcy-melobuds-pro
 date: 2025-07-15
-rating: [4.0, 0.7, 0.6, 1.0, 0.7, 0.8]
-summary: "46dBのANCとLDAC対応を38USDで実現し、より高価な競合製品に対して優れたコストパフォーマンスを提供する高価値ワイヤレスイヤホン"
-tags: [QCY, ワイヤレスイヤホン, ANC, LDAC, ハイレゾ, バジェット]
+rating: [3.8, 0.7, 0.6, 1.0, 0.7, 0.8]
+summary: "QCY MeloBuds Proは、ハイブリッドANCとマルチポイント接続に対応し、優れたコストパフォーマンスを提供するが、音質バランスに課題があり、LDAC/AptXには非対応。"
+tags: [ワイヤレスイヤホン, ANC, Bluetooth 5.2, マルチポイント]
 permalink: /products/ja/qcy-melobuds-pro/
 ---
 

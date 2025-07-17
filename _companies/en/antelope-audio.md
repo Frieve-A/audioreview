@@ -5,7 +5,7 @@ target_name: "Antelope Audio"
 company_id: antelope-audio
 lang: en
 ref: antelope-audio
-date: 2024-07-13
+date: 2025-07-13
 rating: [3.7, 0.9, 0.8, 0.8, 0.5, 0.7]
 summary: "Founded in Bulgaria in 2005, Antelope Audio is a company that revolutionized the industry with high-precision master clocks using atomic clock technology. Today, centered around its Synergy Core platform, it offers audio interfaces with excellent AD/DA conversion performance. While the flagship Galaxy 64 model is highly competitive in the multi-channel Dante market, more affordable alternatives exist. The company's biggest challenge lies in its software stability and support system, with many users reporting issues with drivers and the control panel. The current situation is that the reliability of the software has not caught up with the excellent sound quality and technical capabilities of the hardware."
 tags: [Bulgaria, Audio Interface, Master Clock, Pro Audio, Synergy Core, Dante]

@@ -9,7 +9,7 @@ date: 2025-07-07
 rating: [3.1, 0.8, 0.9, 0.3, 0.7, 0.4]
 summary: "ゼンハイザーのプレミアム単一ダイナミックドライバーIEM。7mm TrueResponseドライバーとAMLOY-ZR01メタル製3Dプリントハウジングを採用し、THD<0.06%の低歪み性能を実現。しかし699USDの価格設定は、同等性能をより安価に提供する競合製品群との比較において合理性を欠く。"
 tags: [イヤフォン, インイヤーモニター, ダイナミックドライバー, ドイツ, ハイエンド]
-permalink: /products/ja/sennheiser/sennheiser-ie-600/
+permalink: /products/ja/sennheiser-ie-600/
 ---
 
 ## 概要

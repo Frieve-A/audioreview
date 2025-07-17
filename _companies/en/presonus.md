@@ -6,9 +6,9 @@ company_id: presonus
 lang: en
 ref: presonus
 date: 2025-07-16
-rating: [3.1, 0.5, 0.5, 0.6, 0.4, 0.9]
-summary: "Audio equipment manufacturer offering comprehensive music production solutions but facing challenges in technical performance and reliability"
-tags: [Audio Interface, Monitor Speakers, DAW, Music Production, Studio Equipment]
+rating: [2.9, 0.5, 0.5, 0.6, 0.4, 0.9]
+summary: "PreSonus offers a wide range of music production equipment with a focus on usability, but faces challenges in technical innovation and cost-performance."
+tags: [DAW, Audio Interface, Studio Monitor, Digital Mixer]
 permalink: /companies/en/presonus/
 ---
 

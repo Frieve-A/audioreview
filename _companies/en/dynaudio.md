@@ -54,4 +54,4 @@ Dynaudio speakers are optimal for serious audio enthusiasts and professional use
 
 Dynaudio speakers are highly regarded in automotive speaker systems, partnering with luxury car manufacturers including Volkswagen, Volvo, and Bugatti. The company's technology is also applied in hearing aid fields, demonstrating diverse acoustic technology applications. Recent years have seen digital technology integration, with DSP-equipped active speaker series development.
 
-(2025.07.04)
+(2025.7.5)

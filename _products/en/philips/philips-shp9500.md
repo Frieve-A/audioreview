@@ -5,7 +5,7 @@ target_name: "Philips SHP9500"
 company_id: philips
 lang: en
 ref: philips-shp9500
-date: 2025-07-05
+date: 2025-07-14
 rating: [3.4, 0.6, 0.5, 1.0, 0.6, 0.7]
 summary: "The SHP9500 is a legendary open-back headphone boasting phenomenal cost-performance. While it offers a neutral and expansive soundstage beloved by many audiophiles, its limitations in bass quantity and treble refinement reflect its price point."
 tags: ["Headphones", "Open-Back", "Budget"]
@@ -54,4 +54,4 @@ However, due to its open-back design, it provides almost no sound isolation. It 
 
 If you are looking for your first pair of authentic headphones or want a comfortable pair for long hours of use at home, the SHP9500 is a product you should definitely consider. It represents the pinnacle of what can be achieved at this price point.
 
-(2024.7.14) 
+(2025.7.14) 

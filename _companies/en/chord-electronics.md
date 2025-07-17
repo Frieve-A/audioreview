@@ -54,4 +54,4 @@ Chord Electronics suits serious audio enthusiasts seeking the highest level of d
 
 Chord Electronics has recently expanded into portable DAC/amplifier products, offering mobile products like Mojo and Hugo. These products are positioned as entry-level options to experience the company's technology at more accessible prices. They're also developing products with integrated streaming functionality, expanding their product lineup to accommodate modern digital music environments.
 
-(2025.7.4)
+(2025.7.5)

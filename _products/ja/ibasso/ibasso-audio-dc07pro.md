@@ -9,7 +9,7 @@ date: 2025-07-08
 rating: [4.2, 0.9, 0.8, 0.7, 0.9, 0.9]
 summary: "クアッドCS43131搭載のポータブルDAC/アンプ。最高級の測定性能と優れた機能性を持ち、価格帯において良好なコストパフォーマンス"
 tags: [CS43131, FPGA, USB-C, ポータブルDAC, 高出力]
-permalink: /products/ja/ibasso/ibasso-audio-dc07pro/
+permalink: /products/ja/ibasso-audio-dc07pro/
 ---
 
 ## 概要

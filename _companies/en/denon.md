@@ -54,4 +54,4 @@ Denon is an optimal choice for those considering home theater system constructio
 
 However, for pure 2-channel audio or pursuing ultimate sound quality, specialized manufacturer products should also be considered. The uncertainty regarding future support structure due to frequent corporate acquisitions is also a factor to consider. When purchasing, clarify necessary functions and avoid excessive high-end models. Entry-level models possess sufficient performance, so appropriate model selection based on budget is crucial.
 
-(2025.7.4)
+(2025.7.5)

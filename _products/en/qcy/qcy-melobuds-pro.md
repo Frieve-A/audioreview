@@ -6,9 +6,9 @@ company_id: qcy
 lang: en
 ref: qcy-melobuds-pro
 date: 2025-07-15
-rating: [4.0, 0.7, 0.6, 1.0, 0.7, 0.8]
-summary: "Excellent value wireless earphone with 46dB ANC and LDAC support at 38 USD, offering superior cost-performance compared to more expensive alternatives"
-tags: [QCY, Wireless Earphones, ANC, LDAC, Hi-Res, Budget]
+rating: [3.8, 0.7, 0.6, 1.0, 0.7, 0.8]
+summary: "QCY MeloBuds Pro offers excellent cost-performance with hybrid ANC and multi-point support, but has issues with sound quality balance and lacks LDAC/AptX support."
+tags: [Wireless Earphones, ANC, Bluetooth 5.2, Multi-point]
 permalink: /products/en/qcy-melobuds-pro/
 ---
 

@@ -58,4 +58,4 @@ Sonus faber is the optimal choice for users who prioritize "musical beauty" over
 
 Sonus faber products, embodying founder Franco Serblin's philosophy that "music is emotion," will become an irreplaceable presence for those seeking deep dialogue with music.
 
-(July 5, 2025)
+(2025.7.5)

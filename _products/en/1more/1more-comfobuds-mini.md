@@ -6,8 +6,8 @@ company_id: 1more
 lang: en
 ref: 1more-comfobuds-mini
 date: 2025-07-15
-rating: [1.8, 0.4, 0.5, 0.0, 0.4, 0.5]
-summary: "ANC-equipped wireless earbuds emphasizing ultra-compact design. While the 3.7g lightweight design is commendable, basic acoustic performance and technical advantages are limited. Cost-performance evaluation requires verified pricing data."
+rating: [2.6, 0.4, 0.5, 0.8, 0.4, 0.5]
+summary: "An ANC-equipped wireless earphone focused on an ultra-compact design. While its 3.7g lightweight build is commendable, it lacks fundamental acoustic performance and technical advantages, resulting in low competitiveness for its price."
 tags: [Wireless Earbuds, ANC, 1MORE, Compact Design]
 permalink: /products/en/1more-comfobuds-mini/
 ---
@@ -30,9 +30,9 @@ The graphene diaphragm and dual magnetic circuit design represent modern approac
 
 ## Cost-Performance
 
-$$ \Large \text{0.0} $$
+$$ \Large \text{0.8} $$
 
-Cost-performance evaluation requires verification of current market pricing for accurate comparison. While competitor analysis identified the EarFun Air Pro 4 as offering equivalent or superior ANC performance (verified 50dB), technical specifications (Bluetooth 5.4, aptX Lossless, 52-hour battery life), and features, current verified pricing data for both the ComfoBuds Mini and EarFun Air Pro 4 in the Japanese market could not be confirmed through available sources. Without verified pricing information, an objective cost-performance calculation cannot be conducted according to review policy standards. The evaluation score reflects this limitation in pricing verification rather than product performance assessment.
+With a Japanese market price of 12,990 JPY, a competitor, the EarFun Air Pro 4 (9,990 JPY), offers equivalent or superior ANC performance (50dB) and features. The calculation is: 9,990 JPY ÷ 12,990 JPY = 0.769, which rounds to 0.8. The EarFun Air Pro 4 provides superior specifications, including better ANC performance, longer battery life (52 hours), the latest Bluetooth 5.4, and aptX Lossless support, for about 3,000 JPY less than the ComfoBuds Mini. The biggest differentiating factor for the ComfoBuds Mini is its unique 3.7g lightweight design, but in terms of pure performance-to-price ratio, it faces competitive challenges.
 
 ## Reliability & Support
 
@@ -48,6 +48,6 @@ The ultra-miniaturization approach represents a rational direction addressing ce
 
 ## Advice
 
-The 1MORE ComfoBuds Mini is suitable for users who prioritize lightweight comfort and inconspicuous appearance above all else. The 3.7g weight is a definite advantage, expected to provide minimal fatigue during extended wear. Sleep-time use and sound quality customization through SoundID functionality are also valuable as added benefits. However, for those prioritizing sound quality and functionality, thorough market research is recommended to identify competitive alternatives. The EarFun Air Pro 4 demonstrates superior technical specifications including verified 50dB ANC performance, 52-hour battery life, Bluetooth 5.4, and aptX Lossless support. Before purchase, it is important to verify current market pricing for accurate cost-performance comparison, clarify priority levels for lightweight design versus acoustic performance, and conduct comprehensive comparative evaluation with verified specifications and pricing data.
+The 1MORE ComfoBuds Mini is suitable for users who prioritize a lightweight and discreet design above all else. Its 3.7g weight is a clear advantage, promising minimal fatigue even during long hours of use. Features like sleep-friendly design and sound customization via SoundID also add value. However, for those who prioritize sound quality and features, we strongly recommend considering the EarFun Air Pro 4 (9,990 JPY). This product offers significantly superior specifications—including 50dB high-performance ANC, 52-hour battery life, and aptX Lossless support—for about 3,000 JPY less. Before purchasing, it is crucial to clarify your priorities between lightweight design and acoustic performance/price efficiency and to conduct a thorough comparison with other options.
 
 (2025.7.15)

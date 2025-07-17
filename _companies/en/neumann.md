@@ -60,4 +60,4 @@ Neumann's design philosophy demonstrates exceptional rationality, based on clear
 
 Neumann represents the highest quality manufacturer recommendable to all professionals engaged in recording and music production. While initial investment is substantial, considering long-term use and value retention makes it an excellent investment. For microphones, securing at least one U87 as the modern recording standard is strongly recommended. Vintage models (U47, U67) carry high costs and maintenance risks, so ensure adequate budget and support infrastructure before consideration. For KH series monitors, combined implementation with MA1 automatic correction system is recommended, minimizing installation environment constraints to achieve maximum performance. Even home use reveals true value with appropriate acoustic treatment environments. Leveraging industry standard positioning enables smooth collaboration communication when using common references with other engineers. For budget constraints, used market purchases remain options, but always recommend purchasing from trusted dealers.
 
-(2025.7.4)
+(2025.7.5)

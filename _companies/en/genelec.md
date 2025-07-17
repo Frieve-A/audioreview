@@ -67,4 +67,4 @@ Genelec speakers are optimal for serious users engaged in professional audio pro
 
 Genelec emphasizes sustainability through product longevity and recyclable material usage. Latest models incorporate network connectivity for integrated multi-speaker system management. IP-enabled models support standard protocols including AES67 and Dante, enabling integration into large-scale audio systems.
 
-(2025.7.4)
+(2025.7.5)

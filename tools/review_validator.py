@@ -21,7 +21,7 @@ import argparse
 from pathlib import Path
 from typing import Dict, List, Optional, Tuple
 from dataclasses import dataclass, field
-from datetime import datetime
+from datetime import datetime, date
 
 @dataclass
 class ReviewData:
@@ -313,6 +313,135 @@ class ReviewValidator:
         if not review.permalink.startswith(expected_prefix):
             issues.append(f"Invalid permalink format (expected: {expected_prefix}*, actual: {review.permalink})")
         
+        # Check permalink structure (should not exceed 3 levels)
+        issues.extend(self.validate_permalink_structure(review))
+        
+        return issues
+    
+    def validate_permalink_structure(self, review: ReviewData) -> List[str]:
+        """Check if permalink structure does not exceed 3 levels"""
+        issues = []
+        
+        if review.permalink:
+            # Remove leading and trailing slashes and split by '/'
+            permalink_parts = review.permalink.strip('/').split('/')
+            
+            # Expected structure: [products/companies]/[lang]/[ref] = 3 levels maximum
+            if len(permalink_parts) > 3:
+                issues.append(f"Permalink structure exceeds 3 levels: {review.permalink} (has {len(permalink_parts)} levels)")
+        
+        return issues
+    
+    def validate_date_consistency(self, review: ReviewData) -> List[str]:
+        """Check date consistency between metadata and article end"""
+        issues = []
+        
+        try:
+            with open(review.file_path, 'r', encoding='utf-8') as f:
+                content = f.read()
+            
+            # Extract body content (after front matter)
+            end_match = re.search(r'\n---\n', content)
+            if end_match:
+                body_content = content[end_match.end():]
+            else:
+                body_content = content
+            
+            # Find date in parentheses at the end of the article
+            # Look for pattern like (2024-01-01) or (2024.01.01) or (2024.1.1) at the end
+            end_date_pattern = r'\((\d{4}[-.]?\d{1,2}[-.]?\d{1,2})\)\s*$'
+            end_date_match = re.search(end_date_pattern, body_content.strip())
+            
+            if end_date_match:
+                end_date_str = end_date_match.group(1)
+                # Normalize date format (replace dots with hyphens)
+                end_date_str = end_date_str.replace('.', '-')
+                
+                # Normalize to YYYY-MM-DD format (pad single digits with zeros)
+                try:
+                    date_parts = end_date_str.split('-')
+                    if len(date_parts) == 3:
+                        year, month, day = date_parts
+                        end_date_str = f"{year}-{month.zfill(2)}-{day.zfill(2)}"
+                except:
+                    pass  # Keep original format if parsing fails
+                
+                # Compare with metadata date
+                metadata_date = str(review.date)
+                if end_date_str != metadata_date:
+                    issues.append(f"Date mismatch: metadata date ({metadata_date}) does not match article end date ({end_date_str})")
+            else:
+                issues.append("Article end date not found in expected format (YYYY-MM-DD) or (YYYY.MM.DD)")
+        
+        except Exception as e:
+            issues.append(f"Error occurred during date consistency validation: {e}")
+        
+        return issues
+    
+    def validate_date_range(self, review: ReviewData) -> List[str]:
+        """Check if dates are within valid range"""
+        issues = []
+        
+        try:
+            with open(review.file_path, 'r', encoding='utf-8') as f:
+                content = f.read()
+            
+            # Extract body content (after front matter)
+            end_match = re.search(r'\n---\n', content)
+            if end_match:
+                body_content = content[end_match.end():]
+            else:
+                body_content = content
+            
+            # Site publication date
+            site_launch_date = date(2025, 7, 5)
+            current_date = date.today()
+            
+            # Check metadata date
+            if review.date:
+                try:
+                    metadata_date_obj = datetime.strptime(str(review.date), '%Y-%m-%d').date()
+                    
+                    if metadata_date_obj < site_launch_date:
+                        issues.append(f"Metadata date ({review.date}) is before site launch date (2025-07-05)")
+                    
+                    if metadata_date_obj > current_date:
+                        issues.append(f"Metadata date ({review.date}) is in the future")
+                
+                except ValueError:
+                    issues.append(f"Invalid metadata date format: {review.date}")
+            
+            # Check article end date
+            end_date_pattern = r'\((\d{4}[-.]?\d{1,2}[-.]?\d{1,2})\)\s*$'
+            end_date_match = re.search(end_date_pattern, body_content.strip())
+            
+            if end_date_match:
+                end_date_str = end_date_match.group(1).replace('.', '-')
+                
+                # Normalize to YYYY-MM-DD format (pad single digits with zeros)
+                try:
+                    date_parts = end_date_str.split('-')
+                    if len(date_parts) == 3:
+                        year, month, day = date_parts
+                        end_date_str = f"{year}-{month.zfill(2)}-{day.zfill(2)}"
+                except:
+                    pass  # Keep original format if parsing fails
+                
+                try:
+                    end_date_obj = datetime.strptime(end_date_str, '%Y-%m-%d').date()
+                    
+                    if end_date_obj < site_launch_date:
+                        issues.append(f"Article end date ({end_date_str}) is before site launch date (2025-07-05)")
+                    
+                    if end_date_obj > current_date:
+                        issues.append(f"Article end date ({end_date_str}) is in the future")
+                
+                except ValueError:
+                    issues.append(f"Invalid article end date format: {end_date_str}")
+        
+        except Exception as e:
+            issues.append(f"Error occurred during date range validation: {e}")
+        
         return issues
     
     def validate_content_structure(self, review: ReviewData) -> List[str]:
@@ -585,6 +714,9 @@ class ReviewValidator:
             issues.extend(self.validate_content_structure(review))
             # Check for USD symbol issues in summary
             issues.extend(self.validate_summary_latex_issues(review.summary))
+            # Add new validations
+            issues.extend(self.validate_date_consistency(review))
+            issues.extend(self.validate_date_range(review))
             
             review.issues = issues
             self.reviews.append(review)
@@ -659,6 +791,12 @@ class ReviewValidator:
                     category = "Score Format Error"
                 elif "latex" in issue.lower() or "dollar" in issue.lower() or "forbidden" in issue.lower() or "backslash" in issue.lower():
                     category = "Symbol Policy Violation"
+                elif "permalink structure" in issue.lower() or "levels" in issue.lower():
+                    category = "Permalink Structure Error"
+                elif "date mismatch" in issue.lower() or "date not found" in issue.lower():
+                    category = "Date Consistency Error"
+                elif "before site launch" in issue.lower() or "in the future" in issue.lower():
+                    category = "Date Range Error"
                 else:
                     category = "Other"
                 
@@ -722,7 +860,12 @@ class ReviewValidator:
             "Forbidden backslash detected": "6. **Symbol Policy Violation**: Use 'USD' or 'JPY' instead of $ symbols - dollar signs and backslashes are forbidden",
             "CP calculation formula error": "7. **CP Calculation Error**: Use correct formula CP = cheapest_equivalent_price / target_price",
             "Product category mismatch": "8. **Product Category Error**: Compare only products in the same category with equivalent functions",
-            "must be in 0.1 increments": "9. **Score Format Error**: All scores must be in 0.1 increments (e.g., 0.1, 0.2, 0.3, etc.)"
+            "must be in 0.1 increments": "9. **Score Format Error**: All scores must be in 0.1 increments (e.g., 0.1, 0.2, 0.3, etc.)",
+            "Permalink structure exceeds": "10. **Permalink Structure Error**: Permalink should not exceed 3 levels (/products or companies/lang/ref/)",
+            "Date mismatch": "11. **Date Consistency Error**: Metadata date must match article end date in parentheses",
+            "Article end date not found": "11. **Date Consistency Error**: Article must end with date in parentheses (YYYY-MM-DD)",
+            "before site launch": "12. **Date Range Error**: Dates must be between site launch date (2025-07-05) and current date",
+            "in the future": "12. **Date Range Error**: Dates must be between site launch date (2025-07-05) and current date"
         }
         
         # Get unique recommendations

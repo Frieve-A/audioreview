@@ -7,7 +7,7 @@ lang: en
 ref: soundpeats-capsule3-pro
 date: 2025-07-15
 rating: [2.9, 0.6, 0.7, 1.0, 0.3, 0.3]
-summary: "The SOUNDPEATS Capsule3 Pro is a wireless earphone offering hybrid ANC and LDAC support under $70. While it boasts excellent cost-performance, it has sound quality issues due to its frequency response and low S/N ratio."
+summary: "The SOUNDPEATS Capsule3 Pro is a wireless earphone offering hybrid ANC and LDAC support under 70 USD. While it boasts excellent cost-performance, it has sound quality issues due to its frequency response and low S/N ratio."
 tags: [Wireless Earphones, ANC, Bluetooth 5.3, Active Noise Cancelling, LDAC]
 permalink: /products/en/soundpeats-capsule3-pro/
 ---
@@ -50,7 +50,7 @@ The SOUNDPEATS Capsule3 Pro's design philosophy has fundamental problems. The fr
 
 ## Advice
 
-For users who are looking for both ANC and LDAC support on a tight budget of around $65, the SOUNDPEATS Capsule3 Pro offers the best cost-performance. The wealth of features available at this price is a significant advantage, making it a very strong candidate if functionality is the top priority.
+For users who are looking for both ANC and LDAC support on a tight budget of around 65 USD, the SOUNDPEATS Capsule3 Pro offers the best cost-performance. The wealth of features available at this price is a significant advantage, making it a very strong candidate if functionality is the top priority.
 
 However, users who prioritize sound quality should be cautious. The frequency response issues identified in measurements can detract from the music listening experience. For superior sound balance and overall performance, it is highly recommended to consider spending a little more for the Anker Soundcore Liberty 4 NC (approx. 99.99 USD).
 
