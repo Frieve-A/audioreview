@@ -6,6 +6,13 @@ layout: default
   {{ site.data.strings[page.lang].welcome_message }}
 </div>
 
+<div class="home-search-section">
+  <div class="home-search-container">
+    <input type="text" id="home-search-input" placeholder="{% if page.lang %}{{ site.data.strings[page.lang].search_placeholder }}{% else %}企業名・製品名で検索...{% endif %}" autocomplete="off">
+    <button id="home-search-button" type="button">{% if page.lang %}{{ site.data.strings[page.lang].search }}{% else %}検索{% endif %}</button>
+  </div>
+</div>
+
 <div class="home-grid">
   <div class="home-card">
     <h3>{{ site.data.strings[page.lang].company_review }}</h3>
@@ -91,3 +98,47 @@ layout: default
     {% endfor %}
   </div>
 </section>
+
+<script>
+// Home page search functionality
+document.addEventListener('DOMContentLoaded', () => {
+  const homeSearchInput = document.getElementById('home-search-input');
+  const homeSearchButton = document.getElementById('home-search-button');
+  
+  // Auto focus on search input when page loads
+  if (homeSearchInput) {
+    homeSearchInput.focus();
+  }
+  
+  function performHomeSearch() {
+    const query = homeSearchInput.value.trim();
+    if (query && query.length >= 2) {
+      const currentLang = getCurrentLanguage();
+      const searchPageUrl = `/search/${currentLang}/?q=${encodeURIComponent(query)}`;
+      window.location.href = searchPageUrl;
+    }
+  }
+  
+  function getCurrentLanguage() {
+    // Get language from URL (/en/ or /ja/)
+    const path = window.location.pathname;
+    if (path.includes('/en/')) {
+      return 'en';
+    } else if (path.includes('/ja/')) {
+      return 'ja';
+    }
+    // Default to Japanese for root pages
+    return 'ja';
+  }
+  
+  // Search button click event
+  homeSearchButton.addEventListener('click', performHomeSearch);
+  
+  // Enter key press event
+  homeSearchInput.addEventListener('keypress', (e) => {
+    if (e.key === 'Enter') {
+      performHomeSearch();
+    }
+  });
+});
+</script>

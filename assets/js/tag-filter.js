@@ -398,6 +398,11 @@ class TagFilterManager {
     if (hasSelection) {
       this.renderSelectedTags();
     }
+
+    // Adjust panel height after UI updates are complete
+    if (this.isExpanded) {
+      setTimeout(() => this.adjustPanelHeight(), 50);
+    }
   }
 
   renderSelectedTags() {

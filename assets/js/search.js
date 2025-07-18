@@ -333,6 +333,18 @@ class SearchEngine {
     this.searchInput.addEventListener('input', (e) => {
       this.performSearch(e.target.value);
     });
+
+    // Handle Enter key press to navigate to search results page
+    this.searchInput.addEventListener('keypress', (e) => {
+      if (e.key === 'Enter') {
+        const query = this.searchInput.value.trim();
+        if (query && query.length >= 2) {
+          const currentLang = this.getCurrentLanguage();
+          const searchPageUrl = `/search/${currentLang}/?q=${encodeURIComponent(query)}`;
+          window.location.href = searchPageUrl;
+        }
+      }
+    });
   }
 
   openSearch() {
