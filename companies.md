@@ -61,7 +61,7 @@ permalink: /companies/
         <span class="rating-label" id="rating-label">総合評価</span>
         <span class="rating-value">
           {% if company.rating and company.rating.size > 0 %}
-            {{ company.rating[0] }}
+            {{ company.rating[0] | round: 1 }}
           {% else %}
             N/A
           {% endif %}

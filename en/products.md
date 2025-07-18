@@ -62,7 +62,7 @@ permalink: /products/en/
         <span class="rating-label" id="rating-label">Overall Rating</span>
         <span class="rating-value">
           {% if product.rating and product.rating.size > 0 %}
-            {{ product.rating[0] }}
+            {{ product.rating[0] | round: 1 }}
           {% else %}
             N/A
           {% endif %}

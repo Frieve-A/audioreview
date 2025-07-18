@@ -22,7 +22,7 @@ layout: default
             <!-- Progress arc -->
             <path class="gauge-progress" d="M 46.97 153.03 A 75 75 0 1 1 153.03 153.03" stroke="#FFD580" stroke-width="20" fill="none" stroke-linecap="round"/>
           </svg>
-          <div class="gauge-score">{{ page.rating[0] }}</div>
+          <div class="gauge-score">{{ page.rating[0] | round: 1 }}</div>
         </div>
       </div>
       
@@ -37,7 +37,7 @@ layout: default
               <!-- Progress arc -->
               <path class="gauge-progress" d="M 46.97 153.03 A 75 75 0 1 1 153.03 153.03" stroke="#AEC6CF" stroke-width="20" fill="none" stroke-linecap="round"/>
             </svg>
-            <div class="gauge-score">{{ page.rating[1] }}</div>
+            <div class="gauge-score">{{ page.rating[1] | round: 1 }}</div>
           </div>
         </div>
         
@@ -50,7 +50,7 @@ layout: default
               <!-- Progress arc -->
               <path class="gauge-progress" d="M 46.97 153.03 A 75 75 0 1 1 153.03 153.03" stroke="#B2DFDB" stroke-width="20" fill="none" stroke-linecap="round"/>
             </svg>
-            <div class="gauge-score">{{ page.rating[2] }}</div>
+            <div class="gauge-score">{{ page.rating[2] | round: 1 }}</div>
           </div>
         </div>
         
@@ -63,7 +63,7 @@ layout: default
               <!-- Progress arc -->
               <path class="gauge-progress" d="M 46.97 153.03 A 75 75 0 1 1 153.03 153.03" stroke="#C1E1C1" stroke-width="20" fill="none" stroke-linecap="round"/>
             </svg>
-            <div class="gauge-score">{{ page.rating[3] }}</div>
+            <div class="gauge-score">{{ page.rating[3] | round: 1 }}</div>
           </div>
         </div>
         
@@ -76,7 +76,7 @@ layout: default
               <!-- Progress arc -->
               <path class="gauge-progress" d="M 46.97 153.03 A 75 75 0 1 1 153.03 153.03" stroke="#D7BDE2" stroke-width="20" fill="none" stroke-linecap="round"/>
             </svg>
-            <div class="gauge-score">{{ page.rating[4] }}</div>
+            <div class="gauge-score">{{ page.rating[4] | round: 1 }}</div>
           </div>
         </div>
         
@@ -89,7 +89,7 @@ layout: default
               <!-- Progress arc -->
               <path class="gauge-progress" d="M 46.97 153.03 A 75 75 0 1 1 153.03 153.03" stroke="#D3D3D3" stroke-width="20" fill="none" stroke-linecap="round"/>
             </svg>
-            <div class="gauge-score">{{ page.rating[5] }}</div>
+            <div class="gauge-score">{{ page.rating[5] | round: 1 }}</div>
           </div>
         </div>
       </div>
@@ -123,7 +123,7 @@ layout: default
       <div class="company-rating">
         <span class="rating-value">
           {% if parent_company.rating and parent_company.rating.size > 0 %}
-            {{ parent_company.rating[0] }}
+            {{ parent_company.rating[0] | round: 1 }}
           {% else %}
             N/A
           {% endif %}

@@ -33,33 +33,42 @@ layout: default
     <a href="{% if page.lang %}{{ '/companies/' | append: page.lang | append: '/' | relative_url }}{% else %}{{ '/companies/' | relative_url }}{% endif %}">{{ site.data.strings[page.lang].view_more }}</a>
   </div>
   <p class="section-help-text">{% if page.lang == 'ja' %}タイトルをクリックして詳細レビューを表示{% else %}Click the title to view detailed reviews{% endif %}</p>
-  <div class="products-grid">
+  <div class="products-grid" id="latest-companies-grid">
     {% assign filtered_companies = site.companies | where: 'lang', page.lang | sort: 'date' | reverse %}
-    {% for company in filtered_companies limit:3 %}
-      <div class="product-card">
-        {% assign current_date = 'now' | date: '%s' %}
-        {% assign company_date = company.date | date: '%s' %}
-        {% assign days_diff = current_date | minus: company_date | divided_by: 86400 %}
-        {% if days_diff <= 3 %}
-          <span class="new-badge">NEW</span>
+    {% if filtered_companies.size > 0 %}
+      {% assign latest_date = filtered_companies[0].date %}
+      {% assign latest_companies = '' | split: ',' %}
+      {% for company in filtered_companies %}
+        {% if company.date == latest_date %}
+          {% assign latest_companies = latest_companies | push: company %}
         {% endif %}
-        <h3><a href="{{ company.url }}">{{ company.target_name }}</a></h3>
-        <div class="product-rating">
-          <span class="rating-value">
-            {% if company.rating and company.rating.size > 0 %}
-              {{ company.rating[0] }}
-            {% else %}
-              N/A
-            {% endif %}
-          </span>
-          <span class="rating-stars">★</span>
+      {% endfor %}
+      {% for company in latest_companies %}
+        <div class="product-card" data-date="{{ company.date | date: '%Y-%m-%d' }}" data-is-latest="true">
+          {% assign current_date = 'now' | date: '%s' %}
+          {% assign company_date = company.date | date: '%s' %}
+          {% assign days_diff = current_date | minus: company_date | divided_by: 86400 %}
+          {% if days_diff <= 3 %}
+            <span class="new-badge">NEW</span>
+          {% endif %}
+          <h3><a href="{{ company.url }}">{{ company.target_name }}</a></h3>
+          <div class="product-rating">
+            <span class="rating-value">
+              {% if company.rating and company.rating.size > 0 %}
+                {{ company.rating[0] | round: 1 }}
+              {% else %}
+                N/A
+              {% endif %}
+            </span>
+            <span class="rating-stars">★</span>
+          </div>
+          <p class="product-summary">{{ company.summary }}</p>
+          <time class="product-date" datetime="{{ company.date | date: '%Y-%m-%d' }}">
+            {% if page.lang == 'ja' %}{{ company.date | date: '%Y年%m月%d日' }}{% else %}{{ company.date | date: '%B %d, %Y' }}{% endif %}
+          </time>
         </div>
-        <p class="product-summary">{{ company.summary }}</p>
-        <time class="product-date" datetime="{{ company.date | date: '%Y-%m-%d' }}">
-          {% if page.lang == 'ja' %}{{ company.date | date: '%Y年%m月%d日' }}{% else %}{{ company.date | date: '%B %d, %Y' }}{% endif %}
-        </time>
-      </div>
-    {% endfor %}
+      {% endfor %}
+    {% endif %}
   </div>
 </section>
 
@@ -69,39 +78,48 @@ layout: default
     <a href="{% if page.lang %}{{ '/products/' | append: page.lang | append: '/' | relative_url }}{% else %}{{ '/products/' | relative_url }}{% endif %}">{{ site.data.strings[page.lang].view_more }}</a>
   </div>
   <p class="section-help-text">{% if page.lang == 'ja' %}タイトルをクリックして詳細レビューを表示{% else %}Click the title to view detailed reviews{% endif %}</p>
-  <div class="products-grid">
+  <div class="products-grid" id="latest-products-grid">
     {% assign filtered_products = site.products | where: 'lang', page.lang | sort: 'date' | reverse %}
-    {% for product in filtered_products limit:3 %}
-      <div class="product-card">
-        {% assign current_date = 'now' | date: '%s' %}
-        {% assign product_date = product.date | date: '%s' %}
-        {% assign days_diff = current_date | minus: product_date | divided_by: 86400 %}
-        {% if days_diff <= 3 %}
-          <span class="new-badge">NEW</span>
+    {% if filtered_products.size > 0 %}
+      {% assign latest_date = filtered_products[0].date %}
+      {% assign latest_products = '' | split: ',' %}
+      {% for product in filtered_products %}
+        {% if product.date == latest_date %}
+          {% assign latest_products = latest_products | push: product %}
         {% endif %}
-        <h3><a href="{{ product.url }}">{{ product.target_name }}</a></h3>
-        <div class="product-rating">
-          <span class="rating-value">
-            {% if product.rating and product.rating.size > 0 %}
-              {{ product.rating[0] }}
-            {% else %}
-              N/A
-            {% endif %}
-          </span>
-          <span class="rating-stars">★</span>
+      {% endfor %}
+      {% for product in latest_products %}
+        <div class="product-card" data-date="{{ product.date | date: '%Y-%m-%d' }}" data-is-latest="true">
+          {% assign current_date = 'now' | date: '%s' %}
+          {% assign product_date = product.date | date: '%s' %}
+          {% assign days_diff = current_date | minus: product_date | divided_by: 86400 %}
+          {% if days_diff <= 3 %}
+            <span class="new-badge">NEW</span>
+          {% endif %}
+          <h3><a href="{{ product.url }}">{{ product.target_name }}</a></h3>
+          <div class="product-rating">
+            <span class="rating-value">
+              {% if product.rating and product.rating.size > 0 %}
+                {{ product.rating[0] | round: 1 }}
+              {% else %}
+                N/A
+              {% endif %}
+            </span>
+            <span class="rating-stars">★</span>
+          </div>
+          <p class="product-summary">{{ product.summary }}</p>
+          <time class="product-date" datetime="{{ product.date | date: '%Y-%m-%d' }}">
+            {% if page.lang == 'ja' %}{{ product.date | date: '%Y年%m月%d日' }}{% else %}{{ product.date | date: '%B %d, %Y' }}{% endif %}
+          </time>
         </div>
-        <p class="product-summary">{{ product.summary }}</p>
-        <time class="product-date" datetime="{{ product.date | date: '%Y-%m-%d' }}">
-          {% if page.lang == 'ja' %}{{ product.date | date: '%Y年%m月%d日' }}{% else %}{{ product.date | date: '%B %d, %Y' }}{% endif %}
-        </time>
-      </div>
-    {% endfor %}
+      {% endfor %}
+    {% endif %}
   </div>
 </section>
 
 <script>
 // Home page search functionality
-document.addEventListener('DOMContentLoaded', () => {
+document.addEventListener('DOMContentLoaded', function() {
   const homeSearchInput = document.getElementById('home-search-input');
   const homeSearchButton = document.getElementById('home-search-button');
   
@@ -140,5 +158,51 @@ document.addEventListener('DOMContentLoaded', () => {
       performHomeSearch();
     }
   });
+  
+  // Shuffle latest date items within latest reviews
+  function shuffleSameDateItems() {
+    const companiesGrid = document.getElementById('latest-companies-grid');
+    const productsGrid = document.getElementById('latest-products-grid');
+    
+    [companiesGrid, productsGrid].forEach(grid => {
+      if (!grid) return;
+      
+      const cards = Array.from(grid.children);
+      if (cards.length === 0) return;
+      
+      // Filter only latest date items
+      const latestCards = cards.filter(card => card.getAttribute('data-is-latest') === 'true');
+      
+      // Debug: Log the number of latest cards found
+      console.log(`Found ${latestCards.length} latest cards in grid:`, grid.id);
+      
+      if (latestCards.length > 1) {
+        // Log original order
+        console.log('Original order:', latestCards.map(card => card.querySelector('h3 a').textContent));
+        
+        // Fisher-Yates shuffle algorithm
+        for (let i = latestCards.length - 1; i > 0; i--) {
+          const j = Math.floor(Math.random() * (i + 1));
+          [latestCards[i], latestCards[j]] = [latestCards[j], latestCards[i]];
+        }
+        
+        // Log shuffled order
+        console.log('Shuffled order:', latestCards.map(card => card.querySelector('h3 a').textContent));
+      }
+      
+      // Rebuild the grid with shuffled cards (show only top 3)
+      grid.innerHTML = '';
+      const displayCards = latestCards.slice(0, 3);
+      displayCards.forEach(card => {
+        grid.appendChild(card);
+      });
+      
+      // Debug: Log displayed cards
+      console.log('Displayed cards:', displayCards.map(card => card.querySelector('h3 a').textContent));
+    });
+  }
+  
+  // Shuffle on page load
+  shuffleSameDateItems();
 });
 </script>
