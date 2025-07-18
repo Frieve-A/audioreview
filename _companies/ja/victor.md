@@ -1,7 +1,7 @@
 ---
 layout: company
-title: "ビクター (JVC) 企業レビュー"
-target_name: "ビクター (JVC)"
+title: "Victor (JVC) 企業レビュー"
+target_name: "Victor (JVC)"
 company_id: victor
 lang: ja
 ref: victor
