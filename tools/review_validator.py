@@ -248,21 +248,22 @@ class ReviewValidator:
         if len(review.rating) != self.policy_requirements["rating_count"]:
             issues.append(f"Invalid rating array length (expected: {self.policy_requirements['rating_count']}, actual: {len(review.rating)})")
         
-        if len(review.individual_scores) == 5:
-            # Calculate sum of individual evaluation criteria
-            calculated_sum = sum(review.individual_scores)
+        if not review.individual_scores:
+            issues.append("Individual scores are not extracted")
+            return issues
             
-            # Tolerance (considering floating point calculation errors)
-            tolerance = 0.01
-            
-            if abs(review.total_score - calculated_sum) > tolerance:
-                issues.append(f"Overall score and sum of individual evaluations do not match (overall: {review.total_score}, sum: {calculated_sum:.2f}, difference: {abs(review.total_score - calculated_sum):.3f})")
+        # Calculate expected total score as the sum of individual scores
+        expected_total_score = sum(review.individual_scores)
         
-        # Check score range for each score
-        min_score, max_score = self.policy_requirements["score_range"]
-        for i, score in enumerate(review.individual_scores):
-            if not (min_score <= score <= max_score):
-                issues.append(f"Score for evaluation criterion {i+1} is out of range (value: {score}, range: {min_score}-{max_score})")
+        # Use a tolerance for floating point comparison
+        tolerance = 0.01
+
+        if abs(review.total_score - expected_total_score) > tolerance:
+            issues.append(f"Total score inconsistency (expected sum: {expected_total_score:.2f}, actual: {review.total_score})")
+            
+        for score in review.individual_scores:
+            if not (self.policy_requirements["score_range"][0] <= score <= self.policy_requirements["score_range"][1]):
+                issues.append(f"Individual score {score} is out of range")
         
         # Check if all scores are in 0.1 increments
         all_scores = [review.total_score] + review.individual_scores

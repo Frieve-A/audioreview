@@ -5,9 +5,9 @@ target_name: "Topping"
 company_id: topping
 lang: en
 ref: topping
-date: 2025-07-06
-rating: [4.4, 0.9, 0.8, 1.0, 0.8, 0.9]
-summary: "A Chinese DAC and headphone amplifier manufacturer founded in 2008. Through a measurement-focused design philosophy, they achieve ultra-low distortion performance at astonishingly low prices—performance previously achievable only in expensive price ranges. Products like D10s, L30, and A90 deliver THD+N below 0.0001% at prices of USD 100-200, overturning audio industry conventions. While subjective sound quality evaluations vary, their objective performance-to-price ratio overwhelmingly surpasses other manufacturers."
+date: 2025-07-19
+rating: [4.0, 0.9, 0.8, 1.0, 0.4, 0.9]
+summary: "A Chinese DAC and headphone amplifier manufacturer founded in 2008. Through a measurement-focused design philosophy, they achieve ultra-low distortion performance at astonishingly low prices. While their objective performance-to-price ratio is overwhelming, quality and reliability issues have been reported on some products, warranting caution."
 tags: [China, DAC, Headphone Amplifier, Ultra-low Distortion, Measurement-focused]
 permalink: /companies/en/topping/
 ---
@@ -38,9 +38,9 @@ Topping stands overwhelmingly superior in measurement-to-price cost-performance.
 
 ## Reliability & Support
 
-$$ \Large \text{0.8} $$
+$$ \Large \text{0.4} $$
 
-Quality control demonstrates high manufacturing precision evidenced by measurement stability. Initial defect rates are below industry average with small product variations. The 2-year warranty period exceeds industry standards, and repair services are prompt. However, domestic support structure in Japan is limited, sometimes requiring English communication. Additionally, rapid product update cycles tend to result in early parts supply discontinuation due to model changes.
+Quality control issues have been reported on some products, raising concerns about reliability. Problems appearing to stem from design flaws, such as the static electricity issue with the L30 headphone amplifier and failures in the PA5 power amplifier, are widely known in the community. The warranty period is one year, which is standard for the industry, but with no official service centers in many countries, repairs require going through distributors or shipping back to China, making support limited. The rapid product cycle is also a concern for long-term reliability.
 
 ## Rationality of Design Philosophy
 
@@ -58,4 +58,4 @@ Topping products are optimal choices for those prioritizing objective high sound
 
 When purchasing, understand that they suit those prioritizing objective performance over subjective sound quality aspects (soundstage, instrument texture). They also suit those emphasizing simple functionality without seeking extra features. For those wanting to judge sound quality by objective measurement indicators, these represent unparalleled choices.
 
-(2025.07.06)
+(2025.07.19)
