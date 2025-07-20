@@ -461,16 +461,33 @@ class ReviewValidator:
             else:
                 required_sections = self.policy_requirements["required_sections_ja"]  # Default to Japanese
             
-            for section in required_sections:
-                if f"## {section}" not in content:
-                    issues.append(f"Required section '{section}' not found")
+            # Extract actual sections from content using regex to handle optional text in parentheses
+            actual_sections = [re.match(r"##\s*([^（(]+)", line).group(1).strip() for line in content.split('\n') if line.startswith("## ")]
+
+            # 1. Check for existence of required sections
+            missing_sections = [s for s in required_sections if s not in actual_sections]
+            for section in missing_sections:
+                issues.append(f"Required section '{section}' not found")
+
+            # 2. Check the order of existing sections
+            # Filter actual_sections to only include those that are in required_sections to check their order
+            filtered_actual_sections = [s for s in actual_sections if s in required_sections]
             
-            # Check score display in evaluation criteria sections
+            # Find the expected order of the found sections
+            expected_order = [s for s in required_sections if s in filtered_actual_sections]
+
+            if filtered_actual_sections != expected_order:
+                issues.append(f"Sections are out of order. Expected: {expected_order}, Actual: {filtered_actual_sections}")
+
+            # 3. Original checks for score display etc.
             score_sections = required_sections[1:6]  # 5 evaluation criteria
             for i, section in enumerate(score_sections):
-                if f"## {section}" in content:
+                # Use regex to find the section header, ignoring potential parenthesized text
+                section_pattern = re.compile(f"## {re.escape(section)}(?:[（(].*?[）)])?", re.DOTALL)
+                if re.search(section_pattern, content):
                     # Search for $$ \Large \text{score} $$ pattern
-                    section_match = re.search(f"## {re.escape(section)}.*?(?=## |$)", content, re.DOTALL)
+                    section_match_pattern = re.compile(f"## {re.escape(section)}(?:[（(].*?[）)])?.*?(?=## |$)", re.DOTALL)
+                    section_match = re.search(section_match_pattern, content)
                     if section_match:
                         section_content = section_match.group(0)
                         score_pattern = r'\$\$ \\Large \\text\{([\d.]+)\} \$\$'
