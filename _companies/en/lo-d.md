@@ -24,7 +24,7 @@ The HMA-9500's nominal specifications (100W+100W/8Ω, frequency response 5Hz-100
 
 ## Technology Level
 
-$$ \Large \text{0.6} $$
+$$ \Large \text{0.3} $$
 
 The technology was advanced for the 1970s, featuring the world's first power MOSFET adoption (HMA-9500), proprietary Unitorque motor technology (turntables), and jewel bearing systems (cartridges). The three-stage differential amplifier design, independent left/right power supplies, and capacitor elimination in NFB loops were rational approaches for the era's technical standards. However, from modern technical standards, it significantly lags behind digital control, high-precision clocks, 32-bit DACs, and Class D amplifier technology, making it obsolete technology.
 
@@ -36,7 +36,7 @@ While used HMA-9500 units trade in the 25,309-160,000 yen range, the Fosi Audio 
 
 ## Reliability & Support
 
-$$ \Large \text{0.4} $$
+$$ \Large \text{0.2} $$
 
 With over 40 years since production ended, there is no manufacturer support whatsoever. Parts procurement is difficult, and repairs require specialized technicians when failures occur. Being analog circuitry, aging degradation is unavoidable, with continuous maintenance costs such as electrolytic capacitor replacement. While built robustly for products of that era, it significantly lags behind the long-term warranties, firmware updates, and parts supply systems that modern products provide.
 

@@ -5,7 +5,7 @@ target_name: "ESI"
 company_id: esi
 lang: en
 ref: esi
-date: 2025-07-2o
+date: 2025-07-20
 rating: [3.0, 0.4, 0.4, 1.0, 0.6, 0.6]
 summary: "German audio manufacturer ESI's flagship product, the U22 XT, offers modest technical specifications but receives the highest rating for cost-performance, being one of the most affordable products in its performance class."
 tags: [Germany, DAC, Audio Interface, USB]
