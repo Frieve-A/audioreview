@@ -113,6 +113,27 @@ layout: default
     {{ content }}
   </div>
 
+  <!-- Search Buttons -->
+  <section class="search-buttons">
+    <div class="search-button-container">
+      <a href="https://www.google.com/search?q={{ page.target_name | url_encode }}" target="_blank" class="search-button google-search">
+        <span class="search-icon">🔍</span>
+        {{ site.data.strings[page.lang].search_on_google }}
+      </a>
+      {% if page.lang == 'ja' %}
+        <a href="https://www.amazon.co.jp/s?k={{ page.target_name | url_encode }}&tag=frieve02-22" target="_blank" class="search-button amazon-search">
+          <span class="search-icon">🛒</span>
+          {{ site.data.strings[page.lang].search_on_amazon }}
+        </a>
+      {% else %}
+        <a href="https://www.amazon.com/s?k={{ page.target_name | url_encode }}" target="_blank" class="search-button amazon-search">
+          <span class="search-icon">🛒</span>
+          {{ site.data.strings[page.lang].search_on_amazon }}
+        </a>
+      {% endif %}
+    </div>
+  </section>
+
   {% include adsense.html %}
   
   {% if parent_company %}
