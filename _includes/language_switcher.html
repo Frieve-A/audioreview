@@ -2,32 +2,40 @@
   <ul>
     {%- assign posts = site.companies | concat: site.products -%}
     {%- assign current_ref = page.ref -%}
-    {%- assign available_langs = "" | split: "," -%}
 
     {%- if page.permalink == '/products/en/' or page.permalink == '/products/ja/' -%}
       <!-- Special handling for Products list page -->
-      <li{% if page.lang == 'ja' %} class="active"{% endif %}><a href="/products/ja/">JA</a></li>
       <li{% if page.lang == 'en' %} class="active"{% endif %}><a href="/products/en/">EN</a></li>
+      <li{% if page.lang == 'ja' %} class="active"{% endif %}><a href="/products/ja/">JA</a></li>
     {%- elsif page.permalink == '/companies/en/' or page.permalink == '/companies/ja/' -%}
       <!-- Special handling for Companies list page -->
-      <li{% if page.lang == 'ja' %} class="active"{% endif %}><a href="/companies/ja/">JA</a></li>
       <li{% if page.lang == 'en' %} class="active"{% endif %}><a href="/companies/en/">EN</a></li>
+      <li{% if page.lang == 'ja' %} class="active"{% endif %}><a href="/companies/ja/">JA</a></li>
     {%- elsif current_ref -%}
       <!-- Find corresponding translation versions for current page -->
+      {%- assign en_page = nil -%}
+      {%- assign ja_page = nil -%}
       {%- for p in posts -%}
         {%- if p.ref == current_ref -%}
-          {%- assign available_langs = available_langs | push: p.lang -%}
+          {%- if p.lang == 'en' -%}
+            {%- assign en_page = p -%}
+          {%- elsif p.lang == 'ja' -%}
+            {%- assign ja_page = p -%}
+          {%- endif -%}
         {%- endif -%}
       {%- endfor -%}
       
-      <!-- Generate links for found language versions -->
-      {%- for p in posts -%}
-        {%- if p.ref == current_ref -%}
-          <li{%- if p.lang == page.lang %} class="active"{%- endif -%}>
-            <a href="{{ p.url | relative_url }}">{{ p.lang | upcase }}</a>
-          </li>
-        {%- endif -%}
-      {%- endfor -%}
+      <!-- Generate links in consistent order: EN -> JA -->
+      {%- if en_page -%}
+        <li{%- if en_page.lang == page.lang %} class="active"{%- endif -%}>
+          <a href="{{ en_page.url | relative_url }}">{{ en_page.lang | upcase }}</a>
+        </li>
+      {%- endif -%}
+      {%- if ja_page -%}
+        <li{%- if ja_page.lang == page.lang %} class="active"{%- endif -%}>
+          <a href="{{ ja_page.url | relative_url }}">{{ ja_page.lang | upcase }}</a>
+        </li>
+      {%- endif -%}
     {%- else -%}
       <!-- For other pages like home -->
       {%- for lang in site.languages -%}
