@@ -6,7 +6,7 @@ company_id: audio-technica
 lang: en
 ref: audio-technica-ath-m50x
 date: 2025-07-20
-rating: [2.8, 0.4, 0.6, 0.7, 0.6, 0.5]
+rating: [2.7, 0.4, 0.6, 0.6, 0.6, 0.5]
 summary: "A well-known studio monitor headphone that faces challenges in measurement performance and design philosophy"
 tags: [Studio Monitor, Headphones, Audio-Technica, Closed-back]
 permalink: /products/en/audio-technica-ath-m50x/
@@ -30,9 +30,9 @@ The design employing a 45mm large-diameter driver with neodymium magnets and CCA
 
 ## Cost-Performance
 
-$$ \Large \text{0.7} $$
+$$ \Large \text{0.6} $$
 
-Against the current Japanese market price of 20,900 yen, the Audio-Technica ATH-M40x with equivalent or superior performance is available for 14,082 yen. The M40x offers more accurate frequency characteristics and is considered a superior choice for studio monitoring applications. Additionally, the Sony MDR-7506, an industry standard studio monitor, is available for 12,980 yen while providing equivalent monitoring functionality. Using the M40x as comparison target: 14,082 yen ÷ 20,900 yen = 0.67. With the MDR-7506: 12,980 yen ÷ 20,900 yen = 0.62. Taking the average of these two comparable alternatives gives a cost-performance score of 0.65, which rounds to 0.7, demonstrating limited cost-performance for the M50x.
+Against the current Japanese market price of 20,300 yen, the Audio-Technica ATH-M40x with equivalent or superior performance is available for 11,500 yen. The M40x offers more accurate and flatter frequency characteristics and is considered a superior choice for studio monitoring applications. Calculation: 11,500 yen ÷ 20,300 yen = 0.567, which rounds to 0.6. The M40x costs approximately 8,800 yen less while providing more accurate monitoring performance according to measurement data, making the M50x's cost-performance clearly inferior.
 
 ## Reliability & Support
 
@@ -48,6 +48,6 @@ Despite positioning as a studio monitor, the frequency response inconsistencies 
 
 ## Advice
 
-While the ATH-M50x enjoys high recognition and sales performance, it falls short of other products in the same price range in objective measurement performance. For applications requiring accurate monitoring, we strongly recommend choosing the more affordable ATH-M40x (14,082 yen) or Sony MDR-7506 (12,980 yen). The M40x costs about 6,800 yen less while providing flatter frequency characteristics, and the MDR-7506 offers nearly 8,000 yen in savings while maintaining industry-standard monitoring performance. When considering the M50x purchase, it's important to carefully evaluate actual acoustic performance and application suitability rather than its reputation or visual design. For professional studio work, rational choices should be made based on measurement data.
+While the ATH-M50x enjoys high recognition and sales performance, it falls short of other products in the same price range in objective measurement performance. For applications requiring accurate monitoring, we strongly recommend choosing the more affordable ATH-M40x (11,500 yen). The M40x costs approximately 8,800 yen less while providing flatter and more accurate frequency characteristics, delivering superior performance for studio monitoring applications. When considering the M50x purchase, it's important to carefully evaluate actual acoustic performance and application suitability rather than its reputation or visual design. For professional studio work, rational choices should be made based on measurement data.
 
 (2025.7.20)

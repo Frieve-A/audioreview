@@ -5,7 +5,7 @@ target_name: "Arturia AudioFuse 16Rig"
 company_id: arturia
 lang: en
 ref: arturia-audiofuse-16rig
-date: 2025-07-05
+date: 2025-07-21
 rating: [3.5, 0.9, 0.7, 0.5, 0.6, 0.8]
 summary: "High-density audio interface supporting 16-channel input/output. Features ESS and Cirrus Logic converters with dual independent mixers, specialized for electronic music production"
 tags: [Audio Interface, Arturia, USB-C, DC Coupling, Modular Synth]
@@ -50,4 +50,4 @@ The specialization for electronic music production is a rational direction. Feat
 
 The AudioFuse 16Rig is a specialized interface suited for modular synthesizer and electronic music producers. It provides irreplaceable value in environments requiring DC-coupled outputs and MIDI-controlled mixers. However, for general multi-input recording applications, the PreSonus Quantum 2626 offers superior cost-performance. Given its excellent measured performance, there should be no audio quality concerns when the application is a match. Before purchasing, carefully consider if your production style is specialized in electronic music and if DC-coupled outputs are truly necessary.
 
-(2025.7.5)
+(2025.7.21)
