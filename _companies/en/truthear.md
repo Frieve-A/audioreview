@@ -5,7 +5,7 @@ target_name: "Truthear"
 company_id: truthear
 lang: en
 ref: truthear
-date: 2025-07-06
+date: 2025-07-24
 rating: [3.9, 0.8, 0.7, 1.0, 0.7, 0.7]
 summary: "A Chinese IEM startup founded in 2022, gaining significant attention with measurement-based precision tuning in products like Crinacle×Zero, Hexa, and Zero:RED. Reportedly founded by ex-Moondrop engineers, the company releases low-cost, high-performance IEMs adhering to Harman target curves. The Zero:RED (USD 55) is rated as the best IEM under USD 100, achieving price-disruptive cost-performance. Despite being a newcomer, it poses a significant threat to established manufacturers."
 tags: [China, IEM, Startup, Crinacle, Measurement-focused]
@@ -16,7 +16,7 @@ permalink: /companies/en/truthear/
 
 Truthear is an emerging audio manufacturer founded in 2022 in Shenzhen, China. Within just two years of establishment, the company has made a significant impact on the industry. Their primary distinguishing feature is collaboration with renowned IEM reviewer Crinacle and a scientific tuning approach based on Harman target curves.
 
-One of the founders is reportedly an engineer from Moondrop, inheriting the successful pattern of measurement-focused design, anime-based marketing, and aggressive pricing strategies. The company debuted with the Zero, followed by highly-acclaimed releases including Hexa and Zero:RED. The Zero:RED, priced at USD 50, earned recognition as "the best IEM under USD 100," significantly disrupting industry pricing structures.
+One of the founders is reportedly an engineer from Moondrop, inheriting the successful pattern of measurement-focused design, anime-based marketing, and aggressive pricing strategies. The company debuted with the Zero, followed by highly-acclaimed releases including Hexa and Zero:RED. The Zero:RED, priced at USD 55, earned recognition as "the best IEM under USD 100," significantly disrupting industry pricing structures.
 
 ## Scientific Validity
 
@@ -34,7 +34,7 @@ Technically solid but limited in innovation. The Zero:RED's 10mm+7.8mm dual dyna
 
 $$ \Large \text{1.0} $$
 
-Cost-performance is industry-leading. The Zero:RED (USD 55) achieves performance levels unmatched by any other IEM at this price point, resulting in CP = USD 55 ÷ USD 55 = 1.0. The Hexa (under USD 100) delivers frequency response similar to the Moondrop Blessing 2 (USD 319.99) at less than one-third the price. The balance of measured performance, sound quality evaluation, and pricing represents one of the best values currently available. In the sub-USD 55 IEM market, it significantly outperforms traditional competitors like KZ/CCA.
+Cost-performance is industry-leading. The Zero:RED (USD 55) in particular achieves a CP score of 1.0 as there is no competitor offering equivalent performance at this price point, making it the de facto best value. On the other hand, while the Hexa (USD 79.99) delivers high performance with a frequency response approaching the Moondrop Blessing 2 (USD 319.99), its individual cost-performance is limited due to the existence of even cheaper multi-driver IEMs like the CCA C10 (approx. USD 25). However, as a whole, the company's overall cost-performance is rated at the highest level, driven by the disruptive pricing of the Zero:RED.
 
 ## Reliability & Support
 
@@ -64,4 +64,4 @@ Truthear represents one of the most noteworthy emerging audio manufacturers toda
 
 Current offerings provide performance significantly exceeding other manufacturers in their price ranges, with the Zero:RED and Hexa earning recognition as price-disruptive products. However, consider startup-specific risks when making purchase decisions. For cost-performance prioritization, these represent currently the most compelling options available.
 
-(2025.7.6)
+(2025.7.24)

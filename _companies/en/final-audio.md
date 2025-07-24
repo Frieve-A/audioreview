@@ -5,7 +5,7 @@ target_name: "Final Audio"
 company_id: final-audio
 lang: en
 ref: final-audio
-date: 2025-07-05
+date: 2025-07-24
 rating: [4.2, 0.8, 1.0, 0.5, 0.9, 1.0]
 summary: "A Japanese veteran audio manufacturer founded in 1974. Starting with cartridges, amplifiers, and speakers, they are now globally acclaimed for high-end headphones and IEMs. Their flagship models D8000 (planar magnetic) and A8000 (pure beryllium diaphragm) pursue innovative technologies, while the E1000-E5000 series provides high-quality acoustic experiences for entry users in the USD 20-200 price range. Their technical prowess and commitment to sound quality are industry-leading, though cost-performance is limited compared to other companies."
 tags: [Japan, High-End, Beryllium, "Planar Magnetic", Earphones, Headphones]
@@ -40,7 +40,7 @@ D8000 (USD 2,660) has equivalent measured performance to other planar magnetic h
 
 $$ \Large \text{0.9} $$
 
-They maintain integrated manufacturing systems at their headquarters factory. Public RMA rates and failure report data for the E1000-E5000 series since market introduction are limited. Domestic after-sales service systems are maintained in Japan. Global support locations are fewer compared to global manufacturers. Product warranty period is one year.
+The quality control through an integrated in-house manufacturing system and the top-class warranty period of 1, 2, or 5 years depending on the product are highly commendable. A comprehensive domestic after-sales service system is also maintained in Japan. However, the number of global support locations is limited compared to the largest manufacturers, which is reflected in the overall score. Publicly available RMA rates and failure report data are limited.
 
 ## Rationality of Design Philosophy
 
@@ -56,6 +56,6 @@ They provide product lineups suitable for users seeking products using the highe
 - **Premium models**: A8000 (USD 1,327) pure beryllium diaphragm, D8000 (USD 2,660) AFDS technology are available.
 - **Awards**: E3000 has four consecutive years of VGP Gold Award achievements.
 
-One-year product warranty is available through authorized dealer purchases.
+A generous 1, 2, or 5-year product warranty, depending on the model, is available through authorized dealer purchases.
 
-(2025.07.05)
+(2025.07.24)
