@@ -22,7 +22,7 @@ $$ \Large \text{0.7} $$
 
 The 10Hz-40kHz frequency response demonstrates broadband characteristics that fully cover the audible range, providing a foundation for high-fidelity reproduction. The adoption of planar magnetic drivers is theoretically superior in suppressing split vibrations and reducing distortion, as the entire diaphragm is driven uniformly. The EqualMass™ Technology is also a rational approach to equalize the mass distribution of the diaphragm and suppress phase characteristic disturbances. Support for Bluetooth 5.4 and codecs like LDAC and aptX Lossless are effective technical choices to minimize information loss during wireless transmission and maintain the quality of high-resolution audio sources. The published specifications align with principles of acoustic engineering, with no reliance on unscientific audio myths.
 
-## Innovation & Technology
+## Technology Level
 
 $$ \Large \text{0.7} $$
 
