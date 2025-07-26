@@ -5,9 +5,9 @@ target_name: "aiyima A70"
 company_id: aiyima
 lang: en
 ref: aiyima-A70
-date: 2025-07-22
-rating: [3.4, 0.8, 0.7, 0.5, 0.6, 0.8]
-summary: "Class D amplifier featuring TPA3255 chip and PFFB technology. Excellent measurement performance but inferior cost-performance compared to competitors."
+date: 2025-07-26
+rating: [3.9, 0.8, 0.7, 1.0, 0.6, 0.8]
+summary: "Class D amplifier featuring TPA3255 chip and PFFB technology. Excellent measurement performance with superior cost-performance in its feature set."
 tags: [Class D Amplifier, TPA3255, Stereo Amplifier, PFFB]
 permalink: /products/en/aiyima-A70/
 ---
@@ -30,15 +30,15 @@ The design combining TPA3255 chip with PFFB technology is technically sound. Hig
 
 ## Cost-Performance
 
-$$ \Large \text{0.5} $$
+$$ \Large \text{1.0} $$
 
-Against the 170-189 USD price point, Fosi Audio V3 offers similar functionality at 129 USD. V3 also uses the same TPA3255 chip, achieving 88dB SINAD in stereo version with op-amp swapping capability. Calculation: 129 USD ÷ 175 USD = 0.737. However, A70 demonstrates 96dB SINAD (with XLR + 48V 10A power supply) exceeding V3 stereo version's 88dB, and considering this performance difference, the price differential has some rationality. While cheaper alternatives with equivalent functionality exist, it maintains superiority in peak measurement performance.
+At the 199 USD price point, no cheaper alternative offering equivalent or superior functionality and performance, including XLR input, PFFB technology, and 96dB SINAD, was identified. While products like Fosi Audio V3 (109 USD) and ZA3 (149 USD) exist at lower prices, they lack XLR input or achieve lower SINAD (88-89dB), making them not fully comparable in features and measurement performance. Thus, the A70 holds the position as the most cost-effective option in its specific category.
 
 ## Reliability & Support
 
 $$ \Large \text{0.6} $$
 
-Aiyima has established market presence as a Chinese audio brand, but long-term reliability data is limited. Product warranty is at industry standard level, while global support infrastructure is inferior compared to major manufacturers. Due to Class D technology characteristics, failure rates are expected to be relatively low, but lacks proven track record for long-term reliability.
+Aiyima has established market presence as a Chinese audio brand, but long-term reliability data is limited. Some reviews note the unit gets warm quickly, raising minor concerns about thermal management, but no widespread failure reports exist. Product warranty is at industry standard level, while global support infrastructure is inferior compared to major manufacturers. Due to Class D technology characteristics, failure rates are expected to be relatively low, but lacks proven track record for long-term reliability.
 
 ## Rationality of Design Philosophy
 
@@ -48,6 +48,6 @@ The design philosophy is scientifically rational with Class D technology adoptio
 
 ## Advice
 
-The A70 is an excellent amplifier in terms of measurement performance, achieving 96dB SINAD with XLR input and 48V 10A power supply, exceeding Fosi Audio V3 stereo version's 88dB. However, it's inferior in price-to-performance ratio compared to competitors, with V3 providing sufficient performance for many applications. It offers value when seeking highest measurement performance standards and can construct XLR input environment, but for typical music listening using RCA input, the more affordable V3 provides adequate performance. Recommended only when there are clear requirements for measurement performance.
+The A70 is an excellent amplifier in terms of measurement performance, achieving 96dB SINAD with XLR input and 48V 10A power supply, surpassing competitors like Fosi Audio V3 (88dB) and ZA3 (89dB). With no cheaper alternatives providing equivalent features such as XLR input and PFFB, it offers superior cost-performance for users requiring balanced connections and high transparency. It provides value when seeking top measurement standards in a compact form. For typical music listening without needing XLR, more affordable options may suffice, but the A70 is recommended for those with clear requirements for advanced features and performance.
 
-(2025.7.22)
+(2025.7.26)
