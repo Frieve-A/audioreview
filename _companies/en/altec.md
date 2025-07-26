@@ -22,21 +22,15 @@ $$ \Large \text{0.1} $$
 
 Objective and comprehensive measurement data, which is essential for scientifically verifying product performance, is not published by the manufacturer. Fundamental technical specifications for assessing fidelity, such as frequency response, harmonic distortion, directivity (horizontal/vertical), phase characteristics, and transient response, are absent. While fragmentary third-party measurements exist, the measurement conditions are unclear and cannot serve as a basis for objectively evaluating performance. Science requires reproducibility and verifiability, but since the prerequisite data does not exist, the scientific validity must be rated as non-existent.
 
-## Rationality of Design Philosophy
+## Technology Level
 
 $$ \Large \text{0.6} $$
 
-Altec's design philosophy possesses a clear rationality in its objective-setting and approach. To address the challenge of "delivering intelligible sound to every corner of a theater or large space," the approach of combining a high-efficiency compression driver with a directivity-controlling horn is in accordance with the principles of acoustic physics. Furthermore, adopting a coaxial structure in the "604" series monitor speakers to achieve point-source reproduction is a rational design for the goal of clear sound localization. Apart from the absolute values of the resulting performance, the engineering methodology for problem-solving is logical and rational.
-
-## Technology Level
-
-$$ \Large \text{0.4} $$
-
 The Voice of the Theatre system and the 604 coaxial unit had clear technological advantages compared to competitor products at the time of their release. In particular, the compression drivers with powerful permanent magnets and the technology of integrating a two-way coaxial structure into a single unit were innovative in establishing industry standards. However, the underlying technologies (paper cones, Alnico magnets) have physical limitations that prevent them from achieving performance that meets modern high-fidelity standards, and they must be considered obsolete from a modern technical perspective.
 
-## Cost Performance
+## Cost-Performance
 
-$$ \Large \text{0.1} $$
+$$ \Large \text{0.4} $$
 
 Altec's vintage products (e.g., a pair of 604-8H) can be traded at prices exceeding 5,000 USD. This price is formed by rarity and historical context, not performance. Modern studio monitors exist that far surpass the measured performance of Altec products, such as the Kali Audio IN-8 2nd Wave (approx. 800 USD per pair). From a pure fidelity perspective, the price per performance for Altec products is remarkably high, meaning the cost performance is virtually non-existent.
 
@@ -45,6 +39,14 @@ Altec's vintage products (e.g., a pair of 604-8H) can be traded at prices exceed
 $$ \Large \text{0.1} $$
 
 There is absolutely no warranty, repair, or technical support from the manufacturer. Maintenance is the owner's sole responsibility, and replacement parts are depleted. Repairs can only be entrusted to a very small number of specialized workshops at a high cost, and maintaining original performance is extremely difficult. Performance variations and degradation due to decades of aging are unavoidable, meaning there is no reliability in guaranteeing stable performance.
+
+## Rationality of Design Philosophy
+
+$$ \Large \text{0.1} $$
+
+Altec's design philosophy possesses a clear rationality in its objective-setting and approach. To address the challenge of "delivering intelligible sound to every corner of a theater or large space," the approach of combining a high-efficiency compression driver with a directivity-controlling horn is in accordance with the principles of acoustic physics. Furthermore, adopting a coaxial structure in the "604" series monitor speakers to achieve point-source reproduction is a rational design for the goal of clear sound localization. Apart from the absolute values of the resulting performance, the engineering methodology for problem-solving is logical and rational.
+
+
 
 ## Advice
 

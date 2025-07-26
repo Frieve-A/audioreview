@@ -22,7 +22,7 @@ $$ \Large \text{0.1} $$
 
 Measurement performance shows results significantly below modern acoustic technology standards. The flagship product SV-S1628D has a published THD (Total Harmonic Distortion) value of 10%, a distortion level that is 10 times higher than the 1% considered "unacceptable" for audio amplifiers, and 10,000 times higher than the 0.001% level achieved by excellent amplifiers. This figure far exceeds the human auditory threshold for detecting distortion (around 1%), making faithful reproduction of the original sound source completely impossible.
 
-## Technological Advancement
+## Technology Level
 
 $$ \Large \text{0.3} $$
 
@@ -34,11 +34,17 @@ $$ \Large \text{0.0} $$
 
 The assembled SV-S1628D is sold in the North American market for 2,350 USD. For comparison with international products, this review uses the North American price as a benchmark. Based on this, a modern Class D amplifier with equivalent or superior functionality and performance, the Fosi Audio V3 (89.99 USD), is available at one of the world's lowest prices. The V3 boasts measured performance of 38W×2 output (8Ω load), 0.003% THD, and 110dB SNR, significantly surpassing the SV-S1628D's 16W×2 and 10% THD. The cost-performance calculation (based on international market prices) is: 89.99 USD ÷ 2,350 USD = 0.038, which rounds to 0.0. This result indicates that equivalent functionality to the reviewed product is available for about 1/26th of the price, highlighting an extremely large price disparity with modern technology.
 
-## Reliability and Support
+## Reliability & Support
 
 $$ \Large \text{0.5} $$
 
 The company is a small, independent specialty manufacturer. The use of vacuum tubes, which are consumable parts, requires periodic replacement, although the 845 and 211 tubes are relatively common and easy to obtain. In North America, VK Music handles official sales and support, so a basic after-sales service system is in place. However, as a niche market product, there is more uncertainty regarding long-term support continuity and parts availability compared to major manufacturers. Users are also expected to have knowledge of the temperature management and maintenance unique to vacuum tube amplifiers.
+
+## Rationality of Design Philosophy
+
+$$ \Large \text{0.1} $$
+
+The design philosophy lacks rationality from a modern audio engineering perspective. The choice of vacuum tube technology, which inherently produces high distortion levels (10% THD), directly contradicts the fundamental goal of audio reproduction: faithful reproduction of the source material. The emphasis on subjective qualities like "tube warmth" over objective performance metrics represents an irrational approach that prioritizes emotional appeal over scientific accuracy. The low power output (16W) is insufficient for modern speaker loads, and the focus on analog-only connectivity ignores the superior performance capabilities of digital audio technology.
 
 ## Advice
 
