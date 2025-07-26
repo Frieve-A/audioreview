@@ -5,7 +5,7 @@ target_name: "Audio-Technica ATH-CKS330NC"
 company_id: audio-technica
 lang: en
 ref: audio-technica-ath-cks330nc
-date: 2025-07-24
+date: 2025-07-26
 rating: [3.9, 0.6, 0.7, 1.0, 0.8, 0.8]
 summary: "Rare wired earphones with USB-C connection and active noise cancellation. Features characteristic bass from SOLID BASS series and high-quality playback via built-in DAC."
 tags: [Earphones, Noise Cancellation, USB-C, Wired, DAC Built-in]
@@ -20,7 +20,7 @@ The Audio-Technica ATH-CKS330NC is a 2024 model that adds active noise cancellat
 
 $$ \Large \text{0.6} $$
 
-Measured specifications include a frequency response of 5-30kHz, sensitivity of 105dB/mW, and an impedance of 18Ω. Support for 96kHz/32bit digital audio enables high-resolution source playback, with signal processing through the built-in DAC also expected. However, detailed distortion characteristic data crucial for transparency evaluation, such as THD (ideally below 0.01%), S/N ratio (ideally above 105dB), and crosstalk (ideally below -70dB), are not publicly available, making verification of transparent-level audio quality impossible. The ANC performance also lacks specific noise reduction values (above 30dB is excellent), and there are technical limitations to the feedforward method. Due to the insufficient transparency of measurement data, the scientific validity receives a conservative evaluation.
+Measured specifications include a frequency response of 5-30kHz, sensitivity of 105dB/mW, and an impedance of 18Ω. Support for 96kHz/24bit digital audio enables high-resolution source playback, with signal processing through the built-in DAC also expected. However, detailed distortion characteristic data crucial for transparency evaluation, such as THD (ideally below 0.01%), S/N ratio (ideally above 105dB), and crosstalk (ideally below -70dB), are not publicly available, making verification of transparent-level audio quality impossible. The ANC performance also lacks specific noise reduction values (above 30dB is excellent), and there are technical limitations to the feedforward method. Due to the insufficient transparency of measurement data, the scientific validity receives a conservative evaluation.
 
 ## Technology Level
 
@@ -50,4 +50,4 @@ Latency-free digital audio transmission through a direct USB-C connection and AN
 
 The ATH-CKS330NC is a rare product that meets the specific need for active noise cancellation while maintaining a wired connection. It is optimal for use with modern smartphones and laptops that only have USB-C ports, where users want to avoid Bluetooth latency and connection troubles. It is a valuable choice, particularly for users who prioritize audio synchronization in gaming or video viewing, and for those who want to use ANC functionality without worrying about battery depletion. However, in terms of sound quality, it is not exceptionally outstanding compared to other wired earphones in the same price range, so those prioritizing pure sound quality should consider other options. Purchase is recommended with the understanding that its ANC performance does not match that of the latest wireless models.
 
-(2025.7.24)
+(2025.7.26)

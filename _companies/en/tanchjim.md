@@ -5,8 +5,8 @@ target_name: "Tanchjim"
 company_id: tanchjim
 lang: en
 ref: tanchjim
-date: 2025-07-24
-rating: [3.6, 0.6, 0.8, 0.9, 0.5, 0.8]
+date: 2025-07-26
+rating: [3.6, 0.8, 0.8, 0.7, 0.5, 0.8]
 summary: "Chinese emerging audio brand Tanchjim develops high-quality earphones with scientifically-based measurements using proprietary DMT technology. While technical level and design philosophy are excellent, reliability issues exist with cable quality."
 tags: [Chinese Manufacturer, Earphones, Dynamic Driver, Hi-Fi]
 permalink: /companies/en/tanchjim/
@@ -18,9 +18,9 @@ Tanchjim is a Chinese audio brand established in 2015, specializing in the devel
 
 ## Scientific Validity
 
-$$ \Large \text{0.6} $$
+$$ \Large \text{0.8} $$
 
-The measurement performance of Tanchjim products is at a moderate level. The Origin (260 USD) achieves THD<0.056%@1kHz distortion, but falls short of the transparent level of 0.01%, remaining at moderate performance. In objective measurements by Audio Science Review (ASR), the One was rated "very good to excellent" for target curve compliance, but overall it does not reach industry-leading standards. While there are no major issues with frequency response, multiple indicators fail to achieve transparent level clearance, leaving room for improvement.
+The measurement performance of Tanchjim products is generally good. The flagship Origin, in particular, achieves an excellent low distortion rate with a manufacturer-claimed THD of <0.0056%@1kHz, which clears the policy's transparent level of 0.01%. In objective measurements by Audio Science Review (ASR), the entry-level One was rated "very good to excellent" for target curve compliance, indicating no major issues in frequency response. While some products may not reach the highest industry standards across all metrics, scientifically valid performance is confirmed in their main products.
 
 ## Technology Level
 
@@ -30,9 +30,9 @@ Tanchjim's technology level is high within the industry. The 5th generation DMT5
 
 ## Cost-Performance
 
-$$ \Large \text{0.9} $$
+$$ \Large \text{0.7} $$
 
-Tanchjim's cost-performance varies by product but is excellent overall. For the Origin (260 USD), a more affordable alternative with equivalent functionality and measurement performance exists in the Simgot EA1000 (220 USD), resulting in 220 USD ÷ 260 USD = 0.85, showing good cost-performance. The entry-level One DSP (27.99 USD) has no equivalent performance products available, making it one of the world's most affordable options in this price range. The mid-range 4U (69 USD) also features advantageous pricing compared to competing products, achieving excellent cost-performance across the brand.
+Tanchjim's cost-performance varies by product but is at a good level overall. For instance, the flagship Origin (260 USD) has a CP of about 0.8 when compared to the similarly performing Simgot EA1000 (220 USD), calculated as 220 USD ÷ 260 USD. On the other hand, the entry-level One DSP (28 USD) faces competition from more affordable options like the Moondrop Quarks DSP (15 USD), limiting its price advantage in this segment. Evaluating these representative products comprehensively, the brand's overall cost-performance is above average but not outstanding.
 
 ## Reliability & Support
 
@@ -48,6 +48,6 @@ Tanchjim's design philosophy adopts a rational approach based on scientific evid
 
 ## Advice
 
-Tanchjim is suitable for users seeking high-quality earphones based on scientific measurements. The Origin and One series in particular achieve excellent measurement performance and rational pricing, making them strongly recommended for users who prioritize objective sound quality improvement. However, due to issues with cable quality and fit of some products, consideration of aftermarket cable replacement at purchase is recommended. As they cover a wide price range from entry-level to high-end, selection according to budget is possible, with the technically sophisticated Origin and cost-performance excellent One DSP being particularly noteworthy.
+Tanchjim is suitable for users seeking high-quality earphones based on scientific measurements. The Origin and One series in particular achieve excellent measurement performance and rational pricing, making them strongly recommended for users who prioritize objective sound quality improvement. However, due to issues with cable quality and fit of some products, consideration of aftermarket cable replacement at purchase is recommended. As they cover a wide price range from entry-level to high-end, selection according to budget is possible, with the technically sophisticated Origin and cost-effective options like the One DSP being particularly noteworthy.
 
-(2025.7.24)
+(2025.7.26)
