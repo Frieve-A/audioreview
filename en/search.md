@@ -100,30 +100,7 @@ class SearchPage {
   }
 
   searchItems(query) {
-    const normalizedQuery = query.toLowerCase();
-    const titleResults = [];
-    const otherResults = [];
-
-    const allItems = [...this.searchData.companies, ...this.searchData.products];
-
-    allItems.forEach(item => {
-      const score = this.calculateScore(item, normalizedQuery);
-      if (score > 0) {
-        const titleMatch = item.title.toLowerCase().includes(normalizedQuery) || 
-                           this.containsWords(item.title.toLowerCase(), normalizedQuery);
-        
-        if (titleMatch) {
-          titleResults.push({ ...item, score });
-        } else {
-          otherResults.push({ ...item, score });
-        }
-      }
-    });
-
-    titleResults.sort((a, b) => b.score - a.score);
-    otherResults.sort((a, b) => b.score - a.score);
-
-    return [...titleResults, ...otherResults];
+    return SearchCommon.searchItems(this.searchData, query);
   }
 
   calculateScore(item, query) {
@@ -155,16 +132,13 @@ class SearchPage {
     return score;
   }
 
-  containsWords(text, query) {
-    const words = query.split(/\s+/);
-    return words.some(word => text.includes(word));
-  }
+
 
   displayResults(results, query) {
     if (results.length === 0) {
       this.searchResults.innerHTML = `
         <div class="search-message">
-          No search results found for "${this.escapeHtml(query)}".
+          No search results found for "${SearchCommon.escapeHtml(query)}".
         </div>
       `;
       return;
@@ -172,7 +146,7 @@ class SearchPage {
 
     const html = `
       <div class="search-results-header">
-        <h2>Search results for "${this.escapeHtml(query)}" (${results.length} results)</h2>
+        <h2>Search results for "${SearchCommon.escapeHtml(query)}" (${results.length} results)</h2>
       </div>
       <div class="search-results-list">
         ${results.map(item => `
@@ -204,12 +178,6 @@ class SearchPage {
     const url = new URL(window.location);
     url.searchParams.delete('q');
     window.history.replaceState({}, '', url);
-  }
-
-  escapeHtml(text) {
-    const div = document.createElement('div');
-    div.textContent = text;
-    return div.innerHTML;
   }
 
   unescapeHtml(text) {

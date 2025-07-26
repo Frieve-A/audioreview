@@ -286,7 +286,7 @@ class SearchEngine {
   async loadSearchData() {
     try {
       // Get current page language
-      const currentLang = this.getCurrentLanguage();
+      const currentLang = SearchCommon.getCurrentLanguage();
       const searchFile = `/assets/data/search_${currentLang}.json`;
       const response = await fetch(searchFile);
       this.searchData = await response.json();
@@ -339,7 +339,7 @@ class SearchEngine {
       if (e.key === 'Enter') {
         const query = this.searchInput.value.trim();
         if (query && query.length >= 2) {
-          const currentLang = this.getCurrentLanguage();
+          const currentLang = SearchCommon.getCurrentLanguage();
           const searchPageUrl = `/search/${currentLang}/?q=${encodeURIComponent(query)}`;
           window.location.href = searchPageUrl;
         }
@@ -367,7 +367,7 @@ class SearchEngine {
     }
 
     if (!this.searchData) {
-      const currentLang = this.getCurrentLanguage();
+      const currentLang = SearchCommon.getCurrentLanguage();
       const errorMsg = currentLang === 'ja' ? '検索データが読み込めませんでした。' : 'Failed to load search data.';
       this.searchResults.innerHTML = `<p>${errorMsg}</p>`;
       return;
@@ -378,31 +378,7 @@ class SearchEngine {
   }
 
   searchItems(query) {
-    const normalizedQuery = query.toLowerCase();
-    const titleResults = [];
-    const otherResults = [];
-
-    const allItems = [...this.searchData.companies, ...this.searchData.products];
-
-    allItems.forEach(item => {
-      const score = this.calculateScore(item, normalizedQuery);
-      if (score > 0) {
-        const titleMatch = item.title.toLowerCase().includes(normalizedQuery) || 
-                           this.containsWords(item.title.toLowerCase(), normalizedQuery);
-        
-        if (titleMatch) {
-          titleResults.push({ ...item, score });
-        } else {
-          otherResults.push({ ...item, score });
-        }
-      }
-    });
-
-    // Sort each list by score (descending)
-    titleResults.sort((a, b) => b.score - a.score);
-    otherResults.sort((a, b) => b.score - a.score);
-
-    return [...titleResults, ...otherResults];
+    return SearchCommon.searchItems(this.searchData, query);
   }
 
   calculateScore(item, query) {
@@ -443,14 +419,11 @@ class SearchEngine {
     return score;
   }
 
-  containsWords(text, query) {
-    const words = query.split(/\s+/);
-    return words.some(word => text.includes(word));
-  }
+
 
   displayResults(results) {
     if (results.length === 0) {
-      const currentLang = this.getCurrentLanguage();
+      const currentLang = SearchCommon.getCurrentLanguage();
       const noResultsMsg = currentLang === 'ja' ? '検索結果が見つかりませんでした。' : 'No search results found.';
       this.searchResults.innerHTML = `<p>${noResultsMsg}</p>`;
       return;
@@ -459,39 +432,21 @@ class SearchEngine {
     const html = results.map(item => `
       <div class="search-result">
         <div class="search-result-type">${item.type}</div>
-        <h3><a href="${item.url}">${this.escapeHtml(item.title)}</a></h3>
+        <h3><a href="${item.url}">${SearchCommon.escapeHtml(item.title)}</a></h3>
         <div class="search-result-rating">
           <span class="rating-value">${typeof item.rating === 'number' ? item.rating.toFixed(1) : (item.rating || 'N/A')}</span>
           <span class="rating-stars">★</span>
         </div>
-        <p class="search-result-summary">${this.escapeHtml(item.summary)}</p>
+        <p class="search-result-summary">${SearchCommon.escapeHtml(item.summary)}</p>
         ${item.tags.length > 0 ? `
           <div class="search-result-tags">
-            ${item.tags.map(tag => `<span class="tag">${this.escapeHtml(tag)}</span>`).join('')}
+            ${item.tags.map(tag => `<span class="tag">${SearchCommon.escapeHtml(tag)}</span>`).join('')}
           </div>
         ` : ''}
       </div>
     `).join('');
 
     this.searchResults.innerHTML = html;
-  }
-
-  escapeHtml(text) {
-    const div = document.createElement('div');
-    div.textContent = text;
-    return div.innerHTML;
-  }
-
-  getCurrentLanguage() {
-    // Get language from URL (/en/ or /ja/)
-    const path = window.location.pathname;
-    if (path.includes('/en/')) {
-      return 'en';
-    } else if (path.includes('/ja/')) {
-      return 'ja';
-    }
-    // Default to Japanese for root pages
-    return 'ja';
   }
 }
 
