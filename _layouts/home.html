@@ -43,8 +43,38 @@ layout: default
           {% assign latest_companies = latest_companies | push: company %}
         {% endif %}
       {% endfor %}
+      
+      {% comment %} If we have less than 3 latest companies, add more from next dates {% endcomment %}
+      {% if latest_companies.size < 3 %}
+        {% assign remaining_needed = 3 | minus: latest_companies.size %}
+        {% assign additional_companies = '' | split: ',' %}
+        {% assign current_date_group = '' %}
+        {% for company in filtered_companies %}
+          {% if company.date != latest_date %}
+            {% if current_date_group == '' %}
+              {% assign current_date_group = company.date %}
+            {% endif %}
+            {% if company.date == current_date_group %}
+              {% assign additional_companies = additional_companies | push: company %}
+            {% else %}
+              {% comment %} If we have enough companies from the current date group, stop {% endcomment %}
+              {% if additional_companies.size >= remaining_needed %}
+                {% break %}
+              {% endif %}
+              {% comment %} Move to next date group {% endcomment %}
+              {% assign current_date_group = company.date %}
+              {% assign additional_companies = additional_companies | push: company %}
+            {% endif %}
+            {% if additional_companies.size >= remaining_needed %}
+              {% break %}
+            {% endif %}
+          {% endif %}
+        {% endfor %}
+        {% assign latest_companies = latest_companies | concat: additional_companies %}
+      {% endif %}
+      
       {% for company in latest_companies %}
-        <div class="product-card" data-date="{{ company.date | date: '%Y-%m-%d' }}" data-is-latest="true">
+        <div class="product-card" data-date="{{ company.date | date: '%Y-%m-%d' }}" data-is-latest="{% if company.date == latest_date %}true{% else %}false{% endif %}">
           {% assign current_date = 'now' | date: '%s' %}
           {% assign company_date = company.date | date: '%s' %}
           {% assign days_diff = current_date | minus: company_date | divided_by: 86400 %}
@@ -88,8 +118,38 @@ layout: default
           {% assign latest_products = latest_products | push: product %}
         {% endif %}
       {% endfor %}
+      
+      {% comment %} If we have less than 3 latest products, add more from next dates {% endcomment %}
+      {% if latest_products.size < 3 %}
+        {% assign remaining_needed = 3 | minus: latest_products.size %}
+        {% assign additional_products = '' | split: ',' %}
+        {% assign current_date_group = '' %}
+        {% for product in filtered_products %}
+          {% if product.date != latest_date %}
+            {% if current_date_group == '' %}
+              {% assign current_date_group = product.date %}
+            {% endif %}
+            {% if product.date == current_date_group %}
+              {% assign additional_products = additional_products | push: product %}
+            {% else %}
+              {% comment %} If we have enough products from the current date group, stop {% endcomment %}
+              {% if additional_products.size >= remaining_needed %}
+                {% break %}
+              {% endif %}
+              {% comment %} Move to next date group {% endcomment %}
+              {% assign current_date_group = product.date %}
+              {% assign additional_products = additional_products | push: product %}
+            {% endif %}
+            {% if additional_products.size >= remaining_needed %}
+              {% break %}
+            {% endif %}
+          {% endif %}
+        {% endfor %}
+        {% assign latest_products = latest_products | concat: additional_products %}
+      {% endif %}
+      
       {% for product in latest_products %}
-        <div class="product-card" data-date="{{ product.date | date: '%Y-%m-%d' }}" data-is-latest="true">
+        <div class="product-card" data-date="{{ product.date | date: '%Y-%m-%d' }}" data-is-latest="{% if product.date == latest_date %}true{% else %}false{% endif %}">
           {% assign current_date = 'now' | date: '%s' %}
           {% assign product_date = product.date | date: '%s' %}
           {% assign days_diff = current_date | minus: product_date | divided_by: 86400 %}
@@ -170,29 +230,29 @@ document.addEventListener('DOMContentLoaded', function() {
       const cards = Array.from(grid.children);
       if (cards.length === 0) return;
       
-      // Filter only latest date items
-      const latestCards = cards.filter(card => card.getAttribute('data-is-latest') === 'true');
+      // Get all cards (now we have at least 3 if available)
+      const allCards = cards;
       
-      // Debug: Log the number of latest cards found
-      console.log(`Found ${latestCards.length} latest cards in grid:`, grid.id);
+      // Debug: Log the number of cards found
+      console.log(`Found ${allCards.length} cards in grid:`, grid.id);
       
-      if (latestCards.length > 1) {
+      if (allCards.length > 1) {
         // Log original order
-        console.log('Original order:', latestCards.map(card => card.querySelector('h3 a').textContent));
+        console.log('Original order:', allCards.map(card => card.querySelector('h3 a').textContent));
         
         // Fisher-Yates shuffle algorithm
-        for (let i = latestCards.length - 1; i > 0; i--) {
+        for (let i = allCards.length - 1; i > 0; i--) {
           const j = Math.floor(Math.random() * (i + 1));
-          [latestCards[i], latestCards[j]] = [latestCards[j], latestCards[i]];
+          [allCards[i], allCards[j]] = [allCards[j], allCards[i]];
         }
         
         // Log shuffled order
-        console.log('Shuffled order:', latestCards.map(card => card.querySelector('h3 a').textContent));
+        console.log('Shuffled order:', allCards.map(card => card.querySelector('h3 a').textContent));
       }
       
       // Rebuild the grid with shuffled cards (show only top 3)
       grid.innerHTML = '';
-      const displayCards = latestCards.slice(0, 3);
+      const displayCards = allCards.slice(0, 3);
       displayCards.forEach(card => {
         grid.appendChild(card);
       });

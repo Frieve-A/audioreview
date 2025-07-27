@@ -1,7 +1,7 @@
 ---
 layout: product
-title: "Topping E4X4-PRE 製品レビュー"
-target_name: "Topping E4X4-PRE"
+title: "Topping E4x4 Pre 製品レビュー"
+target_name: "Topping E4x4 Pre"
 company_id: topping
 lang: ja
 ref: topping-e4x4-pre
