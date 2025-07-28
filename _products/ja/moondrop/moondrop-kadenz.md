@@ -8,10 +8,9 @@ ref: moondrop-kadenz
 date: 2025-07-27
 rating: [3.6, 0.8, 0.7, 0.6, 0.7, 0.8]
 summary: "TACダイヤモンドコーティング振動板を採用した10mm ULT Gen2ドライバーを搭載するMoondropの最新IEM。高性能DACが付属し測定性能は優秀だが、より安価な代替品とDACの組み合わせが存在し、コストパフォーマンスに課題が残る。"
-tags: [IEM, ダイナミックドライバー, Moondrop, 高解像度]
+tags: [Moondrop, インイヤーモニター, ダイナミックドライバー, 高解像度]
 permalink: /products/ja/moondrop-kadenz/
 ---
-
 ## 概要
 
 Moondrop Kadenzは、同社のKシリーズ最新モデルとして2024年に発表された単一ダイナミックドライバー搭載のインイヤーモニターです。10mm ULT Gen2パテント技術とTAC（tetrahedral amorphous carbon）ダイヤモンドコーティング複合振動板を採用し、従来のKatoやAria 2よりもリスニング重視の温かみのあるサウンドシグネチャーを特徴としています。付属のECHO-B USB-Cドングルには高性能DACが内蔵され、SNR 120dB、THD 0.003%という優秀な測定値を実現しています。現在の市場での実勢価格は約27,000円です。

@@ -8,10 +8,9 @@ ref: cca-hydro
 date: 2025-07-24
 rating: [2.8, 0.6, 0.7, 0.4, 0.5, 0.6]
 summary: "CCA's 2024 flagship model featuring 2DD+8BA 10-driver configuration with 4-stage tuning switch. While technology level has improved, cost-performance remains limited due to existence of products achieving equivalent functionality at significantly lower prices"
-tags: [IEM, Hybrid Driver, Tuning Switch, ChiFi, CCA]
+tags: [CCA, ChiFi, Hybrid Driver, In-ear monitors, Tuning Switch]
 permalink: /products/en/cca-hydro/
 ---
-
 ## Overview
 
 The CCA Hydro is CCA's flagship model released in 2024. It adopts a hybrid configuration of 10 drivers total, combining 2 dynamic drivers (8mm + 7mm dual setup) with 8 balanced armature drivers. The design features a patented 4-stage adjustable tuning switch that allows users to fine-tune acoustic characteristics. With the adoption of XUN-7 third-generation driver units, this ambitious product is said to achieve significant technological advancement over previous CCA products.

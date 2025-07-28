@@ -8,10 +8,9 @@ ref: tanchjim-zero
 date: 2025-07-25
 rating: [3.6, 0.6, 0.7, 1.0, 0.6, 0.7]
 summary: "A dynamic driver IEM that achieves neutral-oriented sound at an extremely low price. While measured performance is average, it realizes the lowest price point among products with equivalent functionality."
-tags: [IEM, Dynamic Driver, Neutral, Chinese Earphones, Low Price]
+tags: [Chinese Earphones, Dynamic Driver, In-ear monitors, Low Price, Neutral]
 permalink: /products/en/tanchjim-zero/
 ---
-
 ## Overview
 
 The Tanchjim Zero is an in-ear monitor (IEM) developed by Chinese audio manufacturer Tanchjim. It features a single dynamic driver configuration with a 10mm composite diaphragm, and an acoustic design optimized by DMT 4 technology. Despite its market price of 15 USD (as of July 2025), it achieves neutral sound characteristics and an analytical sound presentation.

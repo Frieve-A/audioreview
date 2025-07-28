@@ -8,10 +8,9 @@ ref: kz-symphony
 date: 2025-07-27
 rating: [2.2, 0.3, 0.7, 0.4, 0.5, 0.3]
 summary: "The KZ Symphony adopts an ambitious hybrid configuration, but its measurement performance is problematic and inferior to cheaper single-driver products. Consequently, its cost-performance and design rationality are highly questionable, resulting in a low overall evaluation."
-tags: [KZ, Earphones, IEM, Hybrid, Planar, Dynamic]
+tags: [Dynamic, Earphones, Hybrid, In-ear monitors, KZ, Planar]
 permalink: /products/en/kz-symphony/
 ---
-
 ## Overview
 
 The KZ Symphony is a hybrid in-ear monitor combining a 13.2mm planar driver with a 6mm dynamic driver. Released in 2024 by KZ Acoustics of China, this product aims for an acoustic design that leverages the characteristics of each driver through a combination of planar magnetic drive technology and conventional dynamic drivers. It features a 3D-printed resin housing with a metal alloy faceplate and employs a semi-open design to suppress internal resonance.

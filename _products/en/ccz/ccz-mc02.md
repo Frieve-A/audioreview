@@ -8,10 +8,9 @@ ref: ccz-mc02
 date: 2025-07-28
 rating: [2.9, 0.5, 0.4, 0.9, 0.5, 0.6]
 summary: "The CCZ MC02 is an entry-level IEM featuring a dual-magnet 10mm driver at 2,400 JPY. While measurement data is unavailable, it demonstrates strong competitiveness in cost-performance."
-tags: [CCZ, IEM, Budget, V-Shaped Sound, Dynamic Driver]
+tags: [Budget, CCZ, Dynamic Driver, In-ear monitors, V-Shaped Sound]
 permalink: /products/en/ccz-mc02/
 ---
-
 ## Overview
 
 The CCZ MC02 is an in-ear monitor (IEM) produced by CCZ, an emerging Chinese audio brand. Priced at 2,400 JPY, it features a 10mm dual-magnetic dynamic driver with a PET material diaphragm and a detachable cable design. The product adopts a V-shaped acoustic characteristic, with particular emphasis on bass to lower-midrange reproduction. Its specifications include a 20Hz-20kHz frequency range, 16Ω±15% impedance, and 105dB±3dB sensitivity, with a design focused on drivability from portable devices.

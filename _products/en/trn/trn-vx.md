@@ -8,10 +8,9 @@ ref: trn-vx
 date: 2025-07-24
 rating: [1.9, 0.4, 0.6, 0.2, 0.3, 0.4]
 summary: "A 7-driver hybrid IEM with V-shaped acoustic characteristics delivering stimulating treble, but faces challenges in scientific validity and cost-performance due to 8kHz peak causing listening fatigue and the existence of more affordable alternatives"
-tags: [IEM, Hybrid, V-shaped, Treble-emphasized, Listening-Fatigue]
+tags: [Hybrid, In-ear monitors, Listening-Fatigue, Treble-emphasized, V-shaped]
 permalink: /products/en/trn-vx/
 ---
-
 ## Overview
 
 The TRN VX is a 7-driver hybrid in-ear monitor developed by TRN Audio of China. It features 6 balanced armature drivers (3×Knowles 30095, 3×Knowles 50060) and 1×10mm dynamic driver, housed in a CNC-machined magnesium alloy shell. With specifications of 22Ω impedance, 107dB/mW sensitivity, and 7-40,000Hz frequency range, it comes in emerald green and black color options. Priced around 10,000 JPY, it is noted for excellent resolution and technical capability, while its bright V-shaped tuning causes listening fatigue concerns.

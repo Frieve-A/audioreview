@@ -8,10 +8,9 @@ ref: kz-am16
 date: 2025-07-27
 rating: [2.8, 0.6, 0.5, 0.9, 0.4, 0.4]
 summary: "Multi-driver IEM featuring 16 balanced armature drivers, but with limitations in scientific validity and design rationality as a budget product"
-tags: [IEM, Balanced Armature, 16 Drivers, KZ, Budget]
+tags: [16 Drivers, Balanced Armature, Budget, In-ear monitors, KZ]
 permalink: /products/en/kz-am16/
 ---
-
 ## Overview
 
 The KZ AM16 is an in-ear monitor (IEM) featuring a total of 16 balanced armature (BA) drivers, with 8 drivers per side. Knowledge Zenith (KZ), a Chinese audio equipment manufacturer, has extensively developed multi-driver IEMs in the budget price range. The AM16 was released in May 2024 and offers a wide frequency response of 5-45,000Hz with two tuning variations: a balanced version and a bass-enhanced version. It has a 22Ω impedance, 104dB sensitivity, and adopts a detachable cable with 0.75mm 2-pin connectors.

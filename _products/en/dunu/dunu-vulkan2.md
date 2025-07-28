@@ -8,10 +8,9 @@ ref: dunu-vulkan2
 date: 2025-07-27
 rating: [3.0, 0.7, 0.8, 0.1, 0.7, 0.7]
 summary: "An 8-driver hybrid IEM with a 2DD+6BA configuration. While technically solid, its cost-performance is unacceptably low, as products with equivalent or superior measured performance are available for about 1/7th of the price."
-tags: [IEM, Hybrid, 2DD+6BA, DUNU]
+tags: [2DD+6BA, DUNU, Hybrid, In-ear monitors]
 permalink: /products/en/dunu-vulkan2/
 ---
-
 ## Overview
 
 The DUNU Vulkan2 is an 8-driver hybrid IEM launched in June 2025. It features 2 dynamic drivers and 6 balanced armature drivers with a 4-way crossover frequency division. DUNU is a Chinese audio manufacturer founded in 1999, known for its technically-oriented product development approach. The Vulkan2 has changed the driving impedance to 35Ω from the previous model, with a sensitivity of 113dB/mW ensuring compatibility with a wide range of sources.

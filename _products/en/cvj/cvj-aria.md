@@ -8,10 +8,9 @@ ref: cvj-aria
 date: 2025-07-28
 rating: [2.8, 0.5, 0.7, 0.4, 0.5, 0.7]
 summary: "A Chinese-made IEM featuring a 10mm nano-crystal coated dynamic driver. Characterized by its V-shaped sound signature and three interchangeable tuning nozzles."
-tags: [Earphone, IEM, Dynamic Driver, CVJ, Chinese Manufacturer]
+tags: [CVJ, Chinese Manufacturer, Dynamic Driver, Earphones, In-ear monitors]
 permalink: /products/en/cvj-aria/
 ---
-
 ## Overview
 
 The CVJ Aria, released in 2024, is an in-ear monitor (IEM) equipped with a single 10mm nano-crystal coated dynamic driver. Developed by the Chinese audio manufacturer CVJ, this product utilizes a high-tensile CCAW voice coil and an aerospace-grade aluminum housing. Its most prominent feature is the ability for users to adjust the sound characteristics via three types of interchangeable tuning nozzles (Silver, Blue, and Gold). It possesses an intentional V-shaped sound signature that emphasizes the low and high frequencies, positioning it as a product suitable for listening to modern music.

@@ -8,10 +8,9 @@ ref: shure-se425
 date: 2025-07-23
 rating: [2.6, 0.6, 0.5, 0.2, 0.8, 0.5]
 summary: "Professional dual-BA IEM significantly outperformed by Chinese products in both performance and price"
-tags: [IEM, Earphones, Balanced Armature, Professional]
+tags: [Balanced Armature, Earphones, In-ear monitors, Professional]
 permalink: /products/en/shure-se425/
 ---
-
 ## Overview
 
 The Shure SE425 is a professional In-Ear Monitor (IEM) featuring dual balanced armature (BA) drivers. With dedicated tweeter and woofer drivers in a 2-driver configuration, it represented advanced technology when released in 2009. Featuring 37dB passive isolation and detachable cables with MMCX connectors, the design prioritizes reliability for stage monitoring applications. The current market price is 269 USD.

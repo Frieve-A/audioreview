@@ -8,10 +8,9 @@ ref: epz-p50
 date: 2025-07-27
 rating: [3.2, 0.7, 0.8, 0.5, 0.5, 0.7]
 summary: "As a tribrid IEM featuring 1DD+2BA+2 planar configuration, this product demonstrates technical advancement and acoustic performance with recognized competitiveness in its price range. Particularly strong low-frequency depth and texture provide advantages over same-price competitors."
-tags: [IEM, Hybrid, Tribrid, EPZ]
+tags: [EPZ, Hybrid, In-ear monitors, Tribrid]
 permalink: /products/en/epz-p50/
 ---
-
 ## Overview
 
 The EPZ P50 is a tribrid in-ear monitor combining one dynamic driver, two balanced armatures, and two micro planar magnetic drivers. It employs a frequency-division design where the 10mm PEK+PU composite diaphragm dynamic driver handles low frequencies, custom dual composite BA (32257) manages midrange, and two custom micro planar magnetic drivers cover high frequencies. The product showcases technical sophistication through its 3D-printed resin shell and CNC-machined faceplate construction, semi-open back structure to prevent sound pressure accumulation and driver flex issues.

@@ -8,10 +8,9 @@ ref: tri-i3-mk3
 date: 2025-07-28
 rating: [2.7, 0.4, 0.6, 0.3, 0.6, 0.8]
 summary: "A multi-driver IEM with a tribrid configuration. The division of roles for each driver is rational, but scientific validity is unknown due to undisclosed measurement data. Cost-performance is exceedingly low as cheaper alternatives offer a comparable listening experience."
-tags: [IEM, Hybrid, Planar Magnetic, Beryllium, TRI]
+tags: [Beryllium, Hybrid, In-ear monitors, Planar Magnetic, TRI]
 permalink: /products/en/tri-i3-mk3/
 ---
-
 ## Overview
 
 The TRI i3 MK3 is the third-generation earphone in the company's popular i3 series. It employs a tribrid configuration combining a 10mm beryllium-coated dynamic driver (lows), a Sonion 2356 balanced armature (mids), and a 10mm planar magnetic driver (highs). It features a CNC aluminum alloy housing paired with a silver-plated cable and a standard 4.4mm balanced plug. Specifications include an impedance of 21Ω, sensitivity of 104±1dB, and a frequency response of 20Hz-20kHz. Released in June 2024, its current price is 29,999 JPY.

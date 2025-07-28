@@ -8,10 +8,9 @@ ref: toa-sr-f09
 date: 2025-07-24
 rating: [1.5, 0.4, 0.3, 0.2, 0.3, 0.3]
 summary: "The TOA SR-F09 is a passive portable 2-way speaker discontinued in 2021. With a suggested retail price of 348,500 JPY (excl. tax), it shows extremely poor cost-performance compared to modern active speakers that offer superior or equivalent performance with a built-in amplifier, and is not recommended."
-tags: [TOA, Speaker, PA, Professional, Portable, Discontinued]
+tags: [Discontinued, PA, Portable, Professional, Speakers, TOA]
 permalink: /products/en/toa-sr-f09/
 ---
-
 ## Overview
 
 The TOA SR-F09 was a portable 2-way speaker system in TOA Corporation's Z-DRIVE series. Developed by TOA, an established audio equipment manufacturer founded in 1934, it was aimed at the professional audio market. This is a passive speaker, meaning it requires an external power amplifier to operate. With a suggested retail price of 348,500 JPY (excluding tax), it was discontinued on January 29, 2021, and is now difficult to obtain new. This review will rigorously evaluate its value against modern standards, specifically by comparing it to today's standard PA systems: active speakers with built-in amplifiers.

@@ -8,10 +8,9 @@ ref: klipsch-r-41m
 date: 2025-07-24
 rating: [2.6, 0.6, 0.5, 0.3, 0.6, 0.6]
 summary: "Compact bookshelf speaker featuring Klipsch's proprietary Tractrix horn technology. The high-efficiency design achieves high volume with minimal power, but measurement performance has room for improvement, and significantly cheaper competitive products exist, limiting price competitiveness."
-tags: [Speaker, Bookshelf, Horn-loaded, High-efficiency]
+tags: [Bookshelf, High-efficiency, Horn-loaded, Speakers]
 permalink: /products/en/klipsch-r-41m/
 ---
-
 ## Overview
 
 The Klipsch R-41M is an entry-level bookshelf speaker from the Reference series by Klipsch, a veteran American audio manufacturer. It features the company's signature Tractrix horn technology with a 1-inch aluminum LTS (Linear Travel Suspension) tweeter and a 4-inch copper-spun IMG (Injection Molded Graphite) woofer, achieving a high-efficiency design of 90dB. Despite its compact enclosure, it offers a frequency response of 68Hz-21kHz and aims to serve a wide range of applications from home theater to pure audio.

@@ -8,10 +8,9 @@ ref: tanchjim-ola-bass
 date: 2025-07-24
 rating: [2.7, 0.6, 0.6, 0.5, 0.5, 0.5]
 summary: "10mm PEEK振動板を採用したシングルDD搭載IEMながら、同等性能の低価格代替品が多数存在し、コストパフォーマンスで劣勢"
-tags: [Tanchjim, IEM, Single Dynamic Driver, Bass Enhanced, Budget]
+tags: [Bass Enhanced, Single Dynamic Driver, Tanchjim, インイヤーモニター, コストパフォーマンス]
 permalink: /products/ja/tanchjim-ola-bass/
 ---
-
 ## 概要
 
 Tanchjim Ola Bassは、2022年に発売された同社の人気モデルOlaの低音強化版です。オリジナルのDMT4アーキテクチャドライバーから10mm PEEK複合材振動板とチタンドーム構造に再設計され、より豊かな低音表現を目指しています。Tanchijimは2015年設立の中国メーカーで、特にシングルダイナミックドライバーの技術で知られています。市場価格は42.99米ドル（約6,500円）で、同価格帯のIEMとしては標準的な位置づけです。

@@ -8,10 +8,9 @@ ref: oneplus-buds-pro-2
 date: 2025-07-15
 rating: [3.5, 0.7, 0.8, 0.4, 0.8, 0.8]
 summary: "48dBのノイズキャンセリング機能とDynaudio監修の音質調整を特徴とするワイヤレスイヤホンですが、測定性能では同価格帯の競合製品に対し優位性を示せていません"
-tags: [TWS, ANC, OnePlus, Dynaudio, Bluetooth]
+tags: [Bluetooth, Dynaudio, OnePlus, アクティブノイズキャンセリング, 完全ワイヤレスイヤホン]
 permalink: /products/ja/oneplus-buds-pro-2/
 ---
-
 ## 概要
 
 OnePlus Buds Pro 2は、OnePlusが2023年に発表したプレミアムワイヤレスイヤホンです。11mmダイナミックドライバーと6mmプラナー磁気ドライバーのデュアル構成を採用し、Danish Hi-Fiブランド「Dynaudio」の音響調整を受けています。最大48dBのアダプティブノイズキャンセリング機能、LHDC 5.0コーデック対応、最大39時間の連続再生時間を誇ります。日本市場での正確な販売価格については、Amazon.co.jpなどで確認可能ですが、グローバル市場では177 USD程度で販売されています。

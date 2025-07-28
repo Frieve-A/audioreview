@@ -8,10 +8,9 @@ ref: sennheiser-ie-100-pro
 date: 2025-07-18
 rating: [3.6, 0.7, 0.6, 0.5, 0.9, 0.9]
 summary: "The Sennheiser IE 100 PRO is an in-ear monitor that offers high sound isolation and accurate sound reproduction, making it suitable for stage and studio use."
-tags: [IEM, Monitoring, Professional, Wired, Sennheiser]
+tags: [In-ear monitors, Monitoring, Professional, Sennheiser, Wired]
 permalink: /products/en/sennheiser-ie-100-pro/
 ---
-
 ## Overview
 
 The Sennheiser IE 100 PRO is a professional in-ear monitor (IEM) developed by Sennheiser, the renowned German audio manufacturer. Featuring a 10mm dynamic driver, it is designed for stage performance and studio monitoring applications. With a frequency response of 20Hz-18kHz and 26dB of passive isolation, it aims to meet the needs of professional musicians and audio engineers. Built upon Sennheiser's decades of expertise in professional audio, the design emphasizes a balance between reliability and sound quality. The product represents the company's commitment to delivering trusted performance in professional audio environments.

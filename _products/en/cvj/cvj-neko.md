@@ -8,10 +8,9 @@ ref: cvj-neko
 date: 2025-07-28
 rating: [1.9, 0.3, 0.5, 0.2, 0.5, 0.4]
 summary: "A limited edition of 1000 units single dynamic driver IEM featuring anime-style design, but lacks scientific justification for its 13,480 JPY price point with significantly cheaper alternatives offering equivalent performance"
-tags: [IEM, Single DD, CVJ, Anime Design, Limited Edition]
+tags: [Anime Design, CVJ, In-ear monitors, Limited Edition, Single DD]
 permalink: /products/en/cvj-neko/
 ---
-
 ## Overview
 
 The CVJ Neko is a limited edition in-ear monitor released by Chinese audio brand CVJ in 2023, with only 1000 units produced. It features a single dynamic driver design with a black-gold composite diaphragm, with its primary characteristic being the anime character artwork on metal faceplates. CVJ is a relatively emerging IEM manufacturer handling entry to mid-range products. It adopts an aviation-grade aluminum alloy shell and 0.78mm 2-pin cable, with specifications of 26Ω impedance and 114±2dB sensitivity. However, the product design prioritizes scarcity through limited production and design aesthetics, with limited innovation in pure acoustic performance aspects.

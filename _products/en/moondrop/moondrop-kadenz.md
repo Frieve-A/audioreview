@@ -8,10 +8,9 @@ ref: moondrop-kadenz
 date: 2025-07-27
 rating: [3.6, 0.8, 0.7, 0.6, 0.7, 0.8]
 summary: "Moondrop's latest IEM with a 10mm ULT Gen2 driver and TAC diamond-coated diaphragm. It offers excellent measured performance with an included high-performance DAC, but faces cost-performance challenges as alternative IEM and DAC combinations exist at a lower price."
-tags: [IEM, Dynamic Driver, Moondrop, High Resolution]
+tags: [Dynamic Driver, High Resolution, In-ear monitors, Moondrop]
 permalink: /products/en/moondrop-kadenz/
 ---
-
 ## Overview
 
 The Moondrop Kadenz is a single dynamic driver in-ear monitor launched in 2024 as the latest model in the company's K-series. It features 10mm ULT Gen2 patent technology and a TAC (tetrahedral amorphous carbon) diamond-coated composite diaphragm, delivering a warmer, listening-focused sound signature compared to previous models like the Kato and Aria 2. The included ECHO-B USB-C dongle incorporates a high-performance DAC achieving excellent measurements of SNR 120dB and THD 0.003%. The current market price is around 27,000 JPY.

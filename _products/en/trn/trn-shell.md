@@ -8,10 +8,9 @@ ref: trn-shell
 date: 2025-07-25
 rating: [2.7, 0.4, 0.6, 0.3, 0.7, 0.7]
 summary: "The TRN Shell is a hybrid IEM featuring three dynamic drivers and one planar driver. While it offers luxurious accessories and a premium liquid metal housing at the 60 USD price point, its cost-performance is limited due to the existence of products that deliver equivalent functionality at significantly lower prices."
-tags: [IEM, Hybrid Driver, Chi-Fi, Planar Driver]
+tags: [Chi-Fi, Hybrid Driver, In-ear monitors, Planar Driver]
 permalink: /products/en/trn-shell/
 ---
-
 ## Overview
 
 The TRN Shell is a hybrid in-ear monitor (IEM) developed by TRN Audio from China. It employs a 4-driver configuration combining three dynamic drivers (10.5mm, 8mm, 6mm) with a 6mm planar driver. The product offers an exceptional premium package for the 60 USD price range, featuring a liquid metal mirror-finish housing, three interchangeable tuning nozzles, and 13 sets of ear tips. With specifications of 16Ω impedance and 110dB sensitivity, it can be driven by a wide range of devices from smartphones to DAPs.

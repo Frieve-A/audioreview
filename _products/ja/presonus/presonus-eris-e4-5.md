@@ -8,10 +8,9 @@ ref: presonus-eris-e4-5
 date: 2025-07-20
 rating: [3.1, 0.4, 0.6, 0.9, 0.6, 0.6]
 summary: "PreSonus Eris E4.5は4.5インチウーファーを搭載したニアフィールドモニターです。70Hz-20kHzの限定的な周波数特性と歪み仕様の未公開により、重大な技術的制約があります。19,990円と手頃ですが、M-Audio BX5 D3などの同価格帯でより優れた性能の代替製品が存在するため、コストパフォーマンスは高くありません。"
-tags: [Studio Monitor, PreSonus, Near-field, Budget, Active Monitor]
+tags: [Active Monitor, Near-field, PreSonus, Studio Monitor, コストパフォーマンス]
 permalink: /products/ja/presonus-eris-e4-5/
 ---
-
 ## 概要
 
 PreSonus Eris E4.5は、同社のErisシリーズに属する4.5インチウーファーを搭載したアクティブニアフィールドモニターです。2ウェイバイアンプ設計を採用し、50Wのクラス AB パワーアンプを内蔵しています。周波数特性は70Hz-20kHzで、1インチシルクドームツイーターと4.5インチウーブンコンポジットウーファーを組み合わせ、2.8kHzでクロスオーバーします。エントリーレベルの価格帯でスタジオモニタリングを提供することを目的とした製品です。

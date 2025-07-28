@@ -8,10 +8,9 @@ ref: qcy-melobuds-pro
 date: 2025-07-15
 rating: [3.8, 0.7, 0.6, 1.0, 0.7, 0.8]
 summary: "QCY MeloBuds Proは、ハイブリッドANCとマルチポイント接続に対応し、優れたコストパフォーマンスを提供するが、音質バランスに課題があり、LDAC/AptXには非対応。"
-tags: [ワイヤレスイヤホン, ANC, Bluetooth 5.2, マルチポイント]
+tags: [Bluetooth 5.2, アクティブノイズキャンセリング, マルチポイント, ワイヤレスイヤホン]
 permalink: /products/ja/qcy-melobuds-pro/
 ---
-
 ## 概要
 
 QCY MeloBuds Proは、中国のオーディオメーカーQCYが2024年に発表したワイヤレスイヤホンです。46dBのハイブリッドアクティブノイズキャンセリング、LDAC対応、Hi-Res Audio認証を約38USDで実現し、VGP 2025ゴールド賞を受賞しました。12mmダイナミックドライバーとBluetooth 5.3を搭載し、最大34時間の再生時間とIPX5防水性能を備えています。QCYは近年技術力向上により注目されており、本製品も同社の技術的進歩を示す代表作となっています。

@@ -8,10 +8,9 @@ ref: kbear-kb02
 date: 2025-07-24
 rating: [2.5, 0.4, 0.6, 0.3, 0.6, 0.6]
 summary: "A 40 USD hybrid IEM featuring bone conduction drivers, but with limited technical advantages and significant cost-performance challenges compared to competitors like the 12 USD QKZ VK4."
-tags: [IEM, Hybrid, Bone Conduction, Chi-Fi, Budget]
+tags: [Bone Conduction, Budget, Chi-Fi, Hybrid, In-ear monitors]
 permalink: /products/en/kbear-kb02/
 ---
-
 ## Overview
 
 The KBear KB02 is a hybrid configuration IEM combining a 10mm beryllium-coated dynamic driver with a 10mm bone conduction driver. Developed by Chinese manufacturer KBear, established in 2014, this is an unusual product introducing bone conduction technology in the approximately 40 USD price range. The resin shell features a "sandy" texture finish and is available in three colors: Crystal Violet, Misty Blue, and Maple Brown. Under the philosophy of "Keep believing in your ears," the company continues developing cost-effective earphones, with the KB02 positioned within this product lineage.

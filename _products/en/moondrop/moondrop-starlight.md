@@ -8,10 +8,9 @@ ref: moondrop-starlight
 date: 2025-07-27
 rating: [3.1, 0.6, 0.7, 0.5, 0.6, 0.7]
 summary: "A Japan-exclusive IEM featuring a 10mm dynamic driver with Mg-Li alloy dome and DSP functionality, but cost-performance challenges emerge when compared to multi-driver configurations in the same price range"
-tags: [IEM, Moondrop, Dynamic Driver, DSP, Japan Exclusive]
+tags: [DSP, Dynamic Driver, In-ear monitors, Japan Exclusive, Moondrop]
 permalink: /products/en/moondrop-starlight/
 ---
-
 ## Overview
 
 The Moondrop Star Light is a Japan-exclusive in-ear monitor released in September 2024. It features a 10mm magnesium-lithium alloy dome diaphragm with a dual magnetic circuit design, achieving a maximum magnetic flux density of 1.18T. Its distinctive feature is its digital signal processing capability via a USB-C cable, allowing equalizer adjustments through the MOONDROP LINK app. The tuning is based on the VDSF (Virtual Diffuse Sound Field) target response, with a retail price of 27,000.

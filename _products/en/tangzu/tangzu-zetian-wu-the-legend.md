@@ -8,10 +8,9 @@ ref: tangzu-zetian-wu-the-legend
 date: 2025-07-27
 rating: [2.7, 0.2, 0.7, 0.9, 0.6, 0.3]
 summary: "High-end IEM with dual planar drivers, but with serious issues in measured performance"
-tags: [Planar, IEM, High-End, Dual-Driver]
+tags: [Dual-Driver, High-End, In-ear monitors, Planar]
 permalink: /products/en/tangzu-zetian-wu-the-legend/
 ---
-
 ## Overview
 
 The Tangzu Zetian Wu The Legend is a high-end IEM featuring a dual planar driver configuration with 14.2mm and 6mm planar drivers. Inspired by Chinese Empress Wu Zetian, it features a purple lotus design with an aluminum alloy shell crafted through 5-axis CNC machining. The product comes standard with a 5N LNOFC litz cable developed in collaboration with Flash Acoustics and supports a 4.4mm balanced connection. Priced at 259 USD, it sits in the high-end tier of the planar IEM market.

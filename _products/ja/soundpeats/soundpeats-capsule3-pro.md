@@ -8,10 +8,9 @@ ref: soundpeats-capsule3-pro
 date: 2025-07-15
 rating: [2.9, 0.6, 0.7, 1.0, 0.3, 0.3]
 summary: "SOUNDPEATS Capsule3 Proは1万円以下の価格帯でハイブリッドANCとLDAC対応を実現したワイヤレスイヤホン。優れたコストパフォーマンスを誇るが、周波数特性の問題と低いS/N比により音質面で課題がある。"
-tags: [ワイヤレスイヤホン, ANC, Bluetooth5.3, アクティブノイズキャンセリング, LDAC]
+tags: [Bluetooth5.3, LDAC, アクティブノイズキャンセリング, ワイヤレスイヤホン]
 permalink: /products/ja/soundpeats-capsule3-pro/
 ---
-
 ## 概要
 
 SOUNDPEATS Capsule3 Proは中国メーカーSOUNDPEATSが開発した低価格ANCワイヤレスイヤホンです。12mmバイオダイナミックドライバー、Bluetooth 5.3、LDAC対応、43dBハイブリッドアクティブノイズキャンセリング機能を搭載し、最大52時間の長時間再生を実現しています。日本市場では約8,490円で販売されており、予算重視のユーザーに向けた製品として位置づけられています。同社はコストパフォーマンスを重視した製品展開で注目を集めています。

@@ -8,10 +8,9 @@ ref: earfun-air-pro-3
 date: 2025-07-15
 rating: [2.5, 0.4, 0.6, 1.0, 0.3, 0.2]
 summary: "11mmウールコンポジットドライバーとQualcomm QCC3071チップセットを搭載した完全ワイヤレスイヤホン。ANC性能は43dB、バッテリー寿命は45時間を誇り、8,490円という価格設定は極めて高いコストパフォーマンスを示すが、測定データでは歪みが目立ち科学的有効性に課題がある。"
-tags: [ワイヤレスイヤホン, ANC, Bluetooth5.3, アクティブノイズキャンセリング, aptX Adaptive]
+tags: [Bluetooth5.3, aptX Adaptive, アクティブノイズキャンセリング, ワイヤレスイヤホン]
 permalink: /products/ja/earfun-air-pro-3/
 ---
-
 ## 概要
 
 EarFun Air Pro 3は、2023年にリリースされた完全ワイヤレスイヤホンです。11mmウールコンポジットドライバーとQualcomm QCC3071チップセットを搭載し、QuietSmart 2.0技術による最大43dBのノイズキャンセリング性能を誇ります。Bluetooth 5.3とaptX Adaptiveコーデックを採用し、VGP 2023 ゴールドアワードを受賞しました。IPX5の防水性能と45時間のバッテリー寿命を持ち、LE Audio技術への対応も特徴です。価格は8,490円で展開されています。

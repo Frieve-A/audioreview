@@ -8,10 +8,9 @@ ref: nicehck-nx7-mk4
 date: 2025-07-27
 rating: [2.3, 0.5, 0.6, 0.2, 0.5, 0.5]
 summary: "Features a 7-driver configuration, but performance is unknown due to a lack of objective measurement data. Better and cheaper alternatives exist."
-tags: [IEM, Hybrid, NiceHCK, Chinese Earphones, 7-Driver]
+tags: [7-Driver, Chinese Earphones, Hybrid, In-ear monitors, NiceHCK]
 permalink: /products/en/nicehck-nx7-mk4/
 ---
-
 ## Overview
 
 The NiceHCK NX7 MK4 is a hybrid in-ear monitor (IEM) featuring a total of seven drivers (4BA+2DD+1PZT). It is priced at 109 USD (approx. 16,500 JPY). The product includes three types of interchangeable tuning filters for sound adjustment. Its specified frequency range is 20-28kHz with an impedance of 39Ω. While its main feature is the high number of drivers, its acoustic superiority lacks objective data, making it a difficult product to evaluate.

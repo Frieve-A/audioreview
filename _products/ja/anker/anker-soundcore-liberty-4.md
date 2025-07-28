@@ -8,10 +8,9 @@ ref: anker-soundcore-liberty-4
 date: 2025-07-19
 rating: [3.3, 0.5, 0.5, 1.0, 0.7, 0.6]
 summary: "同価格帯競合と同等のコストパフォーマンスを持つ標準的なワイヤレスイヤホン"
-tags: [ワイヤレスイヤホン, Bluetooth, ANC, Anker, 完全ワイヤレス]
+tags: [Anker, Bluetooth, アクティブノイズキャンセリング, ワイヤレスイヤホン, 完全ワイヤレス]
 permalink: /products/ja/anker-soundcore-liberty-4/
 ---
-
 ## 概要
 
 Anker Soundcore Liberty 4は、Ankerが展開する完全ワイヤレスイヤホンの中核モデルです。9.2mmと6mmのデュアルダイナミックドライバーを搭載し、Bluetooth 5.3、LDAC対応、アクティブノイズキャンセリング機能を備えています。同社の技術力を活用したコストパフォーマンス重視の製品として市場に投入されており、一般消費者向けの機能充実型イヤホンとして設計されています。

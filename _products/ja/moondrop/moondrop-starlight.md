@@ -8,10 +8,9 @@ ref: moondrop-starlight
 date: 2025-07-27
 rating: [3.1, 0.6, 0.7, 0.5, 0.6, 0.7]
 summary: "日本限定モデルとして投入されたMg-Li合金ドーム採用の10mmダイナミックドライバーIEMで、DSP機能を搭載しているが、同価格帯の多ドライバー構成製品と比較してコストパフォーマンスに課題が見られる"
-tags: [IEM, Moondrop, ダイナミックドライバー, DSP, 日本限定]
+tags: [DSP, Moondrop, インイヤーモニター, ダイナミックドライバー, 日本限定]
 permalink: /products/ja/moondrop-starlight/
 ---
-
 ## 概要
 
 Moondrop Star Light（星光）は2024年9月に発売された日本限定モデルのインイヤーモニターです。10mmマグネシウム・リチウム合金ドーム振動板とデュアル磁気回路設計を採用し、最大1.18Tの磁束密度を実現しています。特徴的なのはUSB-Cケーブルによるデジタル信号処理機能で、MOONDROP LINKアプリを通じてイコライザー調整が可能です。VDSF（Virtual Diffuse Sound Field）ターゲットレスポンスに基づいたチューニングが施されており、価格は27,000で展開されています。

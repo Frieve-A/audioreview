@@ -8,10 +8,9 @@ ref: tanchjim-ola-bass
 date: 2025-07-24
 rating: [2.7, 0.6, 0.6, 0.5, 0.5, 0.5]
 summary: "Despite featuring a 10mm PEEK diaphragm in single DD IEM configuration, multiple lower-priced alternatives with equivalent performance exist, resulting in poor cost-performance"
-tags: [Tanchjim, IEM, Single Dynamic Driver, Bass Enhanced, Budget]
+tags: [Bass Enhanced, Budget, In-ear monitors, Single Dynamic Driver, Tanchjim]
 permalink: /products/en/tanchjim-ola-bass/
 ---
-
 ## Overview
 
 The Tanchjim Ola Bass is a bass-enhanced version of the company's popular Ola model released in 2022. It has been redesigned from the original DMT4 architecture driver to feature a 10mm PEEK composite diaphragm and titanium dome structure, aiming for richer bass expression. Tanchjim is a Chinese manufacturer established in 2015, particularly known for single dynamic driver technology. The market price is 42.99 USD (approximately 6,500 JPY), positioning it as standard within its price range for IEMs.

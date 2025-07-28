@@ -8,10 +8,9 @@ ref: earfun-air-pro-4
 date: 2025-07-25
 rating: [3.7, 0.7, 0.8, 1.0, 0.4, 0.8]
 summary: "Qualcomm QCC3091チップとaptX Lossless対応で高音質を実現しつつ、優れたコストパフォーマンスを誇るが、新興ブランドゆえの信頼性には留意が必要なワイヤレスイヤホン"
-tags: [ワイヤレスイヤホン, ANC, aptX Lossless, LDAC, Hi-Res Audio, Bluetooth5.4]
+tags: [Bluetooth5.4, Hi-Res Audio, LDAC, aptX Lossless, アクティブノイズキャンセリング, ワイヤレスイヤホン]
 permalink: /products/ja/earfun-air-pro-4/
 ---
-
 ## 概要
 
 EarFun Air Pro 4は、2024年に発売されたワイヤレスイヤホンで、Qualcomm QCC3091チップセットを搭載し、aptX LosslessやLDAC、Hi-Res Audioに対応した高音質モデルです。50dBのアダプティブハイブリッドANCやBluetooth 5.4、52時間の長時間再生など、上位機種並みの機能を9,990円という価格で提供しています。VGP 2024金賞を受賞し、日本市場でも高い評価を得ているモデルですが、新興ブランドゆえの信頼性への懸念も指摘されています。

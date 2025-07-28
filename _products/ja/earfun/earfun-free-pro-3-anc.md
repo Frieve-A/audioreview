@@ -8,10 +8,9 @@ ref: earfun-free-pro-3-anc
 date: 2025-07-24
 rating: [3.0, 0.6, 0.5, 0.7, 0.5, 0.7]
 summary: "79.99USDの価格帯で43dBのANC性能とaptX Adaptiveサポートを実現した完全ワイヤレスイヤホン。より安価なCMF Buds Proが多くの点で同等以上の性能を提供するため、コストパフォーマンスに課題がある。"
-tags: [True Wireless, ANC, Bluetooth 5.3, aptX Adaptive, Budget]
+tags: [Bluetooth 5.3, True Wireless, aptX Adaptive, アクティブノイズキャンセリング, コストパフォーマンス]
 permalink: /products/ja/earfun-free-pro-3-anc/
 ---
-
 ## 概要
 
 EarFun Free Pro 3 ANCは、79.99USDで販売される完全ワイヤレスイヤホンです。Qualcomm QCC3072 SoCとBluetooth 5.3を搭載し、QuietSmart 2.0 Hybrid ANC技術により最大43dBのノイズキャンセリング性能を実現します。7mm ウール複合ドライバーを採用し、aptX Adaptiveコーデックによるハイレゾ級音源対応を謳っています。6マイク（各イヤホンに3個ずつ）とQualcomm cVc 8.0により通話品質の向上を図り、IPX5防水規格に対応します。バッテリー寿命はANCオフ時最大7.5時間、ANCオン時最大6時間、ケース込みで最大33時間（ANCオフ）を実現しています。

@@ -8,10 +8,9 @@ ref: hifiman-Svanar wireless
 date: 2025-07-23
 rating: [2.2, 0.4, 0.7, 0.3, 0.6, 0.2]
 summary: "HIFIMAN独自のR2R DACを搭載した高級無線イヤホン。しかし、その技術的優位性は不明瞭であり、性能に対して499 USDという価格は著しく割高。"
-tags: [無線イヤホン, R2R DAC, LDAC, ANC, 高級機]
+tags: [LDAC, R2R DAC, アクティブノイズキャンセリング, 無線イヤホン, 高級機]
 permalink: /products/ja/hifiman-Svanar wireless/
 ---
-
 ## 概要
 
 HIFIMAN Svanar wirelessは、同社の有線イヤホンSvanarの名を冠し、独自のディスクリートR2R DAC「Himalaya」を搭載した無線イヤホンです。Topology DiaphragmドライバーやLDACコーデック対応を特徴とし、499 USDという高価格帯に位置付けられています。しかし、その中核技術であるR2R DACは、音源忠実度の観点からは多くの課題を抱えています。

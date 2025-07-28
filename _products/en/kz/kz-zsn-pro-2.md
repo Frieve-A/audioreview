@@ -8,10 +8,9 @@ ref: kz-zsn-pro-2
 date: 2025-07-25
 rating: [2.8, 0.3, 0.7, 1.0, 0.5, 0.3]
 summary: "As a hybrid driver IEM in the 19 USD price range, this product exhibits clear measurement performance issues and offers no cost-performance advantage over single-driver products in the same price category."
-tags: [IEM, Hybrid Driver, Balanced Armature, Dynamic Driver, Wired Earphones, KZ]
+tags: [Balanced Armature, Dynamic Driver, Hybrid Driver, In-ear monitors, KZ, Wired Earphones]
 permalink: /products/en/kz-zsn-pro-2/
 ---
-
 ## Overview
 
 The KZ ZSN Pro 2 is a 1BA+1DD hybrid driver configuration in-ear monitor released by Chinese audio manufacturer KZ in 2024. Priced at 19 USD (market price as of July 2025), this budget-oriented product features a 10mm ultra-linear dynamic driver and an improved 30095 balanced armature driver, with a newly designed electronic crossover circuit aimed at optimizing frequency response. The KZ brand has been known for cost-effective audio products since its establishment in 2008, and the ZSN Pro 2 continues this product philosophy.

@@ -8,10 +8,9 @@ ref: tangzu-zetian-wu-the-legend
 date: 2025-07-27
 rating: [2.7, 0.2, 0.7, 0.9, 0.6, 0.3]
 summary: "デュアルプラナードライバー搭載の高級IEMだが、測定性能に深刻な問題を抱える"
-tags: [Planar, IEM, High-End, Dual-Driver]
+tags: [Dual-Driver, High-End, Planar, インイヤーモニター]
 permalink: /products/ja/tangzu-zetian-wu-the-legend/
 ---
-
 ## 概要
 
 Tangzu Zetian Wu The Legendは、14.2mmプラナードライバーと6mmプラナードライバーを組み合わせたデュアルプラナー構成を採用する高級IEMです。中国の女帝「則天武后」をモチーフとした紫蓮華のデザインで、アルミニウム合金シェルと5軸CNC加工による精密な筐体設計が特徴です。Flash Acousticsとの共同開発による5N LNOFCリッツ線ケーブルを標準装備し、4.4mmバランス接続に対応しています。価格は259 USDとプラナーIEM市場では高価格帯に位置します。

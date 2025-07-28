@@ -8,10 +8,9 @@ ref: toa-es-0871
 date: 2025-07-24
 rating: [2.5, 0.5, 0.4, 0.8, 0.3, 0.5]
 summary: "The TOA ES-0871 is a 600W 2-way professional speaker, discontinued in 2021. Featuring a 38cm woofer and a CD horn with a 70-20,000Hz frequency response, it lacks modern measurement data and is based on a conventional design."
-tags: [TOA, Speaker, Professional, 2-way, Discontinued]
+tags: [2-way, Discontinued, Professional, Speakers, TOA]
 permalink: /products/en/toa-es-0871/
 ---
-
 ## Overview
 
 The TOA ES-0871 was a professional 2-way speaker system manufactured by TOA Corporation. It handled 600W of continuous program power and featured a 38cm cone woofer and a CD horn to achieve a frequency response of 70-20,000Hz. Its 90-degree wedge shape facilitated easy wall and ceiling mounting, making it suitable for both portable and permanent installations. Production ceased on January 20, 2021, and the speaker is now only available on the used market. TOA is a long-established Japanese audio equipment manufacturer with a solid reputation for public address systems in schools and public facilities.

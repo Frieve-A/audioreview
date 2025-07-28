@@ -8,10 +8,9 @@ ref: kz-pr3
 date: 2025-07-24
 rating: [2.5, 0.5, 0.6, 0.5, 0.5, 0.4]
 summary: "The KZ PR3 is a 49 USD earphone featuring a 13.2mm planar magnetic driver. It offers low distortion under 0.5% and high resolution, but generally exhibits an overly bright sound signature with superior alternatives available."
-tags: [Planar Magnetic, KZ, Earphone, Low Distortion, Bright Sound]
+tags: [Bright Sound, Earphones, KZ, Low Distortion, Planar Magnetic]
 permalink: /products/en/kz-pr3/
 ---
-
 ## Overview
 
 The KZ PR3 is an in-ear monitor developed by Knowledge Zenith (KZ) featuring a 13.2mm planar magnetic driver. Priced at 49 USD, it boasts specifications including 98dB sensitivity, 15Ω impedance, and a 20Hz-40kHz frequency range. It adopts electronic filter tuning, evolving from the physical damping approach of the previous PR2 model. Equipped with a lightweight alloy housing and a silver-plated detachable cable, it achieves low distortion characteristics under 0.5%, but the bright sound signature makes it a selective product for listeners.

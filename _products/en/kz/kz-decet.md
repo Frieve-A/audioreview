@@ -8,10 +8,9 @@ ref: kz-decet
 date: 2025-07-27
 rating: [2.4, 0.5, 0.6, 0.4, 0.3, 0.6]
 summary: "Features a 10-driver configuration (5 per side), but receives a limited evaluation due to a lack of independent measurement data and reliability concerns, leaving its performance unknown."
-tags: [KZ, Earphones, IEM, Multi-driver, Chinese IEM]
+tags: [Chinese IEM, Earphones, In-ear monitors, KZ, Multi-driver]
 permalink: /products/en/kz-decet/
 ---
-
 ## Overview
 
 The KZ DECET is an in-ear monitor developed by China's Knowledge Zenith (KZ), featuring a total of 10 drivers, with 5 on each side. Its configuration combines two 8mm dynamic drivers and three 6mm dynamic drivers, controlled by a 3-way crossover. Founded in 2008, KZ is a brand known for offering numerous multi-driver products at low prices, and the DECET follows this lineage. The housing is made of medical-grade resin and supports cable replacement via a gold-plated 2-pin connector.

@@ -8,10 +8,9 @@ ref: cvj-mermaid2
 date: 2025-07-28
 rating: [2.6, 0.6, 0.7, 0.2, 0.5, 0.6]
 summary: "Single dynamic driver IEM collaboration between CVJ and R2E3, featuring a beryllium-coated 10mm driver and bright tuning. Poor cost-performance with sibilance possibilities and design philosophy concerns."
-tags: [CVJ, IEM, Single DD, Beryllium, Mid-price]
+tags: [Beryllium, CVJ, In-ear monitors, Mid-price, Single DD]
 permalink: /products/en/cvj-mermaid2/
 ---
-
 ## Overview
 
 The CVJ Mermaid2 is a single dynamic driver in-ear monitor released in 2024 through a collaboration between CVJ and R2E3 Acoustics. It features a beryllium-coated 10mm driver with a dual magnet circuit achieving 1.5 Tesla magnetic flux density, housed in a CNC-machined aluminum alloy shell for a premium construction feel. Priced at 89 USD (approximately 13,200 JPY), it employs premium materials and manufacturing techniques. The acoustic characteristics show bright tuning with forward vocals, featuring atmospheric sub-bass and tight mid-bass punch.

@@ -8,10 +8,9 @@ ref: ibasso-jr-klee
 date: 2025-07-28
 rating: [3.1, 0.6, 0.7, 0.4, 0.7, 0.7]
 summary: "An IEM featuring stainless steel housing and 10mm dynamic driver with 1.6T magnet, but cost-performance is challenged by the existence of equivalent-function, lower-priced alternatives."
-tags: [IEM, Dynamic Driver, Entry Level, Stainless Steel]
+tags: [Dynamic Driver, Entry Level, In-ear monitors, Stainless Steel]
 permalink: /products/en/ibasso-jr-klee/
 ---
-
 ## Overview
 
 The iBasso Jr. KLEE is an entry-level in-ear monitor (IEM) released by Chinese manufacturer iBasso Audio in February 2025. It features a 10mm dual magnetic circuit dynamic driver with a lithium-magnesium alloy diaphragm and achieves a powerful magnetic flux density of 1.6 Tesla. The housing is constructed from stainless steel with a PVD mirror finish, and includes a silver-plated oxygen-free copper Litz structure cable. In the Japanese market, it is priced at 12,375 JPY, positioning it in the relatively high-price range for entry-level products.

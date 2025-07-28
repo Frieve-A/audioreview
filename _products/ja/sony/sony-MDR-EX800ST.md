@@ -8,10 +8,9 @@ ref: sony-MDR-EX800ST
 date: 2025-07-22
 rating: [2.9, 0.4, 0.6, 0.4, 0.5, 1.0]
 summary: "16mmダイナミックドライバーを搭載したプロ向けIEM。特定の業務用途に最適化された合理的な設計思想を持つが、意図的な高域カットと、より安価で高性能な代替品の存在により総合評価は限定的。"
-tags: [Sony, IEM, Professional, Monitor, Dynamic Driver]
+tags: [Dynamic Driver, Monitor, Sony, インイヤーモニター, プロフェッショナル]
 permalink: /products/ja/sony-MDR-EX800ST/
 ---
-
 ## 概要
 
 Sony MDR-EX800STは、Sony Musicとの共同開発により生まれたプロフェッショナル向けインイヤーモニター（IEM）です。16mmという大型のダイナミックドライバーを採用し、音楽制作現場での長時間使用を想定した設計となっています。3Hz-28kHzの広帯域再生を謳い、16Ωの低インピーダンス設計によりスマートフォンからの直接駆動も可能とされています。着脱式EXKコネクター採用により、プロユースでの耐久性向上も図られています。

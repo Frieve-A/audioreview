@@ -8,10 +8,9 @@ ref: ifi-audio-neo-idsd2
 date: 2025-07-21
 rating: [4.3, 0.9, 0.7, 1.0, 0.8, 0.9]
 summary: "aptX Losslessを世界初搭載したデスクトップDAC/ヘッドホンアンプ。比類なき高出力と先進のBluetooth機能を両立し、その独自の価値提案から優れたコストパフォーマンスを実現。"
-tags: [Desktop, DAC, ヘッドホンアンプ, Bluetooth, aptX Lossless, iFi Audio, High Power]
+tags: [Bluetooth, DAC, High Power, aptX Lossless, iFi Audio, デスクトップ, ヘッドホンアンプ]
 permalink: /products/ja/ifi-audio-neo-idsd2/
 ---
-
 ## 概要
 
 iFi Audio Neo iDSD2は、英国iFi Audioが開発したデスクトップ型DAC/ヘッドホンアンプです。世界初となるaptX Lossless対応を実現し、4チャンネルBurr Brown DACセットアップによる最大768kHzのPCMおよびDSD512対応、32Ω負荷で5,551mWという大出力を誇ります。初代Neo iDSDから大幅な性能向上を果たし、Bluetooth 5.4とワイヤード接続の両方で高音質再生を実現する多機能製品として位置付けられています。iFi Audioの技術的蓄積と英国の老舗オーディオメーカーとしての信頼性が込められた製品です。

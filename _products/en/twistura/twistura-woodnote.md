@@ -8,10 +8,9 @@ ref: twistura-woodnote
 date: 2025-07-28
 rating: [2.5, 0.7, 0.6, 0.1, 0.4, 0.7]
 summary: "An IEM with natural acoustic characteristics from wood composite diaphragm that faces harsh competitive pressure in cost-performance"
-tags: [IEM, Wood Diaphragm, Dual Magnetic, Tuning System]
+tags: [Dual Magnetic, In-ear monitors, Tuning System, Wood Diaphragm]
 permalink: /products/en/twistura-woodnote/
 ---
-
 ## Overview
 
 The Twistura WoodNote is positioned as the company's flagship model, featuring a 10mm dual magnetic dynamic driver in-ear monitor. Its distinctive feature is the wood composite diaphragm, formed from carefully selected natural wood fibers in a ball-top structure, aiming to achieve natural acoustic characteristics through inherent internal damping and rigidity. The product adopts a tuning system with three interchangeable nozzles (Standard, Vocal, Instrument), allowing acoustic adjustment according to user preferences. The 18Ω low impedance design enables sufficient driving from mobile devices, with an 8Hz-21kHz wide-band reproduction capability.

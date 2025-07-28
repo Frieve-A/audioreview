@@ -8,10 +8,9 @@ ref: ccz-mc04
 date: 2025-07-28
 rating: [3.6, 0.7, 0.7, 0.9, 0.6, 0.7]
 summary: "The CCZ MC04 is a 28USD budget hybrid IEM featuring a 1DD+1BA configuration that delivers warm V-shaped sound, but faces challenges in achieving transparency-level measurement performance."
-tags: [IEM, Hybrid, CCZ, Budget, In-Ear Monitor]
+tags: [Budget, CCZ, Hybrid, In-Ear Monitor, In-ear monitors]
 permalink: /products/en/ccz-mc04/
 ---
-
 ## Overview
 
 The CCZ MC04 Nocturne is a 28USD budget hybrid IEM (In-Ear Monitor) from Chinese audio brand CCZ. It features a combination of a 10mm composite diaphragm dynamic driver and custom balanced armature (1DD+1BA) configuration, delivering a warm V-shaped sound signature. The design incorporates a PC cavity with metallic faceplate and silver-plated OFC cable, targeting consumer gaming and music listening applications. CCZ positions itself as a relatively emerging audio brand, emphasizing sound tuning based on 20 years of engineering industry experience.

@@ -8,10 +8,9 @@ ref: bose-soundlink-mini-bluetooth-speaker
 date: 2025-07-24
 rating: [1.5, 0.3, 0.2, 0.3, 0.4, 0.3]
 summary: "2013年発売の初代Bluetoothスピーカー。防水機能なし、現代の競合製品と比較して著しく劣る測定性能とコストパフォーマンス"
-tags: [Bluetooth Speaker, Portable, Discontinued, Premium]
+tags: [Bluetooth Speaker, Discontinued, Premium, ポータブル]
 permalink: /products/ja/bose-soundlink-mini-bluetooth-speaker/
 ---
-
 ## 概要
 
 Bose SoundLink Mini Bluetooth Speakerは2013年6月に発売された初代ポータブルBluetoothスピーカーです。Boseブランドの象徴的な製品として一時代を築きましたが、現在は生産終了となっています。コンパクトなアルミニウム筐体に高品質ドライバーを搭載し、当時としては革新的な音質を実現しました。しかし発売から約12年が経過し、現代の技術基準や競合製品と比較すると、その優位性は大きく失われています。なお、2015年には改良版のSoundLink Mini IIが発売されていますが、本レビューは初代モデルを対象としています。

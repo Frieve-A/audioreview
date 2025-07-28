@@ -8,10 +8,9 @@ ref: trn-conch
 date: 2025-07-25
 rating: [3.4, 0.4, 0.7, 1.0, 0.5, 0.8]
 summary: "An entry-level single dynamic driver IEM featuring DLC diaphragm and multiple tuning filters. While its scientific validity is limited by a lack of detailed measurement data, it offers outstanding cost-performance due to its unique feature set at this price point."
-tags: [IEM, Entry-Level, Dynamic Driver, DLC Diaphragm, Chinese Earphones]
+tags: [Chinese Earphones, DLC Diaphragm, Dynamic Driver, Entry-Level, In-ear monitors]
 permalink: /products/en/trn-conch/
 ---
-
 ## Overview
 
 The TRN Conch is an entry-level in-ear monitor developed by Chinese audio manufacturer TRN. It features a 10mm dynamic driver with a DLC (Diamond-Like Carbon) coated diaphragm and incorporates three interchangeable tuning filters, achieving multifunctionality that exceeds expectations for its price range. The product also stands out with premium-level accessories including gold-plated 2-pin detachable cables and support for multiple plug standards (2.5mm, 3.5mm, 4.4mm).

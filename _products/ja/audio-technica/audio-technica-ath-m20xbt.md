@@ -8,10 +8,9 @@ ref: audio-technica-ath-m20xbt
 date: 2025-07-20
 rating: [3.0, 0.6, 0.4, 0.8, 0.6, 0.6]
 summary: "モニター系の音作りとワイヤレス機能を両立したエントリーモデル。基本性能は確保されているが、ANC非搭載など機能面で見劣りし、コストパフォーマンスで競合に劣る。"
-tags: [ヘッドホン, ワイヤレス, Bluetooth, モニター, Audio-Technica]
+tags: [Audio-Technica, Bluetooth, ヘッドフォン, モニター, ワイヤレス]
 permalink: /products/ja/audio-technica-ath-m20xbt/
 ---
-
 ## 概要
 
 Audio-Technica ATH-M20xBTは、同社の定評あるMシリーズモニターヘッドホンをワイヤレス化したエントリーモデルです。有線版ATH-M20xの音響特性を継承しつつ、Bluetooth 5.0接続と最大60時間の長時間バッテリーを搭載しています。プロフェッショナル用途からコンシューマー用途まで幅広く対応することを目指した製品で、SBC/AACコーデック対応、低遅延モード、有線接続との両用設計が特徴です。

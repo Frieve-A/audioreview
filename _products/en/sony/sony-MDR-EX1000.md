@@ -8,10 +8,9 @@ ref: sony-mdr-ex1000
 date: 2025-07-22
 rating: [2.1, 0.4, 0.8, 0.4, 0.3, 0.2]
 summary: "Premium earphones featuring 16mm drivers and liquid crystal polymer technology, but suffer from critical +6dB 5.5kHz peak causing audio quality issues and poor cost-performance"
-tags: [Earphones, IEM, Dynamic Driver, Premium]
+tags: [Dynamic Driver, Earphones, In-ear monitors, Premium]
 permalink: /products/en/sony-mdr-ex1000/
 ---
-
 ## Overview
 
 The Sony MDR-EX1000 is Sony's flagship in-ear monitor released in 2011. It gained attention as a premium model featuring a large 16mm dynamic driver, liquid crystal polymer (LCP) diaphragm, and magnesium housing. Currently discontinued, it trades in the used market for 11,500 to 28,130 yen depending on condition, with an average market price of approximately 18,800 yen. While it maintains certain support among audiophiles, it presents numerous problems from a scientific acoustic performance perspective.

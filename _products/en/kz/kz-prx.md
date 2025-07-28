@@ -8,10 +8,9 @@ ref: kz-prx
 date: 2025-07-27
 rating: [3.5, 0.8, 0.7, 0.5, 0.6, 0.9]
 summary: "The KZ PRX is a 4th generation IEM featuring a 13.2mm planar driver. While it offers an affordable entry into planar technology at around 6,000 JPY, it faces challenges in cost-performance based on pure measurements."
-tags: [Planar, IEM, KZ, Budget, High-Value]
+tags: [Budget, High-Value, In-ear monitors, KZ, Planar]
 permalink: /products/en/kz-prx/
 ---
-
 ## Overview
 
 The KZ PRX is a 4th generation planar magnetic in-ear monitor released by KZ Audio in late 2024. It features a 13.2mm silver-plated planar driver with 14 N52 double-sided magnets, representing significant improvements over the previous PR series. At 6,000 JPY, it delivers technical performance comparable to competing higher-priced products, establishing itself as a notable planar IEM. This product demonstrates KZ's technical maturity with technological improvements applied to their planar product lineup.

@@ -8,10 +8,9 @@ ref: tangzu-yuanxuanji
 date: 2025-07-27
 rating: [3.0, 0.6, 0.7, 0.5, 0.5, 0.7]
 summary: "トポロジー技術を採用した49米ドルのIEMながら、同価格帯の競合製品と比較してコストパフォーマンスに課題があり、透明レベルの音質達成には至らない"
-tags: [IEM, Dynamic Driver, Tangzu, Budget Audio, Chinese Audio]
+tags: [Budget Audio, Chinese Audio, Dynamic Driver, Tangzu, インイヤーモニター]
 permalink: /products/ja/tangzu-yuanxuanji/
 ---
-
 ## 概要
 
 Tangzu Yuanxuanjiは、中国のオーディオブランドTangzuが2024年にリリースした49米ドルの単一ダイナミックドライバーIEMです。TPLX（トポロジー）技術を採用した10mmドライバーを搭載し、ナノパーティクルコーティングによる振動板パターンで音質向上を図っています。亜鉛合金筐体とOFCシルバーメッキケーブルを採用し、3.5mm、4.4mm、Type-Cの3つの端子オプションを提供します。Tangzuは2021年創設の比較的新しいブランドながら、HiFi音質への真摯なアプローチを示しています。
