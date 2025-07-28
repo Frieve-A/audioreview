@@ -8,10 +8,9 @@ ref: krk-v4
 date: 2025-07-23
 rating: [2.6, 0.6, 0.5, 0.2, 0.6, 0.7]
 summary: "The KRK V4 is a studio monitor with standard performance, but receives limited evaluation from scientific and technical perspectives due to the existence of more affordable alternatives."
-tags: [KRK, Studio Monitor, 4inch, Active Speaker]
+tags: [4inch, Active speakers, KRK, Studio monitors]
 permalink: /products/en/krk-v4/
 ---
-
 ## Overview
 
 The KRK V4 is a 4-inch active studio monitor developed by KRK Systems, a company with over 30 years of experience in acoustic engineering. Since its founding in 1986, the company has continued product development based on Keith Klawitter's design philosophy, leveraging field experience from film sound engineers. The V4 features a bi-amped configuration with 85W Class-D amplification, equipped with a 4-inch Kevlar woofer and 1-inch Kevlar dome tweeter, achieving a frequency response of 58Hz-19kHz (±3dB). With a maximum output capability of 110dB SPL and 49 DSP EQ settings, it is positioned as a product that addresses diverse acoustic environments despite its compact size.

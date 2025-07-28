@@ -8,10 +8,9 @@ ref: fostex-pm0-3
 date: 2025-07-20
 rating: [2.3, 0.4, 0.3, 0.6, 0.6, 0.4]
 summary: "A decent compact desktop monitor, but its limited bass response and the existence of superior, more affordable competitors are significant drawbacks."
-tags: [Monitor Speaker, Desktop Speaker, Fostex, Active Speaker, Small Monitor]
+tags: [Active speakers, Desktop Speaker, Fostex, Monitor Speaker, Small Monitor]
 permalink: /products/en/fostex-pm0-3/
 ---
-
 ## Overview
 
 The Fostex PM0.3 is a compact desktop monitor speaker featuring a 3-inch woofer and a 3/4-inch tweeter. It houses a built-in 15W + 15W Class-D amplifier and has a nominal frequency response of 110Hz-20kHz (±3dB). As a personal active speaker system from the long-established Japanese audio manufacturer Fostex, it is designed for music production and listening in a desktop environment.

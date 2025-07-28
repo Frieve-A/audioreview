@@ -8,10 +8,9 @@ ref: bose-quietcomfort-earbuds-2024
 date: 2025-07-26
 rating: [2.7, 0.6, 0.7, 0.4, 0.4, 0.6]
 summary: "True wireless earbuds offering excellent ANC and long battery life, but marked by compromises in sound quality and reported connectivity issues, facing challenges in price competitiveness."
-tags: [True Wireless Earbuds, Active Noise Cancellation, Bluetooth]
+tags: [Active Noise Cancellation, Bluetooth, True wireless earbuds]
 permalink: /products/en/bose-quietcomfort-earbuds-2024/
 ---
-
 ## Overview
 
 The Bose QuietComfort Earbuds (2024) are true wireless earbuds released on October 10, 2024. Priced at 26,400 JPY (approx. 179 USD), they are positioned as a more affordable option within Bose's earbud lineup. They feature Bluetooth 5.3 connectivity, an IPX4 water resistance rating, and an extended battery life of 8.5 hours on a single charge, with up to 31.5 hours total with the case. The earbuds also incorporate Bose's signature Active Noise Cancellation technology.

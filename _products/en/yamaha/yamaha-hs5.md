@@ -8,10 +8,9 @@ ref: yamaha-hs5
 date: 2025-07-08
 rating: [3.7, 0.8, 0.6, 0.9, 0.8, 0.6]
 summary: "Yamaha's nearfield monitor featuring the iconic white woofer that has served as an industry standard for decades. While offering 70W of adequate power and a wide frequency response of 54Hz-30kHz, measurement data reveals THD increases in the low frequencies and persistent background noise. With a unit price of 199.99 USD against the PreSonus Eris E5 at 149 USD providing equivalent measured performance, the cost-performance evaluation is favorable."
-tags: [Yamaha, Studio Monitor, HS5, 5-inch, Bi-amp]
+tags: [5-inch, Bi-amp, HS5, Studio monitors, Yamaha]
 permalink: /products/en/yamaha-hs5/
 ---
-
 ## Overview
 
 The YAMAHA HS5 is a 5-inch nearfield studio monitor featuring the iconic white woofer that has served as an industry standard since the 1970s. With a 70W bi-amplified configuration (45W LF + 25W HF) and a wide frequency response of 54Hz-30kHz, it employs a 2-way bass-reflex design. Inheriting Yamaha's traditional design philosophy aimed at accurate reference monitoring for professional and home studio applications, it claims to deliver "flat" characteristics that honestly convey problematic aspects of musical content to music creators.

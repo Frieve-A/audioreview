@@ -8,10 +8,9 @@ ref: ascend-acoustics-elx-tower
 date: 2025-07-28
 rating: [4.5, 0.8, 0.9, 1.0, 0.9, 0.9]
 summary: "An advanced 3-way tower optimized with Klippel NFS, delivering exceptional measured performance at a class-disrupting price point."
-tags: [Floor-standing Speaker, 3-way, Tower, High-end]
+tags: [3-way, Floorstanding speakers, High-end, Tower]
 permalink: /products/en/ascend-acoustics-elx-tower/
 ---
-
 ## Overview
 
 The Ascend Acoustics ELX TOWER is the company's flagship floor-standing speaker released in 2022 after over 10 years of development. Utilizing industry-leading Klippel NFS (Near Field Scanner) for design optimization, it is positioned as a "true endgame speaker" aimed at competing with speakers across all price ranges. The speaker features a 3-way, 4-driver configuration with a unique 3-layer bamboo cabinet, custom Titan dome tweeter, and dedicated sealed midrange enclosure.

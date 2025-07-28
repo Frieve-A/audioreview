@@ -8,10 +8,9 @@ ref: krk-v8
 date: 2025-07-23
 rating: [2.9, 0.7, 0.6, 0.4, 0.8, 0.4]
 summary: "The KRK V8 Series 4 is an 8-inch studio monitor with 29-24kHz response, but its 839 USD price per unit results in poor cost-performance compared to competing products with similar features."
-tags: [Studio Monitor, KRK, 8-inch, Active Monitor]
+tags: [8-inch, Active Monitor, KRK, Studio monitors]
 permalink: /products/en/krk-v8/
 ---
-
 ## Overview
 
 The KRK V8 Series 4 is an 8-inch active studio monitor developed by the veteran studio monitor manufacturer KRK. Founded in the mid-1980s by Keith R. Klawitter, KRK has been manufacturing professional monitors for over 35 years and is used in studios worldwide. The V8 Series 4 represents the latest generation of the company's V series, positioned as a product aimed at flatter acoustic characteristics than the ROKIT series. It features an 8-inch Kevlar woofer and a 1-inch Kevlar dome tweeter, employing a 230W Class-D bi-amp configuration (200W+30W).

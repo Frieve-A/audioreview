@@ -8,10 +8,9 @@ ref: tannoy-gold-5
 date: 2025-07-21
 rating: [2.4, 0.4, 0.4, 0.6, 0.7, 0.3]
 summary: "The Tannoy Gold 5 is a 5-inch dual concentric studio monitor. While based on a rational concept, its actual measured performance has significant issues, making it inferior to major competing products."
-tags: [Studio Monitor, Active Speaker, Tannoy, Near-field Monitor]
+tags: [Active speakers, Near-field Monitor, Studio monitors, Tannoy]
 permalink: /products/en/tannoy-gold-5/
 ---
-
 ## Overview
 
 The Tannoy Gold 5 is a nearfield studio monitor featuring a 5-inch dual concentric driver with a 200W bi-amp configuration. It employs the company's traditional coaxial design, placing a 0.75-inch titanium tweeter at the center of the 5-inch woofer, combined with a Tulip Waveguide. Developed for music production, broadcast, and post-production applications, its actual measured performance shows several significant flaws.

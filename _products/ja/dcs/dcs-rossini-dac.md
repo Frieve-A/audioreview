@@ -8,10 +8,9 @@ ref: dcs-rossini-dac
 date: 2025-07-25
 rating: [2.5, 0.9, 0.6, 0.0, 0.8, 0.2]
 summary: "独自のRing DAC技術を搭載した超高級DAC。測定性能は優秀ですが、最新の汎用チップがより優れた性能を1/25以下の価格で実現しているため、コストパフォーマンスと設計の合理性は極めて低いと評価されます。"
-tags: [DAC, dCS, High-End, Digital, Converter]
+tags: [Converter, DAC, Digital, dCS, ハイエンド]
 permalink: /products/ja/dcs-rossini-dac/
 ---
-
 ## 概要
 
 dCS Rossini APEX DACは、英国の高級オーディオメーカーdCSが開発したフラッグシップクラスのデジタル・アナログ・コンバーターです。30年以上にわたり開発されてきた独自のRing DAC APEX技術を搭載し、2022年にアップグレードが施されました。DSD、PCM、MQAなど幅広いフォーマットに対応し、ネットワークストリーミング機能も内蔵しています。実勢価格は約528万円と、DAC市場において最高価格帯に位置する製品です。

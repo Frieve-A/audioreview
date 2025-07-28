@@ -8,10 +8,9 @@ ref: anker-soundcore-liberty-4-pro
 date: 2025-07-19
 rating: [3.8, 0.7, 0.6, 1.0, 0.8, 0.7]
 summary: "True wireless earbuds featuring dual drivers, LDAC, and high-performance ANC, boasting outstanding cost-performance for its feature set."
-tags: [True Wireless Earbuds, ANC, LDAC, Bluetooth, Active Noise Cancelling]
+tags: [ANC, Active Noise Cancelling, Bluetooth, LDAC, True wireless earbuds]
 permalink: /products/en/anker-soundcore-liberty-4-pro/
 ---
-
 ## Overview
 
 The Anker Soundcore Liberty 4 Pro is a true wireless earbuds model released in October 2024. It features seven sensors (six sound sensors and one atmospheric pressure sensor) to achieve up to 30dB of active noise canceling performance. Equipped with ACCA 3.0 technology combining 10.5mm drivers and titanium-coated tweeters, LDAC support for high-resolution audio playback, and IPX5 water resistance, it is priced at 129.99 USD (approximately 19,300 JPY). It is positioned as a premium model in Anker's audio product lineup.

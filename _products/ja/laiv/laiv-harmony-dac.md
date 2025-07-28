@@ -8,10 +8,9 @@ ref: laiv-harmony-dac
 date: 2025-07-24
 rating: [2.0, 0.6, 0.6, 0.1, 0.4, 0.3]
 summary: "Intel FPGA搭載のR2R DAC。しかし測定性能は凡庸で、コストパフォーマンスに致命的な問題を抱える。"
-tags: [DAC, R2R, FPGA, High-End, Laiv]
+tags: [DAC, FPGA, Laiv, R2R, ハイエンド]
 permalink: /products/ja/laiv-harmony-dac/
 ---
-
 ## 概要
 
 Laiv Harmony DACは、2023年にシンガポールで設立されたLaiv社の主力製品です。Intel Altera Cyclone FPGAと独自設計のR2Rラダーモジュールを搭載し、価格は2,700 USDです。ソリッドアルミニウム削り出しシャーシやAudio Note Kaisei電解コンデンサなど、高級部品を採用している点を特徴としています。

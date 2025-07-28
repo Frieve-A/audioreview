@@ -8,10 +8,9 @@ ref: dcs-rossini-transport
 date: 2025-07-25
 rating: [2.2, 0.8, 0.6, 0.1, 0.6, 0.1]
 summary: "英国dCSの高級CD/SACDトランスポート。測定性能は優秀だが、機能的に同等な製品と比較して著しく高価であり、その存在意義は限定的。"
-tags: [CD Transport, SACD, Digital Audio, High-End, dCS]
+tags: [CD Transport, Digital Audio, SACD, dCS, ハイエンド]
 permalink: /products/ja/dcs-rossini-transport/
 ---
-
 ## 概要
 
 dCS Rossini Transportは、英国の高級オーディオメーカーdCSが開発したCD/SACDトランスポートです。価格は23,500米ドルという超高級機で、同社のデジタル処理プラットフォームを搭載しています。デュアルレーザーCD/SACD機構を採用し、CDデータを最大DSD128やDXD（24bit/352.8kHz）へアップサンプリングする機能を持ちます。筐体は444×178×437mmで重量20.6kg、シルバーまたはブラック仕上げで提供されます。同社Vivaldiシリーズで開発された単一FPGAベースのデジタル処理技術により、高精度なジッター低減と信号処理を実現しているとされます。

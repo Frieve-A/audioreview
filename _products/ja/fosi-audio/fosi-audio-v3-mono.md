@@ -8,10 +8,9 @@ ref: fosi-audio-v3-mono
 date: 2025-07-23
 rating: [3.3, 0.8, 0.7, 0.5, 0.6, 0.7]
 summary: "TPA3255とPFFB技術を採用したClass Dモノブロックアンプ。透明レベルの測定性能を持つが、グローバル市場でのコスト評価は厳しい。"
-tags: [モノブロックアンプ, Class D, TPA3255, PFFB, パワーアンプ]
+tags: [PFFB, TPA3255, クラスD, パワーアンプ, モノブロックアンプ]
 permalink: /products/ja/fosi-audio-v3-mono/
 ---
-
 ## 概要
 
 Fosi Audio V3 Monoは、Texas InstrumentsのTPA3255チップを搭載したClass Dモノブロックパワーアンプです。2024年に発売された本製品は、同社初のPFFB（Post-Filter Feedback）技術を採用し、従来のClass Dアンプの負荷依存性問題を解決することを目指しています。4Ω負荷時240W、8Ω負荷時120Wの出力を持ち、日本製ニチコンフィルターコンデンサやドイツ製WIMAコンデンサなど高品質部品を4層PCB上に実装することで、THD 0.006%という優秀な測定性能を達成しています。

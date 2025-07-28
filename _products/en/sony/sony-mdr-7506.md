@@ -8,10 +8,9 @@ ref: sony-mdr-7506
 date: 2025-07-23
 rating: [2.7, 0.3, 0.4, 1.0, 0.8, 0.2]
 summary: "An industry standard for many years, but its measurement performance is problematic by modern standards. Its cost-competitiveness is lost as superior competitors are available in the same price range."
-tags: [Headphones, Studio Monitor, Closed-back, Professional]
+tags: [Closed-back, Headphones, Professional, Studio monitors]
 permalink: /products/en/sony-mdr-7506/
 ---
-
 ## Overview
 
 The Sony MDR-7506 is a closed-back studio headphone that has been widely used as an industry standard since its release in 1991. It features 40mm drivers with neodymium magnets and claims a frequency response of 10Hz-20kHz. The lightweight 227g foldable design includes a protective pouch. For over 30 years, it has been continuously used in broadcasting stations, recording studios, and audio production facilities, with unmatched market penetration and recognition in the industry.

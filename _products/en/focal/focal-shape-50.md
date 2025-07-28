@@ -8,10 +8,9 @@ ref: focal-shape-50
 date: 2025-07-21
 rating: [2.2, 0.4, 0.6, 0.2, 0.5, 0.5]
 summary: "The Focal Shape 50 is a 5-inch studio monitor featuring proprietary technologies, but faces harsh evaluation in terms of measurement performance and cost-performance."
-tags: [Studio Monitor, Active, France]
+tags: [Active, France, Studio monitors]
 permalink: /products/en/focal-shape-50/
 ---
-
 ## Overview
 
 The Focal Shape 50 is a 5-inch active nearfield studio monitor developed by Focal, a venerable French speaker manufacturer. It is positioned as a product aimed at studio-grade sound quality, incorporating proprietary technologies such as TMD (Tuned Mass Damper) surround technology, N.I.C. (Neutral Inductance Circuit) technology, and Flax sandwich cone construction. It features a built-in Class-AB amplifier with 85W total output (60W woofer + 25W tweeter), boasting a frequency response of 50Hz-35kHz (±3dB) and maximum output of 106dB SPL.

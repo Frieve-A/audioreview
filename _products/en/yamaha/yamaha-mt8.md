@@ -8,10 +8,9 @@ ref: yamaha-mt8
 date: 2025-07-14
 rating: [3.0, 0.6, 0.6, 0.5, 0.7, 0.6]
 summary: "The Yamaha HPH-MT8 is the company's flagship studio monitor headphones, but faces cost-performance challenges compared to competing products with equivalent or superior functionality. While measurement performance falls within standard ranges, no notable technical advantages are evident."
-tags: [Headphones, Studio Monitor, Pro Audio, Closed-Back, Yamaha]
+tags: [Closed-Back, Headphones, Pro Audio, Studio monitors, Yamaha]
 permalink: /products/en/yamaha-mt8/
 ---
-
 ## Overview
 
 The Yamaha HPH-MT8 is the flagship model studio monitor headphones in the company's MT series. It features a 45mm CCAW voice coil driver with a wide frequency response range of 15Hz-28kHz in a closed-back design. With an impedance of 37Ω, it is designed for professional recording and mixing work. The headphones adopt a durable ABS resin housing and 3-dimensional arm structure for fatigue reduction.

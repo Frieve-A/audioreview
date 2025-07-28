@@ -8,10 +8,9 @@ ref: klipsch-rp-600m-ii
 date: 2025-07-09
 rating: [2.2, 0.4, 0.6, 0.3, 0.6, 0.3]
 summary: "The Klipsch RP-600M II is a 2-way bookshelf speaker featuring a 6.5-inch woofer and 1-inch horn tweeter with improved acoustic performance over the previous model, though evaluation is limited by design philosophy rationality and certain technical constraints."
-tags: [Bookshelf Speaker, 2-Way, Horn Tweeter, 6.5 Inch Woofer, High Sensitivity]
+tags: [2-Way, 6.5 Inch Woofer, Bookshelf speakers, High Sensitivity, Horn Tweeter]
 permalink: /products/en/klipsch-rp-600m-ii/
 ---
-
 ## Overview
 
 The Klipsch RP-600M II is a 2-way bookshelf speaker released in 2022 as part of the second-generation Reference Premiere series, featuring an enlarged 6.75-inch square conical-tractrix high-frequency horn (18% enlargement from the previous 5.75-inch square) and a 6.5-inch Cerametallic woofer with 70% larger voice coil, incorporating distortion reduction design through Faraday rings and aluminum shorting rings. Offered at 649 USD (pair), it represents an improved product addressing the acoustic challenges of the previous model.

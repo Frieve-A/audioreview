@@ -8,7 +8,7 @@ ref: ccz-mc04
 date: 2025-07-28
 rating: [3.6, 0.7, 0.7, 0.9, 0.6, 0.7]
 summary: "The CCZ MC04 is a 28USD budget hybrid IEM featuring a 1DD+1BA configuration that delivers warm V-shaped sound, but faces challenges in achieving transparency-level measurement performance."
-tags: [Budget, CCZ, Hybrid, In-Ear Monitor, In-ear monitors]
+tags: [Budget, CCZ, Hybrid, In-ear monitors]
 permalink: /products/en/ccz-mc04/
 ---
 ## Overview

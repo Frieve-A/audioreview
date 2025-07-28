@@ -8,10 +8,9 @@ ref: adam-audio-d3v
 date: 2025-07-14
 rating: [4.1, 0.7, 0.8, 1.0, 0.8, 0.8]
 summary: "The Adam Audio D3V is a desktop monitor featuring D-ART ribbon tweeters. It boasts an excellent technical design and offers outstanding, best-in-class cost-performance compared to alternatives with similar features."
-tags: [Desktop Monitor, Active Speaker, Adam Audio, D-ART Tweeter, DSP]
+tags: [Active speakers, Adam Audio, D-ART Tweeter, DSP, Desktop Monitor]
 permalink: /products/en/adam-audio-d3v/
 ---
-
 ## Overview
 
 The Adam Audio D3V is a compact desktop active monitor released in 2024 by Adam Audio, a veteran German speaker manufacturer. It incorporates the company's distinctive D-ART (Desktop Accelerated Ribbon Technology) ribbon tweeter into a 3.5-inch compact enclosure, featuring a total output of 240W and DSP-based room correction functionality. Direct connection to computers is possible via USB-C, achieving a frequency response of 45Hz-23.2kHz (-6dB). With a maximum SPL of 97dB, this product aims to bring professional quality to desktop environments, responding to the growing demand for remote work and content creation.

@@ -8,10 +8,9 @@ ref: electro-voice-ev-tour-x-tx1152
 date: 2025-07-26
 rating: [2.5, 0.5, 0.6, 0.3, 0.7, 0.4]
 summary: "A 15-inch professional passive speaker with significant cost-performance issues due to the availability of numerous low-cost powered speakers offering equivalent functionality."
-tags: [Professional Audio, Passive Speaker, PA System, Live Sound, Sound Reinforcement]
+tags: [Live Sound, PA System, Passive speakers, Professional Audio, Sound Reinforcement]
 permalink: /products/en/electro-voice-ev-tour-x-tx1152/
 ---
-
 ## Overview
 
 The Electro-Voice Tour X TX1152 is a 15-inch 2-way passive speaker designed for professional audio applications. It incorporates technology developed from concert touring, featuring an SMX2151 15-inch woofer and a DH3 1.25-inch titanium compression driver. It has a power handling rating of 500W (continuous) and 2000W (peak), with directional control provided by a 60-degree × 40-degree constant directivity horn.

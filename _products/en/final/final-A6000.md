@@ -8,10 +8,9 @@ ref: final-A6000
 date: 2025-07-26
 rating: [2.9, 0.7, 0.8, 0.3, 0.6, 0.5]
 summary: "The A6000 is technically excellent but offers poor cost-performance, as equivalent or better sound quality can be achieved with the Moondrop Aria 2 (14,450 JPY) for a fraction of the A6000's 54,442 JPY price."
-tags: [Earphones, In-Ear Monitor, Dynamic Driver, final]
+tags: [Dynamic Driver, Earphones, In-ear monitors, final]
 permalink: /products/en/final-A6000/
 ---
-
 ## Overview
 
 The final A6000 is an in-ear monitor featuring the company's latest 6mm "f-Core DU" dynamic driver. Released in 2024, it showcases precision engineering utilizing Japanese acoustic technology. The design incorporates a stainless steel frame and high-density non-magnetic brass front chamber, with a voice coil using 30μm CCAW wire and other engineering considerations throughout. The low impedance design of 18Ω makes it easily drivable by smartphones.

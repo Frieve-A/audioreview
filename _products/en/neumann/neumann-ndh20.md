@@ -8,10 +8,9 @@ ref: neumann-ndh20
 date: 2025-07-24
 rating: [2.6, 0.6, 0.8, 0.2, 0.5, 0.5]
 summary: "A closed-back studio headphone bearing the Neumann brand, but difficult to consider a modern choice from measurement performance and price perspectives."
-tags: [Headphones, Studio Monitor, Closed-back, German]
+tags: [Closed-back, German, Headphones, Studio monitors]
 permalink: /products/en/neumann-ndh20/
 ---
-
 ## Overview
 
 The Neumann NDH20 is a closed-back studio headphone from Neumann, the renowned German microphone manufacturer. It incorporates acoustic technologies from the company's microphone manufacturing experience, featuring a 38mm dynamic driver with a Duofol diaphragm. With a 150Ω impedance, it is positioned for studio monitoring applications. While the product reflects the brand's history and traditional approach to audio equipment, an objective evaluation using modern measurement is crucial.

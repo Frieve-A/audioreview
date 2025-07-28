@@ -8,10 +8,9 @@ ref: electro-voice-tx1152
 date: 2025-07-25
 rating: [3.2, 0.6, 0.7, 0.6, 0.7, 0.6]
 summary: "A 15-inch 2-way passive speaker with standard performance characteristics, but moderate cost-performance evaluation when compared to competing products"
-tags: [PA Equipment, Passive Speaker, 15-inch, 2-way, Live Sound]
+tags: [15-inch, 2-way, Live Sound, PA Equipment, Passive speakers]
 permalink: /products/en/electro-voice-tx1152/
 ---
-
 ## Overview
 
 The Electro-Voice TX1152 is a 15-inch 2-way passive speaker manufactured by Electro-Voice, a company with a long-established track record in the professional audio field. This product, part of the Tour-X series, is designed primarily for live sound reinforcement applications, supporting 500W continuous, 1000W program, and 2000W peak output. It features an SMX2151 low-frequency driver and DH3 titanium high-frequency driver, with 60° × 40° directivity characteristics, positioning it as a practical PA speaker. As a product from a brand that has established its position in the American professional audio industry, it can be expected to maintain a certain level of quality standards.

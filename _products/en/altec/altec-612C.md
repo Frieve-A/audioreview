@@ -8,10 +8,9 @@ ref: altec-612C
 date: 2025-07-26
 rating: [1.5, 0.2, 0.3, 0.2, 0.3, 0.5]
 summary: "While possessing historical value as a 1970s vintage studio monitor, it falls far short of modern transparency standards in measured performance and exhibits poor cost-performance compared to contemporary products with equivalent functionality."
-tags: [Vintage Speakers, Studio Monitor, Coaxial, Passive Speaker]
+tags: [Coaxial, Passive speakers, Studio monitors, Vintage Speakers]
 permalink: /products/en/altec-612C/
 ---
-
 ## Overview
 
 The Altec 612C is a studio monitor speaker manufactured from the 1970s to 1980s. It features a 15-inch (38cm) 604 series coaxial driver (either 604-8G, 604-8H, or 604-8KS) mounted in a bass reflex cabinet and was widely used in recording studios of its era. The 612 series, originating from Jim Lansing's iconic cabinet design, was recognized as a studio standard for decades. The coaxial design philosophy aimed at improving phase characteristics between high and low frequencies was considered advanced for its time.

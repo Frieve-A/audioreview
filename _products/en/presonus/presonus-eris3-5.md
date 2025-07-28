@@ -8,10 +8,9 @@ ref: presonus-eris3-5
 date: 2025-07-20
 rating: [2.7, 0.5, 0.6, 0.6, 0.5, 0.5]
 summary: "The PreSonus Eris3-5 is a compact 3.5-inch studio monitor that shows inferior performance compared to competing products in scientific measurement standards."
-tags: [Studio Monitor, 3.5-inch, Powered Speaker, PreSonus]
+tags: [3.5-inch, Powered Speaker, PreSonus, Studio monitors]
 permalink: /products/en/presonus-eris3-5/
 ---
-
 ## Overview
 
 The PreSonus Eris3-5 is the smallest model in the company's entry-level studio monitor series. It features a 3.5-inch Kevlar woofer and 1-inch silk dome tweeter, powered by a built-in 25W RMS Class AB amplifier. With its compact design intended for desktop use, it claims a frequency response of 80Hz-20kHz. Positioned as an entry-level monitor in the budget price range, it is designed for home studios and small-scale production environments.

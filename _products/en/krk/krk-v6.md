@@ -8,10 +8,9 @@ ref: krk-v6
 date: 2025-07-23
 rating: [2.4, 0.5, 0.6, 0.2, 0.6, 0.5]
 summary: "The KRK V6 S4 features extensive EQ settings, but its price of over 1,200 USD per pair does not align with its basic measurement performance, making it a product with extremely poor cost-performance."
-tags: [Studio Monitor, KRK, Kevlar Driver, Active Speaker]
+tags: [Active speakers, KRK, Kevlar Driver, Studio monitors]
 permalink: /products/en/krk-v6/
 ---
-
 ## Overview
 
 The KRK V6 S4 is a 2-way active studio monitor equipped with a 1-inch Kevlar tweeter and a 6.5-inch Kevlar woofer. It achieves a maximum SPL of 115dB through a 155W bi-amped configuration and features an extensive 49 EQ setting options. KRK is known as an established manufacturer with over 30 years of experience in studio monitor development, and the V6 S4 is positioned as a mid-range model in their V-Series 4th generation lineup. The frequency response is specified at 49Hz-19kHz (-3dB) and 40Hz-24kHz (-10dB), designed for professional applications.

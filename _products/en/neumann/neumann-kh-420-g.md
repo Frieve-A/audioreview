@@ -8,10 +8,9 @@ ref: neumann-kh-420-g
 date: 2025-07-28
 rating: [4.1, 0.7, 0.7, 1.0, 0.8, 0.9]
 summary: "Professional 3-way midfield monitor with excellent measurement performance and scientific design approach. Offers the best cost-performance among competing products with equivalent functionality, though does not achieve world-class transparent levels."
-tags: [Studio Monitor, Active Speaker, Midfield, 3-way, Professional]
+tags: [3-way, Active speakers, Midfield, Professional, Studio monitors]
 permalink: /products/en/neumann-kh-420-g/
 ---
-
 ## Overview
 
 The Neumann KH-420-G is a 3-way tri-amplified active midfield studio monitor featuring a 26Hz-22kHz frequency response and 122.4dB SPL maximum sound pressure level. It incorporates a newly designed 250mm long-stroke bass driver, 75mm midrange dome, and 25mm tweeter, driven by Class AB amplifiers with a total peak output of 610W (RMS: 295W for bass, 130W for midrange, and 130W for tweeter). Compared to the previous O410 model, it shows approximately 5dB improvement in harmonic distortion in midrange and bass frequencies, and 5-10dB improvement in intermodulation distortion in the midrange. Utilizing Mathematically Modeled Dispersion (MMD) waveguide technology and a computer-modeled chassis using LRIM materials, it eliminates standing wave resonances and suppresses intermodulation distortion.

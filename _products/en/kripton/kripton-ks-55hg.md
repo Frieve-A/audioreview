@@ -8,10 +8,9 @@ ref: kripton-ks-55hg
 date: 2025-07-27
 rating: [2.6, 0.5, 0.6, 0.3, 0.6, 0.6]
 summary: "A wireless speaker claiming to be the world's first to support both LDAC and aptX Adaptive, but with issues in its technology-price balance"
-tags: [Active Speaker, Wireless, LDAC, aptX Adaptive, Desktop]
+tags: [Active speakers, Desktop, LDAC, Wireless, aptX Adaptive]
 permalink: /products/en/kripton-ks-55hg/
 ---
-
 ## Overview
 
 The Kripton KS-55HG is an active speaker that supports 96kHz/24bit wireless playback with both LDAC and aptX Adaptive codecs. It features a Tymphany 30mm ring diaphragm tweeter and a 63.5mm woofer, utilizing a 35W×4 full digital amplifier configuration. Touting a frequency response of 70Hz-60kHz and supporting high-resolution playback up to 192kHz/24bit via USB input and DSD128, it is positioned as a high-functioning model in Kripton's KS series.

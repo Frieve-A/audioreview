@@ -8,7 +8,7 @@ ref: truthear-x-crinacle-zero-red
 date: 2025-07-24
 rating: [4.0, 0.8, 0.7, 1.0, 0.7, 0.8]
 summary: "A dual-driver IEM supervised by Crinacle. Its design philosophy, based on scientific evidence, is highly commendable, and its measured performance is excellent. With no cheaper competitors offering equivalent or better performance, it achieves the best cost-performance in its price range, making it a price-disruptive product."
-tags: [Crinacle, Dual Driver, In-Ear Monitor, TruthEar]
+tags: [Crinacle, Dual Driver, In-ear monitors, TruthEar]
 permalink: /products/en/truthear-x-crinacle-zero-red/
 ---
 ## Overview

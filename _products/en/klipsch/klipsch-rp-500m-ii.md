@@ -8,10 +8,9 @@ ref: klipsch-rp-500m-ii
 date: 2025-07-09
 rating: [2.3, 0.3, 0.6, 0.4, 0.6, 0.4]
 summary: "The Klipsch RP-500M II is a 2-way bookshelf speaker featuring a 5.25-inch woofer and 1-inch titanium tweeter with high-sensitivity design providing excellent efficiency, though evaluation is limited by frequency response issues and restricted technical originality."
-tags: [Bookshelf Speaker, 2-Way, Horn Tweeter, 5.25 Inch Woofer, High Sensitivity]
+tags: [2-Way, 5.25 Inch Woofer, Bookshelf speakers, High Sensitivity, Horn Tweeter]
 permalink: /products/en/klipsch-rp-500m-ii/
 ---
-
 ## Overview
 
 The Klipsch RP-500M II is a 2-way bookshelf speaker released in 2022 as part of the second-generation Reference Premiere series, featuring a 1-inch titanium LTS vented tweeter with enlarged Hybrid Tractrix horn and 5.25-inch Cerametallic cone woofer with 70% larger voice coil for improved control, speed, and accuracy. Offered at 439-499 USD (pair), it represents an evolutionary improvement from the previous model with enhanced midrange clarity and precision.

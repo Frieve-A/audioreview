@@ -8,10 +8,9 @@ ref: oasa-electronics-egretta-ts-a200asb
 date: 2025-07-23
 rating: [1.9, 0.4, 0.3, 0.3, 0.4, 0.5]
 summary: "The OASA Electronics Egretta TS-A200asB features a unique omnidirectional acoustic design, but suffers from limited frequency response and poor cost-performance, as superior stereo alternatives are available for a fraction of the price."
-tags: [Active Speaker, Desktop Speaker, Omnidirectional Speaker, High-End]
+tags: [Active speakers, Desktop Speaker, High-End, Omnidirectional Speaker]
 permalink: /products/en/oasa-electronics-egretta-ts-a200asb/
 ---
-
 ## Overview
 
 OASA Electronics Co., Ltd. is a Hiroshima-based electronics manufacturer that launched its own brand in 2011, leveraging over 20 years of OEM experience. The Egretta TS-A200asB is its flagship omnidirectional active speaker, characterized by its 360-degree sound radiation. Housed in a compact cylindrical enclosure approximately 26 cm tall, it employs a 3-way system featuring a Heil-type tweeter, a dome midrange, and an actuator vibration unit. The built-in amplifier provides 18W+18W of power, and it is equipped with various input terminals.

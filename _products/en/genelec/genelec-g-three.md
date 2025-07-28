@@ -8,10 +8,9 @@ ref: genelec-g-three
 date: 2025-07-24
 rating: [3.4, 0.8, 0.7, 0.2, 0.9, 0.8]
 summary: "5-inch active monitor from Finnish professional audio manufacturer Genelec. Features excellent measurement performance and reliability but priced approximately 6.6 times higher than products with equivalent or superior performance."
-tags: [Active Speaker, Monitor Speaker, Genelec, Studio Monitor, Professional Audio]
+tags: [Active speakers, Genelec, Monitor Speaker, Professional Audio, Studio monitors]
 permalink: /products/en/genelec-g-three/
 ---
-
 ## Overview
 
 The Genelec G Three is a 5-inch 2-way active monitor speaker designed and manufactured by Genelec, the established Finnish professional audio manufacturer. It features a 130mm polypropylene cone woofer and 19mm aluminum dome tweeter, each driven by 50W Class D amplifiers. The speaker incorporates Genelec's decades of professional monitor development expertise through a cast aluminum enclosure, active crossover, and custom-designed amplifiers. Equipped with RCA and XLR inputs, it supports diverse installation options including desktop, wall mount, and ceiling mount configurations. The product is designed for wide-ranging applications from home audio to professional studio use.

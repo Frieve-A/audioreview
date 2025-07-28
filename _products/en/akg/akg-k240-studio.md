@@ -8,10 +8,9 @@ ref: akg-k240-studio
 date: 2025-07-21
 rating: [2.5, 0.3, 0.5, 0.6, 0.3, 0.8]
 summary: "Semi-open studio headphones inheriting a design from 1991. While it holds value as an affordable semi-open option, it suffers from serious issues with low-frequency distortion."
-tags: [AKG, Headphones, Studio Monitor, Semi-Open]
+tags: [AKG, Headphones, Semi-Open, Studio monitors]
 permalink: /products/en/akg-k240-studio/
 ---
-
 ## Overview
 
 The AKG K240 Studio is a semi-open studio monitor headphone manufactured by the Austrian company AKG. Inheriting the design of the K240 launched in 1991, it has been a standard model used in studios worldwide for over 30 years. It features 30mm XXL transducers and Varimotion diaphragms, designed specifically for professional applications. The current market price is around 42 USD, making it widely popular as a low-priced studio headphone.

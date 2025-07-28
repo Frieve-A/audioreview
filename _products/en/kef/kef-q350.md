@@ -8,10 +8,9 @@ ref: kef-q350
 date: 2025-07-18
 rating: [3.8, 0.7, 0.7, 0.8, 0.8, 0.8]
 summary: "A bookshelf speaker featuring KEF's Uni-Q technology. It delivers good measured performance and is a competitive option compared to other products in the same price range."
-tags: [KEF, Bookshelf Speaker, Uni-Q, UK, 2-way, Bass Reflex]
+tags: [2-way, Bass Reflex, Bookshelf speakers, KEF, UK, Uni-Q]
 permalink: /products/en/kef-q350/
 ---
-
 ## Overview
 
 The KEF Q350 is a representative bookshelf speaker from British manufacturer KEF, incorporating 6th generation Uni-Q technology. It features a 165mm aluminum Uni-Q driver and a 25mm vented aluminum dome tweeter in a coaxial arrangement. An improved Tweeter Loading Tube enhances its high-frequency characteristics. Priced around 450 USD per pair, it employs a 2-way bass-reflex design. With dimensions of 210x358x306mm and a weight of 7.6kg, it is a standard size for its class.

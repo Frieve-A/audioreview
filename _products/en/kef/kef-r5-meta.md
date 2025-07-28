@@ -8,10 +8,9 @@ ref: kef-r5-meta
 date: 2025-07-18
 rating: [3.9, 0.8, 0.8, 0.9, 0.6, 0.8]
 summary: "The KEF R5 Meta is a speaker that realizes the same excellent technology as the R3 Meta in a floor-standing format. While its standalone performance is very high, from a cost-performance perspective, a more flexible and cost-effective alternative exists in the form of the 'R3 Meta + Subwoofer' combination."
-tags: [KEF, R5, Meta, Floor-standing Speaker, Uni-Q, MAT]
+tags: [Floorstanding speakers, KEF, MAT, Meta, R5, Uni-Q]
 permalink: /products/en/kef-r5-meta/
 ---
-
 ## Overview
 
 The KEF R5 Meta is a 3-way floor-standing speaker developed by the premium British audio brand KEF. It features the same 12th generation Uni-Q driver array and MAT (Metamaterial Absorption Technology) as the masterpiece bookshelf model, the "R3 Meta," and is further enhanced with two 5.25-inch hybrid aluminum woofers to strengthen the low frequencies. It combines KEF's advanced acoustic engineering with a slim, contemporary design.

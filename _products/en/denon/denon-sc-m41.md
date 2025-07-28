@@ -8,10 +8,9 @@ ref: denon-sc-m41
 date: 2025-07-25
 rating: [2.8, 0.4, 0.5, 1.0, 0.5, 0.4]
 summary: "The Denon SC-M41 is a 2-way bookshelf speaker designed for the D-M41 system. It offers outstanding cost-performance, being effectively the least expensive option among competitors with similar performance, though its scientific validity is limited by a lack of measurement data."
-tags: [Denon, Bookshelf Speaker, 2-Way, Passive Speaker]
+tags: [2-Way, Bookshelf speakers, Denon, Passive speakers]
 permalink: /products/en/denon-sc-m41/
 ---
-
 ## Overview
 
 The Denon SC-M41 is a 2-way bookshelf speaker designed for the company's D-M41/D-M41DAB mini Hi-Fi systems. It features a 4.72-inch (12cm) woofer and a 0.98-inch (2.5cm) soft dome tweeter, with a nominal frequency response of 45Hz to 40kHz. The design employs a bass-reflex wooden cabinet and is notable for its magnetic shielding, which prevents magnetic interference with other equipment. It is engineered with a focus on design and acoustic integration with Denon's mini systems.

@@ -8,7 +8,7 @@ ref: activo-volcano
 date: 2025-07-28
 rating: [2.6, 0.5, 0.5, 0.3, 0.6, 0.7]
 summary: "A triple dynamic driver IEM from Activo, a subsidiary of Astell&Kern. While it offers multiple connector options for approximately 85 USD, it faces significant cost-performance challenges, as the highly-regarded 7Hz Salnotes Zero:2 offers excellent measured performance for around 25 USD."
-tags: [Activo, Dynamic Driver, In-Ear Monitor, In-ear monitors]
+tags: [Activo, Dynamic Driver, In-ear monitors]
 permalink: /products/en/activo-volcano/
 ---
 ## Overview

@@ -8,10 +8,9 @@ ref: audio-technica-ath-cks50tw2
 date: 2025-07-20
 rating: [3.1, 0.6, 0.5, 0.7, 0.7, 0.6]
 summary: "The Audio-Technica ATH-CKS50TW2 is a true wireless earphone with 9mm drivers and hybrid noise canceling. While it boasts a long battery life of up to 50 hours, its scientific improvements in sound quality are limited, and more cost-effective options exist."
-tags: [True Wireless Earbuds, Noise-Cancelling, Bluetooth, Bass Boost, IPX4]
+tags: [Bass Boost, Bluetooth, IPX4, Noise-Cancelling, True wireless earbuds]
 permalink: /products/en/audio-technica-ath-cks50tw2/
 ---
-
 ## Overview
 
 The Audio-Technica ATH-CKS50TW2 belongs to the company's SOLID BASS series of true wireless earbuds. Released in 2024, this model features dedicated 9mm drivers, digital hybrid noise-canceling, and an impressive long battery life of up to 50 hours (including the case). Audio-Technica, a long-established audio manufacturer founded in 1962, has a history of developing a wide range of products from professional to consumer use. It incorporates modern features such as IPX4 water resistance, multi-point connection, and a magnetic switch function, and is sold for approximately 18,920 JPY in Japan.

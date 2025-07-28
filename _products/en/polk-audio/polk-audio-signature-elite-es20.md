@@ -8,10 +8,9 @@ ref: polk-audio-signature-elite-es20
 date: 2025-07-18
 rating: [3.1, 0.5, 0.4, 1.0, 0.6, 0.6]
 summary: "The Polk Audio Signature Elite ES20 offers standard measurement performance for its price range with excellent cost-performance advantage over competing products."
-tags: [Passive Speaker, Bookshelf, Hi-Res Certified, 2-Way]
+tags: [2-Way, Bookshelf, Hi-Res Certified, Passive speakers]
 permalink: /products/en/polk-audio-signature-elite-es20/
 ---
-
 ## Overview
 
 The Polk Audio Signature Elite ES20 is a 2-way passive bookshelf speaker featuring a 1-inch Terylene Dome tweeter and 6.5-inch Mica-reinforced polypropylene woofer. Priced at 38,484 yen (pair), it is Hi-Res certified and supports Dolby Atmos and DTS:X. While it incorporates Power Port technology to enhance low-frequency response, it fails to meet current technical standards in basic measurement performance.

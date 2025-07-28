@@ -8,10 +8,9 @@ ref: tannoy-gold-5
 date: 2025-07-21
 rating: [2.4, 0.4, 0.4, 0.6, 0.7, 0.3]
 summary: "Tannoy Gold 5は5インチデュアル・コンセントリック・スタジオモニターです。合理的な設計コンセプトに基づきながらも、実際の測定性能には重大な問題があり、主要な競合製品に劣ります。"
-tags: [Studio Monitor, Active Speaker, Tannoy, Near-field Monitor]
+tags: [Near-field Monitor, Tannoy, アクティブスピーカー, スタジオモニター]
 permalink: /products/ja/tannoy-gold-5/
 ---
-
 ## 概要
 
 Tannoy Gold 5は、5インチデュアル・コンセントリック・ドライバーを搭載した200Wバイアンプ駆動のニアフィールド・スタジオモニターです。0.75インチチタンツイーターを5インチウーファーの中央に配置する同社の伝統的な同軸設計を採用し、Tulip Waveguideを組み合わせています。音楽制作、放送、ポストプロダクション用途を想定して開発されましたが、実際の測定性能にはいくつかの重大な欠点がみられます。

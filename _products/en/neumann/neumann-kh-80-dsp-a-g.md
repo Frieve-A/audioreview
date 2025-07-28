@@ -8,10 +8,9 @@ ref: neumann-kh-80-dsp-a-g
 date: 2025-07-28
 rating: [4.1, 0.8, 0.9, 0.7, 0.8, 0.9]
 summary: "4-inch nearfield monitor achieving high-precision acoustic characteristics through DSP control. Excellent measurement performance, but strong, lower-priced competition exists."
-tags: [Studio Monitor, DSP, Nearfield, German-Made, Pro Audio]
+tags: [DSP, German-Made, Nearfield, Pro Audio, Studio monitors]
 permalink: /products/en/neumann-kh-80-dsp-a-g/
 ---
-
 ## Overview
 
 The Neumann KH 80 DSP A G is a 4-inch 2-way active nearfield monitor manufactured by Neumann, the renowned microphone manufacturer. It features bi-amp driving with 120W and 70W Class D amplifiers, plus precise acoustic correction functions through DSP control. With a frequency response of 57Hz-21kHz (±3dB) and maximum output of 108.8dB SPL, it delivers professional studio monitoring despite its compact size. Network connectivity enables app-based control with an 8-band parametric EQ for room acoustic correction.

@@ -8,10 +8,9 @@ ref: akg-k701
 date: 2025-07-14
 rating: [2.5, 0.4, 0.6, 0.8, 0.3, 0.4]
 summary: "The AKG K701 once set a standard for reference headphones, but by modern standards, it faces challenges in frequency response fidelity, with better alternatives available in terms of cost-performance and reliability."
-tags: [Headphones, Open-Back, Studio Monitor, AKG]
+tags: [AKG, Headphones, Open-Back, Studio monitors]
 permalink: /products/en/akg-k701/
 ---
-
 ## Overview
 
 The AKG K701 is an open-back studio monitor headphone formerly produced by the Austrian audio equipment manufacturer AKG. It once captivated the market with its elegant design and was celebrated for its vast and delicate soundstage, earning a dedicated following among audiophiles and professionals for many years. Its distinctive sound became widely known as "the K701 sound," and it even gained mainstream recognition after being featured in an anime series. However, this review will set aside historical reputation and brand image to provide a dispassionate assessment of its performance based on modern technical standards and measurement data.

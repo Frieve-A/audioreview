@@ -8,10 +8,9 @@ ref: bic-america-fh-65b
 date: 2025-07-24
 rating: [2.9, 0.4, 0.5, 0.7, 0.7, 0.6]
 summary: "BIC America FH-65Bは6.5インチ2ウェイブックシェルフスピーカーです。高感度なホーンツイーター設計が特徴ですが、性能を裏付ける客観的測定データが欠如しており、コストパフォーマンスにも課題があるため、総合評価は平均以下となります。"
-tags: [Bookshelf Speakers, Horn Tweeter, Home Theater, BIC America]
+tags: [BIC America, Bookshelf Speakers, Home Theater, ホーンツイーター]
 permalink: /products/ja/bic-america-fh-65b/
 ---
-
 ## 概要
 
 BIC America FH-65Bは、1973年に初代が発売されたFormula Seriesの現行モデルで、6.5インチ2ウェイブックシェルフスピーカーです。175W RMS/350W peak対応、8オーム仕様で、40Hz-23kHzの周波数特性と96dBの高感度設計を特徴としています。6.5インチ射出成形ウーファーにブチルラバーサラウンドを組み合わせ、ネオジム磁石を使用した6.5インチミッド/ハイ周波数ホーンツイーターを搭載しています。ホームシアターと音楽再生の両方に対応する設計で、フラッシュウォールマウントが付属し、5年間の部品・労働保証が提供されています。

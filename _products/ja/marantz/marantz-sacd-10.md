@@ -8,10 +8,9 @@ ref: marantz-sacd-10
 date: 2025-07-26
 rating: [2.8, 0.7, 0.8, 0.3, 0.6, 0.4]
 summary: "独自SACDM-3トランスポート搭載の高級SACD/CDプレーヤー。技術的完成度は高いものの、コストパフォーマンスに課題があり、専用機としての存在意義が問われる製品です。"
-tags: [SACD, CDプレーヤー, High-End, Marantz, DAC]
+tags: [CDプレーヤー, DAC, Marantz, SACD, ハイエンド]
 permalink: /products/ja/marantz-sacd-10/
 ---
-
 ## 概要
 
 Marantz SACD-10は同社の10シリーズに属する最高級SACD/CDプレーヤーです。1,800,000円という価格で提供されるこの製品は、独自設計のSACDM-3トランスポートメカニズムを搭載し、DSD256およびPCM 384/32対応の外部DAC機能も備えています。73ポンド（約33kg）の重厚な筐体には、銅シールド付きの3層アルミニウムシャーシ、多層PCB、独立サブエンクロージャー、そしてHDAM（Hyper Dynamic Amplifier Module）が組み込まれています。8層PCB上にはSHARC DSPベースのMMM（Marantz Musical Mastering）処理、カスタム1ビットD/A変換、HDAMベースのアナログ出力回路が配置されています。

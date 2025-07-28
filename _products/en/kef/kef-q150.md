@@ -8,10 +8,9 @@ ref: kef-q150
 date: 2025-07-18
 rating: [3.8, 0.7, 0.7, 0.8, 0.8, 0.8]
 summary: "The KEF Q150 is a bookshelf speaker featuring the company's distinctive Uni-Q driver. It delivers good measured performance and is a competitive option compared to other products in the same price range."
-tags: [KEF, Bookshelf Speaker, Uni-Q, 2-Way, Passive Speaker]
+tags: [2-Way, Bookshelf speakers, KEF, Passive speakers, Uni-Q]
 permalink: /products/en/kef-q150/
 ---
-
 ## Overview
 
 The KEF Q150 is a 2-way bookshelf speaker from the renowned British manufacturer KEF. It showcases the company's signature Uni-Q coaxial driver, featuring a 25mm vented aluminum dome tweeter at the center of a 130mm aluminum woofer. Its specifications include a frequency response of 51Hz-28kHz (±3dB) and a sensitivity of 86dB, with a market price of around 430 USD per pair. Founded in 1961, KEF is known for its innovative technological developments in acoustic engineering, and the Q150 inherits this technical legacy.

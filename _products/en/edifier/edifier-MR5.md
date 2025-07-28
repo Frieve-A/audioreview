@@ -8,10 +8,9 @@ ref: edifier-MR5
 date: 2025-07-23
 rating: [3.0, 0.5, 0.7, 0.7, 0.6, 0.5]
 summary: "A 5-inch active studio monitor featuring a tri-amped configuration and Bluetooth 6.0 support. Priced at 270 USD, its cost-performance is rated as slightly above average, given the existence of Bluetooth-equipped competitors like the Pioneer DJ DM-50D-BT available for around 201 USD (based on Japanese market price conversion)."
-tags: [Active Speaker, Studio Monitor, Bluetooth Support, Hi-Res Audio, Made in China]
+tags: [Active speakers, Bluetooth Support, Hi-Res Audio, Made in China, Studio monitors]
 permalink: /products/en/edifier-MR5/
 ---
-
 ## Overview
 
 The Edifier MR5 is a 5-inch active studio monitor released in 2025 by Edifier Technology (漫步者), headquartered in Beijing. Founded in 1996, the company is an established audio manufacturer with approximately 30 years of business experience and is listed on the Shenzhen Stock Exchange. The MR5 features a tri-amped (3-way, 3-amplifier) configuration, Bluetooth 6.0 support, and Hi-Res Audio certification, making it suitable for a wide range of applications from professional to consumer use.

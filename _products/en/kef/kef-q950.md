@@ -8,10 +8,9 @@ ref: kef-q950
 date: 2025-07-18
 rating: [3.9, 0.8, 0.8, 0.7, 0.8, 0.8]
 summary: "The KEF Q950 is a floor-standing speaker with excellent technology and sound quality, but its cost-performance is challenged by competitors offering equivalent measured performance at a lower price."
-tags: [KEF, Floor-standing Speaker, Uni-Q, 3-Way]
+tags: [3-Way, Floorstanding speakers, KEF, Uni-Q]
 permalink: /products/en/kef-q950/
 ---
-
 ## Overview
 
 The KEF Q950 is the flagship floor-standing speaker from KEF's Q series, crafted by the established British speaker manufacturer. It features the company's signature Uni-Q driver array technology, combining dual 200mm aluminum woofers with dual auxiliary passive radiators in a 3-way design. Founded in 1961, KEF has expanded technologies developed for BBC monitor speakers into consumer products, particularly leading the industry in coaxial driver technology. The Q950 leverages the company's technical expertise to achieve a frequency response of 44Hz-28kHz and 91dB sensitivity.

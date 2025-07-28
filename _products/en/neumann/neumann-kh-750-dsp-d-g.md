@@ -8,10 +8,9 @@ ref: neumann-kh-750-dsp-d-g
 date: 2025-07-28
 rating: [3.7, 0.8, 0.7, 0.7, 0.8, 0.7]
 summary: "A high-precision DSP subwoofer supported by Neumann's powerful ecosystem. While competitors with similar functions exist, it offers significant value through its integration with KH series monitors."
-tags: [Subwoofer, DSP, Studio Monitor, Professional Audio, Neumann]
+tags: [DSP, Neumann, Professional Audio, Studio monitors, Subwoofer]
 permalink: /products/en/neumann-kh-750-dsp-d-g/
 ---
-
 ## Overview
 
 The Neumann KH 750 DSP D G is a professional DSP subwoofer developed by Neumann, a prestigious German audio equipment manufacturer. Designed to integrate with the company's KH series studio monitors, it features a 10-inch driver with 18Hz-300Hz reproduction capability and a 256W amplifier. The sealed cabinet design achieves a fast transient response, and it provides high-precision automatic room correction and bass management functions via an iPad app or the dedicated "MA 1" measurement microphone. It is positioned as a product that inherits the traditional quality and reliability of the Neumann brand.

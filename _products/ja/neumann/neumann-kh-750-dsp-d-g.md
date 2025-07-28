@@ -8,10 +8,9 @@ ref: neumann-kh-750-dsp-d-g
 date: 2025-07-28
 rating: [3.7, 0.8, 0.7, 0.7, 0.8, 0.7]
 summary: "Neumannの強力なエコシステムに支えられた高精度なDSPサブウーファー。同等の機能を持つ競合も存在するが、KHシリーズモニターとの統合性に大きな価値がある製品。"
-tags: [Subwoofer, DSP, Studio Monitor, Professional Audio, Neumann]
+tags: [DSP, Neumann, Professional Audio, Subwoofer, スタジオモニター]
 permalink: /products/ja/neumann-kh-750-dsp-d-g/
 ---
-
 ## 概要
 
 Neumann KH 750 DSP D Gは、ドイツの老舗音響機器メーカーNeumannが開発したプロフェッショナル向けDSPサブウーファーです。同社のKHシリーズスタジオモニターとの組み合わせを前提として設計されており、10インチドライバーによる18Hz-300Hzの再生能力と256Wアンプを搭載しています。密閉型キャビネット設計により高速な過渡応答を実現し、iPadアプリや専用測定マイク「MA 1」による高精度な自動音場補正・ベースマネージメント機能を提供します。Neumannブランドの伝統的な品質と信頼性を継承した製品として位置づけられています。

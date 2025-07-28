@@ -8,10 +8,9 @@ ref: polk-audio-monitor-xt-mxt15
 date: 2025-07-18
 rating: [2.7, 0.1, 0.4, 0.9, 0.8, 0.5]
 summary: "The Polk Audio Monitor XT MXT15 is a 149 USD per pair budget bookshelf speaker. While it offers a wide soundstage, its measured performance, including a recessed midrange and significant cabinet resonance, positions it as a lower-tier option compared to competitors."
-tags: [Bookshelf Speaker, Polk Audio, Hi-Res Audio, Passive Speaker]
+tags: [Bookshelf speakers, Hi-Res Audio, Passive speakers, Polk Audio]
 permalink: /products/en/polk-audio-monitor-xt-mxt15/
 ---
-
 ## Overview
 
 The Polk Audio Monitor XT MXT15 is a bookshelf speaker in the company's entry-level series. It features a 5.25-inch Dynamic Balance bi-laminate paper cone woofer and a 1-inch Terylene dome tweeter, claiming a frequency response of 48Hz-40kHz. However, objective measurement data reveals a serious issue, particularly high levels of distortion. While it has features like Hi-Res Audio certification and Dolby Atmos/DTS:X compatibility, these do not compensate for the shortcomings in basic acoustic performance.

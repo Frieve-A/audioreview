@@ -8,10 +8,9 @@ ref: sennheiser-hd-490-pro
 date: 2025-07-19
 rating: [4.0, 0.8, 0.7, 1.0, 0.8, 0.7]
 summary: "Professional open-back headphones featuring dual ear pad system. Good measurement performance but limited technical innovation."
-tags: [Headphones, Open-back, Professional, Studio Monitor]
+tags: [Headphones, Open-back, Professional, Studio monitors]
 permalink: /products/en/sennheiser-hd-490-pro/
 ---
-
 ## Overview
 
 The Sennheiser HD 490 PRO is a professional open-back headphone released in 2024. It features a 38mm dynamic driver with 130Ω impedance and 105dB/V sensitivity. The key feature is the dual ear pad system that allows switching between two different ear pads for different acoustic characteristics in producing and mixing applications. It won the Best Headphones award at NAB 2024 and is positioned as a direct competitor to the Sony MDR-MV1 and Audeze MM-100. Priced at 399 USD (approximately 60,000 JPY), it represents a new option in the professional audio market.

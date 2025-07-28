@@ -8,7 +8,7 @@ ref: minidsp-shd-studio
 date: 2025-07-19
 rating: [2.3, 0.6, 0.7, 0.2, 0.4, 0.4]
 summary: "MiniDSP SHD Studioは業界標準のDirac Live補正機能とRoon Ready対応を誇る全デジタル型プリアンプです。しかし949 USDという価格に対して、より安価でより高性能な代替製品が多数存在することから、コストパフォーマンスは低評価となります。"
-tags: [All-Digital, DSP, Dirac Live, Preamplifier, Room Correction, ネットワークストリーマー]
+tags: [All-Digital, DSP, Dirac Live, Preamplifier, ネットワークストリーマー, ルームコレクション]
 permalink: /products/ja/minidsp-shd-studio/
 ---
 ## 概要

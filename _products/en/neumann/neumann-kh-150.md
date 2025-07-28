@@ -8,10 +8,9 @@ ref: neumann-kh-150
 date: 2025-07-28
 rating: [4.4, 0.9, 0.8, 1.0, 0.8, 0.9]
 summary: "Combines top-class measurement performance with DSP correction. With no cheaper alternatives offering equivalent performance, it boasts the highest cost-performance for its capabilities."
-tags: [Studio Monitor, DSP, Nearfield, Powered Speaker]
+tags: [DSP, Nearfield, Powered Speaker, Studio monitors]
 permalink: /products/en/neumann-kh-150/
 ---
-
 ## Overview
 
 The Neumann KH-150 is a 6.5-inch 2-way powered studio monitor positioned in the company's mid-range lineup. It achieves room-adaptive calibration through a combination of DSP-controlled electronics and the MA1 automatic monitor alignment system. With bi-amp driving providing 145W for the woofer and 100W for the tweeter, it delivers a high maximum output of 118.7dB SPL at 1m and a low-frequency extension down to 39Hz. Reflecting its design philosophy intended for professional recording environments, it has received high praise from the industry for its excellent measurement performance.

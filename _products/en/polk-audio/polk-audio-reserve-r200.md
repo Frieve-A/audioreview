@@ -8,10 +8,9 @@ ref: polk-audio-reserve-r200
 date: 2025-07-18
 rating: [3.6, 0.7, 0.6, 0.9, 0.8, 0.6]
 summary: "The Polk Audio Reserve R200 is a bookshelf speaker featuring proprietary driver technology from higher-end models. Backed by a reliable brand, its value is mainly determined by cost-effectiveness, as more affordable alternatives with comparable performance exist."
-tags: [Bookshelf Speaker, Polk Audio, Reserve, R200]
+tags: [Bookshelf speakers, Polk Audio, R200, Reserve]
 permalink: /products/en/polk-audio-reserve-r200/
 ---
-
 ## Overview
 
 The Polk Audio Reserve R200 is the flagship bookshelf speaker of the Reserve series, released to commemorate the company's 50th anniversary. It incorporates the same proprietary driver technology as the company's higher-end Legend Series products while achieving a reduced price point through simplified cabinet construction. It features a 6.5-inch Turbine Cone woofer and a 1-inch Pinnacle Ring Radiator tweeter, claiming Hi-Res Audio certification, Dolby Atmos, and IMAX Enhanced compatibility.

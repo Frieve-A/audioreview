@@ -8,10 +8,9 @@ ref: bowers-wilkins-801d4
 date: 2025-07-26
 rating: [3.3, 0.7, 0.8, 0.2, 0.8, 0.8]
 summary: "A flagship speaker with advanced technology and excellent measured performance, but extremely poor cost-performance due to the existence of alternatives that achieve equivalent performance at much lower cost"
-tags: [Floor-standing Speaker, High-end, Diamond Tweeter, 800 Series]
+tags: [800 Series, Diamond Tweeter, Floorstanding speakers, High-end]
 permalink: /products/en/bowers-wilkins-801d4/
 ---
-
 ## Overview
 
 The Bowers & Wilkins 801D4 is the flagship speaker in the company's 800 Series Diamond lineup. As the latest generation of the 801 series with 42 years of history, it incorporates advanced technologies including diamond dome tweeter, Matrix bracing, and sophisticated crossover design. It has an established track record as a reference monitor in many recording studios. The specifications include a frequency range of 13Hz-35kHz (-6dB), sensitivity of 90dB/2.83V/m, and nominal impedance of 8Ω (minimum 3.0Ω) in a 3-way design. The price in the US market is approximately 46,000 USD per pair.

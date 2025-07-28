@@ -8,7 +8,7 @@ ref: tangzu-yuanxuanji
 date: 2025-07-27
 rating: [3.0, 0.6, 0.7, 0.5, 0.5, 0.7]
 summary: "トポロジー技術を採用した49米ドルのIEMながら、同価格帯の競合製品と比較してコストパフォーマンスに課題があり、透明レベルの音質達成には至らない"
-tags: [Budget Audio, Chinese Audio, Dynamic Driver, Tangzu, インイヤーモニター]
+tags: [Budget Audio, Chinese Audio, Tangzu, インイヤーモニター, ダイナミックドライバー]
 permalink: /products/ja/tangzu-yuanxuanji/
 ---
 ## 概要

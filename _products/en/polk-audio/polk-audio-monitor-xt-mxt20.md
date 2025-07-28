@@ -8,10 +8,9 @@ ref: polk-audio-monitor-xt-mxt20
 date: 2025-07-18
 rating: [3.6, 0.6, 0.5, 1.0, 0.8, 0.7]
 summary: "The Polk Audio Monitor XT MXT20 is the most cost-effective option in its performance category. While its brand reliability is highly rated, the objective audio improvement effects are limited."
-tags: [Bookshelf Speaker, Polk, Monitor XT, Hi-Res, Mid-Price Range]
+tags: [Bookshelf speakers, Hi-Res, Mid-Price Range, Monitor XT, Polk]
 permalink: /products/en/polk-audio-monitor-xt-mxt20/
 ---
-
 ## Overview
 
 The Polk Audio Monitor XT MXT20 is a bookshelf speaker with Hi-Res Audio certification. It features a 1-inch Terylene dome tweeter and 6.5-inch Dynamic Balance woofer, claiming 38Hz-40kHz frequency response. Supporting Dolby Atmos and DTS:X with 4-ohm and 8-ohm compatibility, it offers versatility. With 87dB sensitivity and recommended amplifier output of 30-200W, it weighs 12 pounds (approximately 5.4kg) per side. It sells for around 300 USD in the US and approximately 29,520 yen in Japan.

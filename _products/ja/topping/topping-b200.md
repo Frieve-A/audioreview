@@ -8,10 +8,9 @@ ref: topping-b200
 date: 2025-07-19
 rating: [3.2, 0.9, 0.8, 0.3, 0.4, 0.8]
 summary: "NFCA回路を採用した高性能モノラルパワーアンプ。測定性能は業界最高水準だが、ステレオ構成時のコストパフォーマンスに課題が残る。"
-tags: [Power Amplifier, Mono, Discrete, NFCA, High-End]
+tags: [Discrete, Mono, NFCA, Power Amplifier, ハイエンド]
 permalink: /products/ja/topping-b200/
 ---
-
 ## 概要
 
 Topping B200は、同社独自のNFCA（Nested Feedback Composite Amplifier）回路を採用したモノラルパワーアンプです。2024年に発表された本製品は、200W（4Ω/8Ω）の出力と、THD+N 0.000075%以下という極めて低い歪率を実現しています。3系統のXLR/TRSコンボ入力、2段階ゲイン切替、12Vトリガー機能を備え、ハイエンドオーディオシステムでの使用を想定した設計となっています。Toppingは中国のオーディオメーカーとして、測定性能を重視した製品開発で知られており、B200もその方針を継承した製品です。

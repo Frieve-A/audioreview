@@ -8,10 +8,9 @@ ref: altec-612A
 date: 2025-07-26
 rating: [1.7, 0.2, 0.4, 0.1, 0.5, 0.5]
 summary: "While recognized for its historical value as a 1960s vintage studio monitor, this product shows significantly inferior performance by modern transparency standards and is problematic due to its extremely high selling price."
-tags: [Vintage Speaker, Studio Monitor, Coaxial, Altec Lansing]
+tags: [Altec Lansing, Coaxial, Studio monitors, Vintage Speaker]
 permalink: /products/en/altec-612A/
 ---
-
 ## Overview
 
 The Altec Lansing 612A is a studio monitor speaker system manufactured in the 1960s, featuring the 604C driver in a 5.5 cubic feet bass-reflex cabinet. It has a historical record of use at EMI and Abbey Road Studios and is known as a product involved in the creation of The Beatles' music. The 604C driver is a coaxial type with a 35W power rating and a 30Hz-22kHz frequency response, used in combination with the N-1600-C crossover. It was widely adopted as the studio standard of its time.

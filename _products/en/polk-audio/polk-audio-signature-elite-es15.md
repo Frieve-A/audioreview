@@ -8,10 +8,9 @@ ref: polk-audio-signature-elite-es15
 date: 2025-07-18
 rating: [3.0, 0.5, 0.4, 0.9, 0.6, 0.6]
 summary: "The Polk Audio Signature Elite ES15 is a bookshelf speaker that offers standard measured performance for its price range and provides excellent cost-performance."
-tags: [Passive Speaker, Bookshelf, Hi-Res Certified, 2-Way]
+tags: [2-Way, Bookshelf, Hi-Res Certified, Passive speakers]
 permalink: /products/en/polk-audio-signature-elite-es15/
 ---
-
 ## Overview
 
 The Polk Audio Signature Elite ES15 is a compact bookshelf speaker from the company's Signature Elite series. It features a 1-inch Terylene dome tweeter and a 5.25-inch mica-reinforced polypropylene woofer. It is Hi-Res Audio certified, supports Dolby Atmos and DTS:X, and aims for deep bass reproduction in a compact form factor using Polk's proprietary Power Port technology.

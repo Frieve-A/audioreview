@@ -8,10 +8,9 @@ ref: electro-voice-ev-tour-x-tx1152
 date: 2025-07-26
 rating: [2.5, 0.5, 0.6, 0.3, 0.7, 0.4]
 summary: "15インチプロ仕様パッシブスピーカー。同等機能を持つ低価格なパワードスピーカーが多数存在するため、コストパフォーマンスに重大な課題を抱える。"
-tags: [Professional Audio, Passive Speaker, PA System, Live Sound, Sound Reinforcement]
+tags: [Live Sound, PA System, Professional Audio, Sound Reinforcement, パッシブスピーカー]
 permalink: /products/ja/electro-voice-ev-tour-x-tx1152/
 ---
-
 ## 概要
 
 Electro-Voice Tour X TX1152は、プロフェッショナル音響用途に設計された15インチ2ウェイパッシブスピーカーです。コンサートツアーなどで培われた技術を応用し、SMX2151 15インチウーファーとDH3 1.25インチチタニウムコンプレッションドライバーを搭載しています。許容入力は500W（連続）、2000W（ピーク）で、60度×40度のコンスタントディレクティビティホーンによる指向性制御を特徴とします。

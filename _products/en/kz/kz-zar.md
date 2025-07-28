@@ -8,7 +8,7 @@ ref: kz-zar
 date: 2025-07-23
 rating: [2.7, 0.5, 0.6, 0.2, 0.7, 0.7]
 summary: "The KZ ZAR is a hybrid IEM featuring an 8-driver configuration with 1DD+7BA. Its U-shaped acoustic characteristics deliver impactful deep bass and clear treble, but performance differences compared to competing products are limited, with room for improvement in cost-performance."
-tags: [Deep Bass, Hybrid Driver, In-Ear Monitor, In-ear monitors, KZ]
+tags: [Deep Bass, Hybrid Driver, In-ear monitors, KZ]
 permalink: /products/en/kz-zar/
 ---
 ## Overview

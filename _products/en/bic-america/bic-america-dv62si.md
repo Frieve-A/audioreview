@@ -8,10 +8,9 @@ ref: bic-america-dv62si
 date: 2025-07-20
 rating: [2.5, 0.3, 0.4, 1.0, 0.4, 0.4]
 summary: "A classic bookshelf speaker from 1999. While its large woofer offers notable bass, its overall measured performance and directivity are poor by modern standards. However, it is the cheapest option in its specific performance class, resulting in a high cost-performance score."
-tags: [Bookshelf Speaker, Passive Speaker, 2Way, Bass-Focused]
+tags: [2Way, Bass-Focused, Bookshelf speakers, Passive speakers]
 permalink: /products/en/bic-america-dv62si/
 ---
-
 ## Overview
 
 The BIC America DV62si is a 2-way bookshelf speaker released in 1999, featuring a Venturi port. It is equipped with a 6.5-inch poly/graphite blend woofer and a 0.75-inch dome tweeter, claiming a frequency response of 43Hz to 21kHz. Initially launched with an MSRP of 275 USD and earning "Best Buy" accolades, it is now positioned as a budget model. Its magnetic shielding is designed for use near TVs and computer monitors. Although over 25 years old, this speaker is still sold new, necessitating an evaluation based on contemporary technological standards for prospective buyers.

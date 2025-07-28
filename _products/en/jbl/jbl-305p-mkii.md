@@ -8,10 +8,9 @@ ref: jbl-305p-mkii
 date: 2025-07-08
 rating: [4.2, 0.9, 0.8, 1.0, 0.8, 0.7]
 summary: "A 5-inch nearfield monitor born from JBL's professional monitor series. Boasts high technical performance backed by measurement data including 0.2% THD, 75dB SNR, and 49Hz-20kHz frequency response. Achieves overwhelming cost-performance at 119 USD per unit, providing the highest measurement performance in its price range. The Image Control Waveguide offers wide sweet spot, while the Boundary EQ function is practical for desktop use."
-tags: [JBL, Studio Monitor, 305P, 5-inch, Bi-amp, Professional]
+tags: [305P, 5-inch, Bi-amp, JBL, Professional, Studio monitors]
 permalink: /products/en/jbl-305p-mkii/
 ---
-
 ## Overview
 
 The JBL 305P MkII is a 5-inch nearfield studio monitor that inherits technology from JBL's professional monitor series. Equipped with dual 82W (41W×2) Class-D amplifiers and featuring a wide frequency response of 49Hz-20kHz in a 2-way bi-amplified configuration. Combining the patented Image Control Waveguide with a 5-inch long-throw woofer and 1-inch neodymium tweeter, it achieves professional-level acoustic performance at an affordable price. It also incorporates practical design features including Boundary EQ function for desktop use and near-wall placement, plus 3-stage HF Trim adjustment capability, making it adaptable to diverse installation environments.

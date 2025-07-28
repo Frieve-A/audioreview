@@ -8,10 +8,9 @@ ref: fostex-pm0-3
 date: 2025-07-20
 rating: [2.3, 0.4, 0.3, 0.6, 0.6, 0.4]
 summary: "小型デスクトップモニターとしては健闘するが、低域の再生能力の限界と、より安価で優れた競合の存在が課題となる製品。"
-tags: [Monitor Speaker, Desktop Speaker, Fostex, Active Speaker, Small Monitor]
+tags: [Desktop Speaker, Fostex, Monitor Speaker, Small Monitor, アクティブスピーカー]
 permalink: /products/ja/fostex-pm0-3/
 ---
-
 ## 概要
 
 Fostex PM0.3は、3インチウーファーと3/4インチツイーターを搭載したコンパクトなデスクトップモニタースピーカーです。15W + 15WのD級アンプを内蔵し、公称110Hz-20kHz（±3dB）の周波数特性を持ちます。日本の老舗音響メーカーであるFostexが手がけるパーソナルアクティブスピーカーシステムとして、デスクトップ環境での音楽制作やリスニングを想定して設計されています。

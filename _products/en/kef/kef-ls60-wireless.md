@@ -8,10 +8,9 @@ ref: kef-ls60-wireless
 date: 2025-07-18
 rating: [3.3, 0.8, 0.9, 0.6, 0.6, 0.4]
 summary: "KEF LS60 Wireless is a wireless floorstanding speaker that packs innovative technology and excellent acoustic performance into a slim cabinet."
-tags: [KEF, LS60, Wireless, Floorstanding, Active Speaker, UniCore, Meta]
+tags: [Active speakers, Floorstanding, KEF, LS60, Meta, UniCore, Wireless]
 permalink: /products/en/kef-ls60-wireless/
 ---
-
 ## Overview
 
 KEF LS60 Wireless is a wireless floorstanding speaker launched to commemorate the company's 60th anniversary. The innovative design features a Uni-Q driver equipped with Meta technology combined with proprietary UniCore technology, incorporating four woofers in an ultra-slim 13cm wide cabinet. The 1400W internal amplifier and DSP processing achieve wide-band reproduction from 26Hz to 36kHz.

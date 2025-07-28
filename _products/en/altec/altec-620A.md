@@ -8,10 +8,9 @@ ref: altec-620A
 date: 2025-07-26
 rating: [1.8, 0.2, 0.4, 0.5, 0.2, 0.5]
 summary: "While historically valuable as a 1970s professional monitor speaker, the 620A falls significantly short of modern transparency standards and is priced at an extremely high market value."
-tags: [Vintage Speakers, Studio Monitor, Coaxial, Altec]
+tags: [Altec, Coaxial, Studio monitors, Vintage Speakers]
 permalink: /products/en/altec-620A/
 ---
-
 ## Overview
 
 The Altec 620A is a professional monitor speaker manufactured in the 1970s, featuring a bass-reflex enclosure with a 38cm diameter 604-8G coaxial driver. It boasts a frequency response of 20Hz-22kHz and maximum output of 103dB, and was known as an industry standard used in broadcasting stations and recording studios. The 604-8G driver features a unique design where the high-frequency horn throat passes through the center of the low-frequency magnetic circuit, designed to achieve excellent resolution even in demanding monitoring environments with four or more channels of overlapping audio. The original price in 1977 was 358,500 JPY per unit.
