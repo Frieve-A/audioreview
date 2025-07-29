@@ -7,13 +7,13 @@ lang: en
 ref: epz-k9
 date: 2025-07-29
 rating: [2.8, 0.6, 0.7, 0.1, 0.7, 0.7]
-summary: "The EPZ K9 is a 1DD+8BA hybrid IEM, but with the KZ ZS10 Pro offering equivalent performance for USD 49 compared to the K9's USD 599 price, its cost-performance is severely lacking."
+summary: "The EPZ K9 is a 1DD+8BA hybrid IEM, but with the KZ ZS10 Pro offering equivalent performance for USD 39 compared to the K9's USD 369 price, its cost-performance is severely lacking."
 tags: [Chinese IEM, EPZ, Earphones, Hybrid Driver, In-ear monitors]
 permalink: /products/en/epz-k9/
 ---
 ## Overview
 
-The EPZ K9 is a hybrid in-ear monitor featuring a total of nine drivers: one dynamic driver (DD) and eight balanced armature (BA) drivers. It utilizes an 8mm PEK+PU composite diaphragm DD, two Knowles 32257 dual BA drivers, and two custom 31735 dual BA drivers, all managed by a 3-way physical crossover design. With an impedance of 14Ω and a sensitivity of 108dB, the K9 is priced at USD 599.
+The EPZ K9 is a hybrid in-ear monitor featuring a total of nine drivers: one dynamic driver (DD) and eight balanced armature (BA) drivers. It utilizes an 8mm PEK+PU composite diaphragm DD, two Knowles 32257 dual BA drivers, and two custom 31735 dual BA drivers, all managed by a 3-way physical crossover design. With an impedance of 14Ω and a sensitivity of 108dB, the K9 is priced at USD 369.
 
 ## Scientific Validity
 
@@ -31,7 +31,7 @@ The 9-driver configuration (1DD+8BA) combined with a 3-way crossover and indepen
 
 $$ \Large \text{0.1} $$
 
-The EPZ K9 is priced at USD 599, while the KZ ZS10 Pro (1DD+4BA), which offers equivalent or superior performance, is available for USD 49. The quantity of drivers does not necessarily correlate with acoustic performance, and in terms of measured fidelity, both models are on a comparable level. The CP is calculated as USD 49 ÷ USD 599 = 0.081..., resulting in a score of 0.1. The K9 fails to demonstrate any clear performance advantage that would justify a price approximately 12 times higher.
+The EPZ K9 is priced at USD 369, while the KZ ZS10 Pro (1DD+4BA), which offers equivalent or superior performance, is available for USD 39. The quantity of drivers does not necessarily correlate with acoustic performance, and in terms of measured fidelity, both models are on a comparable level. The CP is calculated as USD 39 ÷ USD 369 = 0.105..., resulting in a score of 0.1. The K9 fails to demonstrate any clear performance advantage that would justify a price approximately 9.5 times higher.
 
 ## Reliability & Support
 
@@ -47,6 +47,6 @@ The design philosophy of using a hybrid driver configuration to divide frequency
 
 ## Advice
 
-While the EPZ K9 is a technically interesting product, it cannot be recommended from a cost-performance perspective. Equivalent sound quality is achievable with the KZ ZS10 Pro at less than one-tenth of the price. With a budget of USD 599, investing in other alternatives would yield a more certain and significant improvement in performance. There is currently no rational reason to choose the EPZ K9. It is strongly recommended to consider alternatives based on a pure performance-to-price ratio, rather than being swayed by brand image or driver count.
+While the EPZ K9 is a technically interesting product, it cannot be recommended from a cost-performance perspective. Equivalent sound quality is achievable with the KZ ZS10 Pro at a fraction of the price. With a budget of USD 369, investing in other alternatives would yield a more certain and significant improvement in performance. There is currently no rational reason to choose the EPZ K9. It is strongly recommended to consider alternatives based on a pure performance-to-price ratio, rather than being swayed by brand image or driver count.
 
 (2025.7.29)
