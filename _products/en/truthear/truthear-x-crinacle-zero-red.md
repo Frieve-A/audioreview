@@ -1,7 +1,7 @@
 ---
 layout: product
-title: "TruthEar x Crinacle ZERO RED Product Review"
-target_name: "TruthEar x Crinacle ZERO RED"
+title: "TruthEar x Crinacle ZERO:RED Product Review"
+target_name: "TruthEar x Crinacle ZERO:RED"
 company_id: truthear
 lang: en
 ref: truthear-x-crinacle-zero-red
@@ -13,7 +13,7 @@ permalink: /products/en/truthear-x-crinacle-zero-red/
 ---
 ## Overview
 
-The TruthEar x Crinacle ZERO RED is a dual dynamic driver in-ear monitor developed in collaboration with Crinacle, a renowned IEM tuning specialist. It features 10mm and 7.8mm dynamic drivers housed in a medical-grade high-transparency resin shell produced using DLP-3D printing technology. Modified from the original ZERO with revised voice coils and crossover circuitry, it achieves Crinacle's preferred tuning. As an IEM verified by the B&K 5128 measurement system, it emphasizes a scientific approach to sound quality design.
+The TruthEar x Crinacle ZERO:RED is a dual dynamic driver in-ear monitor developed in collaboration with Crinacle, a renowned IEM tuning specialist. It features 10mm and 7.8mm dynamic drivers housed in a medical-grade high-transparency resin shell produced using DLP-3D printing technology. Modified from the original ZERO with revised voice coils and crossover circuitry, it achieves Crinacle's preferred tuning. As an IEM verified by the B&K 5128 measurement system, it emphasizes a scientific approach to sound quality design.
 
 ## Scientific Validity
 
@@ -31,7 +31,7 @@ The 10mm and 7.8mm dual dynamic driver configuration is technically rational, ac
 
 $$ \Large \text{1.0} $$
 
-The TruthEar ZERO RED (approx. USD 55) has no rivals in its price range when it comes to measured performance. There are no objectively proven products that are cheaper yet offer equivalent or superior frequency response and distortion characteristics. It effectively serves as the performance benchmark at this price point. Therefore, as the product under review is the world's most affordable for its level of function and measured performance, its cost-performance score is 1.0. It offers disruptive value.
+The TruthEar ZERO:RED (approx. USD 55) has no rivals in its price range when it comes to measured performance. There are no objectively proven products that are cheaper yet offer equivalent or superior frequency response and distortion characteristics. It effectively serves as the performance benchmark at this price point. Therefore, as the product under review is the world's most affordable for its level of function and measured performance, its cost-performance score is 1.0. It offers disruptive value.
 
 ## Reliability & Support
 
@@ -47,7 +47,7 @@ Collaborating with Crinacle, a specialist known for scientific tuning based on m
 
 ## Advice
 
-The TruthEar x Crinacle ZERO RED delivers an accurate, scientifically-backed sound at an extremely high level of cost-performance. With no real performance competitors in its price range, it stands as one of the best possible choices for users who prioritize objective sound quality.
+The TruthEar x Crinacle ZERO:RED delivers an accurate, scientifically-backed sound at an extremely high level of cost-performance. With no real performance competitors in its price range, it stands as one of the best possible choices for users who prioritize objective sound quality.
 
 **Strongly Recommended for**:
 - Users seeking the best possible acoustic performance on a budget of around USD 55.
