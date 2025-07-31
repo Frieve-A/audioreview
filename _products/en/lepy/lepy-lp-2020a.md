@@ -9,7 +9,7 @@ date: 2025-07-31
 rating: [2.4, 0.3, 0.2, 1.0, 0.4, 0.5]
 summary: "An ultra-low-cost Class-D digital amplifier. Its measured output is significantly lower than the rated 20W×2, but it provides basic performance for its price."
 tags: [Amplifier, Class-D, Digital Amplifier, Budget, Mini Amplifier]
-permalink: /products/en/lepy/lepy-lp-2020a/
+permalink: /products/en/lepy-lp-2020a/
 ---
 
 ## Overview

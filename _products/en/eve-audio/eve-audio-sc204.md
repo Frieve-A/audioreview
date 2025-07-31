@@ -8,10 +8,9 @@ ref: eve-audio-sc204
 date: 2025-07-30
 rating: [3.4, 0.7, 0.8, 0.5, 0.6, 0.8]
 summary: "A 4-inch active studio monitor from the German manufacturer EVE Audio. It delivers high-quality sound with its AMT and SilverCone technologies, but its cost-performance is average due to the existence of competing products with comparable or better performance."
-tags: [Studio Monitor, Active Speaker, Nearfield Monitor, Desktop Monitor]
+tags: [Active speakers, Desktop Monitor, Nearfield Monitor, Studio monitors]
 permalink: /products/en/eve-audio-sc204/
 ---
-
 ## Overview
 
 The EVE Audio SC204 is a 4-inch, two-way active studio monitor manufactured by the German company EVE Audio. The company is known as a specialist in Air Motion Transformer (AMT) technology, founded by former engineers from Adam Audio. The SC204 features a bi-amped Class-D amplifier with 50W (LF) + 50W (HF) and a two-way configuration with a 4-inch SilverCone woofer and a proprietary AMT RS1 tweeter. It incorporates a 24-bit/192kHz Burr-Brown AD converter, providing a DSP-based crossover and acoustic adjustment capabilities. Designed primarily for compact desktop environments and small home studios, it achieves a frequency response of 64Hz-21kHz (-3dB) and a maximum output of 96dB SPL.

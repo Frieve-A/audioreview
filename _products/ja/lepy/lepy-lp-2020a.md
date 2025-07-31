@@ -9,7 +9,7 @@ date: 2025-07-31
 rating: [2.4, 0.3, 0.2, 1.0, 0.4, 0.5]
 summary: "Class-D設計を採用した超低価格デジタルアンプ。公称20W×2に対し実測値は大幅に下回る。価格を考慮すれば基本的な性能は確保している。"
 tags: [アンプ, Class-D, デジタルアンプ, 低価格, ミニアンプ]
-permalink: /products/ja/lepy/lepy-lp-2020a/
+permalink: /products/ja/lepy-lp-2020a/
 ---
 
 ## 概要

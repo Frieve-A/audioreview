@@ -8,10 +8,9 @@ ref: genelec-8341a
 date: 2025-07-30
 rating: [4.0, 0.8, 0.9, 0.5, 0.9, 0.9]
 summary: "フィンランドの老舗Genelecが提供する最先端の3ウェイ・コアキシャル・スタジオモニター。SAM技術とGLM補正により測定性能は業界最高水準を達成しているものの、同等性能の代替品と比較して価格は約2倍となっている。"
-tags: [Studio Monitor, Active Speaker, Coaxial, DSP, Professional Audio]
+tags: [Coaxial, DSP, Professional Audio, アクティブスピーカー, スタジオモニター]
 permalink: /products/ja/genelec-8341a/
 ---
-
 ## 概要
 
 Genelec 8341Aは、フィンランドの老舗スピーカーメーカーであるGenelecが開発した3ウェイ・アクティブ・スタジオモニターです。同社独自のSAM（Smart Active Monitor）技術を搭載し、コアキシャル（同軸）ドライバー構成による点音源設計を特徴としています。ツイーターをミッドウーファーに埋め込んだユニークな構造に加え、2つの専用低域ウーファーを配置することで、従来のスタジオモニターでは困難だった理想的な音像定位を実現しています。GLM（Genelec Loudspeaker Manager）ソフトウェアとの組み合わせにより、ルーム補正機能も提供される業務用途向けの高級機です。

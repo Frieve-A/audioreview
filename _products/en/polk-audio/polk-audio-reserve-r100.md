@@ -8,10 +8,9 @@ ref: polk-audio-reserve-r100
 date: 2025-07-31
 rating: [3.6, 0.6, 0.6, 1.0, 0.7, 0.7]
 summary: "A compact bookshelf speaker with 58Hz-50kHz frequency response. Featuring Pinnacle Ring Radiator technology, it offers excellent cost-performance as it is available at a lower price than major competitors with equivalent performance."
-tags: [Bookshelf Speaker, 2-Way, Hi-Res Compatible, Polk Audio, Reserve]
+tags: [2-Way, Bookshelf speakers, Hi-Res Compatible, Polk Audio, Reserve]
 permalink: /products/en/polk-audio-reserve-r100/
 ---
-
 ## Overview
 
 The Polk Audio Reserve R100 is a compact bookshelf speaker belonging to the company's Reserve series. It features a 2-way design with a 1-inch Pinnacle Ring Radiator tweeter and 5.25-inch Turbine Cone woofer, achieving a frequency response of 58Hz-50kHz. Hi-Res certified with recommended input power of 30-200W, 86dB sensitivity, and 8-ohm impedance (minimum 3.6 ohms). The X-Port with Eigentone Filter technology reportedly reduces conventional speaker distortion, designed for versatile use from home theater to audio applications.

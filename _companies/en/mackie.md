@@ -48,6 +48,6 @@ Mackie's design philosophy appears to prioritize cost and marketing over scienti
 
 ## Advice
 
-Purchasing Mackie products requires careful consideration. If your budget is strictly limited to around $100 and you are looking for a basic upgrade from standard PC speakers, the CR3-X could be an option. However, with a small additional budget, you can acquire products with clearly superior measured performance, such as the JBL 305P MkII or PreSonus Eris E4.5. If you value objective sound quality even slightly, these competing products are strongly recommended. For the MR series and above, it is difficult to find a performance advantage over competitors in the same price range, so they are not recommended for proactive selection.
+Purchasing Mackie products requires careful consideration. If your budget is strictly limited to around 100 USD and you are looking for a basic upgrade from standard PC speakers, the CR3-X could be an option. However, with a small additional budget, you can acquire products with clearly superior measured performance, such as the JBL 305P MkII or PreSonus Eris E4.5. If you value objective sound quality even slightly, these competing products are strongly recommended. For the MR series and above, it is difficult to find a performance advantage over competitors in the same price range, so they are not recommended for proactive selection.
 
 (2025.7.30)

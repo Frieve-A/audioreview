@@ -5,49 +5,49 @@ target_name: "Anker"
 company_id: anker
 lang: en
 ref: anker
-date: 2025-07-09
-rating: [3.2, 0.5, 0.6, 0.9, 0.6, 0.6]
-summary: "Anker entered the audio field with its Soundcore brand, expanding market share through a cost-performance focused approach. While technical level relies mainly on combining existing products, it outperforms competitors in noise-cancelling technology and long battery life in the 10,000 yen price range"
-tags: [Anker, Soundcore, "Wireless Earphones", "Bluetooth Speaker", "Cost Performance"]
+date: 2025-07-31
+rating: [3.3, 0.5, 0.6, 1.0, 0.6, 0.6]
+summary: "Anker, having entered the audio field with its Soundcore brand, is expanding its market share with a strategy focused on superior cost-performance. While its technology level is mainly centered on the application of existing technologies, it achieves high functionality at a price point that overwhelms competitors, especially in the wireless earbud market."
+tags: [Anker, Soundcore, Wireless Earphones, Bluetooth Speaker, Cost Performance]
 permalink: /companies/en/anker/
 ---
 
 ## Overview
 
-Anker is a Chinese technology company established in 2011 that entered the audio field with its Soundcore brand. Leveraging technical expertise cultivated through chargers and mobile batteries, the company develops cost-performance focused wireless earbuds and Bluetooth speakers. As of 2025, Anker boasts a wide product lineup including flagship models like Soundcore Liberty 5 and P40i, gaining particular attention for noise-cancelling technology and long battery life in the 10,000 yen price range.
+Anker is a Chinese technology company established in 2011 that entered the audio field with its Soundcore brand. Leveraging the technical expertise and supply chain cultivated through chargers and mobile batteries, the company develops wireless earbuds and Bluetooth speakers characterized by excellent cost-performance. As of 2025, it boasts a wide product lineup, including flagship models like the `Soundcore Liberty 5` and the affordable `Soundcore P40i`, strengthening its market presence.
 
 ## Scientific Validity
 
 $$ \Large \text{0.5} $$
 
-Anker's technical audio quality improvements include proprietary technologies like BassUp Technology and spatial audio algorithms, but detailed measurement data disclosure is limited. Frequency response claims standard 20Hz-20kHz range, but specific measurement data such as THD and SNR values are not publicly available. The adoption of titanium drivers to minimize sound distortion is commendable, but scientific evidence documentation and objective measurement results from third-party institutions are insufficient. LDAC-compatible models enable transmission of up to 3 times more information, but actual sound quality improvement effects require blind test verification.
+Anker's products feature tuning that emphasizes bass, such as BassUp technology, which tends to deviate from the ideal flat characteristics in terms of fidelity to the master source. Detailed measurement data like frequency response, THD, and S/N ratio are rarely disclosed officially. Third-party measurements show that while the distortion rate of major products is low, the balance of the frequency response is not always neutral. Support for the LDAC codec is commendable, but whether its effect produces a consistently significant auditory difference depends on the usage environment. Overall, the sound quality is good considering the price, but it remains at an average level in terms of the pursuit of scientific fidelity.
 
 ## Technology Level
 
 $$ \Large \text{0.6} $$
 
-Anker's technology centers mainly on product development through combining existing products, with limited fundamental acoustic technology innovation. The adoption of bass-reflex speakers, titanium drivers, and implementation of dual passive radiators efficiently combines proven technologies. The proprietary BassUp Technology shows certain effectiveness in bass enhancement but remains within industry standard technology scope. 2025 flagship models maintain industry average standards in function integration aspects with Dolby Audio support and wireless charging compatibility.
+Anker's strength lies in skillfully combining existing, mature technologies to create products, rather than in innovative proprietary development. They implement standard features required in modern wireless earbuds—such as active noise cancellation, multipoint connection, and transparency mode—at a low cost by integrating them with their own chipsets and apps. Proprietary technologies like BassUp are also primarily applications of existing DSP technology. While no groundbreaking acoustic technologies that lead the industry are apparent, their capability for functional integration and productization exceeds the industry average.
 
 ## Cost-Performance
 
-$$ \Large \text{0.9} $$
+$$ \Large \text{1.0} $$
 
-Anker's greatest strength lies in high cost-performance. Soundcore P40i (7,990 yen) achieves approximately 0.67 price ratio against equivalent function Sony and JBL competitive products (12,000-15,000 yen). Liberty 5 (14,990 yen) achieves 0.6 price ratio compared to Sony WF-1000XM4 (25,000 yen) with equivalent noise-cancelling functionality. The 10,000 yen range noise-cancelling technology "Ultra Noise Cancelling 2.0" demonstrates performance comparable to Sony's former high-end models, providing the highest level cost-performance within the product category.
+Anker's greatest strength is its overwhelming cost-performance that defies market conventions. For example, the flagship model `Soundcore Liberty 5` offers high-performance noise cancellation, LDAC, and Dolby Audio support for a price of 129 USD. This is less than half the price of Sony's high-end model, the `WF-1000XM5` (approx. 300 USD), which has comparable features. Furthermore, the entry-level model `Soundcore P40i` (approx. 60 USD) is also significantly cheaper than competitors like the JBL `TUNE BEAM` (approx. 80-120 USD). As such, their main products offer what are effectively the world's most affordable options in their respective feature categories, earning them the highest rating for cost-performance.
 
 ## Reliability & Support
 
 $$ \Large \text{0.6} $$
 
-Anker provides standard 18-month product warranty, extendable to 24 months through member registration. Exchange and repair response for product defects is prompt, with domestic support systems properly established. However, specific data on failure rates and MTBF are not publicly available. Firmware update support through the Soundcore app is implemented, but continuity of long-term software support has limited track record. Considering the price range, industry average level support systems are provided.
+Anker offers a standard 18-month product warranty, which can be extended by an additional 6 months to a maximum of 24 months through member registration on their official website. Their response for exchanges and repairs in case of product defects is prompt, and a solid support system is in place. However, specific data on failure rates or MTBF are not publicly disclosed. Firmware updates via the Soundcore app are provided consistently, offering a support system that is above the industry average considering the price range.
 
 ## Rationality of Design Philosophy
 
 $$ \Large \text{0.6} $$
 
-Anker's design philosophy follows an approach of "providing high performance at low prices," prioritizing cost-performance over sound quality improvement. Design emphasizing practicality such as maximizing battery life and improving waterproof performance is rational. However, in sound quality aspects, there's a bass-heavy tendency seen in "BassUp" technology, making it unsuitable for applications requiring flat acoustic characteristics. The necessity of existing as dedicated audio equipment is limited to combinations of long battery life and waterproof performance. Sound quality comparison with smartphone + external DAC shows unclear advantages.
+Anker's design philosophy is centered on the approach of "providing high performance at low prices," prioritizing cost-performance over the absolute pursuit of sound quality, which is highly rational. Their design philosophy consistently emphasizes practicality, such as maximizing battery life and improving water resistance. However, in terms of sound quality, there is a tendency towards bass-heavy sound, as seen in the "BassUp" technology, making it less suitable for applications requiring faithful sound reproduction. Its necessity as a dedicated audio device lies in its ability to combine multi-functionality and long battery life at a price point difficult to achieve with general-purpose devices.
 
 ## Advice
 
-Anker realizes the concept of "cheap, good sound, and durable," representing a cost-performance focused audio brand. When considering completely wireless earbuds within a 10,000 yen budget, Soundcore P40i becomes a viable option. It's particularly suitable for users prioritizing long battery life (maximum 192 hours) and waterproof performance. However, compromises in sound quality aspects are unavoidable, making it unsuitable for Hi-Fi audio applications. Noise-cancelling functionality demonstrates excellent performance for the 10,000 yen range, but clear sound quality differences exist with premium audio brands. While recommendable for demographics prioritizing cost-performance and practicality, audio purists should consider other alternatives.
+Anker is one of the most rational choices for users seeking feature-rich audio products on a budget. The `Soundcore Liberty 5` and `Liberty 4 NC` are strong contenders, especially if you are looking for high-performance true wireless earbuds under 150 USD. The ability to get long battery life and practical noise-cancellation features at a fraction of the competitor's price is a major appeal. The entry-level `Soundcore P40i` offers up to 12 hours of playback on a single charge and a total of 60 hours with the charging case, making it ideal for users who cannot charge frequently. However, the sound quality is not flat and tends to emphasize bass, so those seeking a monitor-like sound should consider other options.
 
-(2025.7.9)
+(2025.7.31)

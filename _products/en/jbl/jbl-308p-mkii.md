@@ -8,10 +8,9 @@ ref: jbl-308p-mkii
 date: 2025-07-31
 rating: [4.0, 0.8, 0.7, 1.0, 0.8, 0.7]
 summary: "JBL's 8-inch studio monitor combines good near-transparent measurement performance and solid technical capabilities with excellent cost-performance."
-tags: [Studio Monitor, Near Field Monitor, JBL, Class-D Amplifier, Active Speaker]
+tags: [Active speakers, Class-D Amplifier, JBL, Near Field Monitor, Studio monitors]
 permalink: /products/en/jbl-308p-mkii/
 ---
-
 ## Overview
 
 The JBL 308P MkII is a powered studio monitor featuring an 8-inch woofer and a 1-inch neodymium tweeter. Established in 1946, JBL is a veteran acoustic manufacturer with a diverse portfolio ranging from cinema speakers to professional audio equipment. The 308P MkII is part of the company's LSR series, incorporating technologies from higher-end models such as the Image Control Waveguide and Class-D amplification. With dual 56W Class-D amplifiers delivering 112W of total power and a frequency response of 45Hz-20kHz, it is positioned as a comprehensive studio monitoring solution.

@@ -8,10 +8,9 @@ ref: adam-audio-a5x
 date: 2025-07-31
 rating: [2.5, 0.6, 0.8, 0.2, 0.4, 0.5]
 summary: "A 5.5-inch nearfield monitor featuring X-ART tweeter technology, but suffers from clear frequency response issues at 1.1kHz due to front-port design and limited support due to discontinuation."
-tags: [Studio Monitor, Nearfield, X-ART Tweeter, Discontinued Product]
+tags: [Discontinued Product, Nearfield, Studio monitors, X-ART Tweeter]
 permalink: /products/en/adam-audio-a5x/
 ---
-
 ## Overview
 
 The ADAM Audio A5X is a 2-way active nearfield monitor combining the company's distinctive X-ART folded ribbon tweeter with a 5.5-inch woofer. It features 50W amplifiers for both tweeter and woofer, achieving a maximum output of 110dB SPL. The driver utilizes carbon fiber/rohacell/glass fiber composite materials to improve dynamic characteristics. However, it is now a discontinued product, making new purchases difficult.

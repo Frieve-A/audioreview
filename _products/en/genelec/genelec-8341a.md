@@ -8,10 +8,9 @@ ref: genelec-8341a
 date: 2025-07-30
 rating: [4.0, 0.8, 0.9, 0.5, 0.9, 0.9]
 summary: "Finland's veteran manufacturer Genelec delivers this cutting-edge 3-way coaxial studio monitor. While SAM technology and GLM correction achieve industry-leading measurement performance, the price is approximately twice as high compared to alternatives with equivalent performance."
-tags: [Studio Monitor, Active Speaker, Coaxial, DSP, Professional Audio]
+tags: [Active speakers, Coaxial, DSP, Professional Audio, Studio monitors]
 permalink: /products/en/genelec-8341a/
 ---
-
 ## Overview
 
 The Genelec 8341A is a 3-way active studio monitor developed by the veteran Finnish speaker manufacturer Genelec. Featuring the company's proprietary SAM (Smart Active Monitor) technology, it employs a coaxial driver configuration for a point source design. The unique structure embeds the tweeter within the midwoofer, complemented by two dedicated bass woofers, achieving ideal stereo imaging that was previously difficult for conventional studio monitors. Combined with GLM (Genelec Loudspeaker Manager) software, it provides room correction functionality as a high-end unit for professional applications.

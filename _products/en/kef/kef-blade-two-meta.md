@@ -8,10 +8,9 @@ ref: kef-blade-two-meta
 date: 2025-07-31
 rating: [3.1, 0.8, 0.9, 0.4, 0.5, 0.5]
 summary: "The KEF Blade Two Meta is a flagship speaker with a technically advanced design, but equivalent or superior performance is achievable through more affordable alternatives."
-tags: [Floor-standing Speaker, Uni-Q, Metamaterial, High-end]
+tags: [Floorstanding speakers, High-end, Metamaterial, Uni-Q]
 permalink: /products/en/kef-blade-two-meta/
 ---
-
 ## Overview
 
 The KEF Blade Two Meta is a flagship floor-standing speaker developed by KEF, a renowned British audio manufacturer. It features a sculptural and distinctive cabinet housing the 12th generation Uni-Q driver with newly developed Metamaterial Absorption Technology (MAT), along with four 165mm bass drivers providing powerful low-frequency reproduction. Founded in 1961, KEF is known for technical innovation and has earned high industry recognition as a pioneer in coaxial driver technology.

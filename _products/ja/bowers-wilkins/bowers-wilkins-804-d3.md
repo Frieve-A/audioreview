@@ -8,10 +8,9 @@ ref: bowers-wilkins-804-d3
 date: 2025-07-31
 rating: [2.7, 0.3, 0.7, 0.2, 0.8, 0.7]
 summary: "Third-generation Diamond Series floorstanding speaker. Despite featuring a diamond tweeter and Continuum FST technology, there are challenges in its measured performance and price balance."
-tags: [Speaker, Floorstanding, High-End, 3-Way, Diamond Tweeter]
+tags: [3-Way, Diamond Tweeter, Floorstanding, スピーカー, ハイエンド]
 permalink: /products/en/bowers-wilkins-804-d3/
 ---
-
 ## Overview
 
 The Bowers & Wilkins 804 D3 is a floorstanding speaker from the third generation of the Diamond Series, developed by the established British audio manufacturer. It features a 3-way design with a 25mm diamond dome tweeter, a 130mm Continuum FST midrange driver, and two 165mm Aerofoil cone bass drivers. The manufacturer specifies a frequency response of 24Hz-28kHz (±3dB). Positioned as a staple product in the premium audio market, it builds on the company's history and brand strength. The speaker is designed to provide both visual and acoustic presence through high-quality cabinet finishing and proprietary driver technology.
@@ -32,7 +31,7 @@ The diamond dome tweeter represents the company's flagship technology with theor
 
 $$ \Large \text{0.2} $$
 
-The 804 D3 is discontinued, making new units unavailable. Its original launch price was approximately $9,000 per pair. The successor model, the 804 D4, currently sells for around $14,000 per pair. For comparison, current 3-way floorstanding speakers such as the ELAC Uni-Fi Reference UFR52 (approx. $1,400 per pair) and the Revel Concerta2 F36 (approx. $2,200 per pair) offer superior or comparable measured performance at a fraction of the price. Based on the price difference with current products offering equivalent function and superior measured performance, the cost-performance is evaluated poorly. The calculation is `1,400 USD ÷ 9,000 USD ≒ 0.16`, resulting in a score of 0.2.
+The 804 D3 is discontinued, making new units unavailable. Its original launch price was approximately 9,000 USD per pair. The successor model, the 804 D4, currently sells for around 14,000 USD per pair. For comparison, current 3-way floorstanding speakers such as the ELAC Uni-Fi Reference UFR52 (approx. 1,400 USD per pair) and the Revel Concerta2 F36 (approx. 2,200 USD per pair) offer superior or comparable measured performance at a fraction of the price. Based on the price difference with current products offering equivalent function and superior measured performance, the cost-performance is evaluated poorly. The calculation is `1,400 USD ÷ 9,000 USD ≒ 0.16`, resulting in a score of 0.2.
 
 ## Reliability & Support
 

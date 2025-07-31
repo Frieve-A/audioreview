@@ -8,10 +8,9 @@ ref: tanchjim-force
 date: 2025-07-31
 rating: [3.2, 0.7, 0.8, 0.3, 0.6, 0.8]
 summary: "An advanced IEM from the Tanchjim x Effect Audio collaboration. However, it faces a significant cost-performance issue, with alternatives offering equivalent or better acoustic performance available for less than a third of the price."
-tags: [IEM, Dual Dynamic, Open-back, Tanchjim, Effect Audio, Collaboration]
+tags: [Collaboration, Dual Dynamic, Effect Audio, In-ear monitors, Open-back, Tanchjim]
 permalink: /products/en/tanchjim-force/
 ---
-
 ## Overview
 
 The Tanchjim Force is a 279.99 USD dual dynamic IEM co-developed by Tanchjim and Effect Audio. It features 8.2mm and 10mm dynamic drivers of different sizes and adopts an unusual open-back design structure. Founded in 2015, Tanchjim has established a solid position as a high-quality Chinese IEM brand, known for popular models like Oxygen and Origin. The Force is based on the company's DMT4 Ultra technology and aims for high-precision acoustic control through drivers with beryllium and titanium coatings.

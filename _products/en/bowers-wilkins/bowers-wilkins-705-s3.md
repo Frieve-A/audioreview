@@ -8,10 +8,9 @@ ref: bowers-wilkins-705-s3
 date: 2025-07-31
 rating: [3.1, 0.7, 0.7, 0.5, 0.4, 0.8]
 summary: "A high-end bookshelf speaker that demonstrates standard-level performance in scientific measurements but faces challenges in cost-performance and support quality"
-tags: [Bookshelf Speaker, High-End Audio, Bowers & Wilkins, Passive Speaker]
+tags: [Bookshelf speakers, Bowers & Wilkins, High-End Audio, Passive speakers]
 permalink: /products/en/bowers-wilkins-705-s3/
 ---
-
 ## Overview
 
 The Bowers & Wilkins 705 S3 is a bookshelf speaker from the company's 700 series. The current S3 generation features technology transferred from the upper 800 series, including the Decoupled Carbon Dome™ tweeter and Continuum™ cone woofer, establishing its position in the high-end audio market. As a product from the historic British audio manufacturer B&W, it incorporates the company's technical expertise and attracts attention from many audio enthusiasts worldwide.

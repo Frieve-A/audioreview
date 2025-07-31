@@ -8,10 +8,9 @@ ref: tanchjim-force
 date: 2025-07-31
 rating: [3.2, 0.7, 0.8, 0.3, 0.6, 0.8]
 summary: "Tanchjim x Effect Audio共同開発の先進的なIEM。しかし、音響性能で同等以上の選択肢が1/3以下の価格で存在するため、コストパフォーマンスに極めて大きな課題を持つ。"
-tags: [IEM, デュアルダイナミック, オープンバック, Tanchjim, Effect Audio, コラボレーション]
+tags: [Effect Audio, Tanchjim, インイヤーモニター, オープンバック, コラボレーション, デュアルダイナミック]
 permalink: /products/ja/tanchjim-force/
 ---
-
 ## 概要
 
 Tanchjim ForceはTanchjimとEffect Audioの共同開発による279.99 USDのデュアルダイナミックIEMです。8.2mmと10mmの異なるサイズのダイナミックドライバーを搭載し、オープンバック設計という珍しい構造を採用しています。2015年設立のTanchjimは中国の高品質IEMブランドとして確固たる地位を築いており、OxygenやOriginなどの人気モデルで知られています。Forceは同社のDMT4 Ultra技術を基盤とし、ベリリウムコーティングとチタンコーティングを施したドライバーによる高精度な音響制御を目指した製品です。

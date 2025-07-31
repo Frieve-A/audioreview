@@ -34,7 +34,7 @@ $$ \Large \text{0.5} $$
 
 The UX3000's market price is 102 USD, whereas the Anker Soundcore Life Q30, which offers equivalent or superior features, is available for 58 USD. The cost-performance value is calculated as 58 / 102 = 0.57, making the UX3000 approximately 1.8 times more expensive than its competitor. The Life Q30 provides the same hybrid ANC, longer battery life (up to 60 hours), and multipoint connectivity, exceeding the UX3000 in user-oriented features. While the UX3000 holds an advantage in codec support, it is clearly inferior in the overall function-to-price ratio.
 
-## Reliability and Support
+## Reliability & Support
 
 $$ \Large \text{0.7} $$
 

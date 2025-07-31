@@ -8,10 +8,9 @@ ref: ik-multimedia-iloud-mtm-mkii
 date: 2025-07-31
 rating: [3.7, 0.7, 0.7, 0.9, 0.5, 0.9]
 summary: "A compact active studio monitor featuring an advanced ARC auto-calibration system. It provides an ideal solution for small studios through excellent measurement performance and innovative technology."
-tags: [Studio Monitor, Active Speaker, Room Correction, MTM, Compact]
+tags: [Active speakers, Compact, MTM, Room Correction, Studio monitors]
 permalink: /products/en/ik-multimedia-iloud-mtm-mkii/
 ---
-
 ## Overview
 
 The IK Multimedia iLoud MTM MKII is a compact active studio monitor featuring an advanced ARC (Automatic Room Correction) system. Its MTM (Midwoofer-Tweeter-Midwoofer) configuration includes two 3.5-inch woofers and a 1-inch tweeter, driven by a 100W Class-D bi-amp system. By doubling the DSP processing power of its predecessor and adopting more efficient drivers, it achieves professional studio monitoring performance in a small footprint. The included ARC measurement microphone automatically performs room correction via a 4-point measurement system, and the X-MONITOR software provides emulation of other famous monitor brands.

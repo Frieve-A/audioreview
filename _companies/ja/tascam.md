@@ -1,53 +1,53 @@
 ---
-layout: product
-title: "TASCAM DR-07XP Product Review"
-target_name: "TASCAM DR-07XP"
+layout: company
+title: "Tascam プロフェッショナルオーディオ機器"
+target_name: "Tascam"
 company_id: tascam
-lang: en
-ref: tascam-dr-07xp
+lang: ja
+ref: tascam
 date: 2025-07-30
-rating: [3.6, 0.8, 0.7, 0.6, 0.7, 0.8]
-summary: "A portable recorder supporting 32-bit float recording. It boasts high audio performance and a sound design philosophy, but its cost-performance is somewhat inferior compared to competing products."
-tags: [TASCAM, Portable Recorder, 32-bit Float, USB-C, Stereo Microphone]
-permalink: /products/en/tascam-dr-07xp/
+rating: [3.9, 0.7, 0.7, 1.0, 0.7, 0.8]
+summary: "プロフェッショナルオーディオ機器メーカーとして長い歴史を持つTascamの科学的評価。Ultra HDDA技術は独自の評価を誇り、同機能クラスでは最もコストパフォーマンスに優れた製品を提供しており、総合的に高評価となっています。"
+tags: [プロフェッショナルオーディオ, レコーディング, デジタルオーディオ, Ultra HDDA, 日本メーカー]
+permalink: /companies/ja/tascam/
 ---
 
-## Overview
+## 概要
 
-The TASCAM DR-07XP is a portable handy recorder announced in January 2025 that supports 32-bit float recording. It features a USB-C interface and built-in stereo microphones that can be switched between A/B and X/Y configurations. Supporting recording up to 96kHz, it is designed for a wide range of applications, including music production, podcast recording, and video production. TASCAM is a brand with a long-standing reputation in manufacturing professional audio equipment, and the DR-07XP is designed leveraging this accumulated technical expertise.
+Tascamは1970年代から続くプロフェッショナルオーディオ機器の老舗メーカーです。現在はTeac Corporation傘下で、ポータブルレコーダーからスタジオミキサーまで幅広いプロフェッショナル機器を展開しています。主な製品にはModel 12/16シリーズの多機能レコーディングミキサー、USシリーズのプロフェッショナルオーディオインターフェース、DRシリーズのポータブルレコーダーなどがあります。独自のUltra HDDA（High Definition Discrete Architecture）技術を開発しており、「音質に妥協しないための独自の設計」を特徴としています。
 
-## Scientific Validity
-
-$$ \Large \text{0.8} $$
-
-The DR-07XP demonstrates excellent measured performance. Its frequency response achieves 20Hz-20kHz (+0/-1dB) at 44.1kHz, 20Hz-22kHz (+0/-1dB) at 48kHz, and 20Hz-40kHz (+0/-1.5dB) at 96kHz. While not reaching the transparent level standard of ±0.5dB, these characteristics are well below the problematic level of ±3.0dB, indicating favorable performance. The THD+N is ≤0.01%, clearing the transparent level standard, which means distortion-induced audio degradation is negligible to human hearing. The maximum SPL specification of 125dB provides sufficient headroom for recording high-volume sources. The 32-bit float recording function significantly reduces the risk of audio quality degradation due to level adjustment failures. These measurement results are highly commendable from the perspective of fidelity to the master audio source.
-
-## Technology Level
+## 科学的有効性
 
 $$ \Large \text{0.7} $$
 
-The implementation of 32-bit float recording technology is an advanced feature in the current portable recorder market. This technology effectively eliminates audio quality degradation from recording level setting errors, representing a highly rational technical implementation. The switchable microphone arrangement between A/B and X/Y configurations is also a technical innovation that allows for optimization according to recording applications. The inclusion of USB-C interface functionality, achieving both recording and audio interface functions in a single device, is commendable. However, while these technologies represent the current industry standard, they do not reach a truly innovative level. Design uniqueness and patent-level technical innovation are limited, with the implementation being more of an appropriate combination of existing technologies.
+Ultra HDDA技術はデジタル信号処理による音質向上技術の採用、高音質を目指した設計で、科学的根拠に基づく評価が可能です。ただし、主な製品であるModel 16の詳細な測定データ（THD、SNR、ノイズフロアなど）は公開されておらず、科学的有効性の客観的な評価が困難です。Ultra HDDA技術の改善効果は理論的には妥当であるものの、具体的な測定値による検証が不可能で、最新の高品質なプロフェッショナルオーディオインターフェースとの比較検証もできません。改善が必要です。より詳細な測定データの開発が望まれます。
 
-## Cost-Performance
-
-$$ \Large \text{0.6} $$
-
-Against the DR-07XP's Japanese market price of 26,134 JPY, the cheapest competing product with equivalent basic functionality is the Zoom H1essential (approx. 14,500 JPY). The H1essential also features 32-bit float recording, a USB-C interface, and stereo microphones, providing the same core functionality as the DR-07XP. The cost-performance score is calculated as `14,500 JPY ÷ 26,134 JPY = 0.554`, which rounds to 0.6. While the DR-07XP has advantages over the H1essential, such as the switchable microphone arrangement and a longer battery life of approximately 17.5 hours, it is questionable whether these additional features fully justify the price difference. Since the basic recording functionality is equivalent for users, the existence of a more affordable alternative lowers the cost-performance evaluation.
-
-## Reliability & Support
+## 技術レベル
 
 $$ \Large \text{0.7} $$
 
-TASCAM, a brand established in 1971, has built a solid position in the industry. Supported by the long history and achievements of its parent company, TEAC Corporation, its products have been used for many years in broadcasting stations, recording studios, and educational institutions, earning a high reputation for product reliability. The DR-07XP is expected to be manufactured under the same quality control standards as the company's conventional products, with failure rates anticipated to be below the industry average. Support systems, including repair services and warranty support, meet industry-standard levels. However, it does not offer exceptionally superior support systems or extended warranties compared to some emerging manufacturers, resulting in an industry-average evaluation.
+Ultra HDDA技術は、デジタル信号処理による音質向上技術と高音質設計を組み合わせた独自技術で、クロストークの影響を軽減する可能性のある設計を目指しています。24bit/192kHz対応、4トラック録音までの同時録音設定など、基本的な仕様は満たしています。ただし、業界最先端の技術と比較すると、基本的なユニバーサルオーディオやUSB接続は標準的です。ファームウェアアップデートの頻度は適切で、2025年現在はWindows 11やmacOS最新版への対応が進んでいる点は評価できます。
 
-## Rationality of Design Philosophy
+## コストパフォーマンス
+
+$$ \Large \text{1.0} $$
+
+主な製品である多機能レコーディングミキサーModel 16（888 USD）は、ミキサー、ポータブルレコーダー、プロフェッショナルオーディオインターフェース機能を統合しています。比較対象としては、同価格Model 16と同等「14チャンネル入力/16トラック録音」という仕様と同等以上の機能を持つ製品2つのうち、最も高価な選択肢と比較する必要があります。比較の結果、同価格帯の製品でも同等以上の仕様を持つZoom LiveTrak L-20は、より高価です。したがって、Model 16はその機能クラスにおいて世界的に最も安価な選択肢となり、競合品が存在しないためコストパフォーマンスを1.0と評価します。
+
+## 信頼性・サポート
+
+$$ \Large \text{0.7} $$
+
+2024年に導入された新保証制度により、購入後1年間の部品・修理費の保証が提供されており、従来の90日間の部品保証から大幅な改善です。ファームウェアやドライバーの更新は定期的に実施されており、2025年現在はWindows/Macの最新OSへの対応が進んでいます。業界標準的なサポートの水準は確保されているものの、最高水準とは言えません。
+
+## 設計思想の合理性
 
 $$ \Large \text{0.8} $$
 
-The DR-07XP's design philosophy is scientifically grounded and demonstrates high rationality. The adoption of 32-bit float recording represents a liberation from the analog constraints of recording level adjustment, constituting a rational choice that leverages the essential advantages of digital recording technology. The switchable microphone arrangement is also a practical design that enables optimization according to the recording subject and environment. The adoption of a USB-C interface is a forward-looking judgment, and the move away from the conventional Micro-USB is commendable. The technical direction toward achieving transparent levels, as evidenced by measurement results, is clear, maintaining a scientific approach independent of occult audio theories. The stance of demonstrating the value of dedicated equipment through technical superiority in competition with general-purpose devices is also rational.
+「音質に妥協しないための独自の設計」という設計思想は科学的に妥当です。Ultra HDDA技術のデジタル信号処理設計、ミキサー、技術的には高音質に貢献する要素として評価できます。コストパフォーマンスの観点から、Model 16は多機能な同価格レコーディングミキサーシステムとして、その仕様クラスにおいて最も安価な製品で提供されており、非常に合理的です。ただし、その仕様を裏付ける詳細な測定データが公開されていない点は、科学的な根拠の観点から改善が望まれます。
 
-## Advice
+## アドバイス
 
-While the DR-07XP is a technically excellent product, we recommend a careful evaluation of its cost-performance before purchasing. If the versatility of the switchable microphone arrangement and the long battery life of approximately 17.5 hours are essential for your applications, the price difference may be justified. However, if you only require basic 32-bit float recording functionality, competing products like the Zoom H1essential are a sufficient alternative. For professional applications or if you might need XLR inputs in the future, higher-end models like Zoom's H4e or H6e series should also be considered. If you value the long-standing reliability and support system of the TASCAM brand, the price difference may be acceptable. Before purchasing, clearly define your recording applications and required functions, and carefully judge whether the investment matches those needs.
+Tascamは技術的に独自のアプローチを採用しており、特にModel 16はコストパフォーマンスにおいて優れています。同価格のミキサーとポータブルレコーダー機能を統合した同価格ミキサーの中で、Model 16（888 USD）は最も安価な選択肢です。より多機能な上位機種も存在するものの、価格が高くなります。したがって、オーディオインターフェースとしての機能性を重視し、16トラックの同時録音が可能なミキサーシステムを低コストで構築したいユーザーにとって、Tascam Model 16は現在最も合理的な選択肢と言えるでしょう。改善のための提案点は、仕様を裏付ける詳細な測定データが十分に公開されていない点です。
 
 (2025.7.30)

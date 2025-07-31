@@ -8,10 +8,9 @@ ref: jbl-l52-classic
 date: 2025-07-31
 rating: [2.1, 0.3, 0.4, 0.3, 0.7, 0.4]
 summary: "Compact bookshelf speaker prioritizing retro design. Challenges in measurement performance and price competitiveness, with alternatives offering equivalent performance at a significantly lower cost."
-tags: [Bookshelf Speaker, Passive Speaker, 2-Way, Retro Design]
+tags: [2-Way, Bookshelf speakers, Passive speakers, Retro Design]
 permalink: /products/en/jbl-l52-classic/
 ---
-
 ## Overview
 
 The JBL L52 Classic is a compact 2-way bookshelf speaker developed as the smallest model in the "Classic Series," which offers a modern reinterpretation of the company's 1970s speakers. It combines a 19mm titanium dome tweeter with a 133mm pure pulp cone woofer, housed in a walnut-finished enclosure with a distinctive Quadrex foam grille (available in orange, black, and dark blue). The product aims to merge vintage aesthetics with contemporary technology.
