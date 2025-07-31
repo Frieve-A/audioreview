@@ -1,7 +1,7 @@
 ---
 layout: product
-title: "WiiM-Pro Plus 製品レビュー"
-target_name: "WiiM-Pro Plus"
+title: "WiiM Pro Plus 製品レビュー"
+target_name: "WiiM Pro Plus"
 company_id: wiim
 lang: ja
 ref: wiim-pro-plus

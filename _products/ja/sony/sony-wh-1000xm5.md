@@ -1,7 +1,7 @@
 ---
 layout: product
 title: "Sony WH-1000XM5 製品レビュー"
-target_name: "Sony-WH-1000XM5"
+target_name: "Sony WH-1000XM5"
 company_id: sony
 lang: ja
 ref: sony-wh-1000xm5

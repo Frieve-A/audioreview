@@ -1,7 +1,7 @@
 ---
 layout: product
 title: "Anker Soundcore P40i Product Review"
-target_name: "Anker-Soundcore-P40i"
+target_name: "Anker Soundcore P40i"
 company_id: anker
 lang: en
 ref: anker-soundcore-p40i

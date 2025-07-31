@@ -1618,3 +1618,67 @@ a:hover {
     font-size: 16px;
   }
 }
+
+/* Auto-linker styles */
+.auto-link {
+  color: #00AA44;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+.auto-link:hover {
+  color: #008833;
+  text-decoration: underline;
+}
+
+.auto-link-company {
+  background-color: rgba(0, 170, 68, 0.1);
+  padding: 1px 2px;
+  border-radius: 2px;
+}
+
+.auto-link-product {
+  background-color: rgba(0, 136, 204, 0.1);
+  padding: 1px 2px;
+  border-radius: 2px;
+}
+
+.auto-link-company:hover {
+  background-color: rgba(0, 170, 68, 0.2);
+}
+
+.auto-link-product:hover {
+  background-color: rgba(0, 136, 204, 0.2);
+}
+
+/* Tooltip styles */
+.auto-link[data-tooltip] {
+  position: relative;
+}
+
+.auto-link[data-tooltip]:hover::after {
+  content: attr(data-tooltip);
+  position: absolute;
+  bottom: 100%;
+  left: 50%;
+  transform: translateX(-50%);
+  background-color: #333;
+  color: white;
+  padding: 5px 8px;
+  border-radius: 4px;
+  font-size: 12px;
+  white-space: nowrap;
+  z-index: 1000;
+  margin-bottom: 5px;
+}
+
+.auto-link[data-tooltip]:hover::before {
+  content: '';
+  position: absolute;
+  bottom: 100%;
+  left: 50%;
+  transform: translateX(-50%);
+  border: 5px solid transparent;
+  border-top-color: #333;
+  margin-bottom: -5px;
+}

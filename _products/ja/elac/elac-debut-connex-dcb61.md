@@ -1,7 +1,7 @@
 ---
 layout: product
-title: "ELAC-Debut ConneX DCB61 製品レビュー"
-target_name: "ELAC-Debut ConneX DCB61"
+title: "ELAC Debut ConneX DCB61 製品レビュー"
+target_name: "ELAC Debut ConneX DCB61"
 company_id: elac
 lang: ja
 ref: elac-debut-connex-dcb61

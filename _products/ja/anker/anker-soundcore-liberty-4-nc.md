@@ -1,7 +1,7 @@
 ---
 layout: product
 title: "Anker Soundcore Liberty 4 NC 製品レビュー"
-target_name: "Anker-Soundcore-Liberty-4-NC"
+target_name: "Anker Soundcore Liberty 4 NC"
 company_id: anker
 lang: ja
 ref: anker-soundcore-liberty-4-nc
