@@ -1,7 +1,7 @@
 ---
 layout: product
 title: "procable WATTEGATE シールド電源ケーブル 製品レビュー"
-target_name: "procable WATTGATE シールド電源ケーブル"
+target_name: "procable WATTEGATE シールド電源ケーブル"
 company_id: procable
 lang: ja
 ref: procable-wattegate-shielded-power-cable

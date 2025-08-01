@@ -649,6 +649,22 @@ class ReviewValidator:
         
         return issues
     
+    def validate_title_target_name_consistency(self, review: ReviewData) -> List[str]:
+        """Check if the first part of title matches target_name"""
+        issues = []
+        
+        if not review.title or not review.target_name:
+            return issues
+        
+        # Get the first part of title with the same length as target_name
+        title_first_part = review.title[:len(review.target_name)]
+        
+        # Compare with target_name (case-insensitive)
+        if title_first_part.lower() != review.target_name.lower():
+            issues.append(f"Title first part '{title_first_part}' does not match target_name '{review.target_name}'")
+        
+        return issues
+    
     def validate_score_consistency_between_languages(self) -> List[str]:
         """Check score consistency between Japanese and English reviews of the same product"""
         issues = []
@@ -735,6 +751,7 @@ class ReviewValidator:
             # Add new validations
             issues.extend(self.validate_date_consistency(review))
             issues.extend(self.validate_date_range(review))
+            issues.extend(self.validate_title_target_name_consistency(review))
             
             review.issues = issues
             self.reviews.append(review)
@@ -815,6 +832,8 @@ class ReviewValidator:
                     category = "Date Consistency Error"
                 elif "before site launch" in issue.lower() or "in the future" in issue.lower():
                     category = "Date Range Error"
+                elif "title first part" in issue.lower() or "does not match target_name" in issue.lower():
+                    category = "Title Consistency Error"
                 else:
                     category = "Other"
                 
@@ -883,7 +902,8 @@ class ReviewValidator:
             "Date mismatch": "11. **Date Consistency Error**: Metadata date must match article end date in parentheses",
             "Article end date not found": "11. **Date Consistency Error**: Article must end with date in parentheses (YYYY-MM-DD)",
             "before site launch": "12. **Date Range Error**: Dates must be between site launch date (2025-07-05) and current date",
-            "in the future": "12. **Date Range Error**: Dates must be between site launch date (2025-07-05) and current date"
+            "in the future": "12. **Date Range Error**: Dates must be between site launch date (2025-07-05) and current date",
+            "Title first part": "13. **Title Consistency Error**: Title first part must match target_name exactly"
         }
         
         # Get unique recommendations

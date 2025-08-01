@@ -1,6 +1,6 @@
 ---
 layout: product
-title: "DALI OPTICON 6 製品レビュー"
+title: "DALI OPTICON 6 (初期モデル) 製品レビュー"
 target_name: "DALI OPTICON 6 (初期モデル)"
 company_id: dali
 lang: ja

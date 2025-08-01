@@ -1,6 +1,6 @@
 ---
 layout: product
-title: "DALI OPTICON 6 Product Review"
+title: "DALI OPTICON 6 (Initial Model) Product Review"
 target_name: "DALI OPTICON 6 (Initial Model)"
 company_id: dali
 lang: en

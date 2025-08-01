@@ -1,6 +1,6 @@
 ---
 layout: product
-title: "TEAC-Portacapture X8 製品レビュー"
+title: "TEAC Portacapture X8 製品レビュー"
 target_name: "TEAC Portacapture X8"
 company_id: teac
 lang: ja
