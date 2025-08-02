@@ -8,10 +8,9 @@ ref: moondrop-rays
 date: 2025-08-01
 rating: [4.1, 0.8, 0.8, 1.0, 0.7, 0.8]
 summary: "Gaming IEM with hybrid configuration and DSP functionality. Features excellent measurement performance and high technical level, achieving the lowest price among competing products with equivalent functionality for outstanding cost-performance."
-tags: [Gaming, Hybrid, IEM, USB-C, DSP]
+tags: [DSP, Gaming, Hybrid, In-ear monitors, USB-C]
 permalink: /products/en/moondrop-rays/
 ---
-
 ## Overview
 
 The Moondrop Rays is a gaming-oriented in-ear monitor released in 2025 by Chinese manufacturer Moondrop. It features a hybrid configuration combining a 10mm sapphire-coated diaphragm dynamic driver with a 6mm ring-shaped planar magnetic driver, and incorporates USB-C connectivity with built-in DSP gaming sound card functionality. Positioned as the company's first gaming model, it includes AI voice enhancement algorithms with noise canceling capability and visual multipoint parametric EQ adjustment features. Priced at 110 USD in the US market, it was developed through collaboration with professional gamers.

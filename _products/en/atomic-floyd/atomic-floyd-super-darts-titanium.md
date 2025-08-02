@@ -6,7 +6,7 @@ company_id: atomic-floyd
 lang: en
 ref: atomic-floyd-super-darts-titanium
 date: 2025-08-01
-rating: [1.1, 0.2, 0.4, 0.1, 0.1, 0.3]
+rating: [1.4, 0.2, 0.4, 0.1, 0.4, 0.3]
 summary: "A hybrid driver earphone with titanium construction, but features severe audio quality issues including a sharp resonance peak around 10kHz and midrange recession. At its launch price of 399 USD, modern hybrid earphones costing around 30 USD offer equivalent or superior performance, resulting in extremely poor cost-performance."
 tags: [Earphones, Hybrid Driver, Titanium, High-End]
 permalink: /products/en/atomic-floyd-super-darts-titanium/
@@ -36,9 +36,9 @@ The SuperDarts Titanium's launch price was approximately 399 USD, while modern h
 
 ## Reliability & Support
 
-$$ \Large \text{0.1} $$
+$$ \Large \text{0.4} $$
 
-As of 2025, Atomic Floyd has effectively ceased operations, and its official website is defunct. Consequently, manufacturer warranties and official customer support are unavailable. Obtaining repairs for defects or malfunctions is extremely difficult, leading to a reliability rating at the lowest level of the industry. Anyone considering a purchase, such as a used unit, must assume that no support will be available.
+As of 2025, Atomic Floyd's official website is still online, and the company remains registered as an active entity. The website mentions a 2-year manufacturer warranty and provides a customer support contact. However, there is no evidence of new product launches or active website updates in recent years, and the current level of support responsiveness is unclear. UK company records also indicate that its accounts are overdue. This lack of recent activity and transparency raises questions about long-term reliability, resulting in a below-average rating.
 
 ## Rationality of Design Philosophy
 
@@ -48,6 +48,6 @@ The concept of a hybrid driver configuration and titanium construction represent
 
 ## Advice
 
-For those considering purchasing the SuperDarts Titanium, we strongly recommend examining modern alternatives. For a hybrid driver configuration, the KZ ZSN Pro X (30 USD) or KZ ZSN Pro 2 (50 USD) offer equivalent or superior technical functionality at significantly lower prices. These products feature a better-adjusted frequency response and do not have the fatal defects found in the SuperDarts Titanium, such as the 10kHz resonance peak and midrange recession. Even for those with a higher budget, modern designs like the Sennheiser IE 600 (700 USD) deliver far superior performance for actual music listening. While the titanium construction offers material appeal, the fundamental audio quality issues make this product difficult to recommend. Furthermore, the fact that the manufacturer has effectively ceased operations poses a significant risk, as no warranty or repair support is available.
+For those considering purchasing the SuperDarts Titanium, we strongly recommend examining modern alternatives. For a hybrid driver configuration, the KZ ZSN Pro X (30 USD) or KZ ZSN Pro 2 (50 USD) offer equivalent or superior technical functionality at significantly lower prices. These products feature a better-adjusted frequency response and do not have the fatal defects found in the SuperDarts Titanium, such as the 10kHz resonance peak and midrange recession. Even for those with a higher budget, modern designs like the Sennheiser IE 600 (700 USD) deliver far superior performance for actual music listening. While the titanium construction offers material appeal, the fundamental audio quality issues make this product difficult to recommend.
 
 (2025.8.1)

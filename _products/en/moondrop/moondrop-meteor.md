@@ -8,10 +8,9 @@ ref: moondrop-meteor
 date: 2025-08-01
 rating: [2.7, 0.7, 0.6, 0.1, 0.6, 0.7]
 summary: "隕石を埋め込んだ独特なデザインと1DD+2BA+4Planar構成を持つトライブリッドIEMだが、76,500円という価格に対して、より安価に優れた性能を実現できる製品が存在する。"
-tags: [Moondrop, Tribrid, IEM, Premium]
+tags: [In-ear monitors, Moondrop, Premium, Tribrid]
 permalink: /products/ja/moondrop-meteor/
 ---
-
 ## 概要
 
 Moondrop Meteorは2024年末にリリースされた同社のフラッグシップトライブリッドIEMです。1つのダイナミックドライバー、2つのバランスドアーマチュア、4つのマイクロプラナードライバーという7ドライバー構成と、実際の隕石を埋め込んだ独特なフェイスプレートが特徴的な製品です。XTM複合技術による専用クロスオーバー設計と、アコースティックメタマテリアルフィルターによる音響調整が施されています。価格は76,500円で、MoondropがVDSF Target Response curveに基づいてチューニングした高級IEMとして位置づけられています。

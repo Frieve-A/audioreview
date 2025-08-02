@@ -8,10 +8,9 @@ ref: moondrop-meteor
 date: 2025-08-01
 rating: [2.7, 0.7, 0.6, 0.1, 0.6, 0.7]
 summary: "A tribrid IEM with a unique meteorite-embedded design and 1DD+2BA+4Planar configuration, but at 510 USD, superior performance can be achieved with significantly less expensive alternatives."
-tags: [Moondrop, Tribrid, IEM, Premium]
+tags: [Moondrop, Tribrid, インイヤーモニター, プレミアム]
 permalink: /products/en/moondrop-meteor/
 ---
-
 ## Overview
 
 The Moondrop Meteor is the company's flagship tribrid IEM released in late 2024. It features a 7-driver configuration consisting of 1 dynamic driver, 2 balanced armatures, and 4 microplanar drivers, along with a distinctive faceplate that incorporates actual meteorite fragments. The design incorporates XTM composite technology for a dedicated crossover design and acoustic metamaterial filters for sound tuning. Priced at 510 USD, the Meteor is positioned as Moondrop's premium IEM tuned according to their VDSF Target Response curve.
