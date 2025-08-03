@@ -1,5 +1,12 @@
 // Common search logic for both overlay search and search pages
 class SearchCommon {
+  // Add HTML entity decoding function
+  static decodeHtmlEntities(text) {
+    const textarea = document.createElement('textarea');
+    textarea.innerHTML = text;
+    return textarea.value;
+  }
+
   static searchItems(searchData, query) {
     const normalizedQuery = query.toLowerCase();
     const titleExactMatchResults = [];
@@ -73,9 +80,10 @@ class SearchCommon {
     const words = query.split(/\s+/).filter(word => word.length > 0);
     if (words.length === 0) return false;
     
-    const title = item.title.toLowerCase();
-    const summary = item.summary.toLowerCase();
-    const tags = item.tags.map(tag => tag.toLowerCase());
+    // Decode HTML entities before comparison
+    const title = SearchCommon.decodeHtmlEntities(item.title.toLowerCase());
+    const summary = SearchCommon.decodeHtmlEntities(item.summary.toLowerCase());
+    const tags = item.tags.map(tag => SearchCommon.decodeHtmlEntities(tag.toLowerCase()));
     
     // Check if ALL keywords are present in title, summary, or tags
     return words.every(word => {
@@ -89,7 +97,8 @@ class SearchCommon {
     const words = query.split(/\s+/).filter(word => word.length > 0);
     if (words.length === 0) return 0;
     
-    const title = item.title.toLowerCase();
+    // Decode HTML entities before comparison
+    const title = SearchCommon.decodeHtmlEntities(item.title.toLowerCase());
     
     return words.filter(word => title.includes(word)).length;
   }
@@ -98,7 +107,8 @@ class SearchCommon {
     const words = query.split(/\s+/).filter(word => word.length > 0);
     if (words.length === 0) return 0;
     
-    const title = item.title.toLowerCase();
+    // Decode HTML entities before comparison
+    const title = SearchCommon.decodeHtmlEntities(item.title.toLowerCase());
     
     return words.filter(word => {
       // Check for word boundary match (word starts with the keyword)
@@ -111,9 +121,10 @@ class SearchCommon {
     const words = query.split(/\s+/).filter(word => word.length > 0);
     if (words.length === 0) return 0;
     
-    const title = item.title.toLowerCase();
-    const summary = item.summary.toLowerCase();
-    const tags = item.tags.map(tag => tag.toLowerCase());
+    // Decode HTML entities before comparison
+    const title = SearchCommon.decodeHtmlEntities(item.title.toLowerCase());
+    const summary = SearchCommon.decodeHtmlEntities(item.summary.toLowerCase());
+    const tags = item.tags.map(tag => SearchCommon.decodeHtmlEntities(tag.toLowerCase()));
     
     return words.filter(word => {
       return title.includes(word) || 
@@ -126,9 +137,10 @@ class SearchCommon {
     const words = query.split(/\s+/).filter(word => word.length > 0);
     if (words.length === 0) return 0;
     
-    const title = item.title.toLowerCase();
-    const summary = item.summary.toLowerCase();
-    const tags = item.tags.map(tag => tag.toLowerCase());
+    // Decode HTML entities before comparison
+    const title = SearchCommon.decodeHtmlEntities(item.title.toLowerCase());
+    const summary = SearchCommon.decodeHtmlEntities(item.summary.toLowerCase());
+    const tags = item.tags.map(tag => SearchCommon.decodeHtmlEntities(tag.toLowerCase()));
     
     return words.filter(word => {
       // Check for word boundary match in title, summary, or tags

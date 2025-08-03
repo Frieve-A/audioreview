@@ -1,7 +1,7 @@
 ---
 layout: company
-title: "Bowers & Wilkins 企業レビュー"
-target_name: "Bowers & Wilkins"
+title: "Bowers & Wilkins (B&W) 企業レビュー"
+target_name: "Bowers & Wilkins (B&W)"
 company_id: bowers-wilkins
 lang: ja
 ref: bowers-wilkins

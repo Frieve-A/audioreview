@@ -189,7 +189,7 @@ class InfiniteScrollManager {
       html += `<span class="new-badge" aria-label="${newLabel}">NEW</span>`;
     }
     
-    html += `<h3><a href="${item.url}">${this.escapeHtml(item.title)}</a></h3>`;
+    html += `<h3><a href="${item.url}" target="_blank">${this.escapeHtml(item.title)}</a></h3>`;
     html += `<div class="${isCompaniesPage ? 'company' : 'product'}-rating" role="group" aria-label="${this.currentLanguage === 'ja' ? '評価情報' : 'Rating information'}">`;
     html += `<span class="rating-label">${displayLabel}</span>`;
     html += `<span class="rating-value" aria-label="${displayLabel}${displayRating}${this.currentLanguage === 'ja' ? '点' : ' points'}">${displayRating}</span>`;
@@ -205,7 +205,7 @@ class InfiniteScrollManager {
         `/companies/ja/${item.company_id}/` : 
         `/companies/en/${item.company_id}/`;
       const companyLabel = this.currentLanguage === 'ja' ? '企業' : 'Company';
-      html += `<p class="product-company">${companyLabel}: <a href="${companyUrl}">${this.escapeHtml(item.company_id)}</a></p>`;
+      html += `<p class="product-company">${companyLabel}: <a href="${companyUrl}" target="_blank">${this.escapeHtml(item.company_id)}</a></p>`;
     }
     
     div.innerHTML = html;
