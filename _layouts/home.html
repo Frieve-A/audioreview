@@ -177,6 +177,25 @@ layout: default
   </div>
 </section>
 
+<section class="home-section">
+  <div class="section-header">
+    <h2>{{ site.data.strings[page.lang].product_categories }}</h2>
+  </div>
+  <div class="category-tags-grid" id="category-tags-grid">
+    <!-- Product category tags will be generated dynamically -->
+  </div>
+</section>
+
+<script>
+  window.siteLanguage = "{{ page.lang }}";
+</script>
+
+<!-- Load common tag information first -->
+<script src="{{ '/assets/js/tags.js' | relative_url }}"></script>
+
+<!-- Load category tags script -->
+<script src="{{ '/assets/js/category-tags.js' | relative_url }}"></script>
+
 <script>
 // Home page search functionality
 document.addEventListener('DOMContentLoaded', function() {

@@ -126,6 +126,8 @@
       productsAvailable: '{% if page.lang %}{{ site.data.strings[page.lang].products_available }}{% else %}{{ site.data.strings.ja.products_available }}{% endif %}'
     };
   </script>
+  <!-- Load common tag information first -->
+  <script src="{{ '/assets/js/tags.js' | relative_url }}"></script>
   <script src="{{ '/assets/js/search-common.js' | relative_url }}"></script>
   <script src="{{ '/assets/js/search.js' | relative_url }}"></script>
   <script src="{{ '/assets/js/gauge.js' | relative_url }}"></script>
