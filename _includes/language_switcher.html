@@ -11,6 +11,10 @@
       <!-- Special handling for Companies list page -->
       <li{% if page.lang == 'en' %} class="active"{% endif %}><a href="/companies/en/">EN</a></li>
       <li{% if page.lang == 'ja' %} class="active"{% endif %}><a href="/companies/ja/">JA</a></li>
+    {%- elsif page.title == 'About' -%}
+      <!-- Special handling for About page -->
+      <li{% if page.lang == 'en' %} class="active"{% endif %}><a href="/en/about/">EN</a></li>
+      <li{% if page.lang == 'ja' %} class="active"{% endif %}><a href="/ja/about/">JA</a></li>
     {%- elsif current_ref -%}
       <!-- Find corresponding translation versions for current page -->
       {%- assign en_page = nil -%}
