@@ -8,10 +8,9 @@ ref: leak-tl-12
 date: 2025-07-29
 rating: [0.7, 0.1, 0.2, 0.1, 0.1, 0.2]
 summary: "A historic tube amplifier from 1948. While groundbreaking for its time, its performance is significantly inferior by modern measurement standards, and it cannot be recommended over modern amplifiers in terms of cost, performance, or rationality."
-tags: [Tube Amplifier, Vintage, KT66, Push-Pull, Power Amplifier]
+tags: [KT66, Power amplifier, Push-Pull, Tube Amplifier, Vintage]
 permalink: /products/en/leak-tl-12/
 ---
-
 ## Overview
 
 The Leak TL-12 is a 12W monophonic tube power amplifier released in December 1948 by H.J. Leak & Co. Using KT66 tubes in a push-pull configuration, it achieved a then-groundbreaking Total Harmonic Distortion (THD) of 0.1%. This historic product is appreciated by vintage audio enthusiasts as an embodiment of Harold Joseph Leak's design philosophy. However, this review excludes historical value and objectively evaluates its performance against the latest modern technology and products. It is currently available only on the used market, with most units requiring mandatory repairs.

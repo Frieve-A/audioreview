@@ -8,10 +8,9 @@ ref: edifier-es20
 date: 2025-08-02
 rating: [3.1, 0.5, 0.6, 0.6, 0.7, 0.7]
 summary: "A portable Bluetooth speaker with a stylish retro design and IP67 waterproofing. It offers solid standard features, but its cost-performance is moderate when compared to equivalent, more affordable alternatives."
-tags: [Portable Speaker, Bluetooth, Waterproof, Edifier]
+tags: [Bluetooth, Edifier, Portable speaker, Waterproof]
 permalink: /products/en/edifier-es20/
 ---
-
 ## Overview
 
 The Edifier ES20 is a portable Bluetooth speaker notable for its retro leather-textured design and ambient lighting system. It is equipped with an IP67 waterproof and dustproof rating, making it suitable for outdoor use. It features a Φ43mm full-range driver and a Φ55mm passive radiator, delivering 6W RMS output. Connectivity is handled by Bluetooth 5.3, and it offers up to 15 hours of continuous playback from its 326g body.

@@ -8,10 +8,9 @@ ref: accuton-C2-79-6
 date: 2025-07-26
 rating: [3.4, 0.8, 0.9, 0.3, 0.6, 0.8]
 summary: "A 3.5-inch ceramic dome midrange driver from German Accuton. While achieving industry-leading low distortion performance through cutting-edge technology, cost-performance is low when compared to equivalent alternatives."
-tags: [German, Midrange Driver, Ceramic, High-End, DIY Audio]
+tags: [Ceramic, DIY Audio, Germany, High-End, Midrange Driver]
 permalink: /products/en/accuton-C2-79-6/
 ---
-
 ## Overview
 
 The Accuton C2-79/6 (current model designation: C90-6-079) is a 3.5-inch (approximately 90mm) ceramic dome midrange driver manufactured by Germany's Thiel & Partner. The cone is constructed using the company's proprietary Al²O³ hard ceramic manufacturing process, utilizing an extremely hard material with Mohs hardness 9, and is recommended for use in the 250Hz to 5kHz range. It requires a 1.5 to 4-liter sealed enclosure and maintains good directivity up to 5kHz. This driver has an established track record among DIY audio enthusiasts and high-end 3-way speaker systems.

@@ -8,10 +8,9 @@ ref: sansui-au-111-vintage
 date: 2025-07-21
 rating: [1.1, 0.1, 0.3, 0.1, 0.3, 0.3]
 summary: "The Sansui AU-111 Vintage, released in 1965, demonstrates extremely low scientific validity when compared to modern digital equipment due to measured values of THD 0.8% and S/N ratio 70dB. With a price of 300,000 JPY against the Fosi Audio V3 (13,600 JPY) offering equivalent functionality, cost-performance is significantly inferior."
-tags: [Tube Amplifier, Integrated Amplifier, Vintage, Sansui]
+tags: [Integrated amplifier, Sansui, Tube Amplifier, Vintage]
 permalink: /products/en/sansui-au-111-vintage/
 ---
-
 ## Overview
 
 The Sansui AU-111 Vintage is a 40W+40W tube integrated amplifier released in 1965. Known as one of the flagship models manufactured by Sansui Electric during its golden period, it features a push-pull circuit using four 6L6GC tubes and Sansui's proprietary SW-50 output transformer. Re-released as the AU-111 Vintage in 1999, it remains highly popular in the used market as one of Japan's representative vintage audio equipment pieces.

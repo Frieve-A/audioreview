@@ -8,10 +8,9 @@ ref: earfun-air-pro-4+
 date: 2025-07-31
 rating: [3.6, 0.7, 0.8, 0.7, 0.6, 0.8]
 summary: "Advanced true wireless earphones featuring AI translation. NSAA design and 54-hour battery life at 99.99 USD"
-tags: [Wireless Earphones, ANC, AI Translation, aptX Lossless, EarFun]
+tags: [AI Translation, ANC, EarFun, Wireless earphones, aptX Lossless]
 permalink: /products/en/earfun-air-pro-4+/
 ---
-
 ## Overview
 
 The EarFun Air Pro 4+ is a true wireless earphone that was released in May 2025. Building on the success of the company's Air Pro series, this advanced model introduces AI-powered multilingual real-time translation functionality. It features the proprietary Nano Side-Fitted Acoustic Architecture (NSAA) with a dual configuration of balanced armature and 10mm composite dynamic drivers. The Qualcomm QCC 3091 SoC enables aptX Lossless support and QuietSmart 3.0 adaptive noise cancellation up to 50dB.

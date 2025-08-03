@@ -8,10 +8,9 @@ ref: behringer
 date: 2025-07-16
 rating: [2.7, 0.4, 0.6, 1.0, 0.3, 0.4]
 summary: "German-origin audio equipment manufacturer known for classic synthesizer reissues and low-cost audio interfaces, but faces challenges in measurement performance and design philosophy."
-tags: [Audio Interface, Synthesizer, German Manufacturer, Budget]
+tags: [Audio interface, Budget, German Manufacturer, Synthesizer]
 permalink: /companies/en/behringer/
 ---
-
 ## Overview
 
 Behringer is an audio equipment manufacturer founded in Germany in 1989 by Uli Behringer. Currently operating under Music Tribe (formerly Music Group), the company manufactures products at its own facility, Music Tribe City, in China. The company offers audio interfaces, synthesizers, mixers, and other equipment, particularly focusing on low-cost product provision. In recent years, they have concentrated on manufacturing reissues of classic synthesizers, but excluding historical and brand value, they face numerous challenges in terms of pure performance.

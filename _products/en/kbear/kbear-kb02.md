@@ -8,7 +8,7 @@ ref: kbear-kb02
 date: 2025-07-24
 rating: [2.5, 0.4, 0.6, 0.3, 0.6, 0.6]
 summary: "A 40 USD hybrid IEM featuring bone conduction drivers, but with limited technical advantages and significant cost-performance challenges compared to competitors like the 12 USD QKZ VK4."
-tags: [Bone Conduction, Budget, Chi-Fi, Hybrid, In-ear monitors]
+tags: [Bone conduction, Budget, Chi-Fi, Hybrid, In-ear monitors]
 permalink: /products/en/kbear-kb02/
 ---
 ## Overview

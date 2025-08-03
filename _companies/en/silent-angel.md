@@ -8,10 +8,9 @@ ref: silent-angel
 date: 2025-07-24
 rating: [2.5, 0.6, 0.4, 0.5, 0.5, 0.5]
 summary: "Audio company specializing in network streaming solutions. Offers Munich M1 and M1T network streamers/transports, but faces significant challenges in technical innovation and cost-performance."
-tags: [Network Streamer, Digital Transport, Roon Ready, Chinese Manufacturer]
+tags: [Chinese Manufacturer, Digital Transport, Network streamer, Roon Ready]
 permalink: /companies/en/silent-angel/
 ---
-
 ## Overview
 
 Silent Angel is a Chinese audio company specializing in network audio streaming solutions. Their main product lineup includes the Munich M1 series network streamer (1,199 USD) and M1T digital transport (949 USD), entry-level Bremen B1 series, and the Bonn N8 audio-grade network switch (549 USD). The company emphasizes "digital source purity" and focuses on network optimization and noise reduction in their product development. They have obtained Roon Ready certification and support high-resolution formats up to PCM 768kHz and DSD256, building a product lineup adapted to modern digital streaming environments.

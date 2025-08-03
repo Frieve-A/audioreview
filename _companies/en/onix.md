@@ -8,10 +8,9 @@ ref: onix
 date: 2025-07-30
 rating: [2.5, 0.8, 0.6, 0.1, 0.4, 0.6]
 summary: "An established British audio manufacturer founded in 1984. Its flagship product, the OC93, boasts excellent official specifications, including a THD of <0.002% and an S/N ratio of >112dB. However, with a high price of 1,230,000 JPY, its cost-performance is rated extremely poorly, as alternative products with comparable features and excellent measured performance are available for less than a tenth of the price."
-tags: [UK, CD Player, DAC, Streamer, High Price]
+tags: [CD Player, DAC, High Price, Network streamer, United Kingdom]
 permalink: /companies/en/onix/
 ---
-
 ## Overview
 
 Founded in the UK in 1984, ONIX is an established audio manufacturer still led by its founder, Adam Worsfold. The company promotes itself as "British Made & Engineered" and has been manufacturing high-end audio equipment for over 40 years. However, the company remains small-scale with a limited product lineup, focusing primarily on the OC93 CD Player/DAC/Streamer and the OA21 series amplifiers.

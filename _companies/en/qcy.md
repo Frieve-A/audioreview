@@ -8,10 +8,9 @@ ref: qcy
 date: 2025-07-11
 rating: [3.3, 0.6, 0.4, 1.0, 0.6, 0.7]
 summary: "QCY is a Chinese wireless audio brand that achieved 4th place in global true wireless earbuds market share in Q1 2020. Offers extensive features at low prices, but technical innovation is limited."
-tags: ["Chinese manufacturer", "Wireless Earphones", Budget-oriented, "Wireless Earphones"]
+tags: [Budget-oriented, Chinese manufacturer, Wireless earphones]
 permalink: /companies/en/qcy/
 ---
-
 ## Overview
 
 QCY is a Shenzhen-based wireless audio specialist manufacturer that maintains an important position in the true wireless earbuds market as of 2025. The company primarily operates in the sub-30 USD price range for wireless earbuds and headphones, building a product lineup focused on cost-performance. Representative products include the T13 series and H3 series, achieving features like active noise cancellation, multipoint connection, and long battery life at low prices. Through sustained global market growth, brand recognition among budget-conscious users has steadily improved.

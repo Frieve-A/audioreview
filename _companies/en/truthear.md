@@ -8,10 +8,9 @@ ref: truthear
 date: 2025-07-24
 rating: [3.9, 0.8, 0.7, 1.0, 0.7, 0.7]
 summary: "A Chinese IEM startup founded in 2022, gaining significant attention with measurement-based precision tuning in products like Crinacle×Zero, Hexa, and Zero:RED. Reportedly founded by ex-Moondrop engineers, the company releases low-cost, high-performance IEMs adhering to Harman target curves. The Zero:RED (USD 55) is rated as the best IEM under USD 100, achieving price-disruptive cost-performance. Despite being a newcomer, it poses a significant threat to established manufacturers."
-tags: [China, IEM, Startup, Crinacle, Measurement-focused]
+tags: [China, Crinacle, In-ear monitors, Measurement-focused, Startup]
 permalink: /companies/en/truthear/
 ---
-
 ## Overview
 
 Truthear is an emerging audio manufacturer founded in 2022 in Shenzhen, China. Within just two years of establishment, the company has made a significant impact on the industry. Their primary distinguishing feature is collaboration with renowned IEM reviewer Crinacle and a scientific tuning approach based on Harman target curves.

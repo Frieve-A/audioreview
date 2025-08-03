@@ -8,10 +8,9 @@ ref: bose-soundlink-mini-ii
 date: 2025-07-25
 rating: [1.8, 0.3, 0.4, 0.2, 0.5, 0.4]
 summary: "A compact portable speaker with clear mid-range, but significantly inferior in scientific validity and cost-performance due to bass deficiency, outdated specifications, and extremely high pricing."
-tags: [Bluetooth, Portable Speaker, Bose, Compact]
+tags: [Bluetooth, Bose, Compact, Portable speaker]
 permalink: /products/en/bose-soundlink-mini-ii/
 ---
-
 ## Overview
 
 The Bose SoundLink Mini II is a compact Bluetooth speaker released in June 2015. It is now discontinued, with the SoundLink Mini II Special Edition serving as its successor. Housed in an aluminum body weighing 680g (1.5 pounds) with dimensions of 51×180×58mm, it features two 33mm full-range drivers and front-and-rear passive radiators. The design reflects Bose's acoustic philosophy, prioritizing sound pressure delivery within a compact enclosure. Battery life is up to 10 hours (12 for the Special Edition), with a Bluetooth range of approximately 9 meters.

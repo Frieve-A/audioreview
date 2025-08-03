@@ -8,10 +8,9 @@ ref: cayin
 date: 2025-07-06
 rating: [2.9, 0.9, 0.7, 0.2, 0.7, 0.4]
 summary: "Chinese audio manufacturer established in 1993. Leveraging experience in vacuum tube amplifier development, they have established a presence in the portable audio market. While ambitious products like their proprietary discrete DAC are noteworthy, many products including vacuum tube models do not prioritize fidelity to master sources, creating a divisive design philosophy. In terms of pure performance-to-price ratio, they face challenging competition against modern high-performance devices."
-tags: [China, Portable Audio, DAP, Vacuum Tube, Discrete DAC]
+tags: [China, DAP, Discrete DAC, Portable, Vacuum Tube]
 permalink: /companies/en/cayin/
 ---
-
 ## Overview
 
 Cayin is a Hi-Fi brand from Chinese audio company Zhuhai Spark Electronic Equipment Co., Ltd., established in 1993. Originally known for high-quality vacuum tube amplifiers that earned high praise from audio enthusiasts, they entered the portable audio market in earnest in 2013. They have since released a succession of digital audio players (DAPs), portable amplifiers, and dongle DACs. Their distinctive features include ambitious and creative product development, such as dual-timbre functionality that allows users to enjoy both vacuum tube and solid-state sound signatures in one device, and proprietary discrete DAC implementation not found in other manufacturers' products.

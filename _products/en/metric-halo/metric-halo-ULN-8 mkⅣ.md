@@ -8,10 +8,9 @@ ref: metric-halo-ULN-8 mkⅣ
 date: 2025-07-23
 rating: [3.3, 0.9, 0.8, 0.5, 0.3, 0.8]
 summary: "Professional 8-channel interface featuring MHLink networking and DSP plugin bundle. High quality but specialized for niche applications that can utilize its proprietary features"
-tags: [Audio Interface, Professional, USB-C, DSP]
+tags: [Audio interface, DSP, Professional, USB-C]
 permalink: /products/en/metric-halo-ULN-8 mkⅣ/
 ---
-
 ## Overview
 
 The Metric Halo ULN-8 mkⅣ is a USB-C audio interface with 8-channel A/D-D/A converter capabilities. As the company's 4th generation design, it features 8 ULN-R microphone preamps, up to 192kHz sampling rate support, a DSP/FPGA hybrid processing system, and a bundle of over 100 plugins. It also includes MHLink technology for low-latency connections between multiple units and surround monitoring capabilities up to 7.1.4 Dolby Atmos.

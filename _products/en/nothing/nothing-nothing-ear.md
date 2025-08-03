@@ -8,10 +8,9 @@ ref: nothing-nothing-ear
 date: 2025-07-22
 rating: [2.8, 0.6, 0.6, 0.5, 0.5, 0.6]
 summary: "Nothing Ear offers excellent 45dB ANC performance and advanced EQ functions for 149 USD, but its cost-performance is limited by the existence of more affordable alternatives like the Soundcore Liberty 4 NC. Its measurement performance is standard, making it an option for users who prioritize functionality."
-tags: [True Wireless Earphones, Nothing, Active Noise Cancelling]
+tags: [Active noise cancelling, Nothing, True Wireless Earphones]
 permalink: /products/en/nothing-nothing-ear/
 ---
-
 ## Overview
 
 Nothing Ear is the 4th generation true wireless earphones from Nothing, a company founded by Carl Pei, co-founder of OnePlus. Featuring a transparent design case and 11mm ceramic diaphragm drivers, it supports high-quality codecs like LDAC and LHDC, along with active noise cancellation. Notable software features include a proprietary Personal Sound Profile function and an Advanced Equalizer (parametric EQ) available through the Nothing X app.

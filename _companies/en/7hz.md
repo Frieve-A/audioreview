@@ -8,10 +8,9 @@ ref: 7hz
 date: 2025-07-06
 rating: [3.0, 0.8, 0.7, 0.3, 0.6, 0.6]
 summary: "Founded in China in 2012, 7HZ is an emerging company that revolutionized the planar magnetic IEM market. The massive success of the Timeless demonstrated the potential of planar IEMs in the 220USD price bracket to the world. While technically utilizing existing planar drivers with limited proprietary design, they maintain some competitiveness in price-to-performance. However, with equivalent-performance Chinese IEMs available at similar prices, their absolute advantage remains limited."
-tags: [China, IEM, Planar Magnetic, Chi-Fi, 7HZ]
+tags: [7HZ, Chi-Fi, China, In-ear monitors, Planar magnetic]
 permalink: /companies/en/7hz/
 ---
-
 ## Overview
 
 7HZ is a Chinese audio company established in 2012, specializing in IEMs (In-Ear Monitors). Named after the "Theta Wave" 7Hz frequency associated with meditation and harmony, the company aims to provide deep relaxation and musical immersion. The 2021 launch of the Timeless demonstrated the viability of planar magnetic IEMs in the 220USD price bracket, leading the revolution in the planar IEM market. Currently, they actively engage in collaborative development with renowned audio critics, such as the 7HZ x Crinacle Zero series.

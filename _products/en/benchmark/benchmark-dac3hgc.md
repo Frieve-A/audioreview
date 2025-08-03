@@ -8,10 +8,9 @@ ref: benchmark-dac3hgc
 date: 2025-07-25
 rating: [2.9, 0.9, 0.6, 0.3, 0.8, 0.3]
 summary: "A professional-grade DAC/headphone amp/preamp combo with industry-leading measured performance. However, its cost-performance and design rationality receive significantly low ratings due to the existence of alternatives with equivalent or superior functionality and performance at about a quarter of the price."
-tags: [DAC, Headphone Amplifier, Preamp, ESS, Professional Audio, High Price]
+tags: [DAC, ESS, Headphone amplifier, High Price, Preamp, Professional Audio]
 permalink: /products/en/benchmark-dac3hgc/
 ---
-
 ## Overview
 
 The Benchmark DAC3 HGC is a professional-grade DAC/headphone amplifier/preamp combo developed by Benchmark Media Systems, an American company established in 1978. Utilizing the ESS Technologies ES9028PRO DAC chip with proprietary 4:1 summing technology, it achieves industry-leading measured performance. The product is positioned as a high-reliability solution based on its track record in the broadcasting industry and is adopted in mastering studios and production environments. In the Japanese market, it is distributed through authorized dealer Emilai INC, which provides a 2-year extended warranty.

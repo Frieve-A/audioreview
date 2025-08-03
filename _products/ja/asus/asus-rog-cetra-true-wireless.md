@@ -8,7 +8,7 @@ ref: asus-rog-cetra-true-wireless
 date: 2025-07-13
 rating: [2.7, 0.4, 0.6, 0.6, 0.7, 0.4]
 summary: "ゲーミング特化チューニングを施した完全ワイヤレスイヤホンですが、音質面での科学的妥当性に課題があります。ANC機能と低遅延接続は評価できるものの、より安価な同等製品の存在によりコストパフォーマンスは標準以下です。"
-tags: [Active Noise Cancelling, Low Latency, True Wireless, ゲーミング]
+tags: [Low Latency, True Wireless, アクティブノイズキャンセリング, ゲーミング]
 permalink: /products/ja/asus-rog-cetra-true-wireless/
 ---
 ## 概要

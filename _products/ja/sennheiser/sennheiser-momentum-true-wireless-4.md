@@ -8,10 +8,9 @@ ref: sennheiser-momentum-true-wireless-4
 date: 2025-07-06
 rating: [3.6, 0.9, 0.9, 0.7, 0.7, 0.4]
 summary: "Qualcomm S5 Sound Gen 2プラットフォームを搭載し、aptX Lossless、24bit/96kHz対応など技術的には最先端を行く完全ワイヤレスイヤホン。7mm TrueResponseドライバーによる低歪み（0.08%@94dB）と5Hz-21kHzの広帯域再生を実現。プレミアム完全ワイヤレス市場において、Sony、Apple、Boseなどの競合製品と同価格帯で勝負する、技術的に洗練された製品です。"
-tags: ["AptX Lossless", Qualcomm, ドイツ, 完全ワイヤレスイヤホン, 高価格帯]
+tags: [AptX Lossless, Qualcomm, ドイツ, 完全ワイヤレスイヤホン, 高価格]
 permalink: /products/ja/sennheiser-momentum-true-wireless-4/
 ---
-
 ## 概要
 
 MOMENTUM True Wireless 4は、Sennheiserの最新フラッグシップ完全ワイヤレスイヤホンです。Qualcomm S5 Sound Gen 2プラットフォームを基盤に、aptX Lossless、Bluetooth LE Audio、LC3、AURACASなど次世代オーディオ規格に対応。独自開発の7mm TrueResponseドライバーは、コンパクトながら5Hz-21kHzの広帯域再生と0.08%（@94dB）という低歪みを実現しています。IP54防塵防水、最大30時間のバッテリー、6マイクアレイによる高度なANCなど、機能面でも充実した仕様となっています。

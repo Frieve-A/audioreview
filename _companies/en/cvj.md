@@ -8,10 +8,9 @@ ref: cvj
 date: 2025-07-27
 rating: [2.1, 0.4, 0.5, 0.3, 0.4, 0.5]
 summary: "Chinese IEM manufacturer established in 2019. Offers budget-focused hybrid-driver earphones in their product lineup, but faces challenges in cost-performance and technological innovation due to the existence of superior competing products at equivalent prices."
-tags: [IEM, Chinese Manufacturer, Hybrid Drivers, Budget-Focused]
+tags: [Budget-Focused, Chinese Manufacturer, Hybrid Drivers, In-ear monitors]
 permalink: /companies/en/cvj/
 ---
-
 ## Overview
 
 CVJ is a Chinese earphone manufacturer established in 2019, primarily engaged in the development and manufacturing of in-ear monitors (IEMs). The company operates in the budget-focused CHIFI (Chinese Hi-Fi) market, offering products with hybrid driver configurations in the 17-79 USD price range. Representative products include the budget-oriented CSA (hybrid type), mid-range ARIA (single dynamic), and upper-tier Freedom (5-driver hybrid). While this emerging company has received some recognition on certain review sites, there remains room for improvement in the disclosure of measurement data and technical transparency.

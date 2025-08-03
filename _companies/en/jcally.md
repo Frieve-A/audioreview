@@ -8,10 +8,9 @@ ref: jcally
 date: 2025-07-30
 rating: [3.9, 0.8, 0.7, 1.0, 0.6, 0.8]
 summary: "JCALLY, operated by Dongguan JieShi Acoustic Technology, is a Chinese manufacturer specializing in cost-effective portable DAC/amplifiers. They achieve equivalent performance to competitors at less than half the price by utilizing high-quality DAC chips like CS43131 and CX31993."
-tags: [DAC, Portable Amplifier, Chinese Manufacturer, Cost-Performance]
+tags: [Chinese Manufacturer, Cost-Performance, DAC, Portable amplifier]
 permalink: /companies/en/jcally/
 ---
-
 ## Overview
 
 JCALLY is an audio brand established in 2015 by Dongguan JieShi Acoustic Technology Co., Ltd. With 268 production staff and a 10,000 square meter production facility, they primarily manufacture portable DAC/amplifiers, audio adapters, and cables. Their distinguishing feature is achieving pricing at less than half of competing products while adopting high-quality DAC chips such as Cirrus Logic's CS43131 and Conexant's CX31993. Their flagship products like the JM20 and JM6 Pro offer DAC chips comparable to competitors selling for around 50 USD at just 24-25 USD, earning high praise from audio enthusiasts.

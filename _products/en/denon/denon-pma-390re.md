@@ -8,10 +8,9 @@ ref: denon-pma-390re
 date: 2025-07-21
 rating: [3.6, 0.9, 0.6, 1.0, 0.6, 0.5]
 summary: "A 2012 Japan-exclusive 50W entry-class amplifier. Achieves excellent measurement values (THD 0.01%, SNR 107dB) that meet modern transparency standards. A strong contender in the used market with exceptional cost-performance."
-tags: [Amplifier, Integrated Amplifier, Denon, Entry-Class, Japan-Exclusive]
+tags: [Amplifier, Denon, Entry-Class, Integrated amplifier, Japan-Exclusive]
 permalink: /products/en/denon-pma-390re/
 ---
-
 ## Overview
 
 The Denon PMA-390RE is an entry-class integrated amplifier released exclusively for the Japanese market in 2012. Carrying on the lineage of Denon's PMA series, it was designed as a product with 50W×2 channel (8Ω) output. It adopts Advanced HC (High Current) transistor technology and is claimed to achieve approximately three times the current supply capability of conventional designs through a single push-pull circuit. The input stage employs a dual FET design and is specifically engineered for Japan's 100V power supply.

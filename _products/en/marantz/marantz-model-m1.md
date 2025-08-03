@@ -8,10 +8,9 @@ ref: marantz-model-m1
 date: 2025-07-08
 rating: [3.4, 0.6, 0.8, 0.6, 0.8, 0.6]
 summary: "Japanese-made premium compact streaming amplifier with HDMI eARC support that also functions as a TV audio system"
-tags: ["Streaming amplifier", "Network audio", Marantz, Made-in-Japan]
+tags: [Japan, Marantz, Network audio, Streaming amplifier]
 permalink: /products/en/marantz-model-m1/
 ---
-
 ## Overview
 
 The Marantz MODEL M1 is a 2-channel wireless streaming amplifier released in June 2024. Priced at 154,000 JPY with current availability from 128,700 JPY, it is manufactured at Japan's Shirakawa Audio Works factory with tuning by Marantz sound masters. The product features 100W+100W (8Ω) Class D amplification, 32-bit DAC, HDMI eARC support, and HEOS built-in, all housed in a compact 217mm-width chassis. It won the EISA 2024-2025 Best Compact Streaming Amplifier Award.

@@ -8,7 +8,7 @@ ref: fostex-th900mk2
 date: 2025-07-25
 rating: [2.5, 0.4, 0.8, 0.2, 0.7, 0.4]
 summary: "プレミアム密閉型ヘッドホンながら、顕著なV字特性により科学的有効性に課題を抱える製品"
-tags: [Fostex, ダイナミック, プレミアム, ヘッドフォン, 密閉型]
+tags: [Fostex, ダイナミック, プレミアム, ヘッドホン, 密閉型]
 permalink: /products/ja/fostex-th900mk2/
 ---
 ## 概要

@@ -8,10 +8,9 @@ ref: tangzu
 date: 2025-07-27
 rating: [2.9, 0.7, 0.6, 0.5, 0.5, 0.6]
 summary: "A Chinese earphone manufacturer established in 2020. While offering a range from entry-level to high-end, it lacks technical originality and faces a harsh evaluation, especially in cost-performance."
-tags: [Chinese Manufacturer, IEM, In-Ear Monitor, Dynamic Driver, Hybrid]
+tags: [Chinese Manufacturer, Dynamic driver, Hybrid, In-ear monitors]
 permalink: /companies/en/tangzu/
 ---
-
 ## Overview
 
 Tangzu is an audio manufacturer established in China in 2020. With a mission to promote "freedom" and new concepts of high-fidelity audio, the company specializes in in-ear monitors. Products are named after traditional Chinese cultural figures, reflecting this aesthetic in their branding. They offer a wide lineup ranging from the entry-level Wan'er S.G to the flagship Tian Peng, with prices from 19 USD to 629 USD.

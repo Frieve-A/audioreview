@@ -8,7 +8,7 @@ ref: audio-technica-ath-m20xbt
 date: 2025-07-20
 rating: [3.0, 0.6, 0.4, 0.8, 0.6, 0.6]
 summary: "モニター系の音作りとワイヤレス機能を両立したエントリーモデル。基本性能は確保されているが、ANC非搭載など機能面で見劣りし、コストパフォーマンスで競合に劣る。"
-tags: [Audio-Technica, Bluetooth, ヘッドフォン, モニター, ワイヤレス]
+tags: [Audio-Technica, Bluetooth, ヘッドホン, モニター, ワイヤレス]
 permalink: /products/ja/audio-technica-ath-m20xbt/
 ---
 ## 概要

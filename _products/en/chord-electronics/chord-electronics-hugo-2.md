@@ -8,10 +8,9 @@ ref: chord-electronics-hugo-2
 date: 2025-07-29
 rating: [2.9, 0.8, 0.7, 0.1, 0.8, 0.5]
 summary: "A portable DAC/headphone amplifier with a proprietary FPGA. While its measurement performance is excellent, its cost-performance is rated extremely poor due to numerous competing products that achieve equivalent or better performance at a fraction of the price."
-tags: [DAC, Headphone Amplifier, Portable, FPGA]
+tags: [DAC, FPGA, Headphone amplifier, Portable]
 permalink: /products/en/chord-electronics-hugo-2/
 ---
-
 ## Overview
 
 The Chord Electronics Hugo 2 is a British-made portable DAC/headphone amplifier released in 2017. It features the company's proprietary FPGA technology with a 49,152-tap digital filter, achieving what was, at the time, advanced processing power. It is positioned as an ambitious product pursuing desktop-level sound quality in a portable design. Although it is still sold as a current product more than seven years after its launch, its value should be judged soberly against current technological standards and market conditions.

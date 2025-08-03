@@ -8,10 +8,9 @@ ref: anker-soundcore-space-one
 date: 2025-07-20
 rating: [2.4, 0.3, 0.4, 1.0, 0.4, 0.3]
 summary: "Wireless headphones with strong noise canceling functionality at 10,990 JPY, but with significant limitations in scientific validity and technology level."
-tags: [Wireless Headphones, Noise Cancelling, LDAC, Bluetooth, Over-Ear]
+tags: [Bluetooth, LDAC, Noise Cancelling, Over-Ear, Wireless headphones]
 permalink: /products/en/anker-soundcore-space-one/
 ---
-
 ## Overview
 
 The Anker Soundcore Space One is an entry-level active noise canceling (ANC) wireless headphone released in 2024. Currently priced at approximately 10,990 JPY (with market prices ranging from 8,490-10,990 JPY), it offers LDAC support, 55-hour battery life, and Bluetooth 5.3 connectivity. It features 40mm dynamic drivers and implements active noise canceling functionality through Ultra Noise Canceling 2.0 technology.

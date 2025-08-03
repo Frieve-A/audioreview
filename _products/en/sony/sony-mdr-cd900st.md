@@ -8,10 +8,9 @@ ref: sony-mdr-cd900st
 date: 2025-07-22
 rating: [2.5, 0.4, 0.4, 0.5, 0.8, 0.4]
 summary: "Industry-standard monitor headphones used in Japanese recording studios for many years. Trusted by professionals for over 30 years since its 1989 release, but its performance and cost-effectiveness are significantly outdated by modern standards."
-tags: [Headphones, Monitor, Studio, Closed-back, Made-in-Japan]
+tags: [Closed-back, Headphones, Japan, Monitor, Studio]
 permalink: /products/en/sony-mdr-cd900st/
 ---
-
 ## Overview
 
 The Sony MDR-CD900ST is a closed-back studio monitor headphone co-developed by Sony and Sony Music Studios in 1989. It has established an absolute position in Japan's recording industry and has been adopted as standard equipment by many broadcasting stations and recording studios, including NHK. Featuring 40mm dome-type drivers and maintaining Made in Japan quality, it has been trusted by professionals for many years. However, due to technological advancement, the reality is that many products now exist that can achieve equivalent performance at lower cost.

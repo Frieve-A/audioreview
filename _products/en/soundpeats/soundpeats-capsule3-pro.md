@@ -8,10 +8,9 @@ ref: soundpeats-capsule3-pro
 date: 2025-07-15
 rating: [2.9, 0.6, 0.7, 1.0, 0.3, 0.3]
 summary: "The SOUNDPEATS Capsule3 Pro is a wireless earphone offering hybrid ANC and LDAC support under 70 USD. While it boasts excellent cost-performance, it has sound quality issues due to its frequency response and low S/N ratio."
-tags: [Wireless Earphones, ANC, Bluetooth 5.3, Active Noise Cancelling, LDAC]
+tags: [ANC, Active noise cancelling, Bluetooth 5.3, LDAC, Wireless earphones]
 permalink: /products/en/soundpeats-capsule3-pro/
 ---
-
 ## Overview
 
 The SOUNDPEATS Capsule3 Pro is a low-cost ANC wireless earphone developed by Chinese manufacturer SOUNDPEATS. It features a 12mm bio-dynamic driver, Bluetooth 5.3, LDAC support, 43dB hybrid active noise cancellation, and achieves up to 52 hours of extended playback. Priced at approximately 65 USD, it is positioned as a product for budget-conscious users. The company has attracted attention for its cost-performance-focused product lineup.

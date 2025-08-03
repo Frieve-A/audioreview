@@ -8,10 +8,9 @@ ref: thomann-s-100mk2
 date: 2025-07-21
 rating: [1.9, 0.2, 0.3, 0.4, 0.5, 0.5]
 summary: "The Thomann S-100mk2 is a stereo power amplifier with 2x65W(8Ω) output. Key performance data like THD and SNR are not provided, raising significant concerns about its scientific validity and cost-performance compared to modern, high-performance amplifiers."
-tags: [Power Amplifier, Thomann, Class AB, Professional, Germany]
+tags: [Class AB, Germany, Power amplifier, Professional, Thomann]
 permalink: /products/en/thomann-s-100mk2/
 ---
-
 ## Overview
 
 The Thomann S-100mk2 is a stereo power amplifier from the t.amp brand, sold by the major German musical equipment retailer, Thomann. It is designed as a professional amplifier delivering 2x65W into 8Ω and 2x100W into 4Ω, housed in a 1U rack-mountable chassis. It features basic functionality including XLR/TRS balanced inputs, bridge mode capability, and fanless operation, making it primarily intended for PA applications and small studios. Some traditional design considerations are evident, such as the use of a toroidal transformer and a specified damping factor of over 150.

@@ -8,10 +8,9 @@ ref: accuphase
 date: 2025-07-05
 rating: [3.7, 0.8, 0.9, 0.0, 1.0, 1.0]
 summary: "Founded in 1972, this Japanese high-end audio manufacturer represents the pinnacle of audio excellence. Under the founding philosophy of 'pursuing the essence of sound and contributing to people's spiritual richness through scientific technology,' they have been manufacturing the highest quality audio equipment for over 50 years. Renowned for crystal-clear sound beauty, but with extremely high prices. Their reliability with lifelong after-sales service is unmatched in the industry."
-tags: [Japan, High-end, Amplifier, "Integrated Amplifier", High-end]
+tags: [Amplifier, High-end, Integrated amplifier, Japan]
 permalink: /companies/en/accuphase/
 ---
-
 ## Overview
 
 Accuphase Corporation is a leading Japanese high-end audio manufacturer founded in 1972. Based in Aoba-ku, Yokohama, Kanagawa Prefecture, the company was established by founders Nakaichi Kasuga and Jiro Kasuga (former founders of Trio). Under the founding philosophy of "pursuing the essence of sound and contributing to people's spiritual richness through scientific technology," they have been manufacturing the highest quality audio equipment for over 50 years. Since inception, they have adhered to the basic principles of "building robust products," "creating easily repairable products," and "providing lifelong after-sales service," producing numerous legendary devices that have made their mark in world audio history. In 2022, they implemented their first price revision in 48 years of operation, driven by global circumstances including semiconductor shortages and rising raw material costs.

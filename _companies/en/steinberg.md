@@ -8,10 +8,9 @@ ref: steinberg
 date: 2025-07-17
 rating: [3.6, 0.7, 0.8, 0.6, 0.7, 0.8]
 summary: "German music software and audio hardware company established in 1984. While leading the DAW industry as the developer of VST technology, the measured performance of their audio interfaces shows limited advantage over competing products in the same price range."
-tags: [Audio Interface, DAW, VST, German, Yamaha]
+tags: [Audio interface, DAW, Germany, VST, Yamaha]
 permalink: /companies/en/steinberg/
 ---
-
 ## Overview
 
 Steinberg is a German music software and audio hardware company established in 1984. As the developer of VST (Virtual Studio Technology), they revolutionized the industry and have operated under Yamaha's umbrella since 2004, primarily focusing on Cubase DAW software and the UR series audio interfaces. Particularly in the DAW software sector, they have maintained their position as one of the industry standards for many years, earning high praise from music producers.

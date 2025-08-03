@@ -8,10 +8,9 @@ ref: aful
 date: 2025-07-06
 rating: [3.1, 0.6, 0.6, 0.6, 0.7, 0.6]
 summary: "Chinese IEM specialist manufacturer founded in 2018. Named after the Chinese word for 'prosperity', showing rapid growth with high-quality in-ear monitors like the Performer8. Features patented RLC frequency division correction technology as core development focus. Released multiple acclaimed products in 2024, earning recognition as new Chi-Fi brand leader. However, being recently established, long-term reliability remains unknown."
-tags: [China, IEM, IEM, Chi-Fi, "Hybrid Driver"]
+tags: [Chi-Fi, China, Hybrid Driver, In-ear monitors]
 permalink: /companies/en/aful/
 ---
-
 ## Overview
 
 Aful is an IEM (In-Ear Monitor) specialist manufacturer founded in 2018 in China. Named after the Chinese word meaning "prosperity," the company was established by a dedicated acoustic team. Achieving rapid growth within a short timeframe, their S&E Math technology was recognized by the Chinese Academy of Sciences in 2021, and they began worldwide expansion of the Performer series in 2022. They announced the flagship Performer8 in 2023 and consecutively released multiple products in 2024 including Magic One, Cantor, Explorer, and P5+2. Their product development centers on patented RLC (Resistor, Capacitance, Inductance) frequency division correction technology, upholding the philosophy that "Only Real Progress in Technology can bring Tangible benefits to the Consumer."

@@ -8,10 +8,9 @@ ref: kripton
 date: 2025-07-27
 rating: [2.4, 0.3, 0.5, 0.2, 0.7, 0.7]
 summary: "Japanese speaker manufacturer combining traditional techniques with audio technology. Despite VGP awards, insufficient scientific measurement data disclosure and cost-performance issues remain challenging."
-tags: [Japanese, Speaker, Premium, Traditional]
+tags: [Japan, Premium, Speakers, Traditional]
 permalink: /companies/en/kripton/
 ---
-
 ## Overview
 
 Kripton is a Japanese audio manufacturer established in 2000. The company is known for incorporating traditional Japanese techniques such as lacquer and Nishijin textile into speaker manufacturing, and has won numerous VGP (Visual Grand Prix) awards. Their flagship product, the KX-1.5, is a 2-way sealed bookshelf speaker priced at 280,000 JPY (pair, excluding tax), featuring a 17cm carbon polypropylene cone woofer and a pure silk tweeter. The company promotes "emotionally moving high-quality sound" and focuses on product development that emphasizes the brand value of Japanese-made audio equipment.

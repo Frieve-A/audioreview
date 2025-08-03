@@ -8,10 +8,9 @@ ref: tannoy
 date: 2025-07-08
 rating: [3.5, 0.6, 0.8, 0.3, 0.9, 0.9]
 summary: "Traditional UK/Scottish speaker manufacturer with 98-year history, but 2017 factory closure reduced scale. Dual Concentric technology is unique but cost-performance has declined by modern measurement standards."
-tags: [Speaker, "United Kingdom", "Dual Concentric", "Coaxial driver", Prestige]
+tags: [Coaxial driver, Dual Concentric, Prestige, Speakers, United Kingdom]
 permalink: /companies/en/tannoy/
 ---
-
 ## Overview
 
 Tannoy was founded in 1926 in London by Yorkshire-born engineer Guy Fountain (1898-1977) as a traditional speaker manufacturer. The company name derives from Tantalum Alloy, originating from electrolytic rectifier development. In 1948, they invented the coaxial driver "Dual Concentric," which became their signature technology. During WWII, adoption by Buckingham Palace public address systems made "Tannoy" synonymous with PA systems in the UK. Operations moved to Coatbridge, Scotland in 1976. Currently under Music Tribe ownership, the 2017 Coatbridge factory closure crisis resulted in 70 job cuts. Premium Prestige series Scottish handcrafted manufacturing continues, but overall enterprise scale has significantly decreased.

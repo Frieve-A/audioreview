@@ -8,10 +8,9 @@ ref: rupert-neve-designs-rndi
 date: 2025-07-21
 rating: [2.9, 0.7, 0.7, 0.1, 0.8, 0.6]
 summary: "A premium DI box with unique analog technology. While its design is excellent, its cost-performance is extremely poor, and its necessity is questionable in the modern era."
-tags: [DI Box, Rupert Neve, Recording Equipment, Audio Interface]
+tags: [Audio interface, DI Box, Recording Equipment, Rupert Neve]
 permalink: /products/en/rupert-neve-designs-rndi/
 ---
-
 ## Overview
 
 The Rupert Neve Designs RNDI is an active DI box designed for recording studios and live performances. It incorporates a custom transformer and a Class-A discrete FET input stage that reflects Rupert Neve's design philosophy, achieving high-quality direct injection of instrument signals. It boasts a high input headroom capable of handling the output of a 1000-watt solid-state amplifier, intended for professional recording environments. The product line also includes the RNDI-S (stereo version) and RNDI-M (a compact, pedalboard-friendly mono version), which share the same core circuitry. As a product bearing the name of the renowned Rupert Neve, it has gained a certain level of recognition within the industry.

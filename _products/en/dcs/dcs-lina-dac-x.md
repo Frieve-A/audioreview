@@ -8,10 +8,9 @@ ref: dcs-lina-dac-x
 date: 2025-07-25
 rating: [3.1, 0.9, 0.8, 0.1, 0.7, 0.6]
 summary: "dCS's latest network streamer DAC. It achieves excellent measurement performance with its Ring DAC, but faces extreme challenges in cost-performance as equivalent functionality can be achieved at a much lower cost with generic components."
-tags: [Network Streamer, DAC, High-end, dCS]
+tags: [DAC, High-end, Network streamer, dCS]
 permalink: /products/en/dcs-lina-dac-x/
 ---
-
 ## Overview
 
 The dCS Lina DAC-X is a network streamer-integrated DAC launched by British high-end audio manufacturer dCS in June 2025. Priced at 13,500 GBP (15,500 USD), it features the company's proprietary Ring DAC technology and supports PCM 24bit/384kHz and DSD128. Positioned as the upper model in the Lina series with added volume control, remote control, and CD/SACD transport connection functionality, it offers a four-stage output level selection of 0.2V, 0.6V, 2V, and 6V. Hand-assembled and inspected at dCS's Cambridge factory, it maintains the traditional quality of dCS high-end audio products.

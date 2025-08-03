@@ -8,10 +8,9 @@ ref: marantz-model-50
 date: 2025-07-28
 rating: [2.7, 0.7, 0.5, 0.2, 0.8, 0.5]
 summary: "A pure analog integrated amplifier with good measured performance that, however, falls short of modern Class D amplifiers and lacks digital inputs, leading to significant issues with cost-performance and rationality."
-tags: [Amplifier, Integrated Amplifier, Analog, Class AB, Marantz]
+tags: [Amplifier, Analog, Class AB, Integrated amplifier, Marantz]
 permalink: /products/en/marantz-model-50/
 ---
-
 ## Overview
 
 The Marantz Model 50 is a 70W+70W integrated amplifier released by the company in 2023. Its most defining feature is the complete elimination of digital inputs, focusing exclusively on analog circuitry. This design clearly targets users who seek to maximize the playback quality of analog sources like turntables and CD players. It incorporates Marantz's traditional technologies, including HDAM modules and a current-feedback power amplifier, featuring five analog line inputs and an MM-compatible phono input. It is priced at approximately 197,505 JPY in the Japanese market.

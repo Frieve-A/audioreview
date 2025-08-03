@@ -8,10 +8,9 @@ ref: dcs-vivaldi-upsampler
 date: 2025-07-26
 rating: [1.9, 0.1, 0.8, 0.0, 0.8, 0.2]
 summary: "While showcasing dCS's high technical capabilities, this flagship upsampler's core function lacks scientific validity. With equivalent functionality available at 1/76th the price, its existence as a dedicated device is questionable."
-tags: [DDC, Upsampler, Network Streamer, High-end, UK]
+tags: [DDC, High-end, Network streamer, United Kingdom, Upsampler]
 permalink: /products/en/dcs-vivaldi-upsampler/
 ---
-
 ## Overview
 
 The dCS Vivaldi Upsampler is a flagship digital-to-digital converter developed by Cambridge-based dCS (Data Conversion Systems) in the UK. Founded in 1987, dCS began with high-precision ADC/DAC development for military and telecommunications applications and is known for its proprietary Ring DAC technology as an established company that has received The Queen's Award for Enterprise. This product integrates upsampling functions supporting PCM, DSD, and DXD, along with network streaming capabilities for Roon, TIDAL, Spotify, and other services, representing dCS's technical culmination.

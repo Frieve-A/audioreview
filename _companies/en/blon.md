@@ -8,10 +8,9 @@ ref: blon
 date: 2025-07-05
 rating: [3.4, 0.6, 0.6, 0.9, 0.6, 0.7]
 summary: "A Chinese Chi-Fi brand that shocked the industry with the BL-03. Despite its incredibly low price of USD 20, the 10mm dynamic driver with carbon nanotube diaphragm delivers natural sound and deep sub-bass that competes with products costing twice as much. While fit can be challenging, proper ear tip selection resolves this issue. A revolutionary presence that established new cost-performance standards."
-tags: [China, IEM, Chi-Fi, "Dynamic Driver", "Carbon Nanotube", "Cost Performance"]
+tags: [Carbon Nanotube, Chi-Fi, China, Cost Performance, Dynamic driver, In-ear monitors]
 permalink: /companies/en/blon/
 ---
-
 ## Overview
 
 BLON is a Chinese audio brand that gained significant attention in the Chi-Fi market with the release of the BL-03 in 2019. The company operates under the philosophy of "high-quality music experience at accessible prices," adopting an approach that pursues sound quality while minimizing costs to the extreme.

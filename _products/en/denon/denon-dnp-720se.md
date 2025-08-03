@@ -8,10 +8,9 @@ ref: denon-dnp-720se
 date: 2025-07-21
 rating: [2.6, 0.6, 0.3, 0.9, 0.5, 0.3]
 summary: "Network streamer released in 2012. Technical specifications meet transparency standards but lacks modern features. Cost-performance is reasonable in used market."
-tags: [Network Streamer, Denon, Legacy Generation, Analog Output Issues]
+tags: [Analog Output Issues, Denon, Legacy Generation, Network streamer]
 permalink: /products/en/denon-dnp-720se/
 ---
-
 ## Overview
 
 The Denon DNP-720SE is a network audio player released in 2012. It featured AirPlay support, FLAC 96kHz/24bit playback, and internet radio functionality, providing advanced features for its time. However, after 13 years since release, technological obsolescence is severe, particularly with serious performance issues in the built-in DAC. Current used market price is approximately 200-300 USD, but numerous modern alternatives can achieve equivalent functionality at similar or lower cost.

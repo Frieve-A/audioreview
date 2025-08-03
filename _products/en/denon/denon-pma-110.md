@@ -8,10 +8,9 @@ ref: denon-pma-110
 date: 2025-07-27
 rating: [3.2, 0.6, 0.7, 0.5, 0.8, 0.6]
 summary: "Denon's 110th anniversary high-end integrated amplifier. It offers excellent build quality and versatility, but equivalent functionality and performance can be achieved with a more affordable combination of products, resulting in average cost-performance."
-tags: [Amplifier, Integrated Amplifier, Denon, Anniversary Model, Class AB, Built-in DAC]
+tags: [Amplifier, Anniversary Model, Built-in DAC, Class AB, Denon, Integrated amplifier]
 permalink: /products/en/denon-pma-110/
 ---
-
 ## Overview
 
 The Denon PMA-A110 is an integrated amplifier developed to commemorate Denon's 110th anniversary. This Class AB amplifier delivers 80W (8Ω)/160W (4Ω) output and features a built-in DAC supporting 384kHz/32bit PCM and 11.2MHz DSD. Manufactured in Japan at the Shirakawa factory, it emphasizes high quality with a robust 25kg chassis. The unit incorporates Denon's proprietary 7th generation UHC-MOS technology and AL32 processing, along with an integrated phono equalizer (MM/MC compatible), positioning it as a premium product.

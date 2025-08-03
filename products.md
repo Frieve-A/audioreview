@@ -8,7 +8,6 @@ permalink: /products/
 <div class="page-header">
   <div class="page-title-section">
     <h1 class="page-title-with-search">製品一覧 <span class="search-icon">🔍</span> <span class="review-count" id="result-count">{{ all_products.size }}{{ site.data.strings.ja.products_available }}</span></h1>
-    {% assign all_products = site.products | where: 'lang', 'ja' | sort: 'date' | reverse %}
   </div>
   <div class="sort-controls">
     <label for="sort-select">{{ site.data.strings.ja.sort_by }}</label>
@@ -40,45 +39,9 @@ permalink: /products/
 
 <p class="section-help-text">タイトルをクリックして詳細レビューを表示</p>
 
+<!-- Empty container for dynamic content -->
 <div class="products-grid" id="products-grid">
-  {% for product in all_products %}
-    <div class="product-card" 
-         data-overall="{{ product.rating[0] | default: 0 }}"
-         data-scientific="{{ product.rating[1] | default: 0 }}"
-         data-technical="{{ product.rating[2] | default: 0 }}"
-         data-cost="{{ product.rating[3] | default: 0 }}"
-         data-reliability="{{ product.rating[4] | default: 0 }}"
-         data-design="{{ product.rating[5] | default: 0 }}"
-         data-tags="{% if product.tags %}{{ product.tags | join: ',' }}{% endif %}">
-      {% assign current_date = 'now' | date: '%s' %}
-      {% assign product_date = product.date | date: '%s' %}
-      {% assign days_diff = current_date | minus: product_date | divided_by: 86400 %}
-      {% if days_diff <= 3 %}
-        <span class="new-badge">NEW</span>
-      {% endif %}
-      <h3><a href="{{ product.url }}">{{ product.target_name }}</a></h3>
-      <div class="product-rating">
-        <span class="rating-label" id="rating-label">総合評価</span>
-        <span class="rating-value">
-          {% if product.rating and product.rating.size > 0 %}
-            {{ product.rating[0] | round: 1 }}
-          {% else %}
-            N/A
-          {% endif %}
-        </span>
-        <span class="rating-stars">★</span>
-      </div>
-      <p class="product-summary">{{ product.summary }}</p>
-      <time class="product-date" datetime="{{ product.date | date: '%Y-%m-%d' }}">
-        {{ product.date | date: '%Y年%m月%d日' }}
-      </time>
-      
-      {% assign parent_company = site.companies | where: 'company_id', product.company_id | where: 'lang', 'ja' | first %}
-      {% if parent_company %}
-        <p class="product-company">企業: <a href="{{ parent_company.url }}">{{ parent_company.target_name }}</a></p>
-      {% endif %}
-    </div>
-  {% endfor %}
+  <!-- All items will be generated dynamically by JavaScript -->
 </div>
 
 {% if all_products.size == 0 %}

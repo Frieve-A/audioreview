@@ -8,10 +8,9 @@ ref: adam-audio
 date: 2025-07-05
 rating: [4.2, 0.8, 0.9, 0.7, 0.8, 1.0]
 summary: "Berlin-based studio monitor specialist leveraging proprietary ART ribbon tweeter technology to achieve 4x the air movement of conventional piston speakers, delivering high SPL with ultra-low distortion. Their product lineup spans from professional studio environments to compact home studios with the D3V, serving diverse needs across the audio production spectrum."
-tags: [Germany, "Studio Monitor", ART, "Ribbon Tweeter", Berlin]
+tags: [ART, Berlin, Germany, Ribbon Tweeter, Studio monitors]
 permalink: /companies/en/adam-audio/
 ---
-
 ## Overview
 
 Founded in 1999 in Berlin, Germany, Adam Audio has rapidly grown as a manufacturer specializing exclusively in studio monitor speakers. The company's defining characteristic is their proprietary ART (Accelerating Ribbon Technology) tweeter, based on the Air Motion Transformer technology invented by Dr. Oscar Heil in the 1960s.

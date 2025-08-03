@@ -8,10 +8,9 @@ ref: sendy-audio
 date: 2025-07-28
 rating: [2.2, 0.3, 0.6, 0.3, 0.6, 0.4]
 summary: "A Chinese manufacturer known for handcrafted wooden headphones. While technologically at an industry-average level, many products suffer from measurement issues and do not provide performance commensurate with their price."
-tags: [Chinese Manufacturer, Planar Magnetic, Headphones, Handcrafted]
+tags: [Chinese Manufacturer, Handcrafted, Headphones, Planar magnetic]
 permalink: /companies/en/sendy-audio/
 ---
-
 ## Overview
 
 Sendy Audio is a Chinese headphone manufacturer established in 2015 as a subsidiary brand of Sivga Electronic Technology Co., Ltd. The company specializes in handcrafted wooden planar magnetic headphones as their main product line, offering models such as the AIVA, Apollo, and Peacock. They are known for their beautiful aesthetics using natural wood materials like zebrawood and rosewood, combined with traditional craftsmanship techniques, garnering a certain level of support among audiophile communities.

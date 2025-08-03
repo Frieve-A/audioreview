@@ -8,10 +8,9 @@ ref: apple-airpods-4
 date: 2025-07-12
 rating: [3.9, 0.6, 0.7, 1.0, 0.8, 0.8]
 summary: "Apple AirPods 4 demonstrates excellent cost-performance in the open-design market and offers superior convenience within the Apple ecosystem"
-tags: ["Wireless Earphones", Bluetooth, Apple, Open-Ear]
+tags: [Apple, Bluetooth, Open-ear, Wireless earphones]
 permalink: /products/en/apple-airpods-4/
 ---
-
 ## Overview
 
 Apple AirPods 4 is Apple's fourth-generation wireless earbuds released in September 2024. Following the design philosophy of previous AirPods series, it adopts an open design rather than an in-ear type. Equipped with the H2 chip, it provides features such as personalized spatial audio and adaptive EQ. The USB-C charging case achieves up to 30 hours of playback time. While offering high compatibility with Apple products, pricing challenges have been noted.

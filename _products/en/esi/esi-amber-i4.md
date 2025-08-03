@@ -8,10 +8,9 @@ ref: esi-amber-i4
 date: 2025-07-20
 rating: [3.6, 0.8, 0.6, 1.0, 0.6, 0.6]
 summary: "The ESI Amber i4 is a 4-in/4-out audio interface that combines excellent published specifications with best-in-class cost-performance."
-tags: [Audio Interface, USB-C, 24bit/192kHz, 4in/4out, DTM]
+tags: [24bit/192kHz, 4in/4out, Audio interface, DTM, USB-C]
 permalink: /products/en/esi-amber-i4/
 ---
-
 ## Overview
 
 The ESI Amber i4 is a 24-bit/192kHz 4-in/4-out USB-C audio interface from German manufacturer ESI. It features two Class-A microphone preamps, a claimed 115dB dynamic range, and zero-latency monitoring, designed for music production and recording. It connects to modern computers via USB-C and includes MIDI ports in an all-in-one design.

@@ -8,7 +8,7 @@ ref: razer-hammerhead-pro-hyperspeed
 date: 2025-07-12
 rating: [3.8, 0.6, 0.7, 1.0, 0.7, 0.8]
 summary: "ゲーミング特化の低遅延イヤホンで、同等機能の最安価格帯としてコストパフォーマンスは優秀。THX認証と低遅延技術を搭載した良質なゲーミングイヤホン。"
-tags: [Bluetooth, Earbuds, アクティブノイズキャンセリング, ゲーミング, ワイヤレス]
+tags: [Bluetooth, アクティブノイズキャンセリング, イヤホン, ゲーミング, ワイヤレス]
 permalink: /products/ja/razer-hammerhead-pro-hyperspeed/
 ---
 ## 概要

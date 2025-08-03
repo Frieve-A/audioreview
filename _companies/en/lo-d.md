@@ -8,10 +8,9 @@ ref: lo-d
 date: 2025-07-21
 rating: [1.2, 0.3, 0.3, 0.1, 0.2, 0.3]
 summary: "Hitachi's audio brand from the 1970s-80s. Analog technology was advanced for its era but significantly inferior by modern measurement standards"
-tags: [Japan, Vintage, Amplifier, Speaker, Cartridge, Analog]
+tags: [Amplifier, Analog, Cartridge, Japan, Speakers, Vintage]
 permalink: /companies/en/lo-d/
 ---
-
 ## Overview
 
 Lo-D (Lord) was a high-end audio brand developed by Hitachi from the 1970s to 1980s. It is known for the HMA-9500 stereo power amplifier (released in 1977), which was the world's first to use power MOSFETs, representing revolutionary technology for its time. The brand offered a wide range of products including amplifiers, speakers, phono cartridges, and turntables, with custom speakers like the HS-1500/5000/10000 ultra-high-end models. However, production has ceased and products are only available on the used market.

@@ -8,10 +8,9 @@ ref: adv
 date: 2025-08-01
 rating: [2.7, 0.5, 0.6, 0.5, 0.6, 0.5]
 summary: "New York-based professional in-ear monitor specialist manufacturer. Claims high-resolution support but detailed measurement data is not disclosed. Faces cost-performance challenges compared to competitors."
-tags: [IEM, Pro Audio, In-Ear Monitor, USA]
+tags: [America, In-ear monitors, Pro Audio]
 permalink: /companies/en/adv/
 ---
-
 ## Overview
 
 ADV (Advanced Sound Group) is an audio equipment manufacturer based in Great Neck, New York. They manufacture custom-fit in-ear monitors (CIEM), universal-fit IEMs, true wireless earphones, professional audio headphones and accessories for professional musicians. Their flagship products are the Model 2 and Model 3 in-ear monitor series, featuring the company's proprietary super-wideband micro-dynamic drivers and certified by the Japan Audio Society (JAS) for high-resolution audio support above 40kHz. They primarily target professional musicians and audiophile markets while also offering custom-fit options.

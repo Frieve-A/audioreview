@@ -8,7 +8,7 @@ ref: adv-model-3-live
 date: 2025-08-01
 rating: [2.5, 0.6, 0.5, 0.4, 0.4, 0.6]
 summary: "The ADV Model 3 Live is an in-ear monitor featuring an MMCX connector and claiming Hi-Res support. However, with numerous products on the market offering equivalent or better features at a lower price, its 79.99 USD price point lacks competitiveness."
-tags: [Dynamic Driver, Hi-Res, In-ear monitors, MMCX, Pro Audio]
+tags: [Dynamic driver, Hi-Res, In-ear monitors, MMCX, Pro Audio]
 permalink: /products/en/adv-model-3-live/
 ---
 ## Overview

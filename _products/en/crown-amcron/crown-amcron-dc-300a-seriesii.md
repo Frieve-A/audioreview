@@ -8,10 +8,9 @@ ref: crown-amcron-dc-300a-seriesii
 date: 2025-07-21
 rating: [2.5, 0.9, 0.4, 0.3, 0.5, 0.4]
 summary: "A legendary professional power amplifier from 1996, but shows significant technical obsolescence and cost-performance issues by modern standards"
-tags: [Power Amplifier, Crown, Amcron, Professional, Vintage, Class AB]
+tags: [Amcron, Class AB, Crown, Power amplifier, Professional, Vintage]
 permalink: /products/en/crown-amcron-dc-300a-seriesii/
 ---
-
 ## Overview
 
 The Crown Amcron DC-300A Series II is a professional 2-channel power amplifier released in 1996. Developed by Crown (then under the Amcron brand), this unit delivers 150W into 8Ω loads and 250W into 4Ω loads, and was widely adopted in professional audio applications. It featured JTS (Junction Temperature Simulation) protection circuitry and a DC-coupled design for wide bandwidth characteristics. At its time of release, it was evaluated as an innovative design and has a history of use in many studios and live venues.

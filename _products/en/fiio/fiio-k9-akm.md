@@ -8,10 +8,9 @@ ref: fiio-k9-akm
 date: 2025-08-02
 rating: [3.0, 0.8, 0.7, 0.3, 0.5, 0.7]
 summary: "Desktop DAC and headphone amplifier featuring AKM's flagship DAC chip AK4499EX. Achieves transparent-level measurement performance but faces cost-performance challenges."
-tags: [DAC, Headphone Amplifier, Desktop Audio, AKM, THX]
+tags: [AKM, DAC, Desktop, Headphone amplifier, THX]
 permalink: /products/en/fiio-k9-akm/
 ---
-
 ## Overview
 
 The FiiO K9 AKM is a desktop DAC and headphone amplifier manufactured by FiiO of China. This product replaces the ESS DAC chip used in the original K9 with AKM's flagship DAC chip combo AK4191+AK4499EX. It features a headphone amplifier section powered by THX AAA 788+ dual modules, delivering 2000mW at a 32Ω load and 780mW at a 300Ω load in balanced connection. The unit supports 768kHz/32bit PCM and DSD512, includes Bluetooth connectivity, and is positioned as a multifunctional all-in-one product.

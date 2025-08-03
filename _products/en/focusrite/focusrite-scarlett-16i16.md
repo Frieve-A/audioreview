@@ -8,10 +8,9 @@ ref: focusrite-scarlett-16i16
 date: 2025-07-30
 rating: [4.2, 0.8, 0.8, 1.0, 0.8, 0.8]
 summary: "A 16-in/16-out USB audio interface featuring RedNet converters, boasting a vast 122dB dynamic range and excellent preamp performance. It stands as the world's most affordable option among products with equivalent or superior features and measurement performance, delivering extremely high cost-performance."
-tags: [Audio Interface, USB, 24bit/192kHz, RedNet, Focusrite]
+tags: [24bit/192kHz, Audio interface, Focusrite, RedNet, USB]
 permalink: /products/en/focusrite-scarlett-16i16/
 ---
-
 ## Overview
 
 The Focusrite Scarlett 16i16 (4th Generation) is a 16-in/16-out USB audio interface featuring converters directly adopted from the company's flagship RedNet series. It is equipped with 24-bit/192kHz AD/DA converters with up to 122dB of dynamic range and two 4th generation Scarlett microphone preamps boasting up to 69dB of gain and an EIN of -127dBu. With modern features like Auto Gain and Clip Safe, it is designed for professional recording environments.

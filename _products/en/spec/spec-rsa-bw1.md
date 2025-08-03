@@ -8,10 +8,9 @@ ref: spec-rsa-bw1
 date: 2025-07-26
 rating: [1.9, 0.4, 0.6, 0.0, 0.5, 0.4]
 summary: "Inferior measurement performance as a Class D amplifier, with equivalent functionality achievable for around 20,000 yen against a 540,000 yen price point, resulting in extremely poor cost-performance"
-tags: [Amplifier, Integrated Amplifier, Class D, SPEC, Made in Japan]
+tags: [Amplifier, Class D, Integrated amplifier, Made in Japan, SPEC]
 permalink: /products/en/spec-rsa-bw1/
 ---
-
 ## Overview
 
 The SPEC RSA-BW1 is a Class D analog integrated amplifier developed by SPEC Corporation. It employs high-efficiency FET technology claiming 96% power efficiency and delivers maximum output of 100W×2 (4Ω). The product features a unique design philosophy using spruce and maple materials from violin construction for the chassis, with a current market price of 544,500 yen. It is positioned as part of the company's "Real Sound Amplifier" series.

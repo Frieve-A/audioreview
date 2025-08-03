@@ -8,10 +8,9 @@ ref: arturia-audiofuse-16rig
 date: 2025-07-21
 rating: [3.5, 0.9, 0.7, 0.5, 0.6, 0.8]
 summary: "High-density audio interface supporting 16-channel input/output. Features ESS and Cirrus Logic converters with dual independent mixers, specialized for electronic music production"
-tags: [Audio Interface, Arturia, USB-C, DC Coupling, Modular Synth]
+tags: [Arturia, Audio interface, DC Coupling, Modular Synth, USB-C]
 permalink: /products/en/arturia-audiofuse-16rig/
 ---
-
 ## Overview
 
 The Arturia AudioFuse 16Rig is a high-density audio interface supporting 16-channel input/output, released in 2023. It features ESS and Cirrus Logic 24-bit AD/DA converters with support for up to 192kHz/24-bit resolution. The unit incorporates DC-coupled outputs and dual MIDI-controllable independent mixers, designed specifically for modular synthesizer and electronic music production. It supports both desktop and 1U rack mounting, with USB-C connectivity and a USB hub function for enhanced expandability.

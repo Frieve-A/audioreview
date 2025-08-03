@@ -8,10 +8,9 @@ ref: universal-audio
 date: 2025-07-13
 rating: [4.1, 0.7, 0.9, 1.0, 0.8, 0.7]
 summary: "A veteran manufacturer highly regarded in professional audio but facing cost-performance challenges"
-tags: [Audio Interface, DAC, UAD, Apollo, Professional Audio]
+tags: [Apollo, Audio interface, DAC, Professional Audio, UAD]
 permalink: /companies/en/universal-audio/
 ---
-
 ## Overview
 
 Universal Audio is an American professional audio equipment manufacturer founded by Bill Putnam in 1958. The company created legendary analog equipment such as the 1176 compressor and Teletronix LA-2A, and is currently known for the Apollo series audio interfaces and UAD plugins. Their products are adopted in many professional studios and are particularly highly regarded in the recording industry. The flagship Apollo Twin X series features 24-bit/192kHz AD/DA conversion, real-time plugin processing via SHARC DSP, and Unison preamp technology.

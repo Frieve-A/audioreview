@@ -8,10 +8,9 @@ ref: topping-e8x8-pre
 date: 2025-07-19
 rating: [3.7, 0.8, 0.8, 1.0, 0.3, 0.8]
 summary: "A professional audio interface that delivers excellent 8-channel recording performance at a phenomenal cost-performance, though with reliability concerns."
-tags: [Audio Interface, Recording Equipment, Microphone Preamp, USB-C, Pro Audio]
+tags: [Audio interface, Microphone Preamp, Pro Audio, Recording Equipment, USB-C]
 permalink: /products/en/topping-e8x8-pre/
 ---
-
 ## Overview
 
 The Topping E8x8 Pre is a professional audio interface equipped with 8 ultra-low noise microphone preamps. Chinese manufacturer Topping has gained attention in recent years for DAC and amplifier products with excellent measurement performance, and the E8x8 Pre represents the company's first serious entry into the audio interface market. It features an EIN of -130.5dBu ultra-low noise design and boasts dynamic range specifications of 127dB (line output) and 132dB (headphone output), designed for use in professional recording environments.

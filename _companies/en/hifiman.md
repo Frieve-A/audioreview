@@ -8,10 +8,9 @@ ref: hifiman
 date: 2025-07-23
 rating: [4.0, 0.7, 0.8, 0.9, 0.7, 0.9]
 summary: "A Chinese planar magnetic headphone specialist founded in 2007. Through founder Fang Bian's technological innovation, they expanded planar magnetic headphones, previously limited to high-price ranges, across a wide price spectrum. Products like Sundara, Ananda, and the Arya series have succeeded in providing planar magnetic sound characteristics at accessible prices. While there are quality control challenges, they are an industry leader in technological innovation and price disruption."
-tags: [China, Planar Magnetic, Headphones, High Cost-Performance, Technological Innovation]
+tags: [China, Headphones, High Cost-Performance, Planar magnetic, Technological Innovation]
 permalink: /companies/en/hifiman/
 ---
-
 ## Overview
 
 Founded in China by Fang Bian in 2007, HiFiMAN played a revolutionary role in popularizing planar magnetic headphones. Before this company, planar magnetic headphones were limited to ultra-luxury models costing thousands of dollars, but HiFiMAN achieved planar magnetic headphones in the hundreds of dollars range through proprietary technological innovation.

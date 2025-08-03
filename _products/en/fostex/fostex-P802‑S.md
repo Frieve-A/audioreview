@@ -8,10 +8,9 @@ ref: fostex-P802‑S
 date: 2025-07-30
 rating: [2.5, 0.6, 0.5, 0.3, 0.7, 0.4]
 summary: "Ultra-compact 2-way speaker featuring 8cm woofer and 20mm tweeter. Supports Hi-Res audio up to 40kHz, but faces significant challenges in scientific measurement values and price competitiveness."
-tags: [Compact Speaker, Bookshelf, Hi-Res Compatible, Desktop Audio]
+tags: [Bookshelf, Compact Speaker, Desktop, Hi-Res Compatible]
 permalink: /products/en/fostex-P802‑S/
 ---
-
 ## Overview
 
 The Fostex P802‑S is an ultra-compact 2-way bass reflex speaker combining an 8cm woofer with a 20mm soft dome tweeter. Designed with a "small volume audio" concept, it supports Hi-Res audio sources through high-frequency reproduction up to 40kHz. Its extremely compact dimensions of 100×195×120mm are intended for use in limited spaces such as behind PC monitors. The speaker employs a UFLC soft dome diaphragm tweeter and wood pulp cone paper woofer, achieving a lightweight design of 1.1kg per unit.

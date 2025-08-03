@@ -8,10 +8,9 @@ ref: apple-airpods-4-with-active-noise-cancellation
 date: 2025-07-12
 rating: [4.0, 0.6, 0.7, 1.0, 0.8, 0.9]
 summary: "Apple's innovative open-ear ANC earbuds create a unique product category, and due to this uniqueness, it achieves a high cost-performance rating."
-tags: ["Active noise cancelling", Apple, "H2 Chip", Open-ear, "Wireless Earphones"]
+tags: [Active noise cancelling, Apple, H2 Chip, Open-ear, Wireless earphones]
 permalink: /products/en/apple-airpods-4-with-active-noise-cancellation/
 ---
-
 ## Overview
 
 The Apple AirPods 4 with Active Noise Cancellation, released in September 2024, is Apple's open-ear noise-canceling earphone featuring the H2 chip. This innovative product has garnered attention for implementing active noise cancellation without adopting traditional sealed designs. With an official Apple price of 179 USD (equivalent to approximately 26,850 yen), the product is available at market prices around 179 USD, and it features high compatibility with the Apple ecosystem. The open-ear design achieves both wearing comfort and ambient sound awareness while suppressing low-frequency noise, representing a different approach from conventional ANC earphones.

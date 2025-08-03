@@ -8,10 +8,9 @@ ref: xiaomi
 date: 2025-07-11
 rating: [2.6, 0.5, 0.5, 1.0, 0.3, 0.3]
 summary: "A Chinese tech giant that has established itself as a leader in the high cost-performance audio market. As of 2025, its product lineup offers features found in high-end models, such as ANC and LDAC, at a surprisingly low price, competing directly with strong value brands like Anker and EarFun rather than premium brands."
-tags: [China, Budget, Earphones, Speaker, Bluetooth]
+tags: [Bluetooth, Budget, China, Earphones, Speakers]
 permalink: /companies/en/xiaomi/
 ---
-
 ## Overview
 
 Xiaomi is a Chinese tech conglomerate founded in 2010, with wide-ranging operations in smartphones, home appliances, and audio products. In the audio sector, they primarily focus on wireless earphones and Bluetooth speakers in the budget price range. Recently, they have introduced more advanced products like the Buds 5 Pro and Buds 5, but their fundamental positioning remains focused on price competitiveness.

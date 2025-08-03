@@ -8,7 +8,7 @@ ref: ibasso-jr-klee
 date: 2025-07-28
 rating: [3.1, 0.6, 0.7, 0.4, 0.7, 0.7]
 summary: "An IEM featuring stainless steel housing and 10mm dynamic driver with 1.6T magnet, but cost-performance is challenged by the existence of equivalent-function, lower-priced alternatives."
-tags: [Dynamic Driver, Entry Level, In-ear monitors, Stainless Steel]
+tags: [Dynamic driver, Entry Level, In-ear monitors, Stainless Steel]
 permalink: /products/en/ibasso-jr-klee/
 ---
 ## Overview

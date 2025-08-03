@@ -8,10 +8,9 @@ ref: wilson-audio
 date: 2025-07-05
 rating: [2.4, 0.3, 0.7, 0.1, 0.9, 0.4]
 summary: "Founded in 1974, this Utah-based high-end speaker manufacturer represents the pinnacle of luxury audio pricing, with entry-level models exceeding USD 10,000 and flagship systems approaching USD 1 million. Known for proprietary composite materials and time-alignment obsession, measured data reveals performance that doesn't justify the astronomical prices. A quintessential luxury audio brand that maintains premium pricing through brand prestige and craftsmanship rather than acoustic superiority."
-tags: [America, High-end, Speaker, Luxury, Utah]
+tags: [America, High-end, Luxury, Speakers, Utah]
 permalink: /companies/en/wilson-audio/
 ---
-
 ## Overview
 
 Wilson Audio was born in 1974 when David A. Wilson and Sheryl Lee Wilson started their venture in a garage, initially focusing on turntable modifications and LP record production. In 1981, they launched their first serious speaker, the WAMM, establishing themselves as a cornerstone of American high-end audio.

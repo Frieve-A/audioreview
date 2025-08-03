@@ -8,10 +8,9 @@ ref: fosi-audio-v3
 date: 2025-07-23
 rating: [3.8, 0.9, 0.7, 1.0, 0.6, 0.6]
 summary: "A compact Class D amplifier featuring the TPA3255 chip and PFFB technology, combining excellent measured performance with best-in-class cost-performance."
-tags: [Class D Amplifier, TPA3255, Power Amplifier, Compact Amplifier, Desktop Audio]
+tags: [Class D Amplifier, Compact Amplifier, Desktop, Power amplifier, TPA3255]
 permalink: /products/en/fosi-audio-v3/
 ---
-
 ## Overview
 
 The Fosi Audio V3 is a stereo power amplifier equipped with the Texas Instruments TPA3255 Class D amplifier chip. Its most notable feature, rare at this price point, is the implementation of PFFB (Post-Filter Feedback) technology, which resolves the frequency response variations caused by speaker impedance, a common issue in traditional Class D amplifiers. Claiming a maximum output of 300W×2ch (at 4Ω), it is designed for serious performance despite its compact form factor. Established in 2017, Fosi Audio is a rapidly growing Chinese audio manufacturer known for its high-value, cost-effective products.

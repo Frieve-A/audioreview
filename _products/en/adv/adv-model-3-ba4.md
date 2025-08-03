@@ -8,7 +8,7 @@ ref: adv-model-3-ba4
 date: 2025-08-01
 rating: [2.6, 0.6, 0.6, 0.2, 0.5, 0.7]
 summary: "ADV's Model 3 BA4 is a professional in-ear monitor with four BA drivers. While aiming for high-transparency sound for guitarists and engineers, it receives an extremely harsh evaluation on cost-performance due to the existence of superior, lower-priced competitors."
-tags: [Balanced Armature, Hi-Res, In-ear monitors, MMCX, Pro Audio]
+tags: [Balanced armature, Hi-Res, In-ear monitors, MMCX, Pro Audio]
 permalink: /products/en/adv-model-3-ba4/
 ---
 ## Overview

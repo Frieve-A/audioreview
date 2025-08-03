@@ -8,10 +8,9 @@ ref: trn
 date: 2025-07-24
 rating: [2.2, 0.4, 0.4, 0.9, 0.2, 0.3]
 summary: "Emerging Chinese IEM manufacturer offering low-cost hybrid driver configuration IEMs with good cost-performance. Measurement performance is at industry average level, but adopts acoustic characteristics prioritizing entertainment value over scientific fidelity."
-tags: [IEM, Chinese Manufacturer, Hybrid Drivers, Low Cost]
+tags: [Chinese Manufacturer, Hybrid Drivers, In-ear monitors, Low Cost]
 permalink: /companies/en/trn/
 ---
-
 ## Overview
 
 TRN (Dongguan Zuodu Acoustic Technology Co., Ltd.) is a Chinese audio manufacturer established in 2017. The company specializes in In-Ear Monitor (IEM) manufacturing, bringing low-cost hybrid driver configuration products to market. TRN promotes "audio enthusiast involvement in development" and develops a product lineup combining BA (Balanced Armature) drivers with dynamic drivers.

@@ -8,10 +8,9 @@ ref: beats-fit-pro
 date: 2025-07-09
 rating: [2.8, 0.6, 0.6, 0.6, 0.5, 0.5]
 summary: "Apple H1 chip-equipped earbuds offering stable connectivity and balanced sound quality, but challenged by microphone performance and price competitiveness"
-tags: ["Active noise cancelling", "Apple H1", Fit, Sports, "Wireless Earphones"]
+tags: [Active noise cancelling, Apple H1, Fit, Sports, Wireless earphones]
 permalink: /products/en/beats-fit-pro/
 ---
-
 ## Overview
 
 The Beats Fit Pro, released in 2022, is a true wireless earbuds featuring Apple's H1 chip. Characterized by excellent fit stability through flexible wingtip design, it supports active noise cancellation and spatial audio. With IPX4 sweat resistance suitable for sports applications, it delivers balanced sound quality through proprietary 9.5mm transducers. Currently priced around 19,000 yen, it positions itself as a cost-performance focused model, approximately 6,000 yen cheaper than Apple's genuine products.

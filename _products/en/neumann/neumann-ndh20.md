@@ -8,7 +8,7 @@ ref: neumann-ndh20
 date: 2025-07-24
 rating: [2.6, 0.6, 0.8, 0.2, 0.5, 0.5]
 summary: "A closed-back studio headphone bearing the Neumann brand, but difficult to consider a modern choice from measurement performance and price perspectives."
-tags: [Closed-back, German, Headphones, Studio monitors]
+tags: [Closed-back, Germany, Headphones, Studio monitors]
 permalink: /products/en/neumann-ndh20/
 ---
 ## Overview

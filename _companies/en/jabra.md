@@ -8,10 +8,9 @@ ref: jabra
 date: 2025-07-09
 rating: [3.0, 0.6, 0.7, 0.5, 0.6, 0.6]
 summary: "A veteran Danish audio equipment manufacturer and member of the GN Group with over 150 years of history. Has long led the headset market but decided to exit the consumer earphone business in 2024. While maintaining industry-average technical standards, it lags behind in measured performance compared to cutting-edge digital technology."
-tags: ["Wireless Earphones", Headsets, Denmark, Exit]
+tags: [Denmark, Exit, Headsets, Wireless earphones]
 permalink: /companies/en/jabra/
 ---
-
 ## Overview
 
 Jabra is a Danish audio equipment manufacturer under the GN Group, founded as a telegraph company in 1869. With over 150 years of history, the company has deep ties to Japan, including involvement in laying telegraph cables connecting Japan to the Eurasian continent. In 2000, it acquired US-based JABRA Corporation, a mobile phone hands-free equipment manufacturer, and unified the brand to "Jabra" in 2009. While leading the headset market for an extended period, the company announced its exit from the consumer earphone and headphone business in 2024, with plans to dispose of inventory by the end of 2024.

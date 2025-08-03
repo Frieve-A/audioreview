@@ -8,10 +8,9 @@ ref: krk
 date: 2025-07-23
 rating: [2.4, 0.6, 0.5, 0.3, 0.5, 0.5]
 summary: "An American legacy studio monitor manufacturer strong in the low-to-mid price range with its ROKIT series, but measurement performance remains at industry-standard levels."
-tags: [Studio Monitor, American, Pro Audio, Near-field]
+tags: [America, Near-field, Pro Audio, Studio monitors]
 permalink: /companies/en/krk/
 ---
-
 ## Overview
 
 KRK is an American studio monitor manufacturer founded in 1986 by Keith R. Klawitter, a sound mixer from the film industry. The company originated from the founder's dissatisfaction with the accuracy of existing monitor speakers, leading him to start his own designs. With nearly 40 years in the pro audio industry, KRK offers multiple product lines, including the ROKIT, V, and Classic series, and has established a reputation, especially for its near-field monitors in the low-to-mid price range. Its distinctive yellow woofer cones are a trademark, and the brand is recognized in the industry for a "slightly bright sound signature."

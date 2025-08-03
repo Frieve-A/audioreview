@@ -8,10 +8,9 @@ ref: bowers-wilkins
 date: 2025-07-24
 rating: [4.0, 0.8, 0.9, 0.6, 0.8, 0.9]
 summary: "Premium British speaker manufacturer founded in 1966. Operates across professional applications from cinemas to recording studios, as well as high-end audiophile products. The diamond tweeters of the 800 series are an iconic industry symbol. Recently expanded into wireless headphones and smart speakers, maintaining its traditional audio brand status while adapting to modern lifestyle needs."
-tags: [British, Speaker, High-end, "Diamond Tweeter", Professional]
+tags: [Diamond Tweeter, High-end, Professional, Speakers, United Kingdom]
 permalink: /companies/en/bowers-wilkins/
 ---
-
 ## Overview
 
 Founded in 1966 by John Bowers, this British premium audio brand has continued pursuing innovative technology and superior sound quality under the philosophy of "conveying the emotion of music as it truly is." It is known for unique technologies unavailable elsewhere, including the diamond tweeters of the 800 series and proprietary Continuum cone technology.

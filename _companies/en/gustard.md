@@ -8,10 +8,9 @@ ref: gustard
 date: 2025-07-26
 rating: [3.0, 0.8, 0.7, 0.3, 0.5, 0.7]
 summary: "Chinese audio company developing DAC product lineup with excellent measurement performance, but facing cost-performance challenges compared to equivalent SMSL and Topping models"
-tags: [DAC, Chinese Manufacturer, Delta-Sigma, R2R, Streamer]
+tags: [Chinese Manufacturer, DAC, Delta-Sigma, Network streamer, R2R]
 permalink: /companies/en/gustard/
 ---
-
 ## Overview
 
 Gustard is a Chinese audio equipment manufacturer primarily focused on DAC (Digital-to-Analog Converter) and headphone amplifier products. The company's product lineup includes delta-sigma models such as the X30, A26, and A18 series, as well as the R2R ladder-type R26, all featuring high-resolution audio support and streaming capabilities. They utilize high-performance DAC chips including ESS ES9039SPRO (quad-mono configuration in X30) and AKM AK4499EX, achieving measurement performance close to transparency levels.

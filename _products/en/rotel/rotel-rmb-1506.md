@@ -8,10 +8,9 @@ ref: rotel-rmb-1506
 date: 2025-07-28
 rating: [3.4, 0.7, 0.5, 0.6, 1.0, 0.6]
 summary: "A 6-channel, 50W multi-channel power amplifier. While it offers good measurement performance, its adherence to conventional Class AB design and cost-performance challenges make it less competitive against modern high-performance, low-cost Class D amplifiers."
-tags: [Japan, Power Amplifier, Multi-channel, Class AB, 6-channel]
+tags: [6-channel, Class AB, Japan, Multi-channel, Power amplifier]
 permalink: /products/en/rotel-rmb-1506/
 ---
-
 ## Overview
 
 The Rotel RMB-1506 is a multi-channel power amplifier with 6-channel output capability. Designed for multi-zone audio systems and small-scale home theaters, it delivers 50W per channel (8Ω) and 80W per channel (4Ω) with all channels driven simultaneously. Based on the company's "Balanced Design Concept," it employs a large, in-house manufactured toroidal transformer and a robust Class AB design. It achieves fundamental performance specifications of less than 0.03% THD, an SNR of 115dB, and a damping factor of over 200. In Japan, it is offered through the distributor Ippinkan at a retail price of 94,800 JPY.

@@ -8,10 +8,9 @@ ref: ibasso
 date: 2025-07-06
 rating: [4.0, 1.0, 0.9, 0.4, 0.8, 0.9]
 summary: "A capable manufacturer leading China's portable audio market. Particularly highly regarded for digital audio players (DAPs), known for their pursuit of sound quality through adoption of advanced DAC chips and replaceable amplifier card designs. They achieve excellent measured performance and build quality at relatively affordable prices, positioning themselves as a strong rival to FiiO and Astell&Kern. While basic product performance is high, cost-performance calculations show score limitations due to the existence of cheaper alternatives."
-tags: [China, Portable Audio, DAP, DAC]
+tags: [China, DAC, DAP, Portable]
 permalink: /companies/en/ibasso/
 ---
-
 ## Overview
 
 iBasso is an audio manufacturer based in Shenzhen, China, particularly renowned worldwide for developing high-quality portable audio players (DAPs) and earphones. Since their 2006 establishment, they have actively adopted cutting-edge technology, releasing numerous products incorporating top-tier DAC chips from Asahi Kasei Microdevices (AKM), ESS Technology, and ROHM. Some premium models feature the "amplifier card system" allowing users to replace amplifier sections, earning support from audio enthusiasts through their flexible thinking and high technical capabilities.

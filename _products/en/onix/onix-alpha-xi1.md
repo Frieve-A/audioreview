@@ -8,10 +8,9 @@ ref: onix-alpha-xi1
 date: 2025-07-30
 rating: [3.6, 0.8, 0.7, 0.7, 0.6, 0.8]
 summary: "Compact portable USB DAC/amp featuring dual CS43198 DAC chips. Achieves transparent-level sound quality with 130dB dynamic range and -115dB THD+N measurements"
-tags: [Portable DAC, Headphone Amplifier, CS43198, Balanced Output, Onix]
+tags: [Balanced output, CS43198, Headphone amplifier, Onix, Portable DAC]
 permalink: /products/en/onix-alpha-xi1/
 ---
-
 ## Overview
 
 The Onix Alpha Xi1 is a portable USB DAC/headphone amplifier developed through a collaboration between UK-based Onix and Shanling. It features dual Cirrus Logic CS43198 DAC chips and dual SGM8262 headphone amplifiers in a fully balanced configuration. Despite its compact 64×32×14mm dimensions and lightweight 38g body, it supports 32-bit/768kHz PCM and DSD256, delivering 500mW@32Ω through its 4.4mm balanced output and 180mW@32Ω through its 3.5mm output. Positioned as a product offering high-quality acoustic performance at the 109 USD price point.

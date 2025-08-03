@@ -8,7 +8,7 @@ ref: genelec-8331a
 date: 2025-08-01
 rating: [4.0, 0.7, 0.9, 0.7, 0.8, 0.9]
 summary: "Genelec 8331Aは革新的な3ウェイ同軸設計とACW技術を採用したプロフェッショナルスタジオモニターです。優秀な技術レベルと設計思想を持つ一方で、より安価な競合の存在によりコストパフォーマンスは完璧ではありません。"
-tags: [3-Way, Active Monitor, Coaxial, Professional Audio, スタジオモニター]
+tags: [3ウェイ, Active Monitor, Coaxial, Professional Audio, スタジオモニター]
 permalink: /products/ja/genelec-8331a/
 ---
 ## 概要

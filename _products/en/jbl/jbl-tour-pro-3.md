@@ -8,10 +8,9 @@ ref: jbl-tour-pro-3
 date: 2025-07-06
 rating: [3.2, 0.6, 0.8, 0.5, 0.5, 0.8]
 summary: "JBL's first flagship earbuds with dual-driver configuration. Features 10mm dynamic + BA driver setup with significantly improved sound quality from predecessor. Smart charging case provides unique functionality, but pricing near 300 USD faces competition from similarly performing products at lower costs. Reliability concerns exist with reported early failure cases, questioning long-term durability."
-tags: [JBL, "Wireless Earphones", "Dual driver", "Smart charging case", Flagship]
+tags: [Dual driver, Flagship, JBL, Smart charging case, Wireless earphones]
 permalink: /products/en/jbl-tour-pro-3/
 ---
-
 ## Overview
 
 The JBL TOUR PRO 3, launched in October 2024, represents JBL's flagship true wireless earbuds featuring the company's first dual-driver configuration (10mm dynamic + balanced armature). Distinguished by its Smart Charging Case with touchscreen display, this unique product carries an MSRP of 300 USD with street prices around 280 USD. Key specifications include LDAC support for high-resolution playback, IP55 water resistance, and up to 11 hours of battery life. The significant price increase of approximately 100 USD from the predecessor TOUR PRO 2 reflects substantial specification improvements.

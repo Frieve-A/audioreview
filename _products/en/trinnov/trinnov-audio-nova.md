@@ -8,10 +8,9 @@ ref: trinnov-audio-nova
 date: 2025-07-14
 rating: [3.7, 0.9, 0.9, 0.3, 0.8, 0.8]
 summary: "A high-performance processor from a pioneer in room correction technology. Features excellent measurement performance and unique 3D microphones, but faces cost-performance challenges compared to products with equivalent functionality."
-tags: [Room Correction, Preamplifier, Processor, Dirac Live, Acoustic Correction]
+tags: [Acoustic Correction, Dirac Live, Preamplifier, Processor, Room correction]
 permalink: /products/en/trinnov-audio-nova/
 ---
-
 ## Overview
 
 The Trinnov Audio Nova is a 1U rack-mountable room and monitor optimization processor developed by Trinnov Audio, which has been researching room correction technology since 2003. Released in 2024, this product brings technologies refined in the company's high-end models to a more accessible price point. It features spatial measurement technology using proprietary 3D microphones and comprehensive optimization functions that correct not only frequency response but also phase, group delay, and impulse response. The system has been completely redesigned from the previous Linux-based architecture to ARM processors, packing advanced processing capabilities into a compact chassis.

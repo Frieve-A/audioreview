@@ -8,10 +8,9 @@ ref: earfun-wave-pro
 date: 2025-07-24
 rating: [3.5, 0.7, 0.6, 1.0, 0.5, 0.7]
 summary: "Wireless headphones featuring 40mm DLC composite drivers and 80-hour battery life. Offers 45dB ANC performance with QuietSmart 2.0 technology and LDAC support at 79.99 USD. Extremely high cost-performance as it is one of the most affordable products with comparable features."
-tags: [Wireless Headphones, ANC, LDAC, Bluetooth5.3, Active Noise Cancellation]
+tags: [ANC, Active Noise Cancellation, Bluetooth5.3, LDAC, Wireless headphones]
 permalink: /products/en/earfun-wave-pro/
 ---
-
 ## Overview
 
 The EarFun Wave Pro is a wireless over-ear headphone released in 2024. It features 40mm DLC composite drivers and achieves Hi-Res Audio certification with an ultra-wide frequency range extending to 40kHz. Key features include up to 45dB of active noise cancellation using QuietSmart 2.0 technology, Bluetooth 5.3 with LDAC codec support, and up to 80 hours of battery life. The headphones also incorporate AI calling functionality with five microphones, multipoint connectivity, and custom EQ app support. The price point is set at 79.99 USD.

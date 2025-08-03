@@ -8,10 +8,9 @@ ref: monitor-audio
 date: 2025-07-05
 rating: [3.5, 0.6, 0.7, 0.8, 0.8, 0.6]
 summary: "A veteran British speaker manufacturer established in 1972. With over 45 years of design experience, they cover a wide range of price points through their Bronze, Silver, Gold, and Platinum series. They have a reputation for proprietary technology development centered on C-CAM (Ceramic-Coated Aluminum Magnesium) technology, with particularly strong competitiveness in the mid-price range. However, publication of measurement data is limited, and cost-performance can be inferior compared to other manufacturers' products in the same price range."
-tags: ["United Kingdom", Speaker, Bronze, Silver, Gold, C-CAM]
+tags: [Bronze, C-CAM, Gold, Silver, Speakers, United Kingdom]
 permalink: /companies/en/monitor-audio/
 ---
-
 ## Overview
 
 Monitor Audio is a speaker manufacturer founded in 1972 in Rayleigh, Essex, England. With over 45 years of design experience and currently employing 100 staff, it is one of the UK's representative Hi-Fi brands. The company advocates a "Transparent Design Philosophy" and pursues "transparent" sound that accurately reproduces the artist's intended sound.

@@ -8,10 +8,9 @@ ref: denon-avr-x4500h
 date: 2025-07-27
 rating: [3.7, 0.8, 0.7, 1.0, 0.4, 0.8]
 summary: "A powerful 9.2-channel AV receiver from 2018, pioneering IMAX Enhanced support and offering 11.2-channel processing. Available on the used market for around 90,000 JPY (approx. 700 USD), it combines excellent performance (THD 0.05%) and cost-performance, but carries risks as a discontinued product."
-tags: [AV Receiver, Dolby Atmos, 9 Channel, 4K Support, IMAX Enhanced, Room Correction]
+tags: [4K Support, 9 Channel, AV Receiver, Dolby Atmos, IMAX Enhanced, Room correction]
 permalink: /products/en/denon-avr-x4500h/
 ---
-
 ## Overview
 
 The Denon AVR-X4500H is a 9.2-channel AV receiver released in 2018, notable for being one of the first consumer receivers to feature IMAX Enhanced support. With 125W per channel and 11.2-channel processing capabilities, it supports advanced Dolby Atmos configurations like 5.2.4 or 7.2.2. The receiver includes comprehensive 4K HDR support, a built-in HEOS streaming platform, and Audyssey MultEQ XT32 room correction. While superseded by newer models, it remains a capable mid-to-high-end receiver that established many features now standard in modern AV receivers.

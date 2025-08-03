@@ -8,10 +8,9 @@ ref: earfun-air-pro-3
 date: 2025-07-15
 rating: [2.5, 0.4, 0.6, 1.0, 0.3, 0.2]
 summary: "True wireless earbuds featuring 11mm wool composite drivers and Qualcomm QCC3071 chipset. Boasts 43dB ANC performance and 45-hour battery life. Its 57 USD price point gives it exceptional cost-performance, but measurement data reveals significant distortion issues that challenge scientific validity."
-tags: [Wireless Earbuds, ANC, Bluetooth5.3, Active Noise Cancelling, aptX Adaptive]
+tags: [ANC, Active noise cancelling, Bluetooth5.3, Wireless Earbuds, aptX Adaptive]
 permalink: /products/en/earfun-air-pro-3/
 ---
-
 ## Overview
 
 The EarFun Air Pro 3 is a true wireless earbud released in 2023. It features 11mm wool composite drivers and a Qualcomm QCC3071 chipset, delivering up to 43dB of noise cancellation performance through QuietSmart 2.0 technology. The earbuds adopt Bluetooth 5.3 and aptX Adaptive codec, and won the VGP 2023 Gold Award. With IPX5 water resistance and 45-hour battery life, it also supports LE Audio technology. Priced at 57 USD.

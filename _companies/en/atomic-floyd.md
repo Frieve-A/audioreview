@@ -8,10 +8,9 @@ ref: atomic-floyd
 date: 2025-08-02
 rating: [1.4, 0.2, 0.4, 0.1, 0.4, 0.3]
 summary: "A British premium earphone manufacturer, notable for its metal housings and hybrid drivers. However, it suffers from fatal flaws in acoustic design and extremely low corporate reliability."
-tags: [Earphones, Hybrid Driver, UK, Premium]
+tags: [Earphones, Hybrid Driver, Premium, United Kingdom]
 permalink: /companies/en/atomic-floyd/
 ---
-
 ## Overview
 
 Atomic Floyd is a British manufacturer specializing in high-performance in-ear headphones. In the 2010s, they developed premium earphones with the concept of "metal construction for a lifetime," using titanium and stainless steel housings. Their flagship products featured hybrid driver configurations and were marketed with claims of Swiss watch-like precision and high-end audio quality. However, serious issues have been identified in their acoustic designs.

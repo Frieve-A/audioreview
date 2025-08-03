@@ -8,10 +8,9 @@ ref: meze-audio
 date: 2025-07-20
 rating: [2.7, 0.4, 0.7, 0.2, 0.7, 0.7]
 summary: "Romanian premium headphone manufacturer emphasizing design and comfort, but facing challenges in scientific validity and cost-performance ratio"
-tags: [Headphones, Planar Magnetic, Dynamic Driver, High-End Audio, Romania]
+tags: [Dynamic driver, Headphones, High-End Audio, Planar magnetic, Romania]
 permalink: /companies/en/meze-audio/
 ---
-
 ## Overview
 
 Meze Audio is a premium headphone manufacturer founded in 2011 by industrial designer Antonio Meze in Baia Mare, Romania. Operating under the motto "Sound. Comfort. Design. True High-End," the company produces both open-back and closed-back headphones and IEMs using planar magnetic and dynamic drivers. Their product lineup spans from the flagship Elite (4,000 USD) to mid-range 99 Classics (309 USD) and entry-level Alba IEM (159 USD), covering a wide price range. The company is known for its beautiful walnut wood and metal construction aesthetics, along with a pursuit of comfort for extended listening sessions.

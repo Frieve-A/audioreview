@@ -8,10 +8,9 @@ ref: vandersteen
 date: 2025-07-05
 rating: [3.2, 0.8, 0.8, 0.1, 0.8, 0.7]
 summary: "A veteran American speaker manufacturer that has been in business since 1977. They maintain their commitment to time-coherent design and boast sales of over 100,000 units. Even in their latest models like the Treo CT and Model 7 XTRM, their obsession with phase accuracy that has continued since the first generation remains intact. The measurement data is excellent and they achieve high sound quality, but when compared purely by measurement performance, they are approximately 10-20 times more expensive than products with equivalent performance, making cost-performance limited."
-tags: [America, Speaker, Time-coherent, Phase-accuracy, High-end]
+tags: [America, High-end, Phase-accuracy, Speakers, Time-coherent]
 permalink: /companies/en/vandersteen/
 ---
-
 ## Overview
 
 A speaker manufacturer based in California, USA, founded in 1977. The product line starting with the Model 2, which consistently pursues the "time-coherent design" advocated by founder Richard Vandersteen, has continued to evolve for 47 years. All products prioritize phase accuracy, and their design philosophy of focusing on first-order crossover networks and time-axis alignment of drivers creates unique acoustic characteristics not found in other companies.

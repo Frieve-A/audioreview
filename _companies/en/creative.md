@@ -8,10 +8,9 @@ ref: creative
 date: 2025-07-08
 rating: [2.5, 0.3, 0.7, 0.5, 0.7, 0.3]
 summary: "Veteran PC peripherals manufacturer. Established industry standards with Sound Blaster, but current measurement performance remains average for the price range."
-tags: ["Sound card", Speaker, "Gaming audio", "PC peripherals"]
+tags: [Gaming audio, PC peripherals, Sound card, Speakers]
 permalink: /companies/en/creative/
 ---
-
 ## Overview
 
 Creative Technology Ltd. is a PC peripherals manufacturer founded in Singapore in 1981. The company established PC audio standards in the 1980s-90s with the Sound Blaster 1.0 release in 1989. With approximately 280 employees (as of March 2025), they currently focus on sound cards, desktop speakers, and gaming headsets featuring proprietary Super X-Fi technology. The Pebble series is known as a bestselling low-cost desktop speaker line with over 61,000 reviews on Amazon. The Sound Blaster brand has over 100 million registered users and represents the company's core technology developed over 40+ years.

@@ -8,10 +8,9 @@ ref: realme
 date: 2025-07-11
 rating: [3.7, 0.6, 0.7, 0.8, 0.8, 0.8]
 summary: "中国BBK Electronics傘下のオーディオブランドとして、優れたコストパフォーマンスでTWSイヤホンを展開。Buds Air 6 Proは50dB ANCとLDAC対応で競合他社を上回る仕様を競争力のある価格で提供。"
-tags: ["Wireless Earphones", 中国, BBK, 低価格, ミドルレンジ]
+tags: [BBK, ミドルレンジ, ワイヤレスイヤホン, 中国, 低価格]
 permalink: /companies/ja/realme/
 ---
-
 ## 概要
 
 realmeは2018年にOPPOのサブブランドとして設立され、現在は中国BBK Electronics傘下の独立ブランドとして展開している。スマートフォンの成功を受け、2019年頃からオーディオ分野に参入し、主にTWSイヤホンやネックバンド型ワイヤレスイヤホンを手掛ける。Buds Air、Buds Air Pro、Buds Air 6 Proなどの製品ラインナップを展開し、エントリーからミドルレンジの価格帯でANC機能や長時間バッテリー、LDAC対応などの機能を提供している。BBK Electronicsのオーディオ技術基盤を活用し、コストパフォーマンスを重視した製品開発を行っている。

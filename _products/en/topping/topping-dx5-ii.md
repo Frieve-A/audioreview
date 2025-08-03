@@ -8,10 +8,9 @@ ref: topping-dx5-ii
 date: 2025-07-19
 rating: [3.6, 0.9, 0.8, 0.6, 0.4, 0.9]
 summary: "2025 desktop DAC-headphone amplifier combo featuring dual ES9039Q2M chips and new X-Hybrid amplifier. While measurement performance is excellent, long-term reliability is a concern considering quality issues reported with the company's past products."
-tags: [DAC, Headphone Amplifier, ES9039Q2M, X-Hybrid, Desktop Audio]
+tags: [DAC, Desktop, ES9039Q2M, Headphone amplifier, X-Hybrid]
 permalink: /products/en/topping-dx5-ii/
 ---
-
 ## Overview
 
 The Topping DX5-II is a desktop DAC-headphone amplifier combo released in 2025. Significantly upgraded from the previous generation, it features dual ES9039Q2M DAC chips and newly developed X-Hybrid amplifier architecture. It provides comprehensive functionality for modern digital audio environments at a 299 USD price point, including PCM 768kHz/32-bit and native DSD512 support, Bluetooth 5.1 with LDAC compatibility, and 10-band PEQ functionality. The unit also features a 2.0-inch full-color Aurora UI display for improved operability.

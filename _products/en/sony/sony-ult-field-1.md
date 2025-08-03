@@ -8,10 +8,9 @@ ref: sony-ult-field-1
 date: 2025-07-07
 rating: [3.3, 0.8, 0.6, 0.5, 0.7, 0.7]
 summary: "Sony's new compact portable speaker. It offers solid fundamentals like the ULT bass boost function, IP67 waterproofing, and a 12-hour battery. However, its cost-performance is rated extremely low due to the existence of the Anker Soundcore 3, which offers similar basic performance at less than half the price. It also lacks a clear advantage over competitors like the JBL Flip 6 in terms of sound quality and features, making it difficult to justify its price."
-tags: [Portable Speaker, IP67 Waterproof, ULT Bass, Japan, Bluetooth]
+tags: [Bluetooth, IP67 Waterproof, Japan, Portable speaker, ULT Bass]
 permalink: /products/en/sony-ult-field-1/
 ---
-
 ## Overview
 
 The Sony ULT FIELD 1 is Sony's latest entry into the compact portable speaker market. Weighing 650g, it combines portability with IP67-rated waterproof, dustproof, and rustproof performance for outdoor applications. The driver configuration consists of a 2-way system with an 83mm × 42mm woofer and approximately 16mm tweeter, supporting Bluetooth 5.3 with SBC and AAC codecs. Its most distinctive feature is the ULT bass boost function, which allows one-touch low-frequency enhancement. Battery life is rated at up to 12 hours, and it includes practical features like a detachable multi-strap and hands-free calling capability. The manufacturer claims a frequency response of 20Hz-20kHz, but 20Hz reproduction from a 650g compact speaker is physically unrealistic, with actual performance being limited.

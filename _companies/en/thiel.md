@@ -8,10 +8,9 @@ ref: thiel
 date: 2025-07-05
 rating: [2.7, 0.7, 0.8, 0.2, 0.0, 1.0]
 summary: "An American high-end speaker manufacturer founded in 1976. Through founder Jim Thiel's phase-coherent design philosophy, they developed unique speakers characterized by first-order crossovers and aluminum drivers. They created masterpieces like the CS2.4 and CS3.7, but after the founder's death in 2009, they went astray and went bankrupt in 2018. They have currently stopped new production. While technically excellent with rational design philosophy, they had fatal problems with corporate continuity."
-tags: [America, Speaker, Phase-coherent, Aluminum, Bankruptcy, Defunct]
+tags: [Aluminum, America, Bankruptcy, Defunct, Phase-coherent, Speakers]
 permalink: /companies/en/thiel/
 ---
-
 ## Overview
 
 Founded in 1976 by university friends Jim Thiel, Tom Thiel, and Kathy Gornik who borrowed USD 25,000, this American high-end speaker manufacturer started in a garage in Lexington, Kentucky, and later built their own 35,000 square foot factory, exporting products to over 30 countries. Through the Coherent Source technology developed by founder Jim Thiel, they maintained a unique design philosophy that emphasized phase coherence and time coherence.

@@ -8,10 +8,9 @@ ref: fiio-KA17
 date: 2025-07-22
 rating: [4.3, 0.9, 0.8, 1.0, 0.8, 0.8]
 summary: "Portable DAC/amp featuring dual ES9069Q DAC. Achieves THD+N below 0.0015%, S/N ratio of 123dB, and 650mW output, delivering desktop-level measurement performance in a compact form factor."
-tags: [DAC, Headphone Amplifier, Portable, USB, Balanced Output, THX]
+tags: [Balanced output, DAC, Headphone amplifier, Portable, THX, USB]
 permalink: /products/en/fiio-KA17/
 ---
-
 ## Overview
 
 The FiiO KA17 is a portable DAC/headphone amplifier released in 2024. Combining dual ES9069Q DAC chips with THX AAA 78+ amplifier technology, it achieves desktop-level audio performance in a compact form factor. It features both 3.5mm single-ended and 4.4mm balanced outputs, supporting high-resolution playback up to PCM 768kHz/32bit and DSD 512. The KA17 represents FiiO's flagship portable DAC product, showcasing the company's accumulated technical expertise.

@@ -8,10 +8,9 @@ ref: jabra-elite-8-active
 date: 2025-07-09
 rating: [2.7, 0.5, 0.6, 0.5, 0.6, 0.5]
 summary: "Sports-focused true wireless earbuds combining ruggedness and ANC performance, but challenged by price competitiveness and measurement transparency"
-tags: [Active, "Active noise cancelling", Sports, Waterproof, "Wireless Earphones"]
+tags: [Active, Active noise cancelling, Sports, Waterproof, Wireless earphones]
 permalink: /products/en/jabra-elite-8-active/
 ---
-
 ## Overview
 
 The Jabra Elite 8 Active, released in October 2023, is a sports-focused true wireless earbuds featuring MIL-STD-810H military-grade durability and IP68 complete waterproofing. Equipped with 6mm drivers and adaptive hybrid ANC, it offers 1.5-meter water depth resistance while maintaining stable fit during intense activity through Jabra's proprietary ShakeGrip technology. Currently priced around 30,000 yen, it positions itself as a high-durability model specialized for sports applications.

@@ -8,10 +8,9 @@ ref: anker-soundcore-p40i
 date: 2025-07-09
 rating: [3.2, 0.5, 0.6, 0.9, 0.7, 0.5]
 summary: "Completely wireless earbuds featuring multipoint, noise cancellation, and wireless charging at 7,990 yen price point. Excellent battery life and practical performance, but bass-heavy tuning makes them unsuitable for applications requiring flat acoustic characteristics"
-tags: [Anker, Soundcore, P40i, "Wireless Earphones", "Noise cancellation"]
+tags: [Anker, Noise cancellation, P40i, Soundcore, Wireless earphones]
 permalink: /products/en/anker-soundcore-p40i/
 ---
-
 ## Overview
 
 Anker Soundcore P40i are completely wireless earbuds launched on April 9, 2024, featuring advanced functions like Ultra Noise Cancelling 2.0, multipoint connectivity, and wireless charging at the 7,990 yen price point. Equipped with 11mm dynamic drivers to deliver deep bass and powerful sound. Features IPX5 waterproofing, Bluetooth 5.3 support, and a charging case that doubles as a smartphone stand, emphasizing practical design. Available in four colors: Off-White, Black, Navy, and Purple, representing a quintessential Soundcore brand product pursuing cost-performance.

@@ -8,10 +8,9 @@ ref: oasa-electronics
 date: 2025-07-23
 rating: [2.8, 0.4, 0.5, 0.7, 0.6, 0.6]
 summary: "Japanese audio equipment manufacturer based in Hiroshima, developing omnidirectional speaker 'Egretta' series. Leveraging 20 years of OEM experience to expand its own brand, but more rational alternatives exist in terms of price-performance."
-tags: [Japanese Manufacturer, Omnidirectional Speakers, Desktop Audio, Niche Market]
+tags: [Desktop, Japanese Manufacturer, Niche Market, Omnidirectional Speakers]
 permalink: /companies/en/oasa-electronics/
 ---
-
 ## Overview
 
 OASA Electronics (Oasa Denshi Co., Ltd.) is a Japanese audio equipment manufacturer based in Hiroshima Prefecture. Leveraging 20 years of OEM manufacturing experience, they launched their own brand "Egretta" in Japan in 2011 and began overseas expansion in 2017. Their main products are omnidirectional (360-degree) speakers, particularly compact products for desktop use. The TS-A200 series features a unique acoustic design combining Heil-type tweeters with dome-type woofers using modified lignin materials.

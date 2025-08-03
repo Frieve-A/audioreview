@@ -8,10 +8,9 @@ ref: dali-menuet-se
 date: 2025-07-24
 rating: [3.0, 0.6, 0.7, 0.3, 0.7, 0.7]
 summary: "The DALI Menuet SE is a bookshelf speaker that achieves high-quality sound in an extremely compact size, but has significant cost-performance challenges when compared to products with equivalent performance."
-tags: [DALI, Bookshelf Speakers, Compact Speakers, Premium Audio]
+tags: [Bookshelf speakers, Compact Speakers, DALI, Premium Audio]
 permalink: /products/en/dali-menuet-se/
 ---
-
 ## Overview
 
 The DALI Menuet SE is an extremely compact bookshelf speaker developed by Danish Audiophile Loudspeaker Industries (DALI) of Denmark. This 2-way design features a 114.3mm (4.5-inch) wood fiber woofer and 28mm soft dome tweeter housed in a remarkably small cabinet measuring just 25cm×15cm×23cm. The SE version incorporates technical improvements including a fiberglass voice coil former and crossover components featuring Mundorf premium capacitors. As a limited production model, it features rare wild walnut veneer finishing and was specifically developed for the Japanese market.

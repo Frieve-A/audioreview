@@ -8,10 +8,9 @@ ref: metric-halo
 date: 2025-07-23
 rating: [3.1, 0.8, 0.7, 0.5, 0.4, 0.7]
 summary: "A US-based professional audio manufacturer known for its unique DSP-integrated systems. While offering excellent measured performance, the value proposition hinges on investment in its pricey proprietary ecosystem."
-tags: [Audio Interface, Professional Audio, DSP, Mac]
+tags: [Audio interface, DSP, Mac, Professional Audio]
 permalink: /companies/en/metric-halo/
 ---
-
 ## Overview
 
 Metric Halo is a US-based professional audio interface manufacturer. Since the 1990s, the company has been developing high-end audio interfaces and dedicated software, with flagship products like the ULN-8 and LIO-8 series widely used by recording studios and professional audio engineers. It is distinguished by its proprietary 3D Core digital engine and the inclusion of over 100 DSP plugins, establishing itself as an integrated recording system that goes beyond a simple audio interface. The company is particularly renowned for stable operation in Mac environments and its high-quality ULN-R preamps.

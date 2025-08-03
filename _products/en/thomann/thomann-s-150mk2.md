@@ -8,10 +8,9 @@ ref: thomann-s-150mk2
 date: 2025-07-21
 rating: [1.9, 0.6, 0.2, 0.5, 0.2, 0.4]
 summary: "An outdated Class AB power amplifier with value only for very specific, limited applications."
-tags: [Amplifier, Power Amplifier, Thomann, Class AB]
+tags: [Amplifier, Class AB, Power amplifier, Thomann]
 permalink: /products/en/thomann-s-150mk2/
 ---
-
 ## Overview
 
 The Thomann t.amp S-150mk2 is a Class AB power amplifier sold under the t.amp house brand of the German music and pro-audio retailer, Thomann. Housed in a 2U rack-mount chassis, it has a rated output of 150 watts per channel into 4Ω and 85 watts per channel into 8Ω. It is positioned within their product lineup for budget-conscious PA (Public Address) and studio applications.

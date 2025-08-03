@@ -8,10 +8,9 @@ ref: schiit-audio-tyr
 date: 2025-07-25
 rating: [2.9, 0.8, 0.8, 0.1, 0.7, 0.5]
 summary: "California-designed high-performance monoblock amplifier. Achieves transparent-level measurement performance, but cost-performance is severely low as equivalent Fosi Audio V3 Mono is available for 338 USD."
-tags: [Monoblock Amplifier, Class AB, Power Amplifier, High-Price]
+tags: [Class AB, High-Price, Monoblock Amplifier, Power amplifier]
 permalink: /products/en/schiit-audio-tyr/
 ---
-
 ## Overview
 
 The Schiit Audio Tyr is a high-performance monoblock power amplifier designed and manufactured in California. With 200W output at 8Ω and 350W at 4Ω, it employs advanced designs including discrete differential current feedback circuitry, 24 pieces of 150W Toshiba output devices, and a choke input power supply. The company is a US audio manufacturer founded in 2010, known for its measurement-focused approach. The solid 55lb (25kg) chassis incorporates microprocessor-controlled protection features, requiring two units for stereo use.

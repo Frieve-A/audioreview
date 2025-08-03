@@ -8,10 +8,9 @@ ref: denon-PMA-150H
 date: 2025-07-22
 rating: [3.4, 0.7, 0.8, 0.6, 0.6, 0.7]
 summary: "Compact network integrated amplifier featuring DDFA technology and HEOS streaming. While its measured performance is adequate, it faces cost-performance challenges due to the emergence of more affordable, higher-performing alternatives."
-tags: [Integrated Amplifier, Network Audio, Digital Amplifier, HEOS, Streaming]
+tags: [Digital Amplifier, HEOS, Integrated amplifier, Network Audio, Streaming]
 permalink: /products/en/denon-PMA-150H/
 ---
-
 ## Overview
 
 The Denon PMA-150H is a compact integrated amplifier featuring the company's Direct Digital Feedback Amplification (DDFA) technology and HEOS network functionality. With 70W (4Ω)/35W (8Ω) output power, it offers diverse input options including USB DAC, Bluetooth, Wi-Fi, and Apple AirPlay 2. The design incorporates a 5mm aluminum panel and OLED display, addressing contemporary network audio needs.

@@ -8,10 +8,9 @@ ref: sony-wf-1000xm5
 date: 2025-07-06
 rating: [4.0, 0.9, 0.9, 0.7, 0.8, 0.7]
 summary: "Features Integrated Processor V2 and QN2e HD processor with 8.4mm Dynamic Driver X delivering improved sound quality and industry-leading ANC performance. Achieves 25% size reduction and 20% weight reduction while providing maximum 87% noise cancellation and 50dB+ attenuation above 1kHz. The 24,499 yen current price achieves the lowest cost among equivalent performance competitors, offering premium cost-performance in the complete wireless market."
-tags: ["ANC Leading", "V2 Processor", Sony, "Wireless Earphones", Japan]
+tags: [ANC Leading, Japan, Sony, V2 Processor, Wireless earphones]
 permalink: /products/en/sony-wf-1000xm5/
 ---
-
 ## Overview
 
 The Sony WF-1000XM5 represents Sony's latest flagship true wireless earbuds. Equipped with Integrated Processor V2 and dedicated QN2e HD noise cancelling processor, the 8.4mm Dynamic Driver X delivers significantly improved sound quality over previous models. Despite achieving 25% size reduction and 20% weight reduction, it provides maximum 87% noise cancellation performance and 50dB+ attenuation above 1kHz, with 15dB attenuation in low frequencies. Technical specifications include 20Hz-40kHz frequency response, LDAC support, Bluetooth 5.3, IPX4 water resistance, and up to 8 hours + 24 hours with case battery life, representing extremely high technical standards. Even 2 years after its 2023 release, it maintains industry-leading performance levels.

@@ -8,10 +8,9 @@ ref: audeze
 date: 2025-07-05
 rating: [4.0, 0.8, 0.9, 0.5, 0.9, 0.9]
 summary: "An American planar magnetic headphone specialist founded in 2008. Acquired by Sony Interactive Entertainment in 2023, it became part of PlayStation's technological ecosystem. The LCD series achieves both low distortion and high resolution through excellent planar magnetic driver technology. Highly regarded especially for mixing and mastering applications, it is widely adopted in music production settings. While prices are high, the sound quality has a unique appeal that cannot be obtained with other methods."
-tags: [America, Planar Magnetic, Headphones, Professional, Music Production, Sony]
+tags: [America, Headphones, Music Production, Planar magnetic, Professional, Sony]
 permalink: /companies/en/audeze/
 ---
-
 ## Overview
 
 Founded in California in 2008, Audeze has grown rapidly as a specialist manufacturer of planar magnetic headphones. Founder Sankar Thiagasamudram dedicated his passion to researching and developing planar magnetic technology to overcome the limitations of conventional dynamic drivers, producing numerous innovative products starting with the LCD-2.

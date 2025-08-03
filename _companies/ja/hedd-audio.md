@@ -8,10 +8,9 @@ ref: hedd-audio
 date: 2025-07-29
 rating: [2.9, 0.6, 0.8, 0.2, 0.7, 0.6]
 summary: "ベルリンを拠点とするHEDD Audioは、AMT技術の専門メーカーです。独自の技術開発は評価できるものの、性能に対する価格が極めて高く、コストパフォーマンスの面で競合他社に大きく劣ります。"
-tags: [AMT, Studio Monitor, Headphone, German, Professional Audio]
+tags: [AMT, Professional Audio, スタジオモニター, ドイツ, ヘッドホン]
 permalink: /companies/ja/hedd-audio/
 ---
-
 ## 概要
 
 HEDD Audio（Heinz Electrodynamic Designs）は、物理学者Klaus Heinzとその息子である音楽学者Dr. Frederik Knopによって2015年にベルリンで設立されたオーディオメーカーです。Klaus Heinzは物理学ノーベル賞受賞者Ernst Ruskaの息子であり、AMT技術の発明者Oskar Heil博士に直接師事した経歴を持ちます。同社は世界初のフルレンジAMTヘッドホン「HEDDphone」を開発するなど、エア・モーション・トランスフォーマー技術の継続的発展に取り組んでいます。スタジオモニターからヘッドホンまで、プロフェッショナル向けオーディオ機器をベルリンで手作業により製造しています。

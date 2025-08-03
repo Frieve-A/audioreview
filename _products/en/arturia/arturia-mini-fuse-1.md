@@ -8,10 +8,9 @@ ref: arturia-mini-fuse-1
 date: 2025-07-23
 rating: [3.7, 0.9, 0.6, 0.7, 0.8, 0.7]
 summary: "As an entry-level USB-C audio interface, the MiniFuse 1 offers excellent measured performance. When compared to its 192kHz-capable competitor, the Steinberg UR12, the price difference is minor, making its cost-performance reasonable when considering its bundled software and 5-year warranty."
-tags: [Audio Interface, USB-C, Entry Level, 1 Input, Portable]
+tags: [1 Input, Audio interface, Entry Level, Portable, USB-C]
 permalink: /products/en/arturia-mini-fuse-1/
 ---
-
 ## Overview
 
 The Arturia MiniFuse 1 is an entry-level USB-C audio interface developed by the French company Arturia. With a 1-input, 2-output configuration, it achieves measured values of 110dB dynamic range and THD+N -100dB (<0.001%), supporting recording up to 192kHz. It employs a CIRRUS LOGIC CS4272 stereo codec and XMOS XU208 microcontroller, featuring a 56dB gain range and -129dB equivalent input noise. The combo jack accommodates both XLR microphones and 1/4-inch instruments, with built-in 48V phantom power. Housed in a robust aluminum case, it is available in both black and white color options.

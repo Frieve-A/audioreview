@@ -8,10 +8,9 @@ ref: arturia-mini-fuse-1
 date: 2025-07-23
 rating: [4.2, 0.9, 0.6, 1.0, 0.8, 0.9]
 summary: "As a 1-input USB-C audio interface, it achieves class-leading, transparent measurement performance at a groundbreaking low price. It is the most affordable product among competitors with equivalent performance, earning a perfect score for cost-performance. An absolutely recommended product for anyone seeking a 1-input model in this price range."
-tags: [Audio Interface, USB-C, Entry Level, 1 Input, Portable]
+tags: [1 Input, Audio interface, Entry Level, Portable, USB-C]
 permalink: /products/en/arturia-mini-fuse-1/
 ---
-
 ## Overview
 
 The Arturia MiniFuse 1 is an entry-level USB-C audio interface developed by the French company Arturia. With a 1-input, 2-output configuration, it achieves best-in-class measured values of 110dB dynamic range and THD+N -100dB (<0.001%), supporting recording up to 192kHz. It features -129dB equivalent input noise and is housed in a robust aluminum case. A 5-year long-term warranty and a rich software bundle are included.

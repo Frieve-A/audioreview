@@ -3,26 +3,28 @@ layout: null
 ---
 {
   "companies": [
-    {% assign ja_companies = site.companies | where: 'lang', 'ja' | sort: 'target_name' %}
+    {% assign ja_companies = site.companies | where: 'lang', 'ja' | sort: 'date' | reverse %}
     {% for company in ja_companies %}
     {
       "title": "{{ company.target_name | escape }}",
       "url": "{{ company.url | absolute_url }}",
       "summary": "{{ company.summary | escape }}",
-      "rating": {% if company.rating and company.rating.size > 0 %}{{ company.rating[0] }}{% else %}0{% endif %},
+      "date": "{{ company.date | date: '%Y-%m-%d' }}",
+      "rating": {% if company.rating and company.rating.size > 0 %}[{{ company.rating | join: ',' }}]{% else %}[0,0,0,0,0,0]{% endif %},
       "tags": [{% for tag in company.tags %}"{{ tag | escape }}"{% unless forloop.last %},{% endunless %}{% endfor %}],
       "type": "企業"
     }{% unless forloop.last %},{% endunless %}
     {% endfor %}
   ],
   "products": [
-    {% assign ja_products = site.products | where: 'lang', 'ja' %}
+    {% assign ja_products = site.products | where: 'lang', 'ja' | sort: 'date' | reverse %}
     {% for product in ja_products %}
     {
       "title": "{{ product.target_name | escape }}",
       "url": "{{ product.url | absolute_url }}",
       "summary": "{{ product.summary | escape }}",
-      "rating": {% if product.rating and product.rating.size > 0 %}{{ product.rating[0] }}{% else %}0{% endif %},
+      "date": "{{ product.date | date: '%Y-%m-%d' }}",
+      "rating": {% if product.rating and product.rating.size > 0 %}[{{ product.rating | join: ',' }}]{% else %}[0,0,0,0,0,0]{% endif %},
       "tags": [{% for tag in product.tags %}"{{ tag | escape }}"{% unless forloop.last %},{% endunless %}{% endfor %}],
       "company_id": "{{ product.company_id }}",
       "type": "製品"

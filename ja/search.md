@@ -154,7 +154,7 @@ class SearchPage {
             <div class="search-result-type">${item.type}</div>
             <h3><a href="${item.url}">${item.title}</a></h3>
             <div class="search-result-rating">
-              <span class="rating-value">${typeof item.rating === 'number' ? item.rating.toFixed(1) : (item.rating || 'N/A')}</span>
+              <span class="rating-value">${this.getDisplayRating(item.rating)}</span>
               <span class="rating-stars">★</span>
             </div>
             <p class="search-result-summary">${item.summary}</p>
@@ -184,6 +184,13 @@ class SearchPage {
     const div = document.createElement('div');
     div.innerHTML = text;
     return div.textContent || div.innerText || '';
+  }
+
+  getDisplayRating(rating) {
+    if (Array.isArray(rating)) {
+      return rating[0] !== null && !isNaN(rating[0]) ? rating[0].toFixed(1) : 'N/A';
+    }
+    return typeof rating === 'number' ? rating.toFixed(1) : (rating || 'N/A');
   }
 }
 

@@ -8,10 +8,9 @@ ref: ifi-audio-neo-idsd2
 date: 2025-07-21
 rating: [4.3, 0.9, 0.7, 1.0, 0.8, 0.9]
 summary: "Desktop DAC/headphone amplifier featuring world's first aptX Lossless support. Delivers excellent cost-performance due to its unique value proposition of unparalleled high power and advanced Bluetooth capabilities."
-tags: [Desktop, DAC, Headphone Amplifier, Bluetooth, aptX Lossless, iFi Audio, High Power]
+tags: [Bluetooth, DAC, Desktop, Headphone amplifier, High Power, aptX Lossless, iFi Audio]
 permalink: /products/en/ifi-audio-neo-idsd2/
 ---
-
 ## Overview
 
 The iFi Audio Neo iDSD2 is a desktop DAC/headphone amplifier developed by UK-based iFi Audio. It achieves a world-first with aptX Lossless support, featuring a 4-channel Burr-Brown DAC setup supporting up to 768kHz PCM and DSD512, and delivering an impressive 5,551mW of output power at a 32Ω load. This represents a significant performance improvement over the original Neo iDSD, positioning it as a versatile product that enables high-quality playback through both Bluetooth 5.4 and wired connections. The product embodies iFi Audio's accumulated technical expertise and the reliability of an established British audio manufacturer.

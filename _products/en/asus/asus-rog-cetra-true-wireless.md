@@ -8,10 +8,9 @@ ref: asus-rog-cetra-true-wireless
 date: 2025-07-13
 rating: [2.7, 0.4, 0.6, 0.6, 0.7, 0.4]
 summary: "Gaming-focused true wireless earbuds with questionable scientific validity in audio quality. While ANC functionality and low-latency connectivity are commendable, cost-performance remains below standard due to the existence of more affordable equivalent products."
-tags: [Gaming, True Wireless, Active Noise Cancelling, Low Latency]
+tags: [Active noise cancelling, Gaming, Low Latency, True Wireless]
 permalink: /products/en/asus-rog-cetra-true-wireless/
 ---
-
 ## Overview
 
 The ASUS ROG Cetra True Wireless is a gaming-focused true wireless earbud designed specifically for gaming applications. Since its release in 2022, it features 10mm custom-tuned drivers, hybrid active noise cancellation, and up to 27 hours of battery life. The design minimizes audio latency in gaming through low-latency Bluetooth connectivity and includes IPX4 water resistance. As part of ASUS's gaming brand ROG, while it lacks RGB lighting, it offers customization capabilities through the Armoury Crate application.

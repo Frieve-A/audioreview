@@ -8,10 +8,9 @@ ref: victor
 date: 2025-07-06
 rating: [3.4, 0.9, 0.8, 0.5, 0.8, 0.4]
 summary: "A veteran Japanese audio manufacturer known for their unique 'Wood Cone' speakers. While the natural acoustics produced by wooden diaphragms are highly regarded, they face challenges in modern cost-performance competition. A brand that shines in niche markets pursuing specific sounds."
-tags: [Japan, Audio, Speaker]
+tags: [Audio, Japan, Speakers]
 permalink: /companies/en/victor/
 ---
-
 ## Overview
 
 Victor Company of Japan, Limited (commonly Victor, overseas brand name: JVC) is a veteran Japanese electronics manufacturer established in 1927. It currently continues as a brand under JVCKenwood. While historically known for creating an era with the home video format "VHS," they have also produced numerous innovative technologies in the audio field. A prime example is the "Wood Cone Speaker" using wooden diaphragms, which along with their proprietary high-quality sound technology "K2 Technology," continues to receive strong support from dedicated users as the company's core technology.

@@ -8,10 +8,9 @@ ref: jbl-charge-5
 date: 2025-07-07
 rating: [3.9, 0.8, 0.8, 0.6, 0.8, 0.9]
 summary: "JBL's workhorse portable speaker, covering all the bases for outdoor use with 40W total output, IP67 dust/water protection, 20-hour playback, and a power bank feature. While its acoustic performance is solid, the 179 USD price may feel steep for users who don't need the power bank, as strong, more affordable competitors challenge its value proposition."
-tags: [America, "Portable Speaker", Bluetooth, Waterproof, "Power Bank"]
+tags: [America, Bluetooth, Portable speaker, Power Bank, Waterproof]
 permalink: /products/en/jbl-charge-5/
 ---
-
 ## Overview
 
 The JBL CHARGE 5 is the fifth-generation model of the company's popular portable speaker series. It improves volume over previous generations with 40W total output (30W woofer + 10W tweeter) separate amplifier design, achieving complete IP67 dust and water protection with 20-hour continuous playback capability. Features include 7,500mAh battery-powered power bank function and PartyBoost support for multi-unit connectivity. Provides good acoustic performance as a portable speaker with 60Hz-20kHz frequency characteristics and excellent THD properties.

@@ -8,10 +8,9 @@ ref: kz
 date: 2025-07-05
 rating: [3.5, 0.6, 0.7, 0.9, 0.6, 0.7]
 summary: "Pioneer of the Chi-Fi brand established in 2012. Dominated the entry to mid-class market with multi-driver configurations and overwhelming cost-performance. Boasts annual shipments of millions of units, with the KZ ZST reportedly achieving the record of 'selling one unit every 2 minutes.' Expanding a wide lineup from professional specifications to general consumers, they stand as a symbol of the Chinese product quality revolution, earning high acclaim."
-tags: [China, IEM, Chi-Fi, Hybrid Driver, Multi-Driver]
+tags: [Chi-Fi, China, Hybrid Driver, In-ear monitors, Multi-Driver]
 permalink: /companies/en/kz/
 ---
-
 ## Overview
 
 KZ (Knowledge Zenith) is a Chinese audio equipment manufacturer established in 2012 in Dongguan, Guangdong Province. The name derives from founders Keith Yue (former engineer at a major audio manufacturer) and Zen Li (classically trained musician with Western music education), expressing the philosophy of "Knowledge Zenith."

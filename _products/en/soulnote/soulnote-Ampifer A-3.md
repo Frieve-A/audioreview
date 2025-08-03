@@ -8,10 +8,9 @@ ref: soulnote-ampifer-a-3
 date: 2025-07-22
 rating: [1.0, 0.1, 0.3, 0.0, 0.5, 0.1]
 summary: "While it has a unique design philosophy, its measured performance falls far below modern standards, making its scientific validity extremely low. It is outperformed by products at a fraction of the price, resulting in non-existent cost-performance."
-tags: [Integrated Amplifier, High-end, Class A, Analog, Japanese Made]
+tags: [Analog, Class A, High-end, Integrated amplifier, Japanese Made]
 permalink: /products/en/soulnote-ampifer-a-3/
 ---
-
 ## Overview
 
 The soulnote A-3 is a flagship integrated amplifier crafted by the Japanese high-end audio manufacturer soulnote. It was developed with the concept of integrating the company's P-3 preamplifier and two M-3 monoblock power amplifiers into a single chassis. Positioned as the technical culmination of soulnote, which was established in 2004 by former Marantz engineers, it adopts unique technical approaches including SEPP circuits using TO3 metal-can bipolar transistors, dual 700VA power transformers, and a completely left-right separated design. The robust 31kg chassis and three-point support spike structure demonstrate consideration for vibration control measures.

@@ -8,10 +8,9 @@ ref: akliam-pd6
 date: 2025-07-28
 rating: [3.8, 0.8, 0.7, 1.0, 0.6, 0.7]
 summary: "Portable DAC/amp featuring ESS9039Q2M DAC. High-performance DAC chip delivers low distortion and high SNR design with OLED display in lightweight form"
-tags: [Portable DAC, USB DAC, ESS9039Q2M, Balanced Output, Dongle Type, OLED Display]
+tags: [Balanced output, Dongle Type, ESS9039Q2M, OLED Display, Portable DAC, USB DAC]
 permalink: /products/en/akliam-pd6/
 ---
-
 ## Overview
 
 The Akliam PD6 is a portable USB DAC/amp featuring the ESS ES9039Q2M DAC chip and dual RT6863 operational amplifiers. Despite its lightweight 23g design, it provides both 3.5mm single-ended and 4.4mm balanced outputs, supporting high-resolution audio sources up to 768kHz/32bit PCM and DSD512. The device features a 0.87-inch OLED display for settings adjustment, 8 filter options, 100-step volume control, high/low gain switching, and various advanced functions. Built around the ES9039Q2M chip's impressive specifications of SNR 133dB and THD+N -123dB (official specs), the design delivers high audio quality potential, though actual implementation performance varies by product. The device is sold for around 55 USD.

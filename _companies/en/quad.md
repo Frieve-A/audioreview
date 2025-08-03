@@ -8,10 +8,9 @@ ref: quad
 date: 2025-07-21
 rating: [2.6, 0.6, 0.7, 0.3, 0.5, 0.5]
 summary: "While Quad has historical value as a pioneer in electrostatic speakers, the company has become Chinese-owned and its technological competitiveness has significantly declined."
-tags: [Speaker, Electrostatic, UK, Legacy Brand]
+tags: [Electrostatic, Legacy Brand, Speakers, United Kingdom]
 permalink: /companies/en/quad/
 ---
-
 ## Overview
 
 Quad is a historic British audio manufacturer established by Peter J. Walker in 1936. In 1957, the company introduced the world's first mass-produced full-range electrostatic speaker, the ESL, becoming a pioneer in electrostatic speaker technology and making a significant impact on the industry. The company once gained technical recognition by being adopted by the BBC and receiving the Queen's Award for Technological Achievement, but is now under the IAG Group and operates essentially as a Chinese company.

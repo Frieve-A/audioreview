@@ -8,10 +8,9 @@ ref: ortofon
 date: 2025-07-12
 rating: [1.6, 0.1, 0.3, 0.4, 0.7, 0.1]
 summary: "Ortofon is a Danish phono cartridge manufacturer founded in 1918 that invented the moving coil cartridge in 1948. Currently the world's largest cartridge manufacturer with 500,000 units sold annually, but significantly inferior to modern digital technology in terms of scientific validity."
-tags: [Phono Cartridge, Analog, Ortofon, Denmark, Moving Coil]
+tags: [Analog, Denmark, Moving Coil, Ortofon, Phono cartridge]
 permalink: /companies/en/ortofon/
 ---
-
 ## Overview
 
 Ortofon is an audio equipment manufacturer founded in Denmark in 1918, with a 106-year history as a veteran company in the phono cartridge field. The company invented the moving coil cartridge in 1948 and is currently the world's largest phono cartridge manufacturer, producing and selling 500,000 cartridges annually. They offer a diverse product lineup including 2M, Quintet, and SPU series, with 75% of the industry focused on DJ applications and the remaining 25% on audiophile use. Technically, they achieve frequency response flattening through split pole pin structures and continue to improve analog playback technology.

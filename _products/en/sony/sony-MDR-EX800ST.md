@@ -8,7 +8,7 @@ ref: sony-MDR-EX800ST
 date: 2025-07-22
 rating: [2.9, 0.4, 0.6, 0.4, 0.5, 1.0]
 summary: "A professional IEM with a 16mm dynamic driver, featuring a rational design philosophy optimized for specific professional use, but its overall rating is limited by an intentional high-frequency cut and the existence of cheaper, higher-performing alternatives."
-tags: [Dynamic Driver, In-ear monitors, Monitor, Professional, Sony]
+tags: [Dynamic driver, In-ear monitors, Monitor, Professional, Sony]
 permalink: /products/en/sony-MDR-EX800ST/
 ---
 ## Overview

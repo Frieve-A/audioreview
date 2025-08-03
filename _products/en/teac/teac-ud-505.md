@@ -8,10 +8,9 @@ ref: teac-ud-505
 date: 2025-08-01
 rating: [2.5, 0.7, 0.6, 0.2, 0.5, 0.5]
 summary: "USB DAC/headphone amplifier with AK4497 dual-mono configuration. Scientific validity clears transparency levels, but cost-performance faces challenges compared to Topping DX5 Lite."
-tags: [DAC, Headphone Amplifier, USB, DSD, Hi-Res, TEAC, AK4497, Bluetooth]
+tags: [AK4497, Bluetooth, DAC, DSD, Headphone amplifier, Hi-Res, TEAC, USB]
 permalink: /products/en/teac-ud-505/
 ---
-
 ## Overview
 
 The TEAC UD-505 is an integrated audio device combining USB DAC, headphone amplifier, and preamplifier functions. It employs a dual-mono configuration with AK4497 DAC chips for left and right channels independently, with dedicated toroidal core transformers for each channel. It supports high-resolution playback up to DSD512 (22.5MHz) and PCM 768kHz/32bit, while also supporting Bluetooth with LDAC, aptX HD, and AAC codecs. Released around 2018 with a retail price of approximately 1,400 USD at the time of its release, the original UD-505 has been discontinued with the successor UD-505-X model now available.

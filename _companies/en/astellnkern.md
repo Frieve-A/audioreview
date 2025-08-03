@@ -8,10 +8,9 @@ ref: astellnkern
 date: 2025-07-06
 rating: [3.4, 0.7, 0.9, 0.2, 0.8, 0.8]
 summary: "Korean pioneer in high-resolution portable audio. Since its founding in 2012, it has led technological innovation in portable players with DSD native playback and balanced output. Their product lineup featuring beautiful aluminum-machined chassis and latest DAC chips satisfies both sound quality and ownership desires. However, compared to Chinese products with equivalent sound quality, prices are 2-5 times higher, making the evaluation of design and brand value the deciding factor in selection."
-tags: [Korea, Portable Audio, DAP, Hi-Res, Premium]
+tags: [DAP, Hi-Res, Korea, Portable, Premium]
 permalink: /companies/en/astellnkern/
 ---
-
 ## Overview
 
 Astell&Kern was born in 2012 as a premium brand of iriver, a major Korean electronics manufacturer. In the then-niche high-resolution portable player market, they gained attention with the launch of the AK100 and have since continued to lead the advancement of high-quality and luxury portable audio.

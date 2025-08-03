@@ -8,10 +8,9 @@ ref: lumin
 date: 2025-07-06
 rating: [2.3, 0.3, 0.7, 0.1, 0.8, 0.4]
 summary: "Hong Kong-based network streamer specialist brand. Claims proprietary digital volume control 'Leedh Processing' as evidence of sonic superiority, but lacks objective evidence for these claims. Shows a tendency to prioritize marketing over scientific validity, with extremely high pricing relative to functionality, making recommendation difficult."
-tags: [Hong Kong, Network Audio, Streamer, Roon, Leedh Processing]
+tags: [Hong Kong, Leedh Processing, Network Audio, Network streamer, Roon]
 permalink: /companies/en/lumin/
 ---
-
 ## Overview
 
 Lumin is a network audio player specialist brand developed by Pixel Magic Systems Ltd. in Hong Kong. They employ robust enclosures and noise-controlled external power supply designs, achieving a certain level of hardware quality.

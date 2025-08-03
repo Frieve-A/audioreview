@@ -8,10 +8,9 @@ ref: nicehck
 date: 2025-07-27
 rating: [3.3, 0.6, 0.6, 0.8, 0.6, 0.7]
 summary: "A Chinese audio manufacturer established in 2015. Known for diverse driver configurations and price competitiveness, but faces challenges with measurement data transparency and quality consistency."
-tags: [IEM, Earphones, Hybrid Drivers, Chinese Manufacturer, Budget Range]
+tags: [Budget Range, Chinese Manufacturer, Earphones, Hybrid Drivers, In-ear monitors]
 permalink: /companies/en/nicehck/
 ---
-
 ## Overview
 
 NiceHCK is a Chinese audio manufacturer established in 2015. Initially starting with low-priced earphone cables on AliExpress, the company now focuses on IEMs (in-ear monitors), earbuds, and upgrade cables as its main products. The company particularly concentrates on IEMs with diverse driver configurations, offering a wide range of products from under 20 USD to over 200 USD. Its flagship model, the Himalaya, won a 2024 VGP award, indicating a certain level of technical capability and recognition.

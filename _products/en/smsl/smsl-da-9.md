@@ -8,10 +8,9 @@ ref: smsl-da-9
 date: 2025-08-01
 rating: [3.3, 0.8, 0.7, 0.6, 0.6, 0.6]
 summary: "The SMSL DA-9 is a Bluetooth-enabled Class D amplifier with excellent measured performance, but it is now discontinued and less competitive in cost-performance due to more affordable and higher-performing alternatives."
-tags: [Power Amplifier, Class D, Bluetooth, SMSL, Discontinued]
+tags: [Bluetooth, Class D, Discontinued, Power amplifier, SMSL]
 permalink: /products/en/smsl-da-9/
 ---
-
 ## Overview
 
 The SMSL DA-9 is a Bluetooth 5.0-compatible Class D power amplifier developed by Chinese company SMSL Audio. It incorporates a German Infineon Class D amplifier chip and a Japanese NJRC electronic volume control chip NJW1194, achieving 90W×2 (4Ω) output. In addition to aptX codec-compatible Bluetooth connectivity, it was designed as a multifunctional integrated amplifier with XLR balanced and RCA inputs. However, it is currently discontinued and difficult to purchase new.

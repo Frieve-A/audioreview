@@ -8,10 +8,9 @@ ref: schiit-audio
 date: 2025-07-25
 rating: [3.7, 0.7, 0.7, 0.8, 0.7, 0.8]
 summary: "Mid-tier American audio manufacturer. Good measurement performance but cost-performance is average due to existence of equivalent Chinese products at lower prices."
-tags: [DAC, Headphone Amplifier, Made in USA, Discrete Design]
+tags: [DAC, Discrete Design, Headphone amplifier, Made in USA]
 permalink: /companies/en/schiit-audio/
 ---
-
 ## Overview
 
 Schiit Audio is an audio equipment manufacturer founded in California, USA in 2010. Founders Jason Stoddard and Mike Moffat aimed to provide high-quality audio equipment at affordable prices, focusing on DACs, headphone amplifiers, and power amplifiers as their main products. The company develops proprietary technologies including fully discrete circuits, Mesh digital filters, Continuity A output stages, and Forkbeard control systems, while maintaining transparency through published measurement data. Current flagship products include Modi+ (129USD), Magni+ (109USD), Bifrost (799USD), and Yggdrasil (2,299USD), with a direct sales model eliminating middleman markups.

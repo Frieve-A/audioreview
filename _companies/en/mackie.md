@@ -8,10 +8,9 @@ ref: mackie
 date: 2025-07-30
 rating: [2.6, 0.2, 0.5, 0.8, 0.7, 0.4]
 summary: "Third-party measurements reveal performance issues and a lack of innovation. Entry-level models are price-competitive, but flagship products lack an advantage over rivals."
-tags: [Studio Monitors, Mixers, American, Pro Audio]
+tags: [America, Mixers, Pro Audio, Studio monitors]
 permalink: /companies/en/mackie/
 ---
-
 ## Overview
 
 Mackie is an American pro audio brand founded in Seattle in 1988 by Greg Mackie. For many years, it was a brand under LOUD Audio, LLC, but was acquired by Røde Microphones in December 2023. The company is known for its product lineup centered on studio monitors, mixers, and powered speakers, particularly the CR-X series of entry-level monitors and the ProFX series of mixers that have gained market penetration. It has a long history of adopting industry-standard technologies to develop products targeting a wide range of users, from professionals to amateurs.

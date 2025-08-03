@@ -8,7 +8,7 @@ ref: beyerdynamic-aventho-300
 date: 2025-07-31
 rating: [2.7, 0.2, 0.7, 0.5, 0.7, 0.6]
 summary: "スタジオ用ドライバーを搭載したプレミアムワイヤレスヘッドホンだが、測定性能と価格競争力に課題を抱える製品"
-tags: [Bluetooth, アクティブノイズキャンセリング, ノイズキャンセリング, プレミアム, ヘッドフォン, ワイヤレス]
+tags: [Bluetooth, アクティブノイズキャンセリング, ノイズキャンセリング, プレミアム, ヘッドホン, ワイヤレス]
 permalink: /products/ja/beyerdynamic-aventho-300/
 ---
 ## 概要

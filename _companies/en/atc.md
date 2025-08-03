@@ -8,10 +8,9 @@ ref: atc
 date: 2025-07-05
 rating: [4.2, 1.0, 1.0, 0.3, 0.9, 1.0]
 summary: "Professional audio manufacturer from the UK founded in 1974. Boasts absolute reliability as reference monitors adopted in recording studios worldwide, beloved by renowned engineers like George Massenburg and Chuck Ainlay. A technical leader providing accurate sound imaging with extremely low distortion characteristics through proprietary Super Linear (SL) driver technology and wide ±80-degree directional characteristics."
-tags: ["United Kingdom", Speaker, Professional, "Studio Monitor", "Super Linear"]
+tags: [Professional, Speakers, Studio monitors, Super Linear, United Kingdom]
 permalink: /companies/en/atc/
 ---
-
 ## Overview
 
 Founded in 1974, ATC (Acoustic Transducer Company) is a speaker manufacturer that has established an absolute position in the professional audio world. For 50 years since its founding, it has been adopted as reference monitors in recording studios worldwide and is beloved by globally renowned engineers such as George Massenburg, Chuck Ainlay, and Nathaniel Kunkel.

@@ -8,10 +8,9 @@ ref: antelope-audio
 date: 2025-07-13
 rating: [3.7, 0.9, 0.8, 0.8, 0.5, 0.7]
 summary: "Founded in Bulgaria in 2005, Antelope Audio is a company that revolutionized the industry with high-precision master clocks using atomic clock technology. Today, centered around its Synergy Core platform, it offers audio interfaces with excellent AD/DA conversion performance. While the flagship Galaxy 64 model is highly competitive in the multi-channel Dante market, more affordable alternatives exist. The company's biggest challenge lies in its software stability and support system, with many users reporting issues with drivers and the control panel. The current situation is that the reliability of the software has not caught up with the excellent sound quality and technical capabilities of the hardware."
-tags: [Bulgaria, Audio Interface, Master Clock, Pro Audio, Synergy Core, Dante]
+tags: [Audio interface, Bulgaria, Dante, Master Clock, Pro Audio, Synergy Core]
 permalink: /companies/en/antelope-audio/
 ---
-
 ## Overview
 
 Antelope Audio was founded in Sofia, Bulgaria, in 2005 by Igor Levin. The company is a pioneer in applying atomic clock technology to audio master clocks, and its high-precision clocking technology is highly regarded in the industry. In recent years, Antelope has focused on its "Synergy Core" real-time effects platform, which combines FPGA and DSP, making multi-channel audio interfaces like the Galaxy and Orion series its flagship products. It offers a wide range of products targeting everyone from professional recording studios to project studios.

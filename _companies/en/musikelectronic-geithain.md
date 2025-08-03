@@ -8,10 +8,9 @@ ref: musikelectronic-geithain
 date: 2025-08-02
 rating: [3.5, 0.8, 0.8, 0.4, 0.6, 0.9]
 summary: "A veteran German speaker manufacturer. Achieves high technology level and scientific validity with proprietary coaxial and cardioid bass technologies, but cost-performance remains a challenge."
-tags: [Studio Monitor, Germany, Coaxial, Pro Audio, Cardioid]
+tags: [Cardioid, Coaxial, Germany, Pro Audio, Studio monitors]
 permalink: /companies/en/musikelectronic-geithain/
 ---
-
 ## Overview
 
 Musikelectronic Geithain is a veteran German speaker manufacturer that has been active in the professional audio field since the 1960s. Headquartered in the village of Geithain, Germany, the team, led by Joachim Kiesler, operates under the philosophy of "pursuing complete neutrality and dynamics." The company develops active speakers featuring its proprietary MCDS (Minimum Colouration Directivity Steering) coaxial technology and K-Technology (cardioid), earning high acclaim in European studios and broadcasting stations.

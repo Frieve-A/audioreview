@@ -8,10 +8,9 @@ ref: final-ux3000
 date: 2025-07-30
 rating: [2.9, 0.6, 0.5, 0.5, 0.7, 0.6]
 summary: "final's first wireless ANC headphones suffer from poor cost-performance against competing products offering equivalent or better functionality at a significantly lower price."
-tags: [Wireless Headphones, Noise Cancelling, Bluetooth, final]
+tags: [Bluetooth, Noise Cancelling, Wireless headphones, final]
 permalink: /products/en/final-ux3000/
 ---
-
 ## Overview
 
 The final UX3000 is the first wireless noise-cancelling headphone released in 2022 by Japanese audio manufacturer final. It features hybrid ANC, up to 35-hour battery life, and aptX Low Latency support. With a weight of 260g and a foldable design for portability, it showcases final's distinctive "Shibo" texture finish.

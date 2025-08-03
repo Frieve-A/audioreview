@@ -8,10 +8,9 @@ ref: hisenior
 date: 2025-07-30
 rating: [3.4, 0.4, 0.7, 1.0, 0.6, 0.7]
 summary: "Chengdu-based custom IEM specialist manufacturer. Established in 2016, specialized in professional musician products. Ultimate price competitiveness in the custom IEM market but with challenges in measurement performance."
-tags: [IEM, Custom, Hybrid, Professional, China]
+tags: [China, Custom, Hybrid, In-ear monitors, Professional]
 permalink: /companies/en/hisenior/
 ---
-
 ## Overview
 
 HiSenior is a custom in-ear monitor specialist manufacturer established in 2016 in Chengdu, China. The company specializes in product development for professional musicians, audio engineers, and audiophiles, positioning itself as providing custom IEMs at relatively affordable prices. Their flagship Mega5EST features a 1DD+2BA+2EST tribrid design with tuning based on the Harman IEM target curve. The brand adopts high-quality drivers from Knowles and Sonion, while also providing 3D ear impression technology and custom artwork services, demonstrating their specialized expertise.

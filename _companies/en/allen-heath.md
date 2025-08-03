@@ -8,10 +8,9 @@ ref: allen-heath
 date: 2025-07-26
 rating: [4.1, 0.8, 0.7, 1.0, 0.8, 0.8]
 summary: "A veteran UK mixing console manufacturer, established as an industry standard with high measurement performance and stable quality, offering excellent cost-performance in specific feature sets."
-tags: [Mixing Console, Digital Mixer, DJ Mixer, Pro Audio, UK]
+tags: [DJ Mixer, Digital Mixer, Mixing Console, Pro Audio, United Kingdom]
 permalink: /companies/en/allen-heath/
 ---
-
 ## Overview
 
 Allen & Heath is a specialized mixing console manufacturer established in the UK in 1969. Currently a member of the Audiotonix Group, the company offers a product lineup specializing in live sound, broadcast, and DJ use, serving a wide range of applications from professional tours to high-end clubs. Its main product lines include the SQ series (compact digital mixers) and dLive series (large-scale live), both featuring 96kHz processing, the Avantis series (medium-scale live), and the renowned Xone series of DJ mixers, which are highly regarded as a club standard worldwide.

@@ -8,10 +8,9 @@ ref: bluesound
 date: 2025-07-06
 rating: [4.1, 1.0, 0.8, 0.4, 0.9, 1.0]
 summary: "A Canadian network audio specialist centered on the highly regarded multiroom audio platform 'BluOS,' known for stability and ease of use. While products demonstrate excellent measured performance and reliability, harsh evaluation from a cost-performance perspective due to the emergence of competitively priced alternatives with equal or superior performance. A premium choice for users prioritizing ecosystem value above all else."
-tags: [Canada, Network Audio, Streamer, BluOS, Multiroom]
+tags: [BluOS, Canada, Multiroom, Network Audio, Network streamer]
 permalink: /companies/en/bluesound/
 ---
-
 ## Overview
 
 Bluesound is a network audio specialist brand belonging to Canada's Lenbrook Group, which owns renowned audio brands like NAD and PSB. The company's greatest strength lies in their proprietary multiroom audio platform "BluOS," which has earned high praise for stable operation and intuitive usability. BluOS also serves as the core ecosystem, being adopted in NAD products. While their flagship network streamer "NODE" has long reigned as the benchmark in this product category, its position has been increasingly challenged by competitively priced, high-performance alternatives in recent years.

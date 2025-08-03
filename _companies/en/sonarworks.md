@@ -8,10 +8,9 @@ ref: sonarworks
 date: 2025-07-17
 rating: [3.5, 0.7, 0.6, 0.7, 0.8, 0.7]
 summary: "Latvia-based room correction software specialist. SoundID Reference is recognized for its measurement accuracy and ease of use, with the headphone version priced at 99 EUR being competitive compared to major competing products."
-tags: [Room Correction, DSP, Software, Audio Measurement, Studio]
+tags: [Audio Measurement, DSP, Room correction, Software, Studio]
 permalink: /companies/en/sonarworks/
 ---
-
 ## Overview
 
 Sonarworks is an audio technology company established in Latvia in 2012, specializing in room correction and headphone/speaker calibration software. Their flagship product SoundID Reference (formerly Reference 4) is software that achieves studio-reference acoustics for audio engineers, producers, and music creators, adopted by over 55 Grammy-nominated producers. They hold multiple technical patents and have received industry recognition including CES Innovation Award nominations, earning certain technical credibility within the industry.

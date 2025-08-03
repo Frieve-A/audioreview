@@ -8,10 +8,9 @@ ref: anker-soundcore-3
 date: 2025-07-19
 rating: [2.4, 0.5, 0.6, 0.5, 0.4, 0.4]
 summary: "Portable Bluetooth speaker with titanium drivers. Cost-performance challenged by equivalent products available at half the price"
-tags: [Portable Speaker, Bluetooth, IPX7 Waterproof, BassUp, Titanium Driver]
+tags: [BassUp, Bluetooth, IPX7 Waterproof, Portable speaker, Titanium Driver]
 permalink: /products/en/anker-soundcore-3/
 ---
-
 ## Overview
 
 The Anker SoundCore 3 is a portable Bluetooth speaker released in 2020. As the successor to the popular SoundCore 2 model, it increased output from 12W to 16W and adopted titanium diaphragm drivers and BassUp technology. At a price point of 65 USD, it achieves IPX7 waterproof performance and 24-hour long playback, with PartyCast functionality enabling connection of over 100 units. Through the reliability of the Anker brand and affordable pricing, it has gained certain support in the portable speaker market.

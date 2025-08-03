@@ -8,10 +8,9 @@ ref: neumann
 date: 2025-07-05
 rating: [4.8, 1.0, 1.0, 0.9, 0.9, 1.0]
 summary: "Founded in 1928, this legendary German acoustic equipment manufacturer established industry standards with microphones like the U87 and achieves high-precision acoustic reproduction through DSP technology in their KH series monitors. With both technical excellence and reliability at the highest levels, their monitor systems including the MA 1 automatic acoustic correction deliver exceptional cost-performance in professional environments."
-tags: [Germany, Microphones, "Studio Monitor", Recording, "Industry Standard"]
+tags: [Germany, Industry Standard, Microphones, Recording, Studio monitors]
 permalink: /companies/en/neumann/
 ---
-
 ## Overview
 
 Neumann, founded in 1928 in Berlin, Germany by Georg Neumann and Erich Rickmann, stands as the world's most prestigious microphone and acoustic equipment manufacturer. Founder Georg Neumann (1898-1976) revolutionized recording technology in 1928 with the world's first mass-produced condenser microphone, the CMV 3 (nicknamed the "Neumann Bottle"). Legendary microphones including the U47, U67, and U87 laid the foundation for modern recording and continue serving as standard equipment in studios worldwide. Part of the Sennheiser Group since 1991, the company expanded into KH series studio monitors from 2010. Headquarters remain in Berlin with production occurring in ultra-clean room environments near Hanover.

@@ -8,10 +8,9 @@ ref: oneodio-pro-c
 date: 2025-07-29
 rating: [2.2, 0.2, 0.3, 1.0, 0.5, 0.2]
 summary: "Budget wireless headphones featuring 110-hour playback and wired/wireless dual functionality. While significantly deviating from scientific audio reproduction, its exceptional battery performance offers the highest cost-performance for specific needs."
-tags: [Wireless Headphones, Budget, Long Playback, V-shaped, Bluetooth]
+tags: [Bluetooth, Budget, Long Playback, V-shaped, Wireless headphones]
 permalink: /products/en/oneodio-pro-c/
 ---
-
 ## Overview
 
 The OneOdio Pro-C is a wired/wireless dual-compatible headphone developed by Chinese audio brand OneOdio. It features 50mm neodymium drivers and achieves wireless connectivity through Bluetooth 5.2 and AAC support. The headphone incorporates a 1000mAh battery claiming up to 110 hours of ultra-long playback and is positioned in the budget segment at approximately 7,000 JPY market price. Like other OneOdio products, it adopts V-shaped acoustic tuning that emphasizes bass and treble frequencies for "fun sound" reproduction. The foldable structure and 90-degree rotation mechanism enhance portability and practicality, targeting consumers with budget constraints.

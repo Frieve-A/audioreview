@@ -8,10 +8,9 @@ ref: m-audio
 date: 2025-07-17
 rating: [2.9, 0.7, 0.5, 0.4, 0.6, 0.7]
 summary: "M-Audioは手頃な価格でオーディオインターフェースとMIDIコントローラーを提供するメーカーですが、科学的有効性と技術レベルに課題があり、コストパフォーマンスでは同等機能の競合製品に劣る評価となっています。"
-tags: [Audio Interface, MIDI Controller, Budget, inMusic Brands]
+tags: [MIDI Controller, inMusic Brands, オーディオインターフェース, コストパフォーマンス]
 permalink: /companies/ja/m-audio/
 ---
-
 ## 概要
 
 M-Audio（旧Midiman）は、inMusic Brandsの事業部門であり、オーディオインターフェース、MIDIコントローラー、シンセサイザー、スタジオモニター、マイクなどの音楽制作用機材の設計・販売を行っています。1988年の設立以来、エントリークラスから中級者向けまで幅広い製品を手頃な価格で提供することで市場地位を築いてきました。現在、M-Audioは米国、カナダ、イギリス、ドイツ、フランス、日本に独立した拠点を構え、グローバルな展開を維持しています。

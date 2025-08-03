@@ -8,10 +8,9 @@ ref: genelec
 date: 2025-07-05
 rating: [4.4, 0.9, 0.9, 0.9, 0.8, 0.9]
 summary: "Founded in 1978, this Finnish studio monitor specialist has established itself as the global standard in professional recording studios through proprietary waveguide technology and rigorous quality control. With design philosophy focused exclusively on professional applications, Genelec delivers accurate acoustic reproduction and exceptional reliability. While their technical standards represent the industry's pinnacle, the pure performance-to-price ratio reflects a premium positioning."
-tags: [Finland, "Studio Monitor", Professional, Audio, High-Precision]
+tags: [Audio, Finland, High-Precision, Professional, Studio monitors]
 permalink: /companies/en/genelec/
 ---
-
 ## Overview
 
 Genelec, founded in 1978 in Finland, is a studio monitor speaker manufacturer specializing exclusively in professional audio applications. Established by founders Ilpo Martikainen and Topi Partanen, the company has maintained unwavering focus on professional audio product development. Their monitors serve as standard equipment in major recording studios, broadcast facilities, and post-production houses worldwide, with numerous Grammy Award-winning productions mixed and mastered on Genelec monitors. Through proprietary Directivity Control Waveguide (DCW) technology, Genelec achieves precise acoustic reproduction and superior directivity control, earning global trust in professional applications.

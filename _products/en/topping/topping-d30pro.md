@@ -8,10 +8,9 @@ ref: topping-d30pro
 date: 2025-08-01
 rating: [3.5, 0.9, 0.7, 0.5, 0.6, 0.8]
 summary: "Desktop DAC featuring four CS43198 chips in fully balanced design. Achieves transparent-level measurement performance, but equivalent-performance alternatives now exist at lower prices."
-tags: [DAC, Topping, Balanced Output, CS43198, Product Review]
+tags: [Balanced output, CS43198, DAC, Product Review, Topping]
 permalink: /products/en/topping-d30pro/
 ---
-
 ## Overview
 
 The Topping D30Pro is a desktop DAC equipped with four Cirrus Logic CS43198 chips. When launched in 2020, it garnered attention for its four-chip differential design and 399 USD price point. It incorporates an XMOS XU208 USB receiver chip and supports high-resolution audio up to DSD256 and PCM 32bit/384kHz. The fully balanced design features both XLR and RCA outputs with built-in preamp functionality. While now discontinued, it remains recognized as a product that demonstrated transparent-level performance in acoustic measurements.

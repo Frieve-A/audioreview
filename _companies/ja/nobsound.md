@@ -8,10 +8,9 @@ ref: nobsound
 date: 2025-07-24
 rating: [1.8, 0.3, 0.2, 0.5, 0.5, 0.3]
 summary: "安価な製品群を展開する中国ブランド。しかし、公称スペックと実測値の乖離、真空管を用いた非合理な設計思想、限定的な技術レベルなど多くの課題を抱える。コストパフォーマンスも限定的であり、総合的な評価は低い。"
-tags: [中国ブランド, 低価格帯, Class-D, TPA3116D2, エントリーレベル, 真空管]
+tags: [Class-D, TPA3116D2, エントリーレベル, 中国ブランド, 低価格, 真空管]
 permalink: /companies/ja/nobsound/
 ---
-
 ## 概要
 
 Nobsoundは2014年に設立された中国深圳のShenzhen Cavins Technology Co., LTDが展開するオーディオブランドです。主にTPA3116D2やTPA3221などのTexas Instruments製チップを使用したClass-Dアンプ、DAC内蔵アンプ、真空管ハイブリッド製品を低価格帯で展開しています。同社はDouk Audioブランドも併用し、主にAmazonやAliExpressを通じて全世界に販売を行っています。エントリーレベルのオーディオ愛好者向けに手頃な価格でのオーディオ体験を提供することを企業理念としており、特にChi-Fi（Chinese Hi-Fi）市場において一定の地位を築いています。

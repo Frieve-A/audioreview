@@ -8,10 +8,9 @@ ref: edifier
 date: 2025-07-10
 rating: [3.6, 0.6, 0.7, 0.9, 0.6, 0.8]
 summary: "A Chinese audio manufacturer founded in 1996, delivering extremely high cost-performance that surpasses competitors, especially in the entry-level market."
-tags: [China, Speaker, Headphones, Entry-level, "High Cost-Performance"]
+tags: [China, Entry-level, Headphones, High Cost-Performance, Speakers]
 permalink: /companies/en/edifier/
 ---
-
 ## Overview
 
 Edifier is a Chinese audio manufacturer established in Beijing in 1996. With the philosophy of "passion for sound," they handle a wide range of products from multimedia speakers to full-fledged studio monitors. The company is listed on the Shenzhen Stock Exchange (002351) and operates internationally in over 70 countries and regions. With approximately 3,000 employees, their annual revenue reaches about 40 billion yen.

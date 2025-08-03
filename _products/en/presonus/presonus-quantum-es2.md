@@ -8,10 +8,9 @@ ref: presonus-quantum-es2
 date: 2025-07-31
 rating: [3.4, 0.8, 0.5, 0.8, 0.7, 0.6]
 summary: "A 2x2 USB-C audio interface with class-leading dynamic range for superior sound quality, though its feature set is standard."
-tags: [Audio Interface, USB-C, 2x2, PreSonus, Recording Equipment]
+tags: [2x2, Audio interface, PreSonus, Recording Equipment, USB-C]
 permalink: /products/en/presonus-quantum-es2/
 ---
-
 ## Overview
 
 The PreSonus Quantum ES2 is positioned as the entry-level model in the company's Quantum series, a 2-in, 2-out USB-C audio interface. It supports up to 24-bit/192kHz recording and features class-leading MAX-HD preamps and an auto-gain function, developed for home-recording musicians and podcasters seeking high-quality sound. It also features an instrument input co-developed with Fender and includes a 6-month license for Studio One+.

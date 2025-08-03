@@ -8,10 +8,9 @@ ref: electro-voice
 date: 2025-07-25
 rating: [3.4, 0.6, 0.7, 0.6, 0.8, 0.7]
 summary: "Established American professional audio manufacturer with over 90 years of history. Features reliable products through in-house design and a comprehensive support system, but cost-performance varies by product, and challenges are evident in adopting the latest technologies."
-tags: [Professional Audio, Speakers, Microphones, Amplifiers, American, Established Manufacturer]
+tags: [America, Amplifiers, Established Manufacturer, Microphones, Professional Audio, Speakers]
 permalink: /companies/en/electro-voice/
 ---
-
 ## Overview
 
 Electro-Voice (EV), founded in 1927, is an established American professional audio manufacturer with over 90 years of history. Currently operating as a subsidiary of Bosch Communications Systems, the company develops acoustic equipment including speakers, microphones, and amplifiers. As one of the few manufacturers that designs enclosures, waveguides, and drivers entirely in-house, EV has established its position in the professional market. The company has produced numerous products and technologies that became industry standards, including the RE20 broadcast microphone and the Constant Directivity Horn patented in 1978.

@@ -8,10 +8,9 @@ ref: onkyo
 date: 2025-07-05
 rating: [3.5, 0.8, 0.7, 0.8, 0.5, 0.7]
 summary: "A veteran brand that has long led Japan's audio industry. Particularly in the AV amplifier field, they have led the market with rapid adoption of the latest formats and high cost-performance. After experiencing a major turning point with bankruptcy and business transfer in 2022, the brand continues under Premium Audio Company, which owns Klipsch and others. While their traditional acoustic technology and future development under new capital are noteworthy, the contrast between past glory and current organizational changes creates a divide in evaluation."
-tags: [Japan, "AV amplifier", Speaker, "Home theater", "Premium Audio Company"]
+tags: [AV amplifier, Home theater, Japan, Premium Audio Company, Speakers]
 permalink: /companies/en/onkyo/
 ---
-
 ## Overview
 
 Founded in 1946, this veteran Japanese audio manufacturer once covered a wide range from speakers to amplifiers, AV receivers, and portable audio. In the home theater market particularly, they continuously ran as an industry pioneer, releasing the world's first THX-certified AV amplifier. They supplied multifunctional and high-performance products at affordable price points, earning support from many audio enthusiasts.

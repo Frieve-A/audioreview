@@ -8,7 +8,7 @@ ref: bowers-wilkins-px8
 date: 2025-07-14
 rating: [2.9, 0.7, 0.8, 0.8, 0.3, 0.3]
 summary: "プレミアム素材と独自技術を採用したフラッグシップワイヤレスヘッドホンで、同等機能の製品と比較して合理的な価格設定を実現している"
-tags: [Bluetooth, Over-ear, ノイズキャンセリング, プレミアム, ヘッドフォン, ワイヤレス]
+tags: [Bluetooth, オーバーイヤー, ノイズキャンセリング, プレミアム, ヘッドホン, ワイヤレス]
 permalink: /products/ja/bowers-wilkins-px8/
 ---
 ## 概要

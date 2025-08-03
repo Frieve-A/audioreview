@@ -8,10 +8,9 @@ ref: audiovero
 date: 2025-07-07
 rating: [4.2, 0.9, 0.8, 0.9, 0.8, 0.8]
 summary: "A German-based company specializing in audio software. Its flagship product, Acourate, is highly acclaimed as a professional room correction software featuring proprietary ICPA technology. Its technical capabilities are top-class in the industry, and its price is reasonable compared to competing products. It requires specialized knowledge but is a worthwhile investment for users seeking the best in acoustic correction."
-tags: [Germany, Software, Room Correction, Professional, Acourate]
+tags: [Acourate, Germany, Professional, Room correction, Software]
 permalink: /companies/en/audiovero/
 ---
-
 ## Overview
 
 Founded in 2007, AudioVero e.K. is a German audio software company based in Bielefeld, specializing in the development, manufacturing, and sale of software and hardware in the fields of electroacoustics and audio-visual consumer electronics. Its flagship product, Acourate, is recognized as an industry-leading digital room and speaker correction software, highly praised by professionals like mastering engineers Bob Katz and Dominique Bassal. The founder, Dr. Uli Brueggemann, is an expert in electroacoustics with extensive experience, developing products with a commitment to pursuing true acoustic reproduction.

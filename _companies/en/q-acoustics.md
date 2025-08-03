@@ -8,10 +8,9 @@ ref: q-acoustics
 date: 2025-07-08
 rating: [3.4, 0.6, 0.7, 0.5, 0.8, 0.8]
 summary: "UK emerging speaker manufacturer with P2P bracing technology and other innovations, but measurement performance advantage over price is limited."
-tags: [Speaker, "United Kingdom", "P2P bracing", Bookshelf]
+tags: [Bookshelf, P2P bracing, Speakers, United Kingdom]
 permalink: /companies/en/q-acoustics/
 ---
-
 ## Overview
 
 Q Acoustics was founded in 2006 in the UK by audio industry specialists as a speaker-focused manufacturer. Currently employing 50-99 staff as part of Armor Group, collaborating with brands like QED and Alphason. Targeting "world's best affordable speakers," their core team of acoustic engineers and industrial designers has maintained 18 years of continuity. Product range spans from 1000 series to 3000i series and Concept series, earning numerous awards from What Hi-Fi?, EISA, and others. Proprietary technologies including P2P bracing, Gelcore technology, and BMR driver technology are deployed across all series. Hybrid strategy of Chinese manufacturing with UK quality control ensures price competitiveness.

@@ -8,10 +8,9 @@ ref: presonus
 date: 2025-07-16
 rating: [2.9, 0.5, 0.5, 0.6, 0.4, 0.9]
 summary: "PreSonus offers a wide range of music production equipment with a focus on usability, but faces challenges in technical innovation and cost-performance."
-tags: [DAW, Audio Interface, Studio Monitor, Digital Mixer]
+tags: [Audio interface, DAW, Digital Mixer, Studio monitors]
 permalink: /companies/en/presonus/
 ---
-
 ## Overview
 
 PreSonus is an American audio equipment manufacturer founded in 1995 in Baton Rouge, Louisiana. Since November 2021, it has operated as a subsidiary of Fender Musical Instruments Corporation (FMIC). The company handles a wide range of music production equipment including audio interfaces, monitor speakers, digital mixers, and Studio One DAW software, targeting a broad spectrum from professionals to home studio users. They have gained recognition particularly through their StudioLive series digital mixers and Eris series studio monitors.

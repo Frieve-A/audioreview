@@ -8,7 +8,7 @@ ref: audio-technica-ath-m50x
 date: 2025-07-20
 rating: [2.7, 0.4, 0.6, 0.6, 0.6, 0.5]
 summary: "有名なスタジオモニターヘッドホンながら、測定性能と設計思想に課題を抱える製品"
-tags: [Audio-Technica, クローズドバック, スタジオモニター, ヘッドフォン]
+tags: [Audio-Technica, クローズドバック, スタジオモニター, ヘッドホン]
 permalink: /products/ja/audio-technica-ath-m50x/
 ---
 ## 概要

@@ -8,10 +8,9 @@ ref: teac-portacapture-x8
 date: 2025-07-09
 rating: [2.9, 0.5, 0.4, 1.0, 0.5, 0.5]
 summary: "TASCAM's 8-track 32-bit float recorder. As the only product combining 32-bit float + 8ch simultaneous recording, provides irreplaceable functionality achieving CP value 1.0."
-tags: [Portable Recorder, 32-bit Float, Field Recording, TASCAM]
+tags: [32-bit Float, Field Recording, Portable recorder, TASCAM]
 permalink: /products/en/teac-portacapture-x8/
 ---
-
 ## Overview
 
 The TASCAM Portacapture X8 is an 8-track handheld recorder released under TASCAM brand, a subsidiary of TEAC. Its primary feature is 32-bit float recording support, which allows post-processing recovery of what would traditionally be recording failures by reducing levels up to 40dB after recording. The device supports high-quality recording at 192kHz/32-bit float, features 4 XLR/TRS combo jacks, a 3.5-inch color touchscreen, and scene-specific app launcher (MANUAL, VOICE, PODCAST, MUSIC, FIELD, ASMR). It also functions as a USB 8-IN/2-OUT audio interface, designed for diverse applications including podcasting, music production, field recording, and ASMR content creation.

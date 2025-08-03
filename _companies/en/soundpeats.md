@@ -8,10 +8,9 @@ ref: soundpeats
 date: 2025-07-11
 rating: [3.2, 0.6, 0.5, 1.0, 0.8, 0.3]
 summary: "Chinese wireless earphone manufacturer founded in 2010. Cost-performance focused product lineup primarily in the 5,000-8,000 JPY price range, offering competitive ANC performance."
-tags: ["Wireless earphones", "Chinese manufacturer", "Cost performance", "Wireless Earphones"]
+tags: [Chinese manufacturer, Cost performance, Wireless earphones]
 permalink: /companies/en/soundpeats/
 ---
-
 ## Overview
 
 SOUNDPEATS is a wireless earphone specialist manufacturer founded in 2010 and headquartered in Shenzhen, China. With "Sound for Urban Sports" as their brand concept, they have continued cost-performance focused product development for approximately 15 years. Full-scale global market expansion began in 2013, with parent company Shenzhen Yinke Information Technology Co., Ltd. achieving over 4 billion JPY in annual sales and exporting products to 30 countries worldwide. A Japanese subsidiary, SOUNDPEATS Co., Ltd., has been established to strengthen Asian market expansion.

@@ -8,10 +8,9 @@ ref: eclipse
 date: 2025-07-05
 rating: [3.3, 1.0, 0.8, 0.2, 0.5, 0.8]
 summary: "The pride of DENSO TEN, born from 'Time Domain' theory. The amazingly accurate sound imaging and time-axis representation from an egg-shaped enclosure and single driver is unique. Their ability to vividly reproduce music groove and performance nuances is remarkable, but they also have physical constraints of narrow reproduction bandwidth and low efficiency. Their pursuit of scientific ideals is commendable, but cost-performance is extremely low due to high prices. This is a brand for enthusiastic fans who can understand specific values."
-tags: [Japan, Speaker, "Time Domain", "DENSO TEN", "Point source"]
+tags: [DENSO TEN, Japan, Point source, Speakers, Time Domain]
 permalink: /companies/en/eclipse/
 ---
-
 ## Overview
 
 Eclipse is an audio brand developed by DENSO TEN (formerly Fujitsu TEN). Their greatest characteristic lies in being based on "Time Domain Theory" aimed at accurately reproducing the temporal progression from sound generation to extinction. To realize this theory, the enclosure adopts an egg-shaped form that suppresses internal standing waves and diffraction, mounting a single full-range speaker unit without networks. This enables the speaker's presence to disappear, creating amazingly accurate sound imaging and spatial expression as if performing right in front of you.

@@ -8,10 +8,9 @@ ref: hedd-audio
 date: 2025-07-29
 rating: [2.9, 0.6, 0.8, 0.2, 0.7, 0.6]
 summary: "Berlin-based HEDD Audio is a specialized Air Motion Transformer (AMT) technology manufacturer. While its unique technological developments are commendable, its products are extremely overpriced for their performance, showing a significant disadvantage in cost-performance compared to competitors."
-tags: [AMT, Studio Monitor, Headphone, German, Professional Audio]
+tags: [AMT, Germany, Headphones, Professional Audio, Studio monitors]
 permalink: /companies/en/hedd-audio/
 ---
-
 ## Overview
 
 HEDD Audio (Heinz Electrodynamic Designs) is an audio manufacturer established in Berlin in 2015 by physicist Klaus Heinz and his son, musicologist Dr. Frederik Knop. Klaus Heinz is the son of physics Nobel Prize laureate Ernst Ruska and has the distinguished background of studying directly under Dr. Oskar Heil, the inventor of AMT technology. The company is committed to the continuous development of Air Motion Transformer technology, including the development of the world's first full-range AMT headphone, the "HEDDphone." They manufacture professional audio equipment ranging from studio monitors to headphones through handcrafted production in Berlin.

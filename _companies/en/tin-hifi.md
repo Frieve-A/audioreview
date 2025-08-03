@@ -8,10 +8,9 @@ ref: tin-hifi
 date: 2025-07-05
 rating: [3.8, 0.7, 0.8, 0.8, 0.7, 0.8]
 summary: "Important player in the Chi-Fi brand established in 2017 in Guangdong Province. Evolved from OEM/ODM business and shocked the market with T2, then steadily advanced technology with T3 and T4. Characterized by design philosophy achieving high sound quality with simple driver configurations, particularly the T4's single 10mm dynamic driver challenges the industry's multi-driver competition."
-tags: [China, IEM, Chi-Fi, Dynamic Driver, Neutral Tuning]
+tags: [Chi-Fi, China, Dynamic driver, In-ear monitors, Neutral Tuning]
 permalink: /companies/en/tin-hifi/
 ---
-
 ## Overview
 
 Tin HiFi (formerly Tin Audio) is an audio brand established in 2017 in Guangdong Province, China. Based on technical expertise cultivated through years of OEM/ODM business, they entered the market as an independent brand under the philosophy of "transforming high-quality music experiences from luxury to everyday items."

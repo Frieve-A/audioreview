@@ -8,10 +8,9 @@ ref: kef-ls50-meta
 date: 2025-07-08
 rating: [3.9, 0.9, 0.8, 0.6, 0.8, 0.8]
 summary: "KEF's flagship bookshelf speaker featuring 12th-generation Uni-Q technology and Metamaterial Absorption Technology (MAT). At USD 1,500, it demonstrates high evaluation in both technical innovation and measured performance. However, cost-performance receives harsh evaluation when considering price differences with competing products offering equivalent acoustic performance."
-tags: [2-Way, "Bookshelf speakers", British, KEF, MAT, Uni-Q]
+tags: [2-Way, Bookshelf speakers, KEF, MAT, Uni-Q, United Kingdom]
 permalink: /products/en/kef-ls50-meta/
 ---
-
 ## Overview
 
 The KEF LS50 Meta represents KEF's flagship bookshelf speaker, incorporating 12th-generation Uni-Q technology and Metamaterial Absorption Technology (MAT). Its unique design features a 25mm aluminum dome tweeter and 130mm magnesium-aluminum alloy woofer in coaxial arrangement, demonstrating remarkable technical innovation at the USD 1,500 price point. With dimensions of 302×200×280.5mm and weighing 7.8kg, it represents a large and heavy speaker for its class. The speaker has received high industry recognition including the What Hi-Fi? Awards 2024.

@@ -8,10 +8,9 @@ ref: psb
 date: 2025-07-05
 rating: [3.7, 0.7, 0.8, 0.9, 0.8, 0.5]
 summary: "A veteran speaker manufacturer founded in Canada in 1972. Through founder Paul Barton's design philosophy and cooperation with the National Research Council (NRC), they have built a reputation for acoustic design based on scientific evidence. The overwhelming cost-performance of the Alpha P5 is noteworthy, but compared to other companies, there are areas where they fall behind in technological innovation and brand power. While their development stance in close cooperation with Canadian acoustic research institutions is commendable, their overall competitiveness can be said to be moderate."
-tags: [Canada, Speaker, Bookshelf, NRC, Alpha]
+tags: [Alpha, Bookshelf, Canada, NRC, Speakers]
 permalink: /companies/en/psb/
 ---
-
 ## Overview
 
 PSB is a speaker manufacturer founded in 1972 by Paul Barton in Canada. The company name derives from the names of founder Paul Barton and his wife Sue Barton. The company's greatest characteristic lies in conducting acoustic tuning of all products in the anechoic chamber of Canada's National Research Council (NRC). This achieves a scientific approach based on psychoacoustics rather than subjective sound creation.

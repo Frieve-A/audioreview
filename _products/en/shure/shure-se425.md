@@ -8,7 +8,7 @@ ref: shure-se425
 date: 2025-07-23
 rating: [2.6, 0.6, 0.5, 0.2, 0.8, 0.5]
 summary: "Professional dual-BA IEM significantly outperformed by Chinese products in both performance and price"
-tags: [Balanced Armature, Earphones, In-ear monitors, Professional]
+tags: [Balanced armature, Earphones, In-ear monitors, Professional]
 permalink: /products/en/shure-se425/
 ---
 ## Overview

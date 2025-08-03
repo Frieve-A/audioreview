@@ -8,10 +8,9 @@ ref: kef-q6-meta
 date: 2025-07-29
 rating: [3.2, 0.4, 0.8, 0.8, 0.7, 0.5]
 summary: "The KEF Q6 Meta is a 3-way center speaker with 12th gen Uni-Q drivers and MAT technology. While technically advanced, its problematic frequency response and difficult 4Ω load are significant drawbacks, posing practical usability challenges."
-tags: [Center Speaker, 3-Way, Uni-Q, MAT, KEF]
+tags: [3-Way, Center speaker, KEF, MAT, Uni-Q]
 permalink: /products/en/kef-q6-meta/
 ---
-
 ## Overview
 
 The KEF Q6 Meta is a 3-way center speaker reportedly announced by the British manufacturer KEF in 2024. It features the company's proprietary 12th generation Uni-Q driver array and Metamaterial Absorption Technology (MAT), which aims to enhance acoustic transparency by absorbing 99% of unwanted sound from the rear of the driver. The configuration includes dual 6.5-inch hybrid aluminum cone woofers, a 4-inch Uni-Q midrange, and a 0.75-inch aluminum dome tweeter, offering versatility for both home theater and 2-channel systems.

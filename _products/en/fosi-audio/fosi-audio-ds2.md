@@ -8,10 +8,9 @@ ref: fosi-audio-ds2
 date: 2025-07-08
 rating: [3.7, 0.8, 0.7, 0.5, 0.9, 0.8]
 summary: "Portable USB DAC/amp with dual CS43131 chips. Excellent measurement specs and reasonable pricing, but faces tough competition from competitive products"
-tags: ["Balanced Output", CS43131, "Portable amplifier", "USB DAC"]
+tags: [Balanced output, CS43131, Portable amplifier, USB DAC]
 permalink: /products/en/fosi-audio-ds2/
 ---
-
 ## Overview
 
 The Fosi Audio DS2 is a portable USB DAC/amp featuring dual Cirrus Logic CS43131 DAC chips. The 2024 version switched from the previous ESS chips, offering both 3.5mm single-ended and 4.4mm balanced outputs with support for up to 384kHz/32bit PCM and DSD256. It features a CNC-machined metal body and 60-step independent volume control, positioning itself in the portable audio market at 59.99 USD.

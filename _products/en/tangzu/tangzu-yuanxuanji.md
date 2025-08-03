@@ -8,7 +8,7 @@ ref: tangzu-yuanxuanji
 date: 2025-07-27
 rating: [3.0, 0.6, 0.7, 0.5, 0.5, 0.7]
 summary: "Despite being a 49 USD IEM featuring topology technology, it faces cost-performance challenges compared to competing products in the same price range and fails to achieve transparent-level sound quality"
-tags: [Budget Audio, Chinese Audio, Dynamic Driver, In-ear monitors, Tangzu]
+tags: [Budget Audio, Chinese Audio, Dynamic driver, In-ear monitors, Tangzu]
 permalink: /products/en/tangzu-yuanxuanji/
 ---
 ## Overview

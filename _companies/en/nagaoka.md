@@ -8,10 +8,9 @@ ref: nagaoka
 date: 2025-07-30
 rating: [1.8, 0.3, 0.6, 0.1, 0.5, 0.3]
 summary: "A long-established Japanese cartridge manufacturer. While its technical capabilities, with 85 years of history and complete in-house production, are commendable, its exclusive focus on analog records lacks rationality from modern audio quality standards and offers extremely low cost-performance."
-tags: [Cartridge, Analog, Japanese, Turntable]
+tags: [Analog, Cartridge, Japan, Turntable]
 permalink: /companies/en/nagaoka/
 ---
-
 ## Overview
 
 Nagaoka is a Japanese precision equipment manufacturer established in 1940, currently specializing in phonograph cartridge and stylus manufacturing. Starting with watch component manufacturing, the company leveraged its precision machining technology to enter diamond needle and cartridge production. As the world's only cartridge manufacturer that produces all components in-house—from samarium cobalt magnets to diamond tips, coils, and cantilevers—Nagaoka has survived in the industry for 85 years. The MP (Moving Permalloy) series is its main product line, covering a wide price range from the MP-110 to high-end models like the MP-500.

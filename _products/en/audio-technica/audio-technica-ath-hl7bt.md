@@ -8,10 +8,9 @@ ref: audio-technica-ath-hl7bt
 date: 2025-07-20
 rating: [2.8, 0.4, 0.6, 1.0, 0.4, 0.4]
 summary: "While rare as an open-back wireless headphone, it lacks scientific validity and overall appeal"
-tags: [Wireless Headphones, Open-Back, Bluetooth, LDAC, Audio-Technica]
+tags: [Audio-Technica, Bluetooth, LDAC, Open-Back, Wireless headphones]
 permalink: /products/en/audio-technica-ath-hl7bt/
 ---
-
 ## Overview
 
 The Audio-Technica ATH-HL7BT is an open-back wireless headphone released by the company in 2021. It features 53mm drivers, supports LDAC, AAC, and SBC codecs, and offers up to 20 hours of continuous playback. As an open-back design with wireless functionality, it represents an extremely rare product in the market. Weighing 220g and equipped with Bluetooth 5.0, it has a frequency response of 5Hz to 40,000Hz. Audio-Technica, founded in 1962, is a veteran Japanese audio manufacturer handling everything from professional equipment to consumer products, with particularly high technical expertise in the cartridge field.

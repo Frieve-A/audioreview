@@ -8,10 +8,9 @@ ref: pioneer-se-master1
 date: 2025-07-18
 rating: [1.3, 0.3, 0.4, 0.1, 0.2, 0.3]
 summary: "Despite being a handcrafted premium headphone priced at 259,000 JPY, it exhibits significantly low cost-performance in basic specifications"
-tags: [Headphones, Premium, Japanese, Open-back]
+tags: [Headphones, Japan, Open-back, Premium]
 permalink: /products/en/pioneer-se-master1/
 ---
-
 ## Overview
 
 The Pioneer SE-Master1 is Pioneer's first high-end headphone, announced in 2015 after six years of development. It is handcrafted in limited production of 1,000 units at Pioneer's Tohoku factory in Japan, with skilled craftsmen producing only two units per day. The headphone features a 50mm aluminum diaphragm with ceramic coating and claims a wide frequency response of 5Hz to 85,000Hz. It was released at a price of 259,000 JPY after tuning at Air Studios.

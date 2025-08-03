@@ -8,10 +8,9 @@ ref: anker-soundcore-liberty-4-nc
 date: 2025-07-09
 rating: [3.4, 0.6, 0.6, 0.9, 0.7, 0.6]
 summary: "True wireless earbuds achieving Ultra Noise Cancelling 3.0, LDAC support, and up to 50-hour playback at 12,990 yen. Boasts strongest-class noise cancellation performance in the early 10,000 yen range, but retains bass-heavy tendencies in sound quality."
-tags: [Anker, Soundcore, "Liberty 4 NC", "Wireless Earphones", "Noise cancellation", LDAC]
+tags: [Anker, LDAC, Liberty 4 NC, Noise cancellation, Soundcore, Wireless earphones]
 permalink: /products/en/anker-soundcore-liberty-4-nc/
 ---
-
 ## Overview
 
 The Anker Soundcore Liberty 4 NC is a true wireless earphone priced at 12,990 yen that first incorporates Ultra Noise Cancelling 3.0, achieving Anker's strongest noise cancellation performance. Adopting 11mm large-diameter drivers and high-sensitivity sensors, it instantly measures ear shape to eliminate noise previously overlooked. LDAC support enables high-resolution audio quality with up to 50 hours of long-duration playback. Supporting IPX4 water resistance, multipoint connection, and wireless charging, available in five colors: black, white, navy, pink, and light blue, achieving both practicality and high functionality.

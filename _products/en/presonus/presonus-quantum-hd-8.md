@@ -8,10 +8,9 @@ ref: presonus-quantum-hd-8
 date: 2025-07-21
 rating: [3.7, 0.8, 0.7, 0.7, 0.7, 0.8]
 summary: "A high-quality audio interface with professional-grade MAX-HD preamps and high dynamic range, but the price gap with similarly performing competitors is a concern."
-tags: [USB-C, Audio Interface, Pro Audio, Recording, PreSonus]
+tags: [Audio interface, PreSonus, Pro Audio, Recording, USB-C]
 permalink: /products/en/presonus-quantum-hd-8/
 ---
-
 ## Overview
 
 The PreSonus Quantum HD 8 is a 26-in/30-out USB-C audio interface released in 2024 as the culmination of the company's 30 years of technological innovation. It features 8 newly-developed MAX-HD microphone preamps with up to +75dB of gain and supports high-resolution recording at 32-bit/192kHz. A perpetual license for Studio One Pro 7 (worth 199.99 USD) is included, providing a professional music production environment. The 1U rack-mountable chassis incorporates ADAT I/O, S/PDIF I/O, MIDI I/O, word clock input/output, re-amp output, and loopback functionality, designed to meet diverse recording needs in studio environments.

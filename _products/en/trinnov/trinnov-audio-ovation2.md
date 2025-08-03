@@ -8,10 +8,9 @@ ref: trinnov-audio-ovation2
 date: 2025-07-14
 rating: [3.5, 0.9, 0.8, 0.4, 0.7, 0.7]
 summary: "A professional cinema processor with excellent measured performance and advanced room correction technology, but faces cost-performance challenges with 2.5x the price compared to the functionally equivalent Monolith HTP-1."
-tags: [Cinema Processor, Room Correction, Dolby Atmos, Professional Audio, Digital Signal Processing]
+tags: [Cinema Processor, Digital Signal Processing, Dolby Atmos, Professional Audio, Room correction]
 permalink: /products/en/trinnov-audio-ovation2/
 ---
-
 ## Overview
 
 The Trinnov Audio Ovation2 is a professional digital cinema processor developed by French company Trinnov Audio. It features the company's proprietary advanced room correction technology and measurement system, designed for acoustic optimization in movie theaters and professional studios. Positioned as a next-generation device that inherits the excellent functions of the previous Ovation model while achieving higher precision and stability. It has adoption records in major movie theater chains worldwide and is said to demonstrate its power particularly in acoustically challenging environments.

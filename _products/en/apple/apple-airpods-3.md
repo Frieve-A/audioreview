@@ -8,10 +8,9 @@ ref: apple-airpods-3
 date: 2025-07-09
 rating: [2.9, 0.6, 0.6, 0.6, 0.6, 0.5]
 summary: "Apple H1 chip ecosystem integration with Adaptive EQ functionality, but limited by open design bass deficiency and lack of noise cancellation"
-tags: ["Wireless Earphones", "Open design", "Spatial audio", "Apple H1", "Adaptive EQ"]
+tags: [Adaptive EQ, Apple H1, Open design, Spatial audio, Wireless earphones]
 permalink: /products/en/apple-airpods-3/
 ---
-
 ## Overview
 
 Apple AirPods 3 (3rd generation), released in 2021, is an open-design true wireless earbuds. Featuring custom-designed high-excursion drivers and high dynamic range amplifiers, it supports personalized spatial audio with dynamic head tracking. The Adaptive EQ function continuously adjusts acoustics according to ear shape, with IPX4 water resistance rating. Currently priced around 17,800 yen, it positions itself as an entry-level model within Apple's genuine ecosystem.

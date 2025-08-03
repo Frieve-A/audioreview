@@ -8,10 +8,9 @@ ref: dirac
 date: 2025-07-06
 rating: [4.4, 1.0, 0.9, 0.7, 0.9, 0.9]
 summary: "Swedish acoustic technology company originating from Uppsala University. World leader in Digital Room Correction (DRC) technology that measures room acoustics and speaker characteristics to correct them toward ideal acoustics. Through advanced impulse response correction based on scientific evidence, they eliminate not only frequency response issues but also time-domain distortions. Adopted across professional venues, high-end audio, and car audio. While their effects are tremendous, maximizing performance requires considerable cost and learning commitment."
-tags: [Sweden, Software, DSP, Room Correction, Professional]
+tags: [DSP, Professional, Room correction, Software, Sweden]
 permalink: /companies/en/dirac/
 ---
-
 ## Overview
 
 Dirac is an acoustic technology company established in 2001 by researchers from Uppsala University in Sweden. Their core technology, "Dirac Live," uses digital signal processing (DSP) to correct audio distortions caused by room acoustics (reflections, standing waves, etc.) and speaker performance limitations. While many room correction technologies limit themselves to frequency response correction, Dirac's distinguishing feature is also correcting impulse response (time domain) related to sound attack and timing. This enables more accurate and natural soundfield reproduction, leading to adoption by audio manufacturers worldwide (ARCAM, NAD, Onkyo, etc.), car audio, and professional studios.

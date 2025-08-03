@@ -8,10 +8,9 @@ ref: denon-dl-110
 date: 2025-07-12
 rating: [2.1, 0.2, 0.2, 0.6, 0.7, 0.4]
 summary: "Launched in 1982, the Denon DL-110 is a high-output MC cartridge based on a 40-year-old design, offering limited technical advantages. Its cost-performance is not high due to the existence of more affordable MM cartridges."
-tags: [MC Cartridge, Analog, Turntable, Phono Cartridge, Denon]
+tags: [Analog, Denon, MC cartridge, Phono cartridge, Turntable]
 permalink: /products/en/denon-dl-110/
 ---
-
 ## Overview
 
 The DL-110 is a moving coil (MC) cartridge released by Denon in 1982. Its primary feature is the convenience of being directly connectable to moving magnet (MM) phono inputs due to its high output of 1.6mV. It features a special elliptical stylus (0.1×0.2mm rectangular cross-section) and has been beloved for years due to its smooth tonality and practical design. Originally launched at 125 USD, it remains available today at around 200 USD as a proven MC entry-level cartridge.

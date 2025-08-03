@@ -8,10 +8,9 @@ ref: akg-n5-hybrid
 date: 2025-07-20
 rating: [3.5, 0.7, 0.8, 0.8, 0.6, 0.6]
 summary: "The AKG N5 Hybrid is a premium wireless earphone featuring LDAC codec support and an included USB-C 2.4GHz dongle. Its technical achievements in Hi-Res Audio support and low-latency connectivity are commendable, and the 28,710 yen price point represents a reasonable level compared to products with equivalent functionality."
-tags: [AKG, Wireless Earphones, ANC, Hi-Res Audio, LDAC, Gaming]
+tags: [AKG, ANC, Gaming, Hi-Res Audio, LDAC, Wireless earphones]
 permalink: /products/en/akg-n5-hybrid/
 ---
-
 ## Overview
 
 The AKG N5 Hybrid is a premium wireless earphone from Harman International announced at IFA 2024 in September 2024. Developed under the concept of "bridging the Hi-Fi and gaming worlds," it adopts a dual connectivity approach using both Bluetooth and USB-C 2.4GHz dongle. The earphones feature 10mm dynamic drivers with DLC (Diamond-Like Carbon) coating, 20Hz-40kHz frequency range, and LDAC codec support for Hi-Res Audio Wireless compatibility. With a 6-microphone adaptive noise canceling system and IP54 water resistance rating, plus Zoom certification for professional use, this product leverages AKG's technical heritage as an audio manufacturer.

@@ -8,10 +8,9 @@ ref: sendy-audio-peacock
 date: 2025-07-28
 rating: [2.0, 0.2, 0.6, 0.2, 0.5, 0.5]
 summary: "A planar magnetic headphone with a high-quality appearance but suffers from serious issues in acoustic measurement performance. Its cost-performance is extremely low, as products with equivalent or superior performance are available for less than a fifth of the price."
-tags: [Planar Magnetic, Headphones, Open-back, Premium]
+tags: [Headphones, Open-back, Planar magnetic, Premium]
 permalink: /products/en/sendy-audio-peacock/
 ---
-
 ## Overview
 
 The Sendy Audio Peacock is a flagship planar magnetic headphone from Sendy Audio, a sub-brand of Sivga Audio. It features a large 88mm driver and "Quad-Former" technology, which places coils on both sides of the diaphragm. It projects a sense of luxury with its handcrafted appearance combining wood, leather, and metal, along with an included 8-core 6N OCC copper cable. Specifications include an impedance of 50Ω, sensitivity of 103dB, a frequency response of 20Hz-40kHz, and a weight of approximately 578g.

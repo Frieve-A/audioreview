@@ -8,10 +8,9 @@ ref: marantz-pm-10
 date: 2025-07-26
 rating: [3.0, 0.8, 0.6, 0.3, 0.7, 0.6]
 summary: "Marantz's first reference-grade Class D amplifier. Achieves transparent-level measurement performance but suffers from critical cost-performance issues."
-tags: [Class D, Integrated Amplifier, Reference, High-End]
+tags: [Class D, High-End, Integrated amplifier, Reference]
 permalink: /products/en/marantz-pm-10/
 ---
-
 ## Overview
 
 The Marantz PM-10 is a reference-grade integrated amplifier released in 2016 at 8,000 USD. This is a landmark product marking Marantz's first serious adoption of Class D technology, featuring a dual-mono design with 200W (8Ω)/400W (4Ω) output. It incorporates a proprietary Class D amplifier section called "Analog Switched Mode Design," combined with fully balanced circuitry and custom HDAM modules. The product has since been discontinued and replaced by the successor MODEL 10 (15,000 USD).

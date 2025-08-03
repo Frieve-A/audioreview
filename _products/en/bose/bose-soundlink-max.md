@@ -8,10 +8,9 @@ ref: bose-soundlink-max
 date: 2025-07-07
 rating: [2.6, 0.6, 0.7, 0.3, 0.5, 0.5]
 summary: "Bose's large portable speaker. Features 3 transducers and 2 passive radiators, Bluetooth 5.4, IP67 waterproofing, 20-hour playback at 399 USD. Audio quality shows Bose's characteristic balance, but MDAQS distortion score of 1.5 indicates low measurement results. Significant price gap compared to competing products offering equivalent functionality at much lower costs creates serious cost-performance challenges."
-tags: [America, "Portable Speaker", Bluetooth, Waterproof, Premium]
+tags: [America, Bluetooth, Portable speaker, Premium, Waterproof]
 permalink: /products/en/bose-soundlink-max/
 ---
-
 ## Overview
 
 The Bose SoundLink Max is the large model in the company's premium portable speaker line. Adopts low-frequency enhancement design with 3 front transducers and 2 custom passive radiators. Features Bluetooth 5.4, SBC/AAC/aptX Adaptive support, IP67 waterproof performance, 20-hour continuous playback, and 3.5mm AUX input. With dimensions of 265×120×105mm and weight of 2.13kg, it's large-sized, incorporating practical functions like power bank capability and floating design. Targets premium market with Bose brand at a 399 USD price point.

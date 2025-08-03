@@ -8,10 +8,9 @@ ref: zu-audio
 date: 2025-07-05
 rating: [3.4, 0.6, 0.8, 0.6, 0.7, 0.7]
 summary: "Established in 2000, this American speaker manufacturer based in Ogden, Utah, adheres to their belief in high-efficiency full-range drivers. While their unique acoustic design based on founder Sean Casey's 20-year research and commitment to handcrafted manufacturing is praiseworthy, the sound quality effects are largely subjective, with limited objective advantages justifying the price. They have devoted support among specific enthusiasts who prefer high efficiency, but they are not for everyone."
-tags: [America, Speaker, High-efficiency, "Full-range drivers", Utah]
+tags: [America, Full-range drivers, High-efficiency, Speakers, Utah]
 permalink: /companies/en/zu-audio/
 ---
-
 ## Overview
 
 Zu Audio is an American speaker manufacturer established in 2000 in Ogden, Utah, specializing in high-efficiency full-range drivers. Based on 20 years of research conducted by founder Sean Casey from 1980 to 2000, they have established unique acoustic designs that prioritize human voice reproduction above all else. Their products feature high efficiency of 95dB or higher, minimal crossovers, and phase coherence from full-range drivers, particularly popular when paired with tube amplifiers.

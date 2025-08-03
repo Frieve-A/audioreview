@@ -8,10 +8,9 @@ ref: magico
 date: 2025-07-05
 rating: [3.7, 0.8, 0.9, 0.3, 0.8, 0.9]
 summary: "A high-end speaker manufacturer founded by Alon Wolf in California in 2004. Entry-level A1 starts at USD 6,500, while flagship M9 approaches USD 700,000. Known for aircraft-grade aluminum cabinets and rigorous engineering, with industry-leading quality control using Klippel analyzers. Excellent measured performance, but prices are correspondingly high. An 'engineering-focused high-end' brand supported by technical prowess and brand strength."
-tags: [America, High-end, Speaker, Aluminum, California]
+tags: [Aluminum, America, California, High-end, Speakers]
 permalink: /companies/en/magico/
 ---
-
 ## Overview
 
 Founded in 2004 by Israeli-American Alon Wolf, Magico began development in 1994 when Wolf, who studied at a conservatory, started pursuing the "perfect speaker system," achieving commercialization after 10 years of development. Currently, 35 skilled craftsmen manufacture all components in-house at a 9,000 square meter factory in Hayward, California.

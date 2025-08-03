@@ -8,10 +8,9 @@ ref: anker-soundcore-life-p2-mini
 date: 2025-07-19
 rating: [2.5, 0.3, 0.4, 0.9, 0.6, 0.3]
 summary: "4,490円の低価格帯ワイヤレスイヤホンとして、基本機能は提供するものの、音質面での科学的有効性は限定的"
-tags: [ワイヤレスイヤホン, 低価格帯, Bluetooth, IPX5]
+tags: [Bluetooth, IPX5, ワイヤレスイヤホン, 低価格]
 permalink: /products/ja/anker-soundcore-life-p2-mini/
 ---
-
 ## 概要
 
 Anker Soundcore Life P2 Miniは、4,490円の低価格帯に位置する完全ワイヤレスイヤホンです。10mmドライバーを搭載し、Bluetooth 5.2接続、IPX5防水規格、最大32時間の総再生時間を提供します。Ankerの代表的なエントリーモデルとして、3つのEQモード切り替え機能を備え、コンパクトな筐体設計により日常使用での利便性を重視した製品となっています。

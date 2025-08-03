@@ -8,10 +8,9 @@ ref: focusrite-scarlett-16i16
 date: 2025-07-30
 rating: [4.2, 0.8, 0.8, 1.0, 0.8, 0.8]
 summary: "RedNetコンバーターを搭載した16入力16出力のUSBオーディオインターフェイス。122dBの広大なダイナミックレンジと優れたプリアンプ性能を誇ります。同等以上の機能と測定性能を持つ製品の中で世界最安であり、極めて高いコストパフォーマンスを実現しています。"
-tags: [オーディオインターフェイス, USB, 24bit/192kHz, RedNet, Focusrite]
+tags: [24bit/192kHz, Focusrite, RedNet, USB, オーディオインターフェース]
 permalink: /products/ja/focusrite-scarlett-16i16/
 ---
-
 ## 概要
 
 Focusrite Scarlett 16i16（第4世代）は、同社のフラッグシップRedNetシリーズから直接採用されたコンバーターを搭載する16入力16出力のUSBオーディオインターフェイスです。最大122dBのダイナミックレンジを持つ24-bit/192kHz対応AD/DAコンバーターと、最大69dBのゲインと-127dBuのEINを誇る2基の第4世代Scarlettマイクプリアンプを搭載しています。Auto GainやClip Safeなどの現代的な機能を備え、プロフェッショナルなレコーディング環境での使用を想定した設計となっています。

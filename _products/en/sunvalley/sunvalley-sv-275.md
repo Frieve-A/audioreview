@@ -8,10 +8,9 @@ ref: sunvalley-sv-275
 date: 2025-07-25
 rating: [1.0, 0.1, 0.2, 0.1, 0.5, 0.1]
 summary: "Despite being a KT88 push-pull tube amplifier, the SV-275 exhibits poor measurement performance with 10% THD, while the 89.99 USD Fosi Audio V3 achieves equivalent output with 0.003% THD, making it scientifically untenable by audio quality standards."
-tags: [Tube Amplifier, KT88, Push-Pull, Power Amplifier]
+tags: [KT88, Power amplifier, Push-Pull, Tube Amplifier]
 permalink: /products/en/sunvalley-sv-275/
 ---
-
 ## Overview
 
 The Sunvalley SV-275 is a KT88 push-pull tube power amplifier from Sunvalley, a brand known for its audio kits. It delivers a 38W+38W (8Ω, THD 10%) output and employs a tube configuration of 12AX7×2, 6BQ5×4, and KT88×4. The frequency response spans 5Hz-125kHz (1W/8Ω/-3dB) with 4/8/16Ω speaker compatibility, measuring W430×H195×D270mm and weighing 18kg. Available as a used unit for 99,000 yen, representing the market price for this kit-built product. The company ceased all product sales operations in May 2023, now focusing exclusively on product support.

@@ -8,10 +8,9 @@ ref: bowers-wilkins-px7-s3
 date: 2025-07-22
 rating: [3.1, 0.6, 0.6, 0.9, 0.5, 0.5]
 summary: "The PX7 S3 excels in comfort and build quality, but its sound is intentionally colored rather than faithful, and more affordable, higher-fidelity competitors exist."
-tags: [Wireless Headphones, Noise Cancelling, Over-ear, High-end, Bluetooth]
+tags: [Bluetooth, High-end, Noise Cancelling, Over-ear, Wireless headphones]
 permalink: /products/en/bowers-wilkins-px7-s3/
 ---
-
 ## Overview
 
 The Bowers & Wilkins PX7 S3 is the latest model in the company's wireless noise-cancelling headphone lineup. It combines 40mm bio-cellulose drivers with 24-bit digital signal processing and supports high-quality codecs like aptX Adaptive. The headphones feature active noise cancellation powered by six microphones and deliver up to 30 hours of battery life. The product is characterized by its premium materials, high-quality appearance, and comfortable fit.

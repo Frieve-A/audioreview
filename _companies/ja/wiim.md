@@ -8,10 +8,9 @@ ref: wiim
 date: 2025-07-08
 rating: [3.9, 0.8, 0.7, 0.9, 0.8, 0.7]
 summary: "中国LinkPlay Technology傘下の音楽ストリーミング機器ブランド。ES9038Q2M DAC搭載のUltra（329 USD）でSNR 121dB/THD+N -116dBの高性能を低価格で実現。価格破壊的なコストパフォーマンスが最大の特徴。"
-tags: [Streamer, DAC, China, Budget, Linkplay]
+tags: [DAC, Linkplay, コストパフォーマンス, ネットワークストリーマー, 中国]
 permalink: /companies/ja/wiim/
 ---
-
 ## 概要
 
 WiiMは中国LinkPlay Technology（2014年設立）傘下の音楽ストリーミング機器ブランドです。Google、Broadcom、Harman、InterVideoの経験豊富なエンジニアが創設し、当初はYamaha、Marshall、Edifier、Audio Proなどの大手メーカーにOEM供給を行っていました。2020年代に入り独自ブランドWiiMを立ち上げ、ES9038Q2M DAC搭載のUltraやAKM4493SEQ搭載のPro Plusなど、極めて高性能な測定値を持つ製品を破格の価格で提供することで急速に市場シェアを拡大しています。

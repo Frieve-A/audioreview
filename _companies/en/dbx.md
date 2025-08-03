@@ -8,10 +8,9 @@ ref: dbx
 date: 2025-07-16
 rating: [3.8, 0.7, 0.6, 1.0, 0.8, 0.7]
 summary: "A veteran American company with over 50 years of history in the professional audio industry. Currently operates as part of Harman International (Samsung subsidiary), focusing on signal processors and speaker management equipment."
-tags: [Professional Audio, Signal Processing, Compressor, Preamp, American]
+tags: [America, Compressor, Preamp, Professional Audio, Signal Processing]
 permalink: /companies/en/dbx/
 ---
-
 ## Overview
 
 dbx is an American professional audio equipment manufacturer founded by David E. Blackmer in 1971. Currently operating as part of Harman International (Samsung Electronics subsidiary), the company is headquartered in Sandy, Utah. Representative products include the 286s microphone preamp, 166xs compressor, and DriveRack PA2 speaker management system, known for proprietary technologies such as True RMS Level Detection and True RMS Power Summing. Widely used in broadcasting and live sound applications, the 286s is currently priced at 299 USD.

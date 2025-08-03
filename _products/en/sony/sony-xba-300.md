@@ -8,10 +8,9 @@ ref: sony-xba-300
 date: 2025-07-25
 rating: [2.3, 0.6, 0.5, 0.3, 0.3, 0.6]
 summary: "A discontinued in-ear headphone with a triple balanced armature setup. While it boasts a wide frequency range of 5Hz-40kHz, its 2015 technology is now commonplace. As a used product priced around 10,000 JPY, its cost-performance is extremely low compared to current models like the KZ ZSN Pro 2 (approx. 3,000 JPY), which offer comparable or better performance."
-tags: [Balanced Armature, Hi-Res Compatible, Sony, In-Ear Headphones, Discontinued]
+tags: [Balanced armature, Discontinued, Hi-Res Compatible, In-Ear Headphones, Sony]
 permalink: /products/en/sony-xba-300/
 ---
-
 ## Overview
 
 The Sony XBA-300 is a triple balanced armature in-ear headphone released by Sony in 2015. It employs a Symmetric Armature Direct Drive structure with three drivers (full-range, woofer, and HD super tweeter) to achieve a 5Hz-40kHz wide-band reproduction. The product features a magnesium alloy rigid mount housing and a brass sound path to suppress resonance, claiming Hi-Res audio compatibility. The design incorporates a 4-wire ground separate cable with silver-plated OFC litz wire to reduce interference between left and right channels.

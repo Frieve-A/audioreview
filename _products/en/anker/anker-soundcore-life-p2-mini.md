@@ -8,10 +8,9 @@ ref: anker-soundcore-life-p2-mini
 date: 2025-07-19
 rating: [2.5, 0.3, 0.4, 0.9, 0.6, 0.3]
 summary: "As a budget wireless earphone priced at 4,490 yen, it provides basic functionality but offers limited scientific validity in terms of audio quality"
-tags: [Wireless Earphones, Budget, Bluetooth, IPX5]
+tags: [Bluetooth, Budget, IPX5, Wireless earphones]
 permalink: /products/en/anker-soundcore-life-p2-mini/
 ---
-
 ## Overview
 
 The Anker Soundcore Life P2 Mini is a true wireless earphone positioned in the budget category at 4,490 yen. It features 10mm drivers, Bluetooth 5.2 connectivity, IPX5 water resistance, and up to 32 hours of total playback time. As Anker's representative entry-level model, it includes three EQ mode switching functions and emphasizes daily usability through its compact housing design.

@@ -8,10 +8,9 @@ ref: earfun-tune-pro
 date: 2025-07-22
 rating: [2.6, 0.3, 0.4, 1.0, 0.4, 0.5]
 summary: "The EarFun Tune Pro boasts an unparalleled 120-hour battery life, making it a unique offering despite significant compromises in sound quality."
-tags: [Wireless Headphones, ANC, Long Battery Life, Budget]
+tags: [ANC, Budget, Long Battery Life, Wireless headphones]
 permalink: /products/en/earfun-tune-pro/
 ---
-
 ## Overview
 
 The EarFun Tune Pro is a wireless over-ear headphone released in December 2024, featuring an exceptional 120-hour battery life as its primary selling point. Manufactured by Chinese company EarFun, this model offers a comprehensive feature set at a market price of 8,990 JPY in Japan, including hybrid Active Noise Cancelling (ANC), Bluetooth 5.4, and multipoint connection capabilities. The dual-driver configuration with 40mm and 10mm drivers has earned Hi-Res Audio certification, positioning it as an entry-level product that caters to a specific user need.

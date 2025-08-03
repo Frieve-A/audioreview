@@ -8,10 +8,9 @@ ref: apogee
 date: 2025-07-22
 rating: [4.0, 1.0, 0.8, 1.0, 0.6, 0.6]
 summary: "A company that provides top-tier audio quality and class-leading preamp performance in the professional audio interface sector. Its unique performance offers excellent cost-performance for specific applications."
-tags: [Audio Interface, Digital Conversion, Pro Audio, High-end Equipment]
+tags: [Audio interface, Digital Conversion, High-end Equipment, Pro Audio]
 permalink: /companies/en/apogee/
 ---
-
 ## Overview
 
 Apogee is an American audio equipment manufacturer founded in 1985, initially starting with the development of anti-aliasing filters for CD production quality improvement. Currently known in the professional audio interface field, the company offers product lines including Symphony, Duet, and Ensemble series. The company has established a reputation particularly in A/D, D/A conversion technology and microphone preamp performance, with proven track records of use in many professional studios.

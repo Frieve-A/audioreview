@@ -8,10 +8,9 @@ ref: shure
 date: 2025-07-05
 rating: [4.1, 0.9, 1.0, 0.3, 1.0, 0.9]
 summary: "A veteran American acoustic equipment manufacturer founded in 1925. Shure has established absolute global dominance in the microphone field, with products like SM58 and SM57 reigning as industry standards. In recent years, they have gained high acclaim in the earphone and headphone field, with the SE series including SE215 beloved by audio enthusiasts worldwide. Their design philosophy emphasizing professional field reliability is consistently reflected in consumer products."
-tags: [American, Microphones, Earphones, Professional, Industry Standard]
+tags: [America, Earphones, Industry Standard, Microphones, Professional]
 permalink: /companies/en/shure/
 ---
-
 ## Overview
 
 Founded in Chicago in 1925, this acoustic equipment manufacturer with nearly 100 years of history has established absolute global dominance in the microphone field. Products like SM58 and SM57 are beloved by professionals worldwide as "industry standards." From concert halls to recording studios, broadcast stations to conference rooms, Shure products are active in every scene involving sound.

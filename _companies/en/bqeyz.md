@@ -8,10 +8,9 @@ ref: bqeyz
 date: 2025-07-28
 rating: [2.5, 0.5, 0.7, 0.2, 0.5, 0.6]
 summary: "Chinese emerging IEM manufacturer specializing in tribrid configurations using piezoelectric drivers. While technological innovation is commendable, challenges remain in measurement performance and price competitiveness."
-tags: [IEM, Hybrid Drivers, Piezoelectric, Chinese Manufacturer, Tribrid]
+tags: [Chinese Manufacturer, Hybrid Drivers, In-ear monitors, Piezoelectric, Tribrid]
 permalink: /companies/en/bqeyz/
 ---
-
 ## Overview
 
 BQEYZ is an audio brand established in 2017 in Dongguan, China, with the official company name Dongguan Xianchao Acoustic Technology Co., Ltd. The acronym stands for "Best Quality Earphones for Your Z(G)eneration" and specializes primarily in in-ear monitors (IEMs). The company's distinctive feature is its specialization in tribrid configurations combining dynamic drivers, balanced armatures, and piezoelectric drivers. Their product lineup includes seasonal series like Spring, Summer, Autumn, and Winter, as well as budget models such as BQ-10 and Frost.

@@ -8,10 +8,9 @@ ref: sendy-audio-apollo
 date: 2025-07-28
 rating: [2.5, 0.4, 0.7, 0.2, 0.7, 0.5]
 summary: "Mid-price headphones featuring 68mm planar magnetic drivers and Quad-Former technology. While offering excellent build quality and comfort, it suffers from scientific effectiveness issues due to distortion at higher volumes and a strong V-shaped sound signature."
-tags: [Headphones, Planar Magnetic, Open-Back, Mid-Price]
+tags: [Headphones, Mid-Price, Open-Back, Planar magnetic]
 permalink: /products/en/sendy-audio-apollo/
 ---
-
 ## Overview
 
 The Sendy Audio Apollo is an open-back headphone featuring 68mm planar magnetic drivers, priced at 499 USD. Released around 2022 by Chinese company Sendy Audio (a subsidiary brand of Sivga Electronic Technology Co., Ltd.), it incorporates the company's proprietary Quad-Former technology. Standard equipment includes CNC-machined rosewood housing and high-quality cables, with a 16-ohm low impedance design enabling compatibility with a wide range of devices. It is positioned as a relatively easy-to-drive product within the planar magnetic category.

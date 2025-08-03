@@ -8,10 +8,9 @@ ref: activo
 date: 2025-07-28
 rating: [3.1, 0.8, 0.6, 0.5, 0.4, 0.8]
 summary: "DAP manufacturer under Astell&Kern. Excellent measurement performance, but faces challenges in cost-performance and support due to more affordable competitors."
-tags: [DAP, Portable Audio, Astell&Kern, Digital Audio Players]
+tags: [Astell&Kern, DAP, Digital Audio Players, Portable]
 permalink: /companies/en/activo/
 ---
-
 ## Overview
 
 ACTIVO is a digital audio player (DAP) specialist company established in 2019 as a sub-brand of Astell&Kern, operated by South Korea's Dreamus Group. The company aims to provide Astell&Kern's audio technology at more affordable prices, targeting users with active lifestyles. Its current flagship product is the ACTIVO P1 (429 USD), released in July 2024. A previous model, the CT10 (299 USD), has been discontinued.

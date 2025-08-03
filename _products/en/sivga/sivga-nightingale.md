@@ -8,7 +8,7 @@ ref: sivga-nightingale
 date: 2025-08-02
 rating: [2.9, 0.6, 0.7, 0.4, 0.5, 0.7]
 summary: "In-ear monitor featuring a 14.5mm planar magnetic driver. Offers midrange-focused acoustic characteristics but has cost-performance challenges."
-tags: [In-ear monitors, Planar Driver, Planar Magnetic, Sivga]
+tags: [In-ear monitors, Planar Driver, Planar magnetic, Sivga]
 permalink: /products/en/sivga-nightingale/
 ---
 ## Overview

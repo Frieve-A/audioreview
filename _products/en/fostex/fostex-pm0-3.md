@@ -8,7 +8,7 @@ ref: fostex-pm0-3
 date: 2025-07-20
 rating: [2.3, 0.4, 0.3, 0.6, 0.6, 0.4]
 summary: "A decent compact desktop monitor, but its limited bass response and the existence of superior, more affordable competitors are significant drawbacks."
-tags: [Active speakers, Desktop Speaker, Fostex, Monitor Speaker, Small Monitor]
+tags: [Active speakers, Desktop speaker, Fostex, Monitor Speaker, Small Monitor]
 permalink: /products/en/fostex-pm0-3/
 ---
 ## Overview

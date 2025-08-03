@@ -8,10 +8,9 @@ ref: fiio-k17
 date: 2025-07-25
 rating: [3.9, 0.9, 0.8, 1.0, 0.5, 0.7]
 summary: "Flagship desktop DAC/amplifier with a powerful headphone output. It combines excellent measurement performance with outstanding cost-performance in its class."
-tags: [Desktop DAC, Headphone Amplifier, Streaming, AKM, FiiO]
+tags: [AKM, Desktop DAC, FiiO, Headphone amplifier, Streaming]
 permalink: /products/en/fiio-k17/
 ---
-
 ## Overview
 
 The FiiO K17 is the company's flagship desktop DAC/headphone amplifier, featuring the AKM flagship DAC chipset in a dual-mono configuration with AK4191+AK4499EX×2. This multi-functional model offers a powerful 4000mW+4000mW balanced output, streaming capabilities, 31-band PEQ, and a 3.93-inch touchscreen among its extensive features. It combines a retro design reminiscent of 1970s car radios with modern performance, housed in a robust aluminum alloy chassis weighing 2.75kg.

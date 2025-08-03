@@ -8,10 +8,9 @@ ref: wharfedale
 date: 2025-08-02
 rating: [3.0, 0.4, 0.5, 0.8, 0.8, 0.5]
 summary: "Founded in 1932, this British heritage speaker manufacturer is known for Diamond and Heritage series but faces measurement performance challenges."
-tags: [Speakers, British, Diamond, Heritage, Bookshelf]
+tags: [Bookshelf, Diamond, Heritage, Speakers, United Kingdom]
 permalink: /companies/en/wharfedale/
 ---
-
 ## Overview
 
 Wharfedale is a British heritage speaker manufacturer established in 1932 by Gilbert Briggs. Known for its iconic product lines including the Diamond series (launched in 1982) and Heritage series, the company is currently under the International Audio Group umbrella. Wharfedale built its reputation through the famous Carnegie Hall "live vs recorded" demonstrations and introduced fundamental technologies such as ceramic magnets and 2-way speaker designs. Products are designed in the UK, and since 2022, manufacturing of some products has returned to Britain under the "Made in UK" initiative.

@@ -8,10 +8,9 @@ ref: beats
 date: 2025-07-09
 rating: [3.2, 0.7, 0.6, 0.5, 0.8, 0.6]
 summary: "An audio brand founded in 2008 by Dr. Dre and Jimmy Iovine. Acquired by Apple for 3 billion USD in 2014 and currently operates as Apple's subsidiary. While excelling in consumer branding, measured performance remains at industry average levels with higher pricing."
-tags: ["Wireless Earphones", Headphones, Apple, "Dr. Dre", "Jimmy Iovine"]
+tags: [Apple, Dr. Dre, Headphones, Jimmy Iovine, Wireless earphones]
 permalink: /companies/en/beats/
 ---
-
 ## Overview
 
 Beats Electronics is an audio brand founded in 2008 by legendary artist-producer Dr. Dre and Interscope Geffen A&M Records chairman Jimmy Iovine. Based on Dr. Dre's belief that "people aren't hearing all the music," it was established to solve the problem that low-quality headphones flooding the market at the time could not express the artistry of music. Apple acquired the company for a total of 3 billion USD in 2014, and it currently operates as Apple's subsidiary. It excels in consumer branding and marketing, gaining high support particularly among younger demographics.

@@ -8,10 +8,9 @@ ref: apple-airpods-pro-2
 date: 2025-07-08
 rating: [3.1, 0.6, 0.7, 0.6, 0.6, 0.6]
 summary: "Apple AirPods Pro 2 delivers excellent ANC and usability but faces scientific evaluation and cost-performance challenges due to existence of equivalent-performance budget alternatives"
-tags: ["Active noise cancelling", "Adaptive EQ", Apple, "H2 Chip", "Wireless Earphones"]
+tags: [Active noise cancelling, Adaptive EQ, Apple, H2 Chip, Wireless earphones]
 permalink: /products/en/apple-airpods-pro-2/
 ---
-
 ## Overview
 
 Apple AirPods Pro 2, released in 2022, is Apple's flagship wireless earbuds featuring the H2 chip and delivering 2x better Active Noise Cancellation compared to the previous generation. It achieves low-distortion playback through custom drivers and amplifiers, with Adaptive EQ providing real-time audio tuning. Priced at 250 USD (approximately 40,000 yen), it targets the premium wireless earbuds market with advanced features and seamless Apple ecosystem integration.

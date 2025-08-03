@@ -8,10 +8,9 @@ ref: naim
 date: 2025-07-06
 rating: [3.4, 0.7, 1.0, 0.1, 1.0, 0.6]
 summary: "A British veteran pursuing musical 'enjoyment.' Their unique PRaT philosophy lacks scientific basis but attracts passionate fans with dynamism-focused sound. While their power supply dedication and long-term support are unparalleled, finding objective value matching high prices proves difficult."
-tags: ["United Kingdom", "High-End Audio", Amplifier, "Network Player", Uniti, PRaT, Focal]
+tags: [Amplifier, Focal, High-End Audio, Network player, PRaT, United Kingdom, Uniti]
 permalink: /companies/en/naim/
 ---
-
 ## Overview
 
 Naim Audio, established in 1973 by the late Julian Vereker, is an audio manufacturer often called the conscience of British hi-fi. Since its founding, rather than pursuing mere specifications, they have centered their philosophy on reproducing the "Pace, Rhythm, and Timing (PRaT)" of music—its dynamism and enjoyment. This unique philosophy gives their products consistent sound character, creating passionate fans worldwide. In recent years, they have formed strong partnerships with French speaker manufacturer Focal, providing comprehensive audio solutions from traditional separate components to stylish all-in-one systems like the "Uniti" series.

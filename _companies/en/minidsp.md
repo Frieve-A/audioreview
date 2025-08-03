@@ -8,10 +8,9 @@ ref: minidsp
 date: 2025-07-17
 rating: [3.4, 0.6, 0.7, 0.5, 0.8, 0.8]
 summary: "Hong Kong-based DSP specialist manufacturer. Delivers professional digital signal processing at reasonable prices. Technically solid with good price competitiveness."
-tags: [DSP, Digital Signal Processing, Hong Kong, Crossover, Room Correction]
+tags: [Crossover, DSP, Digital Signal Processing, Hong Kong, Room correction]
 permalink: /companies/en/minidsp/
 ---
-
 ## Overview
 
 MiniDSP is a specialized digital signal processing (DSP) manufacturer founded in Hong Kong in 2009. The company provides compact, high-performance DSP processors for home theater, Hi-Fi, headphone, and car audio markets. Based in Hong Kong, a global center for electronic device development and manufacturing, MiniDSP focuses on both analog and digital audio signal processing technologies. Their flagship products are compact 2-input, 4-output DSP units that integrate crossover, parametric EQ, and room correction functions. By offering professional-grade features at consumer-friendly prices, the company has contributed significantly to the popularization of DSP technology in audio systems.

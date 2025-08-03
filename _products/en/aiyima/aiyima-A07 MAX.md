@@ -8,10 +8,9 @@ ref: aiyima-a07-max
 date: 2025-07-22
 rating: [2.5, 0.6, 0.4, 0.8, 0.4, 0.3]
 summary: "A Class D amplifier using the TPA3255 chip. While its nominal performance is high, measurements reveal some issues. It offers versatility, but its design philosophy is not entirely rational."
-tags: [Class D, TPA3255, Power Amplifier, Chinese Product]
+tags: [Chinese Product, Class D, Power amplifier, TPA3255]
 permalink: /products/en/aiyima-a07-max/
 ---
-
 ## Overview
 
 The aiyima A07 MAX is a Class D power amplifier featuring the Texas Instruments TPA3255 chip. It delivers a claimed 300W×2 (4Ω) in stereo mode and 600W (2Ω) in mono mode, equipped with enthusiast features including swappable op-amp chips and bridge mode capability. Positioned as the flagship model in the popular series from Chinese company aiyima, this product aims to achieve high-power output at a relatively affordable price point.

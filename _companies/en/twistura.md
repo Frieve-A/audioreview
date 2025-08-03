@@ -8,10 +8,9 @@ ref: twistura
 date: 2025-07-28
 rating: [2.8, 0.5, 0.6, 0.6, 0.4, 0.7]
 summary: "Emerging IEM manufacturer with technical ambitions, yet facing challenges in lack of measured data and establishing corporate reliability"
-tags: [IEM, Emerging Manufacturer, Dual Magnetic, Hybrid Driver]
+tags: [Dual Magnetic, Emerging Manufacturer, Hybrid Driver, In-ear monitors]
 permalink: /companies/en/twistura/
 ---
-
 ## Overview
 
 Twistura is a relatively new electroacoustic manufacturing company aiming to redefine entry-level benchmarks by providing high-end level performance at affordable prices. Their main products are in-ear monitors (IEMs), distributed across three price tiers: D-Minor (30 USD), D-Major (50 USD), and Sigma (79 USD). Each product achieves competitive pricing while featuring technical characteristics such as dual magnetic dynamic drivers and hybrid configurations.

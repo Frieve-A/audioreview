@@ -8,7 +8,7 @@ ref: bic-america-fh-65b
 date: 2025-07-24
 rating: [2.9, 0.4, 0.5, 0.7, 0.7, 0.6]
 summary: "BIC America FH-65Bは6.5インチ2ウェイブックシェルフスピーカーです。高感度なホーンツイーター設計が特徴ですが、性能を裏付ける客観的測定データが欠如しており、コストパフォーマンスにも課題があるため、総合評価は平均以下となります。"
-tags: [BIC America, Bookshelf Speakers, Home Theater, ホーンツイーター]
+tags: [BIC America, Home Theater, ブックシェルフスピーカー, ホーンツイーター]
 permalink: /products/ja/bic-america-fh-65b/
 ---
 ## 概要

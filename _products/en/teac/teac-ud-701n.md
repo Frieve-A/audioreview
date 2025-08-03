@@ -8,10 +8,9 @@ ref: teac-ud-701n
 date: 2025-08-01
 rating: [2.2, 0.8, 0.5, 0.1, 0.6, 0.2]
 summary: "TEAC's all-in-one unit with a proprietary discrete DAC. While its scientific validity clears transparency levels, its performance does not justify the high price, and its cost-performance is extremely low compared to more rational alternatives."
-tags: [DAC, Network Player, Preamplifier, Headphone Amplifier, TEAC, Hi-Res, MQA, Streaming]
+tags: [DAC, Headphone amplifier, Hi-Res, MQA, Network player, Preamplifier, Streaming, TEAC]
 permalink: /products/en/teac-ud-701n/
 ---
-
 ## Overview
 
 The TEAC UD-701N is a high-end audio device that integrates a USB DAC, network player, preamplifier, and headphone amplifier into a single unit. It features the company's newly developed FPGA-based discrete ΔΣ (Delta Sigma) DAC, adopting a proprietary design that does not use generic DAC chips. Positioned as a core product in the 700 series, it employs a dual mono structure with independent toroidal core transformers for each channel. The TEAC-QVCS volume control system enables precise volume adjustment in 0.5dB increments. It supports playback up to DSD 22.5MHz and PCM 384kHz/32bit, and also incorporates an MQA decoder.

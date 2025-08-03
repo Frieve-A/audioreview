@@ -8,10 +8,9 @@ ref: roland
 date: 2025-07-17
 rating: [3.4, 0.6, 0.7, 0.8, 0.8, 0.5]
 summary: "Roland has a long history as a musical instrument manufacturer, but its performance in the audio interface market remains mediocre. Scientific measurement results are inferior to competitors, and cost-performance is below average."
-tags: [Audio Interface, Musical Instrument Manufacturer, USB, MIDI]
+tags: [Audio interface, MIDI, Musical Instrument Manufacturer, USB]
 permalink: /companies/en/roland/
 ---
-
 ## Overview
 
 Roland is a Japanese musical instrument manufacturer established in 1972, having led the industry for many years in synthesizers, drum machines, and electronic instruments. In the audio interface market, the company offers products primarily for music production and streaming, including the Rubix series (Rubix22, Rubix24, Rubix44) and BRIDGE CAST series. Drawing on its technical expertise and brand power as a musical instrument manufacturer, the company emphasizes product design that specializes in instrument connectivity features.

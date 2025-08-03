@@ -8,10 +8,9 @@ ref: rme-hdspe-aio-pro
 date: 2025-07-27
 rating: [4.0, 0.8, 0.7, 1.0, 0.8, 0.7]
 summary: "The RME HDSPe AIO Pro is a professional PCIe audio interface featuring AK5572/AK4490 converters and SteadyClock FS technology. With excellent measured performance including a 115 dB SNR and -110 dB THD, it offers superior cost-performance at 99,000 JPY compared to the functionally equivalent Fireface UCX II at 165,000 JPY."
-tags: [Audio Interface, PCIe, Pro Audio, RME, Digital Audio]
+tags: [Audio interface, Digital Audio, PCIe, Pro Audio, RME]
 permalink: /products/en/rme-hdspe-aio-pro/
 ---
-
 ## Overview
 
 The RME HDSPe AIO Pro is a professional PCIe audio interface developed by German manufacturer RME. Released in 2020 as the successor to the popular HDSPe AIO model, it features a 12-input/12-output 24-channel configuration with 24-bit/192kHz support. The unit incorporates Asahi Kasei Microdevices' AK5572 and AK4490 converters, proven in the company's reference-class ADI-2 Pro series, and combines them with RME's proprietary "SteadyClock FS" jitter suppression technology to ensure high conversion accuracy.

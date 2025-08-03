@@ -8,10 +8,9 @@ ref: leak
 date: 2025-07-29
 rating: [2.6, 0.7, 0.6, 0.1, 0.7, 0.5]
 summary: "British audio manufacturer established in 1934. While current products approach transparent-level measurement performance, they face significant cost-performance challenges with substantial price differences compared to more affordable alternatives."
-tags: [UK, Amplifier, CD Player, Speaker, Classic]
+tags: [Amplifier, CD Player, Classic, Speakers, United Kingdom]
 permalink: /companies/en/leak/
 ---
-
 ## Overview
 
 Leak is an audio manufacturer established in London, UK in 1934 by Harold Joseph Leak. The company was known for technical innovations, including the development of the world's first sub-0.1% distortion amplifier in 1945. Production ceased in 1979, but the brand was revived in 2020. Currently, they offer the Stereo 130 and 230 integrated amplifiers, CDT CD transport, and Sandwich speaker series. The product lineup combines classic exterior design with modern digital functionality for their market comeback.

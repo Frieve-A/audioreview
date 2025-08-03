@@ -8,10 +8,9 @@ ref: skullcandy
 date: 2025-07-09
 rating: [2.3, 0.3, 0.4, 0.6, 0.6, 0.4]
 summary: "Skullcandy is an American audio brand founded in 2003 by Rick Alden. While appealing for sports/outdoor use with distinctive design and accessible pricing, their products consistently exhibit bass-heavy V-shaped acoustic characteristics, prioritizing fashion appeal over scientific acoustic design."
-tags: [Skullcandy, American, Sports, Outdoor, "V-shaped audio"]
+tags: [America, Outdoor, Skullcandy, Sports, V-shaped audio]
 permalink: /companies/en/skullcandy/
 ---
-
 ## Overview
 
 Skullcandy is an American audio equipment manufacturer founded in 2003 by Rick Alden and Cris Williams in Park City, Utah. The company experienced rapid growth by targeting action sports demographics such as snowboarders and skateboarders with distinctive design aesthetics and accessible pricing strategies. After going public on NASDAQ in 2011, Skullcandy was acquired by Mill Road Capital in 2016 for USD 196.9 million and currently operates as a wholly-owned subsidiary. The company develops a broad product lineup including headphones, earbuds, and Bluetooth speakers, distributed through global retail channels and their online store.

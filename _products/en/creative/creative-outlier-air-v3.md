@@ -8,10 +8,9 @@ ref: creative-outlier-air-v3
 date: 2025-07-10
 rating: [2.0, 0.2, 0.3, 1.0, 0.2, 0.3]
 summary: "Creative Outlier Air V3 functions as a basic wireless earphone but lacks competitiveness under modern standards due to technical limitations"
-tags: ["Active noise cancelling", Creative, "Wireless Earphones"]
+tags: [Active noise cancelling, Creative, Wireless earphones]
 permalink: /products/en/creative-outlier-air-v3/
 ---
-
 ## Overview
 
 The Creative Outlier Air V3 is a True Wireless Stereo (TWS) earphone developed by Creative Technology of Singapore. Since its founding in 1981, the company has evolved as an audio technology enterprise known for PC sound cards. The V3 is the third-generation model in the company's Outlier Air series, featuring 6mm biocellulose drivers and Bluetooth 5.2, with active noise cancellation functionality. It is a budget-focused true wireless earphone that claims IPX5 water resistance and up to 40 hours of total playback time.

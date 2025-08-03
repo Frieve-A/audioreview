@@ -8,10 +8,9 @@ ref: bqeyz
 date: 2025-07-28
 rating: [2.5, 0.5, 0.7, 0.2, 0.5, 0.6]
 summary: "中国の新興IEMメーカーで、ピエゾ電気ドライバーを用いたトライブリッド構成に特化。技術的革新性は評価できるが、測定性能と価格競争力に課題を抱える。"
-tags: [IEM, ハイブリッドドライバー, ピエゾ電気, 中国メーカー, トライブリッド]
+tags: [インイヤーモニター, トライブリッド, ハイブリッドドライバー, ピエゾ電気, 中国メーカー]
 permalink: /companies/ja/bqeyz/
 ---
-
 ## 概要
 
 BQEYZは2017年に中国・東莞市で設立されたオーディオブランドで、正式社名はDongguan Xianchao Acoustic Technology Co., Ltd.です。"Best Quality Earphones for Your Z(G)eneration"の略称を持ち、主にインイヤーモニター（IEM）を専門としています。同社の特徴は、ダイナミックドライバー、バランスド・アーマチュア、ピエゾ電気ドライバーを組み合わせたトライブリッド構成への特化です。Spring、Summer、Autumn、Winterの季節シリーズを中心に、BQ-10やFrostなどの低価格モデルまで幅広く展開しています。

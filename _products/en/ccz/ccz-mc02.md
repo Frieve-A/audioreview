@@ -8,7 +8,7 @@ ref: ccz-mc02
 date: 2025-07-28
 rating: [2.9, 0.5, 0.4, 0.9, 0.5, 0.6]
 summary: "The CCZ MC02 is an entry-level IEM featuring a dual-magnet 10mm driver at 2,400 JPY. While measurement data is unavailable, it demonstrates strong competitiveness in cost-performance."
-tags: [Budget, CCZ, Dynamic Driver, In-ear monitors, V-Shaped Sound]
+tags: [Budget, CCZ, Dynamic driver, In-ear monitors, V-Shaped Sound]
 permalink: /products/en/ccz-mc02/
 ---
 ## Overview

@@ -8,10 +8,9 @@ ref: koss
 date: 2025-07-29
 rating: [3.6, 0.7, 0.6, 0.8, 0.7, 0.8]
 summary: "American heritage audio company that invented stereo headphones in 1958. Known for its lifetime warranty and some high value products, but faces challenges with its flagship's performance and quality control."
-tags: [Headphones, American, Value, Lifetime Warranty]
+tags: [America, Headphones, Lifetime Warranty, Value]
 permalink: /companies/en/koss/
 ---
-
 ## Overview
 
 Koss Corporation was founded in 1953 by John C. Koss in Milwaukee, Wisconsin. The company made audio history by developing the world's first stereo headphones in 1958. Their flagship Porta Pro has been manufactured without changing its basic design since its 1984 launch, embodying the company's philosophy of "opposition to planned obsolescence." The company offers a wide product lineup from earphones to electrostatic models, earning support from audio enthusiasts worldwide for their lifetime warranty and a reputation for value.

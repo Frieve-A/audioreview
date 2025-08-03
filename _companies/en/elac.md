@@ -8,10 +8,9 @@ ref: elac
 date: 2025-07-20
 rating: [4.3, 0.9, 1.0, 0.6, 0.9, 0.9]
 summary: "A veteran German audio equipment manufacturer established in 1926. Globally renowned for its proprietary JET tweeter (a type of Heil driver), which is highly acclaimed for its ultra-high frequency reproduction and low distortion. In recent years, with the participation of renowned speaker designer Andrew Jones, they have developed innovative products combining JET tweeters with coaxial technology, as well as a product lineup with excellent cost-performance. One of the few manufacturers that successfully balances technical advancement with accessible pricing."
-tags: [Germany, Speaker, "JET Tweeter", "Heil Driver", "Andrew Jones"]
+tags: [Andrew Jones, Germany, Heil Driver, JET Tweeter, Speakers]
 permalink: /companies/en/elac/
 ---
-
 ## Overview
 
 ELAC (Electroacustic GmbH) was established in Kiel, Germany in 1926, making it an audio equipment manufacturer with nearly 100 years of history. Known as an innovator in acoustic technology from its founding, its proprietary JET tweeter (a type of Heil driver) in particular had a major influence on subsequent speaker design. For many years, it has been beloved as synonymous with high-end audio within Germany.

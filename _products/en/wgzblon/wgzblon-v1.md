@@ -8,10 +8,9 @@ ref: wgzblon-v1
 date: 2025-08-01
 rating: [3.2, 0.8, 0.3, 1.0, 0.4, 0.7]
 summary: "Portable DAC/amp featuring dual CS43131 DAC chips. Achieves excellent measurement performance and superior cost-performance compared to competing products."
-tags: [DAC, Amp, Portable, CS43131, Balanced Output, Single-ended Output]
+tags: [Amp, Balanced output, CS43131, DAC, Portable, Single-ended Output]
 permalink: /products/en/wgzblon-v1/
 ---
-
 ## Overview
 
 The WGZBLON V1 is a portable DAC/amp equipped with dual Cirrus Logic CS43131 DAC chips. Through a fully balanced 4-channel configuration, it provides both 3.5mm single-ended output and 4.4mm balanced output. Housed in a compact aluminum alloy body weighing 20g with dimensions of 57mm×27.25mm×11.43mm, it features high-resolution playback capabilities supporting PCM up to 32bit/384kHz and DSD256. The BLON brand represents WGZBLON's emerging audio brand, offering a wide range of products from earphones to DAC/amps.

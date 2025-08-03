@@ -8,10 +8,9 @@ ref: razer
 date: 2025-07-10
 rating: [2.4, 0.2, 0.4, 0.8, 0.5, 0.5]
 summary: "ゲーミング向けRGB装飾が特徴的なブランドだが、オーディオ忠実度の観点では問題が多い。多機能だが、同等の機能を持つ競合製品が存在するため、価格設定は妥当な範囲に収まっている。"
-tags: [Gaming, Headset, Wireless, RGB]
+tags: [Headset, RGB, ゲーミング, ワイヤレス]
 permalink: /companies/ja/razer/
 ---
-
 ## 概要
 
 Razerは2005年に設立されたゲーミング周辺機器専門のブランドとして、世界的に高い知名度を持つ。「For Gamers. By Gamers」を掲げ、ゲーミングマウス、キーボード、ヘッドセットなどを展開している。オーディオ製品では、Barracuda、BlackShark、Krakenシリーズなどのゲーミングヘッドセットを主力としており、近年はワイヤレス技術とRGBライティングを重視した製品開発を行っている。eスポーツ界でも高い支持を得ており、特にBlackShark V2 Proはプロゲーマーの使用率が高いとされる。

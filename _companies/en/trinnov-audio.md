@@ -8,10 +8,9 @@ ref: trinnov-audio
 date: 2025-07-13
 rating: [3.8, 0.5, 0.9, 0.8, 0.8, 0.8]
 summary: "A French manufacturer of ultra-high-performance AV processors that leads the professional market. While boasting top-tier technical capabilities and scalability, it has issues with the transparency of its measurement data."
-tags: [AV Processor, Room Correction, Immersive Audio, France, Professional]
+tags: [AV Processor, France, Immersive Audio, Professional, Room correction]
 permalink: /companies/en/trinnov-audio/
 ---
-
 ## Overview
 
 Trinnov Audio is an audio processor specialist manufacturer established in France in 2003. The company develops innovative digital room correction and immersive sound solutions for studio monitoring, cinema, high-end home theater, and HiFi applications. With over 10,000 high-performance installations across 55 countries and adoption by over 4,000 studios worldwide, they are renowned for their industry-leading Optimizer technology. Their Altitude series processors and related systems provide up to 36-channel processing capability with industry-leading 3D audio rendering technology.

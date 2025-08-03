@@ -8,7 +8,7 @@ ref: kz-zsn-pro-2
 date: 2025-07-25
 rating: [2.8, 0.3, 0.7, 1.0, 0.5, 0.3]
 summary: "As a hybrid driver IEM in the 19 USD price range, this product exhibits clear measurement performance issues and offers no cost-performance advantage over single-driver products in the same price category."
-tags: [Balanced Armature, Dynamic Driver, Hybrid Driver, In-ear monitors, KZ, Wired Earphones]
+tags: [Balanced armature, Dynamic driver, Hybrid Driver, In-ear monitors, KZ, Wired earphones]
 permalink: /products/en/kz-zsn-pro-2/
 ---
 ## Overview

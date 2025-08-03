@@ -8,10 +8,9 @@ ref: ewa
 date: 2025-07-16
 rating: [3.0, 0.4, 0.6, 1.0, 0.5, 0.5]
 summary: "Chinese portable speaker manufacturer established in 2011. The ultra-compact Bluetooth speaker A106 Pro is their flagship product. Limited scientific effectiveness but exceptional cost-performance."
-tags: [Bluetooth Speaker, Portable Audio, Chinese Manufacturer, Ultra-compact, IP67]
+tags: [Bluetooth Speaker, Chinese Manufacturer, IP67, Portable, Ultra-compact]
 permalink: /companies/en/ewa/
 ---
-
 ## Overview
 
 EWA is a Chinese audio manufacturer established in 2011, operating under the slogan "Beyond the Limits". Their flagship product is the egg-sized ultra-compact Bluetooth speaker A106 Pro (under 20 USD), which boasts high sales performance on Amazon and other platforms. They specialize in portable wireless speakers and earphones, focusing on miniaturization and low pricing in their product development. They also offer derivative models such as A109 and A107, all positioned in the under-30 USD price range.

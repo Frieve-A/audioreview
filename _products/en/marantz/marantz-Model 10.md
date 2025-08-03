@@ -8,10 +8,9 @@ ref: marantz-Model 10
 date: 2025-07-27
 rating: [2.9, 0.9, 0.8, 0.3, 0.6, 0.3]
 summary: "Marantz's flagship integrated amplifier with custom Purifi Class D module offers top-tier measurements, but its 15,000 USD price is undermined by cost-effective alternatives providing equivalent output, functionality, and performance, including digital-integrated options."
-tags: [Integrated Amplifier, Class D, Purifi, High-end, Analog]
+tags: [Analog, Class D, High-end, Integrated amplifier, Purifi]
 permalink: /products/en/marantz-Model 10/
 ---
-
 ## Overview
 
 The Marantz Model 10 is a reference integrated amplifier using Class D "Eigentakt" technology co-developed with Purifi Audio. It delivers 250W into 8Ω and 500W into 4Ω, marking it as Marantz's most powerful integrated amplifier. Featuring a fully balanced pure analog design without DAC or streaming, the 34kg aluminum chassis includes a dedicated linear power supply for the preamplifier.

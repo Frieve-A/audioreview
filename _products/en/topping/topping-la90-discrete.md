@@ -8,10 +8,9 @@ ref: topping-la90-discrete
 date: 2025-07-14
 rating: [3.3, 0.9, 0.8, 0.4, 0.4, 0.8]
 summary: "Discrete-designed Class AB power amplifier achieving ultra-low distortion and high SNR. Achieves industry-leading measurement performance but faces cost-performance challenges."
-tags: [Power Amplifier, Class AB, Discrete, High Performance, Topping]
+tags: [Class AB, Discrete, High Performance, Power amplifier, Topping]
 permalink: /products/en/topping-la90-discrete/
 ---
-
 ## Overview
 
 The Topping LA90 Discrete is a discrete-designed Class AB power amplifier that showcases the company's consolidated technical expertise. Employing NFCA (Nested Feedback Composite Amplifier) circuit technology, it achieves industry-leading measurement performance with THD+N below 0.0001% and SNR of 143dB. It delivers 120W×2 in stereo mode (4Ω) and 220W in mono mode (8Ω), equipped with three XLR/TRS balanced inputs. The product is positioned as a demonstration of Topping's technological superiority.

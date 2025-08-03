@@ -8,7 +8,7 @@ ref: kz-zax
 date: 2025-07-23
 rating: [2.4, 0.4, 0.5, 0.5, 0.5, 0.5]
 summary: "KZ ZAXは7BA+1DDのハイブリッド構成を採用したイヤホンですが、現在の市場基準では測定性能と価格競争力に課題があります。"
-tags: [Hybrid, In-Ear-Monitor, KZ, イヤフォン]
+tags: [Hybrid, In-Ear-Monitor, KZ, イヤホン]
 permalink: /products/ja/kz-zax/
 ---
 ## 概要

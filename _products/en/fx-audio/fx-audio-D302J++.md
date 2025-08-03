@@ -8,10 +8,9 @@ ref: fx-audio-D302J++
 date: 2025-07-22
 rating: [2.6, 0.4, 0.4, 0.8, 0.5, 0.5]
 summary: "A full-digital amplifier utilizing the STMicroelectronics STA369BW. It features a 15W×2ch output and a 4-input system (USB/optical/coaxial/analog), but its measurement performance falls short of modern standards, and its technical advantages are limited."
-tags: [Digital Amplifier, Full Digital, DAC, Headphone Amplifier, Class-D, STA369BW]
+tags: [Class-D, DAC, Digital Amplifier, Full Digital, Headphone amplifier, STA369BW]
 permalink: /products/en/fx-audio-D302J++/
 ---
-
 ## Overview
 
 The fx-audio D302J++ is a full-digital amplifier centered around the STMicroelectronics STA369BW IC. An update from the previous D302J+, it features an upgraded USB receiver IC, the SAVITECH BRAVO-HD SA9123L, enabling 24bit/192kHz support via USB. This compact desktop audio solution integrates a 4-input system (USB Type-B, optical digital, coaxial digital, analog RCA), a 15W×2ch (4Ω) speaker output, and a headphone output into a single unit. Sold by North Flat Japan (NFJ) and released in March 2023, this relatively new model adheres to a conventional design approach.

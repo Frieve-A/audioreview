@@ -8,10 +8,9 @@ ref: rupert-neve-designs-rndi
 date: 2025-07-21
 rating: [2.9, 0.7, 0.7, 0.1, 0.8, 0.6]
 summary: "独自の伝統的アナログ技術が光るプレミアムDIボックス。設計は優れるものの、コストパフォーマンスは極めて低く、現代における必要性も限定的。"
-tags: [DI Box, Rupert Neve, Recording Equipment, Audio Interface]
+tags: [DI Box, Recording Equipment, Rupert Neve, オーディオインターフェース]
 permalink: /products/ja/rupert-neve-designs-rndi/
 ---
-
 ## 概要
 
 Rupert Neve Designs RNDIは、レコーディングスタジオやライブ向けに設計されたアクティブDIボックスです。ルパート・ニーヴ氏の設計思想を反映したカスタムトランスフォーマーとクラスAディスクリートFET入力段を採用し、楽器信号の高品質なダイレクトインジェクションを実現します。1000Wソリッドステートアンプの出力も処理可能な高い耐入力レベルを誇り、プロフェッショナルな環境での使用を想定しています。同製品にはステレオ仕様のRNDI-Sや、ペダルボードに組み込みやすい小型のモノラル仕様RNDI-Mといったバリエーションも存在し、コア回路は共通です。音響機器史に名を刻むルパート・ニーヴ氏の名を冠した製品として、業界で一定の評価を得ています。

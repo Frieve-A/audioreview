@@ -8,10 +8,9 @@ ref: fiio-q3-mqa
 date: 2025-07-30
 rating: [3.7, 0.8, 0.6, 1.0, 0.6, 0.7]
 summary: "Portable DAC/amp featuring THX AAA technology and MQA full decode. Achieves excellent measurement performance and best-in-class cost-performance."
-tags: [FiiO, Portable DAC, THX, MQA, Balanced Output]
+tags: [Balanced output, FiiO, MQA, Portable DAC, THX]
 permalink: /products/en/fiio-q3-mqa/
 ---
-
 ## Overview
 
 The FiiO Q3 MQA is a portable DAC/headphone amplifier released in 2022 by FiiO, a veteran Chinese audio manufacturer. It incorporates an XMOS XU316 chip and an AKM AK4452 DAC, achieving low distortion and high output through THX AAA technology. It features MQA full decode capability, 2.5mm/4.4mm balanced outputs, and a 3.5mm single-ended output. The 1800mAh battery enables long-duration operation, designed to improve sound quality in portable audio environments. It is available in the Japanese market at approximately 24,200 JPY.

@@ -8,10 +8,9 @@ ref: meridian
 date: 2025-07-06
 rating: [4.0, 0.9, 1.0, 0.1, 1.0, 1.0]
 summary: "Pioneer of digital audio. Using DSP technology in active speakers, they established an approach to scientifically control audio reproduction. While building extremely rational and high-performance systems, prices are very high with low cost-performance."
-tags: [United Kingdom, High-End Audio, DSP, Active Speakers, MQA]
+tags: [Active speakers, DSP, High-End Audio, MQA, United Kingdom]
 permalink: /companies/en/meridian/
 ---
-
 ## Overview
 
 Founded in 1977 by Bob Stuart and Allen Boothroyd, Meridian Audio has been a pioneer leading the digital technology revolution in the audio industry. They particularly made their name with "DSP speakers" - the world's first consumer active speakers integrating digital signal processing (DSP). The company questioned the traditional methodology of combining separate components like speakers, amplifiers, DACs, and crossovers, pursuing a scientific and rational approach that optimizes all elements as a single system. Recently, they're also known as developers of "MQA (Master Quality Authenticated)," a controversial new format for high-resolution audio sources.

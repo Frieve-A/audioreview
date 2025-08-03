@@ -8,10 +8,9 @@ ref: qcy-melobuds-pro
 date: 2025-07-15
 rating: [3.8, 0.7, 0.6, 1.0, 0.7, 0.8]
 summary: "QCY MeloBuds Pro offers excellent cost-performance with hybrid ANC and multi-point support, but has issues with sound quality balance and lacks LDAC/AptX support."
-tags: [Wireless Earphones, ANC, Bluetooth 5.2, Multi-point]
+tags: [ANC, Bluetooth 5.2, Multi-point, Wireless earphones]
 permalink: /products/en/qcy-melobuds-pro/
 ---
-
 ## Overview
 
 The QCY MeloBuds Pro is a wireless earphone released in 2024 by Chinese audio manufacturer QCY. It achieves 46dB hybrid active noise cancellation, LDAC support, and Hi-Res Audio certification at approximately 38 USD, earning the VGP 2025 Gold Award. Equipped with 12mm dynamic drivers and Bluetooth 5.3, it offers up to 34 hours of playbook time and IPX5 water resistance. QCY has gained attention for its recent technological improvements, and this product represents a showcase of the company's technical progress.

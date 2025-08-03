@@ -8,10 +8,9 @@ ref: denon-avr-x3800h
 date: 2025-07-27
 rating: [3.8, 0.7, 0.7, 0.9, 0.7, 0.8]
 summary: "A rationally designed AV receiver that offers 9.4ch Atmos support for around 1,699 USD. With good measurement performance, including a THD of 0.08% (2-ch driven), and abundant features, it delivers excellent cost-performance, though a key competitor is available for slightly less."
-tags: [AV Receiver, Dolby Atmos, 9 Channel, 8K Support, Room Correction]
+tags: [8K Support, 9 Channel, AV Receiver, Dolby Atmos, Room correction]
 permalink: /products/en/denon-avr-x3800h/
 ---
-
 ## Overview
 
 The Denon AVR-X3800H is a 9.4-channel AV receiver announced in 2022. As the effective successor to the AVC-X3700H, it provides comprehensive surround format support including 8K/60Hz, Dolby Atmos, DTS:X, IMAX Enhanced, and Auro-3D. While equipped with nine internal amplifiers, it features 11.4-channel processing capabilities. This allows for configurations like 5.4.4 out of the box, with the flexibility to expand to larger setups such as 7.4.4 by adding an external power amplifier. It's a mid-class AV receiver for home theaters, blending Denon's traditional audio design with modern network functionalities.

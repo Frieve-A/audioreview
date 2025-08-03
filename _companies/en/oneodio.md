@@ -8,10 +8,9 @@ ref: oneodio
 date: 2025-07-29
 rating: [2.2, 0.3, 0.4, 0.7, 0.4, 0.4]
 summary: "A Chinese company specializing in DJ and studio headphones. While it offers products in the 20-170 USD range, a lack of disclosed measurement data raises questions about scientific validity. Entry-level models show high cost-performance, but price competitiveness tends to decrease on higher-end models."
-tags: [Headphones, DJ, Studio Monitor, Chinese Brand, Entry Level]
+tags: [Chinese Brand, DJ, Entry Level, Headphones, Studio monitors]
 permalink: /companies/en/oneodio/
 ---
-
 ## Overview
 
 OneOdio is a Chinese-based audio company primarily focused on the manufacturing and sale of DJ and studio headphones. It has grown rapidly since the late 2010s, expanding into the global market through e-commerce platforms like Amazon. The company's product lineup is priced between approximately 20 to 170 USD, centering on entry-level to mid-range DJ and studio monitor headphones. Products like the Studio Pro and Monitor series feature 50mm drivers and often claim a wide frequency response of 20Hz-40kHz.

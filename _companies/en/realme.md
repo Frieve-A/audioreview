@@ -8,10 +8,9 @@ ref: realme
 date: 2025-07-11
 rating: [3.7, 0.6, 0.7, 0.8, 0.8, 0.8]
 summary: "As an audio brand under China's BBK Electronics, realme offers competitive TWS earphones with superior cost-performance. The Buds Air 6 Pro delivers excellent specifications including 50dB ANC and LDAC support at competitive pricing."
-tags: ["Wireless Earphones", "Chinese manufacturer", BBK, Entry-level, Mid-range]
+tags: [BBK, Chinese manufacturer, Entry-level, Mid-range, Wireless earphones]
 permalink: /companies/en/realme/
 ---
-
 ## Overview
 
 realme was established in 2018 as a sub-brand of OPPO and currently operates as an independent brand under China's BBK Electronics. Following success in smartphones, realme entered the audio field around 2019, primarily focusing on TWS earphones and neckband wireless earphones. The company offers product lineups including Buds Air, Buds Air Pro, and Buds Air 6 Pro, providing features such as ANC functionality, long-lasting battery life, and LDAC support in entry to mid-range price segments. Utilizing BBK Electronics' audio technology foundation, realme focuses on cost-performance-oriented product development.

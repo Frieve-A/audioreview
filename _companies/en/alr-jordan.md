@@ -8,10 +8,9 @@ ref: alr-jordan
 date: 2025-07-25
 rating: [2.1, 0.3, 0.4, 0.6, 0.0, 0.8]
 summary: "Defunct German speaker manufacturer. Inherited E.J. Jordan's metal cone technology but measurement performance falls short of modern standards, with no support available."
-tags: [Germany, Speaker, Defunct, Metal-Cone, Vintage]
+tags: [Defunct, Germany, Metal-Cone, Speakers, Vintage]
 permalink: /companies/en/alr-jordan/
 ---
-
 ## Overview
 
 ALR Jordan was a German speaker manufacturer established in 1989, where founder Karl-Heinz Fink learned metal cone technology from legendary British driver designer E.J. Jordan and adopted aluminum cone drivers across all products. The company offered three series: Entry, Classic, and Note, selling in Japan for approximately 58,000-78,000 JPY. However, the company became effectively defunct after the late 2000s and is now only available through the used market.

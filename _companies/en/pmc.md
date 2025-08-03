@@ -8,10 +8,9 @@ ref: pmc
 date: 2025-07-05
 rating: [3.5, 0.8, 0.9, 0.1, 0.8, 0.9]
 summary: "Professional monitor speaker specialist established in the UK in 1991. Utilizes proprietary ATL (Advanced Transmission Line) technology to achieve deep, controlled bass reproduction from compact enclosures. Adopted by major studios worldwide including BBC and Metropolis Mastering. While technically advanced, cost-performance is extremely poor as equivalent-performance products are available at significantly lower prices."
-tags: ["United Kingdom", "Studio Monitor", Professional, "Transmission line", BBC]
+tags: [BBC, Professional, Studio monitors, Transmission line, United Kingdom]
 permalink: /companies/en/pmc/
 ---
-
 ## Overview
 
 PMC (Professional Monitor Company) is a professional monitor speaker specialist established in the UK in 1991. Founded by former BBC engineers Peter Thomas and Adrian Loader, the company develops high-precision monitors that meet the stringent demands of the broadcast and recording industries. Their proprietary ATL (Advanced Transmission Line) technology enables deep, controlled bass reproduction from compact enclosures that would be difficult to achieve with conventional ported or sealed designs. PMC speakers are adopted as standard equipment in major recording and broadcast facilities worldwide, including BBC Maida Vale, Metropolis Mastering, and studios of Prince and Stevie Wonder. They are also used by prestigious classical recording labels such as Decca and Harmonia Mundi.

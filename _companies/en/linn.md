@@ -8,10 +8,9 @@ ref: linn
 date: 2025-07-06
 rating: [4.0, 0.9, 1.0, 0.1, 1.0, 1.0]
 summary: "Championing 'Source First' for over 50 years, this UK legend has technically led the audio industry. From the legendary LP12 to cutting-edge network audio, their products consistently deliver rational and high-standard performance. However, their exceptional technology and quality are reflected in extremely high pricing, making cost-performance evaluation necessarily harsh."
-tags: [United Kingdom, High-End Audio, Network Player, Turntable, LP12, Exakt]
+tags: [Exakt, High-End Audio, LP12, Network player, Turntable, United Kingdom]
 permalink: /companies/en/linn/
 ---
-
 ## Overview
 
 Founded in 1973 by Ivor Tiefenbrun in Scotland, Linn brought revolution to the audio industry with their "Source First" philosophy - the belief that "the quality of the music source is most important." Their first product, the Sondek LP12 turntable, continues to evolve and remains in production over 50 years later, with its upgradeable design philosophy symbolizing the company's product development approach. As the industry shifted from analog to digital, Linn quickly recognized the potential of network audio and established themselves as pioneers in high-resolution streaming. They continue to open new technological frontiers, representing one of the UK's leading high-end audio manufacturers.

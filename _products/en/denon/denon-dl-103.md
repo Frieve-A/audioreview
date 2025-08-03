@@ -8,10 +8,9 @@ ref: denon-dl-103
 date: 2025-07-12
 rating: [1.8, 0.2, 0.3, 0.2, 0.6, 0.5]
 summary: "The Denon DL-103, released in 1963, is a low-output MC cartridge developed for the broadcasting industry. With a design over 60 years old, it significantly lags behind modern technology. Cost-performance is extremely poor due to the existence of much cheaper alternatives with comparable or better performance."
-tags: [MC Cartridge, Analog, Turntable, Phono Cartridge, Denon]
+tags: [Analog, Denon, MC cartridge, Phono cartridge, Turntable]
 permalink: /products/en/denon-dl-103/
 ---
-
 ## Overview
 
 The DL-103 is a moving coil (MC) cartridge developed by Denon in 1963 for the broadcasting industry. It features a low-output design of 0.3mV with an internal impedance of 40 ohms. The specifications include a tracking force of 2.5g, weight of 8.5g, and adopts a conical stylus (0.2mm). The basic design has remained unchanged for over 60 years of continuous manufacturing, transitioning from broadcast use to home use throughout its history. Currently selling for approximately 37,000 yen on major retailers, it is a product that continues from the dawn of analog reproduction.

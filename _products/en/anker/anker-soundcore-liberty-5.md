@@ -8,10 +8,9 @@ ref: anker-soundcore-liberty-5
 date: 2025-07-19
 rating: [2.6, 0.4, 0.6, 0.3, 0.7, 0.6]
 summary: "The Anker Soundcore Liberty 5 is a 129.99 USD wireless earphone offering basic ANC functionality and Bluetooth connectivity, but faces cost-performance challenges due to the existence of more affordable alternatives with equivalent features."
-tags: [Wireless Earphones, ANC, Bluetooth, Anker]
+tags: [ANC, Anker, Bluetooth, Wireless earphones]
 permalink: /products/en/anker-soundcore-liberty-5/
 ---
-
 ## Overview
 
 The Anker Soundcore Liberty 5 is a wireless earphone with official launch announcement on May 7, 2025, with an MSRP of 129.99 USD. It features Adaptive Noise Cancelling 3.0, Bluetooth 5.4 connectivity, LDAC support, and claims up to 12 hours of continuous playback. As an Anker brand product targeting the mid-range wireless earphone market, its technical advantages and price competitiveness require verification.

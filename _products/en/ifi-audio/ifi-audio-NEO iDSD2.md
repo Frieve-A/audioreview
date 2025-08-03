@@ -8,10 +8,9 @@ ref: ifi-audio-NEO iDSD2
 date: 2025-07-22
 rating: [3.3, 0.8, 0.7, 0.3, 0.8, 0.7]
 summary: "World's first aptX Lossless compatible desktop DAC/amp. Features excellent measured performance, but its cost-performance is low considering alternatives that offer comparable or superior performance at a fraction of the price."
-tags: [DAC, Amplifier, Desktop Audio, Bluetooth, aptX Lossless]
+tags: [Amplifier, Bluetooth, DAC, Desktop, aptX Lossless]
 permalink: /products/en/ifi-audio-NEO iDSD2/
 ---
-
 ## Overview
 
 The iFi-audio NEO iDSD2 is a desktop DAC/amp that claims to be the world's first to support aptX Lossless. It delivers excellent measured performance with SNR >120dB and THD+N <0.0015%, providing up to 5,551mW of powerful output. With Bluetooth 5.4 and aptX Lossless compatibility, it enables wireless playback of lossless audio sources. The unit features quad-channel Burr Brown DACs and PureWave circuit design in a balanced dual-mono configuration. Priced at 899 USD, it positions itself in the mid-to-high tier of the desktop audio market.

@@ -8,10 +8,9 @@ ref: tanchjim
 date: 2025-07-26
 rating: [3.6, 0.8, 0.8, 0.7, 0.5, 0.8]
 summary: "Chinese emerging audio brand Tanchjim develops high-quality earphones with scientifically-based measurements using proprietary DMT technology. While technical level and design philosophy are excellent, reliability issues exist with cable quality."
-tags: [Chinese Manufacturer, Earphones, Dynamic Driver, Hi-Fi]
+tags: [Chinese Manufacturer, Dynamic driver, Earphones, Hi-Fi]
 permalink: /companies/en/tanchjim/
 ---
-
 ## Overview
 
 Tanchjim is a Chinese audio brand established in 2015, specializing in the development of Hi-Fi in-ear monitors (IEMs). The company employs a specialized team of acoustical engineers and focuses on product development centered around their proprietary DMT (Dual Magnetic Technology) driver technology. They gained industry attention with their flagship Oxygen model and continue to expand their product lineup centered around the same series. The company name, formed from the initials of Technology, Art, Nature, Change, Judge, Interest, and Merge, reflects their corporate philosophy of fusing technology and art.

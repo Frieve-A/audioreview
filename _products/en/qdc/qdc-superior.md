@@ -8,7 +8,7 @@ ref: qdc-superior
 date: 2025-07-23
 rating: [2.6, 0.6, 0.5, 0.2, 0.6, 0.7]
 summary: "Single dynamic driver IEM by qdc. While measurement performance is standard, it exhibits low cost-performance due to being priced approximately 4 times higher than equivalent products."
-tags: [Chinese Brand, Dynamic Driver, FitEar, In-ear monitors, qdc]
+tags: [Chinese Brand, Dynamic driver, FitEar, In-ear monitors, qdc]
 permalink: /products/en/qdc-superior/
 ---
 ## Overview

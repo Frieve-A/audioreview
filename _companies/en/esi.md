@@ -8,10 +8,9 @@ ref: esi
 date: 2025-07-20
 rating: [3.0, 0.4, 0.4, 1.0, 0.6, 0.6]
 summary: "German audio manufacturer ESI's flagship product, the U22 XT, offers modest technical specifications but receives the highest rating for cost-performance, being one of the most affordable products in its performance class."
-tags: [Germany, DAC, Audio Interface, USB]
+tags: [Audio interface, DAC, Germany, USB]
 permalink: /companies/en/esi/
 ---
-
 ## Overview
 
 ESI Audiotechnik GmbH is an audio equipment manufacturer headquartered in the Stuttgart region of Baden-Württemberg, Germany. Founded in 1999, the company primarily develops and manufactures professional audio equipment. Its current flagship products are centered around a cost-effective lineup for entry-to-mid-level users, such as the U22 XT series, a 2-in/2-out USB audio interface. The company operates under the slogan "German Design. Performing Worldwide," aiming to balance professional quality with competitive pricing.

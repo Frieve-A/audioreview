@@ -8,10 +8,9 @@ ref: sivga-p2-pro
 date: 2025-07-25
 rating: [3.0, 0.6, 0.8, 0.4, 0.5, 0.7]
 summary: "An innovative planar magnetic headphone featuring a sapphire diaphragm, but it faces challenges in cost-performance."
-tags: [Headphones, Planar Magnetic, Open-back, Wooden Enclosure, Sapphire Diaphragm]
+tags: [Headphones, Open-back, Planar magnetic, Sapphire Diaphragm, Wooden Enclosure]
 permalink: /products/en/sivga-p2-pro/
 ---
-
 ## Overview
 
 The SIVGA P2 PRO is a planar magnetic headphone featuring what is claimed to be the industry's first sapphire-aluminum composite diaphragm. It features a wooden enclosure made from red oak and a large 97×76mm driver manufactured using a 28nm fabrication process and deep ultraviolet lithography for precision. With an impedance of 32Ω and a sensitivity of 98dB±3dB, it offers easy-to-drive specifications and aims for a natural soundstage through its open-back design. Weighing 435g, it is standard for planar magnetic headphones and comes with a 4.4mm balanced cable and various adapters.

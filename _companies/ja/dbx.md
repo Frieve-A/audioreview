@@ -8,10 +8,9 @@ ref: dbx
 date: 2025-07-16
 rating: [3.8, 0.7, 0.6, 1.0, 0.8, 0.7]
 summary: "プロオーディオ業界で50年以上の歴史を持つアメリカの老舗企業。現在はHarman International（Samsung傘下）の一部として、シグナルプロセッサとスピーカーマネジメント機器を中心に展開している。"
-tags: [Professional Audio, Signal Processing, Compressor, Preamp, American]
+tags: [Compressor, Professional Audio, Signal Processing, アメリカ, プリアンプ]
 permalink: /companies/ja/dbx/
 ---
-
 ## 概要
 
 dbxは1971年にDavid E. Blackmerによって設立されたアメリカのプロオーディオ機器メーカーです。現在はHarman International（Samsung Electronics傘下）の一部として、ユタ州サンディに本社を構えています。代表的な製品には286sマイクプリアンプ、166xsコンプレッサー、DriveRack PA2スピーカーマネジメントシステムなどがあり、True RMS Level DetectionやTrue RMS Power Summingなどの独自技術で知られています。放送業界やライブサウンド分野で広く使用されており、286sは現在299USDの価格で販売されています。

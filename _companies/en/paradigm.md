@@ -8,10 +8,9 @@ ref: paradigm
 date: 2025-07-05
 rating: [3.1, 0.7, 0.9, 0.5, 0.8, 0.2]
 summary: "A veteran Canadian speaker manufacturer with over 40 years of experience. Their flagship Persona series adopts beryllium drivers and ARC technology, boasting high technical standards. However, they are significantly disadvantaged in pricing compared to competitors, with products of equivalent performance available at less than half the price. While quality and reliability are highly evaluated, there are aspects that depend on subjective sound quality arguments lacking scientific basis."
-tags: [Canada, Speaker, Audio, Beryllium, High-end]
+tags: [Audio, Beryllium, Canada, High-end, Speakers]
 permalink: /companies/en/paradigm/
 ---
-
 ## Overview
 
 A Canadian high-end speaker manufacturer founded in 1982. Under the banner "Crafted in Canada" at their own factory near Toronto, they deploy a wide lineup from the Monitor SE series to the flagship Persona series. Through joint research with Canada's National Research Council (NRC), they work on improving acoustic technology, particularly attracting attention with products that combine beryllium drivers and Anthem Room Correction (ARC) technology.

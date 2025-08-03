@@ -8,10 +8,9 @@ ref: martin-logan
 date: 2025-07-05
 rating: [4.0, 0.9, 0.8, 0.5, 0.9, 0.9]
 summary: "Founded in 1983, this Kansas-based American electrostatic speaker specialist employs proprietary ESL technology that places ultra-thin, ultra-light film between electrodes and vibrates it with high voltage. This technology achieves transparency and three-dimensional soundstage reproduction that is difficult for conventional dynamic speakers to realize. The concert hall second-floor-like soundstage and extremely delicate, elegant sound quality demonstrate unparalleled appeal, particularly in string and vocal reproduction."
-tags: [American, Electrostatic, ESL, Transparency, Soundstage]
+tags: [America, ESL, Electrostatic, Soundstage, Transparency]
 permalink: /companies/en/martin-logan/
 ---
-
 ## Overview
 
 Founded in 1983 by Gayle Martin Sanders and Ron Logan, Martin Logan has continued innovation as a global leader in electrostatic speaker technology for over 40 years. The company's electrostatic speakers (ESL) employ proprietary technology that places ultra-thin, ultra-light conductive film between two perforated metal electrodes (stators) and vibrates it with high voltage.

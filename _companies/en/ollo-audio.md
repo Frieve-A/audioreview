@@ -8,10 +8,9 @@ ref: ollo-audio
 date: 2025-07-26
 rating: [3.6, 0.8, 0.7, 0.3, 0.9, 0.9]
 summary: "Slovenian handcrafted studio headphone manufacturer featuring individual calibration and scientifically-based high-precision monitoring, though facing challenges in cost-performance aspects."
-tags: [Studio Monitor, Headphones, Professional Audio, Slovenia, Handmade]
+tags: [Handmade, Headphones, Professional Audio, Slovenia, Studio monitors]
 permalink: /companies/en/ollo-audio/
 ---
-
 ## Overview
 
 OLLO Audio is a manufacturer producing handcrafted studio headphones in the foothills of the Slovenian Alps. Beginning full-scale product development in the late 2010s, they specialize in headphones designed for professional monitoring applications. The company has earned trust from mixing and recording engineers working with renowned artists including Adele, U2, Ed Sheeran, Rihanna, and Sting, characterized by their high-precision acoustic management through the individual calibration system UCS II. Current flagship products include the flagship X1, open-back S4X, and closed-back S4R models.

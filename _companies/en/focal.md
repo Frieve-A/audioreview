@@ -8,10 +8,9 @@ ref: focal
 date: 2025-07-05
 rating: [4.0, 0.8, 0.9, 0.6, 0.8, 0.9]
 summary: "French high-end audio equipment manufacturer founded in 1979. With proprietary beryllium diaphragm technology and W-Sandwich technology, they serve markets from professional to high-end audiophile. Recently entered the headphone market with their acclaimed Utopia series. Consistently manufacturing in Saint-Étienne, France, they continue to deliver \"Made in France\" quality worldwide."
-tags: [France, Speaker, Headphones, Beryllium, W-Sandwich, High-end]
+tags: [Beryllium, France, Headphones, High-end, Speakers, W-Sandwich]
 permalink: /companies/en/focal/
 ---
-
 ## Overview
 
 Founded in 1979 in Saint-Étienne, France, this high-end audio equipment manufacturer was established when founder Jacques Mahul embarked on developing proprietary diaphragm technology to overcome the limitations of conventional speaker technology. The result was the beryllium diaphragm technology that remains the company's signature to this day.

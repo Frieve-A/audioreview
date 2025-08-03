@@ -8,7 +8,7 @@ ref: moondrop-para
 date: 2025-07-28
 rating: [2.7, 0.5, 0.7, 0.4, 0.6, 0.5]
 summary: "Moondrop Paraは100mmプラナーマグネティックドライバーとFDT技術を特徴とするオープンバック型ヘッドホンです。先進技術を投入しているものの、音響特性とコストパフォーマンスに明確な課題が残ります。"
-tags: [FDT, Moondrop, オープンバック, プラナーマグネティック, ヘッドフォン, 中価格帯]
+tags: [FDT, Moondrop, オープンバック, プラナーマグネティック, ヘッドホン, 中価格帯]
 permalink: /products/ja/moondrop-para/
 ---
 ## 概要

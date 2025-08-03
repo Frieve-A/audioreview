@@ -8,10 +8,9 @@ ref: solid-state-logic
 date: 2025-07-17
 rating: [4.2, 0.8, 0.9, 0.9, 0.7, 0.9]
 summary: "Applies professional console technology to consumer audio interfaces, delivering class-leading measurement performance and reliability at a competitive price."
-tags: [Audio Interface, UK, Professional Equipment, Mixing Console, Headphone Amplifier]
+tags: [Audio interface, Headphone amplifier, Mixing Console, Professional Equipment, United Kingdom]
 permalink: /companies/en/solid-state-logic/
 ---
-
 ## Overview
 
 Solid State Logic (SSL) is a British professional audio equipment manufacturer established in 1969 by Colin Sanders. The company revolutionized the industry with the SL 4000 B series in 1976 and the SL 4000 E series in 1979, growing to the point where 83% of Billboard chart number-one singles were produced on SSL consoles by 1996. In recent years, they have applied technology developed for professional consoles to consumer audio interfaces, expanding with the SSL 2 series and SSL 18. As a brand that has remained at the forefront of music production technology for over 50 years, they are highly regarded in the recording industry.

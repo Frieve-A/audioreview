@@ -8,10 +8,9 @@ ref: crown-amcron-dc-300a-seriesii
 date: 2025-07-21
 rating: [2.5, 0.9, 0.4, 0.3, 0.5, 0.4]
 summary: "1996年発売の業務用パワーアンプの名機だが、現代の基準では技術的陳腐化とコストパフォーマンスの問題が顕著な製品"
-tags: [パワーアンプ, Crown, Amcron, 業務用, ヴィンテージ, Class AB]
+tags: [Amcron, Class AB, Crown, パワーアンプ, ビンテージ, 業務用]
 permalink: /products/ja/crown-amcron-dc-300a-seriesii/
 ---
-
 ## 概要
 
 Crown Amcron DC-300A Series IIは1996年に発売された業務用2チャンネルパワーアンプです。Crown社（当時はAmcronブランド）が開発した本機は、8Ω負荷時150W、4Ω負荷時250Wの出力を誇り、業務用音響分野で広く採用されました。JTS（Junction Temperature Simulation）回路による保護機能や、DC結合設計による広帯域特性が特徴的でした。発売当時は革新的な設計として評価され、多くのスタジオやライブ会場で使用されてきた歴史があります。

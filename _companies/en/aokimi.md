@@ -8,10 +8,9 @@ ref: aokimi
 date: 2025-07-16
 rating: [2.5, 0.3, 0.4, 1.0, 0.5, 0.3]
 summary: "While providing basic functionality as a low-price wireless earphone manufacturer, measurement performance and technology level fall significantly below industry averages"
-tags: [Wireless Earphones, Bluetooth, Budget, ANC, Cost-Performance]
+tags: [ANC, Bluetooth, Budget, Cost-Performance, Wireless earphones]
 permalink: /companies/en/aokimi/
 ---
-
 ## Overview
 
 AOKIMI is an audio equipment manufacturer primarily focused on wireless earphones and Bluetooth earphones. The company offers multiple models including V12, V15, and V16, featuring basic functionality such as Bluetooth 5.3/5.4 support, ENC noise cancellation, and IPX7 water resistance at low price points. Sales are primarily through Amazon Japan and similar platforms, with practical features like 36-hour playback and Type-C charging being promoted. However, detailed technical specifications and measurement data are not publicly available, making scientific audio quality evaluation difficult.

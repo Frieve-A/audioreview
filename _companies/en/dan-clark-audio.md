@@ -8,10 +8,9 @@ ref: dan-clark-audio
 date: 2025-07-05
 rating: [4.0, 0.9, 0.9, 0.7, 0.7, 0.8]
 summary: "US planar magnetic headphone specialist founded in 2012. Achieves industry-leading low distortion characteristics through proprietary V-planar technology and AMTS. While technologically innovative with high performance in its price class, competing products with similar performance exist at lower prices, making absolute cost-performance less than optimal."
-tags: [America, "Planar Magnetic", Headphones, "Innovative technology", "Dan Clark"]
+tags: [America, Dan Clark, Headphones, Innovative technology, Planar magnetic]
 permalink: /companies/en/dan-clark-audio/
 ---
-
 ## Overview
 
 Dan Clark Audio (formerly MrSpeakers) is a planar magnetic headphone specialist founded in 2012 by Dan Clark in the United States. The founder, Dan Clark, is a former engineer at Apple, Compaq, and Sun Microsystems, bringing 30 years of high-tech industry experience and acoustic engineering expertise to headphone development. In the late 1990s, he also worked as a loudspeaker design consultant for high-end audio companies and was involved in developing the Platinum Audio series 2 speakers. Starting with the world's first 3D-printed headphones "Alpha Dog," the company has gained high acclaim with its AEON, Stealth, and Expanse series featuring proprietary V-planar technology and AMTS (Acoustic Metamaterial Tuning System).

@@ -8,10 +8,9 @@ ref: questyle
 date: 2025-07-06
 rating: [3.0, 0.7, 0.7, 0.5, 0.5, 0.6]
 summary: "Chinese audio equipment manufacturer founded in 2012 in Shenzhen. Specializes in DACs and headphone amplifiers using patented Current Mode Amplification technology. Products like M15i and CMA15 receive recognition for performance, but face challenges in cost-performance ratio and customer support. While technically competent, advantages over similarly-priced competitors remain limited."
-tags: [China, DAC, Headphone Amplifier, CMA Technology, Portable Audio]
+tags: [CMA Technology, China, DAC, Headphone amplifier, Portable]
 permalink: /companies/en/questyle/
 ---
-
 ## Overview
 
 Questyle is an audio equipment manufacturer founded in 2012 in Shenzhen, China. Established by Jason Wang, the company focuses on developing products using patented Current Mode Amplification (CMA) technology. With over 50 patents and 20+ international awards including CES Innovation Award and iF Industrial Design Award, this relatively small company of 24 employees manufactures products through strategic partnership with Foxconn. Their main products include M15i and CMA15 DACs and headphone amplifiers, ranging from portable to desktop applications. Operating internationally with offices in China and the United States, Questyle has established itself as a recognized brand in the premium audio market.

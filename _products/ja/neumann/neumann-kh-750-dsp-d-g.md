@@ -8,7 +8,7 @@ ref: neumann-kh-750-dsp-d-g
 date: 2025-07-28
 rating: [3.7, 0.8, 0.7, 0.7, 0.8, 0.7]
 summary: "Neumannの強力なエコシステムに支えられた高精度なDSPサブウーファー。同等の機能を持つ競合も存在するが、KHシリーズモニターとの統合性に大きな価値がある製品。"
-tags: [DSP, Neumann, Professional Audio, Subwoofer, スタジオモニター]
+tags: [DSP, Neumann, Professional Audio, サブウーファー, スタジオモニター]
 permalink: /products/ja/neumann-kh-750-dsp-d-g/
 ---
 ## 概要

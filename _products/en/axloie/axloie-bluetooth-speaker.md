@@ -8,10 +8,9 @@ ref: axloie-bluetooth-speaker
 date: 2025-07-20
 rating: [1.6, 0.2, 0.3, 0.6, 0.2, 0.3]
 summary: "Axloie's Bluetooth speaker offers basic features like LED lighting and Bluetooth pairing at a low price point, but suffers from significant issues in fundamental audio performance aspects."
-tags: [Bluetooth, Portable Speaker, Budget]
+tags: [Bluetooth, Budget, Portable speaker]
 permalink: /products/en/axloie-bluetooth-speaker/
 ---
-
 ## Overview
 
 Axloie is a Chinese audio brand that primarily develops cost-performance oriented Bluetooth speakers. The company's Bluetooth speakers come equipped with all the basic functions required for modern portable speakers, including colorful LED lights, TWS (True Wireless Stereo) functionality, and IP waterproof rating compliance, designed for entry-level users. The product lineup includes multiple models such as Mega, Bang II, and Macaron, each offering different sizes and features.

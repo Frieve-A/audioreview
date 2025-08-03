@@ -8,10 +8,9 @@ ref: qdc
 date: 2025-07-16
 rating: [2.6, 0.6, 0.7, 0.1, 0.6, 0.6]
 summary: "Chinese Shenzhen-based IEM manufacturer rooted in military communication technology. Specializes in multi-BA driver technology and tuning functions but faces significant cost-performance challenges"
-tags: [Chinese Manufacturer, IEM, BA Driver, Tuning Function, Premium Price]
+tags: [BA Driver, Chinese Manufacturer, In-ear monitors, Premium Price, Tuning Function]
 permalink: /companies/en/qdc/
 ---
-
 ## Overview
 
 QDC (Shenzhen Qili Audio Application Co., Ltd.) is an in-ear monitor specialist manufacturer based in Shenzhen, China. The company was established as the audio division of Shenzhen Qili Industrial Co., Ltd., which has been developing military and police communication equipment for over 10 years, with "Enthusiasm for Music" as their corporate philosophy. Their primary characteristics include high-priced product lines combining multiple BA drivers and switch functions that allow users to adjust sound quality. The flagship Anole V14 features a 14-driver configuration at an extremely high price of 2,999 USD, demonstrating their technical prowess while simultaneously raising concerns about cost-performance.

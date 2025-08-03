@@ -8,10 +8,9 @@ ref: topping-b200
 date: 2025-07-19
 rating: [3.2, 0.9, 0.8, 0.3, 0.4, 0.8]
 summary: "High-performance monaural power amplifier featuring NFCA circuit technology. Achieves industry-leading measurement performance but faces cost-performance challenges in a stereo configuration."
-tags: [Power Amplifier, Mono, Discrete, NFCA, High-End]
+tags: [Discrete, High-End, Mono, NFCA, Power amplifier]
 permalink: /products/en/topping-b200/
 ---
-
 ## Overview
 
 The Topping B200 is a monaural power amplifier featuring the company's proprietary NFCA (Nested Feedback Composite Amplifier) circuit technology. Released in 2024, this product achieves 200W output (4Ω/8Ω) with extremely low distortion of THD+N 0.000075% or below. It features three XLR/TRS combo inputs, two-stage gain switching, and 12V trigger functionality, designed for use in high-end audio systems. Topping is known as a Chinese audio manufacturer that emphasizes measurement performance in product development, and the B200 continues this philosophy.

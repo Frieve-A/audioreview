@@ -8,10 +8,9 @@ ref: kbear
 date: 2025-07-24
 rating: [2.6, 0.4, 0.4, 0.7, 0.6, 0.5]
 summary: "IEM brand established in 2014 by Shenzhen Lingyin Technology in China. Offers some competitiveness in the low-price range, but a clear gap exists with industry leaders in scientific transparency and technological innovation."
-tags: [IEM, Chinese Manufacturer, Low-price Range, Hybrid Driver]
+tags: [Chinese Manufacturer, Hybrid Driver, In-ear monitors, Low-price Range]
 permalink: /companies/en/kbear/
 ---
-
 ## Overview
 
 KBear is an audio brand established in 2014 by Shenzhen Lingyin Technology Co., Ltd. in China. Founded by a young audio enthusiast team aiming to develop earphones and cables that "combine supreme sound quality and build quality at attractive prices." The main products are in-ear monitors (IEMs) and upgrade cables, with offerings like the KS2, Storm, Xuanwu, and Believe, primarily deployed in the 20 USD to 170 USD price range. The lineup includes products featuring hybrid driver configurations and pure beryllium diaphragms.

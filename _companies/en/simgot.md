@@ -8,10 +8,9 @@ ref: simgot
 date: 2025-07-06
 rating: [3.1, 0.8, 0.6, 0.5, 0.6, 0.6]
 summary: "Engaged in audio equipment development since 1996 and established the SIMGOT brand in 2015, this Chinese audio company leverages OEM supply experience and achieves reasonable standards in dynamic driver technology, though technological innovation remains limited. The EA500 demonstrates excellent performance at 79USD, but with competing products like the Moondrop Chu at 20USD and Truthear Hexa at 79USD offering equivalent or superior performance, absolute advantages are limited."
-tags: [China, IEM, Dynamic Driver, Chi-Fi, SIMGOT]
+tags: [Chi-Fi, China, Dynamic driver, In-ear monitors, SIMGOT]
 permalink: /companies/en/simgot/
 ---
-
 ## Overview
 
 SIMGOT was established as Jiangxi Hengyun Electronics Factory in 1996 and reorganized as Shenzhen Lisheng Electronics Factory in 2004, making it a Chinese audio equipment manufacturer. The SIMGOT brand was officially launched in 2015, combining "Simple & Elegant" with "Genuine & Outstanding Technology" as its brand concept. The company has extensive experience as an OEM supplier to major manufacturers including LG, Samsung, and SONY, accumulating rich experience in developing acoustic diaphragms and driver units. Currently, they deploy diverse product lineups including the EA series, EM series, and EW series.

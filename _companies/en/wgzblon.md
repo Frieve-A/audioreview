@@ -8,10 +8,9 @@ ref: wgzblon
 date: 2025-08-01
 rating: [2.4, 0.4, 0.3, 0.7, 0.5, 0.5]
 summary: "Chinese budget audio manufacturer operating under the BLON brand, focusing on IEMs. Good cost-performance but facing challenges in technology level and quality control"
-tags: [Chinese Manufacturer, Budget, IEM, Headphones, DAC]
+tags: [Budget, Chinese Manufacturer, DAC, Headphones, In-ear monitors]
 permalink: /companies/en/wgzblon/
 ---
-
 ## Overview
 
 WGZBLON (commonly known as BLON) is a Chinese audio equipment manufacturer established in 2014. Their flagship product, the BL-03 in-ear monitor, gained attention around 2019 and has achieved certain support among budget-conscious audiophile communities. The company develops a wide product lineup including IEMs, headphones, and DAC/amp dongles, demonstrating particular competitiveness in the sub-50 USD budget segment. Their products are named after the acronym "Believe, Let the music burn, Opportunity, Never give up," with the corporate philosophy of providing accessible audio experiences at affordable prices.

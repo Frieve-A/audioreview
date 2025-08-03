@@ -8,10 +8,9 @@ ref: edifier-neobuds-pro
 date: 2025-07-11
 rating: [2.2, 0.2, 0.4, 0.5, 0.7, 0.4]
 summary: "The Edifier NeoBuds Pro 2 suffers from severe frequency response issues including 12kHz peak requiring 13dB correction, with actual ANC performance at 38dB maximum despite 50dB claims, resulting in poor scientific effectiveness."
-tags: ["Active noise cancelling", Hi-Res, LDAC, LHDC, "Wireless Earphones"]
+tags: [Active noise cancelling, Hi-Res, LDAC, LHDC, Wireless earphones]
 permalink: /products/en/edifier-neobuds-pro/
 ---
-
 ## Overview
 
 The Edifier NeoBuds Pro 2 is a true wireless earphone launched in 2023 that won the VGP2024 Gold Award. It features a hybrid configuration combining dynamic drivers with Knowles balanced armature drivers. The earphones offer up to 50dB of active noise cancellation through EDIFIER WIDE-BAND MULTI-CHANNEL ANC technology, support for LDAC and LHDC high-quality codecs, and Hi-Res Audio certification, delivering high-end features at 19,990 JPY. Additional practical features include 360-degree spatial audio, IP54 water resistance, and up to 22 hours of continuous playback.

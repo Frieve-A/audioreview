@@ -8,10 +8,9 @@ ref: cca
 date: 2025-07-24
 rating: [2.9, 0.4, 0.5, 1.0, 0.5, 0.5]
 summary: "Chinese budget IEM specialist manufacturer. Leads the ChiFi boom alongside sister company KZ, but measurement performance remains budget-tier and far from transparency levels. Excellent cost-performance but challenges in technology level and scientific validity"
-tags: [IEM, Chinese earphones, ChiFi, Budget, KZ]
+tags: [Budget, ChiFi, Chinese earphones, In-ear monitors, KZ]
 permalink: /companies/en/cca/
 ---
-
 ## Overview
 
 CCA (Clear Concept Audio) is a Chinese budget IEM specialist manufacturer established in 2018. As a sister company of Knowledge Zenith (KZ), it has become a major player in the ChiFi boom by offering multi-driver IEMs in the ultra-low price range of 15-50 USD. With diverse models like CRA, C10, C12, and Rhapsody, the company has penetrated the market with multi-driver configurations and relatively good tuning despite low prices.

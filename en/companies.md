@@ -8,7 +8,6 @@ permalink: /companies/en/
 <!-- Page header with title, count, and sort -->
 <div class="page-header">
   <div class="page-title-section">
-    {% assign all_companies = site.companies | where: 'lang', 'en' | sort: 'date' | reverse %}
     <h1 class="page-title-with-search">{{ site.data.strings.en.companies }} <span class="search-icon">🔍</span> <span class="review-count" id="result-count">{{ all_companies.size }} {{ site.data.strings.en.companies_available }}</span></h1>
   </div>
   <div class="sort-controls">
@@ -41,40 +40,9 @@ permalink: /companies/en/
 
 <p class="section-help-text">Click the title to view detailed reviews</p>
 
+<!-- Empty container for dynamic content -->
 <div class="home-grid" id="companies-grid">
-  {% for company in all_companies %}
-    <div class="company-card" 
-         data-overall="{{ company.rating[0] | default: 0 }}"
-         data-scientific="{{ company.rating[1] | default: 0 }}"
-         data-technical="{{ company.rating[2] | default: 0 }}"
-         data-cost="{{ company.rating[3] | default: 0 }}"
-         data-reliability="{{ company.rating[4] | default: 0 }}"
-         data-design="{{ company.rating[5] | default: 0 }}"
-         data-tags="{% if company.tags %}{{ company.tags | join: ',' }}{% endif %}">
-      {% assign current_date = 'now' | date: '%s' %}
-      {% assign company_date = company.date | date: '%s' %}
-      {% assign days_diff = current_date | minus: company_date | divided_by: 86400 %}
-      {% if days_diff <= 3 %}
-        <span class="new-badge">NEW</span>
-      {% endif %}
-      <h3><a href="{{ company.url }}">{{ company.target_name }}</a></h3>
-      <div class="company-rating">
-        <span class="rating-label" id="rating-label">Overall Rating</span>
-        <span class="rating-value">
-          {% if company.rating and company.rating.size > 0 %}
-            {{ company.rating[0] | round: 1 }}
-          {% else %}
-            N/A
-          {% endif %}
-        </span>
-        <span class="rating-stars">★</span>
-      </div>
-      <p class="company-summary">{{ company.summary }}</p>
-      <time class="company-date" datetime="{{ company.date | date: '%Y-%m-%d' }}">
-        {{ company.date | date: '%B %d, %Y' }}
-      </time>
-    </div>
-  {% endfor %}
+  <!-- All items will be generated dynamically by JavaScript -->
 </div>
 
 {% if all_companies.size == 0 %}

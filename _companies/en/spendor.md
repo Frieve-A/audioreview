@@ -8,10 +8,9 @@ ref: spendor
 date: 2025-08-01
 rating: [2.7, 0.7, 0.6, 0.3, 0.6, 0.5]
 summary: "British heritage speaker manufacturer Spendor builds on acoustic engineering knowledge from the BBC era, with a commitment to proprietary driver design and UK manufacturing. While measurement performance is good, adaptation to the latest technologies is limited, and its cost-performance is inferior compared to competitors with equivalent or superior functionality."
-tags: [Speakers, British, Heritage, BBC, Acoustic Engineering]
+tags: [Acoustic Engineering, BBC, Heritage, Speakers, United Kingdom]
 permalink: /companies/en/spendor/
 ---
-
 ## Overview
 
 Spendor was founded in 1969 by BBC acoustic engineer Spencer Hughes and his wife Dorothy. The company name derives from the founders' names, starting with the BC1 speaker that leveraged acoustic engineering knowledge from the BBC. Since 2000, it has been managed by Philip Swift, co-founder of Audiolab. The company operates three product lines: A-Line, D-Line, and Classic, with all products designed and manufactured at their own facility in Sussex, England. Spendor maintains a traditional acoustic design philosophy inherited from the BBC era, with a history of creating legendary models like the LS3/5a and BC1.

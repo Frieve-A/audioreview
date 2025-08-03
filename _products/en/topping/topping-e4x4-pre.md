@@ -8,10 +8,9 @@ ref: topping-e4x4-pre
 date: 2025-07-19
 rating: [2.8, 0.9, 0.5, 0.8, 0.3, 0.3]
 summary: "A USB audio interface with excellent measurement performance but with concerns about reliability."
-tags: [Audio Interface, USB, Recording, Topping, Professional Audio]
+tags: [Audio interface, Professional Audio, Recording, Topping, USB]
 permalink: /products/en/topping-e4x4-pre/
 ---
-
 ## Overview
 
 The Topping E4X4-PRE is a 4-input, 4-output USB audio interface developed by Chinese company Topping. The company has gained attention in recent years for DAC and amplifier products focused on measurement performance, and this product applies that technical expertise to the recording equipment field. It features 24bit/192kHz support, dual USB-C connectivity, and proprietary ultra-linear microphone preamplifiers, designed for professional recording environments.

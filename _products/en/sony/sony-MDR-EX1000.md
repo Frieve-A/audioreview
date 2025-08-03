@@ -8,7 +8,7 @@ ref: sony-mdr-ex1000
 date: 2025-07-22
 rating: [2.1, 0.4, 0.8, 0.4, 0.3, 0.2]
 summary: "Premium earphones featuring 16mm drivers and liquid crystal polymer technology, but suffer from critical +6dB 5.5kHz peak causing audio quality issues and poor cost-performance"
-tags: [Dynamic Driver, Earphones, In-ear monitors, Premium]
+tags: [Dynamic driver, Earphones, In-ear monitors, Premium]
 permalink: /products/en/sony-mdr-ex1000/
 ---
 ## Overview

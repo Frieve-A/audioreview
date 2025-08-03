@@ -8,10 +8,9 @@ ref: cleer
 date: 2025-07-22
 rating: [2.8, 0.5, 0.6, 0.7, 0.5, 0.5]
 summary: "US audio manufacturer founded in 2012. Specializes in proprietary ironless driver technology and extended battery life products, but scientific audio quality improvement effects are limited"
-tags: [Wireless-Headphones, Noise-Cancelling, Open-Ear, Active-Noise-Cancellation]
+tags: [Active-Noise-Cancellation, Noise-Cancelling, Open-ear, Wireless-Headphones]
 permalink: /companies/en/cleer/
 ---
-
 ## Overview
 
 Cleer is a US-based audio manufacturer established in 2012. The company focuses on wireless headphones and earphones with "Hi-Res Audio certification," featuring proprietary ironless driver technology and industry-leading 100-hour battery life. Main products include the Enduro 100 headphones, Flow II noise-cancelling headphones, ARC 3 open-ear earphones, and the Ally Plus series. Despite being a relatively new manufacturer, Cleer has gained industry recognition with awards from Gizmodo and Rolling Stone.

@@ -8,10 +8,9 @@ ref: hifiman-sundara
 date: 2025-07-22
 rating: [4.0, 0.8, 0.7, 1.0, 0.8, 0.7]
 summary: "The HiFiMAN SUNDARA is a mid-range open-back headphone employing planar magnetic technology, achieving excellent measurement performance and scientifically valid sound quality improvements. It offers high competitiveness in its price range."
-tags: [Open-back, Planar Magnetic, HiFiMAN, Headphones]
+tags: [Headphones, HiFiMAN, Open-back, Planar magnetic]
 permalink: /products/en/hifiman-sundara/
 ---
-
 ## Overview
 
 The HiFiMAN SUNDARA is a mid-range open-back headphone developed by HiFiMAN, a Chinese manufacturer specializing in planar magnetic headphones. It features the company's proprietary NEO Supernano Diaphragm (NSD) technology, utilizing a diaphragm 1-2 microns thick, claimed to be 80% thinner than previous designs. With specifications of approximately 372g weight, a nominal impedance of 32Ω, and 94dB/mW sensitivity, it features an aluminum headband and a matte black finish. With a current market price of around 300 USD, it achieves wide-band reproduction from 6Hz to 75kHz and is positioned as a product that combines low distortion with ease of drive through planar magnetic technology.

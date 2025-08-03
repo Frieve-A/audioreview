@@ -8,10 +8,9 @@ ref: ultrasone
 date: 2025-07-17
 rating: [2.7, 0.4, 0.6, 0.2, 0.8, 0.7]
 summary: "German veteran headphone manufacturer Ultrasone features S-Logic technology and 'Made in Germany' quality, but measurement performance lags behind competitors with higher pricing."
-tags: [Headphones, German, Audio, Professional, Studio]
+tags: [Audio, Germany, Headphones, Professional, Studio]
 permalink: /companies/en/ultrasone/
 ---
-
 ## Overview
 
 Ultrasone AG was founded in December 1990 in Tutzing, Germany by Florian M. König, with the first products launched in 1991. The company has built over 30 years of expertise in studio, DJ, and consumer headphones, centered around their proprietary S-Logic technology. They emphasize "Made in Germany" quality through handcrafted manufacturing in their own facilities. The company holds more than 60 patents and features distinctive EMI shielding technology (ULE) for health consideration.

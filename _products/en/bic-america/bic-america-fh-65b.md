@@ -8,10 +8,9 @@ ref: bic-america-fh-65b
 date: 2025-07-24
 rating: [2.9, 0.4, 0.5, 0.7, 0.7, 0.6]
 summary: "The BIC America FH-65B is a 6.5-inch 2-way bookshelf speaker featuring a high-sensitivity horn tweeter design. However, due to a lack of objective measurement data to support its performance and challenges in cost-performance, its overall rating is below average."
-tags: [Bookshelf Speakers, Horn Tweeter, Home Theater, BIC America]
+tags: [BIC America, Bookshelf speakers, Home Theater, Horn tweeter]
 permalink: /products/en/bic-america-fh-65b/
 ---
-
 ## Overview
 
 The BIC America FH-65B is the current model in the Formula Series, first launched in 1973. It is a 6.5-inch 2-way bookshelf speaker that handles 175W RMS/350W peak power with an 8-ohm impedance, featuring a 40Hz-23kHz frequency response and a high 96dB sensitivity design. It combines a 6.5-inch injection-molded woofer with a butyl rubber surround and incorporates a 6.5-inch mid/high-frequency horn tweeter using a neodymium magnet. Designed for both home theater and music reproduction, it includes flush wall mount hardware and comes with a 5-year parts and labor warranty.

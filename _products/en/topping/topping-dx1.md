@@ -8,10 +8,9 @@ ref: topping-dx1
 date: 2025-07-29
 rating: [4.0, 0.8, 0.7, 1.0, 0.7, 0.8]
 summary: "Entry-class DAC/headphone amplifier featuring AK4493S DAC chip. At a price of 99 USD, it achieves transparent-level measured performance with THD+N below 0.0002% and an SNR of 120dB, offering the best cost-performance in its price range."
-tags: [DAC, Headphone Amplifier, Desktop Audio, Entry Class, USB DAC]
+tags: [DAC, Desktop, Entry Class, Headphone amplifier, USB DAC]
 permalink: /products/en/topping-dx1/
 ---
-
 ## Overview
 
 The Topping DX1 is an entry-class DAC/headphone amplifier released by Chinese audio manufacturer Topping. Despite its affordable price of 99 USD, it incorporates AKM's VELVET Sound technology with the AK4493S DAC chip and XMOS XU208 USB controller, supporting high-resolution audio up to PCM 384kHz/32bit and DSD256. The compact aluminum housing measures 10×9.8×3.2cm and features 6.35mm and 3.5mm headphone outputs, RCA outputs, High/Low gain switching, and operates solely on USB power for high convenience. The measured performance of THD+N below 0.0002% (DAC) and an SNR of 120dB (DAC) is extremely excellent for this price range, garnering significant attention as an entry-class DAC/amplifier.

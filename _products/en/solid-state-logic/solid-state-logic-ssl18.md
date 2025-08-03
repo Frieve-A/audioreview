@@ -8,10 +8,9 @@ ref: solid-state-logic-ssl18
 date: 2025-07-22
 rating: [3.7, 0.8, 0.8, 0.5, 0.8, 0.8]
 summary: "The SSL18 is a high-performance 26-input, 28-output USB audio interface featuring SSL's traditional preamp technology. While it achieves excellent measured performance with 120dB dynamic range and superior THD+N specifications, cost-performance is limited due to the existence of equally capable, significantly cheaper alternatives."
-tags: [Audio Interface, SSL, Recording Equipment, Pro Audio, Rack Mount]
+tags: [Audio interface, Pro Audio, Rack Mount, Recording Equipment, SSL]
 permalink: /products/en/solid-state-logic-ssl18/
 ---
-
 ## Overview
 
 The Solid State Logic SSL18 is the company's first 19-inch rack-mount audio interface, announced in 2025. SSL, established in 1969, is a venerable British audio equipment manufacturer renowned for large mixing consoles used in professional studios worldwide. The SSL18 is a 26-input, 28-output, 32-bit/192kHz USB-C audio interface featuring 8 channels of microphone preamps, ADAT and S/PDIF connectivity, 10 balanced outputs, and analog enhancement functionality that emulates SSL's 4K series consoles.

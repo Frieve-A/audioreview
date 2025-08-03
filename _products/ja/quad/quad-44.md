@@ -8,10 +8,9 @@ ref: quad-44
 date: 2025-07-21
 rating: [2.9, 0.6, 0.6, 0.5, 0.7, 0.5]
 summary: "1980年代のCMOS切り替え技術を採用したモジュラー設計のプリアンプ。当時としては革新的だったが、現代の透明性基準からは劣る"
-tags: [プリアンプ, アナログ, Quad, 英国, ヴィンテージ]
+tags: [Quad, アナログ, ビンテージ, プリアンプ, 英国]
 permalink: /products/ja/quad-44/
 ---
-
 ## 概要
 
 Quad 44は1980年代にイギリスのQuad Electroacousticsが製造したCMOS切り替え技術を採用したプリアンプです。Peter J. Walkerによって設立されたQuadは「Quality Unit Amplified Domestic」の略称で、1953年のQuad IIパワーアンプや世界初の量産静電型スピーカーESL-57などの革新的製品で知られています。44は交換可能な入力モジュールを特徴とする高い汎用性を持つモジュラー設計を採用し、当時としては先進的な製品でした。

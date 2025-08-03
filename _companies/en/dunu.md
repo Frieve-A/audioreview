@@ -8,10 +8,9 @@ ref: dunu
 date: 2025-07-27
 rating: [3.0, 0.6, 0.7, 0.5, 0.6, 0.6]
 summary: "Mid-tier earphone manufacturer founded in 1994. Features proprietary technologies like ECLIPSƎ and Q-Lock systems but faces challenges in scientific validity and cost-performance."
-tags: [Mid-tier Manufacturer, Earphone, IEM, China]
+tags: [China, Earphones, In-ear monitors, Mid-tier Manufacturer]
 permalink: /companies/en/dunu/
 ---
-
 ## Overview
 
 DUNU is a Chinese audio manufacturer established in 1994, primarily focusing on the development and manufacturing of earphones and in-ear monitors (IEMs). Initially operating as an ODM/OEM company supplying products to major audio and communication companies, the company now concentrates on its own brand products, developing proprietary technologies such as ECLIPSƎ driver technology and the Q-Lock modular plug system. They offer products across a wide price range including the SA6 series, Falcon series, and TITAN series, with recent models like Glacier and Arashi winning awards at VGP 2025 SUMMER.

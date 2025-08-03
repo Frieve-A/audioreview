@@ -8,10 +8,9 @@ ref: epz
 date: 2025-07-27
 rating: [2.8, 0.6, 0.5, 0.6, 0.4, 0.7]
 summary: "Emerging IEM manufacturer founded in 2019. Noted for 3D printing and affordable entry-level models, but faces challenges in upper-tier competitiveness."
-tags: [IEM, Earphones, Chinese Audio, Dynamic Driver, Hybrid, 3D Printing]
+tags: [3D Printing, Chinese Audio, Dynamic driver, Earphones, Hybrid, In-ear monitors]
 permalink: /companies/en/epz/
 ---
-
 ## Overview
 
 EPZ is a Chinese audio manufacturer established in 2019. The company claims to have achieved R&D and large-scale production of 3D-printed resin headphones within a few years of its founding. Its main products are IEMs in the 30-160 USD price range, with models such as the Q1 Pro, Q5, and K5. They feature 3D printing technology using medical-grade resin and a dual-cavity, dual-magnet circuit design with liquid crystal composite diaphragms. The company also produces portable DAC/amp products like the TP35 Pro, demonstrating active product development despite being a relatively new company.

@@ -8,10 +8,9 @@ ref: eve-audio
 date: 2025-07-22
 rating: [2.7, 0.6, 0.6, 0.4, 0.5, 0.6]
 summary: "A Berlin-based professional studio monitor manufacturer. Despite adopting AMT technology and DSP, it faces challenges in cost-performance."
-tags: [Studio Monitor, German, AMT, DSP]
+tags: [AMT, DSP, Germany, Studio monitors]
 permalink: /companies/en/eve-audio/
 ---
-
 ## Overview
 
 EVE Audio is a professional studio monitor specialist manufacturer established in Berlin, Germany, in May 2011. Founded by Roland Stenz, a former co-founder of ADAM Audio, its design philosophy is centered around Air Motion Transformer (AMT) technology. The company primarily offers a product lineup of near-field monitors, such as the SC series, which feature built-in DSP for correction, and has rapidly established a sales network in over 60 countries.

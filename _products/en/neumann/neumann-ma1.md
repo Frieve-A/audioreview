@@ -8,10 +8,9 @@ ref: neumann-ma1
 date: 2025-07-17
 rating: [4.3, 0.8, 0.9, 1.0, 0.8, 0.8]
 summary: "The Neumann MA1 is a DSP-based automatic monitor correction system co-developed with Fraunhofer IIS. While featuring hardware-level phase correction and Neumann's proprietary technology, its compatibility is limited to specific products and high pricing restricts its versatility."
-tags: [Monitor Correction, DSP, Measurement Microphone, Room Correction, Neumann]
+tags: [DSP, Measurement Microphone, Monitor Correction, Neumann, Room correction]
 permalink: /products/en/neumann-ma1/
 ---
-
 ## Overview
 
 The Neumann MA1 is a DSP-based automatic monitor correction system announced in 2020 by Neumann in collaboration with Fraunhofer IIS. The v2.0 update released in November 2023 integrated multi-channel expansion capabilities, supporting surround and immersive audio applications. It operates in combination with Neumann KH series monitors such as KH 80 DSP, KH 120, KH 310, KH 420, or KH 750 DSP subwoofers. The system combines an individually calibrated measurement microphone with algorithmic software to achieve hardware-level frequency and phase characteristic correction. Developed with advanced calibration algorithms from Fraunhofer IIS, one of the world's leading acoustic signal processing research institutions, it optimizes not only amplitude response but also phase response, providing the highest standard of tonal accuracy and impulse reproduction.

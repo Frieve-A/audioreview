@@ -8,7 +8,7 @@ ref: bowers-wilkins-804-d3
 date: 2025-07-31
 rating: [2.7, 0.3, 0.7, 0.2, 0.8, 0.7]
 summary: "Third-generation Diamond Series floorstanding speaker. Despite featuring a diamond tweeter and Continuum FST technology, there are challenges in its measured performance and price balance."
-tags: [3-Way, Diamond Tweeter, Floorstanding, スピーカー, ハイエンド]
+tags: [3ウェイ, Diamond Tweeter, Floorstanding, スピーカー, ハイエンド]
 permalink: /products/en/bowers-wilkins-804-d3/
 ---
 ## Overview

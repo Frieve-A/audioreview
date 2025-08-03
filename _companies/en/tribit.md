@@ -8,10 +8,9 @@ ref: tribit
 date: 2025-07-17
 rating: [2.1, 0.2, 0.3, 1.0, 0.3, 0.3]
 summary: "Founded in 2017, this Newark-based Bluetooth speaker manufacturer Tribit offers products in the 20,000-100,000 JPY price range, but measured performance falls significantly below industry standards with non-scientific design philosophy. Cost-performance is positioned at the cheapest level compared to equivalent-function competitors."
-tags: [Bluetooth, Speaker, Portable, Chinese-Made, Budget-Oriented]
+tags: [Bluetooth, Budget-Oriented, Chinese-Made, Portable, Speakers]
 permalink: /companies/en/tribit/
 ---
-
 ## Overview
 
 Tribit is a Bluetooth speaker manufacturer founded in 2017 in Newark, USA. Led by founder Sam, the company operates under the concept "great beats to the masses," offering portable Bluetooth speakers in the 20,000-100,000 JPY price range. Manufacturing operations are based in Shenzhen, China, with product lines including XSound Go and StormBox series. The company reportedly won the Red Dot Design Award in 2021 and achieved rapid growth in the North American market, but the objective performance of their products falls significantly below industry standards.

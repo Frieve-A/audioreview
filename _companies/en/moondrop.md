@@ -8,10 +8,9 @@ ref: moondrop
 date: 2025-07-05
 rating: [4.1, 0.8, 0.9, 0.7, 0.8, 0.9]
 summary: "Founded in 2015 and based in Chengdu, China, this audio manufacturer represents 'Chi-Fi' (Chinese Hi-Fi) excellence, providing high-quality IEMs at low prices through scientific approaches based on the Harman curve. Products like Aria, Starfield, and Blessing have earned worldwide acclaim, achieving overwhelming cost-performance that overturns traditional pricing conventions. With development systems utilizing cutting-edge measurement equipment like Audio Precision APx555, they've gained broad support from audiophiles to entry-level users."
-tags: [China, Chi-Fi, IEM, Earphones, "Cost Performance", Harman]
+tags: [Chi-Fi, China, Cost Performance, Earphones, Harman, In-ear monitors]
 permalink: /companies/en/moondrop/
 ---
-
 ## Overview
 
 Moondrop Technology Co., Ltd. was founded in 2015 by Herbert Zheng, headquartered in Chengdu, China. Starting as a small studio, they now represent "Chi-Fi" (Chinese Hi-Fi) with operations in over 20 countries and regions worldwide.

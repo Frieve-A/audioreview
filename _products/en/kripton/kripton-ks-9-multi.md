@@ -8,10 +8,9 @@ ref: kripton-ks-9-multi
 date: 2025-07-30
 rating: [3.0, 0.5, 0.7, 0.7, 0.6, 0.5]
 summary: "A multifunctional all-in-one digital audio system, but more affordable and superior alternatives exist"
-tags: [Active Speakers, Digital Audio, MQA, DSD, Computer Audio]
+tags: [Active speakers, Computer Audio, DSD, Digital Audio, MQA]
 permalink: /products/en/kripton-ks-9-multi/
 ---
-
 ## Overview
 
 The Kripton KS-9-Multi is an all-in-one digital audio system released in 2019. It features a high-resolution 30mm ring diaphragm tweeter and 85mm woofer, driven by a 2-way 4-amplifier configuration (40W×4, total 160W). As an active speaker system integrating a USB DDC, MQA/DSD-compatible DAC, and digital amplifiers, it was primarily developed for PC audio applications. The frequency response spans 60Hz to 60kHz, with HDMI, USB, optical digital, and analog inputs. Currently discontinued, the original estimated retail price was approximately 280,000 JPY.

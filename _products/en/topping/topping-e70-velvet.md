@@ -8,10 +8,9 @@ ref: topping-e70-velvet
 date: 2025-08-01
 rating: [3.5, 0.9, 0.8, 0.4, 0.6, 0.8]
 summary: "A high-performance DAC with the AK4499EX chip. While its measured performance is excellent, its cost-performance is not high due to cheaper alternatives with equivalent functionality."
-tags: [DAC, Topping, AKM, Desktop Audio, Bluetooth]
+tags: [AKM, Bluetooth, DAC, Desktop, Topping]
 permalink: /products/en/topping-e70-velvet/
 ---
-
 ## Overview
 
 The Topping E70 Velvet, released in 2022, is a desktop DAC featuring AKM's flagship DAC chip, the AK4499EX, along with its companion chip, the AK4191, and an XMOS XU316 interface. It is positioned as a premium model over the standard E70, which uses an ESS Sabre ES9028PRO, by upgrading to AKM's latest chipset and incorporating their Velvet Sound technology. It offers USB, coaxial, and optical inputs, plus Bluetooth 5.1 (with LDAC/aptX support), and provides both RCA unbalanced and XLR balanced outputs. The included remote control allows it to be operated in either a fixed-level DAC mode or a variable-level preamplifier mode.

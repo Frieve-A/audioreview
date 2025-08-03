@@ -8,10 +8,9 @@ ref: edifier-stax-spirit-s5
 date: 2025-07-24
 rating: [3.2, 0.7, 0.7, 0.7, 0.5, 0.6]
 summary: "While this premium headphone with wireless planar magnetic drivers offers respectable audio performance, it faces significant challenges regarding its overall value due to a lack of features (especially ANC) justifying its 499 USD price and the existence of a more cost-effective competitor."
-tags: [Headphones, Planar Magnetic, Wireless, Bluetooth, Premium]
+tags: [Bluetooth, Headphones, Planar magnetic, Premium, Wireless]
 permalink: /products/en/edifier-stax-spirit-s5/
 ---
-
 ## Overview
 
 The Edifier STAX Spirit S5 is a premium headphone featuring wireless planar magnetic drivers. It incorporates planar magnetic technology and EqualMass™ Technology for uniform driving force distribution. With Bluetooth 5.4 connectivity, it supports various codecs including Snapdragon Sound, LDAC, and aptX Lossless, and achieves approximately 80 hours of playback time. The headphone offers a 10Hz-40kHz frequency response with a 94±3dBSPL sound pressure level and features a relatively lightweight 347g design for a planar magnetic model. However, it is characterized by its 499 USD price point and the absence of active noise cancellation (ANC).

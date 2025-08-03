@@ -8,10 +8,9 @@ ref: acoustic-elegance
 date: 2025-07-20
 rating: [2.9, 0.6, 0.6, 0.7, 0.6, 0.4]
 summary: "American high-end woofer specialist known for its Full Copper Faraday Sleeve technology and claims of low distortion"
-tags: [Woofer, American, High-end, Low-distortion, Niche]
+tags: [America, High-end, Low-distortion, Niche, Woofer]
 permalink: /companies/en/acoustic-elegance/
 ---
-
 ## Overview
 
 Acoustic Elegance (AE Speakers) is an American woofer specialist manufacturer based in Green Bay, Wisconsin. Since the 2000s, they have marketed their woofers as having the "world's lowest distortion," a claim based on their proprietary Full Copper Faraday Sleeve (FCFS) technology that lacks public, third-party verification. They offer TD, SBP, and Lambda 001 series products through a one-person handcraft production system providing high-priced products as an artisanal manufacturer.

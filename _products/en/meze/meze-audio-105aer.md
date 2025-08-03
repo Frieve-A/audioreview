@@ -8,10 +8,9 @@ ref: meze-audio-105aer
 date: 2025-07-20
 rating: [3.0, 0.5, 0.8, 0.5, 0.8, 0.4]
 summary: "An open-back headphone featuring advanced driver technology, but with significant cost-performance challenges at its 399 USD price point."
-tags: [Headphones, Open-back, 50mm, Dynamic Driver]
+tags: [50mm, Dynamic driver, Headphones, Open-back]
 permalink: /products/en/meze-audio-105aer/
 ---
-
 ## Overview
 
 The Meze Audio 105 AER is an open-back headphone released in 2024 by Romanian audio manufacturer Meze Audio. It features a 50mm dynamic driver with an advanced driver design combining carbon fiber-reinforced cellulose composite materials and PEEK torus. The 42Ω low impedance design makes it easily drivable by portable devices. Positioned as a relatively affordable product within Meze Audio's lineup, it targets entry-level audiophile customers.

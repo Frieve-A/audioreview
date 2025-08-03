@@ -8,10 +8,9 @@ ref: truthear-hexa
 date: 2025-07-24
 rating: [3.9, 0.8, 0.7, 0.7, 0.7, 1.0]
 summary: "The Truthear Hexa is a Chinese IEM offering a 1DD+3BA hybrid configuration at USD 79.99. While its measured performance is excellent, it faces competitiveness issues as the company's own cheaper Truthear Zero:RED (USD 54.99) achieves equivalent or better performance. Although praised for excellent isolation and a flat frequency response, better options exist when considering the price-to-performance ratio."
-tags: [1DD3BA, China, "Hybrid technology", "In-ear monitors", Truthear]
+tags: [1DD+3BA, China, Hybrid technology, In-ear monitors, Truthear]
 permalink: /products/en/truthear-hexa/
 ---
-
 ## Overview
 
 The Truthear Hexa is a hybrid IEM released in 2023, featuring a 1DD+3BA driver configuration. It combines a 10mm PU+LCP composite diaphragm dynamic driver with three balanced armature drivers, offered at USD 79.99. Reflecting the company's measurement-driven approach, the tuning is based on the Harman target curve.

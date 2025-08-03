@@ -8,10 +8,9 @@ ref: steinberg
 date: 2025-07-17
 rating: [3.6, 0.7, 0.8, 0.6, 0.7, 0.8]
 summary: "1984年創設のドイツの音楽ソフトウェア・オーディオハードウェア企業。VST技術の開発者としてDAW界をリードするも、オーディオインターフェイスの測定性能は同価格帯競合製品に対して優位性が限定的。"
-tags: [Audio Interface, DAW, VST, German, Yamaha]
+tags: [DAW, VST, Yamaha, オーディオインターフェース, ドイツ]
 permalink: /companies/ja/steinberg/
 ---
-
 ## 概要
 
 Steinbergは1984年にドイツで創設された音楽ソフトウェア・オーディオハードウェア企業です。VST（Virtual Studio Technology）技術の開発者として業界に革命をもたらし、2004年からヤマハの傘下でCubase DAWソフトウェアとURシリーズオーディオインターフェイスを主力製品として展開しています。特にDAWソフトウェア分野では長年にわたり業界標準の一角を担い、音楽制作者から高い評価を受けています。

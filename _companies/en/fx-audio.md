@@ -8,10 +8,9 @@ ref: fx-audio
 date: 2025-07-22
 rating: [2.9, 0.5, 0.4, 1.0, 0.5, 0.5]
 summary: "Low-cost DAC and amplifier manufacturer based in Shenzhen, China. Entry-level models offer competitive pricing, but measurement performance and technology levels fall below industry average."
-tags: [DAC, Headphone Amplifier, Chinese Manufacturer, Entry Level, Budget]
+tags: [Budget, Chinese Manufacturer, DAC, Entry Level, Headphone amplifier]
 permalink: /companies/en/fx-audio/
 ---
-
 ## Overview
 
 FX-Audio (Feixiang) is an audio manufacturer based in Shenzhen, China, with the official corporate name Shenzhen Feixiang Digital Technology Co., Ltd. Established in 2011, the company develops and manufactures digital amplifiers, DACs, and headphone amplifiers, and is particularly known for its DAC-X6 series. Primarily targeting the low-cost desktop audio equipment market, the company has been providing products for entry-level audio enthusiasts for over a decade, gaining a certain level of support from budget-conscious users.

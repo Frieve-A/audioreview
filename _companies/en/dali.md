@@ -8,10 +8,9 @@ ref: dali
 date: 2025-07-08
 rating: [3.7, 0.7, 0.8, 0.6, 0.8, 0.8]
 summary: "Veteran Danish speaker manufacturer with proprietary SMC technology and other innovations, but measurement performance remains appropriate for the price range."
-tags: [Speaker, Denmark, Hi-fi, "SMC technology"]
+tags: [Denmark, Hi-fi, SMC technology, Speakers]
 permalink: /companies/en/dali/
 ---
-
 ## Overview
 
 DALI (Danish Audiophile Loudspeaker Industries) was founded in Denmark in 1983 by Peter Lyngdorf, specializing in speakers based on Nordic acoustic design philosophy. The company has developed proprietary SMC (Soft Magnetic Composite) magnet systems. Currently employing 300 staff, they produce 250,000 units annually across facilities in Nørager, Denmark (22,000㎡) and Ningbo, China (5,500㎡), exporting to 70 countries. Product range spans from SPEKTOR series to high-end EPICON, serving over 1 million users worldwide.

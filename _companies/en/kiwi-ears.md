@@ -8,10 +8,9 @@ ref: kiwi-ears
 date: 2025-07-06
 rating: [3.8, 0.8, 0.7, 1.0, 0.7, 0.6]
 summary: "A Chinese emerging IEM manufacturer owned by Linsoul Audio, established as a brand by an unnamed acoustic engineer. Known for high-quality handcrafted assembly and dual quality inspection systems, the Orchestra Lite (249USD) demonstrates excellent performance with an 8BA configuration, establishing itself as a benchmark in the 249USD price bracket. Direct competitors in the same price range are limited, with reviewers evaluating that it has set new standards in this price segment. This company is suitable for users who prioritize quality and attention to detail over technological innovation."
-tags: [China, IEM, Balanced Armature, Chi-Fi, Linsoul]
+tags: [Balanced armature, Chi-Fi, China, In-ear monitors, Linsoul]
 permalink: /companies/en/kiwi-ears/
 ---
-
 ## Overview
 
 Kiwi Ears is a Chinese emerging IEM manufacturer owned by Linsoul Audio, initiated as an effort by an unnamed tuner (who tuned some of the most popular Chi-Fi IEMs recently) to establish their own brand. With musicians and studio engineers particularly in mind, they aim to produce professional IEMs that reveal every nuance in music and performance. The company is known for handcrafted manufacturing and dual quality inspection systems, deploying products across a wide price range from Cadenza (35USD) to Orchestra (500USD). The Orchestra Lite particularly achieves half the price of the original Orchestra at 249USD, attracting industry attention.

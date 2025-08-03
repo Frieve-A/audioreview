@@ -8,10 +8,9 @@ ref: topping
 date: 2025-07-19
 rating: [4.0, 0.9, 0.8, 1.0, 0.4, 0.9]
 summary: "A Chinese DAC and headphone amplifier manufacturer founded in 2008. Through a measurement-focused design philosophy, they achieve ultra-low distortion performance at astonishingly low prices. While their objective performance-to-price ratio is overwhelming, quality and reliability issues have been reported on some products, warranting caution."
-tags: [China, DAC, Headphone Amplifier, Ultra-low Distortion, Measurement-focused]
+tags: [China, DAC, Headphone amplifier, Measurement-focused, Ultra-low Distortion]
 permalink: /companies/en/topping/
 ---
-
 ## Overview
 
 Founded in China in 2008, Topping revolutionized the audio industry with a clear design philosophy of "measurements are everything." Specializing in DAC and headphone amplifier development from early founding, they successfully achieved ultra-low distortion performance measured by Audio Precision test equipment at prices previously unimaginable.

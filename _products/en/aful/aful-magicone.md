@@ -8,7 +8,7 @@ ref: aful-magicone
 date: 2025-07-28
 rating: [2.8, 0.6, 0.7, 0.3, 0.5, 0.7]
 summary: "An in-ear monitor featuring an innovative acoustic design with a single BA driver. While SE-Math technology and a Nautilus acoustic labyrinth achieve full-range reproduction, it faces significant cost-performance challenges."
-tags: [AFUL, Balanced Armature, Earphones, In-ear monitors, Single Driver]
+tags: [AFUL, Balanced armature, Earphones, In-ear monitors, Single Driver]
 permalink: /products/en/aful-magicone/
 ---
 ## Overview

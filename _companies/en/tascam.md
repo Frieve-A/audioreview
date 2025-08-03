@@ -8,10 +8,9 @@ ref: tascam
 date: 2025-07-30
 rating: [3.9, 0.7, 0.7, 1.0, 0.7, 0.8]
 summary: "A scientific evaluation of Tascam, a company with a long history in audio recording equipment. While its Ultra HDDA technology receives a fair assessment, the company offers products with outstanding cost-performance in their functional class, leading to a high overall rating."
-tags: [Audio Interface, Recorder, Pro Audio, Ultra HDDA, Japanese Manufacturer]
+tags: [Audio interface, Japanese Manufacturer, Pro Audio, Recorder, Ultra HDDA]
 permalink: /companies/en/tascam/
 ---
-
 ## Overview
 
 Tascam is a veteran audio recording equipment manufacturer that has been operating since the 1970s. Currently under the Teac Corporation umbrella, the company offers a wide range of audio equipment from professional to consumer levels. Key products include the Model 12/16 series integrated recording studios, US series audio interfaces, and DR series portable recorders. The company's product development centers around its proprietary Ultra HDDA (High Definition Discrete Architecture) microphone preamplifier technology, with the corporate philosophy of "reproducing sound as close to the original as possible."

@@ -8,10 +8,9 @@ ref: audio-technica-at-sb727
 date: 2025-07-07
 rating: [2.5, 0.7, 0.6, 0.7, 0.3, 0.2]
 summary: "A modern revival of the 1980s portable turntable concept. While Bluetooth connectivity and built-in battery offer appealing portability, audio quality compromises are significant. At USD 200, stationary turntables provide superior performance. Appeals to nostalgia and convenience but unsuitable for serious audio applications."
-tags: [Audio-Technica, Portable Turntable, Bluetooth, Sound Burger, Retro]
+tags: [Audio-Technica, Bluetooth, Portable turntable, Retro, Sound Burger]
 permalink: /products/en/audio-technica-at-sb727/
 ---
-
 ## Overview
 
 The Audio-Technica AT-SB727 is a modern update of the legendary 1980s portable turntable "Sound Burger." It features Bluetooth 5.2 connectivity, built-in lithium-ion battery (up to 12 hours operation), USB-C charging, and weighs just 900g. The unit comes with an ATN3600L cartridge and supports both 33 1/3 and 45 RPM speeds. This unique concept product combines retro aesthetics with modern functionality.

@@ -8,10 +8,9 @@ ref: ascend-acoustics
 date: 2025-07-28
 rating: [4.1, 0.8, 0.7, 0.9, 0.9, 0.8]
 summary: "California-based speaker manufacturer established in 1999. Achieves high cost-performance through direct sales model and measurement-focused approach. Features transparent corporate philosophy with Klippel NFS measurement system and individual measured data provision."
-tags: [Speakers, USA, Direct Sales, Measurement-focused]
+tags: [America, Direct Sales, Measurement-focused, Speakers]
 permalink: /companies/en/ascend-acoustics/
 ---
-
 ## Overview
 
 Ascend Acoustics is a speaker manufacturer founded by David Fabrikant in 1999, based in San Clemente, California, USA. The company's mission is to "achieve the best price-to-performance ratio in class" by reducing intermediary margins through a direct sales model and minimizing marketing expenses to provide high-quality speakers at competitive prices. Their current flagship product lines are the Sierra series and ELX series, both featuring high-quality designs with RAAL ribbon tweeters and SEAS custom drivers. They demonstrate a commitment to technical transparency through 7-year transferable warranties and provision of individual frequency response measurement data for each unit.

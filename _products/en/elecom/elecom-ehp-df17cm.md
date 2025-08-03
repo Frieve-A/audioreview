@@ -8,10 +8,9 @@ ref: elecom-ehp-df17cm
 date: 2025-07-30
 rating: [2.9, 0.5, 0.6, 0.9, 0.4, 0.5]
 summary: "Wired USB-C earphones with ANC, offering value for low-latency applications, but lacking transparency in overall measured performance."
-tags: [Earphones, USB-C, Active Noise Cancelling, Wired, ELECOM]
+tags: [Active noise cancelling, ELECOM, Earphones, USB-C, Wired]
 permalink: /products/en/elecom-ehp-df17cm/
 ---
-
 ## Overview
 
 The ELECOM EHP-DF17CM is a wired earphone with a USB-C connection and active noise cancelling functionality. It features a 10mm dynamic driver, a built-in DAC with hi-res audio support, and an AI DNN microphone for calls. It allows direct connection to USB-C devices like the iPhone 15 series. The lightweight design weighs 7.8g (excluding cable) and includes four sizes of ear tips. ELECOM, founded in 1986, is an established Japanese PC accessory manufacturer with a broad range of peripheral devices and a certain track record in the audio field.

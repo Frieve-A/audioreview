@@ -8,10 +8,9 @@ ref: avantgarde-acoustic
 date: 2025-07-23
 rating: [2.4, 0.3, 0.8, 0.0, 0.7, 0.6]
 summary: "German high-efficiency horn speaker specialist. Achieves 100dB+ efficiency through proprietary spherical wave horn technology, but measurement performance is problematic by modern standards, with prices 30-80 times higher than products with equivalent efficiency and superior performance."
-tags: [German, Horn Speakers, High Efficiency, High-End]
+tags: [Germany, High Efficiency, High-End, Horn Speakers]
 permalink: /companies/en/avantgarde-acoustic/
 ---
-
 ## Overview
 
 Avantgarde Acoustic is a German horn speaker specialist founded by Matthias Ruff and Holger Fromme. With over 30 years of pursuing horn technology under the vision of creating "the world's best speakers," they develop product lines achieving 100dB+ efficiency through proprietary spherical wave horn design. Their offerings range from the UNO XD FINO EDITION (26,000 USD) to the TRIO G3 (165,000 USD), earning particular recognition when paired with tube amplifiers.

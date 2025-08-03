@@ -8,10 +8,9 @@ ref: eversolo
 date: 2025-07-08
 rating: [3.7, 0.9, 0.8, 0.4, 0.8, 0.8]
 summary: "Emerging Chinese audio company from Shenzhen specializing in streaming DACs. Shows strong technical capabilities with DMP-A8 and DMP-A10 featuring excellent measurement specs using AKM and ESS DACs, but faces pricing pressure from competitive alternatives."
-tags: [Streamer, DAC, Preamp, "Chinese manufacturer", Network]
+tags: [Chinese manufacturer, DAC, Network, Network streamer, Preamp]
 permalink: /companies/en/eversolo/
 ---
-
 ## Overview
 
 Eversolo is a Chinese audio company that launched its product lineup in 2023 in Shenzhen, backed by investment from parent company Zidoo Technology (established 2014). The company focuses primarily on network streamers and DAC products, with founding team members bringing extensive HiFi industry experience across audio decoding, analog audio, amplifiers, and system integration. The company has rapidly gained recognition through products like the DMP-A6, DMP-A8, and DMP-A10 streaming DACs, particularly noted for their excellent measurement specifications. Their corporate philosophy "Feel the charm of HIFI" emphasizes technological innovation and accurate sound reproduction, positioning them as a technical-first manufacturer in the competitive streaming audio market.

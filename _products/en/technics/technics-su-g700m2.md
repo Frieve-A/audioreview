@@ -8,10 +8,9 @@ ref: technics-su-g700m2
 date: 2025-07-27
 rating: [3.0, 0.3, 0.8, 0.3, 0.8, 0.8]
 summary: "An integrated amplifier utilizing digital amp technology. Its S/N ratio of 67.7dB falls below problematic levels, and its cost-performance is poor due to the existence of cheaper, higher-performing alternatives."
-tags: [Integrated Amplifier, Digital Amplifier, Built-in DAC, Phono Stage, Technics]
+tags: [Built-in DAC, Digital Amplifier, Integrated amplifier, Phono Stage, Technics]
 permalink: /products/en/technics-su-g700m2/
 ---
-
 ## Overview
 
 The Technics SU-G700M2 is a digital integrated amplifier released in October 2021. As part of Technics' Grand Class series, it is positioned as a product that inherits technology from the higher-end SU-R1000 while maintaining a lower price point. With an output power of 70W into 8Ω and 140W into 4Ω loads, it incorporates proprietary digital technologies such as the JENO Engine and LAPC. The design is comprehensive for modern audio systems, including an MC/MM phono stage, a DSD-compatible DAC, and extensive digital inputs.

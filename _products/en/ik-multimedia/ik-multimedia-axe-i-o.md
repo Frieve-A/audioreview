@@ -8,10 +8,9 @@ ref: ik-multimedia-axe-i-o
 date: 2025-07-21
 rating: [4.2, 0.8, 0.7, 1.0, 0.8, 0.9]
 summary: "A 2-in/5-out audio interface specializing in guitar recording, offering excellent cost-performance for its unique feature set."
-tags: [Audio Interface, Guitar Recording, USB, 192kHz]
+tags: [192kHz, Audio interface, Guitar Recording, USB]
 permalink: /products/en/ik-multimedia-axe-i-o/
 ---
-
 ## Overview
 
 The IK Multimedia AXE I/O is a 2-input, 5-output USB audio interface specifically designed for guitarists. Supporting 24-bit/192kHz recording, it is equipped with numerous features tailored for guitar recording, such as Z-TONE variable impedance, PURE microphone preamps, and a dedicated re-amp output. It also comes bundled with AmpliTube 5 and TONEX SE software, providing access to a wide variety of guitar tones. The product is positioned as a culmination of the company's extensive experience in developing guitar sound sources.

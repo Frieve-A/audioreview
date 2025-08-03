@@ -8,7 +8,7 @@ ref: topping-b200
 date: 2025-07-19
 rating: [3.2, 0.9, 0.8, 0.3, 0.4, 0.8]
 summary: "NFCA回路を採用した高性能モノラルパワーアンプ。測定性能は業界最高水準だが、ステレオ構成時のコストパフォーマンスに課題が残る。"
-tags: [Discrete, Mono, NFCA, Power Amplifier, ハイエンド]
+tags: [Discrete, Mono, NFCA, ハイエンド, パワーアンプ]
 permalink: /products/ja/topping-b200/
 ---
 ## 概要

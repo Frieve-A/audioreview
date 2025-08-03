@@ -8,10 +8,9 @@ ref: rme-adi-2-dac-fs
 date: 2025-07-30
 rating: [3.8, 0.9, 0.8, 0.4, 0.9, 0.8]
 summary: "Professional-grade DAC with excellent measurement performance and rich features, but cost-performance challenges"
-tags: [DAC, Headphone Amplifier, RME, Professional Audio, ESS, Hi-Res, DSD]
+tags: [DAC, DSD, ESS, Headphone amplifier, Hi-Res, Professional Audio, RME]
 permalink: /products/en/rme-adi-2-dac-fs/
 ---
-
 ## Overview
 
 The RME ADI-2 DAC FS is a high-end DAC and headphone amplifier combo developed by RME, a veteran German professional audio manufacturer. Based on the ESS ES9028Q2M DAC chip with RME's proprietary circuit design, it supports 768kHz PCM and DSD256, featuring professional-grade comprehensive functions including 5-band parametric EQ and crossfeed functionality. Following the AKM factory fire in 2020, RME has completely transitioned to the ESS version, though the sonic differences are considered minimal. The current US market price is 1,299 USD.

@@ -8,10 +8,9 @@ ref: akliam-pd5
 date: 2025-07-28
 rating: [3.7, 0.8, 0.7, 1.0, 0.6, 0.6]
 summary: "Portable DAC/amp featuring AK4493SEQ DAC. Achieves 125dB SNR, -115dB THD+N measurement performance with 255mW@32Ω output in lightweight design"
-tags: [Portable DAC, USB DAC, AK4493SEQ, Balanced Output, Dongle Type]
+tags: [AK4493SEQ, Balanced output, Dongle Type, Portable DAC, USB DAC]
 permalink: /products/en/akliam-pd5/
 ---
-
 ## Overview
 
 The Akliam PD5 is a portable USB DAC/amp featuring the AKM AK4493SEQ DAC chip and dual RT6863 operational amplifiers. Despite its lightweight 21g design, it offers both 3.5mm single-ended and 4.4mm balanced outputs, supporting high-resolution audio up to 768kHz/32bit PCM and DSD512. It includes versatile features such as 6 filter options, 60-step volume adjustment, and high/low gain switching. The measurement performance achieves 125dB SNR, -115dB THD+N, and 255mW@32Ω output power through the 4.4mm balanced output. It is available for around 68 USD.

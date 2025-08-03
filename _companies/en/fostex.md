@@ -8,10 +8,9 @@ ref: fostex
 date: 2025-07-05
 rating: [4.1, 0.8, 0.8, 1.0, 0.8, 0.7]
 summary: "Established in 1973, this Japanese veteran audio brand started as a subsidiary of Foster Electric Co., Ltd., one of the world's largest OEM speaker manufacturers. They handle a wide range of products from professional monitor speakers to planar magnetic headphones and speaker units. Their technology is solid and reliability is high, particularly established as a standard in professional markets, though they have somewhat lost presence in the consumer market in recent years. Cost-performance is favorable."
-tags: [Japan, Speaker, Headphones, "Pro Audio", Monitor, "Planar Magnetic"]
+tags: [Headphones, Japan, Monitor, Planar magnetic, Pro Audio, Speakers]
 permalink: /companies/en/fostex/
 ---
-
 ## Overview
 
 Fostex is a Japanese audio manufacturer established in 1973, born as a subsidiary of Foster Electric Co., Ltd. (founded in 1948), one of the world's largest OEM speaker manufacturers. Currently, Foster Electric employs over 20,000 people across 9 countries and regions and is listed on the Tokyo Stock Exchange. Backed by the company's technological capabilities, Fostex develops a wide range of products from professional studio monitors to proprietary planar magnetic headphones and OEM speaker units.

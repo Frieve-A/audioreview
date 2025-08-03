@@ -8,7 +8,7 @@ ref: ik-multimedia-iloud-mtm-mkii
 date: 2025-07-31
 rating: [3.7, 0.7, 0.7, 0.9, 0.5, 0.9]
 summary: "A compact active studio monitor featuring an advanced ARC auto-calibration system. It provides an ideal solution for small studios through excellent measurement performance and innovative technology."
-tags: [Active speakers, Compact, MTM, Room Correction, Studio monitors]
+tags: [Active speakers, Compact, MTM, Room correction, Studio monitors]
 permalink: /products/en/ik-multimedia-iloud-mtm-mkii/
 ---
 ## Overview

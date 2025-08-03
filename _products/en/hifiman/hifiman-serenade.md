@@ -8,10 +8,9 @@ ref: hifiman-serenade
 date: 2025-07-27
 rating: [3.7, 0.9, 0.8, 0.6, 0.6, 0.8]
 summary: "The HiFiMan Serenade is a feature-rich desktop DAC/amp with a Himalaya PRO R2R DAC and Class A amplifier, but its cost-performance is challenged by the availability of less expensive alternative setups."
-tags: [DAC, Headphone Amplifier, R2R, Class A, Desktop Audio]
+tags: [Class A, DAC, Desktop, Headphone amplifier, R2R]
 permalink: /products/en/hifiman-serenade/
 ---
-
 ## Overview
 
 The HiFiMan Serenade is an all-in-one desktop DAC/amplifier developed in collaboration with GoldenWave. It combines the proprietary Himalaya PRO R2R DAC with a Class A headphone amplifier and includes network streaming functionality. The unit features a substantial 3.9kg toroidal transformer and supports high-resolution audio up to DSD512 and PCM 32bit/768kHz. Priced at 1,149 USD, it positions itself in the premium desktop audio market.

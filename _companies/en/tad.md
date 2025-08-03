@@ -8,10 +8,9 @@ ref: tad-review
 date: 2025-07-05
 rating: [3.8, 0.9, 1.0, 0.3, 0.9, 0.7]
 summary: "A high-end speaker brand that consolidates Pioneer's technical expertise. Since its birth in 1978, it has applied technology cultivated in professional studio monitors to home speakers, achieving world-class acoustic performance. The product lineup, which can be called a treasure trove of proprietary technologies including beryllium diaphragms and concentric drivers, demonstrates overwhelming performance in both measurement data and listening experience. However, the pricing that exceeds USD 130,000 even for the smallest model represents the ultimate choice accessible only to limited audiophiles."
-tags: [Japan, Speaker, High-end, Professional, Pioneer]
+tags: [High-end, Japan, Pioneer, Professional, Speakers]
 permalink: /companies/en/tad/
 ---
-
 ## Overview
 
 TAD (Technical Audio Devices) is a leading Japanese high-end speaker brand born in 1978 as a technical division of Pioneer Corporation. Initially starting with the development and manufacturing of professional driver units, they have been adopted by world-renowned studios including Abbey Road Studios and Skywalker Sound.

@@ -8,10 +8,9 @@ ref: trinnov-audio-d-mon
 date: 2025-07-14
 rating: [3.0, 0.7, 0.8, 0.0, 0.7, 0.8]
 summary: "Digital monitor controller with room correction functionality. While possessing advanced technical capabilities and reliability, it faces cost-performance challenges due to the availability of equivalent functionality through significantly more affordable alternatives."
-tags: [Monitor Controller, Room Correction, Digital Signal Processing, Pro Audio, Studio Equipment]
+tags: [Digital Signal Processing, Monitor Controller, Pro Audio, Room correction, Studio Equipment]
 permalink: /products/en/trinnov-audio-d-mon/
 ---
-
 ## Overview
 
 The Trinnov Audio D-MON is a high-performance digital monitor controller developed by French acoustic technology company Trinnov. It features digital room correction functionality using the company's proprietary Optimizer technology, supporting systems from stereo to up to 18-channel immersive sound. Through comprehensive acoustic correction including phase correction using a 3D microphone system, it has been adopted by approximately 2,000 studios worldwide. It has established a solid position in the professional audio field, achieving complete integration with AVID control surfaces (S6, S5, S4, S3) and Icon D-Command/D-Control.
