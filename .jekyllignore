@@ -1,0 +1,15 @@
+# Development and build tools
+tools/
+dev/
+sessions/
+
+# Node.js dependencies
+node_modules/
+
+# Build artifacts
+_site/
+.sass-cache/
+
+# OS generated files
+.DS_Store
+Thumbs.db 
