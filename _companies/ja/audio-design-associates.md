@@ -8,10 +8,9 @@ ref: audio-design-associates
 date: 2025-08-02
 rating: [2.7, 0.7, 0.7, 0.5, 0.0, 0.8]
 summary: "カスタムインストール業界の先駆者として1977年に設立されたAudio Design Associates（ADA）は、プロフェッショナル用アンプと信号処理機器に特化した企業です。優秀な測定性能を誇りますが、現代のクラスDアンプとの価格競争力や企業継続性に課題を抱えています。"
-tags: [アンプ, カスタムインストール, プロフェッショナル, アメリカ製]
+tags: [アメリカ, アンプ, カスタムインストール, プロフェッショナル]
 permalink: /companies/ja/audio-design-associates/
 ---
-
 ## 概要
 
 Audio Design Associates（ADA）は1977年にAlbert G. LangellaとPeter T. McKeanによって設立されたアメリカのオーディオ企業です。カスタムインストール業界の先駆者として、CEDIA（Custom Electronics Design and Installation Association）の創設メンバーでもあります。同社は世界初のマルチルームオーディオシステムの開発者として知られ、双方向シリアル制御コンポーネントとシステムを初めて提供した企業でもあります。これらの革新的で技術的に先進的な設計により、CEAデザイン・イノベーション賞とCEDIA年間製品賞を数十回受賞しています。

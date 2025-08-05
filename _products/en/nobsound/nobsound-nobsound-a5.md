@@ -8,10 +8,9 @@ ref: nobsound-nobsound-a5
 date: 2025-07-24
 rating: [3.6, 0.7, 0.6, 1.0, 0.5, 0.8]
 summary: "Class D amplifier in the 90 USD range featuring TPA3255 chip and PFFB technology. Achieves ultra-low distortion of 0.002% and engages in close price competition with equivalent competitors."
-tags: [Amplifier, Class D, TPA3255, PFFB, Chinese Amplifier]
+tags: [Amplifiers, Chinese Amplifier, Class D, PFFB, TPA3255]
 permalink: /products/en/nobsound-nobsound-a5/
 ---
-
 ## Overview
 
 The Nobsound A5 is a Class D amplifier equipped with Texas Instruments' TPA3255 chip. Manufactured by China's Douk Audio (Nobsound brand), it achieves a 0.002% distortion rate by adopting PFFB (Post-Filter Feedback) technology and a 4-layer gold-plated PCB. It claims 300W output per channel and features a variable high-pass filter (30-200Hz). Priced at 89.95 USD, it faces intense competition with competing products in the same class.

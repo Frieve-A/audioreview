@@ -8,10 +8,9 @@ ref: akliam
 date: 2025-07-28
 rating: [3.4, 0.6, 0.4, 0.9, 0.7, 0.8]
 summary: "A Chinese manufacturer of portable DAC/amps using high-quality chips. While performance is solid, the existence of more affordable competitors with similar features prevents it from achieving the top cost-performance rating."
-tags: [DAC, Amplifier, Portable, ES9038Q2M, CS43131, AK4493SEQ]
+tags: [AK4493SEQ, Amplifiers, CS43131, DAC, ES9038Q2M, Portable]
 permalink: /companies/en/akliam/
 ---
-
 ## Overview
 
 AkLIAM is a Chinese audio manufacturer primarily producing portable DACs and headphone amplifiers. Representative products include the D1 desktop DAC featuring ES9038Q2M, PD4 Plus with dual CS43131, and PD5 with AK4493SEQ. The company adopts high-quality DAC chips from ESS Technology, Cirrus Logic, and AKM, characterized by solid design with aluminum enclosures. Through primarily AliExpress-based distribution, they offer Hi-Fi products at relatively affordable price points. The company demonstrates active customer engagement and maintains a design philosophy that balances mechanical strength with aesthetic appeal.

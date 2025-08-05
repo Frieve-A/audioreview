@@ -8,10 +8,9 @@ ref: smsl-a50-pro
 date: 2025-08-01
 rating: [3.6, 0.8, 0.5, 1.0, 0.5, 0.8]
 summary: "2.1-channel Class D amplifier featuring MA12070P chips. Equipped with HDMI ARC, it delivers excellent measurement performance and outstanding cost-performance."
-tags: [SMSL, Amplifier, Class D, 2.1 Channel, HDMI ARC, Bluetooth]
+tags: [2.1 Channel, Amplifiers, Bluetooth, Class D, HDMI ARC, SMSL]
 permalink: /products/en/smsl-a50-pro/
 ---
-
 ## Overview
 
 The SMSL A50 Pro is a 2.1-channel Class D amplifier featuring dual Infineon MA12070P chips. It delivers 2x70W @ 4Ω + 100W @ 2Ω power output and offers comprehensive connectivity including HDMI ARC, Bluetooth 5.0, USB-C, optical digital, and 3.5mm AUX inputs. The design specializes in 2.1ch system construction with dedicated subwoofer volume control and high-pass/low-pass filter adjustment functions.

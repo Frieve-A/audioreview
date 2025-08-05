@@ -8,10 +8,9 @@ ref: denon
 date: 2025-07-05
 rating: [3.8, 0.8, 0.9, 0.6, 0.8, 0.7]
 summary: "A venerable Japanese audio manufacturer founded in 1910. Commands the world's largest share in the AV receiver market, providing excellent measured performance and rich functionality at reasonable prices. Despite ownership changes—acquired by Masimo in 2022 and sold to Harman (Samsung subsidiary) in 2025—product quality and innovation remain intact. Particularly noteworthy is their achievement of excellent THD rates of 0.05-0.08% even in entry-level models."
-tags: [Japan, Audio, AV Receiver, Amplifier, Home Theater, Harman]
+tags: [AV Receiver, Amplifiers, Audio, Harman, Home Theater, Japan]
 permalink: /companies/en/denon/
 ---
-
 ## Overview
 
 Denon is a venerable Japanese audio manufacturer founded in 1910, with its official name derived from "DENki ONkyo" (Electric Sound). The company has undergone several ownership changes: merging with Marantz in 2002 to form D&M Holdings, acquired by Sound United in 2017, then by Masimo Corporation in 2022, and finally by Harman International (Samsung subsidiary) in 2025.

@@ -8,10 +8,9 @@ ref: dayton-audio
 date: 2025-07-19
 rating: [3.5, 0.6, 0.7, 0.7, 0.8, 0.7]
 summary: "Dayton Audio offers affordable audio products popular among DIY enthusiasts with measurement equipment and drivers, but measurement performance is price-appropriate and inferior to high-end products"
-tags: [Speakers, Subwoofers, Drivers, Measurement Equipment, Parts Express, DIY, Entry Level]
+tags: [DIY, Drivers, Entry-level, Measurement Equipment, Parts Express, Speakers, Subwoofers]
 permalink: /companies/en/dayton-audio/
 ---
-
 ## Overview
 
 Dayton Audio is an American company that has been designing and manufacturing audio components for over 20 years as a subsidiary of Parts Express. Primarily targeting DIY audio enthusiasts and beginners, they provide speaker drivers, subwoofers, amplifiers, and measurement equipment at affordable prices. Engineering is conducted in America with manufacturing across North America, Europe, and Asia, aiming to achieve "performance comparable to higher-priced equivalents." While they have established a solid position in the entry-level market, their measurement performance falls short of premium products.

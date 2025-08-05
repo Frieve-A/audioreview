@@ -8,10 +8,9 @@ ref: procable
 date: 2025-07-13
 rating: [3.0, 0.9, 0.5, 0.1, 0.7, 0.8]
 summary: "Provides reliable cables for professional use, but faces extreme cost-performance challenges compared to products with equivalent performance."
-tags: [Cables, Pro Audio, Japanese Manufacturer]
+tags: [Cables, Japan, Pro Audio]
 permalink: /companies/en/procable/
 ---
-
 ## Overview
 
 ProCable is a Japanese audio cable specialist company primarily dealing with Belden speaker cable sales. They offer a lineup centered on products like Belden 9497 16GA (USA/China manufactured), Belden 8460, and WE 20GA, providing cable products for a wide range of applications from professional audio to home audio. They are characterized by product selection based on unique acoustic theories and detailed usage guidance.

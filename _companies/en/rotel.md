@@ -8,10 +8,9 @@ ref: rotel
 date: 2025-07-06
 rating: [3.2, 0.6, 0.5, 0.2, 1.0, 0.9]
 summary: "A Japanese veteran advocating the 'Balanced Design Concept.' While renowned for fundamentally sound design and robust construction, the rise of high-performance, low-cost Class D amplifiers has eroded their cost-performance advantages."
-tags: [Japan, Hi-Fi, Amplifier, Balanced Design Concept, Class AB]
+tags: [Amplifiers, Balanced Design Concept, Class AB, Hi-Fi, Japan]
 permalink: /companies/en/rotel/
 ---
-
 ## Overview
 
 Rotel is a Japanese audio manufacturer with over 60 years of history. The company is characterized by their "Balanced Design Concept" design philosophy. Rather than following trendy features or specification competitions, this philosophy returns to the essence of music reproduction, refining elements affecting sound quality (component selection, circuit design, power supply). They are known for solid product manufacturing, maintaining consistent in-house production including their signature toroidal transformers at their own factory. However, their traditional approach faces harsh evaluation from cost-performance perspectives due to recent technological innovations, particularly the emergence of high-performance Class D amplifiers at very low prices.

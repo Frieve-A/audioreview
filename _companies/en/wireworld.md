@@ -8,10 +8,9 @@ ref: wireworld
 date: 2025-07-05
 rating: [1.5, 0.0, 0.5, 0.1, 0.8, 0.1]
 summary: "A US-based premium cable manufacturer known for unique cable structures and designs. However, most of their claims lack scientific basis, and their impact on sound quality is not objectively proven. With professional-grade cables offering equivalent or superior electrical performance at a fraction of the price, cost-performance is extremely poor. Best positioned as high-end accessories for users attracted to product appearance and brand value."
-tags: [America, Cable, "High-End Audio"]
+tags: [America, Cables, High-end]
 permalink: /companies/en/wireworld/
 ---
-
 ## Overview
 
 Wireworld is a premium audio and video cable manufacturer founded in 1980 by David Salz, based in Florida, USA. The company promotes proprietary technologies such as "DNA Helix" conductor structure and "Composilex" insulation material, advocating a design philosophy of "shortest path to the source." Their product lineup spans widely from speaker cables to HDMI, USB, and LAN cables. Their distinctive flat design and premium finishes attract attention from many audio enthusiasts. However, their claims of technical superiority are largely subjective, with unclear relationships to objective performance in many cases.

@@ -8,10 +8,9 @@ ref: synergistic-research-review
 date: 2025-07-05
 rating: [0.9, 0.0, 0.1, 0.0, 0.7, 0.1]
 summary: "An audio company promoting proprietary scientific theories like 'quantum tunneling' and 'UEF technology' while developing extremely high-priced cables and accessories. Most products lack clear evidence of effectiveness from mainstream scientific and engineering perspectives. While supported by users who believe in brand value and subjective sound quality evaluations, the objective performance-to-price ratio is among the lowest in the audio market. Purchase decisions test personal beliefs rather than scientific rationality."
-tags: ["High-End Audio", Cable, Accessories, America, Occult]
+tags: [Accessories, America, Cables, High-end, Occult]
 permalink: /companies/en/synergistic-research/
 ---
-
 ## Overview
 
 Synergistic Research was founded in 1992 by Ted Denney as an American high-end audio company. They manufacture a wide range of products from power cables, interconnects, and speaker cables to unique accessories like fuses, ground blocks, and soundfield adjusters. The company features technologies with proprietary terminology such as "UEF (Uniform Energy Field)," "Active Shielding," and "Quantum Tunneling treatment," with products sold at extremely high prices ranging from thousands to tens of thousands of dollars. Their design philosophy diverges from mainstream science and electrical engineering, making their effectiveness a subject of long-standing debate in the audio community.

@@ -8,10 +8,9 @@ ref: audiophonics
 date: 2025-07-25
 rating: [3.1, 0.8, 0.6, 0.4, 0.6, 0.7]
 summary: "A French Hi-Fi distributor whose in-house products, built with premium components, offer excellent measured performance but face pricing challenges against modern competitors."
-tags: [France, Amplifier, DAC, DIY, Integrated, Hypex, ESS]
+tags: [Amplifiers, DAC, DIY, ESS, France, Hypex, Integrated]
 permalink: /companies/en/audiophonics/
 ---
-
 ## Overview
 
 Established in 2005 and based near Bordeaux, Audiophonics is a French Hi-Fi equipment distributor. While their main business involves distributing well-known brands, they also manufacture and sell their own products under the "Audiophonics Workshop" brand, utilizing premium components like Hypex NCore amplifier modules and ESS Technology DACs. Their representative product, the DA-S250NC integrated amplifier (€699), achieves excellent measurement performance and has gained recognition among DIY audio enthusiasts and performance-oriented users.

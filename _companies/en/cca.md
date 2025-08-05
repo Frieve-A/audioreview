@@ -8,7 +8,7 @@ ref: cca
 date: 2025-07-24
 rating: [2.9, 0.4, 0.5, 1.0, 0.5, 0.5]
 summary: "Chinese budget IEM specialist manufacturer. Leads the ChiFi boom alongside sister company KZ, but measurement performance remains budget-tier and far from transparency levels. Excellent cost-performance but challenges in technology level and scientific validity"
-tags: [Budget, ChiFi, Chinese earphones, In-ear monitors, KZ]
+tags: [Budget, Chi-Fi, Chinese earphones, In-ear monitors, KZ]
 permalink: /companies/en/cca/
 ---
 ## Overview

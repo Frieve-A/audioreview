@@ -8,7 +8,7 @@ ref: cleer
 date: 2025-07-22
 rating: [2.8, 0.5, 0.6, 0.7, 0.5, 0.5]
 summary: "US audio manufacturer founded in 2012. Specializes in proprietary ironless driver technology and extended battery life products, but scientific audio quality improvement effects are limited"
-tags: [Active-Noise-Cancellation, Noise-Cancelling, Open-ear, Wireless-Headphones]
+tags: [Active noise cancelling, Noise cancelling, Open-ear, Wireless-Headphones]
 permalink: /companies/en/cleer/
 ---
 ## Overview

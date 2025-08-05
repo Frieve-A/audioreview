@@ -8,10 +8,9 @@ ref: sanwa-supply
 date: 2025-07-17
 rating: [3.1, 0.4, 0.5, 0.7, 0.7, 0.8]
 summary: "Established in 1951 as a computer peripheral manufacturer. While expanding into audio products like USB speakers, performance lags behind latest technologies in sound quality aspects."
-tags: [Computer Peripherals, USB Speakers, Japanese Company, Entry Level]
+tags: [Computer Peripherals, Entry-level, Japanese Company, USB Speakers]
 permalink: /companies/en/sanwa-supply/
 ---
-
 ## Overview
 
 Sanwa Supply is a leading Japanese computer peripheral manufacturer established in 1951. The company develops approximately 3,500 original products and is sold through over 7,000 retail stores. As an established company with headquarters in Okayama and Tokyo and five sales offices nationwide, they handle a wide range of products including mice, keyboards, speakers, and cables. In the audio field, they primarily manufacture USB speakers and headsets, providing practical products for computer users.

@@ -8,7 +8,7 @@ ref: neumann-kh-750-dsp-d-g
 date: 2025-07-28
 rating: [3.7, 0.8, 0.7, 0.7, 0.8, 0.7]
 summary: "A high-precision DSP subwoofer supported by Neumann's powerful ecosystem. While competitors with similar functions exist, it offers significant value through its integration with KH series monitors."
-tags: [DSP, Neumann, Professional Audio, Studio monitors, Subwoofer]
+tags: [DSP, Neumann, Professional, Studio monitors, Subwoofer]
 permalink: /products/en/neumann-kh-750-dsp-d-g/
 ---
 ## Overview

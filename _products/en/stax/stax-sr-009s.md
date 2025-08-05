@@ -8,10 +8,9 @@ ref: stax-sr-009s
 date: 2025-07-18
 rating: [3.0, 0.7, 0.9, 0.4, 0.6, 0.4]
 summary: "The STAX SR-009S, one of STAX's flagship models, demonstrates excellent measurement performance but suffers from poor cost-performance due to its 455,400 JPY price point"
-tags: [Electrostatic Headphones, High-End, Open-Back, STAX, Japan]
+tags: [Electrostatic Headphones, High-end, Japan, Open-Back, STAX]
 permalink: /products/en/stax-sr-009s/
 ---
-
 ## Overview
 
 The STAX SR-009S is one of the flagship models developed by STAX, a Japanese manufacturer specializing in electrostatic headphones. It employs the company's proprietary push-pull electrostatic driver with a frequency response of 5-42,000Hz and 145kΩ impedance. Featuring improved MLER 2 electrodes and ultra-thin engineering plastic film diaphragm from its predecessor SR-009, measurement results show extremely low distortion and excellent frequency response. It requires a dedicated electrostatic amplifier and has a market price of 455,400 JPY.

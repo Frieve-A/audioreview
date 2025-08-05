@@ -8,10 +8,9 @@ ref: sw1x-audio-design
 date: 2025-08-03
 rating: [1.3, 0.2, 0.4, 0.0, 0.5, 0.2]
 summary: "英国の真空管出力段付きNOS-DAC専門メーカー。科学的測定性能より音楽性を重視する設計思想だが、現代デジタル技術と比較すると測定性能とコストパフォーマンスで大幅に劣る。"
-tags: [DAC, 真空管, NOS, R2R, 英国]
+tags: [DAC, NOS, R2R, イギリス, 真空管]
 permalink: /companies/ja/sw1x-audio-design/
 ---
-
 ## 概要
 
 SW1X Audio Design（pronounced As One X Audio Design）は英国エセックス州に拠点を置く高級オーディオ機器メーカーで、真空管出力段を備えたNOS（ノンオーバーサンプリング）DACの専門企業です。同社は「極限的な高性能オーディオ機器設計」を標榜し、すべての製品を英国で設計・手組み生産しています。創設者兼主任エンジニアのDr. Slawa Roschkowは、Audio Note UKからインスピレーションを得つつも独自の方向性を追求しています。製品ラインナップはDAC IからフラッグシップモデルのDAC V Specialまで6つのパフォーマンスレベルに分かれており、最上位モデルは約80,000ユーロの価格設定となっています。

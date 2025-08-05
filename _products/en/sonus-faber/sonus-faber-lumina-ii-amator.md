@@ -8,7 +8,7 @@ ref: sonus-faber-lumina-ii-amator
 date: 2025-07-08
 rating: [1.8, 0.4, 0.4, 0.3, 0.5, 0.2]
 summary: "A bookshelf speaker combining traditional Italian craftsmanship with modern driver technology. Features beautiful wood finish and DAD™ tweeter technology, but at USD 1,888 the price presents significant cost-performance challenges when equivalent acoustic performance is available at 1/4 the cost."
-tags: [Bookshelf, Craftsmanship, High-End Audio, Italy, Speakers]
+tags: [Bookshelf, Craftsmanship, High-end, Italy, Speakers]
 permalink: /products/en/sonus-faber-lumina-ii-amator/
 ---
 ## Overview

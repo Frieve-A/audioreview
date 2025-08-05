@@ -8,10 +8,9 @@ ref: soundpeats-engine4
 date: 2025-07-25
 rating: [3.6, 0.6, 0.7, 0.9, 0.6, 0.8]
 summary: "True wireless earbuds achieving excellent cost-performance with coaxial dual drivers and LDAC support at an 8000 yen price point"
-tags: [Wireless Earbuds, LDAC, Dual Driver, Bluetooth5.3, Hi-Res Audio, Cost-Performance]
+tags: [Bluetooth5.3, Budget, Dual Driver, Hi-Res, LDAC, Wireless Earbuds]
 permalink: /products/en/soundpeats-engine4/
 ---
-
 ## Overview
 
 The SoundPEATS Engine4 is a true wireless earbuds featuring coaxial dual dynamic drivers. Its unique design combines a 10mm woofer and 6mm tweeter, achieving Hi-Res Audio Wireless certification. While delivering LDAC support, Bluetooth 5.3, and 43-hour extended playback, the product stands out with its 8,480 yen price point. SoundPEATS, established in 2010 as an audio equipment specialist, has consistently developed high cost-performance products, with the Engine4 continuing this legacy.

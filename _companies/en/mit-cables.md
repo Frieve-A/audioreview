@@ -8,10 +8,9 @@ ref: mit-cables
 date: 2025-07-06
 rating: [1.2, 0.1, 0.3, 0.0, 0.7, 0.1]
 summary: "American high-end cable manufacturer known for 'Network Boxes.' Features innovative technology based on transmission line theory to correct impedance for each frequency, but scientific foundation for its effects is thin in audio bands. Extremely expensive, resulting in harsh evaluation from cost-performance perspective."
-tags: ["America", "Cable", "High-End Audio", "Network Box"]
+tags: [America, Cables, High-end, Network Box]
 permalink: /companies/en/mit-cables/
 ---
-
 ## Overview
 
 Music Interface Technologies (MIT) is an American high-end audio cable manufacturer founded by Bruce Brisson in 1984. MIT's greatest distinguishing feature lies in their proprietary termination technology called "Network Boxes" attached to cables. This aims to correct cable inductance and capacitance through passive circuits, seeking uniform energy transfer across all frequency bands. Their "Articulated Cable" technology drew significant attention in the audio industry, but its high pricing and scientific validity of effects have been subjects of ongoing debate for years.

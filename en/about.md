@@ -29,6 +29,7 @@ Instead of valuing sheer size, weight, or old traditions, we assess how original
 
 ### 3. Cost Performance: Is the Price Justified by Its Performance?
 We calculate cost performance using the formula: **`Price of the world's cheapest product with equivalent performance ÷ Price of the product you are considering`**. We do not include brand value or design in our evaluation, but judge the fairness of the price for pure performance by comparing it with all products on the market (including inexpensive ones).
+Note: This is based on a global survey and may differ from actual prices in certain countries or regions.
 
 ### 4. Reliability & Support: Can You Use It with Confidence Long-term?
 We evaluate not only the manufacturer's published specifications but also long-term reliability, based on real user reviews of failure rates, warranty periods, repair systems, and firmware update frequency.

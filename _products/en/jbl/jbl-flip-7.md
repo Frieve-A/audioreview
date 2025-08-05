@@ -8,7 +8,7 @@ ref: jbl-flip-7
 date: 2025-07-07
 rating: [3.2, 0.6, 0.7, 0.6, 0.8, 0.5]
 summary: "The JBL FLIP 7 is a solid evolution from its predecessor, featuring increased output, IP68 waterproofing, and support for the next-generation Bluetooth standard, Auracast. However, these improvements come at a higher price, making its cost-performance less compelling than the previous model and warranting careful consideration."
-tags: [AI, Bluetooth, JBL, Portable audio, Speakers, Waterproof]
+tags: [AI, Bluetooth, JBL, Portable, Speakers, Waterproof]
 permalink: /products/en/jbl-flip-7/
 ---
 ## Overview

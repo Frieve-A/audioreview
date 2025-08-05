@@ -8,10 +8,9 @@ ref: dcs-vivaldi-upsampler
 date: 2025-07-26
 rating: [1.9, 0.1, 0.8, 0.0, 0.8, 0.2]
 summary: "英国dCSの最高級アップサンプラーは、同社の高い技術力を示す一方、その中核機能に科学的有効性が認められず、同等機能が1/76の価格で実現可能なため、専用機としての存在意義が問われる製品です。"
-tags: [DDC, アップサンプラー, ネットワークストリーマー, ハイエンド, 英国]
+tags: [DDC, アップサンプラー, イギリス, ネットワークストリーマー, ハイエンド]
 permalink: /products/ja/dcs-vivaldi-upsampler/
 ---
-
 ## 概要
 
 dCS Vivaldi Upsamplerは、英国Cambridge拠点のdCS（Data Conversion Systems）が開発する最高級デジタル-デジタル変換器です。1987年創立のdCSは軍事・通信分野での高精度ADC/DAC開発から始まり、独自のRing DAC技術で知られる老舗企業として、The Queen's Award for Enterpriseも受賞しています。本製品はPCM、DSD、DXD対応のアップサンプリング機能に加え、Roon、TIDAL、Spotify等のネットワークストリーミング機能を統合した、dCSの技術的集大成とされる製品です。

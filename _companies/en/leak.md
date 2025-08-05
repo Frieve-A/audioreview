@@ -8,7 +8,7 @@ ref: leak
 date: 2025-07-29
 rating: [2.6, 0.7, 0.6, 0.1, 0.7, 0.5]
 summary: "British audio manufacturer established in 1934. While current products approach transparent-level measurement performance, they face significant cost-performance challenges with substantial price differences compared to more affordable alternatives."
-tags: [Amplifier, CD Player, Classic, Speakers, United Kingdom]
+tags: [Amplifiers, CD Player, Classic, Speakers, United Kingdom]
 permalink: /companies/en/leak/
 ---
 ## Overview

@@ -8,7 +8,7 @@ ref: fx-audio
 date: 2025-07-22
 rating: [2.9, 0.5, 0.4, 1.0, 0.5, 0.5]
 summary: "Low-cost DAC and amplifier manufacturer based in Shenzhen, China. Entry-level models offer competitive pricing, but measurement performance and technology levels fall below industry average."
-tags: [Budget, Chinese Manufacturer, DAC, Entry Level, Headphone amplifier]
+tags: [Budget, China, DAC, Entry-level, Headphone amplifier]
 permalink: /companies/en/fx-audio/
 ---
 ## Overview

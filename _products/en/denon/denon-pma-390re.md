@@ -8,7 +8,7 @@ ref: denon-pma-390re
 date: 2025-07-21
 rating: [3.6, 0.9, 0.6, 1.0, 0.6, 0.5]
 summary: "A 2012 Japan-exclusive 50W entry-class amplifier. Achieves excellent measurement values (THD 0.01%, SNR 107dB) that meet modern transparency standards. A strong contender in the used market with exceptional cost-performance."
-tags: [Amplifier, Denon, Entry-Class, Integrated amplifier, Japan-Exclusive]
+tags: [Amplifiers, Denon, Entry-level, Integrated amplifier, Japan-Exclusive]
 permalink: /products/en/denon-pma-390re/
 ---
 ## Overview

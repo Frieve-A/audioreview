@@ -8,10 +8,9 @@ ref: klipsch-r-50c
 date: 2025-07-29
 rating: [3.2, 0.5, 0.5, 0.8, 0.7, 0.7]
 summary: "The Klipsch R-50C is a center channel speaker notable for its high sensitivity due to Tractrix horn technology. However, it faces a serious cost-performance challenge due to the existence of more affordable competitors with superior frequency response."
-tags: [Center Channel, Home Theater, Horn-Loaded, Mid-Range]
+tags: [Center Channel, Home Theater, Horn-Loaded, Mid-range]
 permalink: /products/en/klipsch-r-50c/
 ---
-
 ## Overview
 
 The Klipsch R-50C is a center channel speaker from the Reference series by the American audio manufacturer Klipsch. It features the company's signature Tractrix horn technology on a 1-inch tweeter, combined with two 5.25-inch spun-copper TCP woofers in a 2-way configuration. Its nominal specifications are a frequency response of 90Hz-21kHz, power handling of 100W (RMS), and a sensitivity of 96dB. This high sensitivity is designed to achieve adequate volume levels easily, even with the relatively low-power amplifiers built into AV receivers. The crossover frequency is set at 1650Hz, specializing in dialogue reproduction.

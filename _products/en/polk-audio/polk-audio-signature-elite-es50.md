@@ -8,7 +8,7 @@ ref: polk-audio-signature-elite-es50
 date: 2025-07-25
 rating: [2.7, 0.6, 0.5, 0.3, 0.7, 0.6]
 summary: "The Polk Audio Signature Elite ES50 is a floor-standing speaker featuring Hi-Res Audio certification and Dolby Atmos compatibility, but it faces a serious cost-performance challenge as competitive products offer comparable performance at a significantly lower price."
-tags: [Dolby Atmos, Floorstanding speakers, Hi-Res Audio, Polk Audio, Tower Speaker]
+tags: [Dolby Atmos, Floorstanding speakers, Hi-Res, Polk Audio, Tower Speaker]
 permalink: /products/en/polk-audio-signature-elite-es50/
 ---
 ## Overview

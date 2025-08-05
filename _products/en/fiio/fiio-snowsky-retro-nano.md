@@ -8,10 +8,9 @@ ref: fiio-snowsky-retro-nano
 date: 2025-07-29
 rating: [3.7, 0.8, 0.6, 1.0, 0.5, 0.8]
 summary: "A compact Bluetooth DAC/amplifier that fuses retro design with modern technology. Features a 4.4mm balanced output and a replaceable battery, delivering high cost-performance."
-tags: [FiiO, SNOWSKY, Bluetooth, DAC, Amplifier, Portable, Retro, Balanced]
+tags: [Amplifiers, Balanced, Bluetooth, DAC, FiiO, Portable, Retro, SNOWSKY]
 permalink: /products/en/fiio-snowsky-retro-nano/
 ---
-
 ## Overview
 
 The SNOWSKY RETRO NANO is a portable Bluetooth DAC/headphone amplifier introduced as the first product from FiiO's new sub-brand, "SNOWSKY." Despite its ultra-lightweight design of 28.3g, it is equipped with dual CS43131 DAC chips and a Qualcomm QCC5125 Bluetooth 5.1 chipset. It supports high-quality codecs like LDAC and aptX Adaptive, and notably features both a 3.5mm single-ended and a **4.4mm balanced output**. Characterized by its retro design mimicking a vintage tape recorder and a user-replaceable 350mAh battery, it boasts high cost-performance with a retail price of around 10,000 JPY (approx. 70 USD).

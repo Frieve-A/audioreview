@@ -8,10 +8,9 @@ ref: polk-audio-reserve-r500
 date: 2025-08-02
 rating: [3.4, 0.5, 0.7, 0.9, 0.6, 0.7]
 summary: "A tower speaker that fails to deliver performance commensurate with its price due to cabinet resonance and frequency response issues revealed by measurement data."
-tags: [Tower Speaker, Floorstanding, 2-way, Hi-Res Audio]
+tags: [2-Way, Floorstanding, Hi-Res, Tower Speaker]
 permalink: /products/en/polk-audio-reserve-r500/
 ---
-
 ## Overview
 
 The Polk Audio Reserve R500 was released in 2021 as the entry-level tower speaker in the company's Reserve series. It features a 2-way design with a 1-inch Pinnacle Ring Radiator tweeter and two 5.25-inch Turbine Cone woofers, claiming Hi-Res Audio certification, Dolby Atmos, and IMAX Enhanced compatibility. Positioned as a product that fuses modern technology with traditional design philosophy from Polk, a veteran American audio manufacturer with a rich history.

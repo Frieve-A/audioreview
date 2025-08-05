@@ -8,7 +8,7 @@ ref: ollo-audio
 date: 2025-07-26
 rating: [3.6, 0.8, 0.7, 0.3, 0.9, 0.9]
 summary: "Slovenian handcrafted studio headphone manufacturer featuring individual calibration and scientifically-based high-precision monitoring, though facing challenges in cost-performance aspects."
-tags: [Handmade, Headphones, Professional Audio, Slovenia, Studio monitors]
+tags: [Handmade, Headphones, Professional, Slovenia, Studio monitors]
 permalink: /companies/en/ollo-audio/
 ---
 ## Overview

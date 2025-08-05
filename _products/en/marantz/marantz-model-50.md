@@ -8,7 +8,7 @@ ref: marantz-model-50
 date: 2025-07-28
 rating: [2.7, 0.7, 0.5, 0.2, 0.8, 0.5]
 summary: "A pure analog integrated amplifier with good measured performance that, however, falls short of modern Class D amplifiers and lacks digital inputs, leading to significant issues with cost-performance and rationality."
-tags: [Amplifier, Analog, Class AB, Integrated amplifier, Marantz]
+tags: [Amplifiers, Analog, Class AB, Integrated amplifier, Marantz]
 permalink: /products/en/marantz-model-50/
 ---
 ## Overview

@@ -8,10 +8,9 @@ ref: bose-quietcomfort-ultra-headphones
 date: 2025-07-06
 rating: [3.6, 0.8, 0.7, 0.6, 0.8, 0.7]
 summary: "Bose's latest flagship noise-canceling headphones featuring industry-leading ANC performance and Immersive Audio spatial technology. CustomTune technology provides personalized optimization with excellent wearing comfort. At 270 USD, comprehensive performance exceeds competitors, though 24-hour battery life trails behind competitor products. Folding design ensures good portability."
-tags: [Bose, "Noise canceling", "Wireless headphones", "Spatial audio", Flagship]
+tags: [Bose, Flagship, Noise cancelling, Spatial audio, Wireless headphones]
 permalink: /products/en/bose-quietcomfort-ultra-headphones/
 ---
-
 ## Overview
 
 The Bose QuietComfort Ultra Headphones, launched in October 2023, represent Bose's flagship wireless noise-canceling headphones featuring industry-leading noise cancellation alongside Immersive Audio spatial technology and CustomTune personalization features. Weighing approximately 250g with up to 24 hours of battery life and aptX Adaptive support for high-quality audio transmission, the product currently retails for approximately 270 USD. Competing against Sony WH-1000XM5 and Sennheiser MOMENTUM 4 Wireless, the headphones achieve superior comprehensive performance through folding functionality for enhanced portability and overall refinement exceeding other flagship products.

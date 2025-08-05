@@ -8,7 +8,7 @@ ref: pioneer-a-70a
 date: 2025-08-04
 rating: [3.1, 0.8, 0.6, 0.3, 0.7, 0.7]
 summary: "The Pioneer A-70A is an integrated amplifier adhering to traditional analog design, but it faces challenges in scientific validity and cost-performance compared to modern standards."
-tags: [Amplifier, Analog, Integrated amplifier, Pioneer]
+tags: [Amplifiers, Analog, Integrated amplifier, Pioneer]
 permalink: /products/en/pioneer-a-70a/
 ---
 ## Overview

@@ -8,7 +8,7 @@ ref: gustard
 date: 2025-07-26
 rating: [3.0, 0.8, 0.7, 0.3, 0.5, 0.7]
 summary: "Chinese audio company developing DAC product lineup with excellent measurement performance, but facing cost-performance challenges compared to equivalent SMSL and Topping models"
-tags: [Chinese Manufacturer, DAC, Delta-Sigma, Network streamer, R2R]
+tags: [China, DAC, Delta-Sigma, Network streamer, R2R]
 permalink: /companies/en/gustard/
 ---
 ## Overview

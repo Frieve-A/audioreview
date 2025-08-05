@@ -8,7 +8,7 @@ ref: arturia-mini-fuse-1
 date: 2025-07-23
 rating: [3.7, 0.9, 0.6, 0.7, 0.8, 0.7]
 summary: "As an entry-level USB-C audio interface, the MiniFuse 1 offers excellent measured performance. When compared to its 192kHz-capable competitor, the Steinberg UR12, the price difference is minor, making its cost-performance reasonable when considering its bundled software and 5-year warranty."
-tags: [1 Input, Audio interface, Entry Level, Portable, USB-C]
+tags: [1 Input, Audio interface, Entry-level, Portable, USB-C]
 permalink: /products/en/arturia-mini-fuse-1/
 ---
 ## Overview

@@ -8,7 +8,7 @@ ref: audio-design
 date: 2025-08-03
 rating: [2.8, 0.9, 0.6, 0.2, 0.7, 0.4]
 summary: "A Japanese high-end audio manufacturer with excellent measurement performance, but poor cost-performance as equivalent function preamps are available at about 1/4.4th the price."
-tags: [Amplifier, High-End, Japan, Power-Amp, Preamp]
+tags: [Amplifiers, High-end, Japan, Power-Amp, Preamps]
 permalink: /companies/en/audio-design/
 ---
 ## Overview

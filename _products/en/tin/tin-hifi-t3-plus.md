@@ -8,7 +8,7 @@ ref: tin-hifi-t3-plus
 date: 2025-07-13
 rating: [3.0, 0.6, 0.7, 0.2, 0.7, 0.8]
 summary: "Entry-class IEM featuring 10mm LCP diaphragm with Tsunami Engineering balanced tuning"
-tags: [Balanced, Entry, In-ear monitors, LCP]
+tags: [Balanced, Entry-level, In-ear monitors, LCP]
 permalink: /products/en/tin-hifi-t3-plus/
 ---
 ## Overview

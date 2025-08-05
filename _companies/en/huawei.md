@@ -8,10 +8,9 @@ ref: huawei
 date: 2025-07-16
 rating: [3.6, 0.6, 0.7, 0.8, 0.8, 0.7]
 summary: "Chinese telecommunications giant's audio product line. While achieving industry-leading noise cancellation technology, significant room for improvement exists in sound quality, with cost-performance trailing behind competitors"
-tags: [Chinese Manufacturer, Wireless Earbuds, Noise Cancellation, FreeBuds]
+tags: [China, FreeBuds, Noise Cancellation, Wireless Earbuds]
 permalink: /companies/en/huawei/
 ---
-
 ## Overview
 
 Huawei is a telecommunications equipment manufacturer founded in 1987 and based in Shenzhen, China, which has recently entered the audio field. The flagship FreeBuds series has been developed since 2018, offering a wide lineup from high-end models like FreeBuds Pro, FreeBuds Pro 3, and FreeBuds Pro 4 to the affordable FreeBuds SE series. The company's audio products particularly focus on noise cancellation technology, with active technical initiatives including the proprietary L2HC codec and HiRes Audio certification.

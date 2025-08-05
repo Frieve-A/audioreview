@@ -8,10 +8,9 @@ ref: hegel
 date: 2025-08-03
 rating: [1.5, 0.2, 0.4, 0.1, 0.5, 0.3]
 summary: "Norwegian high-end audio manufacturer Hegel claims proprietary SoundEngine technology, but actual measurements show performance significantly below expectations. Particularly, DAC measurements rank in the bottom 7 out of 350 products tested, lacking scientific justification for premium pricing."
-tags: [Norway, High-end Audio, Amplifier, DAC, SoundEngine]
+tags: [Amplifiers, DAC, High-end, Norway, SoundEngine]
 permalink: /companies/en/hegel/
 ---
-
 ## Overview
 
 Hegel is a Norwegian high-end audio manufacturer established in 1988. Their main products include integrated amplifiers, DACs, power amplifiers, and preamplifiers, featuring proprietary SoundEngine2 technology for distortion reduction. They offer products ranging from the H95 (2,000 USD) to the H600 (13,800 USD), sold worldwide including Japan. While established as a high-end audio brand, scientific verification reveals significant concerns.

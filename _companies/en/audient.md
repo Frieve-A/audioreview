@@ -8,7 +8,7 @@ ref: audient
 date: 2025-08-03
 rating: [3.3, 0.7, 0.7, 0.5, 0.6, 0.8]
 summary: "British console manufacturer specializing in audio equipment. Achieves transparent audio quality through Class-A microphone preamp-based product lineup, but faces challenges in cost-performance and reliability."
-tags: [Audio interface, Class-A, Console, Microphone Preamp, United Kingdom]
+tags: [Audio interface, Class A, Console, Microphone Preamp, United Kingdom]
 permalink: /companies/en/audient/
 ---
 ## Overview

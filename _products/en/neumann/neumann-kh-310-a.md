@@ -8,7 +8,7 @@ ref: neumann-kh-310-a
 date: 2025-07-28
 rating: [4.1, 0.9, 0.8, 0.7, 0.8, 0.9]
 summary: "Professional 3-way studio monitor demonstrating exceptional performance in scientific measurements. Achieves 34Hz-21kHz broadband reproduction and maximum SPL exceeding 116dB. MMD wavefront control technology provides accurate sound imaging."
-tags: [3-way, Active Monitor, Neumann, Professional Audio, Studio monitors]
+tags: [3-Way, Active Monitor, Neumann, Professional, Studio monitors]
 permalink: /products/en/neumann-kh-310-a/
 ---
 ## Overview

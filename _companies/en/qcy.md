@@ -8,7 +8,7 @@ ref: qcy
 date: 2025-07-11
 rating: [3.3, 0.6, 0.4, 1.0, 0.6, 0.7]
 summary: "QCY is a Chinese wireless audio brand that achieved 4th place in global true wireless earbuds market share in Q1 2020. Offers extensive features at low prices, but technical innovation is limited."
-tags: [Budget-oriented, Chinese manufacturer, Wireless earphones]
+tags: [Budget, China, Wireless earphones]
 permalink: /companies/en/qcy/
 ---
 ## Overview

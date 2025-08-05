@@ -8,7 +8,7 @@ ref: sendy-audio
 date: 2025-07-28
 rating: [2.2, 0.3, 0.6, 0.3, 0.6, 0.4]
 summary: "A Chinese manufacturer known for handcrafted wooden headphones. While technologically at an industry-average level, many products suffer from measurement issues and do not provide performance commensurate with their price."
-tags: [Chinese Manufacturer, Handcrafted, Headphones, Planar magnetic]
+tags: [China, Handcrafted, Headphones, Planar magnetic]
 permalink: /companies/en/sendy-audio/
 ---
 ## Overview

@@ -8,7 +8,7 @@ ref: anker-soundcore-space-one
 date: 2025-07-20
 rating: [2.4, 0.3, 0.4, 1.0, 0.4, 0.3]
 summary: "Wireless headphones with strong noise canceling functionality at 10,990 JPY, but with significant limitations in scientific validity and technology level."
-tags: [Bluetooth, LDAC, Noise Cancelling, Over-Ear, Wireless headphones]
+tags: [Bluetooth, LDAC, Noise Cancelling, Over-ear, Wireless headphones]
 permalink: /products/en/anker-soundcore-space-one/
 ---
 ## Overview

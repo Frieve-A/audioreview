@@ -8,10 +8,9 @@ ref: audio-design-dcp-240
 date: 2025-08-02
 rating: [3.0, 0.8, 0.6, 0.2, 0.8, 0.6]
 summary: "A fully balanced preamplifier with an innovative 'Amp-In-First' circuit. While it boasts excellent measurements, it faces an extreme challenge in cost-performance, as alternatives with comparable or superior functionality and performance are available for a fraction of the price."
-tags: [Preamplifier, Fully-Balanced, Japanese-Made, High-End]
+tags: [Fully-Balanced, High-end, Japanese-Made, Preamplifier]
 permalink: /products/en/audio-design-dcp-240/
 ---
-
 ## Overview
 
 The Audio Design DCP-240 is a fully balanced preamplifier developed by Audio Design Corporation, based in Tokyo. Since its founding around 2003, the company has consistently handled the design, development, and manufacturing of analog amplifiers in-house for over 21 years. The DCP-240's most distinctive feature is its innovative "Amp-In-First" circuit configuration, which differs from conventional preamplifiers by first processing input signals through a flat amplifier before volume control, maintaining signal levels and improving dynamic range by 20dB.

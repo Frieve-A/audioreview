@@ -8,7 +8,7 @@ ref: spec-rsa-bw1
 date: 2025-07-26
 rating: [1.9, 0.4, 0.6, 0.0, 0.5, 0.4]
 summary: "Inferior measurement performance as a Class D amplifier, with equivalent functionality achievable for around 20,000 yen against a 540,000 yen price point, resulting in extremely poor cost-performance"
-tags: [Amplifier, Class D, Integrated amplifier, Made in Japan, SPEC]
+tags: [Amplifiers, Class D, Integrated amplifier, Japan, SPEC]
 permalink: /products/en/spec-rsa-bw1/
 ---
 ## Overview

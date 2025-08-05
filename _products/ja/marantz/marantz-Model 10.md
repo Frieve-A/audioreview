@@ -8,7 +8,7 @@ ref: marantz-Model 10
 date: 2025-07-27
 rating: [2.9, 0.9, 0.8, 0.3, 0.6, 0.3]
 summary: "Purifi共同開発のカスタムClass Dモジュールを搭載したMarantzのフラッグシップ統合アンプ。最高レベルの測定性能を提供しますが、15,000ドルの価格は同等出力・機能・性能を持つコスト効果的な代替品により損なわれています。"
-tags: [Purifi, アナログ, インテグレーテッドアンプ, クラスD, ハイエンド]
+tags: [D級, Purifi, アナログ, インテグレーテッドアンプ, ハイエンド]
 permalink: /products/ja/marantz-Model 10/
 ---
 ## 概要

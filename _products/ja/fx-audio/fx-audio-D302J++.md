@@ -8,10 +8,9 @@ ref: fx-audio-D302J++
 date: 2025-07-22
 rating: [2.6, 0.4, 0.4, 0.8, 0.5, 0.5]
 summary: "STMicroelectronics STA369BWを採用したフルデジタルアンプ。15W×2chの出力で、4系統入力（USB/光/同軸/アナログ）を備えるが、測定性能では現代基準に劣り、技術的優位性も限定的。"
-tags: [デジタルアンプ, フルデジタル, DAC, ヘッドホンアンプ, Class-D, STA369BW]
+tags: [DAC, D級, STA369BW, デジタルアンプ, フルデジタル, ヘッドホンアンプ]
 permalink: /products/ja/fx-audio-D302J++/
 ---
-
 ## 概要
 
 fx-audio D302J++は、STMicroelectronics製STA369BW ICを核とするフルデジタルアンプです。前世代D302J+から、USB受信ICをSAVITECH BRAVO-HD SA9123Lに更新し、USB経由での24bit/192kHz対応を実現しています。4系統入力（USB TypeB、光デジタル、同軸デジタル、アナログRCA）と、スピーカー出力15W×2ch（4Ω）、ヘッドホン出力を一台に統合した小型デスクトップオーディオソリューションです。North Flat Japan（NFJ）が販売し、2023年3月にリリースされた比較的新しいモデルながら、基本設計は従来的なアプローチに留まっています。

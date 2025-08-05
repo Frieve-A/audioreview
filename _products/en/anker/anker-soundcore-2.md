@@ -8,10 +8,9 @@ ref: anker-soundcore-2
 date: 2025-07-19
 rating: [2.5, 0.4, 0.3, 1.0, 0.5, 0.3]
 summary: "A 12W portable Bluetooth speaker with 24-hour battery life and an IPX7 waterproof rating. While its audio performance is limited, it boasts the best cost-performance in its performance class."
-tags: [Bluetooth Speaker, Portable, Waterproof, Anker, Entry Model]
+tags: [Anker, Bluetooth Speaker, Entry-level, Portable, Waterproof]
 permalink: /products/en/anker-soundcore-2/
 ---
-
 ## Overview
 
 The Anker Soundcore 2 is an entry-level portable Bluetooth speaker released in 2017. It features 12W (6W×2) output, 24-hour continuous playback time, and IPX7 waterproof performance, designed for price-conscious users. Equipped with dual neodymium drivers and BassUp technology for bass enhancement, this product aims to provide a portable audio experience at an affordable price point.

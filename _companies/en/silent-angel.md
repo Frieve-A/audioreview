@@ -8,7 +8,7 @@ ref: silent-angel
 date: 2025-07-24
 rating: [2.5, 0.6, 0.4, 0.5, 0.5, 0.5]
 summary: "Audio company specializing in network streaming solutions. Offers Munich M1 and M1T network streamers/transports, but faces significant challenges in technical innovation and cost-performance."
-tags: [Chinese Manufacturer, Digital Transport, Network streamer, Roon Ready]
+tags: [China, Digital Transport, Network streamer, Roon Ready]
 permalink: /companies/en/silent-angel/
 ---
 ## Overview

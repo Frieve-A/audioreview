@@ -8,10 +8,9 @@ ref: aiyima-A70
 date: 2025-07-26
 rating: [3.9, 0.8, 0.7, 1.0, 0.6, 0.8]
 summary: "TPA3255チップとPFFB技術を搭載したClass Dアンプ。測定性能は優秀で、機能セットにおけるコストパフォーマンスも優位です。"
-tags: [Class D アンプ, TPA3255, ステレオアンプ, PFFB]
+tags: [D級, PFFB, TPA3255, ステレオアンプ]
 permalink: /products/ja/aiyima-A70/
 ---
-
 ## 概要
 
 Aiyima A70は、Texas Instruments社のTPA3255チップを採用したClass Dステレオアンプです。最大出力300W×2（4Ω）を謳い、Post Filter Feedback（PFFB）技術により負荷依存性を排除し、線形性を向上させることを特徴としています。XLRとRCA入力を装備し、トリガー入力機能も備えたデスクトップ向けのコンパクトなアンプとして設計されています。NE5532オペアンプを搭載し、交換可能な設計により音質調整の自由度を提供しています。

@@ -8,7 +8,7 @@ ref: wgzblon
 date: 2025-08-01
 rating: [2.4, 0.4, 0.3, 0.7, 0.5, 0.5]
 summary: "Chinese budget audio manufacturer operating under the BLON brand, focusing on IEMs. Good cost-performance but facing challenges in technology level and quality control"
-tags: [Budget, Chinese Manufacturer, DAC, Headphones, In-ear monitors]
+tags: [Budget, China, DAC, Headphones, In-ear monitors]
 permalink: /companies/en/wgzblon/
 ---
 ## Overview

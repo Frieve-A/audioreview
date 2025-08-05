@@ -8,10 +8,9 @@ ref: north-flat-japan
 date: 2025-07-29
 rating: [3.4, 0.8, 0.6, 0.7, 0.7, 0.6]
 summary: "Japanese company developing low-cost high-performance DACs and amplifiers under the FX-AUDIO brand. Measured performance is excellent, but cost-performance does not reach the top tier due to competitors."
-tags: [Japanese Company, DAC, Amplifier, FX-AUDIO, Budget]
+tags: [Amplifiers, Budget, DAC, FX-AUDIO, Japanese Company]
 permalink: /companies/en/north-flat-japan/
 ---
-
 ## Overview
 
 North Flat Japan Co., Ltd. is an audio equipment manufacturer primarily operating under the FX-AUDIO brand. Since the late 2000s, the company has collaborated with China's Feixin Audio to bring high-performance yet affordable DACs, amplifiers, and preamplifiers to the Japanese market. Representative products include the DAC-X6 series, DS07 balanced DAC, and FX03 USB-C DAC, sold through NFJ Store on Amazon, Rakuten, and Yahoo! Shopping. The company's products achieve excellent measured performance in their price range and have earned high praise from entry-level users.

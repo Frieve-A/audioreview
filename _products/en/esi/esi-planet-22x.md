@@ -8,7 +8,7 @@ ref: esi-planet-22x
 date: 2025-08-03
 rating: [3.4, 0.6, 0.7, 1.0, 0.5, 0.6]
 summary: "A 2-input 2-output audio interface with Dante networking capabilities, offering good value for users requiring Dante integration but potentially overkill for general purposes."
-tags: [2-Input 2-Output, Audio interface, Dante, ESI, Network Audio]
+tags: [2-Input 2-Output, Audio interface, Dante, ESI, Network audio]
 permalink: /products/en/esi-planet-22x/
 ---
 ## Overview

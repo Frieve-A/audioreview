@@ -8,10 +8,9 @@ ref: ps-audio
 date: 2025-07-06
 rating: [3.0, 0.5, 0.8, 0.1, 0.8, 0.8]
 summary: "American high-end audio manufacturer founded in 1973. Renowned for their DirectStream series utilizing DSD upsampling technology, particularly leading the industry in DAC development. While their long-term support through firmware updates and technical innovation is commendable, their products are expensive, and equivalent performance can often be obtained at much lower prices. An attractive choice for users pursuing the latest digital audio technology."
-tags: [America, DAC, DSD, "High-end Audio", Digital]
+tags: [America, DAC, DSD, Digital, High-end]
 permalink: /companies/en/ps-audio/
 ---
-
 ## Overview
 
 PS Audio is an American high-end audio manufacturer founded in 1973 by Paul McGowan and Stan Warren. Headquartered in Boulder, Colorado, the company has been manufacturing high-quality audio equipment for nearly 50 years. They are particularly known as innovators in digital audio technology, leading the industry with their "DirectStream" series built around proprietary DSD upsampling technology.

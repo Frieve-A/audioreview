@@ -8,10 +8,9 @@ ref: marantz
 date: 2025-07-05
 rating: [3.2, 0.8, 0.9, 0.1, 0.8, 0.6]
 summary: "A premium audio brand founded in 1953, renowned for its proprietary HDAM technology and 'warm, musical sound.' Under Harman ownership alongside Denon, Marantz focuses on luxury-oriented products with excellent measured performance. However, equivalent or superior performance exists at significantly lower prices from manufacturers like Topping, resulting in extremely poor cost-performance."
-tags: [America, Audio, Amplifier, "AV receiver", HDAM, Premium, Harman]
+tags: [AV Receiver, America, Amplifiers, Audio, HDAM, Harman, Premium]
 permalink: /companies/en/marantz/
 ---
-
 ## Overview
 
 Marantz was founded in 1953 by Saul B. Marantz in New York as a premium audio brand. Initially renowned for high-end audio amplifiers, the company later fell under Japanese ownership before merging with Denon in 2002 to form D&M Holdings. Currently operating as part of Harman International (Samsung subsidiary), Marantz maintains a distinctive position in the luxury audio market.

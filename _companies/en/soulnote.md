@@ -8,10 +8,9 @@ ref: soulnote
 date: 2025-07-22
 rating: [1.2, 0.2, 0.3, 0.0, 0.6, 0.1]
 summary: "A high-end audio manufacturer founded by former Marantz Japan engineers. It features a zero negative feedback circuit design, but its claims lack scientific evidence, and its extremely high pricing results in remarkably poor cost-performance."
-tags: [Japanese Manufacturer, High-end Audio, Amplifier, DAC, Zero Negative Feedback]
+tags: [Amplifiers, DAC, High-end, Japan, Zero Negative Feedback]
 permalink: /companies/en/soulnote/
 ---
-
 ## Overview
 
 SOULNOTE is a Japanese high-end audio manufacturer founded in 2004 by former Marantz Japan engineers. As a brand of CSR Corporation, based in Kanagawa, it develops and manufactures amplifiers and DACs, notably featuring a zero negative feedback (non-NFB) circuit design. While its design philosophy has attracted attention from some audiophiles, this review will evaluate its actual performance from a scientific and objective perspective.

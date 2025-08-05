@@ -8,7 +8,7 @@ ref: polk-audio-monitor-xt-mxt20
 date: 2025-07-18
 rating: [3.6, 0.6, 0.5, 1.0, 0.8, 0.7]
 summary: "The Polk Audio Monitor XT MXT20 is the most cost-effective option in its performance category. While its brand reliability is highly rated, the objective audio improvement effects are limited."
-tags: [Bookshelf speakers, Hi-Res, Mid-Price Range, Monitor XT, Polk]
+tags: [Bookshelf speakers, Hi-Res, Mid-range, Monitor XT, Polk]
 permalink: /products/en/polk-audio-monitor-xt-mxt20/
 ---
 ## Overview

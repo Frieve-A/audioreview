@@ -8,10 +8,9 @@ ref: trinnov-audio-altitude48ext
 date: 2025-07-14
 rating: [4.1, 0.5, 0.9, 1.0, 0.9, 0.8]
 summary: "最大64チャンネル処理を実現する技術的に最高水準のAVプロセッサー。競合が存在しないため、その独自の価値からコストパフォーマンスは最高評価となる。"
-tags: [プロセッサー, 高級オーディオ, シアター, Trinnov]
+tags: [Trinnov, シアター, プロセッサー, 高級]
 permalink: /products/ja/trinnov-audio-altitude48ext/
 ---
-
 ## 概要
 
 Trinnov Audio Altitude48extは、最高級プライベートシアター向けに設計された、Altitude32の能力を最大64チャンネル処理まで拡張するユニットです。単体では機能せず、Altitude32と組み合わせることで最大48の個別デコード出力と64の処理出力を提供します。Trinnovが誇る世界的に評価された音響補正技術「Optimizer」を搭載し、24.1.10チャンネルを超える超大規模なAtmos構成にも対応可能です。プロ市場での豊富な実績に裏打ちされた、業界最高水準の技術力を結集した製品です。

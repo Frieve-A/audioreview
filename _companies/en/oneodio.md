@@ -8,7 +8,7 @@ ref: oneodio
 date: 2025-07-29
 rating: [2.2, 0.3, 0.4, 0.7, 0.4, 0.4]
 summary: "A Chinese company specializing in DJ and studio headphones. While it offers products in the 20-170 USD range, a lack of disclosed measurement data raises questions about scientific validity. Entry-level models show high cost-performance, but price competitiveness tends to decrease on higher-end models."
-tags: [Chinese Brand, DJ, Entry Level, Headphones, Studio monitors]
+tags: [China, DJ, Entry-level, Headphones, Studio monitors]
 permalink: /companies/en/oneodio/
 ---
 ## Overview

@@ -8,7 +8,7 @@ ref: fx-audio-D302J++
 date: 2025-07-22
 rating: [2.6, 0.4, 0.4, 0.8, 0.5, 0.5]
 summary: "A full-digital amplifier utilizing the STMicroelectronics STA369BW. It features a 15W×2ch output and a 4-input system (USB/optical/coaxial/analog), but its measurement performance falls short of modern standards, and its technical advantages are limited."
-tags: [Class-D, DAC, Digital Amplifier, Full Digital, Headphone amplifier, STA369BW]
+tags: [Class D, DAC, Digital Amplifier, Full Digital, Headphone amplifier, STA369BW]
 permalink: /products/en/fx-audio-D302J++/
 ---
 ## Overview

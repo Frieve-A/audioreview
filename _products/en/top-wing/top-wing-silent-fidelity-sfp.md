@@ -8,10 +8,9 @@ ref: top-wing-silent-fidelity-sfp
 date: 2025-07-25
 rating: [1.6, 0.2, 0.7, 0.1, 0.5, 0.1]
 summary: "The world's first audio-grade SFP module for network audio. While providing optical isolation, it faces significant challenges in scientific validity and cost-effectiveness."
-tags: [Network Audio, Optical Isolation, SFP Module, Digital]
+tags: [Digital, Network audio, Optical Isolation, SFP Module]
 permalink: /products/en/top-wing-silent-fidelity-sfp/
 ---
-
 ## Overview
 
 The TOP WING Silent Fidelity SFP is the world's first audio-grade SFP module developed specifically for network audio systems. While industrial SFP modules have traditionally been adapted for audio applications, this product is designed exclusively for audio use. By converting electrical signals to optical signals, it aims to achieve electrical isolation between network equipment and audio devices, blocking noise propagation. It comes with a dedicated 3-meter cable, features ST connectors in a 2-unit configuration, and supports transmission distances up to 30 meters.

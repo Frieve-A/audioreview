@@ -8,10 +8,9 @@ ref: antelope-audio-amari
 date: 2025-07-13
 rating: [2.6, 0.9, 0.7, 0.0, 0.5, 0.5]
 summary: "Reference-grade AD/DA converter featuring 8×DAC architecture and 138dB dynamic range. Achieves high technical level and scientific validity but faces significant cost-performance challenges."
-tags: [AD/DA Converter, High-End, Mastering, Reference, Premium Equipment]
+tags: [AD/DA Converter, High-end, Mastering, Premium Equipment, Reference]
 permalink: /products/en/antelope-audio-amari/
 ---
-
 ## Overview
 
 The Antelope Audio Amari is a reference-grade AD/DA converter that employs an 8×DAC architecture (4×CS43198 chips per channel) to achieve an industry-leading 138dB dynamic range. Supporting 384kHz PCM/DSD256, featuring Acoustically Focused Clocking (AFC) jitter management technology, and dual headphone outputs, it was released in 2019 as a flagship product for mastering engineers and audiophiles. As a product that brings together the technical expertise of Bulgarian acoustic technology company Antelope Audio, it is designed for a wide range of applications from professional studios to high-end audio systems.

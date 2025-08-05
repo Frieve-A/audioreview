@@ -8,7 +8,7 @@ ref: dbx
 date: 2025-07-16
 rating: [3.8, 0.7, 0.6, 1.0, 0.8, 0.7]
 summary: "A veteran American company with over 50 years of history in the professional audio industry. Currently operates as part of Harman International (Samsung subsidiary), focusing on signal processors and speaker management equipment."
-tags: [America, Compressor, Preamp, Professional Audio, Signal Processing]
+tags: [America, Compressors, Preamps, Professional, Signal Processing]
 permalink: /companies/en/dbx/
 ---
 ## Overview

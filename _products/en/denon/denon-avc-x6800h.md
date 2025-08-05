@@ -8,10 +8,9 @@ ref: denon-avc-x6800h
 date: 2025-08-01
 rating: [3.6, 0.8, 0.6, 0.8, 0.8, 0.6]
 summary: "As a Made-in-Japan 11.4-channel AV receiver, this product boasts high basic performance but has room for improvement in cost-performance compared to competing products."
-tags: [AV Receiver, 8K, Dolby Atmos, DTS:X, Made in Japan]
+tags: [8K, AV Receiver, DTS:X, Dolby Atmos, Japan]
 permalink: /products/en/denon-avc-x6800h/
 ---
-
 ## Overview
 
 The Denon AVC-X6800H is a flagship 11.4-channel AV receiver announced in 2023. Manufactured in Japanese factories, it supports 8K/60Hz and 4K/120Hz video, along with Dolby Atmos, DTS:X Pro, and Auro-3D. It features a 140W/ch output (8Ω, 20Hz-20kHz, THD 0.05%, 2ch driven) and incorporates proprietary AL32 processing technology. As a high-end model from Denon, it holds an established position in the AV receiver market.

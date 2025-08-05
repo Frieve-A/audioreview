@@ -8,7 +8,7 @@ ref: hedd-audio
 date: 2025-07-29
 rating: [2.9, 0.6, 0.8, 0.2, 0.7, 0.6]
 summary: "Berlin-based HEDD Audio is a specialized Air Motion Transformer (AMT) technology manufacturer. While its unique technological developments are commendable, its products are extremely overpriced for their performance, showing a significant disadvantage in cost-performance compared to competitors."
-tags: [AMT, Germany, Headphones, Professional Audio, Studio monitors]
+tags: [AMT, Germany, Headphones, Professional, Studio monitors]
 permalink: /companies/en/hedd-audio/
 ---
 ## Overview

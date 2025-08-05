@@ -8,10 +8,9 @@ ref: nordost
 date: 2025-07-06
 rating: [1.7, 0.0, 0.8, 0.0, 0.8, 0.1]
 summary: "Based in Massachusetts, USA, this is a highly renowned manufacturer in the audio cable industry. Known for proprietary 'Micro Monofilament' technology and flat ribbon design. While products are meticulously manufactured, prices are extremely high. Claims of sonic improvement lack objective scientific evidence, and under our review policy's strict cost-performance evaluation, they score markedly low compared to inexpensive professional cables. Not recommended for users prioritizing scientific rationality and cost over brand prestige and subjective evaluation."
-tags: [America, Cable, High-End Audio]
+tags: [America, Cables, High-end]
 permalink: /companies/en/nordost/
 ---
-
 ## Overview
 
 Nordost is a high-performance cable manufacturer founded in 1991 in the United States. The company entered the audio industry with distinctive flat ribbon-shaped speaker cables, reportedly applying technology cultivated in the aerospace industry. Their core "Micro Monofilament" technology claims to wrap FEP (fluorinated ethylene propylene) filaments spirally around conductors to maximize air (an ideal dielectric) usage, thereby increasing signal transmission speed and reducing losses. Their product line follows a clear hierarchical structure, ranging from entry models to ultra-expensive reference models.

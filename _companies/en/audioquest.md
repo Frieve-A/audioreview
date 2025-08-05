@@ -8,10 +8,9 @@ ref: audioquest
 date: 2025-07-06
 rating: [2.6, 0.3, 0.8, 0.1, 0.8, 0.6]
 summary: "American cable specialist founded in 1980. Develops high-end cables using proprietary technologies like silver wire, single-crystal copper, and DBS (Dielectric Bias System). While some products show measurable electrical characteristic improvements, audible changes are often not scientifically proven. With products reaching tens of thousands of dollars per meter, cost-performance is not recommendable. However, high-quality construction and beautiful finishes provide satisfaction as system components."
-tags: [America, Cables, Accessories, High-End, Controversial]
+tags: [Accessories, America, Cables, Controversial, High-end]
 permalink: /companies/en/audioquest/
 ---
-
 ## Overview
 
 AudioQuest is a cable specialist founded in 1980 by William E. Low in California. They offer a wide product lineup including audio cables, video cables, and digital cables, with price ranges from entry-level to ultra-high-end products.

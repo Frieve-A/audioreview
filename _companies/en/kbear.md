@@ -8,7 +8,7 @@ ref: kbear
 date: 2025-07-24
 rating: [2.6, 0.4, 0.4, 0.7, 0.6, 0.5]
 summary: "IEM brand established in 2014 by Shenzhen Lingyin Technology in China. Offers some competitiveness in the low-price range, but a clear gap exists with industry leaders in scientific transparency and technological innovation."
-tags: [Chinese Manufacturer, Hybrid Driver, In-ear monitors, Low-price Range]
+tags: [Budget, China, Hybrid Driver, In-ear monitors]
 permalink: /companies/en/kbear/
 ---
 ## Overview

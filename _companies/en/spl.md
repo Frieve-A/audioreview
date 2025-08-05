@@ -8,10 +8,9 @@ ref: spl
 date: 2025-08-03
 rating: [3.5, 0.9, 0.8, 0.2, 0.8, 0.8]
 summary: "German audio equipment manufacturer founded in 1984. Achieves excellent measurement performance through proprietary 120V VOLTAiR technology, but faces cost disadvantages compared to products with equivalent performance."
-tags: [Germany, Amplifier, Preamplifier, VOLTAiR, High-End]
+tags: [Amplifiers, Germany, High-end, Preamplifier, VOLTAiR]
 permalink: /companies/en/spl/
 ---
-
 ## Overview
 
 SPL (Sound Performance Lab) is a German audio equipment manufacturer established in 1984. Based in Niederkrüchten, Germany, the company develops products ranging from professional audio to consumer high-end audio equipment. The company's distinctive feature is its proprietary 120V VOLTAiR technology, which adopts ±60V high-voltage rails compared to conventional ±15V power rails to improve measurement performance. Key products include the Performer s900 power amplifier and Elector preamplifier, both featuring VOLTAiR technology in their design.

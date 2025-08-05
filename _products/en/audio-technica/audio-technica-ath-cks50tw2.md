@@ -8,7 +8,7 @@ ref: audio-technica-ath-cks50tw2
 date: 2025-07-20
 rating: [3.1, 0.6, 0.5, 0.7, 0.7, 0.6]
 summary: "The Audio-Technica ATH-CKS50TW2 is a true wireless earphone with 9mm drivers and hybrid noise canceling. While it boasts a long battery life of up to 50 hours, its scientific improvements in sound quality are limited, and more cost-effective options exist."
-tags: [Bass Boost, Bluetooth, IPX4, Noise-Cancelling, True wireless earbuds]
+tags: [Bass Boost, Bluetooth, IPX4, Noise cancelling, True wireless earbuds]
 permalink: /products/en/audio-technica-ath-cks50tw2/
 ---
 ## Overview

@@ -8,10 +8,9 @@ ref: beatsonic
 date: 2025-07-30
 rating: [2.6, 0.4, 0.5, 0.5, 0.6, 0.6]
 summary: "Japanese car audio manufacturer founded in 1991. Offers vehicle-specific plug-and-play products, balancing excellent THD 0.01% measurement performance with convenience."
-tags: [Car Audio, Amplifier, Interface, Japanese Manufacturer]
+tags: [Amplifiers, Car Audio, Interfaces, Japan]
 permalink: /companies/en/beatsonic/
 ---
-
 ## Overview
 
 Beat-Sonic is a Japanese car audio manufacturer founded in Aichi Prefecture in 1991. Specializing in vehicle-specific amplifiers and interface products for Toyota and Lexus vehicles, the company expanded to the North American market in 2007. Known for its easy plug-and-play installation, Beat-Sonic products are carried by over 1000 car audio shops and dealerships. The company offers products such as the Encore series amplifiers, S-Connect interfaces, and MVA series integration adapters.

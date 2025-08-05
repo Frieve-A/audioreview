@@ -8,7 +8,7 @@ ref: oasa-electronics-egretta-ts-a200asb
 date: 2025-07-23
 rating: [1.9, 0.4, 0.3, 0.3, 0.4, 0.5]
 summary: "The OASA Electronics Egretta TS-A200asB features a unique omnidirectional acoustic design, but suffers from limited frequency response and poor cost-performance, as superior stereo alternatives are available for a fraction of the price."
-tags: [Active speakers, Desktop speaker, High-End, Omnidirectional Speaker]
+tags: [Active speakers, Desktop speaker, High-end, Omnidirectional Speaker]
 permalink: /products/en/oasa-electronics-egretta-ts-a200asb/
 ---
 ## Overview

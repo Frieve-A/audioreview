@@ -8,10 +8,9 @@ ref: eversolo-dmp-a8
 date: 2025-07-08
 rating: [4.2, 0.9, 0.8, 0.9, 0.8, 0.8]
 summary: "Premium streaming DAC featuring AKM Velvet Sound technology. Achieves excellent measured performance with THD+N -120dB and SNR 128dB via XLR outputs. Includes 6-inch touchscreen, fully balanced topology, and R2R volume control, but faces value challenges at USD 1,980 USD pricing."
-tags: [AKM, "Balanced output", DAC, "Network streamer", Preamp]
+tags: [AKM, Balanced output, DAC, Network streamer, Preamps]
 permalink: /products/en/eversolo-dmp-a8/
 ---
-
 ## Overview
 
 The Eversolo DMP-A8 is the company's flagship streaming DAC launched in 2023, priced at USD 1,980 USD—approximately double the DMP-A6's asking price. This premium unit features AKM AK4499EX + AK4191EQ Velvet Sound technology, fully balanced circuit topology, R2R volume control, and a 6-inch touchscreen interface. The design incorporates dual power supplies (linear + switching), Accusilicon femtosecond clocks, and premium components including German WIMA and Japanese Nichicon capacitors. It supports DSD512/PCM 768kHz 32-bit playback with Roon Ready certification and earned the EISA 2024-2025 Best Product award. Independent measurements confirm its exceptional performance specifications across multiple technical parameters.

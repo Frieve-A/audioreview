@@ -8,10 +8,9 @@ ref: cmf
 date: 2025-07-30
 rating: [3.3, 0.5, 0.5, 0.9, 0.7, 0.7]
 summary: "Achieves high cost performance and functionality, but acoustic fidelity is significantly below measurement standards"
-tags: [Wireless Earbuds, ANC, LDAC, Budget Segment, Nothing]
+tags: [ANC, Budget, LDAC, Nothing, Wireless Earbuds]
 permalink: /companies/en/cmf/
 ---
-
 ## Overview
 
 CMF, established in September 2023 as a subsidiary brand of UK-based Nothing, began its full-scale expansion in 2024. Its main products are the CMF Buds series, which have gained attention by incorporating features like Active Noise Cancellation (ANC), LDAC codec support, and long battery life at a low price point. The flagship product, CMF Buds Pro 2, features a unique Smart Dial, emphasizing a design focused on physical operational feel.

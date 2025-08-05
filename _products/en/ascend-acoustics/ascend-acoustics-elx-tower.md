@@ -8,7 +8,7 @@ ref: ascend-acoustics-elx-tower
 date: 2025-07-28
 rating: [4.5, 0.8, 0.9, 1.0, 0.9, 0.9]
 summary: "An advanced 3-way tower optimized with Klippel NFS, delivering exceptional measured performance at a class-disrupting price point."
-tags: [3-way, Floorstanding speakers, High-end, Tower]
+tags: [3-Way, Floorstanding speakers, High-end, Tower]
 permalink: /products/en/ascend-acoustics-elx-tower/
 ---
 ## Overview

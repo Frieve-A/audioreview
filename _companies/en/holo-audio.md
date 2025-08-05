@@ -8,10 +8,9 @@ ref: holo-audio
 date: 2025-07-31
 rating: [2.9, 0.8, 0.7, 0.2, 0.8, 0.4]
 summary: "A Chinese manufacturer specializing in R2R ladder DACs. While possessing excellent measurement performance, its cost-performance is remarkably low due to the existence of more affordable and higher-performing Delta-Sigma DACs, raising questions about the rationality of its technological choices."
-tags: [DAC, R2R, High-End, Chinese-Manufacturer, Ladder-DAC]
+tags: [Chinese-Manufacturer, DAC, High-end, Ladder-DAC, R2R]
 permalink: /companies/en/holo-audio/
 ---
-
 ## Overview
 
 Holo Audio is an audio manufacturer based in China, specializing in product development focused on R2R ladder DAC technology. Its flagship product, the May DAC, achieved high acclaim at the time of its release for features like resolution exceeding 22 bits. The current product lineup ranges from the entry-level Cyan 2 (approx. 1,200 USD) to the flagship May KTE (approx. 5,600 USD). The company's key feature is its proprietary technology that corrects resistor tolerance errors, a known challenge in R2R technology.

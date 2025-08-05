@@ -8,7 +8,7 @@ ref: neumann-kh-310-a
 date: 2025-07-28
 rating: [4.1, 0.9, 0.8, 0.7, 0.8, 0.9]
 summary: "科学的測定で卓越した性能を示すプロフェッショナル3ウェイスタジオモニター。34Hz-21kHz の広帯域再生と116dB超の最大音圧レベルを実現。MMD波面制御技術により正確な音像定位を提供します。"
-tags: [3-way, Active Monitor, Neumann, Professional Audio, スタジオモニター]
+tags: [3ウェイ, Active Monitor, Neumann, Professional Audio, スタジオモニター]
 permalink: /products/ja/neumann-kh-310-a/
 ---
 ## 概要

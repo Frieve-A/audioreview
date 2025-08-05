@@ -8,10 +8,9 @@ ref: beats-studio-buds-plus
 date: 2025-07-09
 rating: [3.1, 0.7, 0.6, 0.4, 0.8, 0.6]
 summary: "The Beats Studio Buds+ achieves 1.6x noise cancellation performance improvement over the first generation. Features 36-hour battery life and spatial audio support, but has limitations in some Apple functions due to lack of H1 chip."
-tags: ["True wireless earbuds", "Active noise cancellation", "Spatial audio", "Google Fast Pair"]
+tags: [Active noise cancelling, Google Fast Pair, Spatial audio, True wireless earbuds]
 permalink: /products/en/beats-studio-buds-plus/
 ---
-
 ## Overview
 
 The Beats Studio Buds+ is a true wireless earphone released in 2023 by Beats Electronics. It achieves 1.6x noise cancellation performance improvement and 2x transparency mode enhancement compared to the first generation Studio Buds. Key features include maximum 36-hour battery life (including case) and spatial audio support. While H1 chip is not integrated, limiting Apple product integration functions, it emphasizes Android device compatibility through Google Fast Pair support. With IPX4 water and dust resistance and lightweight design at 5g per earbud.

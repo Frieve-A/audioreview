@@ -8,10 +8,9 @@ ref: saec
 date: 2025-07-22
 rating: [1.5, 0.3, 0.5, 0.0, 0.4, 0.3]
 summary: "Japanese veteran tonearm manufacturer known for double knife-edge technology. While demonstrating high technical expertise, the scientific validity is extremely low due to specialization in fundamentally obsolete analog record playback technology."
-tags: [Tonearm, Analog, Japanese Made, High-End]
+tags: [Analog, High-end, Japanese Made, Tonearm]
 permalink: /companies/en/saec/
 ---
-
 ## Overview
 
 SAEC (Sound of Audio Engineering Company) is a Japanese audio manufacturer established in 1974. The company is renowned for manufacturing tonearms featuring proprietary double knife-edge bearing technology, particularly gaining industry recognition with its WE-308 series. They continue to maintain precision handcrafted manufacturing and released the WE-4700 in 2019, their first new model in approximately 40 years. However, the company's technology specializes in analog record playback, a scientifically inferior medium, presenting fundamental limitations from a modern acoustic engineering perspective.

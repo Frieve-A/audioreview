@@ -8,10 +8,9 @@ ref: polk-audio-mxt12
 date: 2025-07-23
 rating: [2.4, 0.4, 0.3, 0.6, 0.6, 0.5]
 summary: "The Polk Audio Monitor XT12 is a 12-inch subwoofer. However, its published specifications are limited, and more powerful alternatives exist in the same price range, presenting a challenge in cost-performance."
-tags: [Subwoofer, Home Theater, Polk Audio, 12-inch, Class A/B]
+tags: [12-inch, Class AB, Home Theater, Polk Audio, Subwoofer]
 permalink: /products/en/polk-audio-mxt12/
 ---
-
 ## Overview
 
 The Polk Audio Monitor XT12 is a 12-inch powered subwoofer from the established American audio manufacturer, Polk. It features a Dynamic Balance woofer and a Class A/B amplifier rated at 100W peak (50W RMS), with a nominal frequency response of 24Hz-160Hz to handle low-frequency duties in a home theater system. It is equipped with a variable low-pass filter (80-160Hz), phase control, and volume adjustment, optimized for integration with Dolby Atmos and DTS:X compatible AV receivers.

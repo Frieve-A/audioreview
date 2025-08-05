@@ -8,10 +8,9 @@ ref: western-electric-300B
 date: 2025-07-26
 rating: [3.4, 0.8, 0.7, 0.2, 0.9, 0.8]
 summary: "A vacuum tube faithfully reproducing 1938 specifications, but extremely expensive compared to modern alternatives"
-tags: [Vacuum Tube, Amplifier, Western Electric, 300B, Class A]
+tags: [300B, Amplifiers, Class A, Vacuum Tube, Western Electric]
 permalink: /products/en/western-electric-300B/
 ---
-
 ## Overview
 
 The Western Electric 300B is a triode vacuum tube that has been reproduced since 2020, faithfully recreating the original 1938 specifications. Hand-crafted at the Roseville factory in the United States, it boasts a 5-year warranty and 40,000-hour lifespan. As a directly heated triode with 8-9 watts of output, it is used as an output tube in single-ended amplifiers. Manufactured using traditional methods, this product has garnered attention as the revival of a historically acclaimed brand among audio enthusiasts. In Japan, official sales began in 2021 through Electori, with a pair price of 210,000 yen.

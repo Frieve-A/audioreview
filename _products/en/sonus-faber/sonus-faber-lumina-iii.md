@@ -8,10 +8,9 @@ ref: sonus-faber-lumina-iii
 date: 2025-08-01
 rating: [3.1, 0.6, 0.6, 0.4, 0.8, 0.7]
 summary: "A floorstanding speaker touting Italian craftsmanship, but facing challenges in the relationship between measured performance and price"
-tags: [Floorstanding Speaker, 3-Way, Italy, Sonus Faber]
+tags: [3-Way, Floorstanding speakers, Italy, Sonus Faber]
 permalink: /products/en/sonus-faber-lumina-iii/
 ---
-
 ## Overview
 
 The Sonus Faber Lumina III is a 3-way floorstanding speaker positioned at the entry level of the company's lineup. It features a 1.14-inch DAD (Damped Apex Dome) tweeter, 5-inch pulp cone midrange, and dual 5-inch pulp cone woofers, with crossover points at 350Hz and 3.5kHz. Priced at 368,500 yen in the Japanese market, it shares tweeter and midrange drivers with the company's higher-end Sonetto series. The product is positioned as showcasing Italian design beauty and traditional woodworking techniques.

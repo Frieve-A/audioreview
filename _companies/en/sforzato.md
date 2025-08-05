@@ -8,7 +8,7 @@ ref: sforzato
 date: 2025-08-03
 rating: [2.5, 0.6, 0.7, 0.0, 0.7, 0.5]
 summary: "Japanese high-end network audio equipment manufacturer. Develops proprietary DIRETTA and ZERO LINK technologies but has severe cost-performance issues and lacks measurement data"
-tags: [DAC, High-End, Japanese Manufacturer, Network player]
+tags: [DAC, High-end, Japan, Network player]
 permalink: /companies/en/sforzato/
 ---
 ## Overview

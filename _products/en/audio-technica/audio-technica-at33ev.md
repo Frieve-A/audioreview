@@ -8,10 +8,9 @@ ref: audio-technica-at33ev
 date: 2025-07-12
 rating: [2.0, 0.2, 0.3, 0.4, 0.8, 0.3]
 summary: "Features advanced technology for an MC cartridge, but its absolute fidelity falls short of digital standards. Cost-performance is challenged by the existence of more affordable, high-performance MM cartridges."
-tags: [Cartridge, MC, Analog, Audio-Technica]
+tags: [Analog, Audio-Technica, Cartridges, MC]
 permalink: /products/en/audio-technica-at33ev/
 ---
-
 ## Overview
 
 The Audio-Technica AT33EV is an MC cartridge employing a dual moving coil design. It features neodymium magnets and PCOCC wire, combined with a nude elliptical stylus and duralumin cantilever. It has a nominal frequency response of 15-50kHz, an output voltage of 0.3mV, and channel separation of 30dB. It is positioned as Audio-Technica's mid-tier MC cartridge.

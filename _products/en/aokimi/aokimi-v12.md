@@ -8,10 +8,9 @@ ref: aokimi-v12
 date: 2025-07-19
 rating: [2.0, 0.2, 0.1, 1.0, 0.3, 0.4]
 summary: "AOKIMI V12 is an entry-level true wireless earphone from a Chinese audio brand. It offers a range of features at a market-leading low price of 14.50 USD, but with significant compromises in sound quality, its overall value remains questionable."
-tags: [Earphones, Bluetooth, Wireless, Noise Cancellation, Entry Model, Chinese Brand]
+tags: [Bluetooth, China, Earphones, Entry-level, Noise Cancellation, Wireless]
 permalink: /products/en/aokimi-v12/
 ---
-
 ## Overview
 
 AOKIMI V12 is a true wireless earphone manufactured by Chinese company AOKIMI. Equipped with Bluetooth 5.3 technology, 36-hour playback, and IPX7 water resistance, it is sold at the low price of 14.50 USD. While it has gained popularity and ranked highly on Amazon, the reliability of these ratings has been questioned. AOKIMI is an emerging brand that entered the Japanese market around 2023, primarily focusing on low-priced wireless audio products.

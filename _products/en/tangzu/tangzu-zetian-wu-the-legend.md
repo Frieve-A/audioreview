@@ -8,7 +8,7 @@ ref: tangzu-zetian-wu-the-legend
 date: 2025-07-27
 rating: [2.7, 0.2, 0.7, 0.9, 0.6, 0.3]
 summary: "High-end IEM with dual planar drivers, but with serious issues in measured performance"
-tags: [Dual-Driver, High-End, In-ear monitors, Planar]
+tags: [Dual-Driver, High-end, In-ear monitors, Planar]
 permalink: /products/en/tangzu-zetian-wu-the-legend/
 ---
 ## Overview

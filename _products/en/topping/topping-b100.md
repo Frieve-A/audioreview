@@ -8,10 +8,9 @@ ref: topping-b100
 date: 2025-07-19
 rating: [3.1, 0.8, 0.8, 0.4, 0.3, 0.8]
 summary: "The Topping B100 is a Class AB monoblock power amplifier that achieves excellent measured performance, but its cost-performance is questionable as an equivalent product is available for less than half the price."
-tags: [Amplifier, Monoblock, Class AB, Topping]
+tags: [Amplifiers, Class AB, Monoblock, Topping]
 permalink: /products/en/topping-b100/
 ---
-
 ## Overview
 
 The Topping B100 is a Class AB monoblock power amplifier featuring the company's proprietary T'ang-ku-la Module. It delivers 100W into 4Ω and 50W into 8Ω, housed in an extremely compact chassis measuring 44×200×147mm (H×W×D). It achieves excellent measured performance with a THD+N of less than 0.00008% and an SNR of 151dB. It is equipped with XLR/TRS/RCA inputs and a 12V trigger function. Embodying the measurement-focused design philosophy of the Topping brand, it is designed to achieve highly transparent audio reproduction.

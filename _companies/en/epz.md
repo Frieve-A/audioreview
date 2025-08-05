@@ -8,7 +8,7 @@ ref: epz
 date: 2025-07-27
 rating: [2.8, 0.6, 0.5, 0.6, 0.4, 0.7]
 summary: "Emerging IEM manufacturer founded in 2019. Noted for 3D printing and affordable entry-level models, but faces challenges in upper-tier competitiveness."
-tags: [3D Printing, Chinese Audio, Dynamic driver, Earphones, Hybrid, In-ear monitors]
+tags: [3D Printing, China, Dynamic driver, Earphones, Hybrid, In-ear monitors]
 permalink: /companies/en/epz/
 ---
 ## Overview

@@ -8,10 +8,9 @@ ref: vienna-acoustics
 date: 2025-07-21
 rating: [2.3, 0.4, 0.7, 0.3, 0.6, 0.3]
 summary: "Austrian high-end speaker manufacturer. Features proprietary X3P cone technology, but measured performance lags behind modern standards. Extremely high pricing results in poor cost-performance compared to more affordable, superior alternatives like the KEF LS50 Meta."
-tags: [Speakers, Austria, High-End, High-Price]
+tags: [Austria, High-end, Speakers]
 permalink: /companies/en/vienna-acoustics/
 ---
-
 ## Overview
 
 Vienna Acoustics was founded in Vienna, Austria in 1989 by Peter Gansterer and has operated as an independent company for 34 years under the corporate philosophy "the art of natural sound." The company is characterized by its proprietary X3P cone material technology and spider cone design, known for its product lines named after classical musicians such as Mozart, Beethoven, and Bach. The Klimt series represents their top-tier line, with The Music priced at 21,000 GBP (approximately 28,000 USD).

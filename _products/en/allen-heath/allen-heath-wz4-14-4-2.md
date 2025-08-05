@@ -8,10 +8,9 @@ ref: allen-heath-wz4-14-4-2
 date: 2025-07-26
 rating: [3.5, 0.9, 0.7, 0.3, 0.8, 0.8]
 summary: "A professional analog mixer with excellent, transparent-level measurement performance, but with significant cost-performance issues compared to digital mixers."
-tags: [Mixer, Analog, Live Sound, Pro Audio, Allen & Heath]
+tags: [Allen & Heath, Analog, Live Sound, Mixers, Pro Audio]
 permalink: /products/en/allen-heath-wz4-14-4-2/
 ---
-
 ## Overview
 
 The Allen & Heath WZ4 14:4:2 is a professional 14-channel analog mixer specialized for live sound applications. Designed to handle both FOH (Front of House) and monitor duties, it features 10 mic/line inputs and 2 stereo channels. With 4 group buses and 2 matrix outputs, plus 6 auxiliary sends for flexible routing capabilities, it's part of the company's MixWizard4 series, emphasizing reliability and build quality for professional environments.

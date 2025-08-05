@@ -8,7 +8,7 @@ ref: universal-audio-apollo-x16-gen-2
 date: 2025-07-13
 rating: [4.6, 0.8, 0.9, 1.0, 0.9, 1.0]
 summary: "A professional audio interface achieving 133dB dynamic range and -129dB THD+N. With powerful DSP capabilities, it offers competitive cost-performance against similar products in its price range, making the choice dependent on the value placed on the UAD plugin ecosystem."
-tags: [Audio interface, DSP, High-price, Multi-channel, Professional, Universal Audio]
+tags: [Audio interface, DSP, High-end, Multi-channel, Professional, Universal Audio]
 permalink: /products/en/universal-audio-apollo-x16-gen-2/
 ---
 ## Overview

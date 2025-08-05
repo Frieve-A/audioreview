@@ -8,10 +8,9 @@ ref: saec-stratosphere-sus-020
 date: 2025-07-22
 rating: [1.2, 0.0, 0.6, 0.0, 0.6, 0.0]
 summary: "PC-TripleC EX導体を採用した最高級USBケーブルだが、デジタル伝送における科学的有効性やコストパフォーマンスは著しく低いと評価される"
-tags: [USBケーブル, SAEC, PC-TripleC, デジタル音響, 高級オーディオ]
+tags: [PC-TripleC, SAEC, USBケーブル, デジタル音響, 高級]
 permalink: /products/ja/saec-stratosphere-sus-020/
 ---
-
 ## 概要
 
 SAEC STRATOSPHERE SUS-020は、日本の老舗オーディオケーブルメーカーであるサエクコマースが手掛ける最高級USBケーブルです。1974年設立のSAECは、独自のPC-TripleC導体技術の発明者として知られ、1983年からオーディオケーブル製造に本格参入しました。SUS-020は同社のSTRATOSPHEREシリーズの頂点に位置し、PC-TripleC EXという銅と銀を組み合わせた特殊導体を採用しています。価格は48,000円（税別、実売価格 約52,800円税込）で、0.7mから4.5mまでの複数の長さとUSB A-B、A-micro B、A-Cなどの各種コネクタ仕様を展開しています。

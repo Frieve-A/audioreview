@@ -8,10 +8,9 @@ ref: kef-r11-meta
 date: 2025-07-29
 rating: [4.2, 0.8, 0.8, 1.0, 0.8, 0.8]
 summary: "Flagship tower speaker featuring 12th generation Uni-Q + MAT technology. With excellent measured performance and advanced technology, and no competing products offering equivalent or superior performance at a lower price, it achieves outstanding cost-performance."
-tags: [KEF, Floorstanding, Uni-Q, MAT, 3-way]
+tags: [3-Way, Floorstanding, KEF, MAT, Uni-Q]
 permalink: /products/en/kef-r11-meta/
 ---
-
 ## Overview
 
 The KEF R11 Meta is the flagship floorstanding speaker of the R Series from British manufacturer KEF. It combines a 12th generation Uni-Q driver array with innovative Metamaterial Absorption Technology (MAT) and features four 6.5-inch hybrid aluminum bass drivers in a 3-way bass reflex design. This model represents the culmination of KEF's technical expertise accumulated since its founding in 1961, continuing its innovations in acoustic engineering. Standing 129.1cm tall and weighing 36.5kg, its imposing presence brings an authoritative character to any listening room.

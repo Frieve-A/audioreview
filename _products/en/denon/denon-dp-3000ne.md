@@ -8,10 +8,9 @@ ref: denon-dp-3000ne
 date: 2025-07-27
 rating: [1.8, 0.3, 0.4, 0.3, 0.4, 0.4]
 summary: "Denon's flagship direct-drive turntable, suffering from performance that does not justify its price and serious quality control issues."
-tags: [Turntable, Direct Drive, Analog Audio, Record Player]
+tags: [Analog Audio, Direct Drive, Turntable]
 permalink: /products/en/denon-dp-3000ne/
 ---
-
 ## Overview
 
 The Denon DP-3000NE is sold as the company's flagship premium direct-drive turntable for 2,499 USD (market price). It features a 16-pole, 12-coil motor and a 2.8kg die-cast aluminum platter, with a design emphasis on vibration control. However, at this price point, competitive products exist that can achieve equivalent or superior functionality and performance at significantly lower costs, and questions remain about scientifically verifiable sound quality improvements.

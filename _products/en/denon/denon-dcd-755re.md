@@ -8,10 +8,9 @@ ref: denon-dcd-755re
 date: 2025-07-21
 rating: [2.2, 0.3, 0.4, 0.8, 0.5, 0.2]
 summary: "A CD player with many issues, including a complete lack of measurement data and the promotion of unscientific technology. As a discontinued product, support is a concern, and it offers little value as a dedicated device. Only its price on the used market provides a semblance of cost-performance."
-tags: [CD Player, DAC, Entry-Model]
+tags: [CD Player, DAC, Entry-level]
 permalink: /products/en/denon-dcd-755re/
 ---
-
 ## Overview
 
 The Denon DCD-755RE is an entry-level CD player equipped with a 192kHz/32bit DAC. While it promotes its AL32 Processing technology and supports basic CD playback as well as file playback via a USB port, its performance and design philosophy are subject to many questions.

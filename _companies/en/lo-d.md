@@ -8,7 +8,7 @@ ref: lo-d
 date: 2025-07-21
 rating: [1.2, 0.3, 0.3, 0.1, 0.2, 0.3]
 summary: "Hitachi's audio brand from the 1970s-80s. Analog technology was advanced for its era but significantly inferior by modern measurement standards"
-tags: [Amplifier, Analog, Cartridge, Japan, Speakers, Vintage]
+tags: [Amplifiers, Analog, Cartridges, Japan, Speakers, Vintage]
 permalink: /companies/en/lo-d/
 ---
 ## Overview

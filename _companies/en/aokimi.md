@@ -8,7 +8,7 @@ ref: aokimi
 date: 2025-07-16
 rating: [2.5, 0.3, 0.4, 1.0, 0.5, 0.3]
 summary: "While providing basic functionality as a low-price wireless earphone manufacturer, measurement performance and technology level fall significantly below industry averages"
-tags: [ANC, Bluetooth, Budget, Cost-Performance, Wireless earphones]
+tags: [ANC, Bluetooth, Budget, Wireless earphones]
 permalink: /companies/en/aokimi/
 ---
 ## Overview

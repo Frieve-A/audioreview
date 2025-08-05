@@ -8,10 +8,9 @@ ref: korg
 date: 2025-08-01
 rating: [2.6, 0.4, 0.6, 0.4, 0.8, 0.4]
 summary: "Instrument maker Korg's audio offerings are limited to specialized headphones for DJs and studio use. While serving a niche demand, they face challenges in playback fidelity and versatility for general listening."
-tags: [Headphones, DJ, Japanese Brand, Audio Equipment]
+tags: [Audio Equipment, DJ, Headphones, Japan]
 permalink: /companies/en/korg/
 ---
-
 ## Overview
 
 Korg, founded in 1963, is an electronic musical instrument manufacturer whose main business focuses on synthesizers and music production equipment. While it has produced USB DACs for PC audio in the past, it has since withdrawn from that market. Its current audio-related offerings are centered on headphones for professional DJs and studio use. This review evaluates Korg's aspect as an audio manufacturer through its particularly unique DJ headphone, the "NC-Q1."

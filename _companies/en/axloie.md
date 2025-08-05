@@ -8,10 +8,9 @@ ref: axloie
 date: 2025-07-16
 rating: [2.2, 0.3, 0.4, 0.6, 0.4, 0.5]
 summary: "Axloie is a Chinese wireless audio brand specializing in sports-oriented wireless earbuds with heart rate monitoring capabilities. Despite being positioned in the budget segment, the company faces challenges with technical transparency and measurement data disclosure, resulting in limited cost-performance compared to competing products in the same price range."
-tags: [Chinese Brand, Wireless Earbuds, Sports Use, Budget-focused]
+tags: [Budget, China, Sports Use, Wireless Earbuds]
 permalink: /companies/en/axloie/
 ---
-
 ## Overview
 
 Axloie is a Chinese audio brand that pursues "gorgeous and marvelous sound" philosophy. Since around 2019, they have focused primarily on Bluetooth 5.0-compatible wireless earbuds, selling globally through Amazon. They differentiate themselves in the fitness sector with IPX7 waterproof wireless earbuds designed for sports use and models featuring heart rate monitoring functionality. Their price range targets the budget-conscious segment at approximately 40-100 USD, with product lineups aimed at young music enthusiasts.

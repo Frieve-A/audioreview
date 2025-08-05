@@ -8,10 +8,9 @@ ref: stax-sr-l300
 date: 2025-07-18
 rating: [3.3, 0.7, 0.6, 0.7, 0.6, 0.7]
 summary: "Designed as STAX's entry-level electrostatic headphone, the SR-L300 delivers the characteristic transparency and resolution of electrostatic technology, achieving reasonable cost-performance even when combined with its dedicated amplifier compared to equivalent products"
-tags: [Electrostatic Headphones, STAX, High-End Audio, Open-Back]
+tags: [Electrostatic Headphones, High-end, Open-Back, STAX]
 permalink: /products/en/stax-sr-l300/
 ---
-
 ## Overview
 
 The STAX SR-L300 is an entry-level electrostatic headphone manufactured by STAX, a Japanese specialist manufacturer of electrostatic headphones. Founded in 1938, the company is known as a pioneer in electrostatic driver technology, and the SR-L300 occupies the most affordable price segment in their product lineup. It employs push-pull electrostatic design, elliptical sound elements, and rear open-air type enclosure, achieving wide-band reproduction from 7-41,000Hz and THD below 0.01%. However, due to the nature of electrostatic technology, a dedicated voltage amplifier (energizer) is mandatory, making the actual introduction cost significantly exceed the headphone unit price alone.

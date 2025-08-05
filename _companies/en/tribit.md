@@ -8,7 +8,7 @@ ref: tribit
 date: 2025-07-17
 rating: [2.1, 0.2, 0.3, 1.0, 0.3, 0.3]
 summary: "Founded in 2017, this Newark-based Bluetooth speaker manufacturer Tribit offers products in the 20,000-100,000 JPY price range, but measured performance falls significantly below industry standards with non-scientific design philosophy. Cost-performance is positioned at the cheapest level compared to equivalent-function competitors."
-tags: [Bluetooth, Budget-Oriented, Chinese-Made, Portable, Speakers]
+tags: [Bluetooth, Budget, Chinese-Made, Portable, Speakers]
 permalink: /companies/en/tribit/
 ---
 ## Overview

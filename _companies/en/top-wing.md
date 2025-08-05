@@ -8,10 +8,9 @@ ref: top-wing
 date: 2025-07-25
 rating: [1.9, 0.2, 0.6, 0.3, 0.6, 0.2]
 summary: "A Japanese audio manufacturer pursuing technical uniqueness with ultra-thin cables and a proprietary cartridge system. However, its claims lack scientific evidence, and its pricing is irrational. Cautious judgment is required before purchase."
-tags: [Cables, Cartridges, Japanese Manufacturer, Ultra-thin Technology]
+tags: [Cables, Cartridges, Japan, Ultra-thin Technology]
 permalink: /companies/en/top-wing/
 ---
-
 ## Overview
 
 TOP WING Cybersound Group is a Japanese audio manufacturer attempting to establish a unique position with its ultra-thin cable technology and coreless straight-flux cartridge design. The company operates in both proprietary product development and as a distributor for international brands, notably as the official Japanese distributor for iFi audio. Their product lineup ranges from cables like the Ultra Slim Link and FLUX to the 12,500 USD Seiryu Blue Dragon cartridge. As a relatively new company that began full-scale proprietary product development around 2022, it has garnered attention for its unique technical approaches.

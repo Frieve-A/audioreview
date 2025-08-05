@@ -8,10 +8,9 @@ ref: topping-d100
 date: 2025-07-14
 rating: [3.9, 0.8, 0.7, 0.6, 0.9, 0.9]
 summary: "Entry-level DAC featuring ES9038K2M chip. Offers good basic performance but faces tough competition in its price range"
-tags: [ES9038K2M, USB DAC, Entry Level, Desktop DAC]
+tags: [Desktop DAC, ES9038K2M, Entry-level, USB DAC]
 permalink: /products/en/topping-d100/
 ---
-
 ## Overview
 
 The Topping D100 is an entry-level desktop DAC featuring the ESS ES9038K2M DAC chip. It supports PCM 384kHz/32bit and DSD256, with a simple configuration focused on music playback using USB input only. With measured specifications of THD+N 0.0002% and SNR 116dB, it is positioned in the desktop audio market at approximately 150 USD. The product aims to improve cost-performance by reducing features to the essential minimum.

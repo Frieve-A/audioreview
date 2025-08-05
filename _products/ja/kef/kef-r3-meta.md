@@ -8,10 +8,9 @@ ref: kef-r3-meta
 date: 2025-07-18
 rating: [4.2, 0.8, 0.8, 1.0, 0.8, 0.8]
 summary: "KEF R3 Metaは優れた技術とMATテクノロジーを搭載した3ウェイブックシェルフスピーカーで、同等性能の競合製品と比較して適正な価格設定となっており、総合的に高い評価を得ている"
-tags: [Bookshelf, 3-way, Uni-Q, MAT, Passive]
+tags: [3ウェイ, Bookshelf, MAT, Passive, Uni-Q]
 permalink: /products/ja/kef-r3-meta/
 ---
-
 ## 概要
 
 KEF R3 Metaは、同社のフラッグシップモデルR11 Metaと同じドライバーを採用した3ウェイパッシブブックシェルフスピーカーです。12世代目Uni-Qドライバーアレイと新開発のMAT（Metamaterial Absorption Technology）により、従来のR3から大幅な性能向上を実現しています。1インチハードドームツイーター、5インチミッドレンジ、6.5インチハイブリッドアルミニウムウーファーを搭載し、58Hz-28kHz（±3dB）の周波数特性を実現。15-180Wの入力に対応し、87dB/2.83V/1mの感度を持ちます。重量は片側12.4kgで、品質感のある仕上がりが特徴です。

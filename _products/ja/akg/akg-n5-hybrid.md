@@ -8,7 +8,7 @@ ref: akg-n5-hybrid
 date: 2025-07-20
 rating: [3.5, 0.7, 0.8, 0.8, 0.6, 0.6]
 summary: "AKG N5 HybridはLDACコーデック対応、USB-C 2.4GHzドングル付属のプレミアムワイヤレスイヤホンです。Hi-Res Audio対応と低遅延接続を実現する技術的な取り組みは評価でき、28,710円という価格設定は同等機能製品と比較して合理的な水準にあります。"
-tags: [AKG, Hi-Res Audio, LDAC, アクティブノイズキャンセリング, ゲーミング, ワイヤレスイヤホン]
+tags: [AKG, LDAC, アクティブノイズキャンセリング, ゲーミング, ハイレゾ, ワイヤレスイヤホン]
 permalink: /products/ja/akg-n5-hybrid/
 ---
 ## 概要

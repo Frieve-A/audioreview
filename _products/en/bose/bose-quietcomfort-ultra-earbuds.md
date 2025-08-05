@@ -8,7 +8,7 @@ ref: bose-quietcomfort-ultra-earbuds
 date: 2025-07-06
 rating: [3.8, 0.8, 0.8, 0.8, 0.8, 0.6]
 summary: "Features CustomTune technology and Immersive Audio functionality with industry-leading ANC performance (34dB attenuation below 400Hz, 39dB above 1kHz). Incorporates Snapdragon Sound certification, aptX Adaptive support, and multipoint connectivity. Achieves lightweight 7.1g design with 6-hour battery life. However, excessive frequency emphasis at 30Hz (+14dB) and 2.5kHz deviates from faithful reproduction with artificially tuned sound characteristics."
-tags: [ANC Leading, America, CustomTune, Immersive Audio, Wireless earphones]
+tags: [Active noise cancelling, America, CustomTune, Immersive Audio, Wireless earphones]
 permalink: /products/en/bose-quietcomfort-ultra-earbuds/
 ---
 ## Overview

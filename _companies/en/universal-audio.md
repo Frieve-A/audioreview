@@ -8,7 +8,7 @@ ref: universal-audio
 date: 2025-07-13
 rating: [4.1, 0.7, 0.9, 1.0, 0.8, 0.7]
 summary: "A veteran manufacturer highly regarded in professional audio but facing cost-performance challenges"
-tags: [Apollo, Audio interface, DAC, Professional Audio, UAD]
+tags: [Apollo, Audio interface, DAC, Professional, UAD]
 permalink: /companies/en/universal-audio/
 ---
 ## Overview

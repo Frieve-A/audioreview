@@ -8,7 +8,7 @@ ref: ewa
 date: 2025-07-16
 rating: [3.0, 0.4, 0.6, 1.0, 0.5, 0.5]
 summary: "Chinese portable speaker manufacturer established in 2011. The ultra-compact Bluetooth speaker A106 Pro is their flagship product. Limited scientific effectiveness but exceptional cost-performance."
-tags: [Bluetooth Speaker, Chinese Manufacturer, IP67, Portable, Ultra-compact]
+tags: [Bluetooth Speaker, China, IP67, Portable, Ultra-compact]
 permalink: /companies/en/ewa/
 ---
 ## Overview

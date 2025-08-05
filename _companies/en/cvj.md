@@ -8,7 +8,7 @@ ref: cvj
 date: 2025-07-27
 rating: [2.1, 0.4, 0.5, 0.3, 0.4, 0.5]
 summary: "Chinese IEM manufacturer established in 2019. Offers budget-focused hybrid-driver earphones in their product lineup, but faces challenges in cost-performance and technological innovation due to the existence of superior competing products at equivalent prices."
-tags: [Budget-Focused, Chinese Manufacturer, Hybrid Drivers, In-ear monitors]
+tags: [Budget, China, Hybrid Drivers, In-ear monitors]
 permalink: /companies/en/cvj/
 ---
 ## Overview

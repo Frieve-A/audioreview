@@ -8,10 +8,9 @@ ref: superlux
 date: 2025-07-23
 rating: [3.6, 0.7, 0.6, 1.0, 0.7, 0.6]
 summary: "Taiwanese audio manufacturer Superlux, established in 1987, has served budget-conscious users by leveraging OEM manufacturing expertise to deliver exceptional cost-performance, consistently offering equivalent measurement performance at the lowest prices in the budget headphone segment, though measurement performance remains moderate by modern transparency standards."
-tags: [Headphones, Microphones, Taiwan, OEM, Cost-Performance]
+tags: [Budget, Headphones, Microphones, OEM, Taiwan]
 permalink: /companies/en/superlux/
 ---
-
 ## Overview
 
 Superlux is a Taiwanese audio manufacturer founded in 1987, specializing in headphones and microphones for over 30 years. Initially supplying OEM components to major manufacturers like Sony, Kenwood, and Sharp, the company began manufacturing its own branded products in 1993. Headphones such as the HD681 and HD668B have achieved sales of over 100,000 units each, particularly gaining support from budget-conscious users. Currently operating a large-scale factory in Shanghai, Superlux supplies products worldwide and represents one of Taiwan's prominent audio brands.

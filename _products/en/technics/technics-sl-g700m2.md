@@ -8,10 +8,9 @@ ref: technics-sl-g700m2
 date: 2025-08-02
 rating: [3.1, 0.8, 0.7, 0.2, 0.8, 0.6]
 summary: "A network/Super Audio CD player with excellent measured performance but poor cost-performance due to the availability of significantly cheaper alternatives that provide equivalent functionality"
-tags: [CD Player, SACD, Network Streaming, Digital Audio, Premium Audio]
+tags: [CD Player, Digital Audio, Network Streaming, Premium, SACD]
 permalink: /products/en/technics-sl-g700m2/
 ---
-
 ## Overview
 
 The Technics SL-G700M2 is a network/Super Audio CD player developed by Technics under Panasonic. This integrated product combines SACD/CD playback with network streaming, featuring dual ESS ES9026PRO DACs and priced at 3,499 USD. While it achieves excellent measured performance with THD of 0.0006% and S/N ratio of 121dB (balanced), significantly cheaper alternatives exist that provide equivalent functionality.

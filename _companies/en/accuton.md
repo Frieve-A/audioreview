@@ -8,10 +8,9 @@ ref: accuton
 date: 2025-07-26
 rating: [3.8, 0.8, 0.9, 0.8, 0.5, 0.8]
 summary: "A German premium speaker driver manufacturer, boasting industry-leading technology with its ceramic cones. However, its cost-performance is not necessarily top-tier when compared to high-performance drivers made from other materials."
-tags: [Germany, Speaker Drivers, Ceramic, High-end Audio, Premium]
+tags: [Ceramic, Germany, High-end, Premium, Speaker Drivers]
 permalink: /companies/en/accuton/
 ---
-
 ## Overview
 
 Accuton is a premium speaker driver brand launched in 1993 by the German company Thiel & Partner, which was founded in 1990. Known for innovative driver technology using ceramic, diamond, and aluminum sandwich materials, the company provides reference-grade performance products in the high-end audio industry. Their proprietary Al²O³ hard ceramic (alumina) manufacturing process, at temperatures up to 1,450°C, produces extremely hard cones with a Mohs hardness of 9.

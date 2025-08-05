@@ -8,7 +8,7 @@ ref: kz-libra-x
 date: 2025-08-01
 rating: [2.5, 0.5, 0.4, 0.5, 0.6, 0.5]
 summary: "The KZ Libra X is an IEM with basic specifications of 25Ω/108dB, but lacks objective data regarding fidelity. It also faces cost-performance challenges as the equivalent KZ EDC PRO is available at half the price."
-tags: [Chinese Earphones, Dynamic driver, In-ear monitors, Low-price]
+tags: [Budget, Chinese Earphones, Dynamic driver, In-ear monitors]
 permalink: /products/en/kz-libra-x/
 ---
 ## Overview

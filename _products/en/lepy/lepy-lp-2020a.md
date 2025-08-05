@@ -8,10 +8,9 @@ ref: lepy-lp-2020a
 date: 2025-07-31
 rating: [2.4, 0.3, 0.2, 1.0, 0.4, 0.5]
 summary: "An ultra-low-cost Class-D digital amplifier. Its measured output is significantly lower than the rated 20W×2, but it provides basic performance for its price."
-tags: [Amplifier, Class-D, Digital Amplifier, Budget, Mini Amplifier]
+tags: [Amplifiers, Budget, Class D, Digital Amplifier, Mini Amplifier]
 permalink: /products/en/lepy-lp-2020a/
 ---
-
 ## Overview
 
 The Lepy LP-2020A is an ultra-low-cost Class-D digital amplifier from a Chinese manufacturer. It claims a 20W×2 output and features a compact design using surface-mount components. It employs chipsets like the Texas Instruments TPA3118 and includes tone adjustment with a direct switch. It comes with a 12V external power adapter and is sold at an extremely low price point of around 30 USD.

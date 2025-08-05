@@ -8,10 +8,9 @@ ref: sony-srs-x88
 date: 2025-07-31
 rating: [2.7, 0.3, 0.6, 0.5, 0.3, 1.0]
 summary: "90W multi-room speaker released in 2015. Features LDAC support and Hi-Res audio capabilities, but faces challenges with THD performance and current availability"
-tags: [Bluetooth Speaker, LDAC, Hi-Res Audio, Multi-room, Sony, Discontinued]
+tags: [Bluetooth Speaker, Discontinued, Hi-Res, LDAC, Multi-room, Sony]
 permalink: /products/en/sony-srs-x88/
 ---
-
 ## Overview
 
 The Sony SRS-X88 is a premium 90W Bluetooth speaker released in 2015. It features five drivers (two 20mm super tweeters, two 40mm full-range drivers, and one 69mm subwoofer) with S-Master HX digital amplification, supporting Bluetooth, Wi-Fi, Ethernet, and USB connectivity. The speaker supports the LDAC codec and Hi-Res Audio (192kHz/24bit, DSD compatible) with multi-room functionality. While advanced for its time, the product has been discontinued.

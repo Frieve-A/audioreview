@@ -8,7 +8,7 @@ ref: linn
 date: 2025-07-06
 rating: [4.0, 0.9, 1.0, 0.1, 1.0, 1.0]
 summary: "Championing 'Source First' for over 50 years, this UK legend has technically led the audio industry. From the legendary LP12 to cutting-edge network audio, their products consistently deliver rational and high-standard performance. However, their exceptional technology and quality are reflected in extremely high pricing, making cost-performance evaluation necessarily harsh."
-tags: [Exakt, High-End Audio, LP12, Network player, Turntable, United Kingdom]
+tags: [Exakt, High-end, LP12, Network player, Turntable, United Kingdom]
 permalink: /companies/en/linn/
 ---
 ## Overview

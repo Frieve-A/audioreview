@@ -8,10 +8,9 @@ ref: dayton-audio-umm-6
 date: 2025-07-19
 rating: [1.7, 0.3, 0.2, 0.7, 0.2, 0.3]
 summary: "While the Dayton Audio UMM-6 functions as an entry-level USB measurement microphone, its high noise floor, limited measurement performance, and the availability of superior alternatives at the same price point make it difficult to recommend."
-tags: [Measurement Equipment, Microphone, USB, Calibration]
+tags: [Calibration, Measurement Equipment, Microphones, USB]
 permalink: /products/en/dayton-audio-umm-6/
 ---
-
 ## Overview
 
 The Dayton Audio UMM-6 is a USB-connected measurement microphone released in 2013. It features a 6mm precision electret condenser capsule and is positioned as an individually calibrated product with an 18-20,000Hz frequency range. Marketed for compatibility with measurement software like Room EQ Wizard, it targets home theater enthusiasts and acoustic measurement beginners. Priced at 69 USD (Parts Express), it represents an entry-level measurement microphone.

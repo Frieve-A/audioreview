@@ -8,10 +8,9 @@ ref: top-wing-opt-iso-box
 date: 2025-07-27
 rating: [1.2, 0.1, 0.3, 0.1, 0.4, 0.3]
 summary: "A LAN isolator for network audio that employs optical isolation technology, but presents significant issues in both scientific validity and cost-effectiveness relative to its approximately JPY 40,000 price point."
-tags: [Network Audio, LAN Isolator, Optical Conversion, Noise Suppression]
+tags: [LAN Isolator, Network audio, Noise Suppression, Optical Conversion]
 permalink: /products/en/top-wing-opt-iso-box/
 ---
-
 ## Overview
 
 The TOP WING OPT ISO BOX is an optical isolator designed to eliminate LAN-transmitted noise in network audio systems. Priced at JPY 39,600, it incorporates internal optical conversion modules and claims to remove LAN transmission noise from switching hubs or routers to streamers and other audio equipment. It achieves this by converting the electrical signal to an optical one, thereby physically eliminating electrical coupling. The compact unit measures 70mm×83mm×32mm and features communication speed switching for 10M/100M/1Gbps.

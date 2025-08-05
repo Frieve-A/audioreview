@@ -8,7 +8,7 @@ ref: dcs-rossini-apex-player
 date: 2025-07-25
 rating: [2.6, 0.8, 0.7, 0.1, 0.7, 0.3]
 summary: "Achieves extremely high measurement performance, but an alternative with equivalent functionality exists at 1/10th the price. The rationality of its design philosophy is also low due to poor cost efficiency."
-tags: [CD Player, DAC, High-End Audio, Network player, Streaming]
+tags: [CD Player, DAC, High-end, Network player, Streaming]
 permalink: /products/en/dcs-rossini-apex-player/
 ---
 ## Overview

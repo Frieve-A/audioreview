@@ -8,7 +8,7 @@ ref: fiio
 date: 2025-07-06
 rating: [4.0, 0.8, 0.7, 0.9, 0.7, 0.9]
 summary: "Chinese portable audio equipment manufacturer founded in 2007. Rapidly grown by providing high-performance products at affordable prices, centering on DACs, headphone amplifiers, and portable players. Products like K3, E10K, and BTR5 have achieved high sound quality previously only available in expensive price ranges at significantly lower costs, contributing to the democratization of portable audio. While there are challenges in quality control, they lead the industry in technological innovation and cost-performance."
-tags: [China, DAC, Headphone amplifier, High Cost-Performance, Portable]
+tags: [Budget, China, DAC, Headphone amplifier, Portable]
 permalink: /companies/en/fiio/
 ---
 ## Overview

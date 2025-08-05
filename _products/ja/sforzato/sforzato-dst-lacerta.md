@@ -8,10 +8,9 @@ ref: sforzato-dst-lacerta
 date: 2025-08-04
 rating: [2.3, 0.5, 0.6, 0.2, 0.7, 0.3]
 summary: "SforzatoのDST-Lacertaは、LANからUSBへの変換を行うネットワークトランスポートです。DSD512まで対応し日本製の品質を誇りますが、同等機能を完成品の安価ストリーマーで実現可能なため、コストパフォーマンスに課題があります。"
-tags: [ネットワークトランスポート, USB-DAC, ストリーマー, 日本製, Sforzato]
+tags: [Sforzato, USB-DAC, ストリーマー, ネットワークトランスポート, 日本]
 permalink: /products/ja/sforzato-dst-lacerta/
 ---
-
 ## 概要
 
 Sforzato DST-Lacertaは、既存のUSB DACと組み合わせてネットワークプレーヤーシステムを構築するためのネットワークトランスポートです。LANからUSBへの変換機能を提供し、PCM 768kHz/32bitおよびDSD512までの高解像度フォーマットに対応しています。コンパクトなサイズ（108×79×124mm、0.6kg）でありながら、TIDAL、Qobuz、Amazon Musicなどの主要ストリーミングサービスをサポートし、専用アプリ「Taktina」での操作が可能です。日本のSforzato社による設計・製造で、価格は149,600円です。

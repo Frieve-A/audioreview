@@ -8,10 +8,9 @@ ref: cmf-buds-pro-2
 date: 2025-07-30
 rating: [3.5, 0.7, 0.8, 0.8, 0.6, 0.6]
 summary: "True wireless earbuds achieving dual-driver (11mm+6mm), LDAC support, and 50dB noise canceling at 80 USD. Features Smart Dial physical volume control and exceptional functionality for the price range, though retains some V-shaped sound signature coloration."
-tags: [CMF, Nothing, Buds Pro 2, Wireless Earbuds, Noise Canceling, LDAC, Dual Driver]
+tags: [Buds Pro 2, CMF, Dual Driver, LDAC, Noise cancelling, Nothing, Wireless Earbuds]
 permalink: /products/en/cmf-buds-pro-2/
 ---
-
 ## Overview
 
 The CMF Buds Pro 2 are true wireless earbuds from Nothing's sub-brand, CMF, featuring a dual-driver configuration (11mm dynamic + 6mm planar tweeter) at an 80 USD price point. The combination of a titanium-coated 11mm driver and a 25μm ultra-thin 6mm planar tweeter aims for wideband reproduction, from rich bass to delicate treble. It supports the LDAC codec for hi-res audio, offers powerful hybrid ANC up to 50dB, and includes distinctive features like a Smart Dial for physical volume control, 43-hour total playback, IP55 water resistance, and ChatGPT integration. This package delivers remarkable functionality for its price range.

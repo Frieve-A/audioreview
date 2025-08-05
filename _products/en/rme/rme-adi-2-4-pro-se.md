@@ -8,10 +8,9 @@ ref: rme-adi-2-4-pro-se
 date: 2025-07-14
 rating: [4.5, 0.9, 0.8, 1.0, 0.8, 1.0]
 summary: "A 32bit/768kHz AD/DA converter targeting the pinnacle of professional audio by RME. Achieves industry-leading measurement performance with exceptional cost-performance among professional AD/DA converters."
-tags: [RME, AD Converter, DAC Converter, Professional Audio, 768kHz, 32bit]
+tags: [32bit, 768kHz, AD Converter, DAC Converter, Professional, RME]
 permalink: /products/en/rme-adi-2-4-pro-se/
 ---
-
 ## Overview
 
 The RME ADI-2/4 Pro SE is a flagship AD/DA converter from German professional audio manufacturer RME Audio. Featuring 32bit/768kHz support and state-of-the-art converter chips with up to 123dBA S/N ratio, it combines 2-channel AD conversion with 4-channel DA conversion in a single unit. The design addresses a wide range of applications from professional studio mastering to high-quality digitization of audio files. RME has earned high recognition in the professional audio industry for over 25 years, particularly known for exceptional measurement performance and reliability.

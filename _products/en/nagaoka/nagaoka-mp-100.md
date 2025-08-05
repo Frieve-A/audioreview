@@ -8,10 +8,9 @@ ref: nagaoka-mp-100
 date: 2025-07-10
 rating: [2.0, 0.3, 0.4, 0.5, 0.6, 0.2]
 summary: "A basic MM cartridge that is outdated in many respects."
-tags: [Cartridge, MM, Analog, Turntable]
+tags: [Analog, Cartridges, MM, Turntable]
 permalink: /products/en/nagaoka-mp-100/
 ---
-
 ## Overview
 
 The NAGAOKA MP-100 is an MM cartridge manufactured by Nagaoka, a Japanese company specializing in record styli. Based on technology from the 1970s, it is positioned as an entry-level model featuring a bonded conical stylus. With specifications including an output voltage of 3.5mV, a frequency response of 20Hz-20kHz, and a tracking force of 1.5-2.5g, it ensures compatibility with many turntables. It is a practical product for analog enthusiasts, with a stylus replacement service available in Japan.

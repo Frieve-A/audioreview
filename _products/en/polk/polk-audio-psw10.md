@@ -8,10 +8,9 @@ ref: polk-audio-psw10
 date: 2025-07-19
 rating: [2.4, 0.3, 0.4, 0.7, 0.7, 0.3]
 summary: "An entry-level subwoofer that is rendered obsolete by more affordable and higher-performing alternatives."
-tags: [Subwoofer, Home Theater, Entry Model, Powered Subwoofer]
+tags: [Entry-level, Home Theater, Powered Subwoofer, Subwoofer]
 permalink: /products/en/polk-audio-psw10/
 ---
-
 ## Overview
 
 The Polk Audio PSW10 is an entry-level powered subwoofer featuring a 10-inch driver and 50W RMS (100W peak) Class D amplifier. As a product from Polk Audio, with a history dating back to the 1970s, it is designed for home theater beginners and markets compatibility with Monitor series and t-Series speakers. The bass reflex design incorporates Power Port Technology, aiming for efficient bass reproduction from a compact cabinet.

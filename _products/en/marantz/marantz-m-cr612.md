@@ -8,10 +8,9 @@ ref: marantz-m-cr612
 date: 2025-08-02
 rating: [3.4, 0.4, 0.7, 0.9, 0.8, 0.6]
 summary: "Boasting excellent cost-performance as an all-in-one system with a built-in CD player, though its measurement performance has room for improvement."
-tags: [Network Audio, Streaming, CD Player, Amplifier, HEOS]
+tags: [Amplifiers, CD Player, HEOS, Network audio, Streaming]
 permalink: /products/en/marantz-m-cr612/
 ---
-
 ## Overview
 
 The Marantz M-CR612 is a compact all-in-one system that integrates a CD player, network streaming, and amplifier functions. Released in 2019, this unit inherits the success of its predecessor, the M-CR611, featuring HEOS technology for multi-room support and compatibility with various streaming services. The compact 280mm x 111mm x 303mm chassis houses a Texas Instruments PCM5102A DAC chip and a Class D amplifier circuit, achieving a rated output of 50W x 2ch (6Ω).

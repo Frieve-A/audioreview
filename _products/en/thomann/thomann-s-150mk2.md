@@ -8,7 +8,7 @@ ref: thomann-s-150mk2
 date: 2025-07-21
 rating: [1.9, 0.6, 0.2, 0.5, 0.2, 0.4]
 summary: "An outdated Class AB power amplifier with value only for very specific, limited applications."
-tags: [Amplifier, Class AB, Power amplifier, Thomann]
+tags: [Amplifiers, Class AB, Power amplifier, Thomann]
 permalink: /products/en/thomann-s-150mk2/
 ---
 ## Overview

@@ -8,10 +8,9 @@ ref: behringer-302usb-xenyx
 date: 2025-07-20
 rating: [3.5, 0.7, 0.4, 1.0, 0.5, 0.9]
 summary: "A compact USB-integrated mixer providing basic functionality, but with challenges in technology level and reliability"
-tags: [Mixer, USB Audio Interface, Analog Mixer, Behringer, Compact Mixer, XENYX]
+tags: [Analog Mixer, Behringer, Compact Mixer, Mixers, USB Audio Interface, XENYX]
 permalink: /products/en/behringer-302usb-xenyx/
 ---
-
 ## Overview
 
 The Behringer 302USB XENYX is a compact 5-input mixer featuring built-in XENYX microphone preamps and USB audio interface functionality. Positioned as an entry-level unit for podcasting and simple recording applications, it has been sold continuously since its 2011 release. The unit operates on USB bus power without requiring external power supply, which is a distinctive characteristic. It adopts the company's traditional analog circuit design, positioning itself as a product that integrates basic mixing functions with USB recording and playback capabilities.

@@ -8,7 +8,7 @@ ref: marantz-model-60n
 date: 2025-08-04
 rating: [4.0, 0.7, 0.7, 1.0, 0.8, 0.8]
 summary: "Network integrated amplifier with excellent measured performance and comprehensive streaming features. No direct competitors offer equivalent functionality and measured performance at a lower price."
-tags: [Class A/B, HEOS, Integrated amplifier, Network Audio, Streaming]
+tags: [Class AB, HEOS, Integrated amplifier, Network audio, Streaming]
 permalink: /products/en/marantz-model-60n/
 ---
 ## Overview

@@ -8,10 +8,9 @@ ref: denon-dcd-a110
 date: 2025-07-26
 rating: [2.8, 0.7, 0.7, 0.2, 0.8, 0.4]
 summary: "Denon's 110th anniversary SACD/CD player. Features Japanese craftsmanship with robust build quality and four Burr Brown PCM1795 DAC chips for high-quality playback, but cost-performance is poor due to the availability of alternatives offering equivalent functionality at one-sixth the price."
-tags: [SACD, CD Player, Denon, Made in Japan, 110th Anniversary]
+tags: [110th Anniversary, CD Player, Denon, Japan, SACD]
 permalink: /products/en/denon-dcd-a110/
 ---
-
 ## Overview
 
 The Denon DCD-A110 is an SACD/CD player manufactured at the Shirakawa factory to commemorate the company's 110th anniversary. It features 32-bit/384kHz processing with four Burr Brown PCM1795 DAC chips, Advanced S.V.H. (Suppress Vibration Hybrid) mechanism for vibration suppression, and a robust chassis weighing over 35 pounds (approximately 16kg). The unit supports DSD64/128, Pure Direct mode, and Ultra AL32 processing algorithm, maintaining a design philosophy focused on traditional disc playback. This commemorative model features a silver graphite finish and is available for a limited period.

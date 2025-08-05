@@ -8,7 +8,7 @@ ref: electro-voice
 date: 2025-07-25
 rating: [3.4, 0.6, 0.7, 0.6, 0.8, 0.7]
 summary: "Established American professional audio manufacturer with over 90 years of history. Features reliable products through in-house design and a comprehensive support system, but cost-performance varies by product, and challenges are evident in adopting the latest technologies."
-tags: [America, Amplifiers, Established Manufacturer, Microphones, Professional Audio, Speakers]
+tags: [America, Amplifiers, Established Manufacturer, Microphones, Professional, Speakers]
 permalink: /companies/en/electro-voice/
 ---
 ## Overview

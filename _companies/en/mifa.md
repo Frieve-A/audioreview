@@ -8,10 +8,9 @@ ref: mifa
 date: 2025-07-17
 rating: [2.4, 0.2, 0.4, 1.0, 0.4, 0.4]
 summary: "Chinese Bluetooth speaker manufacturer focused on low-price segments but facing significant challenges in technical standards and sound quality."
-tags: [Bluetooth Speakers, Portable Speakers, Chinese Manufacturer, Entry Level]
+tags: [Bluetooth Speakers, China, Entry-level, Portable Speakers]
 permalink: /companies/en/mifa/
 ---
-
 ## Overview
 
 Mifa is an audio manufacturer based in Shenzhen, China, primarily focusing on Bluetooth speakers and wireless earphones. The company began operations around 2014 and currently sells products in over 50 countries. Their product lineup centers on portable speakers like the A1, F10, and A90, featuring waterproof capabilities and extended playback time. The price range is concentrated in the low-price segment of approximately 20-100 USD, with online sales through Amazon and AliExpress serving as the primary distribution channels.

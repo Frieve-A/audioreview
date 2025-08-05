@@ -4,14 +4,13 @@ title: "Denon PMA-A110 製品レビュー"
 target_name: "Denon PMA-A110"
 company_id: denon
 lang: ja
-ref: denon-pma-110
+ref: denon-pma-a110
 date: 2025-07-27
 rating: [3.2, 0.6, 0.7, 0.5, 0.8, 0.6]
 summary: "デノン110周年記念モデルの高級プリメインアンプ。優れた作りと多機能性を持つが、同等の機能と性能はより安価な製品の組み合わせで実現可能であり、コストパフォーマンスは平均的。"
-tags: [アンプ, プリメインアンプ, デノン, 記念モデル, Class AB, DAC内蔵]
-permalink: /products/ja/denon-pma-110/
+tags: [AB級, DAC内蔵, アンプ, デノン, プリメインアンプ, 記念モデル]
+permalink: /products/ja/denon-pma-a110/
 ---
-
 ## 概要
 
 Denon PMA-A110は、デノン創立110周年を記念して開発されたプリメインアンプです。80W（8Ω）/160W（4Ω）の出力を持つClass ABアンプで、384kHz/32bit PCMおよび11.2MHz DSD対応の内蔵DACを搭載しています。白河工場での日本製造による高い品質と、重量25kgの堅牢な筐体が特徴です。デノン独自の第7世代UHC-MOS技術とAL32プロセシングを採用し、フォノイコライザー（MM/MC対応）も内蔵した高級機として位置づけられています。

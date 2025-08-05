@@ -8,7 +8,7 @@ ref: fosi-audio-v3-mono
 date: 2025-07-23
 rating: [3.3, 0.8, 0.7, 0.5, 0.6, 0.7]
 summary: "TPA3255とPFFB技術を採用したClass Dモノブロックアンプ。透明レベルの測定性能を持つが、グローバル市場でのコスト評価は厳しい。"
-tags: [PFFB, TPA3255, クラスD, パワーアンプ, モノブロックアンプ]
+tags: [D級, PFFB, TPA3255, パワーアンプ, モノブロックアンプ]
 permalink: /products/ja/fosi-audio-v3-mono/
 ---
 ## 概要

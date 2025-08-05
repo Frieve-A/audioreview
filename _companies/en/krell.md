@@ -8,10 +8,9 @@ ref: krell
 date: 2025-07-05
 rating: [2.7, 0.8, 0.9, 0.0, 0.0, 1.0]
 summary: "Founded in 1980, a legendary American high-end amplifier manufacturer. Creator Dan D'Agostino's Sustained Plateau Biasing technology and Class A high-power designs produced legendary amplifiers like the KSA-250 and FPB-350MC. Measurement data was phenomenal, with THD under 0.01% and 1Ω load driving capability representing the pinnacle of technical achievement. However, following the founder's ouster in 2009 and the death of co-founder wife in 2024, the company ceased operations. Products remain highly valued in the used market."
-tags: [America, Amplifier, Class A, Dan DAgostino, Defunct, High-End]
+tags: [America, Amplifiers, Class A, Dan DAgostino, Defunct, High-end]
 permalink: /companies/en/krell/
 ---
-
 ## Overview
 
 Founded in 1980 by Dan D'Agostino and his wife Rondi, this legendary American high-end amplifier manufacturer took its name from the advanced technological civilization of the Krell from the 1956 sci-fi film "Forbidden Planet." For 29 years, D'Agostino led technical development as CEO, pioneering revolutionary technologies including Sustained Plateau Biasing and custom transistor development.

@@ -8,10 +8,9 @@ ref: 1more
 date: 2025-07-11
 rating: [3.5, 0.8, 0.7, 1.0, 0.5, 0.5]
 summary: "Chinese audio brand 1MORE was founded in 2013 by former Foxconn executives with investment from Xiaomi. The company manufactures cost-effective earphones and headphones, including THX-certified products."
-tags: ["Chinese brand", "Cost performance", "THX certification", "Triple Driver"]
+tags: [Budget, China, THX certification, Triple Driver]
 permalink: /companies/en/1more/
 ---
-
 ## Overview
 
 1MORE is an audio brand founded in 2013 in Shenzhen, China, established by former Foxconn general managers with investment from Xiaomi. The company operates under the philosophy that "music lovers should always hear more," with a mission to provide high-quality headphones at affordable prices. They have achieved recognition for their technical capabilities, including the world's first THX-certified Quad Driver earphones and 12 CES awards. Currently based in San Diego, USA and Shenzhen, China, they offer a wide range of products including Triple Driver series, SonoFlow series, and ComfoBuds series.

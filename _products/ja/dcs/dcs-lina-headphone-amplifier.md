@@ -8,10 +8,9 @@ ref: dcs-lina-headphone-amplifier
 date: 2025-07-25
 rating: [2.7, 0.7, 0.8, 0.0, 0.8, 0.4]
 summary: "dCS初のスタンドアロンヘッドホンアンプ。測定性能は優秀な面もあるが、同等以上の性能を持つ製品が大幅に安価で入手可能なため、コストパフォーマンスは極めて低い。"
-tags: [ヘッドホンアンプ, ハイエンド, Class AB, dCS]
+tags: [AB級, dCS, ハイエンド, ヘッドホンアンプ]
 permalink: /products/ja/dcs-lina-headphone-amplifier/
 ---
-
 ## 概要
 
 dCS Lina Headphone Amplifierは、イギリスの老舗デジタルオーディオメーカーdCSが2022年に発表した、同社初のスタンドアロンヘッドホンアンプです。受賞歴のあるBartók Headphone DACで培われた技術をベースに、新設計のClass ABアンプ回路を採用し、1.85W@32Ωの出力と1.0Ω以下の低出力インピーダンスを実現しています。価格は9,750 USD（約1,463,000 JPY）に設定されており、超高級ヘッドホンアンプ市場向けの製品です。

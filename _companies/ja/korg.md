@@ -8,7 +8,7 @@ ref: korg
 date: 2025-08-01
 rating: [2.6, 0.4, 0.6, 0.4, 0.8, 0.4]
 summary: "楽器メーカーKorgのオーディオ製品はDJやスタジオ向けの特殊なヘッドホンに限定される。ニッチな需要には応えるものの、汎用的なリスニングにおける再生忠実度や汎用性では課題が多い。"
-tags: [Audio Equipment, DJ, Japanese Brand, ヘッドホン]
+tags: [Audio Equipment, DJ, ヘッドホン, 日本]
 permalink: /companies/ja/korg/
 ---
 ## 概要

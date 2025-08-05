@@ -8,7 +8,7 @@ ref: barefoot-sound
 date: 2025-08-04
 rating: [3.7, 0.7, 0.8, 0.9, 0.6, 0.7]
 summary: "A high-end US studio monitor manufacturer with advanced technical capabilities. While MEME technology and Dual-Force design earn industry recognition, cost-performance is standard due to small price differences with alternatives."
-tags: [Active speakers, DSP, High-End, Studio monitors, US Manufacturer]
+tags: [Active speakers, DSP, High-end, Studio monitors, US Manufacturer]
 permalink: /companies/en/barefoot-sound/
 ---
 ## Overview

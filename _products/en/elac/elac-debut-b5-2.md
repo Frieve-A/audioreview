@@ -8,10 +8,9 @@ ref: elac-debut-b5-2
 date: 2025-08-04
 rating: [2.6, 0.4, 0.6, 0.5, 0.7, 0.4]
 summary: "ELAC Debut B5.2 is an entry-level bookshelf speaker with high midrange distortion. Requires EQ correction with output limitations, and more affordable alternatives with equivalent functionality exist."
-tags: [Speakers, Bookshelf, Passive, 2-Way, Entry-Level]
+tags: [2-Way, Bookshelf, Entry-level, Passive, Speakers]
 permalink: /products/en/elac-debut-b5-2/
 ---
-
 ## Overview
 
 The ELAC Debut B5.2 is an entry-level 2-way bookshelf speaker from German heritage speaker manufacturer ELAC. Designed by Andrew Jones, it features a 1-inch soft dome tweeter and 5.25-inch aramid fiber woofer, claiming a frequency response of 46Hz-35kHz. The bass reflex MDF cabinet incorporates a 7-element custom crossover with 86dB sensitivity and 6Ω impedance. It is positioned as a model achieving hi-res compatibility at entry-level pricing.

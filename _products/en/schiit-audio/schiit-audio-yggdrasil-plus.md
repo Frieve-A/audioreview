@@ -8,10 +8,9 @@ ref: schiit-audio-yggdrasil-plus
 date: 2025-07-25
 rating: [2.8, 0.8, 0.7, 0.3, 0.8, 0.2]
 summary: "A high-priced multibit DAC. Competitors achieve superior measured performance at one-third the price, resulting in extremely low cost-performance."
-tags: [DAC, Multibit, R2R, American-Made, High-End]
+tags: [American-Made, DAC, High-end, Multibit, R2R]
 permalink: /products/en/schiit-audio-yggdrasil-plus/
 ---
-
 ## Overview
 
 The Schiit Audio Yggdrasil Plus is a flagship-class digital-to-analog converter manufactured by California-based Schiit Audio. It employs a proprietary R2R ladder multibit architecture called True Multibit™. The higher-tier version reviewed here (formerly "More is Better") is offered at 2,699 USD. It claims specifications of THD+N -110dB (0.0003%) and SNR >124dB, featuring a 5-year warranty and a modular design for future upgrade compatibility.

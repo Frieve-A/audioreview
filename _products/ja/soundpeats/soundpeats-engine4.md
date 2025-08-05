@@ -8,10 +8,9 @@ ref: soundpeats-engine4
 date: 2025-07-25
 rating: [3.6, 0.6, 0.7, 0.9, 0.6, 0.8]
 summary: "同軸デュアルドライバーとLDAC対応で8000円台の価格ながら優秀なコストパフォーマンスを実現した完全ワイヤレスイヤホン"
-tags: [ワイヤレスイヤホン, LDAC, デュアルドライバー, Bluetooth5.3, ハイレゾ対応, コスパ]
+tags: [Bluetooth5.3, LDAC, コスパ, デュアルドライバー, ハイレゾ, ワイヤレスイヤホン]
 permalink: /products/ja/soundpeats-engine4/
 ---
-
 ## 概要
 
 SoundPEATS Engine4は、同軸デュアルダイナミックドライバー搭載の完全ワイヤレスイヤホンです。10mmウーファーと6mmツイーターを組み合わせた独自設計により、Hi-Res Audio Wireless認証を取得しています。LDAC対応、Bluetooth 5.3、43時間の長時間再生を実現しながら、8,480円という価格設定が特徴的な製品です。SoundPEATSは2010年創業の音響機器専門メーカーとして、コストパフォーマンスの高い製品を継続的に展開しており、Engine4もその系譜に連なる製品となっています。

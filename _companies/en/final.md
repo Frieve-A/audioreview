@@ -8,7 +8,7 @@ ref: final
 date: 2025-07-26
 rating: [4.0, 0.8, 1.0, 0.3, 0.9, 1.0]
 summary: "Final Inc. is a Japanese veteran audio manufacturer founded in 1974. Starting with cartridges, amplifiers, and speakers, they are now globally acclaimed for high-end headphones and IEMs. Their flagship models D8000 (planar magnetic) and A8000 (pure beryllium diaphragm) pursue innovative technologies, while the E1000-E5000 series provides high-quality acoustic experiences for entry users in the approx. USD 16-192 price range. Their technical prowess and commitment to sound quality are industry-leading, though cost-performance is limited due to the existence of more affordable alternatives."
-tags: [Beryllium, Earphones, Headphones, High-End, Japan, Planar magnetic]
+tags: [Beryllium, Earphones, Headphones, High-end, Japan, Planar magnetic]
 permalink: /companies/en/final/
 ---
 ## Overview

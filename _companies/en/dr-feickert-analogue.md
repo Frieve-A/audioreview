@@ -8,10 +8,9 @@ ref: dr-feickert-analogue-review
 date: 2025-07-06
 rating: [2.2, 0.2, 0.6, 0.1, 0.8, 0.5]
 summary: "German precision engineering manufacturer specializing in analog turntables and related measurement instruments. Their technology serves merely to marginally improve the fundamental performance limitations of analog, an inherently inferior reproduction method. When measured against the absolute standard of master source fidelity, their products fall short of even affordable digital equipment across all performance metrics, making their value proposition extremely limited and cost-performance essentially non-existent."
-tags: [Germany, Analog, Turntable, High-End Audio]
+tags: [Analog, Germany, High-end, Turntable]
 permalink: /companies/en/dr-feickert-analogue/
 ---
-
 ## Overview
 
 Dr. Feickert Analogue was founded in 2005 by physicist Dr. Christian Feickert, establishing itself as a German analog audio specialist manufacturer. The company is globally recognized for its high-performance turntable designs, with products based on precision engineering and distinctive technical approaches. Beyond developing their own products, they also manufacture measurement instruments such as the "Protractor NG" for precise turntable setup, demonstrating their deep expertise in analog reproduction technology as a whole.

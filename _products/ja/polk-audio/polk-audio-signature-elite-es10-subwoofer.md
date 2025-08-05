@@ -8,7 +8,7 @@ ref: polk-audio-signature-elite-es10-subwoofer
 date: 2025-08-02
 rating: [3.1, 0.5, 0.6, 0.6, 0.7, 0.7]
 summary: "10インチドライバーと100W Class Dアンプを搭載するPolkのサブウーファー。公称30Hzの低域再生とPower Port技術を特徴とするが、より安価で高性能な代替品が存在するため、コストパフォーマンスの優位性は低い。"
-tags: [10インチ, Power Port, クラスD, サブウーファー, ホームシアター]
+tags: [10インチ, D級, Power Port, サブウーファー, ホームシアター]
 permalink: /products/ja/polk-audio-signature-elite-es10-subwoofer/
 ---
 ## 概要

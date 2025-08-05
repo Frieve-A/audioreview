@@ -8,7 +8,7 @@ ref: see-audio
 date: 2025-08-02
 rating: [2.4, 0.4, 0.7, 0.3, 0.5, 0.5]
 summary: "Chinese emerging IEM manufacturer known for excellent tuning but has issues with technical performance and pricing."
-tags: [Chinese Manufacturer, Electrostatic, Hybrid Drivers, In-ear monitors]
+tags: [China, Electrostatic, Hybrid Drivers, In-ear monitors]
 permalink: /companies/en/see-audio/
 ---
 ## Overview

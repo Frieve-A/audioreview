@@ -8,10 +8,9 @@ ref: nobsound-nobsound-a5
 date: 2025-07-24
 rating: [3.6, 0.7, 0.6, 1.0, 0.5, 0.8]
 summary: "TPA3255チップとPFFB技術を採用した90ドル台のクラスDアンプ。0.002%の超低歪率を実現し、同等価格帯の競合製品と僅差の価格競争を展開。"
-tags: [アンプ, クラスD, TPA3255, PFFB, 中華アンプ]
+tags: [D級, PFFB, TPA3255, アンプ, 中華アンプ]
 permalink: /products/ja/nobsound-nobsound-a5/
 ---
-
 ## 概要
 
 Nobsound A5は、Texas InstrumentsのTPA3255チップを搭載したクラスDアンプです。中国のDouk Audio（Nobsoundブランド）が製造し、PFFB（Post-Filter Feedback）技術と4層金メッキPCBを採用して歪率0.002%を実現しています。チャンネル当たり300Wの出力を謳い、30-200Hzの可変ハイパスフィルターを特徴とします。89.95USDの価格帯で、同クラスの競合製品との激しい競争にさらされています。

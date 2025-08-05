@@ -8,7 +8,7 @@ ref: adv-turbo
 date: 2025-08-01
 rating: [2.0, 0.5, 0.8, 0.0, 0.5, 0.2]
 summary: "While its proprietary driver technology is technically intriguing, its performance is unverified due to a lack of measurement data, resulting in a limited evaluation. Furthermore, its cost-performance is nonexistent compared to vastly cheaper, high-performing alternatives."
-tags: [High End, In-ear monitors, Stadium Driver, Stainless Steel]
+tags: [High-end, In-ear monitors, Stadium Driver, Stainless Steel]
 permalink: /products/en/adv-turbo/
 ---
 ## Overview

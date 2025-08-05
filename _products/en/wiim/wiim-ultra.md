@@ -8,10 +8,9 @@ ref: wiim-ultra
 date: 2025-07-08
 rating: [4.4, 0.9, 0.8, 0.9, 0.8, 1.0]
 summary: "Integrated streamer-preamp with ES9038Q2M DAC (329 USD). SNR 121dB, THD+N -116dB, 3.5-inch touchscreen, HDMI ARC, phono input. Perfect functional integration and transparency-level measurements as dedicated equipment."
-tags: [DAC, Ess, Hdmi-arc, "Network streamer", Preamp, Touchscreen]
+tags: [DAC, Ess, Hdmi-arc, Network streamer, Preamps, Touchscreen]
 permalink: /products/en/wiim-ultra/
 ---
-
 ## Overview
 
 WiiM Ultra is the flagship integrated streamer-preamp from WiiM brand under China's LinkPlay Technology. At 329 USD, it combines ES9038Q2M DAC achieving transparency-level measurements of SNR 121dB, THD+N -116dB (0.00018%) with 3.5-inch touchscreen, HDMI ARC, MM phono input, subwoofer output, and headphone output integration. Featuring Wi-Fi 6, Bluetooth 5.3, and Room Correction functionality, it represents an innovative product realizing all necessary functions for dedicated audio equipment in a single unit.

@@ -8,7 +8,7 @@ ref: neumann-kh-420-g
 date: 2025-07-28
 rating: [4.1, 0.7, 0.7, 1.0, 0.8, 0.9]
 summary: "Professional 3-way midfield monitor with excellent measurement performance and scientific design approach. Offers the best cost-performance among competing products with equivalent functionality, though does not achieve world-class transparent levels."
-tags: [3-way, Active speakers, Midfield, Professional, Studio monitors]
+tags: [3-Way, Active speakers, Midfield, Professional, Studio monitors]
 permalink: /products/en/neumann-kh-420-g/
 ---
 ## Overview

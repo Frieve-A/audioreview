@@ -8,7 +8,7 @@ ref: lumin
 date: 2025-07-06
 rating: [2.3, 0.3, 0.7, 0.1, 0.8, 0.4]
 summary: "Hong Kong-based network streamer specialist brand. Claims proprietary digital volume control 'Leedh Processing' as evidence of sonic superiority, but lacks objective evidence for these claims. Shows a tendency to prioritize marketing over scientific validity, with extremely high pricing relative to functionality, making recommendation difficult."
-tags: [Hong Kong, Leedh Processing, Network Audio, Network streamer, Roon]
+tags: [Hong Kong, Leedh Processing, Network audio, Network streamer, Roon]
 permalink: /companies/en/lumin/
 ---
 ## Overview

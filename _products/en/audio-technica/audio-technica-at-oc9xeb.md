@@ -8,10 +8,9 @@ ref: audio-technica-at-oc9xeb
 date: 2025-07-12
 rating: [2.0, 0.2, 0.2, 0.7, 0.7, 0.2]
 summary: "The Audio-Technica AT-OC9XEB is an entry-level MC cartridge, but its cost-performance is limited due to the existence of more affordable and higher-performing MM cartridges. It's an option for enjoying the hobby of vinyl playback, not for pursuing high fidelity."
-tags: [Cartridge, MC Type, Audio-Technica, Analog]
+tags: [Analog, Audio-Technica, Cartridges, MC Type]
 permalink: /products/en/audio-technica-at-oc9xeb/
 ---
-
 ## Overview
 
 The Audio-Technica AT-OC9XEB is an MC stereo cartridge released in 2019 as the fourth generation of the company's traditional OC9 series. Manufactured at the Fukui factory in Japan, it features dual moving coil construction and PCOCC (Pure Copper by Ohno Continuous Casting process) coils. Equipped with a bonded elliptical stylus and aluminum cantilever, it is positioned as an entry-level MC cartridge at 259 USD. The design is said to reflect Audio-Technica's 50 years of technical expertise, but objective evaluation against modern technical standards is necessary.

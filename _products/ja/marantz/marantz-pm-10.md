@@ -8,7 +8,7 @@ ref: marantz-pm-10
 date: 2025-07-26
 rating: [3.0, 0.8, 0.6, 0.3, 0.7, 0.6]
 summary: "Marantzの初代リファレンス級Class Dアンプ。測定性能は透明レベルを達成するが、コストパフォーマンスに致命的な問題を抱える。"
-tags: [クラスD, リファレンス, 統合アンプ, 高級機]
+tags: [D級, インテグレーテッドアンプ, リファレンス, 高級]
 permalink: /products/ja/marantz-pm-10/
 ---
 ## 概要

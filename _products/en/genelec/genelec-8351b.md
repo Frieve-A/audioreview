@@ -8,7 +8,7 @@ ref: genelec-8351b
 date: 2025-08-01
 rating: [4.0, 0.8, 0.9, 0.5, 0.9, 0.9]
 summary: "A professional nearfield monitor with advanced technology and measurement performance. Its unique coaxial design and DSP correction are top-tier, but the price is commensurate."
-tags: [Active Monitor, Coaxial, DSP, Professional Audio, Studio monitors]
+tags: [Active Monitor, Coaxial, DSP, Professional, Studio monitors]
 permalink: /products/en/genelec-8351b/
 ---
 ## Overview

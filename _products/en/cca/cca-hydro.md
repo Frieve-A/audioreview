@@ -8,7 +8,7 @@ ref: cca-hydro
 date: 2025-07-24
 rating: [2.8, 0.6, 0.7, 0.4, 0.5, 0.6]
 summary: "CCA's 2024 flagship model featuring 2DD+8BA 10-driver configuration with 4-stage tuning switch. While technology level has improved, cost-performance remains limited due to existence of products achieving equivalent functionality at significantly lower prices"
-tags: [CCA, ChiFi, Hybrid Driver, In-ear monitors, Tuning Switch]
+tags: [CCA, Chi-Fi, Hybrid Driver, In-ear monitors, Tuning Switch]
 permalink: /products/en/cca-hydro/
 ---
 ## Overview

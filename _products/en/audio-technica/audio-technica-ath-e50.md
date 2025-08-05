@@ -8,7 +8,7 @@ ref: audio-technica-ath-e50
 date: 2025-07-20
 rating: [2.8, 0.6, 0.6, 0.5, 0.5, 0.6]
 summary: "The Audio-Technica ATH-E50 is a professional in-ear monitor with a single balanced armature driver. Priced at 199 USD, it offers reasonable cost-performance compared to similar professional products."
-tags: [Audio-Technica, Balanced armature, In-ear Monitor, Professional]
+tags: [Audio-Technica, Balanced armature, In-ear monitors, Professional]
 permalink: /products/en/audio-technica-ath-e50/
 ---
 ## Overview

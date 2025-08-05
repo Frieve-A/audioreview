@@ -8,10 +8,9 @@ ref: cardas
 date: 2025-07-06
 rating: [1.7, 0.2, 0.4, 0.1, 0.8, 0.2]
 summary: "American veteran cable manufacturer that centers design around 'golden ratio' and 'litz structure.' Pursues natural, musical sound based on unique philosophy. While earning high trust through quality and lifetime warranty, products are expensive with design philosophy heavily reflecting proprietary concepts rather than scientific foundation."
-tags: ["America", "Cable", "High-End Audio", "Golden Ratio", "Litz Structure"]
+tags: [America, Cables, Golden Ratio, High-end, Litz Structure]
 permalink: /companies/en/cardas/
 ---
-
 ## Overview
 
 Cardas Audio is an Oregon-based audio cable and accessory manufacturer founded by George Cardas in 1987. Their products are built around "Golden Section Stranding" technology, which applies the "golden ratio (1:1.618)" found throughout nature to conductor twisting. This allegedly eliminates internal cable resonances and cancels noise. They also actively employ "Litz structure," bundling individually insulated fine conductors to reduce skin effect. Their sound is often described as "warm and musical," earning support from numerous audiophiles over the years.

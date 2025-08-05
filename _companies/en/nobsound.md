@@ -8,10 +8,9 @@ ref: nobsound
 date: 2025-07-24
 rating: [1.8, 0.3, 0.2, 0.5, 0.5, 0.3]
 summary: "A Chinese brand offering low-priced products. However, it faces numerous challenges, including discrepancies between nominal and measured specs, irrational design philosophies using vacuum tubes, and a limited technology level. Its cost-performance is also limited, resulting in a low overall evaluation."
-tags: [Chinese Brand, Low-Price, Class-D, TPA3116D2, Entry-Level, Vacuum Tube]
+tags: [Budget, China, Class D, Entry-level, TPA3116D2, Vacuum Tube]
 permalink: /companies/en/nobsound/
 ---
-
 ## Overview
 
 Nobsound is an audio brand operated by Shenzhen Cavins Technology Co., LTD, established in 2014 in Shenzhen, China. The company primarily develops low-price Class-D amplifiers, DAC-integrated amplifiers, and tube hybrid products using Texas Instruments chips such as TPA3116D2 and TPA3221. The company also operates under the Douk Audio brand and sells worldwide mainly through Amazon and AliExpress. Their corporate philosophy focuses on providing affordable audio experiences for entry-level audio enthusiasts, establishing a certain position in the Chi-Fi (Chinese Hi-Fi) market.

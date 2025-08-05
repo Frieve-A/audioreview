@@ -8,7 +8,7 @@ ref: grado-sr-80x
 date: 2025-08-04
 rating: [3.1, 0.4, 0.6, 0.6, 0.8, 0.7]
 summary: "Known as a traditional handcrafted headphone from Brooklyn, the Grado SR-80x features an open-back design with X Series drivers. Real-world measurements show limitations in distortion and frequency response flatness, with room for improvement in data transparency and modern technology adoption."
-tags: [America, Entry-Level, Headphones, Open-Back]
+tags: [America, Entry-level, Headphones, Open-Back]
 permalink: /products/en/grado-sr-80x/
 ---
 ## Overview

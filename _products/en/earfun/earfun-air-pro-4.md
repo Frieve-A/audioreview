@@ -8,10 +8,9 @@ ref: earfun-air-pro-4
 date: 2025-07-25
 rating: [3.7, 0.7, 0.8, 1.0, 0.4, 0.8]
 summary: "Wireless earbuds featuring a Qualcomm QCC3091 chip and aptX Lossless support, delivering high-quality audio and excellent cost-performance, though reliability concerns for the emerging brand remain."
-tags: [Wireless Earbuds, ANC, aptX Lossless, LDAC, Hi-Res Audio, Bluetooth5.4]
+tags: [ANC, Bluetooth5.4, Hi-Res, LDAC, Wireless Earbuds, aptX Lossless]
 permalink: /products/en/earfun-air-pro-4/
 ---
-
 ## Overview
 
 The EarFun Air Pro 4 is a wireless earbud model released in 2024, featuring the Qualcomm QCC3091 chipset with support for aptX Lossless, LDAC, and Hi-Res Audio for high-quality sound reproduction. Priced at 9,990 yen, it offers premium features including 50dB adaptive hybrid ANC, Bluetooth 5.4, and a 52-hour extended playback time. While the model received a VGP 2024 Gold Award and high evaluation in the Japanese market, concerns about reliability due to its emerging brand status have been noted.

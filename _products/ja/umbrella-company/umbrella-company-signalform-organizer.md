@@ -8,10 +8,9 @@ ref: umbrella-company-signalform-organizer
 date: 2025-07-21
 rating: [2.7, 0.6, 0.5, 0.1, 0.7, 0.8]
 summary: "日本製の多機能DIボックス。DI、リアンプ、レベルコンバーター統合によるワンボックス・ソリューションだが、機能的に同等な製品と比較してコストパフォーマンスに大きな課題がある。"
-tags: [DIボックス, リアンプ, レベルコンバーター, 日本製, プロオーディオ]
+tags: [DIボックス, プロオーディオ, リアンプ, レベルコンバーター, 日本]
 permalink: /products/ja/umbrella-company-signalform-organizer/
 ---
-
 ## 概要
 
 Umbrella Company SIGNALFORM ORGANIZERは、2012年設立の日本のオーディオ機器メーカーであるアンブレラカンパニーが開発した多機能プロオーディオツールです。DIボックス、リバースDI（リアンプ）、レベルコンバーターの機能をハーフラックサイズに統合し、プロオーディオと楽器機器間の信号フォーマットを適切に管理することを目的としています。同社は「Made in Japan」の高品質を重視し、創造的でユニークな音楽機器の開発をミッションとしており、これまでFader ControlやSignalform Organizerなどのプロスタジオ機器を手がけてきました。

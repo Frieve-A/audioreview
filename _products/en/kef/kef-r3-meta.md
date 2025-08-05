@@ -8,10 +8,9 @@ ref: kef-r3-meta
 date: 2025-07-18
 rating: [4.2, 0.8, 0.8, 1.0, 0.8, 0.8]
 summary: "The KEF R3 Meta is a 3-way bookshelf speaker featuring advanced technology and MAT technology, offering appropriate pricing compared to competitive products with equivalent performance, earning a high overall rating"
-tags: [Bookshelf, 3-way, Uni-Q, MAT, Passive]
+tags: [3-Way, Bookshelf, MAT, Passive, Uni-Q]
 permalink: /products/en/kef-r3-meta/
 ---
-
 ## Overview
 
 The KEF R3 Meta is a 3-way passive bookshelf speaker that employs the same drivers as the company's flagship R11 Meta model. It achieves significant performance improvements over the previous R3 through the 12th generation Uni-Q driver array and newly developed MAT (Metamaterial Absorption Technology). The speaker features a 1-inch hard dome tweeter, 5-inch midrange, and 6.5-inch hybrid aluminum woofer, delivering a frequency response of 58Hz-28kHz (±3dB). It handles 15-180W input and provides 87dB/2.83V/1m sensitivity. Each speaker weighs 12.4kg and features a high-quality finish.

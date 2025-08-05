@@ -8,10 +8,9 @@ ref: dali-rubikore-6
 date: 2025-07-26
 rating: [3.3, 0.8, 0.7, 0.3, 0.7, 0.8]
 summary: "High-end floorstanding speaker from Danish DALI. Achieves excellent sound quality with 38Hz-34kHz frequency response and hybrid tweeter technology. The price of approximately 520,000 JPY (pair) poses cost-performance challenges considering ELAC Debut 2.0 F5.2 (approximately 150,000 JPY) offers comparable 42Hz-35kHz characteristics."
-tags: [DALI, Floorstanding Speaker, Denmark, Hybrid Tweeter, SMC Technology]
+tags: [DALI, Denmark, Floorstanding speakers, Hybrid Tweeter, SMC Technology]
 permalink: /products/en/dali-rubikore-6/
 ---
-
 ## Overview
 
 The DALI RUBIKORE 6 is a high-end floorstanding speaker developed by DALI, the veteran Danish speaker manufacturer. This ambitious product inherits technology from the company's flagship Kore series and targets the mid-to-high-end market. It achieves 38Hz-34kHz broadband reproduction through dual 6.5-inch Wood Fiber Clarity Cone technology drivers combined with a hybrid tweeter configuration featuring a 29mm soft dome tweeter and ultra-lightweight ribbon tweeter. The ribbon element operates only above 14kHz, contributing to transparency improvement in upper frequencies. Advanced technologies including SMC-KORE™ inductors and ferrite-free low-loss dome tweeters are incorporated into a slim 990×200×380mm cabinet with a substantial 23kg construction.

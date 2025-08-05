@@ -8,10 +8,9 @@ ref: mark-levinson
 date: 2025-07-05
 rating: [3.3, 0.7, 0.8, 0.0, 0.9, 0.9]
 summary: "An iconic American high-end audio brand founded in 1972. Built on the technical legacy of founder Mark Levinson with distinctive black anodized chassis design, it has reigned as the pinnacle of premium amplifiers for over 50 years. Acquired by Harman International in 1990 and now operating under Samsung, it continues to inherit the highest engineering standards and commitment to sound quality. The 2025 release of the new 600 series with Tectonic industrial design demonstrates the fusion of innovative technology and traditional quality. Through an exclusive contract with Lexus, it has expanded its reputation in automotive audio, solidifying its position in the high-end audio industry."
-tags: [America, High-End, Amplifier, Preamplifier, Harman, Samsung, Lexus]
+tags: [America, Amplifiers, Harman, High-end, Lexus, Preamplifier, Samsung]
 permalink: /companies/en/mark-levinson/
 ---
-
 ## Overview
 
 Founded in 1972 in Connecticut by Mark Levinson himself, this iconic high-end audio brand has created legendary products like the LNP-2 preamp and ML-2 amplifier alongside acoustic engineering genius John Curl, establishing legendary status among audiophiles. The distinctive black anodized chassis design has remained a consistent brand identity since inception.

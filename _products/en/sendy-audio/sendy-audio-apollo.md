@@ -8,7 +8,7 @@ ref: sendy-audio-apollo
 date: 2025-07-28
 rating: [2.5, 0.4, 0.7, 0.2, 0.7, 0.5]
 summary: "Mid-price headphones featuring 68mm planar magnetic drivers and Quad-Former technology. While offering excellent build quality and comfort, it suffers from scientific effectiveness issues due to distortion at higher volumes and a strong V-shaped sound signature."
-tags: [Headphones, Mid-Price, Open-Back, Planar magnetic]
+tags: [Headphones, Mid-range, Open-Back, Planar magnetic]
 permalink: /products/en/sendy-audio-apollo/
 ---
 ## Overview

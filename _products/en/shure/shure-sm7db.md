@@ -8,10 +8,9 @@ ref: shure-sm7db
 date: 2025-08-02
 rating: [3.8, 0.7, 0.8, 0.6, 0.9, 0.8]
 summary: "The latest SM7 series model with improved convenience through a built-in active preamp. Features a high technical level and reliability, but lags behind competitors in cost-performance."
-tags: [Microphone, Dynamic, Built-in Preamp, Streaming, Podcast, Shure]
+tags: [Built-in Preamp, Dynamic, Microphones, Podcast, Shure, Streaming]
 permalink: /products/en/shure-sm7db/
 ---
-
 ## Overview
 
 The Shure SM7dB is the late 2023 model from the industry-standard SM7 series, featuring an integrated active preamp with up to +28dB of gain. While maintaining the acoustic characteristics of the traditional SM7B, it incorporates a Shure-designed preamp based on licensed technology from Cloud Microphones, eliminating the need for external boosters and simplifying setup. With a 50Hz-20kHz frequency response and a cardioid polar pattern, it provides stable audio quality for podcasting, streaming, and recording applications.

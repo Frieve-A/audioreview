@@ -8,10 +8,9 @@ ref: polk-audio-signa-s4
 date: 2025-07-18
 rating: [2.6, 0.4, 0.3, 0.9, 0.7, 0.3]
 summary: "The Polk Audio Signa S4 is a soundbar offering Dolby Atmos compatibility and a wireless subwoofer for 265 USD. While competitive in its price range, it exhibits issues in scientific validity and technology level."
-tags: ["Soundbar", "Dolby Atmos", "Wireless Subwoofer", "3.1.2 Channel", "Budget Focused"]
+tags: [3.1.2 Channel, Budget, Dolby Atmos, Soundbar, Wireless Subwoofer]
 permalink: /products/en/polk-audio-signa-s4/
 ---
-
 ## Overview
 
 The Polk Audio Signa S4 is a 3.1.2 channel soundbar released in 2021. Priced at 265 USD, it offers Dolby Atmos compatibility and a 5.9-inch wireless subwoofer, positioned as a budget-focused product for users with cost constraints. It features VoiceAdjust technology and BassAdjust technology, with HDMI eARC support ensuring connectivity with modern televisions.

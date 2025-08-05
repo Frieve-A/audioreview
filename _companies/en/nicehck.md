@@ -8,7 +8,7 @@ ref: nicehck
 date: 2025-07-27
 rating: [3.3, 0.6, 0.6, 0.8, 0.6, 0.7]
 summary: "A Chinese audio manufacturer established in 2015. Known for diverse driver configurations and price competitiveness, but faces challenges with measurement data transparency and quality consistency."
-tags: [Budget Range, Chinese Manufacturer, Earphones, Hybrid Drivers, In-ear monitors]
+tags: [Budget, China, Earphones, Hybrid Drivers, In-ear monitors]
 permalink: /companies/en/nicehck/
 ---
 ## Overview

@@ -8,7 +8,7 @@ ref: dali-menuet-se
 date: 2025-07-24
 rating: [3.0, 0.6, 0.7, 0.3, 0.7, 0.7]
 summary: "The DALI Menuet SE is a bookshelf speaker that achieves high-quality sound in an extremely compact size, but has significant cost-performance challenges when compared to products with equivalent performance."
-tags: [Bookshelf speakers, Compact Speakers, DALI, Premium Audio]
+tags: [Bookshelf speakers, Compact Speakers, DALI, Premium]
 permalink: /products/en/dali-menuet-se/
 ---
 ## Overview

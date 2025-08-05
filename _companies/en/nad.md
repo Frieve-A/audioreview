@@ -8,10 +8,9 @@ ref: nad
 date: 2025-07-05
 rating: [3.4, 0.9, 0.9, 0.3, 0.8, 0.5]
 summary: "Canadian audio equipment manufacturer founded in 1972. Latest streaming integrated amplifiers like the Masters M33 achieve exceptional measured performance with THD<0.00017% through Purifi Eigentakt technology. However, in terms of pricing, equivalent functionality can be realized with PC-based DAC solutions (RME ADI-2 + miniDSP SHD, etc.) at less than half the cost, making cost-performance limited even considering integrated convenience."
-tags: [Canada, Amplifier, Streaming, Audio, Purifi]
+tags: [Amplifiers, Audio, Canada, Purifi, Streaming]
 permalink: /companies/en/nad/
 ---
-
 ## Overview
 
 NAD is a Canadian audio equipment manufacturer founded in 1972. Known by the acronym "New Acoustic Dimension," the company has built its reputation by providing high-performance amplifiers at accessible prices. Recently, they offer a wide product lineup from latest streaming integrated amplifiers like the Masters M33 V2 (approximately USD 4,000) to separate configurations like the C658 (approximately USD 1,200) + C298 (approximately USD 1,465).

@@ -8,10 +8,9 @@ ref: dcs-rossini-transport
 date: 2025-07-25
 rating: [2.2, 0.8, 0.6, 0.1, 0.6, 0.1]
 summary: "A high-end CD/SACD transport from UK's dCS. While its measurement performance is excellent, it is extraordinarily expensive compared to functionally equivalent products, making its existence highly questionable."
-tags: [CD Transport, SACD, Digital Audio, High-End, dCS]
+tags: [CD Transport, Digital Audio, High-end, SACD, dCS]
 permalink: /products/en/dcs-rossini-transport/
 ---
-
 ## Overview
 
 The dCS Rossini Transport is a CD/SACD transport developed by the British high-end audio manufacturer dCS. Priced as an ultra-high-end unit at USD 23,500, it incorporates the company's digital processing platform. It features a dual-laser CD/SACD mechanism and has the capability to upsample CD data to DSD128 or DXD (24bit/352.8kHz). The chassis measures 444×178×437mm, weighs 20.6kg, and is available in silver or black finishes. It is claimed to achieve high-precision jitter reduction and signal processing through a single FPGA-based digital processing technology developed from the company's Vivaldi series.

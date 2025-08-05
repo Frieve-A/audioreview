@@ -32,6 +32,12 @@ class InfiniteScrollManager {
   }
   
   async init() {
+    // Set initial loading state
+    this.updateResultCount();
+    
+    // Set global reference for other components
+    window.infiniteScrollManager = this;
+    
     // Load data and setup
     await this.loadData();
     this.setupEventListeners();
@@ -72,13 +78,26 @@ class InfiniteScrollManager {
   renderInitialContent() {
     this.sortData(this.state.sort);
     this.renderTagFilters();
-    this.renderItems(0, this.displayedCount);
-    this.updateResultCount();
     
     // Initialize tag filter state from URL if present
     if (window.tagFilter) {
       window.tagFilter.loadStateFromURL();
+      
+      // Sync state with InfiniteScrollManager and apply filters if tags are present
+      if (window.tagFilter.selectedTags.length > 0) {
+        this.state.tags = [...new Set(window.tagFilter.selectedTags)];
+        this.state.searchMode = window.tagFilter.searchMode;
+        this.applyFilters();
+      } else {
+        // No tags in URL, render all items
+        this.renderItems(0, this.displayedCount);
+      }
+    } else {
+      // No tag filter available, render all items
+      this.renderItems(0, this.displayedCount);
     }
+    
+    this.updateResultCount();
   }
   
   renderItems(startIndex, endIndex) {
@@ -480,17 +499,45 @@ class InfiniteScrollManager {
     const resultCountElement = document.getElementById('result-count');
     if (!resultCountElement) return;
     
+    // Show loading state if data is not yet loaded
+    if (this.allData.length === 0) {
+      resultCountElement.innerHTML = 'Loading...';
+      return;
+    }
+    
     const totalCount = this.allData.length;
     const filteredCount = this.filteredData.length;
+    const isCompaniesPage = window.location.pathname.includes('/companies/');
+    const hasFilters = window.tagFilter && window.tagFilter.selectedTags.length > 0;
     
     if (this.currentLanguage === 'ja') {
-      const isCompaniesPage = window.location.pathname.includes('/companies/');
-      const unit = isCompaniesPage ? '社' : '件';
-      resultCountElement.innerHTML = `${totalCount}${unit}中${filteredCount}${unit}のレビューを表示中`;
+      if (isCompaniesPage) {
+        if (hasFilters) {
+          resultCountElement.innerHTML = `${totalCount}社中${filteredCount}社のレビューを表示中`;
+        } else {
+          resultCountElement.innerHTML = `${totalCount}社のレビューを掲載中`;
+        }
+      } else {
+        if (hasFilters) {
+          resultCountElement.innerHTML = `${totalCount}件中${filteredCount}件のレビューを表示中`;
+        } else {
+          resultCountElement.innerHTML = `${totalCount}件のレビューを掲載中`;
+        }
+      }
     } else {
-      const isCompaniesPage = window.location.pathname.includes('/companies/');
-      const unit = isCompaniesPage ? 'companies' : 'products';
-      resultCountElement.innerHTML = `Showing ${filteredCount} of ${totalCount} ${unit}`;
+      if (isCompaniesPage) {
+        if (hasFilters) {
+          resultCountElement.innerHTML = `Showing ${filteredCount} of ${totalCount} company reviews`;
+        } else {
+          resultCountElement.innerHTML = `Featuring ${totalCount} company reviews`;
+        }
+      } else {
+        if (hasFilters) {
+          resultCountElement.innerHTML = `Showing ${filteredCount} of ${totalCount} product reviews`;
+        } else {
+          resultCountElement.innerHTML = `Featuring ${totalCount} product reviews`;
+        }
+      }
     }
   }
   
@@ -514,21 +561,18 @@ class InfiniteScrollManager {
   setupTagFilterListeners() {
     // Listen for changes in the existing TagFilterManager
     if (window.tagFilter) {
-      // Preserve original methods
-      const originalApplyFilters = window.tagFilter.applyFilters.bind(window.tagFilter);
-      const originalUpdateResultCount = window.tagFilter.updateResultCount.bind(window.tagFilter);
-      
       // Infinite loop prevention flag
       let isProcessingFilter = false;
       
-      // Wrap applyFilters to integrate with infinite scroll
+      // Replace applyFilters to integrate with infinite scroll
       window.tagFilter.applyFilters = () => {
         if (isProcessingFilter) return; // Prevent infinite loop
         
         isProcessingFilter = true;
         try {
-          // Execute original processing (UI state updates)
-          originalApplyFilters();
+          // Execute UI state updates only (skip data processing)
+          window.tagFilter.updateUI();
+          window.tagFilter.updateURL();
           // Then execute InfiniteScrollManager processing
           this.handleTagFilterChange();
         } finally {

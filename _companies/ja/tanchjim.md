@@ -8,10 +8,9 @@ ref: tanchjim
 date: 2025-07-26
 rating: [3.6, 0.8, 0.8, 0.7, 0.5, 0.8]
 summary: "中国の新興オーディオブランドTanchjimは、科学的な測定に基づく独自のDMT技術を武器に高品質なイヤホンを展開しています。技術レベルと設計思想は優秀ですが、ケーブル品質など信頼性に課題があります。"
-tags: [中国メーカー, イヤホン, 動的ドライバー, Hi-Fi]
+tags: [Hi-Fi, イヤホン, 中国, 動的ドライバー]
 permalink: /companies/ja/tanchjim/
 ---
-
 ## 概要
 
 Tanchjimは2015年に設立された中国のオーディオブランドで、Hi-Fiインイヤーモニター（IEM）の開発に特化しています。同社は音響工学の専門チームを擁し、独自のDMT（Dual Magnetic Technology）ドライバー技術を核とした製品展開を行っています。代表作であるOxygenで業界から注目を集め、現在も同シリーズを中心とした製品展開を行っています。Technology、Art、Nature、Change、Judge、Interest、Mergeの頭文字から成る社名が示すように、技術と芸術の融合を企業理念としています。

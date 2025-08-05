@@ -8,7 +8,7 @@ ref: edifier
 date: 2025-07-10
 rating: [3.6, 0.6, 0.7, 0.9, 0.6, 0.8]
 summary: "A Chinese audio manufacturer founded in 1996, delivering extremely high cost-performance that surpasses competitors, especially in the entry-level market."
-tags: [China, Entry-level, Headphones, High Cost-Performance, Speakers]
+tags: [Budget, China, Entry-level, Headphones, Speakers]
 permalink: /companies/en/edifier/
 ---
 ## Overview

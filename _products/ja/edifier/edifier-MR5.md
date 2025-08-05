@@ -8,10 +8,9 @@ ref: edifier-MR5
 date: 2025-07-23
 rating: [3.0, 0.5, 0.7, 0.7, 0.6, 0.5]
 summary: "tri-amped構成とBluetooth 6.0対応が特徴の5インチアクティブスタジオモニター。39,980円という価格に対し、Bluetooth搭載の競合製品「Pioneer DJ DM-50D-BT」が約29,700円で存在するため、コストパフォーマンスは平均をやや上回る評価となります。"
-tags: [アクティブスピーカー, スタジオモニター, Bluetooth対応, Hi-Res Audio, 中国製]
+tags: [Bluetooth対応, アクティブスピーカー, スタジオモニター, ハイレゾ, 中国製]
 permalink: /products/ja/edifier-MR5/
 ---
-
 ## 概要
 
 Edifier MR5は、北京に本社を置くEdifier Technology（漫步者）が2025年に発売した5インチアクティブスタジオモニターです。同社は1996年設立の老舗オーディオメーカーで、深圳証券取引所に上場する企業として約30年の事業実績を持ちます。MR5は、tri-amped（3ウェイ3アンプ）構成、Bluetooth 6.0対応、Hi-Res Audio認証取得を特徴とし、プロフェッショナル用途からコンシューマー用途まで幅広い使用を想定した製品です。

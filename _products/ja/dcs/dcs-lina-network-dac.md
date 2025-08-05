@@ -8,10 +8,9 @@ ref: dcs-lina-network-dac
 date: 2025-07-25
 rating: [3.1, 0.9, 0.8, 0.1, 0.7, 0.6]
 summary: "極めて優秀な測定性能を誇る高級ネットワークDAC。Ring DAC技術により透明レベルの音質を実現するが、同等性能を大幅に下回る価格で提供する競合製品が多数存在するため、コストパフォーマンスは極めて劣る。"
-tags: [ネットワークDAC, 高級オーディオ, ストリーミング, dCS, Ring DAC]
+tags: [Ring DAC, dCS, ストリーミング, ネットワークDAC, 高級]
 permalink: /products/ja/dcs-lina-network-dac/
 ---
-
 ## 概要
 
 dCS Lina Network DACは、イギリスの名門オーディオメーカーdCS Audioが開発したネットワーク対応のハイエンドDAC製品です。同社が30年以上にわたって培ってきた航空宇宙・防衛産業での信号変換技術を基に、独自のRing DAC技術を搭載した高級ネットワークDAC製品として位置づけられています。PCM 32bit/384kHz、DSD128までの高解像度フォーマットに対応し、dCS Mosaicプラットフォームを通じてRoon、Spotify、Qobuzなどの主要ストリーミングサービスに対応します。約777,500円から1,300,000円の価格帯で販売されているネットワークDAC製品です。

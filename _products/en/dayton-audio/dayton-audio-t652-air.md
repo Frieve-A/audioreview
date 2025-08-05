@@ -8,10 +8,9 @@ ref: dayton-audio-t652-air
 date: 2025-07-23
 rating: [3.7, 0.6, 0.8, 1.0, 0.6, 0.7]
 summary: "Achieves world-class affordability as a tower speaker equipped with an AMT tweeter, based on US pricing"
-tags: [Tower Speaker, AMT Tweeter, Budget, Entry Level]
+tags: [AMT Tweeter, Budget, Entry-level, Tower Speaker]
 permalink: /products/en/dayton-audio-t652-air/
 ---
-
 ## Overview
 
 The Dayton Audio T652-AIR is a budget tower speaker from Dayton Audio, the private brand of Parts Express in the United States. It features a 2-way design with dual 6.5-inch woofers and a 1-inch AMT (Air Motion Transformer) tweeter. Standing 30 inches tall, it is designed to offer a full-scale tower speaker experience at an entry-level price point, with a US market price of approximately 125 USD per pair.

@@ -8,7 +8,7 @@ ref: marantz-pm-12-ose
 date: 2025-08-03
 rating: [2.1, 0.7, 0.6, 0.2, 0.3, 0.3]
 summary: "日本国内専用モデルとして開発されたクラスDプリメインアンプ。HDAM-SA3技術とHypex NC500モジュールを採用するも、同等機能の製品が大幅に安価に入手可能であり、コストパフォーマンスは低い。"
-tags: [HDAM, クラスD, プリメインアンプ, マランツ, 高価格]
+tags: [D級, HDAM, プリメインアンプ, マランツ, 高価格]
 permalink: /products/ja/marantz-pm-12-ose/
 ---
 ## 概要

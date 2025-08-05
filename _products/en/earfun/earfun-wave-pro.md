@@ -8,7 +8,7 @@ ref: earfun-wave-pro
 date: 2025-07-24
 rating: [3.5, 0.7, 0.6, 1.0, 0.5, 0.7]
 summary: "Wireless headphones featuring 40mm DLC composite drivers and 80-hour battery life. Offers 45dB ANC performance with QuietSmart 2.0 technology and LDAC support at 79.99 USD. Extremely high cost-performance as it is one of the most affordable products with comparable features."
-tags: [ANC, Active Noise Cancellation, Bluetooth5.3, LDAC, Wireless headphones]
+tags: [ANC, Active noise cancelling, Bluetooth5.3, LDAC, Wireless headphones]
 permalink: /products/en/earfun-wave-pro/
 ---
 ## Overview

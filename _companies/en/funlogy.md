@@ -8,10 +8,9 @@ ref: funlogy
 date: 2025-07-19
 rating: [2.4, 0.3, 0.4, 1.0, 0.7, 0.0]
 summary: "A Japanese consumer electronics brand offering low-priced products, but audio measurement performance significantly deviates from transparency levels with design philosophy containing many unscientific elements"
-tags: [Consumer, Speakers, Soundbar, Japanese Brand, Low-price]
+tags: [Budget, Consumer, Japan, Soundbar, Speakers]
 permalink: /companies/en/funlogy/
 ---
-
 ## Overview
 
 Funlogy is a Japanese company established in 2015, headquartered in Chuo-ku, Chiba City, Chiba Prefecture. With the corporate philosophy of "Making 365 days enjoyable," the company engages in planning, development, and sales of home electronics including speakers, soundbars, and projectors. Despite its small team structure, the company achieves low pricing by utilizing Amazon's FBA service and has gained market recognition through awards including VGP (Visual Grand Prix) and Good Design Award. The product price range is concentrated in the low-price segment from 1,490 yen to approximately 9,999 yen, with a focus on cost-performance oriented product lineup.

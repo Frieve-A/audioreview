@@ -8,10 +8,9 @@ ref: dcs-vivaldi-transport-ii
 date: 2025-07-25
 rating: [2.0, 0.3, 0.7, 0.0, 0.8, 0.2]
 summary: "dCS's flagship CD transport is technically excellent but fails to provide scientifically meaningful improvements in basic digital data delivery, with extremely poor cost-performance"
-tags: [CD Transport, High-End, dCS, Digital]
+tags: [CD Transport, Digital, High-end, dCS]
 permalink: /products/en/dcs-vivaldi-transport-ii/
 ---
-
 ## Overview
 
 The dCS Vivaldi Transport II is the flagship CD transport from UK-based dCS, launched in November 2023. Priced at approximately 50,000 USD, it combines a Sound United D&M mechanism with dCS's proprietary digital processing technology. The Mark II was developed as a successor model following the discontinuation of the previously used TEAC Esoteric Neo VMK-3 mechanism, incorporating technological advances gained from Vivaldi series development.

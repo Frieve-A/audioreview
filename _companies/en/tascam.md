@@ -8,7 +8,7 @@ ref: tascam
 date: 2025-07-30
 rating: [3.9, 0.7, 0.7, 1.0, 0.7, 0.8]
 summary: "A scientific evaluation of Tascam, a company with a long history in audio recording equipment. While its Ultra HDDA technology receives a fair assessment, the company offers products with outstanding cost-performance in their functional class, leading to a high overall rating."
-tags: [Audio interface, Japanese Manufacturer, Pro Audio, Recorder, Ultra HDDA]
+tags: [Audio interface, Japan, Pro Audio, Recorders, Ultra HDDA]
 permalink: /companies/en/tascam/
 ---
 ## Overview

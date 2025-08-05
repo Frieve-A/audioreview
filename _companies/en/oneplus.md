@@ -8,10 +8,9 @@ ref: oneplus
 date: 2025-07-11
 rating: [2.4, 0.5, 0.6, 0.3, 0.4, 0.6]
 summary: "OnePlus is known as a Chinese smartphone brand under BBK Electronics, having recently entered the wireless earphone market. Their audio products centered around the OnePlus Buds Pro 3 offer premium features at accessible prices, achieving market-leading cost performance."
-tags: [OnePlus, "Wireless earphones", "Chinese manufacturer", "BBK Electronics"]
+tags: [BBK Electronics, China, OnePlus, Wireless earphones]
 permalink: /companies/en/oneplus/
 ---
-
 ## Overview
 
 OnePlus is a Chinese smartphone brand established in 2013, operating under BBK Electronics. Initially, the company gained global attention with its "flagship killer" concept, providing high-performance smartphones at affordable prices. In the audio product sector, OnePlus entered the wireless earphone market in 2020 with the OnePlus Buds series. Currently, they offer multiple wireless earphone products including the OnePlus Buds Pro 3 as their flagship model, along with the OnePlus Buds Pro 2, OnePlus Buds Pro, OnePlus Buds Z2, and OnePlus Buds N. The company emphasizes their commitment to acoustic technology through collaboration with Dynaudio for sound design.

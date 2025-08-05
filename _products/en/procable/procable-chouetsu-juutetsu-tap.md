@@ -8,10 +8,9 @@ ref: procable-chouetsu-juutetsu-tap
 date: 2025-07-26
 rating: [1.2, 0.2, 0.3, 0.1, 0.5, 0.1]
 summary: "A Japanese audio power strip with a heavy iron casing, but it is an expensive product that lacks scientific evidence and has low rationality in its design philosophy."
-tags: [Power Strip, Audio Accessories, procable, Made in Japan]
+tags: [Audio Accessories, Japan, Power Strip, procable]
 permalink: /products/en/procable-chouetsu-juutetsu-tap/
 ---
-
 ## Overview
 
 The procable 超越重鉄タップ is an audio equipment-specific power strip manufactured by Japan's procable company. It features a 3.2mm thick heavy iron casing and shielded cables, utilizing US-made WATTGATE plugs. Multiple configurations are available from 2 to 10 outlets, with cable lengths selectable from 1m to 3m. The company positions this as an evolved product from their conventional "heavy iron strip," claiming audio equipment sound quality improvements. The price is 18,800 JPY for the 6-outlet 2m model.

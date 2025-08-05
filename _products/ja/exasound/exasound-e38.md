@@ -8,10 +8,9 @@ ref: exasound-e38
 date: 2025-07-20
 rating: [3.0, 0.9, 0.7, 0.1, 0.8, 0.5]
 summary: "優れた測定性能を誇る8チャンネルDAC。しかし、その機能の恩恵は限定的で、極めて低いコストパフォーマンスと設計思想の合理性に課題。"
-tags: [DAC, マルチチャンネル, DSD256, 高級機]
+tags: [DAC, DSD256, マルチチャンネル, 高級]
 permalink: /products/ja/exasound-e38/
 ---
-
 ## 概要
 
 ExaSound e38は、カナダのExaSound Audio Designが手がける8チャンネル対応の高級DACです。ES9038PROチップを搭載し、DSD256再生に対応、独自のZeroJitter技術やGalvanicInfinity技術を採用しています。同社はマルチチャンネルDSDの先駆的存在として知られ、e38はStereophile誌でA+推奨コンポーネントに選出されました。バランス出力版とアンバランス出力版が用意され、専用のPlayPointネットワークストリーマーと組み合わせた使用が推奨されています。

@@ -8,10 +8,9 @@ ref: pioneer
 date: 2025-07-23
 rating: [2.4, 0.3, 0.4, 0.6, 0.6, 0.5]
 summary: "A veteran manufacturer founded in 1938, now focusing on car electronics. Pioneer-branded home AV products are developed by a separate company, and both fall short of modern alternatives in measurement performance and price competitiveness."
-tags: [Audio Manufacturer, Car Audio, AV Receiver, Japanese Brand]
+tags: [AV Receiver, Audio Manufacturer, Car Audio, Japan]
 permalink: /companies/en/pioneer/
 ---
-
 ## Overview
 
 Pioneer is a veteran Japanese electronics manufacturer founded in 1938. While once a leading name in the audio industry, the company now concentrates its management resources primarily on the car electronics business. Meanwhile, its long-standing home AV business, after being transferred to Onkyo Home Entertainment, is now managed by Premium Audio Company (PAC), a subsidiary of VOXX International, which develops and sells Pioneer-branded AV receivers. This review evaluates the company considering these two different operational structures.

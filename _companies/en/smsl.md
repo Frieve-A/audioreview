@@ -8,10 +8,9 @@ ref: smsl
 date: 2025-07-06
 rating: [4.1, 1.0, 0.8, 1.0, 0.3, 1.0]
 summary: "A leader in 'Chi-Fi.' Through skillful circuit techniques implementing the latest high-performance DAC chips, they achieve world-class measured performance at price-breaking costs. Their products are becoming reference standards for audiophiles who prioritize objective data. However, behind their overwhelming price-performance ratio, concerns about firmware stability and long-term support structure have been reported. A brand requiring the resolve to master a double-edged sword."
-tags: [China, DAC, Amplifier, Chi-Fi, High Cost-Performance]
+tags: [Amplifiers, Budget, Chi-Fi, China, DAC]
 permalink: /companies/en/smsl/
 ---
-
 ## Overview
 
 SMSL (S.M.S.L / Foshan Shuangmusanlin Technology Co., Ltd) is an audio equipment manufacturer established in 2009, based in Shenzhen, China. Alongside Topping, they are a representative brand leading the so-called "Chi-Fi" movement, providing high-performance DACs, headphone amplifiers, and power amplifiers at astonishingly low prices. Their products consistently receive top-class evaluations in measurement data-focused communities like Audio Science Review, earning tremendous support from modern audiophiles who pursue pure performance regardless of price.

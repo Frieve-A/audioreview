@@ -8,10 +8,9 @@ ref: creative-pebble
 date: 2025-07-08
 rating: [2.4, 0.4, 0.3, 0.9, 0.5, 0.3]
 summary: "USB-powered desktop speakers available at the low price of 25 USD. Features 4.4W RMS output and 100Hz-17kHz frequency response. While THD and SNR measurement data remain undisclosed, it functions as one of the most affordable products in its price range. Despite inferior cost-performance compared to the Logitech Z120 (16.99 USD), it offers a budget option that balances design aesthetics with basic acoustic performance."
-tags: [Budget-friendly, Creative, "Desktop Speakers", USB-powered]
+tags: [Budget, Creative, Desktop Speakers, USB-powered]
 permalink: /products/en/creative-pebble/
 ---
-
 ## Overview
 
 The Creative Pebble is a USB-powered 2.0 desktop speaker system offered at the extremely low price of 25 USD. With 4.4W RMS output and 100Hz-17kHz frequency response, it employs a custom-tuned far-field driver solution angled at 45 degrees. The simple design performs both power supply and audio transmission through a single USB cable, optimized for compact desktop environments. Featuring a distinctive spherical design with low-frequency reinforcement through passive radiators. Positioned as an entry-level product intended for basic computer work and casual music listening rather than professional audio applications.

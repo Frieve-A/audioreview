@@ -8,10 +8,9 @@ ref: ediscreation
 date: 2025-07-24
 rating: [1.2, 0.1, 0.5, 0.0, 0.5, 0.1]
 summary: "A Hong Kong-based audio manufacturer. Its optical network isolators lack scientific basis and can be replaced by generic technology, resulting in non-existent cost-performance. Their value as dedicated devices is unrecognized."
-tags: [Hong Kong, Network Audio, Optical Isolator, Ethernet Switch, Computer Audio]
+tags: [Computer Audio, Ethernet Switch, Hong Kong, Network audio, Optical Isolator]
 permalink: /companies/en/ediscreation/
 ---
-
 ## Overview
 
 Ediscreation is a small-scale audio manufacturer founded in Hong Kong in 2014 by Edison Wong. The company's main products are the "Fiberbox" series of optical network isolators, which claim to reduce network noise in computer audio systems. All products are designed and manufactured in Hong Kong, featuring a craftsman-like approach where the founder personally handles everything from quality control to customer service. However, the value offered by its products raises significant questions from a scientific and economic perspective.

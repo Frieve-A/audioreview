@@ -8,10 +8,9 @@ ref: beat-sonic-toon-x
 date: 2025-07-30
 rating: [3.2, 0.8, 0.5, 0.4, 0.7, 0.8]
 summary: "A 4-channel DSP-equipped amplifier designed to improve factory car audio systems. It achieves nearly transparent-level measurement performance, but faces competition from equally capable alternatives at lower prices."
-tags: [DSP, Car Audio, Amplifier, Plug and Play]
+tags: [Amplifiers, Car Audio, DSP, Plug and Play]
 permalink: /products/en/beat-sonic-toon-x/
 ---
-
 ## Overview
 
 The Beat-Sonic TOON-X is a 4-channel DSP-equipped amplifier developed by Beat-Sonic, a veteran Japanese car audio manufacturer established in 1991, targeting factory car audio systems. As the latest model in the TOON series, an acronym for "Totally Optimized ONgaku (music)," it aims to dramatically improve the sound quality of factory audio systems through a plug-and-play design that eliminates complex wiring. The product features vehicle-specific designs based on strong relationships with major domestic and international automakers, particularly Toyota.

@@ -8,10 +8,9 @@ ref: denon-pma-900hne
 date: 2025-08-04
 rating: [3.9, 0.7, 0.7, 1.0, 0.8, 0.7]
 summary: "HEOS内蔵でネットワーク機能を搭載したミドルクラス統合アンプ。測定性能は許容範囲で、同等機能での世界最安価格によりコストパフォーマンスは優秀"
-tags: [統合アンプ, ネットワークオーディオ, HEOS, ストリーミング, MM/MCフォノ]
+tags: [HEOS, MM/MCフォノ, インテグレーテッドアンプ, ストリーミング, ネットワークオーディオ]
 permalink: /products/ja/denon-pma-900hne/
 ---
-
 ## 概要
 
 Denon PMA-900HNEは、HEOS Built-inを搭載したネットワーク対応の統合アンプです。Advanced High Current Single Push-Pull回路により85W×2（4Ω）の出力を実現し、AirPlay 2、Bluetooth、各種ストリーミングサービス対応を備えています。1910年創業のDenonが培ったアナログ回路技術と現代のネットワーク機能を融合させた製品として位置づけられ、ハイレゾ音源やDSD再生にも対応しています。MM/MCフォノイコライザーを内蔵し、アナログレコード再生も可能です。

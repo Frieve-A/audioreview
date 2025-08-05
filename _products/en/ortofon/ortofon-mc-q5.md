@@ -8,10 +8,9 @@ ref: ortofon-mc-q5
 date: 2025-07-12
 rating: [2.3, 0.2, 0.2, 1.0, 0.7, 0.2]
 summary: "The Ortofon MC Q5 is a technically competent analog cartridge that achieves nearly equivalent cost-performance to the Audio-Technica AT-OC9XEB. While appropriately priced as an entry-class MC cartridge, its scientific validity is limited due to the inherent physical constraints of analog reproduction."
-tags: [Cartridge, MC-Type, Ortofon, Analog]
+tags: [Analog, Cartridges, MC-Type, Ortofon]
 permalink: /products/en/ortofon-mc-q5/
 ---
-
 ## Overview
 
 The Ortofon MC Q5 is an MC-type stereo cartridge from Denmark's established cartridge manufacturer Ortofon. Featuring high-purity copper coil windings and an elliptical stylus, it offers specifications of 0.5mV output voltage, 2.3g recommended tracking force, and 9g weight. The design incorporates an ABS/aluminum body combined with an aluminum cantilever. Currently available through limited distribution, it is primarily traded in the secondary market. While maintaining standard technical levels for an analog cartridge, objective verification against modern scientific audio quality standards is necessary.

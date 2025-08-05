@@ -8,10 +8,9 @@ ref: fiio-k11
 date: 2025-07-07
 rating: [4.0, 0.8, 0.8, 0.8, 0.8, 0.8]
 summary: "An entry-level USB DAC-integrated headphone amplifier that brings authentic balanced output to compact desktop environments. Featuring the CS43198 DAC chip, it achieves excellent measured performance with SNR of 123dB and THD+N below 0.00035% at an early 20,000 yen price point. High output power of 1400mW at 32Ω load and 250mW at 300Ω load via balanced output ensures comfortable driving of wide range of headphones."
-tags: [FiiO, "USB DAC", "Headphone amplifier", "Balanced output", "Desktop audio", Entry-level]
+tags: [Balanced output, Desktop, Entry-level, FiiO, Headphone amplifier, USB DAC]
 permalink: /products/en/fiio-k11/
 ---
-
 ## Overview
 
 The FiiO K11 is an entry-level USB DAC-integrated headphone amplifier launched in 2024. The compact 147mm width, 32mm height chassis houses a Cirrus Logic CS43198 DAC chip, providing both single-ended (6.35mm) and balanced (4.4mm) outputs. RGB-illuminated display visually shows sampling rate and volume levels, with 3-stage gain adjustment capability. Equipped with USB, coaxial, and optical digital inputs plus RCA analog outputs, it functions as the core of desktop audio systems.

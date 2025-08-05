@@ -8,10 +8,9 @@ ref: scan-speak
 date: 2025-07-10
 rating: [2.8, 0.6, 0.8, 0.5, 0.5, 0.4]
 summary: "A Danish high-end speaker driver manufacturer that shows limited superiority in scientific evaluation based on measured data and suffers from poor modern cost-performance due to high pricing"
-tags: [Denmark, Speaker Drivers, High-end Audio, Beryllium, Tweeter]
+tags: [Beryllium, Denmark, High-end, Speaker Drivers, Tweeter]
 permalink: /companies/en/scan-speak/
 ---
-
 ## Overview
 
 Scan-Speak A/S is a specialized speaker driver manufacturer established in Denmark in 1970, having received technical recognition in the high-end audio industry for over 50 years. Founded by Ejvind Skaaning, the company continues handcrafted manufacturing with 50 employees in Videbaek, Denmark. The company handles high-end drivers such as beryllium dome tweeters and the Illuminator series, and also provides OEM supply to luxury speaker manufacturers worldwide.

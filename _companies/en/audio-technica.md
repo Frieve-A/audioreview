@@ -8,10 +8,9 @@ ref: audio-technica
 date: 2025-07-05
 rating: [4.0, 0.8, 0.9, 0.6, 0.8, 0.9]
 summary: "Japanese audio equipment manufacturer founded in 1962. Built worldwide reputation in professional microphones and turntables, recently earning high acclaim in headphones and earphones. Beloved by users from beginners to professionals for technical reliability and excellent cost-performance. The ATH-M50x in particular has established a firm position as a standard monitor headphone used in studios worldwide."
-tags: [Japan, Audio, Microphone, Turntable, Studio]
+tags: [Audio, Japan, Microphones, Studio, Turntable]
 permalink: /companies/en/audio-technica/
 ---
-
 ## Overview
 
 Audio-Technica was founded in Tokyo in 1962 by Hideo Matsushita as a Japanese audio equipment manufacturer with the philosophy of "faithful reproduction of original sound." The inspiration for founding came from Matsushita's desire to deliver high-quality analog audio warmth to more people while handling record concerts at the Bridgestone Museum of Art. Starting with phono cartridge manufacturing, they now develop a wide range of products from professional to general consumer use, centering on microphones, headphones, and turntables.

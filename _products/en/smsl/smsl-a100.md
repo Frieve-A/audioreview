@@ -8,10 +8,9 @@ ref: smsl-a100
 date: 2025-07-20
 rating: [3.2, 0.6, 0.4, 1.0, 0.6, 0.6]
 summary: "A compact Class-D amplifier featuring the Infineon MA12070 chip, combining good measurement performance with excellent cost-performance."
-tags: [Amplifier, Class-D, SMSL, Bluetooth, Compact]
+tags: [Amplifiers, Bluetooth, Class D, Compact, SMSL]
 permalink: /products/en/smsl-a100/
 ---
-
 ## Overview
 
 The SMSL A100 is a compact Class-D stereo amplifier that adopts the MA12070 chip from German company Infineon. It delivers 80W×2 output (at 4Ω load) and features a multifunctional design with Bluetooth 5.0, USB, and analog inputs. SMSL is a Chinese audio manufacturer that focuses primarily on small desktop audio equipment, and the A100 is positioned as a representative entry-level model in their lineup. It includes a subwoofer output, enabling 2.1-channel system construction.

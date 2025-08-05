@@ -8,7 +8,7 @@ ref: schiit-audio-tyr
 date: 2025-07-25
 rating: [2.9, 0.8, 0.8, 0.1, 0.7, 0.5]
 summary: "California-designed high-performance monoblock amplifier. Achieves transparent-level measurement performance, but cost-performance is severely low as equivalent Fosi Audio V3 Mono is available for 338 USD."
-tags: [Class AB, High-Price, Monoblock Amplifier, Power amplifier]
+tags: [Class AB, High-end, Monoblock Amplifier, Power amplifier]
 permalink: /products/en/schiit-audio-tyr/
 ---
 ## Overview

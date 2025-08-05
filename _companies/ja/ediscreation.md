@@ -8,10 +8,9 @@ ref: ediscreation
 date: 2025-07-24
 rating: [1.2, 0.1, 0.5, 0.0, 0.5, 0.1]
 summary: "香港のオーディオメーカー。光学ネットワークアイソレーターは、科学的根拠が乏しく、汎用技術で代替可能なためコストパフォーマンスは皆無。専用機としての価値は認められない。"
-tags: [Hong Kong, Network Audio, Optical Isolator, Ethernet Switch, Computer Audio]
+tags: [Computer Audio, Ethernet Switch, Optical Isolator, ネットワークオーディオ, 香港]
 permalink: /companies/ja/ediscreation/
 ---
-
 ## 概要
 
 ediscreationは2014年に香港でEdison Wongによって設立された小規模オーディオメーカーです。同社は光学ネットワークアイソレーター「Fiberbox」シリーズを主力製品とし、コンピューターオーディオシステムにおけるネットワークノイズの低減を謳っています。全製品が香港で設計・製造されており、創業者が品質管理から顧客サービスまでを手がける職人的なアプローチを特徴としています。しかし、その製品が提供する価値は、科学的・経済的観点から多くの疑問を呈さざるを得ません。

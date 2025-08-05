@@ -8,10 +8,9 @@ ref: earfun
 date: 2025-07-11
 rating: [3.2, 0.5, 0.4, 1.0, 0.6, 0.7]
 summary: "Chinese cost-focused audio brand established in 2018. Offers high-feature products with 50dB noise cancellation exceeding industry standards and reasonable cost-performance."
-tags: ["Cost Performance", China, "Wireless earphones", "Noise cancelling", "Low price"]
+tags: [Budget, China, Noise cancelling, Wireless earphones]
 permalink: /companies/en/earfun/
 ---
-
 ## Overview
 
 EarFun is an audio brand established in 2018 in Shenzhen, China, operated by "Shenzhen Earfun Technology Co., Ltd." The company achieved rapid growth after the globally acclaimed "EarFun Free" launched in 2019 and "EarFun Air" in 2020. In 2020, they won two CES Innovation Awards, establishing their position in the industry within a short period. Currently, they focus on wireless earphones with noise cancelling features priced under 10,000 yen, popular among users who prioritize cost-performance.

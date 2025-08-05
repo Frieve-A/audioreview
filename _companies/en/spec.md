@@ -8,10 +8,9 @@ ref: spec
 date: 2025-07-26
 rating: [1.8, 0.5, 0.5, 0.1, 0.5, 0.2]
 summary: "Japanese audio manufacturer SPEC develops Class D amplifiers based on its unique philosophy, but its measurement performance is mediocre, and its irrational design philosophy and high pricing result in extremely poor cost-performance."
-tags: [Class D, Amplifier, Japan, High-End Audio, Real Sound]
+tags: [Amplifiers, Class D, High-end, Japan, Real Sound]
 permalink: /companies/en/spec/
 ---
-
 ## Overview
 
 SPEC Corporation, established in 2010, is a Japanese audio manufacturer founded by former Teac and Pioneer engineers. The company advocates for achieving "tube amplifier-like sound" with solid-state circuits through its Class D amplifier technology, dubbed "Real Sound." Their main products include integrated amplifiers and SACD players, which are characterized by a sound design that utilizes special capacitor components.

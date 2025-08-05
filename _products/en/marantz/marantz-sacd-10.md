@@ -8,10 +8,9 @@ ref: marantz-sacd-10
 date: 2025-07-26
 rating: [2.8, 0.7, 0.8, 0.3, 0.6, 0.4]
 summary: "Premium SACD/CD player featuring proprietary SACDM-3 transport. While technically accomplished, cost-performance concerns and questionable dedicated player necessity challenge its value proposition."
-tags: [SACD, CD Player, High-End, Marantz, DAC]
+tags: [CD Player, DAC, High-end, Marantz, SACD]
 permalink: /products/en/marantz-sacd-10/
 ---
-
 ## Overview
 
 The Marantz SACD-10 is the flagship SACD/CD player in the company's 10 Series collection. Priced at 12,000 USD, this unit features a proprietary SACDM-3 transport mechanism and supports DSD256 and PCM 384/32 external DAC functionality. The 73-pound (33kg) chassis incorporates copper-shielded triple-layer aluminum construction, multi-layer PCBs, independent sub-enclosures, and HDAM (Hyper Dynamic Amplifier Module) circuitry. An 8-layer PCB hosts SHARC DSP-based MMM (Marantz Musical Mastering) processing, custom 1-bit D/A conversion, and HDAM-based analog output circuits.

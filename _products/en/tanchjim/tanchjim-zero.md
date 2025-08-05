@@ -8,7 +8,7 @@ ref: tanchjim-zero
 date: 2025-07-25
 rating: [3.6, 0.6, 0.7, 1.0, 0.6, 0.7]
 summary: "A dynamic driver IEM that achieves neutral-oriented sound at an extremely low price. While measured performance is average, it realizes the lowest price point among products with equivalent functionality."
-tags: [Chinese Earphones, Dynamic driver, In-ear monitors, Low Price, Neutral]
+tags: [Budget, Chinese Earphones, Dynamic driver, In-ear monitors, Neutral]
 permalink: /products/en/tanchjim-zero/
 ---
 ## Overview

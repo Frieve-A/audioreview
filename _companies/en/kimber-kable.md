@@ -8,10 +8,9 @@ ref: kimber-kable
 date: 2025-07-06
 rating: [2.1, 0.0, 0.7, 0.1, 0.9, 0.4]
 summary: "Founded in 1979, this legendary American cable brand is known for its distinctive braided construction. While their unique geometric design for electromagnetic noise reduction has technical merit, their claimed sonic improvements lack scientific validation and remain contentious. Products are extremely expensive, and when compared to professional cables with equivalent electrical performance, cost-performance is markedly poor."
-tags: [America, Cable, High-End Audio]
+tags: [America, Cables, High-end]
 permalink: /companies/en/kimber-kable/
 ---
-
 ## Overview
 
 Kimber Kable is a renowned American audio cable manufacturer founded by Ray Kimber in 1979. Since its inception, the company has built its core technology around distinctive geometries such as "GyroQuadratic" and "Varistrand," which feature multiple conductors intricately braided in complex patterns. These braided structures are primarily designed to cancel external RFI (Radio Frequency Interference) and EMI (Electromagnetic Interference) noise, becoming the brand's defining characteristic alongside their unique appearance. The company actively employs high-purity materials like copper and silver, establishing a solid position in the high-end audio market, though their pricing and effectiveness have been subjects of ongoing debate for years.

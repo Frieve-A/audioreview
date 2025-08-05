@@ -8,7 +8,7 @@ ref: tangzu
 date: 2025-07-27
 rating: [2.9, 0.7, 0.6, 0.5, 0.5, 0.6]
 summary: "A Chinese earphone manufacturer established in 2020. While offering a range from entry-level to high-end, it lacks technical originality and faces a harsh evaluation, especially in cost-performance."
-tags: [Chinese Manufacturer, Dynamic driver, Hybrid, In-ear monitors]
+tags: [China, Dynamic driver, Hybrid, In-ear monitors]
 permalink: /companies/en/tangzu/
 ---
 ## Overview

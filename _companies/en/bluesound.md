@@ -8,7 +8,7 @@ ref: bluesound
 date: 2025-07-06
 rating: [4.1, 1.0, 0.8, 0.4, 0.9, 1.0]
 summary: "A Canadian network audio specialist centered on the highly regarded multiroom audio platform 'BluOS,' known for stability and ease of use. While products demonstrate excellent measured performance and reliability, harsh evaluation from a cost-performance perspective due to the emergence of competitively priced alternatives with equal or superior performance. A premium choice for users prioritizing ecosystem value above all else."
-tags: [BluOS, Canada, Multiroom, Network Audio, Network streamer]
+tags: [BluOS, Canada, Multiroom, Network audio, Network streamer]
 permalink: /companies/en/bluesound/
 ---
 ## Overview

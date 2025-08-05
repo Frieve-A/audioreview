@@ -8,7 +8,7 @@ ref: schiit-audio-tyr
 date: 2025-07-25
 rating: [2.9, 0.8, 0.8, 0.1, 0.7, 0.5]
 summary: "カリフォルニア設計の高性能モノブロックアンプ。透明レベルの測定性能を実現するも、同等機能のFosi Audio V3 Monoが338米ドルで入手可能なためコストパフォーマンスは著しく低い。"
-tags: [クラスAB, パワーアンプ, モノブロックアンプ, 高価格]
+tags: [AB級, パワーアンプ, モノブロックアンプ, 高価格]
 permalink: /products/ja/schiit-audio-tyr/
 ---
 ## 概要

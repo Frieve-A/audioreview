@@ -8,10 +8,9 @@ ref: wharfedale
 date: 2025-08-02
 rating: [3.0, 0.4, 0.5, 0.8, 0.8, 0.5]
 summary: "1932年創業の英国老舗スピーカーメーカー。Diamond、Heritageシリーズで知られるが、測定性能に課題を抱える。"
-tags: [スピーカー, 英国, Diamond, Heritage, ブックシェルフ]
+tags: [Diamond, Heritage, イギリス, スピーカー, ブックシェルフ]
 permalink: /companies/ja/wharfedale/
 ---
-
 ## 概要
 
 Wharfedaleは1932年にGilbert Briggsによって設立された英国の老舗スピーカーメーカーです。Diamondシリーズ（1982年発売開始）やHeritageシリーズといった代表的な製品ラインで知られ、現在はInternational Audio Groupの傘下にあります。同社はCarnegie Hallでの「ライブ vs 録音」実演で名声を築き、セラミック磁石や2ウェイスピーカーなどの基本技術を導入した歴史があります。製品は英国で設計され、2022年からは一部製品の製造も英国に回帰しています。

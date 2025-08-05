@@ -8,10 +8,9 @@ ref: crown-amcron
 date: 2025-07-21
 rating: [2.2, 0.5, 0.7, 0.2, 0.4, 0.4]
 summary: "Crown AmCron, a veteran in professional audio, possesses established technical capabilities but faces challenges in price competition with modern alternatives, requiring careful product selection based on intended use"
-tags: [Professional Audio, Amplifiers, Crown, AmCron, Harman]
+tags: [AmCron, Amplifiers, Crown, Harman, Professional]
 permalink: /companies/en/crown-amcron/
 ---
-
 ## Overview
 
 Crown AmCron is a veteran American audio manufacturer established in 1947, currently operating as a division of Harman International Industries (under Samsung Electronics). The company is primarily known for manufacturing professional power amplifiers, specializing in high-output amplifiers designed for concert venues and studio use. The AmCron brand is mainly used for export markets, offering product lines with identical technology and quality to the Crown brand.

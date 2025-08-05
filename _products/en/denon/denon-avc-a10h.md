@@ -8,10 +8,9 @@ ref: denon-avc-a10h
 date: 2025-08-04
 rating: [4.0, 0.6, 0.8, 1.0, 0.8, 0.8]
 summary: "13.4-channel AV receiver manufactured at Shirakawa Audio Works. Features 13-channel built-in amplification with limited measurement data but offers Japanese manufacturing quality."
-tags: [AV Receiver, Home Theater, Dolby Atmos, 8K Compatible, Made in Japan]
+tags: [8K Compatible, AV Receiver, Dolby Atmos, Home Theater, Japan]
 permalink: /products/en/denon-avc-a10h/
 ---
-
 ## Overview
 
 The Denon AVC-A10H is a 13.4-channel AV receiver manufactured at the company's Shirakawa Audio Works facility. Released in October 2024, this unit inherits technology from the flagship AVR-A1H while achieving a price point of 4,699 USD. It delivers 150W output (8Ω, 20Hz-20kHz, 0.05% THD+N with 2-channel drive) and incorporates 9 ESS SABRE DACs, supporting 8K/60Hz and 4K/120Hz video signal pass-through. The receiver fully supports immersive audio formats including Dolby Atmos, DTS:X, and AURO-3D. Hand-crafted assembly by skilled Japanese technicians and audio tuning by Denon Sound Master Shinichi Yamauchi are distinctive features.

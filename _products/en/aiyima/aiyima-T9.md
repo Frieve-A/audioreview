@@ -8,10 +8,9 @@ ref: aiyima-T9
 date: 2025-07-22
 rating: [2.4, 0.4, 0.5, 0.8, 0.3, 0.4]
 summary: "Bluetooth-enabled compact amplifier with tube-style decoration and integrated features. Power specifications align with TPA3250 chip capabilities, offering certain value for users seeking a multi-functional desktop amplifier with vintage aesthetics."
-tags: [Class-D, Amplifier, Bluetooth, USB-DAC, Tube, TPA3250]
+tags: [Amplifiers, Bluetooth, Class D, TPA3250, Tube, USB-DAC]
 permalink: /products/en/aiyima-T9/
 ---
-
 ## Overview
 
 The aiyima T9 is a Bluetooth-enabled compact desktop amplifier manufactured by Chinese audio company aiyima. It features the TPA3250 chip and is marketed with "100W×2" power output specifications. However, according to Texas Instruments' official datasheet, the TPA3250 can deliver 70W stereo continuous into 8Ω and up to 130W into 4Ω with a 32V supply, making the claimed 100W×2 specification theoretically achievable but likely referring to peak rather than continuous power. The design emphasizes visual appeal with tube-style LED decoration and VU meters. It offers multiple input terminals (Bluetooth, USB-DAC, optical digital, coaxial digital, RCA) to accommodate various audio sources.

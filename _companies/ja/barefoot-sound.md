@@ -8,10 +8,9 @@ ref: barefoot-sound
 date: 2025-08-04
 rating: [3.7, 0.7, 0.8, 0.9, 0.6, 0.7]
 summary: "高度な技術力を持つ米国の高級スタジオモニターメーカー。MEME技術やDual-Force設計などの独自技術で業界内での評価は高いが、代替品との価格差が小さくコストパフォーマンスは標準的。"
-tags: [スタジオモニター, アクティブスピーカー, DSP, 米国メーカー, 高級機]
+tags: [DSP, アクティブスピーカー, スタジオモニター, 米国メーカー, 高級]
 permalink: /companies/ja/barefoot-sound/
 ---
-
 ## 概要
 
 Barefoot Soundは2006年に科学者・エンジニアのThomas Barefootによって設立された米国のスタジオモニター専門メーカーです。創業者が13歳からスピーカー製作に取り組み、Intel在籍時代に半導体技術を応用したオーディオ設計を追求した経緯を持ちます。MEME（Multi-Emphasis Monitor Emulation）技術やDual-Force設計など独自の技術開発により、Chris Lord-AlgeやMix With The Masters Studios La Fabriqueなど著名なプロフェッショナルから信頼を獲得しています。Footprintシリーズを中心とした製品ラインナップで、18年間にわたり高級スタジオモニター市場に特化した事業を展開しています。

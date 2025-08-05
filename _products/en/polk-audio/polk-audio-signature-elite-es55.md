@@ -8,7 +8,7 @@ ref: polk-audio-signature-elite-es55
 date: 2025-08-01
 rating: [2.5, 0.5, 0.5, 0.2, 0.7, 0.6]
 summary: "The Polk Audio Signature Elite ES55 is a floor-standing speaker with Hi-Res Audio certification and Power Port technology. However, at 449 USD (single), it has a cost-performance issue, as an equivalent or superior alternative, the Dayton Audio T652-AIR, is available for about one-sixth the price (74.99 USD single equivalent)."
-tags: [Floorstanding speakers, Hi-Res Audio, Polk Audio, Power Port, Tower Speaker]
+tags: [Floorstanding speakers, Hi-Res, Polk Audio, Power Port, Tower Speaker]
 permalink: /products/en/polk-audio-signature-elite-es55/
 ---
 ## Overview

@@ -8,7 +8,7 @@ ref: electro-voice-tx1152
 date: 2025-07-25
 rating: [3.2, 0.6, 0.7, 0.6, 0.7, 0.6]
 summary: "A 15-inch 2-way passive speaker with standard performance characteristics, but moderate cost-performance evaluation when compared to competing products"
-tags: [15-inch, 2-way, Live Sound, PA Equipment, Passive speakers]
+tags: [15-inch, 2-Way, Live Sound, PA Equipment, Passive speakers]
 permalink: /products/en/electro-voice-tx1152/
 ---
 ## Overview

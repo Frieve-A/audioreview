@@ -8,7 +8,7 @@ ref: trinnov-audio-ovation2
 date: 2025-07-14
 rating: [3.5, 0.9, 0.8, 0.4, 0.7, 0.7]
 summary: "A professional cinema processor with excellent measured performance and advanced room correction technology, but faces cost-performance challenges with 2.5x the price compared to the functionally equivalent Monolith HTP-1."
-tags: [Cinema Processor, Digital Signal Processing, Dolby Atmos, Professional Audio, Room correction]
+tags: [Cinema Processor, Digital Signal Processing, Dolby Atmos, Professional, Room correction]
 permalink: /products/en/trinnov-audio-ovation2/
 ---
 ## Overview

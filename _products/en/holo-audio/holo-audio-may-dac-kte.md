@@ -8,10 +8,9 @@ ref: holo-audio-may-dac-kte
 date: 2025-07-31
 rating: [3.0, 0.8, 0.8, 0.2, 0.8, 0.4]
 summary: "A flagship R2R DAC boasting excellent measured performance. However, it lacks rationality in its technological choice, and its cost-performance is extremely low due to the existence of more affordable, higher-performing alternatives."
-tags: [DAC, R2R, High-End Audio, Discrete, Chinese Manufacturer]
+tags: [China, DAC, Discrete, High-end, R2R]
 permalink: /products/en/holo-audio-may-dac-kte/
 ---
-
 ## Overview
 
 The Holo Audio May DAC KTE is a flagship R2R DAC developed by the Chinese manufacturer Holo Audio. The KTE (Kitsune Tuned Edition) is the top-tier model with upgraded components from the standard version, priced at approximately 5,600 USD. It features proprietary discrete R2R ladder technology that does not rely on commercial DAC chips, operates in a characteristic NOS (non-oversampling) mode, and supports high-resolution formats up to DSD1024 and PCM 1.536MHz. While it is a symbolic product showcasing Holo Audio's technical capabilities, its price and technological choices present challenges.

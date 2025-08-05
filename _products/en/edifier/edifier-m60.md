@@ -8,7 +8,7 @@ ref: edifier-m60
 date: 2025-07-11
 rating: [2.5, 0.3, 0.4, 1.0, 0.4, 0.4]
 summary: "Compact desktop speaker with 66W output and LDAC support. Despite winning VGP2025 Gold Award, insufficient measurement data prevents performance verification, resulting in poor scientific validity. However, excellent cost-performance compared to similar 66W RMS alternatives."
-tags: [Active speakers, Bluetooth, Desktop speaker, Hi-res, LDAC]
+tags: [Active speakers, Bluetooth, Desktop speaker, Hi-Res, LDAC]
 permalink: /products/en/edifier-m60/
 ---
 ## Overview

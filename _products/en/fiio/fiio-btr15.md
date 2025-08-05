@@ -8,10 +8,9 @@ ref: fiio-btr15
 date: 2025-08-02
 rating: [4.1, 0.9, 0.8, 0.9, 0.7, 0.8]
 summary: "A Bluetooth DAC/amplifier with transparent-level measurement performance. A comparison with the most affordable products offering equivalent functionality reveals good cost-performance."
-tags: [Bluetooth, DAC, Amplifier, Portable, FiiO]
+tags: [Amplifiers, Bluetooth, DAC, FiiO, Portable]
 permalink: /products/en/fiio-btr15/
 ---
-
 ## Overview
 
 The FiiO BTR15 is a portable DAC/headphone amplifier with Bluetooth 5.1 support. It features dual ES9219MQ chips and supports high-quality codecs including LDAC, aptX HD, and aptX Adaptive. The device provides both 3.5mm single-ended and 4.4mm balanced outputs, delivering up to 340mW (32Ω, balanced) of power. As the successor to the company's BTR5, it offers a more refined design and improved technical specifications. FiiO is a China-based manufacturer of portable audio equipment with a diverse product lineup developed over many years.

@@ -8,7 +8,7 @@ ref: shure-se846-gen2
 date: 2025-07-24
 rating: [3.3, 0.6, 0.8, 0.3, 0.9, 0.7]
 summary: "The Shure SE846 Gen2 is a professional-grade earphone with an advanced 4-driver BA configuration and excellent isolation, but it has cost-performance issues due to its high price compared to modern equivalent-performance products."
-tags: [Balanced armature, Earphones, In-ear monitors, Professional Audio, Shure]
+tags: [Balanced armature, Earphones, In-ear monitors, Professional, Shure]
 permalink: /products/en/shure-se846-gen2/
 ---
 ## Overview

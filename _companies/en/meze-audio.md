@@ -8,7 +8,7 @@ ref: meze-audio
 date: 2025-07-20
 rating: [2.7, 0.4, 0.7, 0.2, 0.7, 0.7]
 summary: "Romanian premium headphone manufacturer emphasizing design and comfort, but facing challenges in scientific validity and cost-performance ratio"
-tags: [Dynamic driver, Headphones, High-End Audio, Planar magnetic, Romania]
+tags: [Dynamic driver, Headphones, High-end, Planar magnetic, Romania]
 permalink: /companies/en/meze-audio/
 ---
 ## Overview

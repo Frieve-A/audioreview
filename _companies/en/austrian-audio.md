@@ -8,10 +8,9 @@ ref: austrian-audio
 date: 2025-07-29
 rating: [3.6, 0.8, 0.9, 0.4, 0.6, 0.9]
 summary: "Austrian audio equipment manufacturer founded by former AKG engineers. Develops high-quality microphones featuring CKR12 ceramic capsules and Open Acoustics Technology. Achieves performance comparable to established premium brands at competitive prices through scientifically-based rational design."
-tags: [Microphones, Condenser Microphones, Austria, Professional Audio, Studio Equipment]
+tags: [Austria, Condenser Microphones, Microphones, Professional, Studio Equipment]
 permalink: /companies/en/austrian-audio/
 ---
-
 ## Overview
 
 Austrian Audio is an Austrian audio equipment manufacturer established in 2017 by former engineers from the AKG Vienna factory. The team, with a cumulative 350 years of engineering experience, has the mission of advancing AKG's traditional acoustic design with modern technology. Their flagship products, the OC818 and OC18 microphones, employ handcrafted CKR12 ceramic capsules and Open Acoustics Technology, earning high acclaim in the professional market. Although acquired by DPA Microphones in January 2024, they continue development and manufacturing in Vienna as an independent brand.

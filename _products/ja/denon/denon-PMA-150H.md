@@ -8,10 +8,9 @@ ref: denon-PMA-150H
 date: 2025-07-22
 rating: [3.4, 0.7, 0.8, 0.6, 0.6, 0.7]
 summary: "DDFA技術とHEOSストリーミングを搭載したコンパクトなネットワーク統合アンプ。測定性能は妥当だが、より安価で高性能な代替品の登場によりコストパフォーマンスに課題がある。"
-tags: [統合アンプ, ネットワークオーディオ, デジタルアンプ, HEOS, ストリーミング]
+tags: [HEOS, インテグレーテッドアンプ, ストリーミング, デジタルアンプ, ネットワークオーディオ]
 permalink: /products/ja/denon-PMA-150H/
 ---
-
 ## 概要
 
 Denon PMA-150Hは、同社のDirect Digital Feedback Amplification（DDFA）技術とHEOSネットワーク機能を搭載したコンパクトな統合アンプです。70W（4Ω）/35W（8Ω）の出力を持ち、USB DAC、Bluetooth、Wi-Fi、Apple AirPlay 2など多様な入力オプションを備えています。5mmアルミニウムパネルとOLEDディスプレイを採用し、現代的なネットワークオーディオニーズに対応する設計となっています。

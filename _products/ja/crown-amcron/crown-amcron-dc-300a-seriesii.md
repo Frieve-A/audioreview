@@ -8,7 +8,7 @@ ref: crown-amcron-dc-300a-seriesii
 date: 2025-07-21
 rating: [2.5, 0.9, 0.4, 0.3, 0.5, 0.4]
 summary: "1996年発売の業務用パワーアンプの名機だが、現代の基準では技術的陳腐化とコストパフォーマンスの問題が顕著な製品"
-tags: [Amcron, Class AB, Crown, パワーアンプ, ビンテージ, 業務用]
+tags: [AB級, Amcron, Crown, パワーアンプ, ビンテージ, 業務用]
 permalink: /products/ja/crown-amcron-dc-300a-seriesii/
 ---
 ## 概要

@@ -8,10 +8,9 @@ ref: aiyima
 date: 2025-07-09
 rating: [3.4, 0.6, 0.4, 1.0, 0.4, 1.0]
 summary: "Chinese DIY audio manufacturer by Shenzhen YiMa Technology Co., Ltd. Provides low-cost TPA3255-based Class D amplifiers. Rational design based on scientific evidence with maximum CP performance."
-tags: ["Chinese Manufacturer", "Class D", "DIY Audio", TPA3255]
+tags: [China, Class D, DIY Audio, TPA3255]
 permalink: /companies/en/aiyima/
 ---
-
 ## Overview
 
 AIYIMA is a Chinese audio manufacturer by Shenzhen YiMa Technology Co., Ltd., primarily manufacturing and selling low-cost amplifiers for the DIY audio market. Their product lineup centers on Class D amplifiers using Texas Instruments chips like TPA3255 and TPA3116D2, expanding to include vacuum tube hybrid amplifiers, DACs, headphone amplifiers, and speaker units. Long established as a DIY audio manufacturer overseas, finished product popularity has increased with strong sales performance in Japan. Despite over 20% price increases due to yen weakness, the brand maintains high cost performance as a Chinese audio manufacturer offering competitive value propositions.

@@ -8,10 +8,9 @@ ref: polk-audio-reserve-r600
 date: 2025-07-29
 rating: [3.0, 0.6, 0.7, 0.4, 0.6, 0.7]
 summary: "Polk AudioのReserve R600は独自技術を搭載した中価格帯フロアスタンディングスピーカーですが、同等性能の低価格代替品が存在するためコストパフォーマンスに課題があります。"
-tags: [Polk Audio, フロアスタンディングスピーカー, Reserve Series, ハイレゾ対応]
+tags: [Polk Audio, Reserve Series, ハイレゾ, フロアスタンディングスピーカー]
 permalink: /products/ja/polk-audio-reserve-r600/
 ---
-
 ## 概要
 
 Polk Audio Reserve R600は、アメリカの老舗オーディオメーカーPolkが2021年に発表したReserveシリーズのフロアスタンディングスピーカーです。1インチPinnacle Ring Radiatorツイーターと2基の6.5インチTurbine Coneウーファーを搭載した2ウェイ設計で、43Hz-38kHzの周波数特性を実現しています。Hi-Res Audio認証、Dolby Atmos、IMAX Enhanced対応を謳い、Power Port 2.0技術により低歪みの低音再生を目指した設計となっています。同社の技術的ノウハウを結集した製品として、中価格帯でのサウンドの実現を掲げています。

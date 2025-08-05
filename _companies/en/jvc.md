@@ -8,10 +8,9 @@ ref: jvc
 date: 2025-08-02
 rating: [2.2, 0.5, 0.4, 0.4, 0.5, 0.4]
 summary: "JVC is a nearly century-old Japanese audio manufacturer, but its current products receive a harsh evaluation on cost-performance and lack objective performance data."
-tags: [Headphones, Speakers, Wireless, Noise Cancelling, Japanese Manufacturer]
+tags: [Headphones, Japan, Noise Cancelling, Speakers, Wireless]
 permalink: /companies/en/jvc/
 ---
-
 ## Overview
 
 JVC (Japan Victor Company) is a historic Japanese audio manufacturer founded in 1927 that has contributed numerous audio technology innovations including stereo systems and cassette decks throughout its history. Now under JVCKenwood, the company focuses on consumer audio products centered around headphones, earphones, and speakers. Key products include the HA-S75N noise-cancelling headphones (79.99 USD) and HA-A25T true wireless earphones (70 USD).

@@ -8,10 +8,9 @@ ref: hifiman-serenade
 date: 2025-07-27
 rating: [3.7, 0.9, 0.8, 0.6, 0.6, 0.8]
 summary: "HiFiMan SerenadeはHimalaya PRO R2R DACとClass Aアンプを組み合わせた多機能なデスクトップDAC/アンプですが、より安価な代替構成が存在するためコストパフォーマンスが評価のポイントとなります。"
-tags: [DAC, ヘッドホンアンプ, R2R, Class A, デスクトップオーディオ]
+tags: [A級, DAC, R2R, デスクトップオーディオ, ヘッドホンアンプ]
 permalink: /products/ja/hifiman-serenade/
 ---
-
 ## 概要
 
 HiFiMan Serenadeは、GoldenWaveとの協業により開発されたオールインワンデスクトップDAC/アンプです。独自のHimalaya PRO R2R DACとClass Aヘッドホンアンプを組み合わせ、ネットワークストリーミング機能も搭載しています。3.9kgの重厚なトロイダルトランスを採用し、DSD512/PCM 32bit/768kHz対応など高い技術仕様を誇ります。価格は172,260円で、プレミアムデスクトップオーディオ市場に位置づけられています。

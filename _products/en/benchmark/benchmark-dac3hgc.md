@@ -8,7 +8,7 @@ ref: benchmark-dac3hgc
 date: 2025-07-25
 rating: [2.9, 0.9, 0.6, 0.3, 0.8, 0.3]
 summary: "A professional-grade DAC/headphone amp/preamp combo with industry-leading measured performance. However, its cost-performance and design rationality receive significantly low ratings due to the existence of alternatives with equivalent or superior functionality and performance at about a quarter of the price."
-tags: [DAC, ESS, Headphone amplifier, High Price, Preamp, Professional Audio]
+tags: [DAC, ESS, Headphone amplifier, High Price, Preamps, Professional]
 permalink: /products/en/benchmark-dac3hgc/
 ---
 ## Overview

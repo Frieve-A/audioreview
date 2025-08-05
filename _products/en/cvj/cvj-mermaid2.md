@@ -8,7 +8,7 @@ ref: cvj-mermaid2
 date: 2025-07-28
 rating: [2.6, 0.6, 0.7, 0.2, 0.5, 0.6]
 summary: "Single dynamic driver IEM collaboration between CVJ and R2E3, featuring a beryllium-coated 10mm driver and bright tuning. Poor cost-performance with sibilance possibilities and design philosophy concerns."
-tags: [Beryllium, CVJ, In-ear monitors, Mid-price, Single DD]
+tags: [Beryllium, CVJ, In-ear monitors, Mid-range, Single DD]
 permalink: /products/en/cvj-mermaid2/
 ---
 ## Overview

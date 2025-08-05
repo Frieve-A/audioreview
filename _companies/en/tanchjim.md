@@ -8,7 +8,7 @@ ref: tanchjim
 date: 2025-07-26
 rating: [3.6, 0.8, 0.8, 0.7, 0.5, 0.8]
 summary: "Chinese emerging audio brand Tanchjim develops high-quality earphones with scientifically-based measurements using proprietary DMT technology. While technical level and design philosophy are excellent, reliability issues exist with cable quality."
-tags: [Chinese Manufacturer, Dynamic driver, Earphones, Hi-Fi]
+tags: [China, Dynamic driver, Earphones, Hi-Fi]
 permalink: /companies/en/tanchjim/
 ---
 ## Overview

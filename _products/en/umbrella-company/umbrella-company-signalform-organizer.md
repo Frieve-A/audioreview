@@ -8,10 +8,9 @@ ref: umbrella-company-signalform-organizer
 date: 2025-07-21
 rating: [2.7, 0.6, 0.5, 0.1, 0.7, 0.8]
 summary: "A multi-function DI box made in Japan. It offers a one-box solution integrating DI, re-amp, and level converter functions, but faces significant challenges in cost-performance compared to functionally equivalent products."
-tags: [DI Box, Re-amp, Level Converter, Made in Japan, Pro Audio]
+tags: [DI Box, Japan, Level Converter, Pro Audio, Re-amp]
 permalink: /products/en/umbrella-company-signalform-organizer/
 ---
-
 ## Overview
 
 The Umbrella Company SIGNALFORM ORGANIZER is a multi-function professional audio tool developed by Umbrella Company, a Japanese audio equipment manufacturer established in 2012. It integrates DI box, reverse DI (re-amp), and level converter functions in a half-rack size unit, designed to properly manage signal formats between professional audio and musical instrument equipment. The company emphasizes "Made in Japan" high quality and has a mission to develop creative and unique music equipment, having previously developed professional studio equipment such as the Fader Control and Signalform Organizer.

@@ -8,7 +8,7 @@ ref: nagaoka
 date: 2025-07-30
 rating: [1.8, 0.3, 0.6, 0.1, 0.5, 0.3]
 summary: "A long-established Japanese cartridge manufacturer. While its technical capabilities, with 85 years of history and complete in-house production, are commendable, its exclusive focus on analog records lacks rationality from modern audio quality standards and offers extremely low cost-performance."
-tags: [Analog, Cartridge, Japan, Turntable]
+tags: [Analog, Cartridges, Japan, Turntable]
 permalink: /companies/en/nagaoka/
 ---
 ## Overview

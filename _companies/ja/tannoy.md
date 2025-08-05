@@ -8,10 +8,9 @@ ref: tannoy
 date: 2025-07-08
 rating: [3.5, 0.6, 0.8, 0.3, 0.9, 0.9]
 summary: "英国・スコットランドの伝統スピーカーメーカー。98年の歴史を持つが2017年工場関閉で規模縮小。Dual Concentric技術は独自性あるが現代測定基準でCP低下。"
-tags: [スピーカー, 英国, Dual Concentric, 同軸ドライバー, Prestige]
+tags: [Dual Concentric, Prestige, イギリス, スピーカー, 同軸ドライバー]
 permalink: /companies/ja/tannoy/
 ---
-
 ## 概要
 
 Tannoy は1926年英国ロンドンでヨークシャー出身エンジニアGuy Fountain氏（1898-1977）により創業された伝統スピーカーメーカー。社名はTantalum Alloyの略で、電解整流器開発が起源。1948年に同軸ドライバー「Dual Concentric」を発明し、これが同社の象徴的技術となった。第二次大戦中にはバッキンガム宮殿の公報システムに採用され、「Tannoy」は英国でPAシステムの代名詞となった。1976年スコットランドCoatbridgeに移転。現在Music Tribe傘下だが、2017年にCoatbridge工場関閉の危機があり、70名の雇用削減が実施された。高級Prestigeシリーズのスコットランド手作り製造は継続しているが、企業規模は大幅に縮小。

@@ -8,7 +8,7 @@ ref: hiby
 date: 2025-08-03
 rating: [3.3, 0.8, 0.7, 0.5, 0.7, 0.6]
 summary: "Digital audio player specialist based in Dongguan, China. Offers technically excellent products like the CS43198 quad-DAC equipped R6 III 2025, but faces design philosophy challenges due to functional overlap with smartphone + external DAC combinations"
-tags: [Android, Chinese Brand, DAP, Digital audio player, Portable]
+tags: [Android, China, DAP, Digital audio player, Portable]
 permalink: /companies/en/hiby/
 ---
 ## Overview

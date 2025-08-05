@@ -8,7 +8,7 @@ ref: quad-44
 date: 2025-07-21
 rating: [2.9, 0.6, 0.6, 0.5, 0.7, 0.5]
 summary: "Modular design preamp featuring 1980s CMOS switching technology. Revolutionary for its time but falls short of modern transparency standards"
-tags: [Analog, Preamp, Quad, United Kingdom, Vintage]
+tags: [Analog, Preamps, Quad, United Kingdom, Vintage]
 permalink: /products/en/quad-44/
 ---
 ## Overview

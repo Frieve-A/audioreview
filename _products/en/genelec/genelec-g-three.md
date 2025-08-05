@@ -8,7 +8,7 @@ ref: genelec-g-three
 date: 2025-07-24
 rating: [3.4, 0.8, 0.7, 0.2, 0.9, 0.8]
 summary: "5-inch active monitor from Finnish professional audio manufacturer Genelec. Features excellent measurement performance and reliability but priced approximately 6.6 times higher than products with equivalent or superior performance."
-tags: [Active speakers, Genelec, Monitor Speaker, Professional Audio, Studio monitors]
+tags: [Active speakers, Genelec, Monitor Speaker, Professional, Studio monitors]
 permalink: /products/en/genelec-g-three/
 ---
 ## Overview

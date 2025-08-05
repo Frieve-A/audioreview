@@ -8,10 +8,9 @@ ref: technics-review
 date: 2025-07-06
 rating: [2.2, 0.4, 0.5, 0.1, 0.9, 0.3]
 summary: "Panasonic's legendary Hi-Fi brand whose products represent engineering excellence within analog constraints and overwhelming reliability that withstands DJ abuse. However, their performance falls far short of the 'perfect performance' achieved by inexpensive digital equipment in terms of wow and flutter and S/N ratio. Consequently, cost-performance evaluation based on modern digital standards is catastrophic. This is a brand for users with clear purpose who find value in physical media experiences."
-tags: [Panasonic, Japan, Audio, Turntable, DJ, Amplifier]
+tags: [Amplifiers, Audio, DJ, Japan, Panasonic, Turntable]
 permalink: /companies/en/technics/
 ---
-
 ## Overview
 
 Technics is a Hi-Fi audio brand launched by Panasonic Corporation in 1965. The direct drive turntable "SL-1200" series, released in 1972, gained tremendous support from radio stations and club DJs due to its overwhelming robustness and rotational accuracy, transcending mere audio equipment to establish an entire culture. While the brand was temporarily discontinued in 2010, it was revived in 2015. Currently, they offer a product lineup that combines traditional analog technology with cutting-edge digital technology cultivated by Panasonic.

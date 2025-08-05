@@ -8,10 +8,9 @@ ref: apple-earpods-3-5mm-headphone-plug
 date: 2025-07-25
 rating: [2.0, 0.3, 0.4, 0.1, 0.8, 0.4]
 summary: "Appleの伝統的な有線イヤホンは快適性を重視した設計だが、オープンバック構造による低音不足と極めて低いコストパフォーマンスが問題"
-tags: [Apple, EarPods, 有線イヤホン, 3.5mm, エントリーモデル]
+tags: [3.5mm, Apple, EarPods, エントリークラス, 有線イヤホン]
 permalink: /products/ja/apple-earpods-3-5mm-headphone-plug/
 ---
-
 ## 概要
 
 Apple EarPods 3.5mm Headphone Plugは、Appleが長年提供している有線イヤホンです。従来の円形イヤホンとは異なり、人間の耳の形状に基づいて設計されており、多くのユーザーにとって快適な装着感を実現しています。内蔵されたスピーカーは音響出力を最大化し、音漏れを最小限に抑えるよう設計されています。リモコン機能により音量調整、音楽・動画の再生制御、通話の応答・終了が可能で、3.5mmヘッドホンジャックを持つすべてのデバイスと互換性があります。

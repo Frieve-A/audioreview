@@ -8,10 +8,9 @@ ref: topping-la90-discrete
 date: 2025-07-14
 rating: [3.3, 0.9, 0.8, 0.4, 0.4, 0.8]
 summary: "超低歪率と高SNRを実現したディスクリート設計のClass ABパワーアンプ。測定性能では業界最高水準を達成するも、価格対性能比で課題を抱える。"
-tags: [パワーアンプ, Class AB, ディスクリート, 高性能, Topping]
+tags: [AB級, Topping, ディスクリート, パワーアンプ, 高性能]
 permalink: /products/ja/topping-la90-discrete/
 ---
-
 ## 概要
 
 Topping LA90 Discreteは、同社の技術力を結集したディスクリート設計のClass ABパワーアンプです。NFCA（Nested Feedback Composite Amplifier）回路技術を採用し、THD+N 0.0001%以下、SNR 143dBという業界最高水準の測定性能を実現しています。ステレオモードで120W×2（4Ω）、モノモードで220W（8Ω）の出力を持ち、XLR/TRSバランス入力を3系統装備。Toppingブランドの技術的優位性を示す製品として位置づけられています。

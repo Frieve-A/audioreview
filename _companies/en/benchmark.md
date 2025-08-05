@@ -8,10 +8,9 @@ ref: benchmark
 date: 2025-07-05
 rating: [4.2, 1.0, 1.0, 0.4, 0.9, 0.9]
 summary: "Founded in 1985 in Syracuse, New York, this American audio equipment manufacturer is operated by a hybrid team of musicians, audiophiles, and professional audio engineers. Pursuing measurement-grade ultra-low distortion and noise performance, they established new 'reference' standards with products like the DAC3 series and AHB2 power amplifier, achieving overwhelming cost-performance at 1/16th the price of dCS while earning Stereophile's Digital Component of the Year finalist status."
-tags: [America, DAC, Amplifier, Reference, Reference]
+tags: [America, Amplifiers, DAC, Reference]
 permalink: /companies/en/benchmark/
 ---
-
 ## Overview
 
 Founded in 1985 in Syracuse, New York, Benchmark Media Systems is an extremely unique American audio equipment manufacturer operated by a hybrid team of musicians, audiophiles, and professional audio engineers. The company's philosophy is "applying measurement-grade performance to music reproduction," emphasizing durability and reliability equally with sound quality.

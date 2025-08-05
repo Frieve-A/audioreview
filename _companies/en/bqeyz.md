@@ -8,7 +8,7 @@ ref: bqeyz
 date: 2025-07-28
 rating: [2.5, 0.5, 0.7, 0.2, 0.5, 0.6]
 summary: "Chinese emerging IEM manufacturer specializing in tribrid configurations using piezoelectric drivers. While technological innovation is commendable, challenges remain in measurement performance and price competitiveness."
-tags: [Chinese Manufacturer, Hybrid Drivers, In-ear monitors, Piezoelectric, Tribrid]
+tags: [China, Hybrid Drivers, In-ear monitors, Piezoelectric, Tribrid]
 permalink: /companies/en/bqeyz/
 ---
 ## Overview

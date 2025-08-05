@@ -8,7 +8,7 @@ ref: sony-srs-x88
 date: 2025-07-31
 rating: [2.7, 0.3, 0.6, 0.5, 0.3, 1.0]
 summary: "2015年発売の90Wマルチルームスピーカー。LDAC対応とハイレゾ音源サポートを特徴とするが、THD性能と現在の入手性に課題あり"
-tags: [Bluetooth Speaker, Hi-Res Audio, LDAC, Multi-room, Sony, 廃盤]
+tags: [Bluetooth Speaker, LDAC, Multi-room, Sony, ハイレゾ, 廃盤]
 permalink: /products/ja/sony-srs-x88/
 ---
 ## 概要

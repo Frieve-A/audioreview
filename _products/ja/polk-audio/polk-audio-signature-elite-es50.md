@@ -8,10 +8,9 @@ ref: polk-audio-signature-elite-es50
 date: 2025-07-25
 rating: [2.7, 0.6, 0.5, 0.3, 0.7, 0.6]
 summary: "Polk Audio Signature Elite ES50は、Hi-Res Audio認証とDolby Atmos対応を謳うフロアスタンディングスピーカーですが、性能面で競争力のある製品が大幅に安価で存在するため、コストパフォーマンスに深刻な課題があります。"
-tags: [フロアスタンディングスピーカー, Hi-Res Audio, Dolby Atmos, Polk Audio, タワースピーカー]
+tags: [Dolby Atmos, Polk Audio, タワースピーカー, ハイレゾ, フロアスタンディングスピーカー]
 permalink: /products/ja/polk-audio-signature-elite-es50/
 ---
-
 ## 概要
 
 Polk Audio Signature Elite ES50は、1インチテリレンハイレゾドームツイーターと2基の5.25インチマイカ強化ポリプロピレンウーファーを搭載した2.5ウェイフロアスタンディングスピーカーです。Hi-Res Audio認証とDolby Atmos/DTS:X対応を特徴とし、同社独自のPower Port技術とDynamic Balance技術を採用しています。周波数特性は42Hz-40kHz、感度は88dBで、中型リスニングルーム向けに設計されています。1972年創設のPolk Audioは、アメリカの老舗スピーカーメーカーとして一定の市場地位を確立しています。

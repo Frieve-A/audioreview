@@ -8,7 +8,7 @@ ref: merging-technologies
 date: 2025-08-03
 rating: [4.4, 1.0, 0.8, 1.0, 0.8, 0.8]
 summary: "Swiss professional audio manufacturer offering products like Anubis, Horus, and Pyramix with world-class measurement performance. High scientific validity and excellent cost-performance."
-tags: [Audio interface, DAW, Network Audio, Professional Audio, Switzerland]
+tags: [Audio interface, DAW, Network audio, Professional, Switzerland]
 permalink: /companies/en/merging-technologies/
 ---
 ## Overview

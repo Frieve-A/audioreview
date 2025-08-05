@@ -8,7 +8,7 @@ ref: avantgarde-acoustic
 date: 2025-07-23
 rating: [2.4, 0.3, 0.8, 0.0, 0.7, 0.6]
 summary: "German high-efficiency horn speaker specialist. Achieves 100dB+ efficiency through proprietary spherical wave horn technology, but measurement performance is problematic by modern standards, with prices 30-80 times higher than products with equivalent efficiency and superior performance."
-tags: [Germany, High Efficiency, High-End, Horn Speakers]
+tags: [Germany, High Efficiency, High-end, Horn Speakers]
 permalink: /companies/en/avantgarde-acoustic/
 ---
 ## Overview

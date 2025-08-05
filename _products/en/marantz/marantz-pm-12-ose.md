@@ -8,7 +8,7 @@ ref: marantz-pm-12-ose
 date: 2025-08-03
 rating: [2.1, 0.7, 0.6, 0.2, 0.3, 0.3]
 summary: "A Class D integrated amplifier developed exclusively for the Japanese market. Despite incorporating HDAM-SA3 technology and Hypex NC500 modules, equivalent functionality is available at significantly lower prices, resulting in poor cost-performance."
-tags: [Class D, HDAM, High-End, Integrated amplifier, Marantz]
+tags: [Class D, HDAM, High-end, Integrated amplifier, Marantz]
 permalink: /products/en/marantz-pm-12-ose/
 ---
 ## Overview

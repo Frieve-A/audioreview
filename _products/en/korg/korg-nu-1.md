@@ -8,10 +8,9 @@ ref: korg-nu-1
 date: 2025-08-01
 rating: [3.2, 0.6, 0.7, 1.0, 0.4, 0.5]
 summary: "An integrated DAC/ADC/preamp with Nutube technology from 2018. As a discontinued product, it offers unparalleled cost-performance on the used market for its specific feature set and claimed performance, making it a unique niche device."
-tags: [DAC, ADC, Preamp, Phono Stage, Nutube, Tube, DSD, Hi-Res]
+tags: [ADC, DAC, DSD, Hi-Res, Nutube, Phono Stage, Preamps, Tube]
 permalink: /products/en/korg-nu-1/
 ---
-
 ## Overview
 
 The KORG Nu 1 is an integrated audio device released in 2018 by KORG, a company renowned for its synthesizers. It combines a DAC, ADC, preamp, and MM/MC phono stage into a single unit, featuring two of the company's proprietary Nutube devices (solid-state tube-like components). Despite high-end specifications like DSD 11.2MHz support and balanced I/O, the product is now discontinued. The unit was specifically developed for the purpose of "digitizing analog records."

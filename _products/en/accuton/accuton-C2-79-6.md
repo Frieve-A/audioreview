@@ -8,7 +8,7 @@ ref: accuton-C2-79-6
 date: 2025-07-26
 rating: [3.4, 0.8, 0.9, 0.3, 0.6, 0.8]
 summary: "A 3.5-inch ceramic dome midrange driver from German Accuton. While achieving industry-leading low distortion performance through cutting-edge technology, cost-performance is low when compared to equivalent alternatives."
-tags: [Ceramic, DIY Audio, Germany, High-End, Midrange Driver]
+tags: [Ceramic, DIY Audio, Germany, High-end, Midrange Driver]
 permalink: /products/en/accuton-C2-79-6/
 ---
 ## Overview

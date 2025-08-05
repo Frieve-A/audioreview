@@ -8,10 +8,9 @@ ref: shure-sm7b
 date: 2025-07-21
 rating: [1.9, 0.3, 0.5, 0.2, 0.4, 0.5]
 summary: "The SM7B is a dynamic microphone widely used in the broadcasting industry, but it has lost competitiveness against newer alternatives in terms of measurement performance and price."
-tags: [Microphone, Dynamic, Broadcasting, Podcast, Shure]
+tags: [Broadcasting, Dynamic, Microphones, Podcast, Shure]
 permalink: /products/en/shure-sm7b/
 ---
-
 ## Overview
 
 The Shure SM7B is a dynamic microphone with a history dating back to the original SM7 model from 1976, widely used in the broadcasting industry and podcast production. With its cardioid polar pattern and flat frequency response, it has earned high praise for voice recording applications. It has been beloved by many radio stations and podcasters, gaining trust as an industry standard for many years.

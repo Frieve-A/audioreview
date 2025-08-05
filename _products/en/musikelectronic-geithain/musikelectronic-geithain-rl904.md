@@ -8,7 +8,7 @@ ref: musikelectronic-geithain-rl904
 date: 2025-08-02
 rating: [3.2, 0.5, 0.8, 0.4, 0.7, 0.8]
 summary: "A coaxial studio monitor from a German manufacturer. The fundamental design is solid, but it lacks independent measurement data and has significant cost-performance issues."
-tags: [Active speakers, Coaxial, German Engineering, Professional Audio, Studio monitors]
+tags: [Active speakers, Coaxial, German Engineering, Professional, Studio monitors]
 permalink: /products/en/musikelectronic-geithain-rl904/
 ---
 ## Overview

@@ -8,10 +8,9 @@ ref: aiyima-B07
 date: 2025-07-22
 rating: [3.6, 0.6, 0.7, 1.0, 0.5, 0.8]
 summary: "TPA3255チップ搭載の2.1chアンプ。実測出力が公称値を大幅に下回る。同価格で性能が大幅に優れた代替品が存在するため、実質的な価値は低い。"
-tags: [Class D アンプ, TPA3255, 2.1チャンネル, サブウーファー, Bluetooth]
+tags: [2.1チャンネル, Bluetooth, D級, TPA3255, サブウーファー]
 permalink: /products/ja/aiyima-B07/
 ---
-
 ## 概要
 
 Aiyima B07は、Texas Instruments社のTPA3255チップとQCC3040 Bluetoothチップを組み合わせた2.1チャンネルClass Dアンプです。公称出力300W×2（ステレオ）+ 300W（サブウーファー）を謳い、Bluetooth 5.2接続（AAC、SBC、aptX、APTX-LL、APTX-HD対応）を搭載しています。独立したサブウーファー周波数調整（±4dB）とカットオフ周波数調整（50-220Hz）機能を備え、DC24-48V電源対応のデスクトップ向けコンパクトアンプとして設計されています。NE5532オペアンプを6基搭載し、バス・トレブル調整機能も提供しています。

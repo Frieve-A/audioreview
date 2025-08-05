@@ -8,10 +8,9 @@ ref: teac
 date: 2025-07-09
 rating: [2.4, 0.6, 0.5, 0.3, 0.5, 0.5]
 summary: "A Japanese legacy audio equipment manufacturer founded in 1953. Operates TASCAM and Esoteric brands. Technology level is standard but CP evaluation is low due to high pricing."
-tags: [Japanese Manufacturer, Audio Equipment, DAC, Recorder]
+tags: [Audio Equipment, DAC, Japan, Recorders]
 permalink: /companies/en/teac/
 ---
-
 ## Overview
 
 TEAC Corporation is a Japanese legacy audio equipment manufacturer founded in Tokyo in 1953. For over 70 years since its establishment, the company has cultivated recording and playback technology, developing a wide range of audio products from professional to consumer applications. The company employs a multi-brand strategy with TASCAM for professional audio equipment, Esoteric for high-end audio equipment, and TEAC for consumer products. Starting with tape recorders, the company now maintains a broad product lineup including DACs, headphone amplifiers, and network players. The company underwent ownership changes in recent years, becoming a subsidiary of Gibson Guitar Corp. in 2013 and later transitioning to EVO FUND ownership in 2020.

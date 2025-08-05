@@ -8,7 +8,7 @@ ref: genelec-8331a
 date: 2025-08-01
 rating: [4.0, 0.7, 0.9, 0.7, 0.8, 0.9]
 summary: "The Genelec 8331A is a professional studio monitor featuring an innovative 3-way coaxial design and ACW technology. While demonstrating an excellent technology level and design philosophy, its cost-performance is not perfect due to the existence of more affordable competitors."
-tags: [3-Way, Active Monitor, Coaxial, Professional Audio, Studio monitors]
+tags: [3-Way, Active Monitor, Coaxial, Professional, Studio monitors]
 permalink: /products/en/genelec-8331a/
 ---
 ## Overview

@@ -8,10 +8,9 @@ ref: allen-heath-xone-96
 date: 2025-07-26
 rating: [4.1, 0.8, 0.7, 1.0, 0.8, 0.8]
 summary: "Professional 6+2 channel analog DJ mixer. Excellent measured performance and traditional Xone sound heritage, with great cost-performance in its class."
-tags: [DJ Equipment, Mixer, Analog, Professional, Club Use]
+tags: [Analog, Club Use, DJ Equipment, Mixers, Professional]
 permalink: /products/en/allen-heath-xone-96/
 ---
-
 ## Overview
 
 The Allen & Heath Xone 96 is a 6+2 channel professional DJ mixer, developed as the successor to the company's legendary Xone:92. This product represents a fusion of the analog circuit design technology cultivated by UK-based Allen & Heath since its 1969 founding, combined with modern digital connectivity. It features a built-in dual 32-bit/96kHz USB audio interface, the traditional 4-band EQ, and VCF filters. The robust design is intended for use in clubs and live venues. The mixer continues the sound characteristics that have been appreciated in the pro DJ industry for many years while adopting a design philosophy adapted to modern digital DJ environments.

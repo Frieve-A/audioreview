@@ -8,10 +8,9 @@ ref: dcs-vivaldi-clock
 date: 2025-07-25
 rating: [2.0, 0.3, 0.7, 0.1, 0.8, 0.1]
 summary: "An extremely expensive master clock whose existence holds limited value in modern audio technology, failing to demonstrate scientific or audible superiority commensurate with its cost."
-tags: [Digital Audio, Master Clock, High-End Audio, dCS]
+tags: [Digital Audio, High-end, Master Clock, dCS]
 permalink: /products/en/dcs-vivaldi-clock/
 ---
-
 ## Overview
 
 The dCS Vivaldi Clock is a master clock generator for digital audio systems developed by the UK-based company dCS. Designed as part of its Vivaldi series, its purpose is to supply a reference clock signal to other components like DACs, upsamplers, and transports for synchronization. It features dual VCXOs (Voltage-Controlled Crystal Oscillators) and claims a clock accuracy of less than ±1 ppm. With an actual market price of approximately 2,930,000 JPY, it is positioned in the highest price tier of the audio market.

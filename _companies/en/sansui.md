@@ -8,10 +8,9 @@ ref: sansui
 date: 2025-07-21
 rating: [1.1, 0.1, 0.5, 0.2, 0.1, 0.2]
 summary: "Established in 1947, veteran audio manufacturer Sansui once gained fame for high-quality amplifiers, but has now ceased new product development. Its scientific validity and technology are severely outdated, resulting in an extremely low overall evaluation."
-tags: [Sansui, Audio Manufacturer, Amplifier, Vintage Audio, Japanese Audio]
+tags: [Amplifiers, Audio Manufacturer, Japanese Audio, Sansui, Vintage Audio]
 permalink: /companies/en/sansui/
 ---
-
 ## Overview
 
 Sansui (Sansui Electric) is a Japanese audio equipment manufacturer founded in Tokyo in 1947. Under founder Kousaku Kikuchi's philosophy of "creating high-quality products even at high prices," the company gained fame for high-quality amplifiers and receivers from the 1950s to 1980s. They led technological innovation with products like the AU-111 released in 1965, featuring the distinctive black faceplate AU series amplifiers, proprietary α-X circuit technology, and the development of the quadraphonic QS system in 1971. However, from the late 1980s onward, they were overtaken by competitors, went bankrupt in 2014, and have currently ceased new product development.

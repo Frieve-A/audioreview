@@ -8,10 +8,9 @@ ref: hiby-r1
 date: 2025-08-04
 rating: [2.8, 0.8, 0.5, 0.3, 0.6, 0.6]
 summary: "The HiBy R1 is an entry-level DAP priced at 112 USD. It features the CS43131 DAC and demonstrates excellent measured performance, but faces cost-performance challenges when compared to smartphone + DAC dongle combinations."
-tags: [DAP, HiBy, CS43131, Portable, Entry-Level]
+tags: [CS43131, DAP, Entry-level, HiBy, Portable]
 permalink: /products/en/hiby-r1/
 ---
-
 ## Overview
 
 The HiBy R1 is an entry-level digital audio player (DAP) developed by Chinese company HiBy. Despite its affordable price of 112 USD, it incorporates a Cirrus Logic CS43131 DAC chip and supports high-resolution audio playback up to 32bit/384kHz PCM and DSD256. The compact 83.5×51.1×12.35mm chassis houses an 800×480 IPS touchscreen, Bluetooth 5.1 with LDAC and aptX codec support, plus Wi-Fi connectivity for TIDAL and Qobuz streaming services, making it a versatile portable music player.

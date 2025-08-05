@@ -9,9 +9,8 @@ date: 2025-07-06
 permalink: /companies/en/pro-ject/
 rating: [1.9, 0.3, 0.4, 0.1, 0.8, 0.3]
 summary: "An Austrian manufacturer specializing in analog turntables. Their product lineup significantly underperforms modern standard digital reproduction methods in objective fidelity metrics such as S/N ratio, wow and flutter, and distortion rates. Additionally, equivalent performance can be achieved by Chinese competitors at a fraction of the cost, making cost-performance extremely low. Their design philosophy lacks rationality in performance pursuit, making it difficult to find compelling reasons for selection."
-tags: [Austria, Analog, Turntable, Record Player, Low Cost-Performance]
+tags: [Analog, Austria, Budget, Turntable]
 ---
-
 ## Overview
 
 Pro-Ject Audio Systems is an Austrian audio equipment manufacturer established in 1991. Its main products are turntables for playing analog records, along with amplifiers and DACs. The company focused on analog turntable manufacturing during the era when CDs emerged and digital audio became mainstream, establishing its market position. While their products range from entry-level to high-end, this review excludes any consideration of historical background or brand image, analyzing purely based on physical performance and cost.

@@ -9,9 +9,8 @@ date: 2025-07-06
 permalink: /companies/en/thorens/
 rating: [1.7, 0.4, 0.3, 0.1, 0.7, 0.2]
 summary: "A brand that pours precision mechanical engineering into a fundamentally outdated audio format. Since analog record reproduction underperforms standard digital audio in all performance measurements, it receives extremely low evaluation from a scientific fidelity perspective. The design philosophy is irrational in pursuing high performance, and cost-performance is catastrophic. These products are for users seeking nostalgia and mechanical hobby interests rather than accurate acoustic reproduction."
-tags: [Germany, Switzerland, Audio, Record Player, Turntable, Heritage]
+tags: [Audio, Germany, Heritage, Switzerland, Turntable]
 ---
-
 ## Overview
 
 Thorens is one of the world's most historic audio brands, established in Switzerland in 1883. Starting with music box manufacturing, it carved an indelible name in record player history with the "TD 124" in 1957 and subsequent "TD 150" and "TD 160" series that adopted floating suspension (spring-suspended main mechanism). Rebuilt in 2018 under German management, it develops products that fuse traditional precision mechanical engineering with modern improvements.

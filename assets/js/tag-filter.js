@@ -13,8 +13,6 @@ class TagFilterManager {
     this.isExpanded = false;
     this.selectedTags = [];
     this.searchMode = 'and'; // 'and' or 'or'
-    this.allItems = [];
-    this.filteredItems = [];
     this.allTags = new Set();
     this.tagCategories = {};
     this.currentLanguage = window.siteLanguage || 'ja';
@@ -32,37 +30,22 @@ class TagFilterManager {
     if (resultCountElement) {
       this.originalResultText = resultCountElement.innerHTML;
     }
-    this.loadAllItems();
+    
     this.generateTagCategories();
     this.buildTagFilter();
     this.bindEvents();
     this.loadStateFromURL();
   }
 
-  loadAllItems() {
-    const grid = document.getElementById('companies-grid') || document.getElementById('products-grid');
-    if (grid) {
-      this.allItems = Array.from(grid.children).map(card => {
-        const tags = this.extractTagsFromCard(card);
-        tags.forEach(tag => this.allTags.add(tag));
-        return { element: card, tags: tags };
-      });
-    }
-  }
+
 
   // Add this method to support new data source from JSON
   updateData(newData) {
-    this.allItems = newData.map(item => {
+    // Extract tags from new data for tag categorization
+    newData.forEach(item => {
       const tags = item.tags || [];
       tags.forEach(tag => this.allTags.add(tag));
-      return { 
-        element: null, // Will be created dynamically
-        tags: tags,
-        data: item // Store original data
-      };
     });
-    
-    // Regenerate tag categories with new data
     this.generateTagCategories();
   }
 
@@ -178,13 +161,18 @@ class TagFilterManager {
   }
 
   calculateTagCounts() {
-    const tagCounts = {};
-    this.allItems.forEach(item => {
-      item.tags.forEach(tag => {
-        tagCounts[tag] = (tagCounts[tag] || 0) + 1;
+    // Get tag counts from InfiniteScrollManager
+    if (window.infiniteScrollManager && window.infiniteScrollManager.allData) {
+      const tagCounts = {};
+      window.infiniteScrollManager.allData.forEach(item => {
+        const tags = item.tags || [];
+        tags.forEach(tag => {
+          tagCounts[tag] = (tagCounts[tag] || 0) + 1;
+        });
       });
-    });
-    return tagCounts;
+      return tagCounts;
+    }
+    return {};
   }
 
   buildCategoriesHtml(tagCounts) {
@@ -373,30 +361,11 @@ class TagFilterManager {
     setTimeout(() => this.adjustPanelHeight(), 350);
   }
 
-  applyFilters() {
-    if (this.selectedTags.length > 0) {
-      this.filteredItems = this.allItems.filter(item => {
-        if (this.searchMode === 'and') {
-          return this.selectedTags.every(tag => item.tags.includes(tag));
-        } else {
-          return this.selectedTags.some(tag => item.tags.includes(tag));
-        }
-      });
-      this.displayItems(this.filteredItems);
-    } else {
-      this.showAllItems();
-    }
-    this.updateResultCount();
-  }
 
-  showAllItems() {
-    this.displayItems(this.allItems);
-  }
 
-  displayItems(items) {
-    // Display is handled by InfiniteScrollManager in infinite scroll implementation
-    // This method only manages UI state, so do nothing
-  }
+
+
+
 
   clearAllFilters() {
     this.selectedTags = [];
@@ -411,9 +380,12 @@ class TagFilterManager {
   }
 
   applyFiltersAndUI() {
-    this.applyFilters();
     this.updateUI();
     this.updateURL();
+    // Trigger InfiniteScrollManager filtering if available
+    if (window.infiniteScrollManager) {
+      window.infiniteScrollManager.handleTagFilterChange();
+    }
   }
 
   updateUI() {
@@ -457,28 +429,7 @@ class TagFilterManager {
     this.applyFiltersAndUI();
   }
 
-  updateResultCount() {
-    const resultCountElement = document.getElementById('result-count');
-    if (!resultCountElement) return;
 
-    if (this.selectedTags.length > 0) {
-      const totalCount = this.allItems.length;
-      const filteredCount = this.filteredItems.length;
-      const isCompanyPage = !!document.getElementById('companies-grid');
-
-      if (this.currentLanguage === 'ja') {
-        const unit = isCompanyPage ? '社' : '製品';
-        resultCountElement.innerHTML = `${totalCount}${unit}中${filteredCount}${unit}のレビューを表示中`;
-      } else {
-        const unit_singular = isCompanyPage ? 'company review' : 'product review';
-        const unit_plural = isCompanyPage ? 'company reviews' : 'product reviews';
-        const totalUnit = totalCount === 1 ? unit_singular : unit_plural;
-        resultCountElement.innerHTML = `Showing ${filteredCount} of ${totalCount} ${totalUnit}`;
-      }
-    } else {
-      resultCountElement.innerHTML = this.originalResultText;
-    }
-  }
 
   updateURL() {
     const url = new URL(window.location);
@@ -508,13 +459,15 @@ class TagFilterManager {
     });
     
     if (this.selectedTags.length > 0) {
-      this.applyFilters();
       this.expandPanel();
-    } else {
-      this.showAllItems();
     }
     
     this.updateUI();
+    
+    // Notify InfiniteScrollManager about the state change if it exists
+    if (window.infiniteScrollManager && this.selectedTags.length > 0) {
+      window.infiniteScrollManager.handleTagFilterChange();
+    }
   }
 }
 

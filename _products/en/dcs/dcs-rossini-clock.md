@@ -8,10 +8,9 @@ ref: dcs-rossini-clock
 date: 2025-07-25
 rating: [2.1, 0.2, 0.8, 0.1, 0.8, 0.2]
 summary: "The dCS Rossini Clock is a high-precision master clock, but its benefits are unproven and unnecessary in modern audio systems. Compared to products with equivalent functionality, it is remarkably expensive and offers virtually no cost-performance."
-tags: [Master Clock, Digital Audio, Jitter, High-End Audio]
+tags: [Digital Audio, High-end, Jitter, Master Clock]
 permalink: /products/en/dcs-rossini-clock/
 ---
-
 ## Overview
 
 The dCS Rossini Clock is a Grade 1 master clock generator developed by UK-based dCS Ltd. It claims to achieve high-precision clock output of ±0.1ppm (typical) through dual crystal oscillators with microcontroller-controlled temperature compensation. The multi-stage PLL (Phase-Locked-Loop) system is designed to suppress jitter and is optimized for use with the dCS Rossini series. With a US market price of approximately 18,000 USD, it is an extremely expensive product.

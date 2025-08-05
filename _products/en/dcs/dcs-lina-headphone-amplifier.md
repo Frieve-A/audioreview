@@ -8,7 +8,7 @@ ref: dcs-lina-headphone-amplifier
 date: 2025-07-25
 rating: [2.7, 0.7, 0.8, 0.0, 0.8, 0.4]
 summary: "dCS's first standalone headphone amplifier. While some aspects of its measurement performance are excellent, its cost-performance is extremely poor as equivalent or superior performance is available at a fraction of the price."
-tags: [Class AB, Headphone amplifier, High-End, dCS]
+tags: [Class AB, Headphone amplifier, High-end, dCS]
 permalink: /products/en/dcs-lina-headphone-amplifier/
 ---
 ## Overview

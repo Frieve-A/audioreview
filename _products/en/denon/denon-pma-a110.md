@@ -4,12 +4,12 @@ title: "Denon PMA-A110 Product Review"
 target_name: "Denon PMA-A110"
 company_id: denon
 lang: en
-ref: denon-pma-110
+ref: denon-pma-a110
 date: 2025-07-27
 rating: [3.2, 0.6, 0.7, 0.5, 0.8, 0.6]
 summary: "Denon's 110th anniversary high-end integrated amplifier. It offers excellent build quality and versatility, but equivalent functionality and performance can be achieved with a more affordable combination of products, resulting in average cost-performance."
-tags: [Amplifier, Anniversary Model, Built-in DAC, Class AB, Denon, Integrated amplifier]
-permalink: /products/en/denon-pma-110/
+tags: [Amplifiers, Anniversary Model, Built-in DAC, Class AB, Denon, Integrated amplifier]
+permalink: /products/en/denon-pma-a110/
 ---
 ## Overview
 

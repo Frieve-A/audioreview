@@ -8,10 +8,9 @@ ref: lepy
 date: 2025-07-31
 rating: [2.2, 0.2, 0.2, 1.0, 0.4, 0.4]
 summary: "Ultra-low-cost Chinese digital amplifier manufacturer. Measured performance significantly underperforms advertised specifications with serious quality control issues. No technical advantage over modern same-price products."
-tags: [Digital Amplifier, Chinese Manufacturer, Low Cost, Class-D]
+tags: [Budget, China, Class D, Digital Amplifier]
 permalink: /companies/en/lepy/
 ---
-
 ## Overview
 
 Lepy is a China-based ultra-low-cost digital amplifier manufacturer. Known for mini amplifiers such as the LP-2024A+ (market price 2,980 JPY / approx. 20 USD), the company changed its brand name from "Lepai" to "Lepy" due to trademark issues. Their main products are small Class-D amplifiers sold for under 20 USD, targeting desktop audio and entry-level applications. However, significant discrepancies between measured performance and advertised specifications, along with widespread quality control problems, have been reported. Currently, numerous superior alternatives exist for a small additional investment.

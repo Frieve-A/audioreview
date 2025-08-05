@@ -8,10 +8,9 @@ ref: lo-d-hma-9500mkii
 date: 2025-07-21
 rating: [0.8, 0.2, 0.2, 0.2, 0.1, 0.1]
 summary: "The world's first power MOS FET amplifier. However, by modern standards, it exhibits significantly inferior measurement performance and extremely poor cost-performance as a vintage product."
-tags: [Amplifier, Vintage, MOS FET, Lo-D, Hitachi]
+tags: [Amplifiers, Hitachi, Lo-D, MOS FET, Vintage]
 permalink: /products/en/lo-d-hma-9500mkii/
 ---
-
 ## Overview
 
 The Lo-D HMA-9500mkII is a stereo power amplifier manufactured by Hitachi from 1980 to 1984. The original HMA-9500, released in 1977, holds historical significance as the "world's first power amplifier using power MOS FETs." The mkII version was sold at a high price of 270,000 yen at the time and was claimed to excel in high-frequency characteristics and linearity. Its circuit featured a simple 3-stage DC amplifier design, eliminating coupling capacitors to pursue faithful signal reproduction.

@@ -8,10 +8,9 @@ ref: denon-avc-x6800h
 date: 2025-08-01
 rating: [3.6, 0.8, 0.6, 0.8, 0.8, 0.6]
 summary: "日本製の11.4チャンネルAVレシーバーとして基本性能は高いものの、競合製品と比較してコストパフォーマンスに課題が残る製品です。"
-tags: [AVレシーバー, 8K, Dolby Atmos, DTS:X, 日本製]
+tags: [8K, AVレシーバー, DTS:X, Dolby Atmos, 日本]
 permalink: /products/ja/denon-avc-x6800h/
 ---
-
 ## 概要
 
 Denon AVC-X6800Hは2023年に発表された11.4チャンネル対応のフラッグシップAVレシーバーです。日本の工場で製造され、8K/60Hz・4K/120Hz映像対応、Dolby Atmos・DTS:X Pro・Auro-3D対応を謳っています。140W/ch（8Ω、20Hz-20kHz、THD 0.05%、2ch駆動時）の出力と、独自のAL32プロセッシング技術を搭載しています。AVレシーバー市場では確立されたブランドとして一定の地位を占めるDenonの上位機種として位置付けられています。

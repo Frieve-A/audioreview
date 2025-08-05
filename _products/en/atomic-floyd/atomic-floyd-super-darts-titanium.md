@@ -8,10 +8,9 @@ ref: atomic-floyd-super-darts-titanium
 date: 2025-08-01
 rating: [1.4, 0.2, 0.4, 0.1, 0.4, 0.3]
 summary: "A hybrid driver earphone with titanium construction, but features severe audio quality issues including a sharp resonance peak around 10kHz and midrange recession. At its launch price of 399 USD, modern hybrid earphones costing around 30 USD offer equivalent or superior performance, resulting in extremely poor cost-performance."
-tags: [Earphones, Hybrid Driver, Titanium, High-End]
+tags: [Earphones, High-end, Hybrid Driver, Titanium]
 permalink: /products/en/atomic-floyd-super-darts-titanium/
 ---
-
 ## Overview
 
 The Atomic Floyd SuperDarts Titanium is a hybrid driver in-ear earphone released around 2014 by UK-based audio manufacturer Atomic Floyd. It features a hybrid configuration combining a 9mm dynamic driver with a balanced armature driver, housed in a lightweight titanium construction (2.8g per side). The product claimed a wide frequency response of 5Hz-40kHz and garnered attention for its advanced hybrid design and premium materials at the time. However, subsequent measurement evaluations have revealed serious frequency response issues.

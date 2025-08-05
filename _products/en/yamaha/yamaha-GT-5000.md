@@ -8,10 +8,9 @@ ref: yamaha-GT-5000
 date: 2025-07-26
 rating: [2.1, 0.2, 0.7, 0.1, 0.9, 0.2]
 summary: "7,999 USD belt-drive turntable. Features good measured performance for analog, but inherent vinyl limitations result in poor fidelity compared to digital, and the 499 USD Fluance RT85 offers similar analog performance, yielding poor cost-performance."
-tags: [Turntable, Belt-drive, Yamaha, Analog, Record Player]
+tags: [Analog, Belt-drive, Turntable, Yamaha]
 permalink: /products/en/yamaha-GT-5000/
 ---
-
 ## Overview
 
 The Yamaha GT-5000 is the flagship belt-drive turntable in the company's 5000 series. Priced at 7,999 USD (approximately 1,170,000 JPY), it features a 5kg heavyweight aluminum platter, 24-pole 2-phase AC synchronous motor, and crystal-locked sine wave power supply. The turntable includes a 223mm straight tonearm and specified wow and flutter under 0.04%. The finish uses the same painting process as Yamaha pianos.

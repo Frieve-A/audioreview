@@ -8,7 +8,7 @@ ref: naim
 date: 2025-07-06
 rating: [3.4, 0.7, 1.0, 0.1, 1.0, 0.6]
 summary: "A British veteran pursuing musical 'enjoyment.' Their unique PRaT philosophy lacks scientific basis but attracts passionate fans with dynamism-focused sound. While their power supply dedication and long-term support are unparalleled, finding objective value matching high prices proves difficult."
-tags: [Amplifier, Focal, High-End Audio, Network player, PRaT, United Kingdom, Uniti]
+tags: [Amplifiers, Focal, High-end, Network player, PRaT, United Kingdom, Uniti]
 permalink: /companies/en/naim/
 ---
 ## Overview

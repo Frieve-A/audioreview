@@ -8,7 +8,7 @@ ref: jcally
 date: 2025-07-30
 rating: [3.9, 0.8, 0.7, 1.0, 0.6, 0.8]
 summary: "JCALLY, operated by Dongguan JieShi Acoustic Technology, is a Chinese manufacturer specializing in cost-effective portable DAC/amplifiers. They achieve equivalent performance to competitors at less than half the price by utilizing high-quality DAC chips like CS43131 and CX31993."
-tags: [Chinese Manufacturer, Cost-Performance, DAC, Portable amplifier]
+tags: [Budget, China, DAC, Portable amplifier]
 permalink: /companies/en/jcally/
 ---
 ## Overview

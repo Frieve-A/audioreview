@@ -8,10 +8,9 @@ ref: procable-wattegate-shielded-power-cable
 date: 2025-07-26
 rating: [1.5, 0.1, 0.4, 0.1, 0.7, 0.2]
 summary: "A shielded power cable using WATTGATE connectors, but with little scientific evidence for its claimed audio improvements and serious cost-performance issues compared to functionally equivalent products."
-tags: [Power Cable, Shielded, Pro Audio, Japanese Manufacturer]
+tags: [Japan, Power Cable, Pro Audio, Shielded]
 permalink: /products/en/procable-wattegate-shielded-power-cable/
 ---
-
 ## Overview
 
 The procable WATTEGATE Shielded Power Cable is a 100% shielded power cable combining US-made WATTGATE unplated plugs with a custom power cable from US-based A2D Corporation. Both male and female plugs feature completely unplated specifications, while the cable section adopts a shielded structure. The design is positioned as a product that blocks noise and prevents interference, with particular consideration for noise countermeasures when using 200V power transformers. Two variations are available in transparent and black plugs, priced at 7,222 JPY.

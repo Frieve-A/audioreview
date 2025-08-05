@@ -8,10 +8,9 @@ ref: saec-stratosphere-sus-020
 date: 2025-07-22
 rating: [1.2, 0.0, 0.6, 0.0, 0.6, 0.0]
 summary: "Premium USB cable featuring PC-TripleC EX conductor, but its scientific validity and cost-performance are judged to be extremely low."
-tags: [USB Cable, SAEC, PC-TripleC, Digital Audio, High-End Audio]
+tags: [Digital Audio, High-end, PC-TripleC, SAEC, USB Cable]
 permalink: /products/en/saec-stratosphere-sus-020/
 ---
-
 ## Overview
 
 The SAEC STRATOSPHERE SUS-020 is a flagship USB cable from SAEC Commerce, a venerable Japanese audio cable manufacturer. Founded in 1974, SAEC is known as the inventor of proprietary PC-TripleC conductor technology and began serious audio cable manufacturing in 1983. The SUS-020 represents the pinnacle of the company's STRATOSPHERE series, featuring the PC-TripleC EX conductor that combines copper and silver. Priced at 48,000 JPY (excluding tax, approx. 52,800 JPY including tax), it's available in multiple lengths from 0.7m to 4.5m and various connector configurations including USB A-B, A-micro B, and A-C specifications.

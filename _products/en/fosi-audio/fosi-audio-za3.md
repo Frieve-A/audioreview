@@ -8,10 +8,9 @@ ref: fosi-audio-za3
 date: 2025-07-31
 rating: [4.1, 0.8, 0.7, 1.0, 0.8, 0.8]
 summary: "Compact Class-D amplifier featuring TPA3255 chip. Offers balanced inputs and mono/stereo switching functionality with excellent cost-performance compared to competing products with equivalent features."
-tags: [Class-D, TPA3255, Balanced Input, Mono Amplifier, Stereo Amplifier]
+tags: [Balanced Input, Class D, Mono Amplifier, Stereo Amplifier, TPA3255]
 permalink: /products/en/fosi-audio-za3/
 ---
-
 ## Overview
 
 The Fosi Audio ZA3 is a compact Class-D amplifier powered by the Texas Instruments TPA3255 chip. With its distinctive dual stereo/mono design, it delivers 155W×2 (stereo) or 235W×1 (mono) output when powered by a 48V/5A supply. The unit supports both balanced inputs (XLR/TRS) and unbalanced inputs (RCA), while also featuring 12V trigger functionality and op-amp swapping capability. Despite being manufactured by a Chinese company, it demonstrates attention to component selection by incorporating Japanese capacitors (NCC, ELNA), German capacitors (WIMA), and Japanese inductors (Sumida).

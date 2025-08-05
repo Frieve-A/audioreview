@@ -8,7 +8,7 @@ ref: qdc
 date: 2025-07-16
 rating: [2.6, 0.6, 0.7, 0.1, 0.6, 0.6]
 summary: "Chinese Shenzhen-based IEM manufacturer rooted in military communication technology. Specializes in multi-BA driver technology and tuning functions but faces significant cost-performance challenges"
-tags: [BA Driver, Chinese Manufacturer, In-ear monitors, Premium Price, Tuning Function]
+tags: [BA Driver, China, In-ear monitors, Premium Price, Tuning Function]
 permalink: /companies/en/qdc/
 ---
 ## Overview

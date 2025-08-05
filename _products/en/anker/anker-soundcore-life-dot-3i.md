@@ -8,7 +8,7 @@ ref: anker-soundcore-life-dot-3i
 date: 2025-07-31
 rating: [3.2, 0.6, 0.5, 0.8, 0.7, 0.6]
 summary: "True wireless earbuds with ANC for 39.99 USD. Offers 35dB noise canceling performance and 36-hour battery life. While a solid entry-level option, more cost-effective alternatives with superior ANC exist."
-tags: [ANC, Anker, Bluetooth, IPX5, Noise Canceling, True wireless earbuds]
+tags: [ANC, Anker, Bluetooth, IPX5, Noise cancelling, True wireless earbuds]
 permalink: /products/en/anker-soundcore-life-dot-3i/
 ---
 ## Overview

@@ -8,10 +8,9 @@ ref: focusrite
 date: 2025-07-08
 rating: [4.2, 0.9, 0.8, 0.8, 0.8, 0.9]
 summary: "UK comprehensive audio company with 13 brands. Achieves professional quality at consumer prices through RedNet technology."
-tags: ["Audio interface", Preamp, Recording, "United Kingdom"]
+tags: [Audio interface, Preamps, Recording, United Kingdom]
 permalink: /companies/en/focusrite/
 ---
-
 ## Overview
 
 Focusrite was founded in 1985 in the UK by legendary console designer Rupert Neve. The company began with a request from George Martin to develop custom console preamps for AIR Studio, establishing their reputation with the ISA (Input Signal Amplifier). Currently operating as Focusrite PLC with 8 brands, they specialize exclusively in audio interface manufacturing, stating "we manufacture only audio interfaces, and we are the world's best at it." The Scarlett Gen 4 incorporates converters from their professional RedNet series, leveraging 40 years of accumulated technology.

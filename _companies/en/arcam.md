@@ -8,10 +8,9 @@ ref: arcam
 date: 2025-07-06
 rating: [4.3, 0.9, 0.9, 0.7, 0.9, 0.9]
 summary: "UK powerhouse balancing practicality and performance. Incorporating proprietary Class G amplifier technology and advanced room correction like Dirac Live into realistically priced products. Provides high value to audiophiles."
-tags: ["United Kingdom", Hi-Fi, Amplifier, "Class G", "Dirac Live", "Cost Performance"]
+tags: [Amplifiers, Budget, Class G, Dirac Live, Hi-Fi, United Kingdom]
 permalink: /companies/en/arcam/
 ---
-
 ## Overview
 
 Founded in 1976 by Cambridge University students as A&R Cambridge Ltd., commonly known as Arcam, is recognized as a conscientious brand in the UK audio industry that balances practicality with high performance. From their founding success with the A60 integrated amplifier to developing the world's first external DAC, Arcam has consistently been based on solid engineering. Their philosophy remains faithful to the goal of "reproducing recorded sound as it is" without resorting to mysticism. Modern products actively adopt proprietary "Class G" amplifier technology and advanced room correction technology "Dirac Live," achieving high performance at realistic prices.

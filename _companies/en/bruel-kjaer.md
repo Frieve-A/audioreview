@@ -8,10 +8,9 @@ ref: bruel-kjaer
 date: 2025-07-06
 rating: [4.3, 1.0, 1.0, 0.3, 1.0, 1.0]
 summary: "World-renowned authority in acoustic and vibration measurement technology, established in Denmark in 1942. Their measurement microphones and analyzers are used as industry standards in research institutions and manufacturers worldwide. They continue to provide an 'unwavering measuring stick' for pursuing scientific truth, serving as a giant supporting the foundation of acoustic technology."
-tags: [Denmark, Measurement Equipment, Microphone, Analyzer, Industry Standard, HBK]
+tags: [Analyzer, Denmark, HBK, Industry Standard, Measurement Equipment, Microphones]
 permalink: /companies/en/bruel-kjaer/
 ---
-
 ## Overview
 
 Brüel & Kjær (Brüel & Kjær) is a world-leading company in acoustic and vibration measurement technology, established in Denmark in 1942. Their high-precision measurement microphones, sound level meters, frequency analyzers, and vibration test equipment have been used as "reference standards" in acoustic research, product development, and environmental assessment worldwide for many years. From audio to aerospace and automotive industries, they continue to provide essential "measuring sticks" for improving quality and performance across all sectors, supporting the foundation of science and technology. They are now part of Hottinger Brüel & Kjær (HBK).

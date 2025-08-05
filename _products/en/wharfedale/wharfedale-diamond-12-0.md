@@ -8,7 +8,7 @@ ref: wharfedale-diamond-12-0
 date: 2025-08-04
 rating: [3.1, 0.4, 0.6, 0.7, 0.7, 0.7]
 summary: "Entry-level bookshelf speaker with traditional design and limited scientific performance"
-tags: [Bookshelf speakers, Entry Level, Passive speakers, Wharfedale]
+tags: [Bookshelf speakers, Entry-level, Passive speakers, Wharfedale]
 permalink: /products/en/wharfedale-diamond-12-0/
 ---
 ## Overview

@@ -8,10 +8,9 @@ ref: toa-F-2000BM
 date: 2025-07-24
 rating: [3.1, 0.6, 0.4, 0.9, 0.7, 0.5]
 summary: "A 2-way compact speaker designed for commercial installations. It boasts excellent cost-performance that surpasses competitors in its class, but its evaluation is hampered by a lack of detailed acoustic performance data."
-tags: [Professional Audio, Commercial Sound, Compact Speaker, TOA, 2-Way]
+tags: [2-Way, Commercial Sound, Compact Speaker, Professional, TOA]
 permalink: /products/en/toa-F-2000BM/
 ---
-
 ## Overview
 
 The TOA F-2000BM is a 60W compact 2-way speaker system designed for commercial facilities and professional applications. TOA, a long-established Japanese audio equipment manufacturer founded in 1934, has a lengthy track record in the public address and telecommunications equipment sectors. The F-2000BM is touted as a wide-dispersion 2-way compact speaker offering high efficiency, wide bandwidth, and high power handling, and it comes standard with multi-position mounting hardware to accommodate various installation environments. It features a lightweight design with an HIPS resin enclosure and an unobtrusive appearance with its black finish.

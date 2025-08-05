@@ -8,7 +8,7 @@ ref: earfun-air-pro-2
 date: 2025-08-01
 rating: [2.4, 0.4, 0.5, 0.3, 0.6, 0.6]
 summary: "The EarFun Air Pro 2 features 10mm drivers and ANC performance in a true wireless design, but significantly underperforms against current market standards in both measured performance and price competitiveness."
-tags: [ANC Earbuds, Bluetooth5.2, Chinese Manufacturer, True wireless earbuds]
+tags: [ANC Earbuds, Bluetooth5.2, China, True wireless earbuds]
 permalink: /products/en/earfun-air-pro-2/
 ---
 ## Overview

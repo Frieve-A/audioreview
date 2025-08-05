@@ -8,10 +8,9 @@ ref: zoom
 date: 2025-07-27
 rating: [3.8, 0.7, 0.7, 0.9, 0.7, 0.8]
 summary: "Japanese audio equipment manufacturer that has established a unique position in the portable recording equipment field. Through 32-bit float technology and practicality-focused design, they achieve high cost-performance in the creator-targeted equipment market."
-tags: [Japanese Manufacturer, Portable Recording, Digital Mixer, 32-bit Float, Field Recording]
+tags: [32-bit Float, Digital Mixer, Field Recording, Japan, Portable Recording]
 permalink: /companies/en/zoom/
 ---
-
 ## Overview
 
 Zoom Corporation was founded in 1983 by Masahiro Iijima as a Japanese audio equipment manufacturer. Starting initially with guitar effect pedal manufacturing, the company now focuses on handy audio recorders (43%), digital mixers/multitrack recorders (13%), and multi-effects (12%) as their main product lines. Listed on the Tokyo Stock Exchange Standard market, they have grown into an international company with operations in Hong Kong, China, America, and the UK. The company operates under the corporate philosophy "WE'RE FOR CREATORS," focusing on developing creative tools that enable everyone from amateurs to professionals to freely express their creative activities.

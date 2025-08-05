@@ -8,10 +8,9 @@ ref: audio-technica-fluat-at-ic700
 date: 2025-07-23
 rating: [1.2, 0.1, 0.5, 0.0, 0.5, 0.1]
 summary: "High-priced interconnect cable featuring 6N-OFC+PCUHD+HYPER OFC triple hybrid conductors. No scientifically verifiable performance improvements confirmed, with extremely poor cost-performance."
-tags: [Interconnect Cable, Audio-Technica, FLUAT, High-End]
+tags: [Audio-Technica, FLUAT, High-end, Interconnect Cable]
 permalink: /products/en/audio-technica-fluat-at-ic700/
 ---
-
 ## Overview
 
 The Audio-Technica FLUAT AT-IC700 is the flagship interconnect cable in the FLUAT series announced by the company in 2021. It features a triple hybrid structure combining three types of conductor materials: 6N-OFC, PCUHD, and HYPER OFC, along with the adoption of high-purity materials subjected to Heat Relief processing. The FLUAT name is said to be a combination of "Fluent (flowing smoothness)," its etymological root "flu (flow)," and Audio-Technica, expressing the concept of "signal flow as clear as a mountain stream."

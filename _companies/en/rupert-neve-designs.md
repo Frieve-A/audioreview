@@ -8,10 +8,9 @@ ref: rupert-neve-designs
 date: 2025-07-20
 rating: [2.7, 0.6, 0.8, 0.4, 0.5, 0.4]
 summary: "A premium analog equipment manufacturer bearing a renowned designer's name. While known for its musically-praised sound, it significantly deviates from this site's standard of fidelity, facing serious issues in cost-performance and rationality of design philosophy."
-tags: [Microphone Preamp, Channel Strip, Analog Equipment, High-End Audio, Pro Audio]
+tags: [Analog Equipment, Channel Strip, High-end, Microphone Preamp, Pro Audio]
 permalink: /companies/en/rupert-neve-designs/
 ---
-
 ## Overview
 
 Rupert Neve Designs is a professional audio equipment manufacturer established in 2005 by legendary acoustic equipment designer Rupert Neve. Based on his over 60 years of design experience, the company develops microphone preamps, channel strips, and mixing consoles that inherit the design philosophy of legendary devices such as the Neve 1073 and 1064. They offer premium product lines including the Portico series, Shelford series, and 5088 mixer, characterized by custom transformers and high-voltage circuits, earning high regard in professional music production environments.

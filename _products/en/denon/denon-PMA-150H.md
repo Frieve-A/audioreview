@@ -8,7 +8,7 @@ ref: denon-PMA-150H
 date: 2025-07-22
 rating: [3.4, 0.7, 0.8, 0.6, 0.6, 0.7]
 summary: "Compact network integrated amplifier featuring DDFA technology and HEOS streaming. While its measured performance is adequate, it faces cost-performance challenges due to the emergence of more affordable, higher-performing alternatives."
-tags: [Digital Amplifier, HEOS, Integrated amplifier, Network Audio, Streaming]
+tags: [Digital Amplifier, HEOS, Integrated amplifier, Network audio, Streaming]
 permalink: /products/en/denon-PMA-150H/
 ---
 ## Overview

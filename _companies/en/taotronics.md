@@ -8,10 +8,9 @@ ref: taotronics
 date: 2025-07-17
 rating: [2.0, 0.3, 0.4, 0.9, 0.2, 0.2]
 summary: "TaoTronics is a Chinese company developing budget-oriented audio equipment. With main products including SoundLiberty 92 and 97 true wireless earbuds, they provide basic Bluetooth connectivity features for budget-conscious consumers. Their technical approach features mass-production design based on existing component combinations, with no published measurement data."
-tags: [Chinese manufacturer, Budget, True wireless earbuds, Bluetooth]
+tags: [Bluetooth, Budget, China, True wireless earbuds]
 permalink: /companies/en/taotronics/
 ---
-
 ## Overview
 
 TaoTronics is a Chinese electronics manufacturer primarily focused on budget-oriented audio equipment. Founded in 2012, the company manufactures true wireless earbuds like the SoundLiberty 92 and 97, noise-canceling headphones, and soundbars. They conducted worldwide expansion using Amazon as their primary sales channel, but were banned from Amazon in 2021 for fake review policy violations, significantly impacting their market presence.

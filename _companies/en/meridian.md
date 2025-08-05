@@ -8,7 +8,7 @@ ref: meridian
 date: 2025-07-06
 rating: [4.0, 0.9, 1.0, 0.1, 1.0, 1.0]
 summary: "Pioneer of digital audio. Using DSP technology in active speakers, they established an approach to scientifically control audio reproduction. While building extremely rational and high-performance systems, prices are very high with low cost-performance."
-tags: [Active speakers, DSP, High-End Audio, MQA, United Kingdom]
+tags: [Active speakers, DSP, High-end, MQA, United Kingdom]
 permalink: /companies/en/meridian/
 ---
 ## Overview

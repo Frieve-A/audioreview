@@ -8,7 +8,7 @@ ref: oasa-electronics
 date: 2025-07-23
 rating: [2.8, 0.4, 0.5, 0.7, 0.6, 0.6]
 summary: "Japanese audio equipment manufacturer based in Hiroshima, developing omnidirectional speaker 'Egretta' series. Leveraging 20 years of OEM experience to expand its own brand, but more rational alternatives exist in terms of price-performance."
-tags: [Desktop, Japanese Manufacturer, Niche Market, Omnidirectional Speakers]
+tags: [Desktop, Japan, Niche Market, Omnidirectional Speakers]
 permalink: /companies/en/oasa-electronics/
 ---
 ## Overview

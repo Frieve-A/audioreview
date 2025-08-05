@@ -8,10 +8,9 @@ ref: shunyata-research-review
 date: 2025-07-05
 rating: [1.9, 0.1, 0.6, 0.1, 0.9, 0.2]
 summary: "A US-based high-end audio accessories manufacturer. Centering on power cables and power conditioners, they deploy products incorporating numerous proprietary patented technologies. While promoting adoption in professional audio and medical fields, significant questions remain regarding price settings and scientific basis of claimed effects. Products are robustly constructed with high-quality materials, but claimed sound quality improvements lack objective data, resulting in extremely poor cost-performance."
-tags: [America, Cable, Power, "High-End Audio", "Occult Audio"]
+tags: [America, Cables, High-end, Occult Audio, Power]
 permalink: /companies/en/shunyata-research/
 ---
-
 ## Overview
 
 Shunyata Research was founded in 1998 by former military scientist Caelin Gabriel, based in Washington State, USA. The company is particularly known for power conditioners and power cables, developing products utilizing numerous proprietary patented technologies such as `DTCD®` (Dynamic Transient Current Delivery) and `NIC™` (Noise Isolation Chamber). The company promotes that their products are used in some prestigious recording studios and medical facilities, establishing a solid position in the high-end market. However, there is sparse data proving objective performance improvements commensurate with their high prices, making strict evaluation from a scientific rationality perspective unavoidable.

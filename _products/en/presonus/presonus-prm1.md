@@ -8,10 +8,9 @@ ref: presonus-prm1
 date: 2025-07-17
 rating: [1.7, 0.5, 0.2, 0.2, 0.4, 0.4]
 summary: "The PreSonus PRM1 is a condenser microphone designed specifically for acoustic measurement. At 19,800 JPY, it offers a linear frequency response from 20Hz-20kHz, but falls short of high-end competitors in measurement accuracy and technical level."
-tags: [Microphone, Measurement Equipment, PreSonus, Acoustic Measurement, RTA]
+tags: [Acoustic Measurement, Measurement Equipment, Microphones, PreSonus, RTA]
 permalink: /products/en/presonus-prm1/
 ---
-
 ## Overview
 
 The PreSonus PRM1 is a 1/4-inch pre-polarized electret condenser microphone designed specifically for acoustic measurement applications. Released in 2013, it is positioned as a measurement microphone intended for use with real-time analyzers (RTA) and spectrographs for acoustic analysis tools. Featuring an omnidirectional polar pattern, it claims a linear frequency response from 20Hz to 20kHz. While unsuitable for recording or performance applications, this product is specialized for acoustic system performance analysis and room acoustic characteristic measurement.

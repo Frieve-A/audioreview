@@ -8,10 +8,9 @@ ref: jabra-elite-10
 date: 2025-07-09
 rating: [2.9, 0.6, 0.7, 0.4, 0.6, 0.6]
 summary: "The Jabra Elite 10 is a true wireless earphone featuring 10mm drivers and the world's first LE Audio-compatible smart case. While offering industry-average sound quality performance, it has a significant price gap compared to equivalent functional products, with concerns about future support due to business withdrawal."
-tags: ["True wireless earphones", "Active noise cancellation", "Dolby Audio", "Discontinued product"]
+tags: [Active noise cancelling, Discontinued product, Dolby Audio, True wireless earphones]
 permalink: /products/en/jabra-elite-10/
 ---
-
 ## Overview
 
 The Jabra Elite 10 is a true wireless earphone developed by Danish company Jabra. It features 10mm drivers and is characterized by the world's first LE Audio-compatible smart case. It incorporates active noise cancellation functionality and Dolby Audio-compatible spatial audio technology. With IP57 water and dust resistance performance, it achieves up to 36 hours of playback time (including case). However, since Jabra announced its withdrawal from the consumer earphone business in 2024, this product is currently in the inventory disposal phase.

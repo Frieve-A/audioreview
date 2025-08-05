@@ -8,7 +8,7 @@ ref: trn
 date: 2025-07-24
 rating: [2.2, 0.4, 0.4, 0.9, 0.2, 0.3]
 summary: "Emerging Chinese IEM manufacturer offering low-cost hybrid driver configuration IEMs with good cost-performance. Measurement performance is at industry average level, but adopts acoustic characteristics prioritizing entertainment value over scientific fidelity."
-tags: [Chinese Manufacturer, Hybrid Drivers, In-ear monitors, Low Cost]
+tags: [Budget, China, Hybrid Drivers, In-ear monitors]
 permalink: /companies/en/trn/
 ---
 ## Overview

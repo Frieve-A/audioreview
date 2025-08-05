@@ -8,7 +8,7 @@ ref: metric-halo
 date: 2025-07-23
 rating: [3.1, 0.8, 0.7, 0.5, 0.4, 0.7]
 summary: "A US-based professional audio manufacturer known for its unique DSP-integrated systems. While offering excellent measured performance, the value proposition hinges on investment in its pricey proprietary ecosystem."
-tags: [Audio interface, DSP, Mac, Professional Audio]
+tags: [Audio interface, DSP, Mac, Professional]
 permalink: /companies/en/metric-halo/
 ---
 ## Overview

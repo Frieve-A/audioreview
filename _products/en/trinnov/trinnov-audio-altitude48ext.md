@@ -8,10 +8,9 @@ ref: trinnov-audio-altitude48ext
 date: 2025-07-14
 rating: [4.1, 0.5, 0.9, 1.0, 0.9, 0.8]
 summary: "An AV processor at the highest technical level, capable of up to 64-channel processing. Due to the lack of competitors, its unique value earns it the highest cost-performance rating."
-tags: [Processor, High-End Audio, Theater, Trinnov]
+tags: [High-end, Processors, Theater, Trinnov]
 permalink: /products/en/trinnov-audio-altitude48ext/
 ---
-
 ## Overview
 
 The Trinnov Audio Altitude48ext is an expansion unit designed for the highest-end private theaters, extending the capabilities of the Altitude32 to a maximum of 64-channel processing. It does not function as a standalone device but works in tandem with the Altitude32 to provide up to 48 individual decoded outputs and 64 processing outputs. It features Trinnov's globally acclaimed "Optimizer" acoustic correction technology and supports ultra-large Atmos configurations beyond 24.1.10 channels. Backed by extensive experience in the professional market, this product is a culmination of industry-leading technical expertise.
