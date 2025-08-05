@@ -1,0 +1,13 @@
+version: '3.8'
+
+services:
+  ogp-generator:
+    build: .
+    ports:
+      - "3000:3000"
+    volumes:
+      - ./fonts:/app/fonts
+      - ./output:/app/output
+    environment:
+      - NODE_ENV=development
+    command: node server.js 
