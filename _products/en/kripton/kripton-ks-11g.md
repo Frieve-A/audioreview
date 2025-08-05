@@ -8,10 +8,9 @@ ref: kripton-ks-11g
 date: 2025-08-05
 rating: [2.1, 0.4, 0.4, 0.3, 0.6, 0.4]
 summary: "Compact desktop speaker with aptX Adaptive support, but limited by single full-range driver constraints and poor price competitiveness"
-tags: [Active Speaker, Wireless, aptX Adaptive, Desktop, Full-range]
+tags: [Active speakers, Desktop, Full-range, Wireless, aptX Adaptive]
 permalink: /products/en/kripton-ks-11g/
 ---
-
 ## Overview
 
 The Kripton KS-11G is a wireless compact audio system supporting Qualcomm aptX Adaptive 24-bit. It features 35W×2 full-digital amplifiers and supports high-resolution audio playback up to 192kHz/24-bit. The system employs Tymphany 64mm concave metal full-range units housed in high-rigidity aluminum extrusion frame enclosures. With USB, optical digital, and analog inputs, this product aims to deliver high-quality sound reproduction in compact desktop environments.

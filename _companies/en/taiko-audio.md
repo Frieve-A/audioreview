@@ -8,10 +8,9 @@ ref: taiko-audio
 date: 2025-08-05
 rating: [1.4, 0.2, 0.6, 0.0, 0.4, 0.2]
 summary: "Dutch premium music server manufacturer. The SGM Extreme is an ultra-expensive 32,000 USD digital transport that claims subjective improvements without scientific measurement data disclosure. Equivalent functionality can be achieved for 219 USD, resulting in extremely poor cost-performance."
-tags: [Music Server, Network Streamer, High-End Audio, Dutch Audio, Digital Transport]
+tags: [Digital Transport, Dutch Audio, High-end, Music Server, Network streamer]
 permalink: /companies/en/taiko-audio/
 ---
-
 ## Overview
 
 Taiko Audio is a Dutch audio manufacturer established in 2015 in Oldenzaal, Netherlands. Founded by Emile Bok, who leveraged his engineering expertise to create a company specializing in high-end music server solutions. The company's flagship product, the SGM Extreme, is an ultra-premium music server featuring dual Intel Xeon CPUs, custom USB interfaces, and a 400W linear power supply. Despite its extremely high price of 32,000 USD and weight of 42kg, this product has gained attention in the global high-end audio market.

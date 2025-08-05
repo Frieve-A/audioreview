@@ -6,7 +6,7 @@ company_id: tascam
 lang: ja
 ref: tascam-cg-1800
 date: 2025-08-05
-rating: [3.7, 0.5, 0.7, 0.7, 0.8, 0.9]
+rating: [3.6, 0.5, 0.7, 0.7, 0.8, 0.9]
 summary: "高精度OCXO搭載のプロ用マスタークロックジェネレーター。ジッター管理技術は優秀ですが、非プロフェッショナル環境での可聴効果は限定的で、一部代替品との価格差があります。"
 tags: [マスタークロック, 同期, プロオーディオ, OCXO, ジッター管理]
 permalink: /products/ja/tascam-cg-1800/

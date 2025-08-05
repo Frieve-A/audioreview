@@ -8,10 +8,9 @@ ref: arendal-sound
 date: 2025-08-05
 rating: [3.8, 0.8, 0.8, 0.6, 0.7, 0.9]
 summary: "Norwegian speaker manufacturer providing high-quality products through scientific approach and direct-to-consumer model."
-tags: [Speakers, THX, Norwegian, Direct-Sales, High-End]
+tags: [Direct-Sales, High-end, Norwegian, Speakers, THX]
 permalink: /companies/en/arendal-sound/
 ---
-
 ## Overview
 
 Arendal Sound is a Norwegian speaker manufacturer established in 2015. The company specializes in the design and manufacturing of high-performance speakers, with the 1723 series achieving THX Ultra certification. By adopting a direct-to-consumer model, they eliminate intermediaries and maintain full control over all processes from manufacturing to customer support. Their main products are the 1723 series and the latest flagship 1528 series, aimed at reproducing cinema-level acoustic performance in home environments.

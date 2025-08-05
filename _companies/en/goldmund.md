@@ -8,10 +8,9 @@ ref: goldmund
 date: 2025-08-05
 rating: [2.3, 0.6, 0.7, 0.0, 0.7, 0.3]
 summary: "Swiss ultra-luxury audio manufacturer founded in 1978. Delivers excellent measurement performance with THD+N below 0.05% and SNR above 110dB through Telos amplifier technology and DSP-integrated systems. However, cost-performance is extremely poor as products like SMSL PA200 offer equivalent performance at 1/72 the price. A luxury brand for users who value Swiss precision manufacturing and brand prestige like Swiss watches."
-tags: [Switzerland, Amplifier, DAC, Speaker, Telos, DSP, High-End]
+tags: [Amplifiers, DAC, DSP, High-end, Speakers, Switzerland, Telos]
 permalink: /companies/en/goldmund/
 ---
-
 ## Overview
 
 Founded in 1978 by two French university students, Goldmund was acquired in 1980 by Michel Reverchon, an IBM marketing manager, who relocated the company to Switzerland and developed it into an ultra-luxury audio manufacturer. Currently, his stepson Johan Segala leads a comprehensive renewal as the new owner since 2018. In 2024, Carsten Roth, recruited from Focal/Naim, became CEO and has achieved re-entry into the North American market.

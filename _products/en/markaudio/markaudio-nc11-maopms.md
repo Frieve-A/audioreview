@@ -8,10 +8,9 @@ ref: markaudio-nc11-maopms
 date: 2025-08-05
 rating: [2.6, 0.5, 0.7, 0.2, 0.6, 0.6]
 summary: "A bookshelf speaker featuring the UK-designed MAOP11_MS full-range single driver. Despite extremely high pricing, measured performance advantages are limited, and equivalent functionality can be achieved at significantly lower cost with alternative products."
-tags: [Full-Range Speaker, Bookshelf Speaker, Single Driver, High-End Audio]
+tags: [Bookshelf speakers, Full-Range Speaker, High-end, Single Driver]
 permalink: /products/en/markaudio-nc11-maopms/
 ---
-
 ## Overview
 
 The MarkAudio NC11-MAOPMS is a bookshelf full-range speaker developed by MarkAudio, a UK-based audio manufacturer founded in 2000. It features the newly developed MAOP11_MS driver with a pure copper rectangular wire voice coil and a proprietary Magnetic Arc Oxidation Process (MAOP) high-temperature treated cone. Each pair is individually measured in an anechoic chamber and matched within 0.5% tolerance, housed in a Japanese paulownia wood cabinet. With dimensions of 245×450×295mm, weight of 11.5kg×2, and a retail price of approximately 2,850 USD, it is positioned as a high-end audio product.
