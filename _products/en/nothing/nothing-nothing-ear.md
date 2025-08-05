@@ -5,9 +5,9 @@ target_name: "Nothing Ear"
 company_id: nothing
 lang: en
 ref: nothing-nothing-ear
-date: 2025-07-22
-rating: [2.8, 0.6, 0.6, 0.5, 0.5, 0.6]
-summary: "Nothing Ear offers excellent 45dB ANC performance and advanced EQ functions for 149 USD, but its cost-performance is limited by the existence of more affordable alternatives like the Soundcore Liberty 4 NC. Its measurement performance is standard, making it an option for users who prioritize functionality."
+date: 2025-08-04
+rating: [3.4, 0.6, 0.7, 1.0, 0.5, 0.6]
+summary: "Nothing Ear offers excellent 45dB ANC performance, advanced parametric EQ, Personal Sound Profile, and LHDC codec support for 149 USD. Its measurement performance is standard, making it a strong option for users prioritizing detailed sound customization and functionality over cost."
 tags: [Active noise cancelling, Nothing, True Wireless Earphones]
 permalink: /products/en/nothing-nothing-ear/
 ---
@@ -19,19 +19,19 @@ Nothing Ear is the 4th generation true wireless earphones from Nothing, a compan
 
 $$ \Large \text{0.6} $$
 
-Nothing Ear's measurement performance is at a standard level. Its ANC performance achieves up to 45dB of noise reduction, which is an excellent performance exceeding the 40dB ideal standard in our review policy. The frequency response covers 20Hz to 20kHz with a warm tendency but does not achieve flatness within ±3dB. While THD (Total Harmonic Distortion) performance is rated as "very low," it cannot be confirmed if the specific figures reach the transparent level of below 0.01%. Although LDAC/LHDC support enables high-quality source playback, the acoustic performance of the drivers themselves shows no significant advantage over the latest premium earphones.
+Nothing Ear's measurement performance is at a standard level. Its ANC performance achieves up to 45dB of noise reduction, which is an excellent performance exceeding the 40dB ideal standard in our review policy. The frequency response covers 20Hz to 20kHz with a warm tendency but does not achieve flatness within ±3dB. While THD (Total Harmonic Distortion) performance is rated as "very low," specific figures below 0.01% cannot be confirmed from available measurements. Although LDAC/LHDC support enables high-quality source playback, the acoustic performance of the drivers themselves shows no significant advantage over the latest premium earphones.
 
 ## Technology Level
 
-$$ \Large \text{0.6} $$
+$$ \Large \text{0.7} $$
 
-The adoption of 11mm ceramic diaphragm drivers and comprehensive codec support via Bluetooth 5.3 (SBC, AAC, LDAC, LHDC) demonstrates a modern approach. The implementation of a Personal Sound Profile function and an Advanced Equalizer (parametric EQ with Q-factor and frequency control) through the Nothing X app are commendable technical features. However, these technologies are a combination of established existing methods, with limited innovative proprietary technology development. The ANC technology also remains a standard industry implementation and does not reach cutting-edge levels.
+The adoption of 11mm ceramic diaphragm drivers and comprehensive codec support via Bluetooth 5.3 (SBC, AAC, LDAC, LHDC) demonstrates a modern approach. The implementation of a Personal Sound Profile function and an Advanced Equalizer (parametric EQ with Q-factor and frequency control) through the Nothing X app are commendable technical features, offering greater customization than standard graphic EQs in competitors. However, these technologies are a combination of established existing methods, with limited innovative proprietary technology development. The ANC technology also remains a standard industry implementation and does not reach cutting-edge levels.
 
 ## Cost-Performance
 
-$$ \Large \text{0.5} $$
+$$ \Large \text{1.0} $$
 
-For the 149 USD (approx. 23,800 JPY) Nothing Ear, more affordable alternatives with equivalent or superior functionality exist. The Soundcore Liberty 4 NC, available for under 100 USD (approx. 12,990 JPY), offers an LDAC codec, comparable or superior ANC, and app-based EQ, providing technically equivalent or better performance. The calculation based on Japanese market prices is: 12,990 JPY ÷ 23,800 JPY ≈ 0.55, which rounds to 0.5. Since both products feature basic functionalities like 11mm drivers, comparable ANC, and LDAC support, the existence of a more affordable alternative results in a cost-performance score of 0.5.
+At 149 USD (approx. 23,000 JPY), Nothing Ear provides a unique combination of features including parametric EQ, Personal Sound Profile, and LHDC codec support. While more affordable options like the Soundcore Liberty 4 NC (approx. 99 USD) offer comparable ANC and LDAC support, they lack the advanced parametric EQ and LHDC, making them not fully equivalent. No cheaper alternative with the same or superior functionality and performance exists, resulting in a cost-performance score of 1.0.
 
 ## Reliability & Support
 
@@ -47,6 +47,6 @@ The approach of emphasizing design uniqueness and user customization features li
 
 ## Advice
 
-The Nothing Ear is a product that offers excellent ANC performance and a comprehensive feature set at the 149 USD price point. It is particularly suitable for users who value the detailed sound customization offered by the parametric EQ, the Personal Sound Profile, and the unique Nothing design. However, if pure cost-performance is the top priority, more affordable products with comparable or better performance, such as the Soundcore Liberty 4 NC, are strong alternatives. We recommend a careful comparison to determine if these additional features justify the price difference before making a purchase.
+The Nothing Ear is a product that offers excellent ANC performance, advanced sound customization via parametric EQ and Personal Sound Profile, and comprehensive codec support at the 149 USD price point. It is particularly suitable for users who value detailed EQ adjustments, personalized tuning based on hearing tests, and the unique Nothing design. While alternatives like the Soundcore Liberty 4 NC provide strong ANC and battery life at a lower price, they do not match the advanced EQ capabilities or LHDC support. If these features are essential, Nothing Ear justifies its price; otherwise, compare carefully for cost savings.
 
-(2025.7.22)
+(2025.8.4)

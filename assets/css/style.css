@@ -1181,6 +1181,7 @@ a:hover {
 .home-card h3 {
   font-size: 20px;
   font-weight: 600;
+  margin-top: 0px;
   margin-bottom: 15px;
   color: #1A1A1A;
 }
