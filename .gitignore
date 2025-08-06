@@ -75,3 +75,24 @@ temp/
 dev/
 sessions/
 .review_agent/
+
+# Lambda functions
+lambda/*/node_modules/
+lambda/*/output/
+lambda/*/fonts/*.ttf
+lambda/*/fonts/*.otf
+lambda/*/fonts/*.woff
+lambda/*/fonts/*.woff2
+lambda/*/.env
+lambda/*/.env.*
+lambda/*/dist/
+lambda/*/build/
+lambda/*/*.zip
+lambda/*/package-lock.json
+lambda/*/yarn.lock
+lambda/*/.serverless/
+lambda/*/.aws-sam/
+lambda/*/coverage/
+lambda/*/logs/
+lambda/*/tmp/
+lambda/*/temp/

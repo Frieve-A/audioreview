@@ -42,3 +42,4 @@ exclude:
   - dev
   - sessions
   - tools
+  - lambda

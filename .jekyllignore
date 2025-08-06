@@ -3,6 +3,9 @@ tools/
 dev/
 sessions/
 
+# Lambda functions and dependencies
+lambda/
+
 # Node.js dependencies
 node_modules/
 
