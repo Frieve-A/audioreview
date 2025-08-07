@@ -15,9 +15,10 @@
   <link rel="canonical" href="{{ page.url | absolute_url }}">
   <title>{% if page.title %}{{ page.title }} - {% endif %}{{ site.title }}</title>
   
-  {% assign meta_description = site.description %}
   {% if page.summary %}
     {% assign meta_description = page.summary | strip_html | rstrip_newlines | escape %}
+  {% else %}
+    {% assign meta_description = site.data.strings[page.lang].seo_description %}
   {% endif %}
   <meta name="description" content="{{ meta_description }}">
   
@@ -37,14 +38,25 @@
   <meta property="og:url" content="{{ page.url | absolute_url }}">
   <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
   <meta property="og:description" content="{{ meta_description }}">
-  <meta property="og:image" content="{{ site.logo | absolute_url }}">
+  <!-- Dynamic OGP Image Generation -->
+  {% if page.layout == 'product' and page.rating and page.rating.size >= 6 %}
+    {% assign rating_string = page.rating | join: ',' %}
+    <meta property="og:image" content="https://resvg.frievea.workers.dev/?n={{ page.target_name | url_encode }}&t=p&r={{ rating_string }}&l={{ page.lang }}">
+    <meta property="twitter:image" content="https://resvg.frievea.workers.dev/?n={{ page.target_name | url_encode }}&t=p&r={{ rating_string }}&l={{ page.lang }}">
+  {% elsif page.layout == 'company' and page.rating and page.rating.size >= 6 %}
+    {% assign rating_string = page.rating | join: ',' %}
+    <meta property="og:image" content="https://resvg.frievea.workers.dev/?n={{ page.target_name | url_encode }}&t=c&r={{ rating_string }}&l={{ page.lang }}">
+    <meta property="twitter:image" content="https://resvg.frievea.workers.dev/?n={{ page.target_name | url_encode }}&t=c&r={{ rating_string }}&l={{ page.lang }}">
+  {% else %}
+    <meta property="og:image" content="{{ site.logo | absolute_url }}">
+    <meta property="twitter:image" content="{{ site.logo | absolute_url }}">
+  {% endif %}
   
   <!-- Twitter -->
   <meta property="twitter:card" content="summary_large_image">
   <meta property="twitter:url" content="{{ page.url | absolute_url }}">
   <meta property="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
   <meta property="twitter:description" content="{{ meta_description }}">
-  <meta property="twitter:image" content="{{ site.logo | absolute_url }}">
 
   <!-- Google Analytics -->
   {% if jekyll.environment == "production" %}

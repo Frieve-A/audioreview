@@ -5,7 +5,11 @@ Usage: {% include social_share.html %}
 
 {% assign page_title = page.title %}
 {% assign page_url = page.url | absolute_url %}
-{% assign page_description = page.summary | default: site.description %}
+{% if page.summary %}
+  {% assign page_description = page.summary %}
+{% else %}
+  {% assign page_description = site.data.strings[page.lang].seo_description %}
+{% endif %}
 
 <div class="social-share">
   <!-- Twitter/X Share Button -->
