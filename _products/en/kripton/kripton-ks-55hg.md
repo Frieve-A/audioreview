@@ -19,7 +19,7 @@ The Kripton KS-55HG is an active speaker that supports 96kHz/24bit wireless play
 
 $$ \Large \text{0.5} $$
 
-The claimed frequency response of 70Hz-60kHz is wideband for a compact speaker, but the low-frequency limit of 70Hz is a physical constraint due to the enclosure size. Since the manufacturer has not published specific measurement data such as THD+N, SNR, or crosstalk, an objective audio quality evaluation is difficult. While 96kHz/24bit wireless transmission via LDAC and aptX Adaptive is a scientifically valid technology, it is unclear whether the speaker's own playback capability reaches the transparent level defined in our measurement criteria table. The 35W×4 output is sufficient for desktop use, but the overall measured performance is presumed to be average.
+The claimed frequency response of 70Hz-60kHz is wideband for a compact speaker, but the low-frequency limit of 70Hz is a physical constraint due to the enclosure size. Since the manufacturer has not published specific measurement data such as THD+N, SNR, or crosstalk, an objective audio quality evaluation is difficult. While 96kHz/24bit wireless transmission via LDAC and aptX Adaptive is a scientifically valid technology, it is unclear whether the speaker's own playback capability reaches transparent levels. The 35W×4 output is sufficient for desktop use, but the overall measured performance is presumed to be average.
 
 ## Technology Level
 

@@ -19,7 +19,7 @@ The Topping E4X4-PRE is a 4-input, 4-output USB audio interface developed by Chi
 
 $$ \Large \text{0.9} $$
 
-The measurement performance is extremely excellent, achieving THD+N -110dB (0.0003%), S/N ratio 115dB, frequency response 20Hz-40kHz (±0.2dB), and crosstalk -140dB for microphone inputs. Line inputs/outputs and headphone outputs similarly achieve performance levels far exceeding transparency, making auditory degradation virtually undetectable. The dynamic range of 115-118dB significantly surpasses the transparent level (105dB or higher) in our measurement criteria table, and crosstalk performance of -120 to -140dB is extremely good. These measured values demonstrate that the device almost perfectly achieves the transparency scientifically required of an audio interface and can be rated very highly.
+The measurement performance is extremely excellent, achieving THD+N -110dB (0.0003%), S/N ratio 115dB, frequency response 20Hz-40kHz (±0.2dB), and crosstalk -140dB for microphone inputs. Line inputs/outputs and headphone outputs similarly achieve performance levels far exceeding transparency, making auditory degradation virtually undetectable. The dynamic range of 115-118dB significantly surpasses the transparent level (105dB or higher), and crosstalk performance of -120 to -140dB is extremely good. These measured values demonstrate that the device almost perfectly achieves the transparency scientifically required of an audio interface and can be rated very highly.
 
 ## Technology Level
 

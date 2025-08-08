@@ -8,10 +8,9 @@ ref: denso-ten-td-m1
 date: 2025-08-07
 rating: [2.2, 0.5, 0.4, 0.7, 0.2, 0.4]
 summary: "A wireless desktop speaker discontinued in 2016. While it features a unique single-driver design, it lacks technical superiority compared to current products, and its pricing in the hard-to-find used market is not reasonable."
-tags: [Wireless Speaker, Desktop Audio, Discontinued Product, Single Driver]
+tags: [Desktop, Discontinued Product, Single Driver, Wireless Speaker]
 permalink: /products/en/denso-ten-td-m1/
 ---
-
 ## Overview
 
 The DENSO TEN Eclipse TD-M1 is a wireless desktop speaker system launched in 2014 and discontinued in 2016. It features an egg-shaped enclosure with an 80mm single driver and supports wireless connectivity via Wi-Fi and AirPlay. The initial launch price was 1,299 USD, revised to 999 USD before discontinuation in 2016. It is now listed as a discontinued product on the official website, making new units unavailable, with limited circulation in the used market. Used market prices fluctuate significantly around 600-700 USD.

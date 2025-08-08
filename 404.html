@@ -1,0 +1,40 @@
+---
+layout: default
+title: 404
+permalink: /404.html
+lang: en
+---
+
+<section class="error-page">
+  <div class="error-hero">
+    <h1>404</h1>
+    <p class="error-title">{{ site.data.strings[page.lang].not_found_title }}</p>
+    <p class="error-message">{{ site.data.strings[page.lang].not_found_message }}</p>
+  </div>
+
+  <div class="error-actions">
+    <a class="button" href="{% if page.lang %}{{ '/' | append: page.lang | append: '/' | relative_url }}{% else %}{{ '/' | relative_url }}{% endif %}">
+      {% if page.lang %}{{ site.data.strings[page.lang].home }}{% else %}ホーム{% endif %}
+    </a>
+    <a class="button secondary" href="{% if page.lang %}{{ '/products/' | append: page.lang | append: '/' | relative_url }}{% else %}{{ '/products/' | relative_url }}{% endif %}">
+      {% if page.lang %}{{ site.data.strings[page.lang].products }}{% else %}製品一覧{% endif %}
+    </a>
+    <a class="button secondary" href="{% if page.lang %}{{ '/companies/' | append: page.lang | append: '/' | relative_url }}{% else %}{{ '/companies/' | relative_url }}{% endif %}">
+      {% if page.lang %}{{ site.data.strings[page.lang].companies }}{% else %}企業一覧{% endif %}
+    </a>
+  </div>
+</section>
+
+<script>
+// Try to detect language from URL and redirect to localized 404 if needed
+// If the user hits /404.html directly without lang, keep ja as default.
+document.addEventListener('DOMContentLoaded', function() {
+  var path = window.location.pathname;
+  if (path.indexOf('/en/') === 0 && window.siteLanguage !== 'en') {
+    // Redirect to the English 404 within the same URL structure
+    var target = '/404.html'; // GitHub Pages expects this path
+    // No redirect to avoid loop on GitHub Pages. Keep strings by header switcher.
+  }
+});
+</script>
+

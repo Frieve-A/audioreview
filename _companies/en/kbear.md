@@ -19,7 +19,7 @@ KBear is an audio brand established in 2014 by Shenzhen Lingyin Technology Co., 
 
 $$ \Large \text{0.4} $$
 
-An examination of KBear product measurement data reveals performance that falls below or merely meets industry standards on several metrics. The representative KS2 shows standard specifications like 106dB±3dB sensitivity and 16Ω impedance, but its frequency response exhibits variations of approximately ±3dB within the 20Hz-20kHz range. This is close to the "problematic level" in the measurement criteria table and does not achieve the transparent level (±0.5dB). Detailed third-party measurement data for THD, SNR, and crosstalk is also limited. Overall, no clear advantage in measurement performance was confirmed.
+An examination of KBear product measurement data reveals performance that falls below or merely meets industry standards on several metrics. The representative KS2 shows standard specifications like 106dB±3dB sensitivity and 16Ω impedance, but its frequency response exhibits variations of approximately ±3dB within the 20Hz-20kHz range. This is close to the "problematic level" and does not achieve the transparent level (±0.5dB). Detailed third-party measurement data for THD, SNR, and crosstalk is also limited. Overall, no clear advantage in measurement performance was confirmed.
 
 ## Technology Level
 
@@ -43,7 +43,7 @@ KBear provides a 1-year product warranty and has been confirmed to conduct quali
 
 $$ \Large \text{0.5} $$
 
-KBear's design approach advocates providing "cost-effective earphones," showing a rational, price-focused direction. No unscientific claims or occult audio marketing language is observed, and basic measurement specifications are disclosed. However, clear technical initiatives toward achieving the transparent level in the measurement criteria table and explanations of their necessity are insufficient. Efforts toward sound quality improvement based on the latest scientific consensus are also limited, remaining at an industry-standard design philosophy.
+KBear's design approach advocates providing "cost-effective earphones," showing a rational, price-focused direction. No unscientific claims or occult audio marketing language is observed, and basic measurement specifications are disclosed. However, clear technical initiatives toward achieving transparent measurement performance levels and explanations of their necessity are insufficient. Efforts toward sound quality improvement based on the latest scientific consensus are also limited, remaining at an industry-standard design philosophy.
 
 ## Advice
 

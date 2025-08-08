@@ -8,10 +8,9 @@ ref: sonus-faber-venere-signature
 date: 2025-08-07
 rating: [2.9, 0.6, 0.7, 0.2, 0.8, 0.6]
 summary: "3-way floor-standing speaker utilizing traditional Italian craftsmanship. Emphasizes aesthetic design and musical expression but faces challenges in measurement performance and price competitiveness"
-tags: [Floor-standing Speaker, 3-way, Aluminum Driver, Made in Italy]
+tags: [3-Way, Aluminum Driver, Floor-standing Speaker, Made in Italy]
 permalink: /products/en/sonus-faber-venere-signature/
 ---
-
 ## Overview
 
 The Sonus Faber Venere Signature is a 3-way floor-standing speaker crafted by the venerable Italian audio manufacturer. It features a 29mm soft dome tweeter, 150mm midrange driver, and three 180mm aluminum cone woofers, achieving 90dB/W/m sensitivity with a 4Ω nominal impedance. The design philosophy emphasizes musical expressiveness by combining traditional Italian handcraft techniques with modern driver technology. As the flagship model of the Venere series, it aims for beautiful curved cabinet aesthetics and rich tonal expression.

@@ -8,10 +8,9 @@ ref: dali-oberon1
 date: 2025-08-07
 rating: [3.1, 0.6, 0.7, 0.5, 0.6, 0.7]
 summary: "Compact bookshelf speaker providing solid sound quality that exceeds entry-level expectations"
-tags: [Bookshelf Speaker, Passive Speaker, 2-Way, DALI, Denmark]
+tags: [2-Way, Bookshelf speakers, DALI, Denmark, Passive speakers]
 permalink: /products/en/dali-oberon1/
 ---
-
 ## Overview
 
 The DALI Oberon 1 is an entry-level compact bookshelf speaker crafted by DALI, the renowned Danish speaker manufacturer. Featuring a 5.25-inch wood fiber cone woofer and 29mm soft dome tweeter in a 2-way bass reflex design, it achieves a frequency response of 51Hz-26kHz. Advanced technologies derived from higher-tier models are incorporated, including SMC (Soft Magnetic Composite) technology for distortion reduction and wide directivity design.

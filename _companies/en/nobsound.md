@@ -19,7 +19,7 @@ Nobsound is an audio brand operated by Shenzhen Cavins Technology Co., LTD, esta
 
 $$ \Large \text{0.3} $$
 
-Actual measurement data for their flagship NS-DAC3 Pro shows approximately 9x deviation with a measured THD of 0.009% against the specified 0.001%. Its SINAD value of 81dB is also inferior compared to competing products. Products using the TPA3116D2 chip achieve performance close to its theoretical maximum (THD 0.1%, SNR 102dB), but the NS-13G and NS-15G also show discrepancies with measured THD of 0.01% and SNR of 98dB. While the frequency response generally meets the 20Hz-20kHz range, they fail to reach the transparent level in our measurement criteria table (THD 0.01% or below, SNR 105dB or above). Although performance within the audible threshold is achieved, the deviation between specifications and measured values raises concerns about scientific reliability.
+Actual measurement data for their flagship NS-DAC3 Pro shows approximately 9x deviation with a measured THD of 0.009% against the specified 0.001%. Its SINAD value of 81dB is also inferior compared to competing products. Products using the TPA3116D2 chip achieve performance close to its theoretical maximum (THD 0.1%, SNR 102dB), but the NS-13G and NS-15G also show discrepancies with measured THD of 0.01% and SNR of 98dB. While the frequency response generally meets the 20Hz-20kHz range, they fail to reach the transparent level (THD 0.01% or below, SNR 105dB or above). Although performance within the audible threshold is achieved, the deviation between specifications and measured values raises concerns about scientific reliability.
 
 ## Technology Level
 

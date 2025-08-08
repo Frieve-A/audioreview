@@ -19,7 +19,7 @@ The PreSonus PRM1 is a 1/4-inch pre-polarized electret condenser microphone desi
 
 $$ \Large \text{0.5} $$
 
-The PRM1 claims a linear frequency response from 20Hz to 20kHz, with a maximum SPL of 132dB (THD=1%, 1kHz) and an S/N ratio of 70dB. Compared to the measurement criteria table, the S/N ratio falls into the problematic level of 80dB or below. Additionally, it does not reach the transparent level of ±0.5dB, remaining at moderate accuracy for a measurement microphone. The omnidirectional design allowing measurement of both direct and reflected sound is commendable, but higher-tier models are necessary for more precise measurements.
+The PRM1 claims a linear frequency response from 20Hz to 20kHz, with a maximum SPL of 132dB (THD=1%, 1kHz) and an S/N ratio of 70dB. The S/N ratio falls into problematic levels of 80dB or below. Additionally, it does not reach transparent levels of ±0.5dB, remaining at moderate accuracy for a measurement microphone. The omnidirectional design allowing measurement of both direct and reflected sound is commendable, but higher-tier models are necessary for more precise measurements.
 
 ## Technology Level
 

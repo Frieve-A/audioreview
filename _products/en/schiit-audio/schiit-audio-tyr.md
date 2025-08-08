@@ -19,7 +19,7 @@ The Schiit Audio Tyr is a high-performance monoblock power amplifier designed an
 
 $$ \Large \text{0.8} $$
 
-The Tyr achieves transparent level across nearly all indicators in the measurement criteria table. THD+N is below 0.01% (20Hz-20kHz, 200W/8Ω), S/N ratio exceeds 118dB, frequency response is 20Hz-20kHz ±0.1dB, IMD is below 0.01% (CCIR, 200W/8Ω), and damping factor exceeds 200, all meeting transparent level criteria. Stereophile measurements also show it maintains low distortion up to 252W (8Ω) and 360W (4Ω), confirming these measured values are sufficient for scientifically meaningful audio quality improvements.
+The Tyr achieves transparent level across nearly all measurement indicators. THD+N is below 0.01% (20Hz-20kHz, 200W/8Ω), S/N ratio exceeds 118dB, frequency response is 20Hz-20kHz ±0.1dB, IMD is below 0.01% (CCIR, 200W/8Ω), and damping factor exceeds 200, all meeting transparent level criteria. Stereophile measurements also show it maintains low distortion up to 252W (8Ω) and 360W (4Ω), confirming these measured values are sufficient for scientifically meaningful audio quality improvements.
 
 ## Technology Level
 

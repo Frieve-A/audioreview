@@ -20,7 +20,7 @@ PHONON SMB-02 is a professional monitor headphone developed by PHONON, a Japanes
 
 $$ \Large \text{0.5} $$
 
-Comprehensive measurement data disclosure for SMB-02 is extremely limited. While basic frequency response measurements via MiniDSP EARS are partially available, detailed measurement data for THD+N, S/N ratio, crosstalk, dynamic range, and other parameters could not be confirmed. The lack of objective measurement results from third-party institutions makes scientific evaluation against measurement criteria tables difficult. From the published frequency response, variations of approximately ±3dB are observed within the 20Hz-20kHz range, which aligns with standard levels for headphones but does not reach transparent levels (±0.5dB). Important measurement indicators such as THD and S/N ratio remain unknown, making performance verification within the audible range insufficient.
+Comprehensive measurement data disclosure for SMB-02 is extremely limited. While basic frequency response measurements via MiniDSP EARS are partially available, detailed measurement data for THD+N, S/N ratio, crosstalk, dynamic range, and other parameters could not be confirmed. The lack of objective measurement results from third-party institutions makes scientific evaluation difficult. From the published frequency response, variations of approximately ±3dB are observed within the 20Hz-20kHz range, which aligns with standard levels for headphones but does not reach transparent levels (±0.5dB). Important measurement indicators such as THD and S/N ratio remain unknown, making performance verification within the audible range insufficient.
 
 ## Technology Level
 

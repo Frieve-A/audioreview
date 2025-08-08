@@ -8,10 +8,9 @@ ref: genelec-g-two
 date: 2025-08-07
 rating: [2.9, 0.7, 0.6, 0.1, 0.8, 0.7]
 summary: "Finnish Genelec's 4-inch active monitor. Measurement performance is good, but the price is extremely high, about 6-10 times compared to products with equivalent functions. Currently available as G Two B model."
-tags: [Active Speakers, Monitor Speakers, Genelec, Studio Monitors, Desktop Speakers]
+tags: [Active speakers, Desktop Speakers, Genelec, Monitor Speakers, Studio monitors]
 permalink: /products/en/genelec-g-two/
 ---
-
 ## Overview
 
 The Genelec G Two is a 4-inch 2-way active monitor speaker designed and manufactured by the Finnish pro audio manufacturer Genelec. It features a 4.1-inch polypropylene cone woofer and a 0.75-inch metal dome tweeter, each driven by Class D amplifiers. It adopts a die-cast aluminum enclosure, equipped with RCA inputs and adjustment switches for room acoustics. It is intended for a wide range of uses from desktop audio to professional applications. It condenses Genelec's traditional solid design philosophy into a compact enclosure.

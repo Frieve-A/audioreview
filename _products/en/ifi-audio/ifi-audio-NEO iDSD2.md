@@ -19,7 +19,7 @@ The iFi-audio NEO iDSD2 is a desktop DAC/amp that claims to be the world's first
 
 $$ \Large \text{0.8} $$
 
-The measured performance nearly achieves transparency levels. SNR >120dB (transparency level 105dB+), THD+N <0.0015% (transparency level 0.01% or below), and Dynamic Range 120dB (transparency level 105dB+) all clear the transparency benchmarks in the measurement criteria table. While official frequency response information is limited, reviews indicate slight warmth in the low-midrange with good clarity across the full frequency spectrum. These measurement results reach levels that provide meaningful audio quality improvements for human hearing.
+The measured performance nearly achieves transparency levels. SNR >120dB (transparency level 105dB+), THD+N <0.0015% (transparency level 0.01% or below), and Dynamic Range 120dB (transparency level 105dB+) all clear the transparency benchmarks. While official frequency response information is limited, reviews indicate slight warmth in the low-midrange with good clarity across the full frequency spectrum. These measurement results reach levels that provide meaningful audio quality improvements for human hearing.
 
 ## Technology Level
 

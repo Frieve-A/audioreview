@@ -57,7 +57,9 @@ class ReviewValidator:
         # If running from tools directory, adjust the path
         if self.base_path.name == "tools":
             self.base_path = self.base_path.parent
-        self.policy_path = self.base_path / "dev" / "review_policy_v2.md"
+        # Allow switching master policy via environment variable; default to v3
+        policy_rel = os.environ.get("REVIEW_POLICY_FILE", "dev/review_policy_v3.md")
+        self.policy_path = self.base_path / policy_rel
         self.reviews: List[ReviewData] = []
         self.policy_requirements = self._load_policy_requirements()
     
@@ -93,6 +95,7 @@ class ReviewValidator:
             "languages": ["ja", "en"],
             "date_format": r"^\d{4}-\d{2}-\d{2}$",
             "forbidden_symbols": ["$", "\\"],  # Backslash and dollar sign are forbidden
+            "forbidden_terms": ["基準表", "benchmark table", "criteria table"],  # Forbidden terms in content
             "cp_formula_check": True,  # Check CP = cheapest_equivalent_price / target_price
             "cp_max_value": 1.0  # CP must not exceed 1.0
         }
@@ -665,6 +668,41 @@ class ReviewValidator:
         
         return issues
     
+    def validate_forbidden_terms(self, review: ReviewData) -> List[str]:
+        """Check for forbidden terms in content"""
+        issues = []
+        
+        try:
+            with open(review.file_path, 'r', encoding='utf-8') as f:
+                content = f.read()
+            
+            # Extract body content (after front matter)
+            end_match = re.search(r'\n---\n', content)
+            if end_match:
+                body_content = content[end_match.end():]
+            else:
+                body_content = content
+            
+            # Check for forbidden terms
+            for term in self.policy_requirements["forbidden_terms"]:
+                if term in body_content:
+                    # Find line number where the term appears
+                    lines = body_content.split('\n')
+                    for i, line in enumerate(lines, 1):
+                        if term in line:
+                            context_start = max(0, i - 1)
+                            context_end = min(len(lines), i + 1)
+                            context_lines = lines[context_start:context_end]
+                            context = '\n'.join(context_lines).strip()
+                            
+                            issues.append(f"Forbidden term '{term}' detected at line {i}: '{context}' (Please replace with appropriate evaluation levels like '透明レベル', '問題レベル', 'transparent level', 'issue level', instead of using table/chart terminology) Rather than simply replacing strings, we create natural review text that takes context into consideration and does not use prohibited words.")
+                            break  # Only report the first occurrence per term
+            
+        except Exception as e:
+            issues.append(f"Error occurred during forbidden terms validation: {e}")
+        
+        return issues
+    
     def validate_score_consistency_between_languages(self) -> List[str]:
         """Check score consistency between Japanese and English reviews of the same product"""
         issues = []
@@ -752,6 +790,7 @@ class ReviewValidator:
             issues.extend(self.validate_date_consistency(review))
             issues.extend(self.validate_date_range(review))
             issues.extend(self.validate_title_target_name_consistency(review))
+            issues.extend(self.validate_forbidden_terms(review))
             
             review.issues = issues
             self.reviews.append(review)
@@ -834,6 +873,8 @@ class ReviewValidator:
                     category = "Date Range Error"
                 elif "title first part" in issue.lower() or "does not match target_name" in issue.lower():
                     category = "Title Consistency Error"
+                elif "forbidden term" in issue.lower():
+                    category = "Forbidden Terms Policy Violation"
                 else:
                     category = "Other"
                 
@@ -903,7 +944,8 @@ class ReviewValidator:
             "Article end date not found": "11. **Date Consistency Error**: Article must end with date in parentheses (YYYY-MM-DD)",
             "before site launch": "12. **Date Range Error**: Dates must be between site launch date (2025-07-05) and current date",
             "in the future": "12. **Date Range Error**: Dates must be between site launch date (2025-07-05) and current date",
-            "Title first part": "13. **Title Consistency Error**: Title first part must match target_name exactly"
+            "Title first part": "13. **Title Consistency Error**: Title first part must match target_name exactly",
+            "Forbidden term": "14. **Forbidden Terms Policy Violation**: Replace table/chart terminology with appropriate evaluation levels like '透明レベル', '問題レベル', 'transparent level', 'issue level'"
         }
         
         # Get unique recommendations

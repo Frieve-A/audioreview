@@ -19,7 +19,7 @@ AkLIAM is a Chinese audio manufacturer primarily producing portable DACs and hea
 
 $$ \Large \text{0.6} $$
 
-The measurement performance of flagship products achieves industry-average standards. The PD4 Plus dual CS43131 implementation realizes THD+N 0.00015% (116dB) and SNR 121dB, demonstrating near-transparent level performance. The PD5 AK4493SEQ implementation achieves an S/N ratio of 125dB, while the D1 ES9038Q2M implementation can be expected to deliver THD+N around -110dB with proper design. However, performance varies due to implementation design quality, and while achieving transparent levels in the measurement criteria table (SNR 105dB+, THD 0.01% or lower), it does not reach world-class standards. Limited detailed data on output impedance and frequency characteristics constrains a comprehensive transparency evaluation.
+The measurement performance of flagship products achieves industry-average standards. The PD4 Plus dual CS43131 implementation realizes THD+N 0.00015% (116dB) and SNR 121dB, demonstrating near-transparent level performance. The PD5 AK4493SEQ implementation achieves an S/N ratio of 125dB, while the D1 ES9038Q2M implementation can be expected to deliver THD+N around -110dB with proper design. However, performance varies due to implementation design quality, and while achieving transparent levels (SNR 105dB+, THD 0.01% or lower), it does not reach world-class standards. Limited detailed data on output impedance and frequency characteristics constrains a comprehensive transparency evaluation.
 
 ## Technology Level
 

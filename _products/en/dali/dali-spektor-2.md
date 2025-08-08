@@ -8,10 +8,9 @@ ref: dali-spektor-2
 date: 2025-08-07
 rating: [2.7, 0.5, 0.6, 0.3, 0.7, 0.6]
 summary: "DALI's entry-level bookshelf speaker featuring wood fiber cone and lightweight tweeter, though facing significant price disadvantage against equivalent lower-cost alternatives."
-tags: [Bookshelf Speakers, DALI, Passive Speakers, 2-way]
+tags: [2-Way, Bookshelf speakers, DALI, Passive speakers]
 permalink: /products/en/dali-spektor-2/
 ---
-
 ## Overview
 
 The DALI Spektor 2 is an entry-level bookshelf speaker from DALI, the established Danish speaker manufacturer. It features a 2-way bass reflex design with a 5.25-inch wood fiber cone woofer and 1-inch soft dome tweeter, claiming a frequency response of 54Hz-26kHz. The model applies technologies developed for the company's higher-end models to the budget segment and has received recognition overseas, including the What Hi-Fi 2020 Award. The design is characterized by a compact yet substantial 4.2kg cabinet and DALI's signature approach to natural sound reproduction.

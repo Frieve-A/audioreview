@@ -19,7 +19,7 @@ The TRN Shell is a hybrid in-ear monitor (IEM) developed by TRN Audio from China
 
 $$ \Large \text{0.4} $$
 
-Regarding the measurement performance of the TRN Shell, official specifications list a frequency response of 20Hz-20kHz, 16Ω impedance, and 110dB sensitivity, but detailed measurement data for THD (Total Harmonic Distortion), S/N ratio, crosstalk, and dynamic range are not publicly available. While the low 16Ω impedance and high 110dB sensitivity ensure easy driving, these values alone cannot determine sound quality transparency. The impact of the complex crossover design inherent in the hybrid configuration on measurement performance remains unclear, and as a budget-priced product, it is unlikely to reach the transparent levels outlined in the measurement criteria table.
+Regarding the measurement performance of the TRN Shell, official specifications list a frequency response of 20Hz-20kHz, 16Ω impedance, and 110dB sensitivity, but detailed measurement data for THD (Total Harmonic Distortion), S/N ratio, crosstalk, and dynamic range are not publicly available. While the low 16Ω impedance and high 110dB sensitivity ensure easy driving, these values alone cannot determine sound quality transparency. The impact of the complex crossover design inherent in the hybrid configuration on measurement performance remains unclear, and as a budget-priced product, it is unlikely to reach transparent level performance in actual measurements.
 
 ## Technology Level
 

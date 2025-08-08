@@ -19,7 +19,7 @@ ESI Audiotechnik GmbH is an audio equipment manufacturer headquartered in the St
 
 $$ \Large \text{0.4} $$
 
-ESI's current flagship product, the U22 XT, supports a maximum resolution of 24-bit/96kHz, which falls short of the modern standard for audio interfaces (192kHz). Third-party measurement data shows that its key performance indicators, such as dynamic range and THD+N (Total Harmonic Distortion + Noise), do not match competing products in the same price range. While many competitors are achieving performance levels that approach "transparent" values on our measurement criteria table, ESI's products remain at a level closer to "problematic," making it difficult to give them a high rating from a scientific validity perspective.
+ESI's current flagship product, the U22 XT, supports a maximum resolution of 24-bit/96kHz, which falls short of the modern standard for audio interfaces (192kHz). Third-party measurement data shows that its key performance indicators, such as dynamic range and THD+N (Total Harmonic Distortion + Noise), do not match competing products in the same price range. While many competitors are achieving performance levels that approach "transparent" values, ESI's products remain at a level closer to "problematic," making it difficult to give them a high rating from a scientific validity perspective.
 
 ## Technology Level
 

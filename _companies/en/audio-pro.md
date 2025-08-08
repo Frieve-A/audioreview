@@ -20,7 +20,7 @@ Audio-Pro is a Swedish speaker manufacturer founded in 1978. The company is char
 
 $$ \Large \text{0.3} $$
 
-Regarding Audio-Pro's flagship product C10 MKII, while DXOMark measurements show an overall score of 136, verification of detailed technical specifications reveals numerous problems. The frequency response is listed as 60-20,000Hz, but detailed data on actual flatness and distortion rates are not disclosed, making it unclear whether transparency standards are met. The T3+ features a 25W Class D amplifier, but important measurement values such as THD+N, SNR, and IMD are unpublished, preventing scientific verification. DXOMark reviews point out midrange opacity and insufficient high-frequency brightness, making achievement of transparency levels in the measurement criteria table unlikely.
+Regarding Audio-Pro's flagship product C10 MKII, while DXOMark measurements show an overall score of 136, verification of detailed technical specifications reveals numerous problems. The frequency response is listed as 60-20,000Hz, but detailed data on actual flatness and distortion rates are not disclosed, making it unclear whether transparency standards are met. The T3+ features a 25W Class D amplifier, but important measurement values such as THD+N, SNR, and IMD are unpublished, preventing scientific verification. DXOMark reviews point out midrange opacity and insufficient high-frequency brightness, making achievement of transparency levels unlikely.
 
 ## Technology Level
 

@@ -19,7 +19,7 @@ The fx-audio D302J++ is a full-digital amplifier centered around the STMicroelec
 
 $$ \Large \text{0.4} $$
 
-The nominal specification for the STA369BW chip used in this unit is a THD+N of 0.08% (1kHz, 1W, 4Ω). While this figure avoids the "problematic level" (≥0.1%) in our measurement criteria table, it falls far short of the "transparent level" (≤0.01%). The theoretical advantages of a full-digital architecture are not fully realized at this level of implementation. The 15W×2ch output is suitable for near-field small speakers but lacks the power to drive less efficient speakers or fill a large room. The 24bit/192kHz support has weak scientific evidence for providing significant auditory improvement and is largely a marketing point. Overall, from a high-fidelity perspective, it does not meet modern standards.
+The nominal specification for the STA369BW chip used in this unit is a THD+N of 0.08% (1kHz, 1W, 4Ω). While this figure avoids problematic levels (≥0.1%), it falls far short of transparent performance (≤0.01%). The theoretical advantages of a full-digital architecture are not fully realized at this level of implementation. The 15W×2ch output is suitable for near-field small speakers but lacks the power to drive less efficient speakers or fill a large room. The 24bit/192kHz support has weak scientific evidence for providing significant auditory improvement and is largely a marketing point. Overall, from a high-fidelity perspective, it does not meet modern standards.
 
 ## Technology Level
 

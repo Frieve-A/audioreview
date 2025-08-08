@@ -6,12 +6,11 @@ company_id: neumann
 lang: en
 ref: neumann-ndh-30
 date: 2025-08-07
-rating: [4.3, 0.8, 0.8, 1.0, 0.9, 0.9]
+rating: [4.4, 0.8, 0.8, 1.0, 0.9, 0.9]
 summary: "Professional open-back studio headphones. Features excellent measurement performance and design philosophy."
-tags: [Headphones, Open-Back, Studio Monitor, Professional]
+tags: [Headphones, Open-Back, Professional, Studio monitors]
 permalink: /products/en/neumann-ndh-30/
 ---
-
 ## Overview
 
 The Neumann NDH-30 is an open-back studio headphone developed to reproduce the reference sound of the company's studio monitors. Founded in 1928, Neumann has established a worldwide reputation in microphones and studio monitors, and the NDH-30 was introduced in 2022 as the company's first open-back headphone. It features a 38mm dynamic driver with 120Ω impedance and 12Hz-34kHz frequency response. The model received the TEC Award 2023 and has gained high recognition for mixing and mastering applications.

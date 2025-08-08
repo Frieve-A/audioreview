@@ -19,7 +19,7 @@ The dCS Lina Headphone Amplifier is the first standalone headphone amplifier fro
 
 $$ \Large \text{0.7} $$
 
-According to Hi-Fi News measurements, the unit demonstrates excellent THD+N (under 0.0005%) and frequency response (±0.1dB from 20Hz-20kHz), meeting the "transparent level" criteria in our measurement benchmark table for these metrics. However, the amplifier section's S/N ratio is 96.2dB, which, while not problematic, falls short of the transparent level (105dB or higher). Although many aspects of its performance are excellent and pose no significant audible issues, the score is reduced because not all performance metrics are ideal. The extremely low output impedance is beneficial for maintaining signal transparency with a wide variety of headphones.
+According to Hi-Fi News measurements, the unit demonstrates excellent THD+N (under 0.0005%) and frequency response (±0.1dB from 20Hz-20kHz), meeting the "transparent level" criteria for these metrics. However, the amplifier section's S/N ratio is 96.2dB, which, while not problematic, falls short of the transparent level (105dB or higher). Although many aspects of its performance are excellent and pose no significant audible issues, the score is reduced because not all performance metrics are ideal. The extremely low output impedance is beneficial for maintaining signal transparency with a wide variety of headphones.
 
 ## Technology Level
 

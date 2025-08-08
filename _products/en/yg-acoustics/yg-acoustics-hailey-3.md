@@ -8,10 +8,9 @@ ref: yg-acoustics-hailey-3
 date: 2025-08-07
 rating: [3.0, 0.7, 0.8, 0.2, 0.8, 0.5]
 summary: "YG Acoustics' flagship 3-way speaker Hailey 3 excels in precision aluminum machining and phase characteristics, but at 68,000 USD, equivalent performance can be achieved at significantly lower cost through alternative options"
-tags: [Speakers, Floorstanding, 3-way, High-end, Aluminum]
+tags: [3-Way, Aluminum, Floorstanding, High-end, Speakers]
 permalink: /products/en/yg-acoustics-hailey-3/
 ---
-
 ## Overview
 
 The YG Acoustics Hailey 3 is the company's flagship 3-way sealed floorstanding speaker. It features a 10.25-inch woofer, 7.25-inch midrange, and 1-inch tweeter housed in a cabinet precision-machined from aircraft-grade aluminum in-house, achieving excellent phase characteristics of ±5 degrees. The robust 200-pound (approximately 90kg) construction aims to eliminate unwanted resonances for transparent acoustic characteristics. Manufactured by hand in Colorado workshops, it is characterized by sound design based on precise measurements.

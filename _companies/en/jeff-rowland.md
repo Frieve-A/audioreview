@@ -19,7 +19,7 @@ Jeff Rowland Design Group was established in Colorado in 1981 as an American lux
 
 $$ \Large \text{0.7} $$
 
-Jeff Rowland products demonstrate certain measurement performance, but show limitations when viewed against modern standards. Model 625 S2 actual measurement data shows THD+N below 0.001%, S/N ratio 95dB, and damping factor above 200, achieving performance close to transparent levels. Model 925 measurements show THD+N 0.004%, damping factor above 1000. However, compared to modern Hypex NCx500 (THD+N 0.0006%, S/N ratio 137dB), there is a clear 42dB difference especially in S/N ratio, making it definitively inferior in scientific validity. Class-AB products generate significant heat, with Model 625 S2 particularly suffering from high operating temperatures. While reaching transparent levels in the measurement result criteria table, they do not represent world-class performance standards.
+Jeff Rowland products demonstrate certain measurement performance, but show limitations when viewed against modern standards. Model 625 S2 actual measurement data shows THD+N below 0.001%, S/N ratio 95dB, and damping factor above 200, achieving performance close to transparent levels. Model 925 measurements show THD+N 0.004%, damping factor above 1000. However, compared to modern Hypex NCx500 (THD+N 0.0006%, S/N ratio 137dB), there is a clear 42dB difference especially in S/N ratio, making it definitively inferior in scientific validity. Class-AB products generate significant heat, with Model 625 S2 particularly suffering from high operating temperatures. While reaching transparent levels, they do not represent world-class performance standards.
 
 ## Technology Level
 

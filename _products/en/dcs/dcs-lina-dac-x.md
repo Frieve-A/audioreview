@@ -19,7 +19,7 @@ The dCS Lina DAC-X is a network streamer-integrated DAC launched by British high
 
 $$ \Large \text{0.9} $$
 
-The Lina DAC-X achieves transparent-level measurement performance. Total harmonic distortion (THD) is extremely low at 0.00009-0.00017% at 2V output, significantly clearing the transparent level (0.01% or below) in the measurement criteria table. The S/N ratio meets the standard of 105 dB or above with 109.1dB at 2V output and 117.0dB at 6V output. The frequency response achieves ±0.01dB accuracy between 20Hz-20kHz, significantly exceeding the standard of within ±0.5dB. Jitter performance is also maintained at an ultra-low level of approximately 20psec, delivering measurement results that enable completely transparent reproduction for human hearing.
+The Lina DAC-X achieves transparent-level measurement performance. Total harmonic distortion (THD) is extremely low at 0.00009-0.00017% at 2V output, significantly clearing the transparent level (0.01% or below). The S/N ratio meets the standard of 105 dB or above with 109.1dB at 2V output and 117.0dB at 6V output. The frequency response achieves ±0.01dB accuracy between 20Hz-20kHz, significantly exceeding the standard of within ±0.5dB. Jitter performance is also maintained at an ultra-low level of approximately 20psec, delivering measurement results that enable completely transparent reproduction for human hearing.
 
 ## Technology Level
 

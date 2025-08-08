@@ -20,7 +20,7 @@ iitrust CO.,LTD Audio Equipment Division (Earaku) is a Chinese-based audio equip
 
 $$ \Large \text{0.3} $$
 
-The measurement data for the company's products is limited, with published specifications covering only basic parameters. The J132 neck speaker's maximum output of 9W and speaker configuration of 4Ω/3W + 8Ω/1.5W represents typical output levels, but detailed acoustic measurement data such as frequency response, THD, and S/N ratio are not publicly available. While basic functions like IPX5 water resistance and Bluetooth 5.3 support are provided, the transparency of technical specifications directly related to audio quality is low, with insufficient evidence to reach the transparent level of the measurement criteria table. The sound leakage characteristics inherent to neck speakers (audible within approximately 5m) also demonstrate limitations in acoustic design, making them unsuitable for high-fidelity reproduction.
+The measurement data for the company's products is limited, with published specifications covering only basic parameters. The J132 neck speaker's maximum output of 9W and speaker configuration of 4Ω/3W + 8Ω/1.5W represents typical output levels, but detailed acoustic measurement data such as frequency response, THD, and S/N ratio are not publicly available. While basic functions like IPX5 water resistance and Bluetooth 5.3 support are provided, the transparency of technical specifications directly related to audio quality is low, with insufficient evidence to reach the transparent level. The sound leakage characteristics inherent to neck speakers (audible within approximately 5m) also demonstrate limitations in acoustic design, making them unsuitable for high-fidelity reproduction.
 
 ## Technology Level
 

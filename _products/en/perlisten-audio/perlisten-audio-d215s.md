@@ -8,10 +8,9 @@ ref: perlisten-audio-d215s
 date: 2025-08-07
 rating: [3.3, 0.8, 0.8, 0.2, 0.7, 0.8]
 summary: "High-performance dual 15-inch subwoofer that achieved the world's first THX Dominus certification. Measurement performance is extremely excellent, but a significant premium of approximately 4.4 times the price compared to equivalent performance products is a challenge"
-tags: [Subwoofer, THX Certification, Dual Driver, Push-Pull, High-End]
+tags: [Dual Driver, High-end, Push-Pull, Subwoofer, THX Certification]
 permalink: /products/en/perlisten-audio-d215s/
 ---
-
 ## Overview
 
 The Perlisten Audio D215s is a push-pull sealed subwoofer featuring dual 15-inch carbon fiber diaphragms. Despite being developed by a startup company that began operations around 2021, it was created by an engineering team with extensive industry experience and emerged as part of the world's first THX Dominus-certified subwoofer series. It incorporates 3kW RMS output, a 48-bit DSP engine, and a 32-bit ARM Cortex M4 processor to achieve microsecond-level acoustic adjustments. The 92kg HDF cabinet ensures high rigidity with a 3-inch thick front baffle and extensive internal bracing.

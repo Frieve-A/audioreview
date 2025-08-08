@@ -63,6 +63,9 @@ en:
   search_on_amazon: "Search on Amazon"
   # Product categories
   product_categories: "Product Categories"
+  # 404
+  not_found_title: "Page Not Found"
+  not_found_message: "Sorry, we couldn't find the page you were looking for. It may have been moved or deleted."
 
 ja:
   site_title: "Frieve - Audio Review"
@@ -130,3 +133,6 @@ ja:
   search_on_amazon: "Amazonで検索"
   # Product categories
   product_categories: "製品カテゴリごとのレビュー"
+  # 404
+  not_found_title: "ページが見つかりません"
+  not_found_message: "お探しのページは移動または削除された可能性があります。"

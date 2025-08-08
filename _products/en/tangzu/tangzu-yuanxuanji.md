@@ -19,7 +19,7 @@ The Tangzu Yuanxuanji is a 49 USD single dynamic driver IEM released by Chinese 
 
 $$ \Large \text{0.6} $$
 
-The nominal specifications include 16Ω impedance, 105dB sensitivity, and a 20Hz-20kHz frequency response. While the 105dB sensitivity is relatively high, allowing for sufficient volume in typical playback environments, this is a different metric from the Signal-to-Noise Ratio (SNR) that indicates sound fidelity. The manufacturer claims "ultra-low distortion," but specific measurement data for objectively evaluating sound fidelity, such as THD (Total Harmonic Distortion), SNR, and crosstalk, are not publicly available, making scientific verification difficult. The sound wave control effects of topology technology also lack objective data showing significant improvements in the audible range. The ±dB range for frequency response is not specified, preventing confirmation of achieving the transparent level (±0.5dB) in the measurement criteria table.
+The nominal specifications include 16Ω impedance, 105dB sensitivity, and a 20Hz-20kHz frequency response. While the 105dB sensitivity is relatively high, allowing for sufficient volume in typical playback environments, this is a different metric from the Signal-to-Noise Ratio (SNR) that indicates sound fidelity. The manufacturer claims "ultra-low distortion," but specific measurement data for objectively evaluating sound fidelity, such as THD (Total Harmonic Distortion), SNR, and crosstalk, are not publicly available, making scientific verification difficult. The sound wave control effects of topology technology also lack objective data showing significant improvements in the audible range. The ±dB range for frequency response is not specified, preventing confirmation of achieving transparent level performance (±0.5dB) in actual measurements.
 
 ## Technology Level
 
@@ -43,7 +43,7 @@ Tangzu is an emerging manufacturer established in 2021, lacking long-term qualit
 
 $$ \Large \text{0.7} $$
 
-The design philosophy of pursuing "pure and high-fidelity sound quality" represents a rational approach toward achieving transparent levels in the measurement criteria table. Technical efforts based on scientific grounds are evident, including sound wave control through topology technology and resonance suppression via zinc alloy. However, concerns arise regarding the gap between design intentions and results, as transparent level achievement cannot be confirmed in actual measurement data. While no occult claims are observed and the product meets generally expected functions for audio equipment, clearer performance superiority demonstration is needed to provide 49 USD value as a dedicated device.
+The design philosophy of pursuing "pure and high-fidelity sound quality" represents a rational approach toward achieving transparent level performance in actual measurements. Technical efforts based on scientific grounds are evident, including sound wave control through topology technology and resonance suppression via zinc alloy. However, concerns arise regarding the gap between design intentions and results, as transparent level achievement cannot be confirmed in actual measurement data. While no occult claims are observed and the product meets generally expected functions for audio equipment, clearer performance superiority demonstration is needed to provide 49 USD value as a dedicated device.
 
 ## Advice
 

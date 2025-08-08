@@ -20,7 +20,7 @@ Thomann is Europe's largest musical instrument and audio equipment retailer, fou
 
 $$ \Large \text{0.6} $$
 
-The Harley Benton brand audio interface MP-500 supports 192kHz/24bit with THD -93dB (0.002%) and dynamic range of 108dB, clearing the measurement criteria table's transparent level (THD 0.01% or below, dynamic range 105dB or above). The GPA-400 power amplifier's THD below 0.15% and S/N ratio above 90dB approaches problem level, while the HB-20R Combo's THD 0.5% and S/N ratio 75dB is completely at problem level. The MP-500's performance is comparable to the latest digital technology and achieves audibly meaningful quality, but amplifier products have room for improvement.
+The Harley Benton brand audio interface MP-500 supports 192kHz/24bit with THD -93dB (0.002%) and dynamic range of 108dB, clearing the transparent level standards (THD 0.01% or below, dynamic range 105dB or above). The GPA-400 power amplifier's THD below 0.15% and S/N ratio above 90dB approaches problem level, while the HB-20R Combo's THD 0.5% and S/N ratio 75dB is completely at problem level. The MP-500's performance is comparable to the latest digital technology and achieves audibly meaningful quality, but amplifier products have room for improvement.
 
 ## Technology Level
 
@@ -44,7 +44,7 @@ Thomann's support system as a retailer exceeds industry standards. Customers eva
 
 $$ \Large \text{0.7} $$
 
-Thomann's strategy has rationality in terms of "improving accessibility through low prices." Their stance of differentiating against Amazon through specialized knowledge and service is commendable. Harley Benton's technology development direction also shows improvement, with the MP-500 achieving transparent levels in the measurement criteria table (THD -93dB, dynamic range 108dB). However, amplifier products (such as HB-20R Combo) still retain problem-level indicators like THD 0.5% and S/N ratio 75dB, making quality improvement across all products a challenge. Utilization of the latest digital technology is progressing partially.
+Thomann's strategy has rationality in terms of "improving accessibility through low prices." Their stance of differentiating against Amazon through specialized knowledge and service is commendable. Harley Benton's technology development direction also shows improvement, with the MP-500 achieving transparent level standards (THD -93dB, dynamic range 108dB). However, amplifier products (such as HB-20R Combo) still retain problem-level indicators like THD 0.5% and S/N ratio 75dB, making quality improvement across all products a challenge. Utilization of the latest digital technology is progressing partially.
 
 ## Advice
 

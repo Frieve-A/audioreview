@@ -8,10 +8,9 @@ ref: ashidavox
 date: 2025-08-07
 rating: [2.2, 0.5, 0.4, 0.3, 0.7, 0.3]
 summary: "Established in 1942, this veteran audio equipment manufacturer primarily focuses on professional audio equipment. Consumer products are limited, with insufficient disclosure of scientific measurement data."
-tags: [Japanese Manufacturer, Professional Audio, Headphones, Pro Equipment]
+tags: [Headphones, Japan, Pro Equipment, Professional]
 permalink: /companies/en/ashidavox/
 ---
-
 ## Overview
 
 ashidavox is the brand name of Ashida Ongaku Corporation, a Japanese audio equipment manufacturer established in 1942 with over 80 years of history. The company specializes in professional audio equipment used in harsh environments such as construction sites and broadcasting stations, including professional headsets, earphones for security and disaster prevention services, and acoustic signal speakers for visually impaired individuals. In recent years, they have also engaged in ODM/OEM production for domestic audio manufacturers, featuring robust designs that emphasize domestic production. While they offer consumer products like the ST-90-07 headphones, their product lineup is limited.

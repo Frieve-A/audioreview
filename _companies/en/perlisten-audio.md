@@ -8,10 +8,9 @@ ref: perlisten-audio
 date: 2025-08-07
 rating: [3.3, 0.7, 0.8, 0.5, 0.6, 0.7]
 summary: "An American speaker manufacturer utilizing DPC-Array technology and TPCD carbon fiber drivers. The S7t demonstrates excellent measured performance with low THD and flat frequency response, though the R5t faces competition from equivalent-performance alternatives at lower prices."
-tags: [Speakers, USA, High-End Audio]
+tags: [America, High-end, Speakers]
 permalink: /companies/en/perlisten-audio/
 ---
-
 ## Overview
 
 Perlisten Audio is an American speaker manufacturer established in 2016. They design in Verona, Wisconsin, and manufacture in China. Key members include Daniel Roemer and Lars Johansen. The company offers flagship S-series and mid-range R-series products, incorporating proprietary DPC-Array technology and TPCD carbon fiber drivers.

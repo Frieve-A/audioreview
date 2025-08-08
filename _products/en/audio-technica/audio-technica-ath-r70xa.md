@@ -20,7 +20,7 @@ Audio Technica's ATH-R70xa is an open-back reference headphone handcrafted at th
 
 $$ \Large \text{0.8} $$
 
-The frequency response achieves a wide bandwidth of 5Hz-40kHz, and the 470Ω high-impedance design provides good damping characteristics when properly driven by appropriate amplifiers. The open-back design enables natural soundstage reproduction characteristic of this configuration. However, the limited publication of specific measurement data such as THD values below 0.05% and SNR values above 100dB makes detailed comparison verification against the transparency levels in the measurement criteria table (THD below 0.01%, SNR above 105dB) difficult, resulting in point deduction. Current published measurement data suggests it may not quite reach auditory transparency levels.
+The frequency response achieves a wide bandwidth of 5Hz-40kHz, and the 470Ω high-impedance design provides good damping characteristics when properly driven by appropriate amplifiers. The open-back design enables natural soundstage reproduction characteristic of this configuration. However, the limited publication of specific measurement data such as THD values below 0.05% and SNR values above 100dB makes detailed comparison verification against the transparency levels (THD below 0.01%, SNR above 105dB) difficult, resulting in point deduction. Current published measurement data suggests it may not quite reach auditory transparency levels.
 
 ## Technology Level
 

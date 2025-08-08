@@ -19,7 +19,7 @@ The TEAC UD-505 is an integrated audio device combining USB DAC, headphone ampli
 
 $$ \Large \text{0.7} $$
 
-The measurement performance shows excellent results that clear transparency levels. The AK4497 chip configuration achieves specifications of SNR above 110dB and THD 0.002%, which exceed the transparency levels in the measurement criteria table (SNR 105dB or above, THD 0.01% or below). Frequency response and dynamic range also show performance significantly above problem levels, providing scientifically audible sound quality improvements. The dual-mono configuration's left-right independence also contributes to improved crosstalk performance. However, compared to current cutting-edge digital technology standards, it falls within standard performance ranges without reaching world-class levels.
+The measurement performance shows excellent results that clear transparency levels. The AK4497 chip configuration achieves specifications of SNR above 110dB and THD 0.002%, which exceed the transparency level standards (SNR 105dB or above, THD 0.01% or below). Frequency response and dynamic range also show performance significantly above problem levels, providing scientifically audible sound quality improvements. The dual-mono configuration's left-right independence also contributes to improved crosstalk performance. However, compared to current cutting-edge digital technology standards, it falls within standard performance ranges without reaching world-class levels.
 
 ## Technology Level
 
@@ -43,7 +43,7 @@ Reliability and support are at industry standard levels. TEAC is a veteran Japan
 
 $$ \Large \text{0.5} $$
 
-The design philosophy is fundamentally rational but has issues from modern efficiency perspectives. Technical investments with scientific basis for measurement performance improvement, such as dual-mono configuration with AK4497 chips and independent power supply design, are commendable. The analog circuit-focused design approach also has certain rationality as a traditional method. However, at the 1,400 USD price point, compared to modern digital technology-utilizing products that provide equivalent functionality at lower costs, it fails to demonstrate the necessity of existence as a dedicated audio device. While achieving transparency levels in measurement criteria is commendable, questions remain about price-to-effectiveness rationality. Adaptation to current low-cost, high-performance digital technology trends is insufficient.
+The design philosophy is fundamentally rational but has issues from modern efficiency perspectives. Technical investments with scientific basis for measurement performance improvement, such as dual-mono configuration with AK4497 chips and independent power supply design, are commendable. The analog circuit-focused design approach also has certain rationality as a traditional method. However, at the 1,400 USD price point, compared to modern digital technology-utilizing products that provide equivalent functionality at lower costs, it fails to demonstrate the necessity of existence as a dedicated audio device. While achieving transparency levels in measurement performance is commendable, questions remain about price-to-effectiveness rationality. Adaptation to current low-cost, high-performance digital technology trends is insufficient.
 
 ## Advice
 

@@ -19,7 +19,7 @@ Solid State Logic (SSL) is a British professional audio equipment manufacturer e
 
 $$ \Large \text{0.8} $$
 
-The SSL 2+ MKII delivers excellent measurement performance, achieving 119.5dB dynamic range, THD+N -108dB (less than 0.0004%), frequency response ±0.05dB, and output impedance under 1Ω in the headphone amplifier section. The 2025 model SSL 18 achieves 120dB dynamic range, meeting the transparent level in the measurement benchmark table. The adoption of 32bit/192kHz converters enables audibly transparent sound reproduction. The preamp section also achieves 116.5dB dynamic range and -130.5dBu EIN, with no noise floor issues confirmed. These measured values are equivalent to modern high-quality DAC/amplifiers and provide scientifically valid performance improvements.
+The SSL 2+ MKII delivers excellent measurement performance, achieving 119.5dB dynamic range, THD+N -108dB (less than 0.0004%), frequency response ±0.05dB, and output impedance under 1Ω in the headphone amplifier section. The 2025 model SSL 18 achieves 120dB dynamic range, meeting the transparent level standards. The adoption of 32bit/192kHz converters enables audibly transparent sound reproduction. The preamp section also achieves 116.5dB dynamic range and -130.5dBu EIN, with no noise floor issues confirmed. These measured values are equivalent to modern high-quality DAC/amplifiers and provide scientifically valid performance improvements.
 
 ## Technology Level
 

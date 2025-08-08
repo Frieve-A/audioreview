@@ -19,7 +19,7 @@ The Bowers & Wilkins 705 S3 is a bookshelf speaker from the company's 700 series
 
 $$ \Large \text{0.7} $$
 
-According to Stereophile measurements, the 705 S3's frequency response falls within a 50Hz-28kHz ±3dB window, which represents standard performance for speakers. Its THD remains below 1% from 100Hz-22kHz and below 0.5% from 150Hz-20kHz, meeting the standard values in the measurement criteria table for speakers. The sensitivity of 88.9dB/2.83V/m is good, and the impedance maintains above 5 ohms in most frequency bands with a minimum of 3.7 ohms, providing stability. These measured values contribute to transparency in the audible range, though they do not reach industry-leading levels.
+According to Stereophile measurements, the 705 S3's frequency response falls within a 50Hz-28kHz ±3dB window, which represents standard performance for speakers. Its THD remains below 1% from 100Hz-22kHz and below 0.5% from 150Hz-20kHz, meeting the standard values for speakers. The sensitivity of 88.9dB/2.83V/m is good, and the impedance maintains above 5 ohms in most frequency bands with a minimum of 3.7 ohms, providing stability. These measured values contribute to transparency in the audible range, though they do not reach industry-leading levels.
 
 ## Technology Level
 

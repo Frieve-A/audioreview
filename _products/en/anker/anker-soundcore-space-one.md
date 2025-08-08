@@ -19,7 +19,7 @@ The Anker Soundcore Space One is an entry-level active noise canceling (ANC) wir
 
 $$ \Large \text{0.3} $$
 
-The frequency response exhibits a V-shaped profile that significantly deviates from transparent acoustic reproduction. According to RTINGS measurements, it shows boosted bass and treble with attenuated midrange characteristics, resulting in veiled and thin vocals and instruments. This frequency response falls into the "problematic values" category of the measurement criteria table, substantially compromising fidelity to the original audio. While ANC performance demonstrates effectiveness in blocking ambient noise (superior to competitors like Sony WH-CH720N), the overall audio reproduction quality is limited by the frequency response characteristics. LDAC support enables high-resolution audio codec transmission, but the effectiveness is constrained by the driver's inherent frequency response deviations from neutrality.
+The frequency response exhibits a V-shaped profile that significantly deviates from transparent acoustic reproduction. According to RTINGS measurements, it shows boosted bass and treble with attenuated midrange characteristics, resulting in veiled and thin vocals and instruments. This frequency response falls into the problematic values category, substantially compromising fidelity to the original audio. While ANC performance demonstrates effectiveness in blocking ambient noise (superior to competitors like Sony WH-CH720N), the overall audio reproduction quality is limited by the frequency response characteristics. LDAC support enables high-resolution audio codec transmission, but the effectiveness is constrained by the driver's inherent frequency response deviations from neutrality.
 
 ## Technology Level
 

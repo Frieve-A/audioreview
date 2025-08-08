@@ -19,7 +19,7 @@ The Technics SL-G700M2 is a network/Super Audio CD player developed by Technics 
 
 $$ \Large \text{0.8} $$
 
-The THD performance of 0.0006% for SACD and 0.0015% for CD playback significantly exceeds the transparent level threshold of 0.01% from the measurement criteria table. The S/N ratio of 121dB (balanced) and 118dB (unbalanced) for both SACD and CD substantially surpasses the transparent level of 105dB. Dynamic range achieves 110dB for SACD and 98dB for CD, with the former exceeding transparent levels and the latter well above the problematic level of 80dB. While the measured performance is excellent, it does not represent world-class levels across all metrics.
+The THD performance of 0.0006% for SACD and 0.0015% for CD playback significantly exceeds the transparent level threshold of 0.01%. The S/N ratio of 121dB (balanced) and 118dB (unbalanced) for both SACD and CD substantially surpasses the transparent level of 105dB. Dynamic range achieves 110dB for SACD and 98dB for CD, with the former exceeding transparent levels and the latter well above the problematic level of 80dB. While the measured performance is excellent, it does not represent world-class levels across all metrics.
 
 ## Technology Level
 

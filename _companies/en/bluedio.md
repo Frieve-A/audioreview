@@ -20,7 +20,7 @@ Bluedio is a Chinese wireless audio equipment manufacturer founded by James Li i
 
 $$ \Large \text{0.4} $$
 
-Examining the published specifications of main products T2S and T7+, frequency response covers the standard 20Hz-20kHz range, and T2S THD is specified under 0.1%, avoiding problematic levels. However, detailed measurement data from reliable third-party institutions is insufficient, making verification through actual measurements difficult. Audio quality reviews point to "muddy sound due to mid-low frequency bloat" and "narrow staging," indicating low likelihood of reaching the transparency levels in the measurement criteria table. While ANC performance shows -25dB specification values, objective verification data for real-world effectiveness remains limited.
+Examining the published specifications of main products T2S and T7+, frequency response covers the standard 20Hz-20kHz range, and T2S THD is specified under 0.1%, avoiding problematic levels. However, detailed measurement data from reliable third-party institutions is insufficient, making verification through actual measurements difficult. Audio quality reviews point to "muddy sound due to mid-low frequency bloat" and "narrow staging," indicating low likelihood of reaching the transparency levels. While ANC performance shows -25dB specification values, objective verification data for real-world effectiveness remains limited.
 
 ## Technology Level
 

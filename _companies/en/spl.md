@@ -19,7 +19,7 @@ SPL (Sound Performance Lab) is a German audio equipment manufacturer established
 
 $$ \Large \text{0.9} $$
 
-SPL's flagship products demonstrate excellent measurement performance. The Elector preamplifier achieves THD of 0.0001-0.0008% (20Hz-20kHz at 0dBV output), S/N ratio exceeding 135dB, and crosstalk of -108dB (1kHz), significantly surpassing transparency levels. The Performer s900 power amplifier stably delivers 200W into 8Ω and 370W into 4Ω loads, with the proprietary VOLTAiR technology achieving over 8dB improvement in THD (more than 130% improvement) compared to conventional op-amps. Frequency response is flat from 10Hz (-3dB) to 80kHz (-3dB), clearing the transparency levels in measurement criteria tables.
+SPL's flagship products demonstrate excellent measurement performance. The Elector preamplifier achieves THD of 0.0001-0.0008% (20Hz-20kHz at 0dBV output), S/N ratio exceeding 135dB, and crosstalk of -108dB (1kHz), significantly surpassing transparency levels. The Performer s900 power amplifier stably delivers 200W into 8Ω and 370W into 4Ω loads, with the proprietary VOLTAiR technology achieving over 8dB improvement in THD (more than 130% improvement) compared to conventional op-amps. Frequency response is flat from 10Hz (-3dB) to 80kHz (-3dB), clearing the transparency level standards.
 
 ## Technology Level
 

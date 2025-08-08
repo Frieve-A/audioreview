@@ -20,7 +20,7 @@ The 1MORE SonoFlow Pro HQ51 is a wireless ANC headphone released by Chinese comp
 
 $$ \Large \text{0.6} $$
 
-The LDAC support and nominal -42dB ANC performance are scientifically valid in terms of maintaining information during wireless transmission and removing external noise, respectively. The ANC performance, in particular, reaches the ideal level in our criteria table. However, specific measurements for core sound quality metrics like Total Harmonic Distortion (THD) are not published, making the effect of the DLC driver adoption unknown. As the published specs alone cannot guarantee the achievement of a transparent level, we rate it as securing an average level of validity.
+The LDAC support and nominal -42dB ANC performance are scientifically valid in terms of maintaining information during wireless transmission and removing external noise, respectively. The ANC performance, in particular, reaches the ideal level in our transparency standards. However, specific measurements for core sound quality metrics like Total Harmonic Distortion (THD) are not published, making the effect of the DLC driver adoption unknown. As the published specs alone cannot guarantee the achievement of a transparent level, we rate it as securing an average level of validity.
 
 ## Technology Level
 
@@ -44,7 +44,7 @@ $$ \Large \text{0.7} $$
 
 $$ \Large \text{0.8} $$
 
-The design rationally combines scientifically confirmed sound quality improvement technologies: distortion reduction through DLC diaphragm adoption, high-quality wireless transmission via LDAC support, and external noise removal through dual-feed ANC. Technical choices are made toward achieving transparency levels in the measurement criteria table, with occult elements eliminated. The 100-hour long battery life is also a rational design directly linked to practical improvement. The development policy emphasizing balance between price and performance to achieve cost-performance excellence is also commendable.
+The design rationally combines scientifically confirmed sound quality improvement technologies: distortion reduction through DLC diaphragm adoption, high-quality wireless transmission via LDAC support, and external noise removal through dual-feed ANC. Technical choices are made toward achieving transparency levels in our evaluation standards, with occult elements eliminated. The 100-hour long battery life is also a rational design directly linked to practical improvement. The development policy emphasizing balance between price and performance to achieve cost-performance excellence is also commendable.
 
 ## Advice
 

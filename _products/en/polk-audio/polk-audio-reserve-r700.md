@@ -20,7 +20,7 @@ The Polk Audio Reserve R700 is a 3-way tower speaker featuring a 1-inch Pinnacle
 
 $$ \Large \text{0.7} $$
 
-The Reserve R700 demonstrates good measurement performance. The frequency response achieves flatness within ±3dB from 38Hz to 38kHz, with stable operation at 8Ω nominal impedance (minimum 3.6Ω). The measured sensitivity is 88.9dB, showing high consistency with nominal specifications. The low-frequency reproduction capability with 35Hz port tuning reaches good levels according to the measurement criteria table for speaker categories, confirming audible improvement effects. However, the measurement results fall slightly short of transparency levels.
+The Reserve R700 demonstrates good measurement performance. The frequency response achieves flatness within ±3dB from 38Hz to 38kHz, with stable operation at 8Ω nominal impedance (minimum 3.6Ω). The measured sensitivity is 88.9dB, showing high consistency with nominal specifications. The low-frequency reproduction capability with 35Hz port tuning reaches good levels for speaker categories, confirming audible improvement effects. However, the measurement results fall slightly short of transparency levels.
 
 ## Technology Level
 

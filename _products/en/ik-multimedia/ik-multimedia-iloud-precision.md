@@ -19,7 +19,7 @@ IK Multimedia iLoud Precision is a series of active studio monitors developed by
 
 $$ \Large \text{0.8} $$
 
-The nominal specification of ±1dB from 46Hz to 30kHz is an excellent performance that approaches the 'transparent' level in our measurement criteria table. The linear phase response, achieved through DSP control, provides an ideal impulse response, especially above 150Hz, contributing to accurate sound imaging. The built-in ARC room correction function effectively reduces frequency response irregularities caused by the installation environment, enabling reliable monitoring in many real-world use cases. The Total Harmonic Distortion is also kept at a sufficiently low level for a speaker, making it a product with high scientific validity overall.
+The nominal specification of ±1dB from 46Hz to 30kHz is an excellent performance that approaches transparent levels. The linear phase response, achieved through DSP control, provides an ideal impulse response, especially above 150Hz, contributing to accurate sound imaging. The built-in ARC room correction function effectively reduces frequency response irregularities caused by the installation environment, enabling reliable monitoring in many real-world use cases. The Total Harmonic Distortion is also kept at a sufficiently low level for a speaker, making it a product with high scientific validity overall.
 
 ## Technology Level
 

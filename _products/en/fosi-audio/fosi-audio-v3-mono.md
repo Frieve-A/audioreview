@@ -20,7 +20,7 @@ The Fosi Audio V3 Mono is a Class D monoblock power amplifier featuring Texas In
 
 $$ \Large \text{0.8} $$
 
-The measurement performance shows excellent results. THD+N achieves 0.006%, SINAD reaches 101dB (XLR input), and the S/N ratio attains 123dB, all approaching the transparent levels in the measurement criteria table. The THD+N of 0.006% significantly surpasses the ideal value of 0.01% or below. PFFB technology enables a flat frequency response regardless of load impedance and helps maintain a damping factor above 100. The 240W@4Ω and 120W@8Ω output provides sufficient driving capability. However, the degradation of SINAD to 93dB with RCA input compared to the XLR input results in a slight point deduction.
+The measurement performance shows excellent results. THD+N achieves 0.006%, SINAD reaches 101dB (XLR input), and the S/N ratio attains 123dB, all approaching the transparent levels. The THD+N of 0.006% significantly surpasses the ideal value of 0.01% or below. PFFB technology enables a flat frequency response regardless of load impedance and helps maintain a damping factor above 100. The 240W@4Ω and 120W@8Ω output provides sufficient driving capability. However, the degradation of SINAD to 93dB with RCA input compared to the XLR input results in a slight point deduction.
 
 ## Technology Level
 

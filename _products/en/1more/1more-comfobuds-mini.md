@@ -20,7 +20,7 @@ The 1MORE ComfoBuds Mini is an ultra-compact ANC-equipped wireless earphone deve
 
 $$ \Large \text{0.4} $$
 
-The official specifications claim ANC performance of up to 40dB, and third-party measurements have confirmed good noise canceling performance. While achieving the excellent level (30dB or higher) according to the measurement results criteria table, it falls short of industry-leading standards, placing it in the mid-to-upper performance range. Regarding acoustic performance from the 7mm driver, specific numerical data for THD, SNR, and frequency characteristics are not disclosed, making objective evaluation difficult. Physical constraints from miniaturization inevitably affect acoustic performance, and scientifically verifiable sound quality improvement effects are considered limited.
+The official specifications claim ANC performance of up to 40dB, and third-party measurements have confirmed good noise canceling performance. While achieving the excellent level (30dB or higher) according to transparency standards, it falls short of industry-leading standards, placing it in the mid-to-upper performance range. Regarding acoustic performance from the 7mm driver, specific numerical data for THD, SNR, and frequency characteristics are not disclosed, making objective evaluation difficult. Physical constraints from miniaturization inevitably affect acoustic performance, and scientifically verifiable sound quality improvement effects are considered limited.
 
 ## Technology Level
 

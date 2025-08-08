@@ -8,10 +8,9 @@ ref: dali-spektor-1
 date: 2025-08-07
 rating: [3.2, 0.7, 0.5, 0.9, 0.6, 0.5]
 summary: "Danish-manufactured compact bookshelf speaker. Good cost-performance but lacks technological innovation"
-tags: [Bookshelf Speaker, Passive Speaker, Danish Made, Entry Model]
+tags: [Bookshelf speakers, Danish Made, Entry-level, Passive speakers]
 permalink: /products/en/dali-spektor-1/
 ---
-
 ## Overview
 
 The DALI Spektor 1 is a compact bookshelf speaker manufactured by Danish company DALI. Founded in 1983, DALI produces 250,000 speakers annually at their Danish factory and exports to 70 countries worldwide. The Spektor 1 is positioned as an entry-level product in their lineup, featuring a 2-way configuration with wood fiber cone woofer and 21mm soft dome tweeter in a compact 237×140×197mm cabinet. Priced around 400 USD, the product is designed for desktop listening and small room applications.

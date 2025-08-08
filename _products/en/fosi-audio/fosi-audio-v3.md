@@ -19,7 +19,7 @@ The Fosi Audio V3 is a stereo power amplifier equipped with the Texas Instrument
 
 $$ \Large \text{0.9} $$
 
-In detailed measurements by Audio Science Review (ASR), the V3 records an excellent SINAD (Signal-to-noise and distortion ratio) of 102dB into a 4Ω load. This figure significantly surpasses the problematic level and approaches the "transparent" threshold in our measurement criteria table (equivalent to THD+N well below 0.01% or -80dB). Thanks to the PFFB technology, the frequency response is almost perfectly flat from 20Hz to 20kHz, regardless of the connected speaker's impedance. It also delivers ample power, measuring 158W into 4Ω and 88W into 8Ω (at 1% THD+N). While early production units had a polarity inversion issue, this has since been corrected. Overall, it demonstrates exceptionally high scientific validity for its price.
+In detailed measurements by Audio Science Review (ASR), the V3 records an excellent SINAD (Signal-to-noise and distortion ratio) of 102dB into a 4Ω load. This figure significantly surpasses the problematic level and approaches the "transparent" threshold (equivalent to THD+N well below 0.01% or -80dB). Thanks to the PFFB technology, the frequency response is almost perfectly flat from 20Hz to 20kHz, regardless of the connected speaker's impedance. It also delivers ample power, measuring 158W into 4Ω and 88W into 8Ω (at 1% THD+N). While early production units had a polarity inversion issue, this has since been corrected. Overall, it demonstrates exceptionally high scientific validity for its price.
 
 ## Technology Level
 

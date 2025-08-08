@@ -20,7 +20,7 @@ The dCS Vivaldi Apex DAC is a top-tier digital-to-analog converter from the Brit
 
 $$ \Large \text{0.9} $$
 
-According to third-party measurements, the unit's THD+Noise reaches -112dB (approx. 0.00025%), which is a state-of-the-art performance that significantly clears the transparent level of 0.01% in the measurement criteria table. The S/N ratio exceeds 113dB, satisfying the transparent level of 105dB+. Crosstalk is also below -115dB, an extremely excellent separation characteristic far exceeding the -70dB standard. These figures scientifically demonstrate its capability for completely transparent reproduction for human hearing. However, it should be noted that today, comparable or even better measured performance is achieved by far less expensive DACs.
+According to third-party measurements, the unit's THD+Noise reaches -112dB (approx. 0.00025%), which is a state-of-the-art performance that significantly clears the transparent level of 0.01%. The S/N ratio exceeds 113dB, satisfying the transparent level of 105dB+. Crosstalk is also below -115dB, an extremely excellent separation characteristic far exceeding the -70dB standard. These figures scientifically demonstrate its capability for completely transparent reproduction for human hearing. However, it should be noted that today, comparable or even better measured performance is achieved by far less expensive DACs.
 
 ## Technology Level
 

@@ -20,7 +20,7 @@ The Gustard DAC-X30 is a high-performance network streaming DAC featuring four E
 
 $$ \Large \text{0.9} $$
 
-Measurement performance demonstrates excellent results reaching transparent levels. THD+N ≤0.0001% significantly exceeds the transparent standard of below 0.01%, while S/N ratio of 129dB meets the ideal value of 105dB or higher. Frequency response of 20Hz-20kHz ±0.2dB achieves the transparent level of ±0.5dB or better, and channel crosstalk of -139dB far exceeds the standard of -70dB or lower. Dynamic range of 130dB also clears the ideal value of 105dB or higher, with nearly all items in the measurement criteria table reaching transparent levels. The fully balanced configuration with four ES9039SPRO chips and independent power design effectively eliminates distortion and noise in the audible range.
+Measurement performance demonstrates excellent results reaching transparent levels. THD+N ≤0.0001% significantly exceeds the transparent standard of below 0.01%, while S/N ratio of 129dB meets the ideal value of 105dB or higher. Frequency response of 20Hz-20kHz ±0.2dB achieves the transparent level of ±0.5dB or better, and channel crosstalk of -139dB far exceeds the standard of -70dB or lower. Dynamic range of 130dB also clears the ideal value of 105dB or higher, with nearly all measurement parameters reaching transparent levels. The fully balanced configuration with four ES9039SPRO chips and independent power design effectively eliminates distortion and noise in the audible range.
 
 ## Technology Level
 

@@ -19,7 +19,7 @@ The Shure SM7B is a dynamic microphone with a history dating back to the origina
 
 $$ \Large \text{0.3} $$
 
-The frequency response covers the general range of 50Hz-20kHz, but there is room for improvement in terms of transparency. The output level is extremely low at -59dBV, requiring over +60dB of gain, making it heavily dependent on preamp performance. This gain deficiency becomes a practical constraint, causing noise floor elevation in many audio interfaces. Specific THD and SNR values are not published, making an objective evaluation based on these metrics difficult. According to the measurement criteria table, it does not reach the transparency level.
+The frequency response covers the general range of 50Hz-20kHz, but there is room for improvement in terms of transparency. The output level is extremely low at -59dBV, requiring over +60dB of gain, making it heavily dependent on preamp performance. This gain deficiency becomes a practical constraint, causing noise floor elevation in many audio interfaces. Specific THD and SNR values are not published, making an objective evaluation based on these metrics difficult. It does not reach transparency levels.
 
 ## Technology Level
 

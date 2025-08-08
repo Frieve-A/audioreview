@@ -19,7 +19,7 @@ The Apple EarPods with 3.5mm Headphone Plug are wired earphones that Apple has p
 
 $$ \Large \text{0.3} $$
 
-According to measurement data from RTINGS and Reference Audio Analyzer, the EarPods exhibit problems across multiple critical performance indicators. The open-back design limits low-frequency extension (LFE) performance to 70Hz, with sub-bass deficiency of 12dB. This significantly deviates from the measurement criteria table's ideal value of 20Hz-20kHz (±0.5dB). Furthermore, there are serious issues with acoustic characteristic stability based on fit position, with variations reaching up to 6dB in bass regions and 9dB in treble regions. Sensitivity measures 117.7dB SPL/V with impedance at 42.4Ω. While the Total Harmonic Distortion (THD) is acceptable at around 0.18%, achieving truly transparent sound quality remains out of reach.
+According to measurement data from RTINGS and Reference Audio Analyzer, the EarPods exhibit problems across multiple critical performance indicators. The open-back design limits low-frequency extension (LFE) performance to 70Hz, with sub-bass deficiency of 12dB. This significantly deviates from the ideal value of 20Hz-20kHz (±0.5dB). Furthermore, there are serious issues with acoustic characteristic stability based on fit position, with variations reaching up to 6dB in bass regions and 9dB in treble regions. Sensitivity measures 117.7dB SPL/V with impedance at 42.4Ω. While the Total Harmonic Distortion (THD) is acceptable at around 0.18%, achieving truly transparent sound quality remains out of reach.
 
 ## Technology Level
 

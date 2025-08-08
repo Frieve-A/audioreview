@@ -20,7 +20,7 @@ The SoundPeats PearlClip Pro is an open-ear clip-style Bluetooth earphone releas
 
 $$ \Large \text{0.3} $$
 
-According to RTINGS measurements, the open-fit design provides no acoustic isolation performance, and bass is severely limited by physical constraints. Large peaks exist between high and mid-low frequencies, causing voice to sound harsh and honky. THD measurements confirm distortion, and the microphone's THD performance shows unmeasurable problem levels. Frequency response significantly deviates from ±3dB, and even considering the physical constraints of open-ear design, sound quality transparency is not achieved. Multiple indicators falling into the problem level of the measurement result criteria table indicate limited scientific sound quality improvement effects.
+According to RTINGS measurements, the open-fit design provides no acoustic isolation performance, and bass is severely limited by physical constraints. Large peaks exist between high and mid-low frequencies, causing voice to sound harsh and honky. THD measurements confirm distortion, and the microphone's THD performance shows unmeasurable problem levels. Frequency response significantly deviates from ±3dB, and even considering the physical constraints of open-ear design, sound quality transparency is not achieved. Multiple indicators falling into problem levels indicate limited scientific sound quality improvement effects.
 
 ## Technology Level
 

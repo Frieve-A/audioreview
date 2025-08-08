@@ -8,10 +8,9 @@ ref: sennheiser-ie-900
 date: 2025-08-07
 rating: [3.1, 0.8, 0.7, 0.3, 0.6, 0.7]
 summary: "A product with excellent measurement performance as a flagship IEM, but with cost-performance issues."
-tags: [IEM, In-Ear Monitor, Flagship, Dynamic Driver]
+tags: [Dynamic driver, Flagship, In-ear monitors]
 permalink: /products/en/sennheiser-ie-900/
 ---
-
 ## Overview
 
 The Sennheiser IE-900 was announced in 2021 as the company's flagship in-ear monitor. It features a single 7mm dynamic driver with X3R technology, and a precisely machined aluminum housing with three Helmholtz resonator chambers. With a wide frequency response of 5Hz-48kHz and excellent THD performance of 0.05%, it achieves a technically high level. It adopts MMCX connectors for detachable cables and comes with three types of cables: 2.5mm, 3.5mm, and 4.4mm.

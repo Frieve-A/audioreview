@@ -19,7 +19,7 @@ The Denon PMA-390RE is an entry-class integrated amplifier released exclusively 
 
 $$ \Large \text{0.9} $$
 
-Based on Denon's official specifications, the PMA-390RE demonstrates excellent performance that meets modern standards for transparency. The manufacturer reports a Total Harmonic Distortion (THD) of 0.01% (1kHz, at rated output -3dB) and a Signal-to-Noise Ratio (SNR) of 107dB (LINE, Source Direct ON). These figures meet or exceed the transparent level benchmarks from our measurement criteria table (THD ≤ 0.01%, SNR ≥ 105dB). While third-party measurements from sources like Audio Science Review are unavailable, the official data confirms this amplifier's capability to deliver a scientifically clean and accurate signal.
+Based on Denon's official specifications, the PMA-390RE demonstrates excellent performance that meets modern standards for transparency. The manufacturer reports a Total Harmonic Distortion (THD) of 0.01% (1kHz, at rated output -3dB) and a Signal-to-Noise Ratio (SNR) of 107dB (LINE, Source Direct ON). These figures meet or exceed the transparent level benchmarks (THD ≤ 0.01%, SNR ≥ 105dB). While third-party measurements from sources like Audio Science Review are unavailable, the official data confirms this amplifier's capability to deliver a scientifically clean and accurate signal.
 
 ## Technology Level
 

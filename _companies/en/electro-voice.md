@@ -19,7 +19,7 @@ Electro-Voice (EV), founded in 1927, is an established American professional aud
 
 $$ \Large \text{0.6} $$
 
-While the measured performance of flagship products exceeds the industry average, they have not reached transparent levels. The EKX-15P speaker's maximum SPL of 134dB and frequency response of 55Hz-20kHz are practical, but show room for improvement when compared to the latest digital technologies. The RE20 microphone's frequency response of 45-18,000Hz is sufficient for broadcast applications but appears bandwidth-limited compared to modern high-performance condenser microphones. When evaluated against the measurement criteria table, most products fall between problematic and transparent levels, resulting in limited auditory improvement effects.
+While the measured performance of flagship products exceeds the industry average, they have not reached transparent levels. The EKX-15P speaker's maximum SPL of 134dB and frequency response of 55Hz-20kHz are practical, but show room for improvement when compared to the latest digital technologies. The RE20 microphone's frequency response of 45-18,000Hz is sufficient for broadcast applications but appears bandwidth-limited compared to modern high-performance condenser microphones. When evaluated against modern standards, most products fall between problematic and transparent levels, resulting in limited auditory improvement effects.
 
 ## Technology Level
 

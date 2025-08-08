@@ -20,7 +20,7 @@ The Audio-Technica ATH-M60xA is an on-ear professional monitor headphone that us
 
 $$ \Large \text{0.6} $$
 
-Measurement data reveals significant dips around 700Hz and 3kHz, which may affect the tonality of vocals and string instruments. However, channel balance is good, with no reported left-right imbalance issues like those found in the ATH-M50x. Total harmonic distortion (THD) is dominated by second harmonics with fewer odd-order peaks, which is within acceptable range for this price category. The 38Ω impedance design achieves 102dB sensitivity, providing sufficient sound pressure levels from portable devices. However, the frequency response irregularities significantly deviate from the transparent level (±0.5dB) in the measurement criteria table, indicating substantial room for improvement in scientific validity.
+Measurement data reveals significant dips around 700Hz and 3kHz, which may affect the tonality of vocals and string instruments. However, channel balance is good, with no reported left-right imbalance issues like those found in the ATH-M50x. Total harmonic distortion (THD) is dominated by second harmonics with fewer odd-order peaks, which is within acceptable range for this price category. The 38Ω impedance design achieves 102dB sensitivity, providing sufficient sound pressure levels from portable devices. However, the frequency response irregularities significantly deviate from the transparent level (±0.5dB), indicating substantial room for improvement in scientific validity.
 
 ## Technology Level
 
@@ -44,7 +44,7 @@ Audio-Technica has a solid track record as an established manufacturer, and the 
 
 $$ \Large \text{0.3} $$
 
-The weight reduction achieved through the on-ear design change is commendable, but the frequency response issues should have been addressable at the design stage. The low-impedance design for portable device compatibility is rational, but this has resulted in compromises in sound quality. More critically, the pricing strategy is questionable from a consumer benefit perspective, given that multiple products achieve equivalent functionality at lower prices. There is no clear improvement plan toward achieving the transparent level in the measurement criteria table, and some performance aspects have actually regressed compared to the existing M50x. The necessity of existing as dedicated equipment is also limited due to unclear differentiation factors from general-purpose devices, leading to low rationality in design philosophy.
+The weight reduction achieved through the on-ear design change is commendable, but the frequency response issues should have been addressable at the design stage. The low-impedance design for portable device compatibility is rational, but this has resulted in compromises in sound quality. More critically, the pricing strategy is questionable from a consumer benefit perspective, given that multiple products achieve equivalent functionality at lower prices. There is no clear improvement plan toward achieving the transparent level, and some performance aspects have actually regressed compared to the existing M50x. The necessity of existing as dedicated equipment is also limited due to unclear differentiation factors from general-purpose devices, leading to low rationality in design philosophy.
 
 ## Advice
 

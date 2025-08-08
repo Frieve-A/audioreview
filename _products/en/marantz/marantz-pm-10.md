@@ -19,7 +19,7 @@ The Marantz PM-10 is a reference-grade integrated amplifier released in 2016 at 
 
 $$ \Large \text{0.8} $$
 
-The PM-10's measurement performance meets transparent-level standards. THD+N measures 0.005%, significantly clearing the transparent-level threshold (0.01% or below) from the measurement criteria table, while the S/N ratio achieves 111dB (high-level input), exceeding the 105dB threshold. The frequency response covers 5Hz-50kHz, well beyond the audible range, and shows a high damping factor of 500. These specifications are sufficient to achieve transparent acoustic reproduction for human hearing. Third-party measurement data (such as HiFi News reviews and Audio Science Review related measurements) confirm low THD and high output, supporting the evaluation. However, limited availability of detailed third-party measurement data restricts the evaluation.
+The PM-10's measurement performance meets transparent-level standards. THD+N measures 0.005%, significantly clearing the transparent-level threshold (0.01% or below), while the S/N ratio achieves 111dB (high-level input), exceeding the 105dB threshold. The frequency response covers 5Hz-50kHz, well beyond the audible range, and shows a high damping factor of 500. These specifications are sufficient to achieve transparent acoustic reproduction for human hearing. Third-party measurement data (such as HiFi News reviews and Audio Science Review related measurements) confirm low THD and high output, supporting the evaluation. However, limited availability of detailed third-party measurement data restricts the evaluation.
 
 ## Technology Level
 

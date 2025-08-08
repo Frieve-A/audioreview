@@ -19,7 +19,7 @@ The CCZ MC04 Nocturne is a 28USD budget hybrid IEM (In-Ear Monitor) from Chinese
 
 $$ \Large \text{0.7} $$
 
-The CCZ MC04's measurement performance sits at standard levels for budget products. While the nominal specifications list a frequency range of 20Hz-20kHz, impedance of 16Ω±15%, and sensitivity of 105dB±3dB, detailed actual measurement data for THD, SNR, crosstalk, and other parameters are not publicly available. Review information indicates that despite the V-shaped tuning, sibilance is appropriately controlled in the 6kHz and 8kHz regions, and metallic timbre is avoided despite the BA driver implementation. However, achieving transparency levels (±0.5dB frequency response, <0.01% THD, >105dB SNR) appears unlikely, positioning the product between the problematic and transparent levels of the measurement criteria table.
+The CCZ MC04's measurement performance sits at standard levels for budget products. While the nominal specifications list a frequency range of 20Hz-20kHz, impedance of 16Ω±15%, and sensitivity of 105dB±3dB, detailed actual measurement data for THD, SNR, crosstalk, and other parameters are not publicly available. Review information indicates that despite the V-shaped tuning, sibilance is appropriately controlled in the 6kHz and 8kHz regions, and metallic timbre is avoided despite the BA driver implementation. However, achieving transparency levels (±0.5dB frequency response, <0.01% THD, >105dB SNR) appears unlikely, positioning the product between the problematic and transparent levels.
 
 ## Technology Level
 

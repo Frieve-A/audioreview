@@ -19,7 +19,7 @@ The Sunvalley SV-275 is a KT88 push-pull tube power amplifier from Sunvalley, a 
 
 $$ \Large \text{0.1} $$
 
-The measurement performance falls significantly below modern acoustic technology standards. The specified THD of 10% represents a distortion rate 1000 times higher than the transparency level of 0.01% in the measurement criteria table, and 100 times worse than the problematic level of 0.1%. While the 38W+38W output falls within appropriate ranges, 10% THD introduces 10% distortion to the signal, resulting in audibly degraded acoustic reproduction. The frequency response of 5Hz-125kHz covers the standard range, but high distortion severely limits practical utility. Compared to modern digital amplifiers achieving 0.003% THD and 110dB SNR, this represents a more than 3300-fold inferior distortion characteristic by scientific audio quality standards, making it unrecommendable from a master source fidelity perspective.
+The measurement performance falls significantly below modern acoustic technology standards. The specified THD of 10% represents a distortion rate 1000 times higher than transparency levels of 0.01%, and 100 times worse than problematic levels of 0.1%. While the 38W+38W output falls within appropriate ranges, 10% THD introduces 10% distortion to the signal, resulting in audibly degraded acoustic reproduction. The frequency response of 5Hz-125kHz covers the standard range, but high distortion severely limits practical utility. Compared to modern digital amplifiers achieving 0.003% THD and 110dB SNR, this represents a more than 3300-fold inferior distortion characteristic by scientific audio quality standards, making it unrecommendable from a master source fidelity perspective.
 
 ## Technology Level
 

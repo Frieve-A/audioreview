@@ -19,7 +19,7 @@ The Denon DP-3000NE is sold as the company's flagship premium direct-drive turnt
 
 $$ \Large \text{0.3} $$
 
-Measured specifications show a rotation speed deviation of 0.01%, wow and flutter varying from 0.01% to 0.09%, and rumble performance limited to a 70-72.5dB S/N ratio. Particularly problematic is the startup speed stability, requiring approximately 8 platter rotations and fluctuating from 33.4rpm to 33.2rpm before stabilizing at 33.3rpm, according to reports. The rumble performance of 70-72.5dB falls significantly below the transparent level of 105dB or higher in the measurement criteria table, approaching problematic levels. Additionally, the large variation in wow and flutter measurements indicates quality inconsistencies between units that severely undermine scientific validity.
+Measured specifications show a rotation speed deviation of 0.01%, wow and flutter varying from 0.01% to 0.09%, and rumble performance limited to a 70-72.5dB S/N ratio. Particularly problematic is the startup speed stability, requiring approximately 8 platter rotations and fluctuating from 33.4rpm to 33.2rpm before stabilizing at 33.3rpm, according to reports. The rumble performance of 70-72.5dB falls significantly below the transparent level of 105dB or higher, approaching problematic levels. Additionally, the large variation in wow and flutter measurements indicates quality inconsistencies between units that severely undermine scientific validity.
 
 ## Technology Level
 

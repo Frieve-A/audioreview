@@ -8,10 +8,9 @@ ref: perlisten-audio
 date: 2025-08-07
 rating: [3.3, 0.7, 0.8, 0.5, 0.6, 0.7]
 summary: "アメリカのスピーカーメーカーで、DPC-Array技術やTPCD炭素繊維ドライバーを用いた製品を展開しています。S7tは低THDとフラットな周波数特性で優秀な測定性能を示しますが、R5tは同等性能をより安価で実現する競合が存在します。"
-tags: [スピーカー, アメリカ, 高級オーディオ]
+tags: [アメリカ, スピーカー, 高級]
 permalink: /companies/ja/perlisten-audio/
 ---
-
 ## 概要
 
 Perlisten Audioは2016年に設立されたアメリカのスピーカーメーカーです。ウィスコンシン州ベロナで設計し、中国で製造を行っています。主要メンバーはDaniel RoemerとLars Johansenです。同社はフラッグシップのS-seriesとミドルレンジのR-seriesを展開し、独自のDPC-Array技術やTPCD炭素繊維ドライバーなどの要素を採用しています。

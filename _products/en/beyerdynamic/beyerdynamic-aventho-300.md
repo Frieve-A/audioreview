@@ -20,7 +20,7 @@ The Beyerdynamic Aventho 300 is a premium wireless headphone released in 2024 by
 
 $$ \Large \text{0.2} $$
 
-Objective measurements by SoundGuys, using their MDAQS (Multi-Dimensional Audio Quality Scores), recorded a low overall score of 2.5/5. The timbre evaluation showed particularly poor results at 2.1/5, confirming clear issues with frequency response characteristics. Distortion characteristics also fell significantly below expected transparency levels with a score of 2.8/5. Active noise cancellation performance is limited to 67% passive isolation and 80% noise reduction with ANC enabled, clearly inferior compared to industry-leading standards. When compared against measurement criteria tables, multiple indicators fall within problematic ranges, scientifically confirming that audible improvements are limited.
+Objective measurements by SoundGuys, using their MDAQS (Multi-Dimensional Audio Quality Scores), recorded a low overall score of 2.5/5. The timbre evaluation showed particularly poor results at 2.1/5, confirming clear issues with frequency response characteristics. Distortion characteristics also fell significantly below expected transparency levels with a score of 2.8/5. Active noise cancellation performance is limited to 67% passive isolation and 80% noise reduction with ANC enabled, clearly inferior compared to industry-leading standards. When compared against transparency standards, multiple indicators fall within problematic ranges, scientifically confirming that audible improvements are limited.
 
 ## Technology Level
 

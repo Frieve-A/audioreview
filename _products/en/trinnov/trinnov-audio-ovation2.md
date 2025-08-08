@@ -19,7 +19,7 @@ The Trinnov Audio Ovation2 is a professional digital cinema processor developed 
 
 $$ \Large \text{0.9} $$
 
-It records excellent values in measured performance. The A/D conversion specifications of S/N ratio 119dBA and THD+N -103dB significantly exceed the transparent level in the measurement criteria table (S/N ratio 105dB or higher, THD+N 0.01% or lower). Particularly, THD+N -103dB (approximately 0.0007%) is an excellent value that sufficiently falls below the audible threshold. Frequency response is also capable of reproduction within 20Hz-20kHz±0.5dB, showing high scientific validity from the perspective of fidelity to master sources. The measurement results are comparable to the latest digital technology standards.
+It records excellent values in measured performance. The A/D conversion specifications of S/N ratio 119dBA and THD+N -103dB significantly exceed the transparent level standards (S/N ratio 105dB or higher, THD+N 0.01% or lower). Particularly, THD+N -103dB (approximately 0.0007%) is an excellent value that sufficiently falls below the audible threshold. Frequency response is also capable of reproduction within 20Hz-20kHz±0.5dB, showing high scientific validity from the perspective of fidelity to master sources. The measurement results are comparable to the latest digital technology standards.
 
 ## Technology Level
 

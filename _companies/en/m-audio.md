@@ -19,7 +19,7 @@ M-Audio (formerly Midiman) is a business division of inMusic Brands that designs
 
 $$ \Large \text{0.7} $$
 
-M-Audio's flagship AIR 192/4 audio interface achieves specifications of 24-bit/192kHz support, 104dB S/N ratio, 0.003% THD+N, and frequency response of 20Hz-20kHz (+0.1dB), demonstrating performance close to the transparent level in our measurement criteria table. The 104dB S/N ratio approaches the transparent level (105dB or higher), and the 0.003% THD+N falls within the transparent range (0.01% or lower). However, even higher-end models like the AIR 192/14 maintain similar basic measurement performance levels, showing no revolutionary technologies that provide clear audible improvements. While Crystal Preamp and MIDAS-lineage circuit designs ensure sufficient measurement performance for the entry-class category, significant performance improvements utilizing the latest digital technologies have not been achieved.
+M-Audio's flagship AIR 192/4 audio interface achieves specifications of 24-bit/192kHz support, 104dB S/N ratio, 0.003% THD+N, and frequency response of 20Hz-20kHz (+0.1dB), demonstrating performance close to the transparent level. The 104dB S/N ratio approaches the transparent level (105dB or higher), and the 0.003% THD+N falls within the transparent range (0.01% or lower). However, even higher-end models like the AIR 192/14 maintain similar basic measurement performance levels, showing no revolutionary technologies that provide clear audible improvements. While Crystal Preamp and MIDAS-lineage circuit designs ensure sufficient measurement performance for the entry-class category, significant performance improvements utilizing the latest digital technologies have not been achieved.
 
 ## Technology Level
 

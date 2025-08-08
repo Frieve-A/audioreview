@@ -19,7 +19,7 @@ The Polk Audio Reserve R200 is the flagship bookshelf speaker of the Reserve ser
 
 $$ \Large \text{0.7} $$
 
-The frequency response of 51Hz-38kHz falls within acceptable range for bookshelf speakers. Actual measurements confirm low-frequency reproduction down to 51Hz, which rates as standard performance according to the measurement criteria table. The minimum impedance of 3.8 ohms with 86dB sensitivity presents driving challenges and requires appropriate amplification. Total harmonic distortion (THD) from published measurement data is under 0.5%, avoiding the problematic level (0.5% or higher) for speakers but failing to reach the excellent level (0.1% or lower). Real-world reviews report slight harshness in the 800Hz-1kHz frequency band, indicating room for improvement in transparency.
+The frequency response of 51Hz-38kHz falls within acceptable range for bookshelf speakers. Actual measurements confirm low-frequency reproduction down to 51Hz, which rates as standard performance. The minimum impedance of 3.8 ohms with 86dB sensitivity presents driving challenges and requires appropriate amplification. Total harmonic distortion (THD) from published measurement data is under 0.5%, avoiding problematic levels (0.5% or higher) for speakers but failing to reach excellent levels (0.1% or lower). Real-world reviews report slight harshness in the 800Hz-1kHz frequency band, indicating room for improvement in transparency.
 
 ## Technology Level
 

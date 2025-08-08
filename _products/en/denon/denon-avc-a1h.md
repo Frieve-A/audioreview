@@ -20,7 +20,7 @@ The Denon AVC-A1H is the company's flagship AV amplifier and a groundbreaking pr
 
 $$ \Large \text{0.8} $$
 
-The nominal THD+N specification of 0.05% (20Hz-20kHz, 8Ω, 2-channel drive), while not reaching the transparent level (0.01% or below) in our measurement criteria table, sufficiently clears the level where audible issues may arise (0.1% or above). Third-party measurements confirm clean output exceeding 170W with two channels driven, and demonstrate a powerful power supply capable of maintaining over 100W per channel even with all 15 channels driven simultaneously. The published measurement values are close to transparent levels in many areas, indicating that audible distortion that could compromise the master sound source is adequately suppressed.
+The nominal THD+N specification of 0.05% (20Hz-20kHz, 8Ω, 2-channel drive), while not reaching the transparent level (0.01% or below), sufficiently clears the level where audible issues may arise (0.1% or above). Third-party measurements confirm clean output exceeding 170W with two channels driven, and demonstrate a powerful power supply capable of maintaining over 100W per channel even with all 15 channels driven simultaneously. The published measurement values are close to transparent levels in many areas, indicating that audible distortion that could compromise the master sound source is adequately suppressed.
 
 ## Technology Level
 

@@ -19,7 +19,7 @@ The Steinberg UR22C is a 2-input, 2-output USB 3.0 audio interface developed by 
 
 $$ \Large \text{0.6} $$
 
-The UR22C's published specifications achieve THD+N of 0.003% (1kHz, 0dBu output level), a dynamic range of 102dB (A-weighted), and a frequency response of 20Hz-22kHz (±0.5dB). These figures demonstrate performance approaching the transparent level in the measurement criteria table, but show no decisive advantages when compared to competitors in the same price range. When compared to the Focusrite Scarlett 2i2 4th Gen (mic input dynamic range 116dB, THD+N -100dB) and similarly priced products from PreSonus (dynamic range 105dB), it falls short in some indicators. While 32-bit integer support theoretically reduces quantization noise, its audibility in actual music production is limited.
+The UR22C's published specifications achieve THD+N of 0.003% (1kHz, 0dBu output level), a dynamic range of 102dB (A-weighted), and a frequency response of 20Hz-22kHz (±0.5dB). These figures demonstrate performance approaching transparent levels, but show no decisive advantages when compared to competitors in the same price range. When compared to the Focusrite Scarlett 2i2 4th Gen (mic input dynamic range 116dB, THD+N -100dB) and similarly priced products from PreSonus (dynamic range 105dB), it falls short in some indicators. While 32-bit integer support theoretically reduces quantization noise, its audibility in actual music production is limited.
 
 ## Technology Level
 

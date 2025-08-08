@@ -20,7 +20,7 @@ The Polk Audio Monitor XT MXT60 is an entry-level floor standing speaker from th
 
 $$ \Large \text{0.5} $$
 
-The scientific validity of the MXT60 is limited. The low sensitivity of 86dB indicates driving difficulty, making it challenging for many AV receivers to achieve adequate sound pressure levels. While the frequency response is listed as 38Hz-40kHz, the measurement tolerance (±dB) is unclear, preventing verification of actual flatness. Most problematically, the manufacturer provides no objective measurement data for THD, SNR, crosstalk, or other metrics. Without evaluation against the measurement criteria table, it's questionable whether the speaker achieves audibly transparent performance levels. While Hi-Res certification is obtained, this only proves 40kHz reproduction capability and doesn't guarantee improved fidelity in the audible range.
+The scientific validity of the MXT60 is limited. The low sensitivity of 86dB indicates driving difficulty, making it challenging for many AV receivers to achieve adequate sound pressure levels. While the frequency response is listed as 38Hz-40kHz, the measurement tolerance (±dB) is unclear, preventing verification of actual flatness. Most problematically, the manufacturer provides no objective measurement data for THD, SNR, crosstalk, or other metrics. Without proper evaluation criteria, it's questionable whether the speaker achieves audibly transparent performance levels. While Hi-Res certification is obtained, this only proves 40kHz reproduction capability and doesn't guarantee improved fidelity in the audible range.
 
 ## Technology Level
 

@@ -8,10 +8,9 @@ ref: denon-perl-pro-ah-c15pl
 date: 2025-08-07
 rating: [2.7, 0.3, 0.8, 0.4, 0.7, 0.5]
 summary: "High-priced true wireless earbuds featuring personalization technology. Despite advanced individual optimization technology, the product suffers from fundamental acoustic performance issues, failing to justify its price point."
-tags: [True Wireless Earbuds, Noise Cancellation, Personalization Technology, High-End]
+tags: [High-end, Noise Cancellation, Personalization Technology, True Wireless Earbuds]
 permalink: /products/en/denon-perl-pro-ah-c15pl/
 ---
-
 ## Overview
 
 The Denon PerL Pro AH-C15PL is a true wireless earbud developed in partnership with medical technology company Masimo, featuring personalization capabilities. It incorporates 10mm triple-layer titanium dynamic drivers and claims a frequency response of 20Hz-40kHz. Key features include Masimo Adaptive Acoustic Technology (AAT) for individual hearing characteristic measurement and optimization, Qualcomm aptX Lossless support, and adaptive active noise cancellation. The current market price is approximately 35,000 JPY (230 USD), down from the original launch price of 43,000-48,000 JPY (290-325 USD).

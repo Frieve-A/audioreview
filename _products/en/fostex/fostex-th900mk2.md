@@ -44,7 +44,7 @@ Fostex is an established Japanese audio manufacturer founded in 1973 with extens
 
 $$ \Large \text{0.4} $$
 
-The TH900MK2's design philosophy pursues "enjoyable" sound for traditional audiophiles. The V-shaped frequency response emphasizes bass quantity and treble brilliance, clearly prioritizing subjective appeal over scientific transparency. This design approach is non-rational from the perspective of achieving transparency levels in the measurement criteria table. The 9dB peaks at 5.8kHz and 11kHz significantly compromise auditory naturalness. While rational approaches are evident in high-quality material selection and precision manufacturing, the direction is non-rational regarding the most important goal of scientific sound quality improvement, as measurement results demonstrate.
+The TH900MK2's design philosophy pursues "enjoyable" sound for traditional audiophiles. The V-shaped frequency response emphasizes bass quantity and treble brilliance, clearly prioritizing subjective appeal over scientific transparency. This design approach is non-rational from the perspective of achieving transparency levels. The 9dB peaks at 5.8kHz and 11kHz significantly compromise auditory naturalness. While rational approaches are evident in high-quality material selection and precision manufacturing, the direction is non-rational regarding the most important goal of scientific sound quality improvement, as measurement results demonstrate.
 
 ## Advice
 

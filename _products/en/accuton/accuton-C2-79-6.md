@@ -19,7 +19,7 @@ The Accuton C2-79/6 (current model designation: C90-6-079) is a 3.5-inch (approx
 
 $$ \Large \text{0.8} $$
 
-The extremely high stiffness-to-weight ratio of the ceramic material significantly reduces total harmonic distortion (THD) and intermodulation distortion (IMD) compared to conventional paper or plastic materials. The anti-resonant cutout design controls dome resonance around 8kHz, while the ferrofluid-filled FEA-optimized overhung motor design achieves measurable acoustic performance improvements. Catalog specifications including 88.5dB/W/m sensitivity, 120W power rating, and 96Hz resonance frequency are favorable. However, comprehensive third-party measurement data (detailed THD, IMD, and frequency response measurements) is not publicly available, making verification of transparent-level achievement against the measurement criteria table difficult. This limits the scientific validity evaluation.
+The extremely high stiffness-to-weight ratio of the ceramic material significantly reduces total harmonic distortion (THD) and intermodulation distortion (IMD) compared to conventional paper or plastic materials. The anti-resonant cutout design controls dome resonance around 8kHz, while the ferrofluid-filled FEA-optimized overhung motor design achieves measurable acoustic performance improvements. Catalog specifications including 88.5dB/W/m sensitivity, 120W power rating, and 96Hz resonance frequency are favorable. However, comprehensive third-party measurement data (detailed THD, IMD, and frequency response measurements) is not publicly available, making verification of transparent-level achievement difficult. This limits the scientific validity evaluation.
 
 ## Technology Level
 
@@ -43,7 +43,7 @@ Accuton provides a standard 2-year warranty, but the inherent brittleness of cer
 
 $$ \Large \text{0.8} $$
 
-The design philosophy adopts a scientific approach aimed at measurable acoustic performance improvements, representing rational design thinking. It pursues performance improvements in objective metrics such as THD, IMD, and impulse response while eliminating audio myths and subjective evaluations from technical development. The design leveraging ceramic material's physical properties (high rigidity, lightweight, internal damping) clearly demonstrates a rational direction contributing to transparent-level achievement in the measurement criteria table. However, considering the possibility of achieving equivalent performance through alternative materials from a cost-effectiveness perspective, there remain slight questions regarding absolute rationality.
+The design philosophy adopts a scientific approach aimed at measurable acoustic performance improvements, representing rational design thinking. It pursues performance improvements in objective metrics such as THD, IMD, and impulse response while eliminating audio myths and subjective evaluations from technical development. The design leveraging ceramic material's physical properties (high rigidity, lightweight, internal damping) clearly demonstrates a rational direction contributing to transparent-level achievement. However, considering the possibility of achieving equivalent performance through alternative materials from a cost-effectiveness perspective, there remain slight questions regarding absolute rationality.
 
 ## Advice
 

@@ -20,7 +20,7 @@ ASCILAB (Acoustic Science Laboratory) is an emerging speaker manufacturer based 
 
 $$ \Large \text{0.9} $$
 
-ASCILAB's products achieve excellent acoustic performance through design based on measurement data from Klippel NFS. The C6B speaker achieves a maximum SPL of 99dB and low-frequency reproduction capability down to 50Hz (-3dB), receiving high ratings in objective measurements by independent testing organizations such as ASR (Audio Science Review) and Erin's Audio Corner. The low crossover frequency of 1.1kHz is considered technically challenging for 2-way speakers, and its implementation achieves acoustic characteristics comparable to 3-way speakers. It has been confirmed that performance close to the transparent level in the measurement results criteria table is achieved across multiple indicators.
+ASCILAB's products achieve excellent acoustic performance through design based on measurement data from Klippel NFS. The C6B speaker achieves a maximum SPL of 99dB and low-frequency reproduction capability down to 50Hz (-3dB), receiving high ratings in objective measurements by independent testing organizations such as ASR (Audio Science Review) and Erin's Audio Corner. The low crossover frequency of 1.1kHz is considered technically challenging for 2-way speakers, and its implementation achieves acoustic characteristics comparable to 3-way speakers. It has been confirmed that performance close to the transparent level is achieved across multiple indicators.
 
 ## Technology Level
 

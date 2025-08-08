@@ -20,7 +20,7 @@ Earthworks is an American high-performance microphone manufacturer established i
 
 $$ \Large \text{0.8} $$
 
-Earthworks products demonstrate excellent performance in the field of measurement microphones. The M30 achieves extremely flat frequency response from 3Hz-30kHz, and the M50 from 3Hz-50kHz, reaching the transparent level of the measurement results criteria table. The DM20 handles up to 150dB SPL and the SR25 up to 145dB SPL, minimizing distortion in instrument recording. All measurement microphones come with individual frequency response charts and electronic calibration files, ensuring reproducibility in scientific measurements. However, the SR25 instrument recording product has a self-noise of 22dBA, which does not reach the transparent level, indicating room for improvement in some products.
+Earthworks products demonstrate excellent performance in the field of measurement microphones. The M30 achieves extremely flat frequency response from 3Hz-30kHz, and the M50 from 3Hz-50kHz, reaching the transparent level. The DM20 handles up to 150dB SPL and the SR25 up to 145dB SPL, minimizing distortion in instrument recording. All measurement microphones come with individual frequency response charts and electronic calibration files, ensuring reproducibility in scientific measurements. However, the SR25 instrument recording product has a self-noise of 22dBA, which does not reach the transparent level, indicating room for improvement in some products.
 
 ## Technology Level
 
@@ -48,7 +48,7 @@ Earthworks provides reliability above industry standards through high-quality ma
 
 $$ \Large \text{0.9} $$
 
-Earthworks' design philosophy represents an extremely rational approach based on scientific evidence. They emphasize time-domain response optimization, based on the scientifically valid principle that "if the time domain is correct, frequency characteristics automatically become correct." Their focus on measuring and optimizing acoustic impulse response addresses important elements overlooked by other companies, and this approach directly contributes to achieving the transparent level of the measurement results criteria table. They completely eliminate occult claims and thoroughly base product development on objective measurement data, with their stance of not relying on unscientific marketing being highly evaluated. However, the price increases due to specification pursuit that greatly exceeds auditorily transparent levels show some irrational aspects from a practical standpoint.
+Earthworks' design philosophy represents an extremely rational approach based on scientific evidence. They emphasize time-domain response optimization, based on the scientifically valid principle that "if the time domain is correct, frequency characteristics automatically become correct." Their focus on measuring and optimizing acoustic impulse response addresses important elements overlooked by other companies, and this approach directly contributes to achieving transparent measurement performance levels. They completely eliminate occult claims and thoroughly base product development on objective measurement data, with their stance of not relying on unscientific marketing being highly evaluated. However, the price increases due to specification pursuit that greatly exceeds auditorily transparent levels show some irrational aspects from a practical standpoint.
 
 ## Advice
 

@@ -43,7 +43,7 @@ Tanchjimの信頼性・サポートは業界平均水準ですが、改善の余
 
 $$ \Large \text{0.8} $$
 
-Tanchjimの設計思想は科学的根拠に基づいた合理的なアプローチを採用しています。HRTF（Head-Related Transfer Function）を基盤とした target response curve の自社開発、FEAシミュレーションによる cavity 最適化、客観的測定に基づくチューニングなど、主観や感性に依存しない scientific approach を重視しています。「scientific HiFi in-ear earphones」という明確な方向性のもと、ultra-low distortion と natural tonality の実現を目指しており、測定結果基準表の透明レベル達成に寄与する技術開発を継続しています。複数の tuning nozzle や adjustable filter system による customization 対応も、ユーザーの多様なニーズに科学的に対応する合理的な設計思想の表れです。
+Tanchjimの設計思想は科学的根拠に基づいた合理的なアプローチを採用しています。HRTF（Head-Related Transfer Function）を基盤とした target response curve の自社開発、FEAシミュレーションによる cavity 最適化、客観的測定に基づくチューニングなど、主観や感性に依存しない scientific approach を重視しています。「scientific HiFi in-ear earphones」という明確な方向性のもと、ultra-low distortion と natural tonality の実現を目指しており、透明な測定性能レベル達成に寄与する技術開発を継続しています。複数の tuning nozzle や adjustable filter system による customization 対応も、ユーザーの多様なニーズに科学的に対応する合理的な設計思想の表れです。
 
 ## アドバイス
 

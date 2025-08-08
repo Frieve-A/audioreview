@@ -8,10 +8,9 @@ ref: casio
 date: 2025-08-07
 rating: [2.6, 0.5, 0.4, 0.6, 0.7, 0.4]
 summary: "Known as an electronic instrument manufacturer, Casio's audio products are limited to the CP-16 headphones for musical instrument accessories and built-in speaker systems in keyboards. No entry into the general consumer audio market is observed."
-tags: [Electronic Instruments, Headphones, Accessories, AiX, Japanese Manufacturer]
+tags: [Accessories, AiX, Electronic Instruments, Headphones, Japan]
 permalink: /companies/en/casio/
 ---
-
 ## Overview
 
 Casio is a Japanese electronics manufacturer established in 1946, globally known for calculators, wristwatches, and electronic instruments. In the audio field, rather than being an independent audio brand, they manufacture CP-16 headphones as accessories for electronic instruments and provide built-in speaker systems equipped with advanced AiX sound source technology in keyboards and digital pianos. They do not manufacture standalone headphones, speakers, amplifiers, or other general consumer audio products.

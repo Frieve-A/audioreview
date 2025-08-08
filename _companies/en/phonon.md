@@ -20,7 +20,7 @@ PHONON is a Japanese audio brand established in 2010. With the mission of "truly
 
 $$ \Large \text{0.5} $$
 
-PHONON's products have limited published detailed measurement data. While SMB-02 has some frequency response measurements published via MiniDSP EARS, comprehensive measurement data for THD+N, S/N ratio, crosstalk, dynamic range, etc., could not be verified. Scientifically verifiable third-party measurement results are insufficiently published. Objective evaluation against the measurement criteria table is difficult, requiring more transparent performance verification.
+PHONON's products have limited published detailed measurement data. While SMB-02 has some frequency response measurements published via MiniDSP EARS, comprehensive measurement data for THD+N, S/N ratio, crosstalk, dynamic range, etc., could not be verified. Scientifically verifiable third-party measurement results are insufficiently published. Objective evaluation is difficult, requiring more transparent performance verification.
 
 ## Technology Level
 

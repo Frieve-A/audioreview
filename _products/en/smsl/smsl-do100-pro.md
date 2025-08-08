@@ -20,7 +20,7 @@ The SMSL DO100 Pro is a desktop DAC (Digital-to-Analog Converter) released by Ch
 
 $$ \Large \text{0.9} $$
 
-The DO100 Pro's measurement performance is impeccable. With a THD+N of 0.00008% (-122dB), an SNR of 131dB (XLR output), and a dynamic range of 131dB, these values significantly exceed the transparent levels in measurement benchmark tables, achieving completely transparent signal conversion for human hearing. The frequency response is also excellent, staying within ±0.1dB from 20Hz-20kHz, and IMD distortion is kept at a sufficiently low level. Audio Science Review praised it for its "flawless performance" and ranked it among the "top 20 DACs ever measured," warranting an extremely high evaluation for scientific validity.
+The DO100 Pro's measurement performance is impeccable. With a THD+N of 0.00008% (-122dB), an SNR of 131dB (XLR output), and a dynamic range of 131dB, these values significantly exceed transparent levels, achieving completely transparent signal conversion for human hearing. The frequency response is also excellent, staying within ±0.1dB from 20Hz-20kHz, and IMD distortion is kept at a sufficiently low level. Audio Science Review praised it for its "flawless performance" and ranked it among the "top 20 DACs ever measured," warranting an extremely high evaluation for scientific validity.
 
 ## Technology Level
 

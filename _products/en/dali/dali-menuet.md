@@ -8,10 +8,9 @@ ref: dali-menuet
 date: 2025-08-07
 rating: [2.7, 0.4, 0.7, 0.2, 0.8, 0.6]
 summary: "DALI's compact bookshelf speaker Menuet features solid design and build quality from an established Danish manufacturer, but significantly underperforms in cost-performance due to the existence of competing products that deliver equivalent performance at much lower prices."
-tags: [Bookshelf Speaker, DALI, Denmark, 2-Way]
+tags: [2-Way, Bookshelf speakers, DALI, Denmark]
 permalink: /products/en/dali-menuet/
 ---
-
 ## Overview
 
 The DALI Menuet is a compact bookshelf speaker from Danish audio manufacturer DALI (Danish Audiophile Loudspeaker Industries), established in 1983. The company is an established manufacturer that produces 250,000 speakers annually and exports to 70 countries, advocating for "elegant and reliable products" based on Danish industrial design philosophy. The Menuet features a 2-way design with a 114.3mm wood fiber woofer and 28mm soft dome tweeter. The special SE version adopts a fiberglass voice coil former and Mundorf capacitors, developed specifically for the Japanese market.

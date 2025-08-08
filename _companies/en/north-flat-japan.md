@@ -19,7 +19,7 @@ North Flat Japan Co., Ltd. is an audio equipment manufacturer primarily operatin
 
 $$ \Large \text{0.8} $$
 
-The company's flagship products achieve transparent-level measured performance. The DS07 records world-class specifications with THD+N 0.00015%, SNR 125dB, and dynamic range 120dB, while the DAC-SQ3 also excels with THD+N 0.00026% and SNR 115dB. Even entry models like the FX03 achieve THD+N 0.005% and SNR 110dB, and the DAC-X6J realizes distortion below 0.01% and SNR above 105dB, with all products covering the 20Hz-20kHz range. These figures meet transparent-level criteria in measurement standards and are comparable to the latest digital technology benchmarks. Particularly, the DS07 and DAC-SQ3 demonstrate industry-leading measured performance, providing sufficient capability for auditory transparency.
+The company's flagship products achieve transparent-level measured performance. The DS07 records world-class specifications with THD+N 0.00015%, SNR 125dB, and dynamic range 120dB, while the DAC-SQ3 also excels with THD+N 0.00026% and SNR 115dB. Even entry models like the FX03 achieve THD+N 0.005% and SNR 110dB, and the DAC-X6J realizes distortion below 0.01% and SNR above 105dB, with all products covering the 20Hz-20kHz range. These figures meet transparent-level criteria and are comparable to the latest digital technology standards. Particularly, the DS07 and DAC-SQ3 demonstrate industry-leading measured performance, providing sufficient capability for auditory transparency.
 
 ## Technology Level
 

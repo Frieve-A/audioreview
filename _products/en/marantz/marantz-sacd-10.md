@@ -19,7 +19,7 @@ The Marantz SACD-10 is the flagship SACD/CD player in the company's 10 Series co
 
 $$ \Large \text{0.7} $$
 
-Actual measurement data for the SACD-10 shows THD 0.0015%, SNR 104dB, and frequency response 2Hz-20kHz, achieving high measurement performance. These values approach the transparency level benchmarks from our measurement criteria table, confirming audible sound quality improvement effects. The SACDM-3 transport's vibration control and copper shielding for EMI mitigation theoretically contribute to measurement performance improvements. However, DSD256 support and other high-resolution format capabilities offer limited scientific advantages from a practical music content perspective. PCM 384/32 support similarly provides no benefit to human hearing for ultrasonic frequency reproduction above 20kHz.
+Actual measurement data for the SACD-10 shows THD 0.0015%, SNR 104dB, and frequency response 2Hz-20kHz, achieving high measurement performance. These values approach transparency level benchmarks, confirming audible sound quality improvement effects. The SACDM-3 transport's vibration control and copper shielding for EMI mitigation theoretically contribute to measurement performance improvements. However, DSD256 support and other high-resolution format capabilities offer limited scientific advantages from a practical music content perspective. PCM 384/32 support similarly provides no benefit to human hearing for ultrasonic frequency reproduction above 20kHz.
 
 ## Technology Level
 

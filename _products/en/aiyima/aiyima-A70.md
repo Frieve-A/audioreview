@@ -20,7 +20,7 @@ The Aiyima A70 is a Class D stereo amplifier employing the Texas Instruments TPA
 
 $$ \Large \text{0.8} $$
 
-Audio Science Review measurements show 96dB SINAD when using XLR input with 48V 10A power supply, classified in the "excellent" category. SNR reaches 116dB with THD at 0.0015% at 1W, demonstrating superior specifications. Frequency response covers 20Hz-20kHz (±1dB), nearly completely covering the audible range. PFFB technology eliminates load dependency, achieving performance close to the transparent level in the measurement criteria table. However, this peak performance is only achieved with XLR input and 48V 10A power supply combination, with degraded performance when using RCA input.
+Audio Science Review measurements show 96dB SINAD when using XLR input with 48V 10A power supply, classified in the "excellent" category. SNR reaches 116dB with THD at 0.0015% at 1W, demonstrating superior specifications. Frequency response covers 20Hz-20kHz (±1dB), nearly completely covering the audible range. PFFB technology eliminates load dependency, achieving performance close to the transparent level. However, this peak performance is only achieved with XLR input and 48V 10A power supply combination, with degraded performance when using RCA input.
 
 ## Technology Level
 

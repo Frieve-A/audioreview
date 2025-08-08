@@ -19,7 +19,7 @@ The Crown Amcron DC-300A Series II is a professional 2-channel power amplifier r
 
 $$ \Large \text{0.9} $$
 
-The measured performance still reaches transparent levels today. THD shows excellent values of less than 0.001% from 20-400Hz and 0.05% at 20kHz. The S/N ratio of 110dB is adequate by modern standards, and the frequency response is extremely flat at ±0.1dB from DC to 20kHz. IMD characteristics also clear the transparency level in the measurement criteria table at less than 0.01%. These measured values fall well within the range that does not cause audible sound quality degradation, resulting in a high evaluation for scientific validity.
+The measured performance still reaches transparent levels today. THD shows excellent values of less than 0.001% from 20-400Hz and 0.05% at 20kHz. The S/N ratio of 110dB is adequate by modern standards, and the frequency response is extremely flat at ±0.1dB from DC to 20kHz. IMD characteristics also clear the transparency level at less than 0.01%. These measured values fall well within the range that does not cause audible sound quality degradation, resulting in a high evaluation for scientific validity.
 
 ## Technology Level
 

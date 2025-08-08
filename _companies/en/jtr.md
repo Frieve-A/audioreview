@@ -6,12 +6,11 @@ company_id: jtr
 lang: en
 ref: jtr
 date: 2025-08-07
-rating: [3.6, 0.8, 0.7, 0.7, 0.6, 0.7]
+rating: [3.5, 0.8, 0.7, 0.7, 0.6, 0.7]
 summary: "American boutique subwoofer manufacturer specializing in ultra-low frequency output. Excellent measured performance but high pricing, with limitations in support due to small company scale."
-tags: [Subwoofer, American, Home Theater, Bass]
+tags: [America, Bass, Home Theater, Subwoofer]
 permalink: /companies/en/jtr/
 ---
-
 ## Overview
 
 JTR is a small-scale American audio manufacturer operated by Jeff Permanian. The company manufactures high-output subwoofers and speakers primarily for home theater and professional markets, with all products hand-assembled in the United States. JTR is particularly known for its ultra-low frequency high-output capabilities, with the Captivator series using 18-inch drivers as their flagship products. Through the combination of robust construction using Baltic birch plywood instead of MDF and DSP-optimized Class D amplifiers, they achieve excellent measured performance.

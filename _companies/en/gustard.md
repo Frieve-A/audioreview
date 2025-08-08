@@ -19,7 +19,7 @@ Gustard is a Chinese audio equipment manufacturer primarily focused on DAC (Digi
 
 $$ \Large \text{0.8} $$
 
-Gustard's product lineup demonstrates excellent measurement performance approaching transparency levels. The X30 achieves THD+N ≤0.0001%@1kHz with SNR >129dB, the R26 delivers THD+N ≤0.003%@1kHz with SNR >122dB, and the A18 reaches THD+N <0.00015%@1kHz with SNR >126dB. Frequency response is well-controlled at 20Hz-20kHz ±0.2-0.6dB, while crosstalk measures -129dB to -139dB providing adequate channel separation. These figures fall within the transparency level range of the measurement criteria table, offering meaningful audio quality improvements for human hearing. However, even their flagship models don't achieve complete transparency level performance, preventing a perfect score.
+Gustard's product lineup demonstrates excellent measurement performance approaching transparency levels. The X30 achieves THD+N ≤0.0001%@1kHz with SNR >129dB, the R26 delivers THD+N ≤0.003%@1kHz with SNR >122dB, and the A18 reaches THD+N <0.00015%@1kHz with SNR >126dB. Frequency response is well-controlled at 20Hz-20kHz ±0.2-0.6dB, while crosstalk measures -129dB to -139dB providing adequate channel separation. These figures fall within the transparency level range, offering meaningful audio quality improvements for human hearing. However, even their flagship models don't achieve complete transparency level performance, preventing a perfect score.
 
 ## Technology Level
 

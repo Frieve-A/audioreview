@@ -43,7 +43,7 @@ Manufacturing within the United States maintains above industry-average standard
 
 $$ \Large \text{0.8} $$
 
-The company's design philosophy is highly rational, based on scientific approaches. Their stance of pursuing objective sound quality improvement through published measurement data, transparent explanations of engineering methods, and elimination of occult claims is commendable. They clearly explain the technical rationale for adopting discrete designs while also taking appropriate approaches including simple op-amp based products where suitable. Cost efficiency through direct sales models, functional expandability through modular design, and firmware update support represent rational design decisions for modern audio equipment. Their technical approach toward achieving transparency-level standards from the measurement criteria table is consistent, with no unscientific sound quality improvement claims observed.
+The company's design philosophy is highly rational, based on scientific approaches. Their stance of pursuing objective sound quality improvement through published measurement data, transparent explanations of engineering methods, and elimination of occult claims is commendable. They clearly explain the technical rationale for adopting discrete designs while also taking appropriate approaches including simple op-amp based products where suitable. Cost efficiency through direct sales models, functional expandability through modular design, and firmware update support represent rational design decisions for modern audio equipment. Their technical approach toward achieving transparency-level standards is consistent, with no unscientific sound quality improvement claims observed.
 
 ## Advice
 

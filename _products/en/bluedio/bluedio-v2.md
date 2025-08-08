@@ -8,10 +8,9 @@ ref: bluedio-v2
 date: 2025-08-07
 rating: [2.3, 0.5, 0.4, 0.8, 0.3, 0.3]
 summary: "Low-priced Bluetooth headphones claiming 12-driver configuration. Lacks scientific measurement data and questions on rationality of unique configuration. Superior alternatives exist in the same price range."
-tags: [Wireless Headphones, Bluetooth, Over-ear, Budget]
+tags: [Bluetooth, Budget, Over-ear, Wireless headphones]
 permalink: /products/en/bluedio-v2/
 ---
-
 ## Overview
 
 The Bluedio V2 is a Bluetooth over-ear headphone manufactured by Chinese company Bluedio, claiming a 12-driver configuration. It features what the company calls PPS12 proprietary acoustic technology with multiple driver construction and claims durability through an aluminum-titanium alloy body. Priced at approximately 60-69 USD, it positions itself in the budget segment. The headphones offer Bluetooth 5.0 connectivity with up to 18 hours of battery life and weigh 334g. While users occasionally complain about it being "too heavy," the product features bass-heavy sound tuning as its characteristic.
