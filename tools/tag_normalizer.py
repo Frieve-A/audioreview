@@ -377,6 +377,7 @@ normalization_rules_ja = {
     'floor-standing speaker': 'フロアスタンディングスピーカー',
     'floor-standing': 'フロア型スピーカー',
     'floorstanding speakers': 'フロア型スピーカー',
+    'floorstanding speaker': 'フロア型スピーカー',
     'フロアスタンディングスピーカ': 'フロアスタンディングスピーカー',
     'フロア型スピーカー': 'フロアスタンディングスピーカー',
     'in-ear monitor': 'インイヤーモニター',
@@ -403,6 +404,7 @@ normalization_rules_ja = {
     'portable amplifier': 'ポータブルアンプ',
     'streaming amplifier': 'ストリーミングアンプ',
     'usb dac': 'USB DAC',
+    'usb-dac': 'USB DAC',
     'digital audio player': 'デジタルオーディオプレーヤー',
     'portable turntable': 'ポータブルターンテーブル',
     'phono cartridge': 'カートリッジ',
@@ -529,9 +531,11 @@ normalization_rules_ja = {
     'ハイエンドオーディオ': 'ハイエンド',
     'ヴィンテージ': 'ビンテージ',
     '低価格帯': '低価格',
+    'budget audio': '低価格',
     '高価格帯': '高価格',
     'ハイレゾ対応': 'ハイレゾ',
     'Hi-Res Audio': 'ハイレゾ',
+    'Hi-Res': 'ハイレゾ',
     
     # Region - All variations unified
     'usa': 'アメリカ',
@@ -560,6 +564,7 @@ normalization_rules_ja = {
     '中国ブランド': '中国',
     '中華ブランド': '中国',
     '中華オーディオ': '中国',
+    'chinese audio': '中国',
     'canada': 'カナダ',
     'canadian': 'カナダ',
     'taiwan': '台湾',
@@ -579,6 +584,31 @@ normalization_rules_ja = {
     'エントリーモデル': 'エントリークラス',
     'エントリーレベル': 'エントリークラス',
     'headset': 'ヘッドセット',
+
+    # Company
+    'sony': 'ソニー',
+    'panasonic': 'パナソニック',
+    'technics': 'テクニクス',
+    'yamaha': 'ヤマハ',
+    'denon': 'デノン',
+    'marantz': 'マランツ',
+    'pioneer': 'パイオニア',
+    'onkyo': 'オンキヨー',
+    'accuphase': 'アキュフェーズ',
+    'luxman': 'ラックスマン',
+    'esoteric': 'エソテリック',
+    'teac': 'ティアック',
+    'audio-technica': 'オーディオテクニカ',
+    'final': 'ファイナル',
+    'stax': 'スタックス',
+    'fostex': 'フォステクス',
+    'rotel': 'ローテル',
+    'tad': 'タッド',
+    'triode': 'トライオード',
+    'phasemation': 'フェーズメーション',
+    'soulnote': 'ソウルノート',
+    'ortofon': 'オルトフォン',
+
 }
 
 

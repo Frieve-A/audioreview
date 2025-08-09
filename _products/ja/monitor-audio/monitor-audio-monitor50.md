@@ -54,9 +54,9 @@ $$ \Large \text{0.5} $$
 
 1. Naspec（国内代理店）: Monitor 50 製品情報（仕様: 2ウェイ、C-CAM、MMP II、55Hz-30kHz）. `https://naspecaudio.com/maker/monitor-audio/monitor-50/` （参照日: 2025-08-09）
 2. AV Watch: モニターオーディオ「Monitor」シリーズ国内展開の記事（Monitor 50の構成・設計の概要）. `https://av.watch.impress.co.jp/docs/news/1238767.html` （2020-03-25）
-3. Q Acoustics: 3030i 製品ページ（仕様、米国向け想定価格レンジの参考）. `https://www.qacoustics.com/us/3030i-bookshelf-speaker.html` （参照日: 2025-08-09）
+3. Q Acoustics: 3030i 製品ページ（仕様、米国向け想定価格レンジの参考）. `https://www.qacoustics.com/products/3030i-bookshelf-speaker-pair` （参照日: 2025-08-09）
 4. Wharfedale: Diamond 12.1 製品ページ（仕様、受賞情報の参照）. `https://www.wharfedale.co.uk/collections/diamond-12/products/diamond-12-1` （参照日: 2025-08-09）
-5. Audio Science Review: "Edifier MR4 Review (Powered Monitor)"（第三者測定）. `https://www.audiosciencereview.com/forum/index.php?threads/edifier-mr4-review-powered-monitor.33342/` （参照日: 2025-08-09）
-6. Edifier US: MR4 Product Page / Price. `https://www.edifier.com/us/en/speakers/mr4` （参照日: 2025-08-09）
+5. Audio Science Review: "Edifier MR4 Review (Powered Monitor)"（第三者測定）. `https://www.audiosciencereview.com/forum/index.php?threads/edifier-mr4-review-budget-monitor.29068/` （参照日: 2025-08-09）
+6. Edifier US: MR4 Product Page / Price. `https://www.edifier.com/global/p/studio-monitors/mr4` （参照日: 2025-08-09）
 
 (2025.8.9)

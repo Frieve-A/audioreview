@@ -51,7 +51,7 @@ Sonicakeの現行主力と同等機能（アンプモデリング、IR、USBオ�
 
 ## 参考情報
 
-1. Sonicake Official Website — https://sonicake.com/ （参照日: 2025-08-09）
+1. Sonicake Official Website — https://www.sonicake.com/ （参照日: 2025-08-09）
 2. Amazon.com 検索（"Sonicake Matribox II Pro" 実売価格の参考）— https://www.amazon.com/s?k=Sonicake+Matribox+II+Pro （参照日: 2025-08-09）
 3. NUX MG-300 市場価格の参考（Amazon 検索）— https://www.amazon.com/s?k=NUX+MG-300 （参照日: 2025-08-09）
 4. Valeton GP-100 公式 — https://www.valeton.net/products/gp-100 （参照日: 2025-08-09）

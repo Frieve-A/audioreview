@@ -52,7 +52,7 @@ $$ \Large \text{0.2} $$
 
 ## 参考情報
 
-1. Sonicake Official – Sonic Cube II 製品ページ, `https://sonicake.net/product/sonic-cube-ii-2/` （参照日: 2025-08-09）
+1. Sonicake Official – Sonic Cube II 製品ページ, `https://www.sonicake.com/products/sonic-cube-ii` （参照日: 2025-08-09）
 2. Hot Music – SONICAKE SONIC CUBE II 商品ページ（価格・仕様）, `https://hotmusic.jp/products/sonicake-sonic-cube2` （参照日: 2025-08-09）
 3. DTMステーション – 「SONICAKEが8,800円のオーディオインターフェイスSonic Cube II…」記事, `https://www.dtmstation.com/archives/72676.html` （参照日: 2025-08-09）
 

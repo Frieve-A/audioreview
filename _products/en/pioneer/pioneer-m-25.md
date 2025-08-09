@@ -55,9 +55,9 @@ Those considering the Pioneer M-25 should understand that equal-or-better output
 
 [2] Audio-Database.com, "Pioneer M-25," `https://audio-database.com/PIONEER-EXCLUSIVE/amp/m-25-e.html` (accessed: 2025-08-09)
 
-[3] Audio Science Review, "Behringer A800 Amplifier Review and Measurements," `https://www.audiosciencereview.com/forum/index.php?threads/behringer-a800-amplifier-review.11558/` (accessed: 2025-08-09)
+[3] Audio Science Review, "Behringer A800 Amplifier Review and Measurements," `https://www.audiosciencereview.com/forum/index.php?threads/behringer-a800-stereo-amplifier-review.10499/` (accessed: 2025-08-09)
 
-[4] Amazon.co.jp, "Behringer A800 price," `https://www.amazon.co.jp/dp/B07M5S9T5N` (accessed: 2025-08-09)
+[4] Amazon.com, "Behringer A800 price," `https://www.amazon.com/s?k=Behringer+A800` (accessed: 2025-08-09)
 
 [5] aucfan search results, "Pioneer M-25 used prices (Yahoo! Auctions)," `https://aucfan.com/search1/q-pioneer%20m-25/s-ya/` (accessed: 2025-08-09)
 

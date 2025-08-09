@@ -58,6 +58,6 @@ $$ \Large \text{0.7} $$
 
 [3] Sony, "WH-1000XM5" 製品ページ, https://electronics.sony.com/audio/headphones/all-headband-headphones/p/wh1000xm5-b
 
-[4] Bose, "QuietComfort Ultra Headphones" 製品ページ, https://www.bose.com/p/headphones/quietcomfort-ultra-headphones
+[4] Bose, "QuietComfort Ultra Headphones" 製品ページ, https://www.bose.com/p/headphones/bose-quietcomfort-ultra-headphones/QCUH-HEADPHONEARN.html
  
 (2025.8.9)

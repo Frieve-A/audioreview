@@ -828,7 +828,6 @@ a:hover {
 .search-results-header {
   margin-bottom: 20px;
   padding-bottom: 10px;
-  border-bottom: 2px solid #e0e0e0;
 }
 
 .search-results-header h2 {
@@ -904,13 +903,15 @@ a:hover {
   margin-bottom: 10px;
 }
 
-.search-result-item .search-result-tags {
+.search-result-item .search-result-tags,
+.search-result .search-result-tags {
   display: flex;
   flex-wrap: wrap;
   gap: 5px;
 }
 
-.search-result-item .tag {
+.search-result-item .tag,
+.search-result .tag {
   background-color: #f0f0f0;
   color: #333;
   padding: 4px 8px;
@@ -920,7 +921,8 @@ a:hover {
   transition: background-color 0.3s ease;
 }
 
-.search-result-item .tag:hover {
+.search-result-item .tag:hover,
+.search-result .tag:hover {
   background-color: #e0e0e0;
 }
 
@@ -1621,26 +1623,40 @@ a:hover {
   text-decoration: none;
 }
 
+/* Ensure search-button links don't have underlines */
+.search-button,
+.search-button:hover,
+.search-button:focus,
+.search-button:visited,
+.main-content .search-button,
+.main-content .search-button:hover,
+.main-content .search-button:focus,
+.main-content .search-button:visited {
+  text-decoration: none !important;
+}
+
 .search-button.google-search {
-  background-color: #4a7bc8;
-  color: white;
-  border-color: #3a64b0;
+  background-color: #e6eefb;
+  color: #1A1A1A;
+  border-color: #4a7bc8;
 }
 
 .search-button.google-search:hover {
-  background-color: #3a64b0;
-  color: white;
+  background-color: #d6e4fa;
+  color: #1A1A1A;
+  border-color: #3a64b0;
 }
 
 .search-button.amazon-search {
-  background-color: #d18419;
-  color: white;
+  background-color: #f7e4c6;
+  color: #1A1A1A;
   border-color: #bc7315;
 }
 
 .search-button.amazon-search:hover {
-  background-color: #bc7315;
-  color: white;
+  background-color: #f2d59f;
+  color: #1A1A1A;
+  border-color: #bc7315;
 }
 
 .search-icon {

@@ -53,9 +53,9 @@ If you prioritize compact placement with better measured performance and price, 
 
 1. Monitor Audio (Manufacturer): Monitor 50 product information (2-way, C-CAM, MMP II, 55Hz–30kHz). `https://www.monitoraudio.com/` (site structure; legacy page may be archived; specs also reflected by US/UK dealers) (accessed 2025-08-09)
 2. US/UK Dealer (spec reflection of manufacturer data): Typical spec listings for Monitor 50 (25mm C-CAM, 140mm MMP II, 55Hz–30kHz, 87dB, 8Ω). Example: `https://www.safeandsoundhq.com/` (accessed 2025-08-09)
-3. Q Acoustics: 3030i product page (specs; US pricing reference). `https://www.qacoustics.com/us/3030i-bookshelf-speaker.html` (accessed 2025-08-09)
+3. Q Acoustics: 3030i product page (specs; US pricing reference). `https://www.qacoustics.com/products/3030i-bookshelf-speaker-pair` (accessed 2025-08-09)
 4. Wharfedale: Diamond 12.1 product page (specs; awards reference). `https://www.wharfedale.co.uk/collections/diamond-12/products/diamond-12-1` (accessed 2025-08-09)
-5. Audio Science Review: "Edifier MR4 Review (Powered Monitor)" (third‑party measurements). `https://www.audiosciencereview.com/forum/index.php?threads/edifier-mr4-review-powered-monitor.33342/` (accessed 2025-08-09)
-6. Edifier US: MR4 Product Page / Price. `https://www.edifier.com/us/en/speakers/mr4` (accessed 2025-08-09)
+5. Audio Science Review: "Edifier MR4 Review (Powered Monitor)" (third‑party measurements). `https://www.audiosciencereview.com/forum/index.php?threads/edifier-mr4-review-budget-monitor.29068/` (accessed 2025-08-09)
+6. Edifier US: MR4 Product Page / Price. `https://www.edifier.com/global/p/studio-monitors/mr4` (accessed 2025-08-09)
 
 (2025.8.9)

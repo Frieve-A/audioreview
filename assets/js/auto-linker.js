@@ -62,11 +62,11 @@ class AutoLinker {
     // Check if content has already been processed
     if (contentArea.dataset.autoLinked === 'true') return;
 
-    // Process content with repetition until no more links can be added (Step 4 of specification)
-    this.processContentWithRepetition(contentArea);
-
-    // Process reference numbers and URLs in the References section (minimal, non-intrusive addition)
+    // Process References first so raw URLs become <a> tags and are excluded from further auto-linking
     this.processReferences(contentArea);
+
+    // Then process content with repetition until no more links can be added (Step 4 of specification)
+    this.processContentWithRepetition(contentArea);
     
     // Mark as processed
     contentArea.dataset.autoLinked = 'true';
@@ -472,7 +472,13 @@ class AutoLinker {
         const start = match.index;
         const end = urlRegex.lastIndex;
         if (start > lastIndex) fragment.appendChild(document.createTextNode(text.slice(lastIndex, start)));
-        const url = match[0];
+        let url = match[0];
+        let trailingComma = '';
+        // If the matched URL ends with a comma, exclude it from the link and keep the comma as plain text
+        if (url.endsWith(',')) {
+          url = url.slice(0, -1);
+          trailingComma = ',';
+        }
         const a = document.createElement('a');
         a.href = url;
         a.textContent = url;
@@ -480,6 +486,9 @@ class AutoLinker {
         a.rel = 'noopener noreferrer';
         a.className = 'auto-link auto-link-external';
         fragment.appendChild(a);
+        if (trailingComma) {
+          fragment.appendChild(document.createTextNode(trailingComma));
+        }
         lastIndex = end;
       }
       if (lastIndex < text.length) fragment.appendChild(document.createTextNode(text.slice(lastIndex)));

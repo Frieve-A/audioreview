@@ -51,7 +51,7 @@ As independent measurements are scarce, those prioritizing verifiable performanc
 
 ## References
 
-1. Sonicake Official – Sonic Cube II product page, `https://sonicake.net/product/sonic-cube-ii-2/` (accessed 2025-08-09)
+1. Sonicake Official – Sonic Cube II product page, `https://www.sonicake.com/products/sonic-cube-ii` (accessed 2025-08-09)
 2. Hot Music – SONICAKE SONIC CUBE II product listing (price/spec), `https://hotmusic.jp/products/sonicake-sonic-cube2` (accessed 2025-08-09)
 3. DTM Station – Article on Sonic Cube II (JP), `https://www.dtmstation.com/archives/72676.html` (accessed 2025-08-09)
 

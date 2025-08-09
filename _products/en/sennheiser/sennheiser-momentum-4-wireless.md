@@ -57,7 +57,7 @@ This model suits users prioritizing long battery life and overall performance in
 
 [3] Sony, "WH-1000XM5" product page, https://electronics.sony.com/audio/headphones/all-headband-headphones/p/wh1000xm5-b
 
-[4] Bose, "QuietComfort Ultra Headphones" product page, https://www.bose.com/p/headphones/quietcomfort-ultra-headphones
+[4] Bose, "QuietComfort Ultra Headphones" product page, https://www.bose.com/p/headphones/bose-quietcomfort-ultra-headphones/QCUH-HEADPHONEARN.html
  
 (2025-08-09)
 

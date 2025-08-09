@@ -51,7 +51,7 @@ Alternatives with similar user functions (amp modeling, IR, USB audio) can be fo
 
 ## References
 
-1. Sonicake Official Website — https://sonicake.com/ (accessed: 2025-08-09)
+1. Sonicake Official Website — https://www.sonicake.com/ (accessed: 2025-08-09)
 2. Amazon.com search ("Sonicake Matribox II Pro" street price reference) — https://www.amazon.com/s?k=Sonicake+Matribox+II+Pro (accessed: 2025-08-09)
 3. NUX MG-300 price reference (Amazon search) — https://www.amazon.com/s?k=NUX+MG-300 (accessed: 2025-08-09)
 4. Valeton GP-100 Official — https://www.valeton.net/products/gp-100 (accessed: 2025-08-09)

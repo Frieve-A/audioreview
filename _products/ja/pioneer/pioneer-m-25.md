@@ -56,9 +56,9 @@ Pioneer M-25の購入を検討される方は、現行の低価格帯パワー�
 
 [2] Audio-Database.com, "Pioneer M-25," `https://audio-database.com/PIONEER-EXCLUSIVE/amp/m-25-e.html`（参照日: 2025-08-09）
 
-[3] Audio Science Review, "Behringer A800 Amplifier Review and Measurements," `https://www.audiosciencereview.com/forum/index.php?threads/behringer-a800-amplifier-review.11558/`（参照日: 2025-08-09）
+[3] Audio Science Review, "Behringer A800 Amplifier Review and Measurements," `https://www.audiosciencereview.com/forum/index.php?threads/behringer-a800-stereo-amplifier-review.10499/`（参照日: 2025-08-09）
 
-[4] Amazon.co.jp, "Behringer A800 実勢価格," `https://www.amazon.co.jp/dp/B07M5S9T5N`（参照日: 2025-08-09）
+[4] Amazon.co.jp, "Behringer A800 実勢価格," `https://www.amazon.co.jp/s?k=Behringer+A800`（参照日: 2025-08-09）
 
 [5] aucfan（オークファン）検索結果, "Pioneer M-25 中古相場（ヤフオク）," `https://aucfan.com/search1/q-pioneer%20m-25/s-ya/`（参照日: 2025-08-09）
 

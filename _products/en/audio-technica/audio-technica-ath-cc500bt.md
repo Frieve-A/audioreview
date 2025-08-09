@@ -1,7 +1,7 @@
 ---
 layout: product
-title: "audio-technica ATH-CC500BT Product Review"
-target_name: "audio-technica ATH-CC500BT"
+title: "Audio-Technica ATH-CC500BT Product Review"
+target_name: "Audio-Technica ATH-CC500BT"
 company_id: audio-technica
 lang: en
 ref: audio-technica-ath-cc500bt

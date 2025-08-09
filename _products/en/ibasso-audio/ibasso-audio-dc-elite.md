@@ -19,15 +19,15 @@ The iBasso Audio DC-Elite is a USB DAC/amplifier dongle that miniaturizes the de
 
 $$ \Large \text{0.8} $$
 
-We add the key manufacturer-claimed numeric specs and will prioritize credible third-party measurements when available [5].
+We add the key manufacturer-claimed numeric specs and will prioritize credible third-party measurements when available [3].
 
-- SNR: 121 dB [5]
-- Dynamic Range: 118 dB [5]
-- Frequency Response: 10 Hz–50 kHz (±0.5 dB) [5]
-- Noise Floor: 3.5 µVrms (at typical volume: <0.9 µV) [5]
-- Output Impedance: SE <0.2 Ω / Bal <0.4 Ω [5]
-- Max Output Voltage: Bal 4.6 Vrms, SE 2.28 Vrms [5]
-- Output example: 162 mW @ 32 Ω (SE) [5]
+- SNR: 121 dB [3]
+- Dynamic Range: 118 dB [3]
+- Frequency Response: 10 Hz–50 kHz (±0.5 dB) [3]
+- Noise Floor: 3.5 µVrms (at typical volume: <0.9 µV) [3]
+- Output Impedance: SE <0.2 Ω / Bal <0.4 Ω [3]
+- Max Output Voltage: Bal 4.6 Vrms, SE 2.28 Vrms [3]
+- Output example: 162 mW @ 32 Ω (SE) [3]
 
 These values align with our transparent-level thresholds for DAC/amps, indicating practical transparency in use.
 
@@ -41,7 +41,7 @@ Adoption of the desktop-class BD34301EKV, full signal path implementation (FPGA�
 
 $$ \Large \text{0.4} $$
 
-Market price is around 449 USD [4]. Comparator: iBasso DC07 Pro at 199 USD [3]. Equivalence rationale: dual 3.5mm/4.4mm outputs, high-resolution support, and catalog SNR/THD+N meeting transparent-level thresholds in practice (manufacturer specs basis) [1][3]. CP calculation: 199 USD ÷ 449 USD = 0.44. The score is set to 0.4 accordingly.
+Market price is around 449 USD. Comparator: iBasso DC07 Pro at 199 USD. Equivalence rationale: dual 3.5mm/4.4mm outputs, high-resolution support, and catalog SNR/THD+N meeting transparent-level thresholds in practice (manufacturer specs basis) [1]. CP calculation: 199 USD ÷ 449 USD = 0.44. The score is set to 0.4 accordingly.
 
 ## Reliability & Support
 
@@ -53,18 +53,16 @@ Warranty and RMA statistics are not sufficiently disclosed; we keep this item at
 
 $$ \Large \text{0.5} $$
 
-Miniaturizing a desktop-class DAC chip into a dongle is a rational approach toward transparency. However, given lower-priced alternatives that reach transparent-level specs and functions, the market rationality of premium pricing is limited [1][3].
+Miniaturizing a desktop-class DAC chip into a dongle is a rational approach toward transparency. However, given lower-priced alternatives that reach transparent-level specs and functions, the market rationality of premium pricing is limited [1].
 
 ## Advice
 
-The DC-Elite offers high-level design and specs, but at 449 USD there are alternatives like DC07 Pro (199 USD) with limited practical differences for most users [1][3][4]. Unless you value the premium DAC chip and attenuator specifically, consider cost-efficient alternatives.
+The DC-Elite offers high-level design and specs, but at 449 USD there are alternatives like DC07 Pro (199 USD) with limited practical differences for most users [1]. Unless you value the premium DAC chip and attenuator specifically, consider cost-efficient alternatives.
 
 ## References
 
 1. Gadgeneko, iBasso Audio DC-Elite review, https://gadgeneko.jp/ibasso-audio-dc-elite-review , accessed: 2025-08-09 (includes manufacturer spec references)
 2. Fujiya Avic, DC-Elite article, https://www.fujiya-avic.co.jp/blog/detail/839 , accessed: 2025-08-09
-3. iBasso DC07 Pro product page (price/spec), https://shop.musicteck.com/products/ibasso-dc07-pro , accessed: 2025-08-09
-4. iBasso DC-Elite product page (price/spec), https://shop.musicteck.com/products/ibasso-dc-elite , accessed: 2025-08-09
-5. CMSong Navi, DC-Elite spec summary, https://cmsong-navi.com/2023/12/07/ibasso-audio-dc-elite-%E7%89%B9%E5%BE%B4%E3%83%BB%E3%82%B9%E3%83%9A%E3%83%83%E3%82%AF%E7%AD%89-%E3%80%8Cmax%E3%80%8D%E6%8A%80%E8%A1%93%E3%82%92%E8%B8%8F%E8%A5%B2%E3%81%97%E3%81%9F%E3%83%95%E3%83%A9/ , accessed: 2025-08-09
+3. CMSong Navi, DC-Elite spec summary, https://cmsong-navi.com/2023/12/07/ibasso-audio-dc-elite-%E7%89%B9%E5%BE%B4%E3%83%BB%E3%82%B9%E3%83%9A%E3%83%83%E3%82%AF%E7%AD%89-%E3%80%8Cmax%E3%80%8D%E6%8A%80%E8%A1%93%E3%82%92%E8%B8%8F%E8%A5%B2%E3%81%97%E3%81%9F%E3%83%95%E3%83%A9/ , accessed: 2025-08-09
 
 (2025.8.9)
