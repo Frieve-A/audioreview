@@ -31,7 +31,7 @@ S-Logic technology has been developed since 1991, with unique driver positioning
 
 $$ \Large \text{0.2} $$
 
-The company's pricing is high. For example, the Signature MASTER MKII costs approximately 1,000 EUR (around 150,000 JPY), while equivalent performance Sennheiser HD6XX (199 USD/approximately 30,000 JPY) exists. Calculation: 30,000 JPY ÷ 150,000 JPY = 0.20, resulting in extremely poor cost-performance. The limited Edition 15 costs 2,999 USD with 999-unit limitation, but measurement performance is inferior to other products in the same price range. While "Made in Germany" brand value is included, pure performance-to-price ratio is inferior to competitors.
+The company's pricing is high. For example, the Signature MASTER MKII costs approximately 1,000 EUR (around 1,000 USD), while equivalent performance Sennheiser HD6XX (199 USD) exists. Calculation: 199 USD ÷ 1,000 USD = 0.20, resulting in extremely poor cost-performance. The limited Edition 15 costs 2,999 USD with 999-unit limitation, but measurement performance is inferior to other products in the same price range. While "Made in Germany" brand value is included, pure performance-to-price ratio is inferior to competitors.
 
 ## Reliability & Support
 

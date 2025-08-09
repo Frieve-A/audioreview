@@ -14,7 +14,7 @@ permalink: /products/en/denon-sc-cx101/
 
 ## Overview
 
-The Denon SC-CX101 is a compact 2-way bass-reflex bookshelf speaker. It features a 12cm cone-type bass/mid unit and a 2.5cm soft dome tweeter, claiming a frequency response of 45Hz to 40kHz. The speaker incorporates Denon's technologies including DDL (DENON Double Layer) cone and bi-wiring compatibility, but is now a discontinued product. The actual selling price can be found in the used market for approximately 20,000 yen.
+The Denon SC-CX101 is a compact 2-way bass-reflex bookshelf speaker. It features a 12cm cone-type bass/mid unit and a 2.5cm soft dome tweeter, claiming a frequency response of 45Hz to 40kHz. The speaker incorporates Denon's technologies including DDL (DENON Double Layer) cone and bi-wiring compatibility, but is now a discontinued product. The actual selling price can be found in the used market for approximately 133 USD.
 
 ## Scientific Validity
 
@@ -32,7 +32,7 @@ The DDL (DENON Double Layer) cone is a proprietary technology that achieves both
 
 $$ \Large \text{0.8} $$
 
-Against the used market price of approximately 20,000 yen, the Q Acoustics 3010i (approximately 15,000 yen equivalent) with equivalent or superior performance exists as the most affordable comparison target. Calculation: 15,000 yen ÷ 20,000 yen = 0.75, which rounds to a score of 0.8. This product features a 100mm (4-inch) bass driver and 22mm (0.9-inch) tweeter in a 2-way reflex design, providing equivalent compactness and sound quality performance. The evaluation score based on objective calculation results is 0.8.
+Against the used market price of approximately 133 USD, the Q Acoustics 3010i (approximately 100 USD equivalent) with equivalent or superior performance exists as the most affordable comparison target. Calculation: 100 USD ÷ 133 USD = 0.75, which rounds to a score of 0.8. This product features a 100mm (4-inch) bass driver and 22mm (0.9-inch) tweeter in a 2-way reflex design, providing equivalent compactness and sound quality performance. The evaluation score based on objective calculation results is 0.8.
 
 ## Reliability & Support
 
@@ -48,6 +48,6 @@ The design philosophy of claiming 40kHz extension pursues frequency characterist
 
 ## Advice
 
-For those considering purchasing the SC-CX101, we recommend careful comparison with current competing products. At a used market price of 20,000 yen, the new Q Acoustics 3010i (approximately 15,000 yen equivalent) or Polk Monitor XT15 (approximately 21,000 yen) can be expected to provide equivalent or superior performance with warranty. The Q Acoustics 3010i in particular, despite being a compact 2-way design, achieves excellent sound quality balance based on newer technology and design philosophy. If you must stick to Denon products, we recommend choosing from Denon's current product lineup. If you're looking for compact speakers, the KEF Q150 or Wharfedale Diamond 220 would also be more rational choices.
+For those considering purchasing the SC-CX101, we recommend careful comparison with current competing products. At a used market price of 133 USD, the new Q Acoustics 3010i (approximately 100 USD equivalent) or Polk Monitor XT15 (approximately 140 USD) can be expected to provide equivalent or superior performance with warranty. The Q Acoustics 3010i in particular, despite being a compact 2-way design, achieves excellent sound quality balance based on newer technology and design philosophy. If you must stick to Denon products, we recommend choosing from Denon's current product lineup. If you're looking for compact speakers, the KEF Q150 or Wharfedale Diamond 220 would also be more rational choices.
 
 (2025.7.21)

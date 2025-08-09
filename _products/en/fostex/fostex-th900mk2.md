@@ -32,7 +32,7 @@ The TH900MK2 demonstrates excellent technical design. The neodymium magnet syste
 
 $$ \Large \text{0.2} $$
 
-The TH900MK2's Japanese market price is 228,800 JPY. As a competing product that is functionally equivalent and has superior measured performance (especially in frequency response flatness), the Austrian Audio Hi-X60 professional monitor headphones are available for approximately 49,800 JPY. The Hi-X60 offers far more faithful reproduction of the source audio than the TH900MK2, at less than a quarter of the price. Calculation: 49,800 JPY ÷ 228,800 JPY = 0.217, rounded to 0.2. This price difference indicates that the value of the TH900MK2 is heavily dependent on factors other than performance, such as its exterior finish and brand.
+The TH900MK2's Japanese market price is 1,525 USD. As a competing product that is functionally equivalent and has superior measured performance (especially in frequency response flatness), the Austrian Audio Hi-X60 professional monitor headphones are available for approximately 332 USD. The Hi-X60 offers far more faithful reproduction of the source audio than the TH900MK2, at less than a quarter of the price. Calculation: 332 USD ÷ 1,525 USD = 0.217, rounded to 0.2. This price difference indicates that the value of the TH900MK2 is heavily dependent on factors other than performance, such as its exterior finish and brand.
 
 ## Reliability & Support
 
@@ -48,6 +48,6 @@ The TH900MK2's design philosophy pursues "enjoyable" sound for traditional audio
 
 ## Advice
 
-The TH900MK2 is an attractive choice for those seeking beautiful appearance and high-quality construction using traditional artisan techniques, or those who prefer V-shaped dynamic sound signatures. The bass quality and quantity are particularly excellent, suitable for impactful reproduction of electronic music and rock. However, it is not at all recommended for those prioritizing scientifically accurate music reproduction or reduced listening fatigue during extended sessions. For more transparent and natural sound quality, a far more affordable and better-measuring monitor headphone like the Austrian Audio Hi-X60 (approx. 49,800 JPY) is an extremely rational choice. Those seeking performance improvements commensurate with investment would be wise to consider products based on objective performance metrics rather than expensive decorations or brand image.
+The TH900MK2 is an attractive choice for those seeking beautiful appearance and high-quality construction using traditional artisan techniques, or those who prefer V-shaped dynamic sound signatures. The bass quality and quantity are particularly excellent, suitable for impactful reproduction of electronic music and rock. However, it is not at all recommended for those prioritizing scientifically accurate music reproduction or reduced listening fatigue during extended sessions. For more transparent and natural sound quality, a far more affordable and better-measuring monitor headphone like the Austrian Audio Hi-X60 (approx. 332 USD) is an extremely rational choice. Those seeking performance improvements commensurate with investment would be wise to consider products based on objective performance metrics rather than expensive decorations or brand image.
 
 (2025.7.25)

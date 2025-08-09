@@ -7,13 +7,13 @@ lang: en
 ref: fink-team-borg
 date: 2025-08-08
 rating: [2.9, 0.7, 0.8, 0.3, 0.6, 0.5]
-summary: "A crystallization of German acoustic engineering as a 2-way floorstanding speaker. While specifications are advanced, considering the current market price (Borg Episode 2 in Japan: 6,600,000 JPY per pair), alternatives offering equivalent or better user-oriented functions and measured performance at lower cost exist; thus, cost-performance is low."
+summary: "A crystallization of German acoustic engineering as a 2-way floorstanding speaker. While specifications are advanced, considering the current market price (Borg Episode 2 in Japan: 44,000 USD per pair), alternatives offering equivalent or better user-oriented functions and measured performance at lower cost exist; thus, cost-performance is low."
 tags: [2-Way, AMT Tweeter, Floorstanding speakers, German-Made, High-end]
 permalink: /products/en/fink-team-borg/
 ---
 ## Overview
 
-Fink Team originates from Fink Audio-Consulting, a European acoustic development company active for over 30 years, and now operates as a German loudspeaker brand. The Borg is a 2-way floorstanding speaker combining a 10.25-inch mid/bass driver with a proprietary AMT tweeter, employing a 1,600Hz crossover. Each 52kg cabinet uses a sandwich-structure MDF design, with four rear adjustment controls for acoustic fine-tuning. In 2024, an improved Borg Episode 2 was announced; the current Japan market price is 6,600,000 JPY per pair (tax-included).
+Fink Team originates from Fink Audio-Consulting, a European acoustic development company active for over 30 years, and now operates as a German loudspeaker brand. The Borg is a 2-way floorstanding speaker combining a 10.25-inch mid/bass driver with a proprietary AMT tweeter, employing a 1,600Hz crossover. Each 52kg cabinet uses a sandwich-structure MDF design, with four rear adjustment controls for acoustic fine-tuning. In 2024, an improved Borg Episode 2 was announced; the current Japan market price is 44,000 USD per pair (tax-included).
 
 ## Scientific Validity
 
@@ -31,7 +31,7 @@ The Borg's technical design demonstrates sophisticated engineering approaches ba
 
 $$ \Large \text{0.3} $$
 
-We unify the currency to USD for calculation. Using the current Japan market price for Borg (Episode 2) as a proxy at approximately 6,600,000 JPY per pair (≈ USD 42,600), and selecting KEF Reference 3 Meta (USD 14,000 per pair) as the cheapest product with equivalent or better user-oriented functions and measured performance, the calculation is: 14,000 USD ÷ 42,600 USD = 0.33 → 0.3. Given alternatives offering comparable performance at a much lower price, the CP score is low.
+We unify the currency to USD for calculation. Using the current Japan market price for Borg (Episode 2) as a proxy at approximately 44,000 USD per pair, and selecting KEF Reference 3 Meta (USD 14,000 per pair) as the cheapest product with equivalent or better user-oriented functions and measured performance, the calculation is: 14,000 USD ÷ 44,000 USD = 0.33 → 0.3. Given alternatives offering comparable performance at a much lower price, the CP score is low.
 
 ## Reliability & Support
 

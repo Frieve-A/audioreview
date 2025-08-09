@@ -31,7 +31,7 @@ The product demonstrates certain technical innovations including a proprietary t
 
 $$ \Large \text{0.1} $$
 
-The market price of the SIGNALFORM ORGANIZER is 118,965 JPY. For a valid comparison, it must be measured against products with equivalent multi-functionality (DI, re-amp, and level converter). For instance, the ART Dual RDB offers similar functionality and is available for approximately 12,000 JPY. The cost-performance calculation is `12,000 JPY ÷ 118,965 JPY = 0.101`, which rounds to a score of 0.1. While there is added value in its Japanese manufacturing, the price difference is extremely large compared to a functionally equivalent alternative, forcing a very low cost-performance rating.
+The market price of the SIGNALFORM ORGANIZER is 793 USD. For a valid comparison, it must be measured against products with equivalent multi-functionality (DI, re-amp, and level converter). For instance, the ART Dual RDB offers similar functionality and is available for approximately 80 USD. The cost-performance calculation is `80 USD ÷ 793 USD = 0.101`, which rounds to a score of 0.1. While there is added value in its Japanese manufacturing, the price difference is extremely large compared to a functionally equivalent alternative, forcing a very low cost-performance rating.
 
 ## Reliability & Support
 

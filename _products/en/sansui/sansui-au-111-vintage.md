@@ -7,7 +7,7 @@ lang: en
 ref: sansui-au-111-vintage
 date: 2025-07-21
 rating: [1.1, 0.1, 0.3, 0.1, 0.3, 0.3]
-summary: "The Sansui AU-111 Vintage, released in 1965, demonstrates extremely low scientific validity when compared to modern digital equipment due to measured values of THD 0.8% and S/N ratio 70dB. With a price of 300,000 JPY against the Fosi Audio V3 (13,600 JPY) offering equivalent functionality, cost-performance is significantly inferior."
+summary: "The Sansui AU-111 Vintage, released in 1965, demonstrates extremely low scientific validity when compared to modern digital equipment due to measured values of THD 0.8% and S/N ratio 70dB. With a price of approximately 2000 USD against the Fosi Audio V3 (91 USD) offering equivalent functionality, cost-performance is significantly inferior."
 tags: [Integrated amplifier, Sansui, Tube Amplifier, Vintage]
 permalink: /products/en/sansui-au-111-vintage/
 ---
@@ -31,13 +31,13 @@ While advanced for 1965, it rates below average by current technical standards. 
 
 $$ \Large \text{0.1} $$
 
-Current used market prices range from 250,000-350,000 JPY depending on condition, evaluated here at 300,000 JPY. The Fosi Audio V3 (13,600 JPY, Amazon Japan price) exists with equivalent or superior functionality and performance. The V3 achieves 300W+300W maximum output, THD+N 0.003%, SNR 110dB, and frequency response 20Hz-40kHz (±0.5dB), significantly surpassing all AU-111 measurements. Cost-performance calculation: 13,600 JPY ÷ 300,000 JPY = 0.045, rounded to 0.1. Including tube replacement costs, power consumption (approximately 200W vs 60W), and maintenance expenses, the V3 is overwhelmingly superior in operational costs. Excluding vintage value, the pure performance-to-price ratio is extremely disadvantageous.
+Current used market prices range from 1667-2333 USD depending on condition, evaluated here at 2000 USD. The Fosi Audio V3 (91 USD, Amazon Japan price) exists with equivalent or superior functionality and performance. The V3 achieves 300W+300W maximum output, THD+N 0.003%, SNR 110dB, and frequency response 20Hz-40kHz (±0.5dB), significantly surpassing all AU-111 measurements. Cost-performance calculation: 91 USD ÷ 2000 USD = 0.045, rounded to 0.1. Including tube replacement costs, power consumption (approximately 200W vs 60W), and maintenance expenses, the V3 is overwhelmingly superior in operational costs. Excluding vintage value, the pure performance-to-price ratio is extremely disadvantageous.
 
 ## Reliability & Support
 
 $$ \Large \text{0.3} $$
 
-Being over 50 years old in design, component aging and parts availability present serious problems. Tube life is short at approximately 5,000-10,000 hours, with replacement 6L6GC tubes costing 5,000-15,000 JPY each. Electrolytic capacitor degradation creates high risk of sound quality deterioration and failure, with overhauls requiring 100,000-300,000 JPY. Sansui no longer exists, providing zero manufacturer support. The number of technicians capable of repairs is declining, making maintenance costs and technical risks extremely high. However, information sharing within audio enthusiast communities is active, with abundant repair information and modification examples available.
+Being over 50 years old in design, component aging and parts availability present serious problems. Tube life is short at approximately 5,000-10,000 hours, with replacement 6L6GC tubes costing 33-100 USD each. Electrolytic capacitor degradation creates high risk of sound quality deterioration and failure, with overhauls requiring 667-2000 USD. Sansui no longer exists, providing zero manufacturer support. The number of technicians capable of repairs is declining, making maintenance costs and technical risks extremely high. However, information sharing within audio enthusiast communities is active, with abundant repair information and modification examples available.
 
 ## Rationality of Design Philosophy
 
@@ -47,6 +47,6 @@ The design philosophy of acoustic reproduction using tube circuits is irrational
 
 ## Advice
 
-Those considering purchase should make decisions after fully understanding objective performance evaluation. In measured performance, the 13,600 JPY Fosi Audio V3 surpasses the AU-111 in all aspects. The 300,000 JPY price is purely based on antique value, not compensation for acoustic performance. For practical purposes, modern Class D amplifiers are strongly recommended. Even if tube amplifiers are desired, modern designs like the Linear Tube Audio ZOTL40 Mk.II (5,800 USD, approximately 870,000 JPY) offer far superior actual performance despite higher prices. The AU-111 is suitable only for those prioritizing historical value and collectibility, or for tube circuit learning purposes. For practical use prioritizing sound quality, modern product selection based on scientific evidence is strongly recommended.
+Those considering purchase should make decisions after fully understanding objective performance evaluation. In measured performance, the 91 USD Fosi Audio V3 surpasses the AU-111 in all aspects. The 2000 USD price is purely based on antique value, not compensation for acoustic performance. For practical purposes, modern Class D amplifiers are strongly recommended. Even if tube amplifiers are desired, modern designs like the Linear Tube Audio ZOTL40 Mk.II (5,800 USD, approximately 5800 USD) offer far superior actual performance despite higher prices. The AU-111 is suitable only for those prioritizing historical value and collectibility, or for tube circuit learning purposes. For practical use prioritizing sound quality, modern product selection based on scientific evidence is strongly recommended.
 
 (2025.7.21)

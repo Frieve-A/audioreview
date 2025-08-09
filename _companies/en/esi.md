@@ -31,7 +31,7 @@ The technology found in ESI's current products is based on standard industry des
 
 $$ \Large \text{1.0} $$
 
-The cost-performance of ESI's products is rated at the highest level in the current market. The flagship U22 XT is sold for around 10,000 JPY on Amazon Japan and at major domestic retailers. Our research of currently available products with equivalent features and performance (2-in/2-out, 24-bit/96kHz support) indicates that there are virtually no options available at a lower price. Competitors like the Behringer UMC202HD are now priced similarly or higher. Therefore, as there is no cheaper alternative, the score is 1.0 according to our review policy.
+The cost-performance of ESI's products is rated at the highest level in the current market. The flagship U22 XT is sold for around 67 USD on Amazon Japan and at major domestic retailers. Our research of currently available products with equivalent features and performance (2-in/2-out, 24-bit/96kHz support) indicates that there are virtually no options available at a lower price. Competitors like the Behringer UMC202HD are now priced similarly or higher. Therefore, as there is no cheaper alternative, the score is 1.0 according to our review policy.
 
 ## Reliability & Support
 

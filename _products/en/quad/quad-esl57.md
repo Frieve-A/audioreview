@@ -31,7 +31,7 @@ For 1957, it employed extremely advanced electrostatic drive technology, with 0.
 
 $$ \Large \text{0.5} $$
 
-Current used market prices range from 50,000 JPY to 140,000 JPY. To evaluate this speaker's performance, a modern high-performance active speaker, the "Kali Audio LP-6 V2" (approximately 50,000 JPY per pair), serves as a comparison. The LP-6 V2 includes a built-in amplifier and offers a frequency response of 47Hz–21kHz (±3dB), providing practical performance that surpasses the ESL57 in many aspects. The calculation is: 50,000 JPY ÷ 95,000 JPY (average used price) ≈ 0.53. While the ESL57 has its unique appeal, its overall performance-to-price ratio is inferior to more affordable modern products.
+Current used market prices range from 333 USD to 933 USD. To evaluate this speaker's performance, a modern high-performance active speaker, the "Kali Audio LP-6 V2" (approximately 333 USD per pair), serves as a comparison. The LP-6 V2 includes a built-in amplifier and offers a frequency response of 47Hz–21kHz (±3dB), providing practical performance that surpasses the ESL57 in many aspects. The calculation is: 333 USD ÷ 633 USD (average used price) ≈ 0.53. While the ESL57 has its unique appeal, its overall performance-to-price ratio is inferior to more affordable modern products.
 
 ## Reliability & Support
 

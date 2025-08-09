@@ -31,7 +31,7 @@ The adoption of Bluetooth 5.3 is standard for current products. The key technolo
 
 $$ \Large \text{0.8} $$
 
-For the SoundLink Home Speaker's market price of 33,000 JPY, competing products offer superior features for less money. For example, the **JBL Charge 5 Wi-Fi** has a market price of around 25,000 JPY and offers the same IP67 dust/waterproof rating and Bluetooth connectivity, but adds clear advantages with **Wi-Fi connectivity** and a much longer **20-hour battery life**. Even considering the design appeal of the Bose, the availability of a more capable and longer-lasting product at a lower price means its cost-performance is not high. The calculation is `25,000 JPY ÷ 33,000 JPY ≈ 0.76`.
+For the SoundLink Home Speaker's market price of 220 USD, competing products offer superior features for less money. For example, the **JBL Charge 5 Wi-Fi** has a market price of around 167 USD and offers the same IP67 dust/waterproof rating and Bluetooth connectivity, but adds clear advantages with **Wi-Fi connectivity** and a much longer **20-hour battery life**. Even considering the design appeal of the Bose, the availability of a more capable and longer-lasting product at a lower price means its cost-performance is not high. The calculation is `167 USD ÷ 220 USD ≈ 0.76`.
 
 ## Reliability & Support
 
@@ -43,10 +43,10 @@ As of 2024, multiple consumer review platforms show negative reports regarding e
 
 $$ \Large \text{0.6} $$
 
-The design, which combines a high-end aesthetic with robust IP67 dust and water resistance in a portable speaker, is rational for various use cases. Providing EQ adjustment via an app is also a reasonable decision to enhance user satisfaction. However, for a product priced over 30,000 JPY, the fact that it only offers mono playback as a single unit, while competitors offer convenient features like Wi-Fi, means its design philosophy is average, not cutting-edge.
+The design, which combines a high-end aesthetic with robust IP67 dust and water resistance in a portable speaker, is rational for various use cases. Providing EQ adjustment via an app is also a reasonable decision to enhance user satisfaction. However, for a product priced over 200 USD, the fact that it only offers mono playback as a single unit, while competitors offer convenient features like Wi-Fi, means its design philosophy is average, not cutting-edge.
 
 ## Advice
 
-The SoundLink Home Speaker is for users attracted to the Bose brand design and the high IP67 waterproof rating that allows for use anywhere. It's possible to tailor the sound to your liking with the app's EQ. However, considering the 33,000 JPY price, it falls short in terms of features and performance. The more affordable "JBL Charge 5 Wi-Fi" (approx. 25,000 JPY) provides equivalent waterproofing plus the benefits of Wi-Fi connectivity and a 20-hour battery life, making it a clearly superior choice in terms of cost-performance. If you prioritize a balance of features, battery life, and price, we strongly recommend a thorough comparison with competing products.
+The SoundLink Home Speaker is for users attracted to the Bose brand design and the high IP67 waterproof rating that allows for use anywhere. It's possible to tailor the sound to your liking with the app's EQ. However, considering the 220 USD price, it falls short in terms of features and performance. The more affordable "JBL Charge 5 Wi-Fi" (approx. 167 USD) provides equivalent waterproofing plus the benefits of Wi-Fi connectivity and a 20-hour battery life, making it a clearly superior choice in terms of cost-performance. If you prioritize a balance of features, battery life, and price, we strongly recommend a thorough comparison with competing products.
 
 (2025.8.2)

@@ -31,7 +31,7 @@ Based on our principle that "technologies that don't contribute to measurable hi
 
 $$ \Large \text{0.1} $$
 
-Cost-performance, based on our site's definition, must be characterized as catastrophic. For example, the company's core network DAC/preamp model "N-05XD" (MSRP: USD 6,233 at 1USD=150JPY) has a nominal distortion rate of 0.0015%. In contrast, China's Topping flagship DAC "D90 III Sabre" (market price approximately USD 800) boasts world-class measurement performance with THD+N under 0.00006%. Despite an approximately 8x price difference, the objective performance indicators that determine source fidelity show the affordable product being over 25x superior. Based on this fact, `CP = 800 ÷ 6,233 ≈ 0.13`, resulting in a score of 0.1. This trend is common across Esoteric's entire product lineup.
+Cost-performance, based on our site's definition, must be characterized as catastrophic. For example, the company's core network DAC/preamp model "N-05XD" (MSRP: 6233 USD) has a nominal distortion rate of 0.0015%. In contrast, China's Topping flagship DAC "D90 III Sabre" (market price approximately 800 USD) boasts world-class measurement performance with THD+N under 0.00006%. Despite an approximately 8x price difference, the objective performance indicators that determine source fidelity show the affordable product being over 25x superior. Based on this fact, `CP = 800 ÷ 6233 ≈ 0.13`, resulting in a score of 0.1. This trend is common across Esoteric's entire product lineup.
 
 ## Reliability & Support
 

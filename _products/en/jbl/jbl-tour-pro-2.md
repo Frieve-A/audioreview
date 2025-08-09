@@ -32,7 +32,7 @@ The smart case equipped with a 1.45-inch touchscreen display represents innovati
 
 $$ \Large \text{0.8} $$
 
-The JBL Tour Pro 2 has a market price of approximately USD 250 USD (about 36,000 yen). A competing product with equivalent or superior functionality is the Sony WF-1000XM5 (approximately USD 300 USD, about 43,000 yen). The Sony WF-1000XM5 provides superior noise cancellation performance, LDAC support, and higher audio quality characteristics, achieving equivalent or superior user-oriented performance. Cost performance = 36,000 yen ÷ 43,000 yen = 0.84, resulting in a 0.8 evaluation. The Apple AirPods Pro 2 (approximately USD 249 USD, about 36,000 yen) also offers excellent spatial audio and ANC performance in the same price range, indicating intense competitive environment.
+The JBL Tour Pro 2 has a market price of approximately 250 USD. A competing product with equivalent or superior functionality is the Sony WF-1000XM5 (approximately 300 USD). The Sony WF-1000XM5 provides superior noise cancellation performance, LDAC support, and higher audio quality characteristics, achieving equivalent or superior user-oriented performance. Cost performance = 250 USD ÷ 300 USD = 0.84, resulting in a 0.8 evaluation. The Apple AirPods Pro 2 (approximately 249 USD) also offers excellent spatial audio and ANC performance in the same price range, indicating intense competitive environment.
 
 ## Reliability & Support
 

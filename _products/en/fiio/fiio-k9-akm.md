@@ -31,7 +31,7 @@ The adoption of AKM's flagship DAC chips, the AK4499EX and AK4191 combo, achieve
 
 $$ \Large \text{0.3} $$
 
-For its price of 118,800 JPY (approx. 790 USD), there are several less expensive alternatives with equivalent or superior functionality and measurement performance. The most price-efficient comparison target is the Topping DX3 Pro+ (approx. 30,000 JPY or 200 USD). The DX3 Pro+ features an ES9038Q2M DAC chip, a THD+N of 0.00015%, an SNR of 120dB, and an output of 1800mW at a 32Ω load, offering comparable basic performance and features to the K9 AKM at a much lower price. The cost-performance calculation is 30,000 JPY ÷ 118,800 JPY = 0.252, which indicates that the K9 AKM's price efficiency is low.
+For its price of 792 USD, there are several less expensive alternatives with equivalent or superior functionality and measurement performance. The most price-efficient comparison target is the Topping DX3 Pro+ (approx. 200 USD). The DX3 Pro+ features an ES9038Q2M DAC chip, a THD+N of 0.00015%, an SNR of 120dB, and an output of 1800mW at a 32Ω load, offering comparable basic performance and features to the K9 AKM at a much lower price. The cost-performance calculation is 200 USD ÷ 792 USD = 0.252, which indicates that the K9 AKM's price efficiency is low.
 
 ## Reliability & Support
 
@@ -47,6 +47,6 @@ The scientific approach aimed at achieving transparent-level measurement perform
 
 ## Advice
 
-While the FiiO K9 AKM is a product with excellent measurement performance, it is not recommended from a price efficiency perspective. For those seeking equivalent sound quality and functionality, alternatives such as the Topping DX3 Pro+ are available for about a quarter of the price. The DX3 Pro+ achieves equivalent or superior basic performance with 1800mW output, a THD+N of 0.00015%, and an SNR of 120dB for approximately 30,000 JPY, leaving no rational reason to choose the K9 AKM. With a budget of 118,800 JPY, it is strongly recommended to select a more price-efficient DAC and amplifier and allocate the remaining funds to upgrading headphones or speakers. Unless there is a special attachment to the tonal characteristics of AKM chips, product selection should be based on objective performance and price comparisons.
+While the FiiO K9 AKM is a product with excellent measurement performance, it is not recommended from a price efficiency perspective. For those seeking equivalent sound quality and functionality, alternatives such as the Topping DX3 Pro+ are available for about a quarter of the price. The DX3 Pro+ achieves equivalent or superior basic performance with 1800mW output, a THD+N of 0.00015%, and an SNR of 120dB for approximately 200 USD, leaving no rational reason to choose the K9 AKM. With a budget of 792 USD, it is strongly recommended to select a more price-efficient DAC and amplifier and allocate the remaining funds to upgrading headphones or speakers. Unless there is a special attachment to the tonal characteristics of AKM chips, product selection should be based on objective performance and price comparisons.
 
 (2025.8.2)

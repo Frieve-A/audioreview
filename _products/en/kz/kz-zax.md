@@ -32,7 +32,7 @@ The 7BA+1DD hybrid configuration is a technically interesting attempt, but it re
 
 $$ \Large \text{0.5} $$
 
-The current market price of the KZ ZAX is approximately 6,000 JPY, but a competing product with equivalent or superior performance exists: the Moondrop Chu II (approximately 3,000 JPY). The Moondrop Chu II has a flatter frequency response and is significantly cheaper, despite being a single dynamic driver configuration. Cost-performance is calculated as "price of competitor ÷ price of product under review," so "3,000 JPY ÷ 6,000 JPY = 0.5," resulting in a score of 0.5. Furthermore, the quality of the included cable and eartips is low, requiring additional accessory investment to reach a practical level, which means its price competitiveness in the market cannot be considered high.
+The current market price of the KZ ZAX is approximately 40 USD, but a competing product with equivalent or superior performance exists: the Moondrop Chu II (approximately 20 USD). The Moondrop Chu II has a flatter frequency response and is significantly cheaper, despite being a single dynamic driver configuration. Cost-performance is calculated as "price of competitor ÷ price of product under review," so "20 USD ÷ 40 USD = 0.5," resulting in a score of 0.5. Furthermore, the quality of the included cable and eartips is low, requiring additional accessory investment to reach a practical level, which means its price competitiveness in the market cannot be considered high.
 
 ## Reliability & Support
 
@@ -48,6 +48,6 @@ The design philosophy of aiming for wide-range reproduction through a multi-driv
 
 ## Advice
 
-For those considering purchasing the KZ ZAX, I recommend alternatives that offer equivalent function and are superior. For those prioritizing measured performance, the Moondrop Chu II, with its flatter frequency response, is available for approximately 3,000 JPY. If you choose the KZ ZAX, due to the low quality of the included accessories, I recommend additionally purchasing SpinFit eartips (approximately 1,500 JPY) and a replacement cable (approximately 2,000 JPY). For music genres, it is suitable for EDM and rock that emphasize bass impact, but not for applications requiring soundstage accuracy such as classical and jazz. In the current market environment, it is important to recognize that multiple scientifically superior choices exist within the same budget and to make an informed decision.
+For those considering purchasing the KZ ZAX, I recommend alternatives that offer equivalent function and are superior. For those prioritizing measured performance, the Moondrop Chu II, with its flatter frequency response, is available for approximately 20 USD. If you choose the KZ ZAX, due to the low quality of the included accessories, I recommend additionally purchasing SpinFit eartips (approximately 10 USD) and a replacement cable (approximately 13 USD). For music genres, it is suitable for EDM and rock that emphasize bass impact, but not for applications requiring soundstage accuracy such as classical and jazz. In the current market environment, it is important to recognize that multiple scientifically superior choices exist within the same budget and to make an informed decision.
 
 (2025.7.23)

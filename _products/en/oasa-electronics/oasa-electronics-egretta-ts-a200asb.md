@@ -31,7 +31,7 @@ This product incorporates unique technological elements, such as proprietary mat
 
 $$ \Large \text{0.3} $$
 
-The Egretta TS-A200asB is priced at 196,000 JPY (approx. 1,300 USD) for a stereo pair. For a fair cost-performance evaluation, it is appropriate to compare it with another stereo pair of "omnidirectional active speakers." The most compelling competitor under this condition is a stereo pair of Amazon Echo Studio speakers (market price for two is approx. 59,960 JPY or 400 USD). An Echo Studio pair offers superior low-frequency extension, a much more powerful amplifier, and the extensive functionality of smart speakers. The calculation is 59,960 JPY ÷ 196,000 JPY ≈ 0.306. Given that a superior alternative exists in key acoustic performance and functionality at roughly one-third of the price, the cost-performance is rated as low.
+The Egretta TS-A200asB is priced at 1307 USD for a stereo pair. For a fair cost-performance evaluation, it is appropriate to compare it with another stereo pair of "omnidirectional active speakers." The most compelling competitor under this condition is a stereo pair of Amazon Echo Studio speakers (market price for two is approx. 400 USD). An Echo Studio pair offers superior low-frequency extension, a much more powerful amplifier, and the extensive functionality of smart speakers. The calculation is 400 USD ÷ 1307 USD ≈ 0.306. Given that a superior alternative exists in key acoustic performance and functionality at roughly one-third of the price, the cost-performance is rated as low.
 
 ## Reliability & Support
 
@@ -43,11 +43,11 @@ OASA Electronics has a track record as an OEM manufacturer for over 20 years, su
 
 $$ \Large \text{0.5} $$
 
-The design philosophy of an omnidirectional speaker, which fills a space with sound without a specific listening sweet spot, holds a certain rationality for specific use cases like background music or reducing listening fatigue over long periods. The technical approach of using proprietary materials to improve sound quality is also commendable. However, from the perspective of high-fidelity music reproduction, a design that cannot reproduce frequencies below 80Hz is not rational. Furthermore, considering that a stereo pair of Amazon Echo Studio speakers achieves equivalent or superior omnidirectional performance and features at a much lower price, the rationale for this product to exist as a dedicated audio device at 196,000 JPY is weak.
+The design philosophy of an omnidirectional speaker, which fills a space with sound without a specific listening sweet spot, holds a certain rationality for specific use cases like background music or reducing listening fatigue over long periods. The technical approach of using proprietary materials to improve sound quality is also commendable. However, from the perspective of high-fidelity music reproduction, a design that cannot reproduce frequencies below 80Hz is not rational. Furthermore, considering that a stereo pair of Amazon Echo Studio speakers achieves equivalent or superior omnidirectional performance and features at a much lower price, the rationale for this product to exist as a dedicated audio device at 1307 USD is weak.
 
 ## Advice
 
-We cannot recommend the purchase of the Egretta TS-A200asB. It offers no objective performance advantages to justify its 196,000 JPY price tag.
+We cannot recommend the purchase of the Egretta TS-A200asB. It offers no objective performance advantages to justify its 1307 USD price tag.
 
 -   **If you want an omnidirectional stereo experience**: A stereo pair of Amazon Echo Studio speakers (approx. 400 USD for two) provides a far superior value proposition with its wider frequency response, higher power output, and extensive smart features.
 -   **If you prioritize high-quality sound for your desktop and omnidirectional is not a must**: Conventional directional active speakers, such as the KEF LSX II LT (approx. 999.99 USD), offer a more satisfying experience with precise stereo imaging, excellent frequency response, and comprehensive connectivity.

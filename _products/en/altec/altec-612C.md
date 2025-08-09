@@ -31,7 +31,7 @@ As a 1970s coaxial design technology, it met the industry standards of its time.
 
 $$ \Large \text{0.2} $$
 
-The current used market price for a pair is approximately 330,000 JPY (based on March 2025 auction results), but the price difference with modern products offering equivalent or superior functionality and performance is extremely large. As a comparison target, the Fluid Audio FX80 (approximately 75,000 JPY for a pair) provides excellent 35Hz-22kHz characteristics with an active design. Calculation: 75,000 JPY ÷ 330,000 JPY ≈ 0.23, which results in a score of 0.2. Modern products exceed it in measured performance, convenience, and reliability while costing less than a quarter of the price. In terms of pure performance-to-price ratio excluding vintage value, the cost-performance is very poor.
+The current used market price for a pair is approximately 2,200 USD (based on March 2025 auction results), but the price difference with modern products offering equivalent or superior functionality and performance is extremely large. As a comparison target, the Fluid Audio FX80 (approximately 500 USD for a pair) provides excellent 35Hz-22kHz characteristics with an active design. Calculation: 500 USD ÷ 2,200 USD ≈ 0.23, which results in a score of 0.2. Modern products exceed it in measured performance, convenience, and reliability while costing less than a quarter of the price. In terms of pure performance-to-price ratio excluding vintage value, the cost-performance is very poor.
 
 ## Reliability & Support
 
@@ -47,6 +47,6 @@ The basic philosophy of achieving a point source through coaxial design is scien
 
 ## Advice
 
-For those considering purchasing the Altec 612C, modern products are strongly recommended if pure sound quality is the priority. Modern coaxial monitors like the Fluid Audio FX80 (approximately 75,000 JPY for a pair) exceed it in measured performance, convenience, and cost-performance. However, different considerations apply if historical value in studios or vintage equipment ownership desires are prioritized. Technically, it is not suitable for applications requiring transparency-level sound quality by modern standards, but it may have meaning for the specialized use of listening to period recordings in period environments. For practical use, we strongly recommend choosing modern high-end monitors like the Genelec 8340A (approximately 440,000 JPY for a pair) within a similar budget.
+For those considering purchasing the Altec 612C, modern products are strongly recommended if pure sound quality is the priority. Modern coaxial monitors like the Fluid Audio FX80 (approximately 500 USD for a pair) exceed it in measured performance, convenience, and cost-performance. However, different considerations apply if historical value in studios or vintage equipment ownership desires are prioritized. Technically, it is not suitable for applications requiring transparency-level sound quality by modern standards, but it may have meaning for the specialized use of listening to period recordings in period environments. For practical use, we strongly recommend choosing modern high-end monitors like the Genelec 8340A (approximately 2933 USD for a pair) within a similar budget.
 
 (2025.7.26)

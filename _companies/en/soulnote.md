@@ -31,9 +31,9 @@ While SOULNOTE's core technology, the zero negative feedback circuit design, is 
 
 $$ \Large \text{0.0} $$
 
-The cost-performance of SOULNOTE products is extremely poor in an objective market comparison. For example, the company's integrated amplifier A-2 (market price approx. 860,000 JPY) is inferior in basic audio performance to more affordable products. The Fosi Audio V3 (market price approx. 19,000 JPY) shows superior distortion performance compared to the A-2. In a typical listening environment, the value offered by the A-2 does not justify its price. The cost-performance is rated at the lowest score of 0.0, based on the following calculation:
+The cost-performance of SOULNOTE products is extremely poor in an objective market comparison. For example, the company's integrated amplifier A-2 (market price approx. 5,733 USD) is inferior in basic audio performance to more affordable products. The Fosi Audio V3 (market price approx. 127 USD) shows superior distortion performance compared to the A-2. In a typical listening environment, the value offered by the A-2 does not justify its price. The cost-performance is rated at the lowest score of 0.0, based on the following calculation:
 
-`19,000 JPY ÷ 860,000 JPY ≒ 0.022`
+`127 USD ÷ 5,733 USD ≒ 0.022`
 
 There is no objective performance difference that can justify a price gap of more than 45 times, making the cost-performance virtually non-existent.
 

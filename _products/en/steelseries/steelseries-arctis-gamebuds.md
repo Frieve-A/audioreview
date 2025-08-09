@@ -14,7 +14,7 @@ permalink: /products/en/steelseries-arctis-gamebuds/
 
 ## Overview
 
-The SteelSeries Arctis GameBuds are the company's first gaming-focused true wireless earbuds. They feature 2.4GHz low-latency connection with Bluetooth 5.3 quick-switch functionality, hybrid active noise cancellation, and 40 hours of total battery life. Compatible with PlayStation, Xbox, PC, Switch, and mobile devices, they incorporate IP55 dust and water resistance and over 100 game audio presets. The Japanese market price ranges from approximately 22,600 to 23,600 yen.
+The SteelSeries Arctis GameBuds are the company's first gaming-focused true wireless earbuds. They feature 2.4GHz low-latency connection with Bluetooth 5.3 quick-switch functionality, hybrid active noise cancellation, and 40 hours of total battery life. Compatible with PlayStation, Xbox, PC, Switch, and mobile devices, they incorporate IP55 dust and water resistance and over 100 game audio presets. The Japanese market price ranges from approximately 151 to 157 USD.
 
 ## Scientific Validity
 
@@ -32,7 +32,7 @@ The dual connection system implementation (2.4GHz + Bluetooth 5.3) is technicall
 
 $$ \Large \text{1.0} $$
 
-The Arctis GameBuds are priced at 22,607 JPY in Japan, equivalent to approximately 148 USD. Competing products with similar features include the ASUS ROG Cetra True Wireless SpeedNova (169.99 USD, approx. 26,000 JPY), which offers a 46-hour battery, bone-conduction AI microphones, adaptive ANC, and 2.4GHz low-latency connection. The Razer Hammerhead HyperSpeed (149.99 USD, approx. 23,000 JPY) also features a similar 2.4GHz connection and ANC. The cost-performance calculation is 23,000 JPY ÷ 22,607 JPY = 1.02, which clamps to 1.0. This makes the Arctis GameBuds the most affordable option among its direct competitors.
+The Arctis GameBuds are priced at 151 USD in Japan. Competing products with similar features include the ASUS ROG Cetra True Wireless SpeedNova (170 USD), which offers a 46-hour battery, bone-conduction AI microphones, adaptive ANC, and 2.4GHz low-latency connection. The Razer Hammerhead HyperSpeed (150 USD) also features a similar 2.4GHz connection and ANC. The cost-performance calculation is 150 USD ÷ 151 USD = 0.99, which clamps to 1.0. This makes the Arctis GameBuds the most affordable option among its direct competitors.
 
 ## Reliability & Support
 
@@ -44,10 +44,10 @@ SteelSeries' standard warranty period of one year meets industry standards, but 
 
 $$ \Large \text{0.7} $$
 
-The design is highly rational for dedicated gaming earbuds. The instant switching functionality between 2.4GHz and Bluetooth is practical, and the 100+ game audio presets serve as effective differentiation. Compared to competitors like the ASUS ROG Cetra True Wireless SpeedNova (approx. 26,000 JPY) and the Razer Hammerhead HyperSpeed (approx. 23,000 JPY), it provides equivalent core functionality at the lowest price, making its value proposition as an integrated solution clear. While a combination of general-purpose high-performance earbuds could be an alternative, the superiority in integration and convenience of this dedicated design is highly commendable.
+The design is highly rational for dedicated gaming earbuds. The instant switching functionality between 2.4GHz and Bluetooth is practical, and the 100+ game audio presets serve as effective differentiation. Compared to competitors like the ASUS ROG Cetra True Wireless SpeedNova (approx. 173 USD) and the Razer Hammerhead HyperSpeed (approx. 153 USD), it provides equivalent core functionality at the lowest price, making its value proposition as an integrated solution clear. While a combination of general-purpose high-performance earbuds could be an alternative, the superiority in integration and convenience of this dedicated design is highly commendable.
 
 ## Advice
 
-The SteelSeries Arctis GameBuds are functionally complete as dedicated gaming earbuds and are competitively positioned in terms of cost-performance. At 22,607 JPY, they are the most affordable option compared to rivals with similar features like the Razer Hammerhead HyperSpeed (approx. 23,000 JPY) and the ASUS ROG Cetra True Wireless SpeedNova (approx. 26,000 JPY), making them the go-to choice for achieving essential gaming functionality at the lowest cost. Offering a 40-hour battery life, excellent ANC performance, and over 100 game audio presets in an integrated solution, they provide outstanding value in this price range. For first-time buyers of dedicated gaming earbuds or users who prioritize integration and convenience, this product is worth considering. However, as it is a first-generation product, there are concerns about long-term reliability, so it is advisable to confirm the warranty and support system before purchasing.
+The SteelSeries Arctis GameBuds are functionally complete as dedicated gaming earbuds and are competitively positioned in terms of cost-performance. At 151 USD, they are the most affordable option compared to rivals with similar features like the Razer Hammerhead HyperSpeed (approx. 153 USD) and the ASUS ROG Cetra True Wireless SpeedNova (approx. 173 USD), making them the go-to choice for achieving essential gaming functionality at the lowest cost. Offering a 40-hour battery life, excellent ANC performance, and over 100 game audio presets in an integrated solution, they provide outstanding value in this price range. For first-time buyers of dedicated gaming earbuds or users who prioritize integration and convenience, this product is worth considering. However, as it is a first-generation product, there are concerns about long-term reliability, so it is advisable to confirm the warranty and support system before purchasing.
 
 (2025.7.12)

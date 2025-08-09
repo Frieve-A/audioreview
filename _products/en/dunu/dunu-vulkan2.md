@@ -31,7 +31,7 @@ The 8-driver hybrid configuration is technically sophisticated, and the band opt
 
 $$ \Large \text{0.1} $$
 
-Against the price of 57,522 JPY, there are far cheaper products with equivalent or better performance. For instance, the Truthear ZERO:RED (retailing around 8,400 JPY) achieves exceptionally low harmonic distortion, significantly better than the Vulkan2's nominal <0.3%, for about one-seventh of the price. Calculation: 8,400 JPY ÷ 57,522 JPY ≈ 0.145. Regardless of the number of drivers or complexity, when judged by the acoustic performance delivered to the user, the Vulkan2's pricing is severely detached from market reality, making its cost-performance extremely poor.
+Against the price of 383 USD, there are far cheaper products with equivalent or better performance. For instance, the Truthear ZERO:RED (retailing around 56 USD) achieves exceptionally low harmonic distortion, significantly better than the Vulkan2's nominal <0.3%, for about one-seventh of the price. Calculation: 56 USD ÷ 383 USD ≈ 0.145. Regardless of the number of drivers or complexity, when judged by the acoustic performance delivered to the user, the Vulkan2's pricing is severely detached from market reality, making its cost-performance extremely poor.
 
 ## Reliability & Support
 

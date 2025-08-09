@@ -7,14 +7,14 @@ lang: en
 ref: top-wing-data-iso-box
 date: 2025-07-25
 rating: [1.4, 0.2, 0.4, 0.1, 0.4, 0.3]
-summary: "A 55,000 JPY 5-port switch marketed for audio-dedicated network isolation. It claims to improve audio quality based on scientifically unfounded principles, while its basic functions are identical to generic products available in the 3,000 JPY range."
+summary: "A 367 USD 5-port switch marketed for audio-dedicated network isolation. It claims to improve audio quality based on scientifically unfounded principles, while its basic functions are identical to generic products available in the 20 USD range."
 tags: [Network Equipment, Audio Accessories, Switching Hub]
 permalink: /products/en/top-wing-data-iso-box/
 ---
 
 ## Overview
 
-The Top Wing Data ISO Box is a 5-port gigabit network switch priced at 55,000 JPY. It claims to create a "quiet network space for music" by physically isolating audio equipment from the home network. The device features a business-grade CPU and SK Hynix memory in a compact 128×86×34mm enclosure. However, there is no scientific basis for the claim that network isolation improves sound quality in digital audio transmission.
+The Top Wing Data ISO Box is a 5-port gigabit network switch priced at 367 USD. It claims to create a "quiet network space for music" by physically isolating audio equipment from the home network. The device features a business-grade CPU and SK Hynix memory in a compact 128×86×34mm enclosure. However, there is no scientific basis for the claim that network isolation improves sound quality in digital audio transmission.
 
 ## Scientific Validity
 
@@ -32,7 +32,7 @@ On the hardware side, the use of a business-grade CPU and SK Hynix memory sugges
 
 $$ \Large \text{0.1} $$
 
-5-port gigabit switches with equivalent basic functionality, such as the TP-Link TL-SG105 or NETGEAR GS105, are available starting in the 3,000 JPY price range. There is no factor in basic data transfer performance that justifies the price of 55,000 JPY. No performance advantage can be identified that rationally explains a price difference of more than 18 times for the added value of being "audio-dedicated."
+5-port gigabit switches with equivalent basic functionality, such as the TP-Link TL-SG105 or NETGEAR GS105, are available starting in the 20 USD price range. There is no factor in basic data transfer performance that justifies the price of 367 USD. No performance advantage can be identified that rationally explains a price difference of more than 18 times for the added value of being "audio-dedicated."
 
 ## Reliability & Support
 
@@ -48,6 +48,6 @@ The design philosophy of improving sound quality through network isolation lacks
 
 ## Advice
 
-For those considering this product, it is recommended to first try the equivalent basic functionality with a generic 5-port gigabit switch like the TP-Link TL-SG105, which costs in the 3,000 JPY range. If seeking to improve sound quality in network audio, allocating the 55,000 JPY budget to upgrading scientifically-grounded equipment such as a DAC, amplifier, or speakers is extremely likely to yield improvements that are both measurable and audible.
+For those considering this product, it is recommended to first try the equivalent basic functionality with a generic 5-port gigabit switch like the TP-Link TL-SG105, which costs in the 20 USD range. If seeking to improve sound quality in network audio, allocating the 367 USD budget to upgrading scientifically-grounded equipment such as a DAC, amplifier, or speakers is extremely likely to yield improvements that are both measurable and audible.
 
 (2025.7.25)

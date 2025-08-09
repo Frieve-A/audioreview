@@ -31,7 +31,7 @@ The combination of 40mm dome-type drivers and CCAW (Copper Clad Aluminum Wire) v
 
 $$ \Large \text{0.5} $$
 
-The current market price is 15,180 JPY. However, more affordable alternatives with superior measured performance exist. For instance, the Takstar Pro 82 offers a flatter frequency response for around 8,000 JPY. The cost-performance calculation is 8,000 JPY ÷ 15,180 JPY ≒ 0.53, resulting in a score of 0.5. Other highly-regarded monitor headphones, such as the Shure SRH440 (around 10,000 JPY) and the AKG K361 (around 12,000 JPY), provide a more neutral sound profile at a lower price. Even Sony's own MDR-7506 offers more balanced performance for about 12,000 JPY. Compared to these options, this model's cost-performance is poor.
+The current market price is 101 USD. However, more affordable alternatives with superior measured performance exist. For instance, the Takstar Pro 82 offers a flatter frequency response for around 53 USD. The cost-performance calculation is 53 USD ÷ 101 USD ≒ 0.53, resulting in a score of 0.5. Other highly-regarded monitor headphones, such as the Shure SRH440 (around 67 USD) and the AKG K361 (around 80 USD), provide a more neutral sound profile at a lower price. Even Sony's own MDR-7506 offers more balanced performance for about 80 USD. Compared to these options, this model's cost-performance is poor.
 
 ## Reliability & Support
 
@@ -47,6 +47,6 @@ The design philosophy aimed at accurate acoustic reproduction as professional mo
 
 ## Advice
 
-While the MDR-CD900ST holds a historic position in Japan's recording industry, it falls short in both performance and cost-effectiveness by modern standards. For new purchases, there are more rational and superior alternatives. For example, the Takstar Pro 82, at around 8,000 JPY, delivers better measured performance at nearly half the price. Additionally, the Shure SRH440 (around 10,000 JPY) and AKG K361 (around 12,000 JPY) are highly-regarded for their neutral sound and are available for less. Even within Sony's lineup, the more affordable MDR-7506 provides more balanced performance. We strongly recommend these modern alternatives unless there is a specific need for compatibility with studios that standardize on the CD900ST. Unless historical significance and industry tradition are prioritized over objective performance and economic sense, there is no rational reason to choose this model.
+While the MDR-CD900ST holds a historic position in Japan's recording industry, it falls short in both performance and cost-effectiveness by modern standards. For new purchases, there are more rational and superior alternatives. For example, the Takstar Pro 82, at around 53 USD, delivers better measured performance at nearly half the price. Additionally, the Shure SRH440 (around 67 USD) and AKG K361 (around 80 USD) are highly-regarded for their neutral sound and are available for less. Even within Sony's lineup, the more affordable MDR-7506 provides more balanced performance. We strongly recommend these modern alternatives unless there is a specific need for compatibility with studios that standardize on the CD900ST. Unless historical significance and industry tradition are prioritized over objective performance and economic sense, there is no rational reason to choose this model.
 
 (2025.7.22)

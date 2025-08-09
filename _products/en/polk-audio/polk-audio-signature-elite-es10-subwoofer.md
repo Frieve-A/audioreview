@@ -14,7 +14,7 @@ permalink: /products/en/polk-audio-signature-elite-es10-subwoofer/
 
 ## Overview
 
-The Polk Audio Signature Elite ES10 is a 10-inch active subwoofer released in 2021. It features a 10-inch polypropylene cone driver with Dynamic Balance technology and a 100W (RMS) / 200W (Peak) Class D amplifier, delivering a nominal frequency response of 30Hz-200Hz (-3dB). It incorporates the company's proprietary Power Port technology aimed at reducing port noise and includes phase adjustment for easy integration with existing systems. The market price at the time of this review is 72,702 JPY.
+The Polk Audio Signature Elite ES10 is a 10-inch active subwoofer released in 2021. It features a 10-inch polypropylene cone driver with Dynamic Balance technology and a 100W (RMS) / 200W (Peak) Class D amplifier, delivering a nominal frequency response of 30Hz-200Hz (-3dB). It incorporates the company's proprietary Power Port technology aimed at reducing port noise and includes phase adjustment for easy integration with existing systems. The market price at the time of this review is 485 USD.
 
 ## Scientific Validity
 
@@ -32,7 +32,7 @@ The 10-inch mineral-filled polypropylene cone is an appropriate material choice 
 
 $$ \Large \text{0.6} $$
 
-Against the current market price of 72,702 JPY, the higher-performing Yamaha NS-SW300 is available for 46,224 JPY. The NS-SW300 boasts superior specifications, including an excellent low-frequency response down to a nominal 20Hz and a more powerful 250W amplifier. The calculation is "46,224 JPY ÷ 72,702 JPY ≈ 0.64," resulting in a score of 0.6. The NS-SW300 also features its own port noise reduction technology, the Twisted Flare Port, making it comparable or superior in features as well. The existence of a more affordable and higher-performing alternative leads to a low cost-performance rating.
+Against the current market price of 485 USD, the higher-performing Yamaha NS-SW300 is available for 308 USD. The NS-SW300 boasts superior specifications, including an excellent low-frequency response down to a nominal 20Hz and a more powerful 250W amplifier. The calculation is "308 USD ÷ 485 USD ≈ 0.64," resulting in a score of 0.6. The NS-SW300 also features its own port noise reduction technology, the Twisted Flare Port, making it comparable or superior in features as well. The existence of a more affordable and higher-performing alternative leads to a low cost-performance rating.
 
 ## Reliability & Support
 
@@ -48,6 +48,6 @@ The design goal of achieving a 30Hz low-frequency response with a 10-inch driver
 
 ## Advice
 
-The Polk Audio Signature Elite ES10 is a technically solid product, but it is difficult to recommend at its current price. For 72,702 JPY, you can purchase a product like the Yamaha NS-SW300, which can play deeper (down to 20Hz) and has a more powerful amplifier, for a much lower price. Features like Power Port technology do not offer a decisive advantage to justify the significant price difference. If you are considering this subwoofer, we strongly recommend exploring more cost-effective alternatives first. In the current market, there are numerous options that are more rational and superior.
+The Polk Audio Signature Elite ES10 is a technically solid product, but it is difficult to recommend at its current price. For 485 USD, you can purchase a product like the Yamaha NS-SW300, which can play deeper (down to 20Hz) and has a more powerful amplifier, for a much lower price. Features like Power Port technology do not offer a decisive advantage to justify the significant price difference. If you are considering this subwoofer, we strongly recommend exploring more cost-effective alternatives first. In the current market, there are numerous options that are more rational and superior.
 
 (2025.8.2)

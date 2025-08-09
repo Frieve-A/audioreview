@@ -31,7 +31,7 @@ Technically, it adopts industry-standard design approaches. It solidly combines 
 
 $$ \Large \text{1.0} $$
 
-The Arturia MiniFuse 1 is priced at approximately 15,000 JPY. Its measured performance is extremely high, rivaling that of higher-end models costing several times more. There are currently no other 1-input, 192kHz-capable audio interfaces on the market that deliver equivalent or superior performance at a lower price than the MiniFuse 1. Therefore, this product is the world's most affordable in its performance class, and according to the review policy, its cost-performance is rated a perfect 1.0.
+The Arturia MiniFuse 1 is priced at approximately 100 USD. Its measured performance is extremely high, rivaling that of higher-end models costing several times more. There are currently no other 1-input, 192kHz-capable audio interfaces on the market that deliver equivalent or superior performance at a lower price than the MiniFuse 1. Therefore, this product is the world's most affordable in its performance class, and according to the review policy, its cost-performance is rated a perfect 1.0.
 
 ## Reliability & Support
 

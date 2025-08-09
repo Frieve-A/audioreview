@@ -31,7 +31,7 @@ The adoption of 11mm ceramic diaphragm drivers and comprehensive codec support v
 
 $$ \Large \text{1.0} $$
 
-At 149 USD (approx. 23,000 JPY), Nothing Ear provides a unique combination of features including parametric EQ, Personal Sound Profile, and LHDC codec support. While more affordable options like the Soundcore Liberty 4 NC (approx. 99 USD) offer comparable ANC and LDAC support, they lack the advanced parametric EQ and LHDC, making them not fully equivalent. No cheaper alternative with the same or superior functionality and performance exists, resulting in a cost-performance score of 1.0.
+At 149 USD, Nothing Ear provides a unique combination of features including parametric EQ, Personal Sound Profile, and LHDC codec support. While more affordable options like the Soundcore Liberty 4 NC (approx. 99 USD) offer comparable ANC and LDAC support, they lack the advanced parametric EQ and LHDC, making them not fully equivalent. No cheaper alternative with the same or superior functionality and performance exists, resulting in a cost-performance score of 1.0.
 
 ## Reliability & Support
 

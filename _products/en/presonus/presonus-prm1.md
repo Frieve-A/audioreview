@@ -7,7 +7,7 @@ lang: en
 ref: presonus-prm1
 date: 2025-07-17
 rating: [1.7, 0.5, 0.2, 0.2, 0.4, 0.4]
-summary: "The PreSonus PRM1 is a condenser microphone designed specifically for acoustic measurement. At 19,800 JPY, it offers a linear frequency response from 20Hz-20kHz, but falls short of high-end competitors in measurement accuracy and technical level."
+summary: "The PreSonus PRM1 is a condenser microphone designed specifically for acoustic measurement. At approximately 132 USD, it offers a linear frequency response from 20Hz-20kHz, but falls short of high-end competitors in measurement accuracy and technical level."
 tags: [Acoustic Measurement, Measurement Equipment, Microphones, PreSonus, RTA]
 permalink: /products/en/presonus-prm1/
 ---
@@ -31,7 +31,7 @@ The PRM1 uses a standard 1/4-inch pre-polarized electret condenser capsule, offe
 
 $$ \Large \text{0.2} $$
 
-The PRM1's Japanese market price is 19,800 JPY (tax included). The equivalent measurement microphone Behringer ECM8000 (4,314 JPY) exists with no significant difference in basic performance regarding omnidirectional pattern and 20Hz-20kHz frequency response. Calculation: 4,314 JPY ÷ 19,800 JPY = 0.22, indicating severely inferior cost-performance. Additionally, the Dayton Audio EMM-6 (approximately 10,430 JPY) provides individual calibration files, making it superior to the PRM1 in both price and functionality. The PRM1 offers no compelling advantages over these significantly cheaper alternatives, resulting in poor cost-performance.
+The PRM1's Japanese market price is approximately 132 USD (tax included). The equivalent measurement microphone Behringer ECM8000 (29 USD) exists with no significant difference in basic performance regarding omnidirectional pattern and 20Hz-20kHz frequency response. Calculation: 29 USD ÷ 132 USD = 0.22, indicating severely inferior cost-performance. Additionally, the Dayton Audio EMM-6 (approximately 70 USD) provides individual calibration files, making it superior to the PRM1 in both price and functionality. The PRM1 offers no compelling advantages over these significantly cheaper alternatives, resulting in poor cost-performance.
 
 ## Reliability & Support
 
@@ -47,6 +47,6 @@ The PRM1's design philosophy as a measurement-dedicated microphone is rational, 
 
 ## Advice
 
-The PreSonus PRM1 cannot be recommended for serious measurement work due to its poor cost-performance and lack of individual calibration files. At 19,800 JPY, it offers no advantages over significantly cheaper alternatives. For budget-conscious users, the Behringer ECM8000 (4,314 JPY) provides equivalent basic functionality, while the Dayton Audio EMM-6 (approximately 10,430 JPY) offers individual calibration files at nearly half the PRM1's price. Both alternatives render the PRM1 redundant in the market. For those prioritizing measurement accuracy, investment in high-precision models like the Earthworks M23 should be considered. The PRM1's positioning lacks compelling advantages over either budget or high-end alternatives, making it difficult to justify its purchase. Since accuracy is the most critical factor in acoustic measurement, users should choose properly calibrated alternatives that offer better value.
+The PreSonus PRM1 cannot be recommended for serious measurement work due to its poor cost-performance and lack of individual calibration files. At approximately 132 USD, it offers no advantages over significantly cheaper alternatives. For budget-conscious users, the Behringer ECM8000 (29 USD) provides equivalent basic functionality, while the Dayton Audio EMM-6 (approximately 70 USD) offers individual calibration files at nearly half the PRM1's price. Both alternatives render the PRM1 redundant in the market. For those prioritizing measurement accuracy, investment in high-precision models like the Earthworks M23 should be considered. The PRM1's positioning lacks compelling advantages over either budget or high-end alternatives, making it difficult to justify its purchase. Since accuracy is the most critical factor in acoustic measurement, users should choose properly calibrated alternatives that offer better value.
 
 (2025.7.17)

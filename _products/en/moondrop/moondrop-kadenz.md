@@ -13,7 +13,7 @@ permalink: /products/en/moondrop-kadenz/
 ---
 ## Overview
 
-The Moondrop Kadenz is a single dynamic driver in-ear monitor launched in 2024 as the latest model in the company's K-series. It features 10mm ULT Gen2 patent technology and a TAC (tetrahedral amorphous carbon) diamond-coated composite diaphragm, delivering a warmer, listening-focused sound signature compared to previous models like the Kato and Aria 2. The included ECHO-B USB-C dongle incorporates a high-performance DAC achieving excellent measurements of SNR 120dB and THD 0.003%. The current market price is around 27,000 JPY.
+The Moondrop Kadenz is a single dynamic driver in-ear monitor launched in 2024 as the latest model in the company's K-series. It features 10mm ULT Gen2 patent technology and a TAC (tetrahedral amorphous carbon) diamond-coated composite diaphragm, delivering a warmer, listening-focused sound signature compared to previous models like the Kato and Aria 2. The included ECHO-B USB-C dongle incorporates a high-performance DAC achieving excellent measurements of SNR 120dB and THD 0.003%. The current market price is around 180 USD.
 
 ## Scientific Validity
 
@@ -31,7 +31,7 @@ The combination of ULT Gen2 patent technology and a TAC diamond-coated diaphragm
 
 $$ \Large \text{0.6} $$
 
-This product, with an actual market price of 27,000 JPY, includes a high-performance USB-C DAC. An alternative with comparable performance is a combination of the DUNU Titan S (approx. 11,000 JPY) and a USB-C DAC with equal or better measured performance (e.g., FiiO KA11, approx. 4,500 JPY). The total price for this combination is about 15,500 JPY. The cost-performance calculation is 15,500 JPY ÷ 27,000 JPY = 0.57, leading to a score of 0.6. Even when considering the value of the included DAC, the existence of alternatives allowing users to achieve equivalent functionality at a lower cost means its cost-performance is only slightly above the industry average.
+This product, with an actual market price of 180 USD, includes a high-performance USB-C DAC. An alternative with comparable performance is a combination of the DUNU Titan S (approx. 73 USD) and a USB-C DAC with equal or better measured performance (e.g., FiiO KA11, approx. 30 USD). The total price for this combination is about 103 USD. The cost-performance calculation is 103 USD ÷ 180 USD = 0.57, leading to a score of 0.6. Even when considering the value of the included DAC, the existence of alternatives allowing users to achieve equivalent functionality at a lower cost means its cost-performance is only slightly above the industry average.
 
 ## Reliability & Support
 
@@ -47,6 +47,6 @@ The design approach of the Kadenz shows a rational direction based on scientific
 
 ## Advice
 
-While the Moondrop Kadenz is a technically excellent IEM, we strongly recommend a careful consideration of its cost-performance before purchase. For its price of 27,000 JPY, one could, for example, combine the DUNU Titan S (approx. 11,000 JPY) with a high-performance USB-C DAC (approx. 4,500 JPY) to enjoy equivalent or superior performance for about 15,500 JPY. Investing the remaining budget in other equipment could lead to a better overall improvement in sound quality. The Kadenz should be chosen only if there is a strong preference for Moondrop's specific sound signature and if the convenience of the bundled DAC is a priority. For those who prioritize a balance of objective performance and price, choosing a more affordable alternative configuration is the rational decision.
+While the Moondrop Kadenz is a technically excellent IEM, we strongly recommend a careful consideration of its cost-performance before purchase. For its price of 180 USD, one could, for example, combine the DUNU Titan S (approx. 73 USD) with a high-performance USB-C DAC (approx. 30 USD) to enjoy equivalent or superior performance for about 103 USD. Investing the remaining budget in other equipment could lead to a better overall improvement in sound quality. The Kadenz should be chosen only if there is a strong preference for Moondrop's specific sound signature and if the convenience of the bundled DAC is a priority. For those who prioritize a balance of objective performance and price, choosing a more affordable alternative configuration is the rational decision.
 
 (2025.7.27)

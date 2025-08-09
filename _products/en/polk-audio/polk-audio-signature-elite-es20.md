@@ -13,7 +13,7 @@ permalink: /products/en/polk-audio-signature-elite-es20/
 ---
 ## Overview
 
-The Polk Audio Signature Elite ES20 is a 2-way passive bookshelf speaker featuring a 1-inch Terylene Dome tweeter and 6.5-inch Mica-reinforced polypropylene woofer. Priced at 38,484 yen (pair), it is Hi-Res certified and supports Dolby Atmos and DTS:X. While it incorporates Power Port technology to enhance low-frequency response, it fails to meet current technical standards in basic measurement performance.
+The Polk Audio Signature Elite ES20 is a 2-way passive bookshelf speaker featuring a 1-inch Terylene Dome tweeter and 6.5-inch Mica-reinforced polypropylene woofer. Priced at approximately 257 USD (pair), it is Hi-Res certified and supports Dolby Atmos and DTS:X. While it incorporates Power Port technology to enhance low-frequency response, it fails to meet current technical standards in basic measurement performance.
 
 ## Scientific Validity
 
@@ -31,7 +31,7 @@ The basic 2-way passive design shows no particularly innovative technologies. Po
 
 $$ \Large \text{1.0} $$
 
-At 38,484 yen, the KEF Q150 (65,340 yen) exists as a competitive product with equivalent or superior performance. The KEF Q150 achieves excellent soundstage positioning through its proprietary Uni-Q technology, but at the current market price of 65,340 yen, it is expensive. Calculating 65,340 yen ÷ 38,484 yen = 1.70, which when clamped to the maximum value gives 1.0. The ES20 represents the most cost-effective option among products with equivalent functionality, making it the best value choice in its category.
+At approximately 257 USD, the KEF Q150 (approximately 436 USD) exists as a competitive product with equivalent or superior performance. The KEF Q150 achieves excellent soundstage positioning through its proprietary Uni-Q technology, but at the current market price of approximately 436 USD, it is expensive. Calculating 436 USD ÷ 257 USD = 1.70, which when clamped to the maximum value gives 1.0. The ES20 represents the most cost-effective option among products with equivalent functionality, making it the best value choice in its category.
 
 ## Reliability & Support
 
@@ -47,6 +47,6 @@ Rational design toward achieving transparency levels in the measurement results 
 
 ## Advice
 
-For those considering purchasing the ES20, I can confirm it represents a rational choice at the 38,484 yen price point. The KEF Q150 achieves excellent soundstage positioning through Uni-Q technology at approximately 65,340 yen, but the price difference amounts to about 27,000 yen. The ELAC Debut B6.2 is significantly more expensive at approximately 124,000-140,000 yen. The ES20 achieves 41Hz-40kHz ±3dB frequency response and obtains Hi-Res certification. Low distortion performance at 86dB measurement levels and clean 1-watt reproduction around 40Hz represent appropriate performance for this price range. For those prioritizing cost-performance, the ES20 becomes a rational choice.
+For those considering purchasing the ES20, I can confirm it represents a rational choice at the approximately 257 USD price point. The KEF Q150 achieves excellent soundstage positioning through Uni-Q technology at approximately 436 USD, but the price difference amounts to about 180 USD. The ELAC Debut B6.2 is significantly more expensive at approximately 933 USD. The ES20 achieves 41Hz-40kHz ±3dB frequency response and obtains Hi-Res certification. Low distortion performance at 86dB measurement levels and clean 1-watt reproduction around 40Hz represent appropriate performance for this price range. For those prioritizing cost-performance, the ES20 becomes a rational choice.
 
 (2025.7.18)

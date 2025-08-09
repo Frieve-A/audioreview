@@ -31,7 +31,7 @@ The adoption of a large 16mm dynamic driver demonstrates technical uniqueness, b
 
 $$ \Large \text{0.4} $$
 
-Against the current market price of approximately 20,800 JPY, cheaper alternatives with equivalent functionality and superior measured performance exist. For example, the Truthear x Crinacle ZERO:RED (approx. 8,000 JPY) features a detachable cable like this unit, but offers a flatter, more accurate frequency response and lower distortion. While this model may have an advantage in professional-grade durability, the existence of a significantly cheaper option that excels in core audio measurement performance forces a low cost-performance rating. The calculation is `8,000 JPY ÷ 20,800 JPY ≒ 0.38`, resulting in a score of 0.4.
+Against the current market price of approximately 139 USD, cheaper alternatives with equivalent functionality and superior measured performance exist. For example, the Truthear x Crinacle ZERO:RED (approx. 53 USD) features a detachable cable like this unit, but offers a flatter, more accurate frequency response and lower distortion. While this model may have an advantage in professional-grade durability, the existence of a significantly cheaper option that excels in core audio measurement performance forces a low cost-performance rating. The calculation is `53 USD ÷ 139 USD ≒ 0.38`, resulting in a score of 0.4.
 
 ## Reliability & Support
 
@@ -47,6 +47,6 @@ The design choice to intentionally cut high frequencies above 12kHz to reduce li
 
 ## Advice
 
-For its price of around 20,800 JPY, the MDR-EX800ST is worth considering for a specific niche. Professionals looking for an earphone that reduces listening fatigue during long monitoring sessions will find its design philosophy effective. However, for those prioritizing pure measurement performance and cost-effectiveness, options like the Truthear x Crinacle ZERO:RED (approx. 8,000 JPY) offer superior frequency response at a much lower price. For higher accuracy, high-end models such as the Audio-Technica ATH-E70 (approx. 42,000 JPY) or the Shure SE425 (approx. 36,000 JPY) come into view. This product is recommended only for experienced users who understand its unique design philosophy and find it suitable for their specific applications.
+For its price of around 139 USD, the MDR-EX800ST is worth considering for a specific niche. Professionals looking for an earphone that reduces listening fatigue during long monitoring sessions will find its design philosophy effective. However, for those prioritizing pure measurement performance and cost-effectiveness, options like the Truthear x Crinacle ZERO:RED (approx. 53 USD) offer superior frequency response at a much lower price. For higher accuracy, high-end models such as the Audio-Technica ATH-E70 (approx. 280 USD) or the Shure SE425 (approx. 240 USD) come into view. This product is recommended only for experienced users who understand its unique design philosophy and find it suitable for their specific applications.
 
 (2025.7.22)

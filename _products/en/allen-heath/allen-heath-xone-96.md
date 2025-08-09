@@ -31,7 +31,7 @@ The design leverages Allen & Heath's technical expertise through custom-designed
 
 $$ \Large \text{1.0} $$
 
-The current market price is approximately 330,000 JPY. Cost-performance is evaluated by the price ratio against the world's cheapest product with equivalent or superior "functions" and "measured performance." The main specifications of the Xone:96 are its features, such as 6-channel input, a dual USB audio interface, and a 4-band EQ, combined with high measured performance, typified by a 104dB dynamic range. While cheaper 6-channel mixers exist on the market, they are significantly inferior in measured performance (especially S/N ratio and distortion) or lack advanced features like a dual USB interface. Consequently, no cheaper alternative exists in the current market that combines equivalent or superior functions and measured performance. Therefore, the cost-performance is rated as 1.0.
+The current market price is approximately 2,200 USD. Cost-performance is evaluated by the price ratio against the world's cheapest product with equivalent or superior "functions" and "measured performance." The main specifications of the Xone:96 are its features, such as 6-channel input, a dual USB audio interface, and a 4-band EQ, combined with high measured performance, typified by a 104dB dynamic range. While cheaper 6-channel mixers exist on the market, they are significantly inferior in measured performance (especially S/N ratio and distortion) or lack advanced features like a dual USB interface. Consequently, no cheaper alternative exists in the current market that combines equivalent or superior functions and measured performance. Therefore, the cost-performance is rated as 1.0.
 
 ## Reliability & Support
 

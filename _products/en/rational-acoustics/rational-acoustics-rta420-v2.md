@@ -32,7 +32,7 @@ The 1/4-inch back-electret condenser technology represents an established design
 
 $$ \Large \text{1.0} $$
 
-The RTA-420's market price is approximately 89 USD (about 12,500 JPY). A competitive product with equivalent or superior functionality is the miniDSP UMIK-1 (110 USD, about 15,500 JPY). The UMIK-1 offers superior functionality with a frequency range of 20Hz-20kHz ±1dB for higher precision, USB connectivity eliminating the need for phantom power or audio interfaces, and included individual calibration files. However, Rational Acoustics offers calibrated versions with individual correction curves available through their database. Calculation: 15,500 JPY ÷ 12,500 JPY = 1.24, clamped to 1.0. The RTA-420 represents the most affordable option for equivalent measurement functionality, resulting in excellent cost-performance.
+The RTA-420's market price is approximately 89 USD (about 83 USD). A competitive product with equivalent or superior functionality is the miniDSP UMIK-1 (110 USD, about 103 USD). The UMIK-1 offers superior functionality with a frequency range of 20Hz-20kHz ±1dB for higher precision, USB connectivity eliminating the need for phantom power or audio interfaces, and included individual calibration files. However, Rational Acoustics offers calibrated versions with individual correction curves available through their database. Calculation: 103 USD ÷ 83 USD = 1.24, clamped to 1.0. The RTA-420 represents the most affordable option for equivalent measurement functionality, resulting in excellent cost-performance.
 
 ## Reliability & Support
 
@@ -48,6 +48,6 @@ While the entry-level positioning is understandable, the design philosophy regar
 
 ## Advice
 
-The RTA-420 can be recommended as a cost-effective choice for measurement applications, particularly in Smaart software environments. While the miniDSP UMIK-1 offers USB connectivity convenience and slightly higher precision, it costs approximately 3,000 JPY more. For budget-conscious users or those requiring professional XLR connectivity, the RTA-420 provides good value. The choice between RTA-420 and UMIK-1 depends on specific requirements: the RTA-420 for professional setups with existing phantom power infrastructure, and the UMIK-1 for simplified USB connectivity. Measurement accuracy is fundamental to acoustic analysis and should not be compromised even at entry levels.
+The RTA-420 can be recommended as a cost-effective choice for measurement applications, particularly in Smaart software environments. While the miniDSP UMIK-1 offers USB connectivity convenience and slightly higher precision, it costs approximately 20 USD more. For budget-conscious users or those requiring professional XLR connectivity, the RTA-420 provides good value. The choice between RTA-420 and UMIK-1 depends on specific requirements: the RTA-420 for professional setups with existing phantom power infrastructure, and the UMIK-1 for simplified USB connectivity. Measurement accuracy is fundamental to acoustic analysis and should not be compromised even at entry levels.
 
 (2025.7.18)

@@ -31,7 +31,7 @@ The adoption of the TPA3255 chip remains a valid choice today, though it cannot 
 
 $$ \Large \text{1.0} $$
 
-Against the Japanese market price of 17,849 JPY, the AIYIMA A70 (featuring TPA3255, XLR/TRS support, 300W×2 output) with equivalent functionality is sold at 29,999 JPY. The ZA3 achieves the lowest price among competing products with equivalent balanced input functionality and measurement performance. For users requiring balanced input (XLR/TRS) and mono/stereo switching functionality, the ZA3 holds clear price advantages. This pricing with a 48V power supply represents world-class affordability in the equivalent function category, earning the highest cost-performance rating.
+Against the Japanese market price of 119 USD, the AIYIMA A70 (featuring TPA3255, XLR/TRS support, 300W×2 output) with equivalent functionality is sold at 200 USD. The ZA3 achieves the lowest price among competing products with equivalent balanced input functionality and measurement performance. For users requiring balanced input (XLR/TRS) and mono/stereo switching functionality, the ZA3 holds clear price advantages. This pricing with a 48V power supply represents world-class affordability in the equivalent function category, earning the highest cost-performance rating.
 
 ## Reliability & Support
 

@@ -13,7 +13,7 @@ permalink: /products/en/earfun-air-pro-2/
 ---
 ## Overview
 
-The EarFun Air Pro 2 is a true wireless earbud released in 2021 by the Chinese audio brand EarFun. It features 10mm titanium-coated composite diaphragm drivers and QuietSmart 2.0 hybrid ANC technology, claiming up to 40dB of noise cancellation. Key features include Bluetooth 5.2 connectivity, IPX5 water resistance, and enhanced call quality via a 6-microphone array. Launched at a price of 79.99 USD (approximately 12,000 JPY at the time), it has since been discontinued from major e-commerce sites and effectively withdrawn from the market following the release of successor models.
+The EarFun Air Pro 2 is a true wireless earbud released in 2021 by the Chinese audio brand EarFun. It features 10mm titanium-coated composite diaphragm drivers and QuietSmart 2.0 hybrid ANC technology, claiming up to 40dB of noise cancellation. Key features include Bluetooth 5.2 connectivity, IPX5 water resistance, and enhanced call quality via a 6-microphone array. Launched at a price of 80 USD, it has since been discontinued from major e-commerce sites and effectively withdrawn from the market following the release of successor models.
 
 ## Scientific Validity
 
@@ -31,9 +31,9 @@ The technology implemented is at an industry-average level, even for its release
 
 $$ \Large \text{0.3} $$
 
-The cost-performance is extremely poor. Compared to the Air Pro 2's launch price of approximately 12,000 JPY, products with equivalent or superior ANC performance and connectivity are now available for far less. For instance, the "QCY HT05 MeloBuds," which offers comparable or better ANC, is sold for around 3,980 JPY. A comparison yields the following cost-performance calculation:
+The cost-performance is extremely poor. Compared to the Air Pro 2's launch price of approximately 80 USD, products with equivalent or superior ANC performance and connectivity are now available for far less. For instance, the "QCY HT05 MeloBuds," which offers comparable or better ANC, is sold for around 27 USD. A comparison yields the following cost-performance calculation:
 
-3,980 JPY ÷ 12,000 JPY ≈ 0.33
+27 USD ÷ 80 USD ≈ 0.33
 
 Based on this result, the score is 0.3. Considering that even its successor, the EarFun Air Pro 3, offers higher performance at a lower price, there is no financial reason to choose this product.
 
@@ -51,6 +51,6 @@ The product's design philosophy is generally rational but reveals inefficiencies
 
 ## Advice
 
-The purchase of the EarFun Air Pro 2 is not recommended under any circumstances. Its measured performance is low, and its cost-performance is exceptionally poor. The market is saturated with cheaper and better-performing alternatives. Specifically, you can easily find products with comparable or superior ANC performance in the 3,000 to 5,000 JPY price range, such as the QCY HT05 MeloBuds. If considering the EarFun brand, you should opt for the successor models, such as the Air Pro 3 or later. Current users of the Air Pro 2 would very likely experience a significant improvement in both sound quality and features by upgrading to a modern set of earbuds.
+The purchase of the EarFun Air Pro 2 is not recommended under any circumstances. Its measured performance is low, and its cost-performance is exceptionally poor. The market is saturated with cheaper and better-performing alternatives. Specifically, you can easily find products with comparable or superior ANC performance in the 20 to 33 USD price range, such as the QCY HT05 MeloBuds. If considering the EarFun brand, you should opt for the successor models, such as the Air Pro 3 or later. Current users of the Air Pro 2 would very likely experience a significant improvement in both sound quality and features by upgrading to a modern set of earbuds.
 
 (2025.8.1)

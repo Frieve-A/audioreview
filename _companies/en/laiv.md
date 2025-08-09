@@ -32,7 +32,7 @@ The R2R design using an Intel Altera Cyclone FPGA demonstrates a certain level o
 
 $$ \Large \text{0.1} $$
 
-The Harmony DAC is priced at approximately 2,700 USD (410,000 JPY). Shockingly, the S.M.S.L D-6S, which sells for only about 200 USD (30,000 JPY), outperforms this unit in every single measurement metric while offering comparable functionality. The fact that a vastly superior product exists for less than a tenth of the price demonstrates that this product's cost-performance is practically non-existent. The calculation is `200 USD ÷ 2,700 USD ≒ 0.074`, and the score is rounded from this value.
+The Harmony DAC is priced at approximately 2,733 USD. Shockingly, the S.M.S.L D-6S, which sells for only about 200 USD, outperforms this unit in every single measurement metric while offering comparable functionality. The fact that a vastly superior product exists for less than a tenth of the price demonstrates that this product's cost-performance is practically non-existent. The calculation is `200 USD ÷ 2,733 USD ≒ 0.074`, and the score is rounded from this value.
 
 ## Reliability & Support
 
@@ -48,6 +48,6 @@ The adoption of the R2R architecture is often justified by the pursuit of a uniq
 
 ## Advice
 
-The purchase of the Laiv Harmony DAC cannot be recommended from any perspective. This device fails to provide performance or value commensurate with its exorbitant price, and its design philosophy lacks scientific rationality. With a budget of 2,700 USD, one could purchase a DAC like the S.M.S.L D-6S (approx. 200 USD), which outperforms the Harmony in every way, and still have 2,500 USD left over. Investing this difference in speakers, amplifiers, or room acoustics would result in an incomparably greater improvement in overall system sound quality. Even if one feels a nostalgic appeal for R2R technology, it is an irrational choice that conflicts with the goal of faithful sound reproduction. Based on a fair and objective evaluation, this is a product to be avoided.
+The purchase of the Laiv Harmony DAC cannot be recommended from any perspective. This device fails to provide performance or value commensurate with its exorbitant price, and its design philosophy lacks scientific rationality. With a budget of 2,733 USD, one could purchase a DAC like the S.M.S.L D-6S (approx. 200 USD), which outperforms the Harmony in every way, and still have 2,533 USD left over. Investing this difference in speakers, amplifiers, or room acoustics would result in an incomparably greater improvement in overall system sound quality. Even if one feels a nostalgic appeal for R2R technology, it is an irrational choice that conflicts with the goal of faithful sound reproduction. Based on a fair and objective evaluation, this is a product to be avoided.
 
 (2025.7.24)

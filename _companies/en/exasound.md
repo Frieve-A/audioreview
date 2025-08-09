@@ -32,7 +32,7 @@ The company employs ESS Technologies' ES9038PRO with proprietary ASIO drivers an
 
 $$ \Large \text{0.1} $$
 
-Against the s88 Streaming DAC's 6500 USD (approximately 950,000 JPY), a combination of the higher-performing Topping D90SE DAC (approx. 60,000 JPY) and the versatile Wiim Pro Plus streamer (approx. 30,000 JPY) is available for a total of about 90,000 JPY. Calculation: 90,000 JPY ÷ 950,000 JPY = 0.09, which rounds to 0.1. Similarly, for the e32 and e38 models, ES9038Q2M-equipped DACs like the SMSL D6S (approx. 25,000 JPY) and Topping E50 (approx. 40,000 JPY) provide equivalent or superior measurement performance at significantly lower costs. Multi-channel support is also achievable through a PC + multi-channel DAC combination, offering no price advantage as dedicated equipment.
+Against the s88 Streaming DAC's 6333 USD, a combination of the higher-performing Topping D90SE DAC (400 USD) and the versatile Wiim Pro Plus streamer (200 USD) is available for a total of about 600 USD. Calculation: 600 USD ÷ 6333 USD = 0.09, which rounds to 0.1. Similarly, for the e32 and e38 models, ES9038Q2M-equipped DACs like the SMSL D6S (167 USD) and Topping E50 (267 USD) provide equivalent or superior measurement performance at significantly lower costs. Multi-channel support is also achievable through a PC + multi-channel DAC combination, offering no price advantage as dedicated equipment.
 
 ## Reliability & Support
 
@@ -48,6 +48,6 @@ There are irrational aspects in investing development resources into scientifica
 
 ## Advice
 
-Purchasing Exasound products is not recommended. Against the s88's 950,000 JPY price point, the combination of a Wiim Pro Plus (30,000 JPY) and a Topping D90SE (60,000 JPY) delivers a superior measurement performance and a more flexible system for a total of about 90,000 JPY. As Audio Science Review measurements demonstrate, the price and performance are severely misaligned, with no scientific basis for justifying the purchase. Sound quality improvements commensurate with the high investment cannot be expected, and more rational alternatives are strongly recommended. Avoid being misled by features like DSD or MQA, and make informed decisions based on measurement data.
+Purchasing Exasound products is not recommended. Against the s88's 6333 USD price point, the combination of a Wiim Pro Plus (200 USD) and a Topping D90SE (400 USD) delivers a superior measurement performance and a more flexible system for a total of about 600 USD. As Audio Science Review measurements demonstrate, the price and performance are severely misaligned, with no scientific basis for justifying the purchase. Sound quality improvements commensurate with the high investment cannot be expected, and more rational alternatives are strongly recommended. Avoid being misled by features like DSD or MQA, and make informed decisions based on measurement data.
 
 (2025.7.20)

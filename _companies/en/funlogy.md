@@ -13,7 +13,7 @@ permalink: /companies/en/funlogy/
 ---
 ## Overview
 
-Funlogy is a Japanese company established in 2015, headquartered in Chuo-ku, Chiba City, Chiba Prefecture. With the corporate philosophy of "Making 365 days enjoyable," the company engages in planning, development, and sales of home electronics including speakers, soundbars, and projectors. Despite its small team structure, the company achieves low pricing by utilizing Amazon's FBA service and has gained market recognition through awards including VGP (Visual Grand Prix) and Good Design Award. The product price range is concentrated in the low-price segment from 1,490 yen to approximately 9,999 yen, with a focus on cost-performance oriented product lineup.
+Funlogy is a Japanese company established in 2015, headquartered in Chuo-ku, Chiba City, Chiba Prefecture. With the corporate philosophy of "Making 365 days enjoyable," the company engages in planning, development, and sales of home electronics including speakers, soundbars, and projectors. Despite its small team structure, the company achieves low pricing by utilizing Amazon's FBA service and has gained market recognition through awards including VGP (Visual Grand Prix) and Good Design Award. The product price range is concentrated in the low-price segment from 10 USD to approximately 67 USD, with a focus on cost-performance oriented product lineup.
 
 ## Scientific Validity
 
@@ -31,7 +31,7 @@ The company's products are fundamentally based on combinations of existing techn
 
 $$ \Large \text{1.0} $$
 
-The company's products demonstrate limited competitiveness when compared with accurate market pricing. For FUNLOGY Speaker (1,490 yen), current market research shows Creative Pebble models range from 2,980-3,680 yen on Amazon Japan (as of 2025), significantly higher than previously cited pricing. Using the lowest available Creative Pebble price of 2,980 yen, the calculation becomes: 2,980 yen ÷ 1,490 yen = 2.0, which clamps to 1.0, maintaining cost-performance leadership in basic PC speakers. For FUNLOGY SOUND3 (9,999 yen), accurate competitive analysis is challenging as previously cited products like TaoTronics TT-SK023 appear to have limited availability or discontinuation status on major platforms. Without verified current pricing of equivalent 2.1ch soundbars, cost-performance assessment requires more conservative evaluation. Overall cost-performance remains competitive primarily due to low absolute pricing rather than exceptional value proposition.
+The company's products demonstrate limited competitiveness when compared with accurate market pricing. For FUNLOGY Speaker (10 USD), current market research shows Creative Pebble models range from 20-25 USD on Amazon Japan (as of 2025), significantly higher than previously cited pricing. Using the lowest available Creative Pebble price of 20 USD, the calculation becomes: 20 USD ÷ 10 USD = 2.0, which clamps to 1.0, maintaining cost-performance leadership in basic PC speakers. For FUNLOGY SOUND3 (67 USD), accurate competitive analysis is challenging as previously cited products like TaoTronics TT-SK023 appear to have limited availability or discontinuation status on major platforms. Without verified current pricing of equivalent 2.1ch soundbars, cost-performance assessment requires more conservative evaluation. Overall cost-performance remains competitive primarily due to low absolute pricing rather than exceptional value proposition.
 
 ## Reliability & Support
 

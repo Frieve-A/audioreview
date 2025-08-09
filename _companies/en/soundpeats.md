@@ -7,7 +7,7 @@ lang: en
 ref: soundpeats
 date: 2025-07-11
 rating: [3.2, 0.6, 0.5, 1.0, 0.8, 0.3]
-summary: "Chinese wireless earphone manufacturer founded in 2010. Cost-performance focused product lineup primarily in the 5,000-8,000 JPY price range, offering competitive ANC performance."
+summary: "Chinese wireless earphone manufacturer founded in 2010. Cost-performance focused product lineup primarily in the 33-53 USD price range, offering competitive ANC performance."
 tags: [Budget, China, Wireless earphones]
 permalink: /companies/en/soundpeats/
 ---
@@ -31,7 +31,7 @@ Technical approaches are evident including proprietary crossover technology, coa
 
 $$ \Large \text{1.0} $$
 
-As a product with equivalent or superior functionality to Air3 Pro (5,890 JPY), the QCY MeloBuds Pro (5,583 JPY) exists. The QCY product offers superior 46dB ANC performance (exceeding Air3 Pro's 35dB), LDAC support for hi-res audio, and similar connectivity, providing completely equivalent or superior function and performance from a user perspective. Calculation: 5,583 JPY ÷ 5,890 JPY = 0.95 → 1.0 (capped). QCY MeloBuds Pro won VGP 2025 Gold Award and has measurement performance advantages, making it a superior choice while being less expensive than Air3 Pro.
+As a product with equivalent or superior functionality to Air3 Pro (39 USD), the QCY MeloBuds Pro (37 USD) exists. The QCY product offers superior 46dB ANC performance (exceeding Air3 Pro's 35dB), LDAC support for hi-res audio, and similar connectivity, providing completely equivalent or superior function and performance from a user perspective. Calculation: 37 USD ÷ 39 USD = 0.95 → 1.0 (capped). QCY MeloBuds Pro won VGP 2025 Gold Award and has measurement performance advantages, making it a superior choice while being less expensive than Air3 Pro.
 
 ## Reliability & Support
 

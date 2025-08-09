@@ -31,7 +31,7 @@ Synergy Core technology is a proprietary real-time processing platform combining
 
 $$ \Large \text{1.0} $$
 
-The current Japanese market price is approximately 81,400 JPY. When compared with equivalent products featuring real-time DSP processing, the Universal Audio Apollo Twin X USB (approximately 158,468 JPY) stands as the primary competing product. The calculation: 158,468 JPY ÷ 81,400 JPY = 1.95, but the cost-performance score is clamped to the maximum value of 1.0. This means the Zen-Go Synergy Core is positioned at the lowest price among products with equivalent real-time DSP processing capabilities. Considering the 37 standard effects and expandability of the Synergy Core platform, it achieves extremely excellent cost-performance for users who utilize DSP functionality.
+The current Japanese market price is approximately 543 USD. When compared with equivalent products featuring real-time DSP processing, the Universal Audio Apollo Twin X USB (approximately 1,056 USD) stands as the primary competing product. The calculation: 1,056 USD ÷ 543 USD = 1.95, but the cost-performance score is clamped to the maximum value of 1.0. This means the Zen-Go Synergy Core is positioned at the lowest price among products with equivalent real-time DSP processing capabilities. Considering the 37 standard effects and expandability of the Synergy Core platform, it achieves extremely excellent cost-performance for users who utilize DSP functionality.
 
 ## Reliability & Support
 

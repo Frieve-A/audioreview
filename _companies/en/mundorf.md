@@ -32,7 +32,7 @@ Since its 1985 founding, the company has developed proprietary winding technique
 
 $$ \Large \text{0.0} $$
 
-Compared to general-purpose electronic components with equivalent functionality, the price difference is extremely large. For example, while Mundorf MCap Supreme 1.0μF/630V sells for approximately 5,000 JPY, equivalent capacitance and voltage rating Panasonic ECQ-E6105KF (1μF/630V metallized polyester film capacitor) can be obtained for about 200 JPY. CP = 200 JPY ÷ 5,000 JPY = 0.04. Since this calculated value is below 0.05, the score rounds to 0.0. There is no difference in practical performance for audio applications, making the 25x price difference unreasonable. Similar situations exist for inductors and resistors, where general-purpose components with equivalent electrical characteristics are available at less than 1/10 the price.
+Compared to general-purpose electronic components with equivalent functionality, the price difference is extremely large. For example, while Mundorf MCap Supreme 1.0μF/630V sells for approximately 33 USD, equivalent capacitance and voltage rating Panasonic ECQ-E6105KF (1μF/630V metallized polyester film capacitor) can be obtained for about 1 USD. CP = 1 USD ÷ 33 USD = 0.04. Since this calculated value is below 0.05, the score rounds to 0.0. There is no difference in practical performance for audio applications, making the 25x price difference unreasonable. Similar situations exist for inductors and resistors, where general-purpose components with equivalent electrical characteristics are available at less than 1/10 the price.
 
 ## Reliability & Support
 

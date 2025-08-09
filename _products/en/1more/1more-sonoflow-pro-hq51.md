@@ -14,7 +14,7 @@ permalink: /products/en/1more-sonoflow-pro-hq51/
 
 ## Overview
 
-The 1MORE SonoFlow Pro HQ51 is a wireless ANC headphone released by Chinese company 1MORE in 2024. Equipped with DLC (Diamond-Like Carbon) composite drivers and LDAC support for hi-res audio playback, this product aims for professional sound quality at an affordable price of 12,800 JPY. The QuietMax dual-feed ANC technology achieves noise reduction of 42dB or more, while offering extended playback times of 100 hours with ANC off and 65 hours with ANC on.
+The 1MORE SonoFlow Pro HQ51 is a wireless ANC headphone released by Chinese company 1MORE in 2024. Equipped with DLC (Diamond-Like Carbon) composite drivers and LDAC support for hi-res audio playback, this product aims for professional sound quality at an affordable price of 85 USD. The QuietMax dual-feed ANC technology achieves noise reduction of 42dB or more, while offering extended playback times of 100 hours with ANC off and 65 hours with ANC on.
 
 ## Scientific Validity
 
@@ -32,7 +32,7 @@ The 40mm DLC composite driver achieves both higher rigidity and weight reduction
 
 $$ \Large \text{0.8} $$
 
-Compared to the OneOdio Focus A6 (10,400 JPY) which has equivalent functionality, the calculation yields 10,400 JPY ÷ 12,800 JPY = 0.81. The Focus A6 offers superior specifications with 48dB ANC performance, LDAC support, and Bluetooth 6.0 at a lower price. However, the 1MORE product maintains competitiveness in overall completeness with its 246g lightweight design, 100-hour battery life, and Hi-Res Audio certification. While not the absolute lowest price, the balance between quality and price is at a reasonable level.
+Compared to the OneOdio Focus A6 (69 USD) which has equivalent functionality, the calculation yields 69 USD ÷ 85 USD = 0.81. The Focus A6 offers superior specifications with 48dB ANC performance, LDAC support, and Bluetooth 6.0 at a lower price. However, the 1MORE product maintains competitiveness in overall completeness with its 246g lightweight design, 100-hour battery life, and Hi-Res Audio certification. While not the absolute lowest price, the balance between quality and price is at a reasonable level.
 
 ## Reliability & Support
 
@@ -48,6 +48,6 @@ The design rationally combines scientifically confirmed sound quality improvemen
 
 ## Advice
 
-The 1MORE SonoFlow Pro HQ51 is suitable for those seeking genuine hi-res support and ANC functionality at the 12,800 JPY price point. LDAC support enables high-transparency sound quality for hi-res audio playback on Android smartphones and Walkman devices. The ANC performance of 42dB or more is sufficient for commuting and school use, while the 100-hour battery life significantly reduces charging frequency. However, the more affordable OneOdio Focus A6 also offers equivalent or superior specifications, so comparison is recommended for those prioritizing absolute cost-performance. For those who emphasize the overall balance of sound quality, functionality, and design, and who seek official support in Japan, this represents an appropriate choice.
+The 1MORE SonoFlow Pro HQ51 is suitable for those seeking genuine hi-res support and ANC functionality at the 85 USD price point. LDAC support enables high-transparency sound quality for hi-res audio playback on Android smartphones and Walkman devices. The ANC performance of 42dB or more is sufficient for commuting and school use, while the 100-hour battery life significantly reduces charging frequency. However, the more affordable OneOdio Focus A6 also offers equivalent or superior specifications, so comparison is recommended for those prioritizing absolute cost-performance. For those who emphasize the overall balance of sound quality, functionality, and design, and who seek official support in Japan, this represents an appropriate choice.
 
 (2025.7.31)

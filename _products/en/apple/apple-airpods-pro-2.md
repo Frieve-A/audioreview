@@ -13,7 +13,7 @@ permalink: /products/en/apple-airpods-pro-2/
 ---
 ## Overview
 
-Apple AirPods Pro 2, released in 2022, is Apple's flagship wireless earbuds featuring the H2 chip and delivering 2x better Active Noise Cancellation compared to the previous generation. It achieves low-distortion playback through custom drivers and amplifiers, with Adaptive EQ providing real-time audio tuning. Priced at 250 USD (approximately 40,000 yen), it targets the premium wireless earbuds market with advanced features and seamless Apple ecosystem integration.
+Apple AirPods Pro 2, released in 2022, is Apple's flagship wireless earbuds featuring the H2 chip and delivering 2x better Active Noise Cancellation compared to the previous generation. It achieves low-distortion playback through custom drivers and amplifiers, with Adaptive EQ providing real-time audio tuning. Priced at 250 USD, it targets the premium wireless earbuds market with advanced features and seamless Apple ecosystem integration.
 
 ## Scientific Validity
 
@@ -31,7 +31,7 @@ The comprehensive technical integration centered on the H2 chip, combining custo
 
 $$ \Large \text{0.6} $$
 
-Competing products in the same price range include Sony WF-1000XM4 (250 USD) offering equivalent ANC performance, LDAC support, 360 Reality Audio, and 8+16 hour battery life. More affordable options include Anker Soundcore Liberty 4 NC (100 USD, approximately 16,000 yen) achieving equivalent ANC performance (95% noise reduction), LDAC support, and 10+40 hour battery life. Using Liberty 4 NC as the baseline equivalent product: CP = 100 USD ÷ 250 USD = 0.40. However, considering Apple ecosystem integration value, the final evaluation is adjusted to 0.6.
+Competing products in the same price range include Sony WF-1000XM4 (250 USD) offering equivalent ANC performance, LDAC support, 360 Reality Audio, and 8+16 hour battery life. More affordable options include Anker Soundcore Liberty 4 NC (100 USD) achieving equivalent ANC performance (95% noise reduction), LDAC support, and 10+40 hour battery life. Using Liberty 4 NC as the baseline equivalent product: CP = 100 USD ÷ 250 USD = 0.40. However, considering Apple ecosystem integration value, the final evaluation is adjusted to 0.6.
 
 ## Reliability & Support
 
@@ -43,7 +43,7 @@ Apple's global support infrastructure and 1-year warranty, plus AppleCare+ exten
 
 $$ \Large \text{0.6} $$
 
-Adaptive EQ for individual differences, H2 chip integrated processing, and scientific ANC implementation demonstrate rational design approaches. However, the necessity as a dedicated audio device is questionable. Equivalent performance can be achieved with smartphone + external DAC solutions (approximately 15,000 yen), and the performance difference versus general-purpose devices cannot justify the price differential. The delayed transition from proprietary charging standards to USB-C also indicates design efficiency issues.
+Adaptive EQ for individual differences, H2 chip integrated processing, and scientific ANC implementation demonstrate rational design approaches. However, the necessity as a dedicated audio device is questionable. Equivalent performance can be achieved with smartphone + external DAC solutions (approximately 100 USD), and the performance difference versus general-purpose devices cannot justify the price differential. The delayed transition from proprietary charging standards to USB-C also indicates design efficiency issues.
 
 ## Advice
 

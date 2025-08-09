@@ -31,7 +31,7 @@ The technical design level is highly commendable. The D-ART ribbon tweeter is th
 
 $$ \Large \text{1.0} $$
 
-With a market price of around 45,000 JPY, competitors with comparable features and performance (such as DSP room correction, USB-C connectivity, and a 4-inch woofer), like the KRK GoAux 4, are priced significantly higher, starting from around 60,000 JPY. Currently, the Adam Audio D3V stands as one of the most affordable options among desktop monitors with similar functionalities, earning it a top score of 1.0 for cost-performance. Considering it also includes the proprietary D-ART ribbon tweeter technology, its value proposition is even stronger.
+With a market price of around 300 USD, competitors with comparable features and performance (such as DSP room correction, USB-C connectivity, and a 4-inch woofer), like the KRK GoAux 4, are priced significantly higher, starting from around 400 USD. Currently, the Adam Audio D3V stands as one of the most affordable options among desktop monitors with similar functionalities, earning it a top score of 1.0 for cost-performance. Considering it also includes the proprietary D-ART ribbon tweeter technology, its value proposition is even stronger.
 
 ## Reliability & Support
 

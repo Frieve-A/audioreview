@@ -31,7 +31,7 @@ Advanced technologies are employed to pursue the performance of an analog cartri
 
 $$ \Large \text{0.4} $$
 
-Against its price of 57,420 yen, alternatives with more advanced styli exist for less. For instance, Audio-Technica's MM cartridge, the `AT-VM95ML`, features a MicroLinear stylus with superior tracking capabilities and is available for around 25,000 yen. The calculation: 25,000 yen ÷ 57,420 yen ≈ 0.435. While the cartridge types (MC vs. MM) differ, the stylus performance is more critical from a user's perspective of fidelity. The existence of options that deliver higher performance for less money means this product's cost-performance is not high.
+Against its price of 383 USD, alternatives with more advanced styli exist for less. For instance, Audio-Technica's MM cartridge, the `AT-VM95ML`, features a MicroLinear stylus with superior tracking capabilities and is available for around 167 USD. The calculation: 167 USD ÷ 383 USD ≈ 0.435. While the cartridge types (MC vs. MM) differ, the stylus performance is more critical from a user's perspective of fidelity. The existence of options that deliver higher performance for less money means this product's cost-performance is not high.
 
 ## Reliability & Support
 

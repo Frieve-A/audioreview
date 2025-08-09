@@ -32,7 +32,7 @@ The HD 660S is based on traditional dynamic driver technology. It improves upon 
 
 $$ \Large \text{0.5} $$
 
-The HD 660S was launched at a price of approximately 499 USD (around 75,000 JPY). However, the Drop + Sennheiser HD 6XX offers similar acoustic characteristics and performance for about 40,000 JPY. The cost-performance is calculated as `40,000 JPY / 75,000 JPY ≒ 0.53`, resulting in a score of 0.5. The HD 6XX is based on the legendary HD 650 and delivers performance extremely close to the HD 660S at a significantly lower price. Furthermore, planar magnetic headphones like the HiFiMAN Sundara (44,000 JPY) offer superior low-distortion characteristics at a lower price, making the HD 660S's pricing less competitive in the market.
+The HD 660S was launched at a price of approximately 499 USD (around 500 USD). However, the Drop + Sennheiser HD 6XX offers similar acoustic characteristics and performance for about 267 USD. The cost-performance is calculated as `267 USD / 500 USD ≒ 0.53`, resulting in a score of 0.5. The HD 6XX is based on the legendary HD 650 and delivers performance extremely close to the HD 660S at a significantly lower price. Furthermore, planar magnetic headphones like the HiFiMAN Sundara (293 USD) offer superior low-distortion characteristics at a lower price, making the HD 660S's pricing less competitive in the market.
 
 ## Reliability & Support
 
@@ -48,6 +48,6 @@ The HD 660S embodies a rational design philosophy aimed at improving sound quali
 
 ## Advice
 
-The HD 660S is discontinued, making it difficult to obtain a new unit. While exploring the used market is an option, a more rational choice is to select from current products. If you are looking for sound characteristics very similar to the HD 660S, the Drop + Sennheiser HD 6XX offers excellent cost-performance at around 40,000 JPY, making it a top candidate (primarily purchased directly from the Drop website). For those seeking a more modern sound or even better low-distortion performance, the HiFiMAN Sundara (44,000 JPY), a planar magnetic headphone in the same price range, is a strong alternative. Its successor, the HD 660S2, is also a good choice, but considering the price, the superiority of the HD 6XX is clear.
+The HD 660S is discontinued, making it difficult to obtain a new unit. While exploring the used market is an option, a more rational choice is to select from current products. If you are looking for sound characteristics very similar to the HD 660S, the Drop + Sennheiser HD 6XX offers excellent cost-performance at around 267 USD, making it a top candidate (primarily purchased directly from the Drop website). For those seeking a more modern sound or even better low-distortion performance, the HiFiMAN Sundara (293 USD), a planar magnetic headphone in the same price range, is a strong alternative. Its successor, the HD 660S2, is also a good choice, but considering the price, the superiority of the HD 6XX is clear.
 
 (2025.8.2)

@@ -31,7 +31,7 @@ Implementation of Qualcomm's latest S5 Sound Gen 2 platform, proprietary 7mm Tru
 
 $$ \Large \text{0.7} $$
 
-At USD 299.95 market price, this product competes within the premium true wireless segment. Primary competitors include Sony WF-1000XM5 (USD 160 equivalent to JPY 23,900, LDAC, industry-leading ANC), Apple AirPods Pro 2 (USD 186 equivalent to JPY 27,698, H2 chip, Spatial Audio), and Bose QuietComfort Ultra Earbuds (USD 194 equivalent to JPY 28,880, top-tier ANC). All feature THD <1%, advanced ANC, and extended battery life. This product's 0.08% THD is superior, though audible differences remain limited. Against the lowest-priced Sony WF-1000XM5: CP = 160 ÷ 300 = 0.53, indicating higher pricing within the premium segment.
+At USD 299.95 market price, this product competes within the premium true wireless segment. Primary competitors include Sony WF-1000XM5 (USD 160 equivalent to 159 USD, LDAC, industry-leading ANC), Apple AirPods Pro 2 (USD 186 equivalent to 185 USD, H2 chip, Spatial Audio), and Bose QuietComfort Ultra Earbuds (USD 194 equivalent to 193 USD, top-tier ANC). All feature THD <1%, advanced ANC, and extended battery life. This product's 0.08% THD is superior, though audible differences remain limited. Against the lowest-priced Sony WF-1000XM5: CP = 160 ÷ 300 = 0.53, indicating higher pricing within the premium segment.
 
 ## Reliability & Support
 

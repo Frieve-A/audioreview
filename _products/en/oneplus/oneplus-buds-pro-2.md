@@ -32,7 +32,7 @@ The technology demonstrates a high standard. The coaxial dual-driver configurati
 
 $$ \Large \text{0.4} $$
 
-Cost-performance evaluation reveals challenges. While the OnePlus Buds Pro 2's global market price is 177 USD (approximately 26,000 JPY equivalent), the Soundcore Liberty 4 NC with equivalent or superior functionality and measured performance is available for approximately 70 USD (approximately 10,500 JPY). The Liberty 4 NC features similar adaptive ANC functionality, Hi-Res wireless support, and IPX4 water resistance, while RTINGS measurements show more neutral frequency characteristics. Calculation: 10,500 JPY ÷ 26,000 JPY = 0.40, resulting in a score of 0.4 when rounded. The OnePlus Buds Pro 2 is priced more than double that of equivalent-function products. Excluding Dynaudio's brand value, pure performance-to-price ratio lacks competitiveness.
+Cost-performance evaluation reveals challenges. While the OnePlus Buds Pro 2's global market price is 177 USD, the Soundcore Liberty 4 NC with equivalent or superior functionality and measured performance is available for approximately 70 USD. The Liberty 4 NC features similar adaptive ANC functionality, Hi-Res wireless support, and IPX4 water resistance, while RTINGS measurements show more neutral frequency characteristics. Calculation: 70 USD ÷ 177 USD = 0.40, resulting in a score of 0.4 when rounded. The OnePlus Buds Pro 2 is priced more than double that of equivalent-function products. Excluding Dynaudio's brand value, pure performance-to-price ratio lacks competitiveness.
 
 ## Reliability & Support
 

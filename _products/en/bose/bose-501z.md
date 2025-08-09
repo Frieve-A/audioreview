@@ -32,7 +32,7 @@ The Acoustimass technology of 1988 had certain originality in terms of miniaturi
 
 $$ \Large \text{0.2} $$
 
-Shows low cost-performance when compared to modern products with equivalent functionality. The Logitech Z313 (4,500 yen) was selected as a comparison target. This product is a current model functioning as a complete system with 2.1 configuration, 25W RMS output, and subwoofer included. Cost-performance calculation: 4,500 yen ÷ 20,000 yen = 0.225, rounded to 0.2. Due to modern technological advances, numerous options exist with far superior acoustic performance at much lower prices, making the price-to-performance ratio disadvantageous.
+Shows low cost-performance when compared to modern products with equivalent functionality. The Logitech Z313 (30 USD) was selected as a comparison target. This product is a current model functioning as a complete system with 2.1 configuration, 25W RMS output, and subwoofer included. Cost-performance calculation: 30 USD ÷ 133 USD = 0.225, rounded to 0.2. Due to modern technological advances, numerous options exist with far superior acoustic performance at much lower prices, making the price-to-performance ratio disadvantageous.
 
 ## Reliability & Support
 
@@ -48,6 +48,6 @@ For 1988, it was a rational approach emphasizing miniaturization and installatio
 
 ## Advice
 
-Purchase consideration of the Bose 501Z cannot be recommended. There are serious performance deficiencies by modern acoustic technology standards, and numerous products with far superior acoustic performance exist within the same budget. For practical purposes, current products around 5,000 yen such as Logitech Z313, Creative Pebble V2, and JBL Pebbles are superior in measurement performance, cost-performance, and support systems. For anyone other than vintage enthusiasts, there are no technical merits, and modern product selection is strongly recommended for those seeking objective sound quality improvement. Even for those with attachment to the Bose brand, current products are significantly superior from an acoustic engineering perspective.
+Purchase consideration of the Bose 501Z cannot be recommended. There are serious performance deficiencies by modern acoustic technology standards, and numerous products with far superior acoustic performance exist within the same budget. For practical purposes, current products around 33 USD such as Logitech Z313, Creative Pebble V2, and JBL Pebbles are superior in measurement performance, cost-performance, and support systems. For anyone other than vintage enthusiasts, there are no technical merits, and modern product selection is strongly recommended for those seeking objective sound quality improvement. Even for those with attachment to the Bose brand, current products are significantly superior from an acoustic engineering perspective.
 
 (2025.8.3)

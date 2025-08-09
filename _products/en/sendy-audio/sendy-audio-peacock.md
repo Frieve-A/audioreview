@@ -31,7 +31,7 @@ The Quad-Former technology, which places four coils (two on each side) on the di
 
 $$ \Large \text{0.2} $$
 
-Compared to the Peacock's price of 220,000 JPY, there are far cheaper products that comprehensively outperform it in measured performance. For example, the Hifiman Sundara, another planar magnetic headphone, achieves a flatter frequency response and more than 10 times lower distortion at a price of 52,800 JPY. The cost-performance must be rated as 0.2, based on the calculation "52,800 JPY ÷ 220,000 JPY = 0.24". Even considering the quality of the Peacock's wooden appearance and accessories, it is difficult to justify the price difference in terms of acoustic performance.
+Compared to the Peacock's price of approximately 1467 USD, there are far cheaper products that comprehensively outperform it in measured performance. For example, the Hifiman Sundara, another planar magnetic headphone, achieves a flatter frequency response and more than 10 times lower distortion at a price of 352 USD. The cost-performance must be rated as 0.2, based on the calculation "352 USD ÷ 1467 USD = 0.24". Even considering the quality of the Peacock's wooden appearance and accessories, it is difficult to justify the price difference in terms of acoustic performance.
 
 ## Reliability & Support
 
@@ -43,7 +43,7 @@ Sendy Audio is a relatively new manufacturer, established around 2019 as a sub-b
 
 $$ \Large \text{0.5} $$
 
-The product's design philosophy is questionable. While it pursues aesthetic beauty with expensive materials like wood and leather, the core acoustic performance metrics, such as frequency response and distortion, do not meet the technical standards of modern planar magnetic headphones. The particularly high distortion suggests a potential prioritization of subjective "voicing" and external design over scientific sound quality improvement. The 220,000 JPY price point is not supported by any demonstrable objective performance advantages, and the material investment does not directly translate to measurable acoustic improvements, indicating a lack of rationality in its design.
+The product's design philosophy is questionable. While it pursues aesthetic beauty with expensive materials like wood and leather, the core acoustic performance metrics, such as frequency response and distortion, do not meet the technical standards of modern planar magnetic headphones. The particularly high distortion suggests a potential prioritization of subjective "voicing" and external design over scientific sound quality improvement. The approximately 1467 USD price point is not supported by any demonstrable objective performance advantages, and the material investment does not directly translate to measurable acoustic improvements, indicating a lack of rationality in its design.
 
 ## Advice
 

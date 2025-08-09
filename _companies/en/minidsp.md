@@ -31,7 +31,7 @@ The combination of Analog Devices SHARC ADSP21489 (400MHz floating-point) and XM
 
 $$ \Large \text{0.5} $$
 
-For the MiniDSP 2x4 HD (53,000 JPY), comparison with equivalent 2-input, 4-output DSP functionality reveals limited alternatives. The Dayton Audio DSP-408 (28,000 JPY) offers 4-input, 8-output configuration with superior input handling (supports up to 4V input vs 0.5V for MiniDSP) and comparable audio performance, providing significantly better value. While the DSP-408 has more inputs/outputs, it delivers equivalent or superior core DSP functionality for substantially less cost. CP = 28,000 JPY ÷ 53,000 JPY = 0.53. This calculation demonstrates that more cost-effective alternatives exist, significantly impacting the cost-performance evaluation.
+For the MiniDSP 2x4 HD (353 USD), comparison with equivalent 2-input, 4-output DSP functionality reveals limited alternatives. The Dayton Audio DSP-408 (187 USD) offers 4-input, 8-output configuration with superior input handling (supports up to 4V input vs 0.5V for MiniDSP) and comparable audio performance, providing significantly better value. While the DSP-408 has more inputs/outputs, it delivers equivalent or superior core DSP functionality for substantially less cost. CP = 187 USD ÷ 353 USD = 0.53. This calculation demonstrates that more cost-effective alternatives exist, significantly impacting the cost-performance evaluation.
 
 ## Reliability & Support
 

@@ -31,7 +31,7 @@ The adoption of a 10mm nano-crystal coated dynamic driver and a high-tensile CCA
 
 $$ \Large \text{0.4} $$
 
-While the CVJ Aria's actual selling price is around 7,980 JPY, a product with equivalent or better basic functions and superior measured performance exists in the form of the 7Hz Salnotes Zero (approx. 3,280 JPY). The 7Hz Salnotes Zero also features a 10mm dynamic driver and has a more neutral frequency response, offering higher source fidelity than the CVJ Aria. The cost-performance is calculated as "3,280 JPY ÷ 7,980 JPY = 0.411," meaning the CVJ Aria offers equivalent or lesser performance at about 2.4 times the price. This price difference is due to the metal housing and accessories like the exchangeable nozzles, but it is difficult to justify this price gap from a purely acoustic performance standpoint.
+While the CVJ Aria's actual selling price is around 53 USD, a product with equivalent or better basic functions and superior measured performance exists in the form of the 7Hz Salnotes Zero (approx. 22 USD). The 7Hz Salnotes Zero also features a 10mm dynamic driver and has a more neutral frequency response, offering higher source fidelity than the CVJ Aria. The cost-performance is calculated as "22 USD ÷ 53 USD = 0.411," meaning the CVJ Aria offers equivalent or lesser performance at about 2.4 times the price. This price difference is due to the metal housing and accessories like the exchangeable nozzles, but it is difficult to justify this price gap from a purely acoustic performance standpoint.
 
 ## Reliability & Support
 

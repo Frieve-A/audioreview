@@ -6,11 +6,14 @@ This script provides the following functionality:
 1. Automatic search and parsing of all review files
 2. Consistency check between overall score and sum of individual evaluation criteria
 3. Compliance check with review policy (dev/review_policy.md)
-4. Generation of detailed validation reports
+4. Detection of Japanese currency in English reviews with USD conversion suggestions
+5. Generation of detailed validation reports
 
 Usage:
-    python review_validator.py                    # Validate all files
-    python review_validator.py -f path/to/file.md # Validate single file
+    python review_validator.py                             # Validate all files
+    python review_validator.py -f path/to/file.md          # Validate single file
+    python review_validator.py --before 2025-08-01         # Validate only files dated on/before 2025-08-01
+    python review_validator.py --before 2025-08-01T12:00   # Same as above, time component is accepted
 """
 
 import os
@@ -21,7 +24,7 @@ import argparse
 from pathlib import Path
 from typing import Dict, List, Optional, Tuple
 from dataclasses import dataclass, field
-from datetime import datetime, date
+from datetime import datetime, date, time
 
 @dataclass
 class ReviewData:
@@ -52,7 +55,7 @@ class ReviewData:
 class ReviewValidator:
     """Review file validation class"""
     
-    def __init__(self, base_path: str = ".."):
+    def __init__(self, base_path: str = "..", before: Optional[str] = None):
         self.base_path = Path(base_path).resolve()
         # If running from tools directory, adjust the path
         if self.base_path.name == "tools":
@@ -62,6 +65,33 @@ class ReviewValidator:
         self.policy_path = self.base_path / policy_rel
         self.reviews: List[ReviewData] = []
         self.policy_requirements = self._load_policy_requirements()
+        # Optional upper bound datetime for validation target
+        self.before_datetime: Optional[datetime] = self._parse_before_datetime(before) if before else None
+
+    def _parse_before_datetime(self, before: str) -> Optional[datetime]:
+        """Parse the --before argument into a datetime.
+
+        Accepts common formats such as YYYY-MM-DD, YYYY-MM-DDTHH:MM, YYYY-MM-DD HH:MM, and with seconds.
+        If only a date is provided, treat it as 00:00:00 of that date.
+        """
+        candidates = [
+            "%Y-%m-%d",
+            "%Y-%m-%dT%H:%M",
+            "%Y-%m-%d %H:%M",
+            "%Y-%m-%dT%H:%M:%S",
+            "%Y-%m-%d %H:%M:%S",
+        ]
+        for fmt in candidates:
+            try:
+                parsed = datetime.strptime(before, fmt)
+                # If format included only date, normalize to start of day
+                if fmt == "%Y-%m-%d":
+                    return datetime.combine(parsed.date(), time.min)
+                return parsed
+            except ValueError:
+                continue
+        print(f"[WARNING] '--before' has an unrecognized format: {before}. Expected YYYY-MM-DD[THH:MM[:SS]]")
+        return None
     
     def _load_policy_requirements(self) -> Dict:
         """Load review policy requirements"""
@@ -97,7 +127,7 @@ class ReviewValidator:
             "forbidden_symbols": ["$", "\\"],  # Backslash and dollar sign are forbidden
             "forbidden_terms": ["基準表", "benchmark table", "criteria table"],  # Forbidden terms in content
             "cp_formula_check": True,  # Check CP = cheapest_equivalent_price / target_price
-            "cp_max_value": 1.0  # CP must not exceed 1.0
+            "cp_max_value": 1.0
         }
         
         # Load more detailed requirements from policy file if it exists
@@ -703,6 +733,97 @@ class ReviewValidator:
         
         return issues
     
+    def validate_japanese_currency_in_english_reviews(self, review: ReviewData) -> List[str]:
+        """Check for Japanese currency (yen/JPY) in English reviews and suggest USD conversion"""
+        issues = []
+        
+        # Only check English reviews
+        if review.lang != "en":
+            return issues
+        
+        try:
+            with open(review.file_path, 'r', encoding='utf-8') as f:
+                content = f.read()
+            
+            # Extract body content (after front matter)
+            end_match = re.search(r'\n---\n', content)
+            if end_match:
+                body_content = content[end_match.end():]
+            else:
+                body_content = content
+            
+            # Check for Japanese currency terms
+            japanese_currency_patterns = [
+                r'\b(\d+(?:,\d{3})*)\s*yen\b',  # e.g., "50,000 yen"
+                r'\b(\d+(?:,\d{3})*)\s*JPY\b',  # e.g., "50,000 JPY"
+                r'\byen\s*(\d+(?:,\d{3})*)\b',  # e.g., "yen 50,000"
+                r'\bJPY\s*(\d+(?:,\d{3})*)\b',  # e.g., "JPY 50,000"
+            ]
+            
+            found_currencies = []
+            
+            for pattern in japanese_currency_patterns:
+                matches = re.finditer(pattern, body_content, re.IGNORECASE)
+                for match in matches:
+                    amount_str = match.group(1) if match.group(1) else match.group(0)
+                    # Remove commas and convert to number
+                    amount = int(amount_str.replace(',', ''))
+                    
+                    # Calculate approximate USD equivalent (using rough exchange rate of 1 USD = 150 JPY)
+                    usd_equivalent = amount / 150
+                    
+                    # Find line number
+                    line_num = body_content[:match.start()].count('\n') + 1
+                    
+                    # Get context
+                    context_start = max(0, match.start() - 30)
+                    context_end = min(len(body_content), match.end() + 30)
+                    context = body_content[context_start:context_end].strip()
+                    
+                    found_currencies.append({
+                        'amount': amount,
+                        'usd_equivalent': usd_equivalent,
+                        'line_num': line_num,
+                        'context': context,
+                        'match': match.group(0)
+                    })
+            
+            # Also check summary for Japanese currency
+            summary_patterns = [
+                r'\b(\d+(?:,\d{3})*)\s*yen\b',
+                r'\b(\d+(?:,\d{3})*)\s*JPY\b',
+                r'\byen\s*(\d+(?:,\d{3})*)\b',
+                r'\bJPY\s*(\d+(?:,\d{3})*)\b',
+            ]
+            
+            for pattern in summary_patterns:
+                matches = re.finditer(pattern, review.summary, re.IGNORECASE)
+                for match in matches:
+                    amount_str = match.group(1) if match.group(1) else match.group(0)
+                    amount = int(amount_str.replace(',', ''))
+                    usd_equivalent = amount / 150
+                    
+                    found_currencies.append({
+                        'amount': amount,
+                        'usd_equivalent': usd_equivalent,
+                        'line_num': 'summary',
+                        'context': review.summary,
+                        'match': match.group(0)
+                    })
+            
+            # Generate issues for found Japanese currency
+            if found_currencies:
+                issues.append(f"Japanese currency detected in English review: {len(found_currencies)} instances found")
+                for i, currency in enumerate(found_currencies, 1):
+                    location = f"line {currency['line_num']}" if currency['line_num'] != 'summary' else "summary"
+                    issues.append(f"  {i}. {location}: '{currency['match']}' (approximately {currency['usd_equivalent']:.0f} USD) - Consider converting to USD for international audience")
+                issues.append("  Note: Using approximate exchange rate of 1 USD = 150 JPY. Please verify current rates for accurate conversion.")
+            
+        except Exception as e:
+            issues.append(f"Error occurred during Japanese currency validation: {e}")
+        
+        return issues
+    
     def validate_score_consistency_between_languages(self) -> List[str]:
         """Check score consistency between Japanese and English reviews of the same product"""
         issues = []
@@ -779,6 +900,27 @@ class ReviewValidator:
                 print(f"\n[WARNING] Failed to parse: {file_path}")
                 continue
             
+            # Optional date filter: validate only files with metadata date on/before the specified datetime
+            if self.before_datetime is not None:
+                should_skip = False
+                try:
+                    if review.date:
+                        # Front matter dates are expected to be YYYY-MM-DD
+                        review_date = datetime.strptime(str(review.date), "%Y-%m-%d")
+                        # Compare by datetime; review date has no time component (00:00)
+                        if review_date > self.before_datetime:
+                            should_skip = True
+                    else:
+                        # No metadata date; skip when filter is active
+                        should_skip = True
+                except ValueError:
+                    # Invalid metadata date; skip when filter is active
+                    should_skip = True
+
+                if should_skip:
+                    print(f"[SKIP] {file_path} (metadata date '{review.date}' is after --before or invalid)")
+                    continue
+            
             # Execute various validations
             issues = []
             issues.extend(self.validate_score_consistency(review))
@@ -791,6 +933,7 @@ class ReviewValidator:
             issues.extend(self.validate_date_range(review))
             issues.extend(self.validate_title_target_name_consistency(review))
             issues.extend(self.validate_forbidden_terms(review))
+            issues.extend(self.validate_japanese_currency_in_english_reviews(review))
             
             review.issues = issues
             self.reviews.append(review)
@@ -846,38 +989,7 @@ class ReviewValidator:
         issue_categories = {}
         for review in self.reviews:
             for issue in review.issues:
-                # Classify issue types
-                if "overall score" in issue.lower() or "総合得点" in issue:
-                    category = "Score Consistency Error"
-                elif "required field" in issue.lower() or "required section" in issue.lower() or "必須フィールド" in issue or "必須セクション" in issue:
-                    category = "Missing Required Elements"
-                elif "out of range" in issue.lower() or "範囲外" in issue:
-                    category = "Score Range Error"
-                elif "format" in issue.lower() or "フォーマット" in issue or "形式" in issue:
-                    category = "Format Error"
-                elif "placement" in issue.lower() or "配置" in issue:
-                    category = "File Placement Error"
-                elif "cp calculation" in issue.lower() or "cp formula" in issue.lower():
-                    category = "CP Calculation Error"
-                elif "product category" in issue.lower() or "category mismatch" in issue.lower():
-                    category = "Product Category Error"
-                elif "0.1 increments" in issue.lower() or "score format" in issue.lower():
-                    category = "Score Format Error"
-                elif "latex" in issue.lower() or "dollar" in issue.lower() or "forbidden" in issue.lower() or "backslash" in issue.lower():
-                    category = "Symbol Policy Violation"
-                elif "permalink structure" in issue.lower() or "levels" in issue.lower():
-                    category = "Permalink Structure Error"
-                elif "date mismatch" in issue.lower() or "date not found" in issue.lower():
-                    category = "Date Consistency Error"
-                elif "before site launch" in issue.lower() or "in the future" in issue.lower():
-                    category = "Date Range Error"
-                elif "title first part" in issue.lower() or "does not match target_name" in issue.lower():
-                    category = "Title Consistency Error"
-                elif "forbidden term" in issue.lower():
-                    category = "Forbidden Terms Policy Violation"
-                else:
-                    category = "Other"
-                
+                category = self._categorize_issue(issue)
                 issue_categories[category] = issue_categories.get(category, 0) + 1
         
         # Add cross-language issues to categories
@@ -945,7 +1057,8 @@ class ReviewValidator:
             "before site launch": "12. **Date Range Error**: Dates must be between site launch date (2025-07-05) and current date",
             "in the future": "12. **Date Range Error**: Dates must be between site launch date (2025-07-05) and current date",
             "Title first part": "13. **Title Consistency Error**: Title first part must match target_name exactly",
-            "Forbidden term": "14. **Forbidden Terms Policy Violation**: Replace table/chart terminology with appropriate evaluation levels like '透明レベル', '問題レベル', 'transparent level', 'issue level'"
+            "Forbidden term": "14. **Forbidden Terms Policy Violation**: Replace table/chart terminology with appropriate evaluation levels like '透明レベル', '問題レベル', 'transparent level', 'issue level'",
+            "Japanese currency": "15. **Currency Conversion Recommendation**: Consider converting Japanese yen (JPY) to USD for international audience in English reviews"
         }
         
         # Get unique recommendations
@@ -973,6 +1086,102 @@ class ReviewValidator:
         print("\n" + "="*60)
         print(report_content)
         print("="*60)
+        
+        # 問題の種類ごとの合計数を表示
+        self._print_issue_summary()
+    
+    def _print_issue_summary(self) -> None:
+        """Display issue summary by category with file counts"""
+        print("\n" + "="*60)
+        print("Issue Summary by Category")
+        print("="*60)
+        
+        # 問題の種類を分類
+        issue_categories = {}
+        files_with_issues = set()  # Track files with issues
+        
+        for review in self.reviews:
+            if review.issues:  # If review has issues
+                files_with_issues.add(review.file_path)
+                for issue in review.issues:
+                    category = self._categorize_issue(issue)
+                    if category not in issue_categories:
+                        issue_categories[category] = {"count": 0, "files": set()}
+                    issue_categories[category]["count"] += 1
+                    issue_categories[category]["files"].add(review.file_path)
+        
+        # クロス言語の問題も追加
+        cross_lang_issues = self.validate_score_consistency_between_languages()
+        if cross_lang_issues:
+            if "Cross-Language Score Mismatch" not in issue_categories:
+                issue_categories["Cross-Language Score Mismatch"] = {"count": 0, "files": set()}
+            issue_categories["Cross-Language Score Mismatch"]["count"] += len(cross_lang_issues)
+            # Add files involved in cross-language issues
+            for review in self.reviews:
+                if review.product_id:
+                    # Check if this product has cross-language issues
+                    for issue in cross_lang_issues:
+                        if review.product_id in issue:
+                            issue_categories["Cross-Language Score Mismatch"]["files"].add(review.file_path)
+        
+        # 1件以上登場した問題のみを表示
+        if issue_categories:
+            sorted_categories = sorted(issue_categories.items(), key=lambda x: x[1]["count"], reverse=True)
+            for category, data in sorted_categories:
+                if data["count"] >= 1:
+                    file_count = len(data["files"])
+                    print(f"{category}: {data['count']} issues in {file_count} file(s)")
+        else:
+            print("No issues found.")
+        
+        # 総合統計
+        total_files_with_issues = len(files_with_issues)
+        total_issues = sum(data["count"] for data in issue_categories.values())
+        
+        print(f"\nSummary:")
+        print(f"- Total files with issues: {total_files_with_issues}")
+        print(f"- Total issues detected: {total_issues}")
+        if self.reviews:
+            print(f"- Issue rate: {(total_files_with_issues / len(self.reviews) * 100):.1f}%")
+    
+    def _categorize_issue(self, issue: str) -> str:
+        """Categorize issues by type"""
+        issue_lower = issue.lower()
+        
+        if "overall score" in issue_lower or "総合得点" in issue or "total score inconsistency" in issue_lower:
+            return "Score Consistency Error"
+        elif "required field" in issue_lower or "required section" in issue_lower or "必須フィールド" in issue or "必須セクション" in issue:
+            return "Missing Required Elements"
+        elif "out of range" in issue_lower or "範囲外" in issue:
+            return "Score Range Error"
+        elif "format" in issue_lower or "フォーマット" in issue or "形式" in issue:
+            return "Format Error"
+        elif "placement" in issue_lower or "配置" in issue:
+            return "File Placement Error"
+        elif "cp calculation" in issue_lower or "cp formula" in issue_lower:
+            return "CP Calculation Error"
+        elif "product category" in issue_lower or "category mismatch" in issue_lower:
+            return "Product Category Error"
+        elif "0.1 increments" in issue_lower or "score format" in issue_lower:
+            return "Score Format Error"
+        elif "latex" in issue_lower or "dollar" in issue_lower or "forbidden" in issue_lower or "backslash" in issue_lower:
+            return "Symbol Policy Violation"
+        elif "permalink structure" in issue_lower or "levels" in issue_lower:
+            return "Permalink Structure Error"
+        elif "date mismatch" in issue_lower or "date not found" in issue_lower:
+            return "Date Consistency Error"
+        elif "before site launch" in issue_lower or "in the future" in issue_lower:
+            return "Date Range Error"
+        elif "title first part" in issue_lower or "does not match target_name" in issue_lower:
+            return "Title Consistency Error"
+        elif "forbidden term" in issue_lower:
+            return "Forbidden Terms Policy Violation"
+        elif "japanese currency" in issue_lower or "yen" in issue_lower or "jpy" in issue_lower:
+            return "Currency Conversion Recommendation"
+        elif "cross-language" in issue_lower or "score mismatch" in issue_lower:
+            return "Cross-Language Score Mismatch"
+        else:
+            return "Other"
 
 def main():
     """Main function"""
@@ -982,7 +1191,9 @@ def main():
         epilog="""Examples:
   python review_validator.py                           # Validate all files
   python review_validator.py -f _companies/ja/sony.md # Validate single file
-  python review_validator.py --file ../path/to/file.md # Validate single file with relative path"""
+  python review_validator.py --file ../path/to/file.md # Validate single file with relative path
+  python review_validator.py --before 2025-08-01       # Validate only files dated on/before 2025-08-01
+  python review_validator.py --before 2025-08-01T12:00 # Time component accepted"""
     )
     
     parser.add_argument(
@@ -990,13 +1201,18 @@ def main():
         type=str,
         help='Path to a single review file to validate'
     )
+    parser.add_argument(
+        '--before',
+        type=str,
+        help='Validate only files whose metadata date (YYYY-MM-DD) is on/before this datetime (YYYY-MM-DD[THH:MM[:SS]])'
+    )
     
     args = parser.parse_args()
     
     print("[INFO] Starting audio review integrity check...")
     
     # Create validator with default path (root directory)
-    validator = ReviewValidator(".")
+    validator = ReviewValidator(".", before=args.before)
     
     # Run validation based on arguments
     if args.file:

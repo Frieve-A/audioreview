@@ -14,7 +14,7 @@ permalink: /products/en/audio-technica-ath-m70x/
 
 ## Overview
 
-The Audio-Technica ATH-M70X is positioned as the flagship model of the company's M-series closed-back monitor headphones. Featuring 45mm large-aperture drivers, it claims a wide-band reproduction from 5Hz to 40kHz. While marketed heavily for professional use, its actual sound characteristics strongly exhibit consumer-oriented features. The market price is 35,200 JPY, and it comes with three detachable cables and a hard case.
+The Audio-Technica ATH-M70X is positioned as the flagship model of the company's M-series closed-back monitor headphones. Featuring 45mm large-aperture drivers, it claims a wide-band reproduction from 5Hz to 40kHz. While marketed heavily for professional use, its actual sound characteristics strongly exhibit consumer-oriented features. The market price is 235 USD, and it comes with three detachable cables and a hard case.
 
 ## Scientific Validity
 
@@ -32,7 +32,7 @@ The use of proprietary 45mm large-aperture drivers, neodymium magnets, and CCAW 
 
 $$ \Large \text{0.5} $$
 
-Priced at 35,200 JPY, the Sony MDR-7506, which offers equivalent or superior measurement performance, is available for 18,400 JPY. The calculation is: 18,400 JPY ÷ 35,200 JPY = 0.522, which indicates that its cost-performance is not high. The MDR-7506 has been an industry standard since 1991, offering more accurate monitoring characteristics at less than half the price. Even considering the additional features of the ATH-M70X (detachable cables, hard case), the performance improvement does not justify the price difference. For professional use, several more affordable and proven alternatives exist.
+Priced at 235 USD, the Sony MDR-7506, which offers equivalent or superior measurement performance, is available for 123 USD. The calculation is: 123 USD ÷ 235 USD = 0.522, which indicates that its cost-performance is not high. The MDR-7506 has been an industry standard since 1991, offering more accurate monitoring characteristics at less than half the price. Even considering the additional features of the ATH-M70X (detachable cables, hard case), the performance improvement does not justify the price difference. For professional use, several more affordable and proven alternatives exist.
 
 ## Reliability & Support
 
@@ -48,6 +48,6 @@ There is a contradiction in a design philosophy that claims to offer professiona
 
 ## Advice
 
-For those considering a purchase, I strongly recommend auditioning the Sony MDR-7506 (18,400 JPY) first. It has a proven track record as an industry standard for over 30 years and provides more accurate monitoring characteristics than the ATH-M70X at less than half the price. Choosing a product that is actually used in professional music production environments will lead to a more informed decision. The ATH-M70X is only worth considering if you value its accessories, such as detachable cables and a hard case, and can accept its consumer-oriented sound. However, you should not expect a performance improvement commensurate with its 35,200 JPY price tag. If you prioritize objective sound quality evaluation, several more affordable and proven alternatives are available.
+For those considering a purchase, I strongly recommend auditioning the Sony MDR-7506 (123 USD) first. It has a proven track record as an industry standard for over 30 years and provides more accurate monitoring characteristics than the ATH-M70X at less than half the price. Choosing a product that is actually used in professional music production environments will lead to a more informed decision. The ATH-M70X is only worth considering if you value its accessories, such as detachable cables and a hard case, and can accept its consumer-oriented sound. However, you should not expect a performance improvement commensurate with its 235 USD price tag. If you prioritize objective sound quality evaluation, several more affordable and proven alternatives are available.
 
 (2025.8.2)

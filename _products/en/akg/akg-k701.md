@@ -31,8 +31,7 @@ The K701 incorporates AKG's proprietary technologies, such as the "flat-wire voi
 
 $$ \Large \text{0.8} $$
 
-We will use the current market price of the K701's successor, the K702 (approximately 21,000 JPY), as a benchmark. As a comparison, HIFIMAN's planar magnetic headphone, the `HE400se` (retailing overseas for 109 USD
-, approx. 17,200 JPY), stands as one of the world's most affordable products with equivalent or superior performance. The `HE400se` is noted for its superior bass extension and more natural high-frequency characteristics compared to the K701. Since a more capable and cheaper alternative exists, the cost-performance ratio is not high. Based on the formula "17,200 JPY / 21,000 JPY ≈ 0.819," the score rounds to 0.8.
+We will use the current market price of the K701's successor, the K702 (approximately 140 USD), as a benchmark. As a comparison, HIFIMAN's planar magnetic headphone, the `HE400se` (retailing overseas for 109 USD, approx. 115 USD), stands as one of the world's most affordable products with equivalent or superior performance. The `HE400se` is noted for its superior bass extension and more natural high-frequency characteristics compared to the K701. Since a more capable and cheaper alternative exists, the cost-performance ratio is not high. Based on the formula "115 USD / 140 USD ≈ 0.819," the score rounds to 0.8.
 
 ## Reliability & Support
 

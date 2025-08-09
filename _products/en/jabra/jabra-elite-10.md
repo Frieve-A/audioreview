@@ -31,7 +31,7 @@ The adoption of 10mm drivers and implementation of the world's first LE Audio-co
 
 $$ \Large \text{0.4} $$
 
-The Elite 10 Gen 2 is priced at 28,500 yen. Compared to the equivalent performance Soundcore Liberty 4 NC (10,999 yen, 20Hz-20kHz support, active noise cancellation, multipoint connection, IPX4 water resistance), CP = 10,999 yen ÷ 28,500 yen = 0.39. Despite equivalent functionality, the pricing is approximately 2.6 times higher, significantly inferior from a pure performance-to-price perspective. Even with inventory disposal pricing due to business withdrawal, no performance advantages can be recognized to justify this price difference.
+The Elite 10 Gen 2 is priced at 190 USD. Compared to the equivalent performance Soundcore Liberty 4 NC (73 USD, 20Hz-20kHz support, active noise cancellation, multipoint connection, IPX4 water resistance), CP = 73 USD ÷ 190 USD = 0.39. Despite equivalent functionality, the pricing is approximately 2.6 times higher, significantly inferior from a pure performance-to-price perspective. Even with inventory disposal pricing due to business withdrawal, no performance advantages can be recognized to justify this price difference.
 
 ## Reliability & Support
 

@@ -13,7 +13,7 @@ permalink: /companies/en/ause-audio/
 ---
 ## Overview
 
-Ause Audio is a small-scale Japanese audio manufacturer established by its founder in their early 30s. The representative WATERFALL series integrated amplifiers employ Class-D amplifier technology using Dutch Hypex's nCore modules, promoting sound quality that pursues "excellent separation." The company's philosophy is "prioritizing sound quality over sales, with the ability to continue business even if audio products are not profitable." The flagship product WATERFALL Integrated 250 (360,000 JPY / approx. 2400 USD) featured an AK4497 DAC + nCore amplifier configuration, offering four operational modes: DAC-only, power amplifier-only, integrated, and external preamplifier support.
+Ause Audio is a small-scale Japanese audio manufacturer established by its founder in their early 30s. The representative WATERFALL series integrated amplifiers employ Class-D amplifier technology using Dutch Hypex's nCore modules, promoting sound quality that pursues "excellent separation." The company's philosophy is "prioritizing sound quality over sales, with the ability to continue business even if audio products are not profitable." The flagship product WATERFALL Integrated 250 (2400 USD) featured an AK4497 DAC + nCore amplifier configuration, offering four operational modes: DAC-only, power amplifier-only, integrated, and external preamplifier support.
 
 ## Scientific Validity
 
@@ -31,7 +31,7 @@ The company employs Hypex nCore modules as the foundation while adopting AK4497+
 
 $$ \Large \text{0.2} $$
 
-As a competing setup with equivalent or superior functionality and measured performance to the WATERFALL Integrated 250 (360,000 JPY / approx. 2400 USD), the combination of Topping DX3 Pro+ DAC (21,900 JPY / approx. 146 USD) + Fosi Audio V3 Mono pair (39,999 JPY / approx. 267 USD) totals 61,899 JPY / approx. 413 USD. This offers DAC functionality, 240W@4Ω output, THD+N below 0.006%, SNR over 123dB, and XLR/RCA inputs, providing equivalent user-facing functionality including balanced connections. Cost-performance calculation: 61,899 JPY ÷ 360,000 JPY = 0.172. Similar integrated options like SMSL DA-9 (approx. 37,500 JPY / 250 USD) also provide comparable performance. These comparisons reveal low cost-performance levels.
+As a competing setup with equivalent or superior functionality and measured performance to the WATERFALL Integrated 250 (2400 USD), the combination of Topping DX3 Pro+ DAC (146 USD) + Fosi Audio V3 Mono pair (267 USD) totals 413 USD. This offers DAC functionality, 240W@4Ω output, THD+N below 0.006%, SNR over 123dB, and XLR/RCA inputs, providing equivalent user-facing functionality including balanced connections. Cost-performance calculation: 413 USD ÷ 2400 USD = 0.172. Similar integrated options like SMSL DA-9 (250 USD) also provide comparable performance. These comparisons reveal low cost-performance levels.
 
 ## Reliability & Support
 

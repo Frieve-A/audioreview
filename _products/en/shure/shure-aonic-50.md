@@ -32,7 +32,7 @@ The AONIC 50's technical capabilities fall below industry average. The 50mm dyna
 
 $$ \Large \text{0.6} $$
 
-The AONIC 50's Japanese market price is approximately 47,000 yen (Gen2), while the equivalent-featured Sony WH-1000XM5 is available for about 30,000 yen. Both products offer wireless connectivity, active noise cancellation, hi-res support, multipoint connection, and extended battery life, making their user-facing functionality completely identical. CP = 30,000 yen ÷ 47,000 yen = 0.64. However, Sony demonstrates superiority in actual ANC performance and usability, failing to justify the price differential with improved performance.
+The AONIC 50's Japanese market price is approximately 313 USD (Gen2), while the equivalent-featured Sony WH-1000XM5 is available for about 200 USD. Both products offer wireless connectivity, active noise cancellation, hi-res support, multipoint connection, and extended battery life, making their user-facing functionality completely identical. CP = 200 USD ÷ 313 USD = 0.64. However, Sony demonstrates superiority in actual ANC performance and usability, failing to justify the price differential with improved performance.
 
 ## Reliability & Support
 
@@ -48,6 +48,6 @@ The AONIC 50's design philosophy contains both rational and irrational aspects. 
 
 ## Advice
 
-Purchasing the AONIC 50 is not recommended. The Sony WH-1000XM5 (30,000 yen) clearly provides superior ANC performance and functionality at the same price point, making this an irrational choice. For ANC performance priority, the Bose QuietComfort 45 similarly holds advantages. Even with special attachment to the Shure brand, consider investing in the company's strength areas of microphones and professional audio equipment. For consumer ANC headphones, strongly recommend choosing technically mature Sony or Bose products. While high build quality is appreciated, the product fails to provide added value commensurate with its pricing.
+Purchasing the AONIC 50 is not recommended. The Sony WH-1000XM5 (200 USD) clearly provides superior ANC performance and functionality at the same price point, making this an irrational choice. For ANC performance priority, the Bose QuietComfort 45 similarly holds advantages. Even with special attachment to the Shure brand, consider investing in the company's strength areas of microphones and professional audio equipment. For consumer ANC headphones, strongly recommend choosing technically mature Sony or Bose products. While high build quality is appreciated, the product fails to provide added value commensurate with its pricing.
 
 (2025.7.9)

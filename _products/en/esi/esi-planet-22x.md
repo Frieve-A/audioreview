@@ -31,7 +31,7 @@ The implementation of Dante networking technology is technically advanced, adopt
 
 $$ \Large \text{1.0} $$
 
-Compared to the Focusrite RedNet X2P (213,950 yen) with equivalent Dante functionality, the Planet 22x (69,300 yen) is significantly cheaper. As a 2-input 2-output Dante-capable interface, the Planet 22x holds strong price advantages, achieving a cost-performance ratio of 1.0 since it represents one of the more affordable options in its category. The RedNet X2P offers Red Evolution mic preamps and higher reliability, but in terms of pure performance-to-price ratio for the provided functionality, the Planet 22x excels. It is a reasonable choice for applications requiring Dante functionality, though it may represent excessive specifications for general USB recording purposes.
+Compared to the Focusrite RedNet X2P (1426 USD) with equivalent Dante functionality, the Planet 22x (462 USD) is significantly cheaper. As a 2-input 2-output Dante-capable interface, the Planet 22x holds strong price advantages, achieving a cost-performance ratio of 1.0 since it represents one of the more affordable options in its category. The RedNet X2P offers Red Evolution mic preamps and higher reliability, but in terms of pure performance-to-price ratio for the provided functionality, the Planet 22x excels. It is a reasonable choice for applications requiring Dante functionality, though it may represent excessive specifications for general USB recording purposes.
 
 ## Reliability & Support
 

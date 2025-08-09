@@ -31,7 +31,7 @@ Technically, it employs a standard configuration with 40mm neodymium drivers and
 
 $$ \Large \text{1.0} $$
 
-At its current market price of approximately 38 USD (based on 5,980 JPY in the Japanese market), the A70 stands as one of the most affordable headphones offering both wireless and wired (3.5mm/6.35mm) connectivity. While wireless-only headphones with superior acoustic properties exist in the same price range, it is difficult to find an alternative that matches this specific feature set at a lower price. Therefore, when evaluated based on its unique combination of functionalities, the cost-performance score is 1.0.
+At its current market price of approximately 40 USD, the A70 stands as one of the most affordable headphones offering both wireless and wired (3.5mm/6.35mm) connectivity. While wireless-only headphones with superior acoustic properties exist in the same price range, it is difficult to find an alternative that matches this specific feature set at a lower price. Therefore, when evaluated based on its unique combination of functionalities, the cost-performance score is 1.0.
 
 ## Reliability & Support
 

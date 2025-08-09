@@ -14,7 +14,7 @@ permalink: /products/en/procable-down-and-isolation-power-transformer-3000w-200v
 
 ## Overview
 
-Procable's Down & Isolation Power Transformer 3000W 200V Dedicated Specification (STH-3020A) is a professional-grade power conditioning device designed for Japan's 200V power environment. It features a robust 38.5kg chassis with a total of 10 outlets (6 for 100V, 4 for 115V) and utilizes a combination of electrostatic shielding and balanced transmission for power noise countermeasures. Priced at 118,000 JPY (tax included), it is somewhat more expensive than comparable industrial products.
+Procable's Down & Isolation Power Transformer 3000W 200V Dedicated Specification (STH-3020A) is a professional-grade power conditioning device designed for Japan's 200V power environment. It features a robust 38.5kg chassis with a total of 10 outlets (6 for 100V, 4 for 115V) and utilizes a combination of electrostatic shielding and balanced transmission for power noise countermeasures. Priced at approximately 787 USD (tax included), it is somewhat more expensive than comparable industrial products.
 
 ## Scientific Validity
 
@@ -32,8 +32,8 @@ This product employs a conventional isolation power transformer technology, whic
 
 $$ \Large \text{0.6} $$
 
-Compared to this product's price of 118,000 JPY, products with equivalent functions (3kVA capacity, 200V to 100V/115V, isolation) are available for less in the industrial market. A specific competitor is the "PC21-3000E" from the industrial transformer manufacturer Swallow Electric. This product offers similar basic specifications but is sold on the market for approximately 65,000 JPY.
-Calculating the cost-performance based on this cheapest alternative gives "65,000 JPY ÷ 118,000 JPY ≈ 0.55," which rounds to a score of 0.6. While not the best choice available, it might be considered a relatively realistic price among high-priced products specifically marketed for audio use.
+Compared to this product's price of approximately 787 USD, products with equivalent functions (3kVA capacity, 200V to 100V/115V, isolation) are available for less in the industrial market. A specific competitor is the "PC21-3000E" from the industrial transformer manufacturer Swallow Electric. This product offers similar basic specifications but is sold on the market for approximately 433 USD.
+Calculating the cost-performance based on this cheapest alternative gives "433 USD ÷ 787 USD ≈ 0.55," which rounds to a score of 0.6. While not the best choice available, it might be considered a relatively realistic price among high-priced products specifically marketed for audio use.
 
 ## Reliability & Support
 

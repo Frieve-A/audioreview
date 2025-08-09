@@ -31,7 +31,7 @@ Sansui developed numerous proprietary technologies from the 1960s to 1980s. They
 
 $$ \Large \text{0.2} $$
 
-Currently, new Sansui brand products are virtually non-existent in the market, with trading centered on the used/vintage market. For example, a used AU-607MOS PREMIUM sells for around 96,184 JPY. In contrast, a modern amplifier with superior measurement performance, such as the Fosi Audio V3, is available for around 15,000 JPY. The cost-performance score is derived from the price ratio of these products (15,000 JPY ÷ 96,184 JPY ≈ 0.16). Since vintage value and rarity are not included in a pure performance evaluation, the objective performance-to-price ratio is significantly inferior to modern products.
+Currently, new Sansui brand products are virtually non-existent in the market, with trading centered on the used/vintage market. For example, a used AU-607MOS PREMIUM sells for around 641 USD. In contrast, a modern amplifier with superior measurement performance, such as the Fosi Audio V3, is available for around 100 USD. The cost-performance score is derived from the price ratio of these products (100 USD ÷ 641 USD ≈ 0.16). Since vintage value and rarity are not included in a pure performance evaluation, the objective performance-to-price ratio is significantly inferior to modern products.
 
 ## Reliability & Support
 

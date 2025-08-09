@@ -31,7 +31,7 @@ Denon's proprietary "AL32 Processing" lacks objective data to support its effect
 
 $$ \Large \text{0.8} $$
 
-This model is discontinued and is available on the used market for around 26,000 JPY. As an alternative with CD playback functionality, universal Blu-ray players are available new for around 20,000 JPY. These players also feature CD playback and digital outputs, offering equivalent or superior functionality. Therefore, the cost-performance is calculated as `20,000 JPY ÷ 26,000 JPY ≈ 0.77`. This is its only redeeming quality.
+This model is discontinued and is available on the used market for around 173 USD. As an alternative with CD playback functionality, universal Blu-ray players are available new for around 133 USD. These players also feature CD playback and digital outputs, offering equivalent or superior functionality. Therefore, the cost-performance is calculated as `133 USD ÷ 173 USD ≈ 0.77`. This is its only redeeming quality.
 
 ## Reliability & Support
 
@@ -47,6 +47,6 @@ The design philosophy of this unit is highly irrational. Firstly, promoting a sc
 
 ## Advice
 
-We do not recommend purchasing this product. There is a complete lack of objective data to support its performance, and its design philosophy is irrational. Since equivalent functionality can be achieved with more affordable universal players, there is no reason to choose this unit. The only numerical bright spot is the cost-performance rating (0.8), derived from comparing its used price (approx. 26,000 JPY) to the new price of alternatives (approx. 20,000 JPY), but this does not reflect the absolute value of the product. Unless you have a very specific reason, this is an option to avoid.
+We do not recommend purchasing this product. There is a complete lack of objective data to support its performance, and its design philosophy is irrational. Since equivalent functionality can be achieved with more affordable universal players, there is no reason to choose this unit. The only numerical bright spot is the cost-performance rating (0.8), derived from comparing its used price (approx. 173 USD) to the new price of alternatives (approx. 133 USD), but this does not reflect the absolute value of the product. Unless you have a very specific reason, this is an option to avoid.
 
 (2025.7.21)

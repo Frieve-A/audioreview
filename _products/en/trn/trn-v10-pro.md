@@ -14,7 +14,7 @@ permalink: /products/en/trn-v10-pro/
 
 ## Overview
 
-The TRN V10 Pro is a hybrid earphone developed by Chinese audio manufacturer TRN, featuring a 2DD+2BA configuration. It incorporates a 10mm beryllium-coated dynamic driver, a 6mm titanium-coated dynamic driver, and two 30095 high-frequency balanced armature drivers. In the Japanese market, it is sold for 2,350 JPY, achieving a rare 4-driver configuration at this price point. With specifications of 20Hz-20kHz frequency response, 112dB sensitivity, and 22Ω impedance, it adopts V-shaped acoustic tuning.
+The TRN V10 Pro is a hybrid earphone developed by Chinese audio manufacturer TRN, featuring a 2DD+2BA configuration. It incorporates a 10mm beryllium-coated dynamic driver, a 6mm titanium-coated dynamic driver, and two 30095 high-frequency balanced armature drivers. In the Japanese market, it is sold for 16 USD, achieving a rare 4-driver configuration at this price point. With specifications of 20Hz-20kHz frequency response, 112dB sensitivity, and 22Ω impedance, it adopts V-shaped acoustic tuning.
 
 ## Scientific Validity
 
@@ -32,7 +32,7 @@ While the TRN V10 Pro has technical complexity with its 2DD+2BA configuration, t
 
 $$ \Large \text{0.9} $$
 
-This product's cost-performance is evaluated based on its final measured performance, not its driver configuration. The V10 Pro's performance is at an industry-average level, but there are products with better, more scientifically faithful (neutral) measured performance available for less. For example, the **7Hz Salnotes Zero**, known for its neutral sound signature, can be purchased for a lower price of around **2,200 JPY**. Using this as the comparison, the calculation is `2,200 JPY ÷ 2,350 JPY ≈ 0.936`. After rounding, the score is 0.9. While it has the feature of a multi-driver setup, it is not the best value when judged on pure acoustic performance.
+This product's cost-performance is evaluated based on its final measured performance, not its driver configuration. The V10 Pro's performance is at an industry-average level, but there are products with better, more scientifically faithful (neutral) measured performance available for less. For example, the **7Hz Salnotes Zero**, known for its neutral sound signature, can be purchased for a lower price of around **15 USD**. Using this as the comparison, the calculation is `15 USD ÷ 16 USD ≈ 0.936`. After rounding, the score is 0.9. While it has the feature of a multi-driver setup, it is not the best value when judged on pure acoustic performance.
 
 ## Reliability & Support
 
@@ -48,6 +48,6 @@ The TRN V10 Pro's design philosophy contains a mixture of rational and irrationa
 
 ## Advice
 
-For those considering purchasing the TRN V10 Pro, I recommend making a selection after clarifying your usage and sound quality priorities. It is an option for those who find a technical appeal in the multi-driver configuration and seek a fun, V-shaped sound signature. However, if you prioritize scientific fidelity, you should be aware that products like the **7Hz Salnotes Zero (approx. 2,200 JPY)** exist with superior measured performance at a lower price. Furthermore, if you are willing to spend a bit more for a well-refined tuning, the **Moondrop Chu II (approx. 3,960 JPY)** is also a strong contender. If you choose the V10 Pro, it is important to limit its use primarily to entertainment purposes and to purchase it with an understanding of the risks of quality variation.
+For those considering purchasing the TRN V10 Pro, I recommend making a selection after clarifying your usage and sound quality priorities. It is an option for those who find a technical appeal in the multi-driver configuration and seek a fun, V-shaped sound signature. However, if you prioritize scientific fidelity, you should be aware that products like the **7Hz Salnotes Zero (approx. 15 USD)** exist with superior measured performance at a lower price. Furthermore, if you are willing to spend a bit more for a well-refined tuning, the **Moondrop Chu II (approx. 26 USD)** is also a strong contender. If you choose the V10 Pro, it is important to limit its use primarily to entertainment purposes and to purchase it with an understanding of the risks of quality variation.
 
 (2025.8.1)

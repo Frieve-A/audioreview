@@ -31,7 +31,7 @@ The technology employed in the KEF R5 Meta is common with the R3 Meta and is at 
 
 $$ \Large \text{0.9} $$
 
-The KEF R5 Meta is priced at approximately 480,000 JPY (pair), but a more cost-effective option exists. Specifically, by combining its sibling, the KEF R3 Meta (approx. 350,000 JPY), with a high-performance subwoofer (approx. 70,000 JPY), it is possible to achieve equivalent or even superior acoustic performance (especially high-quality low-frequency reproduction) for a total of about 420,000 JPY. The calculation: 420,000 JPY ÷ 476,568 JPY ≈ 0.88, indicates that performance equivalent or better can be obtained for about 88% of the R5 Meta's cost. Unless the convenience of a floor-standing model is a priority, the "R3 Meta + Subwoofer" configuration has the upper hand in cost-performance.
+The KEF R5 Meta is priced at approximately 3200 USD (pair), but a more cost-effective option exists. Specifically, by combining its sibling, the KEF R3 Meta (approx. 2333 USD), with a high-performance subwoofer (approx. 467 USD), it is possible to achieve equivalent or even superior acoustic performance (especially high-quality low-frequency reproduction) for a total of about 2800 USD. The calculation: 2800 USD ÷ 3177 USD ≈ 0.88, indicates that performance equivalent or better can be obtained for about 88% of the R5 Meta's cost. Unless the convenience of a floor-standing model is a priority, the "R3 Meta + Subwoofer" configuration has the upper hand in cost-performance.
 
 ## Reliability & Support
 
@@ -49,7 +49,7 @@ The design philosophy of the KEF R5 Meta, like its siblings, is rooted in scient
 
 The KEF R5 Meta is a very attractive product for users who value the form factor of a slim floor-standing speaker. Its acoustic performance is based on the masterpiece "R3 Meta" and is at an extremely high level.
 
-However, if you are pursuing pure cost-performance, we strongly recommend combining the KEF R3 Meta (approx. 350,000 JPY) with a high-performance subwoofer (from approx. 70,000 JPY). This configuration costs less than the R5 Meta overall, while offering equivalent or superior low-frequency reproduction capabilities and flexible placement to suit the room's characteristics.
+However, if you are pursuing pure cost-performance, we strongly recommend combining the KEF R3 Meta (approx. 2333 USD) with a high-performance subwoofer (from approx. 467 USD). This configuration costs less than the R5 Meta overall, while offering equivalent or superior low-frequency reproduction capabilities and flexible placement to suit the room's characteristics.
 
 The value of the R5 Meta lies in its "all-in-one" convenience and beautiful design. It becomes the optimal choice when there is a clear reason to avoid the complexity of placing and setting up a subwoofer, or if prioritizing the aesthetics of the living space is a primary concern.
 

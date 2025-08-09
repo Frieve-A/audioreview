@@ -32,7 +32,7 @@ The design using a 6mm electret capsule with USB Audio Class 1 compatibility was
 
 $$ \Large \text{1.0} $$
 
-The miniDSP UMIK-1 is priced at 13,000 JPY. For a calibrated measurement microphone, this is an outstanding price. Comparable products from other manufacturers, such as the Dayton Audio UMM-6 (16,000 JPY) or the Behringer ECM8000 (which requires a separate calibration service for equivalent accuracy), are more expensive. Therefore, the UMIK-1 offers the best cost-performance in its category.
+The miniDSP UMIK-1 is priced at 87 USD. For a calibrated measurement microphone, this is an outstanding price. Comparable products from other manufacturers, such as the Dayton Audio UMM-6 (107 USD) or the Behringer ECM8000 (which requires a separate calibration service for equivalent accuracy), are more expensive. Therefore, the UMIK-1 offers the best cost-performance in its category.
 
 ## Reliability & Support
 

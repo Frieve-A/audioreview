@@ -31,7 +31,7 @@ The dCS proprietary Ring DAC APEX technology represents an industry-leading desi
 
 $$ \Large \text{0.0} $$
 
-Compared to the Topping D70 Pro Octo (599 USD, approximately 90,000 yen), which shows superior measurement performance with THD+N 0.00007% and SNR 134dB versus the dCS Rossini Apex DAC (THD+N 0.00020%, SNR 115dB). The D70 Pro Octo provides equivalent or superior functionality and excellent measurement performance with eight CS43198 chips, PCM768kHz/32bit, and DSD512 support, while costing approximately 1/70th the price. Cost-performance calculation: 90,000 yen ÷ 6,500,000 yen = 0.0138, which rounds to 0.0. This demonstrates that technically equivalent or superior sound quality reproduction is achievable at a significantly lower cost, resulting in an extremely harsh evaluation from a pure performance-to-price ratio perspective.
+Compared to the Topping D70 Pro Octo (599 USD), which shows superior measurement performance with THD+N 0.00007% and SNR 134dB versus the dCS Rossini Apex DAC (THD+N 0.00020%, SNR 115dB). The D70 Pro Octo provides equivalent or superior functionality and excellent measurement performance with eight CS43198 chips, PCM768kHz/32bit, and DSD512 support, while costing approximately 1/70th the price. Cost-performance calculation: 600 USD ÷ 43333 USD = 0.0138, which rounds to 0.0. This demonstrates that technically equivalent or superior sound quality reproduction is achievable at a significantly lower cost, resulting in an extremely harsh evaluation from a pure performance-to-price ratio perspective.
 
 ## Reliability & Support
 

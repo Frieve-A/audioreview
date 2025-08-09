@@ -32,7 +32,7 @@ The DSP-controlled digital crossover and Mathematically Modelled Dispersion (MMD
 
 $$ \Large \text{0.7} $$
 
-For this evaluation, we compare the total system cost, including the implementation of the room correction feature. To perform room correction with this product, the MA 1 measurement system (approx. 41,580 JPY) is required in addition to the main unit (148,500 JPY). The system cost per speaker is approximately 169,290 JPY. In contrast, the competing Adam Audio A7V (91,300 JPY) can be integrated with Sonarworks' measurement system (approx. 61,160 JPY incl. mic), resulting in a system cost per speaker of about 121,880 JPY. The calculation is 121,880 JPY ÷ 169,290 JPY = 0.719..., which rounds to a score of 0.7. Even when considering room correction, competing products still have a cost advantage.
+For this evaluation, we compare the total system cost, including the implementation of the room correction feature. To perform room correction with this product, the MA 1 measurement system (approx. 277 USD) is required in addition to the main unit (990 USD). The system cost per speaker is approximately 1129 USD. In contrast, the competing Adam Audio A7V (609 USD) can be integrated with Sonarworks' measurement system (approx. 408 USD incl. mic), resulting in a system cost per speaker of about 813 USD. The calculation is 813 USD ÷ 1129 USD = 0.719..., which rounds to a score of 0.7. Even when considering room correction, competing products still have a cost advantage.
 
 ## Reliability & Support
 

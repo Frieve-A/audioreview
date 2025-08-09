@@ -13,7 +13,7 @@ permalink: /products/en/ibasso-jr-klee/
 ---
 ## Overview
 
-The iBasso Jr. KLEE is an entry-level in-ear monitor (IEM) released by Chinese manufacturer iBasso Audio in February 2025. It features a 10mm dual magnetic circuit dynamic driver with a lithium-magnesium alloy diaphragm and achieves a powerful magnetic flux density of 1.6 Tesla. The housing is constructed from stainless steel with a PVD mirror finish, and includes a silver-plated oxygen-free copper Litz structure cable. In the Japanese market, it is priced at 12,375 JPY, positioning it in the relatively high-price range for entry-level products.
+The iBasso Jr. KLEE is an entry-level in-ear monitor (IEM) released by Chinese manufacturer iBasso Audio in February 2025. It features a 10mm dual magnetic circuit dynamic driver with a lithium-magnesium alloy diaphragm and achieves a powerful magnetic flux density of 1.6 Tesla. The housing is constructed from stainless steel with a PVD mirror finish, and includes a silver-plated oxygen-free copper Litz structure cable. In the Japanese market, it is priced at 82 USD, positioning it in the relatively high-price range for entry-level products.
 
 ## Scientific Validity
 
@@ -31,7 +31,7 @@ The dual magnetic circuit design with a powerful 1.6 Tesla magnet in a 10mm dyna
 
 $$ \Large \text{0.4} $$
 
-As a product with equivalent or superior functions and performance, the QKZ x HBB Khan is available for 5,400 JPY. The QKZ x HBB Khan features a dual configuration with a 10mm bass dynamic driver and a 7.8mm mid-high frequency dynamic driver. With an impedance of 10Ω and a sensitivity of 117dB, it represents an equivalent or superior option to the iBasso Jr. KLEE in terms of fundamental acoustic performance. In a price comparison, 5,400 JPY ÷ 12,375 JPY = 0.436, showing an approximately 2.3 times price difference. This results in a cost-performance score of 0.4. While there are differences in the stainless steel housing and included cable quality, the essential differences in acoustic performance do not justify the price difference.
+As a product with equivalent or superior functions and performance, the QKZ x HBB Khan is available for 36 USD. The QKZ x HBB Khan features a dual configuration with a 10mm bass dynamic driver and a 7.8mm mid-high frequency dynamic driver. With an impedance of 10Ω and a sensitivity of 117dB, it represents an equivalent or superior option to the iBasso Jr. KLEE in terms of fundamental acoustic performance. In a price comparison, 36 USD ÷ 82 USD = 0.436, showing an approximately 2.3 times price difference. This results in a cost-performance score of 0.4. While there are differences in the stainless steel housing and included cable quality, the essential differences in acoustic performance do not justify the price difference.
 
 ## Reliability & Support
 

@@ -13,7 +13,7 @@ permalink: /products/en/tri-i3-mk3/
 ---
 ## Overview
 
-The TRI i3 MK3 is the third-generation earphone in the company's popular i3 series. It employs a tribrid configuration combining a 10mm beryllium-coated dynamic driver (lows), a Sonion 2356 balanced armature (mids), and a 10mm planar magnetic driver (highs). It features a CNC aluminum alloy housing paired with a silver-plated cable and a standard 4.4mm balanced plug. Specifications include an impedance of 21Ω, sensitivity of 104±1dB, and a frequency response of 20Hz-20kHz. Released in June 2024, its current price is 29,999 JPY.
+The TRI i3 MK3 is the third-generation earphone in the company's popular i3 series. It employs a tribrid configuration combining a 10mm beryllium-coated dynamic driver (lows), a Sonion 2356 balanced armature (mids), and a 10mm planar magnetic driver (highs). It features a CNC aluminum alloy housing paired with a silver-plated cable and a standard 4.4mm balanced plug. Specifications include an impedance of 21Ω, sensitivity of 104±1dB, and a frequency response of 20Hz-20kHz. Released in June 2024, its current price is 200 USD.
 
 ## Scientific Validity
 
@@ -31,7 +31,7 @@ Hybrid technology combining multiple driver types is a well-established approach
 
 $$ \Large \text{0.3} $$
 
-The price of 29,999 JPY is evaluated by comparing it to alternatives that provide a comparable or superior high-fidelity listening experience. A key competitor is the "Truthear x Crinacle ZERO:RED" (street price 8,450 JPY), which is highly acclaimed for its scientific tuning. Although the driver configuration differs, the essential value delivered to the user—a high-fidelity music experience—is equivalent or better. The cost-performance is calculated as `8,450 JPY ÷ 29,999 JPY ≈ 0.28`, which rounds to 0.3. The price of the i3 MK3 is exceedingly high for its performance.
+The price of 200 USD is evaluated by comparing it to alternatives that provide a comparable or superior high-fidelity listening experience. A key competitor is the "Truthear x Crinacle ZERO:RED" (street price 56 USD), which is highly acclaimed for its scientific tuning. Although the driver configuration differs, the essential value delivered to the user—a high-fidelity music experience—is equivalent or better. The cost-performance is calculated as `56 USD ÷ 200 USD ≈ 0.28`, which rounds to 0.3. The price of the i3 MK3 is exceedingly high for its performance.
 
 ## Reliability & Support
 
@@ -47,6 +47,6 @@ The design approach is scientifically rational. By assigning specialized drivers
 
 ## Advice
 
-The TRI i3 MK3 is technically characterized by its inclusion of three driver types: beryllium, BA, and planar. However, whether its acoustic performance justifies the price is questionable. Scientific measurement data is not publicly available, leaving its objective sonic advantages unproven. Furthermore, with products like the "Truthear x Crinacle ZERO:RED" available for around 8,500 JPY offering a comparable or better listening experience, the cost-performance of the i3 MK3 is extremely poor. We cannot recommend this product to anyone other than audiophiles with a specific attachment to its driver configuration or design. We strongly advise considering more affordable products with high objective performance evaluations.
+The TRI i3 MK3 is technically characterized by its inclusion of three driver types: beryllium, BA, and planar. However, whether its acoustic performance justifies the price is questionable. Scientific measurement data is not publicly available, leaving its objective sonic advantages unproven. Furthermore, with products like the "Truthear x Crinacle ZERO:RED" available for around 57 USD offering a comparable or better listening experience, the cost-performance of the i3 MK3 is extremely poor. We cannot recommend this product to anyone other than audiophiles with a specific attachment to its driver configuration or design. We strongly advise considering more affordable products with high objective performance evaluations.
 
 (2025.7.28)

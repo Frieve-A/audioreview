@@ -13,7 +13,7 @@ permalink: /products/en/eclipse-td510mk2/
 ---
 ## Overview
 
-The Eclipse TD510mk2 is a single-driver speaker developed by Denso Ten based on time domain theory. Following the lineage of the TD series developed in 2001 by engineers at the former Fujitsu Ten, it features an egg-shaped artificial marble enclosure and a 100mm glass fiber full-range driver. The internal volume has been expanded by approximately 14% compared to previous models to improve frequency response, with a distinctive shape designed to suppress diffraction waves. It won the Good Design Award in 2012 and has a current manufacturer's suggested retail price of 137,500 JPY per unit.
+The Eclipse TD510mk2 is a single-driver speaker developed by Denso Ten based on time domain theory. Following the lineage of the TD series developed in 2001 by engineers at the former Fujitsu Ten, it features an egg-shaped artificial marble enclosure and a 100mm glass fiber full-range driver. The internal volume has been expanded by approximately 14% compared to previous models to improve frequency response, with a distinctive shape designed to suppress diffraction waves. It won the Good Design Award in 2012 and has a current manufacturer's suggested retail price of 917 USD per unit.
 
 ## Scientific Validity
 
@@ -31,8 +31,8 @@ The application of time domain theory and the use of an egg-shaped enclosure to 
 
 $$ \Large \text{0.6} $$
 
-A product that surpasses this unit in all performance areas, including its main strength of impulse response, exists for a lower price. A relevant comparison is the Neumann KH 80 DSP active speaker (approx. 150,000 JPY per pair, with built-in amps), which features linear phase correction via DSP. The score is calculated from a simple price comparison with this product.
-Formula: `150,000 JPY ÷ 275,000 JPY ≈ 0.55`.
+A product that surpasses this unit in all performance areas, including its main strength of impulse response, exists for a lower price. A relevant comparison is the Neumann KH 80 DSP active speaker (approx. 1000 USD per pair, with built-in amps), which features linear phase correction via DSP. The score is calculated from a simple price comparison with this product.
+Formula: `1000 USD ÷ 1833 USD ≈ 0.55`.
 Based on this calculation, the score is rated 0.6. However, it should be noted that this figure does not reflect the overwhelming functional and performance difference, as the comparison product, the KH 80 DSP, includes amplification and exceeds this unit in all objective performance metrics.
 
 ## Reliability & Support

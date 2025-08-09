@@ -7,7 +7,7 @@ lang: en
 ref: markaudio-nc5h-ss
 date: 2025-07-30
 rating: [1.8, 0.3, 0.6, 0.1, 0.5, 0.3]
-summary: "Compact bookshelf speaker featuring 8cm full-range driver. While featuring single suspension technology, performance is limited relative to the 157,400 JPY price point"
+summary: "Compact bookshelf speaker featuring 8cm full-range driver. While featuring single suspension technology, performance is limited relative to the 1,049 USD price point"
 tags: [Bookshelf speakers, Compact, Full Range, High Price]
 permalink: /products/en/markaudio-nc5h-ss/
 ---
@@ -31,7 +31,7 @@ The Alpair 5 v3's single suspension technology is a rational approach that reduc
 
 $$ \Large \text{0.1} $$
 
-Against the NC5H-SS price of 157,400 JPY, the DENON SC-M41 with equivalent or superior functionality and performance is available for 14,175 JPY. The SC-M41 achieves an excellent 45Hz-40kHz frequency response with 6Ω design and 60W maximum input. Calculation: 14,175 JPY ÷ 157,400 JPY = 0.090, rounded to 0.1. The NC5H-SS costs approximately 11 times more than equivalent functionality products, representing extremely poor cost-performance. Additionally, the Sony SS-CS5 (22,500 JPY) provides superior performance with 53Hz-50kHz broadband characteristics and 3-way configuration at less than one-seventh the price.
+Against the NC5H-SS price of 1049 USD, the DENON SC-M41 with equivalent or superior functionality and performance is available for 94 USD. The SC-M41 achieves an excellent 45Hz-40kHz frequency response with 6Ω design and 60W maximum input. Calculation: 94 USD ÷ 1049 USD = 0.090, rounded to 0.1. The NC5H-SS costs approximately 11 times more than equivalent functionality products, representing extremely poor cost-performance. Additionally, the Sony SS-CS5 (150 USD) provides superior performance with 53Hz-50kHz broadband characteristics and 3-way configuration at less than one-seventh the price.
 
 ## Reliability & Support
 
@@ -43,10 +43,10 @@ While Markaudio has established credentials as a UK speaker unit manufacturer, d
 
 $$ \Large \text{0.3} $$
 
-The design philosophy of achieving main speaker-equivalent performance with a single 8cm full-range driver is unrealistic considering physical law constraints. Particularly in low-frequency reproduction, the physical constraints of driver size and enclosure volume make achieving modern wide-range frequency reproduction difficult. The 157,400 JPY price setting represents an irrational pricing strategy that ignores the reality of equivalent functionality being achievable at approximately one-eleventh the cost. While the single suspension technology itself is rational, the overall product concept diverges from market reality.
+The design philosophy of achieving main speaker-equivalent performance with a single 8cm full-range driver is unrealistic considering physical law constraints. Particularly in low-frequency reproduction, the physical constraints of driver size and enclosure volume make achieving modern wide-range frequency reproduction difficult. The 1049 USD price setting represents an irrational pricing strategy that ignores the reality of equivalent functionality being achievable at approximately one-eleventh the cost. While the single suspension technology itself is rational, the overall product concept diverges from market reality.
 
 ## Advice
 
-For those considering purchasing the NC5H-SS, we strongly recommend more rational alternatives. With the same budget, the DENON SC-M41 (14,175 JPY) or Sony SS-CS5 (22,500 JPY) provide vastly superior performance, with the remaining budget allowing for the introduction of high-quality amplifiers or DACs. These alternative products surpass the NC5H-SS in frequency response, achievable sound pressure output, and system expandability. Even for those who prioritize compactness above all else while understanding the physical constraints of an 8cm full-range driver, numerous rational alternatives exist in the market. In audio investment, choices emphasizing performance and cost-performance based on physical laws lead to long-term satisfaction improvement.
+For those considering purchasing the NC5H-SS, we strongly recommend more rational alternatives. With the same budget, the DENON SC-M41 (94 USD) or Sony SS-CS5 (150 USD) provide vastly superior performance, with the remaining budget allowing for the introduction of high-quality amplifiers or DACs. These alternative products surpass the NC5H-SS in frequency response, achievable sound pressure output, and system expandability. Even for those who prioritize compactness above all else while understanding the physical constraints of an 8cm full-range driver, numerous rational alternatives exist in the market. In audio investment, choices emphasizing performance and cost-performance based on physical laws lead to long-term satisfaction improvement.
 
 (2025.7.30)

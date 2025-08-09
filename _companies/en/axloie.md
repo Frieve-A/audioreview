@@ -31,7 +31,7 @@ From a technical perspective, Axloie performs slightly below industry average. T
 
 $$ \Large \text{0.6} $$
 
-Axloie's representative model sells for approximately 46 USD (about 7,000 JPY), while the EarFun Air (approximately 30 USD, about 4,500 JPY) offers equivalent or superior audio quality, battery life, and technical standards with comparable IPX7 waterproof performance. The heart rate monitoring function is currently non-functional due to an expired app licensing agreement, making it practically unusable. For the basic wireless earbud performance comparison, dividing the competitor's price by the reviewed product's price gives `4,500 JPY ÷ 7,000 JPY = 0.64`. Therefore, the cost-performance score is rated at 0.6.
+Axloie's representative model sells for approximately 47 USD, while the EarFun Air (approximately 30 USD) offers equivalent or superior audio quality, battery life, and technical standards with comparable IPX7 waterproof performance. The heart rate monitoring function is currently non-functional due to an expired app licensing agreement, making it practically unusable. For the basic wireless earbud performance comparison, dividing the competitor's price by the reviewed product's price gives `30 USD ÷ 47 USD = 0.64`. Therefore, the cost-performance score is rated at 0.6.
 
 ## Reliability & Support
 

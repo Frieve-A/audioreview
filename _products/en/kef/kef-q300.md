@@ -33,7 +33,7 @@ The Uni-Q driver array demonstrates technical ingenuity in its coaxial design, i
 
 $$ \Large \text{1.0} $$
 
-As of August 2025, the average used market price is 23,251 JPY. Comparable current models include the Q Acoustics 3020i at 39,800 JPY and ELAC Debut 2.0 B6.2 at around 57,900 JPY. Calculation (lowest competitor price / product price): 39,800 JPY ÷ 23,251 JPY = 1.71, capped at 1.0. This discontinued model offers high value on the used market compared to similar-function speakers, though warranty limitations apply.
+As of August 2025, the average used market price is 155 USD. Comparable current models include the Q Acoustics 3020i at 265 USD and ELAC Debut 2.0 B6.2 at around 386 USD. Calculation (lowest competitor price / product price): 265 USD ÷ 155 USD = 1.71, capped at 1.0. This discontinued model offers high value on the used market compared to similar-function speakers, though warranty limitations apply.
 
 ## Reliability & Support
 

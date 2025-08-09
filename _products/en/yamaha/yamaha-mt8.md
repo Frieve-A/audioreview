@@ -31,11 +31,11 @@ While design elements such as the CCAW voice coil driver and aluminum support ar
 
 $$ \Large \text{0.5} $$
 
-The HPH-MT8's current market price is 187 USD (24,550 JPY). A studio monitor headphone with equivalent or superior functionality and performance is the Sony MDR-7506 (100 USD / 13,000 JPY). The MDR-7506 has been used as an industry standard for many years, providing flat characteristics and sufficient measurement performance for professional monitoring applications.
+The HPH-MT8's current market price is 164 USD. A studio monitor headphone with equivalent or superior functionality and performance is the Sony MDR-7506 (87 USD). The MDR-7506 has been used as an industry standard for many years, providing flat characteristics and sufficient measurement performance for professional monitoring applications.
 
 The cost-performance is evaluated based on the following calculation:
 
-`100 USD (Sony MDR-7506) ÷ 187 USD (Yamaha HPH-MT8) = 0.535`
+`87 USD (Sony MDR-7506) ÷ 164 USD (Yamaha HPH-MT8) = 0.535`
 
 Rounding this result gives a score of 0.5. While there is reliability in the Yamaha brand, a cheaper alternative exists, meaning the cost-performance cannot be considered high.
 
@@ -53,6 +53,6 @@ The approach of pursuing flat characteristics as studio monitor headphones is ra
 
 ## Advice
 
-The HPH-MT8 is a suitable choice for users who prioritize Yamaha brand reliability and wish to unify their studio environment with the company's products. While it provides standard studio monitor performance in terms of sound quality, users prioritizing cost-performance should consider the Sony MDR-7506 or Audio-Technica ATH-M50x. The MDR-7506 in particular has been used as an industry standard for many years, providing equivalent or superior performance at 100 USD versus the HPH-MT8's 187 USD price point. The ATH-M50x also offers excellent value. When considering the HPH-MT8 purchase, it is important to thoroughly compare its value against these alternatives. For professional applications, detailed verification of measurement data is recommended. Given the lack of publicly available THD and SNR measurements for the HPH-MT8, users requiring verified transparency-level performance should prioritize products with comprehensive measurement data.
+The HPH-MT8 is a suitable choice for users who prioritize Yamaha brand reliability and wish to unify their studio environment with the company's products. While it provides standard studio monitor performance in terms of sound quality, users prioritizing cost-performance should consider the Sony MDR-7506 or Audio-Technica ATH-M50x. The MDR-7506 in particular has been used as an industry standard for many years, providing equivalent or superior performance at 87 USD versus the HPH-MT8's 164 USD price point. The ATH-M50x also offers excellent value. When considering the HPH-MT8 purchase, it is important to thoroughly compare its value against these alternatives. For professional applications, detailed verification of measurement data is recommended. Given the lack of publicly available THD and SNR measurements for the HPH-MT8, users requiring verified transparency-level performance should prioritize products with comprehensive measurement data.
 
 (2025.7.14)

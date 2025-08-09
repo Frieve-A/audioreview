@@ -31,7 +31,7 @@ KRK's technology level is at the industry average. It appropriately implements m
 
 $$ \Large \text{0.3} $$
 
-KRK's cost-performance is below the industry average. Its flagship product, the ROKIT 5 G4, costs 26,100 JPY (Sound House, per unit, tax included), but more affordable alternatives with equivalent or better measurement performance exist. For example, the Edifier MR4 is sold for 16,800 JPY per pair (8,400 JPY per unit, tax included) and is not inferior in functionality. The cost-performance value is `8,400 JPY ÷ 26,100 JPY = 0.32`, which is an extremely low score. Furthermore, the classic competitor JBL 305P MkII (21,800 JPY per unit, tax included) is also cheaper than KRK, making its price competitiveness very limited.
+KRK's cost-performance is below the industry average. Its flagship product, the ROKIT 5 G4, costs 174 USD (Sound House, per unit, tax included), but more affordable alternatives with equivalent or better measurement performance exist. For example, the Edifier MR4 is sold for 112 USD per pair (56 USD per unit, tax included) and is not inferior in functionality. The cost-performance value is `56 USD ÷ 174 USD = 0.32`, which is an extremely low score. Furthermore, the classic competitor JBL 305P MkII (145 USD per unit, tax included) is also cheaper than KRK, making its price competitiveness very limited.
 
 ## Reliability & Support
 
@@ -47,6 +47,6 @@ KRK's design philosophy meets the functions expected of a general studio monitor
 
 ## Advice
 
-KRK is an option with a certain track record and recognition in the low-to-mid price studio monitor segment. The ROKIT 5 G4, in particular, offers modern features like DSP adjustment for about 26,100 JPY (per unit), making it a consideration for beginner to intermediate home studios. However, its value proposition is extremely low when cost-performance is a priority. Alternatives like the Edifier MR4 (approx. 16,800 JPY per pair), which offers superior or equivalent performance for much less, or the more affordable classic competitor, the JBL 305P MkII (approx. 21,800 JPY per unit), are strongly recommended. Even if you choose KRK for its specific sound signature, you should be aware that it does not offer industry-leading precision or price advantage.
+KRK is an option with a certain track record and recognition in the low-to-mid price studio monitor segment. The ROKIT 5 G4, in particular, offers modern features like DSP adjustment for about 174 USD (per unit), making it a consideration for beginner to intermediate home studios. However, its value proposition is extremely low when cost-performance is a priority. Alternatives like the Edifier MR4 (approx. 112 USD per pair), which offers superior or equivalent performance for much less, or the more affordable classic competitor, the JBL 305P MkII (approx. 145 USD per unit), are strongly recommended. Even if you choose KRK for its specific sound signature, you should be aware that it does not offer industry-leading precision or price advantage.
 
 (2025.7.23)

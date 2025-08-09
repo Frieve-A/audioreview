@@ -32,7 +32,7 @@ The unit incorporates essential features for a modern AV receiver, including 8K/
 
 $$ \Large \text{0.7} $$
 
-Priced at 103,300 JPY, there are more powerful alternatives available. For instance, Denon's AVR-X2800H offers a superior 95W per channel (8Ω, 2ch driven), comparable 8K support, and HEOS functionality for 76,000 JPY. Based on the calculation (76,000 JPY ÷ 103,300 JPY = 0.736), the cost-performance of this unit is slightly above average. However, it is clear that better alternatives exist in terms of pure performance-to-price ratio.
+Priced at 689 USD, there are more powerful alternatives available. For instance, Denon's AVR-X2800H offers a superior 95W per channel (8Ω, 2ch driven), comparable 8K support, and HEOS functionality for 507 USD. Based on the calculation (507 USD ÷ 689 USD = 0.736), the cost-performance of this unit is slightly above average. However, it is clear that better alternatives exist in terms of pure performance-to-price ratio.
 
 ## Reliability & Support
 

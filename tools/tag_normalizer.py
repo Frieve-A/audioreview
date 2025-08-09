@@ -3,6 +3,7 @@ import argparse
 import os
 import re
 from pathlib import Path
+from datetime import datetime, time
 
 # Define project root directory
 ROOT_DIR = Path(__file__).parent.parent
@@ -621,6 +622,24 @@ def normalize_tags_in_file(file_path, rules, dry_run=True):
         if not front_matter_str:
             return False
 
+        # Date filter: if --before is specified globally, skip files dated after it
+        before_dt = globals().get("__BEFORE_DATETIME__", None)
+        if before_dt is not None:
+            # Expect YAML date in YYYY-MM-DD
+            m = re.search(r'^date:\s*([0-9]{4}-[0-9]{2}-[0-9]{2})\s*$', front_matter_str, re.MULTILINE)
+            if m:
+                try:
+                    file_date = datetime.strptime(m.group(1), "%Y-%m-%d")
+                    if file_date > before_dt:
+                        print(f"[SKIP] {file_path.relative_to(ROOT_DIR)} (metadata date '{m.group(1)}' is after --before)")
+                        return False
+                except ValueError:
+                    print(f"[SKIP] {file_path.relative_to(ROOT_DIR)} (invalid metadata date '{m.group(1)}' with --before)")
+                    return False
+            else:
+                print(f"[SKIP] {file_path.relative_to(ROOT_DIR)} (no metadata date with --before)")
+                return False
+
         # Find the tags line using a more robust regex
         tags_match = re.search(r'tags:\s*(\[.*?\]|.*)', front_matter_str)
         if not tags_match:
@@ -673,15 +692,42 @@ def normalize_tags_in_file(file_path, rules, dry_run=True):
 
 
 def main():
-    parser = argparse.ArgumentParser(description="Normalize tags in product markdown files for all languages.")
+    parser = argparse.ArgumentParser(description="Normalize tags in product/company markdown files.")
     parser.add_argument('--dry-run', action='store_true', help="Show what would be changed without actually modifying files.")
     parser.add_argument('--fix', action='store_false', dest='dry_run', help="Apply the changes to the files.")
+    parser.add_argument('--before', type=str, help="Process only files whose metadata date is on/before this datetime (YYYY-MM-DD[THH:MM[:SS]])")
     parser.set_defaults(dry_run=True)
     
     args = parser.parse_args()
 
+    # Parse --before argument
+    def _parse_before_datetime(before: str):
+        formats = [
+            "%Y-%m-%d",
+            "%Y-%m-%dT%H:%M",
+            "%Y-%m-%d %H:%M",
+            "%Y-%m-%dT%H:%M:%S",
+            "%Y-%m-%d %H:%M:%S",
+        ]
+        for fmt in formats:
+            try:
+                dt = datetime.strptime(before, fmt)
+                if fmt == "%Y-%m-%d":
+                    return datetime.combine(dt.date(), time.min)
+                return dt
+            except ValueError:
+                continue
+        print(f"[WARNING] '--before' has an unrecognized format: {before}. Expected YYYY-MM-DD[THH:MM[:SS]]")
+        return None
+
+    before_dt = _parse_before_datetime(args.before) if args.before else None
+    # Expose to normalize_tags_in_file without refactoring many signatures
+    globals()["__BEFORE_DATETIME__"] = before_dt
+
     print(f"Starting tag normalization for all articles...")
     print(f"Mode: {'Dry Run' if args.dry_run else 'Fix'}")
+    if before_dt is not None:
+        print(f"Filter: on/before {before_dt.isoformat(sep=' ')}")
     print("=" * 40)
 
     # Dictionary mapping language to its directories and ruleset

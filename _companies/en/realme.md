@@ -31,7 +31,7 @@ realme demonstrates above-average technical implementation through strategic tec
 
 $$ \Large \text{0.8} $$
 
-Market research reveals that realme Buds Air 6 Pro's actual price is Rs. 4,999 (approximately 9,000 JPY) in the Indian market. Investigation of competing products with equivalent functions identified Anker Soundcore Space A40 (7,200 JPY) as the closest alternative. The Anker Space A40 provides comparable functionality with adaptive 50dB ANC, LDAC codec support, dual driver design, and Bluetooth 5.2. CP = MIN(1.0, 7,200 JPY ÷ 9,000 JPY) = MIN(1.0, 0.8) = 0.8. While realme offers similar ANC performance and LDAC support, the price difference compared to the Anker Space A40 maintains reasonable cost-performance competitiveness.
+Market research reveals that realme Buds Air 6 Pro's actual price is Rs. 4,999 (approximately 60 USD) in the Indian market. Investigation of competing products with equivalent functions identified Anker Soundcore Space A40 (48 USD) as the closest alternative. The Anker Space A40 provides comparable functionality with adaptive 50dB ANC, LDAC codec support, dual driver design, and Bluetooth 5.2. CP = MIN(1.0, 48 USD ÷ 60 USD) = MIN(1.0, 0.8) = 0.8. While realme offers similar ANC performance and LDAC support, the price difference compared to the Anker Space A40 maintains reasonable cost-performance competitiveness.
 
 ## Reliability & Support
 
@@ -47,6 +47,6 @@ realme's design philosophy demonstrates rational approach to audio engineering w
 
 ## Advice
 
-realme's audio products, particularly the Buds Air 6 Pro, offer competitive value for users seeking premium features with reasonable cost-performance compared to alternatives like the Anker Space A40. The combination of 50dB ANC, LDAC codec support, and dual-driver configuration provides equivalent technical specifications at a 25% price premium over the Anker Space A40's 7,200 JPY. For users prioritizing advanced features with acceptable cost optimization, realme represents a reasonable choice with BBK Electronics' technical foundation ensuring quality reliability. The brand is recommended for users who specifically require LDAC codec support and 50dB ANC performance and are willing to pay a moderate premium for these features. Consider realme when technical specifications align with cost-performance expectations.
+realme's audio products, particularly the Buds Air 6 Pro, offer competitive value for users seeking premium features with reasonable cost-performance compared to alternatives like the Anker Space A40. The combination of 50dB ANC, LDAC codec support, and dual-driver configuration provides equivalent technical specifications at a 25% price premium over the Anker Space A40's 48 USD. For users prioritizing advanced features with acceptable cost optimization, realme represents a reasonable choice with BBK Electronics' technical foundation ensuring quality reliability. The brand is recommended for users who specifically require LDAC codec support and 50dB ANC performance and are willing to pay a moderate premium for these features. Consider realme when technical specifications align with cost-performance expectations.
 
 (2025.7.11)

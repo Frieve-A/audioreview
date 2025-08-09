@@ -31,7 +31,7 @@ While the core TPA3255 chip is an existing technology released in 2016, the appl
 
 $$ \Large \text{1.0} $$
 
-The V3 (with a 48V power supply) sells for approximately 16,000 JPY on Amazon Japan. The crucial point for this product's evaluation is that there are no cheaper products on the market that feature PFFB and achieve equivalent or superior measured performance (SINAD >100dB, flat frequency response). For instance, the popular Aiyima A07 (approx. 12,000 JPY), while using the same TPA3255 chip, lacks PFFB and is thus inferior in performance, as its high-frequency response can vary depending on the connected speaker. Therefore, the V3 is effectively the world's lowest-priced amplifier in its performance class, earning a perfect cost-performance score of 1.0.
+The V3 (with a 48V power supply) sells for approximately 107 USD on Amazon Japan. The crucial point for this product's evaluation is that there are no cheaper products on the market that feature PFFB and achieve equivalent or superior measured performance (SINAD >100dB, flat frequency response). For instance, the popular Aiyima A07 (approx. 80 USD), while using the same TPA3255 chip, lacks PFFB and is thus inferior in performance, as its high-frequency response can vary depending on the connected speaker. Therefore, the V3 is effectively the world's lowest-priced amplifier in its performance class, earning a perfect cost-performance score of 1.0.
 
 ## Reliability & Support
 
@@ -47,6 +47,6 @@ The approach of pursuing high efficiency and compactness with Class D technology
 
 ## Advice
 
-The Fosi Audio V3 is a choice that dominates others in the sub-20,000 JPY price range in terms of measured performance. The flat and stable frequency response, courtesy of PFFB, is a significant advantage when pairing it with various speakers. It is an ideal option for users looking to build a powerful yet compact desktop audio or stereo system. When purchasing, it is highly recommended to select the model with the 48V power supply to unlock its full performance potential. Although the input is limited to RCA unbalanced connections, this will not be an issue for most applications. This is an extremely high-value product that offers near-transparent fidelity at an unbeatable price.
+The Fosi Audio V3 is a choice that dominates others in the sub-133 USD price range in terms of measured performance. The flat and stable frequency response, courtesy of PFFB, is a significant advantage when pairing it with various speakers. It is an ideal option for users looking to build a powerful yet compact desktop audio or stereo system. When purchasing, it is highly recommended to select the model with the 48V power supply to unlock its full performance potential. Although the input is limited to RCA unbalanced connections, this will not be an issue for most applications. This is an extremely high-value product that offers near-transparent fidelity at an unbeatable price.
 
 (2025.7.23)

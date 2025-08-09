@@ -31,7 +31,7 @@ The SE215 Pro achieves industry-leading 37dB noise isolation using a basic singl
 
 $$ \Large \text{1.0} $$
 
-Comparing the SE215 Pro's market price of approximately 13,860 JPY, it is the cheapest product that meets equivalent specifications. This evaluation is based on a comparison among products that satisfy the criteria of "MMCX compatibility," "in-ear monitor," and "rated 37dB noise isolation." For example, the Etymotic ER3XR (approx. 23,000 JPY) offers similar isolation but at a higher price. Therefore, the calculation "13,860 JPY ÷ 13,860 JPY = 1.0" results in a score of 1.0. However, it's crucial to note that this rating focuses on the specific feature of extremely high noise isolation and would not hold if overall performance, including sound fidelity, were considered.
+Comparing the SE215 Pro's market price of approximately 92 USD, it is the cheapest product that meets equivalent specifications. This evaluation is based on a comparison among products that satisfy the criteria of "MMCX compatibility," "in-ear monitor," and "rated 37dB noise isolation." For example, the Etymotic ER3XR (approx. 153 USD) offers similar isolation but at a higher price. Therefore, the calculation "92 USD ÷ 92 USD = 1.0" results in a score of 1.0. However, it's crucial to note that this rating focuses on the specific feature of extremely high noise isolation and would not hold if overall performance, including sound fidelity, were considered.
 
 ## Reliability & Support
 

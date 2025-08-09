@@ -31,7 +31,7 @@ The implementation of Texas Instruments Class-D amplification, 24bit/96kHz DAC s
 
 $$ \Large \text{1.0} $$
 
-The MR3 is priced at approximately 120 USD (17,500 JPY). To evaluate its cost-performance, we must find the least expensive competitor with equivalent functionality, especially Bluetooth 5.4. Products like the PreSonus Eris E3.5 (100 USD) and Mackie CR3-X (150 USD) are not suitable for comparison as they lack Bluetooth. The cheapest competitor with comparable features, including Bluetooth, is the PreSonus Eris E3.5-BT (149.99 USD, approx. 21,900 JPY). Therefore, the MR3 is the most affordable option among products with similar features, earning it the highest possible cost-performance score.
+The MR3 is priced at approximately 117 USD. To evaluate its cost-performance, we must find the least expensive competitor with equivalent functionality, especially Bluetooth 5.4. Products like the PreSonus Eris E3.5 (100 USD) and Mackie CR3-X (150 USD) are not suitable for comparison as they lack Bluetooth. The cheapest competitor with comparable features, including Bluetooth, is the PreSonus Eris E3.5-BT (149.99 USD). Therefore, the MR3 is the most affordable option among products with similar features, earning it the highest possible cost-performance score.
 
 ## Reliability & Support
 

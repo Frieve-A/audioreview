@@ -14,7 +14,7 @@ permalink: /products/en/sony-wh-1000xm6/
 
 ## Overview
 
-The Sony WH-1000XM6, released in May 2025, are Sony's flagship wireless noise-canceling headphones. Marking a three-year update from the WH-1000XM5, they bring back the much-requested folding mechanism. The new HD NC Processor QN3 optimizes twelve microphones in real-time to deliver even more powerful noise-cancellation. The price in Japan is 57,967 JPY, which is a reasonable price point compared to its overseas price of 449 USD.
+The Sony WH-1000XM6, released in May 2025, are Sony's flagship wireless noise-canceling headphones. Marking a three-year update from the WH-1000XM5, they bring back the much-requested folding mechanism. The new HD NC Processor QN3 optimizes twelve microphones in real-time to deliver even more powerful noise-cancellation. The price in Japan is 386 USD, which is a reasonable price point compared to its overseas price of 449 USD.
 
 ## Scientific Validity
 

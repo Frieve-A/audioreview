@@ -31,9 +31,9 @@ The technical aspects receive limited evaluation. The 40mm dynamic driver and de
 
 $$ \Large \text{0.6} $$
 
-A comparative evaluation is conducted against closed-back studio monitor headphones with equivalent functionality. Compared to the ATH-M40x's current price of 14,082 JPY, a more affordable option exists from the same company: the Audio-Technica ATH-M30x at 8,082 JPY. The ATH-M30x is comparable in basic acoustic performance and closed-back design, offering similar functionality at a lower price. The cost-performance is calculated based on the following formula:
+A comparative evaluation is conducted against closed-back studio monitor headphones with equivalent functionality. Compared to the ATH-M40x's current price of 94 USD, a more affordable option exists from the same company: the Audio-Technica ATH-M30x at 54 USD. The ATH-M30x is comparable in basic acoustic performance and closed-back design, offering similar functionality at a lower price. The cost-performance is calculated based on the following formula:
 
-`8,082 JPY / 14,082 JPY = 0.57`
+`54 USD / 94 USD = 0.57`
 
 Rounding this value to the second decimal place yields a score of 0.6.
 
@@ -51,6 +51,6 @@ The design philosophy is partially rational. The aim for a flat frequency respon
 
 ## Advice
 
-While the ATH-M40x is a competent studio monitor headphone, it is difficult to recommend for those prioritizing cost-performance. The company's own ATH-M30x, which is approximately 6,000 JPY cheaper, offers nearly equivalent value in basic acoustic performance. The decision to choose the ATH-M40x hinges on whether one finds the convenience of its detachable cable and minor performance differences to be worth the price gap. For those who prioritize an objective price-to-performance ratio, considering the more affordable ATH-M30x would be a more rational choice.
+While the ATH-M40x is a competent studio monitor headphone, it is difficult to recommend for those prioritizing cost-performance. The company's own ATH-M30x, which is approximately 40 USD cheaper, offers nearly equivalent value in basic acoustic performance. The decision to choose the ATH-M40x hinges on whether one finds the convenience of its detachable cable and minor performance differences to be worth the price gap. For those who prioritize an objective price-to-performance ratio, considering the more affordable ATH-M30x would be a more rational choice.
 
 (2025.7.20)

@@ -31,7 +31,7 @@ dCS's technical capabilities deserve a high evaluation. Their high-precision con
 
 $$ \Large \text{0.0} $$
 
-The price is extremely high at 25,000 USD (approximately 3,750,000 JPY). This product is a pure upsampler and requires a separate DAC. As a comparison, the WiiM Ultra (329 USD/approximately 49,350 JPY) is a streamer with a built-in DAC, providing equivalent network streaming functions (Roon Ready, TIDAL, Spotify Connect), upsampling processing, and final analog output. The calculation is "49,350 JPY ÷ 3,750,000 JPY = 0.0132", making the Vivaldi Upsampler approximately 76 times more expensive than a product with equivalent functionality. There is no rational justification for investing 3.75 million JPY in pure digital processing, making its cost-performance nonexistent.
+The price is extremely high at 25000 USD. This product is a pure upsampler and requires a separate DAC. As a comparison, the WiiM Ultra (329 USD) is a streamer with a built-in DAC, providing equivalent network streaming functions (Roon Ready, TIDAL, Spotify Connect), upsampling processing, and final analog output. The calculation is "329 USD ÷ 25000 USD = 0.0132", making the Vivaldi Upsampler approximately 76 times more expensive than a product with equivalent functionality. There is no rational justification for investing 25000 USD in pure digital processing, making its cost-performance nonexistent.
 
 ## Reliability & Support
 
@@ -47,6 +47,6 @@ The very existence of the dedicated upsampler product category is fundamentally 
 
 ## Advice
 
-We do not recommend purchasing this product. We strongly advise trying the WiiM Ultra (49,350 JPY) first. As a DAC-integrated streamer, it delivers most of the functions offered by this unit at 1/76th the price and provides more than sufficient performance for the vast majority of users. If you have a budget of 3.75 million JPY, combining the WiiM Ultra with a high-performance DAC (e.g., RME ADI-2 Pro FS R) and a high-end speaker system will achieve far greater improvements in sound quality. The purchase of a Vivaldi Upsampler is only rational for an extremely limited niche of wealthy users who already own a full Vivaldi stack and are willing to pay any price for minuscule improvements in measurements.
+We do not recommend purchasing this product. We strongly advise trying the WiiM Ultra (329 USD) first. As a DAC-integrated streamer, it delivers most of the functions offered by this unit at 1/76th the price and provides more than sufficient performance for the vast majority of users. If you have a budget of 25000 USD, combining the WiiM Ultra with a high-performance DAC (e.g., RME ADI-2 Pro FS R) and a high-end speaker system will achieve far greater improvements in sound quality. The purchase of a Vivaldi Upsampler is only rational for an extremely limited niche of wealthy users who already own a full Vivaldi stack and are willing to pay any price for minuscule improvements in measurements.
 
 (2025.7.26)

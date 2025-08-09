@@ -14,7 +14,7 @@ permalink: /products/en/fiio-bt11/
 
 ## Overview
 
-The FiiO BT11 is a portable Bluetooth transmitter released in November 2024. Positioned as a product that adds LDAC, aptX Adaptive 96kHz/24bit, and aptX Lossless support to devices like iPhone 15 series, PS5, and Nintendo Switch at a price point of 49 USD (8,800 JPY). It features the Qualcomm QCC5181 flagship chip with quad-core processor architecture and two 240MHz Qualcomm Kalimba audio DSPs. This is a technically ambitious product that achieves diverse Bluetooth codec support in a button-sized compact housing, though challenges are observed when compared with competing products in the market.
+The FiiO BT11 is a portable Bluetooth transmitter released in November 2024. Positioned as a product that adds LDAC, aptX Adaptive 96kHz/24bit, and aptX Lossless support to devices like iPhone 15 series, PS5, and Nintendo Switch at a price point of 49 USD. It features the Qualcomm QCC5181 flagship chip with quad-core processor architecture and two 240MHz Qualcomm Kalimba audio DSPs. This is a technically ambitious product that achieves diverse Bluetooth codec support in a button-sized compact housing, though challenges are observed when compared with competing products in the market.
 
 ## Scientific Validity
 

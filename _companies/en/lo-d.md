@@ -31,7 +31,7 @@ The technology was advanced for the 1970s, featuring the world's first power MOS
 
 $$ \Large \text{0.1} $$
 
-While used HMA-9500 units trade in the 25,309-160,000 yen range, the Fosi Audio BT20A Pro (11,000 yen) achieves vastly superior measurement performance with equivalent 100W output: frequency response 20Hz-20kHz ±1dB, THD ≤0.005%, SNR ≥108dB. The cost-performance calculation shows that the Fosi Audio costs approximately 1/7th the price while delivering superior specifications, resulting in an extremely poor cost-performance rating for Lo-D products. MT series cartridges at approximately 10,000 yen used versus Audio-Technica VM95E (11,000 yen) offering equivalent or superior performance. Vintage value is irrelevant to measurement performance, so pure sound quality performance-to-price ratio is significantly inferior to modern products.
+While used HMA-9500 units trade in the 169-1,067 USD range, the Fosi Audio BT20A Pro (73 USD) achieves vastly superior measurement performance with equivalent 100W output: frequency response 20Hz-20kHz ±1dB, THD ≤0.005%, SNR ≥108dB. The cost-performance calculation shows that the Fosi Audio costs approximately 1/7th the price while delivering superior specifications, resulting in an extremely poor cost-performance rating for Lo-D products. MT series cartridges at approximately 67 USD used versus Audio-Technica VM95E (73 USD) offering equivalent or superior performance. Vintage value is irrelevant to measurement performance, so pure sound quality performance-to-price ratio is significantly inferior to modern products.
 
 ## Reliability & Support
 
@@ -47,6 +47,6 @@ While the design was rational within the limitations of 1970s analog technology,
 
 ## Advice
 
-Purchasing Lo-D products cannot be recommended for sound quality improvement purposes. A modern 11,000 yen Class D amplifier completely surpasses an 80,000 yen vintage Lo-D amplifier in measurement performance. It only becomes a consideration for those who find value in vintage equipment collection or historical significance, but this is subjective value unrelated to sound quality. For practical purposes, choosing modern products with the same budget will yield vastly superior measurement performance and reliability. Beginners especially are strongly advised to prioritize objective sound quality improvement based on measurement data and not be misled by brand or history.
+Purchasing Lo-D products cannot be recommended for sound quality improvement purposes. A modern 73 USD Class D amplifier completely surpasses a 533 USD vintage Lo-D amplifier in measurement performance. It only becomes a consideration for those who find value in vintage equipment collection or historical significance, but this is subjective value unrelated to sound quality. For practical purposes, choosing modern products with the same budget will yield vastly superior measurement performance and reliability. Beginners especially are strongly advised to prioritize objective sound quality improvement based on measurement data and not be misled by brand or history.
 
 (2025.7.21)

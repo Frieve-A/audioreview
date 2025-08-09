@@ -7,13 +7,13 @@ lang: en
 ref: stax-sr-009s
 date: 2025-07-18
 rating: [3.0, 0.7, 0.9, 0.4, 0.6, 0.4]
-summary: "The STAX SR-009S, one of STAX's flagship models, demonstrates excellent measurement performance but suffers from poor cost-performance due to its 455,400 JPY price point"
+summary: "The STAX SR-009S, one of STAX's flagship models, demonstrates excellent measurement performance but suffers from poor cost-performance due to its 3036 USD price point"
 tags: [Electrostatic Headphones, High-end, Japan, Open-Back, STAX]
 permalink: /products/en/stax-sr-009s/
 ---
 ## Overview
 
-The STAX SR-009S is one of the flagship models developed by STAX, a Japanese manufacturer specializing in electrostatic headphones. It employs the company's proprietary push-pull electrostatic driver with a frequency response of 5-42,000Hz and 145kΩ impedance. Featuring improved MLER 2 electrodes and ultra-thin engineering plastic film diaphragm from its predecessor SR-009, measurement results show extremely low distortion and excellent frequency response. It requires a dedicated electrostatic amplifier and has a market price of 455,400 JPY.
+The STAX SR-009S is one of the flagship models developed by STAX, a Japanese manufacturer specializing in electrostatic headphones. It employs the company's proprietary push-pull electrostatic driver with a frequency response of 5-42,000Hz and 145kΩ impedance. Featuring improved MLER 2 electrodes and ultra-thin engineering plastic film diaphragm from its predecessor SR-009, measurement results show extremely low distortion and excellent frequency response. It requires a dedicated electrostatic amplifier and has a market price of 3036 USD.
 
 ## Scientific Validity
 
@@ -31,7 +31,7 @@ The MLER 2 (Multi-Layer-Elect-Rods 2) electrode technology represents industry-l
 
 $$ \Large \text{0.4} $$
 
-Against the SR-009S market price of 455,400 JPY, competitive products with equivalent or superior measurement performance include the Sennheiser HD 800 S (182,800 JPY). Comparing with the HD 800 S as the most affordable equivalent-performance product: 182,800 JPY ÷ 455,400 JPY = 0.40. Since a dedicated electrostatic amplifier is required (minimum SRM-D10 at approximately 134,000 JPY), total system cost reaches approximately 589,400 JPY. Compared to an HD 800 S with high-quality amplifier combination (approximately 332,800 JPY), cost-performance receives moderate evaluation.
+Against the SR-009S market price of 3036 USD, competitive products with equivalent or superior measurement performance include the Sennheiser HD 800 S (1219 USD). Comparing with the HD 800 S as the most affordable equivalent-performance product: 1219 USD ÷ 3036 USD = 0.40. Since a dedicated electrostatic amplifier is required (minimum SRM-D10 at approximately 893 USD), total system cost reaches approximately 3929 USD. Compared to an HD 800 S with high-quality amplifier combination (approximately 2219 USD), cost-performance receives moderate evaluation.
 
 ## Reliability & Support
 
@@ -47,6 +47,6 @@ Electrostatic driver technology is a rational approach contributing to measureme
 
 ## Advice
 
-While the SR-009S demonstrates excellent measurement performance, its cost-performance ratio remains challenging. For equivalent sound quality, a combination of Sennheiser HD 800 S (182,800 JPY) and high-quality amplifier (approximately 150,000 JPY) can achieve equivalent performance at approximately 332,800 JPY total cost, compared to the SR-009S system cost of 589,400 JPY. The electrostatic system costs approximately 77% more than the dynamic alternative. Unless there is specific interest in electrostatic technology itself or special attachment to the STAX brand, the dynamic alternative offers better value. This product suits enthusiasts who prioritize electrostatic technology and can accept higher system costs.
+While the SR-009S demonstrates excellent measurement performance, its cost-performance ratio remains challenging. For equivalent sound quality, a combination of Sennheiser HD 800 S (1219 USD) and high-quality amplifier (approximately 1000 USD) can achieve equivalent performance at approximately 2219 USD total cost, compared to the SR-009S system cost of 3929 USD. The electrostatic system costs approximately 77% more than the dynamic alternative. Unless there is specific interest in electrostatic technology itself or special attachment to the STAX brand, the dynamic alternative offers better value. This product suits enthusiasts who prioritize electrostatic technology and can accept higher system costs.
 
 (2025.7.18)

@@ -13,7 +13,7 @@ permalink: /products/en/final-A5000/
 ---
 ## Overview
 
-The final A5000 is an in-ear monitor (IEM) launched in December 2022, featuring the company's proprietary f-Core DU driver. Priced at 32,800 JPY, it exhibits a V-shaped acoustic characteristic with emphasized bass and treble frequencies. While certain technical considerations are evident, such as the brass housing and CCAW voice coil, it is difficult to identify a clear advantage when compared to competing products.
+The final A5000 is an in-ear monitor (IEM) launched in December 2022, featuring the company's proprietary f-Core DU driver. Priced at 219 USD, it exhibits a V-shaped acoustic characteristic with emphasized bass and treble frequencies. While certain technical considerations are evident, such as the brass housing and CCAW voice coil, it is difficult to identify a clear advantage when compared to competing products.
 
 ## Scientific Validity
 
@@ -31,7 +31,7 @@ The f-Core DU driver is the company's proprietary development, incorporating tec
 
 $$ \Large \text{0.1} $$
 
-For its price of 32,800 JPY, competing products with more faithful acoustic performance are available at a significantly lower cost. A prime example is the Moondrop Chu II (3,500 JPY), which achieves natural acoustic characteristics while featuring a metal housing and a detachable cable. Based on a price comparison with this competitor (3,500 JPY ÷ 32,800 JPY = 0.106), the A5000's cost-performance is exceedingly low. Numerous other options exist in the same price range, and no rational reason can be found to actively choose the A5000.
+For its price of 219 USD, competing products with more faithful acoustic performance are available at a significantly lower cost. A prime example is the Moondrop Chu II (23 USD), which achieves natural acoustic characteristics while featuring a metal housing and a detachable cable. Based on a price comparison with this competitor (23 USD ÷ 219 USD = 0.106), the A5000's cost-performance is exceedingly low. Numerous other options exist in the same price range, and no rational reason can be found to actively choose the A5000.
 
 ## Reliability & Support
 
@@ -47,6 +47,6 @@ The A5000's design philosophy contains contradictions from a scientific rational
 
 ## Advice
 
-For those considering the final A5000, a comparative evaluation with competing products is strongly recommended. Products such as the Moondrop Chu II (3,500 JPY) and Truthear Hexa (11,500 JPY) offer more neutral and faithful acoustic characteristics at a fraction of the A5000's price. Even for those actively seeking V-shaped acoustic characteristics, numerous less expensive alternatives exist, necessitating careful consideration of the added value justifying the 32,800 JPY investment. Except for those with a special attachment to the final brand, this product is difficult to recommend from an objective performance-to-price ratio perspective.
+For those considering the final A5000, a comparative evaluation with competing products is strongly recommended. Products such as the Moondrop Chu II (23 USD) and Truthear Hexa (77 USD) offer more neutral and faithful acoustic characteristics at a fraction of the A5000's price. Even for those actively seeking V-shaped acoustic characteristics, numerous less expensive alternatives exist, necessitating careful consideration of the added value justifying the 219 USD investment. Except for those with a special attachment to the final brand, this product is difficult to recommend from an objective performance-to-price ratio perspective.
 
 (2025.7.30)

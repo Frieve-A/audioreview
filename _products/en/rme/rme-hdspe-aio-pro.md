@@ -7,7 +7,7 @@ lang: en
 ref: rme-hdspe-aio-pro
 date: 2025-07-27
 rating: [4.0, 0.8, 0.7, 1.0, 0.8, 0.7]
-summary: "The RME HDSPe AIO Pro is a professional PCIe audio interface featuring AK5572/AK4490 converters and SteadyClock FS technology. With excellent measured performance including a 115 dB SNR and -110 dB THD, it offers superior cost-performance at 99,000 JPY compared to the functionally equivalent Fireface UCX II at 165,000 JPY."
+summary: "The RME HDSPe AIO Pro is a professional PCIe audio interface featuring AK5572/AK4490 converters and SteadyClock FS technology. With excellent measured performance including a 115 dB SNR and -110 dB THD, it offers superior cost-performance at approximately 660 USD compared to the functionally equivalent Fireface UCX II at approximately 1100 USD."
 tags: [Audio interface, Digital Audio, PCIe, Pro Audio, RME]
 permalink: /products/en/rme-hdspe-aio-pro/
 ---
@@ -31,7 +31,7 @@ The HDSPe AIO Pro offers a rich I/O set with a total of 24 channels (12 inputs/1
 
 $$ \Large \text{1.0} $$
 
-At its current price of 99,000 JPY, the closest product with equivalent functionality is the RME Fireface UCX II (165,000 JPY). The UCX II is equipped with analog I/O (including mic preamps), ADAT optical, S/PDIF, AES/EBU, and MIDI interfaces, offering nearly identical functionality to the HDSPe AIO Pro. There are no cheaper alternatives on the market that integrate analog I/O, ADAT, S/PDIF, AES/EBU, and MIDI in a single audio interface. Combined with the ultra-low latency performance of its PCIe connection, it is an irreplaceable option with top-tier cost-performance.
+At its current price of approximately 660 USD, the closest product with equivalent functionality is the RME Fireface UCX II (approximately 1100 USD). The UCX II is equipped with analog I/O (including mic preamps), ADAT optical, S/PDIF, AES/EBU, and MIDI interfaces, offering nearly identical functionality to the HDSPe AIO Pro. There are no cheaper alternatives on the market that integrate analog I/O, ADAT, S/PDIF, AES/EBU, and MIDI in a single audio interface. Combined with the ultra-low latency performance of its PCIe connection, it is an irreplaceable option with top-tier cost-performance.
 
 ## Reliability & Support
 
@@ -47,6 +47,6 @@ The PCIe-based design is a rational choice for achieving the lowest possible lat
 
 ## Advice
 
-The RME HDSPe AIO Pro truly excels in professional studio and broadcast environments that require simultaneous handling of multiple digital formats. When integrated operation of ADAT optical, S/PDIF, AES/EBU, analog I/O, and MIDI is required, it becomes an irreplaceable choice at 99,000 JPY. The measured performance reliably clears the transparent level, requiring no compromise in sound quality. Considering that the functionally equivalent USB-connected Fireface UCX II costs 165,000 JPY, it provides extremely superior cost-performance combined with the ultra-low latency of PCIe connectivity. When considering a purchase, we recommend a comprehensive evaluation of whether a desktop PC capable of PCIe connection is available and whether all input/output functions are truly necessary. RME's reliability and support structure are at industry-leading levels, making it a worthwhile investment for environments that prioritize long-term, stable operation.
+The RME HDSPe AIO Pro truly excels in professional studio and broadcast environments that require simultaneous handling of multiple digital formats. When integrated operation of ADAT optical, S/PDIF, AES/EBU, analog I/O, and MIDI is required, it becomes an irreplaceable choice at approximately 660 USD. The measured performance reliably clears the transparent level, requiring no compromise in sound quality. Considering that the functionally equivalent USB-connected Fireface UCX II costs approximately 1100 USD, it provides extremely superior cost-performance combined with the ultra-low latency of PCIe connectivity. When considering a purchase, we recommend a comprehensive evaluation of whether a desktop PC capable of PCIe connection is available and whether all input/output functions are truly necessary. RME's reliability and support structure are at industry-leading levels, making it a worthwhile investment for environments that prioritize long-term, stable operation.
 
 (2025.7.27)

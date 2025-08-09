@@ -13,7 +13,7 @@ permalink: /products/en/sony-ier-z1r/
 ---
 ## Overview
 
-The Sony IER-Z1R is the flagship in-ear monitor from Sony's Signature series. It employs a hybrid driver configuration (12mm dynamic × 1, 5mm micro-dynamic × 1, balanced armature × 1) and claims an ultra-wide frequency response of 3Hz-100,000Hz. Positioned as the culmination of Sony's acoustic technology with a zirconium housing and high-quality Japanese manufacturing, this product has carved out a unique position in the audiophile community since its 2019 release. The current market price is 226,710 JPY.
+The Sony IER-Z1R is the flagship in-ear monitor from Sony's Signature series. It employs a hybrid driver configuration (12mm dynamic × 1, 5mm micro-dynamic × 1, balanced armature × 1) and claims an ultra-wide frequency response of 3Hz-100,000Hz. Positioned as the culmination of Sony's acoustic technology with a zirconium housing and high-quality Japanese manufacturing, this product has carved out a unique position in the audiophile community since its 2019 release. The current market price is 1,511 USD.
 
 ## Scientific Validity
 
@@ -31,7 +31,7 @@ The hybrid design integrating three different types of drivers represents a tech
 
 $$ \Large \text{0.1} $$
 
-Compared to the IER-Z1R's market price of 226,710 JPY, numerous products exist that offer equivalent or superior measured performance at a fraction of the cost. For instance, the Truthear NOVA (market price 22,410 JPY) achieves a much flatter frequency response and lower distortion. In terms of the essential function of "high-fidelity reproduction," the IER-Z1R fails to provide objective performance commensurate with its price. Based on the cost-performance calculation: 22,410 JPY ÷ 226,710 JPY = 0.099, the score is 0.1. This product's price is heavily dependent on factors like brand, proprietary technology, premium materials, and manufacturing quality, rather than its pure performance-to-price ratio, which must be rated as extremely low.
+Compared to the IER-Z1R's market price of 1,511 USD, numerous products exist that offer equivalent or superior measured performance at a fraction of the cost. For instance, the Truthear NOVA (market price 149 USD) achieves a much flatter frequency response and lower distortion. In terms of the essential function of "high-fidelity reproduction," the IER-Z1R fails to provide objective performance commensurate with its price. Based on the cost-performance calculation: 149 USD ÷ 1,511 USD = 0.099, the score is 0.1. This product's price is heavily dependent on factors like brand, proprietary technology, premium materials, and manufacturing quality, rather than its pure performance-to-price ratio, which must be rated as extremely low.
 
 ## Reliability & Support
 
@@ -47,7 +47,7 @@ The design philosophy of this product has notable irrational aspects. The claim 
 
 ## Advice
 
-The IER-Z1R is a product with serious issues in objective evaluation. Its measured performance is poor, and not commensurate with its price (226,710 JPY), making its cost-performance disastrous. If you value high fidelity or price-to-performance ratio in the slightest, this product should be completely off your list, and we strongly recommend more affordable and superior options like the Truthear NOVA (approx. 22,410 JPY).
+The IER-Z1R is a product with serious issues in objective evaluation. Its measured performance is poor, and not commensurate with its price (1,511 USD), making its cost-performance disastrous. If you value high fidelity or price-to-performance ratio in the slightest, this product should be completely off your list, and we strongly recommend more affordable and superior options like the Truthear NOVA (approx. 149 USD).
 That being said, the reason this product finds favor with some enthusiasts is limited to cases where one finds value in non-measurable factors: the beautiful zirconium housing, the narrative of it being the pinnacle of Sony's technology, and its unique, large-scale sound signature. A purchase should only be considered after asking yourself if you are prepared to pay a significant cost for these elements, and a decision should be made cautiously.
 
 (2025.7.29)

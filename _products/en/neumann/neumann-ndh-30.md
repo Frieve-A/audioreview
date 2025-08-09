@@ -31,7 +31,7 @@ The NDH-30 employs advanced technical design. The 38mm neodymium magnet driver i
 
 $$ \Large \text{1.0} $$
 
-The NDH-30's Japanese market price is 73,040 JPY (approximately 487 USD). No product with equivalent or superior function and performance at a lower price could be identified. Therefore, the cost-performance score is 1.0. The price setting is acceptable in professional markets as compensation for its quality.
+The NDH-30's Japanese market price is 487 USD. No product with equivalent or superior function and performance at a lower price could be identified. Therefore, the cost-performance score is 1.0. The price setting is acceptable in professional markets as compensation for its quality.
 
 ## Reliability & Support
 

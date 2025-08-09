@@ -31,7 +31,7 @@ Inheriting converter technology from the flagship RedNet series is a technical a
 
 $$ \Large \text{1.0} $$
 
-The market price of the Focusrite Scarlett 16i16 is 64,800 JPY. After researching alternatives that meet all criteria of "equivalent or more I/O channels (16-in/16-out or more)," "converters and preamps with equivalent or superior measurement performance," and "loopback functionality," only more expensive products such as the PreSonus Studio 1824c (approx. 70,000 JPY range) were found. Therefore, the reviewed Scarlett 16i16 is the world's most affordable option in its feature and performance category. Based on the policy's calculation rules, the score is 1.0.
+The market price of the Focusrite Scarlett 16i16 is 432 USD. After researching alternatives that meet all criteria of "equivalent or more I/O channels (16-in/16-out or more)," "converters and preamps with equivalent or superior measurement performance," and "loopback functionality," only more expensive products such as the PreSonus Studio 1824c (approx. 467 USD range) were found. Therefore, the reviewed Scarlett 16i16 is the world's most affordable option in its feature and performance category. Based on the policy's calculation rules, the score is 1.0.
 
 ## Reliability & Support
 

@@ -31,7 +31,7 @@ The implementation of 32-bit float recording technology is an advanced feature i
 
 $$ \Large \text{0.6} $$
 
-Against the DR-07XP's Japanese market price of 26,134 JPY, the cheapest competing product with equivalent basic functionality is the Zoom H1essential (approx. 14,500 JPY). The H1essential also features 32-bit float recording, a USB-C interface, and stereo microphones, providing the same core functionality as the DR-07XP. The cost-performance score is calculated as `14,500 JPY ÷ 26,134 JPY = 0.554`, which rounds to 0.6. While the DR-07XP has advantages over the H1essential, such as the switchable microphone arrangement and a longer battery life of approximately 17.5 hours, it is questionable whether these additional features fully justify the price difference. Since the basic recording functionality is equivalent for users, the existence of a more affordable alternative lowers the cost-performance evaluation.
+Against the DR-07XP's Japanese market price of 174 USD, the cheapest competing product with equivalent basic functionality is the Zoom H1essential (approx. 97 USD). The H1essential also features 32-bit float recording, a USB-C interface, and stereo microphones, providing the same core functionality as the DR-07XP. The cost-performance score is calculated as 97 USD ÷ 174 USD = 0.554, which rounds to 0.6. While the DR-07XP has advantages over the H1essential, such as the switchable microphone arrangement and a longer battery life of approximately 17.5 hours, it is questionable whether these additional features fully justify the price difference. Since the basic recording functionality is equivalent for users, the existence of a more affordable alternative lowers the cost-performance evaluation.
 
 ## Reliability & Support
 

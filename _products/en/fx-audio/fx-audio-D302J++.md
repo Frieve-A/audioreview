@@ -31,9 +31,9 @@ The technical composition of the D302J++ is a typical design based on a combinat
 
 $$ \Large \text{0.8} $$
 
-We will evaluate the D302J++ against its current market price of 12,980 JPY by looking for functionally equivalent or superior alternatives. This unit features speaker outputs and a versatile 4-input system (USB, optical, coaxial, and analog). A product that meets these criteria is the Sabaj A10a, available for about 11,000 JPY. The A10a also has multiple inputs and features a more powerful amplifier.
+We will evaluate the D302J++ against its current market price of 87 USD by looking for functionally equivalent or superior alternatives. This unit features speaker outputs and a versatile 4-input system (USB, optical, coaxial, and analog). A product that meets these criteria is the Sabaj A10a, available for about 73 USD. The A10a also has multiple inputs and features a more powerful amplifier.
 Cost-performance is calculated by dividing the competitor's price by the review target's price.
-`11,000 JPY ÷ 12,980 JPY ≈ 0.847`
+`73 USD ÷ 87 USD ≈ 0.847`
 Therefore, the score is rounded to 0.8. The existence of a more affordable and higher-performance alternative means this product does not achieve the highest cost-performance rating.
 
 ## Reliability & Support

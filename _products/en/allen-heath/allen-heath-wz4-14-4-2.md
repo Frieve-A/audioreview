@@ -31,7 +31,7 @@ The design incorporates practical audio processing features including a 4-band E
 
 $$ \Large \text{0.3} $$
 
-At a market price of 248,000 JPY (as of July 2025), there are more capable and less expensive digital mixers available. For example, the Behringer X AIR XR18 features 18 inputs, 6 AUX buses, built-in effects, and USB multitrack recording capabilities for a price of 84,500 JPY. The calculation is: 84,500 JPY ÷ 248,000 JPY = 0.34. This means a functionally superior product can be obtained for about 34% of the cost. The absence of physical faders is a difference in operational style, not a functional inferiority. Unless one finds specific value in the analog feel, digital mixers are overwhelmingly superior in terms of performance-to-price ratio, leading to a low cost-performance rating for this product.
+At a market price of 1,653 USD (as of July 2025), there are more capable and less expensive digital mixers available. For example, the Behringer X AIR XR18 features 18 inputs, 6 AUX buses, built-in effects, and USB multitrack recording capabilities for a price of 563 USD. The calculation is: 563 USD ÷ 1,653 USD = 0.34. This means a functionally superior product can be obtained for about 34% of the cost. The absence of physical faders is a difference in operational style, not a functional inferiority. Unless one finds specific value in the analog feel, digital mixers are overwhelmingly superior in terms of performance-to-price ratio, leading to a low cost-performance rating for this product.
 
 ## Reliability & Support
 

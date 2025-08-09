@@ -31,7 +31,7 @@ Technical progress achieved with 1.6x noise cancellation improvement and 2x tran
 
 $$ \Large \text{0.4} $$
 
-Studio Buds+ is priced at 18,882 yen. Compared to equivalent performance Soundcore Liberty 4 NC (10,999 yen, 20Hz-20kHz support, active noise cancellation, multipoint connection, IPX4 water resistance, maximum 50-hour battery), CP = 10,999 yen ÷ 18,882 yen = 0.58. Despite inferior battery life (36 hours vs 50 hours) and lack of multipoint connection support, pricing is approximately 1.7 times higher. Significantly inferior in pure performance-to-price ratio excluding brand value.
+Studio Buds+ is priced at 126 USD. Compared to equivalent performance Soundcore Liberty 4 NC (73 USD, 20Hz-20kHz support, active noise cancellation, multipoint connection, IPX4 water resistance, maximum 50-hour battery), CP = 73 USD ÷ 126 USD = 0.58. Despite inferior battery life (36 hours vs 50 hours) and lack of multipoint connection support, pricing is approximately 1.7 times higher. Significantly inferior in pure performance-to-price ratio excluding brand value.
 
 ## Reliability & Support
 

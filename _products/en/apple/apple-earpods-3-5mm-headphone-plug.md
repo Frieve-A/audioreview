@@ -31,7 +31,7 @@ The EarPods employ a conventional design using standard dynamic drivers, with no
 
 $$ \Large \text{0.1} $$
 
-The Apple EarPods are currently priced at 3,800 yen in Japan (or 19 USD in the US). A comparable product from Daiso, offering similar functionality and Hi-Res certification, is available for 550 yen. Based on the Japanese market prices, the cost-performance calculation is: CP = 550 yen ÷ 3,800 yen = 0.145, resulting in a score of 0.1. With alternatives providing the basic functions users seek at a fraction of the price (approximately one-seventh) alongside higher specifications, cost-performance receives an extremely low evaluation.
+The Apple EarPods are currently priced at 25 USD in Japan (or 19 USD in the US). A comparable product from Daiso, offering similar functionality and Hi-Res certification, is available for 4 USD. Based on the Japanese market prices, the cost-performance calculation is: CP = 4 USD ÷ 25 USD = 0.16, resulting in a score of 0.1. With alternatives providing the basic functions users seek at a fraction of the price (approximately one-seventh) alongside higher specifications, cost-performance receives an extremely low evaluation.
 
 ## Reliability & Support
 

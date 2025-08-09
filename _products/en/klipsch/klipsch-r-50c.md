@@ -31,7 +31,7 @@ The Klipsch R-50C employs established horn-loaded technology with the Tractrix h
 
 $$ \Large \text{0.8} $$
 
-For the Klipsch R-50C's retail price of 52,800 JPY, a competing product with similar functions exists: the Polk Audio Monitor XT30 (retail price 21,000 JPY). The Polk XT30 features a 1-inch tweeter and two 5.25-inch woofers, with a frequency response of 55Hz-40kHz, which significantly surpasses the R-50C's specification (90Hz-21kHz), especially in low-frequency reproduction. The fact that a product with superior bandwidth is available for less than half the price calls the R-50C's pricing into question. Even considering the advantage of the 96dB high sensitivity from the Tractrix horn, it is doubtful whether this added value can justify the price difference. The existence of a significantly cheaper option that excels in basic performance inevitably leads to a low cost-performance rating.
+For the Klipsch R-50C's retail price of 352 USD, a competing product with similar functions exists: the Polk Audio Monitor XT30 (retail price 140 USD). The Polk XT30 features a 1-inch tweeter and two 5.25-inch woofers, with a frequency response of 55Hz-40kHz, which significantly surpasses the R-50C's specification (90Hz-21kHz), especially in low-frequency reproduction. The fact that a product with superior bandwidth is available for less than half the price calls the R-50C's pricing into question. Even considering the advantage of the 96dB high sensitivity from the Tractrix horn, it is doubtful whether this added value can justify the price difference. The existence of a significantly cheaper option that excels in basic performance inevitably leads to a low cost-performance rating.
 
 ## Reliability & Support
 

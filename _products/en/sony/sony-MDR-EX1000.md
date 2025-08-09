@@ -13,7 +13,7 @@ permalink: /products/en/sony-mdr-ex1000/
 ---
 ## Overview
 
-The Sony MDR-EX1000 is Sony's flagship in-ear monitor released in 2011. It gained attention as a premium model featuring a large 16mm dynamic driver, liquid crystal polymer (LCP) diaphragm, and magnesium housing. Currently discontinued, it trades in the used market for 11,500 to 28,130 yen depending on condition, with an average market price of approximately 18,800 yen. While it maintains certain support among audiophiles, it presents numerous problems from a scientific acoustic performance perspective.
+The Sony MDR-EX1000 is Sony's flagship in-ear monitor released in 2011. It gained attention as a premium model featuring a large 16mm dynamic driver, liquid crystal polymer (LCP) diaphragm, and magnesium housing. Currently discontinued, it trades in the used market for 125 to 188 USD depending on condition, with an average market price of approximately 125 USD. While it maintains certain support among audiophiles, it presents numerous problems from a scientific acoustic performance perspective.
 
 ## Scientific Validity
 
@@ -31,7 +31,7 @@ The 16mm large-diameter dynamic driver boasts one of the largest sizes for IEMs.
 
 $$ \Large \text{0.4} $$
 
-Against the used market average price of approximately 18,800 yen, TRUTHEAR x Crinacle ZERO: RED offering equal or superior sound quality is available for 8,165 yen (55 USD converted at current exchange rate). Cost-performance calculation: 8,165 yen ÷ 18,800 yen = 0.43, resulting in moderate-low evaluation. The ZERO: RED uses dual dynamic drivers (10mm + 7.8mm) compared to MDR-EX1000's single 16mm driver, but achieves excellent frequency response without the 5.5kHz peak, providing superior user experience. While internal configurations differ, user-perceived sound quality superiority is more important than driver topology differences in modern IEM evaluation.
+Against the used market average price of approximately 125 USD, TRUTHEAR x Crinacle ZERO: RED offering equal or superior sound quality is available for 54 USD (55 USD converted at current exchange rate). Cost-performance calculation: 54 USD ÷ 125 USD = 0.43, resulting in moderate-low evaluation. The ZERO: RED uses dual dynamic drivers (10mm + 7.8mm) compared to MDR-EX1000's single 16mm driver, but achieves excellent frequency response without the 5.5kHz peak, providing superior user experience. While internal configurations differ, user-perceived sound quality superiority is more important than driver topology differences in modern IEM evaluation.
 
 ## Reliability & Support
 
@@ -47,6 +47,6 @@ The approach of adopting large drivers and advanced materials is theoretically r
 
 ## Advice
 
-From a scientific sound quality perspective, purchasing this product is not recommended. Audio quality degradation from the measured +6dB (Q=8) 5.5kHz peak is clear, and the sound quality-to-price ratio is insufficient even at current used market average of 18,800 yen. As an alternative, TRUTHEAR x Crinacle ZERO: RED achieves superior frequency response at 8,165 yen (55 USD). User-perceived sound quality superiority is more important than driver topology differences (dual DD vs single 16mm DD). For current owners, sound quality improvement is possible through equalizer adjustment of -6dB attenuation in the 5.5kHz band (Q=8). Except for those valuing collection worth as audiophile items or ownership significance in Sony's technical history, strong recommendation is made for transition to modern alternative products.
+From a scientific sound quality perspective, purchasing this product is not recommended. Audio quality degradation from the measured +6dB (Q=8) 5.5kHz peak is clear, and the sound quality-to-price ratio is insufficient even at current used market average of 125 USD. As an alternative, TRUTHEAR x Crinacle ZERO: RED achieves superior frequency response at 54 USD (55 USD). User-perceived sound quality superiority is more important than driver topology differences (dual DD vs single 16mm DD). For current owners, sound quality improvement is possible through equalizer adjustment of -6dB attenuation in the 5.5kHz band (Q=8). Except for those valuing collection worth as audiophile items or ownership significance in Sony's technical history, strong recommendation is made for transition to modern alternative products.
 
 (2025.7.22)

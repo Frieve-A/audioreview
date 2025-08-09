@@ -48,6 +48,6 @@ The basic concept of vibration isolation is physically rational, and the selecti
 
 ## Advice
 
-For those considering purchasing the RAF-48H, we recommend comparing it with the Solid Air Audio Ukishima 15 Aluminium at 38,000 JPY. The Ukishima is maintenance-free and supports 60kg, though feet-style may differ in usage from a platform. The large price difference makes low-cost alternatives sufficient in many cases. Regarding vibration isolation platforms in general, effects may not be perceptible depending on installation environment and equipment used, so we recommend trial use through retailers offering return guarantees before purchase. The investment of 145,200 JPY is high compared to products with equivalent functionality.
+For those considering purchasing the RAF-48H, we recommend comparing it with the Solid Air Audio Ukishima 15 Aluminium at 253 USD. The Ukishima is maintenance-free and supports 60kg, though feet-style may differ in usage from a platform. The large price difference makes low-cost alternatives sufficient in many cases. Regarding vibration isolation platforms in general, effects may not be perceptible depending on installation environment and equipment used, so we recommend trial use through retailers offering return guarantees before purchase. The investment of 968 USD is high compared to products with equivalent functionality.
 
 (2025.8.8)

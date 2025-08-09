@@ -31,7 +31,7 @@ Shure adopted a hybrid design for the first time, attempting sound quality impro
 
 $$ \Large \text{0.4} $$
 
-The current Japanese market price is approximately 41,000 JPY, but the Etymotic ER2SE, which offers comparable or superior noise isolation, is available for about 15,000 JPY. The ER2SE provides up to 42dB of noise isolation, matching or exceeding the performance of this unit's key feature. The calculation is: 15,000 JPY ÷ 41,000 JPY = 0.365..., meaning a similar level of sound isolation can be achieved for less than 40% of the price. This presents a significant challenge to its cost-performance.
+The current Japanese market price is approximately 273 USD, but the Etymotic ER2SE, which offers comparable or superior noise isolation, is available for about 100 USD. The ER2SE provides up to 42dB of noise isolation, matching or exceeding the performance of this unit's key feature. The calculation is: 100 USD ÷ 273 USD = 0.365..., meaning a similar level of sound isolation can be achieved for less than 40% of the price. This presents a significant challenge to its cost-performance.
 
 ## Reliability & Support
 

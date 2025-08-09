@@ -13,7 +13,7 @@ permalink: /products/en/dcs-vivaldi-clock/
 ---
 ## Overview
 
-The dCS Vivaldi Clock is a master clock generator for digital audio systems developed by the UK-based company dCS. Designed as part of its Vivaldi series, its purpose is to supply a reference clock signal to other components like DACs, upsamplers, and transports for synchronization. It features dual VCXOs (Voltage-Controlled Crystal Oscillators) and claims a clock accuracy of less than ±1 ppm. With an actual market price of approximately 2,930,000 JPY, it is positioned in the highest price tier of the audio market.
+The dCS Vivaldi Clock is a master clock generator for digital audio systems developed by the UK-based company dCS. Designed as part of its Vivaldi series, its purpose is to supply a reference clock signal to other components like DACs, upsamplers, and transports for synchronization. It features dual VCXOs (Voltage-Controlled Crystal Oscillators) and claims a clock accuracy of less than ±1 ppm. With an actual market price of approximately 19533 USD, it is positioned in the highest price tier of the audio market.
 
 ## Scientific Validity
 
@@ -31,7 +31,7 @@ The technology level is rated as high standard. It incorporates advanced design 
 
 $$ \Large \text{0.1} $$
 
-The cost-performance is unconscionably low. While this product is priced at approximately 2,930,000 JPY, the **Gustard C18**, which offers equivalent or superior functionality and claims excellent phase noise specifications, is available for about 240,000 JPY. The cost-performance value is calculated as "240,000 JPY / 2,930,000 JPY ≈ 0.08," resulting in a score of 0.1. This implies that over 90% of the functional value offered by the Vivaldi Clock is not reflected in its price. Given the existence of an alternative that achieves objective performance at a much lower cost, this pricing is strikingly irrational.
+The cost-performance is unconscionably low. While this product is priced at approximately 19533 USD, the **Gustard C18**, which offers equivalent or superior functionality and claims excellent phase noise specifications, is available for about 1600 USD. The cost-performance value is calculated as "1600 USD / 19533 USD ≈ 0.08," resulting in a score of 0.1. This implies that over 90% of the functional value offered by the Vivaldi Clock is not reflected in its price. Given the existence of an alternative that achieves objective performance at a much lower cost, this pricing is strikingly irrational.
 
 ## Reliability & Support
 
@@ -47,6 +47,6 @@ The rationality of the design philosophy must be rated as extremely low. The pri
 
 ## Advice
 
-We do not recommend purchasing this product. An investment of approximately 3 million JPY is extremely inefficient from a sound quality improvement perspective. If you have a similar budget, we strongly advise allocating it to upgrading your speakers or to professional room acoustic measurement and treatment. These factors will yield an audible improvement that is incomparably greater than changing a clock. Even if you have a strong desire to unify your system with dCS components, you cannot expect an objective improvement in sound quality commensurate with this investment. You should first seriously consider trying a much cheaper, high-performance product like the Gustard C18, or question whether an external clock is necessary at all.
+We do not recommend purchasing this product. An investment of approximately 19533 USD is extremely inefficient from a sound quality improvement perspective. If you have a similar budget, we strongly advise allocating it to upgrading your speakers or to professional room acoustic measurement and treatment. These factors will yield an audible improvement that is incomparably greater than changing a clock. Even if you have a strong desire to unify your system with dCS components, you cannot expect an objective improvement in sound quality commensurate with this investment. You should first seriously consider trying a much cheaper, high-performance product like the Gustard C18, or question whether an external clock is necessary at all.
 
 (2025.7.25)

@@ -31,7 +31,7 @@ The biocellulose drivers utilize advanced materials with excellent vibration cha
 
 $$ \Large \text{0.9} $$
 
-The PX7 S2e's actual market price in Japan is approximately 34,000 JPY. The Sennheiser ACCENTUM Plus, which offers comparable high-quality codecs (aptX Adaptive), ANC functionality, and similar measured performance, is available for about 30,000 JPY. The cost-performance calculation is 30,000 JPY ÷ 34,000 JPY ≒ 0.88, resulting in a score of 0.9. While the price gap is significant compared to some budget-friendly multi-function models, its price is competitive within its class of products offering similar audio performance and build quality. Considering the brand value and design, the cost-performance is rated at a reasonable level.
+The PX7 S2e's actual market price in Japan is approximately 227 USD. The Sennheiser ACCENTUM Plus, which offers comparable high-quality codecs (aptX Adaptive), ANC functionality, and similar measured performance, is available for about 200 USD. The cost-performance calculation is 200 USD ÷ 227 USD ≒ 0.88, resulting in a score of 0.9. While the price gap is significant compared to some budget-friendly multi-function models, its price is competitive within its class of products offering similar audio performance and build quality. Considering the brand value and design, the cost-performance is rated at a reasonable level.
 
 ## Reliability & Support
 

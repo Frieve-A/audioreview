@@ -32,7 +32,7 @@ The ESS SABRE ES9007S Premier Audio DAC is a high-performance chip that surpasse
 
 $$ \Large \text{0.5} $$
 
-Against the RX-A4A's current price of 137,500 JPY, competing products with equivalent measurement performance and basic features are available at a significantly lower price. For example, the Denon AVR-S760H is available for a market price of 66,000 JPY. The AVR-S760H offers 7.2 channels, 8K support, Dolby Atmos/DTS:X, and has comparable core measurement performance. While the RX-A4A has advantages in features like sound field correction, the AVR-S760H fulfills the essential user functions. The cost-performance calculation is: 66,000 JPY ÷ 137,500 JPY = 0.48, which rounds to a score of 0.5.
+Against the RX-A4A's current price of 917 USD, competing products with equivalent measurement performance and basic features are available at a significantly lower price. For example, the Denon AVR-S760H is available for a market price of 440 USD. The AVR-S760H offers 7.2 channels, 8K support, Dolby Atmos/DTS:X, and has comparable core measurement performance. While the RX-A4A has advantages in features like sound field correction, the AVR-S760H fulfills the essential user functions. The cost-performance calculation is: 440 USD ÷ 917 USD = 0.48, which rounds to a score of 0.5.
 
 ## Reliability & Support
 
@@ -48,6 +48,6 @@ The design of the RX-A4A adopts a scientifically rational approach. The use of a
 
 ## Advice
 
-While the RX-A4A is an excellent AV receiver in terms of measurement performance and technical specifications, we do not recommend its purchase from a cost-performance perspective. The Denon AVR-S760H, which has comparable core measurement performance and basic features, is available for about 70,000 JPY less. The RX-A4A should only be considered if you have a strong preference for the Yamaha brand or find the advanced YPAO R.S.C. sound field correction to be worth the price difference. For general use, more affordable competing products provide perfectly adequate performance. We strongly recommend carefully judging whether the price difference is justified before making a purchase.
+While the RX-A4A is an excellent AV receiver in terms of measurement performance and technical specifications, we do not recommend its purchase from a cost-performance perspective. The Denon AVR-S760H, which has comparable core measurement performance and basic features, is available for about 477 USD less. The RX-A4A should only be considered if you have a strong preference for the Yamaha brand or find the advanced YPAO R.S.C. sound field correction to be worth the price difference. For general use, more affordable competing products provide perfectly adequate performance. We strongly recommend carefully judging whether the price difference is justified before making a purchase.
 
 (2025-07-27)

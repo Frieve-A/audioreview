@@ -31,7 +31,7 @@ The EVO 4 incorporates high-quality AD converters and low-noise design microphon
 
 $$ \Large \text{1.0} $$
 
-The EVO 4's market price is 23,100 JPY. As a competing product with equivalent 2-input 2-output configuration, no cheaper alternative with equivalent or superior measured performance exists. The Behringer UMC202HD (10,615 JPY) is less expensive but inferior in measured performance, so it is not a valid comparison. While compared to the Focusrite Scarlett 2i2 4th Gen (26,950 JPY), the EVO 4 is less expensive, providing excellent absolute cost-performance.
+The EVO 4's market price is 154 USD. As a competing product with equivalent 2-input 2-output configuration, no cheaper alternative with equivalent or superior measured performance exists. The Behringer UMC202HD (71 USD) is less expensive but inferior in measured performance, so it is not a valid comparison. While compared to the Focusrite Scarlett 2i2 4th Gen (180 USD), the EVO 4 is less expensive, providing excellent absolute cost-performance.
 
 ## Reliability & Support
 

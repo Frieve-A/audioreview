@@ -31,7 +31,7 @@ This unit employs conventional technologies, including a toroidal transformer, a
 
 $$ \Large \text{0.4} $$
 
-Against its market price of 37,730 JPY, there are stereo power amplifiers that offer superior performance for less money. For example, the Fosi Audio V3 (15,999 JPY) provides significantly higher power output and publishes excellent measured performance, including a THD+N of under 0.005%. Functionally, it is an equivalent stereo amplifier, but its performance is clearly superior. A direct comparison yields the calculation: 15,999 JPY ÷ 37,730 JPY = 0.424. This demonstrates that the cost-performance of this unit is poor.
+Against its market price of 252 USD, there are stereo power amplifiers that offer superior performance for less money. For example, the Fosi Audio V3 (107 USD) provides significantly higher power output and publishes excellent measured performance, including a THD+N of under 0.005%. Functionally, it is an equivalent stereo amplifier, but its performance is clearly superior. A direct comparison yields the calculation: 107 USD ÷ 252 USD = 0.424. This demonstrates that the cost-performance of this unit is poor.
 
 ## Reliability & Support
 
@@ -47,6 +47,6 @@ While the robust design for PA applications is rational, the failure to disclose
 
 ## Advice
 
-While this unit can handle basic amplification needs in a professional PA environment, it is not recommended for applications where audio fidelity and scientific performance are priorities. Considering the 37,730 JPY price, there is no logical reason to choose this unit from a cost-performance perspective when the Fosi Audio V3 (15,999 JPY) offers clearly documented, near-transparent performance for less than half the price. For a similar budget, a wide array of far more capable options is available. Even for PA use, where higher fidelity can now be achieved at a lower cost, the justification for selecting this amplifier is extremely limited.
+While this unit can handle basic amplification needs in a professional PA environment, it is not recommended for applications where audio fidelity and scientific performance are priorities. Considering the 252 USD price, there is no logical reason to choose this unit from a cost-performance perspective when the Fosi Audio V3 (107 USD) offers clearly documented, near-transparent performance for less than half the price. For a similar budget, a wide array of far more capable options is available. Even for PA use, where higher fidelity can now be achieved at a lower cost, the justification for selecting this amplifier is extremely limited.
 
 (2025.7.21)

@@ -31,8 +31,8 @@ The combination of a 19mm titanium dome tweeter and a 133mm pure pulp cone woofe
 
 $$ \Large \text{0.3} $$
 
-Compared to the JBL L52 Classic's market price in Japan (approx. 98,000 JPY per pair), there are more affordable products with equivalent or superior basic performance. For example, the Polk Audio Monitor XT MXT20 (approx. 29,520 JPY per pair) boasts a wider frequency response (38Hz-40kHz) and higher sensitivity (87dB), outperforming the L52 Classic on paper. Since equivalent performance can be achieved at a much lower cost, the cost-performance is rated at 0.3 based on the following calculation:
-`29,520 JPY ÷ 98,000 JPY ≒ 0.30`
+Compared to the JBL L52 Classic's market price in Japan (approx. 653 USD per pair), there are more affordable products with equivalent or superior basic performance. For example, the Polk Audio Monitor XT MXT20 (approx. 197 USD per pair) boasts a wider frequency response (38Hz-40kHz) and higher sensitivity (87dB), outperforming the L52 Classic on paper. Since equivalent performance can be achieved at a much lower cost, the cost-performance is rated at 0.3 based on the following calculation:
+`197 USD ÷ 653 USD ≒ 0.30`
 
 ## Reliability & Support
 
@@ -48,6 +48,6 @@ The design philosophy of the L52 Classic places more emphasis on reproducing 197
 
 ## Advice
 
-The appeal of the JBL L52 Classic largely depends on its iconic retro design. However, for its price of approximately 98,000 JPY, it has clear challenges in acoustic performance and cost-effectiveness. For instance, the Polk Audio Monitor XT MXT20 (approx. 29,520 JPY) offers superior sensitivity and frequency response for a fraction of the cost. If you prioritize pure sound quality or cost-performance, it would be more rational to consider other options. This speaker is recommended only for users who have a strong affinity for the JBL brand and its vintage design and are willing to accept the higher price for its performance level.
+The appeal of the JBL L52 Classic largely depends on its iconic retro design. However, for its price of approximately 653 USD, it has clear challenges in acoustic performance and cost-effectiveness. For instance, the Polk Audio Monitor XT MXT20 (approx. 197 USD) offers superior sensitivity and frequency response for a fraction of the cost. If you prioritize pure sound quality or cost-performance, it would be more rational to consider other options. This speaker is recommended only for users who have a strong affinity for the JBL brand and its vintage design and are willing to accept the higher price for its performance level.
 
 (2025.7.31)

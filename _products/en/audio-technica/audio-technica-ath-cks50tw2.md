@@ -13,7 +13,7 @@ permalink: /products/en/audio-technica-ath-cks50tw2/
 ---
 ## Overview
 
-The Audio-Technica ATH-CKS50TW2 belongs to the company's SOLID BASS series of true wireless earbuds. Released in 2024, this model features dedicated 9mm drivers, digital hybrid noise-canceling, and an impressive long battery life of up to 50 hours (including the case). Audio-Technica, a long-established audio manufacturer founded in 1962, has a history of developing a wide range of products from professional to consumer use. It incorporates modern features such as IPX4 water resistance, multi-point connection, and a magnetic switch function, and is sold for approximately 18,920 JPY in Japan.
+The Audio-Technica ATH-CKS50TW2 belongs to the company's SOLID BASS series of true wireless earbuds. Released in 2024, this model features dedicated 9mm drivers, digital hybrid noise-canceling, and an impressive long battery life of up to 50 hours (including the case). Audio-Technica, a long-established audio manufacturer founded in 1962, has a history of developing a wide range of products from professional to consumer use. It incorporates modern features such as IPX4 water resistance, multi-point connection, and a magnetic switch function, and is sold for approximately 126 USD in Japan.
 
 ## Scientific Validity
 
@@ -31,7 +31,7 @@ The adoption of 9mm high-definition drivers is a standard design, with no notabl
 
 $$ \Large \text{0.7} $$
 
-Compared to the ATH-CKS50TW2's actual selling price of 18,920 JPY in Japan, the Anker Soundcore Liberty 4 NC (12,990 JPY), which boasts superior noise-canceling performance and LDAC support, is an appropriate comparison. The Liberty 4 NC is equipped with 11mm drivers and surpasses this unit in many functional aspects. The calculation is `12,990 JPY / 18,920 JPY = 0.686...`, resulting in a score of 0.7. As a cheaper alternative, the Anker Soundcore Space A40 (9,990 JPY) also exists, offering LDAC support and comparable battery performance. Even for those who find value in the Audio-Technica brand or the product's build quality, purely in terms of function/performance-to-price ratio, the cheaper alternatives have the upper hand.
+Compared to the ATH-CKS50TW2's actual selling price of 126 USD in Japan, the Anker Soundcore Liberty 4 NC (87 USD), which boasts superior noise-canceling performance and LDAC support, is an appropriate comparison. The Liberty 4 NC is equipped with 11mm drivers and surpasses this unit in many functional aspects. The calculation is `87 USD / 126 USD = 0.686...`, resulting in a score of 0.7. As a cheaper alternative, the Anker Soundcore Space A40 (67 USD) also exists, offering LDAC support and comparable battery performance. Even for those who find value in the Audio-Technica brand or the product's build quality, purely in terms of function/performance-to-price ratio, the cheaper alternatives have the upper hand.
 
 ## Reliability & Support
 
@@ -47,6 +47,6 @@ Focusing on long battery life is a rational direction for improving practicality
 
 ## Advice
 
-For those considering purchasing the ATH-CKS50TW2, it is recommended to first compare it with the Anker Soundcore Liberty 4 NC (12,990 JPY) or Soundcore Space A40 (9,990 JPY), which offer equivalent or better functions at a lower price. These alternatives are superior, especially in noise-canceling performance and high-resolution codec support, and offer better cost-performance. The decision will depend on whether one can justify the approximately 6,000 to 9,000 JPY price difference for the Audio-Technica brand and its solid build quality. If long battery life is the top priority, the lower-end model ATH-CKS50TW (approx. 11,000 JPY) is also an option. For those who prioritize sound quality, considering models with a proven track record in measurement performance, such as the older Sony WF-1000XM4, is a rational choice.
+For those considering purchasing the ATH-CKS50TW2, it is recommended to first compare it with the Anker Soundcore Liberty 4 NC (87 USD) or Soundcore Space A40 (67 USD), which offer equivalent or better functions at a lower price. These alternatives are superior, especially in noise-canceling performance and high-resolution codec support, and offer better cost-performance. The decision will depend on whether one can justify the approximately 40 to 60 USD price difference for the Audio-Technica brand and its solid build quality. If long battery life is the top priority, the lower-end model ATH-CKS50TW (approx. 73 USD) is also an option. For those who prioritize sound quality, considering models with a proven track record in measurement performance, such as the older Sony WF-1000XM4, is a rational choice.
 
 (2025.7.20)

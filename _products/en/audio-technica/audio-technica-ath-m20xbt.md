@@ -32,10 +32,10 @@ The basic design is a carryover from the wired M20x with added Bluetooth 5.0 mod
 
 $$ \Large \text{0.8} $$
 
-Compared to the current market price of 11,757 JPY (79 USD), the more feature-rich and higher-quality Anker Soundcore Life Q30 is available for 9,522 JPY (63.99 USD). The Life Q30 includes Active Noise Cancelling (ANC) and detailed EQ customization via a dedicated app, features that this product lacks. Furthermore, its sound quality is highly rated in multiple reviews. Based on this, the Life Q30 can be judged as superior in overall performance to the ATH-M20xBT.
+Compared to the current market price of 78 USD, the more feature-rich and higher-quality Anker Soundcore Life Q30 is available for 63 USD. The Life Q30 includes Active Noise Cancelling (ANC) and detailed EQ customization via a dedicated app, features that this product lacks. Furthermore, its sound quality is highly rated in multiple reviews. Based on this, the Life Q30 can be judged as superior in overall performance to the ATH-M20xBT.
 
 Cost-performance is calculated by dividing the price of the comparison product by the price of the product being reviewed.
-`9,522 JPY ÷ 11,757 JPY = 0.810...`
+`63 USD ÷ 78 USD = 0.810...`
 Rounding this result gives a score of 0.8.
 
 ## Reliability & Support
@@ -54,6 +54,6 @@ The approach of adding wireless functionality to professional monitor headphones
 
 The ATH-M20xBT can be an option for users who trust the Audio-Technica brand and prefer its signature monitor-style sound. The dual wired/wireless connectivity and long battery life are also appealing. However, when considering overall value, better alternatives exist.
 
-Specifically, the Anker Soundcore Life Q30 (9,522 JPY / 63.99 USD) is cheaper yet offers critical features that this product lacks, such as Active Noise Cancelling (ANC) and EQ customization through a dedicated app, and it also receives high marks for sound quality. Given the clear differences in features and price, the Soundcore Life Q30 is the more rational choice for most users. Opting for the ATH-M20xBT would be limited to cases where ANC is not needed and there is a strong preference for the Audio-Technica brand or its specific sound profile.
+Specifically, the Anker Soundcore Life Q30 (63 USD) is cheaper yet offers critical features that this product lacks, such as Active Noise Cancelling (ANC) and EQ customization through a dedicated app, and it also receives high marks for sound quality. Given the clear differences in features and price, the Soundcore Life Q30 is the more rational choice for most users. Opting for the ATH-M20xBT would be limited to cases where ANC is not needed and there is a strong preference for the Audio-Technica brand or its specific sound profile.
 
 (2025.7.20)

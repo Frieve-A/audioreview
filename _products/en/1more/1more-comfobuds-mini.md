@@ -32,7 +32,7 @@ The graphene diaphragm and dual magnetic circuit design represent modern approac
 
 $$ \Large \text{0.8} $$
 
-With a Japanese market price of 12,990 JPY, a competitor, the EarFun Air Pro 4 (9,990 JPY), offers equivalent or superior ANC performance (50dB) and features. The calculation is: 9,990 JPY ÷ 12,990 JPY = 0.769, which rounds to 0.8. The EarFun Air Pro 4 provides superior specifications, including better ANC performance, longer battery life (52 hours), the latest Bluetooth 5.4, and aptX Lossless support, for about 3,000 JPY less than the ComfoBuds Mini. The biggest differentiating factor for the ComfoBuds Mini is its unique 3.7g lightweight design, but in terms of pure performance-to-price ratio, it faces competitive challenges.
+With a Japanese market price of 87 USD, a competitor, the EarFun Air Pro 4 (67 USD), offers equivalent or superior ANC performance (50dB) and features. The calculation is: 67 USD ÷ 87 USD = 0.769, which rounds to 0.8. The EarFun Air Pro 4 provides superior specifications, including better ANC performance, longer battery life (52 hours), the latest Bluetooth 5.4, and aptX Lossless support, for about 20 USD less than the ComfoBuds Mini. The biggest differentiating factor for the ComfoBuds Mini is its unique 3.7g lightweight design, but in terms of pure performance-to-price ratio, it faces competitive challenges.
 
 ## Reliability & Support
 
@@ -48,6 +48,6 @@ The ultra-miniaturization approach represents a rational direction addressing ce
 
 ## Advice
 
-The 1MORE ComfoBuds Mini is suitable for users who prioritize a lightweight and discreet design above all else. Its 3.7g weight is a clear advantage, promising minimal fatigue even during long hours of use. Features like sleep-friendly design and sound customization via SoundID also add value. However, for those who prioritize sound quality and features, we strongly recommend considering the EarFun Air Pro 4 (9,990 JPY). This product offers significantly superior specifications—including 50dB high-performance ANC, 52-hour battery life, and aptX Lossless support—for about 3,000 JPY less. Before purchasing, it is crucial to clarify your priorities between lightweight design and acoustic performance/price efficiency and to conduct a thorough comparison with other options.
+The 1MORE ComfoBuds Mini is suitable for users who prioritize a lightweight and discreet design above all else. Its 3.7g weight is a clear advantage, promising minimal fatigue even during long hours of use. Features like sleep-friendly design and sound customization via SoundID also add value. However, for those who prioritize sound quality and features, we strongly recommend considering the EarFun Air Pro 4 (67 USD). This product offers significantly superior specifications—including 50dB high-performance ANC, 52-hour battery life, and aptX Lossless support—for about 20 USD less. Before purchasing, it is crucial to clarify your priorities between lightweight design and acoustic performance/price efficiency and to conduct a thorough comparison with other options.
 
 (2025.7.15)

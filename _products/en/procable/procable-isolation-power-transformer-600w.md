@@ -32,7 +32,7 @@ This product adopts basic isolation power transformer technology, and the inclus
 
 $$ \Large \text{1.0} $$
 
-Market research shows this product is sold on Amazon.co.jp for approximately 47,800 JPY and on Rakuten Market for around 49,800 JPY. In the category of 600W class isolation power transformers, "finished products" with equivalent capacity and functionality are extremely limited. Our market survey found that finished transformer products with a similar 600W capacity and isolation function were mainly high-priced commercial or audiophile-grade products. While cheaper transformer components exist for DIY purposes, this product is positioned in the effective lowest price range as a finished product complete with a case, input/output terminals, and safety measures. Therefore, as there are no alternative finished products with equivalent functionality, the cost-performance is rated 1.0.
+Market research shows this product is sold on Amazon.co.jp for approximately 319 USD and on Rakuten Market for around 332 USD. In the category of 600W class isolation power transformers, "finished products" with equivalent capacity and functionality are extremely limited. Our market survey found that finished transformer products with a similar 600W capacity and isolation function were mainly high-priced commercial or audiophile-grade products. While cheaper transformer components exist for DIY purposes, this product is positioned in the effective lowest price range as a finished product complete with a case, input/output terminals, and safety measures. Therefore, as there are no alternative finished products with equivalent functionality, the cost-performance is rated 1.0.
 
 ## Reliability & Support
 

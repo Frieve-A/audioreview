@@ -31,7 +31,7 @@ While adopting 13mm drivers and 7.1-channel virtual surround technology through 
 
 $$ \Large \text{1.0} $$
 
-No competing product with equivalent functionality, including 7.1-channel virtual surround via USB and inline controls, was found at a lower price. With the Li-Pro's market price at approximately 2,000 JPY, it represents the lowest cost option for these features, resulting in a 1.0 evaluation.
+No competing product with equivalent functionality, including 7.1-channel virtual surround via USB and inline controls, was found at a lower price. With the Li-Pro's market price at approximately 13 USD, it represents the lowest cost option for these features, resulting in a 1.0 evaluation.
 
 ## Reliability & Support
 
@@ -47,6 +47,6 @@ Basic wired earphone functionality is fulfilled with no unscientific claims obse
 
 ## Advice
 
-The Bluedio Li-Pro is a wired earphone with 7.1-channel virtual surround functionality via USB, priced around 2,000 JPY, but scientific audio quality evaluation is difficult due to insufficient measurement performance data. No superior cost-performance alternatives with equivalent features were identified. Understand that the virtual surround effects for music appreciation are limited before considering purchase. For budget-conscious buyers seeking basic wired earphones, this product offers good value; for general use, consider products with higher reliability.
+The Bluedio Li-Pro is a wired earphone with 7.1-channel virtual surround functionality via USB, priced around 13 USD, but scientific audio quality evaluation is difficult due to insufficient measurement performance data. No superior cost-performance alternatives with equivalent features were identified. Understand that the virtual surround effects for music appreciation are limited before considering purchase. For budget-conscious buyers seeking basic wired earphones, this product offers good value; for general use, consider products with higher reliability.
 
 (2025.8.7)

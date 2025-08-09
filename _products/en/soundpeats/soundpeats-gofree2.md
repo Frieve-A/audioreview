@@ -32,7 +32,7 @@ The adoption of a 16.2mm dynamic driver and LDAC support shows some technical co
 
 $$ \Large \text{0.8} $$
 
-The SoundPEATS GoFree2 is priced at approximately 9,980 JPY (69 USD), whereas the similarly featured Soundcore V30i is available for about 7,990 JPY (55 USD). Calculation: 7,990 JPY ÷ 9,980 JPY ≈ 0.80, evaluated as 0.8. The V30i features the same open-ear design with Bluetooth 5.3 and IPX5 water resistance, and its standalone battery life of 12 hours surpasses the GoFree2's 9 hours. While the GoFree2's LDAC support is a technical differentiator, considering its limited practical advantage, the approximately 25% higher price lacks strong justification.
+The SoundPEATS GoFree2 is priced at approximately 67 USD (69 USD), whereas the similarly featured Soundcore V30i is available for about 53 USD (55 USD). Calculation: 53 USD ÷ 67 USD ≈ 0.80, evaluated as 0.8. The V30i features the same open-ear design with Bluetooth 5.3 and IPX5 water resistance, and its standalone battery life of 12 hours surpasses the GoFree2's 9 hours. While the GoFree2's LDAC support is a technical differentiator, considering its limited practical advantage, the approximately 25% higher price lacks strong justification.
 
 ## Reliability & Support
 
@@ -48,6 +48,6 @@ The open-ear product category itself is a rational choice for users who need to 
 
 ## Advice
 
-The SoundPEATS GoFree2 could be an option for users specifically attracted to an LDAC-compatible open-ear earbud. However, for those prioritizing cost-performance, a more careful consideration is advised. The Soundcore V30i (7,990 JPY), which is about 25% cheaper, offers superior battery life with the same level of water resistance, making it a more balanced choice for many users. The audible benefits of LDAC in an open-ear design are likely to be limited. If battery longevity for activities like sports is a priority, the V30i is likely the more rational choice.
+The SoundPEATS GoFree2 could be an option for users specifically attracted to an LDAC-compatible open-ear earbud. However, for those prioritizing cost-performance, a more careful consideration is advised. The Soundcore V30i (53 USD), which is about 25% cheaper, offers superior battery life with the same level of water resistance, making it a more balanced choice for many users. The audible benefits of LDAC in an open-ear design are likely to be limited. If battery longevity for activities like sports is a priority, the V30i is likely the more rational choice.
 
 (2025.7.24)

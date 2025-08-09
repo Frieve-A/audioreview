@@ -34,9 +34,9 @@ $$ \Large \text{0.5} $$
 
 To evaluate the company's overall cost-performance, we compare its three main products with the most affordable market alternatives that provide a similar vintage sound, and then calculate the average.
 
-- **Hitchhike Drive (29,700 JPY)**: The CP compared to the Boss BD-2 (23,100 JPY) is `23,100 ÷ 29,700 = 0.78`.
-- **#24 (35,200 JPY)**: The CP compared to the ProCo RAT 2 (18,000 JPY) is `18,000 ÷ 35,200 = 0.51`.
-- **Mayonaise Fuzz (39,600 JPY)**: The CP compared to the Electro-Harmonix Big Muff Pi (13,000 JPY) is `13,000 ÷ 39,600 = 0.33`.
+- **Hitchhike Drive (198 USD)**: The CP compared to the Boss BD-2 (154 USD) is `154 ÷ 198 = 0.78`.
+- **#24 (235 USD)**: The CP compared to the ProCo RAT 2 (120 USD) is `120 ÷ 235 = 0.51`.
+- **Mayonaise Fuzz (264 USD)**: The CP compared to the Electro-Harmonix Big Muff Pi (87 USD) is `87 ÷ 264 = 0.33`.
 
 The average of these scores is approximately 0.54, which rounds to a final score of 0.5. In terms of pure performance-to-price ratio, the more affordable classic products have the upper hand. Whether one finds value in the craftsmanship and design of a boutique product is key to justifying this price difference.
 

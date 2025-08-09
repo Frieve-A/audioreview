@@ -31,7 +31,7 @@ The PRAC (Power Reserving Amplifier Circuit) technology that achieves high outpu
 
 $$ \Large \text{0.7} $$
 
-Against the market price of 7545 yen for MM-SPU9BKN, Creative Pebble V3 with equivalent or superior functionality and performance is available for 5200 yen. Calculation: 5200 yen ÷ 7545 yen = 0.689, indicating equivalent or superior products exist at approximately 30% lower cost. Creative Pebble V3 has functional advantages with 8W RMS output, Bluetooth 5.0 support, USB-C connection, and has received high ratings in multiple reviews for sound quality. Furthermore, the 3500 yen Creative Pebble (4.4W RMS) can satisfy basic sound quality requirements, making competing products overwhelmingly superior from a cost-performance perspective.
+Against the market price of 50 USD for MM-SPU9BKN, Creative Pebble V3 with equivalent or superior functionality and performance is available for 35 USD. Calculation: 35 USD ÷ 50 USD = 0.689, indicating equivalent or superior products exist at approximately 30% lower cost. Creative Pebble V3 has functional advantages with 8W RMS output, Bluetooth 5.0 support, USB-C connection, and has received high ratings in multiple reviews for sound quality. Furthermore, the 23 USD Creative Pebble (4.4W RMS) can satisfy basic sound quality requirements, making competing products overwhelmingly superior from a cost-performance perspective.
 
 ## Reliability & Support
 
@@ -47,6 +47,6 @@ The product development policy emphasizing practicality as a computer peripheral
 
 ## Advice
 
-Sanwa Supply's audio products are practical choices that meet basic requirements as computer peripherals, but cannot be recommended for sound quality-focused users. In the same price range, Creative Pebble series has technological and sound quality advantages, particularly Pebble V3 (5200 yen) which also surpasses in functionality. If prioritizing domestic support and availability with basic audio reproduction being sufficient, they could be options, but considering cost-effectiveness, competing products are recommended. Unlike their strengths in cables, mice, and other main products, technological advantages in the audio field are limited. For sound quality improvements, we strongly recommend considering competing products with external power support or higher-performance active speakers.
+Sanwa Supply's audio products are practical choices that meet basic requirements as computer peripherals, but cannot be recommended for sound quality-focused users. In the same price range, Creative Pebble series has technological and sound quality advantages, particularly Pebble V3 (35 USD) which also surpasses in functionality. If prioritizing domestic support and availability with basic audio reproduction being sufficient, they could be options, but considering cost-effectiveness, competing products are recommended. Unlike their strengths in cables, mice, and other main products, technological advantages in the audio field are limited. For sound quality improvements, we strongly recommend considering competing products with external power support or higher-performance active speakers.
 
 (2025.7.17)

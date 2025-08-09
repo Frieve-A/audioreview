@@ -33,13 +33,13 @@ $$ \Large \text{0.1} $$
 
 Aurender products demonstrate extremely poor cost-performance from pure functional performance perspectives. The company's products fundamentally serve as "transports" receiving digital data from storage or streaming services and outputting to DACs. This functionality is achievable with far less expensive components.
 
-For example, comparing Aurender's entry model "N150" (approximately 3,333 USD / 500,000 yen) to equivalent-function alternatives:
-- **Server/Transport**: Raspberry Pi 4 (approximately 53 USD / 8,000 yen) or fanless Mini PC (approximately 267 USD / 40,000 yen)
-- **DAC**: Topping E30 II (approximately 147 USD / 22,000 yen, SINAD 115dB approaching measurement limits)
+For example, comparing Aurender's entry model "N150" (approximately 3333 USD) to equivalent-function alternatives:
+- **Server/Transport**: Raspberry Pi 4 (approximately 53 USD) or fanless Mini PC (approximately 267 USD)
+- **DAC**: Topping E30 II (approximately 147 USD, SINAD 115dB approaching measurement limits)
 - **Software**: Volumio (free version available) or Roon (paid)
 
-Total cost for this alternative configuration: approximately 413 USD / 62,000 yen for PC-based systems.
-`CP = 413 USD ÷ 3,333 USD ≈ 0.12`
+Total cost for this alternative configuration: approximately 413 USD for PC-based systems.
+`CP = 413 USD ÷ 3333 USD ≈ 0.12`
 Raspberry Pi-based systems would yield even lower CP values. Aurender's hundreds of thousands of yen pricing represents payment for chassis quality, brand value, and scientifically questionable "noise reduction" added value, with reproduction quality cost-efficiency being extremely poor.
 
 ## Reliability & Support

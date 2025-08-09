@@ -14,7 +14,7 @@ permalink: /products/en/audio-technica-ath-adx5000/
 
 ## Overview
 
-The Audio-Technica ATH-ADX5000 is the company's flagship open-back headphones. It features a 58mm tungsten-coated diaphragm, permendur magnetic circuit, and proprietary Core Mount Technology, with hand-assembled production in Japan. The lightweight 270g magnesium chassis aims to improve wearing comfort. Released in 2017, it represents the technical pinnacle of Audio-Technica's open-back headphone lineup. The price is 208,500 JPY.
+The Audio-Technica ATH-ADX5000 is the company's flagship open-back headphones. It features a 58mm tungsten-coated diaphragm, permendur magnetic circuit, and proprietary Core Mount Technology, with hand-assembled production in Japan. The lightweight 270g magnesium chassis aims to improve wearing comfort. Released in 2017, it represents the technical pinnacle of Audio-Technica's open-back headphone lineup. The price is 1390 USD.
 
 ## Scientific Validity
 
@@ -32,7 +32,7 @@ Technically, it incorporates many advanced elements including the 58mm tungsten-
 
 $$ \Large \text{0.1} $$
 
-The HiFiMAN SUNDARA with equivalent or superior performance is available for 25,700 JPY, with the calculation being 25,700 JPY ÷ 208,500 JPY = 0.123. The SUNDARA achieves superior transparency compared to the ADX5000's saddle-shaped response and high distortion rates (1.5% at 90dBA, 4.7% at 100dBA) through excellent measurement performance including frequency response flatness (excellent flatness from 20Hz-600Hz), low distortion characteristics, and appropriate presence characteristics around 3kHz. No objective performance differences can be confirmed to justify the more than 8x price difference. The 208,500 JPY price setting is extremely irrational in the current high-performance headphone market.
+The HiFiMAN SUNDARA with equivalent or superior performance is available for 171 USD, with the calculation being 171 USD ÷ 1390 USD = 0.123. The SUNDARA achieves superior transparency compared to the ADX5000's saddle-shaped response and high distortion rates (1.5% at 90dBA, 4.7% at 100dBA) through excellent measurement performance including frequency response flatness (excellent flatness from 20Hz-600Hz), low distortion characteristics, and appropriate presence characteristics around 3kHz. No objective performance differences can be confirmed to justify the more than 8x price difference. The 1390 USD price setting is extremely irrational in the current high-performance headphone market.
 
 ## Reliability & Support
 
@@ -48,6 +48,6 @@ While advanced technical elements have been invested, the problem is that the fi
 
 ## Advice
 
-For those considering purchasing the ATH-ADX5000, we strongly recommend the HiFiMAN SUNDARA. Despite being priced at 25,700 JPY, less than one-eighth the cost, the SUNDARA achieves superior transparency compared to the ADX5000 in both measurement performance and frequency characteristics. Specifically, the SUNDARA's flat characteristics from 20Hz-600Hz, appropriate presence characteristics at 3kHz, and excellent low distortion performance significantly surpass the ADX5000's saddle-shaped response characteristics and high distortion rates. With a budget of 208,500 JPY, it would be possible to combine the SUNDARA with an excellent headphone amplifier and DAC, achieving far superior results as a total acoustic system. Even if you have preferences for the Audio-Technica brand or Japanese manufacturing, no objective basis exists to justify this price difference. For those seeking high-quality headphones, we recommend making rational choices based on measurement data.
+For those considering purchasing the ATH-ADX5000, we strongly recommend the HiFiMAN SUNDARA. Despite being priced at 171 USD, less than one-eighth the cost, the SUNDARA achieves superior transparency compared to the ADX5000 in both measurement performance and frequency characteristics. Specifically, the SUNDARA's flat characteristics from 20Hz-600Hz, appropriate presence characteristics at 3kHz, and excellent low distortion performance significantly surpass the ADX5000's saddle-shaped response characteristics and high distortion rates. With a budget of 1390 USD, it would be possible to combine the SUNDARA with an excellent headphone amplifier and DAC, achieving far superior results as a total acoustic system. Even if you have preferences for the Audio-Technica brand or Japanese manufacturing, no objective basis exists to justify this price difference. For those seeking high-quality headphones, we recommend making rational choices based on measurement data.
 
 (2025.7.26)

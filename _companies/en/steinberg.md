@@ -31,7 +31,7 @@ The D-PRE Class A microphone preamplifier developed in collaboration with Yamaha
 
 $$ \Large \text{0.6} $$
 
-The Japanese market price of the UR22C is 23,455 JPY. Compared to the PreSonus AudioBox USB 96 (13,037 JPY) with equivalent functionality and performance, the calculation result of 13,037 JPY ÷ 23,455 JPY = 0.56 indicates the existence of a more affordable alternative. While the included Cubase AI software provides value, given the limited advantage in measured performance, the cost-performance remains at an average level.
+The Japanese market price of the UR22C is 156 USD. Compared to the PreSonus AudioBox USB 96 (87 USD) with equivalent functionality and performance, the calculation result of 87 USD ÷ 156 USD = 0.56 indicates the existence of a more affordable alternative. While the included Cubase AI software provides value, given the limited advantage in measured performance, the cost-performance remains at an average level.
 
 ## Reliability & Support
 

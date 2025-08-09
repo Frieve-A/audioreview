@@ -31,7 +31,7 @@ The Elite 10 incorporates 10mm drivers while the Elite 8 Active uses 6mm drivers
 
 $$ \Large \text{0.5} $$
 
-The Elite 10 Gen 2 is priced at 28,500 yen and the Elite 8 Active Gen 2 at 25,500 yen. Compared to the equivalent measured performance Soundcore Liberty 4 NC (10,999 yen, 20Hz-20kHz support, active noise cancellation equipped), Elite 10 CP = 10,999 yen ÷ 28,500 yen = 0.39, Elite 8 Active CP = 10,999 yen ÷ 25,500 yen = 0.43. Despite equivalent functionality, the pricing is approximately 3 times higher, making it inferior from a pure performance-to-price perspective.
+The Elite 10 Gen 2 is priced at 190 USD and the Elite 8 Active Gen 2 at 170 USD. Compared to the equivalent measured performance Soundcore Liberty 4 NC (73 USD, 20Hz-20kHz support, active noise cancellation equipped), Elite 10 CP = 73 USD ÷ 190 USD = 0.39, Elite 8 Active CP = 73 USD ÷ 170 USD = 0.43. Despite equivalent functionality, the pricing is approximately 3 times higher, making it inferior from a pure performance-to-price perspective.
 
 ## Reliability & Support
 

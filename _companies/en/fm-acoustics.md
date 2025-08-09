@@ -31,7 +31,7 @@ The Resolution Series employs sophisticated discrete design developed over 30+ y
 
 $$ \Large \text{0.1} $$
 
-The current price of FM 711-MKIII is approximately 3,818,182 JPY (25,454 USD) in the Japanese market. However, a modern alternative offering equivalent or superior measurement performance exists: Buckeye Amps Purifi 1ET9040BA monoblock pair (339,000 JPY / 2,260 USD). This delivers 375W (8Ω)/750W (4Ω) per channel and is expected to demonstrate measurement performance superior to FM Acoustics. The calculation yields 2,260 USD ÷ 25,454 USD = 0.089, rounded to 0.1. Despite an 11x+ price difference, modern Class D design likely offers superior measured performance, making cost-performance abysmal.
+The current price of FM 711-MKIII is approximately 25455 USD in the Japanese market. However, a modern alternative offering equivalent or superior measurement performance exists: Buckeye Amps Purifi 1ET9040BA monoblock pair (2260 USD). This delivers 375W (8Ω)/750W (4Ω) per channel and is expected to demonstrate measurement performance superior to FM Acoustics. The calculation yields 2260 USD ÷ 25455 USD = 0.089, rounded to 0.1. Despite an 11x+ price difference, modern Class D design likely offers superior measured performance, making cost-performance abysmal.
 
 ## Reliability & Support
 

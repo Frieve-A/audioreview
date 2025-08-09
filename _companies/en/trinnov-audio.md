@@ -31,7 +31,7 @@ The company demonstrates industry-leading technical capabilities. The innovative
 
 $$ \Large \text{0.8} $$
 
-To evaluate Trinnov's cost-performance, the comparison must be limited to products with equivalent channel processing capabilities. The direct competitor to the Altitude32 (32-channel model, approx. 4.305 million JPY) is the 32-channel processor "ISP Elite 32 Analog MK3" from the French high-end manufacturer StormAudio. The market price for this product is approximately 3.3 million JPY (approx. 22,000 USD). Based on this, the calculation is "3,300,000 JPY / 4,305,000 JPY ≈ 0.77," resulting in a score of 0.8. This indicates that its pricing is competitive within the segment of products with similar functionality, rather than being compared against mass-market products with significantly fewer channels.
+To evaluate Trinnov's cost-performance, the comparison must be limited to products with equivalent channel processing capabilities. The direct competitor to the Altitude32 (32-channel model, approx. 28,700 USD) is the 32-channel processor "ISP Elite 32 Analog MK3" from the French high-end manufacturer StormAudio. The market price for this product is approximately 22,000 USD. Based on this, the calculation is "22,000 USD / 28,700 USD ≈ 0.77," resulting in a score of 0.8. This indicates that its pricing is competitive within the segment of products with similar functionality, rather than being compared against mass-market products with significantly fewer channels.
 
 ## Reliability & Support
 

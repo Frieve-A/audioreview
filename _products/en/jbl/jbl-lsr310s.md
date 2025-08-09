@@ -32,7 +32,7 @@ JBL's proprietary Slip Stream™ port technology is a rational design that suppr
 
 $$ \Large \text{1.0} $$
 
-With a current Japanese market price of 39,800 JPY, this product offers extremely high cost-performance. Studio subwoofers from other major manufacturers with comparable or superior specifications (10-inch driver, 200W class amplifier) are all significantly more expensive. Cheaper alternatives, like the PreSonus Eris Sub 8XT, have smaller drivers (8-inch) or lower power, and thus are not directly comparable in performance. Therefore, this product is effectively the world's most affordable option for a professional-grade subwoofer with these specifications, representing unparalleled value.
+With a current Japanese market price of 265 USD, this product offers extremely high cost-performance. Studio subwoofers from other major manufacturers with comparable or superior specifications (10-inch driver, 200W class amplifier) are all significantly more expensive. Cheaper alternatives, like the PreSonus Eris Sub 8XT, have smaller drivers (8-inch) or lower power, and thus are not directly comparable in performance. Therefore, this product is effectively the world's most affordable option for a professional-grade subwoofer with these specifications, representing unparalleled value.
 
 ## Reliability & Support
 
@@ -48,6 +48,6 @@ The philosophy of designing based on measurable performance and a scientific app
 
 ## Advice
 
-For users looking to build a low-frequency monitoring environment in a small to medium-sized studio, the LSR310S is an outstanding choice from a cost-performance perspective. The ability to get a professional-spec subwoofer with a 10-inch driver for around 39,800 JPY is a powerful advantage unmatched by other products. It is especially effective when paired with JBL's LSR series monitors for a seamless system. However, for those who prioritize absolute low distortion and frequency response flatness, this unit's performance may be insufficient. This product is highly recommended for users who want to take the first step toward accurate bass reproduction while prioritizing cost above all else.
+For users looking to build a low-frequency monitoring environment in a small to medium-sized studio, the LSR310S is an outstanding choice from a cost-performance perspective. The ability to get a professional-spec subwoofer with a 10-inch driver for around 265 USD is a powerful advantage unmatched by other products. It is especially effective when paired with JBL's LSR series monitors for a seamless system. However, for those who prioritize absolute low distortion and frequency response flatness, this unit's performance may be insufficient. This product is highly recommended for users who want to take the first step toward accurate bass reproduction while prioritizing cost above all else.
 
 (2025.7.23)

@@ -7,7 +7,7 @@ lang: en
 ref: logicool-G-PHS-003
 date: 2025-07-23
 rating: [2.8, 0.6, 0.4, 0.6, 0.7, 0.5]
-summary: "The G-PHS-003 is a gaming headset released in 2019, featuring Pro-G 50mm drivers and Blue VO!CE technology. However, with a current market price of 12,200 JPY, the SteelSeries Arctis Nova 1 offers equivalent functionality via software for 7,580 JPY, making this product inferior in cost-performance."
+summary: "The G-PHS-003 is a gaming headset released in 2019, featuring Pro-G 50mm drivers and Blue VO!CE technology. However, with a current market price of 81 USD, the SteelSeries Arctis Nova 1 offers equivalent functionality via software for 51 USD, making this product inferior in cost-performance."
 tags: [Gaming, Wired, Surround Sound, Blue VO!CE]
 permalink: /products/en/logicool-G-PHS-003/
 ---
@@ -32,7 +32,7 @@ The Pro-G driver's hybrid mesh construction was advanced for 2019 but has since 
 
 $$ \Large \text{0.6} $$
 
-Against the current market price of 12,200 JPY, there are products that offer equivalent or superior functionality at a lower price. For instance, the "SteelSeries Arctis Nova 1," with a market price of 7,580 JPY, can utilize AI noise cancellation and advanced equalizer features comparable to this product's Blue VO!CE by combining it with the free PC software "Sonar." The price ratio against this alternative is `7,580 JPY ÷ 12,200 JPY = 0.62`, resulting in a score of 0.6. While this product's USB sound card has the advantage of retaining settings on consoles, it is difficult to justify a price difference of approximately 1.6 times.
+Against the current market price of 81 USD, there are products that offer equivalent or superior functionality at a lower price. For instance, the "SteelSeries Arctis Nova 1," with a market price of 51 USD, can utilize AI noise cancellation and advanced equalizer features comparable to this product's Blue VO!CE by combining it with the free PC software "Sonar." The price ratio against this alternative is `51 USD ÷ 81 USD = 0.62`, resulting in a score of 0.6. While this product's USB sound card has the advantage of retaining settings on consoles, it is difficult to justify a price difference of approximately 1.6 times.
 
 ## Reliability & Support
 
@@ -48,6 +48,6 @@ Tuning through collaboration with professional esports players is a rational app
 
 ## Advice
 
-The purchase of the G-PHS-003 is not recommended. For its current price of 12,200 JPY, the "SteelSeries Arctis Nova 1" (7,580 JPY) combined with the free "Sonar" software is a more functional and less expensive option for PC users. If you insist on Logicool products, we strongly recommend considering newer models. If your budget allows, consider investing in technologically advanced and cost-effective products like the HyperX Cloud III or the SteelSeries Arctis Nova 5. In the 2025 market environment, the G-PHS-003 is a disadvantageous choice in terms of price competitiveness.
+The purchase of the G-PHS-003 is not recommended. For its current price of 81 USD, the "SteelSeries Arctis Nova 1" (51 USD) combined with the free "Sonar" software is a more functional and less expensive option for PC users. If you insist on Logicool products, we strongly recommend considering newer models. If your budget allows, consider investing in technologically advanced and cost-effective products like the HyperX Cloud III or the SteelSeries Arctis Nova 5. In the 2025 market environment, the G-PHS-003 is a disadvantageous choice in terms of price competitiveness.
 
 (2025.7.23)

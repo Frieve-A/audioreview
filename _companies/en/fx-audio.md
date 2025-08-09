@@ -31,7 +31,7 @@ FX-Audio employs standard designs that combine off-the-shelf DAC chips from comp
 
 $$ \Large \text{1.0} $$
 
-FX-Audio's flagship product, the DAC-X6 MKII (approx. 8,599 JPY), features an XMOS USB controller and ensures a certain level of performance for its price. A market survey reveals that there are currently no products available at a lower price that have equivalent or superior functionality (USB/Optical/Coaxial inputs, headphone output) and performance (especially featuring an XMOS USB interface). While cheaper products exist, they use lower-grade USB controllers and are thus inferior in performance, making them unsuitable for comparison. Therefore, it is considered the most affordable option within its specific performance class, earning a perfect cost-performance score of 1.0.
+FX-Audio's flagship product, the DAC-X6 MKII (approx. 57 USD), features an XMOS USB controller and ensures a certain level of performance for its price. A market survey reveals that there are currently no products available at a lower price that have equivalent or superior functionality (USB/Optical/Coaxial inputs, headphone output) and performance (especially featuring an XMOS USB interface). While cheaper products exist, they use lower-grade USB controllers and are thus inferior in performance, making them unsuitable for comparison. Therefore, it is considered the most affordable option within its specific performance class, earning a perfect cost-performance score of 1.0.
 
 ## Reliability & Support
 
@@ -47,7 +47,7 @@ FX-Audio demonstrates a rational approach by presenting measurable performance i
 
 ## Advice
 
-FX-Audio is a worthwhile option for entry-level users looking to improve the audio quality of their PC or gaming console under strict budget constraints. The DAC-X6 MKII, in particular, offers excellent cost-performance within its class, providing DAC and headphone amplifier functions with an XMOS chipset for under 10,000 JPY, making it a reasonable initial purchase. If you are currently using the built-in DAC of your PC or TV, introducing this product will likely provide a clearly perceptible improvement in sound quality.
+FX-Audio is a worthwhile option for entry-level users looking to improve the audio quality of their PC or gaming console under strict budget constraints. The DAC-X6 MKII, in particular, offers excellent cost-performance within its class, providing DAC and headphone amplifier functions with an XMOS chipset for under 67 USD, making it a reasonable initial purchase. If you are currently using the built-in DAC of your PC or TV, introducing this product will likely provide a clearly perceptible improvement in sound quality.
 
 However, if you are aiming for higher fidelity and long-term use, it is advisable to consider investing more initially in established products with significantly superior measured performance, such as the Topping DX3 Pro+. While these products cost several times more, they offer clear advantages in measurement performance, reliability, and support.
 

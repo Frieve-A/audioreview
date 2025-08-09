@@ -31,7 +31,7 @@ The design utilizing Texas Instruments Class D amplifier and DSP is solid but re
 
 $$ \Large \text{1.0} $$
 
-Against the market price of 25,000 JPY, the closest comparable product is the Edifier R1700BT (66W RMS, approximately 27,000 JPY), which provides equivalent 66W RMS power output and similar connectivity options. Creative Pebble X offers only 15W RMS (30W peak), making it unsuitable for comparison due to significantly inferior power output. The M60 is the most cost-effective choice for comparable 66W RMS desktop speaker performance.
+Against the market price of 167 USD, the closest comparable product is the Edifier R1700BT (66W RMS, approximately 180 USD), which provides equivalent 66W RMS power output and similar connectivity options. Creative Pebble X offers only 15W RMS (30W peak), making it unsuitable for comparison due to significantly inferior power output. The M60 is the most cost-effective choice for comparable 66W RMS desktop speaker performance.
 
 ## Reliability & Support
 
@@ -47,6 +47,6 @@ The compact design specialized for desktop use is rational, but with higher-perf
 
 ## Advice
 
-While the Edifier M60 is indeed user-friendly with good design aesthetics as a desktop speaker, the 25,000 JPY price point represents excellent value in a market with limited 66W RMS alternatives. The Creative Pebble X provides only 15W RMS output, making it unsuitable for users requiring the M60's 66W RMS power output. For equivalent power specifications, the Edifier R1700BT (66W RMS, approximately 27,000 JPY) costs more than the M60, making the M60 the most cost-effective option for 66W RMS desktop speaker performance. For users requiring LDAC-compatible compact speakers with specifically 66W RMS output, the M60 represents the best value option available. However, the lack of comprehensive measurement data makes objective performance evaluation impossible, and potential buyers should consider whether the premium for unverified performance claims is justified without transparent measurement verification.
+While the Edifier M60 is indeed user-friendly with good design aesthetics as a desktop speaker, the 167 USD price point represents excellent value in a market with limited 66W RMS alternatives. The Creative Pebble X provides only 15W RMS output, making it unsuitable for users requiring the M60's 66W RMS power output. For equivalent power specifications, the Edifier R1700BT (66W RMS, approximately 180 USD) costs more than the M60, making the M60 the most cost-effective option for 66W RMS desktop speaker performance. For users requiring LDAC-compatible compact speakers with specifically 66W RMS output, the M60 represents the best value option available. However, the lack of comprehensive measurement data makes objective performance evaluation impossible, and potential buyers should consider whether the premium for unverified performance claims is justified without transparent measurement verification.
 
 (2025.7.11)

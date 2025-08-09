@@ -13,7 +13,7 @@ permalink: /products/en/polk-audio-monitor-xt-mxt20/
 ---
 ## Overview
 
-The Polk Audio Monitor XT MXT20 is a bookshelf speaker with Hi-Res Audio certification. It features a 1-inch Terylene dome tweeter and 6.5-inch Dynamic Balance woofer, claiming 38Hz-40kHz frequency response. Supporting Dolby Atmos and DTS:X with 4-ohm and 8-ohm compatibility, it offers versatility. With 87dB sensitivity and recommended amplifier output of 30-200W, it weighs 12 pounds (approximately 5.4kg) per side. It sells for around 300 USD in the US and approximately 29,520 yen in Japan.
+The Polk Audio Monitor XT MXT20 is a bookshelf speaker with Hi-Res Audio certification. It features a 1-inch Terylene dome tweeter and 6.5-inch Dynamic Balance woofer, claiming 38Hz-40kHz frequency response. Supporting Dolby Atmos and DTS:X with 4-ohm and 8-ohm compatibility, it offers versatility. With 87dB sensitivity and recommended amplifier output of 30-200W, it weighs 12 pounds (approximately 5.4kg) per side. It sells for around 300 USD in the US and approximately 197 USD in Japan.
 
 ## Scientific Validity
 
@@ -31,7 +31,7 @@ The combination of Terylene dome tweeter and Dynamic Balance woofer represents P
 
 $$ \Large \text{1.0} $$
 
-Against the 29,520 yen price, a detailed investigation reveals that the Micca MB42X (approximately 9,000 yen) features only a 4-inch woofer with 60Hz-20kHz frequency response, compared to the MXT20's 6.5-inch woofer with 38Hz-40kHz response. The significant difference in low-frequency extension (38Hz vs 60Hz) and output capability from the larger driver represents a substantial performance gap. The MXT20's 6.5-inch Dynamic Balance woofer provides superior bass response, power handling (200W vs 75W), and extended frequency range that cannot be matched by the smaller 4-inch driver. After comprehensive market research, no passive bookshelf speaker with equivalent or superior performance specifications exists at a lower price point than the MXT20, making it the most cost-effective option in its performance category.
+Against the 197 USD price, a detailed investigation reveals that the Micca MB42X (approximately 60 USD) features only a 4-inch woofer with 60Hz-20kHz frequency response, compared to the MXT20's 6.5-inch woofer with 38Hz-40kHz response. The significant difference in low-frequency extension (38Hz vs 60Hz) and output capability from the larger driver represents a substantial performance gap. The MXT20's 6.5-inch Dynamic Balance woofer provides superior bass response, power handling (200W vs 75W), and extended frequency range that cannot be matched by the smaller 4-inch driver. After comprehensive market research, no passive bookshelf speaker with equivalent or superior performance specifications exists at a lower price point than the MXT20, making it the most cost-effective option in its performance category.
 
 ## Reliability & Support
 

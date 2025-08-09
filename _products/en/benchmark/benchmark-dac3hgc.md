@@ -31,7 +31,7 @@ The adoption of the ESS 9028PRO DAC chip, proprietary 4:1 analog summing technol
 
 $$ \Large \text{0.3} $$
 
-Against the current Japanese market price of 398,000 JPY, the Topping DX7 Pro+ exists at around 100,000 JPY, offering equivalent or superior functions and comparable or better measured performance. The DX7 Pro+ features a newer ES9038PRO chip, versatile inputs/outputs, and high-performance headphone amplifier and preamplifier functions. The cost-performance is calculated as `100,000 JPY ÷ 398,000 JPY ≒ 0.251`, which rounds to a score of 0.3. While the performance of the DAC3 HGC is excellent, the existence of an alternative at about a quarter of the price makes its cost-performance extremely low.
+Against the current Japanese market price of 2653 USD, the Topping DX7 Pro+ exists at around 667 USD, offering equivalent or superior functions and comparable or better measured performance. The DX7 Pro+ features a newer ES9038PRO chip, versatile inputs/outputs, and high-performance headphone amplifier and preamplifier functions. The cost-performance is calculated as `667 USD ÷ 2653 USD ≒ 0.251`, which rounds to a score of 0.3. While the performance of the DAC3 HGC is excellent, the existence of an alternative at about a quarter of the price makes its cost-performance extremely low.
 
 ## Reliability & Support
 
@@ -47,6 +47,6 @@ The fundamental approach of pursuing transparency-level sound quality through sc
 
 ## Advice
 
-When considering a purchase, it is essential to strictly define its intended use. It could be an option for specific professional applications, such as a reference machine in a mastering studio where absolute reliability and long-term manufacturer support are valued more than price. However, for general listening purposes, even if seeking the best possible measured performance, products like the Topping DX7 Pro+ offer equivalent or superior performance at about a quarter of the price. Justifying the 398,000 JPY price is difficult, even when pursuing ultimate performance figures. Unless you place significant value on the brand's history and professional track record, a prudent decision would be to consider more affordable alternatives based on a performance-to-price ratio.
+When considering a purchase, it is essential to strictly define its intended use. It could be an option for specific professional applications, such as a reference machine in a mastering studio where absolute reliability and long-term manufacturer support are valued more than price. However, for general listening purposes, even if seeking the best possible measured performance, products like the Topping DX7 Pro+ offer equivalent or superior performance at about a quarter of the price. Justifying the 2653 USD price is difficult, even when pursuing ultimate performance figures. Unless you place significant value on the brand's history and professional track record, a prudent decision would be to consider more affordable alternatives based on a performance-to-price ratio.
 
 (2025.7.25)

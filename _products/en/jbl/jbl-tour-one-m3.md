@@ -32,7 +32,7 @@ The "Smart Case," which turns the charging case into a touchscreen-equipped Blue
 
 $$ \Large \text{0.8} $$
 
-With a market price of 54,780 JPY (for the Smart Tx model), its competitor with similar key features, the Sony WH-1000XM5, is available for around 42,000 JPY. The calculation is `42,000 JPY ÷ 54,780 JPY = 0.766`. While the Sony model also offers high-performance ANC, LDAC, and spatial audio, JBL's Smart Case provides unique, hard-to-replace value for wireless playback from wired devices. Considering this unique added value, the price difference is justifiable, making the cost-performance favorable.
+With a market price of 365 USD (for the Smart Tx model), its competitor with similar key features, the Sony WH-1000XM5, is available for around 280 USD. The calculation is `280 USD ÷ 365 USD = 0.766`. While the Sony model also offers high-performance ANC, LDAC, and spatial audio, JBL's Smart Case provides unique, hard-to-replace value for wireless playback from wired devices. Considering this unique added value, the price difference is justifiable, making the cost-performance favorable.
 
 ## Reliability & Support
 

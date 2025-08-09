@@ -14,7 +14,7 @@ permalink: /products/en/soundpeats-pearlclip-pro/
 
 ## Overview
 
-The SoundPeats PearlClip Pro is an open-ear clip-style Bluetooth earphone released in 2025. It features 12mm dual magnetic drivers and adopts an ear-hook design that combines titanium-nickel alloy memory wire with liquid silicone materials. With IPX5 waterproof specifications and weighing only 5.85g per side for lightweight performance, it offers 6 hours of continuous playback and 24 hours of usage including the charging case. The product received the VGP2025 Best Cost Performance Award and entered the open-ear market at approximately 7,000 JPY price point.
+The SoundPeats PearlClip Pro is an open-ear clip-style Bluetooth earphone released in 2025. It features 12mm dual magnetic drivers and adopts an ear-hook design that combines titanium-nickel alloy memory wire with liquid silicone materials. With IPX5 waterproof specifications and weighing only 5.85g per side for lightweight performance, it offers 6 hours of continuous playback and 24 hours of usage including the charging case. The product received the VGP2025 Best Cost Performance Award and entered the open-ear market at approximately 47 USD price point.
 
 ## Scientific Validity
 
@@ -32,7 +32,7 @@ The combination of 12mm dual magnetic drivers and PU+nickel-plated diaphragm rep
 
 $$ \Large \text{0.6} $$
 
-Against the current market price of approximately 7,000 JPY, the cheapest product with equivalent functions is the Anker Soundcore C30i (approximately 6,400 JPY). The calculation 6,400 JPY ÷ 7,000 JPY = 0.91 would result in a 0.9 evaluation when rounded, but considering that the C30i has slight advantages in battery life (30 hours vs 24 hours) and mounting stability, an evaluation of 0.6 is given. Compared to the Bose Ultra Open Earbuds (39,600 JPY), it offers significant cost advantages and represents a rational choice for budget-conscious users.
+Against the current market price of approximately 47 USD, the cheapest product with equivalent functions is the Anker Soundcore C30i (approximately 43 USD). The calculation 43 USD ÷ 47 USD = 0.91 would result in a 0.9 evaluation when rounded, but considering that the C30i has slight advantages in battery life (30 hours vs 24 hours) and mounting stability, an evaluation of 0.6 is given. Compared to the Bose Ultra Open Earbuds (264 USD), it offers significant cost advantages and represents a rational choice for budget-conscious users.
 
 ## Reliability & Support
 
@@ -48,6 +48,6 @@ It adopts a rational approach that recognizes physical constraints in open-ear d
 
 ## Advice
 
-The SoundPeats PearlClip Pro should be evaluated as a product specialized for exercise applications where situational awareness is important, such as running and cycling. The price of 7,000 JPY is competitive within the same category, and lightweight design and mounting stability reach practical levels. However, the scientific performance of sound quality is far from transparent level, and it cannot be recommended for users who prioritize music listening in quiet environments or call quality. Sound leakage is unavoidable, so use on public transportation is inappropriate. This product is recommended only for budget-conscious users who want to balance situational awareness during exercise with basic music playback functions, and users seeking their first open-ear experience. For higher sound quality, it is recommended to significantly increase the budget and consider the Bose Ultra Open Earbuds (39,600 JPY), or limit the use case and choose conventional closed-type high-performance earphones.
+The SoundPeats PearlClip Pro should be evaluated as a product specialized for exercise applications where situational awareness is important, such as running and cycling. The price of 47 USD is competitive within the same category, and lightweight design and mounting stability reach practical levels. However, the scientific performance of sound quality is far from transparent level, and it cannot be recommended for users who prioritize music listening in quiet environments or call quality. Sound leakage is unavoidable, so use on public transportation is inappropriate. This product is recommended only for budget-conscious users who want to balance situational awareness during exercise with basic music playback functions, and users seeking their first open-ear experience. For higher sound quality, it is recommended to significantly increase the budget and consider the Bose Ultra Open Earbuds (264 USD), or limit the use case and choose conventional closed-type high-performance earphones.
 
 (2025.7.24)

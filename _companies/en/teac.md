@@ -31,7 +31,7 @@ Technical level represents industry average standards. The approach centers on c
 
 $$ \Large \text{0.3} $$
 
-TEAC products demonstrate poor cost performance levels. Comparing the current TEAC UD-507 (retail price 249,800 JPY) with the functionally equivalent SMSL D300 (retail price 45,600 JPY), CP = 45,600 JPY ÷ 249,800 JPY = 0.18. Both products feature DAC and headphone amplifier integration with high-resolution support, but the SMSL D300 utilizes ROHM's BD34301EKV flagship chip with comparable functionality. While the TEAC UD-301 (35,000 JPY) vs FiiO K7 (29,290 JPY) comparison yields CP = 0.84, the company's overall average approaches 0.3 due to significantly poor CP values in high-end products. TEAC's premium brand pricing substantially reduces competitive positioning in pure function-to-performance value.
+TEAC products demonstrate poor cost performance levels. Comparing the current TEAC UD-507 (retail price 1,665 USD) with the functionally equivalent SMSL D300 (retail price 304 USD), CP = 304 USD ÷ 1,665 USD = 0.18. Both products feature DAC and headphone amplifier integration with high-resolution support, but the SMSL D300 utilizes ROHM's BD34301EKV flagship chip with comparable functionality. While the TEAC UD-301 (233 USD) vs FiiO K7 (195 USD) comparison yields CP = 0.84, the company's overall average approaches 0.3 due to significantly poor CP values in high-end products. TEAC's premium brand pricing substantially reduces competitive positioning in pure function-to-performance value.
 
 ## Reliability & Support
 

@@ -7,14 +7,14 @@ lang: en
 ref: bluesound-node-x
 date: 2025-07-08
 rating: [3.6, 0.7, 0.7, 0.7, 0.8, 0.7]
-summary: "Limited edition 10th anniversary model featuring ESS Sabre ES9028Q2M DAC and THX AAA headphone amplifier in silver finish. Priced at 749 USD (approximately 105,000 yen), but faces challenging value proposition against WiiM Ultra and Eversolo competitors in measurements and cost performance."
+summary: "Limited edition 10th anniversary model featuring ESS Sabre ES9028Q2M DAC and THX AAA headphone amplifier in silver finish. Priced at 749 USD, but faces challenging value proposition against WiiM Ultra and Eversolo competitors in measurements and cost performance."
 tags: [BluOS, DAC, "Limited edition", "Network streamer", THX]
 permalink: /products/en/bluesound-node-x/
 ---
 
 ## Overview
 
-The Bluesound NODE X is a limited edition 10th anniversary streaming DAC released in 2023, priced at 749 USD (approximately 105,000 yen)—200 USD higher than the standard NODE (549 USD). Distinguished by its silver finish, the NODE X features an upgraded ESS Sabre ES9028Q2M DAC, THX AAA headphone amplifier, 6.35mm headphone output, and included remote control. Core functionality remains equivalent to the standard model with BluOS 3.20.20, 24-bit/192kHz support, MQA compatibility, and DSD playback. Connectivity includes HDMI eARC, AirPlay 2, bidirectional Bluetooth aptX HD, and Tidal/Spotify Connect. Multi-room capability supports up to 64 synchronized players. As a limited production run through 2023, the NODE X is no longer available new, representing an enhanced version of Bluesound's traditional multi-room experience with strengthened headphone driving capabilities.
+The Bluesound NODE X is a limited edition 10th anniversary streaming DAC released in 2023, priced at 749 USD—200 USD higher than the standard NODE (549 USD). Distinguished by its silver finish, the NODE X features an upgraded ESS Sabre ES9028Q2M DAC, THX AAA headphone amplifier, 6.35mm headphone output, and included remote control. Core functionality remains equivalent to the standard model with BluOS 3.20.20, 24-bit/192kHz support, MQA compatibility, and DSD playback. Connectivity includes HDMI eARC, AirPlay 2, bidirectional Bluetooth aptX HD, and Tidal/Spotify Connect. Multi-room capability supports up to 64 synchronized players. As a limited production run through 2023, the NODE X is no longer available new, representing an enhanced version of Bluesound's traditional multi-room experience with strengthened headphone driving capabilities.
 
 ## Scientific Validity
 
@@ -32,7 +32,7 @@ The ESS Sabre ES9028Q2M DAC represents mid-tier off-the-shelf implementation wit
 
 $$ \Large \text{0.7} $$
 
-Against WiiM Ultra (¥49,800 with equivalent or superior expected measurements), the NODE X (¥105,000) shows CP of approximately 0.47. Compared to equivalent-priced Eversolo DMP-A6 (¥129,000 with superior DAC performance), CP reaches 0.81. The 200 USD (¥28,000) premium over standard NODE (¥82,000) for ESS DAC upgrade and THX headphone amplifier addition may be justified individually but appears costly versus competitive alternatives. Cambridge Audio MXN10 (¥65,000) provides adequate streaming functionality, making the NODE X difficult to recommend for users who cannot value BluOS multi-room capabilities specifically. Limited edition premium and 10-year BluOS track record target specific user segments, but pure performance-to-price competitiveness remains insufficient.
+Against WiiM Ultra (332 USD with equivalent or superior expected measurements), the NODE X (700 USD) shows CP of approximately 0.47. Compared to equivalent-priced Eversolo DMP-A6 (860 USD with superior DAC performance), CP reaches 0.81. The 200 USD premium over standard NODE (549 USD) for ESS DAC upgrade and THX headphone amplifier addition may be justified individually but appears costly versus competitive alternatives. Cambridge Audio MXN10 (433 USD) provides adequate streaming functionality, making the NODE X difficult to recommend for users who cannot value BluOS multi-room capabilities specifically. Limited edition premium and 10-year BluOS track record target specific user segments, but pure performance-to-price competitiveness remains insufficient.
 
 ## Reliability & Support
 

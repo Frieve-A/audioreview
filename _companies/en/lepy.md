@@ -13,7 +13,7 @@ permalink: /companies/en/lepy/
 ---
 ## Overview
 
-Lepy is a China-based ultra-low-cost digital amplifier manufacturer. Known for mini amplifiers such as the LP-2024A+ (market price 2,980 JPY / approx. 20 USD), the company changed its brand name from "Lepai" to "Lepy" due to trademark issues. Their main products are small Class-D amplifiers sold for under 20 USD, targeting desktop audio and entry-level applications. However, significant discrepancies between measured performance and advertised specifications, along with widespread quality control problems, have been reported. Currently, numerous superior alternatives exist for a small additional investment.
+Lepy is a China-based ultra-low-cost digital amplifier manufacturer. Known for mini amplifiers such as the LP-2024A+ (market price 20 USD), the company changed its brand name from "Lepai" to "Lepy" due to trademark issues. Their main products are small Class-D amplifiers sold for under 20 USD, targeting desktop audio and entry-level applications. However, significant discrepancies between measured performance and advertised specifications, along with widespread quality control problems, have been reported. Currently, numerous superior alternatives exist for a small additional investment.
 
 ## Scientific Validity
 
@@ -31,7 +31,7 @@ The products are nothing more than combinations of basic Class-D designs with no
 
 $$ \Large \text{1.0} $$
 
-The Lepy LP-2024A+ (2,980 JPY / approx. 20 USD) is positioned in the world's lowest price tier for a product offering basic stereo amplifier functions. Although its measured performance and quality are extremely low, no alternative with equivalent or better basic functions can be found on the current market at a lower price. Based on the review policy, the cost-performance is rated 1.0 because no cheaper alternative is available for comparison. It is important to note that this score reflects pure price competitiveness only and does not represent overall value when considering performance and reliability.
+The Lepy LP-2024A+ (20 USD) is positioned in the world's lowest price tier for a product offering basic stereo amplifier functions. Although its measured performance and quality are extremely low, no alternative with equivalent or better basic functions can be found on the current market at a lower price. Based on the review policy, the cost-performance is rated 1.0 because no cheaper alternative is available for comparison. It is important to note that this score reflects pure price competitiveness only and does not represent overall value when considering performance and reliability.
 
 ## Reliability & Support
 

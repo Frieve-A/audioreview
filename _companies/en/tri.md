@@ -13,7 +13,7 @@ permalink: /companies/en/tri/
 ---
 ## Overview
 
-TRI Audio is an emerging IEM manufacturer established as a premium subsidiary of KBEAR. The company produces hybrid IEMs featuring multi-driver configurations, including models such as the I3, I3 Pro, I3 MK3, iOne, and Starlight. They employ advanced technologies like tribrid configurations—combining planar magnetic, balanced armature, and dynamic drivers—along with beryllium diaphragms and Sonion BA drivers, offering premium features at price points starting from 199 USD (approx. 30,000 JPY as of July 2025).
+TRI Audio is an emerging IEM manufacturer established as a premium subsidiary of KBEAR. The company produces hybrid IEMs featuring multi-driver configurations, including models such as the I3, I3 Pro, I3 MK3, iOne, and Starlight. They employ advanced technologies like tribrid configurations—combining planar magnetic, balanced armature, and dynamic drivers—along with beryllium diaphragms and Sonion BA drivers, offering premium features at price points starting from 200 USD.
 
 ## Scientific Validity
 

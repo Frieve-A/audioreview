@@ -14,7 +14,7 @@ permalink: /products/en/superlux-hd681/
 
 ## Overview
 
-The Superlux HD681 is a semi-open professional monitor headphone from the Taiwanese manufacturer Superlux. Positioned as an entry-level product, it features a 50mm neodymium driver, 32Ω impedance, 98dB SPL, and a claimed frequency range of 10-30,000Hz. While its price point under 4,000 JPY in the Japanese market is appealing, a technical review reveals significant issues, particularly in its treble response, and its overall competitive advantages are limited.
+The Superlux HD681 is a semi-open professional monitor headphone from the Taiwanese manufacturer Superlux. Positioned as an entry-level product, it features a 50mm neodymium driver, 32Ω impedance, 98dB SPL, and a claimed frequency range of 10-30,000Hz. While its price point under 27 USD in the Japanese market is appealing, a technical review reveals significant issues, particularly in its treble response, and its overall competitive advantages are limited.
 
 ## Scientific Validity
 
@@ -32,7 +32,7 @@ The use of a 50mm neodymium driver is a standard industry approach and offers no
 
 $$ \Large \text{0.8} $$
 
-The HD681 is priced at approximately 4,000 JPY in the Japanese market, but the Koss KSC75, which offers superior acoustic performance, is available for about 3,080 JPY. The KSC75 lacks the harsh treble peaks of the HD681 and has received better evaluations for its natural and faithful sound quality. Although the form factor is different, the KSC75 is an equivalent or superior option in terms of core performance, which is sonic fidelity. Based on the calculation (3,080 JPY ÷ 4,000 JPY = 0.77), the score is 0.8. The numerical data clearly shows that the HD681 is in an inferior position regarding pure acoustic performance for the price.
+The HD681 is priced at approximately 27 USD in the Japanese market, but the Koss KSC75, which offers superior acoustic performance, is available for about 21 USD. The KSC75 lacks the harsh treble peaks of the HD681 and has received better evaluations for its natural and faithful sound quality. Although the form factor is different, the KSC75 is an equivalent or superior option in terms of core performance, which is sonic fidelity. Based on the calculation (21 USD ÷ 27 USD = 0.77), the score is 0.8. The numerical data clearly shows that the HD681 is in an inferior position regarding pure acoustic performance for the price.
 
 ## Reliability & Support
 
@@ -48,6 +48,6 @@ The design philosophy of aiming for intermediate characteristics between open-ai
 
 ## Advice
 
-The Superlux HD681 is an option for users who prefer a traditional headband design and want to keep their budget under 4,000 JPY. It is particularly worth considering for those who are averse to the ear-clip design of the Koss KSC75. However, if pure sound quality—specifically a natural and non-fatiguing sound—is the top priority, we strongly recommend spending the extra 1,000 JPY for the KSC75. If you choose the HD681, you should be aware that equalization to tame the harsh treble peaks will likely be necessary. For more serious monitoring environments, it is wise to expand the budget and consider higher-tier products.
+The Superlux HD681 is an option for users who prefer a traditional headband design and want to keep their budget under 27 USD. It is particularly worth considering for those who are averse to the ear-clip design of the Koss KSC75. However, if pure sound quality—specifically a natural and non-fatiguing sound—is the top priority, we strongly recommend spending the extra 7 USD for the KSC75. If you choose the HD681, you should be aware that equalization to tame the harsh treble peaks will likely be necessary. For more serious monitoring environments, it is wise to expand the budget and consider higher-tier products.
 
 (2025.7.23)

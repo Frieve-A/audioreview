@@ -31,7 +31,7 @@ The AK4399 was a flagship DAC chip at launch, and the discrete analog circuit im
 
 $$ \Large \text{0.8} $$
 
-Used market pricing varies from 300-900 USD (approximately 45,000-135,000 JPY), but we evaluate at the average 600 USD (approximately 90,000 JPY). The SMSL DO400 (469 USD) serves as a comparable current product with equivalent functionality and performance. The DO400 features 32bit DAC, similar output performance, various digital inputs including AES/EBU, and provides equivalent basic performance to the HP-A8. Cost-performance calculation: 469 USD ÷ 600 USD = 0.782, which rounds to 0.8.
+Used market pricing varies from 300-900 USD, but we evaluate at the average 600 USD. The SMSL DO400 (469 USD) serves as a comparable current product with equivalent functionality and performance. The DO400 features 32bit DAC, similar output performance, various digital inputs including AES/EBU, and provides equivalent basic performance to the HP-A8. Cost-performance calculation: 469 USD ÷ 600 USD = 0.782, which rounds to 0.8.
 
 ## Reliability & Support
 

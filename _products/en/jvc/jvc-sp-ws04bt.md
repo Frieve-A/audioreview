@@ -31,7 +31,7 @@ This represents a conventional design combining basic 2-way speaker configuratio
 
 $$ \Large \text{0.3} $$
 
-Against the current price of 20,592 yen, the Anker Soundcore Select 2S (6,990 yen) exists with equivalent or superior functionality. The Select 2S provides 20W output, IPX7 waterproofing, 16-hour playback, and BassUp technology, actually offering superior specifications. Calculation: 6,990 yen ÷ 20,592 yen = 0.339, indicating that equivalent or superior performance can be obtained at approximately one-third the price. While the natural wood design adds value, no measurable acoustic performance advantages can be confirmed to justify the price difference.
+Against the current price of 137 USD, the Anker Soundcore Select 2S (47 USD) exists with equivalent or superior functionality. The Select 2S provides 20W output, IPX7 waterproofing, 16-hour playback, and BassUp technology, actually offering superior specifications. Calculation: 47 USD ÷ 137 USD = 0.339, indicating that equivalent or superior performance can be obtained at approximately one-third the price. While the natural wood design adds value, no measurable acoustic performance advantages can be confirmed to justify the price difference.
 
 ## Reliability & Support
 
@@ -47,6 +47,6 @@ The practical improvement through IP67 waterproof specifications represents a ra
 
 ## Advice
 
-The JVC SP-WS04BT is a suitable choice for users who find appeal in natural wood design and value brand trust. The IP67 waterproof performance provides confidence for bathroom use, and 15-hour extended playback is sufficient for daily use. However, when prioritizing pure audio quality and cost-performance, alternatives like the Anker Soundcore Select 2S offer equivalent or superior performance at approximately one-third the price. Careful consideration is recommended regarding whether the wooden design justifies the premium over 20,000 yen, or whether trust in the JVC brand provides value worth the price difference. For those prioritizing audio quality above all, higher-performance options may exist in the same price range.
+The JVC SP-WS04BT is a suitable choice for users who find appeal in natural wood design and value brand trust. The IP67 waterproof performance provides confidence for bathroom use, and 15-hour extended playback is sufficient for daily use. However, when prioritizing pure audio quality and cost-performance, alternatives like the Anker Soundcore Select 2S offer equivalent or superior performance at approximately one-third the price. Careful consideration is recommended regarding whether the wooden design justifies the premium over 133 USD, or whether trust in the JVC brand provides value worth the price difference. For those prioritizing audio quality above all, higher-performance options may exist in the same price range.
 
 (2025.8.3)

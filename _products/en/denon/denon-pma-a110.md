@@ -31,7 +31,7 @@ The 7th generation UHC-MOS technology represents the culmination of Denon's long
 
 $$ \Large \text{0.5} $$
 
-Against the current market price of 297,000 JPY, all the functionality of the PMA-A110 can be achieved with a combination of more affordable products. For instance, an integrated amplifier with similar power, DAC performance, and ample inputs like the Yamaha A-S801 (approx. 122,800 JPY), supplemented with an external phono equalizer like the iFi audio ZEN Air Phono (approx. 15,000 JPY) to add MC compatibility, totals around 137,800 JPY. This setup provides equivalent functionality from a user's perspective. Calculation: 137,800 JPY ÷ 297,000 JPY = 0.463... This results in a cost-performance rating of 0.5.
+Against the current market price of 1980 USD, all the functionality of the PMA-A110 can be achieved with a combination of more affordable products. For instance, an integrated amplifier with similar power, DAC performance, and ample inputs like the Yamaha A-S801 (approx. 819 USD), supplemented with an external phono equalizer like the iFi audio ZEN Air Phono (approx. 100 USD) to add MC compatibility, totals around 919 USD. This setup provides equivalent functionality from a user's perspective. Calculation: 919 USD ÷ 1980 USD = 0.463... This results in a cost-performance rating of 0.5.
 
 ## Reliability & Support
 

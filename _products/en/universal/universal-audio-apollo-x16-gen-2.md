@@ -31,7 +31,7 @@ The six-chip HEXA Core DSP processing architecture represents a technically adva
 
 $$ \Large \text{1.0} $$
 
-With a current price of approximately 440,000 JPY (Essentials+ version), its competitor with equivalent DSP processing capabilities and extensive I/O is the Antelope Audio Orion Studio Synergy Core (approx. 418,000 JPY). The calculation is: 418,000 JPY ÷ 440,000 JPY = 0.95, which rounds to a score of 1.0. While the Apollo X16 specializes in line-level I/O and the Orion Studio features 12 microphone preamps, their core value proposition (multi-channel I/O + real-time plugin processing) is comparable. This comparison shows that the Apollo X16's pricing, including its powerful UAD plugin ecosystem, is competitive within the market.
+With a current price of approximately 2933 USD (Essentials+ version), its competitor with equivalent DSP processing capabilities and extensive I/O is the Antelope Audio Orion Studio Synergy Core (approx. 2787 USD). The calculation is: 2787 USD ÷ 2933 USD = 0.95, which rounds to a score of 1.0. While the Apollo X16 specializes in line-level I/O and the Orion Studio features 12 microphone preamps, their core value proposition (multi-channel I/O + real-time plugin processing) is comparable. This comparison shows that the Apollo X16's pricing, including its powerful UAD plugin ecosystem, is competitive within the market.
 
 ## Reliability & Support
 
@@ -47,6 +47,6 @@ The pursuit of performance significantly exceeding transparent measurement level
 
 ## Advice
 
-This product is an excellent device that meets professional demands in both measured performance and functionality. While the price of approximately 440,000 JPY is high, it is fully justified when compared to competing products with similar DSP capabilities (e.g., Antelope Audio Orion Studio Synergy Core). The deciding factor will likely be a matter of workflow and preference: whether one is invested in the UAD plugin ecosystem or prefers an alternative platform like Antelope's Synergy Core. For users who require numerous line-level I/Os and wish to build their production around UAD plugins, this is an unparalleled choice.
+This product is an excellent device that meets professional demands in both measured performance and functionality. While the price of approximately 2933 USD is high, it is fully justified when compared to competing products with similar DSP capabilities (e.g., Antelope Audio Orion Studio Synergy Core). The deciding factor will likely be a matter of workflow and preference: whether one is invested in the UAD plugin ecosystem or prefers an alternative platform like Antelope's Synergy Core. For users who require numerous line-level I/Os and wish to build their production around UAD plugins, this is an unparalleled choice.
 
 (2025.7.13)

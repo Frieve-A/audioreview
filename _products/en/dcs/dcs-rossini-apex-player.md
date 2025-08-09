@@ -31,7 +31,7 @@ The proprietary, fully in-house developed Ring DAC APEX technology is technicall
 
 $$ \Large \text{0.1} $$
 
-The most affordable alternative with equivalent functionality is the Technics SL-G700M2 (3,500 USD, approx. 370,000 yen in Japan). This product provides all the same functions, including CD/SACD playback, network streaming, and a built-in DAC, while achieving excellent measured performance with a THD+N of 0.0006% and SNR of 121dB. Since it's possible to obtain equivalent functionality and performance to the dCS Rossini Apex Player for about 1/10th the price, the price-to-performance ratio must be rated as extremely poor. While differences in measurements exist, they are in a realm far below the threshold of audibility and have no practical value to justify the tenfold price increase.
+The most affordable alternative with equivalent functionality is the Technics SL-G700M2 (3,500 USD). This product provides all the same functions, including CD/SACD playback, network streaming, and a built-in DAC, while achieving excellent measured performance with a THD+N of 0.0006% and SNR of 121dB. Since it's possible to obtain equivalent functionality and performance to the dCS Rossini Apex Player for about 1/10th the price, the price-to-performance ratio must be rated as extremely poor. While differences in measurements exist, they are in a realm far below the threshold of audibility and have no practical value to justify the tenfold price increase.
 
 ## Reliability & Support
 

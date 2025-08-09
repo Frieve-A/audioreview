@@ -31,7 +31,7 @@ The basic design as a dynamic microphone is solid, with practical cardioid polar
 
 $$ \Large \text{0.2} $$
 
-The SM7B's current market price is 399 USD (approximately 59,200 JPY at current exchange rates), but the Rode PodMic with equivalent function and performance is available for 99 USD (approximately 14,700 JPY). The calculation 14,700 JPY ÷ 59,200 JPY = 0.248 shows that cost-performance is significantly inferior. The PodMic provides equivalent broadcasting quality at approximately one-quarter the price. The PreSonus PD-70 is also available at 136 USD (approximately 20,200 JPY), showing nearly equivalent performance to the SM7B in measurements with a 20Hz-20kHz frequency response compared to the SM7B's 50Hz-20kHz. The SM7B's price premium of approximately 4x more than the PodMic is judged to be primarily due to brand value rather than technical superiority.
+The SM7B's current market price is 399 USD (approximately 395 USD at current exchange rates), but the Rode PodMic with equivalent function and performance is available for 99 USD (approximately 98 USD). The calculation 98 USD ÷ 395 USD = 0.248 shows that cost-performance is significantly inferior. The PodMic provides equivalent broadcasting quality at approximately one-quarter the price. The PreSonus PD-70 is also available at 136 USD (approximately 135 USD), showing nearly equivalent performance to the SM7B in measurements with a 20Hz-20kHz frequency response compared to the SM7B's 50Hz-20kHz. The SM7B's price premium of approximately 4x more than the PodMic is judged to be primarily due to brand value rather than technical superiority.
 
 ## Reliability & Support
 

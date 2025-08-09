@@ -15,7 +15,7 @@ permalink: /companies/en/astellnkern/
 
 Astell&Kern was born in 2012 as a premium brand of iriver, a major Korean electronics manufacturer. In the then-niche high-resolution portable player market, they gained attention with the launch of the AK100 and have since continued to lead the advancement of high-quality and luxury portable audio.
 
-Their distinctive features include luxurious circuit designs incorporating multiple latest DAC chips (AKM, ESS, Cirrus Logic, etc.) and beautiful chassis designs machined from aviation-grade aluminum. Flagship models like the SP3000 series, despite exceeding 1 million yen in price, have garnered support from audiophiles worldwide.
+Their distinctive features include luxurious circuit designs incorporating multiple latest DAC chips (AKM, ESS, Cirrus Logic, etc.) and beautiful chassis designs machined from aviation-grade aluminum. Flagship models like the SP3000 series, despite exceeding 667 USD in price, have garnered support from audiophiles worldwide.
 
 ## Scientific Validity
 
@@ -33,13 +33,13 @@ They invest cutting-edge technology at the highest level for portable audio devi
 
 $$ \Large \text{0.2} $$
 
-Chinese DAPs with equivalent measured performance (THD+N 0.0005%, SNR 120dB) to the SR35 (approximately 100,000 yen) are sold for 20,000 yen, resulting in CP = 20,000 ÷ 100,000 = 0.2. For the flagship SP3000 (approximately 1 million yen), DAPs with equivalent sound quality performance exist for around 200,000 yen, yielding CP = 200,000 ÷ 1,000,000 = 0.2. When comparing pure sound quality performance excluding design and brand value, cost-performance is decidedly not high.
+Chinese DAPs with equivalent measured performance (THD+N 0.0005%, SNR 120dB) to the SR35 (approximately 667 USD) are sold for 133 USD, resulting in CP = 133 ÷ 667 = 0.2. For the flagship SP3000 (approximately 1333 USD), DAPs with equivalent sound quality performance exist for around 200 USD, yielding CP = 200 ÷ 1333 = 0.2. When comparing pure sound quality performance excluding design and brand value, cost-performance is decidedly not high.
 
 ## Reliability & Support
 
 $$ \Large \text{0.8} $$
 
-Backed by iriver, a major Korean electronics manufacturer, they maintain high corporate stability. Product quality control is thorough, keeping initial defect rates low. In Japan, authorized distributor Aiuto has established a comprehensive support system with prompt repair services. However, high battery replacement costs (30,000-50,000 yen) and the tendency for OS updates to end after 2-3 years are negative factors for long-term use considerations.
+Backed by iriver, a major Korean electronics manufacturer, they maintain high corporate stability. Product quality control is thorough, keeping initial defect rates low. In Japan, authorized distributor Aiuto has established a comprehensive support system with prompt repair services. However, high battery replacement costs (200-333 USD) and the tendency for OS updates to end after 2-3 years are negative factors for long-term use considerations.
 
 ## Rationality of Design Philosophy
 

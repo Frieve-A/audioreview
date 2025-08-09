@@ -7,7 +7,7 @@ lang: en
 ref: fiio-k11
 date: 2025-07-07
 rating: [4.0, 0.8, 0.8, 0.8, 0.8, 0.8]
-summary: "An entry-level USB DAC-integrated headphone amplifier that brings authentic balanced output to compact desktop environments. Featuring the CS43198 DAC chip, it achieves excellent measured performance with SNR of 123dB and THD+N below 0.00035% at an early 20,000 yen price point. High output power of 1400mW at 32Ω load and 250mW at 300Ω load via balanced output ensures comfortable driving of wide range of headphones."
+summary: "An entry-level USB DAC-integrated headphone amplifier that brings authentic balanced output to compact desktop environments. Featuring the CS43198 DAC chip, it achieves excellent measured performance with SNR of 123dB and THD+N below 0.00035% at an early 130 USD price point. High output power of 1400mW at 32Ω load and 250mW at 300Ω load via balanced output ensures comfortable driving of wide range of headphones."
 tags: [Balanced output, Desktop, Entry-level, FiiO, Headphone amplifier, USB DAC]
 permalink: /products/en/fiio-k11/
 ---
@@ -31,7 +31,7 @@ The K11 employs solid engineering for an entry-level product. The CS43198 DAC ch
 
 $$ \Large \text{0.8} $$
 
-The K11's retail price of approximately 19,490 yen offers competitiveness against products with equivalent functionality. Direct competitor iFi audio ZEN DAC (approximately 30,000 yen) features THD+N 0.0015%, SNR 116dB, and output power 280mW@32Ω specifications, where K11 surpasses in measured values. Topping DX3 Pro+ (approximately 22,000 yen) also exists as competition, but K11 provides equivalent or superior performance at slightly lower pricing. CP = 19,490 yen ÷ 22,000 yen = 0.89, indicating good cost-performance.
+The K11's retail price of approximately 130 USD offers competitiveness against products with equivalent functionality. Direct competitor iFi audio ZEN DAC (approximately 200 USD) features THD+N 0.0015%, SNR 116dB, and output power 280mW@32Ω specifications, where K11 surpasses in measured values. Topping DX3 Pro+ (approximately 147 USD) also exists as competition, but K11 provides equivalent or superior performance at slightly lower pricing. CP = 130 USD ÷ 147 USD = 0.89, indicating good cost-performance.
 
 ## Reliability & Support
 
@@ -47,6 +47,6 @@ The K11's design approach is extremely rational. Compact chassis incorporating b
 
 ## Advice
 
-The FiiO K11 represents a highly refined product as a desktop audio entry-level device. For those seeking authentic DAC and headphone amplifier functionality including balanced output below 20,000 yen, it becomes the strongest candidate. Measured performance significantly exceeds price expectations, promising transparent audio reproduction. Compact size enables easy installation in space-constrained environments, while RGB illumination balances practicality with visual enjoyment. However, for extremely high-impedance headphones or applications requiring higher output, consideration of upper-tier models becomes necessary. Additionally, regarding long-term reliability, purchase with understanding of limitations inherent to Chinese manufacturer products is recommended. For those prioritizing cost-performance as the core of desktop audio systems, this product can undoubtedly be recommended.
+The FiiO K11 represents a highly refined product as a desktop audio entry-level device. For those seeking authentic DAC and headphone amplifier functionality including balanced output below 133 USD, it becomes the strongest candidate. Measured performance significantly exceeds price expectations, promising transparent audio reproduction. Compact size enables easy installation in space-constrained environments, while RGB illumination balances practicality with visual enjoyment. However, for extremely high-impedance headphones or applications requiring higher output, consideration of upper-tier models becomes necessary. Additionally, regarding long-term reliability, purchase with understanding of limitations inherent to Chinese manufacturer products is recommended. For those prioritizing cost-performance as the core of desktop audio systems, this product can undoubtedly be recommended.
 
 (2025.7.7)

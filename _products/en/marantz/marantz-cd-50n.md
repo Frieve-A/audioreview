@@ -13,7 +13,7 @@ permalink: /products/en/marantz-cd-50n/
 ---
 ## Overview
 
-The Marantz CD-50n is a 2,000 USD (approximately 300,000 yen in the Japanese market) integrated unit that combines CD player and network streamer functionality. It features an ESS ES9038Q2M DAC chip, dual master clocks, Marantz's proprietary HDAM circuits, and supports high-resolution playback up to 32-bit/384kHz, streaming functionality with built-in HEOS, HDMI ARC support, and digital preamplifier functions. The product is positioned as balancing Marantz's traditional design philosophy as an established audio brand with modern connectivity features.
+The Marantz CD-50n is a 2,000 USD integrated unit that combines CD player and network streamer functionality. It features an ESS ES9038Q2M DAC chip, dual master clocks, Marantz's proprietary HDAM circuits, and supports high-resolution playback up to 32-bit/384kHz, streaming functionality with built-in HEOS, HDMI ARC support, and digital preamplifier functions. The product is positioned as balancing Marantz's traditional design philosophy as an established audio brand with modern connectivity features.
 
 ## Scientific Validity
 

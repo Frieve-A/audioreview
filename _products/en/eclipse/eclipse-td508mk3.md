@@ -13,7 +13,7 @@ permalink: /products/en/eclipse-td508mk3/
 ---
 ## Overview
 
-The Eclipse TD508MK3 is a compact bookshelf speaker featuring an 8cm full-range driver, developed by the audio brand "Eclipse" from Denso Ten (formerly Fujitsu Ten). It is currently discontinued. The product's key feature is its pursuit of an extremely accurate impulse response (the reproducibility of sound in the time domain) through point-source reproduction that eliminates a crossover network and an egg-shaped cabinet that suppresses internal standing waves. The original retail price was 66,000 JPY per unit.
+The Eclipse TD508MK3 is a compact bookshelf speaker featuring an 8cm full-range driver, developed by the audio brand "Eclipse" from Denso Ten (formerly Fujitsu Ten). It is currently discontinued. The product's key feature is its pursuit of an extremely accurate impulse response (the reproducibility of sound in the time domain) through point-source reproduction that eliminates a crossover network and an egg-shaped cabinet that suppresses internal standing waves. The original retail price was 440 USD per unit.
 
 ## Scientific Validity
 
@@ -31,8 +31,8 @@ The adoption of a full-range single driver that eliminates the need for a crosso
 
 $$ \Large \text{0.4} $$
 
-Priced at 132,000 JPY for a pair at the time of release, this unit faces competition from DSP-equipped active speakers like the IK Multimedia iLoud Micro Monitor (around 50,000 JPY per pair). These products achieve both an excellent impulse response (time characteristic) equivalent to or better than this unit and a flatter frequency response, thanks to the time alignment processing performed by their built-in DSP. Furthermore, since they are active speakers with built-in amplifiers, they deliver superior performance in all aspects without any additional investment.
-Calculation: 50,000 JPY ÷ 132,000 JPY ≈ 0.38.
+Priced at 880 USD for a pair at the time of release, this unit faces competition from DSP-equipped active speakers like the IK Multimedia iLoud Micro Monitor (around 333 USD per pair). These products achieve both an excellent impulse response (time characteristic) equivalent to or better than this unit and a flatter frequency response, thanks to the time alignment processing performed by their built-in DSP. Furthermore, since they are active speakers with built-in amplifiers, they deliver superior performance in all aspects without any additional investment.
+Calculation: 333 USD ÷ 880 USD ≈ 0.38.
 Therefore, the cost-performance must be rated as extremely low.
 
 ## Reliability & Support
@@ -49,6 +49,6 @@ The design philosophy that prioritizes temporal accuracy (impulse response) is e
 
 ## Advice
 
-While this speaker offers attractive, precise sound imaging due to its excellent impulse response, careful consideration is needed to determine if it's worth paying 40,000 to 80,000 JPY for a pair on the used market. More modern options with superior overall performance exist in the same price range. Specifically, we strongly recommend DSP-equipped active speakers like the IK Multimedia iLoud Micro Monitor (around 50,000 JPY per pair) or the Genelec 8010A (around 80,000 JPY per pair). These models use DSP to achieve performance comparable to this unit's strength in impulse response while overcoming its weaknesses in frequency response and distortion.
+While this speaker offers attractive, precise sound imaging due to its excellent impulse response, careful consideration is needed to determine if it's worth paying 267 to 533 USD for a pair on the used market. More modern options with superior overall performance exist in the same price range. Specifically, we strongly recommend DSP-equipped active speakers like the IK Multimedia iLoud Micro Monitor (around 333 USD per pair) or the Genelec 8010A (around 533 USD per pair). These models use DSP to achieve performance comparable to this unit's strength in impulse response while overcoming its weaknesses in frequency response and distortion.
 
 (2025.8.2)

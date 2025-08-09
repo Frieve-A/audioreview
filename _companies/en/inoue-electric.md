@@ -14,7 +14,7 @@ permalink: /companies/en/inoue-electric/
 
 ## Overview
 
-Inoue Electric was a Japanese audio manufacturer that primarily produced single-cone speaker systems from the 1960s to 1970s. Their representative product, the KI speaker, featured a 16cm full-range unit and is now highly valued in the vintage audio market. Additionally, Icom Inc. continues to manufacture audio equipment such as the external speaker SP-23, which is used in combination with amateur radio equipment. Discontinued Inoue Electric products are traded in the second-hand market at price ranges from 12,500 JPY to 60,500 JPY due to their rarity.
+Inoue Electric was a Japanese audio manufacturer that primarily produced single-cone speaker systems from the 1960s to 1970s. Their representative product, the KI speaker, featured a 16cm full-range unit and is now highly valued in the vintage audio market. Additionally, Icom Inc. continues to manufacture audio equipment such as the external speaker SP-23, which is used in combination with amateur radio equipment. Discontinued Inoue Electric products are traded in the second-hand market at price ranges from 83 USD to 403 USD due to their rarity.
 
 ## Scientific Validity
 
@@ -32,13 +32,13 @@ While Inoue Electric's single-cone technology was standard for the 1960s, it has
 
 $$ \Large \text{0.5} $$
 
-Comparing vintage Inoue Electric products' used market price of 39,921 JPY against modern products with equivalent acoustic performance such as the Sony SS-CS5 (approximately 15,000 JPY), the calculation yields 15,000 JPY ÷ 39,921 JPY = 0.38. However, excluding vintage value and evaluating pure acoustic performance, modern products in the same price range are clearly superior. The Icom SP-23 (18,000 JPY excluding tax) shows low cost-performance of 5,000 JPY ÷ 19,800 JPY = 0.25, as generic external speakers with equivalent functionality are available for approximately 5,000 JPY.
+Comparing vintage Inoue Electric products' used market price of 266 USD against modern products with equivalent acoustic performance such as the Sony SS-CS5 (approximately 100 USD), the calculation yields 100 USD ÷ 266 USD = 0.38. However, excluding vintage value and evaluating pure acoustic performance, modern products in the same price range are clearly superior. The Icom SP-23 (120 USD excluding tax) shows low cost-performance of 33 USD ÷ 132 USD = 0.25, as generic external speakers with equivalent functionality are available for approximately 33 USD.
 
 ## Reliability & Support
 
 $$ \Large \text{0.3} $$
 
-Inoue Electric products have no official support due to production discontinuation, with repairs possible through specialist services offering 16cm full-range unit overhauls ranging from 34,000 JPY to 37,400 JPY. Challenges include difficulty in parts procurement and high repair costs. Conversely, the Icom SP-23 is a current product with official support provided, including downloadable instruction manual services. However, Icom products also remain within industry-average warranty periods and support systems.
+Inoue Electric products have no official support due to production discontinuation, with repairs possible through specialist services offering 16cm full-range unit overhauls ranging from 227 USD to 249 USD. Challenges include difficulty in parts procurement and high repair costs. Conversely, the Icom SP-23 is a current product with official support provided, including downloadable instruction manual services. However, Icom products also remain within industry-average warranty periods and support systems.
 
 ## Rationality of Design Philosophy
 

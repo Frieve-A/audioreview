@@ -14,7 +14,7 @@ permalink: /products/en/grado-sr-225x/
 
 ## Overview
 
-The Grado SR-225x is a mid-range model in the Prestige X series, handcrafted in Brooklyn, New York. It features 44mm fourth-generation X Drivers and is priced at 225 USD (approximately 33,000 JPY). Founded in 1953, the company is known for its unique acoustic traits and artisanal production. The open-back design provides a spacious soundstage, and its 38-ohm impedance allows driving by portable devices.
+The Grado SR-225x is a mid-range model in the Prestige X series, handcrafted in Brooklyn, New York. It features 44mm fourth-generation X Drivers and is priced at 225 USD. Founded in 1953, the company is known for its unique acoustic traits and artisanal production. The open-back design provides a spacious soundstage, and its 38-ohm impedance allows driving by portable devices.
 
 ## Scientific Validity
 

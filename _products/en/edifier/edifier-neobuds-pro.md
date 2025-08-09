@@ -13,7 +13,7 @@ permalink: /products/en/edifier-neobuds-pro/
 ---
 ## Overview
 
-The Edifier NeoBuds Pro 2 is a true wireless earphone launched in 2023 that won the VGP2024 Gold Award. It features a hybrid configuration combining dynamic drivers with Knowles balanced armature drivers. The earphones offer up to 50dB of active noise cancellation through EDIFIER WIDE-BAND MULTI-CHANNEL ANC technology, support for LDAC and LHDC high-quality codecs, and Hi-Res Audio certification, delivering high-end features at 19,990 JPY. Additional practical features include 360-degree spatial audio, IP54 water resistance, and up to 22 hours of continuous playback.
+The Edifier NeoBuds Pro 2 is a true wireless earphone launched in 2023 that won the VGP2024 Gold Award. It features a hybrid configuration combining dynamic drivers with Knowles balanced armature drivers. The earphones offer up to 50dB of active noise cancellation through EDIFIER WIDE-BAND MULTI-CHANNEL ANC technology, support for LDAC and LHDC high-quality codecs, and Hi-Res Audio certification, delivering high-end features at 133 USD. Additional practical features include 360-degree spatial audio, IP54 water resistance, and up to 22 hours of continuous playback.
 
 ## Scientific Validity
 
@@ -31,7 +31,7 @@ The combination of dynamic drivers and Knowles BA drivers with digital crossover
 
 $$ \Large \text{0.5} $$
 
-The Edifier NeoBuds Pro 2 is priced at 19,990 JPY, but the Anker Soundcore Liberty 4 NC with equivalent or superior features is available for 9,990 JPY. The Liberty 4 NC similarly features LDAC support, ANC functionality, and long battery life, allowing direct functional comparison. However, the NeoBuds Pro 2's 50dB ANC performance exceeds that of the Liberty 4 NC, and this difference must be considered. CP = MIN(1.0, 9,990 JPY ÷ 19,990 JPY) = 0.50, rounded to 0.5. Considering the differentiation factor of 50dB ANC performance, the cost performance is at an average level.
+The Edifier NeoBuds Pro 2 is priced at 133 USD, but the Anker Soundcore Liberty 4 NC with equivalent or superior features is available for 67 USD. The Liberty 4 NC similarly features LDAC support, ANC functionality, and long battery life, allowing direct functional comparison. However, the NeoBuds Pro 2's 50dB ANC performance exceeds that of the Liberty 4 NC, and this difference must be considered. CP = MIN(1.0, 67 USD ÷ 133 USD) = 0.50, rounded to 0.5. Considering the differentiation factor of 50dB ANC performance, the cost performance is at an average level.
 
 ## Reliability & Support
 

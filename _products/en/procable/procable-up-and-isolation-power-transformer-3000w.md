@@ -14,7 +14,7 @@ permalink: /products/en/procable-up-and-isolation-power-transformer-3000w/
 
 ## Overview
 
-The procable Up & Isolation Power Transformer 3000W (Model: STH-323A) was a 230V step-up and isolation power transformer sold as an OEM product manufactured by STAR ELECTRIC. It combines 200V to 230V step-up functionality with isolation capabilities, primarily intended for use with professional audio equipment from overseas. Its past selling price was 158,000 JPY.
+The procable Up & Isolation Power Transformer 3000W (Model: STH-323A) was a 230V step-up and isolation power transformer sold as an OEM product manufactured by STAR ELECTRIC. It combines 200V to 230V step-up functionality with isolation capabilities, primarily intended for use with professional audio equipment from overseas. Its past selling price was approximately 1053 USD.
 
 ## Scientific Validity
 
@@ -32,8 +32,8 @@ The technology level is rated below the industry average. The isolation technolo
 
 $$ \Large \text{0.4} $$
 
-The cost-performance is rated as poor. Compared to this product's price of 158,000 JPY, products with practically equivalent functions exist in the industrial market for significantly less. A specific comparison can be made with the "TZ22-03KB" from industrial transformer manufacturer TOYOZUMI. This product is a 3kVA isolation transformer that can output 220V or 240V from a 200V input, making it compatible with most 230V-rated equipment. Its market price is approximately 68,000 JPY.
-Based on this actual price, the cost-performance is calculated as "68,000 JPY ÷ 158,000 JPY ≈ 0.43," resulting in a score of 0.4. Since an alternative exists for less than half the price, this product's pricing is excessively high.
+The cost-performance is rated as poor. Compared to this product's price of approximately 1053 USD, products with practically equivalent functions exist in the industrial market for significantly less. A specific comparison can be made with the "TZ22-03KB" from industrial transformer manufacturer TOYOZUMI. This product is a 3kVA isolation transformer that can output 220V or 240V from a 200V input, making it compatible with most 230V-rated equipment. Its market price is approximately 453 USD.
+Based on this actual price, the cost-performance is calculated as "453 USD ÷ 1053 USD ≈ 0.43," resulting in a score of 0.4. Since an alternative exists for less than half the price, this product's pricing is excessively high.
 
 ## Reliability & Support
 
@@ -49,6 +49,6 @@ The product concept itself—a step-up isolation transformer for using 230V equi
 
 ## Advice
 
-Even if you need a high-capacity step-up isolation transformer to use 230V equipment in Japan, we do not recommend purchasing this product. This is because an industrial isolation transformer with practically equivalent functions, such as the TOYOZUMI "TZ22-03KB," is available for less than half the price, at around 68,000 JPY. The advertised "power purification" effect has an unclear scientific basis, so you should not have excessive expectations. We strongly recommend choosing a more cost-effective industrial alternative.
+Even if you need a high-capacity step-up isolation transformer to use 230V equipment in Japan, we do not recommend purchasing this product. This is because an industrial isolation transformer with practically equivalent functions, such as the TOYOZUMI "TZ22-03KB," is available for less than half the price, at around 453 USD. The advertised "power purification" effect has an unclear scientific basis, so you should not have excessive expectations. We strongly recommend choosing a more cost-effective industrial alternative.
 
 (2025.7.26)

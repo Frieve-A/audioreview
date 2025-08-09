@@ -31,7 +31,7 @@ The 2-way configuration with a 5-inch Kevlar woofer and a 1-inch dome tweeter is
 
 $$ \Large \text{1.0} $$
 
-At the time of this review, its market price is 41,100 yen. A competing product with equivalent or superior performance, the ELAC Debut B5.2, is available for about 39,800 yen. The ELAC Debut B5.2 boasts a nominal frequency response of 46Hz-35kHz, offering a wider playback range. Comparing the performance and price of both, the cost-performance of the Diamond 220 is at a very high level. The calculation is: 39,800 yen ÷ 41,100 yen = 0.97, which results in a score of 1.0. It is one of the most affordable options among products with comparable acoustic performance in this price range, possessing a competitive edge that justifies its purchase. It excels in the pure function-and-performance-to-price ratio.
+At the time of this review, its market price is 274 USD. A competing product with equivalent or superior performance, the ELAC Debut B5.2, is available for about 265 USD. The ELAC Debut B5.2 boasts a nominal frequency response of 46Hz-35kHz, offering a wider playback range. Comparing the performance and price of both, the cost-performance of the Diamond 220 is at a very high level. The calculation is: 265 USD ÷ 274 USD = 0.97, which results in a score of 1.0. It is one of the most affordable options among products with comparable acoustic performance in this price range, possessing a competitive edge that justifies its purchase. It excels in the pure function-and-performance-to-price ratio.
 
 ## Reliability & Support
 
@@ -47,6 +47,6 @@ The basic design as a traditional 2-way bookshelf speaker is rational. There is 
 
 ## Advice
 
-The Wharfedale Diamond 220 is a bookshelf speaker with excellent cost-performance. For around 40,000 yen, it offers stable performance and a touch of the traditional sound character of a British brand, making it a strong contender as an entry-level choice in this price range. However, if you seek deeper bass and a wider frequency response, it is advisable to compare it with products like the ELAC Debut B5.2 (46Hz-35kHz), which is available at almost the same price. It is wise to make a choice based on an objective judgment of sound quality performance through specifications and considering your personal preferences.
+The Wharfedale Diamond 220 is a bookshelf speaker with excellent cost-performance. For around 267 USD, it offers stable performance and a touch of the traditional sound character of a British brand, making it a strong contender as an entry-level choice in this price range. However, if you seek deeper bass and a wider frequency response, it is advisable to compare it with products like the ELAC Debut B5.2 (46Hz-35kHz), which is available at almost the same price. It is wise to make a choice based on an objective judgment of sound quality performance through specifications and considering your personal preferences.
 
 (2025.8.2)

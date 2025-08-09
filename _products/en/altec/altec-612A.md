@@ -31,7 +31,7 @@ It adopted a coaxial driver design that was advanced for its time, and the 604 s
 
 $$ \Large \text{0.1} $$
 
-Against the current market price of 500,000 JPY, a pair of Yamaha HS8 with equivalent or superior functionality and performance can be purchased for approximately 73,000 JPY. The calculation is: 73,000 JPY ÷ 500,000 JPY = 0.146, which rounds to 0.1. The HS8 achieves a flat frequency response of 47Hz-24kHz (-3dB), has a built-in 120W total power amplifier, and realizes modern S/N ratio and THD performance, surpassing the 612A in all measurable aspects. Furthermore, since the HS8 is an active speaker with a built-in amplifier, its overall cost-effectiveness is even greater compared to the passive 612A, which requires a separate amplifier. In terms of pure performance-to-price ratio, excluding vintage value, this represents an extremely irrational pricing.
+Against the current market price of 3,333 USD, a pair of Yamaha HS8 with equivalent or superior functionality and performance can be purchased for approximately 487 USD. The calculation is: 487 USD ÷ 3,333 USD = 0.146, which rounds to 0.1. The HS8 achieves a flat frequency response of 47Hz-24kHz (-3dB), has a built-in 120W total power amplifier, and realizes modern S/N ratio and THD performance, surpassing the 612A in all measurable aspects. Furthermore, since the HS8 is an active speaker with a built-in amplifier, its overall cost-effectiveness is even greater compared to the passive 612A, which requires a separate amplifier. In terms of pure performance-to-price ratio, excluding vintage value, this represents an extremely irrational pricing.
 
 ## Reliability & Support
 

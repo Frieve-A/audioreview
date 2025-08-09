@@ -31,7 +31,7 @@ The technology employed in this unit is below average by modern standards. While
 
 $$ \Large \text{0.6} $$
 
-Compared to the Monitor XT12's market price of 299 USD, more powerful products are available for less. A key competitor is the Dayton Audio SUB-1200, which boasts more than double the output at 120W RMS, while being significantly cheaper at 179.98 USD (approx. 28,797 JPY). The cost-performance calculation is 179.98 USD ÷ 299 USD ≈ 0.60, forcing a low rating for this unit. Furthermore, in the same 299 USD price bracket, there are overwhelmingly more powerful options like the Klipsch R-120SW (200W RMS) and the BIC America PL-200 II (250W RMS).
+Compared to the Monitor XT12's market price of 299 USD, more powerful products are available for less. A key competitor is the Dayton Audio SUB-1200, which boasts more than double the output at 120W RMS, while being significantly cheaper at 180 USD. The cost-performance calculation is 180 USD ÷ 299 USD ≈ 0.60, forcing a low rating for this unit. Furthermore, in the same 299 USD price bracket, there are overwhelmingly more powerful options like the Klipsch R-120SW (200W RMS) and the BIC America PL-200 II (250W RMS).
 
 ## Reliability & Support
 

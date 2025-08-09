@@ -32,7 +32,7 @@ As a budget product of its time, the ATH-CK5 was constructed using a combination
 
 $$ \Large \text{1.0} $$
 
-As a modern product with equivalent or superior functionality and performance to the ATH-CK5, the 7Hz Salnotes Zero (2,930 yen) can be cited. The 7Hz Salnotes Zero has 10-20,000Hz frequency response, THD<1%@1kHz, and 108dB/V@1kHz output sound pressure level, achieving measurement performance superior to the ATH-CK5. The ATH-CK5's 2005 retail price was approximately 26.96 USD (equivalent to about 3,000 yen at the time). The cost-performance calculation is 2,930 yen ÷ 3,000 yen = 0.98. Rounded to 1.0, the ATH-CK5 had world-class lowest pricing for its time. However, since it is currently discontinued and unavailable for purchase, practical cost-performance evaluation is meaningless.
+As a modern product with equivalent or superior functionality and performance to the ATH-CK5, the 7Hz Salnotes Zero (20 USD) can be cited. The 7Hz Salnotes Zero has 10-20,000Hz frequency response, THD<1%@1kHz, and 108dB/V@1kHz output sound pressure level, achieving measurement performance superior to the ATH-CK5. The ATH-CK5's 2005 retail price was approximately 26.96 USD (equivalent to about 20 USD at the time). The cost-performance calculation is 20 USD ÷ 20 USD = 0.98. Rounded to 1.0, the ATH-CK5 had world-class lowest pricing for its time. However, since it is currently discontinued and unavailable for purchase, practical cost-performance evaluation is meaningless.
 
 ## Reliability & Support
 
@@ -48,6 +48,6 @@ The design philosophy of the ATH-CK5 was a product of compromise within the tech
 
 ## Advice
 
-While the ATH-CK5 has certain significance as a historical product, we cannot recommend purchasing it as of 2025. With an equivalent budget, choosing modern products such as the 7Hz Salnotes Zero, Moondrop Chu II, or Truthear x Crinacle ZERO: RED can provide significantly superior acoustic performance. These products achieve frequency characteristics, low distortion rates, and high S/N ratios far exceeding the ATH-CK5 in the approximately 2,000-3,000 yen price range. For the purpose of improving music listening quality, selecting products designed based on modern technical standards is rational. This is not a product that can be actively recommended except for collectors who find value in the rarity of discontinued products.
+While the ATH-CK5 has certain significance as a historical product, we cannot recommend purchasing it as of 2025. With an equivalent budget, choosing modern products such as the 7Hz Salnotes Zero, Moondrop Chu II, or Truthear x Crinacle ZERO: RED can provide significantly superior acoustic performance. These products achieve frequency characteristics, low distortion rates, and high S/N ratios far exceeding the ATH-CK5 in the approximately 20 USD price range. For the purpose of improving music listening quality, selecting products designed based on modern technical standards is rational. This is not a product that can be actively recommended except for collectors who find value in the rarity of discontinued products.
 
 (2025.7.24)

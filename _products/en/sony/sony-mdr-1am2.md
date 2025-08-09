@@ -32,7 +32,7 @@ The ALCP diaphragm technology is an effective approach to balancing rigidity and
 
 $$ \Large \text{0.5} $$
 
-This product has been discontinued, but its market price at the time of this review is approximately 36,950 JPY. Based on its measurement-based performance (frequency response, distortion, etc.), more affordable products exist that are considered to have a more faithful frequency response, such as the AKG K371 (market price approx. 20,000 JPY). Although the K371 does not support a balanced connection, its fundamental acoustic performance is comparable or in some aspects superior to the MDR-1AM2. Calculation: 20,000 JPY ÷ 36,950 JPY = 0.54, which means its cost-performance is not high.
+This product has been discontinued, but its market price at the time of this review is approximately 246 USD. Based on its measurement-based performance (frequency response, distortion, etc.), more affordable products exist that are considered to have a more faithful frequency response, such as the AKG K371 (market price approx. 133 USD). Although the K371 does not support a balanced connection, its fundamental acoustic performance is comparable or in some aspects superior to the MDR-1AM2. Calculation: 133 USD ÷ 246 USD = 0.54, which means its cost-performance is not high.
 
 ## Reliability & Support
 

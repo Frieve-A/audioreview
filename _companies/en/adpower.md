@@ -14,7 +14,7 @@ permalink: /companies/en/adpower/
 
 ## Overview
 
-AdPower is a Japanese company that manufactures and sells audio accessories applying static electricity elimination technology. Its flagship product, "AdPower Sonic," is a sheet-like product applied to audio equipment, claiming to improve sound quality by suppressing static electricity. The company asserts as its basis that measurements commissioned to the National Institute of Advanced Industrial Science and Technology (AIST) showed an improvement in the Inter-aural Cross Correlation (IACC) value. The price range is from 6,990 JPY to 11,988 JPY, with recommended use on speakers, amplifiers, and musical instruments.
+AdPower is a Japanese company that manufactures and sells audio accessories applying static electricity elimination technology. Its flagship product, "AdPower Sonic," is a sheet-like product applied to audio equipment, claiming to improve sound quality by suppressing static electricity. The company asserts as its basis that measurements commissioned to the National Institute of Advanced Industrial Science and Technology (AIST) showed an improvement in the Inter-aural Cross Correlation (IACC) value. The price range is from 47 USD to 80 USD, with recommended use on speakers, amplifiers, and musical instruments.
 
 ## Scientific Validity
 
@@ -32,8 +32,8 @@ The core technology of the static elimination sheet is an application of existin
 
 $$ \Large \text{0.1} $$
 
-The same objective of static electricity removal as this product can be achieved by far cheaper means. For example, an antistatic spray like "AZ Static Prevention Spray 961" is available for about 398 JPY. Even when compared to AdPower's cheapest product (6,990 JPY), the price difference is more than 17 times. This pricing is remarkably irrational for a product whose effects cannot be scientifically verified. The cost-performance is rated extremely low based on the following calculation:
-`398 JPY ÷ 6,990 JPY ≈ 0.057`
+The same objective of static electricity removal as this product can be achieved by far cheaper means. For example, an antistatic spray like "AZ Static Prevention Spray 961" is available for about 3 USD. Even when compared to AdPower's cheapest product (47 USD), the price difference is more than 17 times. This pricing is remarkably irrational for a product whose effects cannot be scientifically verified. The cost-performance is rated extremely low based on the following calculation:
+`3 USD ÷ 47 USD ≈ 0.057`
 Rounding this result, the score is 0.1.
 
 ## Reliability & Support

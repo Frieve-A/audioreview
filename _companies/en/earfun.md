@@ -13,7 +13,7 @@ permalink: /companies/en/earfun/
 ---
 ## Overview
 
-EarFun is an audio brand established in 2018 in Shenzhen, China, operated by "Shenzhen Earfun Technology Co., Ltd." The company achieved rapid growth after the globally acclaimed "EarFun Free" launched in 2019 and "EarFun Air" in 2020. In 2020, they won two CES Innovation Awards, establishing their position in the industry within a short period. Currently, they focus on wireless earphones with noise cancelling features priced under 10,000 yen, popular among users who prioritize cost-performance.
+EarFun is an audio brand established in 2018 in Shenzhen, China, operated by "Shenzhen Earfun Technology Co., Ltd." The company achieved rapid growth after the globally acclaimed "EarFun Free" launched in 2019 and "EarFun Air" in 2020. In 2020, they won two CES Innovation Awards, establishing their position in the industry within a short period. Currently, they focus on wireless earphones with noise cancelling features priced under 67 USD, popular among users who prioritize cost-performance.
 
 ## Scientific Validity
 
@@ -31,7 +31,7 @@ Below industry average technical level. Main products depend on Qualcomm's off-t
 
 $$ \Large \text{1.0} $$
 
-Air Pro 4 (10,400 yen) provides 50dB ANC performance that is not matched by cheaper alternatives. QCY MeloBuds Pro HT08 (6,750 yen) offers only 46dB ANC, representing inferior noise cancellation capability. No current wireless earbuds offer equivalent 50dB ANC performance at a lower price point, making the Air Pro 4 the most cost-effective option for this level of noise cancellation. CP = 1.0 as no cheaper equivalent exists.
+Air Pro 4 (69 USD) provides 50dB ANC performance that is not matched by cheaper alternatives. QCY MeloBuds Pro HT08 (45 USD) offers only 46dB ANC, representing inferior noise cancellation capability. No current wireless earbuds offer equivalent 50dB ANC performance at a lower price point, making the Air Pro 4 the most cost-effective option for this level of noise cancellation. CP = 1.0 as no cheaper equivalent exists.
 
 ## Reliability & Support
 
@@ -47,6 +47,6 @@ The design achieving high functionality while keeping prices low is rational, wi
 
 ## Advice
 
-EarFun is worth considering as a viable option when seeking noise cancelling wireless earphones with superior ANC performance. The Air Pro 4's 50dB noise cancellation performance represents the current best-in-class level for this price point, with no cheaper alternatives offering equivalent noise reduction capability. While QCY MeloBuds Pro HT08 (6,750 yen) exists at a lower price, its inferior 46dB ANC performance makes it unsuitable for users requiring maximum noise cancellation. The 1.0 cost-performance ratio reflects the Air Pro 4's position as the most affordable option for 50dB ANC performance. Though measured performance does not reach transparency level, the Air Pro 4 offers leading noise cancellation specifications. The 18-month warranty provides adequate reliability coverage, making it suitable for users prioritizing maximum noise cancellation performance.
+EarFun is worth considering as a viable option when seeking noise cancelling wireless earphones with superior ANC performance. The Air Pro 4's 50dB noise cancellation performance represents the current best-in-class level for this price point, with no cheaper alternatives offering equivalent noise reduction capability. While QCY MeloBuds Pro HT08 (45 USD) exists at a lower price, its inferior 46dB ANC performance makes it unsuitable for users requiring maximum noise cancellation. The 1.0 cost-performance ratio reflects the Air Pro 4's position as the most affordable option for 50dB ANC performance. Though measured performance does not reach transparency level, the Air Pro 4 offers leading noise cancellation specifications. The 18-month warranty provides adequate reliability coverage, making it suitable for users prioritizing maximum noise cancellation performance.
 
 (2025.7.11)

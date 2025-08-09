@@ -31,7 +31,7 @@ The design, characterized by a massive investment in materials such as a single 
 
 $$ \Large \text{0.0} $$
 
-For a price of approximately 1,660,000 JPY, its performance is exceptionally poor. For instance, a modern amplifier like the Topping PA7 (approx. 70,000 JPY) overwhelmingly surpasses the A-3's measured performance in every aspect, with a THD+N of less than 0.0005% and an S/N ratio over 120dB. Given that a product with equivalent or superior performance exists for less than 1/25th of the price, the cost-performance of this product is practically non-existent. Based on the calculation (70,000 JPY ÷ 1,660,000 JPY ≈ 0.04), the score is 0.0. The expensive components and heavy chassis do not contribute to the goal of faithful sound reproduction and cannot justify the price.
+For a price of approximately 11,067 USD, its performance is exceptionally poor. For instance, a modern amplifier like the Topping PA7 (approx. 467 USD) overwhelmingly surpasses the A-3's measured performance in every aspect, with a THD+N of less than 0.0005% and an S/N ratio over 120dB. Given that a product with equivalent or superior performance exists for less than 1/25th of the price, the cost-performance of this product is practically non-existent. Based on the calculation (467 USD ÷ 11,067 USD ≈ 0.04), the score is 0.0. The expensive components and heavy chassis do not contribute to the goal of faithful sound reproduction and cannot justify the price.
 
 ## Reliability & Support
 
@@ -47,6 +47,6 @@ The manufacturer's philosophy is clear, emphasizing unique transistors and a mas
 
 ## Advice
 
-The soulnote A-3, despite its price of approximately 1.66 million JPY, is significantly inferior in measured performance to modern amplifiers costing just a few tens of thousands of JPY. The THD (Total Harmonic Distortion) in particular is at a level unacceptable for an audio product, and faithful reproduction of the source material cannot be expected. When compared to products like the Topping PA7, there is no rational reason to choose the A-3, either in terms of performance or cost. Therefore, it is not recommended at all for users who are genuinely pursuing high-fidelity sound. It can be considered a product for a very small niche of enthusiasts who find personal value in the heavy chassis, specific components, or the brand's design philosophy, while disregarding objective data.
+The soulnote A-3, despite its price of approximately 11,067 USD, is significantly inferior in measured performance to modern amplifiers costing just a few tens of thousands of JPY. The THD (Total Harmonic Distortion) in particular is at a level unacceptable for an audio product, and faithful reproduction of the source material cannot be expected. When compared to products like the Topping PA7, there is no rational reason to choose the A-3, either in terms of performance or cost. Therefore, it is not recommended at all for users who are genuinely pursuing high-fidelity sound. It can be considered a product for a very small niche of enthusiasts who find personal value in the heavy chassis, specific components, or the brand's design philosophy, while disregarding objective data.
 
 (2025.7.22)

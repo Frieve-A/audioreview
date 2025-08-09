@@ -31,7 +31,7 @@ SPEC's "Real Sound" technology incorporates features like a unique low-pass filt
 
 $$ \Large \text{0.1} $$
 
-While SPEC's flagship product, the RSA-M3EX, sells for approximately 300,000 JPY, products with far superior performance are available at a much lower price. For example, the Fosi Audio V3 achieves better THD+N performance (around 0.001%) and higher output, with a market price of about 20,000 JPY. When evaluated by the price ratio against the cheapest product with equivalent or better performance, the score is calculated as "20,000 JPY ÷ 300,000 JPY ≈ 0.07," which rounds to 0.1. Even considering brand value and the use of special components, there is no objective performance benefit commensurate with the high price, making the cost-performance extremely poor.
+While SPEC's flagship product, the RSA-M3EX, sells for approximately 2,000 USD, products with far superior performance are available at a much lower price. For example, the Fosi Audio V3 achieves better THD+N performance (around 0.001%) and higher output, with a market price of about 133 USD. When evaluated by the price ratio against the cheapest product with equivalent or better performance, the score is calculated as "133 USD ÷ 2,000 USD ≈ 0.07," which rounds to 0.1. Even considering brand value and the use of special components, there is no objective performance benefit commensurate with the high price, making the cost-performance extremely poor.
 
 ## Reliability & Support
 
@@ -47,6 +47,6 @@ SPEC's design philosophy of "realizing tube sound with Class D technology" devia
 
 ## Advice
 
-SPEC products are not recommended for buyers who prioritize objective sound quality and cost-performance. One should not be misled by ambiguous marketing phrases like "tube-like sound." Instead of spending several hundred thousand JPY on their products, choosing a product from brands like Topping or Fosi Audio, which offer far superior measured performance at a fraction of the price, is a much more rational decision. When selecting a product, it is strongly recommended to prioritize objective third-party measurement data such as THD+N (SINAD), S/N ratio, and frequency response, rather than subjective listening reviews.
+SPEC products are not recommended for buyers who prioritize objective sound quality and cost-performance. One should not be misled by ambiguous marketing phrases like "tube-like sound." Instead of spending several hundred USD on their products, choosing a product from brands like Topping or Fosi Audio, which offer far superior measured performance at a fraction of the price, is a much more rational decision. When selecting a product, it is strongly recommended to prioritize objective third-party measurement data such as THD+N (SINAD), S/N ratio, and frequency response, rather than subjective listening reviews.
 
 (2025.7.26)

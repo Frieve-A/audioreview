@@ -14,7 +14,7 @@ permalink: /products/en/adpower-sonic/
 
 ## Overview
 
-AdPower Sonic is an audio equipment sheet said to apply static electricity removal technology from the automotive AdPower series. Marketed for sound quality improvement by attaching it to speaker ports and baffle surfaces, it is a thin sheet (from 16×32×0.5mm to 36×98×0.5mm) sold at 6,990 JPY for the M size and 9,990 JPY for the L size. The product claims audio improvement through static electricity removal, but no scientific verification data or measurement results are provided.
+AdPower Sonic is an audio equipment sheet said to apply static electricity removal technology from the automotive AdPower series. Marketed for sound quality improvement by attaching it to speaker ports and baffle surfaces, it is a thin sheet (from 16×32×0.5mm to 36×98×0.5mm) sold at 47 USD for the M size and 67 USD for the L size. The product claims audio improvement through static electricity removal, but no scientific verification data or measurement results are provided.
 
 ## Scientific Validity
 
@@ -32,7 +32,7 @@ AdPower Sonic's technology is extremely simple, involving the attachment of a sh
 
 $$ \Large \text{0.2} $$
 
-The AdPower Sonic M size price of 6,990 JPY is remarkably expensive compared to alternative products with similar static electricity removal functions. A comparable product for this purpose is TRUSCO's "Static Electricity Removal Tape SDT255" (25mm width × 5m, actual market price 1,670 JPY), which has a proven track record in industrial applications. The cost-performance is rated at 0.2 based on the calculation: 1,670 JPY ÷ 6,990 JPY = 0.239... However, it is important to note that neither product has been scientifically proven to provide clear sound quality improvements through static electricity removal.
+The AdPower Sonic M size price of 47 USD is remarkably expensive compared to alternative products with similar static electricity removal functions. A comparable product for this purpose is TRUSCO's "Static Electricity Removal Tape SDT255" (25mm width × 5m, actual market price 11 USD), which has a proven track record in industrial applications. The cost-performance is rated at 0.2 based on the calculation: 11 USD ÷ 47 USD = 0.234... However, it is important to note that neither product has been scientifically proven to provide clear sound quality improvements through static electricity removal.
 
 ## Reliability & Support
 

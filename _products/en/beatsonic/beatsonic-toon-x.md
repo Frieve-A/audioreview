@@ -31,7 +31,7 @@ Technically, this represents an industry-average design. The Class AB amplifier 
 
 $$ \Large \text{0.4} $$
 
-Priced at 52,800 JPY, more affordable alternatives with equivalent or superior performance exist. For instance, the PUZU PZ-C7 (official PUZU Japan price: 21,210 JPY) offers partially superior measured performance with a THD of <0.01% and an SNR of >108dB, while being functionally equivalent with features like 4-channel output, plug-and-play design, and mobile app support. The cost-performance score is 0.4, based on the calculation: 21,210 JPY ÷ 52,800 JPY = 0.401.... There is significant room for improvement in its pure performance-to-price ratio.
+Priced at 352 USD, more affordable alternatives with equivalent or superior performance exist. For instance, the PUZU PZ-C7 (official PUZU Japan price: 141 USD) offers partially superior measured performance with a THD of <0.01% and an SNR of >108dB, while being functionally equivalent with features like 4-channel output, plug-and-play design, and mobile app support. The cost-performance score is 0.4, based on the calculation: 141 USD ÷ 352 USD = 0.401.... There is significant room for improvement in its pure performance-to-price ratio.
 
 ## Reliability & Support
 

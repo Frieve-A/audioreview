@@ -32,7 +32,7 @@ As a 2016 design, it lags significantly behind current technological standards. 
 
 $$ \Large \text{0.7} $$
 
-With a current used market price of around 69,000 JPY, rival models from the same generation, such as the Yamaha RX-A2060, can be found on the used market starting from about 50,000 JPY. The RX-A2060 offers nearly identical features and performance, including a 9.2-channel amplifier and HDMI 2.0a support. Calculating the cost-performance based on the policy gives us `50,000 JPY ÷ 69,000 JPY ≒ 0.72`. The existence of a cheaper alternative means its cost-performance does not receive the highest rating.
+With a current used market price of around 460 USD, rival models from the same generation, such as the Yamaha RX-A2060, can be found on the used market starting from about 333 USD. The RX-A2060 offers nearly identical features and performance, including a 9.2-channel amplifier and HDMI 2.0a support. Calculating the cost-performance based on the policy gives us `333 USD ÷ 460 USD ≒ 0.72`. The existence of a cheaper alternative means its cost-performance does not receive the highest rating.
 
 ## Reliability & Support
 
@@ -48,6 +48,6 @@ It follows a standard design philosophy for an AV receiver of its time, with no 
 
 ## Advice
 
-The AVR-X4300H is only available on the used market, and the risks of technical obsolescence and lack of support must be seriously considered. Cheaper used alternatives with similar capabilities also exist. If you require the latest HDMI standards (8K support) or more advanced room correction technology (like Dirac Live), we strongly recommend considering a current model like the Onkyo TX-RZ50 (current market price approx. 180,000 JPY), despite the higher cost. This unit cannot be actively recommended except for the niche need of building a 9.2-channel system on a tight budget.
+The AVR-X4300H is only available on the used market, and the risks of technical obsolescence and lack of support must be seriously considered. Cheaper used alternatives with similar capabilities also exist. If you require the latest HDMI standards (8K support) or more advanced room correction technology (like Dirac Live), we strongly recommend considering a current model like the Onkyo TX-RZ50 (current market price approx. 1200 USD), despite the higher cost. This unit cannot be actively recommended except for the niche need of building a 9.2-channel system on a tight budget.
 
 (2025.7.27)

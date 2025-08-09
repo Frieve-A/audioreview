@@ -32,7 +32,7 @@ The adoption of 32-bit float recording technology represents an advanced industr
 
 $$ \Large \text{0.8} $$
 
-The DR-05XP is priced at 18,000 JPY (119 USD). The most affordable comparison device with equivalent functionality is the Zoom H1essential with 32-bit float recording support, available for 14,800 JPY (99 USD). The H1essential offers 32-bit float recording, 120 dB SPL support, and USB connectivity, providing equivalent performance in basic recording functions. The calculation is 14,800 JPY ÷ 18,000 JPY = 0.82. The more affordable Zoom H2n at 16,000 JPY offers superior features like 4-channel recording but lacks 32-bit float support, making it functionally inferior. Compared to 32-bit float capable products, the cost-performance receives a good evaluation.
+The DR-05XP is priced at 120 USD. The most affordable comparison device with equivalent functionality is the Zoom H1essential with 32-bit float recording support, available for 99 USD. The H1essential offers 32-bit float recording, 120 dB SPL support, and USB connectivity, providing equivalent performance in basic recording functions. The calculation is 99 USD ÷ 120 USD = 0.82. The more affordable Zoom H2n at 107 USD offers superior features like 4-channel recording but lacks 32-bit float support, making it functionally inferior. Compared to 32-bit float capable products, the cost-performance receives a good evaluation.
 
 ## Reliability & Support
 
@@ -48,6 +48,6 @@ The adoption of 32-bit float recording represents a rational approach to elimina
 
 ## Advice
 
-The DR-05XP presents an interesting option for experiencing the latest 32-bit float recording technology in an accessible format. The technical reassurance is particularly valuable for beginners anxious about recording level settings or when conducting critical recordings where failure is unacceptable. However, for those prioritizing cost-performance, the Zoom H1essential with equivalent 32-bit float support is available for 14,800 JPY and merits consideration. The H1essential provides equivalent recording quality and convenience. Also consider smartphone and USB-C audio interface combinations, which may offer superior functionality including advanced editing capabilities, extended recording times, and cloud integration that dedicated devices cannot match. Ultimately, the decision hinges on whether you find value in the TASCAM brand and additional features worth 18,000 JPY.
+The DR-05XP presents an interesting option for experiencing the latest 32-bit float recording technology in an accessible format. The technical reassurance is particularly valuable for beginners anxious about recording level settings or when conducting critical recordings where failure is unacceptable. However, for those prioritizing cost-performance, the Zoom H1essential with equivalent 32-bit float support is available for 99 USD and merits consideration. The H1essential provides equivalent recording quality and convenience. Also consider smartphone and USB-C audio interface combinations, which may offer superior functionality including advanced editing capabilities, extended recording times, and cloud integration that dedicated devices cannot match. Ultimately, the decision hinges on whether you find value in the TASCAM brand and additional features worth 120 USD.
 
 (2025.8.4)

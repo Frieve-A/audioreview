@@ -13,7 +13,7 @@ permalink: /products/en/rotel-rmb-1506/
 ---
 ## Overview
 
-The Rotel RMB-1506 is a multi-channel power amplifier with 6-channel output capability. Designed for multi-zone audio systems and small-scale home theaters, it delivers 50W per channel (8Ω) and 80W per channel (4Ω) with all channels driven simultaneously. Based on the company's "Balanced Design Concept," it employs a large, in-house manufactured toroidal transformer and a robust Class AB design. It achieves fundamental performance specifications of less than 0.03% THD, an SNR of 115dB, and a damping factor of over 200. In Japan, it is offered through the distributor Ippinkan at a retail price of 94,800 JPY.
+The Rotel RMB-1506 is a multi-channel power amplifier with 6-channel output capability. Designed for multi-zone audio systems and small-scale home theaters, it delivers 50W per channel (8Ω) and 80W per channel (4Ω) with all channels driven simultaneously. Based on the company's "Balanced Design Concept," it employs a large, in-house manufactured toroidal transformer and a robust Class AB design. It achieves fundamental performance specifications of less than 0.03% THD, an SNR of 115dB, and a damping factor of over 200. In Japan, it is offered through the distributor Ippinkan at a retail price of approximately 632 USD.
 
 ## Scientific Validity
 
@@ -31,7 +31,7 @@ The RMB-1506 embodies the mature technology of traditional Class AB design. It f
 
 $$ \Large \text{0.6} $$
 
-For the RMB-1506 providing 6-channel 50W output at 94,800 JPY, an alternative solution achieving equivalent or superior functionality would be using three Fosi Audio V3 monoblock amplifiers. A single V3 unit retails for 17,599 JPY (on Amazon Japan, with coupon), making the total for three units 52,797 JPY. This configuration provides 6-channel 48W output and achieves a THD+N of 0.003%, a measurement that significantly surpasses the RMB-1506. CP = 52,797 JPY ÷ 94,800 JPY = 0.556, which rounds to a final score of 0.6. While there is value in its single-chassis convenience, the difference in pure performance-to-price ratio compared to modern low-cost, high-performance amplifiers is clear.
+For the RMB-1506 providing 6-channel 50W output at approximately 632 USD, an alternative solution achieving equivalent or superior functionality would be using three Fosi Audio V3 monoblock amplifiers. A single V3 unit retails for 117 USD (on Amazon Japan, with coupon), making the total for three units 352 USD. This configuration provides 6-channel 48W output and achieves a THD+N of 0.003%, a measurement that significantly surpasses the RMB-1506. CP = 352 USD ÷ 632 USD = 0.556, which rounds to a final score of 0.6. While there is value in its single-chassis convenience, the difference in pure performance-to-price ratio compared to modern low-cost, high-performance amplifiers is clear.
 
 ## Reliability & Support
 

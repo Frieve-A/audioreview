@@ -13,7 +13,7 @@ permalink: /products/en/fostex-fe208es-r/
 ---
 ## Overview
 
-The Fostex FE208ES-R is an 8-inch full-range driver released in March 2007 as a limited edition of 250 pairs. It features a banana fiber hyperbolic paraboloid cone, Alnico magnet, and magnesium dust cap, originally selling for 78,750 JPY. While claiming 99dB/W sensitivity and 38Hz-23kHz frequency range, it is now only available on the used market due to discontinued production, with pair prices inflated to 100,000-150,000 JPY (approximately 690-1,030 USD). Despite its rarity value as a limited edition, technical challenges exist.
+The Fostex FE208ES-R is an 8-inch full-range driver released in March 2007 as a limited edition of 250 pairs. It features a banana fiber hyperbolic paraboloid cone, Alnico magnet, and magnesium dust cap, originally selling for 525 USD. While claiming 99dB/W sensitivity and 38Hz-23kHz frequency range, it is now only available on the used market due to discontinued production, with pair prices inflated to 667-1,000 USD. Despite its rarity value as a limited edition, technical challenges exist.
 
 ## Scientific Validity
 
@@ -31,7 +31,7 @@ The driver incorporates advanced technologies for 2007, including Alnico magnet,
 
 $$ \Large \text{0.3} $$
 
-Against the current used market price of 125,000 JPY (approximately 860 USD), the Audio Nirvana Super 8 (295 USD) provides equivalent or superior performance as a new product. The calculation 295 USD ÷ 860 USD = 0.343 results in a cost-performance score of 0.3. The Audio Nirvana Super 8 offers 95.8dB/W sensitivity without breakup issues and includes new product warranty. As the FE208ES-R is discontinued, it carries failure risks, and no performance differences justify the price gap. Excluding limited edition rarity value, cost-performance for sound quality is significantly inferior.
+Against the current used market price of 833 USD, the Audio Nirvana Super 8 (295 USD) provides equivalent or superior performance as a new product. The calculation 295 USD ÷ 833 USD = 0.343 results in a cost-performance score of 0.3. The Audio Nirvana Super 8 offers 95.8dB/W sensitivity without breakup issues and includes new product warranty. As the FE208ES-R is discontinued, it carries failure risks, and no performance differences justify the price gap. Excluding limited edition rarity value, cost-performance for sound quality is significantly inferior.
 
 ## Reliability & Support
 
@@ -47,6 +47,6 @@ The philosophy of full-range reproduction with a single driver has limitations d
 
 ## Advice
 
-Purchasing the FE208ES-R should be considered carefully. The used price of 125,000 JPY (approximately 860 USD) is difficult to justify in terms of sound quality per price ratio, with current products like the Audio Nirvana Super 8 (295 USD) being superior. If choosing this unit, usage must be limited to below 4kHz with separate tweeters compensating for high frequencies. However, this defeats the purpose of full-range design by creating a multi-way system. Excluding collection value as a limited edition, strongly recommend selecting current alternatives considering practicality and economics. For sound quality priority, consider modern multi-way speaker systems.
+Purchasing the FE208ES-R should be considered carefully. The used price of 833 USD is difficult to justify in terms of sound quality per price ratio, with current products like the Audio Nirvana Super 8 (295 USD) being superior. If choosing this unit, usage must be limited to below 4kHz with separate tweeters compensating for high frequencies. However, this defeats the purpose of full-range design by creating a multi-way system. Excluding collection value as a limited edition, strongly recommend selecting current alternatives considering practicality and economics. For sound quality priority, consider modern multi-way speaker systems.
 
 (2025.8.4)

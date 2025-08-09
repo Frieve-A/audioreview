@@ -13,7 +13,7 @@ permalink: /products/en/kz-libra-x/
 ---
 ## Overview
 
-The KZ Libra X is an entry-level in-ear monitor released in 2024 by China's Knowledge Zenith (KZ). Developed as a collaboration model with AngelEars, it features an ultra-wideband dynamic driver, claiming a 20Hz-40kHz frequency response. Priced at 15 USD (2,300 JPY), it offers two tuning variations: Balanced and Hi-Res versions. The design incorporates a detachable 0.75mm pin cable and features a lightweight construction at 3.4g.
+The KZ Libra X is an entry-level in-ear monitor released in 2024 by China's Knowledge Zenith (KZ). Developed as a collaboration model with AngelEars, it features an ultra-wideband dynamic driver, claiming a 20Hz-40kHz frequency response. Priced at 15 USD, it offers two tuning variations: Balanced and Hi-Res versions. The design incorporates a detachable 0.75mm pin cable and features a lightweight construction at 3.4g.
 
 ## Scientific Validity
 
@@ -31,7 +31,7 @@ This product features a basic design with a single dynamic driver configuration.
 
 $$ \Large \text{0.5} $$
 
-The KZ Libra X is priced at 2,300 JPY, but the similarly specified KZ EDC PRO is available for 1,150 JPY. The EDC PRO has a 23.5Ω impedance, 108dB sensitivity, and a 20Hz-40kHz frequency response, offering nearly identical functions and performance to the Libra X. The cost-performance calculation is: 1,150 JPY ÷ 2,300 JPY = 0.5, indicating the Libra X is twice the price of the EDC PRO. Both products are from KZ, and no significant difference in basic acoustic performance is recognized. For the buyer, there is no rational reason to choose the Libra X other than the added value of the AngelEars collaboration.
+The KZ Libra X is priced at 15 USD, but the similarly specified KZ EDC PRO is available for 8 USD. The EDC PRO has a 23.5Ω impedance, 108dB sensitivity, and a 20Hz-40kHz frequency response, offering nearly identical functions and performance to the Libra X. The cost-performance calculation is: 8 USD ÷ 15 USD = 0.5, indicating the Libra X is twice the price of the EDC PRO. Both products are from KZ, and no significant difference in basic acoustic performance is recognized. For the buyer, there is no rational reason to choose the Libra X other than the added value of the AngelEars collaboration.
 
 ## Reliability & Support
 
@@ -47,6 +47,6 @@ The product's design philosophy aligns with the basic policy of providing low-pr
 
 ## Advice
 
-For those considering purchasing the KZ Libra X, we strongly recommend first examining the company's EDC PRO. While offering nearly equivalent basic specifications, the EDC PRO is available at half the price, representing a rational choice. When selecting the Libra X, carefully consider whether the AngelEars collaboration is worth paying double the price. If budget permits, considering competing products with abundant published measurement data, such as the 7Hz Salnotes Zero (3,000 JPY) or Moondrop Chu II (3,500 JPY), is more likely to yield reliable improvements in sound quality. Even when choosing among KZ products, the EDC PRO represents a more practical choice for those prioritizing the price-to-performance ratio.
+For those considering purchasing the KZ Libra X, we strongly recommend first examining the company's EDC PRO. While offering nearly equivalent basic specifications, the EDC PRO is available at half the price, representing a rational choice. When selecting the Libra X, carefully consider whether the AngelEars collaboration is worth paying double the price. If budget permits, considering competing products with abundant published measurement data, such as the 7Hz Salnotes Zero (20 USD) or Moondrop Chu II (23 USD), is more likely to yield reliable improvements in sound quality. Even when choosing among KZ products, the EDC PRO represents a more practical choice for those prioritizing the price-to-performance ratio.
 
 (2025.8.1)

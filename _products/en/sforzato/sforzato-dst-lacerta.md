@@ -13,7 +13,7 @@ permalink: /products/en/sforzato-dst-lacerta/
 ---
 ## Overview
 
-The Sforzato DST-Lacerta is a network transport designed to build network player systems in combination with existing USB DACs. It provides LAN to USB conversion functionality, supporting high-resolution formats up to PCM 768kHz/32bit and DSD512. Despite its compact size (108×79×124mm, 0.6kg), it supports major streaming services including TIDAL, Qobuz, and Amazon Music, with operation via the dedicated "Taktina" app. Designed and manufactured by Japan's Sforzato company, it is priced at 149,600 JPY (approximately 1,000 USD).
+The Sforzato DST-Lacerta is a network transport designed to build network player systems in combination with existing USB DACs. It provides LAN to USB conversion functionality, supporting high-resolution formats up to PCM 768kHz/32bit and DSD512. Despite its compact size (108×79×124mm, 0.6kg), it supports major streaming services including TIDAL, Qobuz, and Amazon Music, with operation via the dedicated "Taktina" app. Designed and manufactured by Japan's Sforzato company, it is priced at approximately 997 USD.
 
 ## Scientific Validity
 
@@ -31,7 +31,7 @@ Sforzato combines proprietary software and hardware to achieve support for high-
 
 $$ \Large \text{0.2} $$
 
-As an equivalent alternative providing similar functionality, a completed network streamer like the iFi ZEN Stream can be cited. The iFi ZEN Stream (approximately 30,000 JPY) achieves similar streaming functionality, high-resolution support, and Roon Ready features. Calculation: 30,000 JPY ÷ 149,600 JPY ≈ 0.200. Rounded to 0.2. Since such completed configurations can achieve the functions at lower cost, the DST-Lacerta receives a low cost-performance evaluation.
+As an equivalent alternative providing similar functionality, a completed network streamer like the iFi ZEN Stream can be cited. The iFi ZEN Stream (approximately 200 USD) achieves similar streaming functionality, high-resolution support, and Roon Ready features. Calculation: 200 USD ÷ 997 USD ≈ 0.200. Rounded to 0.2. Since such completed configurations can achieve the functions at lower cost, the DST-Lacerta receives a low cost-performance evaluation.
 
 ## Reliability & Support
 
@@ -43,10 +43,10 @@ Sforzato is a Japanese audio manufacturer founded in 2009 with over 15 years of 
 
 $$ \Large \text{0.3} $$
 
-While the approach of separating network and DAC functions has certain rationality, the pricing of 149,600 JPY is irrational. Despite equivalent functionality and performance being achievable with completed streamers (iFi ZEN Stream, etc.) at one-fifth the cost or less, no necessity for existing as dedicated equipment can be identified. Unless technical advantages contributing to digital transmission transparency improvement are demonstrated at levels commensurate with the price difference, it cannot be considered rational from a scientific perspective.
+While the approach of separating network and DAC functions has certain rationality, the pricing of approximately 997 USD is irrational. Despite equivalent functionality and performance being achievable with completed streamers (iFi ZEN Stream, etc.) at one-fifth the cost or less, no necessity for existing as dedicated equipment can be identified. Unless technical advantages contributing to digital transmission transparency improvement are demonstrated at levels commensurate with the price difference, it cannot be considered rational from a scientific perspective.
 
 ## Advice
 
-For those considering purchasing the DST-Lacerta, we recommend first trying a completed network streamer like the iFi ZEN Stream. Equivalent functionality can be achieved for approximately 30,000 JPY with sound quality results expected to be comparable. Additionally, a Raspberry Pi 4-based DIY configuration (about 10,000 JPY) is also a viable alternative. Even if you insist on dedicated device convenience or Japanese build quality, it is prudent to first try these alternatives before making a judgment. With a 150,000 JPY budget, investing in improvements to DACs, amplifiers, or speakers that more directly contribute to sound quality enhancement would be more practical. Please carefully consider priorities within your overall audio system and make investment decisions based on scientific evidence.
+For those considering purchasing the DST-Lacerta, we recommend first trying a completed network streamer like the iFi ZEN Stream. Equivalent functionality can be achieved for approximately 200 USD with sound quality results expected to be comparable. Additionally, a Raspberry Pi 4-based DIY configuration (about 67 USD) is also a viable alternative. Even if you insist on dedicated device convenience or Japanese build quality, it is prudent to first try these alternatives before making a judgment. With a 997 USD budget, investing in improvements to DACs, amplifiers, or speakers that more directly contribute to sound quality enhancement would be more practical. Please carefully consider priorities within your overall audio system and make investment decisions based on scientific evidence.
 
 (2025.8.4)

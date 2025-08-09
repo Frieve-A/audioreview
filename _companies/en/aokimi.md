@@ -31,7 +31,7 @@ Technically, the design relies on combinations of off-the-shelf chipsets and sta
 
 $$ \Large \text{1.0} $$
 
-Comparing the representative V12 model (2,088 yen) with the functionally equivalent QCY T13 ANC (4,189 yen), the calculation yields 4,189 yen ÷ 2,088 yen = 2.006, which caps at 1.0. While QCY T13 ANC offers superior specifications including 30dB ANC performance, 10mm drivers, and IPX5 water resistance, AOKIMI V12 achieves approximately half the price, making it the most cost-effective option in its category. Even when compared to higher-performance options like Redmi Buds 6 Pro (8,566 yen), AOKIMI maintains the lowest price point for basic wireless earphone functionality.
+Comparing the representative V12 model (14 USD) with the functionally equivalent QCY T13 ANC (28 USD), the calculation yields 28 USD ÷ 14 USD = 2.006, which caps at 1.0. While QCY T13 ANC offers superior specifications including 30dB ANC performance, 10mm drivers, and IPX5 water resistance, AOKIMI V12 achieves approximately half the price, making it the most cost-effective option in its category. Even when compared to higher-performance options like Redmi Buds 6 Pro (57 USD), AOKIMI maintains the lowest price point for basic wireless earphone functionality.
 
 ## Reliability & Support
 
@@ -47,6 +47,6 @@ While the direction of providing basic wireless earphone functionality is ration
 
 ## Advice
 
-AOKIMI serves as an excellent option for those seeking basic wireless earphone functionality at minimum cost, offering unmatched cost-performance in its category. With approximately double the budget, QCY T13 ANC (4,189 yen, 30dB ANC, clear technical specifications) becomes available, and with quadruple the budget, high-performance products like Redmi Buds 6 Pro (8,566 yen) become selectable. However, for budget-conscious users requiring only basic functionality, AOKIMI V12 (2,088 yen) provides the most economical solution. For those seeking scientific sound quality improvement, transitioning to products with published measurement data and performance close to transparency levels is recommended, though this comes at significantly higher cost.
+AOKIMI serves as an excellent option for those seeking basic wireless earphone functionality at minimum cost, offering unmatched cost-performance in its category. With approximately double the budget, QCY T13 ANC (28 USD, 30dB ANC, clear technical specifications) becomes available, and with quadruple the budget, high-performance products like Redmi Buds 6 Pro (57 USD) become selectable. However, for budget-conscious users requiring only basic functionality, AOKIMI V12 (14 USD) provides the most economical solution. For those seeking scientific sound quality improvement, transitioning to products with published measurement data and performance close to transparency levels is recommended, though this comes at significantly higher cost.
 
 (2025.7.16)

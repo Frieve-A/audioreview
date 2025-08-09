@@ -7,7 +7,7 @@ lang: en
 ref: final-A6000
 date: 2025-07-26
 rating: [2.9, 0.7, 0.8, 0.3, 0.6, 0.5]
-summary: "The A6000 is technically excellent but offers poor cost-performance, as equivalent or better sound quality can be achieved with the Moondrop Aria 2 (14,450 JPY) for a fraction of the A6000's 54,442 JPY price."
+summary: "The A6000 is technically excellent but offers poor cost-performance, as equivalent or better sound quality can be achieved with the Moondrop Aria 2 (96 USD) for a fraction of the A6000's 363 USD price."
 tags: [Dynamic driver, Earphones, In-ear monitors, final]
 permalink: /products/en/final-A6000/
 ---
@@ -31,7 +31,7 @@ The proprietary 6mm "f-Core DU" dynamic driver represents noteworthy technical d
 
 $$ \Large \text{0.3} $$
 
-Against the A6000's current market price of 54,442 JPY (MSRP: 57,740 JPY), a product with equivalent or better performance, the Moondrop Aria 2, is available for much less. Using the actual market price of the Aria 2 (14,450 JPY), the calculation is 14,450 JPY ÷ 54,442 JPY ≈ 0.27, which rounds to a score of 0.3. The Aria 2 features enhanced specifications including improved driver technology, better build quality, and refined tuning, providing excellent value. The price difference of more than 3.7 times cannot be justified by measurable performance improvements, resulting in a poor cost-performance evaluation.
+Against the A6000's current market price of 363 USD (MSRP: 385 USD), a product with equivalent or better performance, the Moondrop Aria 2, is available for much less. Using the actual market price of the Aria 2 (96 USD), the calculation is 96 USD ÷ 363 USD ≈ 0.27, which rounds to a score of 0.3. The Aria 2 features enhanced specifications including improved driver technology, better build quality, and refined tuning, providing excellent value. The price difference of more than 3.7 times cannot be justified by measurable performance improvements, resulting in a poor cost-performance evaluation.
 
 ## Reliability & Support
 
@@ -47,6 +47,6 @@ The A6000's design philosophy is fundamentally rational. The proprietary driver 
 
 ## Advice
 
-While the A6000 is technically excellent, it cannot be recommended for users prioritizing the price-performance ratio. For those seeking sound quality at 54,442 JPY, equivalent quality can be obtained with the Moondrop Aria 2 (14,450 JPY), making it more rational to invest the remaining 40,000 JPY in other audio equipment improvements. Purchase should only be considered for those who value the final brand, Japanese manufacturing, or as an investment in the latest technology. For pure sound quality cost-performance, alternatives like the Aria 2 or Sony MDR-EX800ST are strongly recommended. This should be positioned as a product for advanced users with technical interest.
+While the A6000 is technically excellent, it cannot be recommended for users prioritizing the price-performance ratio. For those seeking sound quality at 363 USD, equivalent quality can be obtained with the Moondrop Aria 2 (96 USD), making it more rational to invest the remaining 267 USD in other audio equipment improvements. Purchase should only be considered for those who value the final brand, Japanese manufacturing, or as an investment in the latest technology. For pure sound quality cost-performance, alternatives like the Aria 2 or Sony MDR-EX800ST are strongly recommended. This should be positioned as a product for advanced users with technical interest.
 
 (2025.7.26)

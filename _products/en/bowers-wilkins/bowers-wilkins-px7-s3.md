@@ -31,7 +31,7 @@ The PX7 S3 is equipped with a standard level of technology for modern wireless h
 
 $$ \Large \text{0.9} $$
 
-While the PX7 S3 has a market price of approximately 55,800 JPY, the Sennheiser Momentum 4, which offers equivalent or superior functionality and more faithful acoustic performance, is available for about 49,000 JPY. The Momentum 4 provides up to 60 hours of battery life (double that of the PX7 S3), comparable or better noise-cancellation performance, and a flatter frequency response. The calculation is: 49,000 JPY ÷ 55,800 JPY = 0.878... As a product with superior performance is available at a lower price, the cost-performance does not receive the highest rating.
+While the PX7 S3 has a market price of approximately 372 USD, the Sennheiser Momentum 4, which offers equivalent or superior functionality and more faithful acoustic performance, is available for about 327 USD. The Momentum 4 provides up to 60 hours of battery life (double that of the PX7 S3), comparable or better noise-cancellation performance, and a flatter frequency response. The calculation is: 327 USD ÷ 372 USD = 0.878... As a product with superior performance is available at a lower price, the cost-performance does not receive the highest rating.
 
 ## Reliability & Support
 

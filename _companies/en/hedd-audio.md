@@ -31,7 +31,7 @@ The company's technology level can be evaluated as near industry-leading standar
 
 $$ \Large \text{0.2} $$
 
-HEDD Audio's cost-performance must be rated as extremely low. For instance, compared to its flagship product, the HEDDphone TWO (approx. 270,000 JPY), the planar magnetic headphone Hifiman Ananda Nano, which offers equally excellent or superior measured performance, is available for about 80,000 JPY. Similarly, for its studio monitor, the TYPE 07 MK2 (approx. 160,000 JPY per unit), the Kali Audio LP-6 V2, which boasts similarly excellent measured performance, can be purchased for about 30,000 JPY per unit. The existence of alternatives that achieve equivalent performance at a significantly lower price, regardless of the technology used, means its performance-to-price ratio is remarkably poor.
+HEDD Audio's cost-performance must be rated as extremely low. For instance, compared to its flagship product, the HEDDphone TWO (approx. 1800 USD), the planar magnetic headphone Hifiman Ananda Nano, which offers equally excellent or superior measured performance, is available for about 533 USD. Similarly, for its studio monitor, the TYPE 07 MK2 (approx. 1067 USD per unit), the Kali Audio LP-6 V2, which boasts similarly excellent measured performance, can be purchased for about 200 USD per unit. The existence of alternatives that achieve equivalent performance at a significantly lower price, regardless of the technology used, means its performance-to-price ratio is remarkably poor.
 
 ## Reliability & Support
 

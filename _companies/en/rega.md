@@ -48,7 +48,7 @@ $$ \Large \text{0.1} $$
 When evaluated based on pure functional performance (reproduction fidelity to sound sources) according to policy, Rega products' cost-performance is immeasurably low, approaching zero.
 
 **Absolute Performance Comparison: As Sound Source Reproduction Device**
-- **Target**: Rega Planar 3 (approximately USD 1,137 at 1USD=150JPY)
+- **Target**: Rega Planar 3 (approximately USD 1,137)
 - **Comparison**: Standard PC + Topping E30 II Lite DAC (retail price: USD 100)
 - **Evaluation**: In reproduction fidelity, the PC+DAC combination is orders of magnitude superior to any turntable including the Planar 3 in wow and flutter, rumble, noise floor, and frequency characteristics. Rega only provides reproduction devices that are far inferior in performance despite costing over 10 times more.
 

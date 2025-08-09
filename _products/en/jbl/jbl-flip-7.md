@@ -31,7 +31,7 @@ The technical sophistication is moderate. The combination of 2-way configuration
 
 $$ \Large \text{0.6} $$
 
-Cost-performance is rated as challenging. While the FLIP 7 is priced at 17,161 yen (approx. 115 USD), its predecessor, the JBL FLIP 6, is available for 9,795 yen (approx. 65 USD). The FLIP 7 offers clear advancements: a 5W power increase, enhanced IP68 dust and water resistance (up from IP67), and support for the next-generation Bluetooth Audio LE (Auracast). However, whether these features justify the significant price gap of about 7,400 yen (approx. 50 USD) depends on the user's priorities. In terms of pure price-to-performance, the FLIP 6 still holds an advantage. A strict evaluation based on our review policy indicates that the score struggles to climb, as the price increase is substantial relative to the performance gains.
+Cost-performance is rated as challenging. While the FLIP 7 is priced at 115 USD, its predecessor, the JBL FLIP 6, is available for 65 USD. The FLIP 7 offers clear advancements: a 5W power increase, enhanced IP68 dust and water resistance (up from IP67), and support for the next-generation Bluetooth Audio LE (Auracast). However, whether these features justify the significant price gap of about 50 USD depends on the user's priorities. In terms of pure price-to-performance, the FLIP 6 still holds an advantage. A strict evaluation based on our review policy indicates that the score struggles to climb, as the price increase is substantial relative to the performance gains.
 
 ## Reliability & Support
 

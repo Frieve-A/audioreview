@@ -7,7 +7,7 @@ lang: en
 ref: sony-wf-1000xm5
 date: 2025-07-06
 rating: [4.0, 0.9, 0.9, 0.7, 0.8, 0.7]
-summary: "Features Integrated Processor V2 and QN2e HD processor with 8.4mm Dynamic Driver X delivering improved sound quality and industry-leading ANC performance. Achieves 25% size reduction and 20% weight reduction while providing maximum 87% noise cancellation and 50dB+ attenuation above 1kHz. The 24,499 yen current price achieves the lowest cost among equivalent performance competitors, offering premium cost-performance in the complete wireless market."
+summary: "Features Integrated Processor V2 and QN2e HD processor with 8.4mm Dynamic Driver X delivering improved sound quality and industry-leading ANC performance. Achieves 25% size reduction and 20% weight reduction while providing maximum 87% noise cancellation and 50dB+ attenuation above 1kHz. The 163 USD current price achieves the lowest cost among equivalent performance competitors, offering premium cost-performance in the complete wireless market."
 tags: [Active noise cancelling, Japan, Sony, V2 Processor, Wireless earphones]
 permalink: /products/en/sony-wf-1000xm5/
 ---
@@ -31,7 +31,7 @@ Implementation of Integrated Processor V2 for 24-bit audio processing and analog
 
 $$ \Large \text{0.7} $$
 
-Against the current Japanese market price of 24,499 yen, lower-cost alternatives with equivalent ANC functionality exist. The most affordable competing product, Sony WF-C710N (approximately 18,000 yen), provides ANC, touch control, 30-hour battery life, IPX4 water resistance, and achieves average 85% noise reduction. 18,000 yen ÷ 24,499 yen = 0.73, making equivalent ANC functionality available at lower cost. While this product is more affordable compared to premium products like Apple AirPods Pro 2 (39,800 yen) and Bose QuietComfort Ultra Earbuds (39,600 yen), the price gap with lower models for basic ANC functionality is significant, resulting in standard-level cost-performance.
+Against the current Japanese market price of 163 USD, lower-cost alternatives with equivalent ANC functionality exist. The most affordable competing product, Sony WF-C710N (approximately 120 USD), provides ANC, touch control, 30-hour battery life, IPX4 water resistance, and achieves average 85% noise reduction. 120 USD ÷ 163 USD = 0.73, making equivalent ANC functionality available at lower cost. While this product is more affordable compared to premium products like Apple AirPods Pro 2 (265 USD) and Bose QuietComfort Ultra Earbuds (264 USD), the price gap with lower models for basic ANC functionality is significant, resulting in standard-level cost-performance.
 
 ## Reliability & Support
 
@@ -47,6 +47,6 @@ Integrated Processor V2 for 24-bit audio processing and analog amplification, 8.
 
 ## Advice
 
-This product represents one of the technological pinnacles of true wireless earbuds and offers optimal choice for those seeking to balance convenience, high sound quality, and high-performance ANC in this format. The 24,499 yen price point is extremely competitive compared to rivals, with excellent balance of ANC performance, sound quality, technical standards, and functionality. It delivers supreme practicality for modern usage scenarios including commuting, sports, and multi-device connectivity. The 87% noise cancellation performance provides significant value for airplane and train use, while the 8.4mm large driver sound quality represents the highest standard in this price range. However, for pure sound quality pursuit as top priority, wired IEMs at this price point may offer different acoustic characteristics that avoid Bluetooth compression and processing delays. Clear recognition of the convenience-versus-sound-quality tradeoff is essential, with recommendation for choices prioritizing practicality in modern usage environments.
+This product represents one of the technological pinnacles of true wireless earbuds and offers optimal choice for those seeking to balance convenience, high sound quality, and high-performance ANC in this format. The 163 USD price point is extremely competitive compared to rivals, with excellent balance of ANC performance, sound quality, technical standards, and functionality. It delivers supreme practicality for modern usage scenarios including commuting, sports, and multi-device connectivity. The 87% noise cancellation performance provides significant value for airplane and train use, while the 8.4mm large driver sound quality represents the highest standard in this price range. However, for pure sound quality pursuit as top priority, wired IEMs at this price point may offer different acoustic characteristics that avoid Bluetooth compression and processing delays. Clear recognition of the convenience-versus-sound-quality tradeoff is essential, with recommendation for choices prioritizing practicality in modern usage environments.
 
 (2025.7.6)

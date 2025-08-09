@@ -32,7 +32,7 @@ Technologically, it remains at 2013 standards and appears significantly obsolete
 
 $$ \Large \text{0.3} $$
 
-Due to discontinuation, new purchases are impossible, and it is only available in the used market. While used market prices vary by condition, we compare with the Sony SRS-XB13 (actual price 5,980 JPY, according to price.com) as a current product with equivalent or superior functionality and performance. The Sony product achieves IP67 waterproof performance, 16-hour battery life (more than double the SoundLink Mini's 7 hours), and superior frequency characteristics, surpassing the SoundLink Mini in all functional aspects. Additionally, it comes with new product warranty and support. Considering the price volatility risk of used products and functional inferiority, cost-performance is significantly inferior to current products.
+Due to discontinuation, new purchases are impossible, and it is only available in the used market. While used market prices vary by condition, we compare with the Sony SRS-XB13 (actual price 40 USD, according to price.com) as a current product with equivalent or superior functionality and performance. The Sony product achieves IP67 waterproof performance, 16-hour battery life (more than double the SoundLink Mini's 7 hours), and superior frequency characteristics, surpassing the SoundLink Mini in all functional aspects. Additionally, it comes with new product warranty and support. Considering the price volatility risk of used products and functional inferiority, cost-performance is significantly inferior to current products.
 
 ## Reliability & Support
 
@@ -48,6 +48,6 @@ The design philosophy was reasonable under the technical constraints of 2013, bu
 
 ## Advice
 
-Purchasing the Bose SoundLink Mini Bluetooth Speaker is not recommended. The original model released in 2013 is discontinued and cannot expect future support, offering only inferior performance in all aspects compared to modern competing products. There are also price volatility risks due to used market availability. Among current products, the Sony SRS-XB13 (actual price 5,980 JPY) achieves IP67 waterproof performance, 16-hour battery operation, and superior frequency characteristics, making it a superior choice in all aspects. Even with attachment to the Bose brand, we strongly recommend choosing current products such as the 2025 SoundLink Plus or SoundLink Micro Gen 2. There is absolutely no rationality in investing in 12-year-old technology.
+Purchasing the Bose SoundLink Mini Bluetooth Speaker is not recommended. The original model released in 2013 is discontinued and cannot expect future support, offering only inferior performance in all aspects compared to modern competing products. There are also price volatility risks due to used market availability. Among current products, the Sony SRS-XB13 (actual price 40 USD) achieves IP67 waterproof performance, 16-hour battery operation, and superior frequency characteristics, making it a superior choice in all aspects. Even with attachment to the Bose brand, we strongly recommend choosing current products such as the 2025 SoundLink Plus or SoundLink Micro Gen 2. There is absolutely no rationality in investing in 12-year-old technology.
 
 (2025.7.24)

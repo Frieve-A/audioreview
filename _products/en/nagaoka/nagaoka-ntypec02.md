@@ -7,14 +7,14 @@ lang: en
 ref: nagaoka-ntypec02
 date: 2025-07-30
 rating: [3.3, 0.6, 0.5, 1.0, 0.5, 0.7]
-summary: "USB-C connected earphones with ANC functionality. A rare product achieving ANC functionality with USB-C connection under 5,000 yen, providing excellent cost-performance while competing products with equivalent functionality are concentrated in higher price ranges."
+summary: "USB-C connected earphones with ANC functionality. A rare product achieving ANC functionality with USB-C connection under 33 USD, providing excellent cost-performance while competing products with equivalent functionality are concentrated in higher price ranges."
 tags: [Earphones, USB-C, ANC, Digital]
 permalink: /products/en/nagaoka-ntypec02/
 ---
 
 ## Overview
 
-The Nagaoka NTYPEC02 is a canal-type wired earphone with USB-C connection support, released in June 2025. It features ANC (Active Noise Cancelling) functionality, which is rare in the 3,480 JPY (tax included) price range, and incorporates aluminum housing for improved sound isolation. With a 12mm driver and a built-in DAC supporting 96kHz/24bit, it enables direct processing of digital audio. This product represents the company's new expansion into modern digital audio equipment, marking a departure from its traditional analog cartridge specialization.
+The Nagaoka NTYPEC02 is a canal-type wired earphone with USB-C connection support, released in June 2025. It features ANC (Active Noise Cancelling) functionality, which is rare in the 23 USD (tax included) price range, and incorporates aluminum housing for improved sound isolation. With a 12mm driver and a built-in DAC supporting 96kHz/24bit, it enables direct processing of digital audio. This product represents the company's new expansion into modern digital audio equipment, marking a departure from its traditional analog cartridge specialization.
 
 ## Scientific Validity
 
@@ -32,7 +32,7 @@ The adoption of a USB-C connection with a built-in DAC and 96kHz/24bit support d
 
 $$ \Large \text{1.0} $$
 
-As USB-C connected earphones with ANC functionality, the NTYPEC02 is positioned in an extremely rare price range. Competing products with equivalent functionality, such as the Audio-Technica ATH-CKS330NC (market price around 5,000 JPY), exist, but none are found at a lower price than this product (3,480 JPY). Alternatives without ANC, like the Apple EarPods USB-C (2,668 JPY) and Final E500 (1,980 JPY), are functionally inferior and thus not suitable for comparison. Products offering both ANC and a USB-C connection for under 5,000 JPY are extremely limited, and since this model achieves the lowest price for this feature combination, it receives the highest cost-performance rating.
+As USB-C connected earphones with ANC functionality, the NTYPEC02 is positioned in an extremely rare price range. Competing products with equivalent functionality, such as the Audio-Technica ATH-CKS330NC (market price around 33 USD), exist, but none are found at a lower price than this product (23 USD). Alternatives without ANC, like the Apple EarPods USB-C (18 USD) and Final E500 (13 USD), are functionally inferior and thus not suitable for comparison. Products offering both ANC and a USB-C connection for under 33 USD are extremely limited, and since this model achieves the lowest price for this feature combination, it receives the highest cost-performance rating.
 
 ## Reliability & Support
 
@@ -48,6 +48,6 @@ Digital audio transmission via USB-C connection is rational in terms of noise re
 
 ## Advice
 
-For users who need ANC functionality in a USB-C connection environment, the NTYPEC02 is currently the most cost-effective choice on the market. If ANC is not a requirement, cheaper alternatives like the Final E500 (1,980 JPY) or Apple EarPods USB-C (2,668 JPY) exist. However, if ANC is an essential requirement, the next cheapest option is the Audio-Technica ATH-CKS330NC (around 5,000 JPY), which has a significant price difference. For those seeking the combination of ANC and a USB-C connection in this price range, this is effectively the only rational choice. Users requiring higher-quality ANC performance will need to increase their budget, but this product is optimal for basic needs. While Nagaoka is an established manufacturer with a long history in analog products, this is their new venture into the digital field; basic quality control can be expected, but long-term reliability is yet to be proven.
+For users who need ANC functionality in a USB-C connection environment, the NTYPEC02 is currently the most cost-effective choice on the market. If ANC is not a requirement, cheaper alternatives like the Final E500 (13 USD) or Apple EarPods USB-C (18 USD) exist. However, if ANC is an essential requirement, the next cheapest option is the Audio-Technica ATH-CKS330NC (around 33 USD), which has a significant price difference. For those seeking the combination of ANC and a USB-C connection in this price range, this is effectively the only rational choice. Users requiring higher-quality ANC performance will need to increase their budget, but this product is optimal for basic needs. While Nagaoka is an established manufacturer with a long history in analog products, this is their new venture into the digital field; basic quality control can be expected, but long-term reliability is yet to be proven.
 
 (2025.7.30)

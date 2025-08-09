@@ -31,7 +31,7 @@ The ODNF-u technology has evolved from conventional ODNF, improving distortion c
 
 $$ \Large \text{0.1} $$
 
-Against the current market price of 346,500 JPY (approximately 2300 USD), the SMSL SH-9 (approximately 40,000 JPY or 259 USD) exists with equivalent or superior functionality and measurement performance, including balanced output, high power (6W/16Ω), THD+N below 0.0001%, and SNR above 130dB. 40,000 JPY ÷ 346,500 JPY = 0.12, indicating very low cost-performance. Products achieving equivalent or superior performance at about one-tenth the price exist in the market for key functions including balanced output, high power output, and low distortion, presenting significant price competitiveness challenges. Excluding chassis and internal wiring quality feel and brand value, pure acoustic performance-to-price ratio is significantly disadvantaged.
+Against the current market price of 2310 USD, the SMSL SH-9 (approximately 267 USD) exists with equivalent or superior functionality and measurement performance, including balanced output, high power (6W/16Ω), THD+N below 0.0001%, and SNR above 130dB. 267 USD ÷ 2310 USD = 0.12, indicating very low cost-performance. Products achieving equivalent or superior performance at about one-tenth the price exist in the market for key functions including balanced output, high power output, and low distortion, presenting significant price competitiveness challenges. Excluding chassis and internal wiring quality feel and brand value, pure acoustic performance-to-price ratio is significantly disadvantaged.
 
 ## Reliability & Support
 

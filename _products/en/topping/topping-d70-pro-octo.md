@@ -32,7 +32,7 @@ The multi-DAC design employing 8 CS43198 flagship DAC chips represents an advanc
 
 $$ \Large \text{0.8} $$
 
-Against 599 USD (approximately 90,000 yen), the cheapest alternative product with equivalent or superior functionality and measurement performance is the Topping E70 Velvet (449 USD, approximately 67,000 yen). The E70 Velvet employs the AK4499EX DAC chip and provides equivalent levels to the D70 Pro Octo in basic measurement performance and functionality, including THD+N -125dB, PCM768kHz/32bit, and DSD512 support. Cost-performance calculation: 449 USD ÷ 599 USD = 0.75, resulting in a score of 0.8 after rounding. The SMSL SU-10 (899.99 USD) competes in performance but is more expensive than the D70 Pro Octo, making it unsuitable for cost-performance comparison.
+Against 599 USD (approximately 600 USD), the cheapest alternative product with equivalent or superior functionality and measurement performance is the Topping E70 Velvet (449 USD, approximately 447 USD). The E70 Velvet employs the AK4499EX DAC chip and provides equivalent levels to the D70 Pro Octo in basic measurement performance and functionality, including THD+N -125dB, PCM768kHz/32bit, and DSD512 support. Cost-performance calculation: 449 USD ÷ 599 USD = 0.75, resulting in a score of 0.8 after rounding. The SMSL SU-10 (899.99 USD) competes in performance but is more expensive than the D70 Pro Octo, making it unsuitable for cost-performance comparison.
 
 ## Reliability & Support
 

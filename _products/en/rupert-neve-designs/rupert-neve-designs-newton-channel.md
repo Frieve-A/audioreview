@@ -13,7 +13,7 @@ permalink: /products/en/rupert-neve-designs-newton-channel/
 ---
 ## Overview
 
-The Rupert Neve Designs Newton Channel is a professional channel strip released in June 2023. Priced at 1999 USD (approximately 300,000 JPY), it integrates a Class A microphone preamplifier (72dB gain), 3-band EQ, VCA compressor, and Silk harmonic saturation circuit in a 1U rackmount chassis. Positioned as a product that realizes Rupert Neve's acoustic design philosophy with modern manufacturing technology, it is the most accessible rackmount product in the company's price range.
+The Rupert Neve Designs Newton Channel is a professional channel strip released in June 2023. Priced at 1999 USD (approximately 2000 USD), it integrates a Class A microphone preamplifier (72dB gain), 3-band EQ, VCA compressor, and Silk harmonic saturation circuit in a 1U rackmount chassis. Positioned as a product that realizes Rupert Neve's acoustic design philosophy with modern manufacturing technology, it is the most accessible rackmount product in the company's price range.
 
 ## Scientific Validity
 

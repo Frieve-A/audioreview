@@ -7,14 +7,14 @@ lang: en
 ref: qcy-ht07
 date: 2025-08-03
 rating: [3.0, 0.5, 0.4, 1.0, 0.5, 0.6]
-summary: "Despite its low price of 4,200 JPY, the QCY HT07 features active noise cancellation and achieves world-class cost-performance among products with equivalent functionality, making it an excellent value true wireless earphone."
+summary: "Despite its low price of approximately 28 USD, the QCY HT07 features active noise cancellation and achieves world-class cost-performance among products with equivalent functionality, making it an excellent value true wireless earphone."
 tags: [True Wireless Earphones, ANC, Noise Cancellation, Budget, Bluetooth]
 permalink: /products/en/qcy-ht07/
 ---
 
 ## Overview
 
-The QCY HT07 (ArcBuds) is a budget-tier active noise canceling true wireless earphone released by Chinese audio manufacturer QCY in 2023. Despite its price point of 4,200 JPY, it incorporates features comparable to higher-end models, including up to 40dB hybrid ANC, 10mm dynamic drivers, a 6-microphone array for improved call quality, and IPX5 water resistance. QCY, established in 2009, has been known for cost-effective audio products, and the HT07 continues this legacy.
+The QCY HT07 (ArcBuds) is a budget-tier active noise canceling true wireless earphone released by Chinese audio manufacturer QCY in 2023. Despite its price point of approximately 28 USD, it incorporates features comparable to higher-end models, including up to 40dB hybrid ANC, 10mm dynamic drivers, a 6-microphone array for improved call quality, and IPX5 water resistance. QCY, established in 2009, has been known for cost-effective audio products, and the HT07 continues this legacy.
 
 ## Scientific Validity
 
@@ -32,7 +32,7 @@ The HT07 employs 10mm dynamic drivers and the WQ7003AR chipset, featuring a stan
 
 $$ \Large \text{1.0} $$
 
-The QCY HT07 is priced at 4,200 JPY. The most affordable class of competing products with equivalent ANC functionality (nominal), Bluetooth codec support, and IPX5 water resistance is the Soundcore Space A40, at approximately 8,000 JPY. Because the HT07 achieves a world-class lowest price among products with equivalent functions, its cost-performance receives the highest rating of 1.0. No other products offering 40dB-class hybrid ANC, a 6-microphone array, 32-hour total playback time, and dedicated app support at this price have been confirmed. It achieves extremely high cost-performance by providing the basic functions users demand at a minimal cost.
+The QCY HT07 is priced at approximately 28 USD. The most affordable class of competing products with equivalent ANC functionality (nominal), Bluetooth codec support, and IPX5 water resistance is the Soundcore Space A40, at approximately 53 USD. Because the HT07 achieves a world-class lowest price among products with equivalent functions, its cost-performance receives the highest rating of 1.0. No other products offering 40dB-class hybrid ANC, a 6-microphone array, 32-hour total playback time, and dedicated app support at this price have been confirmed. It achieves extremely high cost-performance by providing the basic functions users demand at a minimal cost.
 
 ## Reliability & Support
 
@@ -48,6 +48,6 @@ The QCY HT07's design philosophy focuses on providing practical ANC functionalit
 
 ## Advice
 
-The QCY HT07 is suitable for those who want to try ANC earphones for the first time or seek basic noise cancellation functionality while keeping the budget low. At 4,200 JPY, it offers hybrid ANC, IPX5 water resistance, and 32-hour playback, providing world-class cost-performance among products with equivalent functionality. However, objective measurement data is lacking, and it is uncertain whether the actual ANC performance and sound quality match the nominal specifications. It is not suitable for those seeking flat acoustic characteristics or high-precision sound reproduction. For those prioritizing long-term support or high reliability, considering products from manufacturers with more established track records is recommended. It is a valuable choice for users who prioritize cost above all and want to obtain practical ANC functionality at the lowest price.
+The QCY HT07 is suitable for those who want to try ANC earphones for the first time or seek basic noise cancellation functionality while keeping the budget low. At approximately 28 USD, it offers hybrid ANC, IPX5 water resistance, and 32-hour playback, providing world-class cost-performance among products with equivalent functionality. However, objective measurement data is lacking, and it is uncertain whether the actual ANC performance and sound quality match the nominal specifications. It is not suitable for those seeking flat acoustic characteristics or high-precision sound reproduction. For those prioritizing long-term support or high reliability, considering products from manufacturers with more established track records is recommended. It is a valuable choice for users who prioritize cost above all and want to obtain practical ANC functionality at the lowest price.
 
 (2025.8.3)

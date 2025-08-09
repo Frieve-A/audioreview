@@ -32,7 +32,7 @@ Technically, the company adopts industry-standard approaches. High-performance m
 $$ \Large \text{0.7} $$
 
 The company's products offer excellent cost-performance, but are not necessarily the world's cheapest in every category. To assess the overall cost-performance of the company, we compare three representative products with the cheapest competing products on the market that have equivalent or better performance.
-The DS07 (29,800 JPY) compared to the equivalent-performing Topping E50 (25,000 JPY) results in a calculation of 25,000 JPY ÷ 29,800 JPY ≈ 0.84. The stick DAC FX03J+ (5,480 JPY) compared to the higher-performing JCALLY JM7 (1,500 JPY) is 1,500 JPY ÷ 5,480 JPY ≈ 0.27. The DAC-X6J with headphone amp (11,580 JPY) compared to its competitor, the Fosi Audio K5 Pro (9,999 JPY), is 9,999 JPY ÷ 11,580 JPY ≈ 0.86. The average of these scores is approximately 0.66, which is rounded to a rating of 0.7.
+The DS07 (199 USD) compared to the equivalent-performing Topping E50 (167 USD) results in a calculation of 167 USD ÷ 199 USD ≈ 0.84. The stick DAC FX03J+ (37 USD) compared to the higher-performing JCALLY JM7 (10 USD) is 10 USD ÷ 37 USD ≈ 0.27. The DAC-X6J with headphone amp (77 USD) compared to its competitor, the Fosi Audio K5 Pro (67 USD), is 67 USD ÷ 77 USD ≈ 0.86. The average of these scores is approximately 0.66, which is rounded to a rating of 0.7.
 
 ## Reliability & Support
 

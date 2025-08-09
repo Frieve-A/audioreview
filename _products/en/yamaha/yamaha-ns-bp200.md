@@ -31,7 +31,7 @@ Technically, this adopts industry-standard approaches. The 2-way configuration a
 
 $$ \Large \text{1.0} $$
 
-Against the current market price of 12,150 JPY, comparison with equivalent passive bookshelf speakers shows no cheaper alternatives with equivalent or superior measured performance. Therefore, the review target is positioned as the most affordable option in the same category. While price advantages are highly recognized, evaluation considers absolute measured performance as limited.
+Against the current market price of 81 USD, comparison with equivalent passive bookshelf speakers shows no cheaper alternatives with equivalent or superior measured performance. Therefore, the review target is positioned as the most affordable option in the same category. While price advantages are highly recognized, evaluation considers absolute measured performance as limited.
 
 ## Reliability & Support
 

@@ -13,7 +13,7 @@ permalink: /products/en/tanchjim-ola-bass/
 ---
 ## Overview
 
-The Tanchjim Ola Bass is a bass-enhanced version of the company's popular Ola model released in 2022. It has been redesigned from the original DMT4 architecture driver to feature a 10mm PEEK composite diaphragm and titanium dome structure, aiming for richer bass expression. Tanchjim is a Chinese manufacturer established in 2015, particularly known for single dynamic driver technology. The market price is 42.99 USD (approximately 6,500 JPY), positioning it as standard within its price range for IEMs.
+The Tanchjim Ola Bass is a bass-enhanced version of the company's popular Ola model released in 2022. It has been redesigned from the original DMT4 architecture driver to feature a 10mm PEEK composite diaphragm and titanium dome structure, aiming for richer bass expression. Tanchjim is a Chinese manufacturer established in 2015, particularly known for single dynamic driver technology. The market price is 43 USD, positioning it as standard within its price range for IEMs.
 
 ## Scientific Validity
 
@@ -31,7 +31,7 @@ The combination of a 10mm PEEK composite diaphragm and titanium dome structure r
 
 $$ \Large \text{0.5} $$
 
-Against the price of 42.99 USD (approximately 6,500 JPY), alternatives with equivalent or superior performance exist. The most affordable equivalent product is the Moondrop Chu II (approximately 22 USD, about 3,300 JPY), resulting in a CP value of 3,300 JPY ÷ 6,500 JPY = 0.51, which rounds to 0.5. The 7Hz Salnotes Zero 2 (25 USD, approximately 3,800 JPY) also offers equivalent performance at a lower price. These competing products all feature single dynamic driver configurations with similar output characteristics and connectivity while showing comparable performance in measurement data. The technical advantages of the Tanchjim Ola Bass are not clear enough to justify the price difference.
+Against the price of 43 USD, alternatives with equivalent or superior performance exist. The most affordable equivalent product is the Moondrop Chu II (approximately 22 USD), resulting in a CP value of 22 USD ÷ 43 USD = 0.51, which rounds to 0.5. The 7Hz Salnotes Zero 2 (25 USD) also offers equivalent performance at a lower price. These competing products all feature single dynamic driver configurations with similar output characteristics and connectivity while showing comparable performance in measurement data. The technical advantages of the Tanchjim Ola Bass are not clear enough to justify the price difference.
 
 ## Reliability & Support
 
@@ -47,6 +47,6 @@ Despite bearing the name "Bass," the actual tuning leans toward "Bright Neutral,
 
 ## Advice
 
-While the Tanchjim Ola Bass is technically a valid product, it cannot be recommended from a cost-performance perspective. Cheaper alternatives such as the Moondrop Chu II (approximately 3,300 JPY) and 7Hz Salnotes Zero 2 (approximately 3,800 JPY) exist. These competing products feature the same single dynamic driver configuration and show comparable performance in measurement data. Particularly, the Moondrop Chu II achieves equivalent sound quality at approximately half the price, offering superior cost-performance. Unless there is special attachment to the Tanchjim brand, we strongly recommend choosing these lower-priced alternatives. With a budget of 6,500 JPY, there is more investment value in higher-grade products or combinations with DAC-integrated amplifiers for overall system sound quality improvement.
+While the Tanchjim Ola Bass is technically a valid product, it cannot be recommended from a cost-performance perspective. Cheaper alternatives such as the Moondrop Chu II (approximately 22 USD) and 7Hz Salnotes Zero 2 (approximately 25 USD) exist. These competing products feature the same single dynamic driver configuration and show comparable performance in measurement data. Particularly, the Moondrop Chu II achieves equivalent sound quality at approximately half the price, offering superior cost-performance. Unless there is special attachment to the Tanchjim brand, we strongly recommend choosing these lower-priced alternatives. With a budget of 43 USD, there is more investment value in higher-grade products or combinations with DAC-integrated amplifiers for overall system sound quality improvement.
 
 (2025.7.24)

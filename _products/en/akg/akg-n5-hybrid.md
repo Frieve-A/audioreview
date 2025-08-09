@@ -7,7 +7,7 @@ lang: en
 ref: akg-n5-hybrid
 date: 2025-07-20
 rating: [3.5, 0.7, 0.8, 0.8, 0.6, 0.6]
-summary: "The AKG N5 Hybrid is a premium wireless earphone featuring LDAC codec support and an included USB-C 2.4GHz dongle. Its technical achievements in Hi-Res Audio support and low-latency connectivity are commendable, and the 28,710 yen price point represents a reasonable level compared to products with equivalent functionality."
+summary: "The AKG N5 Hybrid is a premium wireless earphone featuring LDAC codec support and an included USB-C 2.4GHz dongle. Its technical achievements in Hi-Res Audio support and low-latency connectivity are commendable, and the 191 USD price point represents a reasonable level compared to products with equivalent functionality."
 tags: [AKG, ANC, Gaming, Hi-Res, LDAC, Wireless earphones]
 permalink: /products/en/akg-n5-hybrid/
 ---
@@ -31,7 +31,7 @@ The technical implementation is at a good level. The 10mm dynamic driver with DL
 
 $$ \Large \text{0.8} $$
 
-Cost-performance is at a good level. The AKG N5 Hybrid's market price of 28,710 yen demonstrates competitiveness when compared to products with equivalent functionality and performance. The Nothing Ear (22,800 yen) represents the most competitive alternative, providing LDAC support, ANC, and IP54 water resistance with equivalent core functionality. The calculation: 22,800 yen ÷ 28,710 yen = 0.79, rounded to 0.8. While cheaper alternatives exist, the AKG N5 Hybrid offers unique features like USB-C 2.4GHz dongle for low-latency gaming and Zoom certification for professional use that differentiate it from standard consumer earbuds. The pricing reflects a reasonable premium for these specialized professional and gaming-focused features beyond basic audio functionality.
+Cost-performance is at a good level. The AKG N5 Hybrid's market price of 191 USD demonstrates competitiveness when compared to products with equivalent functionality and performance. The Nothing Ear (152 USD) represents the most competitive alternative, providing LDAC support, ANC, and IP54 water resistance with equivalent core functionality. The calculation: 152 USD ÷ 191 USD = 0.79, rounded to 0.8. While cheaper alternatives exist, the AKG N5 Hybrid offers unique features like USB-C 2.4GHz dongle for low-latency gaming and Zoom certification for professional use that differentiate it from standard consumer earbuds. The pricing reflects a reasonable premium for these specialized professional and gaming-focused features beyond basic audio functionality.
 
 ## Reliability & Support
 
@@ -47,6 +47,6 @@ The design philosophy contains rational elements but has room for improvement. T
 
 ## Advice
 
-The AKG N5 Hybrid is a technically solid product that represents a rational choice in terms of pricing. The 28,710 yen price point is appropriate considering the LDAC support and dual connectivity system with USB-C 2.4GHz dongle. For users primarily focused on music production or professional Zoom meetings, the Zoom certification and dual connectivity convenience offer clear value. Even for general music listening, compared to the Sony WF-1000XM5 (24,200 yen), the price difference is within acceptable range considering advantages in dual connectivity functionality and IP54 water resistance. For users who value low-latency connectivity for gaming, the 2.4GHz dongle function provides unique advantages unavailable in other products. For cost-performance focused users, the Nothing Ear (22,800 yen) is also an option, but for those seeking professional functionality, the AKG N5 Hybrid is recommended.
+The AKG N5 Hybrid is a technically solid product that represents a rational choice in terms of pricing. The 191 USD price point is appropriate considering the LDAC support and dual connectivity system with USB-C 2.4GHz dongle. For users primarily focused on music production or professional Zoom meetings, the Zoom certification and dual connectivity convenience offer clear value. Even for general music listening, compared to the Sony WF-1000XM5 (161 USD), the price difference is within acceptable range considering advantages in dual connectivity functionality and IP54 water resistance. For users who value low-latency connectivity for gaming, the 2.4GHz dongle function provides unique advantages unavailable in other products. For cost-performance focused users, the Nothing Ear (152 USD) is also an option, but for those seeking professional functionality, the AKG N5 Hybrid is recommended.
 
 (2025.7.20)

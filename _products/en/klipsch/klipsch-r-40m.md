@@ -32,7 +32,7 @@ While elements like Tractrix horn technology, an aluminum LTS tweeter, and a TCP
 
 $$ \Large \text{0.3} $$
 
-Against its market price of 41,140 JPY (tax included), more affordable alternatives with equivalent or better performance exist. For example, the Yamaha NS-B210 is available for around 11,200 JPY (tax included) per pair. The cost-performance is calculated as "11,200 JPY ÷ 41,140 JPY ≈ 0.27," resulting in a score of 0.3. Since the NS-B210 serves the same purpose as a bookshelf speaker at a much lower price, the cost-performance of the R-40M must be rated as low.
+Against its market price of 274 USD (tax included), more affordable alternatives with equivalent or better performance exist. For example, the Yamaha NS-B210 is available for around 75 USD (tax included) per pair. The cost-performance is calculated as "75 USD ÷ 274 USD ≈ 0.27," resulting in a score of 0.3. Since the NS-B210 serves the same purpose as a bookshelf speaker at a much lower price, the cost-performance of the R-40M must be rated as low.
 
 ## Reliability & Support
 
@@ -48,6 +48,6 @@ The design philosophy of achieving high efficiency through horn technology is un
 
 ## Advice
 
-If you are considering purchasing the R-40M, we strongly recommend looking at more cost-effective alternatives. The Yamaha NS-B210, in particular, offers sufficient performance as a bookshelf speaker for around 11,200 JPY per pair, approximately a quarter of the price of the R-40M. Unless you have a strong preference for the specific Klipsch horn sound and design, or your primary goal is high-volume playback leveraging the 91dB sensitivity, a cheaper alternative would be a more rational choice. For those who prioritize objective sound quality and cost, we recommend considering a product like the NS-B210 or allocating a larger budget for a speaker with a larger woofer.
+If you are considering purchasing the R-40M, we strongly recommend looking at more cost-effective alternatives. The Yamaha NS-B210, in particular, offers sufficient performance as a bookshelf speaker for around 75 USD per pair, approximately a quarter of the price of the R-40M. Unless you have a strong preference for the specific Klipsch horn sound and design, or your primary goal is high-volume playback leveraging the 91dB sensitivity, a cheaper alternative would be a more rational choice. For those who prioritize objective sound quality and cost, we recommend considering a product like the NS-B210 or allocating a larger budget for a speaker with a larger woofer.
 
 (2025.7.30)

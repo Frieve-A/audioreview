@@ -31,7 +31,7 @@ The implementation of proprietary technologies such as DSP/FPGA hybrid architect
 
 $$ \Large \text{0.5} $$
 
-The ULN-8 mkⅣ is priced at approximately 775,000 JPY (4,500 EUR, converted at July 2025 rates). For a product with professional-level 8-channel functionality and dedicated DSP processing, a more appropriate comparison target is the RME Fireface UFX+ (approximately 400,000 JPY). The calculation: 400,000 JPY ÷ 775,000 JPY = 0.516, which rounds to 0.5. The UFX+ matches the ULN-8 in basic studio-grade functions like professional preamps, high-fidelity conversion, and stable connectivity. While the ULN-8's dedicated DSP plugin bundle offers unique value, its MHLink functionality is not a sole justification for the price difference, as the UFX+ is also equipped with the industry-standard MADI for system expansion.
+The ULN-8 mkⅣ is priced at approximately 5167 USD (4,500 EUR, converted at July 2025 rates). For a product with professional-level 8-channel functionality and dedicated DSP processing, a more appropriate comparison target is the RME Fireface UFX+ (approximately 2667 USD). The calculation: 2667 USD ÷ 5167 USD = 0.516, which rounds to 0.5. The UFX+ matches the ULN-8 in basic studio-grade functions like professional preamps, high-fidelity conversion, and stable connectivity. While the ULN-8's dedicated DSP plugin bundle offers unique value, its MHLink functionality is not a sole justification for the price difference, as the UFX+ is also equipped with the industry-standard MADI for system expansion.
 
 ## Reliability & Support
 
@@ -47,6 +47,6 @@ The design philosophy of this product is to provide a stable and powerful hardwa
 
 ## Advice
 
-The ULN-8 mkⅣ is a high-quality professional audio interface, but careful consideration should be given to whether it provides value commensurate with the 775,000 JPY investment. Investment in this product can be justified only for specialized applications where its dedicated bundle of over 100 DSP plugins is essential, or for users who find specific value in the proprietary Metric Halo ecosystem (MHLink). Since the RME Fireface UFX+ offers comparable system scalability via its MADI port, it can be a more open and cost-effective choice if large-scale system construction is the primary goal. The Focusrite Scarlett 18i20 Gen 4 (approximately 93,000 JPY) excels in input/output count but is inferior in professional-grade microphone preamp quality and conversion accuracy, making it unsuitable for professional use.
+The ULN-8 mkⅣ is a high-quality professional audio interface, but careful consideration should be given to whether it provides value commensurate with the 5167 USD investment. Investment in this product can be justified only for specialized applications where its dedicated bundle of over 100 DSP plugins is essential, or for users who find specific value in the proprietary Metric Halo ecosystem (MHLink). Since the RME Fireface UFX+ offers comparable system scalability via its MADI port, it can be a more open and cost-effective choice if large-scale system construction is the primary goal. The Focusrite Scarlett 18i20 Gen 4 (approximately 620 USD) excels in input/output count but is inferior in professional-grade microphone preamp quality and conversion accuracy, making it unsuitable for professional use.
 
 (2025.7.23)

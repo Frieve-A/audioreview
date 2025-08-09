@@ -31,7 +31,7 @@ The ES-0871 employs a conventional 2-way passive speaker design with limited tec
 
 $$ \Large \text{0.8} $$
 
-The ES-0871 was discontinued in 2021 and is traded on the used market for around 30,000 JPY. A current product with equivalent functionality and performance, the JBL JRX215, is available new for 23,980 JPY (as of July 2025). The JRX215 is also a 15-inch 2-way passive speaker with comparable power handling (250W continuous, 1000W peak), a frequency response of 41Hz-18kHz, and comes with a modern design and a new product warranty. The cost-performance is rated at approximately 0.8, based on the calculation: 23,980 JPY ÷ 30,000 JPY = 0.799. It is more rational to choose a new, warrantied product than to pay 30,000 JPY for a used, technically obsolete item with no support.
+The ES-0871 was discontinued in 2021 and is traded on the used market for around 200 USD. A current product with equivalent functionality and performance, the JBL JRX215, is available new for 160 USD (as of July 2025). The JRX215 is also a 15-inch 2-way passive speaker with comparable power handling (250W continuous, 1000W peak), a frequency response of 41Hz-18kHz, and comes with a modern design and a new product warranty. The cost-performance is rated at approximately 0.8, based on the calculation: 160 USD ÷ 200 USD = 0.799. It is more rational to choose a new, warrantied product than to pay 200 USD for a used, technically obsolete item with no support.
 
 ## Reliability & Support
 
@@ -47,6 +47,6 @@ The design philosophy of the ES-0871 is rational in meeting the basic requiremen
 
 ## Advice
 
-Purchasing the TOA ES-0871 is not recommended. As a discontinued product, it is only available used, and it is difficult to justify its market price of around 30,000 JPY. For approximately 24,000 JPY, you can buy a new JBL JRX215, which offers equivalent performance, a manufacturer's warranty, and ongoing support. For professional use, equipment reliability and prompt service are critical, making the acquisition of a product with limited support too risky. While the ES-0871 may have historical value, for practical audio applications, choosing a more affordable and reliable current product is the wiser decision.
+Purchasing the TOA ES-0871 is not recommended. As a discontinued product, it is only available used, and it is difficult to justify its market price of around 200 USD. For approximately 160 USD, you can buy a new JBL JRX215, which offers equivalent performance, a manufacturer's warranty, and ongoing support. For professional use, equipment reliability and prompt service are critical, making the acquisition of a product with limited support too risky. While the ES-0871 may have historical value, for practical audio applications, choosing a more affordable and reliable current product is the wiser decision.
 
 (2025.7.24)

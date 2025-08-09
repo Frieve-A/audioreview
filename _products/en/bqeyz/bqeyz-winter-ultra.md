@@ -13,7 +13,7 @@ permalink: /products/en/bqeyz-winter-ultra/
 ---
 ## Overview
 
-The BQEYZ Winter Ultra is a hybrid IEM combining a 12mm PAR diaphragm dual-cavity dynamic driver with an 11.6mm PZT bone conduction driver. Released exclusively through Angelears Store in Q1 2023, it is positioned as an improved version of the original Winter model. The device features a CNC-machined aluminum shell and high-purity single-crystal copper silver-plated cable with interchangeable 3.5mm/4.4mm plugs. Priced at approximately 270-280 USD (around 40,000 yen), it targets the mid-tier market segment.
+The BQEYZ Winter Ultra is a hybrid IEM combining a 12mm PAR diaphragm dual-cavity dynamic driver with an 11.6mm PZT bone conduction driver. Released exclusively through Angelears Store in Q1 2023, it is positioned as an improved version of the original Winter model. The device features a CNC-machined aluminum shell and high-purity single-crystal copper silver-plated cable with interchangeable 3.5mm/4.4mm plugs. Priced at approximately 270-280 USD, it targets the mid-tier market segment.
 
 ## Scientific Validity
 

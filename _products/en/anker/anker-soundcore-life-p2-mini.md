@@ -7,13 +7,13 @@ lang: en
 ref: anker-soundcore-life-p2-mini
 date: 2025-07-19
 rating: [2.5, 0.3, 0.4, 0.9, 0.6, 0.3]
-summary: "As a budget wireless earphone priced at 4,490 yen, it provides basic functionality but offers limited scientific validity in terms of audio quality"
+summary: "As a budget wireless earphone priced at 30 USD, it provides basic functionality but offers limited scientific validity in terms of audio quality"
 tags: [Bluetooth, Budget, IPX5, Wireless earphones]
 permalink: /products/en/anker-soundcore-life-p2-mini/
 ---
 ## Overview
 
-The Anker Soundcore Life P2 Mini is a true wireless earphone positioned in the budget category at 4,490 yen. It features 10mm drivers, Bluetooth 5.2 connectivity, IPX5 water resistance, and up to 32 hours of total playback time. As Anker's representative entry-level model, it includes three EQ mode switching functions and emphasizes daily usability through its compact housing design.
+The Anker Soundcore Life P2 Mini is a true wireless earphone positioned in the budget category at 30 USD. It features 10mm drivers, Bluetooth 5.2 connectivity, IPX5 water resistance, and up to 32 hours of total playback time. As Anker's representative entry-level model, it includes three EQ mode switching functions and emphasizes daily usability through its compact housing design.
 
 ## Scientific Validity
 
@@ -31,7 +31,7 @@ The 10mm triple-layer driver is employed, but this represents a standard configu
 
 $$ \Large \text{0.9} $$
 
-Against the price of 4,490 yen, the most affordable competing product with equivalent functionality is the "QCY T13" at 4,189 yen. The T13 also provides 10mm drivers, Bluetooth 5.1, IPX4 water resistance, and equivalent battery performance, showing no inferiority in basic wireless earphone functions. Calculation: 4,189 yen ÷ 4,490 yen = 0.93, rounded to an evaluation of 0.9.
+Against the price of 30 USD, the most affordable competing product with equivalent functionality is the "QCY T13" at 28 USD. The T13 also provides 10mm drivers, Bluetooth 5.1, IPX4 water resistance, and equivalent battery performance, showing no inferiority in basic wireless earphone functions. Calculation: 28 USD ÷ 30 USD = 0.93, rounded to an evaluation of 0.9.
 
 ## Reliability & Support
 
@@ -47,6 +47,6 @@ While the design philosophy prioritizing basic functionality provision as a budg
 
 ## Advice
 
-The Soundcore Life P2 Mini, as a product providing basic wireless earphone functionality at 4,490 yen, merits consideration for entry-level users. However, for those seeking scientific improvement in audio quality, strong consideration is recommended for the "QCY T13" (4,189 yen), which offers superior measurement performance in the same price range, or the "Soundcore Space A40" if the budget can be extended to approximately 6,800 yen. The Space A40, in particular, enables scientific removal of external noise through noise cancellation functionality, providing a more transparent music experience. When choosing the P2 Mini, appropriate usage involves understanding the product's limitations and restricting use to calling purposes or light background music playback rather than music appreciation. For users prioritizing audio quality, consideration of more scientifically superior options based on measurement data is recommended.
+The Soundcore Life P2 Mini, as a product providing basic wireless earphone functionality at 30 USD, merits consideration for entry-level users. However, for those seeking scientific improvement in audio quality, strong consideration is recommended for the "QCY T13" (28 USD), which offers superior measurement performance in the same price range, or the "Soundcore Space A40" if the budget can be extended to approximately 45 USD. The Space A40, in particular, enables scientific removal of external noise through noise cancellation functionality, providing a more transparent music experience. When choosing the P2 Mini, appropriate usage involves understanding the product's limitations and restricting use to calling purposes or light background music playback rather than music appreciation. For users prioritizing audio quality, consideration of more scientifically superior options based on measurement data is recommended.
 
 (2025.7.19)

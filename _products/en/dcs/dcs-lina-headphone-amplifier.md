@@ -13,7 +13,7 @@ permalink: /products/en/dcs-lina-headphone-amplifier/
 ---
 ## Overview
 
-The dCS Lina Headphone Amplifier is the first standalone headphone amplifier from the established British digital audio manufacturer dCS, announced in 2022. Based on technology developed for their acclaimed Bartók Headphone DAC, it features a newly designed Class AB amplifier circuit delivering 1.85W@32Ω output with a low output impedance of under 1.0Ω. Priced at 9,750 USD (approximately 1,463,000 JPY), it represents the company's entry into the ultra-high-end headphone amplifier market.
+The dCS Lina Headphone Amplifier is the first standalone headphone amplifier from the established British digital audio manufacturer dCS, announced in 2022. Based on technology developed for their acclaimed Bartók Headphone DAC, it features a newly designed Class AB amplifier circuit delivering 1.85W@32Ω output with a low output impedance of under 1.0Ω. Priced at 9753 USD, it represents the company's entry into the ultra-high-end headphone amplifier market.
 
 ## Scientific Validity
 

@@ -13,7 +13,7 @@ permalink: /products/en/fiio-q3-mqa/
 ---
 ## Overview
 
-The FiiO Q3 MQA is a portable DAC/headphone amplifier released in 2022 by FiiO, a veteran Chinese audio manufacturer. It incorporates an XMOS XU316 chip and an AKM AK4452 DAC, achieving low distortion and high output through THX AAA technology. It features MQA full decode capability, 2.5mm/4.4mm balanced outputs, and a 3.5mm single-ended output. The 1800mAh battery enables long-duration operation, designed to improve sound quality in portable audio environments. It is available in the Japanese market at approximately 24,200 JPY.
+The FiiO Q3 MQA is a portable DAC/headphone amplifier released in 2022 by FiiO, a veteran Chinese audio manufacturer. It incorporates an XMOS XU316 chip and an AKM AK4452 DAC, achieving low distortion and high output through THX AAA technology. It features MQA full decode capability, 2.5mm/4.4mm balanced outputs, and a 3.5mm single-ended output. The 1800mAh battery enables long-duration operation, designed to improve sound quality in portable audio environments. It is available in the Japanese market at approximately 161 USD.
 
 ## Scientific Validity
 
@@ -31,7 +31,7 @@ The 16-core XMOS XU316 processor is a latest-generation USB controller with proc
 
 $$ \Large \text{1.0} $$
 
-Considering the combination of features the Q3 MQA offers—a built-in battery, high output power exceeding 300mW via its THX AAA amplifier, and MQA full decode capability—its price of 24,200 JPY is highly competitive. It is difficult to find an alternative product in the current market that offers equivalent or superior features and performance at a lower price. As this product is effectively one of the most affordable options in its feature and performance class, its cost-performance is rated at a perfect 1.0.
+Considering the combination of features the Q3 MQA offers—a built-in battery, high output power exceeding 300mW via its THX AAA amplifier, and MQA full decode capability—its price of 161 USD is highly competitive. It is difficult to find an alternative product in the current market that offers equivalent or superior features and performance at a lower price. As this product is effectively one of the most affordable options in its feature and performance class, its cost-performance is rated at a perfect 1.0.
 
 ## Reliability & Support
 

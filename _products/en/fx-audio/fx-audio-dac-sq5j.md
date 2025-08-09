@@ -31,7 +31,7 @@ The combination of PCM1794A and SAVITECH SA9123L represents solid design but lac
 
 $$ \Large \text{0.8} $$
 
-The current price of the DAC-SQ5J is 100 USD (15,380 JPY). As the lowest-cost alternative with equivalent or superior performance, the SMSL SU-1 (80 USD / 11,980 JPY) provides superior DAC performance. Calculation: 80 USD ÷ 100 USD = 0.8. The DAC-SQ5J achieves competitive pricing in the same function/performance category, but alternatives like the SU-1 offer better value for pure DAC functionality.
+The current price of the DAC-SQ5J is 100 USD. As the lowest-cost alternative with equivalent or superior performance, the SMSL SU-1 (80 USD) provides superior DAC performance. Calculation: 80 USD ÷ 100 USD = 0.8. The DAC-SQ5J achieves competitive pricing in the same function/performance category, but alternatives like the SU-1 offer better value for pure DAC functionality.
 
 ## Reliability & Support
 

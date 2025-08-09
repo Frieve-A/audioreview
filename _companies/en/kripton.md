@@ -13,7 +13,7 @@ permalink: /companies/en/kripton/
 ---
 ## Overview
 
-Kripton is a Japanese audio manufacturer established in 2000. The company is known for incorporating traditional Japanese techniques such as lacquer and Nishijin textile into speaker manufacturing, and has won numerous VGP (Visual Grand Prix) awards. Their flagship product, the KX-1.5, is a 2-way sealed bookshelf speaker priced at 280,000 JPY (pair, excluding tax), featuring a 17cm carbon polypropylene cone woofer and a pure silk tweeter. The company promotes "emotionally moving high-quality sound" and focuses on product development that emphasizes the brand value of Japanese-made audio equipment.
+Kripton is a Japanese audio manufacturer established in 2000. The company is known for incorporating traditional Japanese techniques such as lacquer and Nishijin textile into speaker manufacturing, and has won numerous VGP (Visual Grand Prix) awards. Their flagship product, the KX-1.5, is a 2-way sealed bookshelf speaker priced at 1,867 USD (pair, excluding tax), featuring a 17cm carbon polypropylene cone woofer and a pure silk tweeter. The company promotes "emotionally moving high-quality sound" and focuses on product development that emphasizes the brand value of Japanese-made audio equipment.
 
 ## Scientific Validity
 
@@ -31,7 +31,7 @@ Kripton's technology level remains at the industry average. The carbon polypropy
 
 $$ \Large \text{0.2} $$
 
-The cost-performance of the KX-1.5 (280,000 JPY) is at an extremely low level. A competing product with equivalent or superior performance, the **ELAC Debut B6.2**, which features a similar 16.5cm woofer, is available for around 55,000 JPY per pair. The ELAC Debut B6.2 has demonstrated excellent characteristics in third-party measurements and is likely to surpass the KX-1.5 in objective performance, yet it costs only about one-fifth of the price. Based on the calculation `55,000 JPY ÷ 280,000 JPY ≈ 0.2`, the score is 0.2. Kripton's pricing is not commensurate with its technical value or objective performance, making it an irrational choice for users.
+The cost-performance of the KX-1.5 (1,867 USD) is at an extremely low level. A competing product with equivalent or superior performance, the **ELAC Debut B6.2**, which features a similar 16.5cm woofer, is available for around 367 USD per pair. The ELAC Debut B6.2 has demonstrated excellent characteristics in third-party measurements and is likely to surpass the KX-1.5 in objective performance, yet it costs only about one-fifth of the price. Based on the calculation `367 USD ÷ 1,867 USD ≈ 0.2`, the score is 0.2. Kripton's pricing is not commensurate with its technical value or objective performance, making it an irrational choice for users.
 
 ## Reliability & Support
 
@@ -47,6 +47,6 @@ Kripton's design philosophy has partial rationality while also containing unscie
 
 ## Advice
 
-While Kripton products may be attractive to users who value traditional Japanese craftsmanship or have an attachment to domestic brands, they cannot be recommended for those rationally seeking objective sound quality improvement. At the 280,000 JPY price point, we strongly recommend considering products like the KEF LS50 Meta (approx. 200,000 JPY) or Genelec G One (active speakers, approx. 100,000 JPY per pair), which have published scientific measurement data and received high ratings from third-party institutions. Furthermore, far more affordable options with excellent objective performance, such as the ELAC Debut B6.2, exist. Before purchasing, always verify measurement data and make decisions based on scientific evidence rather than brand image or marketing claims.
+While Kripton products may be attractive to users who value traditional Japanese craftsmanship or have an attachment to domestic brands, they cannot be recommended for those rationally seeking objective sound quality improvement. At the 1,867 USD price point, we strongly recommend considering products like the KEF LS50 Meta (approx. 1,333 USD) or Genelec G One (active speakers, approx. 667 USD per pair), which have published scientific measurement data and received high ratings from third-party institutions. Furthermore, far more affordable options with excellent objective performance, such as the ELAC Debut B6.2, exist. Before purchasing, always verify measurement data and make decisions based on scientific evidence rather than brand image or marketing claims.
 
 (2025.7.27)

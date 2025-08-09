@@ -13,7 +13,7 @@ permalink: /products/en/qdc-superior/
 ---
 ## Overview
 
-The qdc Superior is an in-ear monitor featuring a single dynamic driver, manufactured by the Chinese company qdc. It employs a 10mm full-range dynamic driver and claims resonance suppression through its 3D-printed housing and metal nozzle. Positioned as an entry-level product utilizing qdc's technical expertise, it is sold in the Japanese market for 12,870 JPY. Note that the higher-tier model, the Superior EX, which features an aluminum housing, is a separate product developed in collaboration with FitEar.
+The qdc Superior is an in-ear monitor featuring a single dynamic driver, manufactured by the Chinese company qdc. It employs a 10mm full-range dynamic driver and claims resonance suppression through its 3D-printed housing and metal nozzle. Positioned as an entry-level product utilizing qdc's technical expertise, it is sold in the Japanese market for approximately 86 USD. Note that the higher-tier model, the Superior EX, which features an aluminum housing, is a separate product developed in collaboration with FitEar.
 
 ## Scientific Validity
 
@@ -31,7 +31,7 @@ The combination of a 10mm dynamic driver and a 3D-printed housing is a common de
 
 $$ \Large \text{0.2} $$
 
-Compared to the qdc Superior (12,870 JPY), there is the Moondrop Chu II (3,000 JPY), which offers equivalent or superior single dynamic driver performance. The calculation is: 3,000 JPY ÷ 12,870 JPY = 0.23, resulting in a score of 0.2. The Chu II shows equivalent or better measured values in frequency response, sensitivity, and impedance, with no functional disadvantages. Furthermore, other options like the DUNU Titan S (12,000 JPY) and Simgot EA500 (11,850 JPY) provide higher performance at a similar price point. Excluding brand value, the performance-to-price ratio must be evaluated as remarkably low.
+Compared to the qdc Superior (approximately 86 USD), there is the Moondrop Chu II (20 USD), which offers equivalent or superior single dynamic driver performance. The calculation is: 20 USD ÷ 86 USD = 0.23, resulting in a score of 0.2. The Chu II shows equivalent or better measured values in frequency response, sensitivity, and impedance, with no functional disadvantages. Furthermore, other options like the DUNU Titan S (80 USD) and Simgot EA500 (79 USD) provide higher performance at a similar price point. Excluding brand value, the performance-to-price ratio must be evaluated as remarkably low.
 
 ## Reliability & Support
 
@@ -47,6 +47,6 @@ The direction toward natural sound reproduction through a single dynamic driver 
 
 ## Advice
 
-For those considering purchasing the qdc Superior, we recommend evaluating lower-priced alternatives with equivalent or superior performance. Particularly, the Moondrop Chu II (3,000 JPY) offers equivalent or superior measurement performance, build quality, and accessories while being available at approximately one-quarter the price. For those with higher budgets, options like the DUNU Titan S (12,000 JPY) and Simgot EA500 (11,850 JPY) provide higher performance at similar prices to the Superior. While it may be an option for those with loyalty to the qdc brand or those who appreciate the technical capabilities of Chinese manufacturers, superior alternatives exist for users prioritizing pure cost-performance.
+For those considering purchasing the qdc Superior, we recommend evaluating lower-priced alternatives with equivalent or superior performance. Particularly, the Moondrop Chu II (20 USD) offers equivalent or superior measurement performance, build quality, and accessories while being available at approximately one-quarter the price. For those with higher budgets, options like the DUNU Titan S (80 USD) and Simgot EA500 (79 USD) provide higher performance at similar prices to the Superior. While it may be an option for those with loyalty to the qdc brand or those who appreciate the technical capabilities of Chinese manufacturers, superior alternatives exist for users prioritizing pure cost-performance.
 
 (2025.7.23)

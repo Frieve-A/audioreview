@@ -31,7 +31,7 @@ The approach of implementing a 10-driver configuration at a low price point is t
 
 $$ \Large \text{0.4} $$
 
-This product is sold for approximately 4,750 JPY on e-commerce sites like AliExpress. However, alternatives with potentially equal or superior performance exist at a lower price. For example, the "QKZ VK4," which has a single dynamic driver configuration but has garnered high praise in many international reviews, is available for about 2,000 JPY. While the DECET's performance is unknown, its cost-performance compared to the proven QKZ VK4 is `2,000 JPY ÷ 4,750 JPY ≒ 0.42`. The score is rounded to 0.4. It is highly likely that costs are allocated to the multi-driver marketing aspect, and in terms of pure sound quality performance for the price, it may be inferior to competing products with simpler configurations.
+This product is sold for approximately 32 USD on e-commerce sites like AliExpress. However, alternatives with potentially equal or superior performance exist at a lower price. For example, the "QKZ VK4," which has a single dynamic driver configuration but has garnered high praise in many international reviews, is available for about 13 USD. While the DECET's performance is unknown, its cost-performance compared to the proven QKZ VK4 is `13 USD ÷ 32 USD ≒ 0.42`. The score is rounded to 0.4. It is highly likely that costs are allocated to the multi-driver marketing aspect, and in terms of pure sound quality performance for the price, it may be inferior to competing products with simpler configurations.
 
 ## Reliability & Support
 

@@ -13,7 +13,7 @@ permalink: /products/en/sennheiser-hd-490-pro/
 ---
 ## Overview
 
-The Sennheiser HD 490 PRO is a professional open-back headphone released in 2024. It features a 38mm dynamic driver with 130Ω impedance and 105dB/V sensitivity. The key feature is the dual ear pad system that allows switching between two different ear pads for different acoustic characteristics in producing and mixing applications. It won the Best Headphones award at NAB 2024 and is positioned as a direct competitor to the Sony MDR-MV1 and Audeze MM-100. Priced at 399 USD (approximately 60,000 JPY), it represents a new option in the professional audio market.
+The Sennheiser HD 490 PRO is a professional open-back headphone released in 2024. It features a 38mm dynamic driver with 130Ω impedance and 105dB/V sensitivity. The key feature is the dual ear pad system that allows switching between two different ear pads for different acoustic characteristics in producing and mixing applications. It won the Best Headphones award at NAB 2024 and is positioned as a direct competitor to the Sony MDR-MV1 and Audeze MM-100. Priced at 399 USD (approximately 400 USD), it represents a new option in the professional audio market.
 
 ## Scientific Validity
 
@@ -31,7 +31,7 @@ The technology level exceeds industry average but innovation is limited. The 38m
 
 $$ \Large \text{1.0} $$
 
-Cost-performance is excellent. After thorough market research, no current headphones with equivalent or better measurement performance are available at a lower price than the HD 490 PRO (60,000 JPY). Key competitors include the Sony MDR-MV1 (60,000 JPY) and Audeze MM-100 (60,000 JPY), which offer similar performance at the same price point. The slightly cheaper Audio-Technica ATH-R70xa (53,000 JPY) is another alternative, but its high 470Ω impedance requires a dedicated amplifier, making the HD 490 PRO's 130Ω design more accessible and versatile for a wider range of users. Given that the HD 490 PRO provides top-tier performance at a price that is either matched or only undercut by a less versatile competitor, it represents the best overall value in its class, earning a perfect cost-performance score.
+Cost-performance is excellent. After thorough market research, no current headphones with equivalent or better measurement performance are available at a lower price than the HD 490 PRO (400 USD). Key competitors include the Sony MDR-MV1 (400 USD) and Audeze MM-100 (400 USD), which offer similar performance at the same price point. The slightly cheaper Audio-Technica ATH-R70xa (353 USD) is another alternative, but its high 470Ω impedance requires a dedicated amplifier, making the HD 490 PRO's 130Ω design more accessible and versatile for a wider range of users. Given that the HD 490 PRO provides top-tier performance at a price that is either matched or only undercut by a less versatile competitor, it represents the best overall value in its class, earning a perfect cost-performance score.
 
 ## Reliability & Support
 
@@ -47,6 +47,6 @@ The design philosophy is generally rational but has room for improvement. The ac
 
 ## Advice
 
-The HD 490 PRO represents excellent value in the professional headphone market with its combination of measurement performance and user accessibility. With current market conditions showing no equivalent-performing headphones at lower prices, it stands as the most accessible option among high-performance professional headphones. The Sony MDR-MV1 (60,000 JPY) offers similar measurement performance with brighter characteristics, while the Audeze MM-100 (60,000 JPY) provides planar magnetic advantages, both at the same price point. The discontinued Audio-Technica ATH-R70x has been replaced by the ATH-R70xa (53,000 JPY), but its 470Ω impedance requires dedicated amplification, making it less practical for many users compared to the HD 490 PRO's more manageable 130Ω impedance. The HD 490 PRO's dual ear pad system and moderate impedance make it particularly suitable for users seeking professional performance without the complexity of high-impedance alternatives.
+The HD 490 PRO represents excellent value in the professional headphone market with its combination of measurement performance and user accessibility. With current market conditions showing no equivalent-performing headphones at lower prices, it stands as the most accessible option among high-performance professional headphones. The Sony MDR-MV1 (400 USD) offers similar measurement performance with brighter characteristics, while the Audeze MM-100 (400 USD) provides planar magnetic advantages, both at the same price point. The discontinued Audio-Technica ATH-R70x has been replaced by the ATH-R70xa (353 USD), but its 470Ω impedance requires dedicated amplification, making it less practical for many users compared to the HD 490 PRO's more manageable 130Ω impedance. The HD 490 PRO's dual ear pad system and moderate impedance make it particularly suitable for users seeking professional performance without the complexity of high-impedance alternatives.
 
 (2025.7.19)

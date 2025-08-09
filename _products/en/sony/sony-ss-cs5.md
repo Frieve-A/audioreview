@@ -13,7 +13,7 @@ permalink: /products/en/sony-ss-cs5/
 ---
 ## Overview
 
-The Sony SS-CS5 is a 3-way bookshelf speaker belonging to the company's Core series. It features a 5.25-inch MRC (Mica Reinforced Cellular) woofer, a 1-inch soft dome tweeter, and a 0.75-inch super tweeter, claiming a wideband frequency response from 53Hz to 50kHz. With specifications including 100W maximum power handling, 6Ω impedance, and 87dB sensitivity, its current market price is approximately 199 USD (about 29,000 JPY), often available for around 124-150 USD during sales. The product appeals to audio beginners with the reliability of the Sony brand and its affordable price.
+The Sony SS-CS5 is a 3-way bookshelf speaker belonging to the company's Core series. It features a 5.25-inch MRC (Mica Reinforced Cellular) woofer, a 1-inch soft dome tweeter, and a 0.75-inch super tweeter, claiming a wideband frequency response from 53Hz to 50kHz. With specifications including 100W maximum power handling, 6Ω impedance, and 87dB sensitivity, its current market price is approximately 199 USD (about 193 USD), often available for around 124-150 USD during sales. The product appeals to audio beginners with the reliability of the Sony brand and its affordable price.
 
 ## Scientific Validity
 

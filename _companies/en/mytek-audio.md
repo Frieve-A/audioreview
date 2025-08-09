@@ -31,7 +31,7 @@ Adopts the latest ESS Sabre 9038 DAC chipset and incorporates femtosecond clocks
 
 $$ \Large \text{0.3} $$
 
-The Brooklyn DAC+ has a retail price of approximately 329,000 JPY (equivalent to 2,195 USD), but when compared to the Topping D90 III Sabre (approximately 135,000 JPY / 899 USD) with equivalent measured performance, the calculation yields 135,000 ÷ 329,000 = 0.41. For the Manhattan II DAC (899,000 JPY / 5,995 USD), comparison with the RME ADI-2 Pro FS R (approximately 210,000 JPY / 1,400 USD) using the same ESS 9038 chipset yields 210,000 ÷ 899,000 = 0.23. The average cost-performance score is approximately 0.3, representing a price setting of 2-4 times that of products with equivalent functionality and measured performance. Note that Brooklyn DAC+ has limited new product availability as of 2025, being in a transition period to the successor Brooklyn Bridge II.
+The Brooklyn DAC+ has a retail price of approximately 2,193 USD, but when compared to the Topping D90 III Sabre (approximately 900 USD) with equivalent measured performance, the calculation yields 900 ÷ 2,193 = 0.41. For the Manhattan II DAC (5,993 USD), comparison with the RME ADI-2 Pro FS R (approximately 1,400 USD) using the same ESS 9038 chipset yields 1,400 ÷ 5,993 = 0.23. The average cost-performance score is approximately 0.3, representing a price setting of 2-4 times that of products with equivalent functionality and measured performance. Note that Brooklyn DAC+ has limited new product availability as of 2025, being in a transition period to the successor Brooklyn Bridge II.
 
 ## Reliability & Support
 

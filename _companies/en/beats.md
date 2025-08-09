@@ -31,7 +31,7 @@ As Apple's subsidiary, some products (Fit Pro) incorporate H1 chip to achieve ad
 
 $$ \Large \text{0.5} $$
 
-Studio Buds+ is priced at 18,882 yen and Fit Pro at approximately 20,000 yen. Compared to equivalent performance Soundcore Liberty 4 NC (10,999 yen, 20Hz-20kHz support, active noise cancellation, multipoint connection, IPX4 water resistance), Studio Buds+ CP = 10,999 yen ÷ 18,882 yen = 0.58, Fit Pro CP = 10,999 yen ÷ 20,000 yen = 0.55. While Apple product integration features exist, it is inferior from a pure acoustic performance-to-price perspective.
+Studio Buds+ is priced at 126 USD and Fit Pro at approximately 133 USD. Compared to equivalent performance Soundcore Liberty 4 NC (73 USD, 20Hz-20kHz support, active noise cancellation, multipoint connection, IPX4 water resistance), Studio Buds+ CP = 73 USD ÷ 126 USD = 0.58, Fit Pro CP = 73 USD ÷ 133 USD = 0.55. While Apple product integration features exist, it is inferior from a pure acoustic performance-to-price perspective.
 
 ## Reliability & Support
 

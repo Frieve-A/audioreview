@@ -13,7 +13,7 @@ permalink: /products/en/nicehck-nx7-mk4/
 ---
 ## Overview
 
-The NiceHCK NX7 MK4 is a hybrid in-ear monitor (IEM) featuring a total of seven drivers (4BA+2DD+1PZT). It is priced at 109 USD (approx. 16,500 JPY). The product includes three types of interchangeable tuning filters for sound adjustment. Its specified frequency range is 20-28kHz with an impedance of 39Ω. While its main feature is the high number of drivers, its acoustic superiority lacks objective data, making it a difficult product to evaluate.
+The NiceHCK NX7 MK4 is a hybrid in-ear monitor (IEM) featuring a total of seven drivers (4BA+2DD+1PZT). It is priced at 110 USD. The product includes three types of interchangeable tuning filters for sound adjustment. Its specified frequency range is 20-28kHz with an impedance of 39Ω. While its main feature is the high number of drivers, its acoustic superiority lacks objective data, making it a difficult product to evaluate.
 
 ## Scientific Validity
 
@@ -31,9 +31,9 @@ The 7-driver configuration (4BA+2DD+1PZT), especially the adoption of a PZT (pie
 
 $$ \Large \text{0.2} $$
 
-Compared to this product's price of 109 USD (approx. 16,500 JPY), there are more affordable products with equivalent or superior acoustic performance. For example, the 7Hz Salnotes Zero 2 (retailing at approx. 25 USD / 4,000 JPY) has been verified by numerous third-party measurements to have an excellent frequency response and low distortion. While there are functional differences (e.g., tuning filters), there is no objective evidence to justify the NX7 MK4's price, which is more than four times higher, based on the essential value of fidelity.
+Compared to this product's price of 110 USD, there are more affordable products with equivalent or superior acoustic performance. For example, the 7Hz Salnotes Zero 2 (retailing at approx. 27 USD) has been verified by numerous third-party measurements to have an excellent frequency response and low distortion. While there are functional differences (e.g., tuning filters), there is no objective evidence to justify the NX7 MK4's price, which is more than four times higher, based on the essential value of fidelity.
 
-Formula: `25 USD ÷ 109 USD ≈ 0.23`
+Formula: `27 USD ÷ 110 USD ≈ 0.25`
 Based on this result, the score is 0.2.
 
 ## Reliability & Support

@@ -31,7 +31,7 @@ The SSL18 represents a design that consolidates the company's latest technologie
 
 $$ \Large \text{0.5} $$
 
-The SSL18 is priced at approximately 1,199 USD (approximately 190,000 JPY). A competitive product with equivalent or superior functionality and performance is the Focusrite Scarlett 18i20 (approximately 93,000 JPY). The 18i20 offers 18 inputs, 20 outputs, 8 microphone preamps, 122dB dynamic range, 69dB gain range, and 24-bit/192kHz support with no significant differences in user-facing functionality. Calculation: 93,000 JPY ÷ 190,000 JPY = 0.489, evaluated as 0.5. While the SSL18's preamp sound quality and build quality are certainly excellent, the differences in measured performance far exceed audible ranges, providing insufficient objective justification for the 2x price differential.
+The SSL18 is priced at approximately 1,199 USD (approximately 1,267 USD). A competitive product with equivalent or superior functionality and performance is the Focusrite Scarlett 18i20 (approximately 620 USD). The 18i20 offers 18 inputs, 20 outputs, 8 microphone preamps, 122dB dynamic range, 69dB gain range, and 24-bit/192kHz support with no significant differences in user-facing functionality. Calculation: 620 USD ÷ 1,267 USD = 0.489, evaluated as 0.5. While the SSL18's preamp sound quality and build quality are certainly excellent, the differences in measured performance far exceed audible ranges, providing insufficient objective justification for the 2x price differential.
 
 ## Reliability & Support
 

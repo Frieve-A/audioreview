@@ -31,7 +31,7 @@ Technical level falls slightly below industry average. Rather than proprietary t
 
 $$ \Large \text{1.0} $$
 
-Cost performance achieves maximum levels. Comparing AIYIMA A07 Pro (retail price 13,007 JPY) with competing products of equivalent function and performance demonstrates overwhelming price advantages. Comparisons with equivalent TPA3255-based Fosi Audio V3 show approximately half-price realization while maintaining functional equivalence, with even greater advantages against premium brands. Achieving THD 0.002%, 300W×2 output, Bluetooth 5.2 support, and tone controls in the early 10,000 yen range, while equivalent functionality from other manufacturers typically costs 2-3 times more. Cost reduction through Chinese mass production and pricing strategies eliminating brand premiums substantially exceed competitors in pure function-to-performance value ratios.
+Cost performance achieves maximum levels. Comparing AIYIMA A07 Pro (retail price 87 USD) with competing products of equivalent function and performance demonstrates overwhelming price advantages. Comparisons with equivalent TPA3255-based Fosi Audio V3 show approximately half-price realization while maintaining functional equivalence, with even greater advantages against premium brands. Achieving THD 0.002%, 300W×2 output, Bluetooth 5.2 support, and tone controls in the early 67 USD range, while equivalent functionality from other manufacturers typically costs 2-3 times more. Cost reduction through Chinese mass production and pricing strategies eliminating brand premiums substantially exceed competitors in pure function-to-performance value ratios.
 
 ## Reliability & Support
 

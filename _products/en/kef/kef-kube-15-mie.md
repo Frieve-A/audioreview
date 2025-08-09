@@ -32,7 +32,7 @@ The technology employed in the KEF Kube 15 MIE remains at the industry's average
 
 $$ \Large \text{0.8} $$
 
-The KEF Kube 15 MIE is priced at 1,499 USD (approx. 234,000 JPY), but competing products with superior performance are available for less. For example, the HSU Research VTF-15H MK2 boasts a 1,000W RMS (4,000W peak) amplifier—more than three times the power of the KEF—and offers the versatility of operating as a sealed unit by plugging its ports, all at a market price of around 1,199 USD (approx. 186,000 JPY). The cost-performance calculation is 1,199 USD ÷ 1,499 USD = 0.799..., resulting in a score of 0.8. Other competitors, like the Monolith 15" THX Ultra (1,000W RMS), also offer significantly more power for less money. While the Kube 15 MIE carries the KEF brand value, it is significantly disadvantaged in a pure performance-to-price comparison, as one can obtain a much more powerful product with the same budget.
+The KEF Kube 15 MIE is priced at 1,499 USD, but competing products with superior performance are available for less. For example, the HSU Research VTF-15H MK2 boasts a 1,000W RMS (4,000W peak) amplifier—more than three times the power of the KEF—and offers the versatility of operating as a sealed unit by plugging its ports, all at a market price of around 1,199 USD. The cost-performance calculation is 1,199 USD ÷ 1,499 USD = 0.799..., resulting in a score of 0.8. Other competitors, like the Monolith 15" THX Ultra (1,000W RMS), also offer significantly more power for less money. While the Kube 15 MIE carries the KEF brand value, it is significantly disadvantaged in a pure performance-to-price comparison, as one can obtain a much more powerful product with the same budget.
 
 ## Reliability & Support
 

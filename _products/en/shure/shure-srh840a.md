@@ -32,7 +32,7 @@ Technically, this represents industry-standard level design. The 40mm neodymium 
 
 $$ \Large \text{0.7} $$
 
-Against the official price of 149 USD (approximately 22,000 yen), the Audio-Technica ATH-M40x with equivalent functionality is available for 99 USD (approximately 15,000 yen). The ATH-M40x matches basic specifications including 40mm drivers, a closed-back design, detachable cables, and professional monitoring applications, making it a viable alternative from the user's perspective. Cost-performance calculation: 99 USD ÷ 149 USD = 0.66, evaluated as 0.7. Improved price competitiveness is required.
+Against the official price of 149 USD (approximately 147 USD), the Audio-Technica ATH-M40x with equivalent functionality is available for 99 USD (approximately 100 USD). The ATH-M40x matches basic specifications including 40mm drivers, a closed-back design, detachable cables, and professional monitoring applications, making it a viable alternative from the user's perspective. Cost-performance calculation: 99 USD ÷ 149 USD = 0.66, evaluated as 0.7. Improved price competitiveness is required.
 
 ## Reliability & Support
 
@@ -48,6 +48,6 @@ The design approach is conservative yet rational. The focus on professional moni
 
 ## Advice
 
-For those considering purchasing the Shure SRH840A, careful comparison with competitors in the same price range is recommended. Particularly, the Audio-Technica ATH-M40x (approximately 15,000 yen) offers equivalent functionality at a significantly lower price, making it a priority consideration for budget-conscious buyers. Conversely, if you value Shure brand reliability and long-term support systems with sufficient budget, it can be a viable option. However, it's important to understand that the lack of measurement data makes scientific sound quality evaluation difficult. For professional applications, actual testing in usage environments is strongly recommended, particularly verification of distortion characteristics at high volumes. For those prioritizing cost-performance above all, considering the more affordable alternative product would be prudent.
+For those considering purchasing the Shure SRH840A, careful comparison with competitors in the same price range is recommended. Particularly, the Audio-Technica ATH-M40x (approximately 100 USD) offers equivalent functionality at a significantly lower price, making it a priority consideration for budget-conscious buyers. Conversely, if you value Shure brand reliability and long-term support systems with sufficient budget, it can be a viable option. However, it's important to understand that the lack of measurement data makes scientific sound quality evaluation difficult. For professional applications, actual testing in usage environments is strongly recommended, particularly verification of distortion characteristics at high volumes. For those prioritizing cost-performance above all, considering the more affordable alternative product would be prudent.
 
 (2025.7.30)

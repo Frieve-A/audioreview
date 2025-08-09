@@ -7,13 +7,13 @@ lang: en
 ref: anker-soundcore-p40i
 date: 2025-07-09
 rating: [3.2, 0.5, 0.6, 0.9, 0.7, 0.5]
-summary: "Completely wireless earbuds featuring multipoint, noise cancellation, and wireless charging at 7,990 yen price point. Excellent battery life and practical performance, but bass-heavy tuning makes them unsuitable for applications requiring flat acoustic characteristics"
+summary: "Completely wireless earbuds featuring multipoint, noise cancellation, and wireless charging at 53 USD price point. Excellent battery life and practical performance, but bass-heavy tuning makes them unsuitable for applications requiring flat acoustic characteristics"
 tags: [Anker, Noise cancellation, P40i, Soundcore, Wireless earphones]
 permalink: /products/en/anker-soundcore-p40i/
 ---
 ## Overview
 
-Anker Soundcore P40i are completely wireless earbuds launched on April 9, 2024, featuring advanced functions like Ultra Noise Cancelling 2.0, multipoint connectivity, and wireless charging at the 7,990 yen price point. Equipped with 11mm dynamic drivers to deliver deep bass and powerful sound. Features IPX5 waterproofing, Bluetooth 5.3 support, and a charging case that doubles as a smartphone stand, emphasizing practical design. Available in four colors: Off-White, Black, Navy, and Purple, representing a quintessential Soundcore brand product pursuing cost-performance.
+Anker Soundcore P40i are completely wireless earbuds launched on April 9, 2024, featuring advanced functions like Ultra Noise Cancelling 2.0, multipoint connectivity, and wireless charging at the 53 USD price point. Equipped with 11mm dynamic drivers to deliver deep bass and powerful sound. Features IPX5 waterproofing, Bluetooth 5.3 support, and a charging case that doubles as a smartphone stand, emphasizing practical design. Available in four colors: Off-White, Black, Navy, and Purple, representing a quintessential Soundcore brand product pursuing cost-performance.
 
 ## Scientific Validity
 
@@ -31,7 +31,7 @@ Soundcore P40i technology emphasizes combining existing technologies and optimiz
 
 $$ \Large \text{0.9} $$
 
-Soundcore P40i achieves excellent cost-performance against competitive products with equivalent functions at 7,990 yen price. Compared to similar price range EarFun Air Pro 3 (approximately 8,000 yen market price) and Xiaomi Redmi Buds 5 Pro (7,000 yen during AliExpress sales), demonstrates CP = 7,000 yen ÷ 7,990 yen = 0.88 price competitiveness. Provides approximately equivalent functionality to higher-end Soundcore Liberty 4 (14,990 yen) at half the price, offering highest-level cost-performance as a product simultaneously featuring multipoint, noise cancellation, and wireless charging. Battery life of up to 60 hours ranks among the longest in the same price range.
+Soundcore P40i achieves excellent cost-performance against competitive products with equivalent functions at 53 USD price. Compared to similar price range EarFun Air Pro 3 (approximately 53 USD market price) and Xiaomi Redmi Buds 5 Pro (47 USD during AliExpress sales), demonstrates CP = 47 USD ÷ 53 USD = 0.88 price competitiveness. Provides approximately equivalent functionality to higher-end Soundcore Liberty 4 (100 USD) at half the price, offering highest-level cost-performance as a product simultaneously featuring multipoint, noise cancellation, and wireless charging. Battery life of up to 60 hours ranks among the longest in the same price range.
 
 ## Reliability & Support
 
@@ -47,6 +47,6 @@ Soundcore P40i design philosophy follows "achieving high functionality at low pr
 
 ## Advice
 
-Soundcore P40i represents optimal choice for users seeking noise cancellation functionality and long battery life under 10,000 yen. Strongly recommended for business users requiring frequent multipoint connectivity switching between multiple devices or applications prioritizing noise cancellation performance for commuting/school use. The 60-hour battery life particularly offers significant merit for users wanting to reduce charging frequency as longest-class in the same price range. However, bass-heavy tuning makes them unsuitable for applications requiring flat acoustic characteristics. For Hi-Fi audio applications, consider wired earbuds in the same price range or higher-end models. Definitively recommended for demographics prioritizing cost-performance and practicality.
+Soundcore P40i represents optimal choice for users seeking noise cancellation functionality and long battery life under 67 USD. Strongly recommended for business users requiring frequent multipoint connectivity switching between multiple devices or applications prioritizing noise cancellation performance for commuting/school use. The 60-hour battery life particularly offers significant merit for users wanting to reduce charging frequency as longest-class in the same price range. However, bass-heavy tuning makes them unsuitable for applications requiring flat acoustic characteristics. For Hi-Fi audio applications, consider wired earbuds in the same price range or higher-end models. Definitively recommended for demographics prioritizing cost-performance and practicality.
 
 (2025.7.9)

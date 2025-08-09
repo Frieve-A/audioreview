@@ -7,14 +7,14 @@ lang: en
 ref: anker-soundcore-space-a40
 date: 2025-07-31
 rating: [3.5, 0.7, 0.6, 0.9, 0.7, 0.6]
-summary: "True wireless earbuds currently selling for 8,990 JPY. Features LDAC support, up to 50-hour playback, and high-performance ANC, earning high praise for its excellent balance of features, price, and reliability."
+summary: "True wireless earbuds currently selling for 60 USD. Features LDAC support, up to 50-hour playback, and high-performance ANC, earning high praise for its excellent balance of features, price, and reliability."
 tags: [Anker, Soundcore, Space A40, Wireless Earbuds, Noise Cancelling, LDAC, ANC]
 permalink: /products/en/anker-soundcore-space-a40/
 ---
 
 ## Overview
 
-The Anker Soundcore Space A40 is a true wireless earbud released in September 2022. Currently priced at 8,990 JPY, it offers LDAC support, adaptive ANC with up to 98% noise reduction, and a playback time of up to 50 hours. It features 10mm dual-layer dynamic drivers, Bluetooth 5.2 with multipoint connectivity, and IPX4 water resistance. With wireless charging capability, it weighs just 5g per earbud and 58g including the case in a lightweight design. Frequently selected by professional review sites as one of the best buys in the under-100 USD earbud category, it is evaluated as a well-balanced product for its features and price.
+The Anker Soundcore Space A40 is a true wireless earbud released in September 2022. Currently priced at 60 USD, it offers LDAC support, adaptive ANC with up to 98% noise reduction, and a playback time of up to 50 hours. It features 10mm dual-layer dynamic drivers, Bluetooth 5.2 with multipoint connectivity, and IPX4 water resistance. With wireless charging capability, it weighs just 5g per earbud and 58g including the case in a lightweight design. Frequently selected by professional review sites as one of the best buys in the under-100 USD earbud category, it is evaluated as a well-balanced product for its features and price.
 
 ## Scientific Validity
 
@@ -32,7 +32,7 @@ The Space A40's technical standard maintains an industry-standard level with its
 
 $$ \Large \text{0.9} $$
 
-The Space A40 is currently sold for 8,990 JPY. A more affordable option with comparable key features, such as LDAC support and ANC, exists in the "EarFun Air Pro 3" (approximately 8,000 JPY). Based on this, the cost-performance is calculated as `8,000 JPY ÷ 8,990 JPY ≒ 0.89`. While it is not the absolute cheapest option, it still maintains a very high cost-performance compared to other competitors like the Nothing Ear (a) (approximately 14,800 JPY).
+The Space A40 is currently sold for 60 USD. A more affordable option with comparable key features, such as LDAC support and ANC, exists in the "EarFun Air Pro 3" (approximately 53 USD). Based on this, the cost-performance is calculated as `53 USD ÷ 60 USD ≒ 0.88`. While it is not the absolute cheapest option, it still maintains a very high cost-performance compared to other competitors like the Nothing Ear (a) (approximately 99 USD).
 
 ## Reliability & Support
 
@@ -48,6 +48,6 @@ The Space A40's design philosophy follows an approach of "realizing high functio
 
 ## Advice
 
-The Soundcore Space A40 is an excellent choice for users seeking feature-rich wireless earbuds at the 8,990 JPY price point. LDAC support enables high-quality playback on Android devices, and the powerful ANC is effective for noise cancellation in commuting and school environments. The 50-hour extended playback is a significant benefit for users who want to reduce charging frequency. Its lightweight design causes less fatigue during extended wear, and multipoint connectivity allows for smooth switching between multiple devices. While the EarFun Air Pro 3 (approx. 8,000 JPY) exists as a cheaper alternative, the Space A40 offers value justifying the price difference through Anker's robust support system and mature app. For applications focused purely on audio quality, wired connections or higher-priced products are recommended. However, this product is highly recommended for those who prioritize a balance of features, price, and reliability.
+The Soundcore Space A40 is an excellent choice for users seeking feature-rich wireless earbuds at the 60 USD price point. LDAC support enables high-quality playback on Android devices, and the powerful ANC is effective for noise cancellation in commuting and school environments. The 50-hour extended playback is a significant benefit for users who want to reduce charging frequency. Its lightweight design causes less fatigue during extended wear, and multipoint connectivity allows for smooth switching between multiple devices. While the EarFun Air Pro 3 (approx. 53 USD) exists as a cheaper alternative, the Space A40 offers value justifying the price difference through Anker's robust support system and mature app. For applications focused purely on audio quality, wired connections or higher-priced products are recommended. However, this product is highly recommended for those who prioritize a balance of features, price, and reliability.
 
 (2025.7.31)

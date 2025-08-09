@@ -31,7 +31,7 @@ The TPA3250 chip is a capable Class-D amplifier chip from Texas Instruments with
 
 $$ \Large \text{0.8} $$
 
-The T9's current market price is approximately 85 USD (about 12,750 JPY). For a product with equivalent or superior integrated features (Bluetooth, USB-DAC, digital inputs), the Sabaj A4 is available for about 70 USD (about 10,500 JPY). While the Sabaj A4 lacks the T9's tube-style decoration and VU meters, its core amplification and connectivity features are comparable at a lower price. The cost-performance is calculated as `70 USD ÷ 85 USD ≒ 0.82`, resulting in a score of 0.8. In terms of pure function-to-price ratio, the Sabaj A4 has the advantage, but the T9's value proposition depends on whether the user values its aesthetic features.
+The T9's current market price is approximately 85 USD. For a product with equivalent or superior integrated features (Bluetooth, USB-DAC, digital inputs), the Sabaj A4 is available for about 70 USD. While the Sabaj A4 lacks the T9's tube-style decoration and VU meters, its core amplification and connectivity features are comparable at a lower price. The cost-performance is calculated as `70 USD ÷ 85 USD ≒ 0.82`, resulting in a score of 0.8. In terms of pure function-to-price ratio, the Sabaj A4 has the advantage, but the T9's value proposition depends on whether the user values its aesthetic features.
 
 ## Reliability & Support
 

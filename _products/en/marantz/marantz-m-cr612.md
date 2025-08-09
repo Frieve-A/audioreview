@@ -31,7 +31,7 @@ In terms of technical implementation, it demonstrates a level above the industry
 
 $$ \Large \text{0.9} $$
 
-The cost-performance is excellent. Compared to this unit's (receiver only) current market price of 70,000 JPY, there are more affordable options that integrate CD playback, network streaming, and amplifier functions. For example, the Panasonic SC-PMX900 is sold for 60,000 JPY as a complete system including speakers. In terms of pure function-to-price ratio, a more affordable alternative that even includes speakers exists, preventing the CP from reaching the highest score. Based on the calculation: 60,000 JPY ÷ 70,000 JPY ≈ 0.86, the cost-performance score is 0.9. This positions the M-CR612 very competitively within the all-in-one network CD receiver category.
+The cost-performance is excellent. Compared to this unit's (receiver only) current market price of 467 USD, there are more affordable options that integrate CD playback, network streaming, and amplifier functions. For example, the Panasonic SC-PMX900 is sold for 400 USD as a complete system including speakers. In terms of pure function-to-price ratio, a more affordable alternative that even includes speakers exists, preventing the CP from reaching the highest score. Based on the calculation: 400 USD ÷ 467 USD ≈ 0.86, the cost-performance score is 0.9. This positions the M-CR612 very competitively within the all-in-one network CD receiver category.
 
 ## Reliability & Support
 

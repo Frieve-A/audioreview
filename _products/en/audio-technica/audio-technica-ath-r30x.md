@@ -7,14 +7,14 @@ lang: en
 ref: audio-technica-ath-r30x
 date: 2025-07-12
 rating: [2.4, 0.4, 0.5, 0.4, 0.6, 0.5]
-summary: "The ATH-R30X offers an entry point to open-back design at 15,000 yen, but suffers from significant audio quality issues including extreme +15dB peak at 10kHz and 6dB mid-bass bloat"
+summary: "The ATH-R30X offers an entry point to open-back design at 100 USD, but suffers from significant audio quality issues including extreme +15dB peak at 10kHz and 6dB mid-bass bloat"
 tags: [Headphones, Open-back, Studio, Reference, Entry-level]
 permalink: /products/en/audio-technica-ath-r30x/
 ---
 
 ## Overview
 
-The ATH-R30X is the most affordable model in Audio-Technica's R-series launched in 2025, featuring open-back design at 99 USD (approximately 15,000 yen) for reference headphones. Equipped with 40mm drivers, it offers a frequency range of 15Hz-25kHz with 36Ω low impedance design that allows operation without dedicated amplifiers. The lightweight 210g construction combined with velour ear pads considers long-term usage comfort. Audio-Technica positions this product as "the gateway to the open-back world," developed as an entry model for budget-conscious users.
+The ATH-R30X is the most affordable model in Audio-Technica's R-series launched in 2025, featuring open-back design at 100 USD for reference headphones. Equipped with 40mm drivers, it offers a frequency range of 15Hz-25kHz with 36Ω low impedance design that allows operation without dedicated amplifiers. The lightweight 210g construction combined with velour ear pads considers long-term usage comfort. Audio-Technica positions this product as "the gateway to the open-back world," developed as an entry model for budget-conscious users.
 
 ## Scientific Validity
 
@@ -32,7 +32,7 @@ The design employs 40mm dynamic drivers with high-efficiency magnets and pure al
 
 $$ \Large \text{0.4} $$
 
-Against the ATH-R30X's 15,000 yen price, competing products with equivalent or superior functionality include the Philips SHP9500 (approximately 15,000 yen) and the Samson SR850 (approximately 6,300 yen). The SHP9500 features open-back design with superior frequency response balance and is evaluated in many reviews as offering excellent value. However, the Samson SR850 provides the most cost-effective alternative with its flat frequency response and open-back design. Using the comparison methodology where the cheaper equivalent product's price is divided by the review target's price: 6,300 yen ÷ 15,000 yen = 0.42, indicating significant cost-performance limitations. With multiple products offering equivalent functionality with superior sound quality at substantially lower prices, the ATH-R30X's cost-performance is severely constrained.
+Against the ATH-R30X's 100 USD price, competing products with equivalent or superior functionality include the Philips SHP9500 (approximately 100 USD) and the Samson SR850 (approximately 42 USD). The SHP9500 features open-back design with superior frequency response balance and is evaluated in many reviews as offering excellent value. However, the Samson SR850 provides the most cost-effective alternative with its flat frequency response and open-back design. Using the comparison methodology where the cheaper equivalent product's price is divided by the review target's price: 42 USD ÷ 100 USD = 0.42, indicating significant cost-performance limitations. With multiple products offering equivalent functionality with superior sound quality at substantially lower prices, the ATH-R30X's cost-performance is severely constrained.
 
 ## Reliability & Support
 
@@ -48,6 +48,6 @@ The design philosophy of achieving open-back design at 99 USD, broadening access
 
 ## Advice
 
-While the ATH-R30X provides significance in offering open-back experience at 15,000 yen, it cannot be recommended due to serious sound quality issues and poor cost-performance. The +15dB peak at 10kHz causes listening fatigue and unnatural tonal changes in many recordings, making it inappropriate for reference use. Superior alternatives exist at substantially lower prices: Philips SHP9500 (15,000 yen) offers similar pricing with superior sound quality, and especially the Samson SR850 (6,300 yen) achieves excellent frequency response balance and comfort while costing significantly less. Even for first-time open-back experience, choosing these alternatives while saving budget for investment in other equipment is strongly recommended. For sound quality-focused users, expanding the budget to 20,000-30,000 yen to consider ATH-R70X or higher-tier products is advisable. The current ATH-R30X represents a product where significant gaps exist between expectations for the Audio-Technica brand and actual performance, particularly given the availability of better alternatives at lower prices.
+While the ATH-R30X provides significance in offering open-back experience at 100 USD, it cannot be recommended due to serious sound quality issues and poor cost-performance. The +15dB peak at 10kHz causes listening fatigue and unnatural tonal changes in many recordings, making it inappropriate for reference use. Superior alternatives exist at substantially lower prices: Philips SHP9500 (100 USD) offers similar pricing with superior sound quality, and especially the Samson SR850 (42 USD) achieves excellent frequency response balance and comfort while costing significantly less. Even for first-time open-back experience, choosing these alternatives while saving budget for investment in other equipment is strongly recommended. For sound quality-focused users, expanding the budget to 200-300 USD to consider ATH-R70X or higher-tier products is advisable. The current ATH-R30X represents a product where significant gaps exist between expectations for the Audio-Technica brand and actual performance, particularly given the availability of better alternatives at lower prices.
 
 (2025.7.12)

@@ -7,7 +7,7 @@ lang: en
 ref: kz-edx-lite
 date: 2025-08-08
 rating: [2.2, 0.4, 0.4, 0.7, 0.4, 0.3]
-summary: "The KZ EDX Lite is an ultra-budget entry-level IEM featuring a 10mm dynamic driver. While the 1,500 yen price point is attractive, publicly available measurements indicate limited scientific audio improvement effects."
+summary: "The KZ EDX Lite is an ultra-budget entry-level IEM featuring a 10mm dynamic driver. While the 10 USD price point is attractive, publicly available measurements indicate limited scientific audio improvement effects."
 tags: [Budget, Dynamic, Entry-level, In-ear monitors, KZ]
 permalink: /products/en/kz-edx-lite/
 ---
@@ -43,10 +43,10 @@ KZ maintains a market presence as an emerging audio brand, with warranty coverag
 
 $$ \Large \text{0.3} $$
 
-The rationality of design philosophy is at a low level. Cost reduction to achieve the 1,500 yen price point takes highest priority, resulting in design that emphasizes price competitiveness over scientific audio improvement. Notable design decisions distant from scientific approaches include elimination of expandability through fixed cable specification, acoustic compromises due to plastic housing, and non-disclosure of measurement data. Measurement issues such as the 3-5kHz peak are also considered results of insufficient adjustment due to cost constraints. While the market strategy of price disruption is understandable, no rational technical investment toward achieving transparent-level audio quality is observed. Rather, non-rational design philosophy that prioritizes manufacturing costs over acoustic performance is dominant.
+The rationality of design philosophy is at a low level. Cost reduction to achieve the 10 USD price point takes highest priority, resulting in design that emphasizes price competitiveness over scientific audio improvement. Notable design decisions distant from scientific approaches include elimination of expandability through fixed cable specification, acoustic compromises due to plastic housing, and non-disclosure of measurement data. Measurement issues such as the 3-5kHz peak are also considered results of insufficient adjustment due to cost constraints. While the market strategy of price disruption is understandable, no rational technical investment toward achieving transparent-level audio quality is observed. Rather, non-rational design philosophy that prioritizes manufacturing costs over acoustic performance is dominant.
 
 ## Advice
 
-While the KZ EDX Lite can be positioned as an entry-level device for experiencing IEMs at the ultra-low price of 1,500 yen, careful consideration is necessary before purchase. Since the Tanchjim Zero (approximately 1,000 yen) exists in the same price range with clearly superior measured performance, the latter is strongly recommended for those seeking pure audio quality. The fixed cable specification should also be considered, as cable failure requires complete product replacement. This becomes a viable option only for those with interest in the KZ brand or the specific purpose of trying IEMs at the lowest possible cost, rather than audio quality. For long-term use, it would be wise to secure additional budget and choose more reliable products. For beginners, starting with competing products that offer superior measured performance in the same price range is recommended.
+While the KZ EDX Lite can be positioned as an entry-level device for experiencing IEMs at the ultra-low price of 10 USD, careful consideration is necessary before purchase. Since the Tanchjim Zero (approximately 7 USD) exists in the same price range with clearly superior measured performance, the latter is strongly recommended for those seeking pure audio quality. The fixed cable specification should also be considered, as cable failure requires complete product replacement. This becomes a viable option only for those with interest in the KZ brand or the specific purpose of trying IEMs at the lowest possible cost, rather than audio quality. For long-term use, it would be wise to secure additional budget and choose more reliable products. For beginners, starting with competing products that offer superior measured performance in the same price range is recommended.
 
 (2025.8.8)

@@ -7,14 +7,14 @@ lang: en
 ref: shokz-opendots-one
 date: 2025-07-14
 rating: [2.1, 0.4, 0.4, 0.2, 0.6, 0.5]
-summary: "Shokz's first ear-cuff type earphone. Features DirectPitch™ technology for sound leakage suppression and Bassphere™ technology for bass enhancement, but the price setting of 29,900 JPY is extremely high compared to competing products with equivalent functions"
+summary: "Shokz's first ear-cuff type earphone. Features DirectPitch™ technology for sound leakage suppression and Bassphere™ technology for bass enhancement, but the price setting of 199 USD is extremely high compared to competing products with equivalent functions"
 tags: [Ear-cuff, Open-ear, Shokz, Air Conduction, Dolby Audio]
 permalink: /products/en/shokz-opendots-one/
 ---
 
 ## Overview
 
-The Shokz OpenDots One is the first ear-cuff type open-ear earphone developed by Shokz, known for their bone conduction headphones. Instead of traditional bone conduction technology, it adopts air conduction technology, implementing DirectPitch™ sound leakage suppression and Bassphere™ bass enhancement. The product features a lightweight design of 6.5g per earpiece, 40-hour long playback time, and Dolby Audio support. The retail price in Japan is 29,900 JPY.
+The Shokz OpenDots One is the first ear-cuff type open-ear earphone developed by Shokz, known for their bone conduction headphones. Instead of traditional bone conduction technology, it adopts air conduction technology, implementing DirectPitch™ sound leakage suppression and Bassphere™ bass enhancement. The product features a lightweight design of 6.5g per earpiece, 40-hour long playback time, and Dolby Audio support. The retail price in Japan is 199 USD.
 
 ## Scientific Validity
 
@@ -32,7 +32,7 @@ DirectPitch™ and Bassphere™ can be evaluated as proprietary technologies, bu
 
 $$ \Large \text{0.2} $$
 
-As a comparison target, SoundPEATS CC (PearlClip Pro) (7,280 JPY) exists with equivalent or superior functions. PearlClip Pro also provides equivalent basic functions: 12mm driver, 24-hour playback (shorter than OpenDots One's 40 hours but practical), IPX5 water resistance (superior to OpenDots One's IP54), and Bluetooth 5.4 support. Calculation: 7,280 JPY ÷ 29,900 JPY = 0.24, meaning OpenDots One provides equivalent functions at approximately 4 times the price. Even considering the added value of the Shokz brand, it significantly underperforms in pure function-to-price ratio.
+As a comparison target, SoundPEATS CC (PearlClip Pro) (49 USD) exists with equivalent or superior functions. PearlClip Pro also provides equivalent basic functions: 12mm driver, 24-hour playback (shorter than OpenDots One's 40 hours but practical), IPX5 water resistance (superior to OpenDots One's IP54), and Bluetooth 5.4 support. Calculation: 49 USD ÷ 199 USD = 0.24, meaning OpenDots One provides equivalent functions at approximately 4 times the price. Even considering the added value of the Shokz brand, it significantly underperforms in pure function-to-price ratio.
 
 ## Reliability & Support
 
@@ -48,6 +48,6 @@ The basic concept of enjoying music while hearing surrounding sounds through ope
 
 ## Advice
 
-While OpenDots One is technically interesting, pricing is problematic. Given that SoundPEATS CC (PearlClip Pro) with equivalent functions is available for 7,280 JPY, the 29,900 JPY price is difficult to justify. Unless you're an enthusiastic Shokz brand fan with unlimited budget, purchase cannot be recommended. For those seeking open-ear experience, strongly recommend first trying PearlClip Pro, then considering whether the Shokz brand truly provides over 22,000 JPY additional value. If prioritizing sound quality, choosing high-quality closed-type earphones in the same price range would be more rational.
+While OpenDots One is technically interesting, pricing is problematic. Given that SoundPEATS CC (PearlClip Pro) with equivalent functions is available for 49 USD, the 199 USD price is difficult to justify. Unless you're an enthusiastic Shokz brand fan with unlimited budget, purchase cannot be recommended. For those seeking open-ear experience, strongly recommend first trying PearlClip Pro, then considering whether the Shokz brand truly provides over 150 USD additional value. If prioritizing sound quality, choosing high-quality closed-type earphones in the same price range would be more rational.
 
 (2025.7.14)

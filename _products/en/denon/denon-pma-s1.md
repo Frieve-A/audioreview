@@ -13,7 +13,7 @@ permalink: /products/en/denon-pma-s1/
 ---
 ## Overview
 
-The Denon PMA-S1 is a flagship integrated amplifier released by Denon in 1993. Originally priced at 400,000 JPY (approx. 4,000 USD at the time), it features circuit design lineage from the POA-S1 power amplifier and UHC-MOS output devices. It employs a sand-cast integrated chassis for rigidity and vibration control and adopts a BTL circuit to achieve high output at lower supply voltages. A built-in phono stage is also provided, reflecting its status as a top-tier model of the era.
+The Denon PMA-S1 is a flagship integrated amplifier released by Denon in 1993. Originally priced at 2667 USD, it features circuit design lineage from the POA-S1 power amplifier and UHC-MOS output devices. It employs a sand-cast integrated chassis for rigidity and vibration control and adopts a BTL circuit to achieve high output at lower supply voltages. A built-in phono stage is also provided, reflecting its status as a top-tier model of the era.
 
 ## Scientific Validity
 

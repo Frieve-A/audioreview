@@ -14,7 +14,7 @@ permalink: /products/en/trn-vx-pro-plus/
 
 ## Overview
 
-The TRN VX Pro Plus is a 1DD+8BA hybrid earphone from TRN, a Chinese audio manufacturer established in 2017. It features a 10mm beryllium diaphragm dynamic driver and eight custom balanced armature drivers (four for the midrange, four for the treble), sold for 45.99 USD (about 6,900 yen). Positioned as the premium model in the company's VX series, it adopts a mild V-shaped sound tuning.
+The TRN VX Pro Plus is a 1DD+8BA hybrid earphone from TRN, a Chinese audio manufacturer established in 2017. It features a 10mm beryllium diaphragm dynamic driver and eight custom balanced armature drivers (four for the midrange, four for the treble), sold for 45.99 USD (about 46 USD). Positioned as the premium model in the company's VX series, it adopts a mild V-shaped sound tuning.
 
 ## Scientific Validity
 

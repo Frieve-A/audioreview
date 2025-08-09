@@ -64,6 +64,9 @@ class AutoLinker {
 
     // Process content with repetition until no more links can be added (Step 4 of specification)
     this.processContentWithRepetition(contentArea);
+
+    // Process reference numbers and URLs in the References section (minimal, non-intrusive addition)
+    this.processReferences(contentArea);
     
     // Mark as processed
     contentArea.dataset.autoLinked = 'true';
@@ -344,6 +347,170 @@ class AutoLinker {
     link.setAttribute('data-tooltip', tooltipText);
     
     return link;
+  }
+
+  // Reference processing: link [n]/［n］ to the References section and auto-link URLs inside that section
+  processReferences(contentArea) {
+    const refHeading = this.ensureReferenceHeadingId(contentArea);
+    if (!refHeading) return;
+    const refId = refHeading.id;
+
+    // Auto-link raw URLs inside the References section first
+    this.linkUrlsInReferenceSection(refHeading);
+
+    // Then link bracketed reference numbers to the References section
+    this.linkReferenceNumbers(contentArea, refId);
+  }
+
+  ensureReferenceHeadingId(contentArea) {
+    const candidates = ['References', '参考情報'];
+    const headings = contentArea.querySelectorAll('h2, h3, h4, h5, h6');
+    for (const h of headings) {
+      const title = (h.textContent || '').trim();
+      if (candidates.includes(title)) {
+        if (!h.id) h.id = 'references';
+        return h;
+      }
+    }
+    return null;
+  }
+
+  linkReferenceNumbers(rootElement, refId) {
+    // Match ASCII [] or full-width ［］ brackets with digits inside
+    const testRegex = /[\[\uFF3B]([0-9]+)[\]\uFF3D]/; // non-global for TreeWalker test
+    const regex = /[\[\uFF3B]([0-9]+)[\]\uFF3D]/g; // global for actual replacement
+
+    // Repeat until no more replacements are found to ensure all candidates are linked
+    let iterationCount = 0;
+    const maxIterations = 100;
+    let madeChanges = true;
+    while (madeChanges && iterationCount < maxIterations) {
+      iterationCount += 1;
+      madeChanges = false;
+
+      // Collect first to avoid walker state issues when mutating DOM
+      const nodesToProcess = [];
+      {
+        const walker = document.createTreeWalker(
+          rootElement,
+          NodeFilter.SHOW_TEXT,
+          {
+            acceptNode: (node) => {
+              if (this.isInExcludedElement(node) || this.isInsideLink(node)) return NodeFilter.FILTER_REJECT;
+              const text = node.textContent;
+              return testRegex.test(text) ? NodeFilter.FILTER_ACCEPT : NodeFilter.FILTER_REJECT;
+            }
+          }
+        );
+        let n;
+        while (n = walker.nextNode()) nodesToProcess.push(n);
+      }
+
+      nodesToProcess.forEach((node) => {
+        const text = node.textContent;
+        if (!testRegex.test(text)) return;
+        regex.lastIndex = 0; // reset for global matching
+
+        const parent = node.parentNode;
+        const fragment = document.createDocumentFragment();
+        let lastIndex = 0;
+        let match;
+        let localChanged = false;
+        while ((match = regex.exec(text)) !== null) {
+          const start = match.index;
+          const end = regex.lastIndex;
+          if (start > lastIndex) {
+            fragment.appendChild(document.createTextNode(text.slice(lastIndex, start)));
+          }
+          const anchor = document.createElement('a');
+          anchor.href = `#${refId}`;
+          anchor.textContent = match[0];
+          anchor.className = 'auto-link auto-link-ref';
+          fragment.appendChild(anchor);
+          lastIndex = end;
+          localChanged = true;
+        }
+        if (!localChanged) return;
+        if (lastIndex < text.length) {
+          fragment.appendChild(document.createTextNode(text.slice(lastIndex)));
+        }
+        parent.replaceChild(fragment, node);
+        madeChanges = true;
+      });
+
+      // Next loop will create a fresh TreeWalker again if changes were made
+    }
+  }
+
+  linkUrlsInReferenceSection(refHeading) {
+    // Collect siblings after the References heading until the next h2 (inclusive stop)
+    const sectionNodes = [];
+    let sibling = refHeading.nextSibling;
+    while (sibling) {
+      if (sibling.nodeType === 1) { // Element
+        const tag = sibling.tagName.toLowerCase();
+        if (tag === 'h2') break; // end of references block
+        sectionNodes.push(sibling);
+      } else if (sibling.nodeType === 3) { // Text node directly under container
+        sectionNodes.push(sibling);
+      }
+      sibling = sibling.nextSibling;
+    }
+
+    const urlRegex = /https?:\/\/\S+/g;
+
+    const processTextNode = (textNode) => {
+      const text = textNode.textContent;
+      if (!text || !urlRegex.test(text)) return;
+
+      urlRegex.lastIndex = 0; // reset
+      const parent = textNode.parentNode;
+      const fragment = document.createDocumentFragment();
+      let lastIndex = 0;
+      let match;
+      while ((match = urlRegex.exec(text)) !== null) {
+        const start = match.index;
+        const end = urlRegex.lastIndex;
+        if (start > lastIndex) fragment.appendChild(document.createTextNode(text.slice(lastIndex, start)));
+        const url = match[0];
+        const a = document.createElement('a');
+        a.href = url;
+        a.textContent = url;
+        a.target = '_blank';
+        a.rel = 'noopener noreferrer';
+        a.className = 'auto-link auto-link-external';
+        fragment.appendChild(a);
+        lastIndex = end;
+      }
+      if (lastIndex < text.length) fragment.appendChild(document.createTextNode(text.slice(lastIndex)));
+      parent.replaceChild(fragment, textNode);
+    };
+
+    const processElement = (el) => {
+      const walker = document.createTreeWalker(
+        el,
+        NodeFilter.SHOW_TEXT,
+        {
+          acceptNode: (node) => {
+            if (this.isInsideLink(node)) return NodeFilter.FILTER_REJECT;
+            return NodeFilter.FILTER_ACCEPT;
+          }
+        }
+      );
+      let n;
+      const toProcess = [];
+      while (n = walker.nextNode()) toProcess.push(n);
+      toProcess.forEach(processTextNode);
+    };
+
+    sectionNodes.forEach(node => {
+      if (node.nodeType === 3) {
+        // text node
+        processTextNode(node);
+      } else if (node.nodeType === 1) {
+        processElement(node);
+      }
+    });
   }
 
   escapeHtml(text) {

@@ -31,7 +31,7 @@ TOP WING is engaged in developing highly original technology. The coreless strai
 
 $$ \Large \text{0.3} $$
 
-The pricing of TOP WING products is remarkably high compared to products with equivalent basic performance. For example, the Ultra Slim Link LAN cable (1m) costs 8,800 JPY, whereas a standard LAN cable with equivalent transmission performance is available from around 500 JPY. The cost-performance score for this cable alone calculates to less than 0.1 (500 JPY ÷ 8,800 JPY ≈ 0.06). Other flagship products like the Seiryu cartridge are similarly priced exceptionally high for their performance. As a comprehensive judgment for this company review, which evaluates multiple products, the score is set to 0.3.
+The pricing of TOP WING products is remarkably high compared to products with equivalent basic performance. For example, the Ultra Slim Link LAN cable (1m) costs 59 USD, whereas a standard LAN cable with equivalent transmission performance is available from around 3 USD. The cost-performance score for this cable alone calculates to less than 0.1 (3 USD ÷ 59 USD ≈ 0.06). Other flagship products like the Seiryu cartridge are similarly priced exceptionally high for their performance. As a comprehensive judgment for this company review, which evaluates multiple products, the score is set to 0.3.
 
 ## Reliability & Support
 

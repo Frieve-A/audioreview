@@ -31,7 +31,7 @@ The combination of Qualcomm QCS2290 processor (4×ARM Cortex-A53) and S-Master H
 
 $$ \Large \text{0.8} $$
 
-Against the current Japanese market price of 35,980 JPY, the equivalent-featured HiBy M300 is available for 199 USD (approximately 29,000 JPY). The HiBy M300 similarly features Android OS, LDAC support, DSD 256 compatibility, microSD slot, and achieves superior measurement specifications (THD+N 0.0001%, SNR 120dB).<grok-card data-id="2bad08" data-type="citation_card"></grok-card> Calculation: 29,000 JPY ÷ 35,980 JPY = 0.81, resulting in a cost-performance score of 0.8 after rounding.
+Against the current Japanese market price of 240 USD, the equivalent-featured HiBy M300 is available for 199 USD (approximately 193 USD). The HiBy M300 similarly features Android OS, LDAC support, DSD 256 compatibility, microSD slot, and achieves superior measurement specifications (THD+N 0.0001%, SNR 120dB).<grok-card data-id="2bad08" data-type="citation_card"></grok-card> Calculation: 193 USD ÷ 240 USD = 0.81, resulting in a cost-performance score of 0.8 after rounding.
 
 ## Reliability & Support
 

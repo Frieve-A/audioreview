@@ -32,7 +32,7 @@ The adoption of ESS Sabre32 Ultra DAC was advanced for its time, but is now wide
 
 $$ \Large \text{0.9} $$
 
-Against the current price of approximately 35,970 JPY, competing products in the same price range include SSL 2 (110.5-112dB, THD+N <0.0012%), PreSonus Studio 24C (108-115dB, THD+N 0.002%), and Steinberg UR22C (102-106dB, THD+N 0.0015%). However, the MOTU M2's 120dB (ESS Sabre32 Ultra) and THD+N -110dB measurement performance significantly exceeds all of these, representing industry-leading standards. No 2in2out product with equivalent measurement performance exists at this price point. The performance far exceeding transparency levels achieved through ESS Sabre32 Ultra DAC adoption demonstrates clear technical superiority and provides value commensurate with its price.
+Against the current price of approximately 240 USD, competing products in the same price range include SSL 2 (110.5-112dB, THD+N <0.0012%), PreSonus Studio 24C (108-115dB, THD+N 0.002%), and Steinberg UR22C (102-106dB, THD+N 0.0015%). However, the MOTU M2's 120dB (ESS Sabre32 Ultra) and THD+N -110dB measurement performance significantly exceeds all of these, representing industry-leading standards. No 2in2out product with equivalent measurement performance exists at this price point. The performance far exceeding transparency levels achieved through ESS Sabre32 Ultra DAC adoption demonstrates clear technical superiority and provides value commensurate with its price.
 
 ## Reliability & Support
 

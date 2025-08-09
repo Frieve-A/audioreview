@@ -32,7 +32,7 @@ Modern approaches are adopted, including angled 38mm dynamic drivers and sound f
 
 $$ \Large \text{0.8} $$
 
-The current market price of the HD560S is 17,028 JPY (as of July 2025). A competing product with equivalent or superior performance, the HiFiMan HE400se, is available for 13,509 JPY. The HE400se features planar magnetic drivers, making it a technologically excellent alternative. Based on our policy, we calculate the cost-performance by comparing it to the least expensive product with equivalent performance, the HE400se. The calculation is "13,509 JPY ÷ 17,028 JPY = 0.793...". Rounding to the first decimal place, the score is 0.8. While not the cheapest, it represents a competitive price point for its performance.
+The current market price of the HD560S is 114 USD (as of July 2025). A competing product with equivalent or superior performance, the HiFiMan HE400se, is available for 90 USD. The HE400se features planar magnetic drivers, making it a technologically excellent alternative. Based on our policy, we calculate the cost-performance by comparing it to the least expensive product with equivalent performance, the HE400se. The calculation is "90 USD ÷ 114 USD = 0.793...". Rounding to the first decimal place, the score is 0.8. While not the cheapest, it represents a competitive price point for its performance.
 
 ## Reliability & Support
 
@@ -48,6 +48,6 @@ The design philosophy of the HD560S is scientifically-based and rational. Its ne
 
 ## Advice
 
-The HD560S is an excellent choice for users seeking a neutral and accurate sound. Its measured performance is impressive for its price, and it will likely provide a satisfying listening experience in most setups. However, at its price of 17,028 JPY, the presence of strong competitors cannot be ignored. Specifically, the HiFiMan HE400se (13,509 JPY) offers high performance with a different technological approach (planar magnetic) at a lower cost. If you value the reliability of the Sennheiser brand and its sound signature, the HD560S is a strong contender. However, if you are purely chasing cost-performance, you should also consider the more affordable alternatives.
+The HD560S is an excellent choice for users seeking a neutral and accurate sound. Its measured performance is impressive for its price, and it will likely provide a satisfying listening experience in most setups. However, at its price of 114 USD, the presence of strong competitors cannot be ignored. Specifically, the HiFiMan HE400se (90 USD) offers high performance with a different technological approach (planar magnetic) at a lower cost. If you value the reliability of the Sennheiser brand and its sound signature, the HD560S is a strong contender. However, if you are purely chasing cost-performance, you should also consider the more affordable alternatives.
 
 (2025.7.24)

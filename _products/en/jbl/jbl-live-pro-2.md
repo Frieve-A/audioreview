@@ -32,7 +32,7 @@ The 11mm dynamic drivers are large for this price range, achieving excellent aco
 
 $$ \Large \text{0.8} $$
 
-The JBL Live Pro 2 has a market price of approximately USD 150 USD (about 22,000 yen). A competing product with equivalent or superior functionality is the Sony WF-1000XM4 (approximately USD 280 USD, about 41,000 yen). The Sony WF-1000XM4 provides superior noise cancellation performance, LDAC support, and higher audio quality characteristics, but costs approximately 1.9 times more than the JBL Live Pro 2. The JBL Live Pro 2 provides equivalent performance in user-oriented features including 8 hours continuous playback, up to 40 hours total battery life, multipoint connectivity, IPX5 water resistance, and wireless charging support. Cost performance = 22,000 yen ÷ 41,000 yen = 0.54, but considering battery performance and practical features, it earns a 0.8 evaluation.
+The JBL Live Pro 2 has a market price of approximately 150 USD. A competing product with equivalent or superior functionality is the Sony WF-1000XM4 (approximately 280 USD). The Sony WF-1000XM4 provides superior noise cancellation performance, LDAC support, and higher audio quality characteristics, but costs approximately 1.9 times more than the JBL Live Pro 2. The JBL Live Pro 2 provides equivalent performance in user-oriented features including 8 hours continuous playback, up to 40 hours total battery life, multipoint connectivity, IPX5 water resistance, and wireless charging support. Cost performance = 150 USD ÷ 280 USD = 0.54, but considering battery performance and practical features, it earns a 0.8 evaluation.
 
 ## Reliability & Support
 

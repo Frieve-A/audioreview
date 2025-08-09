@@ -31,8 +31,8 @@ The individual technologies employed, such as the glass fiber diaphragm, egg-sha
 
 $$ \Large \text{0.4} $$
 
-The current retail price of the TD508MK4 is 134,640 JPY per pair. Numerous products with superior overall performance exist in this price range. For example, the Kali Audio LP-6 V2 (around 60,000 JPY per pair) is a DSP-equipped active speaker with a built-in amplifier. It boasts a flatter frequency response and lower distortion in measurements, and its time-domain response is also excellent due to DSP correction. Considering that no separate amplifier is needed, it offers superior performance for less than half the total cost.
-Calculation: 60,000 JPY ÷ 134,640 JPY ≈ 0.45.
+The current retail price of the TD508MK4 is 898 USD per pair. Numerous products with superior overall performance exist in this price range. For example, the Kali Audio LP-6 V2 (around 400 USD per pair) is a DSP-equipped active speaker with a built-in amplifier. It boasts a flatter frequency response and lower distortion in measurements, and its time-domain response is also excellent due to DSP correction. Considering that no separate amplifier is needed, it offers superior performance for less than half the total cost.
+Calculation: 400 USD ÷ 898 USD ≈ 0.45.
 Therefore, the cost-performance is rated as very low.
 
 ## Reliability & Support
@@ -49,6 +49,6 @@ The philosophy of prioritizing temporal accuracy and pursuing a point source wit
 
 ## Advice
 
-The TD508MK4 is a niche product for users who find strong value in its unique design philosophy and specific acoustic characteristics. However, we strongly recommend auditioning modern high-performance active speakers before paying over 130,000 JPY for a pair. For example, the Kali Audio LP-6 V2 (around 60,000 JPY per pair) or the Genelec 8020D (around 130,000 JPY per pair) offer performance that surpasses this unit in every objective metric at an equivalent or lower total cost. Except for limited use cases like low-volume desktop listening, you should consider more rational and higher-performing options.
+The TD508MK4 is a niche product for users who find strong value in its unique design philosophy and specific acoustic characteristics. However, we strongly recommend auditioning modern high-performance active speakers before paying over 867 USD for a pair. For example, the Kali Audio LP-6 V2 (around 400 USD per pair) or the Genelec 8020D (around 867 USD per pair) offer performance that surpasses this unit in every objective metric at an equivalent or lower total cost. Except for limited use cases like low-volume desktop listening, you should consider more rational and higher-performing options.
 
 (2025.8.2)

@@ -13,7 +13,7 @@ permalink: /products/en/marantz-model-50/
 ---
 ## Overview
 
-The Marantz Model 50 is a 70W+70W integrated amplifier released by the company in 2023. Its most defining feature is the complete elimination of digital inputs, focusing exclusively on analog circuitry. This design clearly targets users who seek to maximize the playback quality of analog sources like turntables and CD players. It incorporates Marantz's traditional technologies, including HDAM modules and a current-feedback power amplifier, featuring five analog line inputs and an MM-compatible phono input. It is priced at approximately 197,505 JPY in the Japanese market.
+The Marantz Model 50 is a 70W+70W integrated amplifier released by the company in 2023. Its most defining feature is the complete elimination of digital inputs, focusing exclusively on analog circuitry. This design clearly targets users who seek to maximize the playback quality of analog sources like turntables and CD players. It incorporates Marantz's traditional technologies, including HDAM modules and a current-feedback power amplifier, featuring five analog line inputs and an MM-compatible phono input. It is priced at approximately 1317 USD in the Japanese market.
 
 ## Scientific Validity
 
@@ -31,7 +31,7 @@ Marantz's proprietary HDAM modules and traditional Class A/B analog circuitry ar
 
 $$ \Large \text{0.2} $$
 
-There are serious cost-performance issues. For example, the YAMAHA A-S301 (34,020 JPY) offers comparable analog functionality plus digital inputs for about 1/6th the price. Furthermore, there are Class D amplifiers like the Topping PA5 II (approx. 34,000 JPY) that are even cheaper and provide superior measured performance. Calculation: 34,020 JPY ÷ 197,505 JPY = 0.172, which rounds to 0.2. Users can obtain a more powerful and versatile product for a fraction of the cost. Beyond brand value and design, there are no performance-based factors to justify this price gap.
+There are serious cost-performance issues. For example, the YAMAHA A-S301 (227 USD) offers comparable analog functionality plus digital inputs for about 1/6th the price. Furthermore, there are Class D amplifiers like the Topping PA5 II (approx. 227 USD) that are even cheaper and provide superior measured performance. Calculation: 227 USD ÷ 1317 USD = 0.172, which rounds to 0.2. Users can obtain a more powerful and versatile product for a fraction of the cost. Beyond brand value and design, there are no performance-based factors to justify this price gap.
 
 ## Reliability & Support
 
@@ -47,6 +47,6 @@ The design philosophy of sticking to "pure analog" may align with the principles
 
 ## Advice
 
-Before considering the purchase of a Model 50, I highly recommend acknowledging the existence of modern, low-cost, high-performance Class D amplifiers. Products like the Topping PA5 II or the Fosi Audio V3 offer measured performance that is comparable to, or in some aspects exceeds, the Model 50, all for around 30,000-40,000 JPY. Combining one of these amplifiers with a separate DAC will still result in a total cost far below that of the Model 50, while providing greater flexibility. Unless you place a very high value on the Marantz design and brand name, a more rational decision based on performance and cost would strongly point towards other alternatives.
+Before considering the purchase of a Model 50, I highly recommend acknowledging the existence of modern, low-cost, high-performance Class D amplifiers. Products like the Topping PA5 II or the Fosi Audio V3 offer measured performance that is comparable to, or in some aspects exceeds, the Model 50, all for around 200-267 USD. Combining one of these amplifiers with a separate DAC will still result in a total cost far below that of the Model 50, while providing greater flexibility. Unless you place a very high value on the Marantz design and brand name, a more rational decision based on performance and cost would strongly point towards other alternatives.
 
 (2025.7.28)

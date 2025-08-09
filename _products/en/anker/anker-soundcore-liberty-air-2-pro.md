@@ -32,7 +32,7 @@ PureNote driver technology provides 45% improvement in bass response and 30% wid
 
 $$ \Large \text{0.8} $$
 
-The Anker Soundcore Liberty Air 2 Pro has a market price of approximately USD 130 USD (about 19,000 yen). A competing product with equivalent or superior functionality is the EarFun Air Pro 4 (USD 99 USD, approximately 14,500 yen). The EarFun Air Pro 4 provides ANC functionality with 75% noise reduction, IPX5 water resistance, wireless charging support, and 11 hours of continuous playback, achieving equivalent or superior user-oriented performance. Cost performance = 14,500 yen ÷ 19,000 yen = 0.76, resulting in a 0.8 evaluation. The Nothing Ear 2 (USD 149 USD, approximately 22,000 yen) also offers 40dB ANC performance with IP54 water resistance and wireless charging in a similar price range, indicating numerous competitive products exist.
+The Anker Soundcore Liberty Air 2 Pro has a market price of approximately USD 130 USD (about 127 USD). A competing product with equivalent or superior functionality is the EarFun Air Pro 4 (USD 99 USD, approximately 97 USD). The EarFun Air Pro 4 provides ANC functionality with 75% noise reduction, IPX5 water resistance, wireless charging support, and 11 hours of continuous playback, achieving equivalent or superior user-oriented performance. Cost performance = 97 USD ÷ 127 USD = 0.76, resulting in a 0.8 evaluation. The Nothing Ear 2 (USD 149 USD, approximately 147 USD) also offers 40dB ANC performance with IP54 water resistance and wireless charging in a similar price range, indicating numerous competitive products exist.
 
 ## Reliability & Support
 

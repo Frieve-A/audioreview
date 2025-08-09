@@ -7,13 +7,13 @@ lang: en
 ref: anker-soundcore-liberty-4-nc
 date: 2025-07-09
 rating: [3.4, 0.6, 0.6, 0.9, 0.7, 0.6]
-summary: "True wireless earbuds achieving Ultra Noise Cancelling 3.0, LDAC support, and up to 50-hour playback at 12,990 yen. Boasts strongest-class noise cancellation performance in the early 10,000 yen range, but retains bass-heavy tendencies in sound quality."
+summary: "True wireless earbuds achieving Ultra Noise Cancelling 3.0, LDAC support, and up to 50-hour playback at 87 USD. Boasts strongest-class noise cancellation performance in the early 67 USD range, but retains bass-heavy tendencies in sound quality."
 tags: [Anker, LDAC, Liberty 4 NC, Noise cancellation, Soundcore, Wireless earphones]
 permalink: /products/en/anker-soundcore-liberty-4-nc/
 ---
 ## Overview
 
-The Anker Soundcore Liberty 4 NC is a true wireless earphone priced at 12,990 yen that first incorporates Ultra Noise Cancelling 3.0, achieving Anker's strongest noise cancellation performance. Adopting 11mm large-diameter drivers and high-sensitivity sensors, it instantly measures ear shape to eliminate noise previously overlooked. LDAC support enables high-resolution audio quality with up to 50 hours of long-duration playback. Supporting IPX4 water resistance, multipoint connection, and wireless charging, available in five colors: black, white, navy, pink, and light blue, achieving both practicality and high functionality.
+The Anker Soundcore Liberty 4 NC is a true wireless earphone priced at 87 USD that first incorporates Ultra Noise Cancelling 3.0, achieving Anker's strongest noise cancellation performance. Adopting 11mm large-diameter drivers and high-sensitivity sensors, it instantly measures ear shape to eliminate noise previously overlooked. LDAC support enables high-resolution audio quality with up to 50 hours of long-duration playback. Supporting IPX4 water resistance, multipoint connection, and wireless charging, available in five colors: black, white, navy, pink, and light blue, achieving both practicality and high functionality.
 
 ## Scientific Validity
 
@@ -31,7 +31,7 @@ Soundcore Liberty 4 NC's technical standards maintain industry-standard levels t
 
 $$ \Large \text{0.9} $$
 
-Soundcore Liberty 4 NC achieves excellent cost performance at 12,990 yen (currently 9,990 yen) compared to equivalent-function competitive products. Compared to same-price-range EarFun Air Pro 4 (9,990 yen) and Xiaomi Redmi Buds 6 Pro (9,980 yen), it has competitiveness with CP = 9,980 yen ÷ 9,990 yen = 0.999. As a product simultaneously incorporating three major functions: LDAC support, maximum 50-hour playback, and Ultra Noise Cancelling 3.0, it demonstrates price advantage with CP = 9,990 yen ÷ 15,000 yen = 0.67 against Sony WF-C710N (approximately 15,000 yen). Providing AirPods Pro first-generation level noise cancellation performance in the early 10,000 yen range, it achieves highest-level cost performance within the product category.
+Soundcore Liberty 4 NC achieves excellent cost performance at 87 USD (currently 67 USD) compared to equivalent-function competitive products. Compared to same-price-range EarFun Air Pro 4 (67 USD) and Xiaomi Redmi Buds 6 Pro (67 USD), it has competitiveness with CP = 67 USD ÷ 67 USD = 0.999. As a product simultaneously incorporating three major functions: LDAC support, maximum 50-hour playback, and Ultra Noise Cancelling 3.0, it demonstrates price advantage with CP = 67 USD ÷ 100 USD = 0.67 against Sony WF-C710N (approximately 100 USD). Providing AirPods Pro first-generation level noise cancellation performance in the early 67 USD range, it achieves highest-level cost performance within the product category.
 
 ## Reliability & Support
 
@@ -47,6 +47,6 @@ Soundcore Liberty 4 NC's design philosophy follows "achieving high functionality
 
 ## Advice
 
-Soundcore Liberty 4 NC is the optimal choice for users prioritizing noise cancellation performance in the early 10,000 yen range. Anker's strongest noise cancellation performance provides significant benefits for commuting and focused work environments, achieving AirPods Pro first-generation level sound isolation at approximately half the price. Also recommended for Android users wanting to enjoy high-resolution audio quality through LDAC support. 50-hour long-duration playback is attractive for users wanting to reduce charging frequency. However, sound quality tends toward bass-heavy characteristics, making it unsuitable for delicate music playback such as classical and jazz. In comparison with same-price-range EarFun Air Pro 4, Liberty 4 NC suits noise cancellation performance priority, while Air Pro 4 suits sound quality balance priority. Strongly recommended for users seeking noise cancellation performance with cost performance priority.
+Soundcore Liberty 4 NC is the optimal choice for users prioritizing noise cancellation performance in the early 67 USD range. Anker's strongest noise cancellation performance provides significant benefits for commuting and focused work environments, achieving AirPods Pro first-generation level sound isolation at approximately half the price. Also recommended for Android users wanting to enjoy high-resolution audio quality through LDAC support. 50-hour long-duration playback is attractive for users wanting to reduce charging frequency. However, sound quality tends toward bass-heavy characteristics, making it unsuitable for delicate music playback such as classical and jazz. In comparison with same-price-range EarFun Air Pro 4, Liberty 4 NC suits noise cancellation performance priority, while Air Pro 4 suits sound quality balance priority. Strongly recommended for users seeking noise cancellation performance with cost performance priority.
 
 (2025.7.9)

@@ -31,7 +31,7 @@ The discrete-designed NFCA circuit represents an advanced technical approach. Th
 
 $$ \Large \text{0.4} $$
 
-The LA90 Discrete's Japanese market price is 100,000 JPY. As a competitive product with equivalent or superior measurement performance, the Fosi Audio V3 Mono (36,600 JPY) exists. The V3 Mono offers THD 0.006%, SNR 123dB, and 120W@8Ω performance, providing nearly equivalent auditory transparency results compared to the LA90 Discrete. Calculation: 36,600 JPY ÷ 100,000 JPY = 0.37. Rounded to 0.4. Despite a 2.7x price difference, the practical audio quality improvement difference is extremely limited, making the cost-performance unavoidably low.
+The LA90 Discrete's Japanese market price is 667 USD. As a competitive product with equivalent or superior measurement performance, the Fosi Audio V3 Mono (244 USD) exists. The V3 Mono offers THD 0.006%, SNR 123dB, and 120W@8Ω performance, providing nearly equivalent auditory transparency results compared to the LA90 Discrete. Calculation: 244 USD ÷ 667 USD = 0.37. Rounded to 0.4. Despite a 2.7x price difference, the practical audio quality improvement difference is extremely limited, making the cost-performance unavoidably low.
 
 ## Reliability & Support
 
@@ -47,6 +47,6 @@ The approach aimed at achieving measurement performance transparency is scientif
 
 ## Advice
 
-The LA90 Discrete is an attractive product for measurement enthusiasts and users pursuing technical perfection. However, for general users seeking practical audio quality improvement, alternatives like the Fosi Audio V3 Mono (36,600 JPY) provide sufficient performance. With a budget of 100,000 JPY, we strongly recommend considering combinations of more affordable amplifiers with high-quality speakers. Consider purchase only if you value measurement perfection and have budget flexibility. If you prioritize investment efficiency for sound quality improvement, other options should be prioritized.
+The LA90 Discrete is an attractive product for measurement enthusiasts and users pursuing technical perfection. However, for general users seeking practical audio quality improvement, alternatives like the Fosi Audio V3 Mono (244 USD) provide sufficient performance. With a budget of 667 USD, we strongly recommend considering combinations of more affordable amplifiers with high-quality speakers. Consider purchase only if you value measurement perfection and have budget flexibility. If you prioritize investment efficiency for sound quality improvement, other options should be prioritized.
 
 (2025.7.14)

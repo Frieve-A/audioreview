@@ -34,17 +34,17 @@ $$ \Large \text{0.9} $$
 Genelec speakers must be evaluated as comprehensive systems including the proprietary high-precision automatic acoustic correction system GLM (Genelec Loudspeaker Manager). Based on actual market price research via WebSearch for 2025, specific product pricing comparison reveals:
 
 **Actual Market Price Research Results:**
-- **Genelec 8030C (pair)**: USD 1,000 (150,000 yen, used market, Rakuten Rakuma)
-- **Adam Audio A7V (pair)**: USD 1,217 (182,600 yen, 91,300 yen × 2 units)
+- **Genelec 8030C (pair)**: 1000 USD (used market, Rakuten Rakuma)
+- **Adam Audio A7V (pair)**: 1217 USD
 - **Neumann KH120A (pair)**: Discontinued, new units unavailable, KH120 II is successor
-- **Sonarworks SoundID Reference (with measurement mic)**: USD 286 (42,900 yen, package version)
+- **Sonarworks SoundID Reference (with measurement mic)**: 286 USD (package version)
 - **Genelec GLM User Kit**: Specific pricing not publicly available, estimated from international pricing
 
 Actual price research reveals Adam A7V as the most expensive option. Total system comparison for equivalent automatic acoustic correction functionality:
-- **Genelec 8030C + GLM Kit**: approximately USD 1,333 (200,000 yen)
-- **Adam Audio A7V + Sonarworks**: USD 1,217 + USD 286 = **USD 1,503**
+- **Genelec 8030C + GLM Kit**: approximately 1333 USD
+- **Adam Audio A7V + Sonarworks**: 1217 USD + 286 USD = **1503 USD**
 
-Compared to the least expensive configuration (Adam+Sonarworks), Genelec achieves CP = USD 1,333 ÷ USD 1,503 ≈ 0.89. Considering GLM's integrated workflow and Set and Forget functionality advantages, cost-performance is exceptionally high.
+Compared to the least expensive configuration (Adam+Sonarworks), Genelec achieves CP = 1333 USD ÷ 1503 USD ≈ 0.89. Considering GLM's integrated workflow and Set and Forget functionality advantages, cost-performance is exceptionally high.
 
 ## Reliability & Support
 

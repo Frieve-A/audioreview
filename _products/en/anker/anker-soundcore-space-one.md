@@ -7,13 +7,13 @@ lang: en
 ref: anker-soundcore-space-one
 date: 2025-07-20
 rating: [2.4, 0.3, 0.4, 1.0, 0.4, 0.3]
-summary: "Wireless headphones with strong noise canceling functionality at 10,990 JPY, but with significant limitations in scientific validity and technology level."
+summary: "Wireless headphones with strong noise canceling functionality at 73 USD, but with significant limitations in scientific validity and technology level."
 tags: [Bluetooth, LDAC, Noise Cancelling, Over-ear, Wireless headphones]
 permalink: /products/en/anker-soundcore-space-one/
 ---
 ## Overview
 
-The Anker Soundcore Space One is an entry-level active noise canceling (ANC) wireless headphone released in 2024. Currently priced at approximately 10,990 JPY (with market prices ranging from 8,490-10,990 JPY), it offers LDAC support, 55-hour battery life, and Bluetooth 5.3 connectivity. It features 40mm dynamic drivers and implements active noise canceling functionality through Ultra Noise Canceling 2.0 technology.
+The Anker Soundcore Space One is an entry-level active noise canceling (ANC) wireless headphone released in 2024. Currently priced at approximately 73 USD (with market prices ranging from 57-73 USD), it offers LDAC support, 55-hour battery life, and Bluetooth 5.3 connectivity. It features 40mm dynamic drivers and implements active noise canceling functionality through Ultra Noise Canceling 2.0 technology.
 
 ## Scientific Validity
 
@@ -31,7 +31,7 @@ The product incorporates current industry-standard technical elements including 
 
 $$ \Large \text{1.0} $$
 
-As a comparison reference, we selected the Sony WH-CH720N (current market price: 13,446 JPY) which offers equivalent ANC functionality, though with different performance characteristics. While the Sony provides superior sound quality with more balanced frequency response, the Space One offers stronger noise cancellation performance. Both support LDAC and provide similar battery performance. CP calculation: 13,446 JPY ÷ 10,990 JPY = 1.22, but clamped to 1.0. Among products offering ANC functionality with LDAC support, this product achieves competitive pricing levels, though not necessarily the absolute minimum when considering current market prices and performance variations.
+As a comparison reference, we selected the Sony WH-CH720N (current market price: 90 USD) which offers equivalent ANC functionality, though with different performance characteristics. While the Sony provides superior sound quality with more balanced frequency response, the Space One offers stronger noise cancellation performance. Both support LDAC and provide similar battery performance. CP calculation: 90 USD ÷ 73 USD = 1.22, but clamped to 1.0. Among products offering ANC functionality with LDAC support, this product achieves competitive pricing levels, though not necessarily the absolute minimum when considering current market prices and performance variations.
 
 ## Reliability & Support
 
@@ -47,6 +47,6 @@ The direction of providing ANC functionality at a low price aligns with market n
 
 ## Advice
 
-For those seeking noise-canceling headphones in the 10,000 JPY range, this product offers one of the strongest noise cancellation capabilities in its price category, but it cannot be recommended for users prioritizing audio quality. The Space One excels in blocking ambient noise compared to competitors like the Sony WH-CH720N, making it suitable for environments where noise isolation is the primary concern. However, for higher audio quality and more balanced sound reproduction, the Sony WH-CH720N represents a better choice despite requiring an additional investment of approximately 2,500-3,000 JPY. Users should consider whether superior noise cancellation or better sound quality aligns with their primary use case when making a purchasing decision.
+For those seeking noise-canceling headphones in the 73 USD range, this product offers one of the strongest noise cancellation capabilities in its price category, but it cannot be recommended for users prioritizing audio quality. The Space One excels in blocking ambient noise compared to competitors like the Sony WH-CH720N, making it suitable for environments where noise isolation is the primary concern. However, for higher audio quality and more balanced sound reproduction, the Sony WH-CH720N represents a better choice despite requiring an additional investment of approximately 17-20 USD. Users should consider whether superior noise cancellation or better sound quality aligns with their primary use case when making a purchasing decision.
 
 (2025.7.20)

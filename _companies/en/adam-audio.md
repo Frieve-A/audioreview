@@ -36,13 +36,13 @@ $$ \Large \text{0.7} $$
 Based on WebSearch market price research for 2025:
 
 **Adam Audio Product Pricing:**
-- **A7V (pair)**: USD 1,217 (182,600 yen, 91,300 yen × 2 units)
-- **T7V (pair)**: USD 500 (approximately 75,000 yen)
-- **D3V (pair)**: USD 300 (approximately 45,000 yen)
+- **A7V (pair)**: USD 1,217
+- **T7V (pair)**: USD 500
+- **D3V (pair)**: USD 300
 
 **Competitor Pricing:**
-- **PreSonus Eris E5 (pair)**: USD 200 (30,000 yen, market research price)
-- **KRK Rokit 5 G4 (pair)**: USD 280 (42,000 yen, from USD 280 conversion)
+- **PreSonus Eris E5 (pair)**: USD 200
+- **KRK Rokit 5 G4 (pair)**: USD 280
 
 When compared to the most cost-effective equivalent products, even the entry-level D3V costs 1.5x the PreSonus Eris E5 (CP = USD 200 ÷ USD 300 = 0.67). The flagship A7V shows approximately 6x price differential against equivalent performance products (CP = USD 200 ÷ USD 1,217 = 0.16), resulting in low pure performance-to-price ratings.
 

@@ -32,7 +32,7 @@ The design uses basic dynamic drivers in a conventional configuration with no pr
 
 $$ \Large \text{0.4} $$
 
-In the Japanese market, the EarPods are priced at 2,780 JPY (approx. 18.00 USD), while a comparable alternative, the VE Monk Plus (with mic), is available for about 1,200 JPY (approx. 8.00 USD). The cost-performance calculation is based on these prices: 1,200 JPY ÷ 2,780 JPY = 0.43..., which rounds to a rating of 0.4. The VE Monk Plus offers a similar open-air design and functionality, with acoustic performance that is comparable or superior, making it a valid comparison.
+In the Japanese market, the EarPods are priced at 19 USD, while a comparable alternative, the VE Monk Plus (with mic), is available for about 8 USD. The cost-performance calculation is based on these prices: 8 USD ÷ 19 USD = 0.43..., which rounds to a rating of 0.4. The VE Monk Plus offers a similar open-air design and functionality, with acoustic performance that is comparable or superior, making it a valid comparison.
 
 ## Reliability & Support
 

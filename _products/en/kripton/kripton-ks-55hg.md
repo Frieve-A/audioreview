@@ -31,7 +31,7 @@ Supporting both LDAC and aptX Adaptive for 96kHz/24bit wireless transmission is 
 
 $$ \Large \text{0.3} $$
 
-Against its price of approximately 143,000 JPY, the FiiO SP3 BT, which offers equivalent or better wireless functionality, exists for about 49,500 JPY. Cost-performance calculation: 49,500 JPY ÷ 143,000 JPY ≈ 0.346. The FiiO SP3 BT supports LDAC and aptX Adaptive and features a larger 89mm carbon fiber mid-woofer. Despite there being no essential difference in the core functionality enjoyed by the user (high-quality wireless playback), this product's price is about three times higher. There is no overwhelming performance difference or functional advantage to justify this price gap, so the cost-performance must be rated as low.
+Against its price of approximately 953 USD, the FiiO SP3 BT, which offers equivalent or better wireless functionality, exists for about 330 USD. Cost-performance calculation: 330 USD ÷ 953 USD ≈ 0.346. The FiiO SP3 BT supports LDAC and aptX Adaptive and features a larger 89mm carbon fiber mid-woofer. Despite there being no essential difference in the core functionality enjoyed by the user (high-quality wireless playback), this product's price is about three times higher. There is no overwhelming performance difference or functional advantage to justify this price gap, so the cost-performance must be rated as low.
 
 ## Reliability & Support
 

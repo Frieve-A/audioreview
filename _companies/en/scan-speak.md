@@ -31,7 +31,7 @@ The company's beryllium dome technology uses 99% pure beryllium and employs a un
 
 $$ \Large \text{0.5} $$
 
-Scan-Speak's product prices are extremely high, with the D3004/664000 beryllium tweeter currently selling for 378.60-510 euros (approximately 57,000-77,000 yen). Compared to the functionally equivalent SB Acoustics SB29BAC-C000-4 (284.95 euros = approximately 43,000 yen), CP = 43,000 yen ÷ 70,000 yen = 0.61, rounded to 0.5. These competing products achieve equal or superior performance to Scan-Speak products in basic performance including frequency response, THD, and output level. The company's products do not present measurement data that justifies the price difference in terms of pure performance.
+Scan-Speak's product prices are extremely high, with the D3004/664000 beryllium tweeter currently selling for 378.60-510 euros (approximately 513-700 USD). Compared to the functionally equivalent SB Acoustics SB29BAC-C000-4 (284.95 euros = approximately 287 USD), CP = 287 USD ÷ 700 USD = 0.61, rounded to 0.5. These competing products achieve equal or superior performance to Scan-Speak products in basic performance including frequency response, THD, and output level. The company's products do not present measurement data that justifies the price difference in terms of pure performance.
 
 ## Reliability & Support
 
@@ -47,6 +47,6 @@ The company's handcrafted manufacturing and "uncompromising quality" approach do
 
 ## Advice
 
-While Scan-Speak's products certainly possess high technical capability and manufacturing quality, performance improvements commensurate with price are limited from a modern perspective. Particularly for general DIY audio enthusiasts or those considering purchase, we recommend alternative products with equivalent measured performance such as SB Acoustics SB29BAC-C000-4 (38,000-43,000 yen). These products achieve similar performance at approximately half the price. When selecting Scan-Speak products, it is important to conduct objective comparisons based on actual measurement data and confirm that performance differences justify the price difference. Purchase decisions should be based solely on objective measurement data such as THD, frequency response, and S/N ratio, rather than subjective elements like brand image or "handcrafted quality." Additionally, considering active speaker systems could potentially achieve higher cost-performance.
+While Scan-Speak's products certainly possess high technical capability and manufacturing quality, performance improvements commensurate with price are limited from a modern perspective. Particularly for general DIY audio enthusiasts or those considering purchase, we recommend alternative products with equivalent measured performance such as SB Acoustics SB29BAC-C000-4 (253-287 USD). These products achieve similar performance at approximately half the price. When selecting Scan-Speak products, it is important to conduct objective comparisons based on actual measurement data and confirm that performance differences justify the price difference. Purchase decisions should be based solely on objective measurement data such as THD, frequency response, and S/N ratio, rather than subjective elements like brand image or "handcrafted quality." Additionally, considering active speaker systems could potentially achieve higher cost-performance.
 
 (2025.7.10)

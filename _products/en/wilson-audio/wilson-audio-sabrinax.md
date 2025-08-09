@@ -31,7 +31,7 @@ Wilson Audio's proprietary X-Material cabinet is manufactured to extremely high 
 
 $$ \Large \text{0.3} $$
 
-The SabrinaX is priced at 18,500 USD (approximately 2,700,000 JPY), but equivalent or superior measured performance is available with the KEF R7 Meta (approximately 6,000 USD). The KEF R7 Meta achieves superior directivity characteristics through Uni-Q driver technology, offering equivalent basic performance with 88dB sensitivity and 8Ω nominal impedance. Cost-performance calculation: 6,000 USD ÷ 18,500 USD = 0.32, rounded to 0.3. Despite considerations for Wilson Audio's brand value and manufacturing precision, there is room for improvement in pure acoustic performance-to-price ratio.
+The SabrinaX is priced at 18,500 USD, but equivalent or superior measured performance is available with the KEF R7 Meta (approximately 6,000 USD). The KEF R7 Meta achieves superior directivity characteristics through Uni-Q driver technology, offering equivalent basic performance with 88dB sensitivity and 8Ω nominal impedance. Cost-performance calculation: 6,000 USD ÷ 18,500 USD = 0.32, rounded to 0.3. Despite considerations for Wilson Audio's brand value and manufacturing precision, there is room for improvement in pure acoustic performance-to-price ratio.
 
 ## Reliability & Support
 

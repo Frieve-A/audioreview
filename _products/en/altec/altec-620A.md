@@ -13,7 +13,7 @@ permalink: /products/en/altec-620A/
 ---
 ## Overview
 
-The Altec 620A is a professional monitor speaker manufactured in the 1970s, featuring a bass-reflex enclosure with a 38cm diameter 604-8G coaxial driver. It boasts a frequency response of 20Hz-22kHz and maximum output of 103dB, and was known as an industry standard used in broadcasting stations and recording studios. The 604-8G driver features a unique design where the high-frequency horn throat passes through the center of the low-frequency magnetic circuit, designed to achieve excellent resolution even in demanding monitoring environments with four or more channels of overlapping audio. The original price in 1977 was 358,500 JPY per unit.
+The Altec 620A is a professional monitor speaker manufactured in the 1970s, featuring a bass-reflex enclosure with a 38cm diameter 604-8G coaxial driver. It boasts a frequency response of 20Hz-22kHz and maximum output of 103dB, and was known as an industry standard used in broadcasting stations and recording studios. The 604-8G driver features a unique design where the high-frequency horn throat passes through the center of the low-frequency magnetic circuit, designed to achieve excellent resolution even in demanding monitoring environments with four or more channels of overlapping audio. The original price in 1977 was 2,390 USD per unit.
 
 ## Scientific Validity
 
@@ -31,7 +31,7 @@ The coaxial design represents a rational approach to achieving point source char
 
 $$ \Large \text{0.5} $$
 
-Against the current market price of approximately 70,000 JPY per unit (140,000 JPY per pair), a Yamaha HS8 pair with equivalent or superior functionality and performance is available for about 75,000 JPY. The calculation yields 75,000 JPY ÷ 140,000 JPY = 0.535, which is rounded to 0.5. The 620A remains at 1970s technology levels and significantly underperforms the HS8's flat 38Hz-30kHz frequency response, built-in 75W+45W bi-amp configuration, and modern S/N ratio and THD performance in all measurable aspects. Furthermore, since the HS8 is an active speaker with built-in amplification, it has a significant advantage in total system cost compared to the 620A, which requires a separate amplifier. In terms of pure performance-to-price ratio, the 620A fails to meet modern standards, with actual cost-performance around 0.5.
+Against the current market price of approximately 467 USD per unit (933 USD per pair), a Yamaha HS8 pair with equivalent or superior functionality and performance is available for about 500 USD. The calculation yields 500 USD ÷ 933 USD = 0.536, which is rounded to 0.5. The 620A remains at 1970s technology levels and significantly underperforms the HS8's flat 38Hz-30kHz frequency response, built-in 75W+45W bi-amp configuration, and modern S/N ratio and THD performance in all measurable aspects. Furthermore, since the HS8 is an active speaker with built-in amplification, it has a significant advantage in total system cost compared to the 620A, which requires a separate amplifier. In terms of pure performance-to-price ratio, the 620A fails to meet modern standards, with actual cost-performance around 0.5.
 
 ## Reliability & Support
 

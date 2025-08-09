@@ -7,7 +7,7 @@ lang: en
 ref: presonus-eris-e4-5
 date: 2025-07-20
 rating: [3.1, 0.4, 0.6, 0.9, 0.6, 0.6]
-summary: "The PreSonus Eris E4.5 is a nearfield monitor featuring a 4.5-inch woofer. With a limited 70Hz-20kHz frequency response and undocumented distortion specifications, it has significant technical limitations. While affordable at 19,990 JPY, superior alternatives like the M-Audio BX5 D3 offer better performance at a similar price, resulting in a lower cost-performance rating."
+summary: "The PreSonus Eris E4.5 is a nearfield monitor featuring a 4.5-inch woofer. With a limited 70Hz-20kHz frequency response and undocumented distortion specifications, it has significant technical limitations. While affordable at approximately 133 USD, superior alternatives like the M-Audio BX5 D3 offer better performance at a similar price, resulting in a lower cost-performance rating."
 tags: [Active Monitor, Budget, Near-field, PreSonus, Studio monitors]
 permalink: /products/en/presonus-eris-e4-5/
 ---
@@ -31,11 +31,11 @@ The 50W bi-amplified Class AB design represents sufficient technical standards f
 
 $$ \Large \text{0.9} $$
 
-The Japanese market price is 19,990 JPY (pair). A thorough market survey reveals that products with equivalent or superior functionality and performance are available at lower prices. A prime example is the M-Audio BX5 D3, which offers a better frequency response of 52Hz-35kHz and 100W bi-amplified power, available for around 18,000 JPY.
+The Japanese market price is approximately 133 USD (pair). A thorough market survey reveals that products with equivalent or superior functionality and performance are available at lower prices. A prime example is the M-Audio BX5 D3, which offers a better frequency response of 52Hz-35kHz and 100W bi-amplified power, available for around 120 USD.
 
 Cost-performance is calculated by dividing the price of the comparison product by the price of the product under review.
 
-`Cost-Performance = 18,000 JPY ÷ 19,990 JPY = 0.9`
+`Cost-Performance = 120 USD ÷ 133 USD = 0.9`
 
 Based on this calculation, the score is 0.9. Although products like the JBL 305P MkII and Yamaha HS5 are in a higher price range, the fact that the BX5 D3 offers objectively superior technical specifications at a comparable cost limits the cost-performance of the Eris E4.5.
 
@@ -53,6 +53,6 @@ The design philosophy of providing studio monitors to entry-level users is ratio
 
 ## Advice
 
-The PreSonus Eris E4.5 presents significant limitations for serious studio monitoring applications. With its restricted 70Hz low-end response, lack of published distortion specifications, and documented distortion issues above moderate volumes, it fails to meet professional monitoring standards. For marginally higher investment, the M-Audio BX5 D3 (approximately 18,000-20,000 JPY pair) offers superior 52Hz-35kHz frequency response, higher power handling, and documented flat frequency response - making it a more rational choice. For users requiring verified performance data and broader frequency response, consider the JBL 305P MkII or Yamaha HS5, which provide published specifications and professional-grade performance. The E4.5 may suffice for casual listening but lacks the technical foundation necessary for reliable studio work.
+The PreSonus Eris E4.5 presents significant limitations for serious studio monitoring applications. With its restricted 70Hz low-end response, lack of published distortion specifications, and documented distortion issues above moderate volumes, it fails to meet professional monitoring standards. For marginally higher investment, the M-Audio BX5 D3 (approximately 120-133 USD pair) offers superior 52Hz-35kHz frequency response, higher power handling, and documented flat frequency response - making it a more rational choice. For users requiring verified performance data and broader frequency response, consider the JBL 305P MkII or Yamaha HS5, which provide published specifications and professional-grade performance. The E4.5 may suffice for casual listening but lacks the technical foundation necessary for reliable studio work.
 
 (2025.7.20)

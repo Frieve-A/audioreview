@@ -31,7 +31,7 @@ In terms of technical implementation, the TRN Conch demonstrates excellent desig
 
 $$ \Large \text{1.0} $$
 
-This product, priced at approximately 4,500 JPY (about 30 USD), is equipped with both interchangeable tuning filters and a swappable plug system compatible with multiple standards (2.5mm, 3.5mm, 4.4mm)—features typically found in much higher-priced models. It stands as one of the most affordable options on the market offering this combination of functionalities. As there is no cheaper alternative that provides equivalent or superior features, its cost-performance is rated at a maximum of 1.0, according to the policy. Achieving this level of versatility at this price point represents exceptional cost-performance that is unmatched by competitors.
+This product, priced at approximately 30 USD (about 30 USD), is equipped with both interchangeable tuning filters and a swappable plug system compatible with multiple standards (2.5mm, 3.5mm, 4.4mm)—features typically found in much higher-priced models. It stands as one of the most affordable options on the market offering this combination of functionalities. As there is no cheaper alternative that provides equivalent or superior features, its cost-performance is rated at a maximum of 1.0, according to the policy. Achieving this level of versatility at this price point represents exceptional cost-performance that is unmatched by competitors.
 
 ## Reliability & Support
 

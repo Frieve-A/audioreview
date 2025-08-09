@@ -31,8 +31,8 @@ The 10-inch ultra-long excursion driver employing ELFF (Extremely Linear Force F
 
 $$ \Large \text{0.7} $$
 
-The core feature of this product is its DSP-based automatic room correction, so the evaluation must be compared with products offering equivalent functionality. The system price, including the necessary Neumann MA 1 measurement microphone (approx. 40,000 JPY), is around 280,000 JPY. A comparable product is the Genelec 7350A SAM™ Subwoofer with its GLM Kit (totaling approx. 200,000 JPY), which offers similar automatic room correction.
-Calculation: 200,000 JPY ÷ 280,000 JPY = 0.71, resulting in a score of 0.7.
+The core feature of this product is its DSP-based automatic room correction, so the evaluation must be compared with products offering equivalent functionality. The system price, including the necessary Neumann MA 1 measurement microphone (approx. 267 USD), is around 1867 USD. A comparable product is the Genelec 7350A SAM™ Subwoofer with its GLM Kit (totaling approx. 1333 USD), which offers similar automatic room correction.
+Calculation: 1333 USD ÷ 1867 USD = 0.71, resulting in a score of 0.7.
 Inexpensive subwoofers without DSP offer entirely different value and are not valid for comparison. While this product is not the cheapest among those with similar functions, the price difference has a certain rationale when considering its unique, integrated ecosystem.
 
 ## Reliability & Support

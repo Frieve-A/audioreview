@@ -13,7 +13,7 @@ permalink: /products/en/trn-vx/
 ---
 ## Overview
 
-The TRN VX is a 7-driver hybrid in-ear monitor developed by TRN Audio of China. It features 6 balanced armature drivers (3×Knowles 30095, 3×Knowles 50060) and 1×10mm dynamic driver, housed in a CNC-machined magnesium alloy shell. With specifications of 22Ω impedance, 107dB/mW sensitivity, and 7-40,000Hz frequency range, it comes in emerald green and black color options. Priced around 10,000 JPY, it is noted for excellent resolution and technical capability, while its bright V-shaped tuning causes listening fatigue concerns.
+The TRN VX is a 7-driver hybrid in-ear monitor developed by TRN Audio of China. It features 6 balanced armature drivers (3×Knowles 30095, 3×Knowles 50060) and 1×10mm dynamic driver, housed in a CNC-machined magnesium alloy shell. With specifications of 22Ω impedance, 107dB/mW sensitivity, and 7-40,000Hz frequency range, it comes in emerald green and black color options. Priced around 67 USD, it is noted for excellent resolution and technical capability, while its bright V-shaped tuning causes listening fatigue concerns.
 
 ## Scientific Validity
 
@@ -31,7 +31,7 @@ From a technical perspective, the TRN VX achieves a reasonable standard. The 7-d
 
 $$ \Large \text{0.2} $$
 
-The TRN VX's current market price is approximately 10,000 JPY, but alternatives with equivalent or superior functionality and performance exist, including the Moondrop CHU (2,200 JPY) and CCA CRA (2,000 JPY). These single-driver IEMs provide similar resolution and acoustic performance to the TRN VX while achieving superior acoustic balance. The Moondrop CHU particularly avoids the TRN VX's problematic 8kHz peak through neutral tuning, offering more natural acoustic characteristics. Calculation: 2,200 JPY ÷ 10,000 JPY = 0.22, rounded to 0.2. The approximately 8,000 JPY price difference cannot be justified solely by multiple drivers or premium materials. With multiple products providing equivalent or superior acoustic experiences at significantly lower prices, the cost-performance must be evaluated as poor.
+The TRN VX's current market price is approximately 67 USD, but alternatives with equivalent or superior functionality and performance exist, including the Moondrop CHU (15 USD) and CCA CRA (13 USD). These single-driver IEMs provide similar resolution and acoustic performance to the TRN VX while achieving superior acoustic balance. The Moondrop CHU particularly avoids the TRN VX's problematic 8kHz peak through neutral tuning, offering more natural acoustic characteristics. Calculation: 15 USD ÷ 67 USD = 0.22, rounded to 0.2. The approximately 52 USD price difference cannot be justified solely by multiple drivers or premium materials. With multiple products providing equivalent or superior acoustic experiences at significantly lower prices, the cost-performance must be evaluated as poor.
 
 ## Reliability & Support
 
@@ -47,6 +47,6 @@ The TRN VX's design philosophy shows rational approaches in some areas but overa
 
 ## Advice
 
-For those considering purchasing the TRN VX, we strongly recommend thoroughly examining alternative options in the same price range first. With a 10,000 JPY budget, you can select products with superior acoustic balance. Particularly for those prioritizing acoustic fidelity, alternatives like the Moondrop CHU (2,200 JPY) or CCA CRA (2,000 JPY) provide vastly superior cost-performance. These single-driver products avoid the TRN VX's 8kHz peak problem while achieving more natural acoustic characteristics. Even if you prefer multi-driver configurations or premium appearance, ensure you audition before purchase to confirm the listening fatigue issue is acceptable. For extended music listening sessions, the TRN VX's stimulating treble characteristics may significantly compromise comfort. We recommend effective budget utilization by considering more scientifically superior alternatives.
+For those considering purchasing the TRN VX, we strongly recommend thoroughly examining alternative options in the same price range first. With a 67 USD budget, you can select products with superior acoustic balance. Particularly for those prioritizing acoustic fidelity, alternatives like the Moondrop CHU (15 USD) or CCA CRA (13 USD) provide vastly superior cost-performance. These single-driver products avoid the TRN VX's 8kHz peak problem while achieving more natural acoustic characteristics. Even if you prefer multi-driver configurations or premium appearance, ensure you audition before purchase to confirm the listening fatigue issue is acceptable. For extended music listening sessions, the TRN VX's stimulating treble characteristics may significantly compromise comfort. We recommend effective budget utilization by considering more scientifically superior alternatives.
 
 (2025.7.24)

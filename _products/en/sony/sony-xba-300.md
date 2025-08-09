@@ -7,7 +7,7 @@ lang: en
 ref: sony-xba-300
 date: 2025-07-25
 rating: [2.3, 0.6, 0.5, 0.3, 0.3, 0.6]
-summary: "A discontinued in-ear headphone with a triple balanced armature setup. While it boasts a wide frequency range of 5Hz-40kHz, its 2015 technology is now commonplace. As a used product priced around 10,000 JPY, its cost-performance is extremely low compared to current models like the KZ ZSN Pro 2 (approx. 3,000 JPY), which offer comparable or better performance."
+summary: "A discontinued in-ear headphone with a triple balanced armature setup. While it boasts a wide frequency range of 5Hz-40kHz, its 2015 technology is now commonplace. As a used product priced around 67 USD, its cost-performance is extremely low compared to current models like the KZ ZSN Pro 2 (approx. 20 USD), which offer comparable or better performance."
 tags: [Balanced armature, Discontinued, Hi-Res Compatible, In-Ear Headphones, Sony]
 permalink: /products/en/sony-xba-300/
 ---
@@ -31,7 +31,7 @@ While the combination of a triple balanced armature configuration and a magnesiu
 
 $$ \Large \text{0.3} $$
 
-With production discontinued, the XBA-300 is only available on the used market for around 10,000 JPY, making its cost-performance very poor. A current product like the KZ ZSN Pro 2 (approx. 3,000 JPY) offers comparable or superior performance with a 1BA+1DD hybrid configuration, featuring a 20Hz-40kHz frequency response, 108dB sensitivity, and a detachable cable. Despite different internal structures, the user-facing functionality and performance are equivalent or better. The CP is calculated as 3,000 JPY ÷ 10,000 JPY = 0.3. Considering the risks associated with used products, the availability of a superior new product at less than a third of the price cannot be ignored.
+With production discontinued, the XBA-300 is only available on the used market for around 67 USD, making its cost-performance very poor. A current product like the KZ ZSN Pro 2 (approx. 20 USD) offers comparable or superior performance with a 1BA+1DD hybrid configuration, featuring a 20Hz-40kHz frequency response, 108dB sensitivity, and a detachable cable. Despite different internal structures, the user-facing functionality and performance are equivalent or better. The CP is calculated as 20 USD ÷ 67 USD = 0.3. Considering the risks associated with used products, the availability of a superior new product at less than a third of the price cannot be ignored.
 
 ## Reliability & Support
 
@@ -47,6 +47,6 @@ The design philosophy, which pursued extended frequency characteristics, frequen
 
 ## Advice
 
-While this product was built on a solid design philosophy and technical implementation for its time, it is now obsolete and constrained to the used market. For its current used price of approximately 10,000 JPY, you can achieve superior sound quality and reliability with a new product like the KZ ZSN Pro 2 for about 3,000 JPY. The XBA-300 holds little practical value today. For those interested in Sony's latest audio technology, we strongly recommend choosing current, supported products such as the WF-1000XM5 (approx. 33,000 JPY) or the MDR-MV1 (approx. 54,000 JPY). Purchase is not recommended, except for collection or historical purposes.
+While this product was built on a solid design philosophy and technical implementation for its time, it is now obsolete and constrained to the used market. For its current used price of approximately 67 USD, you can achieve superior sound quality and reliability with a new product like the KZ ZSN Pro 2 for about 20 USD. The XBA-300 holds little practical value today. For those interested in Sony's latest audio technology, we strongly recommend choosing current, supported products such as the WF-1000XM5 (approx. 220 USD) or the MDR-MV1 (approx. 360 USD). Purchase is not recommended, except for collection or historical purposes.
 
 (2025.7.25)

@@ -7,7 +7,7 @@ lang: en
 ref: denon-dht-s218
 date: 2025-07-07
 rating: [3.2, 0.7, 0.7, 0.7, 0.8, 0.3]
-summary: "The DENON DHT-S218 is a Dolby Atmos-enabled soundbar with built-in dual subwoofers. It stands out with its support for advanced standards like Dolby TrueHD and Bluetooth 5.3 LE Audio, offering a future-proof design. Priced at 27,979 yen, while more affordable competitors exist, its feature set makes it a rational choice for users prioritizing high-fidelity playback."
+summary: "The DENON DHT-S218 is a Dolby Atmos-enabled soundbar with built-in dual subwoofers. It stands out with its support for advanced standards like Dolby TrueHD and Bluetooth 5.3 LE Audio, offering a future-proof design. Priced at 187 USD, while more affordable competitors exist, its feature set makes it a rational choice for users prioritizing high-fidelity playback."
 tags: [DENON, Soundbar, Dolby Atmos, Dual Subwoofer, Dolby TrueHD, Bluetooth LE Audio]
 permalink: /products/en/denon-dht-s218/
 ---
@@ -32,7 +32,7 @@ Technical sophistication is good. The 3-way 6-speaker configuration represents a
 
 $$ \Large \text{0.7} $$
 
-Cost-performance is good. The DHT-S218 is priced at 27,979 yen. A competitor, the Yamaha SR-B30A (24,389 yen), offers a basic Dolby Atmos experience at a lower price. However, the DHT-S218 has clear advantages with its support for lossless audio (Dolby TrueHD) and the higher quality, lower latency Bluetooth 5.3 LE Audio (LC3 codec), which the SR-B30A lacks. These features are valuable for high-quality playback from UHD Blu-ray and for future-proofing with LE Audio-compatible source devices. The approximate 3,600 yen price difference is a reasonable investment for these technical superiorities, making it a rational choice for users seeking higher fidelity.
+Cost-performance is good. The DHT-S218 is priced at 187 USD. A competitor, the Yamaha SR-B30A (163 USD), offers a basic Dolby Atmos experience at a lower price. However, the DHT-S218 has clear advantages with its support for lossless audio (Dolby TrueHD) and the higher quality, lower latency Bluetooth 5.3 LE Audio (LC3 codec), which the SR-B30A lacks. These features are valuable for high-quality playback from UHD Blu-ray and for future-proofing with LE Audio-compatible source devices. The approximate 24 USD price difference is a reasonable investment for these technical superiorities, making it a rational choice for users seeking higher fidelity.
 
 ## Reliability & Support
 
@@ -48,6 +48,6 @@ The rationality of the design philosophy has room for improvement. While the "so
 
 ## Advice
 
-When considering the DHT-S218, your priorities will determine its value. If the goal is to get a basic Dolby Atmos experience at the lowest possible cost, the Yamaha SR-B30A (24,389 yen) is a strong contender. However, if you prioritize higher fidelity and future-proofing—such as playing lossless audio from a UHD Blu-ray player via Dolby TrueHD or using high-quality wireless connections with the latest Bluetooth LE Audio (LC3)—then the approximate 3,600 yen price difference for the DHT-S218 is well-justified. The choice depends on your specific use case and whether you find value in these advanced features.
+When considering the DHT-S218, your priorities will determine its value. If the goal is to get a basic Dolby Atmos experience at the lowest possible cost, the Yamaha SR-B30A (163 USD) is a strong contender. However, if you prioritize higher fidelity and future-proofing—such as playing lossless audio from a UHD Blu-ray player via Dolby TrueHD or using high-quality wireless connections with the latest Bluetooth LE Audio (LC3)—then the approximate 24 USD price difference for the DHT-S218 is well-justified. The choice depends on your specific use case and whether you find value in these advanced features.
 
 (2025.7.7)

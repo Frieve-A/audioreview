@@ -32,7 +32,7 @@ The dual dynamic driver configuration is a common design approach with limited u
 
 $$ \Large \text{1.0} $$
 
-Against the verified current market price of 10,250 JPY (Amazon Japan, July 2025), a competing product with equivalent or superior functions and performance exists: the EarFun Air Pro 4 (verified at 9,990 JPY on Amazon Japan). The EarFun Air Pro 4 features 10mm drivers, 50dB adaptive ANC performance, aptX Lossless support, 52-hour playback, and many specifications that match or exceed the Liberty 4. While the calculation is `9,990 JPY ÷ 10,250 JPY = 0.975...`, based on the review policy's rule of rounding to the second decimal place, the rating is 1.0.
+Against the verified current market price of 68 USD (Amazon Japan, July 2025), a competing product with equivalent or superior functions and performance exists: the EarFun Air Pro 4 (verified at 67 USD on Amazon Japan). The EarFun Air Pro 4 features 10mm drivers, 50dB adaptive ANC performance, aptX Lossless support, 52-hour playback, and many specifications that match or exceed the Liberty 4. While the calculation is `67 USD ÷ 68 USD = 0.975...`, based on the review policy's rule of rounding to the second decimal place, the rating is 1.0.
 
 ## Reliability & Support
 
@@ -48,6 +48,6 @@ The design philosophy adopts a realistic approach combining generic chips and dr
 
 ## Advice
 
-The Soundcore Liberty 4 is a stable quality wireless earbud with cost-performance nearly equivalent to the EarFun Air Pro 4 in the same price range. Since both provide similar functions around 10,000 JPY, the choice can be made based on brand preference or minor functional differences. Liberty 4 is suitable for those who value trust in the Anker brand or integration with existing Anker products, while EarFun Air Pro 4 becomes an option for those prioritizing the latest aptX Lossless or extended battery life. Both have sufficient basic performance, but for those seeking higher sound quality, we recommend considering higher-end models with an additional budget.
+The Soundcore Liberty 4 is a stable quality wireless earbud with cost-performance nearly equivalent to the EarFun Air Pro 4 in the same price range. Since both provide similar functions around 67 USD, the choice can be made based on brand preference or minor functional differences. Liberty 4 is suitable for those who value trust in the Anker brand or integration with existing Anker products, while EarFun Air Pro 4 becomes an option for those prioritizing the latest aptX Lossless or extended battery life. Both have sufficient basic performance, but for those seeking higher sound quality, we recommend considering higher-end models with an additional budget.
 
 (2025.7.19)

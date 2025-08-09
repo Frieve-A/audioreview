@@ -31,11 +31,11 @@ The company demonstrates a high level of technical expertise in developing and i
 
 $$ \Large \text{0.4} $$
 
-Cost-performance is a challenge. For the flagship model RL906 (pair price 825,000 JPY), a competitor with equivalent or superior measured performance exists in the Neumann KH120 II (pair price 297,000 JPY). The cost-performance is calculated as follows:
+Cost-performance is a challenge. For the flagship model RL906 (pair price 5,500 USD), a competitor with equivalent or superior measured performance exists in the Neumann KH120 II (pair price 1,980 USD). The cost-performance is calculated as follows:
 
-297,000 JPY ÷ 825,000 JPY = 0.36
+1,980 USD ÷ 5,500 USD = 0.36
 
-This result leads to a score of 0.4. Even for higher-end models like the RL944K (pair price approx. 1,300,000 JPY), numerous 3-way active monitors with comparable performance are available from Genelec, ADAM Audio, and others at a much lower price. Unless one finds unique value in the proprietary cardioid technology, the pricing is difficult to justify.
+This result leads to a score of 0.4. Even for higher-end models like the RL944K (pair price approx. 8,667 USD), numerous 3-way active monitors with comparable performance are available from Genelec, ADAM Audio, and others at a much lower price. Unless one finds unique value in the proprietary cardioid technology, the pricing is difficult to justify.
 
 ## Reliability & Support
 

@@ -32,7 +32,7 @@ The hybrid tweeter technology certainly demonstrates technical uniqueness, and t
 
 $$ \Large \text{0.3} $$
 
-In cost-performance evaluation, this product faces serious problems. Against the Japanese market price of 287,100 JPY (pair), the Mission LX-4 MKII, which offers equivalent or superior functionality and measurement performance, is available for 88,000 JPY (pair). The CP value is 88,000 JPY ÷ 287,100 JPY = 0.307, which rounds to 0.3. The Mission LX-4 MKII offers low-frequency reproduction down to 40Hz, a user-friendly 8Ω impedance, and excellent control, providing equivalent or superior value from a user's perspective. No decisive measurement performance advantages justifying the approximately 3.3x price difference are confirmed. Even considering the added value of a premium brand, it is clearly in a disadvantageous position in terms of the pure performance-to-price ratio.
+In cost-performance evaluation, this product faces serious problems. Against the Japanese market price of 1914 USD (pair), the Mission LX-4 MKII, which offers equivalent or superior functionality and measurement performance, is available for 587 USD (pair). The CP value is 587 USD ÷ 1914 USD = 0.307, which rounds to 0.3. The Mission LX-4 MKII offers low-frequency reproduction down to 40Hz, a user-friendly 8Ω impedance, and excellent control, providing equivalent or superior value from a user's perspective. No decisive measurement performance advantages justifying the approximately 3.3x price difference are confirmed. Even considering the added value of a premium brand, it is clearly in a disadvantageous position in terms of the pure performance-to-price ratio.
 
 ## Reliability & Support
 

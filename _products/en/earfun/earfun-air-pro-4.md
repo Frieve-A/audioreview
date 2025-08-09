@@ -13,7 +13,7 @@ permalink: /products/en/earfun-air-pro-4/
 ---
 ## Overview
 
-The EarFun Air Pro 4 is a wireless earbud model released in 2024, featuring the Qualcomm QCC3091 chipset with support for aptX Lossless, LDAC, and Hi-Res Audio for high-quality sound reproduction. Priced at 9,990 yen, it offers premium features including 50dB adaptive hybrid ANC, Bluetooth 5.4, and a 52-hour extended playback time. While the model received a VGP 2024 Gold Award and high evaluation in the Japanese market, concerns about reliability due to its emerging brand status have been noted.
+The EarFun Air Pro 4 is a wireless earbud model released in 2024, featuring the Qualcomm QCC3091 chipset with support for aptX Lossless, LDAC, and Hi-Res Audio for high-quality sound reproduction. Priced at 67 USD, it offers premium features including 50dB adaptive hybrid ANC, Bluetooth 5.4, and a 52-hour extended playback time. While the model received a VGP 2024 Gold Award and high evaluation in the Japanese market, concerns about reliability due to its emerging brand status have been noted.
 
 ## Scientific Validity
 
@@ -31,7 +31,7 @@ The Qualcomm QCC3091 is a current-generation premium chipset, and its support fo
 
 $$ \Large \text{1.0} $$
 
-At a price of 9,990 yen, there are no other products on the current market that offer support for both aptX Lossless and LDAC, combined with powerful 50dB active noise cancellation. While higher-end models with similar features exist, their prices are significantly higher. Therefore, this product is effectively the most affordable option among those with equivalent or superior functionality, earning it the highest cost-performance rating of 1.0.
+At a price of 67 USD, there are no other products on the current market that offer support for both aptX Lossless and LDAC, combined with powerful 50dB active noise cancellation. While higher-end models with similar features exist, their prices are significantly higher. Therefore, this product is effectively the most affordable option among those with equivalent or superior functionality, earning it the highest cost-performance rating of 1.0.
 
 ## Reliability & Support
 

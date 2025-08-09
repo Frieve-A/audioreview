@@ -13,7 +13,7 @@ permalink: /products/en/yamaha-GT-5000/
 ---
 ## Overview
 
-The Yamaha GT-5000 is the flagship belt-drive turntable in the company's 5000 series. Priced at 7,999 USD (approximately 1,170,000 JPY), it features a 5kg heavyweight aluminum platter, 24-pole 2-phase AC synchronous motor, and crystal-locked sine wave power supply. The turntable includes a 223mm straight tonearm and specified wow and flutter under 0.04%. The finish uses the same painting process as Yamaha pianos.
+The Yamaha GT-5000 is the flagship belt-drive turntable in the company's 5000 series. Priced at 7,999 USD, it features a 5kg heavyweight aluminum platter, 24-pole 2-phase AC synchronous motor, and crystal-locked sine wave power supply. The turntable includes a 223mm straight tonearm and specified wow and flutter under 0.04%. The finish uses the same painting process as Yamaha pianos.
 
 ## Scientific Validity
 
@@ -31,7 +31,7 @@ The design includes unique elements like the AC synchronous motor with crystal-l
 
 $$ \Large \text{0.1} $$
 
-The Fluance RT85 at 499 USD (approximately 73,000 JPY) achieves 0.07% wow/flutter and 76dB S/N (weighted), equivalent to GT-5000's 0.05-0.08% wow/flutter and similar S/N. Calculation: 499 USD ÷ 7,999 USD = 0.062, rounding to 0.1. No measurable improvement justifies the 16x price difference. Additionally, digital alternatives like a 100 USD DAC plus streaming provide superior fidelity at far lower cost, making analog playback inefficient.
+The Fluance RT85 at 499 USD achieves 0.07% wow/flutter and 76dB S/N (weighted), equivalent to GT-5000's 0.05-0.08% wow/flutter and similar S/N. Calculation: 499 USD ÷ 7,999 USD = 0.062, rounding to 0.1. No measurable improvement justifies the 16x price difference. Additionally, digital alternatives like a 100 USD DAC plus streaming provide superior fidelity at far lower cost, making analog playback inefficient.
 
 ## Reliability & Support
 

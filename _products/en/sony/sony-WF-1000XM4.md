@@ -14,7 +14,7 @@ permalink: /products/en/sony-wf-1000xm4/
 
 ## Overview
 
-The Sony WF-1000XM4, released in 2021, is a flagship true wireless earphone from Sony. It features industry-leading noise cancellation powered by the proprietary V1 processor, high-quality audio transmission with LDAC support, and IPX4 water resistance. Initially priced around 31,000 JPY (approx. 280 USD), its price has now dropped to around 180 USD, partly due to the release of its successor. Although it has been on the market for some time, its powerful noise-canceling performance continues to be highly regarded and supported by many users.
+The Sony WF-1000XM4, released in 2021, is a flagship true wireless earphone from Sony. It features industry-leading noise cancellation powered by the proprietary V1 processor, high-quality audio transmission with LDAC support, and IPX4 water resistance. Initially priced around 207 USD (approx. 280 USD), its price has now dropped to around 180 USD, partly due to the release of its successor. Although it has been on the market for some time, its powerful noise-canceling performance continues to be highly regarded and supported by many users.
 
 ## Scientific Validity
 

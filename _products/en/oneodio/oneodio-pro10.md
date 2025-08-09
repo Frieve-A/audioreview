@@ -14,7 +14,7 @@ permalink: /products/en/oneodio-pro10/
 
 ## Overview
 
-The OneOdio Pro10 is a wired DJ and monitor headphone manufactured by the Chinese audio company OneOdio. It features 50mm neodymium drivers, a "dual-connector" that supports both 3.5mm and 6.35mm plugs, and rotating earcups for easy single-ear monitoring. It is sold for around 3,998 JPY (approx. 27 USD as of July 2025) and primarily targets users looking to acquire DJ gear on a low budget.
+The OneOdio Pro10 is a wired DJ and monitor headphone manufactured by the Chinese audio company OneOdio. It features 50mm neodymium drivers, a "dual-connector" that supports both 3.5mm and 6.35mm plugs, and rotating earcups for easy single-ear monitoring. It is sold for around 27 USD and primarily targets users looking to acquire DJ gear on a low budget.
 
 ## Scientific Validity
 
@@ -32,8 +32,8 @@ The technology level is at the industry average. The 50mm neodymium drivers are 
 
 $$ \Large \text{0.8} $$
 
-Considering its specific functionalities, this product demonstrates relatively high cost-performance. For this evaluation, we compared it with other products that also feature the "rotating earcup" function essential for DJing. For example, Behringer's "HPX2000" offers similar functionality and is sold for about 3,300 JPY. While the Pro10 is slightly more expensive, it is among the cheapest headphones equipped with a DJ-style swivel mechanism. The score was calculated based on the following:
-`3,300 JPY (Behringer HPX2000) ÷ 3,998 JPY (OneOdio Pro10) ≒ 0.83`
+Considering its specific functionalities, this product demonstrates relatively high cost-performance. For this evaluation, we compared it with other products that also feature the "rotating earcup" function essential for DJing. For example, Behringer's "HPX2000" offers similar functionality and is sold for about 22 USD. While the Pro10 is slightly more expensive, it is among the cheapest headphones equipped with a DJ-style swivel mechanism. The score was calculated based on the following:
+`22 USD (Behringer HPX2000) ÷ 27 USD (OneOdio Pro10) ≒ 0.83`
 Rounding this, the score is 0.8. Although there are issues with sound quality, the fact that it provides necessary DJ features at this price point is commendable.
 
 ## Reliability & Support

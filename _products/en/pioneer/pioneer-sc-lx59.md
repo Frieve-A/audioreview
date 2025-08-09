@@ -14,7 +14,7 @@ permalink: /products/en/pioneer-sc-lx59/
 
 ## Overview
 
-The Pioneer SC-LX59 is a 9.2-channel AV receiver released in October 2015. Originally priced at 295,000 JPY (excluding tax), it featured a 190W×9-channel "Direct Energy HD" amplifier and an ESS SABRE32 Ultra digital-to-analog converter. It was positioned as a middle-class product with advanced features for its time, including Dolby Atmos support (with DTS:X available via an update) and 4K/60p pass-through functionality. It is now discontinued, and manufacturer support is no longer available.
+The Pioneer SC-LX59 is a 9.2-channel AV receiver released in October 2015. Originally priced at 1967 USD (excluding tax), it featured a 190W×9-channel "Direct Energy HD" amplifier and an ESS SABRE32 Ultra digital-to-analog converter. It was positioned as a middle-class product with advanced features for its time, including Dolby Atmos support (with DTS:X available via an update) and 4K/60p pass-through functionality. It is now discontinued, and manufacturer support is no longer available.
 
 ## Scientific Validity
 
@@ -32,7 +32,7 @@ While it represented a standard technical level for 2015, it is completely outda
 
 $$ \Large \text{1.0} $$
 
-We will compare the product with others offering equivalent or superior functionality at its current used market price of approximately 61,800 JPY. Current new AV amplifiers capable of processing 9.2 or more channels, such as the Denon AVR-X3800H (around 130,000 JPY) and the Yamaha RX-A6A (around 200,000 JPY), are all significantly more expensive than 61,800 JPY. If we strictly limit the comparison to the "9+ channel surround playback function," no new product can achieve this at this price. Therefore, the cost-performance score is 1.0. However, this result is based solely on comparing the number of channels.
+We will compare the product with others offering equivalent or superior functionality at its current used market price of approximately 412 USD. Current new AV amplifiers capable of processing 9.2 or more channels, such as the Denon AVR-X3800H (around 867 USD) and the Yamaha RX-A6A (around 1333 USD), are all significantly more expensive than 412 USD. If we strictly limit the comparison to the "9+ channel surround playback function," no new product can achieve this at this price. Therefore, the cost-performance score is 1.0. However, this result is based solely on comparing the number of channels.
 
 ## Reliability & Support
 
@@ -48,6 +48,6 @@ The design philosophy of this product lacks modern rationality. The decision to 
 
 ## Advice
 
-Under no circumstances can we recommend purchasing the Pioneer SC-LX59. The manufacturer has not provided the objective data necessary to judge the product's core audio performance, making its capabilities completely unknown. In addition, considering its outdated HDMI standard that does not support the latest video formats, coupled with the extremely high risk of failure and lack of support for a discontinued product, there is no reason to choose this device. The used price of 61,800 JPY may seem attractive, but investing in outdated technology with unknown performance is unwise. Purchasing a new, current entry-level AV amplifier would be a far superior choice in every aspect—performance, features, and long-term peace of mind.
+Under no circumstances can we recommend purchasing the Pioneer SC-LX59. The manufacturer has not provided the objective data necessary to judge the product's core audio performance, making its capabilities completely unknown. In addition, considering its outdated HDMI standard that does not support the latest video formats, coupled with the extremely high risk of failure and lack of support for a discontinued product, there is no reason to choose this device. The used price of 412 USD may seem attractive, but investing in outdated technology with unknown performance is unwise. Purchasing a new, current entry-level AV amplifier would be a far superior choice in every aspect—performance, features, and long-term peace of mind.
 
 (2025.7.24)

@@ -13,7 +13,7 @@ permalink: /products/en/denon-dl-103/
 ---
 ## Overview
 
-The DL-103 is a moving coil (MC) cartridge developed by Denon in 1963 for the broadcasting industry. It features a low-output design of 0.3mV with an internal impedance of 40 ohms. The specifications include a tracking force of 2.5g, weight of 8.5g, and adopts a conical stylus (0.2mm). The basic design has remained unchanged for over 60 years of continuous manufacturing, transitioning from broadcast use to home use throughout its history. Currently selling for approximately 37,000 yen on major retailers, it is a product that continues from the dawn of analog reproduction.
+The DL-103 is a moving coil (MC) cartridge developed by Denon in 1963 for the broadcasting industry. It features a low-output design of 0.3mV with an internal impedance of 40 ohms. The specifications include a tracking force of 2.5g, weight of 8.5g, and adopts a conical stylus (0.2mm). The basic design has remained unchanged for over 60 years of continuous manufacturing, transitioning from broadcast use to home use throughout its history. Currently selling for approximately 247 USD on major retailers, it is a product that continues from the dawn of analog reproduction.
 
 ## Scientific Validity
 
@@ -31,7 +31,7 @@ The DL-103, developed as broadcast technology in 1963, was advanced for its time
 
 $$ \Large \text{0.2} $$
 
-Against the DL-103's current price of approximately 37,000 yen, significantly cheaper alternatives with comparable or superior performance exist. The most cost-effective option is the Denon DL-110 high-output MC cartridge at approximately 8,000 yen on the Japanese market. The DL-110 provides 1.6mV output (eliminating the need for expensive MC preamps), modern elliptical stylus, and aluminum cantilever. The price calculation of 8,000 yen ÷ 37,000 yen = 0.22 demonstrates that equivalent functionality is available for less than a quarter of the DL-103's price. Even considering low-output MC alternatives, used market options trading at 12,000-18,000 yen offer modern designs with superior specifications, making the DL-103's cost-performance extremely poor.
+Against the DL-103's current price of approximately 247 USD, significantly cheaper alternatives with comparable or superior performance exist. The most cost-effective option is the Denon DL-110 high-output MC cartridge at approximately 53 USD on the Japanese market. The DL-110 provides 1.6mV output (eliminating the need for expensive MC preamps), modern elliptical stylus, and aluminum cantilever. The price calculation of 53 USD ÷ 247 USD = 0.22 demonstrates that equivalent functionality is available for less than a quarter of the DL-103's price. Even considering low-output MC alternatives, used market options trading at 80-120 USD offer modern designs with superior specifications, making the DL-103's cost-performance extremely poor.
 
 ## Reliability & Support
 
@@ -47,6 +47,6 @@ The clear design goal for broadcast use 60 years ago was rational for its time, 
 
 ## Advice
 
-For users considering MC cartridges, we strongly recommend the significantly cheaper Denon DL-110 (approximately 8,000 yen) over the DL-103. The DL-110 offers high-output MC design (1.6mV) that eliminates the need for expensive MC preamps, features an elliptical stylus, and costs less than a quarter of the DL-103's price while delivering superior technical performance. For those specifically seeking low-output MC alternatives, numerous used market options at 12,000-18,000 yen provide modern designs with better specifications. The Audio-Technica AT-OC9XEB, while comparable in price to the DL-103 at approximately 37,000 yen, offers superior elliptical stylus technology. Reasons to purchase the DL-103 are limited to historical interest or vintage appeal. For users prioritizing sound quality and cost-performance, the DL-110 or modern alternatives are significantly more suitable.
+For users considering MC cartridges, we strongly recommend the significantly cheaper Denon DL-110 (approximately 53 USD) over the DL-103. The DL-110 offers high-output MC design (1.6mV) that eliminates the need for expensive MC preamps, features an elliptical stylus, and costs less than a quarter of the DL-103's price while delivering superior technical performance. For those specifically seeking low-output MC alternatives, numerous used market options at 80-120 USD provide modern designs with better specifications. The Audio-Technica AT-OC9XEB, while comparable in price to the DL-103 at approximately 247 USD, offers superior elliptical stylus technology. Reasons to purchase the DL-103 are limited to historical interest or vintage appeal. For users prioritizing sound quality and cost-performance, the DL-110 or modern alternatives are significantly more suitable.
 
 (2025.7.12)

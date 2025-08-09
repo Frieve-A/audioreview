@@ -31,7 +31,7 @@ The 1DD+1BA hybrid design aims to combine dynamic driver bass expression with BA
 
 $$ \Large \text{0.9} $$
 
-For the CCZ MC04 (28USD, approximately 4,131 JPY), the cheapest alternative with equivalent functionality and performance is the KZ ZSN Pro X (24USD, approximately 3,541 JPY). Both products are 1DD+1BA hybrid IEMs with similar frequency range, impedance, and sensitivity specifications, featuring removable 2PIN cables. The cost-performance calculation yields "3,541 JPY ÷ 4,131 JPY = 0.857," which rounds to a score of 0.9. In the budget hybrid IEM market, the CCZ MC04 commands a slight premium compared to competitors, but this difference remains limited to approximately 15%, maintaining good cost-performance.
+For the CCZ MC04 (28USD), the cheapest alternative with equivalent functionality and performance is the KZ ZSN Pro X (24USD). Both products are 1DD+1BA hybrid IEMs with similar frequency range, impedance, and sensitivity specifications, featuring removable 2PIN cables. The cost-performance calculation yields "24 USD ÷ 28 USD = 0.857," which rounds to a score of 0.9. In the budget hybrid IEM market, the CCZ MC04 commands a slight premium compared to competitors, but this difference remains limited to approximately 15%, maintaining good cost-performance.
 
 ## Reliability & Support
 

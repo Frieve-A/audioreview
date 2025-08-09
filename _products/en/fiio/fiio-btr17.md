@@ -31,7 +31,7 @@ The BTR17 employs extremely sophisticated design using the highest-level chipset
 
 $$ \Large \text{0.7} $$
 
-The BTR17's retail price of approximately 29,290 yen presents competitive challenges against products with equivalent functionality. Direct competitor Qudelix 5K (approximately 20,000 yen) offers dual ES9219 DACs, aptX Adaptive support, and excellent PEQ functionality rated as "market-leading" for EQ capabilities. While BTR17 holds technical advantages (ES9069Q, aptX Lossless, THX AAA 78+), considering the degree of sound quality improvement against the price difference (approximately 1.5x), cost-performance remains limited. Shanling UP5 (approximately 25,000 yen) also exists as strong competition, providing similar functionality through XMOS USB receiver and MQA support. CP = 20,000 yen ÷ 29,290 yen = 0.68, indicating somewhat premium pricing.
+The BTR17's retail price of approximately 195 USD presents competitive challenges against products with equivalent functionality. Direct competitor Qudelix 5K (approximately 133 USD) offers dual ES9219 DACs, aptX Adaptive support, and excellent PEQ functionality rated as "market-leading" for EQ capabilities. While BTR17 holds technical advantages (ES9069Q, aptX Lossless, THX AAA 78+), considering the degree of sound quality improvement against the price difference (approximately 1.5x), cost-performance remains limited. Shanling UP5 (approximately 167 USD) also exists as strong competition, providing similar functionality through XMOS USB receiver and MQA support. CP = 133 USD ÷ 195 USD = 0.68, indicating somewhat premium pricing.
 
 ## Reliability & Support
 

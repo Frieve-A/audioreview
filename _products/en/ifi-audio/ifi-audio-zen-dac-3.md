@@ -7,14 +7,14 @@ lang: en
 ref: ifi-audio-zen-dac-3
 date: 2025-07-07
 rating: [4.5, 0.9, 1.0, 0.7, 1.0, 0.9]
-summary: "A desktop DAC/headphone amplifier achieving high performance with THD+N 0.0015% and SNR 113dB at a price of 34,794 yen. Clearly superior in measured performance compared to competitors like the FiiO K7 at similar price points. Excellent cost-performance with comprehensive features including DSD512/PCM768 support and MQA full decoding."
+summary: "A desktop DAC/headphone amplifier achieving high performance with THD+N 0.0015% and SNR 113dB at a price of 232 USD. Clearly superior in measured performance compared to competitors like the FiiO K7 at similar price points. Excellent cost-performance with comprehensive features including DSD512/PCM768 support and MQA full decoding."
 tags: ["United Kingdom", DAC, Headphone-amplifier, Desktop, USB]
 permalink: /products/en/ifi-audio-zen-dac-3/
 ---
 
 ## Overview
 
-The iFi audio ZEN DAC 3 is a desktop DAC/headphone amplifier developed by UK-based iFi audio, currently priced at 34,794 yen. It features an upgraded USB-C input from the previous generation, incorporates a 16-core XMOS processor with Burr-Brown DAC chip, and supports DSD512/PCM768kHz/MQA full decoding. Equipped with 4.4mm balanced and RCA outputs, it achieves high measured performance with THD+N 0.0015% (balanced) and SNR 113dB. The XBass+ feature is also included, designed as the core of a compact desktop audio system.
+The iFi audio ZEN DAC 3 is a desktop DAC/headphone amplifier developed by UK-based iFi audio, currently priced at 232 USD. It features an upgraded USB-C input from the previous generation, incorporates a 16-core XMOS processor with Burr-Brown DAC chip, and supports DSD512/PCM768kHz/MQA full decoding. Equipped with 4.4mm balanced and RCA outputs, it achieves high measured performance with THD+N 0.0015% (balanced) and SNR 113dB. The XBass+ feature is also included, designed as the core of a compact desktop audio system.
 
 ## Scientific Validity
 
@@ -32,7 +32,7 @@ The adoption of a 16-core XMOS processor (2000MIPS, 512KB) represents a signific
 
 $$ \Large \text{0.7} $$
 
-No other products achieve THD+N 0.0015% at the 34,794 yen price point. The direct competitor FiiO K7 (30,580 yen) achieves approximately 0.005% THD+N, clearly placing the ZEN DAC 3 in a superior position regarding measured performance. CP = 30,580 yen ÷ 34,794 yen = 0.88, providing improved measured performance for a 4,214 yen price difference. For higher performance levels, products costing over 100,000 yen are typically required, demonstrating extremely excellent cost-performance in this price category.
+No other products achieve THD+N 0.0015% at the 232 USD price point. The direct competitor FiiO K7 (204 USD) achieves approximately 0.005% THD+N, clearly placing the ZEN DAC 3 in a superior position regarding measured performance. CP = 204 USD ÷ 232 USD = 0.88, providing improved measured performance for a 28 USD price difference. For higher performance levels, products costing over 667 USD are typically required, demonstrating extremely excellent cost-performance in this price category.
 
 ## Reliability & Support
 
@@ -48,6 +48,6 @@ The ZEN DAC 3 design rationally pursues the balance between improved measured pe
 
 ## Advice
 
-The iFi audio ZEN DAC 3 is strongly recommended for those seeking high-performance desktop DACs at the 34,794 yen price point. It's particularly optimal for headphone-focused use where balanced connection high-quality audio is prioritized. When comparing with the competing FiiO K7, despite being approximately 4,000 yen more expensive, the clear improvement in measured performance justifies the price difference. However, if multiple inputs are required or higher output power is needed, the K7 might be more suitable. If budget permits, considering this as a long-term investment, the ZEN DAC 3 will likely provide higher satisfaction. For those prioritizing DSD support or MQA playback, the ZEN DAC 3 offers clear advantages.
+The iFi audio ZEN DAC 3 is strongly recommended for those seeking high-performance desktop DACs at the 232 USD price point. It's particularly optimal for headphone-focused use where balanced connection high-quality audio is prioritized. When comparing with the competing FiiO K7, despite being approximately 28 USD more expensive, the clear improvement in measured performance justifies the price difference. However, if multiple inputs are required or higher output power is needed, the K7 might be more suitable. If budget permits, considering this as a long-term investment, the ZEN DAC 3 will likely provide higher satisfaction. For those prioritizing DSD support or MQA playback, the ZEN DAC 3 offers clear advantages.
 
 (2025.7.7)

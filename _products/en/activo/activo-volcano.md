@@ -13,7 +13,7 @@ permalink: /products/en/activo-volcano/
 ---
 ## Overview
 
-The Activo Volcano is an in-ear monitor developed by Activo, a subsidiary of Astell&Kern. It adopts a triple dynamic configuration with one 8mm driver and two 6mm drivers, featuring 16Ω impedance and 100dB/mW sensitivity with a 20Hz-20kHz frequency response. The lightweight polycarbonate housing is combined with a high-quality cable, offering multiple connection options including 3.5mm, 4.4mm, and USB-C terminals. Priced at approximately 85 USD (12,400 JPY), it is positioned in the mid-range IEM market.
+The Activo Volcano is an in-ear monitor developed by Activo, a subsidiary of Astell&Kern. It adopts a triple dynamic configuration with one 8mm driver and two 6mm drivers, featuring 16Ω impedance and 100dB/mW sensitivity with a 20Hz-20kHz frequency response. The lightweight polycarbonate housing is combined with a high-quality cable, offering multiple connection options including 3.5mm, 4.4mm, and USB-C terminals. Priced at approximately 83 USD, it is positioned in the mid-range IEM market.
 
 ## Scientific Validity
 
@@ -31,7 +31,7 @@ The triple dynamic driver configuration is a technically rational approach, but 
 
 $$ \Large \text{0.3} $$
 
-The cost-performance is extremely low when compared to competing products with equivalent or superior functionality. For instance, the 7Hz Salnotes Zero:2, which has a strong reputation for its excellent measured performance, is available for around 25 USD. Calculation formula: 25 USD ÷ 85 USD = 0.294 (rounded to 0.3). Differences in driver configuration are not an essential differentiator from a user's perspective when a much cheaper alternative provides superb performance, making this product's price unjustifiable.
+The cost-performance is extremely low when compared to competing products with equivalent or superior functionality. For instance, the 7Hz Salnotes Zero:2, which has a strong reputation for its excellent measured performance, is available for around 25 USD. Calculation formula: 25 USD ÷ 83 USD = 0.301 (rounded to 0.3). Differences in driver configuration are not an essential differentiator from a user's perspective when a much cheaper alternative provides superb performance, making this product's price unjustifiable.
 
 ## Reliability & Support
 
@@ -47,6 +47,6 @@ The triple dynamic configuration that divides drivers by frequency band is acous
 
 ## Advice
 
-The Activo Volcano is a technically rational mid-range IEM, but it suffers from a severe price competitiveness problem. Considering that superior performance can be achieved with the 7Hz Salnotes Zero:2 for about 25 USD, purchasing the Volcano at 85 USD is economically irrational. It can only be an option for those who prioritize the Astell&Kern brand reliability and require official support, but it cannot be recommended in terms of the pure performance-to-price ratio. With the same budget, combining the 7Hz Salnotes Zero:2 with a high-performance USB DAC would be a far more effective investment.
+The Activo Volcano is a technically rational mid-range IEM, but it suffers from a severe price competitiveness problem. Considering that superior performance can be achieved with the 7Hz Salnotes Zero:2 for about 25 USD, purchasing the Volcano at 83 USD is economically irrational. It can only be an option for those who prioritize the Astell&Kern brand reliability and require official support, but it cannot be recommended in terms of the pure performance-to-price ratio. With the same budget, combining the 7Hz Salnotes Zero:2 with a high-performance USB DAC would be a far more effective investment.
 
 (2025.7.28)

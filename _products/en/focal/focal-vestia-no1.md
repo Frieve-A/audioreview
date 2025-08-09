@@ -31,7 +31,7 @@ The Slatefiber diaphragm technology is a unique composite material approach usin
 
 $$ \Large \text{0.4} $$
 
-As the current market price for this product is difficult to verify, we will evaluate it based on its suggested retail price of 165,000 JPY (tax included). Competing products with equivalent or superior performance are available, such as the KEF Q150 (72,600 JPY) and the ELAC Debut 2.0 B6.2 (approx. 54,000 JPY). The KEF Q150, in particular, achieves comparable or better performance at a significantly lower price with its Uni-Q coaxial driver technology. Cost-performance is calculated as `Competitor Price ÷ Subject Price`, which results in "72,600 JPY ÷ 165,000 JPY ≈ 0.44". Rounding this to the nearest tenth gives a score of 0.4.
+As the current market price for this product is difficult to verify, we will evaluate it based on its suggested retail price of 1,100 USD (tax included). Competing products with equivalent or superior performance are available, such as the KEF Q150 (484 USD) and the ELAC Debut 2.0 B6.2 (approx. 360 USD). The KEF Q150, in particular, achieves comparable or better performance at a significantly lower price with its Uni-Q coaxial driver technology. Cost-performance is calculated as `Competitor Price ÷ Subject Price`, which results in "484 USD ÷ 1,100 USD ≈ 0.44". Rounding this to the nearest tenth gives a score of 0.4.
 
 ## Reliability & Support
 
@@ -47,6 +47,6 @@ The design approach of the Vestia No1 is fundamentally an extension of conventio
 
 ## Advice
 
-Currently, the market availability of the Focal Vestia No1 is limited, with many retailers showing it as out of stock. This makes it difficult to purchase and creates a lack of price transparency. For users who prioritize scientific performance and value, we recommend alternatives that are more readily available and clearly priced. The KEF Q150 (72,600 JPY) offers excellent phase characteristics and good measurement data, thanks to its coaxial driver technology. The ELAC Debut 2.0 B6.2 (approx. 54,000 JPY) is also a strong contender, providing balanced performance. If you prefer the Focal brand, consider exploring other series with stable market supply.
+Currently, the market availability of the Focal Vestia No1 is limited, with many retailers showing it as out of stock. This makes it difficult to purchase and creates a lack of price transparency. For users who prioritize scientific performance and value, we recommend alternatives that are more readily available and clearly priced. The KEF Q150 (484 USD) offers excellent phase characteristics and good measurement data, thanks to its coaxial driver technology. The ELAC Debut 2.0 B6.2 (approx. 360 USD) is also a strong contender, providing balanced performance. If you prefer the Focal brand, consider exploring other series with stable market supply.
 
 (2025.7.30)

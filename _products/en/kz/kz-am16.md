@@ -31,7 +31,7 @@ While the 16 BA driver configuration is numerically impressive, its technical or
 
 $$ \Large \text{0.9} $$
 
-The market price of the AM16 is approximately 9,280 JPY (about 62 USD). Cost-performance should be evaluated based on final measured performance, not on specifications like driver count. In the same price range, products exist that achieve superior measured performance with fewer drivers. For example, the "Truthear ZERO:RED" (approx. 55 USD) is a more rational choice from a fidelity perspective at a lower price. Dividing the competitor's price (55 USD) by this product's price (62 USD) results in 55 ÷ 62 ≈ 0.89. The score is near a high level, but this evaluation acknowledges that more affordable, high-performing competitors exist.
+The market price of the AM16 is approximately 62 USD. Cost-performance should be evaluated based on final measured performance, not on specifications like driver count. In the same price range, products exist that achieve superior measured performance with fewer drivers. For example, the "Truthear ZERO:RED" (approx. 55 USD) is a more rational choice from a fidelity perspective at a lower price. Dividing the competitor's price (55 USD) by this product's price (62 USD) results in 55 ÷ 62 ≈ 0.89. The score is near a high level, but this evaluation acknowledges that more affordable, high-performing competitors exist.
 
 ## Reliability & Support
 

@@ -13,7 +13,7 @@ permalink: /products/en/sunvalley-sv-275/
 ---
 ## Overview
 
-The Sunvalley SV-275 is a KT88 push-pull tube power amplifier from Sunvalley, a brand known for its audio kits. It delivers a 38W+38W (8Ω, THD 10%) output and employs a tube configuration of 12AX7×2, 6BQ5×4, and KT88×4. The frequency response spans 5Hz-125kHz (1W/8Ω/-3dB) with 4/8/16Ω speaker compatibility, measuring W430×H195×D270mm and weighing 18kg. Available as a used unit for 99,000 yen, representing the market price for this kit-built product. The company ceased all product sales operations in May 2023, now focusing exclusively on product support.
+The Sunvalley SV-275 is a KT88 push-pull tube power amplifier from Sunvalley, a brand known for its audio kits. It delivers a 38W+38W (8Ω, THD 10%) output and employs a tube configuration of 12AX7×2, 6BQ5×4, and KT88×4. The frequency response spans 5Hz-125kHz (1W/8Ω/-3dB) with 4/8/16Ω speaker compatibility, measuring W430×H195×D270mm and weighing 18kg. Available as a used unit for 660 USD, representing the market price for this kit-built product. The company ceased all product sales operations in May 2023, now focusing exclusively on product support.
 
 ## Scientific Validity
 
@@ -31,7 +31,7 @@ The design employs classic tube architecture with KT88 push-pull circuitry, feat
 
 $$ \Large \text{0.1} $$
 
-The cost-performance ratio is extremely poor. Against the used price of 99,000 yen (approximately 660 USD), the equivalent-output Fosi Audio V3 is available for 89.99 USD. The V3 delivers 38W×2 output (8Ω) at 32V power supply with superior performance of 0.003% THD and 110dB SNR, vastly exceeding the SV-275's 10% THD. Cost-performance calculation: 89.99 USD ÷ 660 USD = 0.136, rounded to 0.1. This result indicates that equivalent function and measurement performance can be obtained at approximately one-seventh the price, with no objective advantages justifying the price differential.
+The cost-performance ratio is extremely poor. Against the used price of 660 USD, the equivalent-output Fosi Audio V3 is available for 90 USD. The V3 delivers 38W×2 output (8Ω) at 32V power supply with superior performance of 0.003% THD and 110dB SNR, vastly exceeding the SV-275's 10% THD. Cost-performance calculation: 90 USD ÷ 660 USD = 0.136, rounded to 0.1. This result indicates that equivalent function and measurement performance can be obtained at approximately one-seventh the price, with no objective advantages justifying the price differential.
 
 ## Reliability & Support
 
@@ -47,6 +47,6 @@ The design philosophy is extremely irrational from a scientific audio quality im
 
 ## Advice
 
-The Sunvalley SV-275 cannot be recommended by scientific audio quality standards. Against the used price of 660 USD, the 89.99 USD Fosi Audio V3 achieves superior performance with 38W×2 output at 32V power supply and 0.003% THD, making the approximately 7-fold price difference irrational. The V3 demonstrates objective superiority with 110dB SNR, 20Hz-20kHz frequency response, and over 95% Class D efficiency, vastly exceeding the SV-275's 10% THD, 18kg weight, and high power consumption. KT88 tube "warmth" or "musicality" represents immeasurable subjective evaluation lacking acoustic engineering foundation. For users seeking maximum audio quality within limited budgets, modern digital technology utilizing Class D amplifiers is strongly recommended. The company's sales cessation also eliminates new purchase opportunities. Prospective buyers should thoroughly compare objective measurement performance and price differentials.
+The Sunvalley SV-275 cannot be recommended by scientific audio quality standards. Against the used price of 660 USD, the 90 USD Fosi Audio V3 achieves superior performance with 38W×2 output at 32V power supply and 0.003% THD, making the approximately 7-fold price difference irrational. The V3 demonstrates objective superiority with 110dB SNR, 20Hz-20kHz frequency response, and over 95% Class D efficiency, vastly exceeding the SV-275's 10% THD, 18kg weight, and high power consumption. KT88 tube "warmth" or "musicality" represents immeasurable subjective evaluation lacking acoustic engineering foundation. For users seeking maximum audio quality within limited budgets, modern digital technology utilizing Class D amplifiers is strongly recommended. The company's sales cessation also eliminates new purchase opportunities. Prospective buyers should thoroughly compare objective measurement performance and price differentials.
 
 (2025.7.25)

@@ -31,7 +31,7 @@ Sony's proprietary T-shaped balanced armature drivers deserve high technical eva
 
 $$ \Large \text{0.3} $$
 
-At the current market price of approximately 163,900 JPY, the cost-performance evaluation is low considering that the Moondrop Blessing3, offering equivalent or superior performance, is available for about 44,900 JPY. The Blessing3 features a hybrid configuration of 2DD+4BA and demonstrates equal or superior performance to the IER-M9 in many measured parameters, making the price difference significant. Calculation: 44,900 JPY ÷ 163,900 JPY ≈ 0.27, indicating the existence of more affordable alternatives with equivalent functionality and measured performance.
+At the current market price of approximately 1,093 USD, the cost-performance evaluation is low considering that the Moondrop Blessing3, offering equivalent or superior performance, is available for about 299 USD. The Blessing3 features a hybrid configuration of 2DD+4BA and demonstrates equal or superior performance to the IER-M9 in many measured parameters, making the price difference significant. Calculation: 299 USD ÷ 1,093 USD ≈ 0.27, indicating the existence of more affordable alternatives with equivalent functionality and measured performance.
 
 ## Reliability & Support
 
@@ -47,6 +47,6 @@ The frequency division design using five balanced armature drivers is a rational
 
 ## Advice
 
-While the Sony IER-M9 is indeed an excellent in-ear monitor designed with high technical expertise, it is difficult to recommend given the current market environment. With the same budget, choosing hybrid IEMs like the Moondrop Blessing3 available for around 44,900 JPY would provide superior performance and cost-effectiveness. Unless you have a strong preference for the Sony brand or specifically require pure balanced armature configuration for specialized applications, considering alternative options is advisable. Even for professional use, if prioritizing the balance between measured performance and price, competing products incorporating newer technologies would be more rational choices. Should you consider purchasing, we recommend actual auditioning to confirm sound quality differences and carefully evaluate whether the value justifies the price premium.
+While the Sony IER-M9 is indeed an excellent in-ear monitor designed with high technical expertise, it is difficult to recommend given the current market environment. With the same budget, choosing hybrid IEMs like the Moondrop Blessing3 available for around 299 USD would provide superior performance and cost-effectiveness. Unless you have a strong preference for the Sony brand or specifically require pure balanced armature configuration for specialized applications, considering alternative options is advisable. Even for professional use, if prioritizing the balance between measured performance and price, competing products incorporating newer technologies would be more rational choices. Should you consider purchasing, we recommend actual auditioning to confirm sound quality differences and carefully evaluate whether the value justifies the price premium.
 
 (2025.8.7)

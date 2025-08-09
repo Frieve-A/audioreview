@@ -32,7 +32,7 @@ Harley Benton relies primarily on Chinese OEM manufacturing, with no confirmed p
 
 $$ \Large \text{1.0} $$
 
-In price comparison for equivalent function and performance, Harley Benton reaches world-cheapest levels. The MP-500 (198 EUR, approximately 26,400 JPY) is a product combining a 192kHz/24bit audio interface with 8 programmable MIDI foot switches. No competing product with equivalent functionality exists, and the closest competitor MeloAudio Tone Shifter Mega has been discontinued. Since no single product with equivalent or superior function and performance can be found in the current market, the MP-500 becomes effectively the world's cheapest option.
+In price comparison for equivalent function and performance, Harley Benton reaches world-cheapest levels. The MP-500 (198 EUR, approximately 176 USD) is a product combining a 192kHz/24bit audio interface with 8 programmable MIDI foot switches. No competing product with equivalent functionality exists, and the closest competitor MeloAudio Tone Shifter Mega has been discontinued. Since no single product with equivalent or superior function and performance can be found in the current market, the MP-500 becomes effectively the world's cheapest option.
 
 ## Reliability & Support
 

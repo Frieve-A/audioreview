@@ -32,7 +32,7 @@ KC62's technology level achieves near industry-leading standards. The proprietar
 
 $$ \Large \text{0.4} $$
 
-KC62's cost-performance receives a below-average evaluation. At the Japanese market price of 217,800 yen (approximately 1,467 USD), significantly more affordable alternatives with equivalent function and performance exist. The SVS SB-1000 Pro at 599 USD provides comparable deep bass reproduction with 20Hz-270Hz frequency response, 325W RMS amplification, and 12-inch driver in a compact sealed enclosure. The cost-performance calculation shows 599 USD ÷ 1,467 USD = 0.408, indicating that equivalent performance can be achieved at approximately 40% of KC62's cost. While KC62's ultra-compact size (246×256×248mm) provides specific advantages for space-constrained installations, the substantial price premium limits its cost-performance appeal for general applications.
+KC62's cost-performance receives a below-average evaluation. At the Japanese market price of 1452 USD, significantly more affordable alternatives with equivalent function and performance exist. The SVS SB-1000 Pro at 599 USD provides comparable deep bass reproduction with 20Hz-270Hz frequency response, 325W RMS amplification, and 12-inch driver in a compact sealed enclosure. The cost-performance calculation shows 599 USD ÷ 1452 USD = 0.408, indicating that equivalent performance can be achieved at approximately 40% of KC62's cost. While KC62's ultra-compact size (246×256×248mm) provides specific advantages for space-constrained installations, the substantial price premium limits its cost-performance appeal for general applications.
 
 ## Reliability & Support
 

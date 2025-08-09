@@ -31,7 +31,7 @@ The company's proprietary NFCA module technology is highly regarded in the indus
 
 $$ \Large \text{1.0} $$
 
-At a price of 199 USD (approximately 30,000 JPY), no cheaper competitor offers equivalent or superior performance in terms of THD+N under 0.00006%, dynamic range over 144dB, and output of 3500mW×2 with balanced capabilities. Products like JDS Labs Atom Amp 2 have inferior THD+N (around 0.0001%), lower output power (2.65W at 32Ω), and lack balanced inputs, making them not comparable. As the most affordable option achieving this level of performance, cost-performance is evaluated at the highest level.
+At a price of 199 USD, no cheaper competitor offers equivalent or superior performance in terms of THD+N under 0.00006%, dynamic range over 144dB, and output of 3500mW×2 with balanced capabilities. Products like JDS Labs Atom Amp 2 have inferior THD+N (around 0.0001%), lower output power (2.65W at 32Ω), and lack balanced inputs, making them not comparable. As the most affordable option achieving this level of performance, cost-performance is evaluated at the highest level.
 
 ## Reliability & Support
 
@@ -47,6 +47,6 @@ The design approach emphasizing achievement of transparent-level measurement per
 
 ## Advice
 
-The Topping A50III is a headphone amplifier with world-class measurement performance, offering excellent value at its price point with no cheaper alternatives providing equivalent or superior specs. It represents an ideal choice for those prioritizing high-performance headphone driving, balanced connections, and top-tier measurement performance. When purchasing, consider pairing with the company's D50III DAC (approximately 35,000 JPY) for a total system cost of 65,000 JPY. For standalone use, ensure existing DAC performance doesn't become a bottleneck. For those seeking the best measured performance in a budget desktop amp, this is highly recommended.
+The Topping A50III is a headphone amplifier with world-class measurement performance, offering excellent value at its price point with no cheaper alternatives providing equivalent or superior specs. It represents an ideal choice for those prioritizing high-performance headphone driving, balanced connections, and top-tier measurement performance. When purchasing, consider pairing with the company's D50III DAC (approximately 233 USD) for a total system cost of 432 USD. For standalone use, ensure existing DAC performance doesn't become a bottleneck. For those seeking the best measured performance in a budget desktop amp, this is highly recommended.
 
 (2025.8.3)

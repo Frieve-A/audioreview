@@ -31,7 +31,7 @@ The 16-driver configuration (7BA+1DD) represents a technically ambitious approac
 
 $$ \Large \text{0.4} $$
 
-The KZ ZAS is priced at 9,800 JPY. However, a competing product, the "7Hz Salnotes Zero," offers a balanced and superior sound quality at a much lower price of 3,500 JPY. Despite its single dynamic driver configuration, the Salnotes Zero is widely praised in reviews for its natural timbre and tuning, free from the sonic issues of the ZAS (metallic highs, unnatural mids). For many users, it provides an "equivalent or superior" musical experience. The cost-performance is significantly lowered by the existence of this cheaper alternative. The calculation is 3,500 JPY ÷ 9,800 JPY ≈ 0.357, which rounds to a score of 0.4.
+The KZ ZAS is priced at 65 USD. However, a competing product, the "7Hz Salnotes Zero," offers a balanced and superior sound quality at a much lower price of 23 USD. Despite its single dynamic driver configuration, the Salnotes Zero is widely praised in reviews for its natural timbre and tuning, free from the sonic issues of the ZAS (metallic highs, unnatural mids). For many users, it provides an "equivalent or superior" musical experience. The cost-performance is significantly lowered by the existence of this cheaper alternative. The calculation is 23 USD ÷ 65 USD ≈ 0.357, which rounds to a score of 0.4.
 
 ## Reliability & Support
 
@@ -47,7 +47,7 @@ While the 16-driver configuration is technically complex, its rationality is que
 
 ## Advice
 
-While the KZ ZAS boasts a 16-driver configuration, its sound quality does not justify its price. For its 9,800 JPY price, alternatives like the "7Hz Salnotes Zero" (3,500 JPY) or the "Truthear x Crinacle Zero: Red" (around 8,200 JPY) offer far more rational choices with more balanced sound. The Salnotes Zero, in particular, delivers a more natural and pleasant sound at about a third of the price, making it overwhelmingly superior from a cost-performance perspective.
+While the KZ ZAS boasts a 16-driver configuration, its sound quality does not justify its price. For its 65 USD price, alternatives like the "7Hz Salnotes Zero" (23 USD) or the "Truthear x Crinacle Zero: Red" (around 55 USD) offer far more rational choices with more balanced sound. The Salnotes Zero, in particular, delivers a more natural and pleasant sound at about a third of the price, making it overwhelmingly superior from a cost-performance perspective.
 
 If considering the ZAS purchase, understand that EQ adjustment will likely be necessary. The bass-focused tuning may appeal to some listeners, but it is unsuitable for those seeking balanced sound quality. In the current mid-range IEM market, we recommend prioritizing practicality, as products with simpler configurations often achieve superior results.
 

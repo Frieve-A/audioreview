@@ -31,7 +31,7 @@ The selection of high-quality DAC chips and dual configuration for performance i
 
 $$ \Large \text{0.9} $$
 
-The cost-performance of AkLIAM products is high but falls short of the maximum rating. For example, the PD4 Plus (approx. 8,100 JPY), which features dual CS43131 chips and a balanced output, is compared against the Moondrop DAWN PRO (approx. 7,500 JPY), a product with nearly identical features and performance. The Moondrop DAWN PRO also incorporates dual CS43131 chips and a 4.4mm balanced output, delivering excellent measured performance at a lower price. The existence of this direct competitor means that AkLIAM products are not the most cost-effective option on the market, thus the score does not reach 1.0.
+The cost-performance of AkLIAM products is high but falls short of the maximum rating. For example, the PD4 Plus (approx. 54 USD), which features dual CS43131 chips and a balanced output, is compared against the Moondrop DAWN PRO (approx. 50 USD), a product with nearly identical features and performance. The Moondrop DAWN PRO also incorporates dual CS43131 chips and a 4.4mm balanced output, delivering excellent measured performance at a lower price. The existence of this direct competitor means that AkLIAM products are not the most cost-effective option on the market, thus the score does not reach 1.0.
 
 ## Reliability & Support
 

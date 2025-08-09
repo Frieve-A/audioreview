@@ -7,7 +7,7 @@ lang: en
 ref: victor-sx-lt55ltd
 date: 2025-08-08
 rating: [1.8, 0.5, 0.2, 0.4, 0.5, 0.2]
-summary: "A limited edition speaker from 2004 with only 360 units produced. Despite premium materials like gold-plated drivers and Alnico magnets, the 370,000 JPY (pair) price point faces competition from modern equivalent products available at approximately one-third the cost, resulting in poor cost-performance."
+summary: "A limited edition speaker from 2004 with only 360 units produced. Despite premium materials like gold-plated drivers and Alnico magnets, the 2467 USD (pair) price point faces competition from modern equivalent products available at approximately one-third the cost, resulting in poor cost-performance."
 tags: [3-Way, Alnico Magnet, Bass Reflex, Floor Standing Speaker, Limited edition]
 permalink: /products/en/victor-sx-lt55ltd/
 ---
@@ -31,7 +31,7 @@ The gold-plated drivers, 12,000 Gauss Alnico magnets, and oblique omni-array arr
 
 $$ \Large \text{0.4} $$
 
-Against the 370,000 JPY (pair) price point, currently available products with equivalent or superior functionality and measurement performance include the KEF Q550 (119,600 JPY, pair) and DALI Oberon 5 (134,316 JPY, pair). These modern speakers offer superior measurement performance and contemporary design philosophy. Using the most affordable alternative, the KEF Q550, the calculation yields CP = 119,600 JPY ÷ 370,000 JPY = 0.32, which rounds to 0.3. However, since the KEF Q550 is discontinued, using the currently available most affordable option, the DALI Oberon 5 (134,316 JPY, pair), yields CP = 134,316 JPY ÷ 370,000 JPY = 0.36, which rounds to 0.4.
+Against the 2467 USD (pair) price point, currently available products with equivalent or superior functionality and measurement performance include the KEF Q550 (797 USD, pair) and DALI Oberon 5 (895 USD, pair). These modern speakers offer superior measurement performance and contemporary design philosophy. Using the most affordable alternative, the KEF Q550, the calculation yields CP = 797 USD ÷ 2467 USD = 0.32, which rounds to 0.3. However, since the KEF Q550 is discontinued, using the currently available most affordable option, the DALI Oberon 5 (895 USD, pair), yields CP = 895 USD ÷ 2467 USD = 0.36, which rounds to 0.4.
 
 ## Reliability & Support
 
@@ -47,6 +47,6 @@ The SX-LT55LTD's design philosophy is based on the 2004-era concept of "sound qu
 
 ## Advice
 
-While the SX-LT55LTD may hold value as a rare collectible or collector's item due to its limited production, it offers no clear advantages over modern alternatives when considered purely as a music reproduction device. With a budget of 370,000 JPY (pair), superior options like the KEF Q550 (119,600 JPY, pair) or DALI Oberon 5 (134,316 JPY, pair) are available, offering better measurement performance and contemporary design philosophy. These modern products provide more accurate frequency response, lower distortion, and superior support systems. For rational audio equipment selection, purchasing this product cannot be recommended. It merits consideration only for those with interest in vintage audio or collecting limited edition items.
+While the SX-LT55LTD may hold value as a rare collectible or collector's item due to its limited production, it offers no clear advantages over modern alternatives when considered purely as a music reproduction device. With a budget of 2467 USD (pair), superior options like the KEF Q550 (797 USD, pair) or DALI Oberon 5 (895 USD, pair) are available, offering better measurement performance and contemporary design philosophy. These modern products provide more accurate frequency response, lower distortion, and superior support systems. For rational audio equipment selection, purchasing this product cannot be recommended. It merits consideration only for those with interest in vintage audio or collecting limited edition items.
 
 (2025.8.8)

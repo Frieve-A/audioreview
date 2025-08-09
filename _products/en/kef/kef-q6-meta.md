@@ -31,7 +31,7 @@ The 12th generation Uni-Q driver array is an advanced technology that achieves i
 
 $$ \Large \text{0.8} $$
 
-Compared to the KEF Q6 Meta's market price of 99,000 yen, competing products with superior measured performance exist. For example, the Monolith THX-365C is THX Ultra certified and boasts a flatter frequency response, yet it is priced at 75,000 yen. Based on the cost-performance formula (competitor price ÷ subject price), the calculation is "75,000 yen ÷ 99,000 yen ≈ 0.76," which rounds to a score of 0.8. The existence of a more affordable and higher-performing alternative means this product's cost-performance cannot be considered excellent.
+Compared to the KEF Q6 Meta's market price of 660 USD, competing products with superior measured performance exist. For example, the Monolith THX-365C is THX Ultra certified and boasts a flatter frequency response, yet it is priced at 500 USD. Based on the cost-performance formula (competitor price ÷ subject price), the calculation is "500 USD ÷ 660 USD ≈ 0.76," which rounds to a score of 0.8. The existence of a more affordable and higher-performing alternative means this product's cost-performance cannot be considered excellent.
 
 ## Reliability & Support
 

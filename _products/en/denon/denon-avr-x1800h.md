@@ -32,8 +32,8 @@ Technologically, it adopts an industry-average design. The discrete Class AB pow
 
 $$ \Large \text{0.9} $$
 
-Against its market price of 72,600 JPY (as of August 2025), a competitor with nearly identical functions and performance exists: the Onkyo TX-NR5100 (market price 69,300 JPY). The TX-NR5100 also supports 7.2 channels, 8K video signals, and Dolby Atmos, with equivalent output specifications. There is no significant difference in the core functionality provided to the user. The cost-performance of this product is evaluated based on the following calculation:
-`69,300 JPY ÷ 72,600 JPY = 0.954...`
+Against its market price of 484 USD (as of August 2025), a competitor with nearly identical functions and performance exists: the Onkyo TX-NR5100 (market price 462 USD). The TX-NR5100 also supports 7.2 channels, 8K video signals, and Dolby Atmos, with equivalent output specifications. There is no significant difference in the core functionality provided to the user. The cost-performance of this product is evaluated based on the following calculation:
+`462 USD ÷ 484 USD = 0.954...`
 From this result, the score is 0.9, as a more affordable alternative exists. While it is not the best cost-performance, the price difference is very slim, and the price-to-performance ratio is at a high level.
 
 ## Reliability & Support

@@ -32,7 +32,7 @@ For 1997, the adoption of a 50mm neodymium driver and lightweight magnesium fram
 
 $$ \Large \text{0.4} $$
 
-Current used market prices range from 15,000-35,000 JPY (approximately 100-235 USD), varying greatly depending on condition and accessories. As a current product with equivalent or superior performance, the Philips SHP9500 (approximately 9,000 JPY / 60 USD) can be cited. The SHP9500 features a superior frequency range of 12-35,000Hz, appropriate 32-ohm/101dB specifications, and a 50mm neodymium driver, surpassing the MDR-F1 in measurement performance. The cost-performance calculation yields 60 USD ÷ 147 USD (used average price) = 0.41, rounded to 0.4. Since current products exist that can achieve equivalent functionality at lower cost, the cost-performance evaluation is low.
+Current used market prices range from 100-233 USD (approximately 100-235 USD), varying greatly depending on condition and accessories. As a current product with equivalent or superior performance, the Philips SHP9500 (approximately 60 USD / 60 USD) can be cited. The SHP9500 features a superior frequency range of 12-35,000Hz, appropriate 32-ohm/101dB specifications, and a 50mm neodymium driver, surpassing the MDR-F1 in measurement performance. The cost-performance calculation yields 60 USD ÷ 147 USD (used average price) = 0.41, rounded to 0.4. Since current products exist that can achieve equivalent functionality at lower cost, the cost-performance evaluation is low.
 
 ## Reliability & Support
 

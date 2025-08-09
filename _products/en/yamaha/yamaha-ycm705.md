@@ -32,7 +32,7 @@ The two custom-designed 1-inch diaphragms and gold vapor deposition technology d
 
 $$ \Large \text{0.2} $$
 
-The YCM705's official price is 399 euros (approximately 65,000 JPY). This evaluation is based on the currently available information, such as diaphragm size, pad switches, and high-pass filters. In these aspects, the most affordable competitor with equivalent or superior performance is the Audio-Technica AT2020 (13,200 JPY). The cost-performance is calculated as `13,200 JPY ÷ 65,000 JPY ≒ 0.20`, resulting in a score of 0.2.
+The YCM705's official price is 433 USD. This evaluation is based on the currently available information, such as diaphragm size, pad switches, and high-pass filters. In these aspects, the most affordable competitor with equivalent or superior performance is the Audio-Technica AT2020 (88 USD). The cost-performance is calculated as `88 USD ÷ 433 USD ≒ 0.20`, resulting in a score of 0.2.
 
 At present, no decisive performance advantage can be confirmed to justify this price difference. This rating may be revised in the future if detailed measurement data, such as THD (Total Harmonic Distortion) and SNR (Signal-to-Noise Ratio), are released and demonstrate a performance that significantly surpasses its competitors.
 
@@ -50,6 +50,6 @@ The target application for streamers and musicians aligns with current market ne
 
 ## Advice
 
-For those considering purchasing the YCM705, we strongly recommend first comparing it with the Audio-Technica AT2020 (13,200 JPY) and Rode NT1-A (19,580 JPY). These products offer equivalent or superior technical specifications at substantially lower prices and are widely recommended for beginners to intermediate users. Based on currently available information, no clear performance advantages can be confirmed to justify the nearly 5-fold price difference of the YCM705. While this evaluation may change with the future release of detailed measurement data, more affordable competing products are overwhelmingly advantageous under current rational judgment criteria. In the same 65,000 JPY price range, there are also abundant options for higher-performance professional microphones. We strongly recommend comparing actual sound quality with competing products through listening tests before purchase.
+For those considering purchasing the YCM705, we strongly recommend first comparing it with the Audio-Technica AT2020 (88 USD) and Rode NT1-A (131 USD). These products offer equivalent or superior technical specifications at substantially lower prices and are widely recommended for beginners to intermediate users. Based on currently available information, no clear performance advantages can be confirmed to justify the nearly 5-fold price difference of the YCM705. While this evaluation may change with the future release of detailed measurement data, more affordable competing products are overwhelmingly advantageous under current rational judgment criteria. In the same 433 USD price range, there are also abundant options for higher-performance professional microphones. We strongly recommend comparing actual sound quality with competing products through listening tests before purchase.
 
 (2025.7.23)

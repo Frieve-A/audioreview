@@ -34,9 +34,9 @@ RME's technology level is among the industry's highest. SteadyClock FS technolog
 $$ \Large \text{0.5} $$
 
 RME's cost-performance is at an average level when compared with products offering similar functionality and measured performance. To assess the company's overall CP, we compare it with functionally equivalent audio interface products.
-- **Babyface Pro FS (approx. 130,000 JPY)**: Compared to the `MOTU M4 (approx. 40,000 JPY)`, which has core features of 2 mic preamps and 4-in/4-out, the CP value is about 0.31.
-- **ADI-2 DAC FS (approx. 180,000 JPY)**: As this is a DAC product, it is compared with a similar category item, the `Topping D90III SABRE (approx. 130,000 JPY)`, yielding a CP value of about 0.72.
-- **Fireface UFX III (approx. 400,000 JPY)**: As a professional unit with multi-channel I/O, it is compared with the `MOTU 828 (2024) (approx. 180,000 JPY)`, which has equivalent or better functionality and measured performance, resulting in a CP value of about 0.45.
+- **Babyface Pro FS (approx. 867 USD)**: Compared to the `MOTU M4 (approx. 267 USD)`, which has core features of 2 mic preamps and 4-in/4-out, the CP value is about 0.31.
+- **ADI-2 DAC FS (approx. 1,200 USD)**: As this is a DAC product, it is compared with a similar category item, the `Topping D90III SABRE (approx. 867 USD)`, yielding a CP value of about 0.72.
+- **Fireface UFX III (approx. 2,667 USD)**: As a professional unit with multi-channel I/O, it is compared with the `MOTU 828 (2024) (approx. 1,200 USD)`, which has equivalent or better functionality and measured performance, resulting in a CP value of about 0.45.
 The average of these values is approximately 0.49, leading to a score of 0.5. While not the best choice for pure price-to-performance ratio, RME's value lies in the absolute stability of its drivers and long-term reliability, which many users find justifies the price difference in a professional environment.
 
 ## Reliability & Support

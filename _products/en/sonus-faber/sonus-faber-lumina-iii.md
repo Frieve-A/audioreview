@@ -13,7 +13,7 @@ permalink: /products/en/sonus-faber-lumina-iii/
 ---
 ## Overview
 
-The Sonus Faber Lumina III is a 3-way floorstanding speaker positioned at the entry level of the company's lineup. It features a 1.14-inch DAD (Damped Apex Dome) tweeter, 5-inch pulp cone midrange, and dual 5-inch pulp cone woofers, with crossover points at 350Hz and 3.5kHz. Priced at 368,500 yen in the Japanese market, it shares tweeter and midrange drivers with the company's higher-end Sonetto series. The product is positioned as showcasing Italian design beauty and traditional woodworking techniques.
+The Sonus Faber Lumina III is a 3-way floorstanding speaker positioned at the entry level of the company's lineup. It features a 1.14-inch DAD (Damped Apex Dome) tweeter, 5-inch pulp cone midrange, and dual 5-inch pulp cone woofers, with crossover points at 350Hz and 3.5kHz. Priced at 2,457 USD in the Japanese market, it shares tweeter and midrange drivers with the company's higher-end Sonetto series. The product is positioned as showcasing Italian design beauty and traditional woodworking techniques.
 
 ## Scientific Validity
 
@@ -31,7 +31,7 @@ The adoption of the same DAD tweeter and 5-inch midrange units from the higher-e
 
 $$ \Large \text{0.4} $$
 
-Against the price of 368,500 yen, products offering equivalent or superior functionality and measured performance include the ELAC Debut 2.0 F5.2 (148,500 yen). This product is a 3-way bass-reflex floorstanding speaker with 42-35kHz (±3dB) frequency response, 86dB sensitivity, and 6-ohm nominal impedance. It adopts sophisticated acoustic engineering by Andrew Jones and advanced driver technologies including aramid fiber woofers. The calculation 148,500 yen ÷ 368,500 yen = 0.403, rounded to a score of 0.4. In the same price range, products like the Wharfedale Diamond 12.3 (100,000 yen) also provide equivalent or superior measured performance, making the Lumina III's pricing unreasonable. Excluding Italian design brand value, a significant price premium exists in pure performance-to-price ratio.
+Against the price of 2,457 USD, products offering equivalent or superior functionality and measured performance include the ELAC Debut 2.0 F5.2 (990 USD). This product is a 3-way bass-reflex floorstanding speaker with 42-35kHz (±3dB) frequency response, 86dB sensitivity, and 6-ohm nominal impedance. It adopts sophisticated acoustic engineering by Andrew Jones and advanced driver technologies including aramid fiber woofers. The calculation 990 USD ÷ 2,457 USD = 0.403, rounded to a score of 0.4. In the same price range, products like the Wharfedale Diamond 12.3 (667 USD) also provide equivalent or superior measured performance, making the Lumina III's pricing unreasonable. Excluding Italian design brand value, a significant price premium exists in pure performance-to-price ratio.
 
 ## Reliability & Support
 

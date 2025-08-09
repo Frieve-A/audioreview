@@ -31,7 +31,7 @@ The technical highlight of the MR5 is its tri-amped configuration, which is unco
 
 $$ \Large \text{0.7} $$
 
-The MR5 is priced at 270 USD (pair). For comparison, the most affordable competitor with equivalent core functionality (5-inch class, active, Bluetooth-equipped) is the "Pioneer DJ DM-50D-BT". Based on the Japanese market price, the Pioneer model costs approximately 201 USD (converted from 29,700 JPY). The cost-performance score is calculated by dividing the competitor's price by the review target's price: `201 USD ÷ 270 USD = 0.74...`, which rounds to a score of 0.7. Although the MR5 has advantages like its tri-amped configuration and LDAC support, a more affordable alternative exists for basic monitoring and Bluetooth connectivity. Therefore, its cost-performance is above average but not outstanding.
+The MR5 is priced at 270 USD (pair). For comparison, the most affordable competitor with equivalent core functionality (5-inch class, active, Bluetooth-equipped) is the "Pioneer DJ DM-50D-BT". Based on the Japanese market price, the Pioneer model costs approximately 198 USD. The cost-performance score is calculated by dividing the competitor's price by the review target's price: `198 USD ÷ 270 USD = 0.74...`, which rounds to a score of 0.7. Although the MR5 has advantages like its tri-amped configuration and LDAC support, a more affordable alternative exists for basic monitoring and Bluetooth connectivity. Therefore, its cost-performance is above average but not outstanding.
 
 ## Reliability & Support
 

@@ -13,7 +13,7 @@ permalink: /products/en/lo-d-hma-9500mkii/
 ---
 ## Overview
 
-The Lo-D HMA-9500mkII is a stereo power amplifier manufactured by Hitachi from 1980 to 1984. The original HMA-9500, released in 1977, holds historical significance as the "world's first power amplifier using power MOS FETs." The mkII version was sold at a high price of 270,000 yen at the time and was claimed to excel in high-frequency characteristics and linearity. Its circuit featured a simple 3-stage DC amplifier design, eliminating coupling capacitors to pursue faithful signal reproduction.
+The Lo-D HMA-9500mkII is a stereo power amplifier manufactured by Hitachi from 1980 to 1984. The original HMA-9500, released in 1977, holds historical significance as the "world's first power amplifier using power MOS FETs." The mkII version was sold at a high price of 1800 USD at the time and was claimed to excel in high-frequency characteristics and linearity. Its circuit featured a simple 3-stage DC amplifier design, eliminating coupling capacitors to pursue faithful signal reproduction.
 
 ## Scientific Validity
 
@@ -31,7 +31,7 @@ While the historical significance of being the first to adopt power MOS FETs is 
 
 $$ \Large \text{0.2} $$
 
-Against the current used market price of approximately 110,000 yen, modern amplifiers with comprehensively superior performance exist at a fraction of the cost. For example, the Fosi Audio V3 (approx. 20,999 yen) boasts higher output and incomparably better measured performance, such as a THD+N below 0.005% and an SNR above 110dB. The cost-performance calculation is "20,999 yen ÷ 110,000 yen ≈ 0.19," resulting in an extremely low score of 0.2 after rounding. Excluding its vintage appeal, its pure performance-to-price ratio is not even in the same league as modern products.
+Against the current used market price of approximately 733 USD, modern amplifiers with comprehensively superior performance exist at a fraction of the cost. For example, the Fosi Audio V3 (approx. 140 USD) boasts higher output and incomparably better measured performance, such as a THD+N below 0.005% and an SNR above 110dB. The cost-performance calculation is "140 USD ÷ 733 USD ≈ 0.19," resulting in an extremely low score of 0.2 after rounding. Excluding its vintage appeal, its pure performance-to-price ratio is not even in the same league as modern products.
 
 ## Reliability & Support
 
@@ -47,6 +47,6 @@ The design philosophy, once considered advanced, reveals many irrational aspects
 
 ## Advice
 
-The Lo-D HMA-9500mkII is a product with value as a historical milestone, but it cannot be recommended for today's audiophiles seeking pure sound quality and performance. By choosing a modern Class D amplifier like the Fosi Audio V3 for around 20,000 yen, you will get an experience that is overwhelmingly superior in measured performance, reliability, and functionality. If you consider buying it for collection purposes, you must be fully prepared for high maintenance costs and the constant risk of failure. For building a modern listening environment, you should turn your attention to more rational and higher-performing alternatives.
+The Lo-D HMA-9500mkII is a product with value as a historical milestone, but it cannot be recommended for today's audiophiles seeking pure sound quality and performance. By choosing a modern Class D amplifier like the Fosi Audio V3 for around 140 USD, you will get an experience that is overwhelmingly superior in measured performance, reliability, and functionality. If you consider buying it for collection purposes, you must be fully prepared for high maintenance costs and the constant risk of failure. For building a modern listening environment, you should turn your attention to more rational and higher-performing alternatives.
 
 (2025.7.21)

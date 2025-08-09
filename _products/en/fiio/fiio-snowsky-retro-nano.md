@@ -13,7 +13,7 @@ permalink: /products/en/fiio-snowsky-retro-nano/
 ---
 ## Overview
 
-The SNOWSKY RETRO NANO is a portable Bluetooth DAC/headphone amplifier introduced as the first product from FiiO's new sub-brand, "SNOWSKY." Despite its ultra-lightweight design of 28.3g, it is equipped with dual CS43131 DAC chips and a Qualcomm QCC5125 Bluetooth 5.1 chipset. It supports high-quality codecs like LDAC and aptX Adaptive, and notably features both a 3.5mm single-ended and a **4.4mm balanced output**. Characterized by its retro design mimicking a vintage tape recorder and a user-replaceable 350mAh battery, it boasts high cost-performance with a retail price of around 10,000 JPY (approx. 70 USD).
+The SNOWSKY RETRO NANO is a portable Bluetooth DAC/headphone amplifier introduced as the first product from FiiO's new sub-brand, "SNOWSKY." Despite its ultra-lightweight design of 28.3g, it is equipped with dual CS43131 DAC chips and a Qualcomm QCC5125 Bluetooth 5.1 chipset. It supports high-quality codecs like LDAC and aptX Adaptive, and notably features both a 3.5mm single-ended and a **4.4mm balanced output**. Characterized by its retro design mimicking a vintage tape recorder and a user-replaceable 350mAh battery, it boasts high cost-performance with a retail price of around 67 USD.
 
 ## Scientific Validity
 
@@ -31,7 +31,7 @@ In terms of technology, the RETRO NANO maintains an above-average industry stand
 
 $$ \Large \text{1.0} $$
 
-The cost-performance receives the highest rating of 1.0. This product offers a **4.4mm balanced output**, support for the latest high-quality codecs including LDAC and aptX Adaptive, and the unique feature of a replaceable battery, all at a price of around 10,000 JPY. While competitors exist, such as the cheaper FiiO BTR3K or the more feature-rich Qudelix-5K, no other model offers the combination of a 4.4mm balanced output and aptX Adaptive support at this price point, let alone with a replaceable battery. Therefore, for this unique set of features and performance, it is the most affordable option on the market, earning a perfect score.
+The cost-performance receives the highest rating of 1.0. This product offers a **4.4mm balanced output**, support for the latest high-quality codecs including LDAC and aptX Adaptive, and the unique feature of a replaceable battery, all at a price of around 67 USD. While competitors exist, such as the cheaper FiiO BTR3K or the more feature-rich Qudelix-5K, no other model offers the combination of a 4.4mm balanced output and aptX Adaptive support at this price point, let alone with a replaceable battery. Therefore, for this unique set of features and performance, it is the most affordable option on the market, earning a perfect score.
 
 ## Reliability & Support
 
@@ -47,6 +47,6 @@ The design philosophy is rational. It adopts a scientific approach to sound qual
 
 ## Advice
 
-For users seeking maximum features and performance on a budget of around 10,000 JPY (approx. 70 USD), the SNOWSKY RETRO NANO is one of the best choices currently available. It combines high-quality sound from its 4.4mm balanced output, support for the latest codecs, and long-term usability via its replaceable battery, making its cost-performance exceptional. The unique retro design also adds to its appeal. If you require advanced EQ functions, the Qudelix-5K might be worth considering, but the overall value of this product is extremely high, and it can be confidently recommended to a wide range of users.
+For users seeking maximum features and performance on a budget of around 67 USD, the SNOWSKY RETRO NANO is one of the best choices currently available. It combines high-quality sound from its 4.4mm balanced output, support for the latest codecs, and long-term usability via its replaceable battery, making its cost-performance exceptional. The unique retro design also adds to its appeal. If you require advanced EQ functions, the Qudelix-5K might be worth considering, but the overall value of this product is extremely high, and it can be confidently recommended to a wide range of users.
 
 (2025.7.29)

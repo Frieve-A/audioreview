@@ -31,7 +31,7 @@ Implementation includes industry-leading technologies: CustomTune, Immersive Aud
 
 $$ \Large \text{0.8} $$
 
-US market price of USD 299 competes appropriately with Sony WF-1000XM5 (USD 160 equivalent to JPY 23,900), Apple AirPods Pro 2 (USD 186 equivalent to JPY 27,698), and Sennheiser MOMENTUM True Wireless 4 (USD 299.95). Considering industry-leading ANC performance, CustomTune technology, and Immersive Audio functionality, the price aligns with technical added value. Particularly, the measured 39dB noise attenuation above 1kHz clearly exceeds competitor performance. Against the lowest-priced Sony WF-1000XM5: CP = 160 ÷ 199 = 0.80, indicating competitive pricing within the premium segment based on equivalent JPY 28,880 pricing.
+US market price of USD 299 competes appropriately with Sony WF-1000XM5 (USD 160 equivalent to 159 USD), Apple AirPods Pro 2 (USD 186 equivalent to 185 USD), and Sennheiser MOMENTUM True Wireless 4 (USD 299.95). Considering industry-leading ANC performance, CustomTune technology, and Immersive Audio functionality, the price aligns with technical added value. Particularly, the measured 39dB noise attenuation above 1kHz clearly exceeds competitor performance. Against the lowest-priced Sony WF-1000XM5: CP = 160 ÷ 199 = 0.80, indicating competitive pricing within the premium segment based on equivalent 193 USD pricing.
 
 ## Reliability & Support
 

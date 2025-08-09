@@ -13,7 +13,7 @@ permalink: /products/en/kz-krila/
 ---
 ## Overview
 
-The KZ Krila is an in-ear earphone with a hybrid configuration, combining a 10mm XUN dynamic driver and a 30095 balanced armature driver. Its main feature is a 4-stage tuning switch system, allowing for 16 different acoustic settings. It includes a silver-plated cable and uses QDC connectors. The current market price is 3,380 JPY (approximately 23 USD). The company markets this model as a "kilobuck killer," but its actual performance places it within the competitive landscape of the budget segment.
+The KZ Krila is an in-ear earphone with a hybrid configuration, combining a 10mm XUN dynamic driver and a 30095 balanced armature driver. Its main feature is a 4-stage tuning switch system, allowing for 16 different acoustic settings. It includes a silver-plated cable and uses QDC connectors. The current market price is 23 USD. The company markets this model as a "kilobuck killer," but its actual performance places it within the competitive landscape of the budget segment.
 
 ## Scientific Validity
 
@@ -31,9 +31,9 @@ The implementation of a hybrid driver configuration and a 4-stage tuning switch 
 
 $$ \Large \text{0.7} $$
 
-The evaluation is based on a comparison with the world's cheapest product offering equivalent or superior functionality (4-stage tuning switch) and measured performance. Compared to the KZ Krila's market price of 3,380 JPY, the "CCA Polaris," a hybrid earphone that also features tuning switches, is available for approximately 2,500 JPY. There is no significant superiority in the measured performance of either model, and the value delivered to the user can be considered equivalent.
+The evaluation is based on a comparison with the world's cheapest product offering equivalent or superior functionality (4-stage tuning switch) and measured performance. Compared to the KZ Krila's market price of 23 USD, the "CCA Polaris," a hybrid earphone that also features tuning switches, is available for approximately 17 USD. There is no significant superiority in the measured performance of either model, and the value delivered to the user can be considered equivalent.
 
-`2,500 JPY ÷ 3,380 JPY = 0.739...`
+`17 USD ÷ 23 USD = 0.739...`
 
 Based on the calculation above, the score is 0.7. As this product is not the cheapest option, its cost-performance does not achieve the highest rating.
 
@@ -51,6 +51,6 @@ The adoption of a hybrid driver configuration and tuning switches is a rational 
 
 ## Advice
 
-The KZ Krila is a product that allows users to experience a hybrid configuration and versatile tuning functions at a low price of 3,380 JPY. However, careful consideration is advised if pure sound quality is the top priority. The sharp peak around 10kHz, in particular, can cause sibilance or unnaturalness in some music and may lead to listening fatigue over long sessions. A cheaper alternative, the "CCA Polaris" (approx. 2,500 JPY), also offers similar functionality. If the tuning function is not a requirement, considering a single dynamic driver product with a more balanced frequency response (e.g., QKZ x HBB) will likely result in a more satisfying outcome for most users.
+The KZ Krila is a product that allows users to experience a hybrid configuration and versatile tuning functions at a low price of 23 USD. However, careful consideration is advised if pure sound quality is the top priority. The sharp peak around 10kHz, in particular, can cause sibilance or unnaturalness in some music and may lead to listening fatigue over long sessions. A cheaper alternative, the "CCA Polaris" (approx. 17 USD), also offers similar functionality. If the tuning function is not a requirement, considering a single dynamic driver product with a more balanced frequency response (e.g., QKZ x HBB) will likely result in a more satisfying outcome for most users.
 
 (2025.8.1)

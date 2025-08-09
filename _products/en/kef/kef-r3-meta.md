@@ -31,7 +31,7 @@ The 12th generation Uni-Q driver array features a unique design with a 25mm alum
 
 $$ \Large \text{1.0} $$
 
-The KEF R3 Meta's market price is approximately 350,000 JPY. Taking into account the proprietary technologies this product offers, such as the Uni-Q driver and MAT technology, as well as its high performance demonstrated by measurement data (e.g., low distortion, excellent frequency response), it is difficult to find a more affordable alternative with equivalent or superior performance in the current market. Based on the review policy, since no comparable, cheaper alternative exists, the cost-performance is rated 1.0.
+The KEF R3 Meta's market price is approximately 2333 USD. Taking into account the proprietary technologies this product offers, such as the Uni-Q driver and MAT technology, as well as its high performance demonstrated by measurement data (e.g., low distortion, excellent frequency response), it is difficult to find a more affordable alternative with equivalent or superior performance in the current market. Based on the review policy, since no comparable, cheaper alternative exists, the cost-performance is rated 1.0.
 
 ## Reliability & Support
 

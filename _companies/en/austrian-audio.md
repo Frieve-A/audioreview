@@ -31,7 +31,7 @@ Austrian Audio's technology level ranks among the industry's highest standards. 
 
 $$ \Large \text{0.4} $$
 
-Austrian Audio's cost-performance is limited. The OC818 (187,500 JPY) can be compared with the Aston Spirit (67,500 JPY, approx. 450 USD) as a professional-grade microphone with equivalent multi-polar functionality. The Aston Spirit supports three polar patterns (cardioid, omnidirectional, bidirectional) and provides sufficient sound quality and durability for professional studio use, making it a functional alternative to the OC818. Based on the calculation formula `67,500 JPY ÷ 187,500 JPY = 0.36`, the score is 0.4 when rounded. While it has a price advantage compared to the Neumann U87 Ai (539,250 JPY), its absolute cost-performance is rated below average due to the existence of a more affordable, functionally equivalent alternative.
+Austrian Audio's cost-performance is limited. The OC818 (1250 USD) can be compared with the Aston Spirit (450 USD) as a professional-grade microphone with equivalent multi-polar functionality. The Aston Spirit supports three polar patterns (cardioid, omnidirectional, bidirectional) and provides sufficient sound quality and durability for professional studio use, making it a functional alternative to the OC818. Based on the calculation formula `450 USD ÷ 1250 USD = 0.36`, the score is 0.4 when rounded. While it has a price advantage compared to the Neumann U87 Ai (3595 USD), its absolute cost-performance is rated below average due to the existence of a more affordable, functionally equivalent alternative.
 
 ## Reliability & Support
 

@@ -32,7 +32,7 @@ Technically, this represents standard entry-level design. The Dynamic Balance co
 
 $$ \Large \text{0.9} $$
 
-Cost-performance is evaluated at 0.9. Against the MXT60's regular retail price of 199 USD (about 30,845 JPY), the JBL Stage A170 with equivalent or superior function and performance is available for 180 USD (about 27,900 JPY). The A170 offers superior 89dB sensitivity, 44Hz-40kHz frequency response, dual 5.25-inch woofer configuration, plus advanced 1-inch aluminum dome tweeter with HDI waveguide technology, providing specifications that exceed the MXT60. Based on the review policy, the score is calculated by dividing the competitor's price by the target product's price. The calculation is `27,900 JPY ÷ 30,845 JPY = 0.905`, which rounds to an evaluation of 0.9.
+Cost-performance is evaluated at 0.9. Against the MXT60's regular retail price of 199 USD (about 206 USD), the JBL Stage A170 with equivalent or superior function and performance is available for 180 USD (about 186 USD). The A170 offers superior 89dB sensitivity, 44Hz-40kHz frequency response, dual 5.25-inch woofer configuration, plus advanced 1-inch aluminum dome tweeter with HDI waveguide technology, providing specifications that exceed the MXT60. Based on the review policy, the score is calculated by dividing the competitor's price by the target product's price. The calculation is `186 USD ÷ 206 USD = 0.905`, which rounds to an evaluation of 0.9.
 
 ## Reliability & Support
 

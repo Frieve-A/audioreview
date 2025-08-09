@@ -31,7 +31,7 @@ The Advanced HC transistor technology and dual FET input stage design represent 
 
 $$ \Large \text{1.0} $$
 
-With a current used market price averaging around 20,000 JPY, the PMA-390RE offers exceptional value. Its key advantage lies in its comprehensive feature set, including multiple switchable line inputs and a dedicated phono stage. To find a new, currently available integrated amplifier with a comparable set of features and performance, one would need to consider models like the Yamaha A-S301, which retails for approximately 40,000 JPY. As the PMA-390RE provides equivalent or superior functionality at less than half the price of its nearest new competitor, it achieves the highest possible score of 1.0 for cost-performance.
+With a current used market price averaging around 133 USD, the PMA-390RE offers exceptional value. Its key advantage lies in its comprehensive feature set, including multiple switchable line inputs and a dedicated phono stage. To find a new, currently available integrated amplifier with a comparable set of features and performance, one would need to consider models like the Yamaha A-S301, which retails for approximately 267 USD. As the PMA-390RE provides equivalent or superior functionality at less than half the price of its nearest new competitor, it achieves the highest possible score of 1.0 for cost-performance.
 
 ## Reliability & Support
 
@@ -47,7 +47,7 @@ The design philosophy of the PMA-390RE is focused on being an integrated amplifi
 
 ## Advice
 
-When considering the Denon PMA-390RE, buyers should focus on its functional strengths: the inclusion of multiple analog inputs and a phono preamp. Its officially stated performance (THD 0.01%, SNR 107dB) meets modern transparency standards, making it a scientifically sound choice. For a used price of around 20,000 JPY, it presents an outstanding value proposition, offering connectivity features often missing in modern, minimalist Class-D amplifiers.
+When considering the Denon PMA-390RE, buyers should focus on its functional strengths: the inclusion of multiple analog inputs and a phono preamp. Its officially stated performance (THD 0.01%, SNR 107dB) meets modern transparency standards, making it a scientifically sound choice. For a used price of around 133 USD, it presents an outstanding value proposition, offering connectivity features often missing in modern, minimalist Class-D amplifiers.
 
 If your system is built around analog sources like a CD player, tuner, and turntable, the PMA-390RE is an exceptionally cost-effective and excellent choice. However, if you prioritize a compact size, digital inputs (like USB or Bluetooth), and power efficiency, a modern alternative such as the SMSL A300 would be a more suitable option. The choice depends entirely on your specific needs rather than a clear superiority of one over the other.
 

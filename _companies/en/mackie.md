@@ -31,7 +31,7 @@ Mackie's technology level remains at the industry average, with limited innovati
 
 $$ \Large \text{0.8} $$
 
-The cost-performance of Mackie products varies significantly by product. This review evaluates it based on the entry-level CR3-X and the flagship MR524 as representative examples. The CR3-X, at around 13,000 JPY per pair, is at the lowest price point in its class, and its standalone cost-performance is good at around 0.9. In contrast, the flagship MR524 (approx. 22,000 JPY each) faces competition from products like the JBL 305P MkII, which is cheaper (approx. 15,000 JPY each) and offers demonstrably superior measured performance. The cost-performance of the MR524 is 0.7, based on the calculation `15,000 JPY / 22,000 JPY ≈ 0.68`. While the entry-level product performs well, considering the disadvantage of the flagship product, the company's overall cost-performance is rated at 0.8, the average of the two.
+The cost-performance of Mackie products varies significantly by product. This review evaluates it based on the entry-level CR3-X and the flagship MR524 as representative examples. The CR3-X, at around 87 USD per pair, is at the lowest price point in its class, and its standalone cost-performance is good at around 0.9. In contrast, the flagship MR524 (approx. 147 USD each) faces competition from products like the JBL 305P MkII, which is cheaper (approx. 100 USD each) and offers demonstrably superior measured performance. The cost-performance of the MR524 is 0.7, based on the calculation `100 USD / 147 USD ≈ 0.68`. While the entry-level product performs well, considering the disadvantage of the flagship product, the company's overall cost-performance is rated at 0.8, the average of the two.
 
 ## Reliability & Support
 

@@ -32,7 +32,7 @@ FSC focuses primarily on OEM/ODM manufacturing, with limited proprietary acousti
 
 $$ \Large \text{0.7} $$
 
-FSC products are characterized by low-price offerings, but they are not necessarily superior when compared to competitive products with equivalent sound quality. For example, compared to FSC's generic earphones (3,000 JPY), products like QCY T13 (2,199 JPY) exist with superior measurement performance at lower prices. Calculation: 2,199 JPY ÷ 3,000 JPY = 0.73, which rounds to 0.7. While they have price competitiveness as an OEM/ODM business, differentiation is insufficient for end-user products compared to other Chinese brands.
+FSC products are characterized by low-price offerings, but they are not necessarily superior when compared to competitive products with equivalent sound quality. For example, compared to FSC's generic earphones (20 USD), products like QCY T13 (15 USD) exist with superior measurement performance at lower prices. Calculation: 15 USD ÷ 20 USD = 0.73, which rounds to 0.7. While they have price competitiveness as an OEM/ODM business, differentiation is insufficient for end-user products compared to other Chinese brands.
 
 ## Reliability & Support
 
@@ -48,6 +48,6 @@ FSC's design philosophy focuses primarily on cost reduction and mass production 
 
 ## Advice
 
-We recommend considering FSC products only for applications where low price is the absolute priority. For sound quality-focused use, choosing Chinese brands with superior measurement performance in the same price range, such as QCY, SoundPEATS, or Anker Soundcore, is advisable. Particularly for earphones, competitive products in the 2,000 JPY range show superior results in frequency response, THD, and S/N ratio compared to FSC's generic products. When using them as an OEM/ODM business partner, strict specification management and quality inspection are essential to ensure final product sound quality. For long-term use or music appreciation purposes, we strongly recommend purchasing from more technically sophisticated brands. It is difficult to find rational reasons to choose FSC under current market conditions, which is our objective evaluation.
+We recommend considering FSC products only for applications where low price is the absolute priority. For sound quality-focused use, choosing Chinese brands with superior measurement performance in the same price range, such as QCY, SoundPEATS, or Anker Soundcore, is advisable. Particularly for earphones, competitive products in the 13 USD range show superior results in frequency response, THD, and S/N ratio compared to FSC's generic products. When using them as an OEM/ODM business partner, strict specification management and quality inspection are essential to ensure final product sound quality. For long-term use or music appreciation purposes, we strongly recommend purchasing from more technically sophisticated brands. It is difficult to find rational reasons to choose FSC under current market conditions, which is our objective evaluation.
 
 (2025.7.16)

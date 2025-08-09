@@ -32,7 +32,7 @@ SteelSeries achieves real-time voice processing and noise cancelling through pro
 
 $$ \Large \text{0.8} $$
 
-The flagship Arctis Nova Pro Wireless retails for 40,378 yen. The Logicool G PRO X 2 LIGHTSPEED with equivalent or superior functionality is available for 32,175 yen. The G PRO X 2 surpasses the Arctis Nova Pro Wireless in basic functionality and performance with graphene drivers, 50-hour continuous use, Bluetooth/3.5mm/USB support, and wireless/wired compatibility. CP = 32,175 ÷ 40,378 = 0.8.
+The flagship Arctis Nova Pro Wireless retails for 269 USD. The Logicool G PRO X 2 LIGHTSPEED with equivalent or superior functionality is available for 214 USD. The G PRO X 2 surpasses the Arctis Nova Pro Wireless in basic functionality and performance with graphene drivers, 50-hour continuous use, Bluetooth/3.5mm/USB support, and wireless/wired compatibility. CP = 214 ÷ 269 = 0.8.
 
 ## Reliability & Support
 
@@ -48,6 +48,6 @@ The replaceable battery system is a rational design for addressing battery deple
 
 ## Advice
 
-The SteelSeries Arctis Nova Pro Wireless maintains a certain level of completion as a gaming headset with active noise cancelling functionality, but better alternatives exist in the 40,000 yen price range. The Logicool G PRO X 2 LIGHTSPEED at 32,175 yen offers longer battery life and graphene drivers, demonstrating clear superiority in cost performance. When considering SteelSeries products, we recommend carefully evaluating whether the added value of replaceable battery systems and dedicated base stations justifies a price difference exceeding 8,000 yen. For high-quality gaming applications, planar magnetic driver products like the Audeze Maxwell (60,500 yen) in the same price range also warrant consideration.
+The SteelSeries Arctis Nova Pro Wireless maintains a certain level of completion as a gaming headset with active noise cancelling functionality, but better alternatives exist in the 269 USD price range. The Logicool G PRO X 2 LIGHTSPEED at 214 USD offers longer battery life and graphene drivers, demonstrating clear superiority in cost performance. When considering SteelSeries products, we recommend carefully evaluating whether the added value of replaceable battery systems and dedicated base stations justifies a price difference exceeding 53 USD. For high-quality gaming applications, planar magnetic driver products like the Audeze Maxwell (403 USD) in the same price range also warrant consideration.
 
 (2025.7.11)

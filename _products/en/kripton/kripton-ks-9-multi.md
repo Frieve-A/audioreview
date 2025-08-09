@@ -13,7 +13,7 @@ permalink: /products/en/kripton-ks-9-multi/
 ---
 ## Overview
 
-The Kripton KS-9-Multi is an all-in-one digital audio system released in 2019. It features a high-resolution 30mm ring diaphragm tweeter and 85mm woofer, driven by a 2-way 4-amplifier configuration (40W×4, total 160W). As an active speaker system integrating a USB DDC, MQA/DSD-compatible DAC, and digital amplifiers, it was primarily developed for PC audio applications. The frequency response spans 60Hz to 60kHz, with HDMI, USB, optical digital, and analog inputs. Currently discontinued, the original estimated retail price was approximately 280,000 JPY.
+The Kripton KS-9-Multi is an all-in-one digital audio system released in 2019. It features a high-resolution 30mm ring diaphragm tweeter and 85mm woofer, driven by a 2-way 4-amplifier configuration (40W×4, total 160W). As an active speaker system integrating a USB DDC, MQA/DSD-compatible DAC, and digital amplifiers, it was primarily developed for PC audio applications. The frequency response spans 60Hz to 60kHz, with HDMI, USB, optical digital, and analog inputs. Currently discontinued, the original estimated retail price was approximately 1867 USD.
 
 ## Scientific Validity
 
@@ -31,7 +31,7 @@ The design integrating multiple technical elements, including a ring diaphragm t
 
 $$ \Large \text{0.7} $$
 
-For the 280,000 JPY price point, alternative products with more features and superior performance are available at a lower cost. For example, the KEF LSX II (198,000 JPY) offers comparable HDMI ARC, USB, and optical inputs, supports MQA and DSD, and includes extensive network features, all while being significantly less expensive. The cost-performance calculation is: 198,000 JPY ÷ 280,000 JPY = 0.707..., which rounds to 0.7.
+For the 1867 USD price point, alternative products with more features and superior performance are available at a lower cost. For example, the KEF LSX II (1320 USD) offers comparable HDMI ARC, USB, and optical inputs, supports MQA and DSD, and includes extensive network features, all while being significantly less expensive. The cost-performance calculation is: 1320 USD ÷ 1867 USD = 0.707..., which rounds to 0.7.
 
 ## Reliability & Support
 
@@ -43,10 +43,10 @@ Kripton, established in 2000, is a Japanese audio brand with VGP Award recogniti
 
 $$ \Large \text{0.5} $$
 
-The all-in-one design philosophy, aimed at simplifying cable connections and improving installation convenience, is rational. Enhancing versatility with diverse digital inputs is also a positive aspect. However, the design's emphasis on MQA and DSD relies on scientifically unproven claims of sound quality improvement. The 280,000 JPY price is irrational when alternative setups can achieve equivalent or better functionality for much less, diminishing the necessity of this dedicated unit. The lack of public measurement data suggests a development approach that prioritizes marketing features over a scientific approach, resulting in an average level of rationality.
+The all-in-one design philosophy, aimed at simplifying cable connections and improving installation convenience, is rational. Enhancing versatility with diverse digital inputs is also a positive aspect. However, the design's emphasis on MQA and DSD relies on scientifically unproven claims of sound quality improvement. The 1867 USD price is irrational when alternative setups can achieve equivalent or better functionality for much less, diminishing the necessity of this dedicated unit. The lack of public measurement data suggests a development approach that prioritizes marketing features over a scientific approach, resulting in an average level of rationality.
 
 ## Advice
 
-The Kripton KS-9-Multi is discontinued, making the used market the primary source for purchase. For those seeking an all-in-one system with HDMI for a PC audio setup, current products like the KEF LSX II (198,000 JPY) offer more functionality and better cost-performance. If HDMI input is not required and higher performance is the goal, a combination of a high-quality external DAC (e.g., S.M.S.L SU-9 Pro, approx. 55,000 JPY) and active speakers (e.g., Adam Audio T7V pair, 66,000 JPY) can deliver superior measured performance for a total of 121,000 JPY. It is strongly recommended to choose based on measured performance, functionality, and cost-performance rather than a focus on MQA and DSD support.
+The Kripton KS-9-Multi is discontinued, making the used market the primary source for purchase. For those seeking an all-in-one system with HDMI for a PC audio setup, current products like the KEF LSX II (1320 USD) offer more functionality and better cost-performance. If HDMI input is not required and higher performance is the goal, a combination of a high-quality external DAC (e.g., S.M.S.L SU-9 Pro, approx. 367 USD) and active speakers (e.g., Adam Audio T7V pair, 440 USD) can deliver superior measured performance for a total of 807 USD. It is strongly recommended to choose based on measured performance, functionality, and cost-performance rather than a focus on MQA and DSD support.
 
 (2025.7.30)

@@ -31,7 +31,7 @@ The wood fiber cone technology utilizes paper and pulp composite materials to su
 
 $$ \Large \text{0.3} $$
 
-Against the current Japanese market price of 265 USD (39,800 yen), the Yamaha NS-BP200 offering equivalent 2-way passive bookshelf speaker functionality is available for 81 USD (12,150 yen). The NS-BP200 also features 2-way design with compact cabinet, 6Ω load, and basic performance suitable for similar applications, with limited functional differences from a user perspective. Cost-performance calculation: 81 USD ÷ 265 USD = 0.305. With a price difference of more than triple without confirmed clear measurement performance advantages, objective performance-to-price ratio evaluation must be strict. Excluding brand value and subjective audio quality assessments, alternatives exist that achieve equivalent functionality at significantly lower cost.
+Against the current Japanese market price of 265 USD, the Yamaha NS-BP200 offering equivalent 2-way passive bookshelf speaker functionality is available for 81 USD. The NS-BP200 also features 2-way design with compact cabinet, 6Ω load, and basic performance suitable for similar applications, with limited functional differences from a user perspective. Cost-performance calculation: 81 USD ÷ 265 USD = 0.305. With a price difference of more than triple without confirmed clear measurement performance advantages, objective performance-to-price ratio evaluation must be strict. Excluding brand value and subjective audio quality assessments, alternatives exist that achieve equivalent functionality at significantly lower cost.
 
 ## Reliability & Support
 

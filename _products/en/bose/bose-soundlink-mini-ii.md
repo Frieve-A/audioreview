@@ -31,7 +31,7 @@ The conventional configuration of two full-range drivers and passive radiators o
 
 $$ \Large \text{0.2} $$
 
-Against its original launch price of 170 USD (27,000 JPY), numerous more affordable and feature-rich products exist. For example, the Anker Soundcore 2 (37 USD, as of July 2025) and the Sony SRS-XB13 (44 USD, as of July 2025). The Anker product offers a 24-hour battery and IPX7 waterproofing, while the Sony product provides an IP67 waterproof/dustproof rating, 16-hour battery, and USB Type-C charging. The cost-performance, calculated by dividing the average price of these competitors (40.5 USD) by this product's price, is `40.5 USD ÷ 170 USD ≈ 0.24`. Its lack of waterproofing makes it functionally inferior to more affordable competitors.
+Against its original launch price of 170 USD, numerous more affordable and feature-rich products exist. For example, the Anker Soundcore 2 (37 USD, as of July 2025) and the Sony SRS-XB13 (44 USD, as of July 2025). The Anker product offers a 24-hour battery and IPX7 waterproofing, while the Sony product provides an IP67 waterproof/dustproof rating, 16-hour battery, and USB Type-C charging. The cost-performance, calculated by dividing the average price of these competitors (40.5 USD) by this product's price, is `40.5 USD ÷ 170 USD ≈ 0.24`. Its lack of waterproofing makes it functionally inferior to more affordable competitors.
 
 ## Reliability & Support
 

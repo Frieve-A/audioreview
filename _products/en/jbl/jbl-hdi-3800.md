@@ -31,7 +31,7 @@ The HDI waveguide technology is an extremely sophisticated design utilizing fini
 
 $$ \Large \text{0.4} $$
 
-The current market price is 660,000 JPY per pair. As a point of comparison, the Triangle Borea BR10 (275,000 JPY), which also boasts a high sensitivity of 92dB, can be cited. The BR10 features a twin 8-inch woofer configuration and claims superior low-frequency extension (30Hz, ±3dB) in its specifications. Even considering the HDI-3800's advanced waveguide technology and third woofer, a very high-performance option exists for less than half the price within the basic framework of a large, high-sensitivity floor-standing speaker. The cost-performance calculation is: 275,000 JPY ÷ 660,000 JPY ≈ 0.42, which rounds to 0.4. This results in a below-average price-to-performance ratio.
+The current market price is 4400 USD per pair. As a point of comparison, the Triangle Borea BR10 (1833 USD), which also boasts a high sensitivity of 92dB, can be cited. The BR10 features a twin 8-inch woofer configuration and claims superior low-frequency extension (30Hz, ±3dB) in its specifications. Even considering the HDI-3800's advanced waveguide technology and third woofer, a very high-performance option exists for less than half the price within the basic framework of a large, high-sensitivity floor-standing speaker. The cost-performance calculation is: 1833 USD ÷ 4400 USD ≈ 0.42, which rounds to 0.4. This results in a below-average price-to-performance ratio.
 
 ## Reliability & Support
 

@@ -31,7 +31,7 @@ The design employs distinctive technologies including a pure magnesium hard dome
 
 $$ \Large \text{0.9} $$
 
-As a comparator (example of a current active monitor delivering equivalent practical performance), we adopt the Genelec 8030C pair at approximately 260,000 yen. Meanwhile, used-market transactions for the RS‑N2 pair exist around 300,000 yen. Calculation: 260,000 yen ÷ 300,000 yen = 0.87 → 0.9. Even considering availability and maintenance differences, the 8030C offers strong price‑to‑performance as a modern alternative (prices vary by time and region).
+As a comparator (example of a current active monitor delivering equivalent practical performance), we adopt the Genelec 8030C pair at approximately 1,733 USD. Meanwhile, used-market transactions for the RS‑N2 pair exist around 2,000 USD. Calculation: 1,733 USD ÷ 2,000 USD = 0.87 → 0.9. Even considering availability and maintenance differences, the 8030C offers strong price‑to‑performance as a modern alternative (prices vary by time and region).
 
 ## Reliability & Support
 

@@ -31,7 +31,7 @@ The UMC404HD's incorporation of MIDAS-designed microphone preamps and adoption o
 
 $$ \Large \text{1.0} $$
 
-Products with equivalent functionality to the UMC404HD (approximately 40,000 JPY) include the MOTU M4 (approximately 48,000 JPY) and Focusrite Scarlett 4i4 4th Gen (approximately 45,000 JPY). Comparison with the cheapest competitor, Focusrite Scarlett 4i4 4th Gen, yields 45,000 JPY ÷ 40,000 JPY = 1.125, but this is clamped at 1.0 for the final score. The UMC404HD is effectively the lowest-priced 4-input/4-output USB 2.0 audio interface, with no cheaper alternatives offering equivalent or superior functionality and performance. Similarly, in the synthesizer field, they provide classic equipment reissues at extremely low prices, earning the highest evaluation for pure price-to-function ratio.
+Products with equivalent functionality to the UMC404HD (approximately 267 USD) include the MOTU M4 (approximately 320 USD) and Focusrite Scarlett 4i4 4th Gen (approximately 300 USD). Comparison with the cheapest competitor, Focusrite Scarlett 4i4 4th Gen, yields 300 USD ÷ 267 USD = 1.125, but this is clamped at 1.0 for the final score. The UMC404HD is effectively the lowest-priced 4-input/4-output USB 2.0 audio interface, with no cheaper alternatives offering equivalent or superior functionality and performance. Similarly, in the synthesizer field, they provide classic equipment reissues at extremely low prices, earning the highest evaluation for pure price-to-function ratio.
 
 ## Reliability & Support
 
@@ -47,6 +47,6 @@ The basic concept of providing professional-quality equipment at low prices is r
 
 ## Advice
 
-Behringer products are viable options for price-conscious users. The UMC404HD is in the current lowest price range for 4-input/4-output audio interfaces and provides excellent cost-performance considering features like MIDAS-designed preamps and 24bit/192kHz support. It's suitable for beginners to intermediate users who want to start music production on a budget. However, for those seeking higher audio quality and stability, investment in alternatives like the Focusrite Scarlett 4i4 4th Gen (approximately 45,000 JPY) or MOTU M4 (approximately 48,000 JPY) is worth considering. Regarding synthesizers, they offer value in experiencing classic equipment sounds at low prices, making them sufficiently practical for hobby and learning purposes. For pure price-to-function ratio, they represent industry-leading choices.
+Behringer products are viable options for price-conscious users. The UMC404HD is in the current lowest price range for 4-input/4-output audio interfaces and provides excellent cost-performance considering features like MIDAS-designed preamps and 24bit/192kHz support. It's suitable for beginners to intermediate users who want to start music production on a budget. However, for those seeking higher audio quality and stability, investment in alternatives like the Focusrite Scarlett 4i4 4th Gen (approximately 300 USD) or MOTU M4 (approximately 320 USD) is worth considering. Regarding synthesizers, they offer value in experiencing classic equipment sounds at low prices, making them sufficiently practical for hobby and learning purposes. For pure price-to-function ratio, they represent industry-leading choices.
 
 (2025.7.16)

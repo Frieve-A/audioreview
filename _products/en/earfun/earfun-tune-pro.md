@@ -13,7 +13,7 @@ permalink: /products/en/earfun-tune-pro/
 ---
 ## Overview
 
-The EarFun Tune Pro is a wireless over-ear headphone released in December 2024, featuring an exceptional 120-hour battery life as its primary selling point. Manufactured by Chinese company EarFun, this model offers a comprehensive feature set at a market price of 8,990 JPY in Japan, including hybrid Active Noise Cancelling (ANC), Bluetooth 5.4, and multipoint connection capabilities. The dual-driver configuration with 40mm and 10mm drivers has earned Hi-Res Audio certification, positioning it as an entry-level product that caters to a specific user need.
+The EarFun Tune Pro is a wireless over-ear headphone released in December 2024, featuring an exceptional 120-hour battery life as its primary selling point. Manufactured by Chinese company EarFun, this model offers a comprehensive feature set at a market price of 60 USD in Japan, including hybrid Active Noise Cancelling (ANC), Bluetooth 5.4, and multipoint connection capabilities. The dual-driver configuration with 40mm and 10mm drivers has earned Hi-Res Audio certification, positioning it as an entry-level product that caters to a specific user need.
 
 ## Scientific Validity
 
@@ -31,7 +31,7 @@ Technically, the EarFun Tune Pro lacks notable innovation. The combination of a 
 
 $$ \Large \text{1.0} $$
 
-This product demonstrates outstanding cost-performance for its unique feature set. At its market price of 8,990 JPY, there are no other products on the current market that meet all three criteria: Active Noise Cancelling, multipoint connection, and a battery life of 120 hours or more. Cheaper alternatives significantly compromise on battery performance or lack one of the key features. Therefore, for users who require this unparalleled stamina as a mandatory condition, this product is the most affordable and only option available, earning it a perfect score for cost-performance.
+This product demonstrates outstanding cost-performance for its unique feature set. At its market price of 60 USD, there are no other products on the current market that meet all three criteria: Active Noise Cancelling, multipoint connection, and a battery life of 120 hours or more. Cheaper alternatives significantly compromise on battery performance or lack one of the key features. Therefore, for users who require this unparalleled stamina as a mandatory condition, this product is the most affordable and only option available, earning it a perfect score for cost-performance.
 
 ## Reliability & Support
 
@@ -47,6 +47,6 @@ The design philosophy focuses on extreme specialization in one feature and cost 
 
 ## Advice
 
-When considering the EarFun Tune Pro, the deciding factor is whether battery performance is your absolute top priority. If your primary goal is to find an ANC headphone with multipoint connectivity and you want to minimize charging as much as possible, then this product, offering 120 hours of runtime for 8,990 JPY, is a unique and highly recommended choice. However, for the majority of users who are satisfied with a battery life of around 40 hours, more cost-effective and balanced alternatives like the Anker Soundcore Life Q30 (approx. 6,500 JPY) would be a better choice. If music listening is the main purpose, it is essential to audition the product beforehand to ensure its distinct V-shaped sound signature is acceptable to you.
+When considering the EarFun Tune Pro, the deciding factor is whether battery performance is your absolute top priority. If your primary goal is to find an ANC headphone with multipoint connectivity and you want to minimize charging as much as possible, then this product, offering 120 hours of runtime for 60 USD, is a unique and highly recommended choice. However, for the majority of users who are satisfied with a battery life of around 40 hours, more cost-effective and balanced alternatives like the Anker Soundcore Life Q30 (approx. 43 USD) would be a better choice. If music listening is the main purpose, it is essential to audition the product beforehand to ensure its distinct V-shaped sound signature is acceptable to you.
 
 (2025.7.22)

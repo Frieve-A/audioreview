@@ -7,13 +7,13 @@ lang: en
 ref: ccz-mc02
 date: 2025-07-28
 rating: [2.9, 0.5, 0.4, 0.9, 0.5, 0.6]
-summary: "The CCZ MC02 is an entry-level IEM featuring a dual-magnet 10mm driver at 2,400 JPY. While measurement data is unavailable, it demonstrates strong competitiveness in cost-performance."
+summary: "The CCZ MC02 is an entry-level IEM featuring a dual-magnet 10mm driver at 16 USD. While measurement data is unavailable, it demonstrates strong competitiveness in cost-performance."
 tags: [Budget, CCZ, Dynamic driver, In-ear monitors, V-Shaped Sound]
 permalink: /products/en/ccz-mc02/
 ---
 ## Overview
 
-The CCZ MC02 is an in-ear monitor (IEM) produced by CCZ, an emerging Chinese audio brand. Priced at 2,400 JPY, it features a 10mm dual-magnetic dynamic driver with a PET material diaphragm and a detachable cable design. The product adopts a V-shaped acoustic characteristic, with particular emphasis on bass to lower-midrange reproduction. Its specifications include a 20Hz-20kHz frequency range, 16Ω±15% impedance, and 105dB±3dB sensitivity, with a design focused on drivability from portable devices.
+The CCZ MC02 is an in-ear monitor (IEM) produced by CCZ, an emerging Chinese audio brand. Priced at 16 USD, it features a 10mm dual-magnetic dynamic driver with a PET material diaphragm and a detachable cable design. The product adopts a V-shaped acoustic characteristic, with particular emphasis on bass to lower-midrange reproduction. Its specifications include a 20Hz-20kHz frequency range, 16Ω±15% impedance, and 105dB±3dB sensitivity, with a design focused on drivability from portable devices.
 
 ## Scientific Validity
 
@@ -31,7 +31,7 @@ The adoption of a 10mm dual-magnetic dynamic driver and PET material diaphragm r
 
 $$ \Large \text{0.9} $$
 
-For the CCZ MC02's price of 2,400 JPY, we consider the CCA CRA at 2,250 JPY as a comparison product. The CCA CRA features 34Ω impedance, 105dB sensitivity, a 10mm single dynamic driver (3.8μ ultra-thin diaphragm), and a 20Hz-40kHz frequency range. While both products share similar basic functions (detachable cable, equivalent sensitivity), the CCZ MC02's dual-magnet structure and 16Ω low impedance are technical features, though superiority in actual measurement performance remains unconfirmed. The cost-performance calculation is "2,250 JPY ÷ 2,400 JPY = 0.9375", resulting in a score of 0.9 when rounded. The CCA CRA is considered a more established choice, with more available objective evaluation data.
+For the CCZ MC02's price of 16 USD, we consider the CCA CRA at 15 USD as a comparison product. The CCA CRA features 34Ω impedance, 105dB sensitivity, a 10mm single dynamic driver (3.8μ ultra-thin diaphragm), and a 20Hz-40kHz frequency range. While both products share similar basic functions (detachable cable, equivalent sensitivity), the CCZ MC02's dual-magnet structure and 16Ω low impedance are technical features, though superiority in actual measurement performance remains unconfirmed. The cost-performance calculation is "15 USD ÷ 16 USD = 0.9375", resulting in a score of 0.9 when rounded. The CCA CRA is considered a more established choice, with more available objective evaluation data.
 
 ## Reliability & Support
 
@@ -47,6 +47,6 @@ The CCZ MC02's design approach incorporates many scientifically rational aspects
 
 ## Advice
 
-The CCZ MC02 is a suitable product for beginners wanting to try IEMs casually for 2,400 JPY. The 16Ω low impedance ensures adequate drivability from smartphones, and its V-shaped sound signature provides an enjoyable musical experience for many. However, it is not suitable for applications requiring high-precision audio reproduction or audiophile-grade quality. For those prioritizing higher audio quality, alternatives like the CCA CRA, which is similarly priced and has more objective data available, are worth considering. The performance difference between these models is likely limited, making personal preference and fit the deciding factors. For long-term use, products from more established brands are also worth considering.
+The CCZ MC02 is a suitable product for beginners wanting to try IEMs casually for 16 USD. The 16Ω low impedance ensures adequate drivability from smartphones, and its V-shaped sound signature provides an enjoyable musical experience for many. However, it is not suitable for applications requiring high-precision audio reproduction or audiophile-grade quality. For those prioritizing higher audio quality, alternatives like the CCA CRA, which is similarly priced and has more objective data available, are worth considering. The performance difference between these models is likely limited, making personal preference and fit the deciding factors. For long-term use, products from more established brands are also worth considering.
 
 (2025.7.28)

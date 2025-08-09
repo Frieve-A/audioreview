@@ -32,7 +32,7 @@ The adoption of open acoustic technology and a custom condenser capsule reflects
 
 $$ \Large \text{0.8} $$
 
-With a market price of 24,800 JPY, we compare it to competing products with basic USB microphone functionality. For instance, there are alternatives like the Audio-Technica AT2020USB-X (19,800 JPY) and the Blue Yeti (17,900 JPY), which offers multiple polar patterns. The comparison with the most affordable competitor, Blue Yeti, yields a ratio of "17,900 JPY ÷ 24,800 JPY = 0.72," while the comparison with the AT2020USB-X gives "19,800 JPY ÷ 24,800 JPY = 0.80." The score is rated at 0.8 based on the average of these comparisons. The deciding factor will be whether one finds the price difference justifiable for this product's unique input capabilities and design.
+With a market price of 165 USD, we compare it to competing products with basic USB microphone functionality. For instance, there are alternatives like the Audio-Technica AT2020USB-X (132 USD) and the Blue Yeti (119 USD), which offers multiple polar patterns. The comparison with the most affordable competitor, Blue Yeti, yields a ratio of "119 USD ÷ 165 USD = 0.72," while the comparison with the AT2020USB-X gives "132 USD ÷ 165 USD = 0.80." The score is rated at 0.8 based on the average of these comparisons. The deciding factor will be whether one finds the price difference justifiable for this product's unique input capabilities and design.
 
 ## Reliability & Support
 
@@ -48,6 +48,6 @@ The modern interface with USB-C connectivity and plug-and-play compatibility rep
 
 ## Advice
 
-The MiCreator Studio is a good choice for users seeking USB-C connectivity, unique input features, and a modern design in the 24,800 JPY price range. However, if pure cost-performance is the priority, the Blue Yeti (17,900 JPY) or the AT2020USB-X (19,800 JPY) are more rational choices. If you are considering upgrading from these microphones, a significant improvement in audio quality to justify the price difference is unlikely. Therefore, this product's value stands out when you specifically value the convenience of direct instrument input, the FlexTilt mechanism, or its design. For serious music production, it is recommended to consider higher-end models with XLR connectivity.
+The MiCreator Studio is a good choice for users seeking USB-C connectivity, unique input features, and a modern design in the 165 USD price range. However, if pure cost-performance is the priority, the Blue Yeti (119 USD) or the AT2020USB-X (132 USD) are more rational choices. If you are considering upgrading from these microphones, a significant improvement in audio quality to justify the price difference is unlikely. Therefore, this product's value stands out when you specifically value the convenience of direct instrument input, the FlexTilt mechanism, or its design. For serious music production, it is recommended to consider higher-end models with XLR connectivity.
 
 (2025.7.29)

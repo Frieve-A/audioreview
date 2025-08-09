@@ -7,13 +7,13 @@ lang: en
 ref: pioneer-se-master1
 date: 2025-07-18
 rating: [1.3, 0.3, 0.4, 0.1, 0.2, 0.3]
-summary: "Despite being a handcrafted premium headphone priced at 259,000 JPY, it exhibits significantly low cost-performance in basic specifications"
+summary: "Despite being a handcrafted premium headphone priced at 1,727 USD, it exhibits significantly low cost-performance in basic specifications"
 tags: [Headphones, Japan, Open-back, Premium]
 permalink: /products/en/pioneer-se-master1/
 ---
 ## Overview
 
-The Pioneer SE-Master1 is Pioneer's first high-end headphone, announced in 2015 after six years of development. It is handcrafted in limited production of 1,000 units at Pioneer's Tohoku factory in Japan, with skilled craftsmen producing only two units per day. The headphone features a 50mm aluminum diaphragm with ceramic coating and claims a wide frequency response of 5Hz to 85,000Hz. It was released at a price of 259,000 JPY after tuning at Air Studios.
+The Pioneer SE-Master1 is Pioneer's first high-end headphone, announced in 2015 after six years of development. It is handcrafted in limited production of 1,000 units at Pioneer's Tohoku factory in Japan, with skilled craftsmen producing only two units per day. The headphone features a 50mm aluminum diaphragm with ceramic coating and claims a wide frequency response of 5Hz to 85,000Hz. It was released at a price of 1727 USD after tuning at Air Studios.
 
 ## Scientific Validity
 
@@ -31,7 +31,7 @@ The ceramic coating technology on the 25μm thick aluminum diaphragm shows origi
 
 $$ \Large \text{0.1} $$
 
-Against the 259,000 JPY price point, the Audio-Technica ATH-R70x (approximately 30,000 JPY) delivers equivalent or superior basic acoustic performance, except for the challenging drive requirements due to its 470Ω high impedance. While the SE-Master1 offers easier drive capability with 45Ω design, even considering this convenience, cost-performance remains low. Calculation: 30,000 JPY ÷ 259,000 JPY = 0.116. Additionally, the product is currently discontinued, making new units difficult to obtain, with used market prices ranging from approximately 140,000 to 210,000 JPY, raising questions about the original price setting's validity. Since the rarity value from handcrafted production does not directly correlate with acoustic performance improvement, the pure performance-to-price ratio receives extremely low evaluation.
+Against the 1727 USD price point, the Audio-Technica ATH-R70x (approximately 200 USD) delivers equivalent or superior basic acoustic performance, except for the challenging drive requirements due to its 470Ω high impedance. While the SE-Master1 offers easier drive capability with 45Ω design, even considering this convenience, cost-performance remains low. Calculation: 200 USD ÷ 1727 USD = 0.116. Additionally, the product is currently discontinued, making new units difficult to obtain, with used market prices ranging from approximately 933 to 1400 USD, raising questions about the original price setting's validity. Since the rarity value from handcrafted production does not directly correlate with acoustic performance improvement, the pure performance-to-price ratio receives extremely low evaluation.
 
 ## Reliability & Support
 
@@ -47,6 +47,6 @@ The pursuit of 85,000Hz reproduction capability far exceeds the audible range an
 
 ## Advice
 
-For those considering purchase at the 259,000 JPY price point, we strongly recommend comparison with other manufacturers' products in the same price range. Products such as Sony MDR-Z1R (approximately 215,000 JPY), Sennheiser HD800S (approximately 215,000 JPY), and Focal Utopia demonstrate superiority in measured data. Additionally, products like Audio-Technica ATH-R70x (approximately 30,000 JPY) are available at significantly lower prices while offering comparable basic acoustic performance. Unless attracted to the added value of handcrafted production and limited production, we cannot recommend this product from a cost-performance perspective. Before purchase, it is important to conduct listening tests and carefully determine whether there is a sound quality difference that justifies the price difference.
+For those considering purchase at the 1727 USD price point, we strongly recommend comparison with other manufacturers' products in the same price range. Products such as Sony MDR-Z1R (approximately 1433 USD), Sennheiser HD800S (approximately 1433 USD), and Focal Utopia demonstrate superiority in measured data. Additionally, products like Audio-Technica ATH-R70x (approximately 200 USD) are available at significantly lower prices while offering comparable basic acoustic performance. Unless attracted to the added value of handcrafted production and limited production, we cannot recommend this product from a cost-performance perspective. Before purchase, it is important to conduct listening tests and carefully determine whether there is a sound quality difference that justifies the price difference.
 
 (2025.7.18)

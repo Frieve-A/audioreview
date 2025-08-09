@@ -31,7 +31,7 @@ Technology level falls below industry average. The XENYX preamp adopts the compa
 
 $$ \Large \text{1.0} $$
 
-Cost-performance is extremely excellent. At the current market price of 11,000 JPY, no cheaper alternatives with equivalent functionality exist. The Behringer Q502USB has a similar 5-input configuration (1 mic + 2 stereo line) with comparable pricing, but the 302USB is slightly more expensive. The more feature-rich Yamaha AG03 MK2 (16,790 JPY) supports 24bit/192kHz and includes DSP effects, but costs approximately 1.5 times more. As a 5-input USB mixer with USB bus power operation, phantom power, 2-band EQ, and headphone output, this represents one of the most affordable options in this price range, with no equivalent-function products available at lower cost.
+Cost-performance is extremely excellent. At the current market price of 73 USD, no cheaper alternatives with equivalent functionality exist. The Behringer Q502USB has a similar 5-input configuration (1 mic + 2 stereo line) with comparable pricing, but the 302USB is slightly more expensive. The more feature-rich Yamaha AG03 MK2 (112 USD) supports 24bit/192kHz and includes DSP effects, but costs approximately 1.5 times more. As a 5-input USB mixer with USB bus power operation, phantom power, 2-band EQ, and headphone output, this represents one of the most affordable options in this price range, with no equivalent-function products available at lower cost.
 
 ## Reliability & Support
 
@@ -47,6 +47,6 @@ The design philosophy is highly rational. USB bus power operation eliminating ex
 
 ## Advice
 
-This product represents an extremely viable option for budget-conscious beginners or users who need only basic recording functionality. At 11,000 JPY, virtually no other products exist offering USB bus power operation, 5-input configuration, and phantom power, making it highly valuable from a cost-performance perspective. However, technically it maintains the 2011 release design approach, so users considering more serious recording or streaming should evaluate additional investment in modern DSP-equipped products like the Yamaha AG03 MK2 (16,790 JPY). When purchasing, consider the possibility of initial defects and choose retailers with convenient return/exchange policies. To maintain practical noise levels, gain settings should be managed carefully, and combination with high-sensitivity microphones is recommended.
+This product represents an extremely viable option for budget-conscious beginners or users who need only basic recording functionality. At 73 USD, virtually no other products exist offering USB bus power operation, 5-input configuration, and phantom power, making it highly valuable from a cost-performance perspective. However, technically it maintains the 2011 release design approach, so users considering more serious recording or streaming should evaluate additional investment in modern DSP-equipped products like the Yamaha AG03 MK2 (112 USD). When purchasing, consider the possibility of initial defects and choose retailers with convenient return/exchange policies. To maintain practical noise levels, gain settings should be managed carefully, and combination with high-sensitivity microphones is recommended.
 
 (2025.7.20)

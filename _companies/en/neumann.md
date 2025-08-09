@@ -32,10 +32,10 @@ Neumann's technical standards represent the absolute pinnacle of the industry. F
 $$ \Large \text{0.9} $$
 
 Based on WebSearch 2025 market price research results:
-- **Neumann KH 120 II (pair)**: USD 1,998 (299,700 yen converted)
-- **Neumann MA 1 measurement microphone**: USD 249 (37,350 yen, EUR 249 converted)
-- **Genelec 8330A (pair)**: USD 1,800 (270,000 yen converted)
-- **JBL 305P MkII (pair)**: USD 298 (44,700 yen converted)
+- **Neumann KH 120 II (pair)**: USD 1,998
+- **Neumann MA 1 measurement microphone**: USD 249
+- **Genelec 8330A (pair)**: USD 1,800
+- **JBL 305P MkII (pair)**: USD 298
 
 Comparing systems with equivalent advanced built-in DSP correction:
 - **Neumann system**: KH 120 II (USD 1,998) + MA 1 (USD 249) = **USD 2,247**

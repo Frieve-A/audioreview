@@ -31,7 +31,7 @@ While the adoption of the TPA3255 chip is reasonable, the design is fundamentall
 
 $$ \Large \text{0.8} $$
 
-A comparison was made with the Fosi Audio V3 (approximately 10,850 JPY), which offers equivalent functionality, against the A07 MAX's market price of approximately 13,950 JPY. The V3 uses the same TPA3255 chip and provides equivalent or superior measured performance, along with a better component composition and design. The CP calculation is: 10,850 JPY ÷ 13,950 JPY = 0.78 (rounded to 0.8). The A07 MAX is clearly at a price disadvantage compared to the superior V3, with its cost-performance falling below acceptable standards.
+A comparison was made with the Fosi Audio V3 (approximately 72 USD), which offers equivalent functionality, against the A07 MAX's market price of approximately 93 USD. The V3 uses the same TPA3255 chip and provides equivalent or superior measured performance, along with a better component composition and design. The CP calculation is: 72 USD ÷ 93 USD = 0.77 (rounded to 0.8). The A07 MAX is clearly at a price disadvantage compared to the superior V3, with its cost-performance falling below acceptable standards.
 
 ## Reliability & Support
 

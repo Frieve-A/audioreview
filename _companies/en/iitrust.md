@@ -32,7 +32,7 @@ Technically, the products primarily combine existing technologies, with no disti
 
 $$ \Large \text{0.8} $$
 
-For the company's J011 neck speaker (approximately 8,000 JPY), an alternative product with equivalent or superior Bluetooth connectivity, 13-hour playback, and IPX5 water resistance exists in the JBL SoundGear Sense (approximately 6,000 JPY). Calculation: 6,000 JPY ÷ 8,000 JPY = 0.75, rounded to 0.8. However, within the specialized category of neck speakers where options are limited, the pricing is relatively reasonable for call-focused applications. The J132 (approximately 15,000 JPY) is also not significantly overpriced compared to competing products like the SteelSeries Arctis 7P (approximately 12,000 JPY) for gaming-oriented neck speakers.
+For the company's J011 neck speaker (approximately 53 USD), an alternative product with equivalent or superior Bluetooth connectivity, 13-hour playback, and IPX5 water resistance exists in the JBL SoundGear Sense (approximately 40 USD). Calculation: 40 USD ÷ 53 USD = 0.75, rounded to 0.8. However, within the specialized category of neck speakers where options are limited, the pricing is relatively reasonable for call-focused applications. The J132 (approximately 100 USD) is also not significantly overpriced compared to competing products like the SteelSeries Arctis 7P (approximately 80 USD) for gaming-oriented neck speakers.
 
 ## Reliability & Support
 

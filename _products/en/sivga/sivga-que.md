@@ -14,7 +14,7 @@ permalink: /products/en/sivga-que/
 
 ## Overview
 
-The SIVGA Que is a canal-type in-ear monitor developed by SIVGA (Dongguan Siwiga Electronic Technology Co., Ltd.) from China. It features a 10mm beryllium-plated dynamic driver and distinguishes itself through the combination of white maple wooden faceplate and die-cast zinc alloy shell, creating a premium aesthetic appearance. With 32Ω impedance and 108dB sensitivity, it utilizes silver-plated OFC cables and standard 0.78mm 2-pin connectors. Marketed at 12,980 JPY, it positions itself as a mid-priced model aiming for differentiation through wooden housing and competitiveness in the mid-tier market segment.
+The SIVGA Que is a canal-type in-ear monitor developed by SIVGA (Dongguan Siwiga Electronic Technology Co., Ltd.) from China. It features a 10mm beryllium-plated dynamic driver and distinguishes itself through the combination of white maple wooden faceplate and die-cast zinc alloy shell, creating a premium aesthetic appearance. With 32Ω impedance and 108dB sensitivity, it utilizes silver-plated OFC cables and standard 0.78mm 2-pin connectors. Marked at 87 USD, it positions itself as a mid-priced model aiming for differentiation through wooden housing and competitiveness in the mid-tier market segment.
 
 ## Scientific Validity
 
@@ -32,11 +32,11 @@ The adoption of a 10mm beryllium-plated dynamic driver can be evaluated as a tec
 
 $$ \Large \text{0.2} $$
 
-We select the Moondrop Chu II (3,200 JPY) as a competitive product offering equivalent or superior functionality and performance to the SIVGA Que (12,980 JPY). The Chu II also features a 10mm dynamic driver, cable replacement capability, and equivalent measurement performance, showing no inferior aspects in the basic acoustic functions that the SIVGA Que possesses.
+We select the Moondrop Chu II (21 USD) as a competitive product offering equivalent or superior functionality and performance to the SIVGA Que (87 USD). The Chu II also features a 10mm dynamic driver, cable replacement capability, and equivalent measurement performance, showing no inferior aspects in the basic acoustic functions that the SIVGA Que possesses.
 
 Cost-performance is evaluated based on the following calculation:
 
-`3,200 JPY (Moondrop Chu II) ÷ 12,980 JPY (SIVGA Que) = 0.246`
+`21 USD (Moondrop Chu II) ÷ 87 USD (SIVGA Que) = 0.246`
 
 Rounded to 0.2. This calculation results from dividing the price of the cheapest product with equivalent functionality and measurement performance (Moondrop Chu II) by the price of the review target product (SIVGA Que). The significant premium pricing for aesthetic elements like wooden faceplates lacks competitiveness in pure performance-to-price ratio. The current situation where equivalent acoustic performance and functionality can be obtained at approximately one-quarter the price presents serious challenges from a cost-performance perspective.
 
@@ -54,6 +54,6 @@ The SIVGA Que's design philosophy emphasizes aesthetic differentiation through w
 
 ## Advice
 
-Those considering the SIVGA Que are strongly recommended to first conduct objective comparisons with low-priced products offering equivalent functionality. For those prioritizing acoustic performance, options like the Moondrop Chu II (3,200 JPY) provide equivalent functionality at significantly lower cost. Even for those who find special value in wooden design, sound quality improvements commensurate with the price difference (approximately 4x) cannot be expected. Before purchase, mandatory listening tests are recommended to coolly judge whether value matches the price difference. Particularly for entry to mid-level audio enthusiasts, selection from established brands with more scientifically proven performance is recommended. Justification for purchasing the Que is limited to cases where absolute value is found in wooden appearance and price is completely irrelevant. Careful consideration is necessary as a main device, and thorough examination of other options is recommended even as a secondary device.
+Those considering the SIVGA Que are strongly recommended to first conduct objective comparisons with low-priced products offering equivalent functionality. For those prioritizing acoustic performance, options like the Moondrop Chu II (21 USD) provide equivalent functionality at significantly lower cost. Even for those who find special value in wooden design, sound quality improvements commensurate with the price difference (approximately 4x) cannot be expected. Before purchase, mandatory listening tests are recommended to coolly judge whether value matches the price difference. Particularly for entry to mid-level audio enthusiasts, selection from established brands with more scientifically proven performance is recommended. Justification for purchasing the Que is limited to cases where absolute value is found in wooden appearance and price is completely irrelevant. Careful consideration is necessary as a main device, and thorough examination of other options is recommended even as a secondary device.
 
 (2025.7.24)

@@ -32,7 +32,7 @@ Zonotone's technology level is evaluated as approximately industry average. Cert
 
 $$ \Large \text{0.1} $$
 
-Zonotone's cost-performance is extremely poor. Against the 6NSP-Granster 5500α pricing of 5,420 JPY per meter, Canare 4S11 with equivalent electrical characteristics is available for around 500 JPY. Since Zonotone's claimed sound quality improvement effects from ultra-high purity materials are not scientifically proven, users can achieve equivalent function and performance at less than one-tenth the price. Even general speaker cables using 14AWG OFC conductors can ensure sufficient performance in resistance, inductance, and capacitance, so no added value commensurate with the high pricing is recognized.
+Zonotone's cost-performance is extremely poor. Against the 6NSP-Granster 5500α pricing of 36 USD per meter, Canare 4S11 with equivalent electrical characteristics is available for around 3 USD. Since Zonotone's claimed sound quality improvement effects from ultra-high purity materials are not scientifically proven, users can achieve equivalent function and performance at less than one-tenth the price. Even general speaker cables using 14AWG OFC conductors can ensure sufficient performance in resistance, inductance, and capacitance, so no added value commensurate with the high pricing is recognized.
 
 ## Reliability & Support
 

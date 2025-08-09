@@ -31,7 +31,7 @@ The design reflects Ortofon's accumulated technical expertise over many years, e
 
 $$ \Large \text{1.0} $$
 
-The MC Q5 currently trades at 46,530 JPY new and 17,800 JPY used, with the Audio-Technica AT-OC9XEB (31,900 JPY new, 27,500 JPY used) existing as an equivalent alternative. The AT-OC9XEB offers specifications of 0.32mV output, 2.0g tracking force, 20-30,000Hz frequency response, and 25dB channel separation (1kHz), which are essentially equivalent to the MC Q5's specifications (0.5mV output, 2.3g tracking force, 20-25,000Hz frequency response, 21dB separation). Comparing used prices: 17,800 JPY ÷ 27,500 JPY = 0.65, and new prices: 31,900 JPY ÷ 46,530 JPY = 0.69, showing the MC Q5 holds a price advantage. As an entry-class MC cartridge, it maintains appropriate pricing, delivering good cost-performance.
+The MC Q5 currently trades at 310 USD new and 119 USD used, with the Audio-Technica AT-OC9XEB (213 USD new, 183 USD used) existing as an equivalent alternative. The AT-OC9XEB offers specifications of 0.32mV output, 2.0g tracking force, 20-30,000Hz frequency response, and 25dB channel separation (1kHz), which are essentially equivalent to the MC Q5's specifications (0.5mV output, 2.3g tracking force, 20-25,000Hz frequency response, 21dB separation). Comparing used prices: 119 USD ÷ 183 USD = 0.65, and new prices: 213 USD ÷ 310 USD = 0.69, showing the MC Q5 holds a price advantage. As an entry-class MC cartridge, it maintains appropriate pricing, delivering good cost-performance.
 
 ## Reliability & Support
 
@@ -51,7 +51,7 @@ However, the physical constraints inherent to analog cartridge technology cannot
 
 For those considering the MC Q5 purchase, it represents one appropriate choice among MC-type cartridges in its price range. Compared to the Audio-Technica AT-OC9XEB, it holds price advantages and is particularly recommended for those prioritizing Ortofon brand reliability and support systems.
 
-As an entry-class MC cartridge, the MC Q5 maintains proper pricing at 46,530 JPY new and 17,800 JPY used. In the secondary market, good-condition units are available at relatively affordable prices, making it suitable for those trying MC cartridges for the first time.
+As an entry-class MC cartridge, the MC Q5 maintains proper pricing at 310 USD new and 119 USD used. In the secondary market, good-condition units are available at relatively affordable prices, making it suitable for those trying MC cartridges for the first time.
 
 Complete analog reproduction systems require phono equalizers, tonearms, and turntables beyond the cartridge, necessitating system-wide investment. The MC Q5's solid technical design ensures high compatibility with many tonearms, making it a reliable product choice for system building. However, it is important to understand that analog reproduction's inherent physical constraints result in limited acoustic advantages compared to digital reproduction when making this choice.
 

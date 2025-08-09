@@ -32,7 +32,7 @@ Products like the M9 Plus DAP, incorporating AKM's flagship "AK4499EX" DAC, have
 
 $$ \Large \text{0.6} $$
 
-Cost-performance evaluation is similarly bifurcated. ΔΣ DAC-equipped DAPs like the M3 Ultra offer exceptional value at approximately 535 USD (80,000 yen), providing superior measured performance and features compared to competing products. However, models incorporating vacuum tubes or R2R DACs significantly underperform when compared to cutting-edge ΔΣ DAC products from companies like Topping or S.M.S.L. at similar price points in terms of pure performance-to-price ratio. The presence of these low-performance products in the overall portfolio diminishes the company's aggregate evaluation.
+Cost-performance evaluation is similarly bifurcated. ΔΣ DAC-equipped DAPs like the M3 Ultra offer exceptional value at approximately 535 USD, providing superior measured performance and features compared to competing products. However, models incorporating vacuum tubes or R2R DACs significantly underperform when compared to cutting-edge ΔΣ DAC products from companies like Topping or S.M.S.L. at similar price points in terms of pure performance-to-price ratio. The presence of these low-performance products in the overall portfolio diminishes the company's aggregate evaluation.
 
 ## Reliability & Support
 

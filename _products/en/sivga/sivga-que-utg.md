@@ -14,7 +14,7 @@ permalink: /products/en/sivga-que-utg/
 
 ## Overview
 
-The SIVGA Que UTG is a canal-type earphone released in May 2025 by SIVGA (Dongguan Siweige Electronic Technology Co., Ltd.), a Chinese manufacturer. It features the world's first Ultra-Thin Glass (UTG) diaphragm in a 10mm dynamic driver, utilizing innovative glass diaphragm technology from Japan's NEG Corporation. The design combines a green sandalwood faceplate with a zinc alloy shell for a premium appearance, and offers easy drivability with 32Ω impedance and 103dB sensitivity. It includes modular cables with 3.5mm/4.4mm connectors and a 0.78mm 2pin interface, marketed at 15,980 yen. This ambitious model aims for differentiation through a V-shaped sound signature and world-first technology.
+The SIVGA Que UTG is a canal-type earphone released in May 2025 by SIVGA (Dongguan Siweige Electronic Technology Co., Ltd.), a Chinese manufacturer. It features the world's first Ultra-Thin Glass (UTG) diaphragm in a 10mm dynamic driver, utilizing innovative glass diaphragm technology from Japan's NEG Corporation. The design combines a green sandalwood faceplate with a zinc alloy shell for a premium appearance, and offers easy drivability with 32Ω impedance and 103dB sensitivity. It includes modular cables with 3.5mm/4.4mm connectors and a 0.78mm 2pin interface, marketed at 107 USD. This ambitious model aims for differentiation through a V-shaped sound signature and world-first technology.
 
 ## Scientific Validity
 
@@ -32,11 +32,11 @@ The implementation of the world's first Ultra-Thin Glass (UTG) diaphragm technol
 
 $$ \Large \text{0.2} $$
 
-As a competitive product with equivalent or superior functionality and performance to the SIVGA Que UTG (15,980 yen), we select the Moondrop Chu II (approx. 3,200 yen). The Chu II also features a 10mm dynamic driver, is compatible with replaceable cables, has a metal housing, and provides excellent measured performance, with no inferior aspects in the basic audio functions compared to the SIVGA Que UTG.
+As a competitive product with equivalent or superior functionality and performance to the SIVGA Que UTG (107 USD), we select the Moondrop Chu II (approx. 21 USD). The Chu II also features a 10mm dynamic driver, is compatible with replaceable cables, has a metal housing, and provides excellent measured performance, with no inferior aspects in the basic audio functions compared to the SIVGA Que UTG.
 
 Cost-performance is evaluated based on the following calculation:
 
-`3,200 yen (Moondrop Chu II) ÷ 15,980 yen (SIVGA Que UTG) = 0.200`
+`21 USD (Moondrop Chu II) ÷ 107 USD (SIVGA Que UTG) = 0.200`
 
 This rounds to 0.2. This calculation results from dividing the price of the cheapest product with equivalent functionality and measured performance (Moondrop Chu II) by the price of the review target product (SIVGA Que UTG). While the world's-first glass diaphragm technology is indeed innovative, the price premium of approximately five times is excessive relative to the substantial sound quality improvement for the end-user. The current situation where equivalent basic audio functionality can be obtained at one-fifth the price presents a serious issue from a cost-performance perspective.
 
@@ -54,6 +54,6 @@ The design philosophy of the SIVGA Que UTG aims for scientific sound quality imp
 
 ## Advice
 
-For those considering the SIVGA Que UTG, we strongly recommend first establishing a clear value perspective on the world's-first glass diaphragm technology. If pure sound quality performance (fidelity to the master recording) is the top priority, products like the Moondrop Chu II (approx. 3,200 yen) offer equivalent basic functionality at a significantly lower cost. However, for those with an interest in the latest technology, a desire to support innovative approaches, and an appreciation for differentiated products, there is a certain significance in experiencing this world-first technology. It is essential to audition the product before purchase to confirm whether the sound quality characteristics of the glass diaphragm match personal preferences. Particularly for advanced users who value transparency in the high-frequency range and the improvement of transient characteristics, it is worth considering from a technical interest perspective. However, for those who prioritize cost-performance or are considering it for long-term use as their main device, a careful comparison with more established options is recommended. An appropriate evaluation and setting of expectations for this world-first technology are crucial.
+For those considering the SIVGA Que UTG, we strongly recommend first establishing a clear value perspective on the world's-first glass diaphragm technology. If pure sound quality performance (fidelity to the master recording) is the top priority, products like the Moondrop Chu II (approx. 21 USD) offer equivalent basic functionality at a significantly lower cost. However, for those with an interest in the latest technology, a desire to support innovative approaches, and an appreciation for differentiated products, there is a certain significance in experiencing this world-first technology. It is essential to audition the product before purchase to confirm whether the sound quality characteristics of the glass diaphragm match personal preferences. Particularly for advanced users who value transparency in the high-frequency range and the improvement of transient characteristics, it is worth considering from a technical interest perspective. However, for those who prioritize cost-performance or are considering it for long-term use as their main device, a careful comparison with more established options is recommended. An appropriate evaluation and setting of expectations for this world-first technology are crucial.
 
 (2025.7.25)

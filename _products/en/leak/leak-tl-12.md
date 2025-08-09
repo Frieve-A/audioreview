@@ -31,7 +31,7 @@ The push-pull circuitry and multi-stage negative feedback employed are standard 
 
 $$ \Large \text{0.1} $$
 
-With a current used market price ranging from 150,000 to 250,000 JPY (assuming an average of 200,000 JPY), the Fosi Audio V3, which vastly surpasses it in measured performance, is available for 20,999 JPY. A product with significantly inferior performance costing more than nine times as much results in an extremely low cost-performance rating. The calculation is "20,999 JPY ÷ 200,000 JPY ≈ 0.105", yielding a score of 0.1. Completely excluding its antique value and judging purely on a performance-to-price basis, there is no reason to choose this product.
+With a current used market price ranging from 1000 to 1667 USD (assuming an average of 1333 USD), the Fosi Audio V3, which vastly surpasses it in measured performance, is available for 140 USD. A product with significantly inferior performance costing more than nine times as much results in an extremely low cost-performance rating. The calculation is "140 USD ÷ 1333 USD ≈ 0.105", yielding a score of 0.1. Completely excluding its antique value and judging purely on a performance-to-price basis, there is no reason to choose this product.
 
 ## Reliability & Support
 

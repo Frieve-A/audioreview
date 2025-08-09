@@ -13,7 +13,7 @@ permalink: /products/en/yamaha-ja-0506/
 ---
 ## Overview
 
-The Yamaha JA-0506 is a horn-type tweeter released in 1973 as part of the NS series. It features a 30μ thick hard duralumin foil diaphragm, a 23mm diameter aluminum ribbon wire edgewise-wound voice coil, and a 40mm diameter large magnet. The horn and equalizer sections are precision-machined from solid aluminum, and it was sold for 15,000 yen at the time. It gained popularity among DIY speaker enthusiasts and symbolized Yamaha's entry into high-quality individual driver components.
+The Yamaha JA-0506 is a horn-type tweeter released in 1973 as part of the NS series. It features a 30μ thick hard duralumin foil diaphragm, a 23mm diameter aluminum ribbon wire edgewise-wound voice coil, and a 40mm diameter large magnet. The horn and equalizer sections are precision-machined from solid aluminum, and it was sold for 100 USD at the time. It gained popularity among DIY speaker enthusiasts and symbolized Yamaha's entry into high-quality individual driver components.
 
 ## Scientific Validity
 

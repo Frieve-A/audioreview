@@ -31,7 +31,7 @@ The technology employed in the FRONTIER is an application of existing acoustic p
 
 $$ \Large \text{0.5} $$
 
-The FRONTIER's market price is 18,000 JPY, whereas the Final E3000, which offers a comparable function from a user's perspective, is available for 6,100 JPY. The FRONTIER's 52Ω high-impedance design and special BA driver are merely differences in internal configuration and do not provide a superiorly enough user-facing acoustic function to justify the price gap. The calculation 6,100 JPY ÷ 18,000 JPY = 0.34 demonstrates its significantly poor price competitiveness. Considering the essential value for the user, the rationale for this price point is judged to be extremely low.
+The FRONTIER's market price is approximately 120 USD, whereas the Final E3000, which offers a comparable function from a user's perspective, is available for 41 USD. The FRONTIER's 52Ω high-impedance design and special BA driver are merely differences in internal configuration and do not provide a superiorly enough user-facing acoustic function to justify the price gap. The calculation 41 USD ÷ 120 USD = 0.34 demonstrates its significantly poor price competitiveness. Considering the essential value for the user, the rationale for this price point is judged to be extremely low.
 
 ## Reliability & Support
 
@@ -47,6 +47,6 @@ The design philosophy of compensating for the weakness of a single BA driver (lo
 
 ## Advice
 
-While the qdc FRONTIER is technically interesting, it cannot be recommended from a price-to-performance perspective. With an 18,000 JPY budget, purchasing the Final E3000 (6,100 JPY) and adding a high-quality DAC or amplifier with the remaining budget would provide far greater overall sound quality improvement. Additionally, alternatives like the Moondrop Chu II or 7Hz Salnotes Zero can deliver comparable acoustic characteristics for under 4,000 JPY, making this not a rational choice. Even for those seeking professional monitor sound, the industry-standard Etymotic ER4 series offers higher long-term value.
+While the qdc FRONTIER is technically interesting, it cannot be recommended from a price-to-performance perspective. With an approximately 120 USD budget, purchasing the Final E3000 (41 USD) and adding a high-quality DAC or amplifier with the remaining budget would provide far greater overall sound quality improvement. Additionally, alternatives like the Moondrop Chu II or 7Hz Salnotes Zero can deliver comparable acoustic characteristics for under 27 USD, making this not a rational choice. Even for those seeking professional monitor sound, the industry-standard Etymotic ER4 series offers higher long-term value.
 
 (2025.7.29)

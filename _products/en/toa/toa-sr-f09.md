@@ -7,13 +7,13 @@ lang: en
 ref: toa-sr-f09
 date: 2025-07-24
 rating: [1.5, 0.4, 0.3, 0.2, 0.3, 0.3]
-summary: "The TOA SR-F09 is a passive portable 2-way speaker discontinued in 2021. With a suggested retail price of 348,500 JPY (excl. tax), it shows extremely poor cost-performance compared to modern active speakers that offer superior or equivalent performance with a built-in amplifier, and is not recommended."
+summary: "The TOA SR-F09 is a passive portable 2-way speaker discontinued in 2021. With a suggested retail price of 2323 USD (excl. tax), it shows extremely poor cost-performance compared to modern active speakers that offer superior or equivalent performance with a built-in amplifier, and is not recommended."
 tags: [Discontinued, PA, Portable, Professional, Speakers, TOA]
 permalink: /products/en/toa-sr-f09/
 ---
 ## Overview
 
-The TOA SR-F09 was a portable 2-way speaker system in TOA Corporation's Z-DRIVE series. Developed by TOA, an established audio equipment manufacturer founded in 1934, it was aimed at the professional audio market. This is a passive speaker, meaning it requires an external power amplifier to operate. With a suggested retail price of 348,500 JPY (excluding tax), it was discontinued on January 29, 2021, and is now difficult to obtain new. This review will rigorously evaluate its value against modern standards, specifically by comparing it to today's standard PA systems: active speakers with built-in amplifiers.
+The TOA SR-F09 was a portable 2-way speaker system in TOA Corporation's Z-DRIVE series. Developed by TOA, an established audio equipment manufacturer founded in 1934, it was aimed at the professional audio market. This is a passive speaker, meaning it requires an external power amplifier to operate. With a suggested retail price of 2323 USD (excluding tax), it was discontinued on January 29, 2021, and is now difficult to obtain new. This review will rigorously evaluate its value against modern standards, specifically by comparing it to today's standard PA systems: active speakers with built-in amplifiers.
 
 ## Scientific Validity
 
@@ -31,7 +31,7 @@ From a contemporary standpoint, the technology level of the SR-F09 is limited. T
 
 $$ \Large \text{0.2} $$
 
-The cost-performance of the SR-F09 is extremely poor. Its suggested retail price of 348,500 JPY (excl. tax) does not include the necessary external power amplifier. In contrast, active speakers, which have amplifiers built-in, offer equivalent or superior performance at a fraction of the cost. For example, the JBL EON715 (retailing for approx. 65,000 JPY) provides a maximum SPL of 130 dB and includes DSP functionality. Even when comparing only the speaker unit prices, the SR-F09's value is exceedingly low. Calculation: 65,000 JPY ÷ 348,500 JPY = 0.186..., which rounds to 0.2. When the cost of a power amplifier is factored in, the actual cost difference becomes even greater. Compared to other standard active speakers like the Yamaha DXR12mkII (approx. 98,000 JPY) or the QSC K12.2 (approx. 138,000 JPY), the SR-F09's pricing is completely detached from market reality, possessing no price competitiveness.
+The cost-performance of the SR-F09 is extremely poor. Its suggested retail price of 2323 USD (excl. tax) does not include the necessary external power amplifier. In contrast, active speakers, which have amplifiers built-in, offer equivalent or superior performance at a fraction of the cost. For example, the JBL EON715 (retailing for approx. 433 USD) provides a maximum SPL of 130 dB and includes DSP functionality. Even when comparing only the speaker unit prices, the SR-F09's value is exceedingly low. Calculation: 433 USD ÷ 2323 USD = 0.186..., which rounds to 0.2. When the cost of a power amplifier is factored in, the actual cost difference becomes even greater. Compared to other standard active speakers like the Yamaha DXR12mkII (approx. 653 USD) or the QSC K12.2 (approx. 920 USD), the SR-F09's pricing is completely detached from market reality, possessing no price competitiveness.
 
 ## Reliability & Support
 
@@ -47,6 +47,6 @@ The design philosophy of the SR-F09 lacks modern technological rationality. The 
 
 ## Advice
 
-Under no circumstances is the purchase of the TOA SR-F09 recommended. This is a passive speaker, requiring a separate power amplifier in addition to its suggested retail price of 348,500 JPY (excl. tax). In contrast, active speakers like the JBL EON715 (approx. 65,000 JPY), Yamaha DXR12mkII (approx. 98,000 JPY), and QSC K12.2 (approx. 138,000 JPY) offer a complete system in a single unit. They provide equivalent or superior performance and better functionality (DSP, mixing features) at a much lower cost. As it is a discontinued product, repairs and support are not available, posing a fatal risk for professional use. If you are looking for a portable PA speaker, we strongly advise considering current active speaker models like those mentioned above. Even if you are loyal to the TOA brand, you should choose from their current product lineup.
+Under no circumstances is the purchase of the TOA SR-F09 recommended. This is a passive speaker, requiring a separate power amplifier in addition to its suggested retail price of 2323 USD (excl. tax). In contrast, active speakers like the JBL EON715 (approx. 433 USD), Yamaha DXR12mkII (approx. 653 USD), and QSC K12.2 (approx. 920 USD) offer a complete system in a single unit. They provide equivalent or superior performance and better functionality (DSP, mixing features) at a much lower cost. As it is a discontinued product, repairs and support are not available, posing a fatal risk for professional use. If you are looking for a portable PA speaker, we strongly advise considering current active speaker models like those mentioned above. Even if you are loyal to the TOA brand, you should choose from their current product lineup.
 
 (2025.7.24)

@@ -31,7 +31,7 @@ DDFA (Direct Digital Feedback Amplification) technology is the company's proprie
 
 $$ \Large \text{0.6} $$
 
-The PMA-150H is a discontinued product, trading on the used market for around 60,000 to 80,000 JPY. For a cost-performance evaluation, we compare it to current products with equivalent or superior functionality and performance. For example, the Wiim Amp (retailing for around 48,000 JPY) offers 60W (8Ω) output, supports AirPlay 2, Chromecast, and various streaming services, and its measured performance surpasses this unit in some aspects. Considering that the new Wiim Amp is more affordable and offers higher performance than a used PMA-150H, this product's cost-performance cannot be rated highly. Unless there is a strong preference for the HEOS ecosystem, more rational alternatives exist.
+The PMA-150H is a discontinued product, trading on the used market for around 533 USD. For a cost-performance evaluation, we compare it to current products with equivalent or superior functionality and performance. For example, the Wiim Amp (retailing for around 320 USD) offers 60W (8Ω) output, supports AirPlay 2, Chromecast, and various streaming services, and its measured performance surpasses this unit in some aspects. Considering that the new Wiim Amp is more affordable and offers higher performance than a used PMA-150H, this product's cost-performance cannot be rated highly. Unless there is a strong preference for the HEOS ecosystem, more rational alternatives exist.
 
 ## Reliability & Support
 

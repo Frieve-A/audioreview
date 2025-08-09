@@ -31,7 +31,7 @@ The AI DNN (Deep Neural Network) noise-reduction microphone included in this pro
 
 $$ \Large \text{0.9} $$
 
-Products that combine a USB-C connection and active noise cancelling functionality for around 4,000 JPY are rare. However, alternatives are not nonexistent. For example, Samsung's "Type-C Earphones Sound by AKG (EO-IC500)" also features a USB-C connection and ANC, and is available for about 3,500 JPY. Using this as the cheapest alternative, the cost-performance can be calculated. The calculation: 3,500 JPY ÷ 4,000 JPY = 0.875, which results in a score of 0.9. This is a very competitive price point within this niche category.
+Products that combine a USB-C connection and active noise cancelling functionality for around 27 USD are rare. However, alternatives are not nonexistent. For example, Samsung's "Type-C Earphones Sound by AKG (EO-IC500)" also features a USB-C connection and ANC, and is available for about 23 USD. Using this as the cheapest alternative, the cost-performance can be calculated. The calculation: 23 USD ÷ 27 USD = 0.875, which results in a score of 0.9. This is a very competitive price point within this niche category.
 
 ## Reliability & Support
 

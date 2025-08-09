@@ -31,7 +31,7 @@ The ES15's technical composition is standard and widely adopted in the industry.
 
 $$ \Large \text{0.9} $$
 
-The ES15's current market price is approximately 299 USD (about 47,000 JPY). Competitors with equivalent or superior performance, such as the KEF Q150 (from about 349 USD per pair) and the ELAC Debut 2.0 B5.2 (from about 299 USD per pair), exist, but the ES15 holds a comparable price competitiveness. For example, calculating based on the KEF Q150's price gives "349 USD / 299 USD = 1.16," which would be clamped to a score of 1.0, but this is adjusted for slight functional differences. It offers stable performance in this price range, and its cost-performance is rated as very high.
+The ES15's current market price is approximately 313 USD. Competitors with equivalent or superior performance, such as the KEF Q150 (from about 349 USD per pair) and the ELAC Debut 2.0 B5.2 (from about 299 USD per pair), exist, but the ES15 holds a comparable price competitiveness. For example, calculating based on the KEF Q150's price gives "349 USD / 313 USD = 1.16," which would be clamped to a score of 1.0, but this is adjusted for slight functional differences. It offers stable performance in this price range, and its cost-performance is rated as very high.
 
 ## Reliability & Support
 

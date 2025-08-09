@@ -13,7 +13,7 @@ permalink: /products/en/cvj-mermaid2/
 ---
 ## Overview
 
-The CVJ Mermaid2 is a single dynamic driver in-ear monitor released in 2024 through a collaboration between CVJ and R2E3 Acoustics. It features a beryllium-coated 10mm driver with a dual magnet circuit achieving 1.5 Tesla magnetic flux density, housed in a CNC-machined aluminum alloy shell for a premium construction feel. Priced at 89 USD (approximately 13,200 JPY), it employs premium materials and manufacturing techniques. The acoustic characteristics show bright tuning with forward vocals, featuring atmospheric sub-bass and tight mid-bass punch.
+The CVJ Mermaid2 is a single dynamic driver in-ear monitor released in 2024 through a collaboration between CVJ and R2E3 Acoustics. It features a beryllium-coated 10mm driver with a dual magnet circuit achieving 1.5 Tesla magnetic flux density, housed in a CNC-machined aluminum alloy shell for a premium construction feel. Priced at 88 USD, it employs premium materials and manufacturing techniques. The acoustic characteristics show bright tuning with forward vocals, featuring atmospheric sub-bass and tight mid-bass punch.
 
 ## Scientific Validity
 
@@ -31,7 +31,7 @@ From a technical perspective, the CVJ Mermaid2 employs moderate-level design. Th
 
 $$ \Large \text{0.2} $$
 
-Cost-performance is at a low level. Against the 89 USD (approximately 13,200 JPY) price, the most affordable single dynamic driver IEM with equivalent functionality is the Moondrop Chu II at 18.99 USD (approximately 2,850 JPY). Calculation: 2,850 JPY ÷ 13,200 JPY = 0.2, making the Mermaid2 approximately 4.6 times more expensive than equivalent functionality products. Compared to the 7Hz Salnotes Zero (19.99 USD, approximately 3,000 JPY) and other low-cost single DD IEMs, no significant performance differences are recognized in basic music reproduction functions. While material advantages like beryllium coating and CNC-machined shell exist, the essential sound quality improvement effects for users are limited and cannot justify the price difference as a value proposition.
+Cost-performance is at a low level. Against the 88 USD price, the most affordable single dynamic driver IEM with equivalent functionality is the Moondrop Chu II at 19 USD. Calculation: 19 USD ÷ 88 USD = 0.2, making the Mermaid2 approximately 4.6 times more expensive than equivalent functionality products. Compared to the 7Hz Salnotes Zero (20 USD) and other low-cost single DD IEMs, no significant performance differences are recognized in basic music reproduction functions. While material advantages like beryllium coating and CNC-machined shell exist, the essential sound quality improvement effects for users are limited and cannot justify the price difference as a value proposition.
 
 ## Reliability & Support
 
@@ -47,6 +47,6 @@ The design philosophy is partially rational but has significant issues. The sing
 
 ## Advice
 
-The CVJ Mermaid2 is a consideration for buyers who prioritize manufacturing technology and premium materials, but it is difficult to recommend from a cost-performance perspective. Against the 89 USD price, single dynamic driver IEMs like the Moondrop Chu II (approximately 2,850 JPY) and 7Hz Salnotes Zero (approximately 3,000 JPY) provide equivalent performance in basic music reproduction functions. Due to sibilance possibilities from bright tuning, those who dislike emphasized highs or want to avoid listening fatigue during extended sessions should be particularly cautious. For budget-conscious buyers, the aforementioned low-cost products are recommended; for same price range considerations, options like the DUNU Titan S (approximately 11,800 JPY) would be more rational choices. While CVJ's 12-month warranty provides peace of mind, purchases should be made with understanding of the emerging manufacturer status and high price positioning.
+The CVJ Mermaid2 is a consideration for buyers who prioritize manufacturing technology and premium materials, but it is difficult to recommend from a cost-performance perspective. Against the 88 USD price, single dynamic driver IEMs like the Moondrop Chu II (19 USD) and 7Hz Salnotes Zero (20 USD) provide equivalent performance in basic music reproduction functions. Due to sibilance possibilities from bright tuning, those who dislike emphasized highs or want to avoid listening fatigue during extended sessions should be particularly cautious. For budget-conscious buyers, the aforementioned low-cost products are recommended; for same price range considerations, options like the DUNU Titan S (79 USD) would be more rational choices. While CVJ's 12-month warranty provides peace of mind, purchases should be made with understanding of the emerging manufacturer status and high price positioning.
 
 (2025.7.28)

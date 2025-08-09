@@ -13,7 +13,7 @@ permalink: /companies/en/audio-design/
 ---
 ## Overview
 
-Audio Design is a Japanese audio equipment manufacturer with over 21 years of history. The company designs, develops, manufactures, and sells stereo preamps, power amps, selectors, DACs, and headphone amplifiers in-house. Their products are handcrafted by skilled artisans, and in 2017, they achieved 3rd place in the under-1-million-yen category of Stereo Sound magazine's Best Buy Component preamp division, earning industry recognition. They sell through their direct sales site as well as specialized audio retail stores.
+Audio Design is a Japanese audio equipment manufacturer with over 21 years of history. The company designs, develops, manufactures, and sells stereo preamps, power amps, selectors, DACs, and headphone amplifiers in-house. Their products are handcrafted by skilled artisans, and in 2017, they achieved 3rd place in the under-667 USD category of Stereo Sound magazine's Best Buy Component preamp division, earning industry recognition. They sell through their direct sales site as well as specialized audio retail stores.
 
 ## Scientific Validity
 
@@ -31,7 +31,7 @@ Technical innovations such as full-balanced design adopting amp-in-first configu
 
 $$ \Large \text{0.2} $$
 
-Cost-performance receives a low evaluation. The DCP-240's price is 550,000 yen, but the Topping PRE90 (90,000 yen) exists in the market with equivalent preamp functionality and measurement performance when paired with the dedicated "Ext90" input extender (35,000 yen). The calculation result of 125,000 yen ÷ 550,000 yen = 0.227 indicates that the same functionality and performance can be obtained at about 1/4.4th the price. The Topping PRE90 has excellent measurement performance with THD 0.0003% and dynamic range 141dB, providing equivalent or superior preamp functionality to the DCP-240, making it difficult to find advantages justifying the price difference.
+Cost-performance receives a low evaluation. The DCP-240's price is 3667 USD, but the Topping PRE90 (600 USD) exists in the market with equivalent preamp functionality and measurement performance when paired with the dedicated "Ext90" input extender (233 USD). The calculation result of 833 USD ÷ 3667 USD = 0.227 indicates that the same functionality and performance can be obtained at about 1/4.4th the price. The Topping PRE90 has excellent measurement performance with THD 0.0003% and dynamic range 141dB, providing equivalent or superior preamp functionality to the DCP-240, making it difficult to find advantages justifying the price difference.
 
 ## Reliability & Support
 
@@ -47,6 +47,6 @@ The pursuit of measurable performance improvements is scientific and rational. T
 
 ## Advice
 
-While Audio Design products are certainly excellent in measurement performance, recommending them as realistic choices is difficult. If purchasing a preamp with equivalent functionality for the 550,000 yen price of their products, we strongly recommend purchasing the 90,000 yen Topping PRE90 with the 35,000 yen Ext90 and investing the remaining funds in more effective applications (speakers, room acoustic improvements, etc.). Even if you find value in the peace of mind of Japanese manufacturing or handcrafted production, carefully consider whether that value corresponds to a 4.4-fold price difference. For objective sound quality improvement purposes, choosing cost-performance superior alternatives is rational.
+While Audio Design products are certainly excellent in measurement performance, recommending them as realistic choices is difficult. If purchasing a preamp with equivalent functionality for the 3667 USD price of their products, we strongly recommend purchasing the 600 USD Topping PRE90 with the 233 USD Ext90 and investing the remaining funds in more effective applications (speakers, room acoustic improvements, etc.). Even if you find value in the peace of mind of Japanese manufacturing or handcrafted production, carefully consider whether that value corresponds to a 4.4-fold price difference. For objective sound quality improvement purposes, choosing cost-performance superior alternatives is rational.
 
 (2025.8.3)

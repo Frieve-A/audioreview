@@ -14,7 +14,7 @@ permalink: /products/en/final-GEAR01+Gaming/
 
 ## Overview
 
-The final GEAR01+Gaming is a true wireless earphone jointly developed by the REB brand and final's acoustic engineers. It features an ultra-low 35ms latency gaming mode, LDAC support, hybrid ANC, and Bluetooth 5.4, covering a wide range of applications from gaming to music. Priced at 9,800 JPY, this notable product won the VGP2024 Summer award. It is positioned as a product that aims to merge Japanese acoustic technology with gaming functionality.
+The final GEAR01+Gaming is a true wireless earphone jointly developed by the REB brand and final's acoustic engineers. It features an ultra-low 35ms latency gaming mode, LDAC support, hybrid ANC, and Bluetooth 5.4, covering a wide range of applications from gaming to music. Priced at 65 USD, this notable product won the VGP2024 Summer award. It is positioned as a product that aims to merge Japanese acoustic technology with gaming functionality.
 
 ## Scientific Validity
 
@@ -32,7 +32,7 @@ The claimed joint development with final's acoustic engineers suggests a certain
 
 $$ \Large \text{1.0} $$
 
-The 9,800 JPY price point represents outstanding cost-performance. Competing products that feature all of LDAC, ANC, and a low-latency gaming mode, such as the "Edifier NeoBuds Pro 2" (market price approx. 18,000 JPY), are significantly more expensive. Compared to these alternatives, the GEAR01+Gaming offers an equivalent feature set at nearly half the price, making it effectively the world's most affordable option with this combination of functions.
+The 65 USD price point represents outstanding cost-performance. Competing products that feature all of LDAC, ANC, and a low-latency gaming mode, such as the "Edifier NeoBuds Pro 2" (market price approx. 120 USD), are significantly more expensive. Compared to these alternatives, the GEAR01+Gaming offers an equivalent feature set at nearly half the price, making it effectively the world's most affordable option with this combination of functions.
 
 ## Reliability & Support
 
@@ -48,6 +48,6 @@ The product has a clear concept of balancing gaming and music listening, and its
 
 ## Advice
 
-For users who want a single device for both gaming and music, the GEAR01+Gaming is currently the most cost-effective choice. The 35ms low-latency mode excels in response-critical games, while LDAC support enables high-quality music listening. Considering that competing products with similar features cost upwards of 18,000 JPY, the 9,800 JPY price is a compelling advantage. However, potential buyers should be aware that fundamental audio performance data (THD, frequency response, etc.) is not available. Therefore, users who prioritize pure audio fidelity should consider this risk before purchasing.
+For users who want a single device for both gaming and music, the GEAR01+Gaming is currently the most cost-effective choice. The 35ms low-latency mode excels in response-critical games, while LDAC support enables high-quality music listening. Considering that competing products with similar features cost upwards of 120 USD, the 65 USD price is a compelling advantage. However, potential buyers should be aware that fundamental audio performance data (THD, frequency response, etc.) is not available. Therefore, users who prioritize pure audio fidelity should consider this risk before purchasing.
 
 (2025.7.31)

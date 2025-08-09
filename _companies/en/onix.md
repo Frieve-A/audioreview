@@ -7,7 +7,7 @@ lang: en
 ref: onix
 date: 2025-07-30
 rating: [2.5, 0.8, 0.6, 0.1, 0.4, 0.6]
-summary: "An established British audio manufacturer founded in 1984. Its flagship product, the OC93, boasts excellent official specifications, including a THD of <0.002% and an S/N ratio of >112dB. However, with a high price of 1,230,000 JPY, its cost-performance is rated extremely poorly, as alternative products with comparable features and excellent measured performance are available for less than a tenth of the price."
+summary: "An established British audio manufacturer founded in 1984. Its flagship product, the OC93, boasts excellent official specifications, including a THD of <0.002% and an S/N ratio of >112dB. However, with a high price of 8200 USD, its cost-performance is rated extremely poorly, as alternative products with comparable features and excellent measured performance are available for less than a tenth of the price."
 tags: [CD Player, DAC, High Price, Network streamer, United Kingdom]
 permalink: /companies/en/onix/
 ---
@@ -37,9 +37,9 @@ Adam Worsfold's over 40 years of experience likely contributes to this solid per
 
 $$ \Large \text{0.1} $$
 
-ONIX receives an extremely harsh cost-performance evaluation. The flagship OC93 (1,230,000 JPY) integrates a CD player, DAC, and streamer. However, equivalent functionality can be achieved with a combination of more affordable components. For instance, pairing a high-performance streamer like the WiiM Pro Plus (approx. 33,000 JPY) with a CD transport like the Cambridge Audio CXC V2 (approx. 70,000 JPY) provides all the core functions of the OC93 for a total of around 103,000 JPY.
+ONIX receives an extremely harsh cost-performance evaluation. The flagship OC93 (8200 USD) integrates a CD player, DAC, and streamer. However, equivalent functionality can be achieved with a combination of more affordable components. For instance, pairing a high-performance streamer like the WiiM Pro Plus (approx. 220 USD) with a CD transport like the Cambridge Audio CXC V2 (approx. 467 USD) provides all the core functions of the OC93 for a total of around 687 USD.
 
-Calculation: 103,000 JPY ÷ 1,230,000 JPY ≈ 0.084
+Calculation: 687 USD ÷ 8200 USD ≈ 0.084
 
 This results in a cost-performance score of 0.1. The OC93 is priced approximately 12 times higher than an alternative setup with equivalent functionality, with no clear technological advantages or added value to justify this price difference.
 
@@ -57,7 +57,7 @@ $$ \Large \text{0.6} $$
 
 ONIX's design philosophy is rational in its adherence to the traditional British audio approach while aiming for high measured performance. The use of a quality DAC chip to achieve an excellent specification like a THD of <0.002% demonstrates a sincere commitment to the goal of faithful sound reproduction.
 
-However, the necessity of offering this performance at a price of 1,230,000 JPY remains questionable. In an era where products with equivalent or better functionality and comparable measured performance are available for significantly less, the rationale for insisting on a high-end, all-in-one dedicated device is weak. While the commitment to performance is commendable, the pricing, which ignores the overall market cost structure, undermines the overall rationality.
+However, the necessity of offering this performance at a price of 8200 USD remains questionable. In an era where products with equivalent or better functionality and comparable measured performance are available for significantly less, the rationale for insisting on a high-end, all-in-one dedicated device is weak. While the commitment to performance is commendable, the pricing, which ignores the overall market cost structure, undermines the overall rationality.
 
 ## Advice
 

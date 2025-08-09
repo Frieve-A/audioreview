@@ -32,7 +32,7 @@ The design combines a basic 2-way configuration with a 30W Class-D amplifier, of
 
 $$ \Large \text{0.7} $$
 
-Against its Japanese market price of 29,700 JPY, there are competing products that offer equivalent or superior functionality, including the key feature of Bluetooth connectivity, at a lower price. For instance, the Edifier R1280DBs (sells for 18,345 JPY) features a larger 106mm woofer, supports the higher-quality aptX codec, and includes digital inputs, all at a significantly lower cost. Similarly, the Presonus Eris E3.5 BT (sells for 20,900 JPY) offers more power with a 50W amplifier. Calculating the cost-performance ratio against these competitors: vs. Edifier R1280DBs: `18,345 JPY / 29,700 JPY ≈ 0.62`. vs. Presonus Eris E3.5 BT: `20,900 JPY / 29,700 JPY ≈ 0.70`. The average of these ratios is approximately 0.66. Rounding this gives a score of 0.7. The price reflects a premium for the Audio-Technica brand, as the pure performance-to-price ratio is surpassed by other options.
+Against its Japanese market price of 198 USD, there are competing products that offer equivalent or superior functionality, including the key feature of Bluetooth connectivity, at a lower price. For instance, the Edifier R1280DBs (sells for 122 USD) features a larger 106mm woofer, supports the higher-quality aptX codec, and includes digital inputs, all at a significantly lower cost. Similarly, the Presonus Eris E3.5 BT (sells for 139 USD) offers more power with a 50W amplifier. Calculating the cost-performance ratio against these competitors: vs. Edifier R1280DBs: `122 USD / 198 USD ≈ 0.62`. vs. Presonus Eris E3.5 BT: `139 USD / 198 USD ≈ 0.70`. The average of these ratios is approximately 0.66. Rounding this gives a score of 0.7. The price reflects a premium for the Audio-Technica brand, as the pure performance-to-price ratio is surpassed by other options.
 
 ## Reliability & Support
 
@@ -48,6 +48,6 @@ While the design concept assuming combination with turntables is understandable,
 
 ## Advice
 
-If you are considering purchasing the AT-SP3X, we strongly recommend comparing it with competing products. Models like the Edifier R1280DBs (18,345 JPY) and the Presonus Eris E3.5 BT (20,900 JPY) offer equivalent or superior performance and features, including Bluetooth, at a significantly lower price, making them strong alternatives for cost-conscious buyers. However, if you place a high value on the Audio-Technica brand's reliability and design synergy with their turntables, the 29,700 JPY price point may be justifiable. It is a suitable choice if you prioritize compact size and brand consistency over pure cost-performance.
+If you are considering purchasing the AT-SP3X, we strongly recommend comparing it with competing products. Models like the Edifier R1280DBs (122 USD) and the Presonus Eris E3.5 BT (139 USD) offer equivalent or superior performance and features, including Bluetooth, at a significantly lower price, making them strong alternatives for cost-conscious buyers. However, if you place a high value on the Audio-Technica brand's reliability and design synergy with their turntables, the 198 USD price point may be justifiable. It is a suitable choice if you prioritize compact size and brand consistency over pure cost-performance.
 
 (2025.7.23)

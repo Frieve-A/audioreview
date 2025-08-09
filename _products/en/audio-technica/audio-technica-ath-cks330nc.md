@@ -32,7 +32,7 @@ The implementation of active noise cancellation in wired earphones via a USB-C c
 
 $$ \Large \text{1.0} $$
 
-Evaluated as wired earphones equipped with a USB-C connection, built-in DAC, and active noise cancellation functionality at a market price of 5,055 JPY. Extensive market research revealed that while competing products with equivalent functions (USB-C, built-in DAC, ANC) exist, such as the Samsung AKG Type-C ANC version (estimated equivalent of 5,600 JPY, 70 USD), they are all more expensive than this product. Therefore, as this product is one of the most affordable options with comparable features, its cost-performance is rated at 1.0. While cheaper USB-C earphones like the JBL Tune 310C (approx. 3,775 JPY) are available, they are not considered comparable as they lack ANC functionality.
+Evaluated as wired earphones equipped with a USB-C connection, built-in DAC, and active noise cancellation functionality at a market price of 34 USD. Extensive market research revealed that while competing products with equivalent functions (USB-C, built-in DAC, ANC) exist, such as the Samsung AKG Type-C ANC version (estimated equivalent of 37 USD), they are all more expensive than this product. Therefore, as this product is one of the most affordable options with comparable features, its cost-performance is rated at 1.0. While cheaper USB-C earphones like the JBL Tune 310C (approx. 25 USD) are available, they are not considered comparable as they lack ANC functionality.
 
 ## Reliability & Support
 

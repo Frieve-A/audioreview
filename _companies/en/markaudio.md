@@ -32,7 +32,7 @@ Technical level exceeds industry average. The unique approach of speaker design 
 
 $$ \Large \text{0.5} $$
 
-Cost performance represents average levels. Rigorous evaluation of MarkAudio CHR-70v3 (retail price 12,800 JPY/pair) function and performance requires detailed THD and frequency response measurement data comparisons, but publicly available specific measured values remain limited. While CHR-70 achieves low fo value of 70Hz, measurement data demonstrating clear advantages over competing products in similar price ranges proves insufficient. Mechanical engineering design approaches offer uniqueness, but inadequate quantitative evidence of measurable performance improvements makes pure function-to-performance price ratio evaluation difficult. While some appreciate custom-made components and quality perception, conservative judgment proves appropriate for scientifically-based CP evaluation.
+Cost performance represents average levels. Rigorous evaluation of MarkAudio CHR-70v3 (retail price 85 USD/pair) function and performance requires detailed THD and frequency response measurement data comparisons, but publicly available specific measured values remain limited. While CHR-70 achieves low fo value of 70Hz, measurement data demonstrating clear advantages over competing products in similar price ranges proves insufficient. Mechanical engineering design approaches offer uniqueness, but inadequate quantitative evidence of measurable performance improvements makes pure function-to-performance price ratio evaluation difficult. While some appreciate custom-made components and quality perception, conservative judgment proves appropriate for scientifically-based CP evaluation.
 
 ## Reliability & Support
 

@@ -13,7 +13,7 @@ permalink: /products/en/soulnote-d_a-converter-d-3/
 ---
 ## Overview
 
-The soulnote D/A Converter D-3 is the flagship D/A converter developed by the Japanese company soulnote. It features a dual-monaural configuration with a total of four ES9038PRO chips, two for each channel. Characterized by its high-current output and low-jitter performance, it has a unique design that operates only in conjunction with the external clock generator X-3 (sold separately). The D-3 itself is priced at 1,650,000 JPY, and the mandatory X-3 costs 748,000 JPY, bringing the total system price to 2,398,000 JPY (including tax), placing it in the ultra-high-end price segment.
+The soulnote D/A Converter D-3 is the flagship D/A converter developed by the Japanese company soulnote. It features a dual-monaural configuration with a total of four ES9038PRO chips, two for each channel. Characterized by its high-current output and low-jitter performance, it has a unique design that operates only in conjunction with the external clock generator X-3 (sold separately). The D-3 itself is priced at 11,000 USD, and the mandatory X-3 costs 4,987 USD, bringing the total system price to 15,987 USD (including tax), placing it in the ultra-high-end price segment.
 
 ## Scientific Validity
 
@@ -31,7 +31,7 @@ The technical implementation of the D-3 is commendable. The design is sophistica
 
 $$ \Large \text{0.1} $$
 
-The cost-performance of the D-3 is extremely poor. As a point of comparison, the Topping D90SE (retailing at 139,392 JPY) uses the same ES9038PRO chip and offers equivalent or superior measured performance. The D-3 system, including the mandatory X-3 clock generator, totals 2,398,000 JPY. The cost-performance calculation is "139,392 JPY ÷ 2,398,000 JPY ≈ 0.058," which rounds to a score of 0.1. This means an alternative product exists that delivers equivalent or better basic performance for about 1/17th of the price. There is no objective performance difference to justify this price gap.
+The cost-performance of the D-3 is extremely poor. As a point of comparison, the Topping D90SE (retailing at 929 USD) uses the same ES9038PRO chip and offers equivalent or superior measured performance. The D-3 system, including the mandatory X-3 clock generator, totals 15,987 USD. The cost-performance calculation is "929 USD ÷ 15,987 USD ≈ 0.058," which rounds to a score of 0.1. This means an alternative product exists that delivers equivalent or better basic performance for about 1/17th of the price. There is no objective performance difference to justify this price gap.
 
 ## Reliability & Support
 
@@ -47,6 +47,6 @@ The D-3's design philosophy is questionable in terms of rationality. A design th
 
 ## Advice
 
-Careful judgment is recommended when considering the purchase of the D-3. While the luxurious build and unique design philosophy may satisfy a desire for ownership, objective performance evaluations show no clear difference from far cheaper products using the same DAC chip. With a budget of nearly 2.4 million JPY, one could build a top-tier system featuring a high-performance DAC like the Topping D90SE, combined with the best-in-class preamplifiers, power amplifiers, and speakers. For those purely in pursuit of sound quality improvement, it would be wiser to allocate the budget to optimizing the entire system. This product is best suited for enthusiasts who find special value in its brand and rarity.
+Careful judgment is recommended when considering the purchase of the D-3. While the luxurious build and unique design philosophy may satisfy a desire for ownership, objective performance evaluations show no clear difference from far cheaper products using the same DAC chip. With a budget of nearly 15,987 USD, one could build a top-tier system featuring a high-performance DAC like the Topping D90SE, combined with the best-in-class preamplifiers, power amplifiers, and speakers. For those purely in pursuit of sound quality improvement, it would be wiser to allocate the budget to optimizing the entire system. This product is best suited for enthusiasts who find special value in its brand and rarity.
 
 (2025.7.22)

@@ -32,7 +32,7 @@ The dual-chip configuration of the CS43131 and SGM8262 is a standard approach in
 
 $$ \Large \text{0.6} $$
 
-The JCally JM20 Max has a market price of approximately 8,000 JPY. As a comparison target with equivalent functionality, the FiiO KA11 (4,500 JPY) equipped with a single CS43131 chip can be cited. The FiiO KA11 also supports 32bit/384kHz PCM and DSD256, and its output power of 200mW@32Ω surpasses this unit's 140mW@32Ω. The cost-performance calculation is: 4,500 JPY ÷ 8,000 JPY = 0.56, which rounds to 0.6. While it features a dual-chip configuration, there is no performance advantage to justify the price difference. Due to the existence of a cheaper and more powerful alternative, its cost-performance receives an average evaluation.
+The JCally JM20 Max has a market price of approximately 53 USD. As a comparison target with equivalent functionality, the FiiO KA11 (30 USD) equipped with a single CS43131 chip can be cited. The FiiO KA11 also supports 32bit/384kHz PCM and DSD256, and its output power of 200mW@32Ω surpasses this unit's 140mW@32Ω. The cost-performance calculation is: 30 USD ÷ 53 USD = 0.56, which rounds to 0.6. While it features a dual-chip configuration, there is no performance advantage to justify the price difference. Due to the existence of a cheaper and more powerful alternative, its cost-performance receives an average evaluation.
 
 ## Reliability & Support
 
@@ -48,6 +48,6 @@ The product concept of a USB-C to 3.5mm conversion DAC dongle is a rational solu
 
 ## Advice
 
-The JCally JM20 Max is an excellent product in terms of measurement performance but requires careful consideration from a cost-performance perspective. While it achieves excellent figures of THD+N <0.001% and SNR >120dB, the existence of the FiiO KA11 for 4,500 JPY makes its 8,000 JPY price setting feel overpriced. It's important to note that despite its dual-chip configuration, its output power is lower than that of the FiiO KA11. If budget is a priority, the FiiO KA11 would be a more rational choice. On the other hand, if you find appeal in the texture or design of JCally products, it could be an option. The short 3-month warranty period is also a consideration. We recommend thoroughly examining other options in the same price range before purchase.
+The JCally JM20 Max is an excellent product in terms of measurement performance but requires careful consideration from a cost-performance perspective. While it achieves excellent figures of THD+N <0.001% and SNR >120dB, the existence of the FiiO KA11 for 30 USD makes its 53 USD price setting feel overpriced. It's important to note that despite its dual-chip configuration, its output power is lower than that of the FiiO KA11. If budget is a priority, the FiiO KA11 would be a more rational choice. On the other hand, if you find appeal in the texture or design of JCally products, it could be an option. The short 3-month warranty period is also a consideration. We recommend thoroughly examining other options in the same price range before purchase.
 
 (2025.7.30)

@@ -31,7 +31,7 @@ Technically, it adopts industry-standard design approaches. The CIRRUS LOGIC CS4
 
 $$ \Large \text{0.7} $$
 
-The MiniFuse 1 is priced at approximately 15,000 JPY. To account for the latency reduction benefits in music production, we compare it to an equivalent 192kHz/24-bit capable product. One of the most affordable competitors in this category is the "Steinberg UR12," available for about 11,000 JPY. Both products offer nearly identical user features (mic/instrument input, phantom power, monitor output). Based on the formula "11,000 JPY ÷ 15,000 JPY = 0.733...," the score is 0.7. While a price difference exists, the MiniFuse 1 includes added value through its extensive bundled software and a 5-year warranty, making its cost-performance reasonable.
+The MiniFuse 1 is priced at approximately 100 USD. To account for the latency reduction benefits in music production, we compare it to an equivalent 192kHz/24-bit capable product. One of the most affordable competitors in this category is the "Steinberg UR12," available for about 73 USD. Both products offer nearly identical user features (mic/instrument input, phantom power, monitor output). Based on the formula "73 USD ÷ 100 USD = 0.73...," the score is 0.7. While a price difference exists, the MiniFuse 1 includes added value through its extensive bundled software and a 5-year warranty, making its cost-performance reasonable.
 
 ## Reliability & Support
 

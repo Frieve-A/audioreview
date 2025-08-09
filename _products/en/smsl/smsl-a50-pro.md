@@ -31,7 +31,7 @@ The MA12070P chip provides efficient and stable Class D amplification through a 
 
 $$ \Large \text{1.0} $$
 
-With a market price of approximately 13,000 JPY, this amplifier offers HDMI ARC, 2.1-channel output, subwoofer crossover adjustment, and sufficient power. As of 2025, it is difficult to find an alternative product that provides all these features at a lower price. Therefore, it is effectively the world's most affordable option for its feature set, earning it the highest cost-performance rating of 1.0.
+With a market price of approximately 87 USD, this amplifier offers HDMI ARC, 2.1-channel output, subwoofer crossover adjustment, and sufficient power. As of 2025, it is difficult to find an alternative product that provides all these features at a lower price. Therefore, it is effectively the world's most affordable option for its feature set, earning it the highest cost-performance rating of 1.0.
 
 ## Reliability & Support
 

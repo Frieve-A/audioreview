@@ -7,7 +7,7 @@ lang: en
 ref: denon-avr-x4500h
 date: 2025-07-27
 rating: [3.7, 0.8, 0.7, 1.0, 0.4, 0.8]
-summary: "A powerful 9.2-channel AV receiver from 2018, pioneering IMAX Enhanced support and offering 11.2-channel processing. Available on the used market for around 90,000 JPY (approx. 700 USD), it combines excellent performance (THD 0.05%) and cost-performance, but carries risks as a discontinued product."
+summary: "A powerful 9.2-channel AV receiver from 2018, pioneering IMAX Enhanced support and offering 11.2-channel processing. Available on the used market for around 600 USD, it combines excellent performance (THD 0.05%) and cost-performance, but carries risks as a discontinued product."
 tags: [4K Support, 9 Channel, AV Receiver, Dolby Atmos, IMAX Enhanced, Room correction]
 permalink: /products/en/denon-avr-x4500h/
 ---
@@ -31,7 +31,7 @@ For its 2018 release, the AVR-X4500H incorporated several advanced technologies.
 
 $$ \Large \text{1.0} $$
 
-In the current used market, this unit trades for around 90,000 JPY (approximately 700 USD). Considering the comprehensive features and performance it offers—such as a 9.2-channel amplifier, 11.2-channel processing, and IMAX Enhanced support—this is one of the most affordable options for achieving a comparable experience. For instance, a new current model with similar or superior features, the Onkyo TX-RZ50, costs around 180,000 JPY (approximately 1,400 USD). Given that no cheaper alternatives with equivalent capabilities are readily available, its cost-performance score is a perfect 1.0 according to our policy.
+In the current used market, this unit trades for around 600 USD. Considering the comprehensive features and performance it offers—such as a 9.2-channel amplifier, 11.2-channel processing, and IMAX Enhanced support—this is one of the most affordable options for achieving a comparable experience. For instance, a new current model with similar or superior features, the Onkyo TX-RZ50, costs around 1200 USD. Given that no cheaper alternatives with equivalent capabilities are readily available, its cost-performance score is a perfect 1.0 according to our policy.
 
 ## Reliability & Support
 
