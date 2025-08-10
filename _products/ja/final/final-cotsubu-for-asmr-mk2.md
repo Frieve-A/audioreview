@@ -8,10 +8,9 @@ ref: final-cotsubu-for-asmr-mk2
 date: 2025-07-09
 rating: [2.6, 0.6, 0.5, 0.4, 0.6, 0.5]
 summary: "世界初のASMR専用ワイヤレスイヤホンの進化版だが、測定可能な音響性能においては一般的なワイヤレスイヤホンに劣る"
-tags: [ワイヤレスイヤホン, ASMR, Final, Ag]
+tags: [ASMR, Ag, ファイナル, ワイヤレスイヤホン]
 permalink: /products/ja/final-cotsubu-for-asmr-mk2/
 ---
-
 ## 概要
 
 final COTSUBU for ASMR MK2は、世界初のASMR専用ワイヤレスイヤホンの後継機種として開発された特殊用途向け製品です。finalとagブランドの共同開発により、ASMR体験に特化した「超近接音場設計」を採用し、ダミーヘッドマイクの内部にいるような没入感を提供することを目的としています。重量3.5gの軽量設計とIPX4防水機能を備えており、ASMRモードでは誤操作を防ぐ特殊な操作体系を採用しています。

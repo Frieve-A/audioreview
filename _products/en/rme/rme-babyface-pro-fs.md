@@ -5,21 +5,21 @@ target_name: "RME Babyface Pro FS"
 company_id: rme
 lang: en
 ref: rme-babyface-pro-fs
-date: 2025-08-03
+date: 2025-08-10
 rating: [4.1, 0.8, 0.9, 0.7, 0.9, 0.8]
-summary: "High-precision USB audio interface featuring femtosecond-precision clock technology. Boasts excellent measurement performance and technology level, but cost-performance is limited due to existence of lower-priced competitors with equivalent functionality."
-tags: [192kHz, Audio interface, Pro Audio, RME, USB]
+summary: "Professional USB audio interface. Achieves transparent-level measurement values, but cost-performance is challenging."
+tags: [Audio interface, Professional, RME, USB]
 permalink: /products/en/rme-babyface-pro-fs/
 ---
 ## Overview
 
-The RME Babyface Pro FS is a 12-input/12-output USB audio interface developed by German company RME. It incorporates SteadyClock FS circuitry equivalent to the company's flagship ADI-2 Pro, achieving femtosecond-precision jitter suppression. Positioned as a professional product, it features two high-quality microphone preamplifiers, 76dB gain range, 192kHz/24-bit sampling support, and ADAT/SPDIF expandability. Operating on bus power without external power requirements, it provides advanced internal mixing capabilities through TotalMix FX software.
+The RME Babyface Pro FS is a 24-bit/192kHz portable USB audio interface developed by German company RME Audio. Featuring a 12-input/12-output 24-channel configuration with SteadyClock FS technology, it is optimized for professional applications. The precision-machined aluminum block housing incorporates latest-generation AD/DA converters and proprietary TotalMix FX engine. Designed for single-cable operation with USB 2.0 bus power capability.
 
 ## Scientific Validity
 
 $$ \Large \text{0.8} $$
 
-Measurement performance demonstrates excellent results meeting transparent-level standards. Microphone preamplifier SNR reaches 113.7dB (117dBA), and line input achieves 116.3dB (120dBA), significantly exceeding the transparent-level baseline of 105dB or higher. THD measures below 0.00024%, substantially clearing the transparent-level threshold of 0.01% or lower. Frequency response achieves ±0.1dB at 44.1kHz and ±1dB at 192kHz, approaching the transparent-level standard of ±0.5dB. Dynamic range of 115dB also meets transparent levels, with femtosecond-precision clock technology delivering measurable jitter improvements. These measurement values represent levels that provide meaningful audio quality improvements for human hearing.
+Measurement performance demonstrates excellent results meeting transparent-level standards. Microphone preamplifier SNR reaches 113.7dB (117dBA), and line input achieves 116.3dB (120dBA), significantly exceeding the transparent-level baseline of 105dB or higher [1]. THD measures below 0.00024%, substantially clearing the transparent-level threshold of 0.01% or lower. Frequency response achieves ±0.1dB at 44.1kHz and ±1dB at 192kHz, approaching the transparent-level standard of ±0.5dB. Dynamic range of 115dB also meets transparent levels, with femtosecond-precision clock technology delivering measurable jitter improvements. These measurement values represent levels that provide meaningful audio quality improvements for human hearing.
 
 ## Technology Level
 
@@ -31,13 +31,13 @@ The SteadyClock FS technology derived from the company's ADI-2 Pro achieves indu
 
 $$ \Large \text{0.7} $$
 
-Against the 999 USD price point, the Focusrite Scarlett 18i20 4th Gen (700 USD) exists with equivalent 12-input/12-output or higher functionality. The 18i20 offers 18 inputs/20 outputs with ADAT expansion enabling 16 additional channels, 192kHz support, and eight microphone preamplifiers, providing equivalent or superior I/O performance to the Babyface Pro FS, though Babyface has an advantage in portability. Calculation: 700 USD ÷ 999 USD = 0.70, rounded to 0.7 score. While RME slightly exceeds in measurement performance, the 18i20 is superior in practical I/O count and expandability, making cost-performance unfavorable.
+Against the current price of 130,000円 (880 USD), the Focusrite Scarlett 18i20 4th Gen at 100,000円 (700 USD) exists with equivalent 12-input/12-output or higher functionality [2]. The 18i20 offers 18 inputs/20 outputs with ADAT expansion enabling 16 additional channels, 192kHz support, and eight microphone preamplifiers, providing equivalent or superior I/O performance to the Babyface Pro FS, though Babyface has an advantage in portability. Calculation: 100,000円 ÷ 130,000円 = 0.77, rounded to 0.7 score. While RME slightly exceeds in measurement performance, the 18i20 is superior in practical I/O count and expandability, making cost-performance unfavorable.
 
 ## Reliability & Support
 
 $$ \Large \text{0.9} $$
 
-RME is renowned for industry-leading driver stability and long-term support, with products typically receiving firmware update support for over 10 years. The Babyface series maintains high operational rates even in previous models, with extensive track record in professional environments. Through prompt technical support response and regular driver updates, it provides industry-leading reliability standards. Metal chassis construction offers high physical durability, with failure rates significantly below industry average. The only concern is potential high repair costs due to the premium price category.
+Since its founding in 1996, RME has been known for industry-leading reliability, with usage records by major artists including The Who, Coldplay, and Elton John, as well as at the 2012 Olympics opening and closing ceremonies [3]. Provides excellent stability and low-latency performance through proprietary driver development. Offers 2-year warranty in the US and 5-year warranty in the UK. Through proprietary interface core development, RME has established a system capable of updates and fixes without third-party dependencies.
 
 ## Rationality of Design Philosophy
 
@@ -49,4 +49,12 @@ The scientific approach aimed at measurable audio quality improvements is commen
 
 The Babyface Pro FS is certainly a product with excellent measurement performance, but careful consideration of intended use before purchase is recommended. In environments like recording studios or broadcast stations where the highest measurement performance and driver stability are essential, it offers investment value. However, for applications requiring 12 or more I/O channels, the Focusrite Scarlett 18i20 4th Gen provides equivalent or superior expandability at approximately two-thirds the price. Particularly with budget constraints, directing the price difference toward other equipment investments would likely lead to greater overall audio quality improvements. This product is recommended only for professional users who prioritize RME's long-term support and stability along with top-level measurement performance, and have adequate budget flexibility.
 
-(2025.8.3)
+## References
+
+[1] Audio Science Review, "RME Babyface Pro FS Portable Interface Review", https://www.audiosciencereview.com/forum/index.php?threads/rme-babyface-pro-fs-portable-interface-review.12313/, Accessed 2025, THD+N measurement conditions: 90kHz bandwidth
+
+[2] Focusrite, "Scarlett 18i20 4th Gen USB Audio Interface", https://focusrite.com/products/scarlett-18i20, Accessed 2025, 18 inputs/20 outputs, 192kHz support
+
+[3] RME Audio, "About RME Audio", https://rme-audio.de/company.html, Accessed 2025, Professional usage records
+
+(2025.8.10)

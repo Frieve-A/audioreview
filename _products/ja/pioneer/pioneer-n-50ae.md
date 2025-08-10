@@ -8,10 +8,9 @@ ref: pioneer-n-50ae
 date: 2025-08-09
 rating: [2.9, 0.5, 0.6, 0.9, 0.4, 0.5]
 summary: "ESS SABRE32 Ultra DACを搭載したネットワークオーディオプレーヤー。DSD 11.2MHz対応。現在は生産終了で、ファームウェア更新も停止している。現行ではより安価で高性能・高機能な代替が存在する。"
-tags: [Network Player, DAC, ESS Sabre, Pioneer, Discontinued]
+tags: [DAC, ESS Sabre, ネットワークプレーヤー, パイオニア, 廃盤]
 permalink: /products/ja/pioneer-n-50ae/
 ---
-
 ## 概要
 
 Pioneer N-50AEは、ESS SABRE32 Ultra ES9016S DACを搭載したネットワークオーディオプレーヤーです。2017年頃に発売され、DSD 11.2MHz再生、PCM 192kHz/32bit対応、Wi-Fi/Bluetooth/Chromecast/AirPlay等の多彩な接続機能を備えています。現在は生産終了となっており、ファームウェアサポートも2021年で終了しています。

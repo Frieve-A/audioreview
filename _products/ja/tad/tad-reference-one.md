@@ -8,10 +8,9 @@ ref: tad-reference-one
 date: 2025-08-08
 rating: [2.8, 0.6, 0.8, 0.2, 0.6, 0.6]
 summary: "TAD Reference Oneは先進的なCST技術と高品質な設計により高い音響再現を志向する一方、超高額価格によりコストパフォーマンスは限定的なフラッグシップスピーカー"
-tags: [スピーカー, ハイエンド, ベリリウム, CST, TAD]
+tags: [CST, スピーカー, タッド, ハイエンド, ベリリウム]
 permalink: /products/ja/tad-reference-one/
 ---
-
 ## 概要
 
 TAD Reference Oneは、パイオニアのプロフェッショナルオーディオ部門であるTechnical Audio Devices（TAD）が開発したフラッグシップスピーカーシステムです。同社が培ってきたスタジオモニター技術を家庭用オーディオに応用し、ベリリウム製CST（Coherent Source Transducer）ドライバーを中核とする設計により、プロフェッショナル品質の音響性能を志向しています。公称で約150kgの重量級筐体と、21Hz-100kHz（-10dB）と案内される広帯域再生能力[1]を特徴とします（仕様や名称はモデル/ロット・地域で異なる場合があります）。

@@ -8,10 +8,9 @@ ref: yamaha-sr-x40a
 date: 2025-07-07
 rating: [3.5, 0.8, 0.8, 0.3, 0.8, 0.8]
 summary: "YAMAHAのTrue X Bar 40Aは、6ドライバーと内蔵サブウーファーで180W Dolby Atmosを500ドル未満で提供。優れた没入型サウンドを提供し、EISAの「Best Soundbar System 2023-2024」を受賞したが、Hisense AX5125HやSony HT-S2000など、大幅に低価格で同様のDolby Atmos機能を提供する代替製品からの強いコストパフォーマンスの課題に直面している。"
-tags: [YAMAHA, サウンドバー, Dolby Atmos, 2.1.2チャンネル, 内蔵サブウーファー]
+tags: [2.1.2チャンネル, Dolby Atmos, サウンドバー, ヤマハ, 内蔵サブウーファー]
 permalink: /products/ja/yamaha-sr-x40a/
 ---
-
 ## 概要
 
 YAMAHA SR-X40A（True X Bar 40A）は、Dolby AtmosとDTS:X 3Dサラウンドサウンド技術を特徴とするプレミアム2.1.2チャンネルサウンドバーです。専用上向きユニットを含む6ドライバーに分散された180W総出力で、内蔵75mmサブウーファーユニットを組み込んでいます。TV互換性のためのわずか63mm厚さで1,015×63×112mmを測定し、Wi-Fi、Ethernet、Bluetooth、AirPlay 2をサポートし、Amazon Alexa音声アシスタントを含みます。システムは、eARC互換のHDMI 2.0を介して4K 60Hzをサポートし、SpotifyとTidalストリーミングサービスへのアクセスを提供します。YAMAHAの拡張可能なTrue Xエコシステムの一部として設計され、完全なホームシアターセットアップのためのオプションのワイヤレスサブウーファーSW-X100AとサラウンドスピーカーWS-X1Aに対応できます。

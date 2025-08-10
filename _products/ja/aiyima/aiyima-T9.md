@@ -8,7 +8,7 @@ ref: aiyima-T9
 date: 2025-07-22
 rating: [2.4, 0.4, 0.5, 0.8, 0.3, 0.4]
 summary: "真空管風装飾と統合機能を備えたBluetooth対応コンパクトアンプ。出力仕様はTPA3250チップの能力と整合性があり、多機能デスクトップアンプとして一定の価値を提供"
-tags: [Bluetooth, D級, TPA3250, USB-DAC, アンプ, 真空管]
+tags: [Bluetooth, D級, TPA3250, USB DAC, アンプ, 真空管]
 permalink: /products/ja/aiyima-T9/
 ---
 ## 概要

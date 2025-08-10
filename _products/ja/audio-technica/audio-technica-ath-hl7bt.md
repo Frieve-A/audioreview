@@ -8,10 +8,9 @@ ref: audio-technica-ath-hl7bt
 date: 2025-07-20
 rating: [2.8, 0.4, 0.6, 1.0, 0.4, 0.4]
 summary: "オープン型ワイヤレスヘッドホンとしては珍しい存在だが、科学的有効性に問題があり総合的な魅力に欠ける製品"
-tags: [ワイヤレスヘッドホン, オープンバック, Bluetooth, LDAC, Audio-Technica]
+tags: [Bluetooth, LDAC, オーディオテクニカ, オープンバック, ワイヤレスヘッドホン]
 permalink: /products/ja/audio-technica-ath-hl7bt/
 ---
-
 ## 概要
 
 Audio-Technica ATH-HL7BTは、同社が2021年に発売したオープン型ワイヤレスヘッドホンです。53mmドライバーを搭載し、LDAC・AAC・SBC コーデックに対応、最大20時間の連続再生が可能です。オープン型でありながらワイヤレス機能を搭載した製品として、市場では非常に珍しい存在です。重量220g、Bluetooth 5.0搭載で5Hz～40,000Hzの周波数特性を持ちます。Audio-Technicaは1962年創立の日本の老舗オーディオメーカーとして、プロフェッショナル機器から民生用まで幅広い製品を手がけており、特にカートリッジ分野では高い技術力を誇っています。

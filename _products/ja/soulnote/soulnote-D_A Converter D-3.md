@@ -8,10 +8,9 @@ ref: soulnote-d_a-converter-d-3
 date: 2025-07-22
 rating: [2.5, 0.9, 0.5, 0.1, 0.7, 0.3]
 summary: "ES9038PRO搭載の超高級DAC。基本性能は透明レベルを達成しているものの、同等性能を持つ製品の約17倍という価格設定でコストパフォーマンスは極めて低い。外部クロック必須の設計思想も合理性に疑問が残ります。"
-tags: [DAC, D/A Converter, ES9038PRO, High-End Audio, soulnote]
+tags: [D/A Converter, DAC, ES9038PRO, High-End Audio, ソウルノート]
 permalink: /products/ja/soulnote-d_a-converter-d-3/
 ---
-
 ## 概要
 
 soulnote D/A Converter D-3は、日本のsoulnoteが開発した最上級D/Aコンバーターです。ES9038PROチップを各チャネルに2個ずつ、計4個搭載したデュアルモノラル構成を採用しています。大電流出力や低ジッター性能を特徴とし、外部クロックジェネレーターX-3（別売）との組み合わせでのみ動作する特殊な設計となっています。価格はD-3本体が1,650,000円、動作に必須のX-3が748,000円で、システム合計価格は2,398,000円（いずれも税込）という超高級価格帯に位置します。

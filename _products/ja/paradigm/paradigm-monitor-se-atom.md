@@ -8,10 +8,9 @@ ref: paradigm-monitor-se-atom
 date: 2025-08-09
 rating: [3.1, 0.5, 0.5, 1.0, 0.6, 0.5]
 summary: "カナダのParadigmによるエントリーレベルのブックシェルフスピーカー。良好な音響設計と手頃な価格が特徴だが、測定性能と技術レベルは平均的"
-tags: [Bookshelf Speaker, Passive Speaker, Entry Level, Canadian Audio, Home Audio]
+tags: [Canadian Audio, Entry Level, Home Audio, パッシブスピーカー, ブックシェルフスピーカー]
 permalink: /products/ja/paradigm-monitor-se-atom/
 ---
-
 ## 概要
 
 Paradigm Monitor SE Atomは、カナダの老舗オーディオメーカーParadigmが手がけるエントリーレベルのブックシェルフスピーカーです。25mmのX-PAL™メタルドームツィーター（PPA™レンズ付き）と140mmのミネラル充填ポリプロピレンコーンウーファーを搭載した2ウェイ設計で、国内市場ではペア約55,000円前後で流通しています。創業以来培ってきたParadigmの音響工学アプローチを活用し、手頃な価格帯での実用的な性能を目指しています。

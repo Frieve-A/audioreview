@@ -8,7 +8,7 @@ ref: steinberg
 date: 2025-07-17
 rating: [3.6, 0.7, 0.8, 0.6, 0.7, 0.8]
 summary: "1984年創設のドイツの音楽ソフトウェア・オーディオハードウェア企業。VST技術の開発者としてDAW界をリードするも、オーディオインターフェイスの測定性能は同価格帯競合製品に対して優位性が限定的。"
-tags: [DAW, VST, Yamaha, オーディオインターフェース, ドイツ]
+tags: [DAW, VST, オーディオインターフェース, ドイツ, ヤマハ]
 permalink: /companies/ja/steinberg/
 ---
 ## 概要

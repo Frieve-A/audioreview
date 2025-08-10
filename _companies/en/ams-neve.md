@@ -8,10 +8,9 @@ ref: ams-neve
 date: 2025-08-09
 rating: [2.4, 0.5, 0.7, 0.2, 0.8, 0.2]
 summary: "AMS Neve is a UK-based audio equipment manufacturer with over 60 years of history, having established industry standards with products like the 1073 preamp and large-format consoles. While measurement performance doesn't reach transparent levels, they maintain high technology levels through proprietary Marinair transformer technology."
-tags: [Console, Preamp, Mixing, Professional, Vintage]
+tags: [Console, Mixing, Preamps, Professional, Vintage]
 permalink: /companies/en/ams-neve/
 ---
-
 ## Overview
 
 AMS Neve Ltd. was established in 1992 through the merger of AMS (Advanced Music Systems) and Neve Electronics, forming a UK-based audio equipment manufacturer. With over 60 years of contribution to the music industry, their 1073 microphone preamp released in 1973 has been used on countless classic albums and established as an industry standard. They continue manufacturing consoles, outboard gear, and post-production equipment at their 60,000 square meter facility in Burnley, England.

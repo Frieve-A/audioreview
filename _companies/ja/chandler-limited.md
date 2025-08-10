@@ -8,10 +8,9 @@ ref: chandler-limited
 date: 2025-08-09
 rating: [2.5, 0.5, 0.9, 0.1, 0.7, 0.3]
 summary: "EMIとAbbey Road Studiosの公式ライセンス製品を手がけるブティック音響機器メーカー。ヴィンテージ回路の忠実な再現に特化しているが、現代的な測定基準では限定的な性能向上を示している"
-tags: [プリアンプ, コンプレッサー, イコライザー, EMI, Abbey Road, ヴィンテージ, ブティック]
+tags: [Abbey Road, EMI, イコライザー, コンプレッサー, ビンテージ, ブティック, プリアンプ]
 permalink: /companies/ja/chandler-limited/
 ---
-
 ## 概要
 
 Chandler Limitedは、EMI Abbey Road Studiosの公式ライセンス製品を手がける米国のブティック音響機器メーカーです。1960年代のEMI REDD.51コンソールやEMI TGシリーズの手配線による再現で知られ、オリジナルの部品選定や構築技術を精緻に踏襲しています。同社の製品ラインには、REDD.47マイクプリアンプ、TG2プリアンプ/DI、各種TGシリーズコンプレッサーなど、プロフェッショナルスタジオ市場向けの高級機器が含まれます。

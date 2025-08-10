@@ -8,10 +8,9 @@ ref: chandler-limited
 date: 2025-08-09
 rating: [2.5, 0.5, 0.9, 0.1, 0.7, 0.3]
 summary: "Boutique audio equipment manufacturer producing officially licensed EMI and Abbey Road Studios products. Specializes in faithful recreation of vintage circuits, but shows limited performance improvements under modern measurement standards"
-tags: [Preamp, Compressor, Equalizer, EMI, Abbey Road, Vintage, Boutique]
+tags: [Abbey Road, Boutique, Compressors, EMI, Equalizer, Preamps, Vintage]
 permalink: /companies/en/chandler-limited/
 ---
-
 ## Overview
 
 Chandler Limited is a US-based boutique audio equipment manufacturer producing officially licensed EMI Abbey Road Studios products. Known for hand-wired recreations of the legendary 1960s EMI REDD.51 consoles and EMI TG series, closely following original component choices and construction techniques. The company's product line includes REDD.47 microphone preamps, TG2 preamp/DI, various TG series compressors, and other high-end equipment for the professional studio market.

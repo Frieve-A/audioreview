@@ -8,10 +8,9 @@ ref: pioneer-n-70ae
 date: 2025-08-09
 rating: [2.0, 0.5, 0.3, 0.3, 0.5, 0.4]
 summary: "High-end network audio player featuring dual ESS SABRE32 Ultra DACs. While offering high-resolution audio support, it faces cost-performance challenges versus modern products."
-tags: [Network Player, DAC, Streamer, Hi-Res, DSD, Pioneer]
+tags: [DAC, DSD, Hi-Res, Network player, Network streamer, Pioneer]
 permalink: /products/en/pioneer-n-70ae/
 ---
-
 ## Overview
 
 The Pioneer N-70AE is a network audio player equipped with dual ESS SABRE32 Ultra ES9016S DAC chips. Network playback supports up to PCM 192kHz/24bit and DSD 11.2MHz, while the USB-DAC function supports up to PCM 32bit/384kHz and DSD256. It features a three-compartment chassis separation structure for EMI mitigation. Released in 2017, new units are now hard to obtain, with most circulation on the used market [1][2].

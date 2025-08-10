@@ -8,10 +8,9 @@ ref: denon-avr-x4800h
 date: 2025-08-04
 rating: [3.6, 0.8, 0.7, 0.5, 0.8, 0.8]
 summary: "9.4チャンネル対応の上位AVレシーバーとして優秀な測定性能を持つが、同等機能を大幅に安価で実現できる選択肢の存在により、コストパフォーマンスに課題がある"
-tags: [AVレシーバー, Denon, 9.4チャンネル, Dolby Atmos, DTS:X, 8K対応]
+tags: [8K対応, 9.4チャンネル, AVレシーバー, DTS:X, Dolby Atmos, デノン]
 permalink: /products/ja/denon-avr-x4800h/
 ---
-
 ## 概要
 
 Denon AVR-X4800Hは、9.4チャンネル構成で125W×9の出力を持つハイエンドAVレシーバーです。8K Ultra HD対応、Dolby Atmos、DTS:X Pro、IMAX Enhanced対応により、最新のホームシアター環境に対応します。HEOS Built-in機能により、ワイヤレス音楽ストリーミングも可能です。日本設計・製造による品質の高さと、豊富な接続端子により、本格的なマルチチャンネルシステム構築を目指すユーザーに訴求する製品として位置づけられています。

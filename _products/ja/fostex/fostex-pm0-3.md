@@ -8,7 +8,7 @@ ref: fostex-pm0-3
 date: 2025-07-20
 rating: [2.3, 0.4, 0.3, 0.6, 0.6, 0.4]
 summary: "小型デスクトップモニターとしては健闘するが、低域の再生能力の限界と、より安価で優れた競合の存在が課題となる製品。"
-tags: [Fostex, Monitor Speaker, Small Monitor, アクティブスピーカー, デスクトップスピーカー]
+tags: [Monitor Speaker, Small Monitor, アクティブスピーカー, デスクトップスピーカー, フォステクス]
 permalink: /products/ja/fostex-pm0-3/
 ---
 ## 概要

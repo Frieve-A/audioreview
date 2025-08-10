@@ -8,10 +8,9 @@ ref: ams-neve
 date: 2025-08-09
 rating: [2.4, 0.5, 0.7, 0.2, 0.8, 0.2]
 summary: "AMS Neveは60年以上の歴史を持つ英国のオーディオ機器メーカーで、1073プリアンプや大型コンソールで業界標準を築いている。測定性能は透明レベルに達しない一方で、独自のMarinair変圧器技術により高い技術レベルを維持している。"
-tags: [Console, Preamp, Mixing, Professional, Vintage]
+tags: [Console, Vintage, プリアンプ, プロ用, ミキシング]
 permalink: /companies/ja/ams-neve/
 ---
-
 ## 概要
 
 AMS Neve Ltd.は1992年にAMS（Advanced Music Systems）とNeve Electronicsの合併により設立された英国の音響機器メーカーです。60年以上にわたり音楽業界に貢献し、特に1973年に発売された1073マイクプリアンプは数多くの名盤で使用され、業界標準として確立されました。現在もイングランドのBurnleyにある60,000平方メートルの施設でコンソール、アウトボード機器、ポストプロダクション機器を製造しています。

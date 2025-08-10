@@ -8,10 +8,9 @@ ref: sony-ult-field-5
 date: 2025-08-09
 rating: [3.1, 0.5, 0.5, 1.0, 0.6, 0.5]
 summary: "重低音特化のポータブルスピーカー。測定値の公開は確認できないため評価は慎重だが、IP67防水と最大25時間再生に対応"
-tags: [ポータブルスピーカー, Bluetoothスピーカー, 防水スピーカー, Sony]
+tags: [Bluetoothスピーカー, ソニー, ポータブルスピーカー, 防水スピーカー]
 permalink: /products/ja/sony-ult-field-5/
 ---
-
 ## 概要
 
 Sony ULT FIELD 5（SRS-ULT50）は、2025年4月発売のポータブルBluetoothスピーカーです。X‑Balanced Speaker Unitを採用した約79×107mmのウーファーと直径約46mmのトゥイーター2基による2.1ch構成、ULTボタンの低域強調、IP67相当の防水・防塵、最大約25時間のバッテリー、ライティング機能を備えます。重量は約3.3kgです。

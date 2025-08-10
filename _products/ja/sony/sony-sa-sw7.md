@@ -8,10 +8,9 @@ ref: sony-sa-sw7
 date: 2025-08-04
 rating: [3.2, 0.5, 0.5, 1.0, 0.7, 0.5]
 summary: "Sony SA-SW7は100Wの出力と130mmドライバーを搭載したワイヤレスサブウーファーで、ワイヤレス接続対応製品の中では優れたコストパフォーマンスを実現しています。"
-tags: [Sony, サブウーファー, ワイヤレス, BRAVIA Theatre]
+tags: [BRAVIA Theatre, サブウーファー, ソニー, ワイヤレス]
 permalink: /products/ja/sony-sa-sw7/
 ---
-
 ## 概要
 
 Sony SA-SW7（BRAVIA Theatre Sub 7）は、Sony製サウンドバーシステム専用に設計された100Wワイヤレスサブウーファーです。352 x 358 x 134mmのコンパクトなサイズに130mmドライバーとパッシブラジエーターを搭載し、デジタルアンプS-Masterテクノロジーを採用しています。重量6.2kgの比較的軽量な設計で、HT-A9、HT-A7000、BRAVIA Theatre Quadなどの対応機器との無線接続により低音強化を実現します。日本市場価格は29,223円となっています。

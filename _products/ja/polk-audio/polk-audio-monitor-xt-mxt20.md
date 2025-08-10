@@ -8,10 +8,9 @@ ref: polk-audio-monitor-xt-mxt20
 date: 2025-07-18
 rating: [3.6, 0.6, 0.5, 1.0, 0.8, 0.7]
 summary: "Polk Audio Monitor XT MXT20は、その性能カテゴリーにおいて最もコスト効率的な選択肢です。ブランドとしての信頼性も高く評価できますが、客観的な音質改善効果は限定的です。"
-tags: [ブックシェルフスピーカー, Polk, Monitor XT, Hi-Res, 中価格帯]
+tags: [Monitor XT, Polk, ハイレゾ, ブックシェルフスピーカー, 中価格帯]
 permalink: /products/ja/polk-audio-monitor-xt-mxt20/
 ---
-
 ## 概要
 
 Polk Audio Monitor XT MXT20は、Hi-Res Audio認証を取得したブックシェルフスピーカーです。1インチTeryleneドームツイーターと6.5インチダイナミックバランスウーファーを搭載し、38Hz-40kHzの周波数特性を謳います。Dolby AtmosとDTS:X対応で、4オーム・8オーム両対応の汎用性を持ちます。87dBの感度で30-200Wの推奨アンプ出力を持ち、重量は片側12ポンド（約5.4kg）です。米国では300USD前後、日本では約29,520円で販売されています。

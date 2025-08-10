@@ -8,10 +8,9 @@ ref: paradigm-monitor-se-atom
 date: 2025-08-09
 rating: [3.1, 0.5, 0.5, 1.0, 0.6, 0.5]
 summary: "Entry-level bookshelf speaker from Canadian Paradigm featuring good acoustic design and affordable pricing, though measured performance and technology level remain average"
-tags: [Bookshelf Speaker, Passive Speaker, Entry Level, Canadian Audio, Home Audio]
+tags: [Bookshelf speakers, Canadian Audio, Entry-level, Home Audio, Passive speakers]
 permalink: /products/en/paradigm-monitor-se-atom/
 ---
-
 ## Overview
 
 The Paradigm Monitor SE Atom is an entry-level bookshelf speaker from established Canadian audio manufacturer Paradigm. It features a 25 mm X-PAL™ metal-dome tweeter with PPA™ lens and a 140 mm mineral-filled polypropylene cone woofer in a 2-way design. In Japan, the pair typically retails around 367 USD. The product targets practical, reliable performance in an affordable price segment by leveraging Paradigm's longstanding acoustic engineering approach.

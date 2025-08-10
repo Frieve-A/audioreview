@@ -8,10 +8,9 @@ ref: sony-ult-field-3
 date: 2025-08-09
 rating: [2.8, 0.4, 0.5, 0.9, 0.5, 0.5]
 summary: "2ウェイ構成とIP67に対応したポータブルBluetoothスピーカー。ULTボタンで低音を強調し、24時間再生やParty Connect等を備えます。測定上は透明レベルには達していない一方、価格対性能は同等以上の競合と比べて良好です。"
-tags: [ポータブルスピーカー, Bluetooth, 防水, アウトドア, Sony]
+tags: [Bluetooth, アウトドア, ソニー, ポータブルスピーカー, 防水]
 permalink: /products/ja/sony-ult-field-3/
 ---
-
 ## 概要
 
 Sony ULT Field 3は、2ウェイ構成（ウーファー＋トゥイーター）と両側パッシブラジエーターを備えたポータブルBluetoothスピーカーです。IP67相当の防水・防塵に加え、防錆・耐衝撃、最長24時間再生、ULTボタン（低音強調）、マルチポイント、最大100台のParty Connectなどを搭載します。BluetoothはSBC/AAC対応で、LDAC等のハイレゾ系は非対応です［1］。

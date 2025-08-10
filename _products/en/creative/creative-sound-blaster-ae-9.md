@@ -8,10 +8,9 @@ ref: creative-sound-blaster-ae-9
 date: 2025-08-09
 rating: [3.1, 0.6, 0.8, 0.4, 0.5, 0.8]
 summary: "PCIe internal sound card featuring ESS SABRE 9038-class DAC. Specifications are strong but independent standardized bench data are limited; value lags versus capable external USB audio interfaces."
-tags: [Sound Card, DAC, Headphone Amplifier, PCIe, Creative, ESS Sabre, Gaming]
+tags: [Creative, DAC, ESS Sabre, Gaming, Headphone amplifier, PCIe, Sound Card]
 permalink: /products/en/creative-sound-blaster-ae-9/
 ---
-
 ## Overview
 
 The Creative Sound Blaster AE-9 is the company's flagship PCIe internal sound card. It features an ESS Sabre 9038 DAC and supports high-resolution audio playback up to 32bit/384kHz. Equipped with discrete Xamp headphone amplifier and phantom-powered XLR microphone input, it's designed to serve both gaming and audiophile demands.

@@ -60,8 +60,8 @@ The AH-D2000 holds historical value and suits collectors or those wanting to exp
 ## References
 
 1. Denon official (archive): AH-D2000 — `https://www.denon.com/ja-jp/product/archive-noise-canceling/ah-d2000/AHD2000.html`
-2. Amazon US: AKG K371 product page — `https://www.amazon.com/dp/B07WSKKYPR`
+2. Amazon US: AKG K371 product page — `https://www.amazon.com/AKG-Pro-Audio-Headphones-K371/dp/B07WZH7WM9`
 3. RTINGS: AKG K371 Review & Measurements — `https://www.rtings.com/headphones/reviews/akg/k371`
-4. HiFiShark: Denon AH-D2000 used listings — `https://www.hifishark.com/model/denon-ah-d2000`
+4. HiFiShark: Denon AH-D2000 used listings — `https://www.hifishark.com/model/denon-ah-d-2000`
 
 (2025.8.9)

@@ -8,10 +8,9 @@ ref: audio-technica-at-oc9xeb
 date: 2025-07-12
 rating: [2.0, 0.2, 0.2, 0.7, 0.7, 0.2]
 summary: "Audio-Technica AT-OC9XEBはMCカートリッジ入門機だが、より安価で高性能なMMカートリッジが存在するため、コストパフォーマンスは限定的。忠実度の追求ではなく、レコード再生という趣味性を楽しむための選択肢。"
-tags: [カートリッジ, MC型, Audio-Technica, アナログ]
+tags: [MC型, アナログ, オーディオテクニカ, カートリッジ]
 permalink: /products/ja/audio-technica-at-oc9xeb/
 ---
-
 ## 概要
 
 Audio-Technica AT-OC9XEBは、同社の伝統あるOC9シリーズの第4世代として2019年に発売されたMC型ステレオカートリッジです。日本の福井工場で製造され、デュアルムービングコイル構造とPCOCC（Pure Copper by Ohno Continuous Casting process）コイルを採用しています。接合楕円針とアルミカンチレバーを搭載し、38,000円という価格帯でMCカートリッジの入門機として位置づけられています。オーディオテクニカ50年の技術的蓄積を反映した設計とされていますが、現代の技術水準での客観的評価が必要です。

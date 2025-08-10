@@ -8,7 +8,7 @@ ref: denon-pma-3000ne-sp
 date: 2025-08-05
 rating: [3.3, 0.8, 0.8, 0.6, 0.5, 0.6]
 summary: "測定性能の良い日本製プリメインアンプだが、同等機能と性能をより安価で実現できる代替品が存在します"
-tags: [DAC, Denon, フォノステージ, プリメインアンプ, 日本]
+tags: [DAC, デノン, フォノステージ, プリメインアンプ, 日本]
 permalink: /products/ja/denon-pma-3000ne-sp/
 ---
 ## 概要

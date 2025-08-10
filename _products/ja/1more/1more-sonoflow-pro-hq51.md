@@ -8,7 +8,7 @@ ref: 1more-sonoflow-pro-hq51
 date: 2025-07-31
 rating: [3.6, 0.6, 0.7, 0.8, 0.7, 0.8]
 summary: "DLCドライバーとLDACコーデック対応により透明度の高い音質を実現したワイヤレスヘッドホン。40dB超のノイズキャンセリング性能と100時間の長時間駆動が特徴。"
-tags: [Hi-Res, LDAC, アクティブノイズキャンセリング, ヘッドホン, ワイヤレス]
+tags: [LDAC, アクティブノイズキャンセリング, ハイレゾ, ヘッドホン, ワイヤレス]
 permalink: /products/ja/1more-sonoflow-pro-hq51/
 ---
 ## 概要

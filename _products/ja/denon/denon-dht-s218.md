@@ -8,10 +8,9 @@ ref: denon-dht-s218
 date: 2025-07-07
 rating: [3.2, 0.7, 0.7, 0.7, 0.8, 0.3]
 summary: "DENON DHT-S218は、デュアルサブウーファーを内蔵したDolby Atmos対応サウンドバーです。Dolby TrueHDやBluetooth 5.3 LE Audioといった上位規格に対応し、将来性も見据えた設計が特徴です。価格は27,979円で、より安価な競合も存在しますが、その機能差を考慮すれば、忠実度の高い再生を求めるユーザーにとって合理的な選択肢となります。"
-tags: [DENON, サウンドバー, Dolby Atmos, デュアルサブウーファー, Dolby TrueHD, Bluetooth LE Audio]
+tags: [Bluetooth LE Audio, Dolby Atmos, Dolby TrueHD, サウンドバー, デノン, デュアルサブウーファー]
 permalink: /products/ja/denon-dht-s218/
 ---
-
 ## 概要
 
 DENON DHT-S218は、2024年に発売されたDolby Atmos対応のサウンドバーです。25mmツイーター×2、90mm×45mm楕円形ミッドレンジ×2、75mmサブウーファー×2の3ウェイ6スピーカー構成を採用し、上位モデルDHT-S517と同じSoC（System on Chip）を搭載しています。デノンのサウンドマスターによってチューニングされたPureモードを備え、音楽再生にも対応する「音の良いサウンドバー」として設計されています。Bluetooth 5.3、LC3（LE Audio）対応、Dolby TrueHDのロスレスオーディオフォーマットにも対応します。

@@ -8,7 +8,7 @@ ref: marantz-model-m1
 date: 2025-07-08
 rating: [3.4, 0.6, 0.8, 0.6, 0.8, 0.6]
 summary: "日本製プレミアムコンパクトストリーミングアンプ、HDMI eARC対応でTV音響システムとしても機能"
-tags: [Marantz, ストリーミングアンプ, ネットワークオーディオ, 日本]
+tags: [ストリーミングアンプ, ネットワークオーディオ, マランツ, 日本]
 permalink: /products/ja/marantz-model-m1/
 ---
 ## 概要

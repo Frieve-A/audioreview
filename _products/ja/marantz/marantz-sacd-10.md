@@ -8,7 +8,7 @@ ref: marantz-sacd-10
 date: 2025-07-26
 rating: [2.8, 0.7, 0.8, 0.3, 0.6, 0.4]
 summary: "独自SACDM-3トランスポート搭載の高級SACD/CDプレーヤー。技術的完成度は高いものの、コストパフォーマンスに課題があり、専用機としての存在意義が問われる製品です。"
-tags: [CDプレーヤー, DAC, Marantz, SACD, ハイエンド]
+tags: [CDプレーヤー, DAC, SACD, ハイエンド, マランツ]
 permalink: /products/ja/marantz-sacd-10/
 ---
 ## 概要

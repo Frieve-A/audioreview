@@ -60,8 +60,8 @@ AH-D2000は歴史的価値のあるヘッドホンです。コレクション目
 ## 参考情報
 
 1. Denon 公式（アーカイブ）: AH-D2000 — `https://www.denon.com/ja-jp/product/archive-noise-canceling/ah-d2000/AHD2000.html`
-2. Amazon US: AKG K371 Product Page — `https://www.amazon.com/dp/B07WSKKYPR`
+2. Amazon US: AKG K371 Product Page — `https://www.amazon.com/AKG-Pro-Audio-Headphones-K371/dp/B07WZH7WM9`
 3. RTINGS: AKG K371 Review & Measurements — `https://www.rtings.com/headphones/reviews/akg/k371`
-4. HiFiShark: Denon AH-D2000 Used Listings — `https://www.hifishark.com/model/denon-ah-d2000`
+4. HiFiShark: Denon AH-D2000 Used Listings — `https://www.hifishark.com/model/denon-ah-d-2000`
 
 (2025.8.9)

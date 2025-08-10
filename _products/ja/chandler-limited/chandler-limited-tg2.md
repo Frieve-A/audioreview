@@ -8,10 +8,9 @@ ref: chandler-limited-tg2
 date: 2025-08-09
 rating: [2.5, 0.5, 0.7, 0.3, 0.5, 0.5]
 summary: "EMI TG12428プリアンプを忠実に再現した2チャンネルマイクプリアンプ。Abbey Roadスタジオのヴィンテージサウンドを提供する一方、透明性や価格効率の観点では現代的基準に劣後"
-tags: [マイクプリアンプ, ヴィンテージ, EMI, Abbey Road, プロオーディオ]
+tags: [Abbey Road, EMI, ビンテージ, プロオーディオ, マイクプリアンプ]
 permalink: /products/ja/chandler-limited-tg2/
 ---
-
 ## 概要
 
 Chandler Limited TG2は、1960年代後期から1970年代初期にEMI/Abbey Roadレコーディングコンソールで使用された希少なEMI TG12428プリアンプの忠実な再現品です。The BeatlesのアルバムAbbey RoadやPink FloydのDark Side of the Moonなど数多くの名録音に使用された歴史的なサウンドを現代に蘇らせています。ディスクリートトランスフォーマー型回路とオリジナル設計図に基づく厳密な復刻により、独特のクリーミーで滑らかなトーンを実現しています。

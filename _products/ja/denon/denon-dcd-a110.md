@@ -8,7 +8,7 @@ ref: denon-dcd-a110
 date: 2025-07-26
 rating: [2.8, 0.7, 0.7, 0.2, 0.8, 0.4]
 summary: "デノンの110周年記念SACD/CDプレーヤー。日本製の重厚な作りと4枚のBurr Brown PCM1795 DACチップによる高品質再生を特徴とするが、同等機能を持つ製品の6分の1の価格で入手可能な代替品が存在するため、コストパフォーマンスは低い。"
-tags: [110周年記念, CDプレーヤー, Denon, SACD, 日本]
+tags: [110周年記念, CDプレーヤー, SACD, デノン, 日本]
 permalink: /products/ja/denon-dcd-a110/
 ---
 ## 概要

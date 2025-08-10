@@ -8,10 +8,9 @@ ref: diatone-sw-g50
 date: 2025-08-09
 rating: [3.0, 0.5, 0.6, 0.9, 0.5, 0.5]
 summary: "三菱電機のカーオーディオ用サブウーファー。NCVダイアフラムと強力な磁気回路を採用するが、客観測定の公開が限られ総合的な競争力は限定的"
-tags: [Subwoofer, Car Audio, Diatone, Mitsubishi]
+tags: [Car Audio, Diatone, Mitsubishi, サブウーファー]
 permalink: /products/ja/diatone-sw-g50/
 ---
-
 ## 概要
 
 Diatone SW-G50は三菱電機が製造するカーオーディオ用25cmサブウーファーです。同社独自のNCV（Natural Composite Vibration）ダイアフラム材料と強力な磁気回路を採用し、10リットル程度の小型密閉エンクロージャーでも20Hzまでの再生を謳っています（メーカー資料）。DS-G50スピーカーとの組み合わせで3ウェイシステム構築が可能とされています。
