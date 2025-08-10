@@ -33,9 +33,9 @@ $$ \Large \text{0.6} $$
 
 A comparative evaluation is conducted against closed-back studio monitor headphones with equivalent functionality. Compared to the ATH-M40x's current price of 94 USD, a more affordable option exists from the same company: the Audio-Technica ATH-M30x at 54 USD. The ATH-M30x is comparable in basic acoustic performance and closed-back design, offering similar functionality at a lower price. The cost-performance is calculated based on the following formula:
 
-`54 USD / 94 USD = 0.57`
+`54 USD ÷ 94 USD = 0.57`
 
-Rounding this value to the second decimal place yields a score of 0.6.
+Rounding this value to the first decimal place yields a score of 0.6.
 
 ## Reliability & Support
 

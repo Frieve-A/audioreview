@@ -32,7 +32,7 @@ The dual dynamic driver configuration is a common design approach with limited u
 
 $$ \Large \text{1.0} $$
 
-Against the verified current market price of 68 USD (Amazon Japan, July 2025), a competing product with equivalent or superior functions and performance exists: the EarFun Air Pro 4 (verified at 67 USD on Amazon Japan). The EarFun Air Pro 4 features 10mm drivers, 50dB adaptive ANC performance, aptX Lossless support, 52-hour playback, and many specifications that match or exceed the Liberty 4. While the calculation is `67 USD ÷ 68 USD = 0.975...`, based on the review policy's rule of rounding to the second decimal place, the rating is 1.0.
+Against the verified current market price of 68 USD (Amazon Japan, July 2025), a competing product with equivalent or superior functions and performance exists: the EarFun Air Pro 4 (verified at 67 USD on Amazon Japan). The EarFun Air Pro 4 features 10mm drivers, 50dB adaptive ANC performance, aptX Lossless support, 52-hour playback, and many specifications that match or exceed the Liberty 4. While the calculation is `67 USD ÷ 68 USD ≒ 1.0`, based on the review policy's rule of rounding to the first decimal place, the rating is 1.0.
 
 ## Reliability & Support
 

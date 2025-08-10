@@ -36,7 +36,7 @@ Earthworks' cost-performance has its challenges. While their products are of hig
 
 For example, the DK7 drum microphone kit (7-piece set) costs approximately 3,040 USD, whereas a comparable recording setup can be assembled for about 642 USD using products from Audio-Technica and Shure. The cost-performance value in this case is `642 USD ÷ 3,040 USD ≒ 0.21`. Similarly, for the individual instrument microphone DM20 (276 USD), the Shure SM57 (94 USD) serves as a strong alternative, yielding a cost-performance value of `94 USD ÷ 276 USD ≒ 0.34`.
 
-To provide a comprehensive evaluation of these representative cases, a simple average of the two values, `(0.21 + 0.34) / 2 = 0.275`, is calculated. Rounding to the second decimal place results in a score of 0.3. A performance improvement commensurate with the price is not always guaranteed, making it an irrational choice in many cases.
+To provide a comprehensive evaluation of these representative cases, a simple average of the two values, `(0.21 + 0.34) / 2 = 0.275`, is calculated. Rounding to the first decimal place results in a score of 0.3. A performance improvement commensurate with the price is not always guaranteed, making it an irrational choice in many cases.
 
 ## Reliability & Support
 

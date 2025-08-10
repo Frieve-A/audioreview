@@ -37,7 +37,7 @@ The cost-performance score is calculated as follows:
 
 `79 USD (DUNU Titan S) ÷ 189 USD (Moondrop Kato) ≒ 0.42`
 
-Rounding to the second decimal place, the score is 0.4. The Kato's cost-performance is rated as limited because there are options that provide equivalent functionality and measured performance at a lower price.
+Rounding to the first decimal place, the score is 0.4. The Kato's cost-performance is rated as limited because there are options that provide equivalent functionality and measured performance at a lower price.
 
 ## Reliability & Support
 
