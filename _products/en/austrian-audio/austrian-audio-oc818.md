@@ -6,7 +6,7 @@ company_id: austrian-audio
 lang: en
 ref: austrian-audio-oc818
 date: 2025-08-09
-rating: [3.8, 0.7, 0.9, 0.6, 0.8, 0.8]
+rating: [3.6, 0.7, 0.9, 0.4, 0.8, 0.8]
 summary: "Multi-pattern large diaphragm condenser microphone featuring CK12-style capsule. Offers excellent sound quality and innovative wireless control functionality, but faces cost-performance challenges."
 tags: [Condenser Microphone, Multi-pattern, Austrian Audio, CK12 Capsule, Professional Equipment]
 permalink: /products/en/austrian-audio-oc818/
@@ -30,9 +30,9 @@ The handcrafted CKR12 ceramic capsule represents a technological achievement in 
 
 ## Cost-Performance
 
-$$ \Large \text{0.6} $$
+$$ \Large \text{0.4} $$
 
-Street price is around 1,300 USD. Per policy, when comparing across classes and topologies, we must use the world’s lowest-priced option that is not inferior in functions and measured performance (multi-pattern, independent diaphragm outputs enabling post-recording polar synthesis, low self-noise, high SPL handling). Among current systems meeting these criteria, representative options are generally priced higher than the OC818. Therefore, the ratio versus the least expensive truly non-inferior alternative is ≥1, leading to a better cost-performance assessment than initially stated.
+The OC818 is priced at 1,320 USD. The sE Electronics SE4400 at 513 USD represents the lowest-priced alternative with equivalent or better performance. The SE4400 features four polar patterns (cardioid, hyper-cardioid, figure-8, omnidirectional), -10/-20dB pads, and high-pass filter functionality, with maximum SPL of 157dB (with 20dB pad) and S/N ratio of 81dB [1]. Cost-performance calculation: 513 USD ÷ 1,320 USD = 0.39. A multi-pattern large diaphragm condenser microphone with equivalent functionality and measured performance is available at 2.6× lower price.
 
 ## Reliability & Support
 
@@ -48,10 +48,12 @@ The modern redesign of the CK12-style capsule is scientifically grounded and ach
 
 ## Advice
 
-The OC818 is a high-quality microphone with excellent sound quality and innovative features, but faces cost-performance challenges. The equivalent-function sE4400 is available at approximately 40% of the price, so alternative consideration is recommended for cost-conscious users. However, if you value the CK12-style tonal characteristics and wireless control functionality, it represents a worthwhile investment. When considering it as an alternative to AKG C414 or Neumann U87, it offers sufficiently competitive sound quality performance.
+The OC818 is a high-quality microphone with excellent sound quality and innovative features, but faces cost-performance challenges. The equivalent-function sE4400 is available at approximately 39% of the price (513 USD vs 1,320 USD), so alternative consideration is recommended for cost-conscious users. However, if you value the CK12-style tonal characteristics and wireless control functionality, it represents a worthwhile investment. When considering it as an alternative to AKG C414 or Neumann U87, it offers sufficiently competitive sound quality performance.
 
 ## References
 
-[1] Austrian Audio OC818 Product Specifications, Austrian Audio Official Site, https://austrian.audio/product/oc818/, Accessed August 2025, Self-noise 9dB SPL (A-weighted), Maximum SPL 148dB (158dB with pad)
+[1] sE Electronics SE4400 Product Specifications, Hookup Inc., https://hookup.co.jp/blog/805961, Accessed August 2025, Maximum SPL 157dB (with 20dB pad), S/N ratio 81dB
+
+[2] Austrian Audio OC818 Product Specifications, Austrian Audio Official Site, https://austrian.audio/product/oc818/, Accessed August 2025, Self-noise 9dB SPL (A-weighted), Maximum SPL 148dB (158dB with pad)
 
 (2025.8.9)

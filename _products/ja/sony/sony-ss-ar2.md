@@ -8,7 +8,7 @@ ref: sony-ss-ar2
 date: 2025-08-07
 rating: [3.0, 0.7, 0.7, 0.1, 0.8, 0.7]
 summary: "146万円の3ウェイ・フロアスタンディングスピーカー。Scan-Speak製カスタムドライバーと日本製メープル材バッフルを採用していますが、同等性能の競合機種と比較してコストパフォーマンスが低い製品です。"
-tags: [Hi-Fi, Scan-Speak, ソニー, フロア型スピーカー]
+tags: [Hi-Fi, Scan-Speak, ソニー, フロアスタンディングスピーカー]
 permalink: /products/ja/sony-ss-ar2/
 ---
 ## 概要

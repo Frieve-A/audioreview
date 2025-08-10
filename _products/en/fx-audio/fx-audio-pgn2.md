@@ -17,31 +17,31 @@ The fx-audio PGN2 is a compact USB stabilizer with USB power line noise filterin
 
 ## Scientific Validity
 
-Score: 0.5
+$$ \Large \text{0.5} $$
 
 No standardized third-party measurements or quantitative verification data versus transparency thresholds (e.g., THD+N, S/N, frequency response, jitter) were found. Per policy, when measurement performance is unknown, we start from 0.5. As with many USB power/signal accessories, effectiveness is highly environment-dependent; without quantitative evidence, we neither add nor subtract points.
 
 ## Technology Level
 
-Score: 0.4
+$$ \Large \text{0.4} $$
 
 This is a standard design combining USB power-line filtering with common-mode filters on signal lines. Features like GND coupling/separation jumpers show some consideration, but overall it is a combination of existing technologies with limited uniqueness compared to more advanced USB isolators.
 
 ## Cost-Performance
 
-Score: 0.8
+$$ \Large \text{0.8} $$
 
 Assumed PGN2 price: 28 USD. As a comparator with equivalent or better functionality, we select the iFi iSilencer+ (approximately 36 USD equivalent). Calculation: 28 USD ÷ 36 USD = 0.78 → 0.8. This confirms competitive pricing within the USB noise filter category.
 
 ## Reliability & Support
 
-Score: 0.4
+$$ \Large \text{0.4} $$
 
 fx-audio is a Chinese audio equipment brand; warranty/support tends to be short-term. Long-term reliability disclosures are limited, and domestic support frameworks are modest.
 
 ## Rationality of Design Philosophy
 
-Score: 0.4
+$$ \Large \text{0.4} $$
 
 The basic concept—reducing noise on USB power/signal lines—is rational. A compact 27×66×85 mm chassis targeting USB 1.1/2.0 with combined power-line filtering and common-mode filters on signal lines is industry-standard. In power accessories, balancing voltage stability and noise reduction is critical; overall effectiveness depends on that balance.
 

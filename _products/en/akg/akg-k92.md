@@ -31,7 +31,7 @@ The design incorporating 40mm drivers and self-adjusting headband mechanism repr
 
 $$ \Large \text{0.5} $$
 
-The K92's market price is approximately 58 USD (converted from 8,580 JPY). As an equally capable closed-back wired monitor alternative, the Superlux HD662 EVO is available at 27.73 EUR on Thomann, which is about 30.6 USD assuming 1 EUR = 1.10 USD [3]. Cost-performance calculation: 30.6 USD ÷ 58 USD = 0.53 → 0.5. Since a materially cheaper alternative with equivalent usability and measured performance exists, CP is mid-level.
+The K92's market price is approximately 58 USD. As an equally capable closed-back wired monitor alternative, the Superlux HD662 EVO is available at 27.73 EUR on Thomann, which is about 30.6 USD assuming 1 EUR = 1.10 USD [3]. Cost-performance calculation: 30.6 USD ÷ 58 USD = 0.53 → 0.5. Since a materially cheaper alternative with equivalent usability and measured performance exists, CP is mid-level.
 
 ## Reliability & Support
 
