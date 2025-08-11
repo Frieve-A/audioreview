@@ -1,7 +1,7 @@
 ---
 layout: product
-title: "ヤマハ NS-SW500 製品レビュー"
-target_name: "ヤマハ NS-SW500"
+title: "YAMAHA NS-SW500 製品レビュー"
+target_name: "YAMAHA NS-SW500"
 company_id: yamaha
 lang: ja
 ref: yamaha-ns-sw500
