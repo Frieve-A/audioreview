@@ -5,9 +5,9 @@ target_name: "Ascend Acoustics ELX TOWER"
 company_id: ascend-acoustics
 lang: en
 ref: ascend-acoustics-elx-tower
-date: 2025-07-28
-rating: [4.5, 0.8, 0.9, 1.0, 0.9, 0.9]
-summary: "An advanced 3-way tower optimized with Klippel NFS, delivering exceptional measured performance at a class-disrupting price point."
+date: 2025-08-13
+rating: [4.0, 0.8, 0.9, 0.5, 0.9, 0.9]
+summary: "An advanced 3-way tower optimized with Klippel NFS, delivering exceptional measured performance and build quality."
 tags: [3-Way, Floorstanding speakers, High-end, Tower]
 permalink: /products/en/ascend-acoustics-elx-tower/
 ---
@@ -29,9 +29,17 @@ The ELX TOWER incorporates industry-leading technology. The world-first complete
 
 ## Cost-Performance
 
-$$ \Large \text{1.0} $$
+$$ \Large \text{0.5} $$
 
-The ELX TOWER is priced at 2,649 USD per pair (1,324.50 USD per unit). This speaker achieves top-tier measured performance, including a flat frequency response optimized using Klippel NFS, low distortion, and excellent directivity control. When compared to competing products with equivalent or superior measured performance, such as the KEF R5 Meta (approx. 4,000 USD/pair) or the Revel Performa3 F206 (approx. 4,000 USD/pair), the ELX TOWER's price is significantly lower. As there are no readily available alternatives that offer comparable performance at a lower price, this product is effectively the most affordable option in its performance class. Therefore, its cost-performance is evaluated at 1.0.
+The official price of the ELX TOWER is 5,698 USD per pair[1]. While its Klippel NFS-optimized design delivers high-level measured performance, it is not the least expensive option among products with comparable or superior measured performance/features.
+
+- Comparable or better peers with verified measurements/pricing
+  - KEF R5 Meta: Current price 1,499.99 USD each (2,999.98 USD/pair)[2]. CTA-2034-style dataset available via NFS-based review[3].
+  - Arendal 1723 Tower THX: 4,000 USD/pair[4]. THX Ultra certification indicating stringent output/distortion/directivity performance.
+
+The lowest price among these peers is the KEF R5 Meta at roughly 2,999.98 USD/pair, and the Arendal 1723 Tower THX is also lower at 4,000 USD/pair. Therefore, price advantage does not hold for the ELX.
+
+- Example computation (relative price index vs lowest peer): CP = lowest price / this product’s price = 2,999.98 / 5,698 ≈ 0.53
 
 ## Reliability & Support
 
@@ -47,6 +55,13 @@ The ELX TOWER's design philosophy is extremely rational. The scientific measurem
 
 ## Advice
 
-The ELX TOWER is a rare product that achieves industry-leading levels of technology and scientific validity while also offering phenomenal cost-performance. The price of 2,649 USD per pair is exceptional considering its outstanding measured performance. Achieving comparable performance from other brands would require a significantly larger investment. For readers who prioritize objective performance and seek audio fidelity that exceeds the price tag, it would be difficult to find a more rational choice. Combined with a 7-year warranty and the reliability of US-based manufacturing, this is a highly recommended product truly worthy of its "endgame speaker" title.
+The ELX TOWER pairs industry-leading technology and strong scientific validity with premium build and support at an official price of 5,698 USD/pair. Price leadership is not achieved; if cost is the top priority at a similar measured performance level, KEF R5 Meta (~2,999.98 USD/pair) is a compelling option, and for higher output/HT suitability the Arendal 1723 Tower THX (4,000 USD/pair) is also competitive. That said, the ELX’s individual measurement reports, 7-year warranty, and US-based assembly/support are notable advantages. For readers valuing objective performance plus quality control and after-sales support, it remains strongly recommended.
 
-(2025.7.28)
+## References
+
+[1] Ascend Acoustics ELX TOWER PAIR (official pricing): https://www.ascendacoustics.com/products/elx-tower-pair?variant=40602626916406
+[2] KEF R5 Meta (official pricing): https://us.kef.com/products/r5-meta
+[3] KEF R5 Meta (NFS/CTA-2034 style measurements): https://www.erinsaudiocorner.com/loudspeakers/kef_r5_meta/
+[4] Arendal 1723 Tower THX (official pricing/specs, THX Ultra): https://arendalsound.com/product/1723-tower-thx/
+
+(2025.8.13)

@@ -5,21 +5,21 @@ target_name: "Creative Pebble"
 company_id: creative
 lang: en
 ref: creative-pebble
-date: 2025-07-08
-rating: [2.4, 0.4, 0.3, 0.9, 0.5, 0.3]
-summary: "USB-powered desktop speakers available at the low price of 25 USD. Features 4.4W RMS output and 100Hz-17kHz frequency response. While THD and SNR measurement data remain undisclosed, it functions as one of the most affordable products in its price range. Despite inferior cost-performance compared to the Logitech Z120 (16.99 USD), it offers a budget option that balances design aesthetics with basic acoustic performance."
+date: 2025-08-13
+rating: [2.5, 0.4, 0.3, 1.0, 0.5, 0.3]
+summary: "USB-powered desktop speakers at 25 USD. Provides total 4.4W RMS output, 100Hz–17kHz frequency response, and 86 dB SNR (spec) [1]. Third-party comprehensive measurements are limited, but it delivers sufficient basic performance for entry use. No cheaper current product with equal-or-better functions and performance was found; price rationality is high [1][2][4]."
 tags: [Budget, Creative, Desktop Speakers, USB-powered]
 permalink: /products/en/creative-pebble/
 ---
 ## Overview
 
-The Creative Pebble is a USB-powered 2.0 desktop speaker system offered at the extremely low price of 25 USD. With 4.4W RMS output and 100Hz-17kHz frequency response, it employs a custom-tuned far-field driver solution angled at 45 degrees. The simple design performs both power supply and audio transmission through a single USB cable, optimized for compact desktop environments. Featuring a distinctive spherical design with low-frequency reinforcement through passive radiators. Positioned as an entry-level product intended for basic computer work and casual music listening rather than professional audio applications.
+The Creative Pebble is a USB-powered 2.0 desktop speaker system at 25 USD. It offers total 4.4W RMS output, 100Hz–17kHz frequency response, and 86 dB SNR (spec) [1], employing a custom-tuned far-field driver solution angled at 45 degrees. The simple design performs both power supply and audio transmission through a single USB cable, optimized for compact desktop environments. Featuring a distinctive spherical design with low-frequency reinforcement through passive radiators. Positioned as an entry-level product intended for basic computer work and casual music listening rather than professional audio applications.
 
 ## Scientific Validity
 
 $$ \Large \text{0.4} $$
 
-The Creative Pebble provides basic acoustic performance as an extremely low-cost desktop speaker at 25 USD. Evaluated under speaker-specific standards, the 100Hz-17kHz frequency response has limitations within the usage band but represents a reasonable range considering the price. While specific THD and SNR values are undisclosed, expecting measurement data transparency is unrealistic at this price point. The combination of 4.4W RMS output and passive radiator ensures adequate sound pressure levels for desktop use, representing a rational design for products in this price range. While not intended for professional applications, it is suitable for basic computer work and casual music listening.
+The Creative Pebble provides basic acoustic performance at 25 USD. Under speaker-specific criteria, the 100Hz–17kHz response (spec) is bandwidth-limited, SNR is 86 dB (spec), and total output is 4.4W RMS [1]. As comprehensive third-party measurements are not available, we start from 0.5 and adjust to 0.4 considering the limited bandwidth. For nearfield desktop use, output is sufficient and reasonable for an entry product [1].
 
 ## Technology Level
 
@@ -29,9 +29,9 @@ The Pebble's technology level remains at a basic level appropriate for its price
 
 ## Cost-Performance
 
-$$ \Large \text{0.9} $$
+$$ \Large \text{1.0} $$
 
-The Creative Pebble achieves excellent cost-performance at the 25 USD price point. As a competitive product with equivalent functionality, the Logitech Z120 sells for 16.99 USD, yielding a CP calculation of 16.99 USD ÷ 25 USD = 0.68. However, product reviews evaluate the Z120 as "lacking bass compared to the Pebble" and "Creative Pebble being more balanced," indicating the Pebble's superiority in actual acoustic performance. Additionally, it was selected by PCWorld as "Top Pick for Computer Speakers under 100 USD" and evaluated as "producing richer, more immersive audio than commonly found in speakers at twice the price." Considering design aesthetics, basic acoustic performance, and convenience comprehensively, the 25 USD price represents a reasonable setting.
+Creative Store price is 24.99 USD [1]. A potential comparator, Edifier R19U (150Hz–20kHz, RMS 2W×2, SNR ≥80 dB), is cheaper where available but is inferior in both lower frequency extension and output power; thus it does not qualify as “equal-or-better” [4]. No cheaper current product with equal-or-better functions and measured/spec performance was found; therefore CP is 1.0 by definition. Pebble is also recognized as a top pick in the sub-100 USD category by PCWorld [2][3].
 
 ## Reliability & Support
 
@@ -47,6 +47,13 @@ The Pebble's design philosophy adopts a price-first approach, prioritizing cost 
 
 ## Advice
 
-The Creative Pebble should be positioned as an option when desktop speakers are needed within an extremely limited budget (25 USD). If price and design aesthetics are prioritized over audio quality, and the primary uses are basic computer work and casual music listening, it provides certain value. However, the even more affordable Logitech Z120 at 16.99 USD exists as an alternative, surpassing the Pebble in pure cost-performance. If budget allows (50 USD or more), investment in products with higher measurement performance transparency and clearer technical specifications is strongly recommended. The Pebble is suitable only for situations requiring a compromise decision of "minimum functionality at minimum price," and when considering audio quality improvement or long-term use, it is important to consider other alternatives.
+The Creative Pebble should be positioned as an option when desktop speakers are needed within an extremely limited budget (25 USD). If price and design aesthetics are prioritized over audio quality, and the primary uses are basic computer work and casual music listening, it provides certain value. If budget allows (50 USD or more), invest in products with higher measurement transparency and clearer technical specifications. The Pebble suits “minimum functionality at minimum price” decisions; for audio quality improvement or long-term use, consider other alternatives [1][2].
 
-(2025.7.8)
+## References
+
+1. Creative Labs, "Creative Pebble - Modern 2.0 USB Desktop Speakers," https://us.creative.com/p/speakers/creative-pebble (accessed 2025-08-13). Key specs: FR 100–17,000 Hz, SNR 86 dB, total output up to 4.4W RMS, price 24.99 USD.
+2. PCWorld, "Best budget computer speakers: PC audio for less than 100 USD," https://www.pcworld.com/article/407990/the-best-budget-computer-speakers.html (accessed 2025-08-13).
+3. PCWorld, "Creative Pebble review: Impressively big sound from teeny 25 USD speakers," https://www.pcworld.com/article/407934/creative-pebble-review-impressively-big-sound-from-teeny-25-speakers.html (2018-02-28; accessed 2025-08-13).
+4. Edifier, "Extraordinary Compact USB Speakers | R19U," https://www.edifier.com/global/p/computer-speakers/r19u (accessed 2025-08-13). Key specs: FR 150–20,000 Hz, SNR ≥80 dB, RMS 2W×2.
+
+(2025.8.13)

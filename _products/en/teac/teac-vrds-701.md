@@ -1,3 +1,4 @@
+---
 layout: product
 title: "TEAC VRDS-701 Product Review"
 target_name: "TEAC VRDS-701"
@@ -9,6 +10,7 @@ rating: [3.2, 0.8, 0.8, 0.3, 0.7, 0.6]
 summary: "TEAC's 70th anniversary CD player featuring the advanced VRDS mechanism and proprietary discrete DAC. While technically competent with excellent build quality, its extremely high price cannot be justified against more cost-effective alternatives."
 tags: [CD player, DAC, Hi-Res, MQA, TEAC, Anniversary edition]
 permalink: /products/en/teac-vrds-701/
+---
 ## Overview
 
 The TEAC VRDS-701 is a premium CD player launched to commemorate TEAC's 70th anniversary in 2023. This flagship model features the company's newly developed VRDS (Vibration-free Rigid Disc-clamping System) mechanism that clamps the entire CD surface rather than just the center, minimizing rotational vibration. The unit incorporates TEAC's proprietary discrete Delta Sigma DAC using FPGA-based algorithms, dual mono circuitry with three independent toroidal transformers, and comprehensive digital connectivity including USB-C, coaxial, and optical inputs. Weighing 11.1kg with premium machined aluminum construction, it supports up to 32-bit/384kHz PCM and 22.5MHz DSD playback when used as a USB DAC, with MQA decoding capabilities.

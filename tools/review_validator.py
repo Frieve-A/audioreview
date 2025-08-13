@@ -218,8 +218,15 @@ class ReviewValidator:
     def parse_review_file(self, file_path: str) -> Optional[ReviewData]:
         """Parse review file and create ReviewData object"""
         try:
-            with open(file_path, 'r', encoding='utf-8') as f:
-                content = f.read()
+            # First, check for UTF-8 encoding issues
+            try:
+                with open(file_path, 'r', encoding='utf-8') as f:
+                    content = f.read()
+            except UnicodeDecodeError as e:
+                print(f"[UTF-8 ERROR] Invalid UTF-8 encoding in {file_path}: {e}")
+                print(f"  This file contains invalid byte sequences that cannot be decoded as UTF-8.")
+                print(f"  Please check the file for corrupted characters or incorrect encoding.")
+                return None
             
             # Extract front matter
             if not content.startswith('---'):
@@ -342,7 +349,8 @@ class ReviewValidator:
         elif review.layout == "product":
             expected_prefix = f"/products/{review.lang}/"
         else:
-            expected_prefix = f"/{review.layout}s/{review.lang}/"
+            # For unknown layouts, use a generic format
+            expected_prefix = f"/{review.layout}/{review.lang}/"
         
         if not review.permalink.startswith(expected_prefix):
             issues.append(f"Invalid permalink format (expected: {expected_prefix}*, actual: {review.permalink})")
@@ -371,8 +379,12 @@ class ReviewValidator:
         issues = []
         
         try:
-            with open(review.file_path, 'r', encoding='utf-8') as f:
-                content = f.read()
+            try:
+                with open(review.file_path, 'r', encoding='utf-8') as f:
+                    content = f.read()
+            except UnicodeDecodeError as e:
+                issues.append(f"UTF-8 encoding error: {e}")
+                return issues
             
             # Extract body content (after front matter)
             end_match = re.search(r'\n---\n', content)
@@ -417,8 +429,12 @@ class ReviewValidator:
         issues = []
         
         try:
-            with open(review.file_path, 'r', encoding='utf-8') as f:
-                content = f.read()
+            try:
+                with open(review.file_path, 'r', encoding='utf-8') as f:
+                    content = f.read()
+            except UnicodeDecodeError as e:
+                issues.append(f"UTF-8 encoding error: {e}")
+                return issues
             
             # Extract body content (after front matter)
             end_match = re.search(r'\n---\n', content)
@@ -483,8 +499,12 @@ class ReviewValidator:
         issues = []
         
         try:
-            with open(review.file_path, 'r', encoding='utf-8') as f:
-                content = f.read()
+            try:
+                with open(review.file_path, 'r', encoding='utf-8') as f:
+                    content = f.read()
+            except UnicodeDecodeError as e:
+                issues.append(f"UTF-8 encoding error: {e}")
+                return issues
             
             # Check existence of required sections (by language)
             if review.lang == "ja":
@@ -703,8 +723,12 @@ class ReviewValidator:
         issues = []
         
         try:
-            with open(review.file_path, 'r', encoding='utf-8') as f:
-                content = f.read()
+            try:
+                with open(review.file_path, 'r', encoding='utf-8') as f:
+                    content = f.read()
+            except UnicodeDecodeError as e:
+                issues.append(f"UTF-8 encoding error: {e}")
+                return issues
             
             # Extract body content (after front matter)
             end_match = re.search(r'\n---\n', content)
@@ -742,8 +766,12 @@ class ReviewValidator:
             return issues
         
         try:
-            with open(review.file_path, 'r', encoding='utf-8') as f:
-                content = f.read()
+            try:
+                with open(review.file_path, 'r', encoding='utf-8') as f:
+                    content = f.read()
+            except UnicodeDecodeError as e:
+                issues.append(f"UTF-8 encoding error: {e}")
+                return issues
             
             # Extract body content (after front matter)
             end_match = re.search(r'\n---\n', content)
@@ -817,7 +845,7 @@ class ReviewValidator:
                 for i, currency in enumerate(found_currencies, 1):
                     location = f"line {currency['line_num']}" if currency['line_num'] != 'summary' else "summary"
                     issues.append(f"  {i}. {location}: '{currency['match']}' (approximately {currency['usd_equivalent']:.0f} USD) - Consider converting to USD for international audience")
-                issues.append("  Note: Using approximate exchange rate of 1 USD = 150 JPY. Please verify current rates for accurate conversion.")
+                print(f"  Note: Using approximate exchange rate of 1 USD = 150 JPY. Please verify current rates for accurate conversion.")
             
         except Exception as e:
             issues.append(f"Error occurred during Japanese currency validation: {e}")
@@ -893,11 +921,14 @@ class ReviewValidator:
     
     def _validate_files(self, files: List[str]) -> None:
         """Common validation logic for multiple files"""
+        failed_files = []  # Track files that failed to parse
+        
         for file_path in files:
             review = self.parse_review_file(file_path)
             
             if review is None:
                 print(f"\n[WARNING] Failed to parse: {file_path}")
+                failed_files.append(file_path)
                 continue
             
             # Optional date filter: validate only files with metadata date on/before the specified datetime
@@ -944,6 +975,26 @@ class ReviewValidator:
                 print(f"  Issues: {len(issues)}")
                 for issue in issues:
                     print(f"    - {issue}")
+        
+        # Add failed files as reviews with UTF-8 encoding issues
+        for failed_file in failed_files:
+            # Create a minimal ReviewData object for failed files
+            failed_review = ReviewData(
+                file_path=failed_file,
+                layout="",
+                title="",
+                target_name="",
+                company_id="",
+                lang="",
+                ref="",
+                date="",
+                rating=[],
+                summary="",
+                tags=[],
+                permalink=""
+            )
+            failed_review.issues = ["UTF-8 encoding error: File could not be parsed due to invalid byte sequences"]
+            self.reviews.append(failed_review)
         
         # Check cross-language score consistency after all reviews are processed
         # (only if we have multiple files)
@@ -1038,6 +1089,7 @@ class ReviewValidator:
         
         # Generate improvement recommendations based on issue types
         recommendations = {
+            "UTF-8 encoding error": "0. **UTF-8 Encoding Error**: File contains invalid byte sequences that cannot be decoded as UTF-8. Check for corrupted characters or incorrect encoding.",
             "Invalid rating array length": "1. **Score Consistency**: Ensure rating array length matches policy requirements",
             "Overall score and sum of individual evaluations do not match": "2. **Score Accuracy**: Verify that overall score equals the sum of individual evaluation scores",
             "Score for evaluation criterion": "3. **Score Range**: Check that all scores are within the valid range (0.0-1.0)",
@@ -1148,7 +1200,9 @@ class ReviewValidator:
         """Categorize issues by type"""
         issue_lower = issue.lower()
         
-        if "overall score" in issue_lower or "総合得点" in issue or "total score inconsistency" in issue_lower:
+        if "utf-8 encoding error" in issue_lower or "invalid utf-8" in issue_lower:
+            return "UTF-8 Encoding Error"
+        elif "overall score" in issue_lower or "総合得点" in issue or "total score inconsistency" in issue_lower:
             return "Score Consistency Error"
         elif "required field" in issue_lower or "required section" in issue_lower or "必須フィールド" in issue or "必須セクション" in issue:
             return "Missing Required Elements"
