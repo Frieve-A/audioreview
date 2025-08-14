@@ -125,7 +125,7 @@ class ReviewValidator:
             "languages": ["ja", "en"],
             "date_format": r"^\d{4}-\d{2}-\d{2}$",
             "forbidden_symbols": ["$", "\\"],  # Backslash and dollar sign are forbidden
-            "forbidden_terms": ["基準表", "benchmark table", "criteria table"],  # Forbidden terms in content
+            "forbidden_terms": ["基準表", "benchmark table", "criteria table", ":contentReference"],  # Forbidden terms in content
             "cp_formula_check": True,  # Check CP = cheapest_equivalent_price / target_price
             "cp_max_value": 1.0
         }
