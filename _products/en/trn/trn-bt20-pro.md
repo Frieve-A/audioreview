@@ -8,10 +8,9 @@ ref: trn-bt20-pro
 date: 2025-08-13
 rating: [2.5, 0.4, 0.3, 1.0, 0.4, 0.4]
 summary: "Budget Bluetooth adapter with basic functionality, AAC/SBC-only codec support, and no published third-party audio measurements."
-tags: [Bluetooth, Adapter, Wireless, TWS, IEM]
+tags: [Adapter, Bluetooth, In-ear monitors, TWS, Wireless]
 permalink: /products/en/trn-bt20-pro/
 ---
-
 ## Overview
 
 The TRN BT20 Pro is a true-wireless ear-hook adapter that converts detachable-cable IEMs into wireless earphones. TRN specifies Bluetooth 5.3, swappable connectors (MMCX/0.75/0.78/2Pin-S), AAC/SBC codec support, and up to 13 hours per charge (50 hours total with case) [1]. Street price at major retailers has settled around 22.99 USD [2].
