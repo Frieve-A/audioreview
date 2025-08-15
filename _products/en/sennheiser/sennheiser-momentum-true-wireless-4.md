@@ -7,6 +7,7 @@ lang: en
 ref: sennheiser-momentum-true-wireless-4
 date: 2025-07-06
 rating: [3.6, 0.9, 0.9, 0.7, 0.7, 0.4]
+price: 300
 summary: "Cutting-edge true wireless earbuds featuring Qualcomm S5 Sound Gen 2 platform with aptX Lossless and 24bit/96kHz support. The 7mm TrueResponse drivers achieve low distortion (0.08%@94dB) and wide frequency response (5Hz-21kHz). Positioned competitively within the premium true wireless market against Sony, Apple, and Bose flagship products with comparable pricing and superior technical specifications."
 tags: [AptX Lossless, Germany, Premium, Qualcomm, Wireless earphones]
 permalink: /products/en/sennheiser-momentum-true-wireless-4/

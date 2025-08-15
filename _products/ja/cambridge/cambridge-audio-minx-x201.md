@@ -7,6 +7,7 @@ lang: ja
 ref: cambridge-audio-minx-x201
 date: 2025-07-20
 rating: [3.2, 0.5, 0.7, 1.0, 0.6, 0.4]
+price: 60000
 summary: "最大105dBの音圧を誇る、クラス最高レベルの出力を持つコンパクトサブウーファー。小型筐体ゆえの性能限界はあるものの、その驚異的なコストパフォーマンスは特筆に値する。"
 tags: [サブウーファー, コンパクト, DSP, パッシブラジエーター, 高SPL]
 permalink: /products/ja/cambridge-audio-minx-x201/

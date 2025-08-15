@@ -7,6 +7,7 @@ lang: ja
 ref: accuphase-e-408
 date: 2025-08-08
 rating: [4.0, 0.7, 0.8, 0.9, 0.8, 0.8]
+price: 340000
 summary: "AccuphaseのクラスAB設計による180Wインテグレーテッドアンプ。測定性能は良好で、現代の基準でも合理的なコストパフォーマンスを示す。"
 tags: [AB級, アキュフェーズ, インテグレーテッドアンプ, 日本, 高級]
 permalink: /products/ja/accuphase-e-408/

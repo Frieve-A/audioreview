@@ -7,6 +7,7 @@ lang: en
 ref: soundpeats-gofree2
 date: 2025-07-24
 rating: [2.7, 0.5, 0.4, 0.8, 0.5, 0.5]
+price: 67
 summary: "An open-ear wireless earbud claiming LDAC support, but lacks objective data to back up its performance. It falls short in battery life and cost-performance compared to equivalent competitors."
 tags: [Open-ear, Wireless, LDAC, Bluetooth, Sports]
 permalink: /products/en/soundpeats-gofree2/

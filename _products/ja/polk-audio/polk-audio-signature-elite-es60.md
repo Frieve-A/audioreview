@@ -7,7 +7,7 @@ lang: ja
 ref: polk-audio-signature-elite-es60
 date: 2025-08-02
 rating: [2.7, 0.4, 0.6, 0.7, 0.5, 0.5]
-price: 89850
+price: 135000
 summary: "Polk Audio Signature Elite ES60は深いベース再生能力を持つフロア型スピーカーですが、550Hz付近の共振ピークと高域の持ち上がりにより、透明度の高い音質再生には課題があります。"
 tags: [Polk Audio, Tower Speaker, ハイレゾ, フロアスタンディングスピーカー]
 permalink: /products/ja/polk-audio-signature-elite-es60/

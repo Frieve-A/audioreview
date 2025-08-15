@@ -7,6 +7,7 @@ lang: ja
 ref: dali-menuet-se
 date: 2025-07-24
 rating: [3.0, 0.6, 0.7, 0.3, 0.7, 0.7]
+price: 207900
 summary: "DALI Menuet SEは極小サイズで高品質な音を実現するブックシェルフスピーカーですが、同等性能の製品と比較してコストパフォーマンスに大きな課題があります。"
 tags: [DALI, ブックシェルフスピーカー, コンパクトスピーカー, プレミアムオーディオ]
 permalink: /products/ja/dali-menuet-se/

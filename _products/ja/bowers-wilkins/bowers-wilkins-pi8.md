@@ -7,6 +7,7 @@ lang: ja
 ref: bowers-wilkins-pi8
 date: 2025-08-05
 rating: [3.3, 0.5, 0.8, 0.7, 0.6, 0.7]
+price: 59850
 summary: "高品質な12mmカーボンコーンドライバとaptX Lossless対応により優れた音質を実現した完全ワイヤレスイヤホンですが、競合製品と比較してコストパフォーマンスに課題があります。"
 tags: [aptX Lossless, アクティブノイズキャンセリング, カーボンドライバ, プレミアム, 完全ワイヤレスイヤホン]
 permalink: /products/ja/bowers-wilkins-pi8/

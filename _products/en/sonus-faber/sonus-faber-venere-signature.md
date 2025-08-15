@@ -7,6 +7,7 @@ lang: en
 ref: sonus-faber-venere-signature
 date: 2025-08-07
 rating: [2.9, 0.6, 0.7, 0.2, 0.8, 0.6]
+price: 5499
 summary: "3-way floor-standing speaker utilizing traditional Italian craftsmanship. Emphasizes aesthetic design and musical expression but faces challenges in measurement performance and price competitiveness"
 tags: [3-Way, Aluminum Driver, Floor-standing Speaker, Made in Italy]
 permalink: /products/en/sonus-faber-venere-signature/

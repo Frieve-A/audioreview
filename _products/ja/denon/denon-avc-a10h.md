@@ -7,6 +7,7 @@ lang: ja
 ref: denon-avc-a10h
 date: 2025-08-04
 rating: [4.0, 0.6, 0.8, 1.0, 0.8, 0.8]
+price: 705000
 summary: "白河オーディオワークスで製造される13.4チャンネルAVレシーバー。13チャンネル内蔵アンプを搭載し、限定的な測定データながら日本製の品質を提供する。"
 tags: [8K対応, AVレシーバー, Dolby Atmos, ホームシアター, 日本]
 permalink: /products/ja/denon-avc-a10h/

@@ -7,6 +7,7 @@ lang: ja
 ref: beats-fit-pro
 date: 2025-07-09
 rating: [2.8, 0.6, 0.6, 0.6, 0.5, 0.5]
+price: 19000
 summary: "Apple H1チップ搭載で安定した接続性とバランスの取れた音質を提供するも、マイク性能と価格競争力に課題を抱えるスポーツ向けイヤホン"
 tags: ["Apple H1", アクティブノイズキャンセリング, スポーツ, フィット, 完全ワイヤレスイヤホン]
 permalink: /products/ja/beats-fit-pro/

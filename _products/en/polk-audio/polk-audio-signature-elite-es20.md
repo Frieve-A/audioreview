@@ -7,6 +7,7 @@ lang: en
 ref: polk-audio-signature-elite-es20
 date: 2025-07-18
 rating: [3.1, 0.5, 0.4, 1.0, 0.6, 0.6]
+price: 257
 summary: "The Polk Audio Signature Elite ES20 offers standard measurement performance for its price range with excellent cost-performance advantage over competing products."
 tags: [2-Way, Bookshelf, Hi-Res Certified, Passive speakers]
 permalink: /products/en/polk-audio-signature-elite-es20/

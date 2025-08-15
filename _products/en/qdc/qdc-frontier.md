@@ -7,6 +7,7 @@ lang: en
 ref: qdc-frontier
 date: 2025-07-29
 rating: [2.8, 0.5, 0.8, 0.5, 0.3, 0.7]
+price: 120
 summary: "An IEM with a rational design philosophy, but suffers from insufficient performance data, low technological innovation, and major cost-performance issues."
 tags: [BA, In-ear monitors, Monitor, Professional, Single Driver]
 permalink: /products/en/qdc-frontier/

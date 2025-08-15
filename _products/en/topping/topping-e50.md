@@ -7,6 +7,7 @@ lang: en
 ref: topping-e50
 date: 2025-08-05
 rating: [3.8, 0.9, 0.7, 0.7, 0.7, 0.8]
+price: 269
 summary: "Entry-level DAC with excellent measurement performance, but inferior cost-performance compared to competitors"
 tags: [DAC, Topping, Desktop, USB, High-Resolution]
 permalink: /products/en/topping-e50/

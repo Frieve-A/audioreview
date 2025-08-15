@@ -7,6 +7,7 @@ lang: ja
 ref: jbl-live-beam-3
 date: 2025-08-08
 rating: [3.4, 0.5, 0.6, 1.0, 0.7, 0.6]
+price: 29850
 summary: "LDAC対応とタッチスクリーン付きスマート充電ケース、ANCやマルチポイントを備えるが、測定データの開示は限定的。等機能群での最安クラスのためCPは最高評価"
 tags: [完全ワイヤレス, アクティブノイズキャンセリング, LDAC, スマート充電ケース, JBL, IP55]
 permalink: /products/ja/jbl-live-beam-3/

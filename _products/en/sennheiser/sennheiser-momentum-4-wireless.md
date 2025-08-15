@@ -7,6 +7,7 @@ lang: en
 ref: sennheiser-momentum-4-wireless
 date: 2025-08-09
 rating: [3.9, 0.7, 0.7, 1.0, 0.8, 0.7]
+price: 350
 summary: "ANC wireless with up to 60-hour battery life. As of review, no cheaper equivalent-or-better competitor confirmed, so CP is high by definition"
 tags: [Bluetooth, Noise Cancelling, Over-ear, Wireless headphones]
 permalink: /products/en/sennheiser-momentum-4-wireless/

@@ -7,6 +7,7 @@ lang: ja
 ref: dcs-vivaldi-transport-ii
 date: 2025-07-25
 rating: [2.0, 0.3, 0.7, 0.0, 0.8, 0.2]
+price: 5000000
 summary: "dCSの最高峰CDトランスポートは技術的には優秀だが、基本的なデジタルデータ配信において科学的に意義のある改善を提供せず、コストパフォーマンスは極めて劣悪"
 tags: [CDトランスポート, ハイエンド, dCS, デジタル]
 permalink: /products/ja/dcs-vivaldi-transport-ii/

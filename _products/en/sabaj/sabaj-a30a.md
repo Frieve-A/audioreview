@@ -7,6 +7,7 @@ lang: en
 ref: sabaj-a30a
 date: 2025-08-10
 rating: [2.1, 0.5, 0.5, 0.3, 0.6, 0.2]
+price: 450
 summary: "Class D integrated amplifier with digital signal processing and multiple input options, but lacks independent measurement verification and faces strong competition from lower-priced alternatives."
 tags: [Amplifiers, Bluetooth, Class D, DSP, Digital-inputs]
 permalink: /products/en/sabaj-a30a/

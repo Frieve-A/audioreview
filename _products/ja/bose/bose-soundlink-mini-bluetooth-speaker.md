@@ -7,6 +7,7 @@ lang: ja
 ref: bose-soundlink-mini-bluetooth-speaker
 date: 2025-07-24
 rating: [1.5, 0.3, 0.2, 0.3, 0.4, 0.3]
+price: 5980
 summary: "2013年発売の初代Bluetoothスピーカー。防水機能なし、現代の競合製品と比較して著しく劣る測定性能とコストパフォーマンス"
 tags: [Bluetooth Speaker, プレミアム, ポータブル, 廃盤]
 permalink: /products/ja/bose-soundlink-mini-bluetooth-speaker/

@@ -7,6 +7,7 @@ lang: en
 ref: sony-srs-xb100
 date: 2025-08-02
 rating: [2.7, 0.6, 0.5, 0.5, 0.6, 0.5]
+price: 52
 summary: "Ultra-compact portable speaker with 16-hour battery and IP67 waterproofing. While physically constrained in audio quality, it prioritizes portability and practical functionality."
 tags: [Bluetooth, Portable, Waterproof, Sony, Ultra-compact]
 permalink: /products/en/sony-srs-xb100/

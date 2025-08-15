@@ -7,6 +7,7 @@ lang: ja
 ref: audio-technica-ath-hl7bt
 date: 2025-07-20
 rating: [2.8, 0.4, 0.6, 1.0, 0.4, 0.4]
+price: 15000
 summary: "オープン型ワイヤレスヘッドホンとしては珍しい存在だが、科学的有効性に問題があり総合的な魅力に欠ける製品"
 tags: [Bluetooth, LDAC, オーディオテクニカ, オープンバック, ワイヤレスヘッドホン]
 permalink: /products/ja/audio-technica-ath-hl7bt/

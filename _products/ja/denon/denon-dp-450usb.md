@@ -7,6 +7,7 @@ lang: ja
 ref: denon-dp-450usb
 date: 2025-07-07
 rating: [2.5, 0.8, 0.7, 0.4, 0.5, 0.1]
+price: 60000
 summary: "デノンの中級ベルトドライブターンテーブル。USB録音機能を搭載し、セミオート機能が便利だが、6万円台の価格設定に対してFluance RT85（5万円、Ortofon 2M Blue標準装備）という強力な競合が存在。付属カートリッジの品質を考慮すると、コストパフォーマンスは劣悪。"
 tags: [デノン, ターンテーブル, USB録音, セミオート, ベルトドライブ]
 permalink: /products/ja/denon-dp-450usb/

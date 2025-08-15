@@ -7,6 +7,7 @@ lang: en
 ref: rupert-neve-designs-newton-channel
 date: 2025-07-20
 rating: [3.2, 0.8, 0.8, 0.2, 0.7, 0.7]
+price: 1999
 summary: "A professional channel strip with excellent measurement performance and a high level of technology. However, its cost-performance is extremely low as products with equivalent or better functionality exist at a much lower price."
 tags: [Channel Strip, Compressors, EQ, Preamps, Pro Audio]
 permalink: /products/en/rupert-neve-designs-newton-channel/

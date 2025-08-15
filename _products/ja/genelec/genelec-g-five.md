@@ -7,6 +7,7 @@ lang: ja
 ref: genelec-g-five
 date: 2025-08-12
 rating: [2.9, 0.6, 0.6, 0.2, 0.8, 0.7]
+price: 242000
 summary: "合理的な設計思想と堅実な仕様だが、同等機能の8インチ代替と比べるとコストパフォーマンスが弱い"
 tags: [スタジオモニター, アクティブスピーカー, プロオーディオ, ニアフィールドモニター]
 permalink: /products/ja/genelec-g-five/

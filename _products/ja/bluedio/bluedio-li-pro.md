@@ -7,6 +7,7 @@ lang: ja
 ref: bluedio-li-pro
 date: 2025-08-07
 rating: [2.8, 0.5, 0.4, 1.0, 0.4, 0.5]
+price: 2000
 summary: "13mmドライバーとUSBサウンドカードによる7.1チャンネル仮想サラウンド機能を搭載した有線イヤホン。基本的な機能は備えているが、測定性能や技術的優位性に課題がある低価格帯製品。"
 tags: [有線イヤホン, インイヤー, ノイズ遮音, マイク内蔵, 3.5mm]
 permalink: /products/ja/bluedio-li-pro/

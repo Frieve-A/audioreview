@@ -7,6 +7,7 @@ lang: en
 ref: tangzu-wan-er-s-g-studio-edition
 date: 2025-08-12
 rating: [2.9, 0.5, 0.5, 0.9, 0.4, 0.6]
+price: 21
 summary: "Budget IEM targeting neutral studio monitoring with average technical performance"
 tags: [Budget, Dynamic driver, In-ear monitors, Neutral, Studio Monitoring]
 permalink: /products/en/tangzu-wan-er-s-g-studio-edition/

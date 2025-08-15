@@ -7,6 +7,7 @@ lang: ja
 ref: edifier-t5
 date: 2025-08-10
 rating: [2.3, 0.4, 0.3, 0.7, 0.4, 0.5]
+price: 30000
 summary: "70W RMS出力と38-160Hz周波数応答を持つ予算重視の8インチパワードサブウーファー。手頃な価格で基本的な低音補強を提供します。"
 tags: [サブウーファー, パワード, 予算, ホームオーディオ]
 permalink: /products/ja/edifier-t5/

@@ -7,6 +7,7 @@ lang: ja
 ref: fulcrum-acoustic-fh1565
 date: 2025-08-13
 rating: [3.2, 0.5, 0.6, 0.8, 0.6, 0.7]
+price: 525000
 summary: "60° x 45°のカバレッジパターンを持つプロフェッショナル15インチ同軸ホーンスピーカーで、商業設備用途向けに設計され、専用DSP処理を必要とします。"
 tags: [Professional Audio, Coaxial Speakers, Horn Loaded, Installation, DSP]
 permalink: /products/ja/fulcrum-acoustic-fh1565/

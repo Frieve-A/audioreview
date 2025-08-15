@@ -7,6 +7,7 @@ lang: en
 ref: qcy-melobuds-pro
 date: 2025-07-15
 rating: [3.8, 0.7, 0.6, 1.0, 0.7, 0.8]
+price: 38
 summary: "QCY MeloBuds Pro offers excellent cost-performance with hybrid ANC and multi-point support, but has issues with sound quality balance and lacks LDAC/AptX support."
 tags: [ANC, Bluetooth 5.2, Multi-point, Wireless earphones]
 permalink: /products/en/qcy-melobuds-pro/

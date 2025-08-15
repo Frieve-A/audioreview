@@ -7,6 +7,7 @@ lang: ja
 ref: hiby-r1
 date: 2025-08-04
 rating: [2.8, 0.8, 0.5, 0.3, 0.6, 0.6]
+price: 16800
 summary: "HiBy R1は16,800円のエントリーレベルDAP。CS43131 DACを搭載し優秀な測定性能を示すが、スマートフォン+DACドングルの組み合わせと比較してコストパフォーマンスに課題がある。"
 tags: [CS43131, HiBy, エントリークラス, デジタルオーディオプレーヤー, ポータブル]
 permalink: /products/ja/hiby-r1/

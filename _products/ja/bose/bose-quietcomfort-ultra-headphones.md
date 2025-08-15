@@ -7,6 +7,7 @@ lang: ja
 ref: bose-quietcomfort-ultra-headphones
 date: 2025-07-06
 rating: [3.6, 0.8, 0.7, 0.6, 0.8, 0.7]
+price: 39000
 summary: "Boseの最新フラグシップノイズキャンセリングヘッドホン。業界最高クラスのANC性能とイマーシブオーディオ（空間音響）技術を搭載。CustomTune技術による個人最適化や優れた装着感を実現。39,000円の価格で総合性能では競合を上回るが、24時間のバッテリー持続時間は競合製品に劣る。折りたたみ機能により携帯性は良好。"
 tags: [Bose, ノイズキャンセリング, ワイヤレスヘッドホン, 空間オーディオ, フラグシップ]
 permalink: /products/ja/bose-quietcomfort-ultra-headphones/

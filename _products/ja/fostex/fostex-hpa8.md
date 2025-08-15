@@ -7,6 +7,7 @@ lang: ja
 ref: fostex-hpa8
 date: 2025-08-08
 rating: [2.9, 0.5, 0.7, 0.5, 0.6, 0.6]
+price: 60000
 summary: "32bit AK4399搭載の据え置き型DAC内蔵ヘッドホンアンプ。非同期USBやTCXO、オールディスクリート増幅など当時の先進設計を備える一方、現行機の台頭により中古市場でのコストパフォーマンスは限定的です"
 tags: [32bit, AK4399, DAC, ディスクリート, ヘッドホンアンプ, 日本]
 permalink: /products/ja/fostex-hpa8/

@@ -7,6 +7,7 @@ lang: en
 ref: trinnov-audio-d-mon
 date: 2025-07-14
 rating: [3.0, 0.7, 0.8, 0.0, 0.7, 0.8]
+price: 20000
 summary: "Digital monitor controller with room correction functionality. While possessing advanced technical capabilities and reliability, it faces cost-performance challenges due to the availability of equivalent functionality through significantly more affordable alternatives."
 tags: [Digital Signal Processing, Monitor Controller, Pro Audio, Room correction, Studio Equipment]
 permalink: /products/en/trinnov-audio-d-mon/

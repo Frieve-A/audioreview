@@ -7,6 +7,7 @@ lang: en
 ref: yamaha-pa2030a
 date: 2025-08-13
 rating: [4.0, 0.6, 0.7, 1.0, 0.8, 0.9]
+price: 339
 summary: "Commercial installation amplifier with Lo-Z/Hi-Z flexibility and solid published distortion/response figures; competitively priced versus equal-performance 70V/100V options"
 tags: [70V Line, Class D, Commercial Installation, Power amplifier, Professional]
 permalink: /products/en/yamaha-pa2030a/

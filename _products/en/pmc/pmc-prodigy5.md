@@ -7,6 +7,7 @@ lang: en
 ref: pmc-prodigy5
 date: 2025-08-10
 rating: [3.1, 0.6, 0.7, 0.8, 0.5, 0.5]
+price: 2933
 summary: "PMC's entry-level floorstanding speaker. Achieves rational bass via ATL technology with competitively good cost-performance by market comparison."
 tags: [ATL, Floorstanding, PMC, Speakers, Transmission-Line]
 permalink: /products/en/pmc-prodigy5/

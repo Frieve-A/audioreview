@@ -7,6 +7,7 @@ lang: en
 ref: smsl-ao300
 date: 2025-08-14
 rating: [3.7, 0.8, 0.6, 0.9, 0.6, 0.8]
+price: 289
 summary: "All-in-one DAC/headphone/speaker amplifier with solid published specs and comprehensive connectivity"
 tags: [Amplifiers, Class D, DAC, Desktop, Headphone Amp]
 permalink: /products/en/smsl-ao300/

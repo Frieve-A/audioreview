@@ -7,6 +7,7 @@ lang: ja
 ref: denon-dp-3000ne
 date: 2025-07-27
 rating: [1.8, 0.3, 0.4, 0.3, 0.4, 0.4]
+price: 385000
 summary: "価格に見合わない性能と深刻な品質管理問題を抱える、Denonのフラッグシップ・ダイレクトドライブターンテーブル。"
 tags: [ターンテーブル, ダイレクトドライブ, アナログオーディオ, レコードプレーヤー]
 permalink: /products/ja/denon-dp-3000ne/

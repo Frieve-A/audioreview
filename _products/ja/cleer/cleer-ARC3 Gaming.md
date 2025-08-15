@@ -7,6 +7,7 @@ lang: ja
 ref: cleer-ARC3 Gaming
 date: 2025-07-22
 rating: [3.2, 0.5, 0.7, 1.0, 0.5, 0.5]
+price: 34543
 summary: "独自の地位を確立したオープンイヤー型ゲーミングイヤホンだが、音響性能には課題も"
 tags: [イヤホン, ゲーミング, Bluetooth, オープンイヤー, ワイヤレス]
 permalink: /products/ja/cleer-ARC3-Gaming/

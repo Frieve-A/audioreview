@@ -7,6 +7,7 @@ lang: ja
 ref: acoustic-revive-raf-48
 date: 2025-08-08
 rating: [2.0, 0.3, 0.6, 0.3, 0.5, 0.3]
+price: 145200
 summary: "日本Acoustic Revive社製のエアフロート式振動絶縁プラットフォーム。電子顕微鏡台と同構造のエア浮遊技術を採用し、145,200円の価格で提供されるが、安価な代替品が存在しコストパフォーマンスは低い。"
 tags: [振動絶縁, プラットフォーム, Acoustic Revive, エアフロート]
 permalink: /products/ja/acoustic-revive-raf-48/

@@ -7,6 +7,7 @@ lang: en
 ref: stax-sr-l300
 date: 2025-07-18
 rating: [3.3, 0.7, 0.6, 0.7, 0.6, 0.7]
+price: 455
 summary: "Designed as STAX's entry-level electrostatic headphone, the SR-L300 delivers the characteristic transparency and resolution of electrostatic technology, achieving reasonable cost-performance even when combined with its dedicated amplifier compared to equivalent products"
 tags: [Electrostatic Headphones, High-end, Open-Back, STAX]
 permalink: /products/en/stax-sr-l300/

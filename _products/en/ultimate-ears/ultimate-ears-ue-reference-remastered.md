@@ -7,6 +7,7 @@ lang: en
 ref: ultimate-ears-ue-reference-remastered
 date: 2025-08-12
 rating: [2.6, 0.5, 0.4, 0.4, 0.7, 0.6]
+price: 999
 summary: "Professional studio reference custom in-ear monitors featuring three balanced-armature drivers with neutral tuning, but faces strong competition at 999 USD price point"
 tags: [Custom IEMs, In-ear monitors, Professional, Studio monitoring, Ultimate Ears]
 permalink: /products/en/ultimate-ears-ue-reference-remastered/

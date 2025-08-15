@@ -7,6 +7,7 @@ lang: en
 ref: yamaha-hs5
 date: 2025-07-08
 rating: [3.7, 0.8, 0.6, 0.9, 0.8, 0.6]
+price: 200
 summary: "Yamaha's nearfield monitor featuring the iconic white woofer that has served as an industry standard for decades. While offering 70W of adequate power and a wide frequency response of 54Hz-30kHz, measurement data reveals THD increases in the low frequencies and persistent background noise. With a unit price of 199.99 USD against the PreSonus Eris E5 at 149 USD providing equivalent measured performance, the cost-performance evaluation is favorable."
 tags: [5-inch, Bi-amp, HS5, Studio monitors, Yamaha]
 permalink: /products/en/yamaha-hs5/

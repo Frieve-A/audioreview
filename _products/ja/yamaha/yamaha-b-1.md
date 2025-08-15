@@ -7,7 +7,7 @@ lang: ja
 ref: yamaha-b-1
 date: 2025-08-10
 rating: [1.3, 0.5, 0.3, 0.2, 0.2, 0.1]
-price: 800000
+price: 400000
 summary: "古い性能と低い費用対効果を持つビンテージV-FETアンプ"
 tags: [パワーアンプ, V-FET, ビンテージ]
 permalink: /products/ja/yamaha-b-1/

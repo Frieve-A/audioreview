@@ -7,6 +7,7 @@ lang: ja
 ref: classic-pro-csp6
 date: 2025-08-14
 rating: [2.5, 0.4, 0.3, 0.8, 0.5, 0.5]
+price: 11800
 summary: "軽量ポリプロピレン構造を採用した予算重視のパッシブPAスピーカー。透明レベルの測定性能は満たしませんが、軽量・可搬性重視の基本的なPA用途には合理的な機能を提供します。"
 tags: [PAスピーカー, パッシブスピーカー, ポリプロピレンキャビネット, 予算オーディオ]
 permalink: /products/ja/classic-pro-csp6/

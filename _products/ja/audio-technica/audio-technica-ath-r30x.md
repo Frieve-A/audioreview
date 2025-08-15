@@ -7,6 +7,7 @@ lang: ja
 ref: audio-technica-ath-r30x
 date: 2025-07-12
 rating: [2.4, 0.4, 0.5, 0.4, 0.6, 0.5]
+price: 14850
 summary: "ATH-R30Xは15,000円でオープンバック設計を体験できる入門機だが、10kHzで+15dBという極端なピークや6dB膨らんだ中低域により音質面では大きな問題を抱えている"
 tags: [エントリークラス, オープンバック, スタジオ, ヘッドホン, リファレンス]
 permalink: /products/ja/audio-technica-ath-r30x/

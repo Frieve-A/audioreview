@@ -7,6 +7,7 @@ lang: ja
 ref: exasound-e38
 date: 2025-07-20
 rating: [3.0, 0.9, 0.7, 0.1, 0.8, 0.5]
+price: 645000
 summary: "優れた測定性能を誇る8チャンネルDAC。しかし、その機能の恩恵は限定的で、極めて低いコストパフォーマンスと設計思想の合理性に課題。"
 tags: [DAC, DSD256, マルチチャンネル, 高級]
 permalink: /products/ja/exasound-e38/

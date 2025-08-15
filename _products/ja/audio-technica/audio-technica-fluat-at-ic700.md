@@ -7,6 +7,7 @@ lang: ja
 ref: audio-technica-fluat-at-ic700
 date: 2025-07-23
 rating: [1.2, 0.1, 0.5, 0.0, 0.5, 0.1]
+price: 48400
 summary: "6N-OFC＋PCUHD＋HYPER OFCトリプルハイブリッド導体を採用した高価格インターコネクトケーブル。科学的に検証可能な性能改善は確認できず、コストパフォーマンスは極めて低い。"
 tags: [インターコネクトケーブル, オーディオテクニカ, FLUAT, ハイエンド]
 permalink: /products/ja/audio-technica-fluat-at-ic700/

@@ -7,6 +7,7 @@ lang: ja
 ref: blon-v1
 date: 2025-08-13
 rating: [3.6, 0.5, 0.8, 1.0, 0.6, 0.7]
+price: 6150
 summary: "デュアルCS43131ポータブルDAC/アンプ、航空宇宙グレードアルミニウム構造、5,900円で競争力のある性能を提供"
 tags: [DAC, アンプ, ポータブル, USB, CS43131, DSD, ハイレゾ]
 permalink: /products/ja/blon-v1/

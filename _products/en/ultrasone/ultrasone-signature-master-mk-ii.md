@@ -7,6 +7,7 @@ lang: en
 ref: ultrasone-signature-master-mk-ii
 date: 2025-08-08
 rating: [2.0, 0.5, 0.7, 0.1, 0.5, 0.2]
+price: 775
 summary: "Studio headphones with limited disclosed measurement data and weak cost-performance"
 tags: [Headphones, Professional, Studio monitors]
 permalink: /products/en/ultrasone-signature-master-mk-ii/

@@ -7,6 +7,7 @@ lang: ja
 ref: acoustic-elegance-sbp15
 date: 2025-07-20
 rating: [3.8, 0.9, 0.8, 1.0, 0.4, 0.7]
+price: 63750
 summary: "Acoustic Elegance SBP15は革新的なFull Copper Faraday SleeveとLambda Motor技術により業界最高レベルの低歪率を実現するサブウーファーです。同等の低歪み性能を持つ製品の中で最もコストパフォーマンスに優れていますが、小規模製造による供給問題があります。"
 tags: [サブウーファー, 15インチ, ホームシアター, 密閉型, 高級]
 permalink: /products/ja/acoustic-elegance-sbp15/

@@ -7,6 +7,7 @@ lang: ja
 ref: bowers-wilkins-px7-s3
 date: 2025-07-22
 rating: [3.1, 0.6, 0.6, 0.9, 0.5, 0.5]
+price: 55800
 summary: "PX7 S3は快適性とビルド品質に優れるが、音質は忠実性よりも意図的な味付けがされており、より安価で忠実性の高い競合製品も存在する。"
 tags: [Bluetooth, オーバーイヤー, ノイズキャンセリング, ハイエンド, ワイヤレスヘッドホン]
 permalink: /products/ja/bowers-wilkins-px7-s3/

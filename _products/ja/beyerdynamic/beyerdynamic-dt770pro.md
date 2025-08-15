@@ -7,6 +7,7 @@ lang: ja
 ref: beyerdynamic-dt770pro
 date: 2025-08-04
 rating: [2.6, 0.6, 0.6, 0.4, 0.5, 0.5]
+price: 29800
 summary: "ドイツの老舗メーカーによる定番スタジオモニターヘッドホンですが、現在の価格設定では競合製品に対して優位性を見出すことが困難です。"
 tags: [ヘッドホン, スタジオモニター, クローズドバック, beyerdynamic]
 permalink: /products/ja/beyerdynamic-dt770pro/

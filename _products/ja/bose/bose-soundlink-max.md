@@ -7,6 +7,7 @@ lang: ja
 ref: bose-soundlink-max
 date: 2025-07-07
 rating: [2.6, 0.6, 0.7, 0.3, 0.5, 0.5]
+price: 59850
 summary: "Boseの大型ポータブルスピーカー。3つのトランスデューサーと2つのパッシブラジエーター、Bluetooth 5.4、IP67防水、20時間再生を399USDで提供。音質は同社らしいバランスの良さを持つが、MDAQS歪みスコア1.5と低い測定結果。同等機能をより安価に提供する競合製品群との価格差が大きく、コストパフォーマンスに重大な課題。"
 tags: [アメリカ, ポータブルスピーカー, Bluetooth, 防水, ハイエンド]
 permalink: /products/ja/bose-soundlink-max/

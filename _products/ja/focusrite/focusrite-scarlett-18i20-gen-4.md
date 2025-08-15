@@ -7,6 +7,7 @@ lang: ja
 ref: focusrite-scarlett-18i20-gen-4
 date: 2025-07-08
 rating: [3.5, 0.8, 0.7, 0.6, 0.8, 0.6]
+price: 93000
 summary: "RedNet コンバーター搭載により122dBダイナミックレンジを実現した18in20outオーディオインターフェース。音質は優秀だが価格競争力に課題。"
 tags: [オーディオインターフェース, USB-C, RedNet, 18in20out, DTM, レコーディング]
 permalink: /products/ja/focusrite-scarlett-18i20-gen-4/

@@ -7,6 +7,7 @@ lang: ja
 ref: denafrips-ares-ii
 date: 2025-08-10
 rating: [2.2, 0.4, 0.6, 0.2, 0.7, 0.3]
+price: 105000
 summary: "測定性能は優秀だが、現代のデルタシグマ製品との価格競争力に課題があるR2R DAC"
 tags: [DAC, R2R, デジタルオーディオ, ハイエンド]
 permalink: /products/ja/denafrips-ares-ii/

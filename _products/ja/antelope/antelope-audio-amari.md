@@ -7,6 +7,7 @@ lang: ja
 ref: antelope-audio-amari
 date: 2025-07-13
 rating: [2.6, 0.9, 0.7, 0.0, 0.5, 0.5]
+price: 450000
 summary: "8×DACアーキテクチャと138dBダイナミックレンジを誇るリファレンスグレードAD/DAコンバーター。高い技術レベルと科学的有効性を実現するも、コストパフォーマンスに大きな課題。"
 tags: [AD/DAコンバーター, ハイエンド, マスタリング, リファレンス, 高級]
 permalink: /products/ja/antelope-audio-amari/

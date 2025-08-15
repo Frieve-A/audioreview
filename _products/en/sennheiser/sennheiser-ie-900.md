@@ -7,6 +7,7 @@ lang: en
 ref: sennheiser-ie-900
 date: 2025-08-07
 rating: [3.1, 0.8, 0.7, 0.3, 0.6, 0.7]
+price: 999
 summary: "A product with excellent measurement performance as a flagship IEM, but with cost-performance issues."
 tags: [Dynamic driver, Flagship, In-ear monitors]
 permalink: /products/en/sennheiser-ie-900/

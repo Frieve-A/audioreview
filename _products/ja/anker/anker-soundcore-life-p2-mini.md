@@ -7,6 +7,7 @@ lang: ja
 ref: anker-soundcore-life-p2-mini
 date: 2025-07-19
 rating: [2.5, 0.3, 0.4, 0.9, 0.6, 0.3]
+price: 4490
 summary: "4,490円の低価格帯ワイヤレスイヤホンとして、基本機能は提供するものの、音質面での科学的有効性は限定的"
 tags: [Bluetooth, IPX5, ワイヤレスイヤホン, 低価格]
 permalink: /products/ja/anker-soundcore-life-p2-mini/

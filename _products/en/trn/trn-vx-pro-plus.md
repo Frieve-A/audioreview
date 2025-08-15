@@ -7,6 +7,7 @@ lang: en
 ref: trn-vx-pro-plus
 date: 2025-07-25
 rating: [2.8, 0.6, 0.6, 0.4, 0.5, 0.7]
+price: 46
 summary: "Despite its 1DD+8BA hybrid configuration, this earphone faces cost-performance challenges due to the existence of alternative products that achieve equivalent performance at lower prices."
 tags: [Earphones, Hybrid Drivers, Chinese Earphones, TRN]
 permalink: /products/en/trn-vx-pro-plus/

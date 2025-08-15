@@ -7,6 +7,7 @@ lang: en
 ref: technics-sl-g700m2
 date: 2025-08-02
 rating: [3.1, 0.8, 0.7, 0.2, 0.8, 0.6]
+price: 3499
 summary: "A network/Super Audio CD player with excellent measured performance but poor cost-performance due to the availability of significantly cheaper alternatives that provide equivalent functionality"
 tags: [CD Player, Digital Audio, Network Streaming, Premium, SACD]
 permalink: /products/en/technics-sl-g700m2/

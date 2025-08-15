@@ -7,6 +7,7 @@ lang: ja
 ref: earfun-tune-pro
 date: 2025-07-22
 rating: [2.6, 0.3, 0.4, 1.0, 0.4, 0.5]
+price: 8990
 summary: "120時間のバッテリー駆動時間を誇るEarFun Tune Proは、独自の強みを持つ一方で、音質面では大きな妥協が必要な製品です。"
 tags: [アクティブノイズキャンセリング, ワイヤレスヘッドホン, 低価格, 長時間バッテリー]
 permalink: /products/ja/earfun-tune-pro/

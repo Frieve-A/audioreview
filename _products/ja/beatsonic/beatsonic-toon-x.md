@@ -7,6 +7,7 @@ lang: ja
 ref: beat-sonic-toon-x
 date: 2025-07-30
 rating: [3.2, 0.8, 0.5, 0.4, 0.7, 0.8]
+price: 52800
 summary: "車載純正オーディオシステムの音質向上を目的とした4チャンネルDSP内蔵アンプ。ほぼ透明レベルの測定性能を達成していますが、同等仕様でより安価な代替品が存在します。"
 tags: [DSP, カーオーディオ, アンプ, Plug and Play]
 permalink: /products/ja/beat-sonic-toon-x/

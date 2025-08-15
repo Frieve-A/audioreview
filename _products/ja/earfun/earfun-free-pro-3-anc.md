@@ -7,6 +7,7 @@ lang: ja
 ref: earfun-free-pro-3-anc
 date: 2025-07-24
 rating: [3.0, 0.6, 0.5, 0.7, 0.5, 0.7]
+price: 12000
 summary: "79.99USDの価格帯で43dBのANC性能とaptX Adaptiveサポートを実現した完全ワイヤレスイヤホン。より安価なCMF Buds Proが多くの点で同等以上の性能を提供するため、コストパフォーマンスに課題がある。"
 tags: [Bluetooth 5.3, True Wireless, aptX Adaptive, アクティブノイズキャンセリング, コストパフォーマンス]
 permalink: /products/ja/earfun-free-pro-3-anc/

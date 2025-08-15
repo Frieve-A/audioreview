@@ -7,6 +7,7 @@ lang: en
 ref: sony-xba-300
 date: 2025-07-25
 rating: [2.3, 0.6, 0.5, 0.3, 0.3, 0.6]
+price: 67
 summary: "A discontinued in-ear headphone with a triple balanced armature setup. While it boasts a wide frequency range of 5Hz-40kHz, its 2015 technology is now commonplace. As a used product priced around 67 USD, its cost-performance is extremely low compared to current models like the KZ ZSN Pro 2 (approx. 20 USD), which offer comparable or better performance."
 tags: [Balanced armature, Discontinued, Hi-Res Compatible, In-Ear Headphones, Sony]
 permalink: /products/en/sony-xba-300/

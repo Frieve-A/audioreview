@@ -7,6 +7,7 @@ lang: ja
 ref: anker-soundcore-liberty-4-pro
 date: 2025-07-19
 rating: [3.8, 0.7, 0.6, 1.0, 0.8, 0.7]
+price: 20798
 summary: "デュアルドライバーとLDAC、高性能ANCを備えた完全ワイヤレスイヤホン。この機能セットでは卓越したコストパフォーマンスを誇る"
 tags: [Bluetooth, LDAC, アクティブノイズキャンセリング, 完全ワイヤレスイヤホン]
 permalink: /products/ja/anker-soundcore-liberty-4-pro/

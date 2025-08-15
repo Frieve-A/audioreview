@@ -7,6 +7,7 @@ lang: ja
 ref: cca-rhapsody
 date: 2025-07-27
 rating: [3.2, 0.3, 0.7, 1.0, 0.6, 0.6]
+price: 7000
 summary: "2DD+4BAの6ドライバー構成と4段階調整スイッチが特徴のIEM。同等の機能を持つ製品の中で最安価格を実現しているが、測定性能には多くの課題がある。"
 tags: [ハイブリッドIEM, 6ドライバー, 調整スイッチ, 予算IEM, CCA]
 permalink: /products/ja/cca-rhapsody/

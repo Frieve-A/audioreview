@@ -7,6 +7,7 @@ lang: en
 ref: sansui-au-111-vintage
 date: 2025-07-21
 rating: [1.1, 0.1, 0.3, 0.1, 0.3, 0.3]
+price: 2000
 summary: "The Sansui AU-111 Vintage, released in 1965, demonstrates extremely low scientific validity when compared to modern digital equipment due to measured values of THD 0.8% and S/N ratio 70dB. With a price of approximately 2000 USD against the Fosi Audio V3 (91 USD) offering equivalent functionality, cost-performance is significantly inferior."
 tags: [Integrated amplifier, Sansui, Tube Amplifier, Vintage]
 permalink: /products/en/sansui-au-111-vintage/

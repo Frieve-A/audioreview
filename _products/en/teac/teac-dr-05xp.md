@@ -7,6 +7,7 @@ lang: en
 ref: teac-dr-05xp
 date: 2025-08-04
 rating: [3.2, 0.7, 0.6, 0.8, 0.6, 0.5]
+price: 120
 summary: "Latest handheld recorder announced in 2025 featuring 32-bit float recording functionality. Achieves significant performance improvements over previous models"
 tags: [Handheld Recorder, 32-bit Float, Portable Recording Device, USB-C Interface, TASCAM]
 permalink: /products/en/teac-dr-05xp/

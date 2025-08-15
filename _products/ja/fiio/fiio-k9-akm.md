@@ -7,6 +7,7 @@ lang: ja
 ref: fiio-k9-akm
 date: 2025-08-02
 rating: [3.0, 0.8, 0.7, 0.3, 0.5, 0.7]
+price: 118800
 summary: "旭化成のフラッグシップDACチップAK4499EXを搭載したデスクトップDAC・ヘッドホンアンプ。測定性能は透明レベルを達成するが、コストパフォーマンスに課題"
 tags: [DAC, ヘッドホンアンプ, デスクトップオーディオ, AKM, THX]
 permalink: /products/ja/fiio-k9-akm/

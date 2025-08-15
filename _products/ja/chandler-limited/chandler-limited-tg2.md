@@ -7,6 +7,7 @@ lang: ja
 ref: chandler-limited-tg2
 date: 2025-08-09
 rating: [2.5, 0.5, 0.7, 0.3, 0.5, 0.5]
+price: 470800
 summary: "EMI TG12428プリアンプを忠実に再現した2チャンネルマイクプリアンプ。Abbey Roadスタジオのヴィンテージサウンドを提供する一方、透明性や価格効率の観点では現代的基準に劣後"
 tags: [Abbey Road, EMI, ビンテージ, プロオーディオ, マイクプリアンプ]
 permalink: /products/ja/chandler-limited-tg2/

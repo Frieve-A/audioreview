@@ -7,6 +7,7 @@ lang: ja
 ref: elac-varro-ps-250
 date: 2025-08-12
 rating: [3.6, 0.6, 0.7, 0.9, 0.7, 0.7]
+price: 105000
 summary: "アプリ制御とAuto EQを備えるプレミアムシリーズの10インチ機。測定仕様は妥当。市場価格は699.98 USDで、約600 USD帯の強力な競合がある中、Auto EQやアプリ重視なら妥当な選択です。"
 tags: [サブウーファー, アクティブ, BASH, アプリ制御, Auto EQ]
 permalink: /products/ja/elac-varro-ps-250/

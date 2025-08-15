@@ -7,6 +7,7 @@ lang: ja
 ref: final-cotsubu-for-asmr-mk2
 date: 2025-07-09
 rating: [2.6, 0.6, 0.5, 0.4, 0.6, 0.5]
+price: 7980
 summary: "世界初のASMR専用ワイヤレスイヤホンの進化版だが、測定可能な音響性能においては一般的なワイヤレスイヤホンに劣る"
 tags: [ASMR, Ag, ファイナル, ワイヤレスイヤホン]
 permalink: /products/ja/final-cotsubu-for-asmr-mk2/

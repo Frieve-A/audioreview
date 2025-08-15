@@ -7,6 +7,7 @@ lang: en
 ref: polk-audio-signature-elite-es10-subwoofer
 date: 2025-08-02
 rating: [3.1, 0.5, 0.6, 0.6, 0.7, 0.7]
+price: 485
 summary: "Polk's subwoofer featuring a 10-inch driver and 100W Class D amplifier. It offers a nominal 30Hz low-frequency response and Power Port technology, but its cost-performance is low due to the existence of more affordable and higher-performing alternatives."
 tags: [Subwoofer, 10-inch, Class D, Power Port, Home Theater]
 permalink: /products/en/polk-audio-signature-elite-es10-subwoofer/

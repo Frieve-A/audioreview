@@ -7,6 +7,7 @@ lang: en
 ref: soundpeats-pearlclip-pro
 date: 2025-07-24
 rating: [2.3, 0.3, 0.5, 0.6, 0.4, 0.5]
+price: 47
 summary: "Adopts rational design for physical constraints as an open-ear clip-style earphone, but scientific sound quality performance is far from transparent level"
 tags: [Open-ear, Clip-style, Bluetooth, IPX5, SoundPeats]
 permalink: /products/en/soundpeats-pearlclip-pro/

@@ -7,6 +7,7 @@ lang: en
 ref: trn-shell
 date: 2025-07-25
 rating: [2.7, 0.4, 0.6, 0.3, 0.7, 0.7]
+price: 60
 summary: "The TRN Shell is a hybrid IEM featuring three dynamic drivers and one planar driver. While it offers luxurious accessories and a premium liquid metal housing at the 60 USD price point, its cost-performance is limited due to the existence of products that deliver equivalent functionality at significantly lower prices."
 tags: [Chi-Fi, Hybrid Driver, In-ear monitors, Planar Driver]
 permalink: /products/en/trn-shell/

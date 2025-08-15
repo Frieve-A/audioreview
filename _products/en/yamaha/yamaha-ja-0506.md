@@ -7,6 +7,7 @@ lang: en
 ref: yamaha-ja-0506
 date: 2025-08-04
 rating: [1.0, 0.2, 0.2, 0.1, 0.2, 0.3]
+price: 150
 summary: "A 1970s vintage horn tweeter with unclear performance by modern measurement standards, resulting in low evaluation. Outperformed in functionality and performance by contemporary low-cost tweeters."
 tags: [1970s, Horn tweeter, Vintage, Yamaha]
 permalink: /products/en/yamaha-ja-0506/

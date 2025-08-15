@@ -7,6 +7,7 @@ lang: en
 ref: yamaha-mt8
 date: 2025-07-14
 rating: [3.0, 0.6, 0.6, 0.5, 0.7, 0.6]
+price: 164
 summary: "The Yamaha HPH-MT8 is the company's flagship studio monitor headphones, but faces cost-performance challenges compared to competing products with equivalent or superior functionality. While measurement performance falls within standard ranges, no notable technical advantages are evident."
 tags: [Closed-Back, Headphones, Pro Audio, Studio monitors, Yamaha]
 permalink: /products/en/yamaha-mt8/

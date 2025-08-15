@@ -7,6 +7,7 @@ lang: ja
 ref: genelec-8350a
 date: 2025-08-12
 rating: [4.0, 0.8, 0.7, 0.7, 0.9, 0.9]
+price: 389250
 summary: "優秀な工学設計とSAM/GLMを備えるプロ用モニター。DSP同等機の低価格競合がある中で妥当な価値"
 tags: [スタジオモニター, アクティブモニター, SAMテクノロジー, プロオーディオ, 8インチ]
 permalink: /products/ja/genelec-8350a/

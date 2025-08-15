@@ -7,7 +7,8 @@ lang: en
 ref: sennheiser-hd-660s
 date: 2025-08-02
 rating: [3.6, 0.8, 0.7, 0.5, 0.7, 0.9]
-summary: "The HD 660S is an open-back headphone with a 150-ohm design and a measured THD of less than 0.04%. However, competing products like the Drop HD 6XX offer similar performance at a lower price, limiting its cost-performance advantage."
+price: 500
+summary: "The HD 660S is an open-back headphone with a 150-ohm design and a measured THD of less than 0.04%. However, competing products like the Drop HD 66XX offer similar performance at a lower price, limiting its cost-performance advantage."
 tags: [Headphones, Open-back, Sennheiser, Audiophile]
 permalink: /products/en/sennheiser-hd-660s/
 ---

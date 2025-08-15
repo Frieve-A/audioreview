@@ -7,6 +7,7 @@ lang: ja
 ref: aiyima-a70
 date: 2025-08-08
 rating: [3.9, 0.8, 0.7, 1.0, 0.6, 0.8]
+price: 25000
 summary: "TPA3255+PFFB技術を採用したデスクトップクラスDアンプ。優秀な測定性能とXLRバランス入力を備え、同等機能セットで最高のコストパフォーマンスを提供。"
 tags: [Aiyima, D級, PFFB, TPA3255, アンプ, デスクトップオーディオ]
 permalink: /products/ja/aiyima-a70/

@@ -7,6 +7,7 @@ lang: en
 ref: sony-ier-m9
 date: 2025-08-07
 rating: [3.2, 0.7, 0.8, 0.3, 0.8, 0.6]
+price: 1093
 summary: "A professional in-ear monitor featuring five balanced armature drivers. While showcasing excellent technical capabilities, it faces challenges in cost-performance."
 tags: [Balanced armature, In-ear monitors, Pro Audio, Sony]
 permalink: /products/en/sony-ier-m9/

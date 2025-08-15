@@ -7,6 +7,7 @@ lang: en
 ref: sony-ult-field-1
 date: 2025-07-07
 rating: [3.3, 0.8, 0.6, 0.5, 0.7, 0.7]
+price: 130
 summary: "Sony's new compact portable speaker. It offers solid fundamentals like the ULT bass boost function, IP67 waterproofing, and a 12-hour battery. However, its cost-performance is rated extremely low due to the existence of the Anker Soundcore 3, which offers similar basic performance at less than half the price. It also lacks a clear advantage over competitors like the JBL Flip 6 in terms of sound quality and features, making it difficult to justify its price."
 tags: [Bluetooth, IP67 Waterproof, Japan, Portable speaker, ULT Bass]
 permalink: /products/en/sony-ult-field-1/

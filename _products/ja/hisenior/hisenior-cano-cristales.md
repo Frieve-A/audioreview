@@ -7,6 +7,7 @@ lang: ja
 ref: hisenior-cano-cristales
 date: 2025-07-30
 rating: [3.0, 0.5, 0.7, 0.6, 0.6, 0.6]
+price: 59850
 summary: "2DD+8BAの10ドライバー構成を持つIEM。複雑な設計とは裏腹に測定性能には課題が残り、コストパフォーマンスは平凡な水準に留まる。"
 tags: [Hi-Fi, インイヤーモニター, オーディオファイル, ハイブリッド, マルチドライバー]
 permalink: /products/ja/hisenior-cano-cristales/

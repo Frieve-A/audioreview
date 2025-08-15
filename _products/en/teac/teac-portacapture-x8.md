@@ -7,6 +7,7 @@ lang: en
 ref: teac-portacapture-x8
 date: 2025-07-09
 rating: [2.9, 0.5, 0.4, 1.0, 0.5, 0.5]
+price: 350
 summary: "TASCAM's 8-track 32-bit float recorder. As the only product combining 32-bit float + 8ch simultaneous recording, provides irreplaceable functionality achieving CP value 1.0."
 tags: [32-bit Float, Field Recording, Portable recorder, TASCAM]
 permalink: /products/en/teac-portacapture-x8/

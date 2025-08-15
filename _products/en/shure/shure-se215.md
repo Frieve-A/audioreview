@@ -7,7 +7,8 @@ lang: en
 ref: shure-se215
 date: 2025-08-14
 rating: [2.7, 0.3, 0.4, 0.9, 0.6, 0.5]
-summary: "Single dynamic IEM with excellent passive isolation and a warm tuning. While its frequency response is scientifically problematic, value is reasonable when compared against equally isolating competitors like Etymotic’s ER2 series."
+price: 109
+summary: "Single dynamic IEM with excellent passive isolation and a warm tuning. While its frequency response is scientifically problematic, value is reasonable when compared against equally isolating competitors like Etymotic's ER2 series."
 tags: [Earphones, In-ear monitors, Professional, Single driver]
 permalink: /products/en/shure-se215/
 ---

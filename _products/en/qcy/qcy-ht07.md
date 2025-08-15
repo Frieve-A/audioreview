@@ -7,6 +7,7 @@ lang: en
 ref: qcy-ht07
 date: 2025-08-03
 rating: [3.0, 0.5, 0.4, 1.0, 0.5, 0.6]
+price: 28
 summary: "Despite its low price of approximately 28 USD, the QCY HT07 features active noise cancellation and achieves world-class cost-performance among products with equivalent functionality, making it an excellent value true wireless earphone."
 tags: [True Wireless Earphones, ANC, Noise Cancellation, Budget, Bluetooth]
 permalink: /products/en/qcy-ht07/

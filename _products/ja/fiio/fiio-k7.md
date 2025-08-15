@@ -7,6 +7,7 @@ lang: ja
 ref: fiio-k7
 date: 2025-07-09
 rating: [4.2, 0.9, 0.8, 0.8, 0.9, 0.8]
+price: 29800
 summary: "デュアルAK4493SEQ DACとTHX AAA 788+アンプを搭載したデスクトップDAC/アンプの優れた実装"
 tags: [DAC/アンプコンボ, FiiO, デスクトップDAC, ヘッドホンアンプ]
 permalink: /products/ja/fiio-k7/

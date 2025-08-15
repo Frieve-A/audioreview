@@ -7,6 +7,7 @@ lang: ja
 ref: 7hz-salnotes-zero
 date: 2025-08-14
 rating: [3.7, 0.8, 0.6, 0.8, 0.7, 0.8]
+price: 3449
 summary: "ニュートラル・ブライト寄りの調音と着脱式ケーブル、堅実な造りを22.99 USD（Linsoulの3.5mm無マイク構成・2025-08-14時点）で実現した超低価格IEM。高域ピークは一部のリスナーで疲労の可能性あり"
 tags: [インイヤーモニター, ダイナミックドライバー, 予算機, 有線]
 permalink: /products/ja/7hz-salnotes-zero/

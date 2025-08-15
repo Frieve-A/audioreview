@@ -7,6 +7,7 @@ lang: ja
 ref: fountek-ribbon-neopro-5i
 date: 2025-08-10
 rating: [4.0, 0.8, 0.7, 1.0, 0.7, 0.8]
+price: 59498
 summary: "中国Fountek製の大型リボントゥイーター。145mm×15mm振動板と1テスラ磁気回路により高感度・広帯域再生を実現する。"
 tags: [Ribbon Tweeter, Fountek, DIY Audio, High Frequency, Transducers]
 permalink: /products/ja/fountek-ribbon-neopro-5i/

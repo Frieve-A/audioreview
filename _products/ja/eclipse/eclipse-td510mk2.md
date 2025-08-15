@@ -7,6 +7,7 @@ lang: ja
 ref: eclipse-td510mk2
 date: 2025-08-02
 rating: [2.9, 0.3, 0.7, 0.6, 0.8, 0.5]
+price: 275000
 summary: "独自の設計によるインパルス応答性能も、現代のDSP技術の前では優位性を失い、製品価値の根拠が崩壊している"
 tags: [スピーカー, フルレンジ, 単一ドライバー, タイムドメイン理論, 卵型エンクロージャー]
 permalink: /products/ja/eclipse-td510mk2/

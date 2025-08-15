@@ -7,6 +7,7 @@ lang: en
 ref: sennheiser-hd-600
 date: 2025-07-20
 rating: [3.1, 0.8, 0.7, 0.4, 0.6, 0.6]
+price: 315
 summary: "While the HD-600 has been beloved as a reference headphone for years, by current standards both its technical specifications and cost-performance feel outdated."
 tags: [Headphones, Open-Back, Reference, High-Impedance]
 permalink: /products/en/sennheiser-hd-600/

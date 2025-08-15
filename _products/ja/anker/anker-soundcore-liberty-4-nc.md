@@ -7,6 +7,7 @@ lang: ja
 ref: anker-soundcore-liberty-4-nc
 date: 2025-07-09
 rating: [3.4, 0.6, 0.6, 0.9, 0.7, 0.6]
+price: 9990
 summary: "12,990円でウルトラノイズキャンセリング 3.0、LDAC対応、最大50時間再生を実現した完全ワイヤレスイヤホン。1万円台前半では最強クラスのノイズキャンセリング性能を誇るが、音質面では低音偏重傾向が残る"
 tags: [Anker, Soundcore, Liberty 4 NC, ワイヤレスイヤホン, ノイズキャンセリング, LDAC]
 permalink: /products/ja/anker-soundcore-liberty-4-nc/

@@ -7,6 +7,7 @@ lang: en
 ref: shure-sm58
 date: 2025-08-04
 rating: [2.3, 0.4, 0.3, 0.2, 0.9, 0.5]
+price: 109
 summary: "Industry standard vocal microphone since 1966, but shows limited performance and high cost by modern technical standards"
 tags: [Dynamic Microphone, Vocal, Live, Shure]
 permalink: /products/en/shure-sm58/

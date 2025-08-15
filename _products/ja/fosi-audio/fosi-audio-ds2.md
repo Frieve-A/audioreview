@@ -7,6 +7,7 @@ lang: ja
 ref: fosi-audio-ds2
 date: 2025-07-08
 rating: [3.7, 0.8, 0.7, 0.5, 0.9, 0.8]
+price: 9000
 summary: "デュアルCS43131搭載のポータブルUSB DAC/アンプ。優秀な測定スペックと手頃な価格設定だが、競合製品との価格競争で厳しい立場"
 tags: [USB DAC, ポータブルアンプ, CS43131, バランス出力]
 permalink: /products/ja/fosi-audio-ds2/

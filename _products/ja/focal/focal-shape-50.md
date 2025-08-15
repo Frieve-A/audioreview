@@ -7,6 +7,7 @@ lang: ja
 ref: focal-shape-50
 date: 2025-07-21
 rating: [2.2, 0.4, 0.6, 0.2, 0.5, 0.5]
+price: 88000
 summary: "Focal Shape 50は5インチスタジオモニターとして独自技術を搭載するが、測定性能とコストパフォーマンスで厳しい評価となる製品です。"
 tags: [スタジオモニター, アクティブ, フランス]
 permalink: /products/ja/focal-shape-50/

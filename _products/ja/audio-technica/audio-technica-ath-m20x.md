@@ -7,6 +7,7 @@ lang: ja
 ref: audio-technica-ath-m20x
 date: 2025-08-14
 rating: [2.0, 0.3, 0.2, 1.0, 0.3, 0.2]
+price: 8850
 summary: "中域は素直寄りで、低域の伸びと受動遮音は弱めのエントリー密閉型モニター。静かな室内でのトラッキング用途なら、約59 USDで有力です。"
 tags: [ヘッドホン, スタジオ, モニター, 予算, 密閉型]
 permalink: /products/ja/audio-technica-ath-m20x/

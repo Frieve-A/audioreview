@@ -7,6 +7,7 @@ lang: ja
 ref: denon-avr-x2800h
 date: 2025-08-04
 rating: [3.5, 0.6, 0.7, 0.7, 0.8, 0.7]
+price: 85000
 summary: "95W×7chのクラスAB離散アンプを搭載したミドルクラスAVレシーバー。Dolby Atmos/DTS:X対応、8K Ultra HD対応でホームシアター構築に必要な機能を網羅している。"
 tags: [AVレシーバー, Dolby Atmos, 8K対応, ホームシアター, 7.2ch]
 permalink: /products/ja/denon-avr-x2800h/

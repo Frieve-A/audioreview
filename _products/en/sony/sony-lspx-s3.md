@@ -7,6 +7,7 @@ lang: en
 ref: sony-lspx-s3
 date: 2025-08-04
 rating: [1.8, 0.2, 0.4, 0.2, 0.7, 0.3]
+price: 330
 summary: "An omnidirectional speaker employing unique glass tube vibration technology, but measured performance falls significantly short of expectations, with numerous alternatives offering equivalent functionality at lower prices."
 tags: [Bluetooth, Glass Sound, LED, Omnidirectional, Speakers]
 permalink: /products/en/sony-lspx-s3/

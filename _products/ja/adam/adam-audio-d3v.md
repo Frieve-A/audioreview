@@ -7,6 +7,7 @@ lang: ja
 ref: adam-audio-d3v
 date: 2025-07-14
 rating: [4.1, 0.7, 0.8, 1.0, 0.8, 0.8]
+price: 45000
 summary: "Adam Audio D3Vは、D-ARTリボンツイーターを搭載したデスクトップモニターです。技術的な設計は優秀で、同等機能の代替品と比較すると世界最安レベルの優れたコストパフォーマンスを提供します。"
 tags: [デスクトップモニター, アクティブスピーカー, Adam Audio, D-ARTツイーター, DSP]
 permalink: /products/ja/adam-audio-d3v/

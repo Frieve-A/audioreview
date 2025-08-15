@@ -7,6 +7,7 @@ lang: ja
 ref: belden-88760
 date: 2025-08-13
 rating: [2.4, 0.5, 0.4, 0.5, 0.6, 0.4]
+price: 566
 summary: "産業用プラナム対応の制御ケーブル（FEP/FEP・Beldfoil）。一部でオーディオ向けとされるが、電気性能は標準的で、等価品より著しく高価"
 tags: [ケーブル, オーディオケーブル, Belden, FEP, シールド, ツイストペア]
 permalink: /products/ja/belden-88760/

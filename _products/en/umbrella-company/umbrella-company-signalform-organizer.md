@@ -7,6 +7,7 @@ lang: en
 ref: umbrella-company-signalform-organizer
 date: 2025-07-21
 rating: [2.7, 0.6, 0.5, 0.1, 0.7, 0.8]
+price: 793
 summary: "A multi-function DI box made in Japan. It offers a one-box solution integrating DI, re-amp, and level converter functions, but faces significant challenges in cost-performance compared to functionally equivalent products."
 tags: [DI Box, Japan, Level Converter, Pro Audio, Re-amp]
 permalink: /products/en/umbrella-company-signalform-organizer/

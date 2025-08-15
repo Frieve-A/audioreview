@@ -7,6 +7,7 @@ lang: en
 ref: sony-wh-1000xm4
 date: 2025-08-14
 rating: [4.0, 0.8, 0.6, 1.0, 0.6, 1.0]
+price: 200
 summary: "Mid-tier active noise cancelling headphones with a warm tuning and reliable build; aging, but a strong value thanks to current pricing"
 tags: [Consumer, Headphones, Noise cancelling, Over-ear, Wireless]
 permalink: /products/en/sony-wh-1000xm4/

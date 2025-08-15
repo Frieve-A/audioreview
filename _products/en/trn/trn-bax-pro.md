@@ -7,6 +7,7 @@ lang: en
 ref: trn-bax-pro
 date: 2025-07-28
 rating: [2.4, 0.4, 0.7, 0.2, 0.7, 0.4]
+price: 400
 summary: "The TRN BAX Pro is a hybrid IEM featuring Sonion electrostatic drivers. While it incorporates advanced technology, its tuning prioritizes a V-shaped sound signature over fidelity, resulting in limited cost-performance based on measured performance."
 tags: [Chi-Fi, EST, Earphones, Electrostatic Driver, Hybrid, In-ear monitors]
 permalink: /products/en/trn-bax-pro/

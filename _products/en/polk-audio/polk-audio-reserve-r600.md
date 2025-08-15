@@ -7,6 +7,7 @@ lang: en
 ref: polk-audio-reserve-r600
 date: 2025-07-29
 rating: [3.0, 0.6, 0.7, 0.4, 0.6, 0.7]
+price: 1698
 summary: "The Polk Audio Reserve R600 is a mid-price floor-standing speaker with proprietary technologies, but faces cost-performance challenges due to the existence of equivalent-performance alternatives at lower prices."
 tags: [Polk Audio, Floor-Standing Speaker, Reserve Series, Hi-Res Compatible]
 permalink: /products/en/polk-audio-reserve-r600/

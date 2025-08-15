@@ -7,6 +7,7 @@ lang: en
 ref: western-electric-300B
 date: 2025-07-26
 rating: [3.4, 0.8, 0.7, 0.2, 0.9, 0.8]
+price: 1400
 summary: "A vacuum tube faithfully reproducing 1938 specifications, but extremely expensive compared to modern alternatives"
 tags: [300B, Amplifiers, Class A, Vacuum Tube, Western Electric]
 permalink: /products/en/western-electric-300B/

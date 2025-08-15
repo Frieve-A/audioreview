@@ -7,6 +7,7 @@ lang: ja
 ref: genelec-g-two
 date: 2025-08-06
 rating: [2.9, 0.7, 0.6, 0.1, 0.8, 0.7]
+price: 132000
 summary: "フィンランドGenelecによる4インチアクティブモニター。測定性能は良好だが、同等機能の製品と比較して価格が約6-10倍と極めて高価。現在は限定的な入手状況。"
 tags: [アクティブスピーカー, モニタースピーカー, Genelec, スタジオモニター, デスクトップスピーカー]
 permalink: /products/ja/genelec-g-two/

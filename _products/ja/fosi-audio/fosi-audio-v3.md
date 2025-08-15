@@ -7,6 +7,7 @@ lang: ja
 ref: fosi-audio-v3
 date: 2025-07-23
 rating: [3.8, 0.9, 0.7, 1.0, 0.6, 0.6]
+price: 16000
 summary: "TPA3255チップとPFFB技術を採用した小型Class Dアンプ。優れた測定性能とクラス最高のコストパフォーマンスを両立"
 tags: [D級, TPA3255, デスクトップオーディオ, パワーアンプ, 小型アンプ]
 permalink: /products/ja/fosi-audio-v3/

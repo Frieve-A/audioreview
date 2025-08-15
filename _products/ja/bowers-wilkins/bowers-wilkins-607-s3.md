@@ -7,6 +7,7 @@ lang: ja
 ref: bowers-wilkins-607-s3
 date: 2025-07-08
 rating: [3.5, 0.8, 0.7, 0.4, 0.8, 0.8]
+price: 110000
 summary: "B&Wの新世代600シリーズの最小モデル。チタンドームツイーターとContinuumコーンの組み合わせで、11万円のスピーカーとしては技術的洗練度は高い。同等性能のQ Acoustics 3020i（4万円）と比較すると、コストパフォーマンスは限定的である。"
 tags: [B&W, ブックシェルフスピーカー, チタンツイーター, イギリス, 2ウェイ]
 permalink: /products/ja/bowers-wilkins-607-s3/

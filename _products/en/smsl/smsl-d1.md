@@ -7,6 +7,7 @@ lang: en
 ref: smsl-d1
 date: 2025-08-11
 rating: [3.3, 0.5, 0.5, 1.0, 0.5, 0.8]
+price: 80
 summary: "Entry-level DAC featuring ROHM BD34352EKV chip with 0.00038% THD+N and 119 dB SNR at a 79.99 USD price point"
 tags: [DAC, Digital-to-Analog-Converter, Entry-level, ROHM, USB]
 permalink: /products/en/smsl-d1/

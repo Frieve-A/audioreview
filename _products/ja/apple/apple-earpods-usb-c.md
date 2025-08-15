@@ -7,6 +7,7 @@ lang: ja
 ref: apple-earpods-usb-c
 date: 2025-07-19
 rating: [1.4, 0.3, 0.2, 0.4, 0.3, 0.2]
+price: 2780
 summary: "Appleの有線イヤホンUSB-C版。測定結果で低音12dB不足、周波数特性の一貫性に問題があり、科学的有効性は極めて低い。技術レベルも既製設計の組み合わせレベル。"
 tags: [Apple, USB-C, イヤホン, エントリークラス, 有線]
 permalink: /products/ja/apple-earpods-usb-c/

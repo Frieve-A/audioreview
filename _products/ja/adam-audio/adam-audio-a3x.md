@@ -7,6 +7,7 @@ lang: ja
 ref: adam-audio-a3x
 date: 2025-08-06
 rating: [3.4, 0.4, 0.7, 1.0, 0.6, 0.7]
+price: 27500
 summary: "コンパクトなX-ARTツイーター搭載モニターだが、THD性能と低域拡張に課題があり、現在は生産終了済み"
 tags: [モニタースピーカー, アクティブ, ニアフィールド, リボンツイーター, 生産終了]
 permalink: /products/ja/adam-audio-a3x/

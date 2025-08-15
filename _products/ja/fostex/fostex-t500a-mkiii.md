@@ -7,6 +7,7 @@ lang: ja
 ref: fostex-t500a-mkiii
 date: 2025-08-14
 rating: [2.0, 0.4, 0.6, 0.2, 0.4, 0.4]
+price: 378600
 summary: "測定性能に限界があり、コストパフォーマンスが極めて劣悪なプレミアムホーンスーパーツイーター"
 tags: [ハイエンド, フォステクス, ホーンスーパーツイーター, 限定生産]
 permalink: /products/ja/fostex-t500a-mkiii/

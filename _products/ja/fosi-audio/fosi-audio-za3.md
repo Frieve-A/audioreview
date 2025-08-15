@@ -7,6 +7,7 @@ lang: ja
 ref: fosi-audio-za3
 date: 2025-07-31
 rating: [4.1, 0.8, 0.7, 1.0, 0.8, 0.8]
+price: 17849
 summary: "TPA3255チップ搭載の小型Class-Dアンプ。バランス入力とモノ/ステレオ切替機能を備え、同等機能の競合製品と比較して優秀なコストパフォーマンスを実現。"
 tags: [D級, TPA3255, ステレオアンプ, バランス入力, モノアンプ]
 permalink: /products/ja/fosi-audio-za3/

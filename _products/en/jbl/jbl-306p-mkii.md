@@ -7,7 +7,7 @@ lang: en
 ref: jbl-306p-mkii
 date: 2025-07-23
 rating: [2.6, 0.4, 0.6, 0.4, 0.7, 0.5]
-price: 233
+price: 467
 summary: "The JBL 306P MkII is a 6.5-inch 2-way active studio monitor aimed at improving sound quality in the budget segment, but faces significant challenges in scientific validity and design philosophy rationality."
 tags: [2-Way, Active speakers, JBL, Nearfield, Studio monitors]
 permalink: /products/en/jbl-306p-mkii/

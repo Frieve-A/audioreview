@@ -7,6 +7,7 @@ lang: en
 ref: sivga-que
 date: 2025-07-24
 rating: [2.1, 0.4, 0.5, 0.2, 0.5, 0.5]
+price: 87
 summary: "Mid-priced IEM featuring 10mm beryllium-plated driver. Emphasizes aesthetic differentiation through wooden faceplate design, but limited measurement performance advantages. Cost-performance challenges due to existence of equivalent low-priced alternatives."
 tags: [SIVGA, Earphones, In-Ear-Monitor, Beryllium, Wood, Dynamic]
 permalink: /products/en/sivga-que/

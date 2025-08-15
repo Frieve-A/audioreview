@@ -7,6 +7,7 @@ lang: ja
 ref: behringer-ecm8000
 date: 2025-07-18
 rating: [2.9, 0.4, 0.4, 1.0, 0.6, 0.5]
+price: 3580
 summary: "測定用マイクとして開発されたBehringer ECM8000は、20Hzから20kHzまでのフラットな周波数特性を謳う、低価格なファンタム電源駆動のモデルです。校正ファイルが付属しないため測定精度には限界があり、自己ノイズのレベルも測定品質に影響を与えます。"
 tags: [測定マイク, コンデンサーマイク, Behringer, 音響測定, ファンタム電源]
 permalink: /products/ja/behringer-ecm8000/

@@ -7,6 +7,7 @@ lang: ja
 ref: anker-soundcore-liberty-air-2-pro
 date: 2025-07-09
 rating: [2.1, 0.2, 0.4, 0.8, 0.4, 0.3]
+price: 20800
 summary: "ANC機能搭載の完全ワイヤレスイヤホンだが、測定性能は平凡で技術的優位性は限定的。コストパフォーマンスも同価格帯で優れた選択肢が存在する。"
 tags: [Anker, LDAC, Soundcore, アクティブノイズキャンセリング, 完全ワイヤレスイヤホン]
 permalink: /products/ja/anker-soundcore-liberty-air-2-pro/

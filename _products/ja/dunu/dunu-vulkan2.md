@@ -7,6 +7,7 @@ lang: ja
 ref: dunu-vulkan2
 date: 2025-07-27
 rating: [3.0, 0.7, 0.8, 0.1, 0.7, 0.7]
+price: 57522
 summary: "2DD+6BA構成の8ドライバーIEM。技術的には堅実だが、測定性能で同等以上の製品が1/7程度の価格で存在するため、コストパフォーマンスは無視できないレベルで低い。"
 tags: [2DD+6BA, DUNU, インイヤーモニター, ハイブリッド]
 permalink: /products/ja/dunu-vulkan2/

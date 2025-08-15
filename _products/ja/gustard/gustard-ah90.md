@@ -7,6 +7,7 @@ lang: ja
 ref: gustard-ah90
 date: 2025-08-10
 rating: [3.6, 0.5, 0.7, 1.0, 0.6, 0.8]
+price: 89850
 summary: "AK4499EXフラッグシップチップと包括的な接続性を599ドルの優れた価値で組み合わせたネットワークストリーミングDAC/ヘッドホンアンプ"
 tags: [DAC, ヘッドホンアンプ, ネットワークストリーマー, デスクトップオーディオ, AK4499EX]
 permalink: /products/ja/gustard-ah90/

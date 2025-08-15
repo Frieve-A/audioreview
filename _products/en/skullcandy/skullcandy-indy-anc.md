@@ -7,6 +7,7 @@ lang: en
 ref: skullcandy-indy-anc
 date: 2025-07-09
 rating: [2.8, 0.3, 0.5, 0.8, 0.6, 0.6]
+price: 86
 summary: "Skullcandy Indy ANC offers ANC functionality and 32-hour battery life at USD 129, but features bass-heavy V-shaped acoustic characteristics and THD performance issues, limiting scientific fidelity"
 tags: ["Active noise cancelling", Bass-emphasized, IPX4, "True wireless earbuds"]
 permalink: /products/en/skullcandy-indy-anc/

@@ -7,6 +7,7 @@ lang: ja
 ref: anker-soundcore-glow-mini
 date: 2025-08-09
 rating: [2.8, 0.5, 0.4, 1.0, 0.5, 0.4]
+price: 6000
 summary: "IP67防水とLEDライト、PartyCast 2.0対応のコンパクトBluetoothスピーカー。音質は小型相応だが、同機能群での実売最安によりCPは高い。"
 tags: [ポータブルスピーカー, Bluetooth, IP67防水, LEDライト, Soundcore]
 permalink: /products/ja/anker-soundcore-glow-mini/

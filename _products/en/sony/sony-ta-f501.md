@@ -7,6 +7,7 @@ lang: en
 ref: sony-ta-f501
 date: 2025-07-06
 rating: [1.7, 0.2, 0.5, 0.1, 0.6, 0.3]
+price: 247
 summary: "A full digital amplifier from Sony's System501 series released in 2007. Features 32-bit S-Master Pro technology, which was advanced for its time. However, from today's technical standards, its 6Ω-only design specification, limited input terminals, and overwhelming price disadvantage compared to currently available products with equivalent performance are notable drawbacks. While having historical value, it falls short of modern alternatives in terms of practicality and cost-performance."
 tags: [Discontinued, "Full Digital", "Integrated amplifier", "S-Master Pro", Sony]
 permalink: /products/en/sony-ta-f501/

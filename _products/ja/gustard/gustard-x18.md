@@ -7,6 +7,7 @@ lang: ja
 ref: gustard-x18
 date: 2025-08-10
 rating: [3.7, 0.9, 0.7, 0.7, 0.6, 0.8]
+price: 112350
 summary: "ESS Sabre ES9038PROチップによる高性能DAC。第三者測定で記録的なSINAD値を達成し、透明な音質と包括的な接続性を提供"
 tags: [DAC, ES9038PRO, MQA, Bluetooth, バランス]
 permalink: /products/ja/gustard-x18/

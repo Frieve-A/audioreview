@@ -7,6 +7,7 @@ lang: ja
 ref: allen-heath-xone-96
 date: 2025-07-26
 rating: [4.1, 0.8, 0.7, 1.0, 0.8, 0.8]
+price: 330000
 summary: "プロフェッショナル向け6+2チャンネルアナログDJミキサー。優秀な測定性能と伝統的なXoneサウンドを継承し、その機能クラスでは優れたコストパフォーマンスを発揮"
 tags: [DJ機器, ミキサー, アナログ, プロフェッショナル, クラブ用]
 permalink: /products/ja/allen-heath-xone-96/

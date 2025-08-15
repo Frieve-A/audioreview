@@ -7,6 +7,7 @@ lang: en
 ref: sennheiser-hd600
 date: 2025-08-05
 rating: [3.5, 0.8, 0.6, 0.5, 0.8, 0.8]
+price: 325
 summary: "Reference headphones released in 1997. Excellent measured performance, but cost-performance is challenged by the HD560S offering equivalent performance at half the price."
 tags: [Open-Back, High-Impedance, Headphones, Reference]
 permalink: /products/en/sennheiser-hd600/

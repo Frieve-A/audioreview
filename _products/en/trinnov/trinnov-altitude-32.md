@@ -7,6 +7,7 @@ lang: en
 ref: trinnov-altitude-32
 date: 2025-08-07
 rating: [4.9, 0.9, 1.0, 1.0, 1.0, 1.0]
+price: 29000
 summary: "The Trinnov Altitude-32 is a unique 32-channel AV processor from France, featuring ESS Sabre Pro DACs and an Intel multi-core platform for industry-leading measurement performance. It is the only solution for true 32-channel immersive environments, priced at 29,000 USD."
 tags: [AV Processor, Dolby Atmos, DTS:X Pro, Auro-3D, 32-channel, Preamplifier]
 permalink: /products/en/trinnov-altitude-32/

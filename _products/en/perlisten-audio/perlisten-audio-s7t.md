@@ -7,6 +7,7 @@ lang: en
 ref: perlisten-audio-s7t
 date: 2025-08-07
 rating: [3.3, 0.7, 0.8, 0.5, 0.6, 0.7]
+price: 22000
 summary: "The Perlisten Audio S7t features advanced DPC technology and is the world's first tower speaker to receive THX Dominus certification. While it offers excellent measured performance and innovative design, its cost-performance faces challenges when compared to equivalent competing products."
 tags: [Tower Speaker, THX Dominus, DPC Technology, Beryllium Tweeter, 4-way]
 permalink: /products/en/perlisten-audio-s7t/

@@ -7,6 +7,7 @@ lang: ja
 ref: edifier-mr3
 date: 2025-07-11
 rating: [3.9, 0.7, 0.8, 1.0, 0.6, 0.8]
+price: 18000
 summary: "Edifier MR3は3.5インチニアフィールドモニターとして、52Hz-40kHz対応で18W×2出力を実現。Bluetooth 5.4搭載で多機能だが、業界最高水準には及ばない測定性能を示す。"
 tags: [スタジオモニター, アクティブスピーカー, ニアフィールド, Bluetooth, デスクトップ]
 permalink: /products/ja/edifier-mr3/

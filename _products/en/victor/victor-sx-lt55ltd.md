@@ -7,6 +7,7 @@ lang: en
 ref: victor-sx-lt55ltd
 date: 2025-08-08
 rating: [1.8, 0.5, 0.2, 0.4, 0.5, 0.2]
+price: 2467
 summary: "A limited edition speaker from 2004 with only 360 units produced. Despite premium materials like gold-plated drivers and Alnico magnets, the 2467 USD (pair) price point faces competition from modern equivalent products available at approximately one-third the cost, resulting in poor cost-performance."
 tags: [3-Way, Alnico Magnet, Bass Reflex, Floor Standing Speaker, Limited edition]
 permalink: /products/en/victor-sx-lt55ltd/

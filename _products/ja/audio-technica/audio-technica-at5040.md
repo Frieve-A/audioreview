@@ -7,6 +7,7 @@ lang: ja
 ref: audio-technica-at5040
 date: 2025-08-12
 rating: [2.7, 0.8, 0.6, 0.5, 0.4, 0.4]
+price: 491850
 summary: "革新的な4カプセル設計を採用したプレミアムスタジオボーカルマイクロフォン。優秀な性能を発揮するが、同等の代替製品と比較して極端に高価な価格設定。"
 tags: [コンデンサー, スタジオ, プレミアム, ボーカル, マイクロホン]
 permalink: /products/ja/audio-technica-at5040/

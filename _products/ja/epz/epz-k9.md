@@ -7,6 +7,7 @@ lang: ja
 ref: epz-k9
 date: 2025-07-29
 rating: [2.8, 0.6, 0.7, 0.1, 0.7, 0.7]
+price: 39800
 summary: "EPZ K9は1DD+8BAの多ドライバー構成を特徴としますが、369 USDという価格に対し、実質的に同等性能のKZ ZS10 Proが39 USDで入手可能であり、コストパフォーマンスが著しく劣ります。"
 tags: [EPZ, イヤホン, インイヤーモニター, ハイブリッドドライバー, 中華イヤホン]
 permalink: /products/ja/epz-k9/

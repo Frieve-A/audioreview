@@ -7,6 +7,7 @@ lang: en
 ref: rme-fireface-ufx-iii
 date: 2025-08-14
 rating: [4.4, 0.9, 0.8, 1.0, 0.8, 0.9]
+price: 3199
 summary: "A 188-channel USB 3.0 flagship interface combining mastering-grade conversion, MADI/ADAT/AES/analog I/O, rock-solid drivers, and DURec."
 tags: [Audio interface, Converters, MADI, Professional Recording, RME, USB 3.0]
 permalink: /products/en/rme-fireface-ufx-iii/

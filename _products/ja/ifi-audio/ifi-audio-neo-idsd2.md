@@ -7,6 +7,7 @@ lang: ja
 ref: ifi-audio-neo-idsd2
 date: 2025-07-21
 rating: [4.3, 0.9, 0.7, 1.0, 0.8, 0.9]
+price: 133517
 summary: "aptX Losslessを世界初搭載したデスクトップDAC/ヘッドホンアンプ。比類なき高出力と先進のBluetooth機能を両立し、その独自の価値提案から優れたコストパフォーマンスを実現。"
 tags: [Bluetooth, DAC, High Power, aptX Lossless, iFi Audio, デスクトップ, ヘッドホンアンプ]
 permalink: /products/ja/ifi-audio-neo-idsd2/

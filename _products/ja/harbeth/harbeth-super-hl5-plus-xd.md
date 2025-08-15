@@ -7,6 +7,7 @@ lang: ja
 ref: harbeth-super-hl5-plus-xd
 date: 2025-08-13
 rating: [2.5, 0.5, 0.5, 0.3, 0.8, 0.4]
+price: 1210000
 summary: "伝統的なBBC設計思想を持つ大型モニタースピーカー。温かなミッドレンジキャラクターを提供するが、価格に対する科学的有効性は限定的"
 tags: [Monitor, Bookshelf, BBC, Passive, Traditional]
 permalink: /products/ja/harbeth-super-hl5-plus-xd/

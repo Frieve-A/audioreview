@@ -7,6 +7,7 @@ lang: ja
 ref: earfun-air-pro-4
 date: 2025-07-25
 rating: [3.7, 0.7, 0.8, 1.0, 0.4, 0.8]
+price: 9990
 summary: "Qualcomm QCC3091チップとaptX Lossless対応で高音質を実現しつつ、優れたコストパフォーマンスを誇るが、新興ブランドゆえの信頼性には留意が必要なワイヤレスイヤホン"
 tags: [Bluetooth5.4, LDAC, aptX Lossless, アクティブノイズキャンセリング, ハイレゾ, ワイヤレスイヤホン]
 permalink: /products/ja/earfun-air-pro-4/

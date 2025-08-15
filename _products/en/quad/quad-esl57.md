@@ -7,6 +7,7 @@ lang: en
 ref: quad-esl57
 date: 2025-08-02
 rating: [1.8, 0.2, 0.7, 0.5, 0.0, 0.4]
+price: 633
 summary: "Historic electrostatic speaker released in 1957. While midrange transparency is excellent, it has numerous significant limitations by modern standards including steep rolloff below 40Hz, output constraints due to 33V voltage limit, and narrow directivity."
 tags: [Electrostatic, Quad, Speakers, United Kingdom, Vintage]
 permalink: /products/en/quad-esl57/

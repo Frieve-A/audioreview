@@ -7,6 +7,7 @@ lang: en
 ref: trn-bt20-pro
 date: 2025-08-13
 rating: [2.5, 0.4, 0.3, 1.0, 0.4, 0.4]
+price: 23
 summary: "Budget Bluetooth adapter with basic functionality, AAC/SBC-only codec support, and no published third-party audio measurements."
 tags: [Adapter, Bluetooth, In-ear monitors, TWS, Wireless]
 permalink: /products/en/trn-bt20-pro/

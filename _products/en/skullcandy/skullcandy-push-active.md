@@ -7,6 +7,7 @@ lang: en
 ref: skullcandy-push-active
 date: 2025-07-09
 rating: [2.2, 0.4, 0.4, 0.4, 0.6, 0.4]
+price: 79
 summary: "The Skullcandy Push Active is a sports-focused true wireless earbud priced at USD 79. It features malleable silicone ear hooks for stable fit and 44-hour total battery life. While exhibiting typical V-shaped bass-emphasized characteristics, cost performance is limited due to equivalent-function competitors available for USD 30."
 tags: [Skullcandy, Sports, "Ear hooks", "True wireless earbuds", IP55]
 permalink: /products/en/skullcandy-push-active/

@@ -7,6 +7,7 @@ lang: ja
 ref: arturia-mini-fuse-1
 date: 2025-07-23
 rating: [3.7, 0.9, 0.6, 0.7, 0.8, 0.7]
+price: 15000
 summary: "エントリーレベルのUSB-Cオーディオインターフェースとして優秀な測定性能を持つMiniFuse 1。192kHz対応の競合機であるSteinberg UR12と比較すると価格差は小さく、付属ソフトウェアや5年保証を考慮すればコストパフォーマンスは妥当な評価となります。"
 tags: [1入力, USB-C, エントリークラス, オーディオインターフェース, ポータブル]
 permalink: /products/ja/arturia-mini-fuse-1/

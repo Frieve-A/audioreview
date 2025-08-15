@@ -7,6 +7,7 @@ lang: en
 ref: thomann-s-75mk2
 date: 2025-07-21
 rating: [2.5, 0.2, 0.3, 0.7, 0.6, 0.7]
+price: 128
 summary: "The t.amp S-75 MK II is a 75W Class AB power amplifier designed as a budget product for small-scale installations."
 tags: [19-inch Rack, 75W, Class AB, Power amplifier, Pro Audio]
 permalink: /products/en/thomann-s-75mk2/

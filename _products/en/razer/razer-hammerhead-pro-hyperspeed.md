@@ -7,6 +7,7 @@ lang: en
 ref: razer-hammerhead-pro-hyperspeed
 date: 2025-07-12
 rating: [3.8, 0.6, 0.7, 1.0, 0.7, 0.8]
+price: 200
 summary: "Gaming-focused low-latency earbuds with excellent cost-performance as the most affordable option with equivalent functionality. High-quality gaming earbuds featuring THX certification and low-latency technology."
 tags: [Gaming, Wireless, Earbuds, ANC, Bluetooth]
 permalink: /products/en/razer-hammerhead-pro-hyperspeed/

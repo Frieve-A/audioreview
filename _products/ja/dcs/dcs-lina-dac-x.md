@@ -7,6 +7,7 @@ lang: ja
 ref: dcs-lina-dac-x
 date: 2025-07-25
 rating: [3.1, 0.9, 0.8, 0.1, 0.7, 0.6]
+price: 2278500
 summary: "dCSの最新ネットワークストリーマーDAC。Ring DACにより非常に優秀な測定性能を実現しますが、汎用的なコンポーネントの組み合わせで同等機能がより低コストで実現できるため、コストパフォーマンスに極めて大きな課題があります。"
 tags: [ネットワークストリーマー, DAC, ハイエンド, dCS]
 permalink: /products/ja/dcs-lina-dac-x/

@@ -7,6 +7,7 @@ lang: en
 ref: sony-nw-zx707
 date: 2025-08-01
 rating: [2.9, 0.6, 0.6, 0.5, 0.7, 0.5]
+price: 899
 summary: "An Android-based premium DAP with respectable performance, but significant cost-performance challenges due to the availability of equivalent functionality at substantially lower prices."
 tags: [DAP, Android, Hi-Res, Portable, Sony]
 permalink: /products/en/sony-nw-zx707/

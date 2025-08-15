@@ -7,6 +7,7 @@ lang: en
 ref: steelseries-arctis-gamebuds
 date: 2025-07-12
 rating: [3.3, 0.6, 0.7, 1.0, 0.3, 0.7]
+price: 151
 summary: "SteelSeries' first true wireless gaming earbuds, featuring 2.4GHz and Bluetooth switching, ANC, and a 40-hour battery, with competitive pricing compared to rivals with similar features."
 tags: [Gaming Earbuds, Wireless, ANC, SteelSeries]
 permalink: /products/en/steelseries-arctis-gamebuds/

@@ -7,6 +7,7 @@ lang: en
 ref: oneodio-pro50
 date: 2025-07-29
 rating: [2.0, 0.2, 0.3, 0.8, 0.5, 0.2]
+price: 44
 summary: "A low-cost headphone with V-shaped tuning designed for DJ and entertainment use. While significantly deviating from scientific audio reproduction, it offers certain value considering its price point."
 tags: [Headphones, DJ, Entertainment, V-shaped, Budget]
 permalink: /products/en/oneodio-pro50/

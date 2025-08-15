@@ -7,6 +7,7 @@ lang: ja
 ref: austrian-audio-oc818
 date: 2025-08-09
 rating: [3.6, 0.7, 0.9, 0.4, 0.8, 0.8]
+price: 198000
 summary: "CK12スタイルカプセルを採用した多指向性大振幅コンデンサーマイクロフォン。優れた音質と革新的なワイヤレス制御機能を持つが、価格競争力に課題がある。"
 tags: [コンデンサーマイクロフォン, 多指向性, Austrian Audio, CK12カプセル, プロ用機材]
 permalink: /products/ja/austrian-audio-oc818/

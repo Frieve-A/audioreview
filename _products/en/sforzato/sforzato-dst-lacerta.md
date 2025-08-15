@@ -7,6 +7,7 @@ lang: en
 ref: sforzato-dst-lacerta
 date: 2025-08-04
 rating: [2.3, 0.5, 0.6, 0.2, 0.7, 0.3]
+price: 997
 summary: "The Sforzato DST-Lacerta is a network transport that converts LAN to USB signals. While supporting DSD512 and featuring Japanese build quality, it faces cost-performance challenges as equivalent functionality can be achieved at lower cost using affordable completed streamers."
 tags: [Japan, Network Transport, Network streamer, Sforzato, USB-DAC]
 permalink: /products/en/sforzato-dst-lacerta/

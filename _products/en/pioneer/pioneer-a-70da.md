@@ -7,6 +7,7 @@ lang: en
 ref: pioneer-a-70da
 date: 2025-08-12
 rating: [2.5, 0.6, 0.5, 0.2, 0.7, 0.5]
+price: 1750
 summary: "Class D integrated amplifier with ESS SABRE32 Ultra DAC offering good measured performance but severely compromised cost-performance due to availability of equivalent function alternatives at 15% of the price"
 tags: [Class D, DAC, Digital Inputs, ESS SABRE32, Integrated amplifier]
 permalink: /products/en/pioneer-a-70da/

@@ -7,6 +7,7 @@ lang: en
 ref: topping-d30pro
 date: 2025-08-01
 rating: [3.5, 0.9, 0.7, 0.5, 0.6, 0.8]
+price: 399
 summary: "Desktop DAC featuring four CS43198 chips in fully balanced design. Achieves transparent-level measurement performance, but equivalent-performance alternatives now exist at lower prices."
 tags: [Balanced output, CS43198, DAC, Product Review, Topping]
 permalink: /products/en/topping-d30pro/

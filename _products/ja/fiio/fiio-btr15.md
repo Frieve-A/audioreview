@@ -7,6 +7,7 @@ lang: ja
 ref: fiio-btr15
 date: 2025-08-02
 rating: [4.1, 0.9, 0.8, 0.9, 0.7, 0.8]
+price: 15490
 summary: "透明レベルの測定性能を持つBluetooth DAC/アンプ。同等機能を持つ最安クラスの製品との比較により、コストパフォーマンスも良好です。"
 tags: [Bluetooth, DAC, アンプ, ポータブル, FiiO]
 permalink: /products/ja/fiio-btr15/

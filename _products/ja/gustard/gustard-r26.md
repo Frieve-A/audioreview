@@ -7,6 +7,7 @@ lang: ja
 ref: gustard-r26
 date: 2025-08-10
 rating: [2.4, 0.4, 0.6, 0.9, 0.2, 0.3]
+price: 266820
 summary: "包括的な接続性を備えたR2Rラダー型DACですが、現代の代替品と比較して大幅な性能上の妥協があります"
 tags: [DAC, R2R, ネットワークストリーマー, デスクトップオーディオ, デジタルソース]
 permalink: /products/ja/gustard-r26/

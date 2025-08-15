@@ -7,6 +7,7 @@ lang: en
 ref: topping-a70-pro
 date: 2025-08-08
 rating: [3.5, 0.9, 0.8, 0.3, 0.7, 0.8]
+price: 499
 summary: "High-performance headphone amplifier with up to 17W (16Ω, balanced), but value depends on load requirements; may be overkill for typical use"
 tags: [Balanced Drive, Headphone amplifier, High Power]
 permalink: /products/en/topping-a70-pro/

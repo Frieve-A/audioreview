@@ -7,6 +7,7 @@ lang: ja
 ref: elac-debut-connex-dcb41
 date: 2025-07-08
 rating: [4.2, 0.8, 0.8, 0.9, 0.8, 0.9]
+price: 89250
 summary: "ELACのパワードブックシェルフスピーカー。4.5インチポリプロピレンウーファーと0.75インチソフトドームツイーター搭載。HDMI ARC、Bluetooth、USB、フォノ入力を含む豊富な接続オプションが特徴。595ドルの価格で2x50WクラスDアンプを内蔵し、66Hz-25kHzの周波数特性を実現。What Hi-Fi? 2024年受賞製品として、優れたコストパフォーマンスを提供。"
 tags: [ELAC, パワードスピーカー, アクティブスピーカー, HDMI ARC, Bluetooth]
 permalink: /products/ja/elac-debut-connex-dcb41/

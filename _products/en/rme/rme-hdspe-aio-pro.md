@@ -7,6 +7,7 @@ lang: en
 ref: rme-hdspe-aio-pro
 date: 2025-07-27
 rating: [4.0, 0.8, 0.7, 1.0, 0.8, 0.7]
+price: 660
 summary: "The RME HDSPe AIO Pro is a professional PCIe audio interface featuring AK5572/AK4490 converters and SteadyClock FS technology. With excellent measured performance including a 115 dB SNR and -110 dB THD, it offers superior cost-performance at approximately 660 USD compared to the functionally equivalent Fireface UCX II at approximately 1100 USD."
 tags: [Audio interface, Digital Audio, PCIe, Pro Audio, RME]
 permalink: /products/en/rme-hdspe-aio-pro/

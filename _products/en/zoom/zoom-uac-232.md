@@ -7,6 +7,7 @@ lang: en
 ref: zoom-uac-232
 date: 2025-07-27
 rating: [4.3, 0.8, 0.9, 1.0, 0.7, 0.9]
+price: 199
 summary: "World's first dedicated 32-bit float audio interface. Delivers exceptional 136.4dBA dynamic range and innovative clip-free recording technology at 199.99 USD. No cheaper alternatives exist with equivalent functionality, achieving a maximum cost-performance rating."
 tags: [32-bit Float, Audio interface, Recording Equipment, USB-C, Zoom]
 permalink: /products/en/zoom-uac-232/

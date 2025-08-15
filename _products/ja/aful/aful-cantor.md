@@ -7,6 +7,7 @@ lang: ja
 ref: aful-cantor
 date: 2025-07-30
 rating: [3.2, 0.7, 0.8, 0.3, 0.6, 0.8]
+price: 119850
 summary: "14BA構成のフラッグシップIEMとして799 USDで展開される先進的設計の多ドライバーモデル"
 tags: [イヤホン, インイヤーモニター, バランスドアーマチュア, フラッグシップ, 多ドライバー]
 permalink: /products/ja/aful-cantor/

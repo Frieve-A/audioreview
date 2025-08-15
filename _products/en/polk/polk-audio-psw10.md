@@ -7,6 +7,7 @@ lang: en
 ref: polk-audio-psw10
 date: 2025-07-19
 rating: [2.4, 0.3, 0.4, 0.7, 0.7, 0.3]
+price: 249
 summary: "An entry-level subwoofer that is rendered obsolete by more affordable and higher-performing alternatives."
 tags: [Entry-level, Home Theater, Powered Subwoofer, Subwoofer]
 permalink: /products/en/polk-audio-psw10/

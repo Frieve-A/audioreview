@@ -7,6 +7,7 @@ lang: ja
 ref: denon-avr-x4300h
 date: 2025-07-27
 rating: [2.4, 0.6, 0.3, 0.7, 0.3, 0.5]
+price: 69000
 summary: "既に生産終了となった9.2チャンネルAVレシーバー。現行機種と比較して技術的に陳腐化が進んでいるが、中古市場における同世代機との比較では一定の価値を持つ。"
 tags: [AVレシーバー, 9.2チャンネル, Dolby Atmos, DTS:X, 生産終了]
 permalink: /products/ja/denon-avr-x4300h/

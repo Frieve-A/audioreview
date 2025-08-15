@@ -7,6 +7,7 @@ lang: en
 ref: sony-wf-c710n
 date: 2025-07-14
 rating: [3.8, 0.7, 0.9, 0.7, 0.8, 0.7]
+price: 120
 summary: "A mid-range ANC earphone that delivers excellent noise cancellation performance while facing challenges in scientific measurement results and design philosophy"
 tags: [Sony, Earphones, ANC, Noise Cancelling, Wireless, Bluetooth]
 permalink: /products/en/sony-wf-c710n/

@@ -208,13 +208,26 @@ class InfiniteScrollManager {
       html += `<span class="new-badge" aria-label="${newLabel}">NEW</span>`;
     }
     
-    html += `<h3><a href="${item.url}" target="_blank">${this.escapeHtml(item.title)}</a></h3>`;
-    html += `<div class="${isCompaniesPage ? 'company' : 'product'}-rating" role="group" aria-label="${this.currentLanguage === 'ja' ? '評価情報' : 'Rating information'}">`;
-    html += `<span class="rating-label">${displayLabel}</span>`;
-    html += `<span class="rating-value" aria-label="${displayLabel}${displayRating}${this.currentLanguage === 'ja' ? '点' : ' points'}">${displayRating}</span>`;
-    html += '<span class="rating-stars" aria-hidden="true">★</span>';
-    html += '</div>';
-    html += `<p class="${isCompaniesPage ? 'company' : 'product'}-summary">${this.escapeHtml(item.summary)}</p>`;
+         html += `<h3><a href="${item.url}" target="_blank">${this.escapeHtml(item.title)}</a></h3>`;
+     
+     html += `<div class="${isCompaniesPage ? 'company' : 'product'}-rating" role="group" aria-label="${this.currentLanguage === 'ja' ? '評価情報' : 'Rating information'}">`;
+     html += `<span class="rating-label">${displayLabel}</span>`;
+     html += `<span class="rating-value" aria-label="${displayLabel}${displayRating}${this.currentLanguage === 'ja' ? '点' : ' points'}">${displayRating}</span>`;
+     html += '<span class="rating-stars" aria-hidden="true">★</span>';
+     html += '</div>';
+     html += `<p class="${isCompaniesPage ? 'company' : 'product'}-summary">${this.escapeHtml(item.summary)}</p>`;
+     
+     // Add price for products (after summary)
+     if (isProductsPage && item.price) {
+       const priceLabel = this.currentLanguage === 'ja' ? '参考価格' : 'Reference Price';
+       const formattedPrice = this.formatPrice(item.price);
+       const currency = this.currentLanguage === 'ja' ? '円' : 'USD';
+       html += `<div class="product-card-price">`;
+       html += `<span class="price-label">${priceLabel}:</span>`;
+       html += `<span class="price-value">${formattedPrice} ${currency}</span>`;
+       html += `</div>`;
+     }
+    
     html += `<time class="${isCompaniesPage ? 'company' : 'product'}-date" datetime="${item.date}" aria-label="${this.currentLanguage === 'ja' ? '更新日' : 'Updated'}${this.formatDate(item.date)}">`;
     html += `${this.formatDate(item.date)}</time>`;
     
@@ -667,6 +680,16 @@ class InfiniteScrollManager {
         day: 'numeric'
       });
     }
+  }
+  
+  formatPrice(price) {
+    if (price === null || price === undefined || isNaN(price)) {
+      return 'N/A';
+    }
+    
+    // Convert to number and format with commas
+    const numPrice = Number(price);
+    return numPrice.toLocaleString();
   }
   
   getCurrentLanguage() {

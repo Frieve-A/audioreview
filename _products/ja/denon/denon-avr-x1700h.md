@@ -7,6 +7,7 @@ lang: ja
 ref: denon-avr-x1700h
 date: 2025-08-04
 rating: [3.8, 0.6, 0.7, 1.0, 0.7, 0.8]
+price: 74850
 summary: "7.2チャンネル対応でDolby Atmos機能を搭載したミドルレンジAVレシーバー。該当機能・性能で競合製品と同等クラスの価格設定を実現し、優れたコストパフォーマンスを持つが、測定性能は標準的レベル。"
 tags: [AVレシーバー, Dolby Atmos, 8K対応, ホームシアター]
 permalink: /products/ja/denon-avr-x1700h/

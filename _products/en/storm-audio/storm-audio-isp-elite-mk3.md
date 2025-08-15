@@ -7,6 +7,7 @@ lang: en
 ref: storm-audio-isp-elite-mk3
 date: 2025-08-07
 rating: [3.3, 0.6, 0.7, 1.0, 0.5, 0.5]
+price: 25999
 summary: "The Storm Audio ISP Elite MK3 is a French-made high-end AV processor featuring up to 32-channel processing, Dirac Live support, and various immersive audio format compatibility, achieving a cost-performance score of 1.0 when compared to the similarly equipped Trinnov Altitude32."
 tags: [AV Processor, Immersive Audio, Dirac Live, HDMI 2.1, French Made]
 permalink: /products/en/storm-audio-isp-elite-mk3/

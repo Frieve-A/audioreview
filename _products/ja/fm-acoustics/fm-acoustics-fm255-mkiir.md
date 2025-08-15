@@ -7,6 +7,7 @@ lang: ja
 ref: fm-acoustics-fm255-mkiir
 date: 2025-08-13
 rating: [2.2, 0.5, 0.7, 0.1, 0.4, 0.5]
+price: 2544000
 summary: "スイスのFM Acousticsによる上位ラインステージ。生産終了し、機能はFM 256-RCに継承。第三者測定は乏しく、価格対性能は厳しい"
 tags: [プリアンプ, ライン段, スイス製, 生産終了]
 permalink: /products/ja/fm-acoustics-fm255-mkiir/

@@ -7,6 +7,7 @@ lang: en
 ref: see-audio-bravery
 date: 2025-08-03
 rating: [2.2, 0.5, 0.6, 0.2, 0.5, 0.4]
+price: 299
 summary: "This 4BA IEM shows limitations in measurement data and inferior cost-performance compared to hybrid competitors in similar price ranges."
 tags: [Balanced armature, Earphones, In-ear monitors, See Audio]
 permalink: /products/en/see-audio-bravery/

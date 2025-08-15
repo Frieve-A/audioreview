@@ -7,6 +7,7 @@ lang: en
 ref: sennheiser-ambeo-sub-sw02
 date: 2025-08-12
 rating: [3.7, 0.5, 0.6, 0.9, 0.8, 0.9]
+price: 850
 summary: "Wireless subwoofer with automated room calibration and AMBEO ecosystem integration; 27Hz extension and multi-sub support, with pricing slightly above key wireless competitors."
 tags: [Bass, Home Theater, Room correction, Subwoofer, Wireless]
 permalink: /products/en/sennheiser-ambeo-sub-sw02/

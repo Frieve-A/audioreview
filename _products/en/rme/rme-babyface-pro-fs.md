@@ -7,6 +7,7 @@ lang: en
 ref: rme-babyface-pro-fs
 date: 2025-08-10
 rating: [4.1, 0.8, 0.9, 0.7, 0.9, 0.8]
+price: 880
 summary: "Professional USB audio interface. Achieves transparent-level measurement values, but cost-performance is challenging."
 tags: [Audio interface, Professional, RME, USB]
 permalink: /products/en/rme-babyface-pro-fs/

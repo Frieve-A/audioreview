@@ -7,6 +7,7 @@ lang: ja
 ref: audio-technica-ath-cks330nc
 date: 2025-07-26
 rating: [3.9, 0.6, 0.7, 1.0, 0.8, 0.8]
+price: 5055
 summary: "USB-C接続でアクティブノイズキャンセリング機能を搭載した希少な有線イヤホン。SOLID BASSシリーズの特徴的な低音と内蔵DACによる高音質再生を実現。"
 tags: [イヤホン, ノイズキャンセリング, USB-C, 有線, DAC搭載]
 permalink: /products/ja/audio-technica-ath-cks330nc/

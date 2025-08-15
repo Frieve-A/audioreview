@@ -7,6 +7,7 @@ lang: ja
 ref: earthworks-m-23
 date: 2025-07-18
 rating: [3.2, 0.9, 0.8, 0.2, 0.7, 0.6]
+price: 74850
 summary: "3Hz-23kHz対応の測定用マイクロフォンとして高い科学的有効性を示すが、より安価で十分な性能を持つUSB測定マイクの存在によりコストパフォーマンスは限定的"
 tags: [測定マイクロフォン, Earthworks, 音響測定, USBマイクロフォン]
 permalink: /products/ja/earthworks-m-23/

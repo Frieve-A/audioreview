@@ -7,6 +7,7 @@ lang: en
 ref: takstar-pro-82
 date: 2025-08-13
 rating: [2.3, 0.3, 0.5, 0.8, 0.2, 0.5]
+price: 90
 summary: "Budget monitor headphones with 3-level bass adjustment feature, but compromised by severe reliability issues including documented driver failures and channel imbalance problems."
 tags: [Headphones, Monitor, Closed-back, Bass Adjustment, Budget]
 permalink: /products/en/takstar-pro-82/

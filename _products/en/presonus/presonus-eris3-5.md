@@ -7,6 +7,7 @@ lang: en
 ref: presonus-eris3-5
 date: 2025-07-20
 rating: [2.7, 0.5, 0.6, 0.6, 0.5, 0.5]
+price: 130
 summary: "The PreSonus Eris3-5 is a compact 3.5-inch studio monitor that shows inferior performance compared to competing products in scientific measurement standards."
 tags: [3.5-inch, Powered Speaker, PreSonus, Studio monitors]
 permalink: /products/en/presonus-eris3-5/

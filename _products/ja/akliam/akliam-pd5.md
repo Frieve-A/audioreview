@@ -7,6 +7,7 @@ lang: ja
 ref: akliam-pd5
 date: 2025-07-28
 rating: [3.7, 0.8, 0.7, 1.0, 0.6, 0.6]
+price: 10880
 summary: "AK4493SEQ DAC搭載のポータブルDAC/アンプ。SNR 125dB、THD+N -115dBの測定性能と255mW@32Ω出力を実現する軽量機"
 tags: [ポータブルDAC, USB DAC, AK4493SEQ, バランス出力, ドングル型]
 permalink: /products/ja/akliam-pd5/

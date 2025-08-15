@@ -7,6 +7,7 @@ lang: ja
 ref: dayton-audio-imm-6c
 date: 2025-08-11
 rating: [3.3, 0.4, 0.6, 1.0, 0.5, 0.8]
+price: 6747
 summary: "実験室レベルの校正を例外的な低価格で提供するUSB-C校正済み測定マイクロフォン。ただし、機器依存のノイズ性能に制限される。"
 tags: [測定マイクロフォン, USB-C, 校正済み, Dayton Audio, モバイル対応]
 permalink: /products/ja/dayton-audio-imm-6c/

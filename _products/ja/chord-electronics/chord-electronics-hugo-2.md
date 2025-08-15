@@ -7,6 +7,7 @@ lang: ja
 ref: chord-electronics-hugo-2
 date: 2025-07-29
 rating: [2.9, 0.8, 0.7, 0.1, 0.8, 0.5]
+price: 350000
 summary: "独自のFPGAを搭載したポータブルDAC/ヘッドホンアンプ。測定性能は優秀ですが、同等以上の性能を大幅に安価で実現する競合製品が多数存在するため、コストパフォーマンスは極めて厳しい評価となります。"
 tags: [DAC, ヘッドホンアンプ, ポータブル, FPGA]
 permalink: /products/ja/chord-electronics-hugo-2/

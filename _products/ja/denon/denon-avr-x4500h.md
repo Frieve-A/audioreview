@@ -7,6 +7,7 @@ lang: ja
 ref: denon-avr-x4500h
 date: 2025-07-27
 rating: [3.7, 0.8, 0.7, 1.0, 0.4, 0.8]
+price: 90000
 summary: "2018年発売のパワフルな9.2チャンネルAVレシーバー。IMAX Enhancedに対応し、11.2chプロセッシングを提供。中古市場で約90,000円で入手可能であり、THD 0.05%の優れた性能とコストパフォーマンスを両立しているが、生産終了品としてのリスクも存在する。"
 tags: [AVレシーバー, Dolby Atmos, 9チャンネル, 4K対応, IMAX Enhanced, ルーム補正]
 permalink: /products/ja/denon-avr-x4500h/

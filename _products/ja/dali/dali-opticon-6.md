@@ -7,6 +7,7 @@ lang: ja
 ref: dali-opticon-6
 date: 2025-07-29
 rating: [2.9, 0.7, 0.6, 0.3, 0.7, 0.6]
+price: 287100
 summary: "ハイブリッドツイーター技術により良好な測定性能を実現するも、コストパフォーマンスに大きな課題を抱えるフロア型スピーカー"
 tags: [フロアスピーカー, ハイブリッドツイーター, DALI, デンマーク]
 permalink: /products/ja/dali-opticon-6/

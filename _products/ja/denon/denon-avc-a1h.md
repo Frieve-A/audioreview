@@ -7,6 +7,7 @@ lang: ja
 ref: denon-avc-a1h
 date: 2025-07-27
 rating: [4.4, 0.8, 0.9, 1.0, 0.8, 0.9]
+price: 770000
 summary: "15.4ch環境の構築を目指すユーザーにとって、市場で唯一無二の選択肢となるフラッグシップAVアンプ"
 tags: [AVアンプ, AVレシーバー, Dolby Atmos, DTS:X, 8K, 15.4チャンネル, ホームシアター]
 permalink: /products/ja/denon-avc-a1h/

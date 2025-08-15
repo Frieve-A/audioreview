@@ -7,6 +7,7 @@ lang: ja
 ref: allen-heath-wz4-14-4-2
 date: 2025-07-26
 rating: [3.5, 0.9, 0.7, 0.3, 0.8, 0.8]
+price: 248000
 summary: "透明レベルの優れた測定性能を持つプロフェッショナルアナログミキサーだが、デジタルミキサーと比較しコストパフォーマンスに大きな課題。"
 tags: [ミキサー, アナログ, ライブサウンド, プロオーディオ, Allen & Heath]
 permalink: /products/ja/allen-heath-wz4-14-4-2/

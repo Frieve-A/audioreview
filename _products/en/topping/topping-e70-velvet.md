@@ -7,6 +7,7 @@ lang: en
 ref: topping-e70-velvet
 date: 2025-08-01
 rating: [3.5, 0.9, 0.8, 0.4, 0.6, 0.8]
+price: 450
 summary: "A high-performance DAC with the AK4499EX chip. While its measured performance is excellent, its cost-performance is not high due to cheaper alternatives with equivalent functionality."
 tags: [AKM, Bluetooth, DAC, Desktop, Topping]
 permalink: /products/en/topping-e70-velvet/

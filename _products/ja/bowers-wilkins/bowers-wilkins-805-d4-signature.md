@@ -7,6 +7,7 @@ lang: ja
 ref: bowers-wilkins-805-d4-signature
 date: 2025-08-13
 rating: [3.9, 0.7, 0.8, 0.7, 0.9, 0.8]
+price: 1848000
 summary: "Bowers & Wilkinsの小型フラッグシップ、805 D4 Signatureの科学的レビュー。ダイヤモンド・ドームTとContinuumコーンを核に、クロスオーバー最適化や筐体強化が図られています。独立測定では感度88.4dB(B)/2.83V/1m、実効最小インピーダンス約4.7Ω、-6dB低域伸長41Hz、90dB時のTHD 0.19〜0.55%（1k/10kHz）などが確認され、総合的に高性能です。一方で高域にエネルギー上昇があり設置と向きでの調整が推奨されます。CPはKEF Reference 1 Meta（機能・性能同等以上）との比較で0.7です。"
 tags: [2ウェイ, 800 Series, Bookshelf, Continuum, Diamond, Dome tweeter, Loudspeaker, Passive, Signature]
 permalink: /products/ja/bowers-wilkins-805-d4-signature/

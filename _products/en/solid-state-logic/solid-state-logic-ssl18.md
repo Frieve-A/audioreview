@@ -7,6 +7,7 @@ lang: en
 ref: solid-state-logic-ssl18
 date: 2025-07-22
 rating: [3.7, 0.8, 0.8, 0.5, 0.8, 0.8]
+price: 1267
 summary: "The SSL18 is a high-performance 26-input, 28-output USB audio interface featuring SSL's traditional preamp technology. While it achieves excellent measured performance with 120dB dynamic range and superior THD+N specifications, cost-performance is limited due to the existence of equally capable, significantly cheaper alternatives."
 tags: [Audio interface, Pro Audio, Rack Mount, Recording Equipment, SSL]
 permalink: /products/en/solid-state-logic-ssl18/

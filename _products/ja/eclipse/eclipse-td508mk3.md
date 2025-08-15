@@ -7,6 +7,7 @@ lang: ja
 ref: eclipse-td508mk3
 date: 2025-08-02
 rating: [2.5, 0.3, 0.6, 0.4, 0.7, 0.5]
+price: 132000
 summary: "優れたインパルス応答を追求したフルレンジスピーカー。しかし、周波数特性や歪率、そして現代のDSP技術が可能にするコストパフォーマンスには大きな課題がある。"
 tags: [Eclipse, フルレンジ, ブックシェルフスピーカー, 日本]
 permalink: /products/ja/eclipse-td508mk3/

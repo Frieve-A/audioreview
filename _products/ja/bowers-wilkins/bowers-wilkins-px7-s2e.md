@@ -7,6 +7,7 @@ lang: ja
 ref: bowers-wilkins-px7-s2e
 date: 2025-07-29
 rating: [3.7, 0.6, 0.7, 0.9, 0.7, 0.8]
+price: 34000
 summary: "バイオセルロースドライバーによる高音質と高級感のあるデザインを持つワイヤレスANCヘッドホン。同価格帯に強力な競合が存在するも、独自の音響思想で差別化を図る。"
 tags: [Bluetooth, ノイズキャンセリング, プレミアム, ヘッドホン, ワイヤレス]
 permalink: /products/ja/bowers-wilkins-px7-s2e/

@@ -7,6 +7,7 @@ lang: ja
 ref: elac-varro-rs500
 date: 2025-08-12
 rating: [3.0, 0.5, 0.7, 0.4, 0.7, 0.7]
+price: 209850
 summary: "アプリ制御とDSPを搭載した10インチ密閉型サブウーファーは、確実な性能を提供するが、予算に優しい代替品に対する価値は限定的"
 tags: [サブウーファー, 密閉型, アプリ制御, DSP, ホームシアター, 音楽]
 permalink: /products/ja/elac-varro-rs500/

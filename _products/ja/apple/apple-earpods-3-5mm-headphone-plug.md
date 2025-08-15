@@ -7,6 +7,7 @@ lang: ja
 ref: apple-earpods-3-5mm-headphone-plug
 date: 2025-07-25
 rating: [2.0, 0.3, 0.4, 0.1, 0.8, 0.4]
+price: 3800
 summary: "Appleの伝統的な有線イヤホンは快適性を重視した設計だが、オープンバック構造による低音不足と極めて低いコストパフォーマンスが問題"
 tags: [3.5mm, Apple, EarPods, エントリークラス, 有線イヤホン]
 permalink: /products/ja/apple-earpods-3-5mm-headphone-plug/

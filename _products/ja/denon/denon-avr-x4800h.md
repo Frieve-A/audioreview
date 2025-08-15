@@ -7,6 +7,7 @@ lang: ja
 ref: denon-avr-x4800h
 date: 2025-08-04
 rating: [3.6, 0.8, 0.7, 0.5, 0.8, 0.8]
+price: 264371
 summary: "9.4チャンネル対応の上位AVレシーバーとして優秀な測定性能を持つが、同等機能を大幅に安価で実現できる選択肢の存在により、コストパフォーマンスに課題がある"
 tags: [8K対応, 9.4チャンネル, AVレシーバー, DTS:X, Dolby Atmos, デノン]
 permalink: /products/ja/denon-avr-x4800h/

@@ -7,6 +7,7 @@ lang: en
 ref: topping-b200
 date: 2025-07-19
 rating: [3.2, 0.9, 0.8, 0.3, 0.4, 0.8]
+price: 1198
 summary: "High-performance monaural power amplifier featuring NFCA circuit technology. Achieves industry-leading measurement performance but faces cost-performance challenges in a stereo configuration."
 tags: [Discrete, High-end, Mono, NFCA, Power amplifier]
 permalink: /products/en/topping-b200/

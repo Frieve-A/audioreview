@@ -7,6 +7,7 @@ lang: en
 ref: victor-sx-dw77
 date: 2025-08-08
 rating: [2.4, 0.5, 0.4, 0.8, 0.4, 0.3]
+price: 382
 summary: "Active subwoofer with MFB servo technology released in 2006. Features advanced PWM Class-D amplification circuit and claims 600W output, but many aspects have become outdated by current measurement standards, with no detailed data available."
 tags: [Active, Class D, MFB, Subwoofer, Victor]
 permalink: /products/en/victor-sx-dw77/

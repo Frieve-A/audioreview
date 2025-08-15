@@ -7,6 +7,7 @@ lang: en
 ref: trn-t-ear-tips
 date: 2025-08-01
 rating: [2.7, 0.5, 0.5, 0.3, 0.6, 0.8]
+price: 10
 summary: "Ear tips featuring a patented waveguide design and dual-density medical-grade silicone. Sound quality improvements are limited, and the pricing, several times that of basic silicone tips, poses cost-performance challenges."
 tags: [Ear Tips, Silicone, Waveguide, Medical Grade, Sound Quality]
 permalink: /products/en/trn-t-ear-tips/

@@ -7,6 +7,7 @@ lang: en
 ref: taoc-lc200-sp35
 date: 2025-08-10
 rating: [2.6, 0.5, 0.7, 0.3, 0.5, 0.6]
+price: 1067
 summary: "Limited edition bookshelf speakers with automotive-grade vibration control technology, but extremely limited availability undermines practical value"
 tags: [Bookshelf, Limited edition, Speakers, Vibration Control]
 permalink: /products/en/taoc-lc200-sp35/

@@ -158,6 +158,12 @@ class SearchPage {
               <span class="rating-stars">★</span>
             </div>
             <p class="search-result-summary">${item.summary}</p>
+            ${item.price ? `
+              <div class="product-card-price">
+                <span class="price-label">Reference Price:</span>
+                <span class="price-value">${this.formatPrice(item.price)} USD</span>
+              </div>
+            ` : ''}
             ${item.tags.length > 0 ? `
               <div class="search-result-tags">
                 ${item.tags.map(tag => `<span class="tag">${tag}</span>`).join('')}
@@ -191,6 +197,16 @@ class SearchPage {
       return rating[0] !== null && !isNaN(rating[0]) ? rating[0].toFixed(1) : 'N/A';
     }
     return typeof rating === 'number' ? rating.toFixed(1) : (rating || 'N/A');
+  }
+
+  formatPrice(price) {
+    if (price === null || price === undefined || isNaN(price)) {
+      return 'N/A';
+    }
+    
+    // Convert to number and format with commas
+    const numPrice = Number(price);
+    return numPrice.toLocaleString();
   }
 }
 

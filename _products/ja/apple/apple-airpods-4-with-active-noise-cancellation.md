@@ -7,6 +7,7 @@ lang: ja
 ref: apple-airpods-4-with-active-noise-cancellation
 date: 2025-07-12
 rating: [4.0, 0.6, 0.7, 1.0, 0.8, 0.9]
+price: 26850
 summary: "Appleの革新的な開放型ANCイヤホンは、強力なエコシステム統合と合理的な設計思想で独自の製品カテゴリを創出しており、その独自性からコストパフォーマンスも高い評価となります。"
 tags: [Apple, H2チップ, アクティブノイズキャンセリング, ワイヤレスイヤホン, 開放型]
 permalink: /products/ja/apple-airpods-4-with-active-noise-cancellation/

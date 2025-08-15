@@ -7,6 +7,7 @@ lang: ja
 ref: bowers-wilkins-606s2
 date: 2025-08-03
 rating: [2.3, 0.4, 0.6, 0.3, 0.6, 0.4]
+price: 135000
 summary: "Bowers & Wilkins 606 S2は6.5インチContinuumコーンドライバーと1インチデカップル・ダブルドーム・アルミニウムツイーターを搭載したブックシェルフスピーカーです。周波数特性52Hz-28kHzを実現していますが、同等以上の測定性能をより安価に提供する競合製品の存在により、コストパフォーマンスに課題があります。"
 tags: [ブックシェルフスピーカー, 6.5インチ, 2ウェイ, Continuum, アルミニウムツイーター]
 permalink: /products/ja/bowers-wilkins-606s2/

@@ -7,6 +7,7 @@ lang: en
 ref: sony-ta-zh1es
 date: 2025-08-13
 rating: [2.4, 0.7, 0.7, 0.2, 0.6, 0.2]
+price: 1249
 summary: "Sony's flagship headphone amplifier prioritizes musicality over transparency with intentionally colored sound signature at premium pricing"
 tags: [DAC, Headphone amplifier, High-end, Premium, Sony]
 permalink: /products/en/sony-ta-zh1es/

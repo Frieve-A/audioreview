@@ -7,6 +7,7 @@ lang: ja
 ref: apple-airpods-4
 date: 2025-07-12
 rating: [3.9, 0.6, 0.7, 1.0, 0.8, 0.8]
+price: 21800
 summary: "Apple AirPods 4はオープンデザイン市場では優秀なコストパフォーマンスを示し、Apple エコシステム内での利便性に優れた製品"
 tags: [ワイヤレスイヤホン, Bluetooth, Apple, オープンイヤー]
 permalink: /products/ja/apple-airpods-4/

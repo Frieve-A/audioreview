@@ -7,6 +7,7 @@ lang: en
 ref: sony-ht-a9000
 date: 2025-08-13
 rating: [2.5, 0.5, 0.7, 0.4, 0.5, 0.4]
+price: 1399
 summary: "Sony's flagship soundbar with 13 speaker units and 360 Spatial Sound Mapping delivers advanced features, but measured performance and price positioning create cost-performance challenges versus cheaper alternatives with comparable or better audio outcomes."
 tags: [Soundbar, Dolby Atmos, DTS:X, Sony, BRAVIA]
 permalink: /products/en/sony-ht-a9000/

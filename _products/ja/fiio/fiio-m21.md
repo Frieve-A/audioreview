@@ -7,6 +7,7 @@ lang: ja
 ref: fiio-m21
 date: 2025-08-07
 rating: [3.6, 0.8, 0.7, 0.6, 0.8, 0.7]
+price: 49000
 summary: "FiiO M21は329USDのAndroid搭載DAPとして、4基のCS43198 DACとデスクトップモードによる950mW出力を実現。しかし同等機能のJM21が199USDで提供される中、コストパフォーマンスに課題がある。"
 tags: [Android, FiiO, デジタルオーディオプレーヤー, デスクトップオーディオ]
 permalink: /products/ja/fiio-m21/

@@ -7,6 +7,7 @@ lang: ja
 ref: apple-airpods-3
 date: 2025-07-09
 rating: [2.9, 0.6, 0.6, 0.6, 0.6, 0.5]
+price: 17800
 summary: "Apple H1チップによる生態系統合とAdaptive EQ機能を備えるも、オープンデザインによる低音不足とノイズキャンセリング非対応が制約となるスタンダードモデル"
 tags: [Apple H1, アダプティブEQ, オープンデザイン, 完全ワイヤレスイヤホン, 空間オーディオ]
 permalink: /products/ja/apple-airpods-3/

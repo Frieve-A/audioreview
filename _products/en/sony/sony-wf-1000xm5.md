@@ -7,6 +7,7 @@ lang: en
 ref: sony-wf-1000xm5
 date: 2025-07-06
 rating: [4.0, 0.9, 0.9, 0.7, 0.8, 0.7]
+price: 163
 summary: "Features Integrated Processor V2 and QN2e HD processor with 8.4mm Dynamic Driver X delivering improved sound quality and industry-leading ANC performance. Achieves 25% size reduction and 20% weight reduction while providing maximum 87% noise cancellation and 50dB+ attenuation above 1kHz. The 163 USD current price achieves the lowest cost among equivalent performance competitors, offering premium cost-performance in the complete wireless market."
 tags: [Active noise cancelling, Japan, Sony, V2 Processor, Wireless earphones]
 permalink: /products/en/sony-wf-1000xm5/

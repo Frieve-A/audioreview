@@ -7,6 +7,7 @@ lang: ja
 ref: denon-pma-sx11
 date: 2025-08-05
 rating: [3.1, 0.8, 0.7, 0.3, 0.7, 0.6]
+price: 250000
 summary: "Denon PMA-SX11は優秀な測定性能を持つ高級プリメインアンプだが、同等機能の製品と比較して価格が高すぎる"
 tags: [デノン, ハイエンド, フォノ段付き, プリメインアンプ]
 permalink: /products/ja/denon-pma-sx11/

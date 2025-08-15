@@ -7,6 +7,7 @@ lang: ja
 ref: azla-trinity
 date: 2025-08-08
 rating: [2.9, 0.5, 0.4, 1.0, 0.5, 0.5]
+price: 2200
 summary: "2,200円で8mmドライバー、3層複合振動板、（アナログ再生における）Hi-Res Audio認証を備えるコストパフォーマンス重視のエントリーモデル。ただし詳細な測定データが不足しており、科学的有効性の厳密評価は困難"
 tags: [USB-C, イヤホン, エントリー, ハイレゾ, 有線]
 permalink: /products/ja/azla-trinity/

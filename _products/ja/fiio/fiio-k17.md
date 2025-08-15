@@ -7,6 +7,7 @@ lang: ja
 ref: fiio-k17
 date: 2025-07-25
 rating: [3.9, 0.9, 0.8, 1.0, 0.5, 0.7]
+price: 135000
 summary: "フラッグシップAKM DACチップと強力なヘッドホン出力を備えたデスクトップDAC/アンプ。優れた測定性能と、その性能クラスにおける卓越したコストパフォーマンスを両立している。"
 tags: [デスクトップDAC, ヘッドホンアンプ, ストリーミング, AKM, FiiO]
 permalink: /products/ja/fiio-k17/

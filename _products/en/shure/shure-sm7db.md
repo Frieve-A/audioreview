@@ -7,6 +7,7 @@ lang: en
 ref: shure-sm7db
 date: 2025-08-02
 rating: [3.8, 0.7, 0.8, 0.6, 0.9, 0.8]
+price: 499
 summary: "The latest SM7 series model with improved convenience through a built-in active preamp. Features a high technical level and reliability, but lags behind competitors in cost-performance."
 tags: [Built-in Preamp, Dynamic, Microphones, Podcast, Shure, Streaming]
 permalink: /products/en/shure-sm7db/

@@ -7,6 +7,7 @@ lang: ja
 ref: earfun-wave-pro
 date: 2025-07-24
 rating: [3.5, 0.7, 0.6, 1.0, 0.5, 0.7]
+price: 12000
 summary: "40mm DLCコンポジットドライバーと80時間バッテリーを搭載したワイヤレスヘッドホン。QuietSmart 2.0技術による45dBのANC性能とLDAC対応を79.99 USDで提供。同等機能を持つ製品の中で最安クラスであり、コストパフォーマンスに極めて優れる。"
 tags: [Bluetooth5.3, LDAC, アクティブノイズキャンセリング, ワイヤレスヘッドホン]
 permalink: /products/ja/earfun-wave-pro/

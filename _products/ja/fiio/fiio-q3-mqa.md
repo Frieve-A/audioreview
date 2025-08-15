@@ -7,6 +7,7 @@ lang: ja
 ref: fiio-q3-mqa
 date: 2025-07-30
 rating: [3.7, 0.8, 0.6, 1.0, 0.6, 0.7]
+price: 24200
 summary: "THX AAA技術とMQAフルデコードを搭載したポータブルDAC/アンプ。優秀な測定性能とクラス最高のコストパフォーマンスを実現している。"
 tags: [FiiO, ポータブルDAC, THX, MQA, バランス出力]
 permalink: /products/ja/fiio-q3-mqa/

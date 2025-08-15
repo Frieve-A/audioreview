@@ -7,6 +7,7 @@ lang: ja
 ref: fiio-q15
 date: 2025-08-11
 rating: [3.0, 0.7, 0.6, 0.7, 0.6, 0.4]
+price: 69800
 summary: "AK4191+AK4499EX DAC組み合わせによる1600mWバランス出力を備えたポータブルDAC/アンプ。包括的な接続オプションとデスクトップモード機能（MSRP 399 USD／米国実売約439.99 USD、国内実売例 69,800円）。"
 tags: [ポータブル, DAC, アンプ, Bluetooth, LDAC, バランス, AKM]
 permalink: /products/ja/fiio-q15/

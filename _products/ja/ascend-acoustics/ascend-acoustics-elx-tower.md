@@ -7,6 +7,7 @@ lang: ja
 ref: ascend-acoustics-elx-tower
 date: 2025-08-13
 rating: [4.0, 0.8, 0.9, 0.5, 0.9, 0.9]
+price: 854700
 summary: "Klippel NFSによる最適化設計で卓越した測定性能を実現する3ウェイタワー。"
 tags: [フロアスタンディングスピーカー, 3ウェイ, タワー型, 高級]
 permalink: /products/ja/ascend-acoustics-elx-tower/

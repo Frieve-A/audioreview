@@ -7,6 +7,7 @@ lang: en
 ref: sunvalley-sv-192s-dsd
 date: 2025-08-13
 rating: [1.7, 0.4, 0.3, 0.1, 0.5, 0.4]
+price: 1550
 summary: "2008-era Japanese DAC featuring Burr-Brown DSD1796 chip with vacuum tube output stage, severely outperformed by modern budget alternatives"
 tags: [DAC, Digital-to-Analog Converter, Vacuum Tube, High-Resolution Audio, Upsampling]
 permalink: /products/en/sunvalley-sv-192s-dsd/

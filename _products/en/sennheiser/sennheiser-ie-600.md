@@ -7,6 +7,7 @@ lang: en
 ref: sennheiser-ie-600
 date: 2025-07-07
 rating: [3.1, 0.8, 0.9, 0.3, 0.7, 0.4]
+price: 699
 summary: "Sennheiser's premium single dynamic driver IEM. Features 7mm TrueResponse driver and AMLOY-ZR01 metal 3D-printed housing, achieving THD<0.06% low distortion performance. However, the 699 USD price point lacks rationality when compared to competing products offering equivalent performance at significantly lower costs."
 tags: ["Dynamic driver", Earphones, Germany, "In-ear monitors", Premium]
 permalink: /products/en/sennheiser-ie-600/

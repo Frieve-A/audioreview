@@ -7,6 +7,7 @@ lang: en
 ref: smsl-ao200mkii
 date: 2025-08-14
 rating: [3.7, 0.7, 0.6, 1.0, 0.6, 0.8]
+price: 249
 summary: "Compact Class D stereo amplifier rated 160W x 2 @4Ω with Bluetooth 5.0, USB audio input, balanced XLR and RCA inputs, dual sub outs, and onboard EQ"
 tags: [Amplifiers, Bluetooth, Class D, DSP, Integrated]
 permalink: /products/en/smsl-ao200mkii/

@@ -7,6 +7,7 @@ lang: en
 ref: sennheiser-momentum-3-wireless
 date: 2025-08-09
 rating: [3.2, 0.7, 0.6, 0.3, 0.8, 0.8]
+price: 300
 summary: "Wireless headphones with 42 mm drivers and noise cancelling. Measured performance is mid-tier with standard technology level, but cost-performance is low at about 3x the price of equivalent functionality products"
 tags: [Bluetooth, Noise Cancelling, Over-ear, Wireless headphones]
 permalink: /products/en/sennheiser-momentum-3-wireless/

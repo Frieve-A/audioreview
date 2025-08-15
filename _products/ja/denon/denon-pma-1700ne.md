@@ -7,6 +7,7 @@ lang: ja
 ref: denon-pma-1700ne
 date: 2025-08-05
 rating: [3.4, 0.8, 0.7, 0.4, 0.7, 0.8]
+price: 148000
 summary: "70W×2出力のプリメインアンプ。USB-DAC、MM/MC対応フォノイコライザーを内蔵し、Advanced AL32 Processing Plusによる高解像度音源対応を特徴とする。測定性能は優秀だが、同等機能をより低価格な組み合わせで代替可能でコストパフォーマンスは低い。"
 tags: [USB DAC, デノン, フォノステージ, プリメインアンプ, 日本]
 permalink: /products/ja/denon-pma-1700ne/

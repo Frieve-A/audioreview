@@ -7,6 +7,7 @@ lang: en
 ref: q-acoustics-3020i
 date: 2025-08-08
 rating: [3.7, 0.7, 0.7, 0.6, 0.8, 0.9]
+price: 250
 summary: "An entry-to-mid priced bookshelf speaker by British manufacturer Q Acoustics (founded 2006). Specs and technology align with the price tier; design choices are rational"
 tags: [2-Way, Bookshelf, Passive, Q-Acoustics, Speakers, United Kingdom]
 permalink: /products/en/q-acoustics-3020i/

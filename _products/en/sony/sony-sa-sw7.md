@@ -7,6 +7,7 @@ lang: en
 ref: sony-sa-sw7
 date: 2025-08-04
 rating: [3.2, 0.5, 0.5, 1.0, 0.7, 0.5]
+price: 199
 summary: "The Sony SA-SW7 is a 100W wireless subwoofer equipped with a 130mm driver, achieving excellent cost-performance among wireless connection compatible products."
 tags: [Sony, Subwoofer, Wireless, BRAVIA Theatre]
 permalink: /products/en/sony-sa-sw7/

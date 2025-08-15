@@ -7,6 +7,7 @@ lang: en
 ref: steinberg-ur-rt4
 date: 2025-08-05
 rating: [3.1, 0.7, 0.8, 0.3, 0.8, 0.5]
+price: 649
 summary: "6-input audio interface featuring Rupert Neve Designs transformers, but the high price lacks commensurate scientifically measurable improvement effects"
 tags: [Audio interface, Premium, Recording, Rupert Neve, Steinberg, USB]
 permalink: /products/en/steinberg-ur-rt4/

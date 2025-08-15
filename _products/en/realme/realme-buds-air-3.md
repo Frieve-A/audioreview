@@ -7,6 +7,7 @@ lang: en
 ref: realme-buds-air-3
 date: 2025-07-15
 rating: [2.9, 0.4, 0.5, 1.0, 0.6, 0.4]
+price: 48
 summary: "TWS with 42dB ANC. Basic performance is secured, but scientific validity evaluation is difficult due to undisclosed measurement data. Cost-performance final evaluation is on hold due to uncertain Japanese market pricing."
 tags: [TWS, ANC, Realme, Wireless Earbuds]
 permalink: /products/en/realme-buds-air-3/

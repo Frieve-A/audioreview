@@ -7,6 +7,7 @@ lang: ja
 ref: denon-home-subwoofer
 date: 2025-08-14
 rating: [2.4, 0.5, 0.4, 0.7, 0.5, 0.3]
+price: 97350
 summary: "HEOS統合の8インチ・ワイヤレスサブはDenonエコシステムでの導入が容易ですが、仕様公開が限定的かつ価格は高めです"
 tags: [サブウーファー, ワイヤレス, HEOS, ホームシアター, バスレフ]
 permalink: /products/ja/denon-home-subwoofer/

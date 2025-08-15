@@ -7,6 +7,7 @@ lang: ja
 ref: beats-studio-buds-plus
 date: 2025-07-09
 rating: [3.1, 0.7, 0.6, 0.4, 0.8, 0.6]
+price: 18882
 summary: "Beats Studio Buds+は第1世代比で1.6倍のノイズキャンセリング性能向上を実現した完全ワイヤレスイヤホン。36時間のバッテリー持続時間と空間オーディオ対応が特徴だが、H1チップ非搭載のため一部Apple機能に制限がある。"
 tags: [完全ワイヤレスイヤホン, アクティブノイズキャンセリング, 空間オーディオ, Google Fast Pair]
 permalink: /products/ja/beats-studio-buds-plus/

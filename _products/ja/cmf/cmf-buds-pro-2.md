@@ -7,6 +7,7 @@ lang: ja
 ref: cmf-buds-pro-2
 date: 2025-07-30
 rating: [3.5, 0.7, 0.8, 0.8, 0.6, 0.6]
+price: 11000
 summary: "11,000円でデュアルドライバー（11mm+6mm）、LDAC対応、50dBノイズキャンセリングを実現した完全ワイヤレスイヤホン。Smart Dialによる物理的音量調整機能を搭載し、この価格帯では異例の高機能を実現するが、音質面ではややV字型の色付けが残る"
 tags: [CMF, Nothing, Buds Pro 2, ワイヤレスイヤホン, ノイズキャンセリング, LDAC, デュアルドライバー]
 permalink: /products/ja/cmf-buds-pro-2/

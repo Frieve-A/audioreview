@@ -7,6 +7,7 @@ lang: en
 ref: sony-mdr-z900
 date: 2025-08-06
 rating: [2.2, 0.3, 0.2, 1.0, 0.1, 0.6]
+price: 33
 summary: "Sony's vintage studio monitor headphones released in 1992. Available in the used market for approximately 33 USD (32 USD), offering good cost-performance compared to current equivalent products."
 tags: [Discontinued, Headphones, Sony, Studio monitors, Vintage]
 permalink: /products/en/sony-mdr-z900/

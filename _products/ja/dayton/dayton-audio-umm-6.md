@@ -7,6 +7,7 @@ lang: ja
 ref: dayton-audio-umm-6
 date: 2025-07-19
 rating: [1.7, 0.3, 0.2, 0.7, 0.2, 0.3]
+price: 10143
 summary: "Dayton Audio UMM-6は入門価格帯のUSB測定マイクロフォンとしては機能するものの、高いノイズフロア、限られた測定性能、同価格帯でより優れた代替品の存在により、積極的に推奨できる製品ではありません。"
 tags: [USB, キャリブレーション, マイクロホン, 測定機器]
 permalink: /products/ja/dayton-audio-umm-6/

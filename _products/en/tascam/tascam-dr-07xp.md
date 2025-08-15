@@ -7,6 +7,7 @@ lang: en
 ref: tascam-dr-07xp
 date: 2025-07-30
 rating: [3.6, 0.8, 0.7, 0.6, 0.7, 0.8]
+price: 174
 summary: "A portable recorder supporting 32-bit float recording. It boasts high audio performance and a sound design philosophy, but its cost-performance is somewhat inferior compared to competing products."
 tags: [32-bit Float, Portable recorder, Stereo Microphone, TASCAM, USB-C]
 permalink: /products/en/tascam-dr-07xp/

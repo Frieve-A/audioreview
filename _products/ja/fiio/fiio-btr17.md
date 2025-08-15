@@ -7,6 +7,7 @@ lang: ja
 ref: fiio-btr17
 date: 2025-07-07
 rating: [4.1, 0.9, 0.9, 0.7, 0.8, 0.8]
+price: 29290
 summary: "FiiOのフラグシップBluetoothレシーバーとして、デュアルES9069Q DAC、THX AAA 78+アンプ、Qualcomm QCC5181プラットフォームを搭載し、aptX Losslessによる無劣化ワイヤレス伝送を実現。デスクトップモードでは650mWの高出力を発揮し、もはやDAP並みの音質と機能性を提供。768kHz/32bit PCM、DSD512、MQA対応により、あらゆるハイレゾ音源を高品質で再生できる多機能デバイス。"
 tags: ["AptX Lossless", Bluetooth, DAC, FiiO, アンプ, ポータブルオーディオ, ワイヤレス]
 permalink: /products/ja/fiio-btr17/

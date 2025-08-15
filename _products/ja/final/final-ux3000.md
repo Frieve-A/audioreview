@@ -7,6 +7,7 @@ lang: ja
 ref: final-ux3000
 date: 2025-07-30
 rating: [2.9, 0.6, 0.5, 0.5, 0.7, 0.6]
+price: 15800
 summary: "finalの初ワイヤレスANCヘッドホンだが、同等以上の機能を持つ競合製品に対してコストパフォーマンスで劣る"
 tags: [Bluetooth, ノイズキャンセリング, ファイナル, ワイヤレスヘッドホン]
 permalink: /products/ja/final-ux3000/

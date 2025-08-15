@@ -7,6 +7,7 @@ lang: en
 ref: piega-coax-711
 date: 2025-08-06
 rating: [3.3, 0.7, 0.8, 0.4, 0.7, 0.7]
+price: 25000
 summary: "Swiss coaxial ribbon technology in a high-end floorstanding speaker. Solid measured performance but limited by data gaps and cost issues."
 tags: [Floorstanding, High-end, Ribbon Tweeter, Speakers, Swiss Made]
 permalink: /products/en/piega-coax-711/

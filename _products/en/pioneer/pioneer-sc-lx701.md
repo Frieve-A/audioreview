@@ -7,6 +7,7 @@ lang: en
 ref: pioneer-sc-lx701
 date: 2025-08-13
 rating: [3.2, 0.5, 0.4, 1.0, 0.4, 0.9]
+price: 525
 summary: "Discontinued 9.2-channel AV receiver from 2016 with ESS SABRE32 DAC and Class D amplification, offering competitive cost-performance as the cheapest 9.2-channel option in current used market."
 tags: [AV Receiver, Home Theater, Class D, Dolby Atmos, DTS:X, ESS, America, Discontinued]
 permalink: /products/en/pioneer-sc-lx701/

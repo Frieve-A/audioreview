@@ -7,6 +7,7 @@ lang: en
 ref: teac-ai-303
 date: 2025-08-05
 rating: [3.3, 0.7, 0.8, 0.4, 0.7, 0.7]
+price: 799
 summary: "Compact DAC-amplifier integrated unit featuring Hypex Ncore module. While incorporating high-quality technology, cost-performance shows room for improvement when compared to products with equivalent functionality."
 tags: [Class D, DAC, Desktop, ESS, Hypex, Integrated amplifier]
 permalink: /products/en/teac-ai-303/

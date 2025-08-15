@@ -7,6 +7,7 @@ lang: ja
 ref: hiby-rs6
 date: 2025-08-11
 rating: [2.6, 0.7, 0.8, 0.3, 0.6, 0.2]
+price: 215000
 summary: "離散R2R DACアーキテクチャを採用した高級デジタルオーディオプレイヤー。印象的な技術設計だが、スマートフォン代替品との比較でコストパフォーマンスに疑問"
 tags: [Android, Darwin Architecture, HiBy, R2R, デジタルオーディオプレイヤー, デジタルオーディオプレーヤー]
 permalink: /products/ja/hiby-rs6/

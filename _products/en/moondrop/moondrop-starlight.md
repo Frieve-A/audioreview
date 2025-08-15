@@ -7,7 +7,7 @@ lang: en
 ref: moondrop-starlight
 date: 2025-07-27
 rating: [3.1, 0.6, 0.7, 0.5, 0.6, 0.7]
-price: 27000
+price: 180
 summary: "A Japan-exclusive IEM featuring a 10mm dynamic driver with Mg-Li alloy dome and DSP functionality, but cost-performance challenges emerge when compared to multi-driver configurations in the same price range"
 tags: [DSP, Dynamic driver, In-ear monitors, Japan Exclusive, Moondrop]
 permalink: /products/en/moondrop-starlight/

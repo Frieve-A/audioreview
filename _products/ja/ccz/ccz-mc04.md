@@ -7,6 +7,7 @@ lang: ja
 ref: ccz-mc04
 date: 2025-07-28
 rating: [3.6, 0.7, 0.7, 0.9, 0.6, 0.7]
+price: 4200
 summary: "CCZ MC04は28USD価格帯のハイブリッドIEMとして、1DD+1BA構成で温かみのあるV字サウンドを提供するが、測定性能面での透明性達成には課題がある。"
 tags: [CCZ, インイヤーモニター, ハイブリッド, バジェット]
 permalink: /products/ja/ccz-mc04/

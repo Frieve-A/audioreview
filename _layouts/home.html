@@ -172,6 +172,20 @@ layout: default
             <span class="rating-stars">★</span>
           </div>
           <p class="product-summary">{{ product.summary }}</p>
+          
+          {% if product.price %}
+          <div class="product-price">
+            <span class="price-label">{% if page.lang == 'ja' %}参考価格{% else %}Reference Price{% endif %}:</span>
+            <span class="price-value">
+              {% if page.lang == 'ja' %}
+                {{ product.price | number_with_commas }} 円
+              {% else %}
+                {{ product.price | number_with_commas }} USD
+              {% endif %}
+            </span>
+          </div>
+          {% endif %}
+          
           <time class="product-date" datetime="{{ product.date | date: '%Y-%m-%d' }}">
             {% if page.lang == 'ja' %}{{ product.date | date: '%Y年%m月%d日' }}{% else %}{{ product.date | date: '%B %d, %Y' }}{% endif %}
           </time>

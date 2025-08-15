@@ -7,6 +7,7 @@ lang: ja
 ref: benchmark-dac3hgc
 date: 2025-07-25
 rating: [2.9, 0.9, 0.6, 0.3, 0.8, 0.3]
+price: 398000
 summary: "業界最高水準の測定性能を誇るプロ向けDAC・ヘッドホンアンプ・プリアンプ一体型機。しかし、約1/4の価格で同等以上の機能・性能を持つ代替品が存在するため、コストパフォーマンスと設計思想の合理性は著しく低い評価となる。"
 tags: [DAC, ヘッドホンアンプ, プリアンプ, ESS, プロオーディオ, 高価格]
 permalink: /products/ja/benchmark-dac3hgc/

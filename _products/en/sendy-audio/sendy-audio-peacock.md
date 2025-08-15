@@ -7,6 +7,7 @@ lang: en
 ref: sendy-audio-peacock
 date: 2025-07-28
 rating: [2.0, 0.2, 0.6, 0.2, 0.5, 0.5]
+price: 1467
 summary: "A planar magnetic headphone with a high-quality appearance but suffers from serious issues in acoustic measurement performance. Its cost-performance is extremely low, as products with equivalent or superior performance are available for less than a fifth of the price."
 tags: [Headphones, Open-back, Planar magnetic, Premium]
 permalink: /products/en/sendy-audio-peacock/

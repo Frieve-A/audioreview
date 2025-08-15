@@ -7,6 +7,7 @@ lang: en
 ref: presonus-eris-e4-5
 date: 2025-07-20
 rating: [3.1, 0.4, 0.6, 0.9, 0.6, 0.6]
+price: 133
 summary: "The PreSonus Eris E4.5 is a nearfield monitor featuring a 4.5-inch woofer. With a limited 70Hz-20kHz frequency response and undocumented distortion specifications, it has significant technical limitations. While affordable at approximately 133 USD, superior alternatives like the M-Audio BX5 D3 offer better performance at a similar price, resulting in a lower cost-performance rating."
 tags: [Active Monitor, Budget, Near-field, PreSonus, Studio monitors]
 permalink: /products/en/presonus-eris-e4-5/

@@ -7,6 +7,7 @@ lang: en
 ref: yamaha-ns-10m
 date: 2025-07-23
 rating: [2.0, 0.3, 0.6, 0.5, 0.2, 0.4]
+price: 200
 summary: "Legendary studio monitor released in 1978. Over 20 years since discontinuation, it is significantly inferior in performance compared to current technology standards."
 tags: [Speakers, Monitor Speakers, Nearfield Monitors, Studio Equipment, Vintage, Discontinued]
 permalink: /products/en/yamaha-ns-10m/

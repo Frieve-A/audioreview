@@ -7,6 +7,7 @@ lang: en
 ref: sony-mdr-1000x
 date: 2025-08-11
 rating: [3.3, 0.4, 0.6, 0.9, 0.7, 0.7]
+price: 161
 summary: "Discontinued 2016 wireless noise-cancelling headphones with effective ANC but problematic frequency response and poor cost-performance against current alternatives"
 tags: [Discontinued, Headphones, Noise cancelling, Wireless]
 permalink: /products/en/sony-mdr-1000x/

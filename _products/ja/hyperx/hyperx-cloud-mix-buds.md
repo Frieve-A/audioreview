@@ -7,6 +7,7 @@ lang: ja
 ref: hyperx-cloud-mix-buds
 date: 2025-07-15
 rating: [3.5, 0.5, 0.6, 1.0, 0.7, 0.7]
+price: 12000
 summary: "低遅延ゲーミング機能を重視した設計で競合より優れたコストパフォーマンスを実現"
 tags: [ゲーミングイヤホン, 低遅延, True Wireless, HyperX]
 permalink: /products/ja/hyperx-cloud-mix-buds/

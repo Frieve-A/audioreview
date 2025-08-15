@@ -7,6 +7,7 @@ lang: en
 ref: topping-d50iii
 date: 2025-07-08
 rating: [4.0, 0.9, 0.8, 0.6, 0.9, 0.8]
+price: 229
 summary: "Desktop DAC with dual ES9039Q2M chips. Measurement performance at highest level with multiple functions, but limited CP due to competitive products in price range"
 tags: [Desktop DAC, ES9039Q2M, Bluetooth, PEQ, Preamp Function]
 permalink: /products/en/topping-d50iii/

@@ -7,6 +7,7 @@ lang: en
 ref: ssl-e-series-eq-module
 date: 2025-08-09
 rating: [3.6, 0.5, 0.7, 0.9, 0.7, 0.8]
+price: 700
 summary: "A parametric equalizer porting the legendary EQ from the 1980s SSL 4000 E console to the 500 series. Despite featuring both Brown/Black EQ types, limited transparency and high pricing pose challenges by modern standards."
 tags: [SSL, EQ, 500series, Parametric, Analog]
 permalink: /products/en/ssl-e-series-eq-module/

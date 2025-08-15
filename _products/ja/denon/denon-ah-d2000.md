@@ -7,6 +7,7 @@ lang: ja
 ref: denon-ah-d2000
 date: 2025-08-09
 rating: [2.5, 0.4, 0.6, 0.3, 0.7, 0.5]
+price: 60000
 summary: "密閉型オーバーイヤーの上位機。50mmマイクロファイバー振動板、マグネシウム合金フレーム、Acoustic Optimizerを採用。公称25Ω/106dB/mW、再生周波数帯域5–45,000Hz。現在は生産終了で中古市場中心の流通"
 tags: [ヘッドホン, 密閉型, マイクロファイバー, 生産終了, 中古市場]
 permalink: /products/ja/denon-ah-d2000/

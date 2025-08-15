@@ -7,6 +7,7 @@ lang: ja
 ref: adv-model-3-live
 date: 2025-08-01
 rating: [2.5, 0.6, 0.5, 0.4, 0.4, 0.6]
+price: 12000
 summary: "ADVのModel 3 Liveは、MMCX端子とハイレゾ対応を謳うイヤーモニターです。しかし、同等以上の機能を持つ製品がより低価格で市場に多数存在するため、79.99USDという価格設定は競争力に課題があります。"
 tags: [MMCX, インイヤーモニター, ダイナミックドライバー, ハイレゾ, プロオーディオ]
 permalink: /products/ja/adv-model-3-live/

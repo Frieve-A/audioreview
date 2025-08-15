@@ -7,6 +7,7 @@ lang: ja
 ref: bose-quietcomfort-earbuds-2024
 date: 2025-07-26
 rating: [2.7, 0.6, 0.7, 0.4, 0.4, 0.6]
+price: 26400
 summary: "優秀なANC性能と長い再生時間を実現した一方、音質面での妥協と接続問題が指摘される完全ワイヤレスイヤホン。同等機能製品との価格競争力に課題があります。"
 tags: [完全ワイヤレスイヤホン, アクティブノイズキャンセリング, Bluetooth]
 permalink: /products/ja/bose-quietcomfort-earbuds-2024/

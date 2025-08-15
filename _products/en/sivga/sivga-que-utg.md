@@ -7,6 +7,7 @@ lang: en
 ref: sivga-que-utg
 date: 2025-07-25
 rating: [2.3, 0.6, 0.7, 0.2, 0.4, 0.4]
+price: 107
 summary: "Revolutionary IEM featuring world's first Ultra-Thin Glass (UTG) diaphragm. Achieves high technology level through NEG glass diaphragm, but significantly inferior cost-performance due to existence of low-priced competitors with equivalent functionality."
 tags: [SIVGA, Earphones, In-Ear Monitors, Glass Diaphragm, UTG, Dynamic]
 permalink: /products/en/sivga-que-utg/

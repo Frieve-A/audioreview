@@ -7,6 +7,7 @@ lang: ja
 ref: bose-soundlink-mini-ii
 date: 2025-07-25
 rating: [1.8, 0.3, 0.4, 0.2, 0.5, 0.4]
+price: 27000
 summary: "コンパクトながら中域の明瞭さを持つポータブルスピーカーだが、物理的制約による低音不足と時代遅れの仕様、そして極めて高い価格設定により、科学的有効性とコストパフォーマンスで著しく劣る製品。"
 tags: [Bluetooth, ポータブルスピーカー, Bose, コンパクト]
 permalink: /products/ja/bose-soundlink-mini-ii/

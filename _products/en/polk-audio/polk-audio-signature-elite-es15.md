@@ -7,6 +7,7 @@ lang: en
 ref: polk-audio-signature-elite-es15
 date: 2025-07-18
 rating: [3.0, 0.5, 0.4, 0.9, 0.6, 0.6]
+price: 313
 summary: "The Polk Audio Signature Elite ES15 is a bookshelf speaker that offers standard measured performance for its price range and provides excellent cost-performance."
 tags: [2-Way, Bookshelf, Hi-Res Certified, Passive speakers]
 permalink: /products/en/polk-audio-signature-elite-es15/

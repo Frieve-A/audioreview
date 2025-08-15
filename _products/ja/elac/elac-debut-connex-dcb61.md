@@ -7,6 +7,7 @@ lang: ja
 ref: elac-debut-connex-dcb61
 date: 2025-07-08
 rating: [3.4, 0.6, 0.6, 0.7, 0.7, 0.8]
+price: 134850
 summary: "ELAC Debut ConneX DCB61は899USDのアクティブスピーカーだが、同等機能を持つ製品が大幅に安価で入手可能でコストパフォーマンスは極めて低い。"
 tags: [アクティブスピーカー, デスクトップ, Bluetooth, ELAC]
 permalink: /products/ja/elac-debut-connex-dcb61/

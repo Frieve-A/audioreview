@@ -7,6 +7,7 @@ lang: en
 ref: sabaj-d5
 date: 2025-08-10
 rating: [3.3, 0.9, 0.6, 0.5, 0.5, 0.8]
+price: 470
 summary: "Desktop DAC/amplifier using ES9038PRO chip achieving excellent measured performance but facing strong competition from cheaper alternatives"
 tags: [DAC, Headphone-amplifier, Desktop, ES9038PRO, Balanced]
 permalink: /products/en/sabaj-d5/

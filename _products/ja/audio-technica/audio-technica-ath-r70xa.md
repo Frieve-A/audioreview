@@ -7,6 +7,7 @@ lang: ja
 ref: audio-technica-ath-r70xa
 date: 2025-07-12
 rating: [3.6, 0.8, 0.7, 0.5, 0.8, 0.8]
+price: 52350
 summary: "ATH-R70xaは470Ω高インピーダンス設計によるプロ仕様の開放型リファレンスヘッドホンですが、159USDのATH-R50xなどの代替品と比較してコストパフォーマンスは大幅に劣ります。"
 tags: [プロ用, ヘッドホン, リファレンス, 開放型, 高インピーダンス]
 permalink: /products/ja/audio-technica-ath-r70xa/

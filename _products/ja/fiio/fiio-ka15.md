@@ -7,6 +7,7 @@ lang: ja
 ref: fiio-ka15
 date: 2025-08-14
 rating: [4.0, 0.7, 0.7, 1.0, 0.7, 0.9]
+price: 15000
 summary: "デュアルCS43198 DAC、最大560mWバランス出力、10バンドPEQとカラーLCDを備えるミッドレンジUSB DAC/アンプです。"
 tags: [DAC, アンプ, ポータブル, USB, バランス]
 permalink: /products/ja/fiio-ka15/

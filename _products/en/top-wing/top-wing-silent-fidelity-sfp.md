@@ -7,6 +7,7 @@ lang: en
 ref: top-wing-silent-fidelity-sfp
 date: 2025-07-25
 rating: [1.6, 0.2, 0.7, 0.1, 0.5, 0.1]
+price: 293
 summary: "The world's first audio-grade SFP module for network audio. While providing optical isolation, it faces significant challenges in scientific validity and cost-effectiveness."
 tags: [Digital, Network audio, Optical Isolation, SFP Module]
 permalink: /products/en/top-wing-silent-fidelity-sfp/

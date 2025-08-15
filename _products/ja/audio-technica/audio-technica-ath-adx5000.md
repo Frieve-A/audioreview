@@ -7,6 +7,7 @@ lang: ja
 ref: audio-technica-ath-adx5000
 date: 2025-07-26
 rating: [2.5, 0.4, 0.8, 0.1, 0.7, 0.5]
+price: 208500
 summary: "高度な技術を投入したフラッグシップ開放型ヘッドホンだが、測定性能に問題があり、コストパフォーマンスが極めて劣る"
 tags: [オーディオテクニカ, ダイナミック型, フラッグシップ, ヘッドホン, 開放型]
 permalink: /products/ja/audio-technica-ath-adx5000/

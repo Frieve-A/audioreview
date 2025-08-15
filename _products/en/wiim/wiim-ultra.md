@@ -7,6 +7,7 @@ lang: en
 ref: wiim-ultra
 date: 2025-07-08
 rating: [4.4, 0.9, 0.8, 0.9, 0.8, 1.0]
+price: 329
 summary: "Integrated streamer-preamp with ES9038Q2M DAC (329 USD). SNR 121dB, THD+N -116dB, 3.5-inch touchscreen, HDMI ARC, phono input. Perfect functional integration and transparency-level measurements as dedicated equipment."
 tags: [DAC, Ess, Hdmi-arc, Network streamer, Preamps, Touchscreen]
 permalink: /products/en/wiim-ultra/

@@ -7,6 +7,7 @@ lang: en
 ref: top-wing-data-iso-box
 date: 2025-07-25
 rating: [1.4, 0.2, 0.4, 0.1, 0.4, 0.3]
+price: 367
 summary: "A 367 USD 5-port switch marketed for audio-dedicated network isolation. It claims to improve audio quality based on scientifically unfounded principles, while its basic functions are identical to generic products available in the 20 USD range."
 tags: [Network Equipment, Audio Accessories, Switching Hub]
 permalink: /products/en/top-wing-data-iso-box/

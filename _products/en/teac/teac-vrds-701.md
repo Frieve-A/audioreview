@@ -7,6 +7,7 @@ lang: en
 ref: teac-vrds-701
 date: 2025-08-10
 rating: [3.2, 0.8, 0.8, 0.3, 0.7, 0.6]
+price: 3999
 summary: "TEAC's 70th anniversary CD player featuring the advanced VRDS mechanism and proprietary discrete DAC. While technically competent with excellent build quality, its extremely high price cannot be justified against more cost-effective alternatives."
 tags: [CD player, DAC, Hi-Res, MQA, TEAC, Anniversary edition]
 permalink: /products/en/teac-vrds-701/

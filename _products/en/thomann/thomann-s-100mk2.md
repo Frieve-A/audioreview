@@ -7,6 +7,7 @@ lang: en
 ref: thomann-s-100mk2
 date: 2025-07-21
 rating: [1.9, 0.2, 0.3, 0.4, 0.5, 0.5]
+price: 252
 summary: "The Thomann S-100mk2 is a stereo power amplifier with 2x65W(8Ω) output. Key performance data like THD and SNR are not provided, raising significant concerns about its scientific validity and cost-performance compared to modern, high-performance amplifiers."
 tags: [Class AB, Germany, Power amplifier, Professional, Thomann]
 permalink: /products/en/thomann-s-100mk2/

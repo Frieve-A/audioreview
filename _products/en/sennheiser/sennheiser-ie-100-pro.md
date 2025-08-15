@@ -7,6 +7,7 @@ lang: en
 ref: sennheiser-ie-100-pro
 date: 2025-07-18
 rating: [3.6, 0.7, 0.6, 0.5, 0.9, 0.9]
+price: 95
 summary: "The Sennheiser IE 100 PRO is an in-ear monitor that offers high sound isolation and accurate sound reproduction, making it suitable for stage and studio use."
 tags: [In-ear monitors, Monitoring, Professional, Sennheiser, Wired]
 permalink: /products/en/sennheiser-ie-100-pro/

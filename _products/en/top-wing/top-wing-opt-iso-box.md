@@ -7,6 +7,7 @@ lang: en
 ref: top-wing-opt-iso-box
 date: 2025-07-27
 rating: [1.2, 0.1, 0.3, 0.1, 0.4, 0.3]
+price: 264
 summary: "A LAN isolator for network audio that employs optical isolation technology, but presents significant issues in both scientific validity and cost-effectiveness relative to its approximately 267 USD price point."
 tags: [LAN Isolator, Network audio, Noise Suppression, Optical Conversion]
 permalink: /products/en/top-wing-opt-iso-box/

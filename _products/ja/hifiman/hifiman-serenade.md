@@ -7,6 +7,7 @@ lang: ja
 ref: hifiman-serenade
 date: 2025-07-27
 rating: [3.7, 0.9, 0.8, 0.6, 0.6, 0.8]
+price: 172260
 summary: "HiFiMan SerenadeはHimalaya PRO R2R DACとClass Aアンプを組み合わせた多機能なデスクトップDAC/アンプですが、より安価な代替構成が存在するためコストパフォーマンスが評価のポイントとなります。"
 tags: [A級, DAC, R2R, デスクトップオーディオ, ヘッドホンアンプ]
 permalink: /products/ja/hifiman-serenade/

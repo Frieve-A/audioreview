@@ -7,6 +7,7 @@ lang: en
 ref: sony-ht-st5000
 date: 2025-08-13
 rating: [2.2, 0.3, 0.3, 0.4, 0.6, 0.6]
+price: 1499
 summary: "A 2017-era 7.1.2 Dolby Atmos soundbar whose measured response is uneven; with better-featured, cheaper modern options available, its value is poor today."
 tags: [Soundbar, Dolby Atmos, Home Theater, Sony]
 permalink: /products/en/sony-ht-st5000/

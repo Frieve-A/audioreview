@@ -7,6 +7,7 @@ lang: en
 ref: sony-sa-z1
 date: 2025-08-04
 rating: [3.3, 0.7, 0.8, 0.3, 0.8, 0.7]
+price: 7999
 summary: "Sony's premium nearfield active speaker featuring advanced GaN amplification and I-Array tweeter arrangement, though challenged by cost-performance considerations."
 tags: [Active speakers, Desktop, Hi-Res Compatible, Nearfield Monitor]
 permalink: /products/en/sony-sa-z1/

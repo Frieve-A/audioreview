@@ -7,6 +7,7 @@ lang: ja
 ref: dynaudio-acoustics-bm6a
 date: 2025-08-02
 rating: [2.3, 0.5, 0.6, 0.2, 0.4, 0.6]
+price: 250000
 summary: "Dynaudio Acoustics BM6Aは6.5インチ2ウェイアクティブニアフィールドモニターとして確立された技術を採用していますが、生産終了モデルでありながら中古市場で高価格を維持しており、同等機能を大幅に安価で実現する現行競合製品の存在により、コストパフォーマンスが極めて低くなっています。"
 tags: [スタジオモニター, アクティブスピーカー, ニアフィールド, デンマーク]
 permalink: /products/ja/dynaudio-acoustics-bm6a/

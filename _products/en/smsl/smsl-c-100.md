@@ -7,6 +7,7 @@ lang: en
 ref: smsl-c-100
 date: 2025-07-31
 rating: [3.8, 0.8, 0.7, 1.0, 0.6, 0.7]
+price: 119
 summary: "An entry-level DAC combining a compact design with high-resolution support. Features an AK4493S chip delivering excellent measurement performance, though technical originality is limited. Considering its feature set, it boasts class-leading cost-performance."
 tags: [DAC, SMSL, AK4493S, USB, Bluetooth, MQA, Compact]
 permalink: /products/en/smsl-c-100/

@@ -7,6 +7,7 @@ lang: en
 ref: wgzblon-v1
 date: 2025-08-01
 rating: [3.2, 0.8, 0.3, 1.0, 0.4, 0.7]
+price: 41
 summary: "Portable DAC/amp featuring dual CS43131 DAC chips. Achieves excellent measurement performance and superior cost-performance compared to competing products."
 tags: [Amp, Balanced output, CS43131, DAC, Portable, Single-ended Output]
 permalink: /products/en/wgzblon-v1/

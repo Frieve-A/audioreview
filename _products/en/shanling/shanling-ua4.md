@@ -7,6 +7,7 @@ lang: en
 ref: shanling-ua4
 date: 2025-08-05
 rating: [3.4, 0.8, 0.7, 0.7, 0.5, 0.7]
+price: 99
 summary: "99 USD compact portable DAC/amp featuring ESS ES9069Q. Shows excellent measurement performance but limited cost-performance compared to 70 USD DUNU DTC-480."
 tags: [Balanced output, Dual Output, ESS, Headphone amplifier, Portable DAC]
 permalink: /products/en/shanling-ua4/

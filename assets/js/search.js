@@ -438,6 +438,12 @@ class SearchEngine {
           <span class="rating-stars">★</span>
         </div>
         <p class="search-result-summary">${SearchCommon.escapeHtml(item.summary)}</p>
+        ${item.price ? `
+          <div class="product-card-price">
+            <span class="price-label">${SearchCommon.getCurrentLanguage() === 'ja' ? '参考価格' : 'Reference Price'}:</span>
+            <span class="price-value">${this.formatPrice(item.price)} ${SearchCommon.getCurrentLanguage() === 'ja' ? '円' : 'USD'}</span>
+          </div>
+        ` : ''}
         ${item.tags.length > 0 ? `
           <div class="search-result-tags">
             ${item.tags.map(tag => `<span class="tag">${SearchCommon.escapeHtml(tag)}</span>`).join('')}
@@ -454,6 +460,16 @@ class SearchEngine {
       return rating[0] !== null && !isNaN(rating[0]) ? rating[0].toFixed(1) : 'N/A';
     }
     return typeof rating === 'number' ? rating.toFixed(1) : (rating || 'N/A');
+  }
+
+  formatPrice(price) {
+    if (price === null || price === undefined || isNaN(price)) {
+      return 'N/A';
+    }
+    
+    // Convert to number and format with commas
+    const numPrice = Number(price);
+    return numPrice.toLocaleString();
   }
 }
 

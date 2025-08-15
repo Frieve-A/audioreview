@@ -7,6 +7,7 @@ lang: en
 ref: smsl-da-8s
 date: 2025-08-12
 rating: [2.7, 0.5, 0.4, 1.0, 0.3, 0.5]
+price: 206.99
 summary: "Discontinued integrated amplifier featuring 80W Class-D power with Bluetooth (aptX) and balanced XLR input at budget pricing"
 tags: [Integrated amplifier, Class D, Bluetooth, Discontinued, Budget, China]
 permalink: /products/en/smsl-da-8s/

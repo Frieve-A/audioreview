@@ -7,6 +7,7 @@ lang: ja
 ref: atomic-floyd-super-darts-titanium
 date: 2025-08-01
 rating: [1.4, 0.2, 0.4, 0.1, 0.4, 0.3]
+price: 59850
 summary: "チタン製ハイブリッドドライバー搭載のイヤホンですが、10kHz付近の鋭い共振ピークと中域の陥没により音質に深刻な問題があります。発売価格399米ドルに対し、30米ドル程度の現代的なハイブリッドイヤホンで同等以上の性能が得られるため、コストパフォーマンスは極めて劣悪です。"
 tags: [イヤホン, チタン, ハイブリッドドライバー, 高価格]
 permalink: /products/ja/atomic-floyd-super-darts-titanium/

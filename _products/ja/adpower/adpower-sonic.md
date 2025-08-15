@@ -7,6 +7,7 @@ lang: ja
 ref: adpower-sonic
 date: 2025-08-02
 rating: [1.1, 0.1, 0.2, 0.2, 0.5, 0.1]
+price: 6990
 summary: "静電気除去をうたうオーディオ機器用シートだが、科学的根拠に欠け、極めて高価な疑似科学製品"
 tags: [オーディオアクセサリー, 静電気除去, EMI対策]
 permalink: /products/ja/adpower-sonic/

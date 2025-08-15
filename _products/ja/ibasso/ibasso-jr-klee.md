@@ -7,6 +7,7 @@ lang: ja
 ref: ibasso-jr-klee
 date: 2025-07-28
 rating: [3.1, 0.6, 0.7, 0.4, 0.7, 0.7]
+price: 12375
 summary: "ステンレス製筐体と1.6Tマグネットを搭載した10mmダイナミックドライバーIEMですが、同等機能の安価な代替製品が存在するため、コストパフォーマンスに課題があります。"
 tags: [インイヤーモニター, エントリークラス, ステンレス, ダイナミックドライバー]
 permalink: /products/ja/ibasso-jr-klee/

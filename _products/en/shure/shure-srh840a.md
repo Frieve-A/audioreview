@@ -7,6 +7,7 @@ lang: en
 ref: shure-srh840a
 date: 2025-07-30
 rating: [3.2, 0.6, 0.5, 0.7, 0.8, 0.6]
+price: 149
 summary: "The Shure SRH840A is a closed-back monitor headphone that employs conventional 40mm neodymium drivers. While facing cost-performance challenges compared to competitors in the same price range, it maintains recognition through the reliability of the Shure brand."
 tags: [Headphones, Monitor, Closed-back, Studio]
 permalink: /products/en/shure-srh840a/

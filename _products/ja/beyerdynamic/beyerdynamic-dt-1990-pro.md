@@ -7,6 +7,7 @@ lang: ja
 ref: beyerdynamic-dt-1990-pro-mkii
 date: 2025-07-31
 rating: [3.7, 0.8, 0.7, 0.4, 0.8, 1.0]
+price: 101200
 summary: "TESLA.45ドライバーを搭載し30Ωの低インピーダンス設計を採用したドイツ製オープンバック・スタジオヘッドホン。前世代のトレブルピーク問題を改善し音質透明度を向上させたが、コストパフォーマンスは同等機能の競合製品と比較して劣る。"
 tags: [MKII, Tesla, beyerdynamic, オープンバック, スタジオモニター, ヘッドホン]
 permalink: /products/ja/beyerdynamic-dt-1990-pro-mkii/

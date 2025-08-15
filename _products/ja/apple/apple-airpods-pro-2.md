@@ -7,6 +7,7 @@ lang: ja
 ref: apple-airpods-pro-2
 date: 2025-07-08
 rating: [3.1, 0.6, 0.7, 0.6, 0.6, 0.6]
+price: 37500
 summary: "Apple AirPods Pro 2は優れたANCと使いやすさを持つが、同等性能の格安製品存在により科学的評価とCPで課題"
 tags: [Apple, H2チップ, アクティブノイズキャンセリング, アダプティブEQ, ワイヤレスイヤホン]
 permalink: /products/ja/apple-airpods-pro-2/

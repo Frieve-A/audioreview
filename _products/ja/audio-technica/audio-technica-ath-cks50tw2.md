@@ -7,6 +7,7 @@ lang: ja
 ref: audio-technica-ath-cks50tw2
 date: 2025-07-20
 rating: [3.1, 0.6, 0.5, 0.7, 0.7, 0.6]
+price: 18920
 summary: "Audio-Technica ATH-CKS50TW2は9mmドライバーとハイブリッドノイズキャンセリングを搭載した完全ワイヤレスイヤホンです。最大50時間のバッテリー寿命を誇りますが、音質の科学的改善は限定的で、よりコストパフォーマンスに優れた選択肢が存在します。"
 tags: [完全ワイヤレスイヤホン, ノイズキャンセリング, Bluetooth, 低音強化, IPX4]
 permalink: /products/ja/audio-technica-ath-cks50tw2/

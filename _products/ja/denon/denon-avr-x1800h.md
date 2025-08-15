@@ -7,6 +7,7 @@ lang: ja
 ref: denon-avr-x1800h
 date: 2025-08-02
 rating: [3.3, 0.7, 0.5, 0.9, 0.7, 0.5]
+price: 72600
 summary: "7.2チャンネル対応のAVレシーバー。測定性能は良好ですが、技術的には標準的。より安価な競合製品が存在するため、コストパフォーマンスは最高評価には及びません。"
 tags: [AVレシーバー, ホームシアター, 7.2チャンネル, Dolby Atmos, 8K対応]
 permalink: /products/ja/denon-avr-x1800h/

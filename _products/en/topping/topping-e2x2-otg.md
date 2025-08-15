@@ -7,6 +7,7 @@ lang: en
 ref: topping-e2x2-otg
 date: 2025-07-30
 rating: [3.9, 0.9, 0.8, 1.0, 0.4, 0.8]
+price: 149
 summary: "The Topping E2x2 is a USB audio interface with excellent measurement performance and an NFCA-LE headphone amplifier. It achieves ADC THD+N <0.0003% and DAC THD+N <0.001%, significantly exceeding transparency levels at an outstanding cost-performance, but faces challenges in corporate reliability and support."
 tags: [Audio interface, DAC, Headphone amplifier, Recording, USB]
 permalink: /products/en/topping-e2x2-otg/

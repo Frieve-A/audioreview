@@ -7,6 +7,7 @@ lang: en
 ref: wharfedale-diamond-220
 date: 2025-08-02
 rating: [3.0, 0.5, 0.5, 1.0, 0.5, 0.5]
+price: 274
 summary: "The Wharfedale Diamond 220 is a 2-way bookshelf speaker from the established British manufacturer. While its measured performance doesn't reach the highest modern standards, it offers excellent cost-performance."
 tags: [2-Way Speaker, Bookshelf speakers, Passive speakers, Wharfedale]
 permalink: /products/en/wharfedale-diamond-220/

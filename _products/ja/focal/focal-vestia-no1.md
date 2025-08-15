@@ -7,6 +7,7 @@ lang: ja
 ref: focal-vestia-no1
 date: 2025-07-30
 rating: [3.0, 0.5, 0.8, 0.4, 0.8, 0.5]
+price: 165000
 summary: "Focalが2023年に発表したVestiaシリーズのエントリーモデル。6.5インチSlatefiber振動板と1インチTAMツイーターを搭載した2ウェイブックシェルフスピーカー。同社の上位技術を継承しつつ手頃な価格を実現しているが、現在の市場価格が確認困難であり、競合製品との正確な比較検証に課題があります。"
 tags: [Focal, ブックシェルフスピーカー, Slatefiber, TAMツイーター, フランス製]
 permalink: /products/ja/focal-vestia-no1/

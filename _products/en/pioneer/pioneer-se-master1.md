@@ -7,6 +7,7 @@ lang: en
 ref: pioneer-se-master1
 date: 2025-07-18
 rating: [1.3, 0.3, 0.4, 0.1, 0.2, 0.3]
+price: 1727
 summary: "Despite being a handcrafted premium headphone priced at 1,727 USD, it exhibits significantly low cost-performance in basic specifications"
 tags: [Headphones, Japan, Open-back, Premium]
 permalink: /products/en/pioneer-se-master1/

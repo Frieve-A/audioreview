@@ -7,6 +7,7 @@ lang: en
 ref: smsl-a100
 date: 2025-07-20
 rating: [3.2, 0.6, 0.4, 1.0, 0.6, 0.6]
+price: 93
 summary: "A compact Class-D amplifier featuring the Infineon MA12070 chip, combining good measurement performance with excellent cost-performance."
 tags: [Amplifiers, Bluetooth, Class D, Compact, SMSL]
 permalink: /products/en/smsl-a100/

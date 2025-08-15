@@ -7,6 +7,7 @@ lang: en
 ref: smsl-a300
 date: 2025-08-13
 rating: [2.7, 0.6, 0.6, 0.4, 0.6, 0.5]
+price: 196
 summary: "A budget Class D amplifier offering BTL bridging capability and Bluetooth connectivity, but hampered by modest measured performance that falls short of equally-priced competitors."
 tags: [BTL, Bluetooth, Budget, Class D, Desktop, Power amplifier]
 permalink: /products/en/smsl-a300/

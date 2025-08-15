@@ -7,6 +7,7 @@ lang: ja
 ref: aiyima-a07-max
 date: 2025-07-22
 rating: [2.5, 0.6, 0.4, 0.8, 0.4, 0.3]
+price: 13950
 summary: "TPA3255チップを採用したクラスDアンプ。公称性能は高いものの、実測では課題も。多機能性を持つ一方、設計思想は必ずしも合理的とは言えない。"
 tags: [D級, TPA3255, パワーアンプ, 中華製品]
 permalink: /products/ja/aiyima-a07-max/

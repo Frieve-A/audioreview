@@ -7,6 +7,7 @@ lang: ja
 ref: denafrips-enyo-15th
 date: 2025-08-10
 rating: [2.0, 0.5, 0.3, 0.3, 0.6, 0.3]
+price: 104850
 summary: "独自アーキテクチャを持つエントリーレベルR2R DACですが、科学的有効性が低く、現代の代替製品と比べてコストパフォーマンスが極めて劣悪"
 tags: [DAC, R2R, Denafrips, デジタル・アナログ・コンバーター, バランス]
 permalink: /products/ja/denafrips-enyo-15th/

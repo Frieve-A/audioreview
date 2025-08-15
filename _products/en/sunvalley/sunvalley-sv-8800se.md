@@ -7,6 +7,7 @@ lang: en
 ref: sunvalley-sv-8800se
 date: 2025-08-13
 rating: [0.9, 0.1, 0.2, 0.0, 0.5, 0.1]
+price: 2320
 summary: "Multi-tube push-pull vacuum tube amplifier kit specified at 55W (8Ω, THD 10%). Compared to Fosi Audio V3 (with 48V PSU) at 109.99 USD achieving higher 8Ω output with THD <0.003% and SNR ≥110 dB, measured performance is problematic and cannot be justified for transparent-level audio reproduction"
 tags: [DIY Kit, KT150, KT170, Power amplifier, Push-Pull, Vacuum Tube Amplifier]
 permalink: /products/en/sunvalley-sv-8800se/

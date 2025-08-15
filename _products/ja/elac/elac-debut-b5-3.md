@@ -7,6 +7,7 @@ lang: ja
 ref: elac-debut-b5-3
 date: 2025-08-04
 rating: [2.9, 0.5, 0.6, 0.4, 0.7, 0.7]
+price: 52500
 summary: "ELAC Debut 3.0 B5.3は前世代から改良されたブックシェルフスピーカーですが、コストパフォーマンス面で同等機能を持つより安価な選択肢が存在します"
 tags: [2ウェイ, Aramid, Bookshelf, ELAC]
 permalink: /products/ja/elac-debut-b5-3/

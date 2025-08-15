@@ -7,6 +7,7 @@ lang: ja
 ref: ascilab-c6b
 date: 2025-07-29
 rating: [3.8, 0.8, 0.7, 0.9, 0.5, 0.9]
+price: 165000
 summary: "測定主導の設計思想により業界最高水準の音響性能を実現し、その価格に見合う競争力を持つ2ウェイブックシェルフスピーカー"
 tags: [ブックシェルフスピーカー, AsciLab, 測定主導設計, ウェーブガイド, 低歪率]
 permalink: /products/ja/ascilab-c6b/

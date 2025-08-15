@@ -7,6 +7,7 @@ lang: ja
 ref: audio-technica-ath-m40x
 date: 2025-07-20
 rating: [2.7, 0.6, 0.4, 0.6, 0.6, 0.5]
+price: 14082
 summary: "スタジオモニターヘッドホンとして設計されていますが、現在の市場ではより安価な同等性能の代替製品が存在するため、コストパフォーマンスに課題があります。"
 tags: [オーディオテクニカ, スタジオモニター, ヘッドホン, 密閉型]
 permalink: /products/ja/audio-technica-ath-m40x/

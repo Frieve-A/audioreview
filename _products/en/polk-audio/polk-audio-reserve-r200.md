@@ -7,6 +7,7 @@ lang: en
 ref: polk-audio-reserve-r200
 date: 2025-07-18
 rating: [3.6, 0.7, 0.6, 0.9, 0.8, 0.6]
+price: 699
 summary: "The Polk Audio Reserve R200 is a bookshelf speaker featuring proprietary driver technology from higher-end models. Backed by a reliable brand, its value is mainly determined by cost-effectiveness, as more affordable alternatives with comparable performance exist."
 tags: [Bookshelf speakers, Polk Audio, R200, Reserve]
 permalink: /products/en/polk-audio-reserve-r200/

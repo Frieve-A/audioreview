@@ -7,6 +7,7 @@ lang: ja
 ref: fiio-snowsky-retro-nano
 date: 2025-07-29
 rating: [3.7, 0.8, 0.6, 1.0, 0.5, 0.8]
+price: 10000
 summary: "レトロなデザインと最新技術を融合させたコンパクトなBluetoothDAC/アンプ。4.4mmバランス出力と交換式バッテリーを搭載し、高いコストパフォーマンスを実現。"
 tags: [FiiO, SNOWSKY, Bluetooth, DAC, アンプ, ポータブル, レトロ, バランス接続]
 permalink: /products/ja/fiio-snowsky-retro-nano/

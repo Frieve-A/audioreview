@@ -7,6 +7,7 @@ lang: ja
 ref: akg-k92
 date: 2025-08-10
 rating: [2.4, 0.2, 0.6, 0.5, 0.7, 0.4]
+price: 8580
 summary: "AKGのエントリーレベル・クローズドバック・スタジオモニターヘッドホン"
 tags: [エントリークラス, クローズドバック, スタジオモニター, ヘッドホン]
 permalink: /products/ja/akg-k92/

@@ -7,6 +7,7 @@ lang: en
 ref: smsl-d400es
 date: 2025-08-14
 rating: [4.2, 0.9, 0.8, 0.9, 0.6, 1.0]
+price: 550
 summary: "High-performance ESS ES9039MSPRO DAC with top-class lab results and rich I/O (I2S/AES, full MQA). US price 549.99 USD; against the similarly full-featured DO200 MKII (469 USD) its price advantage is modest."
 tags: [DAC, Digital-to-Analog-Converter, ESS-Sabre, MQA, Bluetooth, Desktop-Audio]
 permalink: /products/en/smsl-d400es/

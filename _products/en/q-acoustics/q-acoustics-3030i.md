@@ -7,6 +7,7 @@ lang: en
 ref: q-acoustics-3030i
 date: 2025-07-08
 rating: [3.9, 0.8, 0.7, 0.9, 0.7, 0.8]
+price: 399
 summary: "Bookshelf speaker with 6.5-inch woofer developed by British Q Acoustics. Features frequency response of 46Hz-30kHz (+3dB/-6dB) and 88dB efficiency, with acoustic design excellence in midrange expression. At USD 399 (approximately 400 USD), it offers a rational choice compared to competitors like Wharfedale Diamond 12.2 and KEF Q350."
 tags: [3000i Series, Bookshelf, Q Acoustics, Speakers, United Kingdom]
 permalink: /products/en/q-acoustics-3030i/

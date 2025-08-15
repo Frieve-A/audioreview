@@ -7,6 +7,7 @@ lang: en
 ref: topping-b100
 date: 2025-07-19
 rating: [3.1, 0.8, 0.8, 0.4, 0.3, 0.8]
+price: 598
 summary: "The Topping B100 is a Class AB monoblock power amplifier that achieves excellent measured performance, but its cost-performance is questionable as an equivalent product is available for less than half the price."
 tags: [Amplifiers, Class AB, Monoblock, Topping]
 permalink: /products/en/topping-b100/

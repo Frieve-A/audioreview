@@ -7,6 +7,7 @@ lang: ja
 ref: activo-volcano
 date: 2025-07-28
 rating: [2.6, 0.5, 0.5, 0.3, 0.6, 0.7]
+price: 12400
 summary: "Astell&Kernの子会社Activoが手がけるトリプルダイナミックドライバー搭載IEM。12,400円の価格で複数の接続端子を備えますが、測定性能で定評がありはるかに安価な7Hz Salnotes Zero:2が約4,000円で入手可能なため、コストパフォーマンスに大きな課題があります。"
 tags: [Activo, インイヤーモニター, ダイナミックドライバー]
 permalink: /products/ja/activo-volcano/

@@ -7,6 +7,7 @@ lang: ja
 ref: 1more-comfobuds-mini
 date: 2025-07-15
 rating: [2.6, 0.4, 0.5, 0.8, 0.4, 0.5]
+price: 12990
 summary: "超小型設計を重視したANC搭載ワイヤレスイヤホン。重量3.7gという軽量性は評価できるが、基本的な音響性能や技術的優位性に乏しく、価格に対する競争力も低い。"
 tags: [1MORE, アクティブノイズキャンセリング, ワイヤレスイヤホン, 小型設計]
 permalink: /products/ja/1more-comfobuds-mini/

@@ -7,6 +7,7 @@ lang: ja
 ref: audient-id48
 date: 2025-08-12
 rating: [4.1, 0.7, 0.7, 1.0, 0.8, 0.9]
+price: 149850
 summary: "優秀なプリアンプとコンバーターを搭載したプロフェッショナル8チャンネルオーディオインターフェース。レビュー時点で同等以上かつより安価な代替は確認できませんでした。"
 tags: [8-Channel, USB-C, オーディオインターフェース, プロ用, 録音]
 permalink: /products/ja/audient-id48/

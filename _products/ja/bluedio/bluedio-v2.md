@@ -7,6 +7,7 @@ lang: ja
 ref: bluedio-v2
 date: 2025-08-07
 rating: [2.3, 0.5, 0.4, 0.8, 0.3, 0.3]
+price: 9750
 summary: "12ドライバー搭載を謳う低価格Bluetoothヘッドホン。科学的測定データの不足と独自構成の合理性に疑問。同価格帯でより優秀な選択肢が存在する。"
 tags: [Bluetooth, オーバーイヤー, ワイヤレスヘッドホン, 低価格]
 permalink: /products/ja/bluedio-v2/

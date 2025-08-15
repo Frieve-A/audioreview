@@ -7,6 +7,7 @@ lang: ja
 ref: esi-amber-i4
 date: 2025-07-20
 rating: [3.6, 0.8, 0.6, 1.0, 0.6, 0.6]
+price: 38000
 summary: "ESI Amber i4は、公称スペックにおいて優れた測定性能とクラス最高のコストパフォーマンスを両立した4in/4outオーディオインターフェースです。"
 tags: [オーディオインターフェース, USB-C, 24bit/192kHz, 4in/4out, DTM]
 permalink: /products/ja/esi-amber-i4/

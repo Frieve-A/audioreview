@@ -7,6 +7,7 @@ lang: ja
 ref: dali-menuet
 date: 2025-08-07
 rating: [2.7, 0.4, 0.7, 0.2, 0.8, 0.6]
+price: 207900
 summary: "DALIの小型ブックシェルフスピーカーMenuetは、デンマークの確立されたメーカーによる堅実な設計と品質を持つが、同等性能をより安価に実現する競合製品の存在により、コストパフォーマンスで大きく劣る製品です。"
 tags: [ブックシェルフスピーカー, DALI, デンマーク, 2ウェイ]
 permalink: /products/ja/dali-menuet/

@@ -7,6 +7,7 @@ lang: en
 ref: yamaha-ns-460
 date: 2025-07-21
 rating: [1.6, 0.3, 0.2, 0.5, 0.2, 0.4]
+price: 147
 summary: "A 2-way bass reflex speaker released in the early 1980s featuring a 20cm woofer and 5cm radial tweeter with titanium dome structure. Without actual measurement data, objective performance evaluation remains inconclusive, though the basic acoustic design principles appear sound. Cost-performance evaluation is complicated by unverified vintage market pricing and methodological challenges in comparing 40-year-old equipment with modern alternatives requiring different usage considerations."
 tags: [Yamaha, Vintage, NS-460, 2-Way, Bass-Reflex]
 permalink: /products/en/yamaha-ns-460/

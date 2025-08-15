@@ -7,6 +7,7 @@ lang: en
 ref: trinnov-audio-nova
 date: 2025-07-14
 rating: [3.7, 0.9, 0.9, 0.3, 0.8, 0.8]
+price: 3490
 summary: "A high-performance processor from a pioneer in room correction technology. Features excellent measurement performance and unique 3D microphones, but faces cost-performance challenges compared to products with equivalent functionality."
 tags: [Acoustic Correction, Dirac Live, Preamplifier, Processors, Room correction]
 permalink: /products/en/trinnov-audio-nova/

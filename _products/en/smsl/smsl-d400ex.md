@@ -7,6 +7,7 @@ lang: en
 ref: smsl-d400ex
 date: 2025-08-14
 rating: [3.9, 0.8, 0.7, 0.9, 0.7, 0.8]
+price: 959.99
 summary: "Dual AK4499EX + AK4191 flagship DAC with published 0.00006% THD+N and 133 dB DR (XLR), extensive I/O (USB/Optical/Coax/BT/I2S/AES), and third-party measurements confirming transparent performance. At 959.99 USD it offers solid value versus the cheapest equivalent rival."
 tags: [DAC, Desktop DAC, High-end, AKM, China, Hi-Res]
 permalink: /products/en/smsl-d400ex/

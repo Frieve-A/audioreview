@@ -7,6 +7,7 @@ lang: en
 ref: stax-sr-x9000
 date: 2025-07-19
 rating: [2.8, 0.8, 0.9, 0.1, 0.5, 0.5]
+price: 4620
 summary: "STAX's new flagship, the SR-X9000, boasts a high level of technology with its MILER-3 driver, but its overall rating is hampered by whether its performance justifies a system cost exceeding 6667 USD."
 tags: [Electrostatic Headphones, Flagship, Open-back, STAX, Japan]
 permalink: /products/en/stax-sr-x9000/

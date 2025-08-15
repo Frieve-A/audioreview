@@ -7,6 +7,7 @@ lang: ja
 ref: anker-soundcore-space-one
 date: 2025-07-20
 rating: [2.4, 0.3, 0.4, 1.0, 0.4, 0.3]
+price: 8490
 summary: "8490円の価格でノイズキャンセリング機能を搭載したワイヤレスヘッドホンですが、科学的有効性と技術レベルの面で大きな制約があります。"
 tags: [ワイヤレスヘッドホン, ノイズキャンセリング, LDAC, Bluetooth, オーバーイヤー]
 permalink: /products/ja/anker-soundcore-space-one/

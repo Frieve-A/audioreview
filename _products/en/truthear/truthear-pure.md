@@ -7,6 +7,7 @@ lang: en
 ref: truthear-pure
 date: 2025-07-14
 rating: [3.8, 0.7, 0.8, 0.7, 0.7, 0.9]
+price: 90
 summary: "The Pure, launched as Hexa's successor, features a 1DD+3BA configuration with improved design, achieving balanced sound quality in the 89.99USD price range IEM. While it achieves sound quality improvements through scientifically-based design improvements, it faces challenges in cost-performance."
 tags: [Hybrid Driver, In-ear monitors, Multi-driver, Truthear]
 permalink: /products/en/truthear-pure/

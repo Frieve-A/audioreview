@@ -7,6 +7,7 @@ lang: ja
 ref: electro-voice-tx1152
 date: 2025-07-25
 rating: [3.2, 0.6, 0.7, 0.6, 0.7, 0.6]
+price: 201278
 summary: "15インチ2ウェイパッシブスピーカーとして標準的な性能を持つが、競合製品と比較してコストパフォーマンスは中程度の評価となる製品"
 tags: [PA機器, パッシブスピーカー, 15インチ, 2ウェイ, ライブサウンド]
 permalink: /products/ja/electro-voice-tx1152/

@@ -7,6 +7,7 @@ lang: en
 ref: sennheiser-hd-599
 date: 2025-08-02
 rating: [2.5, 0.6, 0.5, 0.4, 0.6, 0.4]
+price: 195
 summary: "Open-back headphones featuring warm sound signature, but faces challenges in measurement performance and price competitiveness"
 tags: [Headphones, Open-back, Over-ear, Sennheiser]
 permalink: /products/en/sennheiser-hd-599/

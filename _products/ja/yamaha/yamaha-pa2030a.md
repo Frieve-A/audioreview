@@ -7,7 +7,7 @@ lang: ja
 ref: yamaha-pa2030a
 date: 2025-08-13
 rating: [4.0, 0.6, 0.7, 1.0, 0.8, 0.9]
-price: 28000
+price: 50850
 summary: "Lo-Z/Hi-Z両対応と堅実な歪・帯域スペックを備えた商業施設向けアンプ。等性能帯の70V/100V機との比較でも価格面は競争力あり"
 tags: [70Vライン, D級, パワーアンプ, プロオーディオ, 商業施設]
 permalink: /products/ja/yamaha-pa2030a/

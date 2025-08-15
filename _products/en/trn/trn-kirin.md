@@ -7,6 +7,7 @@ lang: en
 ref: trn-kirin
 date: 2025-08-14
 rating: [2.6, 0.5, 0.5, 0.6, 0.5, 0.5]
+price: 130
 summary: "14.5mm planar magnetic IEM with modular nozzles and swappable plugs; basic performance with cheaper, better-measured alternatives available"
 tags: [Budget Audio, In-ear monitors, Planar magnetic, TRN]
 permalink: /products/en/trn-kirin/

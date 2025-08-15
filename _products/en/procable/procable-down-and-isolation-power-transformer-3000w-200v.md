@@ -7,6 +7,7 @@ lang: en
 ref: procable-down-and-isolation-power-transformer-3000w-200v
 date: 2025-07-26
 rating: [2.5, 0.3, 0.5, 0.6, 0.6, 0.5]
+price: 787
 summary: "Procable's 200V dedicated 3000W step-down transformer. While it features a solid conventional design, a careful decision is needed from a cost-performance perspective as cheaper industrial alternatives exist."
 tags: [Power Transformer, Isolation, Procable, 200V, 3000W]
 permalink: /products/en/procable-down-and-isolation-power-transformer-3000w-200v/

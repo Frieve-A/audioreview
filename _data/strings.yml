@@ -61,6 +61,7 @@ en:
   sort_by: "Sort by:"
   search_on_google: "Search on Google"
   search_on_amazon: "Search on Amazon"
+  reference_price: "Reference Price"
   # Product categories
   product_categories: "Product Categories"
   # 404
@@ -131,6 +132,7 @@ ja:
   sort_by: "並び替え:"
   search_on_google: "Googleで検索"
   search_on_amazon: "Amazonで検索"
+  reference_price: "参考価格"
   # Product categories
   product_categories: "製品カテゴリごとのレビュー"
   # 404

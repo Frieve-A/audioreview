@@ -7,6 +7,7 @@ lang: ja
 ref: fx-audio-dac-sq5j
 date: 2025-08-05
 rating: [3.5, 0.8, 0.6, 0.8, 0.4, 0.9]
+price: 15380
 summary: "PCM1794A搭載の小型DAC。測定性能とコストパフォーマンスは優秀だが、信頼性・サポートに課題あり"
 tags: [DAC, PCM1794A, USB DAC, デスクトップオーディオ, 中華DAC]
 permalink: /products/ja/fx-audio-dac-sq5j/

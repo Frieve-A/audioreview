@@ -7,6 +7,7 @@ lang: ja
 ref: dali-rubikore-6
 date: 2025-07-26
 rating: [3.3, 0.8, 0.7, 0.3, 0.7, 0.8]
+price: 520000
 summary: "デンマークDALI社の高級フロアスタンディングスピーカー。38Hz-34kHzの周波数特性とハイブリッドツイーター技術により優れた音質を実現。約52万円（ペア）の価格は、ELAC Debut 2.0 F5.2（約15万円）が42Hz-35kHzの同等特性を提供することを考慮すると、コストパフォーマンスで課題がある。"
 tags: [DALI, フロアスタンディングスピーカー, デンマーク, ハイブリッドツイーター, SMC技術]
 permalink: /products/ja/dali-rubikore-6/

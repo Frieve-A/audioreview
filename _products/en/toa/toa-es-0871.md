@@ -7,6 +7,7 @@ lang: en
 ref: toa-es-0871
 date: 2025-07-24
 rating: [2.5, 0.5, 0.4, 0.8, 0.3, 0.5]
+price: 200
 summary: "The TOA ES-0871 is a 600W 2-way professional speaker, discontinued in 2021. Featuring a 38cm woofer and a CD horn with a 70-20,000Hz frequency response, it lacks modern measurement data and is based on a conventional design."
 tags: [2-Way, Discontinued, Professional, Speakers, TOA]
 permalink: /products/en/toa-es-0871/

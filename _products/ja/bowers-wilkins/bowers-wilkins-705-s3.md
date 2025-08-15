@@ -7,6 +7,7 @@ lang: ja
 ref: bowers-wilkins-705-s3
 date: 2025-07-31
 rating: [3.1, 0.7, 0.7, 0.5, 0.4, 0.8]
+price: 510000
 summary: "科学的測定では標準レベルの性能を示すが、コストパフォーマンスに課題があり、サポート体制にも問題が見られる高級ブックシェルフスピーカー"
 tags: [Bowers & Wilkins, パッシブスピーカー, ブックシェルフスピーカー, 高級]
 permalink: /products/ja/bowers-wilkins-705-s3/

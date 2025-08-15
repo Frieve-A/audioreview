@@ -7,6 +7,7 @@ lang: en
 ref: sony-nw-a306
 date: 2025-08-04
 rating: [2.6, 0.4, 0.5, 0.8, 0.4, 0.5]
+price: 240
 summary: "Entry-level Hi-Res DAP with Android OS, but limited scientific audio advantages and inferior cost-performance compared to competitors."
 tags: [Android, DAP, Hi-Res, Portable, Sony]
 permalink: /products/en/sony-nw-a306/

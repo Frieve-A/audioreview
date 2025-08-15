@@ -7,6 +7,7 @@ lang: ja
 ref: devialet-astra
 date: 2025-08-13
 rating: [3.2, 0.6, 0.8, 0.3, 0.9, 0.6]
+price: 3000000
 summary: "ADH技術と高級美学を組み合わせたフランス製インテグレートアンプ、超プレミアム価格設定"
 tags: [D級, インテグレートアンプ, ストリーミング, ハイブリッド, フランス]
 permalink: /products/ja/devialet-astra/

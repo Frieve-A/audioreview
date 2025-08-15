@@ -7,6 +7,7 @@ lang: ja
 ref: fiio-qx13
 date: 2025-08-09
 rating: [4.1, 0.6, 0.9, 1.0, 0.7, 0.9]
+price: 32850
 summary: "ESS ES9027PRO DACチップを搭載したFiiOのフラッグシップ・ポータブルDAC/アンプ。カーボンファイバー構造とデスクトップモードにより高性能を実現"
 tags: [DAC, FiiO, ハイレゾ, バランス出力, ヘッドホンアンプ, ポータブルオーディオ]
 permalink: /products/ja/fiio-qx13/

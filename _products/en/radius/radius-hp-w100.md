@@ -7,6 +7,7 @@ lang: en
 ref: radius-hp-w100
 date: 2025-08-12
 rating: [1.9, 0.5, 0.4, 0.1, 0.5, 0.4]
+price: 260
 summary: "DDM dual-driver aluminum IEM with proprietary technology, no third-party measurements, and poor cost-performance versus measured alternatives at 260 USD"
 tags: [Aluminum, Dynamic driver, High-Resolution, In-ear monitors, Wired]
 permalink: /products/en/radius-hp-w100/

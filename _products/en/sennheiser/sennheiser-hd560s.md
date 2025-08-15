@@ -7,6 +7,7 @@ lang: en
 ref: sennheiser-hd560s
 date: 2025-07-24
 rating: [3.8, 0.8, 0.7, 0.8, 0.8, 0.7]
+price: 114
 summary: "The highly-regarded HD560S demonstrates excellent performance in many areas. However, competing products with equivalent or superior performance are available at a lower price, so its cost-performance does not achieve the highest rating, making comparison crucial before purchase."
 tags: [Headphones, Open-back, Neutral, Mid-range]
 permalink: /products/en/sennheiser-hd560s/

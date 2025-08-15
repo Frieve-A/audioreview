@@ -7,6 +7,7 @@ lang: en
 ref: sony-srs-x88
 date: 2025-07-31
 rating: [2.7, 0.3, 0.6, 0.5, 0.3, 1.0]
+price: 399
 summary: "90W multi-room speaker released in 2015. Features LDAC support and Hi-Res audio capabilities, but faces challenges with THD performance and current availability"
 tags: [Bluetooth Speaker, Discontinued, Hi-Res, LDAC, Multi-room, Sony]
 permalink: /products/en/sony-srs-x88/

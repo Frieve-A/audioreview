@@ -7,6 +7,7 @@ lang: ja
 ref: dcs-vivaldi-apex-dac
 date: 2025-07-25
 rating: [2.9, 0.9, 0.9, 0.0, 0.8, 0.3]
+price: 6975000
 summary: "dCSの最高峰DACは技術的に優秀だが、設計思想の合理性に乏しく、測定性能で上回る選択肢が1/50以下の価格で存在するため、コストパフォーマンスは皆無。"
 tags: [DAC, ハイエンド, dCS, デジタルオーディオ, Ring DAC]
 permalink: /products/ja/dcs-vivaldi-apex-dac/

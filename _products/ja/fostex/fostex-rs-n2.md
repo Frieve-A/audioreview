@@ -7,6 +7,7 @@ lang: ja
 ref: fostex-rs-n2
 date: 2025-08-08
 rating: [3.5, 0.7, 0.4, 0.9, 0.8, 0.7]
+price: 300000
 summary: "Fostex RS-N2は業務用に特化した3ウェイリファレンスモニターで、独自の技術を採用する一方、受注生産による入手難と現行のDSP内蔵一体型モニターとは設計思想が異なる"
 tags: [3ウェイ, アクティブスピーカー, スタジオモニター, フォステクス, プロオーディオ, 業務用]
 permalink: /products/ja/fostex-rs-n2/

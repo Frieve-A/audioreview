@@ -7,6 +7,7 @@ lang: en
 ref: procable-isolation-power-transformer-600w
 date: 2025-07-26
 rating: [2.5, 0.3, 0.4, 1.0, 0.6, 0.2]
+price: 319
 summary: "ProCable's 600W isolation transformer provides a theoretically valid solution for power noise, though it lacks objective data. The company's marketing approach raises significant rationality concerns, but the product is a rare find as a 600W finished unit."
 tags: [Power Equipment, Isolation, Guitar, ProCable, 600W]
 permalink: /products/en/procable-isolation-power-transformer-600w/

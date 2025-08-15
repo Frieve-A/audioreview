@@ -7,6 +7,7 @@ lang: en
 ref: svs-sb-1000-pro
 date: 2025-07-25
 rating: [4.0, 0.7, 0.6, 1.0, 0.9, 0.8]
+price: 599
 summary: "12-inch sealed subwoofer featuring advanced DSP control. Characterized by high adjustability via its proprietary app and industry-leading support."
 tags: [Subwoofer, Sealed, DSP, SVS, Home Theater]
 permalink: /products/en/svs-sb-1000-pro/

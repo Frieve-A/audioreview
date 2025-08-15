@@ -7,6 +7,7 @@ lang: en
 ref: yamaha-sr-x40a
 date: 2025-07-07
 rating: [3.5, 0.8, 0.8, 0.3, 0.8, 0.8]
+price: 500
 summary: "YAMAHA's True X Bar 40A delivers 180W Dolby Atmos with 6 drivers and built-in subwoofer for under 500 USD. While offering excellent immersive sound and winning EISA's 'Best Soundbar System 2023-2024', it faces strong cost-performance challenges from alternatives like the Hisense AX5125H and Sony HT-S2000 that provide similar Dolby Atmos capabilities at significantly lower prices."
 tags: [YAMAHA, Soundbar, Dolby Atmos, 2.1.2 Channel, Built-in Subwoofer]
 permalink: /products/en/yamaha-sr-x40a/

@@ -7,6 +7,7 @@ lang: ja
 ref: audio-technica-at33ev
 date: 2025-07-12
 rating: [2.0, 0.2, 0.3, 0.4, 0.8, 0.3]
+price: 57420
 summary: "MCカートリッジとして高度な技術要素を持つが、絶対的な忠実度はデジタルに及ばない。より安価で高性能なMMカートリッジの存在により、コストパフォーマンスに課題が残る。"
 tags: [MC, アナログ, オーディオテクニカ, カートリッジ]
 permalink: /products/ja/audio-technica-at33ev/

@@ -7,6 +7,7 @@ lang: en
 ref: rational-acoustics-rta420-v2
 date: 2025-07-18
 rating: [2.8, 0.4, 0.5, 1.0, 0.5, 0.4]
+price: 83
 summary: "The Rational Acoustics RTA-420 is a measurement microphone known for its affordability and is a decent entry-level option, but lacks the precision of individually calibrated microphones."
 tags: [Measurement Microphone, Acoustic Measurement, Rational Acoustics, RTA-420]
 permalink: /products/en/rational-acoustics-rta420-v2/

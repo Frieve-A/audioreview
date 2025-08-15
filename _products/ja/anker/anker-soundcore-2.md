@@ -7,6 +7,7 @@ lang: ja
 ref: anker-soundcore-2
 date: 2025-07-19
 rating: [2.5, 0.4, 0.3, 1.0, 0.5, 0.3]
+price: 4990
 summary: "12W出力のポータブルBluetoothスピーカー。24時間の長時間再生とIPX7防水性能を備えるが、音質面では測定性能が限定的。同性能クラスでは最高のコストパフォーマンスを誇る。"
 tags: [Anker, Bluetoothスピーカー, エントリークラス, ポータブル, 防水]
 permalink: /products/ja/anker-soundcore-2/

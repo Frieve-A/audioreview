@@ -7,6 +7,7 @@ lang: en
 ref: yamaha-b-1
 date: 2025-08-10
 rating: [1.3, 0.5, 0.3, 0.2, 0.2, 0.1]
+price: 2000
 summary: "Vintage V-FET amplifier with outdated performance and poor cost-effectiveness"
 tags: [Power amplifier, V-FET, Vintage]
 permalink: /products/en/yamaha-b-1/

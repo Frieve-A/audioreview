@@ -7,6 +7,7 @@ lang: en
 ref: rotel-rmb-1506
 date: 2025-07-28
 rating: [3.4, 0.7, 0.5, 0.6, 1.0, 0.6]
+price: 632
 summary: "A 6-channel, 50W multi-channel power amplifier. While it offers good measurement performance, its adherence to conventional Class AB design and cost-performance challenges make it less competitive against modern high-performance, low-cost Class D amplifiers."
 tags: [6-channel, Class AB, Japan, Multi-channel, Power amplifier]
 permalink: /products/en/rotel-rmb-1506/

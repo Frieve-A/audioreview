@@ -7,6 +7,7 @@ lang: ja
 ref: antelope-audio-zen-quadro-synergy-core
 date: 2025-08-14
 rating: [3.7, 0.8, 0.7, 1.0, 0.4, 0.8]
+price: 92950
 summary: "最大130dBクラスのコンバーター、デュアルUSB-C（2ホスト同時）接続、DCカップリングI/O、豊富なリアルタイムDSP/FPGA処理を、コンパクトなバスパワー筐体に収めたデスクトップIFです。"
 tags: [オーディオインターフェース, USB-C, DSP, コンバーター, デスクトップ]
 permalink: /products/ja/antelope-audio-zen-quadro-synergy-core/

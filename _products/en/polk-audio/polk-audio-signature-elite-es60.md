@@ -7,6 +7,7 @@ lang: en
 ref: polk-audio-signature-elite-es60
 date: 2025-08-02
 rating: [2.7, 0.4, 0.6, 0.7, 0.5, 0.5]
+price: 900
 summary: "The Polk Audio Signature Elite ES60 is a floor-standing speaker with deep bass reproduction capabilities, but faces challenges in achieving transparent audio reproduction due to a resonance peak around 550Hz and elevated high frequencies."
 tags: [Floor Standing Speaker, Hi-Res, Polk Audio, Tower Speaker]
 permalink: /products/en/polk-audio-signature-elite-es60/

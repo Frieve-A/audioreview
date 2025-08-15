@@ -7,6 +7,7 @@ lang: ja
 ref: creative-pebble
 date: 2025-08-13
 rating: [2.5, 0.4, 0.3, 1.0, 0.5, 0.3]
+price: 3673
 summary: "25 USDという低価格で購入できるUSB電源デスクトップスピーカー。合計4.4W RMSの出力、周波数特性100Hz–17kHz、SNR 86 dB（公称）を備える[1]。測定データの第三者公開は限定的だが、エントリー用途で必要十分な基本性能を提供する。現行市場で同等以上の機能・性能を備えたより安価な代替は確認できず、価格妥当性は高い[1][2][4]。"
 tags: [Creative, デスクトップスピーカー, USB電源, 予算]
 permalink: /products/ja/creative-pebble/

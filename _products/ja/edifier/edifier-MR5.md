@@ -7,6 +7,7 @@ lang: ja
 ref: edifier-MR5
 date: 2025-07-23
 rating: [3.0, 0.5, 0.7, 0.7, 0.6, 0.5]
+price: 39980
 summary: "tri-amped構成とBluetooth 6.0対応が特徴の5インチアクティブスタジオモニター。39,980円という価格に対し、Bluetooth搭載の競合製品「Pioneer DJ DM-50D-BT」が約29,700円で存在するため、コストパフォーマンスは平均をやや上回る評価となります。"
 tags: [Bluetooth対応, アクティブスピーカー, スタジオモニター, ハイレゾ, 中国製]
 permalink: /products/ja/edifier-MR5/

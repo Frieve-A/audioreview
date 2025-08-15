@@ -7,6 +7,7 @@ lang: en
 ref: tanchjim-origin
 date: 2025-08-12
 rating: [2.8, 0.7, 0.6, 0.3, 0.8, 0.4]
+price: 259.99
 summary: "Single dynamic driver IEM featuring Tanchjim's 5th-generation DMT technology with excellent build quality but limited cost-performance versus state-of-the-art budget IEMs (e.g., Truthear Gate)."
 tags: [Dynamic driver, Hi-Fi, In-ear monitors, Single DD, Tanchjim]
 permalink: /products/en/tanchjim-origin/

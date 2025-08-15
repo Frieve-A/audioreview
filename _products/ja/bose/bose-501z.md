@@ -7,6 +7,7 @@ lang: ja
 ref: bose-501z
 date: 2025-08-03
 rating: [1.5, 0.2, 0.3, 0.2, 0.4, 0.4]
+price: 20000
 summary: "1988年発売のAcoustimassサテライトスピーカーシステム。現代の測定基準では著しく劣る音響性能と低いコストパフォーマンスが問題"
 tags: [Acoustimass, サテライトスピーカー, サブウーファー, ビンテージ]
 permalink: /products/ja/bose-501z/

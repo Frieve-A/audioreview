@@ -7,6 +7,7 @@ lang: ja
 ref: dbx-rta-m
 date: 2025-07-18
 rating: [2.1, 0.6, 0.2, 0.4, 0.4, 0.5]
+price: 9555
 summary: "dbx RTA-Mは特定のDriveRackシステム専用の測定マイクとして設計されているが、汎用性に欠け、より安価で高性能な代替品が多数存在する。20Hz-20kHzのフラットレスポンスを謳うものの、独立した第三者による測定データは限定的で、同等機能をより低価格で提供する製品に対してコストパフォーマンスは極めて低い。"
 tags: [測定マイク, dbx, DriveRack, RTA, 音響測定]
 permalink: /products/ja/dbx-rta-m/

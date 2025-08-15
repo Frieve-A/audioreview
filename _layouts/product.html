@@ -6,6 +6,19 @@ layout: default
     {% include social_share.html %}
     <h1>{{ page.target_name }}</h1>
     
+    {% if page.price %}
+    <div class="product-price">
+      <span class="price-label">{{ site.data.strings[page.lang].reference_price }}:</span>
+      <span class="price-value">
+        {% if page.lang == 'ja' %}
+          <span class="price-number" data-price="{{ page.price }}">{{ page.price }}</span> 円
+        {% else %}
+          <span class="price-number" data-price="{{ page.price }}">{{ page.price }}</span> USD
+        {% endif %}
+      </span>
+    </div>
+    {% endif %}
+    
     {% assign current_company_id = page.company_id %}
     {% assign parent_company = site.companies | where: 'company_id', current_company_id | where: 'lang', page.lang | first %}
 

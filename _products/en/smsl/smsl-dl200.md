@@ -7,6 +7,7 @@ lang: en
 ref: smsl-dl200
 date: 2025-08-12
 rating: [3.8, 0.6, 0.8, 1.0, 0.6, 0.8]
+price: 189.99
 summary: "Desktop DAC/headphone amplifier featuring ES9039Q2M chip with excellent performance by specification and comprehensive connectivity, offering strong value at 189.99 USD"
 tags: [Bluetooth, DAC, Desktop, ESS, Headphone amplifier, MQA]
 permalink: /products/en/smsl-dl200/

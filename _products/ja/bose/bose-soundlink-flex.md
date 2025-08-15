@@ -7,6 +7,7 @@ lang: ja
 ref: bose-soundlink-flex
 date: 2025-07-07
 rating: [3.0, 0.7, 0.7, 0.4, 0.7, 0.5]
+price: 22350
 summary: "IP67防水、12時間バッテリー、PositionIQ技術を特徴とするBoseのコンパクトポータブルスピーカー。149ドルの通常価格（現在セール価格113ドル）で、JBL Clip 5（80ドル）やTribit StormBox Micro 2（60ドル）などの大幅に安価な代替製品と競争しており、これらは同様の機能をより良い価値提案で提供している。"
 tags: [Bluetooth, アメリカ, コンパクト, ポータブルスピーカー, 防水]
 permalink: /products/ja/bose-soundlink-flex/

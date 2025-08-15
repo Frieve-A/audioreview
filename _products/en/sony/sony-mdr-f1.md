@@ -7,6 +7,7 @@ lang: en
 ref: sony-mdr-f1
 date: 2025-08-04
 rating: [1.5, 0.2, 0.3, 0.4, 0.1, 0.5]
+price: 147
 summary: "Open-back headphones released in 1997. They exhibit significantly inferior frequency response by modern measurement standards, with remarkably low cost-performance compared to current products."
 tags: [Headphones, Open-back, Sony, Vintage, Discontinued]
 permalink: /products/en/sony-mdr-f1/

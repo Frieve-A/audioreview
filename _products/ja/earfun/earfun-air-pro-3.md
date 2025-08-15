@@ -7,6 +7,7 @@ lang: ja
 ref: earfun-air-pro-3
 date: 2025-07-15
 rating: [2.5, 0.4, 0.6, 1.0, 0.3, 0.2]
+price: 8490
 summary: "11mmウールコンポジットドライバーとQualcomm QCC3071チップセットを搭載した完全ワイヤレスイヤホン。ANC性能は43dB、バッテリー寿命は45時間を誇り、8,490円という価格設定は極めて高いコストパフォーマンスを示すが、測定データでは歪みが目立ち科学的有効性に課題がある。"
 tags: [Bluetooth5.3, aptX Adaptive, アクティブノイズキャンセリング, ワイヤレスイヤホン]
 permalink: /products/ja/earfun-air-pro-3/

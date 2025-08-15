@@ -7,6 +7,7 @@ lang: ja
 ref: anker-soundcore-liberty-5
 date: 2025-07-19
 rating: [2.6, 0.4, 0.6, 0.3, 0.7, 0.6]
+price: 20798
 summary: "Anker Soundcore Liberty 5は129.99USDの価格帯で基本的なANC機能とBluetooth接続を提供するワイヤレスイヤホンですが、同等機能を持つより安価な選択肢が存在し、コストパフォーマンス面で課題があります。"
 tags: [Anker, Bluetooth, アクティブノイズキャンセリング, ワイヤレスイヤホン]
 permalink: /products/ja/anker-soundcore-liberty-5/

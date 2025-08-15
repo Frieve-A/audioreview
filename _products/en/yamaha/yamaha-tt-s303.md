@@ -7,6 +7,7 @@ lang: en
 ref: yamaha-tt-s303
 date: 2025-07-07
 rating: [1.5, 0.2, 0.5, 0.1, 0.5, 0.2]
+price: 332
 summary: "A belt-drive turntable released in 2018. The measured wow and flutter of 0.20% is clearly insufficient from a modern high-fidelity reproduction perspective. With higher-performance options available at the same price point, it's difficult to identify any technical advantages."
 tags: [Japan, Belt-drive, Turntable, Analog, Record-player]
 permalink: /products/en/yamaha-tt-s303/

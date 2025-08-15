@@ -7,6 +7,7 @@ lang: ja
 ref: genelec-7040a
 date: 2025-08-11
 rating: [2.8, 0.7, 0.7, 0.2, 0.6, 0.6]
+price: 149250
 summary: "限られたスペースで制御された低域性能を実現するLSEテクノロジー搭載の超コンパクト業務用サブウーファー"
 tags: [サブウーファー, スタジオモニター, プロフェッショナル, Genelec, アクティブ, パワード]
 permalink: /products/ja/genelec-7040a/

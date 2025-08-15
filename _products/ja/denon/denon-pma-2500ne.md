@@ -7,6 +7,7 @@ lang: ja
 ref: denon-pma-2500ne
 date: 2025-08-05
 rating: [2.9, 0.3, 0.6, 0.8, 0.6, 0.6]
+price: 210000
 summary: "白河工場製の重厚なプリメインアンプで、先進機能搭載だがS/N比の実測値に乖離あり、外付けフォノ組み合わせ考慮時のコストパフォーマンスは中程度の製品"
 tags: [USB DAC, フォノ入力, プリメインアンプ, 日本]
 permalink: /products/ja/denon-pma-2500ne/

@@ -7,6 +7,7 @@ lang: ja
 ref: austrian-audio-hi-x15
 date: 2025-08-13
 rating: [3.1, 0.5, 0.6, 0.9, 0.5, 0.6]
+price: 14850
 summary: "44 mm Hi-Xドライバーを用いた入門クラスのクローズドバック型。メーカー仕様は明確ですが、Hi-X15固有の独立測定（FR/THD）は公開が限られており、現時点では暫定評価です。価格は99 USDでコストパフォーマンスは良好です。"
 tags: [Austrian Audio, Hi-X, クローズドバック, スタジオモニタリング, ヘッドホン]
 permalink: /products/ja/austrian-audio-hi-x15/

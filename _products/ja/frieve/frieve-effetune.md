@@ -7,6 +7,7 @@ lang: ja
 ref: frieve-effetune
 date: 2025-08-11
 rating: [3.7, 0.6, 0.7, 1.0, 0.6, 0.8]
+price: 0
 summary: "マルチプラットフォーム対応でリアルタイム音響エフェクト処理を行う無料オープンソースソフトウェア、科学的アプローチを重視"
 tags: [ソフトウェア, DSP, 無料, オープンソース, リアルタイム]
 permalink: /products/ja/frieve-effetune/

@@ -7,6 +7,7 @@ lang: en
 ref: presonus-prm1
 date: 2025-07-17
 rating: [1.7, 0.5, 0.2, 0.2, 0.4, 0.4]
+price: 132
 summary: "The PreSonus PRM1 is a condenser microphone designed specifically for acoustic measurement. At approximately 132 USD, it offers a linear frequency response from 20Hz-20kHz, but falls short of high-end competitors in measurement accuracy and technical level."
 tags: [Acoustic Measurement, Measurement Equipment, Microphones, PreSonus, RTA]
 permalink: /products/en/presonus-prm1/

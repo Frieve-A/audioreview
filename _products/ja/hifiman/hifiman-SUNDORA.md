@@ -7,6 +7,7 @@ lang: ja
 ref: hifiman-sundara
 date: 2025-07-22
 rating: [4.0, 0.8, 0.7, 1.0, 0.8, 0.7]
+price: 49500
 summary: "HiFiMAN SUNDARAは平面磁界技術を採用したミドルレンジのオープンバック型ヘッドホンです。優れた測定性能と科学的に有効な音質改善を実現しており、その価格帯において高い競争力を持ちます。"
 tags: [HiFiMAN, オープンバック, ヘッドホン, 平面磁界]
 permalink: /products/ja/hifiman-sundara/

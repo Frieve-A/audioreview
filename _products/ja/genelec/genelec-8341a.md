@@ -7,6 +7,7 @@ lang: ja
 ref: genelec-8341a
 date: 2025-07-30
 rating: [4.0, 0.8, 0.9, 0.5, 0.9, 0.9]
+price: 787600
 summary: "フィンランドの老舗Genelecが提供する最先端の3ウェイ・コアキシャル・スタジオモニター。SAM技術とGLM補正により測定性能は業界最高水準を達成しているものの、同等性能の代替品と比較して価格は約2倍となっている。"
 tags: [Coaxial, DSP, Professional Audio, アクティブスピーカー, スタジオモニター]
 permalink: /products/ja/genelec-8341a/

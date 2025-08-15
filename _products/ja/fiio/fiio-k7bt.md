@@ -7,6 +7,7 @@ lang: ja
 ref: fiio-k7bt
 date: 2025-07-09
 rating: [3.8, 0.8, 0.8, 0.6, 0.9, 0.7]
+price: 36800
 summary: "K7にBluetooth機能を追加したデスクトップDAC/アンプコンボ、ただしデスクトップでのBluetooth実装の必要性は疑問"
 tags: [Bluetooth, DAC/アンプコンボ, FiiO, デスクトップDAC, ヘッドホンアンプ]
 permalink: /products/ja/fiio-k7bt/

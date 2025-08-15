@@ -7,6 +7,7 @@ lang: en
 ref: sennheiser-hd-490-pro
 date: 2025-07-19
 rating: [4.0, 0.8, 0.7, 1.0, 0.8, 0.7]
+price: 400
 summary: "Professional open-back headphones featuring dual ear pad system. Good measurement performance but limited technical innovation."
 tags: [Headphones, Open-back, Professional, Studio monitors]
 permalink: /products/en/sennheiser-hd-490-pro/

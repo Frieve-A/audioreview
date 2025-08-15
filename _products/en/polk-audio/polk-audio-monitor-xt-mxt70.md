@@ -7,6 +7,7 @@ lang: en
 ref: polk-audio-monitor-xt-mxt70
 date: 2025-08-13
 rating: [3.2, 0.4, 0.5, 1.0, 0.8, 0.5]
+price: 299
 summary: "The Polk Audio Monitor XT MXT70 is a tower speaker priced at 299 USD each (manufacturer). While it offers wide frequency response and Hi-Res certification, third-party measurements indicate notable response irregularities and rising distortion at higher output levels, keeping it below transparent standards."
 tags: [Tower speakers, Hi-Res, Passive speakers, Polk Audio, Dolby Atmos]
 permalink: /products/en/polk-audio-monitor-xt-mxt70/

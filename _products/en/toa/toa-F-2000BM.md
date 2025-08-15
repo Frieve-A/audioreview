@@ -7,6 +7,7 @@ lang: en
 ref: toa-F-2000BM
 date: 2025-07-24
 rating: [3.1, 0.6, 0.4, 0.9, 0.7, 0.5]
+price: 179
 summary: "A 2-way compact speaker designed for commercial installations. It boasts excellent cost-performance that surpasses competitors in its class, but its evaluation is hampered by a lack of detailed acoustic performance data."
 tags: [2-Way, Commercial Sound, Compact Speaker, Professional, TOA]
 permalink: /products/en/toa-F-2000BM/

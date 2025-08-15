@@ -7,6 +7,7 @@ lang: en
 ref: top-wing-opt-lan-bridge
 date: 2025-07-25
 rating: [1.7, 0.2, 0.6, 0.1, 0.5, 0.3]
+price: 293
 summary: "A 293 USD (tax included) SFP/RJ45 media converter claiming audio-specific design. While basic functionality is equivalent to generic products costing 16 USD, it claims audio quality improvement effects with insufficient scientific basis."
 tags: [Media Converter, Network Equipment, Audio Accessories, SFP]
 permalink: /products/en/top-wing-opt-lan-bridge/

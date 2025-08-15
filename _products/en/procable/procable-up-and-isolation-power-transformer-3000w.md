@@ -7,6 +7,7 @@ lang: en
 ref: procable-up-and-isolation-power-transformer-3000w
 date: 2025-07-26
 rating: [1.9, 0.1, 0.3, 0.4, 0.6, 0.5]
+price: 1053
 summary: "A 3000W isolation transformer that steps up voltage from 200V to 230V. In addition to the lack of published measurement data, its cost-performance is questionable due to the existence of cheaper industrial alternatives."
 tags: [Power Transformer, Isolation, procable, 3000W]
 permalink: /products/en/procable-up-and-isolation-power-transformer-3000w/

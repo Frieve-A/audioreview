@@ -7,6 +7,7 @@ lang: ja
 ref: dali-spektor-6
 date: 2025-08-05
 rating: [2.8, 0.5, 0.5, 0.5, 0.7, 0.6]
+price: 89100
 summary: "エントリーレベルのフロアスタンディングスピーカーとして音楽的な魅力を持つが、科学的透明度と価格競争力に課題があります"
 tags: [2ウェイ, エントリークラス, デンマーク, フロアスタンディングスピーカー]
 permalink: /products/ja/dali-spektor-6/

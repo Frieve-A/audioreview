@@ -7,6 +7,7 @@ lang: ja
 ref: genelec-8351b
 date: 2025-08-01
 rating: [4.0, 0.8, 0.9, 0.5, 0.9, 0.9]
+price: 640000
 summary: "高度な技術と測定性能を持つプロフェッショナル向けニアフィールドモニター。独自の同軸設計とDSP補正は最高水準だが、価格は相応。"
 tags: [Active Monitor, Coaxial, DSP, Professional Audio, スタジオモニター]
 permalink: /products/ja/genelec-8351b/

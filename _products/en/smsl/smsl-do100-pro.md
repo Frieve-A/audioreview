@@ -7,6 +7,7 @@ lang: en
 ref: smsl-do100-pro
 date: 2025-07-31
 rating: [4.0, 0.9, 0.8, 1.0, 0.3, 1.0]
+price: 219
 summary: "Chi-Fi revolutionary delivering a flawless desktop DAC. World-class measurement performance with dual ES9039Q2M chips and overwhelming feature density including Bluetooth 5.1, HDMI ARC, and MQA support for 219 USD. No other product exists with such comprehensive functionality at this price point, earning a perfect cost-performance evaluation."
 tags: [China, DAC, Chi-Fi, ES9039Q2M, Bluetooth, MQA, DSD512]
 permalink: /products/en/smsl-do100-pro/

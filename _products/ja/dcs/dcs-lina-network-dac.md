@@ -7,6 +7,7 @@ lang: ja
 ref: dcs-lina-network-dac
 date: 2025-07-25
 rating: [3.1, 0.9, 0.8, 0.1, 0.7, 0.6]
+price: 1000000
 summary: "極めて優秀な測定性能を誇る高級ネットワークDAC。Ring DAC技術により透明レベルの音質を実現するが、同等性能を大幅に下回る価格で提供する競合製品が多数存在するため、コストパフォーマンスは極めて劣る。"
 tags: [Ring DAC, dCS, ストリーミング, ネットワークDAC, 高級]
 permalink: /products/ja/dcs-lina-network-dac/

@@ -7,6 +7,7 @@ lang: ja
 ref: audioengine-s6-powered-subwoofer
 date: 2025-08-13
 rating: [3.6, 0.5, 0.6, 1.0, 0.7, 0.8]
+price: 49940
 summary: "密閉型の6インチ・デスクトップ向けサブウーファー。公開仕様は明確ですが第三者測定は限定的。現時点で同等以上かつ安価な選択肢が見当たらずコストパフォーマンスは最大です"
 tags: [Compact, Powered, サブウーファー, デスクトップ]
 permalink: /products/ja/audioengine-s6-powered-subwoofer/

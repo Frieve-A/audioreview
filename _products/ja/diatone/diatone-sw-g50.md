@@ -7,6 +7,7 @@ lang: ja
 ref: diatone-sw-g50
 date: 2025-08-09
 rating: [3.0, 0.5, 0.6, 0.9, 0.5, 0.5]
+price: 55000
 summary: "三菱電機のカーオーディオ用サブウーファー。NCVダイアフラムと強力な磁気回路を採用するが、客観測定の公開が限られ総合的な競争力は限定的"
 tags: [Car Audio, Diatone, Mitsubishi, サブウーファー]
 permalink: /products/ja/diatone-sw-g50/

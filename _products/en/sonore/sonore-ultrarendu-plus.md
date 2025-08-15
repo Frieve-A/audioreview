@@ -7,6 +7,7 @@ lang: en
 ref: sonore-ultrarendu-plus
 date: 2025-08-11
 rating: [2.6, 0.4, 0.3, 1.0, 0.6, 0.3]
+price: 899
 summary: "Network audio streamer with claimed audiophile improvements but lacks measurable benefits over general-purpose alternatives"
 tags: [Digital Audio, Network streamer, Roon Ready, USB Bridge]
 permalink: /products/en/sonore-ultrarendu-plus/

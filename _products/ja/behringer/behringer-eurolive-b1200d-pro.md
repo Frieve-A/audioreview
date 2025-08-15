@@ -7,6 +7,7 @@ lang: ja
 ref: behringer-eurolive-b1200d-pro
 date: 2025-08-11
 rating: [2.6, 0.5, 0.4, 1.0, 0.4, 0.3]
+price: 55350
 summary: "基本的なPA機能を持つ予算重視の12インチパワードサブウーファーですが、代替製品と比較すると性能に大きな制限があります"
 tags: [サブウーファー, パワード, PA, ライブサウンド, 予算]
 permalink: /products/ja/behringer-eurolive-b1200d-pro/

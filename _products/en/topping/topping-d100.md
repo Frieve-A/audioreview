@@ -7,6 +7,7 @@ lang: en
 ref: topping-d100
 date: 2025-07-14
 rating: [3.9, 0.8, 0.7, 0.6, 0.9, 0.9]
+price: 150
 summary: "Entry-level DAC featuring ES9038K2M chip. Offers good basic performance but faces tough competition in its price range"
 tags: [Desktop DAC, ES9038K2M, Entry-level, USB DAC]
 permalink: /products/en/topping-d100/

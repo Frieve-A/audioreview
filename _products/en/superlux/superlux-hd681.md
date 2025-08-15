@@ -7,6 +7,7 @@ lang: en
 ref: superlux-hd681
 date: 2025-07-23
 rating: [3.0, 0.6, 0.5, 0.8, 0.5, 0.6]
+price: 27
 summary: "A semi-open monitor headphone that meets basic performance but has flawed treble response and lacks a competitive edge."
 tags: [Headphones, Monitor, Semi-open, Entry-level]
 permalink: /products/en/superlux-hd681/

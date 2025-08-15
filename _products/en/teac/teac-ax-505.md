@@ -7,6 +7,7 @@ lang: en
 ref: teac-ax-505
 date: 2025-08-05
 rating: [3.3, 0.6, 0.5, 1.0, 0.4, 0.8]
+price: 950
 summary: "70W (8Ω)/130W (4Ω) integrated amplifier featuring Hypex Ncore modules. Achieves the lowest price among competing products with equivalent or superior functionality and performance, delivering excellent cost-performance."
 tags: [Balanced Input, Headphone amplifier, Hypex Ncore, Integrated amplifier, TEAC]
 permalink: /products/en/teac-ax-505/

@@ -7,6 +7,7 @@ lang: en
 ref: trn-vx-pro
 date: 2025-08-07
 rating: [2.2, 0.5, 0.5, 0.2, 0.5, 0.5]
+price: 88
 summary: "The TRN VX Pro is a 9-driver (1DD+8BA) hybrid IEM, but at 88 USD, it suffers from poor cost-performance as competitors like the 7Hz Zero (20 USD) offer equivalent functionality and performance for around 20 USD."
 tags: [Chi-Fi, Earphones, Hybrid, In-ear monitors, TRN]
 permalink: /products/en/trn-vx-pro/

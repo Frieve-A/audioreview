@@ -7,6 +7,7 @@ lang: ja
 ref: audio-technica-at-umx3
 date: 2025-07-20
 rating: [2.7, 0.3, 0.4, 1.0, 0.5, 0.5]
+price: 19800
 summary: "オーディオテクニカのUSBオーディオミキサーAT-UMX3は、24bit/192kHz対応、USB-C接続のストリーミング向け製品。市場に同等機能を持つより安価な製品が存在せず、世界クラスの低価格で優れたコストパフォーマンスを実現。"
 tags: [USB, オーディオミキサー, 配信機材, オーディオテクニカ]
 permalink: /products/ja/audio-technica-at-umx3/

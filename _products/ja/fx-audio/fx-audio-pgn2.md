@@ -7,6 +7,7 @@ lang: ja
 ref: fx-audio-pgn2
 date: 2025-08-09
 rating: [2.5, 0.5, 0.4, 0.8, 0.4, 0.4]
+price: 4190
 summary: "USB電力およびノイズフィルター機能を持つ小型デバイス。手頃な価格帯で基本機能を備える"
 tags: [USBスタビライザー, USBフィルター, デジタルオーディオ, ノイズフィルター, 中国]
 permalink: /products/ja/fx-audio-pgn2/

@@ -7,6 +7,7 @@ ref: fiio-btr13
 date: 2025-08-09
 layout: product
 rating: [3.5, 0.5, 0.6, 1.0, 0.7, 0.7]
+price: 12000
 summary: "デュアルCS43131 DACチップ搭載のエントリーレベルBluetooth DAC/アンプ。4.4mmバランス出力と包括的なコーデックサポート、0.96インチIPSディスプレイを備える。実勢価格は日本で約12,000円前後。"
 tags: [Bluetooth, DAC, FiiO, アンプ, エントリークラス, ポータブル]
 permalink: /products/ja/fiio-btr13/

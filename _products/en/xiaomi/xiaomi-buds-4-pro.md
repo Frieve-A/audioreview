@@ -7,6 +7,7 @@ lang: en
 ref: xiaomi-buds-4-pro
 date: 2025-07-15
 rating: [3.4, 0.8, 0.7, 0.5, 0.6, 0.8]
+price: 200
 summary: "Premium true wireless earbuds featuring LDAC support and dual driver system, but face competitive disadvantage in cost-performance due to intensified price competition among equivalent functionality products."
 tags: [Wireless Earbuds, ANC, LDAC, Dual Driver, Xiaomi]
 permalink: /products/en/xiaomi-buds-4-pro/

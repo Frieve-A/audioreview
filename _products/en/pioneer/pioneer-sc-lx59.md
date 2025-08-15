@@ -7,6 +7,7 @@ lang: en
 ref: pioneer-sc-lx59
 date: 2025-07-24
 rating: [1.8, 0.2, 0.3, 1.0, 0.1, 0.2]
+price: 412
 summary: "A 9.2-channel AV receiver from 2015. With a lack of objective audio data, outdated specifications, and discontinued support, it cannot be recommended by today's standards."
 tags: [AV Receiver, Pioneer, Dolby Atmos, DTS-X, Home Theater, Used, Discontinued]
 permalink: /products/en/pioneer-sc-lx59/

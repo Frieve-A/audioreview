@@ -7,6 +7,7 @@ lang: ja
 ref: dcs-rossini-dac
 date: 2025-07-25
 rating: [2.5, 0.9, 0.6, 0.0, 0.8, 0.2]
+price: 5280000
 summary: "独自のRing DAC技術を搭載した超高級DAC。測定性能は優秀ですが、最新の汎用チップがより優れた性能を1/25以下の価格で実現しているため、コストパフォーマンスと設計の合理性は極めて低いと評価されます。"
 tags: [Converter, DAC, Digital, dCS, ハイエンド]
 permalink: /products/ja/dcs-rossini-dac/

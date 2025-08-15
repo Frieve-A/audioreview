@@ -7,6 +7,7 @@ lang: ja
 ref: dcs-rossini-apex-player
 date: 2025-07-25
 rating: [2.6, 0.8, 0.7, 0.1, 0.7, 0.3]
+price: 5400000
 summary: "極めて高い測定性能を実現したが、同等機能の代替品が1/10の価格で存在。コスト効率の悪さから設計思想の合理性も低く、価格に見合う価値は見出し難い。"
 tags: [CDプレーヤー, DAC, ストリーミング, ネットワークプレーヤー, 高級]
 permalink: /products/ja/dcs-rossini-apex-player/

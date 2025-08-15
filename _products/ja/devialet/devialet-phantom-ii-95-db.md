@@ -7,6 +7,7 @@ lang: ja
 ref: devialet-phantom-ii-95-db
 date: 2025-08-11
 rating: [3.4, 0.8, 0.7, 0.8, 0.8, 0.3]
+price: 179850
 summary: "複数パラメータで透明レベルに達する技術性能を持つコンパクトワイヤレススピーカー。最安の同等以上製品と比較して妥当なコストパフォーマンスで、意匠面を重視。"
 tags: [ワイヤレススピーカー, アクティブスピーカー, Bluetooth, Wi-Fi, コンパクトスピーカー, プレミアムオーディオ]
 permalink: /products/ja/devialet-phantom-ii-95-db/

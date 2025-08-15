@@ -7,6 +7,7 @@ lang: en
 ref: pioneer-n-50ae
 date: 2025-08-09
 rating: [2.9, 0.5, 0.6, 0.9, 0.4, 0.5]
+price: 245
 summary: "Network audio player with ESS SABRE32 Ultra DAC and DSD 11.2MHz support. Now discontinued with firmware updates ended; better-performing, cheaper current alternatives exist."
 tags: [DAC, Discontinued, ESS Sabre, Network player, Pioneer]
 permalink: /products/en/pioneer-n-50ae/

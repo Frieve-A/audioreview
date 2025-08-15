@@ -7,6 +7,7 @@ lang: en
 ref: shure-aonic-4
 date: 2025-07-29
 rating: [2.9, 0.6, 0.5, 0.4, 0.8, 0.6]
+price: 273
 summary: "Shure's first hybrid IEM boasts excellent, professional-grade noise isolation. However, it faces significant cost-performance challenges as products with comparable isolation are available at a much lower price."
 tags: [High Isolation, Hybrid Driver, In-ear monitors, Pro Audio, Shure]
 permalink: /products/en/shure-aonic-4/

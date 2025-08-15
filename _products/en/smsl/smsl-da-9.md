@@ -7,6 +7,7 @@ lang: en
 ref: smsl-da-9
 date: 2025-08-01
 rating: [3.3, 0.8, 0.7, 0.6, 0.6, 0.6]
+price: 250
 summary: "The SMSL DA-9 is a Bluetooth-enabled Class D amplifier with excellent measured performance, but it is now discontinued and less competitive in cost-performance due to more affordable and higher-performing alternatives."
 tags: [Bluetooth, Class D, Discontinued, Power amplifier, SMSL]
 permalink: /products/en/smsl-da-9/

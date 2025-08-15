@@ -7,6 +7,7 @@ lang: ja
 ref: airpulse-sw8
 date: 2025-08-12
 rating: [2.7, 0.5, 0.5, 0.6, 0.6, 0.5]
+price: 82500
 summary: "Phil Jonesが設計したコンパクトな8インチサブウーファー。メーカー公称で25Hz〜160Hzの応答性と内蔵Class Dアンプを備えるが、第三者測定が見当たらない。ユーザー視点で同等以上の機能・性能を満たす低価格モデルが存在する。"
 tags: [8インチ, D級, アクティブ, サブウーファー, ベース]
 permalink: /products/ja/airpulse-sw8/

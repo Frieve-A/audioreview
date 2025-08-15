@@ -7,6 +7,7 @@ lang: en
 ref: teac-ud-505
 date: 2025-08-01
 rating: [2.5, 0.7, 0.6, 0.2, 0.5, 0.5]
+price: 1400
 summary: "USB DAC/headphone amplifier with AK4497 dual-mono configuration. Scientific validity clears transparency levels, but cost-performance faces challenges compared to Topping DX5 Lite."
 tags: [AK4497, Bluetooth, DAC, DSD, Headphone amplifier, Hi-Res, TEAC, USB]
 permalink: /products/en/teac-ud-505/

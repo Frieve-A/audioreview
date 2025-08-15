@@ -7,6 +7,7 @@ lang: ja
 ref: accuphase-dp-67
 date: 2025-08-08
 rating: [2.5, 0.8, 0.6, 0.3, 0.3, 0.5]
+price: 248000
 summary: "アキュフェーズDP-67は優れた測定性能を持つCDプレーヤーですが、同仕様の下位機種との価格差により限定的なコストパフォーマンス評価となります。"
 tags: [CDプレーヤー, DAC, ハイエンド]
 permalink: /products/ja/accuphase-dp-67/

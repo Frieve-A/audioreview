@@ -7,6 +7,7 @@ lang: en
 ref: technics-sb-c600
 date: 2025-08-13
 rating: [2.7, 0.5, 0.6, 0.7, 0.5, 0.4]
+price: 1100
 summary: "Coaxial bookshelf speakers with refined sound and strong bass performance, though requiring substantial amplification power and facing intense competition from similarly priced alternatives."
 tags: [Speakers, Bookshelf, Coaxial, Technics, Passive]
 permalink: /products/en/technics-sb-c600/

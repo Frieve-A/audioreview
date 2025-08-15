@@ -7,6 +7,7 @@ lang: en
 ref: topping-l50
 date: 2025-08-05
 rating: [4.2, 0.9, 0.7, 1.0, 0.7, 0.9]
+price: 169
 summary: "Headphone amplifier with excellent SINAD 125dB measurement performance, offering strong cost-performance with no cheaper alternatives matching its capabilities"
 tags: [Desktop, Headphone amplifier, High SINAD, NFCA]
 permalink: /products/en/topping-l50/

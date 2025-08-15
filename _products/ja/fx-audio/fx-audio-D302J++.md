@@ -7,6 +7,7 @@ lang: ja
 ref: fx-audio-D302J++
 date: 2025-07-22
 rating: [2.6, 0.4, 0.4, 0.8, 0.5, 0.5]
+price: 12980
 summary: "STMicroelectronics STA369BWを採用したフルデジタルアンプ。15W×2chの出力で、4系統入力（USB/光/同軸/アナログ）を備えるが、測定性能では現代基準に劣り、技術的優位性も限定的。"
 tags: [DAC, D級, STA369BW, デジタルアンプ, フルデジタル, ヘッドホンアンプ]
 permalink: /products/ja/fx-audio-D302J++/

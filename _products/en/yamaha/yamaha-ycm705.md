@@ -7,6 +7,7 @@ lang: en
 ref: yamaha-ycm705
 date: 2025-07-23
 rating: [2.3, 0.6, 0.4, 0.2, 0.6, 0.5]
+price: 433
 summary: "The YCM705, scheduled for release in August 2025, is a condenser microphone with a 1-inch large diaphragm, but it has a serious cost-performance issue with a score of 0.2, being approximately 5 times the price of competitors like the Audio-Technica AT2020."
 tags: [Condenser Microphone, Yamaha, Streaming, Recording]
 permalink: /products/en/yamaha-ycm705/

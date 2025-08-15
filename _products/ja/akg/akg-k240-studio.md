@@ -7,6 +7,7 @@ lang: ja
 ref: akg-k240-studio
 date: 2025-07-21
 rating: [2.5, 0.3, 0.5, 0.6, 0.3, 0.8]
+price: 6336
 summary: "1991年の設計を引き継ぐセミオープン型スタジオヘッドホン。低域の歪み率に深刻な課題を抱えるが、安価なセミオープン型としての存在価値を持つ。"
 tags: [AKG, スタジオモニター, セミオープン, ヘッドホン]
 permalink: /products/ja/akg-k240-studio/

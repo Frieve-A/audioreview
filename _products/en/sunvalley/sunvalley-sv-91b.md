@@ -7,6 +7,7 @@ lang: en
 ref: sunvalley-sv-91b
 date: 2025-08-13
 rating: [1.4, 0.3, 0.4, 0.0, 0.5, 0.2]
+price: 2442
 summary: "Premium 300B single-ended tube amplifier with exceptional build quality but significant cost-performance limitations in today's market"
 tags: [Tube-amplifier, Single-ended, 300B, High-end, Premium]
 permalink: /products/en/sunvalley-sv-91b/

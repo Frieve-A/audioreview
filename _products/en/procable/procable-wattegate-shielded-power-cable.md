@@ -7,6 +7,7 @@ lang: en
 ref: procable-wattegate-shielded-power-cable
 date: 2025-07-26
 rating: [1.5, 0.1, 0.4, 0.1, 0.7, 0.2]
+price: 48
 summary: "A shielded power cable using WATTGATE connectors, but with little scientific evidence for its claimed audio improvements and serious cost-performance issues compared to functionally equivalent products."
 tags: [Japan, Power Cable, Pro Audio, Shielded]
 permalink: /products/en/procable-wattegate-shielded-power-cable/

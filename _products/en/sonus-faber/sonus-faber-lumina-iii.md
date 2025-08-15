@@ -7,6 +7,7 @@ lang: en
 ref: sonus-faber-lumina-iii
 date: 2025-08-01
 rating: [3.1, 0.6, 0.6, 0.4, 0.8, 0.7]
+price: 2457
 summary: "A floorstanding speaker touting Italian craftsmanship, but facing challenges in the relationship between measured performance and price"
 tags: [3-Way, Floorstanding speakers, Italy, Sonus Faber]
 permalink: /products/en/sonus-faber-lumina-iii/

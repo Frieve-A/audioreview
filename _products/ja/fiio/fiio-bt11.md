@@ -7,6 +7,7 @@ lang: ja
 ref: fiio-bt11
 date: 2025-07-23
 rating: [3.5, 0.7, 0.6, 1.0, 0.5, 0.7]
+price: 8800
 summary: "FiiO BT11は8,800円で多様なBluetoothコーデックに対応するUSB-C Bluetoothトランスミッターです。QCC5181チップと包括的なLDAC/aptX Adaptive/aptX Losslessサポートにより、同カテゴリ最安価格で優秀なコストパフォーマンスを実現しています。"
 tags: [Bluetoothトランスミッター, FiiO, LDAC, aptX Adaptive, USB-C, QCC5181]
 permalink: /products/ja/fiio-bt11/

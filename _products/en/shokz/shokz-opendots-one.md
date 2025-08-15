@@ -7,6 +7,7 @@ lang: en
 ref: shokz-opendots-one
 date: 2025-07-14
 rating: [2.1, 0.4, 0.4, 0.2, 0.6, 0.5]
+price: 199
 summary: "Shokz's first ear-cuff type earphone. Features DirectPitch™ technology for sound leakage suppression and Bassphere™ technology for bass enhancement, but the price setting of 199 USD is extremely high compared to competing products with equivalent functions"
 tags: [Ear-cuff, Open-ear, Shokz, Air Conduction, Dolby Audio]
 permalink: /products/en/shokz-opendots-one/

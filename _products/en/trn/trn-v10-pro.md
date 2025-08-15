@@ -7,6 +7,7 @@ lang: en
 ref: trn-v10-pro
 date: 2025-08-01
 rating: [2.7, 0.5, 0.4, 0.9, 0.2, 0.7]
+price: 16
 summary: "A multi-driver IEM with a 2DD+2BA setup. It offers excellent cost-performance, but its scientific fidelity is limited by V-shaped tuning, and cheaper, better-performing alternatives exist."
 tags: [Earphones, Hybrid Drivers, Chinese IEM, TRN, 2DD+2BA]
 permalink: /products/en/trn-v10-pro/

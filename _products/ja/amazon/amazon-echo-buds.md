@@ -7,6 +7,7 @@ lang: ja
 ref: amazon-echo-buds
 date: 2025-08-12
 rating: [1.9, 0.4, 0.3, 0.4, 0.5, 0.3]
+price: 8000
 summary: "音声アシスタント連携を重視した予算志向の完全ワイヤレスイヤホン"
 tags: [完全ワイヤレス, 音声アシスタント, 予算イヤホン, Bluetooth]
 permalink: /products/ja/amazon-echo-buds/

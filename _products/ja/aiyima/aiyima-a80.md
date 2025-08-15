@@ -7,6 +7,7 @@ lang: ja
 ref: aiyima-a80
 date: 2025-08-10
 rating: [3.4, 0.7, 0.7, 0.8, 0.5, 0.7]
+price: 30000
 summary: "TPA3255チップとESS9038Q2M DACを搭載したDAC内蔵プリメインアンプ。セパレート構成に対する利便性プレミアムを含む適切な性能を提供"
 tags: [アンプ, DAC, TPA3255, ESS9038Q2M, Bluetooth, 一体型]
 permalink: /products/ja/aiyima-a80/

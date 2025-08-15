@@ -7,6 +7,7 @@ lang: ja
 ref: audio-technica-ath-ck5
 date: 2025-07-24
 rating: [2.6, 0.2, 0.3, 1.0, 0.6, 0.5]
+price: 3000
 summary: "2005年頃に発売された廉価版インイヤーイヤホン。現代の技術基準では大幅に時代遅れ"
 tags: [インイヤーイヤホン, 有線, 廉価版, 廃番]
 permalink: /products/ja/audio-technica-ath-ck5/

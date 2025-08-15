@@ -7,6 +7,7 @@ lang: en
 ref: sony-ult-field-3
 date: 2025-08-09
 rating: [2.8, 0.4, 0.5, 0.9, 0.5, 0.5]
+price: 200
 summary: "Rugged portable Bluetooth speaker with 2‑way drivers, passive radiators and IP67. Strong bass via the ULT button, 24‑hour battery, multipoint and Party Connect. Measurements fall short of transparency, while price‑to‑performance is favorable versus the cheapest equivalent competitor."
 tags: [Bluetooth, Outdoor, Portable speaker, Sony, Waterproof]
 permalink: /products/en/sony-ult-field-3/

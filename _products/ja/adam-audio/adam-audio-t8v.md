@@ -7,6 +7,7 @@ lang: ja
 ref: adam-audio-t8v
 date: 2025-08-09
 rating: [3.5, 0.7, 0.6, 0.8, 0.7, 0.7]
+price: 44850
 summary: "ADAM Audio T8Vは8インチウーファーとU-ARTリボンツイーターを搭載し、33Hz～25kHzの再生帯域と118dBの最大出力を実現。299ドルという価格でプロレベルの性能を提供する。"
 tags: [StudioMonitor, Adam, NearfieldMonitor, RibbonTweeter, 8inch]
 permalink: /products/ja/adam-audio-t8v/

@@ -7,6 +7,7 @@ lang: ja
 ref: denon-pma-900hne
 date: 2025-08-04
 rating: [3.9, 0.7, 0.7, 1.0, 0.8, 0.7]
+price: 158000
 summary: "HEOS内蔵でネットワーク機能を搭載したミドルクラス統合アンプ。測定性能は許容範囲で、同等機能での世界最安価格によりコストパフォーマンスは優秀"
 tags: [HEOS, MM/MCフォノ, インテグレーテッドアンプ, ストリーミング, ネットワークオーディオ]
 permalink: /products/ja/denon-pma-900hne/

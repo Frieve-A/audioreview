@@ -7,7 +7,7 @@ lang: ja
 ref: klh-model-three
 date: 2025-08-15
 rating: [2.5, 0.5, 0.4, 0.4, 0.7, 0.5]
-price: 429000
+price: 270000
 summary: "伝統的なアコースティック・サスペンション・ブックシェルフスピーカーで、クラシックなアメリカンサウンドを提供するが、現代の代替品に対する競争優位性は限定的"
 tags: [ブックシェルフスピーカー, アコースティックサスペンション, 2ウェイ, パッシブ]
 permalink: /products/ja/klh-model-three/

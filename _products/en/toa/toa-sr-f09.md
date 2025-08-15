@@ -7,6 +7,7 @@ lang: en
 ref: toa-sr-f09
 date: 2025-07-24
 rating: [1.5, 0.4, 0.3, 0.2, 0.3, 0.3]
+price: 2323
 summary: "The TOA SR-F09 is a passive portable 2-way speaker discontinued in 2021. With a suggested retail price of 2323 USD (excl. tax), it shows extremely poor cost-performance compared to modern active speakers that offer superior or equivalent performance with a built-in amplifier, and is not recommended."
 tags: [Discontinued, PA, Portable, Professional, Speakers, TOA]
 permalink: /products/en/toa-sr-f09/

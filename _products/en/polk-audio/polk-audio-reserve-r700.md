@@ -7,6 +7,7 @@ lang: en
 ref: polk-audio-reserve-r700
 date: 2025-07-18
 rating: [4.0, 0.7, 0.8, 1.0, 0.8, 0.7]
+price: 2298
 summary: "The Polk Audio Reserve R700 is a tower speaker that delivers class-leading measurement performance at an extremely competitive price. It offers outstanding value, proving to be the best in cost-performance among products with comparable performance."
 tags: [Tower Speaker, 3-Way, Hi-Res, Polk Audio, Floorstanding]
 permalink: /products/en/polk-audio-reserve-r700/

@@ -7,6 +7,7 @@ lang: en
 ref: sonos-sub-4
 date: 2025-08-11
 rating: [3.2, 0.5, 0.4, 1.0, 0.6, 0.7]
+price: 799
 summary: "Premium wireless subwoofer with dual force‑canceling drivers and updated Wi‑Fi 6 platform; no cheaper equivalent within the Sonos ecosystem while independent measurements are pending"
 tags: [Subwoofer, Wireless, Sonos, Ecosystem]
 permalink: /products/en/sonos-sub-4/

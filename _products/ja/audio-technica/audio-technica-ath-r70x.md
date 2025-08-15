@@ -7,6 +7,7 @@ lang: ja
 ref: audio-technica-ath-r70x
 date: 2025-07-14
 rating: [3.3, 0.8, 0.7, 0.3, 0.8, 0.7]
+price: 42536
 summary: "Audio-Technica初のオープンバック型リファレンスヘッドホンとして、高い技術水準と自然な音質を実現しているが、同等性能の製品に対する価格競争力が課題"
 tags: [オーディオテクニカ, オープンバック, プロフェッショナル, ヘッドホン, リファレンス]
 permalink: /products/ja/audio-technica-ath-r70x/

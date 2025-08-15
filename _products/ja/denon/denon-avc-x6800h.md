@@ -7,6 +7,7 @@ lang: ja
 ref: denon-avc-x6800h
 date: 2025-08-01
 rating: [3.6, 0.8, 0.6, 0.8, 0.8, 0.6]
+price: 524850
 summary: "日本製の11.4チャンネルAVレシーバーとして基本性能は高いものの、競合製品と比較してコストパフォーマンスに課題が残る製品です。"
 tags: [8K, AVレシーバー, DTS:X, Dolby Atmos, 日本]
 permalink: /products/ja/denon-avc-x6800h/

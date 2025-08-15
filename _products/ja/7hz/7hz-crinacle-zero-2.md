@@ -7,6 +7,7 @@ lang: ja
 ref: 7hz-crinacle-zero-2
 date: 2025-07-06
 rating: [4.0, 0.8, 0.7, 1.0, 0.7, 0.8]
+price: 3750
 summary: "7HzとCrinacleのコラボによる25USDの超低価格IEM。初代Zeroの中性的なチューニングに3dBの低音補強を施し、より万人受けする音響特性を実現。THD<1%、32Ω、108dB/Vという測定仕様を25USDで提供し、同価格帯では優れた価格効率を達成。音質技術面では業界平均レベルながら、価格を考慮すれば十分実用的な性能。耐久性には若干の懸念があるものの、純粋な価格効率重視なら最適選択。"
 tags: [Crinacle, インイヤーモニター, コラボレーション, 中国, 低価格]
 permalink: /products/ja/7hz-crinacle-zero-2/

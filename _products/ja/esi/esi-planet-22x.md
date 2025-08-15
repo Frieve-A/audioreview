@@ -7,6 +7,7 @@ lang: ja
 ref: esi-planet-22x
 date: 2025-08-03
 rating: [3.4, 0.6, 0.7, 1.0, 0.5, 0.6]
+price: 69300
 summary: "Danteネットワーク機能を搭載した2入力2出力オーディオインターフェースで、Dante統合が必要なユーザーには優れた価値を提供しますが、一般用途では過剰仕様となる可能性があります。"
 tags: [オーディオインターフェース, Dante, ネットワークオーディオ, ESI, 2入力2出力]
 permalink: /products/ja/esi-planet-22x/

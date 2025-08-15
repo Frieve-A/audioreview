@@ -7,6 +7,7 @@ lang: ja
 ref: edifier-es20
 date: 2025-08-02
 rating: [3.1, 0.5, 0.6, 0.6, 0.7, 0.7]
+price: 13500
 summary: "スタイリッシュなレトロデザインとIP67防水性能を持つポータブルBluetoothスピーカー。堅実な標準機能を備えるが、同等機能でより安価な代替品と比較するとコストパフォーマンスは中程度。"
 tags: [ポータブルスピーカー, Bluetooth, 防水, Edifier]
 permalink: /products/ja/edifier-es20/

@@ -7,6 +7,7 @@ lang: en
 ref: sony-ht-a9m2
 date: 2025-08-04
 rating: [2.9, 0.6, 0.7, 0.1, 0.8, 0.7]
+price: 2499
 summary: "Sony's 4.0.4-channel wireless theater system demonstrates respectable technology but faces significant cost-performance challenges compared to equivalent-function alternatives"
 tags: [Speaker System, Dolby Atmos, Wireless, Home Theater]
 permalink: /products/en/sony-ht-a9m2/

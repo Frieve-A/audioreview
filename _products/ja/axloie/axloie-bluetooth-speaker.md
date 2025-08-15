@@ -7,6 +7,7 @@ lang: ja
 ref: axloie-bluetooth-speaker
 date: 2025-07-20
 rating: [1.6, 0.2, 0.3, 0.6, 0.2, 0.3]
+price: 4500
 summary: "AxloieのBluetoothスピーカーは、低価格帯でLEDライト機能やBluetoothペアリングなど一般的な機能を提供するものの、基本的な音質性能面で多くの課題を抱える製品です。"
 tags: [Bluetooth, ポータブルスピーカー, 低価格]
 permalink: /products/ja/axloie-bluetooth-speaker/

@@ -7,6 +7,7 @@ lang: ja
 ref: hifiman-edition-xs
 date: 2025-08-10
 rating: [2.3, 0.7, 0.5, 0.4, 0.4, 0.3]
+price: 40350
 summary: "ステルスマグネット設計による開放型平面磁界駆動ヘッドホンで、アグレッシブな価格帯で優れた技術性能を提供するものの、信頼性への懸念と疑問視される設計思想に妨げられている"
 tags: [HiFiMAN, オープンバック, ヘッドホン, 平面駆動型]
 permalink: /products/ja/hifiman-edition-xs/

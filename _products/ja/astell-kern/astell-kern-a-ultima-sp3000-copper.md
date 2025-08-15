@@ -7,6 +7,7 @@ lang: ja
 ref: astell-kern-a-ultima-sp3000-copper
 date: 2025-08-14
 rating: [2.5, 0.7, 0.8, 0.2, 0.4, 0.4]
+price: 554850
 summary: "純銅ボディとAKM HEXA-Audio構成を採用するフラッグシップDAPです。IEM用途でのノイズ性能は優秀ですが、スマートフォン＋ポータブルDACの組み合わせと比べると価格妥当性に課題があります。"
 tags: [Copper, High-Resolution Audio, デジタルオーディオプレーヤー, プレミアム, ポータブル]
 permalink: /products/ja/astell-kern-a-ultima-sp3000-copper/

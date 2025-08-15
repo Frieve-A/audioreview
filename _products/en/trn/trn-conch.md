@@ -7,6 +7,7 @@ lang: en
 ref: trn-conch
 date: 2025-07-25
 rating: [3.4, 0.4, 0.7, 1.0, 0.5, 0.8]
+price: 30
 summary: "An entry-level single dynamic driver IEM featuring DLC diaphragm and multiple tuning filters. While its scientific validity is limited by a lack of detailed measurement data, it offers outstanding cost-performance due to its unique feature set at this price point."
 tags: [Chinese Earphones, DLC Diaphragm, Dynamic driver, Entry-level, In-ear monitors]
 permalink: /products/en/trn-conch/

@@ -7,6 +7,7 @@ lang: ja
 ref: fostex-hp-a8
 date: 2025-08-05
 rating: [3.1, 0.7, 0.6, 0.8, 0.3, 0.7]
+price: 90000
 summary: "32bit DAC搭載のヘッドホンアンプ。測定性能は優秀だが既に廃番となりサポート面で課題"
 tags: [ヘッドホンアンプ, DAC, 32bit, AK4399, ディスクリート, DSD]
 permalink: /products/ja/fostex-hp-a8/

@@ -7,6 +7,7 @@ lang: en
 ref: svs-sb17-ultra-r
 date: 2025-08-06
 rating: [3.5, 0.8, 0.9, 0.6, 0.6, 0.6]
+price: 2499
 summary: "SVS's latest flagship sealed subwoofer featuring a 17-inch driver and 2,800W RMS amplifier achieving 15Hz ultra-low frequency reproduction, with reasonable cost-performance against alternatives offering similar performance at moderately lower prices."
 tags: [Subwoofer, Sealed Design, Home Theater, SVS, Ultra-Low Frequency]
 permalink: /products/en/svs-sb17-ultra-r/

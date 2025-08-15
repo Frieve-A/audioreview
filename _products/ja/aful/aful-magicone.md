@@ -7,6 +7,7 @@ lang: ja
 ref: aful-magicone
 date: 2025-07-28
 rating: [2.8, 0.6, 0.7, 0.3, 0.5, 0.7]
+price: 21999
 summary: "シングルBAドライバーによる革新的音響設計を採用したインイヤーモニター。SE-Math技術とNautilus音響迷路により単一ドライバーで全音域再生を実現しますが、価格競争力に大きな課題があります。"
 tags: [AFUL, イヤホン, インイヤーモニター, シングルドライバー, バランスドアーマチュア]
 permalink: /products/ja/aful-magicone/

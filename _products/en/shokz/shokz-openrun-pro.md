@@ -7,6 +7,7 @@ lang: en
 ref: shokz-openrun-pro
 date: 2025-07-06
 rating: [3.5, 0.8, 0.7, 0.4, 0.8, 0.8]
+price: 180
 summary: "Flagship bone conduction headphones from Shokz featuring top-tier positioning in their lineup. Enhanced audio quality through TurboPitch technology with 10-hour long playback and fast charging support. Design balances safety and practicality for sports applications. While facing physical limitations in audio quality, achieves high completion as bone conduction headphones. Pricing is higher compared to competing products, but reasonable considering brand value and technical capabilities."
 tags: ["Bone conduction", Sports, "Long battery", "Fast charging", Waterproof]
 permalink: /products/en/shokz-openrun-pro/

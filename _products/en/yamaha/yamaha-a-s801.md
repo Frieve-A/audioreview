@@ -7,6 +7,7 @@ lang: en
 ref: yamaha-a-s801
 date: 2025-08-05
 rating: [3.9, 0.7, 0.7, 1.0, 0.5, 1.0]
+price: 1000
 summary: "The Yamaha A-S801 is a 100W/ch integrated amplifier with built-in ESS DAC and DSD support, achieving high affordability among products with equivalent functionality and delivering excellent cost-performance"
 tags: [Built-in DAC, Hi-Res, Integrated amplifier, Mid-range, Yamaha]
 permalink: /products/en/yamaha-a-s801/

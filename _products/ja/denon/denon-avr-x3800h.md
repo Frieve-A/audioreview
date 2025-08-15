@@ -7,6 +7,7 @@ lang: ja
 ref: denon-avr-x3800h
 date: 2025-07-27
 rating: [3.8, 0.7, 0.7, 0.9, 0.7, 0.8]
+price: 254850
 summary: "9.4chの本格的なAtmos対応を約165,000円で実現する合理的設計のAVレシーバー。THD 0.08%（2ch駆動時）の良好な測定性能と豊富な機能を搭載し、同等のチャンネル数を持つ競合製品の中で最安クラスの優れたコストパフォーマンスを誇る。"
 tags: [AVレシーバー, Dolby Atmos, 9チャンネル, 8K対応, ルーム補正]
 permalink: /products/ja/denon-avr-x3800h/

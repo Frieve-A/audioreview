@@ -7,6 +7,7 @@ lang: en
 ref: piega-coax-811
 date: 2025-08-06
 rating: [3.0, 0.6, 0.8, 0.2, 0.8, 0.6]
+price: 30000
 summary: "Swiss-made floor-standing speakers featuring advanced coaxial ribbon technology. While demonstrating excellent technical expertise and reliability, they face significant cost-performance challenges due to competing products offering equivalent performance at substantially lower prices."
 tags: [Coaxial driver, Floor-standing Speakers, High-end, Ribbon Tweeter, Swiss Made]
 permalink: /products/en/piega-coax-811/

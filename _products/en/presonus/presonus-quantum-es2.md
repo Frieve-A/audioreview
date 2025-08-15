@@ -7,6 +7,7 @@ lang: en
 ref: presonus-quantum-es2
 date: 2025-07-31
 rating: [3.4, 0.8, 0.5, 0.8, 0.7, 0.6]
+price: 249
 summary: "A 2x2 USB-C audio interface with class-leading dynamic range for superior sound quality, though its feature set is standard."
 tags: [2x2, Audio interface, PreSonus, Recording Equipment, USB-C]
 permalink: /products/en/presonus-quantum-es2/

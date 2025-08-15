@@ -7,6 +7,7 @@ lang: en
 ref: yg-acoustics-carmel3
 date: 2025-08-08
 rating: [2.6, 0.5, 0.8, 0.1, 0.7, 0.5]
+price: 30000
 summary: "The YG Acoustics Carmel3 is a 30,000 USD 2-way floorstanding speaker, but excellent alternatives like the SVS Prime Pinnacle (approximately 2,000 USD) exist, creating significant cost-performance issues."
 tags: [Floorstanding, High-end, Speakers, YG Acoustics]
 permalink: /products/en/yg-acoustics-carmel3/

@@ -7,6 +7,7 @@ lang: en
 ref: tad-reference-one
 date: 2025-08-08
 rating: [2.8, 0.6, 0.8, 0.2, 0.6, 0.6]
+price: 78000
 summary: "TAD Reference One aims for high-fidelity reproduction through advanced CST technology and high-quality construction, while its ultra-high price limits cost-performance"
 tags: [Beryllium, CST, High-end, Speakers, TAD]
 permalink: /products/en/tad-reference-one/

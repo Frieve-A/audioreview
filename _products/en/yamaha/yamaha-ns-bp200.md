@@ -7,6 +7,7 @@ lang: en
 ref: yamaha-ns-bp200
 date: 2025-08-03
 rating: [3.2, 0.6, 0.5, 1.0, 0.6, 0.5]
+price: 81
 summary: "Yamaha's 2-way bookshelf speaker delivering average acoustic performance with 85dB low sensitivity and 6Ω design at an affordable price point."
 tags: [2-Way, Bookshelf speakers, Passive speakers, Yamaha]
 permalink: /products/en/yamaha-ns-bp200/

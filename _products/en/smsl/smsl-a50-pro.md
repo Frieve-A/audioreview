@@ -7,6 +7,7 @@ lang: en
 ref: smsl-a50-pro
 date: 2025-08-01
 rating: [3.6, 0.8, 0.5, 1.0, 0.5, 0.8]
+price: 87
 summary: "2.1-channel Class D amplifier featuring MA12070P chips. Equipped with HDMI ARC, it delivers excellent measurement performance and outstanding cost-performance."
 tags: [2.1 Channel, Amplifiers, Bluetooth, Class D, HDMI ARC, SMSL]
 permalink: /products/en/smsl-a50-pro/

@@ -7,6 +7,7 @@ lang: en
 ref: tanchjim-ola-bass
 date: 2025-07-24
 rating: [2.7, 0.6, 0.6, 0.5, 0.5, 0.5]
+price: 43
 summary: "Despite featuring a 10mm PEEK diaphragm in single DD IEM configuration, multiple lower-priced alternatives with equivalent performance exist, resulting in poor cost-performance"
 tags: [Bass Enhanced, Budget, In-ear monitors, Single Dynamic Driver, Tanchjim]
 permalink: /products/en/tanchjim-ola-bass/

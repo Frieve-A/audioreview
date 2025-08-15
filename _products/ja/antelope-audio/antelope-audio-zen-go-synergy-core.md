@@ -7,6 +7,7 @@ lang: ja
 ref: antelope-audio-zen-go-synergy-core
 date: 2025-08-03
 rating: [3.9, 0.8, 0.8, 1.0, 0.5, 0.8]
+price: 81400
 summary: "プロ仕様のコンバーターと先進的なDSP処理を搭載したコンパクトなUSB-Cオーディオインターフェース"
 tags: [オーディオインターフェース, USB-C, DSP, リアルタイムエフェクト, プロ仕様]
 permalink: /products/ja/antelope-audio-zen-go-synergy-core/

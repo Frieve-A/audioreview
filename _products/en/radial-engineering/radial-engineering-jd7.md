@@ -7,6 +7,7 @@ lang: en
 ref: radial-engineering-jd7
 date: 2025-08-08
 rating: [3.8, 0.8, 0.6, 1.0, 0.7, 0.7]
+price: 1360
 summary: "Professional guitar signal distro system. Transformer-isolated Class A buffering drives 7 amps simultaneously with integrated DI and Reamp."
 tags: [DI Box, Guitar Equipment, Professional, Signal Distribution]
 permalink: /products/en/radial-engineering-jd7/

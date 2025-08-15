@@ -7,6 +7,7 @@ lang: ja
 ref: dunu-davinci
 date: 2025-08-05
 rating: [3.7, 0.7, 0.8, 0.7, 0.7, 0.8]
+price: 44850
 summary: "DUNU x Gizaudio DaVinciは6ドライバーハイブリッド構成のIEMで、新しいメタチューニングを採用しています。技術的には洗練されていますが、Kiwi Ears KE4などのより安価な競合製品の存在により、コストパフォーマンスでは課題があります。"
 tags: [DUNU, インイヤーモニター, ハイブリッドドライバー, 高級]
 permalink: /products/ja/dunu-davinci/

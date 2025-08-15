@@ -6,7 +6,7 @@ company_id: final
 lang: en
 ref: final-e1000
 date: 2025-08-14
-rating: [2.6, 0.5, 0.4, 0.5, 0.6, 0.6]
+rating: [2.9, 0.5, 0.4, 0.8, 0.6, 0.6]
 price: 30
 summary: "Neutral-leaning wired IEM with excellent comfort. Strong value in Japan; globally outpriced by newer budget rivals."
 tags: [Budget, Dynamic driver, Earphones, Wired]
@@ -24,9 +24,8 @@ $$ \Large \text{0.4} $$
 A small **1DD + ABS** build with a fixed OFC cable prioritizes comfort and practicality. In 2025, this is **competent but unremarkable**, lacking novel diaphragm materials or advanced acoustic structures［1］.
 
 ## Cost-Performance
-$$ \Large \text{0.5} $$
+$$ \Large \text{0.8} $$
 **US/global street**: E1000 about **29.99 USD** (retail example). A widely available alternative with equal-or-better measured tonality, **7Hz Salnotes Zero**, is **22.99 USD**; **ratio ≈ 1.30**—indicating the E1000 is price-pressured globally［4,9–11］.  
-**Japan** flips this: E1000 is around **¥2,480**, while Zero typically lists around **¥3,000–¥4,700+** in domestic channels, giving E1000 the local price edge［5–8,12］. Net score: **0.5**.
 
 ## Reliability & Support
 $$ \Large \text{0.6} $$

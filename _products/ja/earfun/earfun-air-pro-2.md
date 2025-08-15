@@ -7,6 +7,7 @@ lang: ja
 ref: earfun-air-pro-2
 date: 2025-08-01
 rating: [2.4, 0.4, 0.5, 0.3, 0.6, 0.6]
+price: 12000
 summary: "EarFun Air Pro 2は10mmドライバーとANC性能を搭載した完全ワイヤレスイヤホンですが、測定性能と価格競争力において現在の市場基準に対して大幅に劣る結果となっています。"
 tags: [ANCイヤホン, Bluetooth5.2, 中国, 完全ワイヤレスイヤホン]
 permalink: /products/ja/earfun-air-pro-2/

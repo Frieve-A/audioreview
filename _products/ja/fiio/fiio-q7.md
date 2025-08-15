@@ -7,6 +7,7 @@ lang: ja
 ref: fiio-q7
 date: 2025-08-11
 rating: [3.9, 0.8, 0.9, 0.7, 0.8, 0.7]
+price: 90000
 summary: "ES9038PRO DACとデュアルTHX AAA 788+アンプを搭載したデスクトップクラスのポータブルDAC/アンプ。優れた技術性能を提供するが、プレミアム価格帯の製品。"
 tags: [DAC, ヘッドホンアンプ, ポータブル, THX, ES9038PRO, バランス]
 permalink: /products/ja/fiio-q7/

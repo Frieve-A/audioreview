@@ -7,6 +7,7 @@ lang: ja
 ref: bqeyz-lin
 date: 2025-08-09
 rating: [3.2, 0.5, 0.6, 1.0, 0.5, 0.6]
+price: 2399
 summary: "Conexant CX31993チップを採用したUSB-C DAC/アンプアダプター。最大32bit/384kHz対応、3.5mm/4.4mm端子を搭載。"
 tags: [DAC, アンプ, ドングル, ポータブル, USB-C]
 permalink: /products/ja/bqeyz-lin/

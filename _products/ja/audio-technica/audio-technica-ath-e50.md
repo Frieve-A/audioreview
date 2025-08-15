@@ -7,6 +7,7 @@ lang: ja
 ref: audio-technica-ath-e50
 date: 2025-07-20
 rating: [2.8, 0.6, 0.6, 0.5, 0.5, 0.6]
+price: 29850
 summary: "Audio-Technica ATH-E50は単一バランスド・アーマチュア・ドライバーを搭載したプロフェッショナル向けインイヤーモニター。199米ドルの価格で、同様のプロ向け製品と比較して妥当なコストパフォーマンスを持つ。"
 tags: [インイヤーモニター, オーディオテクニカ, バランスド・アーマチュア, プロフェッショナル]
 permalink: /products/ja/audio-technica-ath-e50/

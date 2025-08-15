@@ -7,6 +7,7 @@ lang: en
 ref: sennheiser-ie-400-pro
 date: 2025-08-02
 rating: [3.0, 0.6, 0.6, 0.4, 0.8, 0.6]
+price: 488
 summary: "Professional IEM designed with dynamic drivers, but equivalent performance products are available at significantly lower prices in the current market."
 tags: [Dynamic driver, In-ear monitors, Monitoring, Professional]
 permalink: /products/en/sennheiser-ie-400-pro/

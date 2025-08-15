@@ -7,6 +7,7 @@ lang: ja
 ref: cvj-mermaid2
 date: 2025-07-28
 rating: [2.6, 0.6, 0.7, 0.2, 0.5, 0.6]
+price: 13083
 summary: "CVJとR2E3のコラボレーションによる単一ダイナミックドライバーIEMで、ベリリウムコーティング10mmドライバーと明るいチューニングが特徴。コストパフォーマンスは低く、シビランスの可能性と設計思想に課題がある。"
 tags: [CVJ, インイヤーモニター, シングルDD, ベリリウム, 中価格帯]
 permalink: /products/ja/cvj-mermaid2/

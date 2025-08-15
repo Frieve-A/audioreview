@@ -7,6 +7,7 @@ lang: ja
 ref: korg-ds-dac-10r
 date: 2025-08-01
 rating: [3.7, 0.8, 0.6, 1.0, 0.6, 0.7]
+price: 50000
 summary: "アナログレコードのデジタル化に特化したユニークなDAC/ADC複合機。フォノ入力とDSD録音機能を併せ持つ稀有な存在で、代替品が見当たらないためコストパフォーマンスは最高評価となる。"
 tags: [DAC, ADC, フォノプリアンプ, DSD, アナログレコード, USB]
 permalink: /products/ja/korg-ds-dac-10r/

@@ -7,6 +7,7 @@ lang: en
 ref: ruark-audio-rs1-subwoofer
 date: 2025-08-12
 rating: [2.9, 0.5, 0.4, 0.8, 0.7, 0.5]
+price: 410
 summary: "Compact desktop subwoofer with 100W Class D amplifier and 170mm driver, designed to pair with Ruark MR1; current US market price observed at 410 USD"
 tags: [Subwoofer, Desktop, Ruark Audio, Class D, 170mm]
 permalink: /products/en/ruark-audio-rs1-subwoofer/

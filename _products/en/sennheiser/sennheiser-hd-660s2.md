@@ -7,6 +7,7 @@ lang: en
 ref: sennheiser-hd-660s2
 date: 2025-07-21
 rating: [3.5, 0.7, 0.8, 0.3, 0.9, 0.8]
+price: 600
 summary: "Legitimate evolution of the HD 660S. While technical improvements are commendable, the 600 USD price point is excessive when the equivalent-performing HD 6XX is available for 199 USD"
 tags: [Headphones, Open-Back, High-Impedance, Sennheiser]
 permalink: /products/en/sennheiser-hd-660s2/

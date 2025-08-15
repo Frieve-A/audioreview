@@ -7,6 +7,7 @@ lang: ja
 ref: anker-soundcore-liberty-4
 date: 2025-07-19
 rating: [3.3, 0.5, 0.5, 1.0, 0.7, 0.6]
+price: 10250
 summary: "同価格帯競合と同等のコストパフォーマンスを持つ標準的なワイヤレスイヤホン"
 tags: [Anker, Bluetooth, アクティブノイズキャンセリング, ワイヤレスイヤホン, 完全ワイヤレス]
 permalink: /products/ja/anker-soundcore-liberty-4/

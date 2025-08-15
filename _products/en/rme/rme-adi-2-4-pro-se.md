@@ -7,6 +7,7 @@ lang: en
 ref: rme-adi-2-4-pro-se
 date: 2025-07-14
 rating: [4.5, 0.9, 0.8, 1.0, 0.8, 1.0]
+price: 2347
 summary: "A 32bit/768kHz AD/DA converter targeting the pinnacle of professional audio by RME. Achieves industry-leading measurement performance with exceptional cost-performance among professional AD/DA converters."
 tags: [32bit, 768kHz, AD Converter, DAC Converter, Professional, RME]
 permalink: /products/en/rme-adi-2-4-pro-se/

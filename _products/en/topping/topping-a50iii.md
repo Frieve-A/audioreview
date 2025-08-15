@@ -7,6 +7,7 @@ lang: en
 ref: topping-a50iii
 date: 2025-08-03
 rating: [4.5, 1.0, 0.8, 1.0, 0.9, 0.8]
+price: 199
 summary: "Topping A50III is a high-performance desktop headphone amplifier featuring advanced NFCA modules. It achieves excellent measured performance with THD+N under 0.00006%, dynamic range exceeding 144dB, and maximum output of 3500mW×2."
 tags: [Desktop, Headphone amplifier, NFCA, Topping]
 permalink: /products/en/topping-a50iii/

@@ -7,6 +7,7 @@ lang: en
 ref: twistura-woodnote
 date: 2025-07-28
 rating: [2.5, 0.7, 0.6, 0.1, 0.4, 0.7]
+price: 149
 summary: "An IEM with natural acoustic characteristics from wood composite diaphragm that faces harsh competitive pressure in cost-performance"
 tags: [Dual Magnetic, In-ear monitors, Tuning System, Wood Diaphragm]
 permalink: /products/en/twistura-woodnote/

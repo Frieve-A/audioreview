@@ -7,6 +7,7 @@ lang: ja
 ref: earfun-air-pro-4+
 date: 2025-07-31
 rating: [3.6, 0.7, 0.8, 0.7, 0.6, 0.8]
+price: 15000
 summary: "AI翻訳機能を搭載した先進的な完全ワイヤレスイヤホン。NSAA設計と54時間バッテリーで99.99 USDの価格設定"
 tags: [AI翻訳, EarFun, aptX Lossless, アクティブノイズキャンセリング, ワイヤレスイヤホン]
 permalink: /products/ja/earfun-air-pro-4+/

@@ -7,6 +7,7 @@ lang: ja
 ref: denon-pma-60
 date: 2025-08-13
 rating: [2.6, 0.5, 0.6, 0.5, 0.5, 0.5]
+price: 89850
 summary: "公開仕様は十分ながら、生産終了かつ現行の一体型競合に対して価格優位性が中程度のコンパクトClass-Dプリメイン"
 tags: [Bluetooth, DAC, D級, デノン, プリメインアンプ]
 permalink: /products/ja/denon-pma-60/

@@ -7,6 +7,7 @@ lang: en
 ref: sony-ht-a9
 date: 2025-08-03
 rating: [2.8, 0.5, 0.7, 0.3, 0.6, 0.7]
+price: 1200
 summary: "An innovative 4-speaker wireless system with 360 Spatial Sound Mapping, but it has issues with bass deficiency and cost-performance."
 tags: [home theater, Dolby Atmos, DTS:X, wireless, surround sound]
 permalink: /products/en/sony-ht-a9/

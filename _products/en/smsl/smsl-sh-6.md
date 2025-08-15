@@ -7,6 +7,7 @@ lang: en
 ref: smsl-sh-6
 date: 2025-08-10
 rating: [3.5, 0.8, 0.6, 1.0, 0.5, 0.6]
+price: 119.99
 summary: "Technically transparent compact headphone amplifier with excellent cost-performance in its price range"
 tags: [Desktop, Headphone amplifier, Preamps, SMSL]
 permalink: /products/en/smsl-sh-6/

@@ -7,6 +7,7 @@ lang: en
 ref: tannoy-revolution-xt-6
 date: 2025-08-13
 rating: [2.9, 0.4, 0.6, 0.7, 0.7, 0.5]
+price: 1000
 summary: "Dual concentric bookshelf speaker with a strong 2–3kHz presence-region peak that compromises transparency despite reasonable build quality"
 tags: [Bookshelf, Dual-Concentric, Passive, Speakers, Tannoy]
 permalink: /products/en/tannoy-revolution-xt-6/

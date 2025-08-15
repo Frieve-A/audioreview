@@ -27,6 +27,7 @@ layout: null
       "rating": {% if product.rating and product.rating.size > 0 %}[{{ product.rating | join: ',' }}]{% else %}[0,0,0,0,0,0]{% endif %},
       "tags": [{% for tag in product.tags %}"{{ tag | escape }}"{% unless forloop.last %},{% endunless %}{% endfor %}],
       "company_id": "{{ product.company_id }}",
+      "price": {% if product.price %}{{ product.price }}{% else %}null{% endif %},
       "type": "Product"
     }{% unless forloop.last %},{% endunless %}
     {% endfor %}

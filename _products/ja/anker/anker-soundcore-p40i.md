@@ -7,6 +7,7 @@ lang: ja
 ref: anker-soundcore-p40i
 date: 2025-07-09
 rating: [3.2, 0.5, 0.6, 0.9, 0.7, 0.5]
+price: 7990
 summary: "7,990円の価格でマルチポイント、ノイズキャンセリング、ワイヤレス充電機能を搭載した完全ワイヤレスイヤホン。バッテリー持続時間と実用性能は優秀だが、音質面では低音偏重のチューニングでフラットな音響特性を求める用途には不向き"
 tags: [Anker, Soundcore, P40i, ワイヤレスイヤホン, ノイズキャンセリング]
 permalink: /products/ja/anker-soundcore-p40i/

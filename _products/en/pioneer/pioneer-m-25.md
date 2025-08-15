@@ -7,6 +7,7 @@ lang: en
 ref: pioneer-m-25
 date: 2025-08-09
 rating: [2.1, 0.7, 0.3, 0.3, 0.4, 0.4]
+price: 667
 summary: "A power amplifier from Pioneer's late 1970s Series 20 lineup. Features 120W+120W output and RET transistors, but significantly inferior in measurement performance and price competitiveness by modern standards"
 tags: [Measurement Performance, Pioneer, Power amplifier, THD, Vintage]
 permalink: /products/en/pioneer-m-25/

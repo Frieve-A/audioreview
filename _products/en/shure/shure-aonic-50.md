@@ -7,6 +7,7 @@ lang: en
 ref: shure-aonic-50
 date: 2025-07-09
 rating: [2.8, 0.6, 0.4, 0.6, 0.7, 0.5]
+price: 313
 summary: "High build quality but performance doesn't justify premium pricing"
 tags: ["Active noise cancelling", Over-ear, "Wireless headphones"]
 permalink: /products/en/shure-aonic-50/

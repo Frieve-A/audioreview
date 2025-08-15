@@ -7,6 +7,7 @@ lang: en
 ref: sivga-p2-pro
 date: 2025-07-25
 rating: [3.0, 0.6, 0.8, 0.4, 0.5, 0.7]
+price: 532
 summary: "An innovative planar magnetic headphone featuring a sapphire diaphragm, but it faces challenges in cost-performance."
 tags: [Headphones, Open-back, Planar magnetic, Sapphire Diaphragm, Wooden Enclosure]
 permalink: /products/en/sivga-p2-pro/

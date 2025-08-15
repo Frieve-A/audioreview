@@ -7,6 +7,7 @@ lang: ja
 ref: dali-oberon1
 date: 2025-08-07
 rating: [3.1, 0.6, 0.7, 0.5, 0.6, 0.7]
+price: 110250
 summary: "エントリークラスの枠を超えたソリッドな音質を提供するコンパクトブックシェルフスピーカー"
 tags: [ブックシェルフスピーカー, パッシブスピーカー, 2ウェイ, DALI, デンマーク]
 permalink: /products/ja/dali-oberon1/

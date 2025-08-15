@@ -7,6 +7,7 @@ lang: en
 ref: shure-se535
 date: 2025-08-04
 rating: [2.1, 0.3, 0.4, 0.3, 0.8, 0.3]
+price: 449
 summary: "An in-ear monitor based on early 2010s three-way balanced armature design that significantly underperforms modern competitors in scientific validity and cost-performance"
 tags: [Balanced armature, Earphones, In-ear monitors, Shure]
 permalink: /products/en/shure-se535/

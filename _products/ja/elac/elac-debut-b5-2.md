@@ -7,6 +7,7 @@ lang: ja
 ref: elac-debut-b5-2
 date: 2025-08-04
 rating: [2.6, 0.4, 0.6, 0.5, 0.7, 0.4]
+price: 49800
 summary: "ELAC Debut B5.2は中域に高い歪みを持つエントリーレベルブックシェルフスピーカー。EQ補正が必要で出力制限があり、同等機能でより安価な代替品が存在する。"
 tags: [2ウェイ, エントリークラス, スピーカー, パッシブ, ブックシェルフ]
 permalink: /products/ja/elac-debut-b5-2/

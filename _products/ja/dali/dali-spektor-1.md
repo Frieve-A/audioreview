@@ -7,6 +7,7 @@ lang: ja
 ref: dali-spektor-1
 date: 2025-08-07
 rating: [3.2, 0.7, 0.5, 0.9, 0.6, 0.5]
+price: 58800
 summary: "デンマーク製小型ブックシェルフスピーカー。コストパフォーマンスは良好だが技術的革新性に欠ける"
 tags: [エントリークラス, デンマーク製, パッシブスピーカー, ブックシェルフスピーカー]
 permalink: /products/ja/dali-spektor-1/

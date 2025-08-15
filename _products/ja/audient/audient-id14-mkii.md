@@ -7,6 +7,7 @@ lang: ja
 ref: audient-id14-mkii
 date: 2025-08-12
 rating: [4.0, 0.8, 0.7, 1.0, 0.7, 0.8]
+price: 60000
 summary: "Class-Aプリアンプ搭載のUSB-Cインターフェース。機能・測定性能が同等以上のより安価な代替が存在しない"
 tags: [Class-A, Microphone Preamp, USB-C, オーディオインターフェース, 録音]
 permalink: /products/ja/audient-id14-mkii/

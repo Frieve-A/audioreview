@@ -7,6 +7,7 @@ lang: en
 ref: technics-eah-az80
 date: 2025-07-09
 rating: [3.5, 0.7, 0.6, 0.8, 0.8, 0.6]
+price: 165
 summary: "Premium true wireless earbuds achieving high-resolution audio with 10mm aluminum alloy drivers and LDAC support"
 tags: [Earbuds, Hi-Res, Noise cancelling, True-wireless]
 permalink: /products/en/technics-eah-az80/

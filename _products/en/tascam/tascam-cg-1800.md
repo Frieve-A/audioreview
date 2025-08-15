@@ -7,6 +7,7 @@ lang: en
 ref: tascam-cg-1800
 date: 2025-08-05
 rating: [3.6, 0.5, 0.7, 0.7, 0.8, 0.9]
+price: 2599
 summary: "Professional master clock generator with high-precision OCXO. Excellent jitter management technology but limited audible benefits in non-professional setups and higher price compared to some alternatives."
 tags: [Master Clock, Synchronization, Pro Audio, OCXO, Jitter Management]
 permalink: /products/en/tascam-cg-1800/

@@ -7,6 +7,7 @@ lang: en
 ref: trinnov-audio-amethyst
 date: 2025-07-14
 rating: [2.7, 0.7, 0.9, 0.1, 0.7, 0.3]
+price: 10000
 summary: "The Trinnov Audio Amethyst is a preamplifier with advanced room correction technology, but its 10000 USD price lacks scientific justification when compared to the miniDSP SHD offering equivalent functionality for 949 USD"
 tags: [DAC, High-end, Network streamer, Preamplifier, Room-Correction]
 permalink: /products/en/trinnov-audio-amethyst/

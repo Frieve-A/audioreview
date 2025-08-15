@@ -7,6 +7,7 @@ lang: en
 ref: sony-mdr-cd900st
 date: 2025-07-22
 rating: [2.5, 0.4, 0.4, 0.5, 0.8, 0.4]
+price: 101
 summary: "Industry-standard monitor headphones used in Japanese recording studios for many years. Trusted by professionals for over 30 years since its 1989 release, but its performance and cost-effectiveness are significantly outdated by modern standards."
 tags: [Closed-back, Headphones, Japan, Monitor, Studio]
 permalink: /products/en/sony-mdr-cd900st/

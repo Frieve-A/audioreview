@@ -7,6 +7,7 @@ lang: ja
 ref: elecom-ehp-df17cm
 date: 2025-07-30
 rating: [2.9, 0.5, 0.6, 0.9, 0.4, 0.5]
+price: 4000
 summary: "USB-C接続とANCを両立した有線イヤホン。低遅延が求められる用途で価値を持つが、全体的な測定性能の透明性には課題が残る。"
 tags: [イヤホン, USB-C, アクティブノイズキャンセリング, 有線, エレコム]
 permalink: /products/ja/elecom-ehp-df17cm/

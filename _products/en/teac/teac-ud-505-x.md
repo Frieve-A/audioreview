@@ -7,6 +7,7 @@ lang: en
 ref: teac-ud-505-x
 date: 2025-08-03
 rating: [3.4, 0.9, 0.7, 0.3, 0.7, 0.8]
+price: 1043
 summary: "TEAC's USB DAC/headphone amplifier featuring a dual-mono configuration with ESS ES9038Q2M DAC chips. While its measurement performance is excellent, significantly exceeding transparent levels, it faces cost-performance challenges compared to products with equivalent features and performance."
 tags: [768kHz, Balanced output, DAC, DSD512, Dual Mono, ES9038, Headphone amplifier, USB DAC]
 permalink: /products/en/teac-ud-505-x/

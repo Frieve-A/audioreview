@@ -7,6 +7,7 @@ lang: en
 ref: top-wing-usb-lan-bridge
 date: 2025-07-25
 rating: [2.2, 0.2, 0.6, 0.5, 0.6, 0.3]
+price: 293
 summary: "A 293 USD USB 3.0 to SFP port converter claiming an audio-specific design. While providing basic functionality equivalent to StarTech products, it makes scientifically unsubstantiated claims of sound quality improvement."
 tags: [USB-SFP Converter, Network Equipment, Audio Accessory, Media Converter]
 permalink: /products/en/top-wing-usb-lan-bridge/

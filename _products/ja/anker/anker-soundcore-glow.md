@@ -7,6 +7,7 @@ lang: ja
 ref: anker-soundcore-glow
 date: 2025-08-09
 rating: [2.8, 0.4, 0.6, 1.0, 0.5, 0.3]
+price: 9000
 summary: "30W出力・360度サウンドと光演出を特徴とするAnkerの中級ポータブルスピーカー。測定値では1-5kHzの大幅な落ち込みと10kHz以上の過度なブーストが確認され、科学的には問題のあるレベル"
 tags: [360-degree, Bluetooth, LED, スピーカー, ポータブル]
 permalink: /products/ja/anker-soundcore-glow/

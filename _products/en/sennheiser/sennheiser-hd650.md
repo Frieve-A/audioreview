@@ -7,6 +7,7 @@ lang: en
 ref: sennheiser-hd650-review
 date: 2025-07-05
 rating: [4.5, 1.0, 1.0, 0.5, 1.0, 1.0]
+price: 350
 summary: "The completeness that has been cherished as a reference headphone for over 20 years is truly authentic. Its acoustic design is scientifically rational and boasts top-class technology level even by today's standards. Reliability and support systems are also perfect. The only factor that makes the cost-performance evaluation harsh is the existence of the 'Drop HD 6XX' with nearly identical performance at a lower price. However, its absolute performance and reliability continue to be one of the best choices for many audio enthusiasts."
 tags: [Headphones, Open-back, Reference, Classic, Germany]
 permalink: /products/en/sennheiser-hd650/

@@ -7,6 +7,7 @@ lang: ja
 ref: benchmark-ahb2
 date: 2025-08-09
 rating: [3.5, 1.0, 0.9, 0.4, 0.6, 0.6]
+price: 524850
 summary: "THX AAA技術を採用した透明レベル達成パワーアンプ。SINAD 113dBの世界最高クラス測定値を誇るが、国内実勢価格831,110円に対しコストパフォーマンスは限定的。"
 tags: [Benchmark, Class-H, THX-AAA, パワーアンプ, 高価格]
 permalink: /products/ja/benchmark-ahb2/

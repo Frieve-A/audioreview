@@ -7,7 +7,7 @@ lang: ja
 ref: yamaha-ns-f330
 date: 2025-08-13
 rating: [2.2, 0.4, 0.4, 0.4, 0.4, 0.6]
-price: 90000
+price: 180000
 summary: "一般的な2ウェイトールボーイ。独立測定の公開がなく、製品は生産完了。科学的有効性とコスパは中庸"
 tags: [フロアスタンディング, 2ウェイ, バスレフ, ハイレゾ]
 permalink: /products/ja/yamaha-ns-f330/

@@ -7,6 +7,7 @@ lang: en
 ref: topping-e4x4-pre
 date: 2025-07-19
 rating: [2.8, 0.9, 0.5, 0.8, 0.3, 0.3]
+price: 266
 summary: "A USB audio interface with excellent measurement performance but with concerns about reliability."
 tags: [Audio interface, Professional, Recording, Topping, USB]
 permalink: /products/en/topping-e4x4-pre/

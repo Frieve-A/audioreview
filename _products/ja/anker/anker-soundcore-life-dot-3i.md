@@ -7,6 +7,7 @@ lang: ja
 ref: anker-soundcore-life-dot-3i
 date: 2025-07-31
 rating: [3.2, 0.6, 0.5, 0.8, 0.7, 0.6]
+price: 5090
 summary: "5,090円でANCを搭載した完全ワイヤレスイヤホン。35dBのノイズキャンセリング性能と36時間のバッテリー持続時間を提供します。堅実な入門機ですが、よりANC性能に優れ、コストパフォーマンスの高い選択肢が存在します。"
 tags: [Anker, Bluetooth, IPX5, アクティブノイズキャンセリング, ノイズキャンセリング, 完全ワイヤレスイヤホン]
 permalink: /products/ja/anker-soundcore-life-dot-3i/

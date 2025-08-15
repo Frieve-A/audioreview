@@ -7,6 +7,7 @@ lang: ja
 ref: behringer-302usb-xenyx
 date: 2025-07-20
 rating: [3.5, 0.7, 0.4, 1.0, 0.5, 0.9]
+price: 11000
 summary: "コンパクトなUSB内蔵ミキサーとして基本的な機能を提供するが、技術レベルと信頼性に課題がある製品"
 tags: [ミキサー, USB オーディオインターフェース, アナログミキサー, Behringer, 小型ミキサー, XENYX]
 permalink: /products/ja/behringer-302usb-xenyx/

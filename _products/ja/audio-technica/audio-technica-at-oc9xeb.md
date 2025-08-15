@@ -7,6 +7,7 @@ lang: ja
 ref: audio-technica-at-oc9xeb
 date: 2025-07-12
 rating: [2.0, 0.2, 0.2, 0.7, 0.7, 0.2]
+price: 38000
 summary: "Audio-Technica AT-OC9XEBはMCカートリッジ入門機だが、より安価で高性能なMMカートリッジが存在するため、コストパフォーマンスは限定的。忠実度の追求ではなく、レコード再生という趣味性を楽しむための選択肢。"
 tags: [MC型, アナログ, オーディオテクニカ, カートリッジ]
 permalink: /products/ja/audio-technica-at-oc9xeb/

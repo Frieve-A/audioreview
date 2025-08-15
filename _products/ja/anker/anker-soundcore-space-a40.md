@@ -7,6 +7,7 @@ lang: ja
 ref: anker-soundcore-space-a40
 date: 2025-07-31
 rating: [3.5, 0.7, 0.6, 0.9, 0.7, 0.6]
+price: 8990
 summary: "現在8,990円で販売される完全ワイヤレスイヤホン。LDAC対応、最大50時間再生、高性能ANCを搭載し、機能と価格、信頼性のバランスに優れた製品として高い評価を得ている。"
 tags: [Anker, LDAC, Soundcore, Space A40, アクティブノイズキャンセリング, ノイズキャンセリング, ワイヤレスイヤホン]
 permalink: /products/ja/anker-soundcore-space-a40/

@@ -7,6 +7,7 @@ lang: ja
 ref: audient-evo-4
 date: 2025-08-03
 rating: [4.0, 0.8, 0.7, 1.0, 0.7, 0.8]
+price: 23100
 summary: "コンパクトサイズながら透明レベルの測定性能を実現した2入力2出力USBオーディオインターフェース"
 tags: [オーディオインターフェース, USB, レコーディング, 2入力2出力, コンパクト]
 permalink: /products/ja/audient-evo-4/

@@ -7,6 +7,7 @@ lang: ja
 ref: hifiman-he400se
 date: 2025-08-01
 rating: [3.6, 0.7, 0.7, 1.0, 0.7, 0.5]
+price: 16500
 summary: "1万円台という価格帯で、駆動方式の枠を超えた優れた測定性能とコストパフォーマンスを実現するエントリークラスのオープンバック型ヘッドホン"
 tags: [HiFiMan, エントリークラス, オープンバック, 平面磁界]
 permalink: /products/ja/hifiman-he400se/

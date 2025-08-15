@@ -7,6 +7,7 @@ lang: ja
 ref: hegel-h80
 date: 2025-08-03
 rating: [2.3, 0.6, 0.6, 0.1, 0.7, 0.3]
+price: 310000
 summary: "ノルウェーの老舗Hegelによる生産完了済みインテグレーテッドアンプ。SoundEngine技術を搭載したクラスAB設計で堅実な測定性能を示すものの、同等以上の性能を大幅に安価で実現する代替品の存在により、コストパフォーマンスは低い。"
 tags: [AB級, DAC, SoundEngine, インテグレーテッドアンプ, 生産完了]
 permalink: /products/ja/hegel-h80/

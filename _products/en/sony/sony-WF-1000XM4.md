@@ -7,6 +7,7 @@ lang: en
 ref: sony-wf-1000xm4
 date: 2025-07-22
 rating: [3.0, 0.5, 0.7, 0.5, 0.8, 0.5]
+price: 180
 summary: "Features industry-leading noise cancellation, but its sound quality deviates from neutral, and the emergence of cheaper, equally capable alternatives limits its cost-performance."
 tags: [True Wireless, Noise Cancelling, Sony, Earphones, LDAC, Bluetooth]
 permalink: /products/en/sony-wf-1000xm4/

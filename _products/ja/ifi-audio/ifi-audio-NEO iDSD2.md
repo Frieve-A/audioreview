@@ -7,6 +7,7 @@ lang: ja
 ref: ifi-audio-NEO iDSD2
 date: 2025-07-22
 rating: [3.3, 0.8, 0.7, 0.3, 0.8, 0.7]
+price: 133517
 summary: "世界初のaptX Lossless対応を謳うデスクトップDAC/アンプ。優秀な測定性能を持つが、同等以上の性能をはるかに低価格で実現する代替品が存在するため、コストパフォーマンスは低い。"
 tags: [DAC, アンプ, デスクトップオーディオ, Bluetooth, aptX Lossless]
 permalink: /products/ja/ifi-audio-NEO iDSD2/

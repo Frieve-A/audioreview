@@ -7,6 +7,7 @@ lang: en
 ref: topping-pa3s
 date: 2025-08-12
 rating: [3.9, 0.8, 0.7, 1.0, 0.6, 0.8]
+price: 149
 summary: "Balanced Class D amplifier with MA12070 chips delivering transparent performance in compact desktop form factor"
 tags: [Amplifiers, Balanced, Class D, Desktop, MA12070]
 permalink: /products/en/topping-pa3s/

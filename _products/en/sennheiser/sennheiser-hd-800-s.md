@@ -7,6 +7,7 @@ lang: en
 ref: sennheiser-hd-800-s
 date: 2025-07-18
 rating: [2.8, 0.8, 0.7, 0.1, 0.6, 0.6]
+price: 1799
 summary: "The Sennheiser HD 800 S is a legendary open-back headphone with an innovative 56mm ring radiator. While its measured performance is excellent, its 1,799 USD price results in extremely low cost-performance compared to the HiFiMan Sundara (235 USD), which boasts superior accuracy in frequency response. Although the design is rational, the product's price is not justified by its performance."
 tags: [Headphones, Open-back, Dynamic, Reference, High-end]
 permalink: /products/en/sennheiser-hd-800-s/

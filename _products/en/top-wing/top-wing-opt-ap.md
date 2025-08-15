@@ -7,6 +7,7 @@ lang: en
 ref: top-wing-opt-ap
 date: 2025-07-25
 rating: [1.9, 0.2, 0.6, 0.3, 0.5, 0.3]
+price: 220
 summary: "An audio-dedicated Wi-Fi 6 access point that lacks scientific basis and is priced at 3.4 times more than comparable standard Wi-Fi 6 equipment."
 tags: [Wi-Fi, Network, Access Point, Wi-Fi 6]
 permalink: /products/en/top-wing-opt-ap/

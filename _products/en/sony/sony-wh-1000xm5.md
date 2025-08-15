@@ -7,6 +7,7 @@ lang: en
 ref: sony-wh-1000xm5
 date: 2025-07-06
 rating: [3.4, 0.7, 0.8, 0.6, 0.8, 0.5]
+price: 240
 summary: "Sony's flagship noise-canceling headphones featuring 30mm carbon fiber composite drivers and 8-microphone array for industry-leading noise cancellation. LDAC support and 30-hour battery life deliver premium performance. Price dropped to ~240 USD following WH-1000XM6 release in 2025, offering improved value. However, non-folding design philosophy raises portability concerns despite sound quality improvements."
 tags: [Flagship, LDAC, Noise cancelling, Sony, Wireless headphones]
 permalink: /products/en/sony-wh-1000xm5/

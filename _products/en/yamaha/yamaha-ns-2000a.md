@@ -7,6 +7,7 @@ lang: en
 ref: yamaha-ns-2000a
 date: 2025-07-08
 rating: [3.8, 0.8, 0.8, 0.8, 0.8, 0.6]
+price: 2640
 summary: "A floor-standing speaker combining Japanese acoustic engineering with grand piano manufacturing expertise. Features Harmonious Diaphragm technology using ZYLON® and spruce across all drivers, achieving 26Hz-40kHz response. At USD 2,700 the price offers competitive value versus equivalent performance products, though some competitors provide higher efficiency."
 tags: [Floor-standing, Harmonious-Diaphragm, Japan, Speakers, ZYLON]
 permalink: /products/en/yamaha-ns-2000a/

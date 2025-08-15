@@ -7,6 +7,7 @@ lang: ja
 ref: dcs-vivaldi-upsampler
 date: 2025-07-26
 rating: [1.9, 0.1, 0.8, 0.0, 0.8, 0.2]
+price: 3750000
 summary: "英国dCSの最高級アップサンプラーは、同社の高い技術力を示す一方、その中核機能に科学的有効性が認められず、同等機能が1/76の価格で実現可能なため、専用機としての存在意義が問われる製品です。"
 tags: [DDC, アップサンプラー, イギリス, ネットワークストリーマー, ハイエンド]
 permalink: /products/ja/dcs-vivaldi-upsampler/

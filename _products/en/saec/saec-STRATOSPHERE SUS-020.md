@@ -7,6 +7,7 @@ lang: en
 ref: saec-stratosphere-sus-020
 date: 2025-07-22
 rating: [1.2, 0.0, 0.6, 0.0, 0.6, 0.0]
+price: 352
 summary: "Premium USB cable featuring PC-TripleC EX conductor, but its scientific validity and cost-performance are judged to be extremely low."
 tags: [Digital Audio, High-end, PC-TripleC, SAEC, USB Cable]
 permalink: /products/en/saec-stratosphere-sus-020/

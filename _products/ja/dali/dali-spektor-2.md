@@ -7,6 +7,7 @@ lang: ja
 ref: dali-spektor-2
 date: 2025-08-07
 rating: [2.7, 0.5, 0.6, 0.3, 0.7, 0.6]
+price: 39800
 summary: "DALIの入門クラスブックシェルフスピーカー。ウッドファイバーコーンと軽量ツイーターを採用するも、同等機能の低価格製品との価格差が大きい。"
 tags: [ブックシェルフスピーカー, DALI, パッシブスピーカー, 2ウェイ]
 permalink: /products/ja/dali-spektor-2/

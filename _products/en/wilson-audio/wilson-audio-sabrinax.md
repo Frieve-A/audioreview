@@ -7,6 +7,7 @@ lang: en
 ref: wilson-audio-sabrinax
 date: 2025-08-08
 rating: [3.5, 0.8, 0.8, 0.3, 0.8, 0.8]
+price: 18500
 summary: "The Wilson Audio SabrinaX is a 3-way floorstanding speaker incorporating 50 years of the company's technology, but with equivalent performance available at lower prices, there is room for improvement in cost-performance."
 tags: [3-Way, Floorstanding, High-end, Speakers, Wilson Audio]
 permalink: /products/en/wilson-audio-sabrinax/

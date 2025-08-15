@@ -7,6 +7,7 @@ lang: en
 ref: tannoy-sgm10
 date: 2025-08-01
 rating: [3.1, 0.6, 0.7, 0.1, 0.8, 0.9]
+price: 3667
 summary: "10-inch passive studio monitor featuring Dual Concentric technology. While bridging traditional design with modern manufacturing techniques, it faces significant cost-performance challenges"
 tags: [Dual Concentric, Passive speakers, Professional, Studio monitors, Tannoy]
 permalink: /products/en/tannoy-sgm10/

@@ -7,6 +7,7 @@ lang: en
 ref: yamaha-GT-5000
 date: 2025-07-26
 rating: [2.1, 0.2, 0.7, 0.1, 0.9, 0.2]
+price: 7999
 summary: "7,999 USD belt-drive turntable. Features good measured performance for analog, but inherent vinyl limitations result in poor fidelity compared to digital, and the 499 USD Fluance RT85 offers similar analog performance, yielding poor cost-performance."
 tags: [Analog, Belt-drive, Turntable, Yamaha]
 permalink: /products/en/yamaha-GT-5000/

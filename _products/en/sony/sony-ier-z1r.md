@@ -7,6 +7,7 @@ lang: en
 ref: sony-ier-z1r
 date: 2025-07-29
 rating: [2.3, 0.2, 0.8, 0.1, 0.8, 0.4]
+price: 1511
 summary: "While its high technical prowess is recognized, it has serious issues in measured performance and cost-performance, resulting in a low overall rating."
 tags: [Flagship, Hi-Res, Hybrid Driver, In-ear monitors, Sony]
 permalink: /products/en/sony-ier-z1r/

@@ -7,6 +7,7 @@ lang: en
 ref: sforzato-dst-lynx
 date: 2025-08-13
 rating: [2.3, 0.5, 0.2, 1.0, 0.4, 0.2]
+price: 5700
 summary: "ZERO LINK–only network transport. Currently the least-expensive path into ZERO LINK, but no third-party measurements and a narrow ecosystem limit broader appeal."
 tags: [Digital Audio, High-end, Japan, Network Transport, Streaming]
 permalink: /products/en/sforzato-dst-lynx/

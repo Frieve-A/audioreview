@@ -7,6 +7,7 @@ lang: en
 ref: tannoy-turnberry-gr
 date: 2025-07-08
 rating: [3.1, 0.7, 0.8, 0.4, 0.6, 0.6]
+price: 8880
 summary: "A floor-standing speaker carrying forward British dual concentric technology tradition. Features 93dB/W high efficiency and 1.3kHz crossover for musical coherence, but at USD 8,880 the price presents significant cost-performance challenges when equivalent performance is available at 1/3 the cost."
 tags: [Dual-Concentric, Floor-standing, High-Efficiency, Speakers, United Kingdom]
 permalink: /products/en/tannoy-turnberry-gr/

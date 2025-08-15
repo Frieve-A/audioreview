@@ -7,6 +7,7 @@ lang: en
 ref: shure-sm7b
 date: 2025-07-21
 rating: [1.9, 0.3, 0.5, 0.2, 0.4, 0.5]
+price: 399
 summary: "The SM7B is a dynamic microphone widely used in the broadcasting industry, but it has lost competitiveness against newer alternatives in terms of measurement performance and price."
 tags: [Broadcasting, Dynamic, Microphones, Podcast, Shure]
 permalink: /products/en/shure-sm7b/

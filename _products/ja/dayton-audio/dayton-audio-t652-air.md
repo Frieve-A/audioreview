@@ -7,6 +7,7 @@ lang: ja
 ref: dayton-audio-t652-air
 date: 2025-07-23
 rating: [3.7, 0.6, 0.8, 1.0, 0.6, 0.7]
+price: 18375
 summary: "AMTツイーターを搭載し、米国価格基準で世界最安クラスの価格を実現したタワースピーカー"
 tags: [AMTツイーター, エントリークラス, タワースピーカー, バジェット]
 permalink: /products/ja/dayton-audio-t652-air/

@@ -7,6 +7,7 @@ lang: ja
 ref: benchmark-hpa4
 date: 2025-08-10
 rating: [3.4, 0.9, 0.8, 0.2, 0.8, 0.7]
+price: 524850
 summary: "THX AAA-888技術を搭載し、透明レベルを大きく上回る測定性能を実現したフラッグシップヘッドホンアンプ/ライン出力対応プリアンプ"
 tags: [Benchmark, Preamplifier, THX AAA, デスクトップ, ヘッドホンアンプ]
 permalink: /products/ja/benchmark-hpa4/

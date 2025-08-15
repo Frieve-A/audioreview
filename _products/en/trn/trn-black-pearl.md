@@ -7,6 +7,7 @@ lang: en
 ref: trn-black-pearl
 date: 2025-08-07
 rating: [4.2, 0.8, 0.8, 1.0, 0.8, 0.8]
+price: 37
 summary: "The TRN Black Pearl is a portable DAC/amplifier that achieves high-end level performance at a price of 37 USD. With dual CS43131 DAC chips, it delivers transparent measurement performance."
 tags: [Amplifiers, CS43131, China, DAC, Dual-Chip, Portable]
 permalink: /products/en/trn-black-pearl/

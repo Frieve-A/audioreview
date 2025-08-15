@@ -7,6 +7,7 @@ lang: en
 ref: qcy-melobuds-anc
 date: 2025-08-01
 rating: [3.7, 0.6, 0.5, 1.0, 0.7, 0.9]
+price: 27
 summary: "The QCY MeloBuds ANC achieves 40dB hybrid ANC and excellent cost-performance but lacks technical innovation, with its relative appeal diminished by the existence of higher-performance successor models."
 tags: [10mm Driver, Active noise cancelling, Bluetooth 5.2, Wireless Earbuds]
 permalink: /products/en/qcy-melobuds-anc/

@@ -7,6 +7,7 @@ lang: en
 ref: trinnov-audio-altitude48ext
 date: 2025-07-14
 rating: [4.1, 0.5, 0.9, 1.0, 0.9, 0.8]
+price: 34500
 summary: "An AV processor at the highest technical level, capable of up to 64-channel processing. Due to the lack of competitors, its unique value earns it the highest cost-performance rating."
 tags: [High-end, Processors, Theater, Trinnov]
 permalink: /products/en/trinnov-audio-altitude48ext/

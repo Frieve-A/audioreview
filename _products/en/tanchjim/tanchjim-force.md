@@ -7,6 +7,7 @@ lang: en
 ref: tanchjim-force
 date: 2025-07-31
 rating: [3.2, 0.7, 0.8, 0.3, 0.6, 0.8]
+price: 279.99
 summary: "An advanced IEM from the Tanchjim x Effect Audio collaboration. However, it faces a significant cost-performance issue, with alternatives offering equivalent or better acoustic performance available for less than a third of the price."
 tags: [Collaboration, Dual Dynamic, Effect Audio, In-ear monitors, Open-back, Tanchjim]
 permalink: /products/en/tanchjim-force/

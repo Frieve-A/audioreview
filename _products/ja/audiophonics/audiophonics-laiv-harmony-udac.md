@@ -7,6 +7,7 @@ lang: ja
 ref: audiophonics-laiv-harmony-udac
 date: 2025-07-26
 rating: [2.6, 0.8, 0.6, 0.3, 0.5, 0.4]
+price: 149100
 summary: "LAIV Harmony uDACは優秀な測定性能を持つR2Rラダー型DACだが、同等以上の性能を約1/4の価格で実現する製品が存在するため、コストパフォーマンスは極めて低い。"
 tags: [DAC, R2R, LAIV, Audiophonics, ハイレゾ]
 permalink: /products/ja/audiophonics-laiv-harmony-udac/

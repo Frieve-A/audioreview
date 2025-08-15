@@ -7,6 +7,7 @@ lang: en
 ref: sony-mdr-1am2
 date: 2025-07-31
 rating: [2.9, 0.5, 0.7, 0.5, 0.6, 0.6]
+price: 246
 summary: "Lightweight Hi-Res certified headphones with ALCP diaphragm technology and balanced connection support, featuring a comfortable fit."
 tags: [Headphones, Hi-Res, Closed-back, Balanced Connection]
 permalink: /products/en/sony-mdr-1am2/

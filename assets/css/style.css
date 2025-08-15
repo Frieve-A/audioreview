@@ -344,8 +344,28 @@ a:hover {
 .review-header h1 {
   font-size: 32px;
   font-weight: 700;
-  margin-bottom: 25px;
+  margin-bottom: 15px;
   color: #1A1A1A;
+}
+
+.product-price {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-bottom: 25px;
+  padding: 0;
+}
+
+.price-label {
+  font-size: 14px;
+  font-weight: 500;
+  color: #666666;
+}
+
+.price-value {
+  font-size: 16px;
+  font-weight: 600;
+  color: #333333;
 }
 
 /* Rating Gauges */
@@ -646,6 +666,25 @@ a:hover {
 .product-summary, .company-summary {
   color: #666;
   margin: 10px 0;
+}
+
+.product-card-price {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin: 8px 0;
+}
+
+.product-card-price .price-label {
+  font-size: 12px;
+  color: #666;
+  font-weight: 500;
+}
+
+.product-card-price .price-value {
+  font-size: 14px;
+  font-weight: 600;
+  color: #333;
 }
 
 .product-date, .company-date {
@@ -996,6 +1035,21 @@ a:hover {
 
   .review-header h1 {
     font-size: 28px;
+  }
+
+  .product-price {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 4px;
+    padding: 0;
+  }
+
+  .price-label {
+    font-size: 12px;
+  }
+
+  .price-value {
+    font-size: 14px;
   }
 
   /* Mobile gauge chart adjustments */

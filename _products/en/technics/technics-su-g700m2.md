@@ -7,6 +7,7 @@ lang: en
 ref: technics-su-g700m2
 date: 2025-07-27
 rating: [3.0, 0.3, 0.8, 0.3, 0.8, 0.8]
+price: 2699
 summary: "An integrated amplifier utilizing digital amp technology. Its S/N ratio of 67.7dB falls below problematic levels, and its cost-performance is poor due to the existence of cheaper, higher-performing alternatives."
 tags: [Built-in DAC, Digital Amplifier, Integrated amplifier, Phono Stage, Technics]
 permalink: /products/en/technics-su-g700m2/

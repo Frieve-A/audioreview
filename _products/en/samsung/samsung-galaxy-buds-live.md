@@ -7,6 +7,7 @@ lang: en
 ref: samsung-galaxy-buds-live
 date: 2025-07-31
 rating: [2.3, 0.3, 0.4, 0.6, 0.7, 0.3]
+price: 160
 summary: "An open-ear ANC-equipped true wireless earbuds launched in 2020, featuring a distinctive bean-shaped design. The contradictory combination of an open design and ANC creates significant audio quality challenges, and numerous products now offer superior functionality at a lower price, resulting in poor cost-performance."
 tags: [Wireless Earbuds, ANC, Samsung, Open-fit, TWS]
 permalink: /products/en/samsung-galaxy-buds-live/

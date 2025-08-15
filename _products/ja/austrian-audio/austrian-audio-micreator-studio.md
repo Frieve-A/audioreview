@@ -7,6 +7,7 @@ lang: ja
 ref: austrian-audio-micreator-studio
 date: 2025-07-29
 rating: [3.5, 0.7, 0.8, 0.8, 0.6, 0.6]
+price: 24800
 summary: "コンテンツクリエイター向けのUSB-Cコンデンサーマイクロフォン。カスタムカプセルとオープンアコースティック技術を採用し、48kHz/24bitの音質を提供。"
 tags: [USB Microphone, Content Creation, Condenser, USB-C]
 permalink: /products/ja/austrian-audio-micreator-studio/

@@ -7,6 +7,7 @@ lang: en
 ref: topping-e8x8-pre
 date: 2025-07-19
 rating: [3.7, 0.8, 0.8, 1.0, 0.3, 0.8]
+price: 449
 summary: "A professional audio interface that delivers excellent 8-channel recording performance at a phenomenal cost-performance, though with reliability concerns."
 tags: [Audio interface, Microphone Preamp, Pro Audio, Recording Equipment, USB-C]
 permalink: /products/en/topping-e8x8-pre/

@@ -7,6 +7,7 @@ lang: ja
 ref: dcs-rossini-transport
 date: 2025-07-25
 rating: [2.2, 0.8, 0.6, 0.1, 0.6, 0.1]
+price: 3525000
 summary: "英国dCSの高級CD/SACDトランスポート。測定性能は優秀だが、機能的に同等な製品と比較して著しく高価であり、その存在意義は限定的。"
 tags: [CD Transport, Digital Audio, SACD, dCS, ハイエンド]
 permalink: /products/ja/dcs-rossini-transport/

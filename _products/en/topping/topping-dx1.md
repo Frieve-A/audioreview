@@ -7,6 +7,7 @@ lang: en
 ref: topping-dx1
 date: 2025-07-29
 rating: [4.0, 0.8, 0.7, 1.0, 0.7, 0.8]
+price: 99
 summary: "Entry-class DAC/headphone amplifier featuring AK4493S DAC chip. At a price of 99 USD, it achieves transparent-level measured performance with THD+N below 0.0002% and an SNR of 120dB, offering the best cost-performance in its price range."
 tags: [DAC, Desktop, Entry Class, Headphone amplifier, USB DAC]
 permalink: /products/en/topping-dx1/

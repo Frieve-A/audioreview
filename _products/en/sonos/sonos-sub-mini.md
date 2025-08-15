@@ -7,6 +7,7 @@ lang: en
 ref: sonos-sub-mini
 date: 2025-08-12
 rating: [3.1, 0.4, 0.6, 1.0, 0.7, 0.4]
+price: 429
 summary: "Compact wireless subwoofer designed for Sonos ecosystem integration with force-canceling dual 6-inch drivers; convenient and well-integrated, but constrained by ecosystem lock-in and the absence of third-party measured performance data."
 tags: [Subwoofer, Wireless, Compact, Home Theater, Music]
 permalink: /products/en/sonos-sub-mini/

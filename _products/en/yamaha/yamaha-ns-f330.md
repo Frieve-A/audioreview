@@ -7,6 +7,7 @@ lang: en
 ref: yamaha-ns-f330
 date: 2025-08-13
 rating: [2.2, 0.4, 0.4, 0.4, 0.4, 0.6]
+price: 1200
 summary: "Conventional 2-way floorstanding speaker; lacks independent measurements and is now discontinued, yielding middling scientific validity and cost-performance versus cheaper 3-way alternatives"
 tags: [Floorstanding, 2-Way, Bass-Reflex, High-Resolution]
 permalink: /products/en/yamaha-ns-f330/

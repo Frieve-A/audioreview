@@ -7,6 +7,7 @@ lang: ja
 ref: akliam-pd6
 date: 2025-07-28
 rating: [3.8, 0.8, 0.7, 1.0, 0.6, 0.7]
+price: 8800
 summary: "ESS9039Q2M DAC搭載のポータブルDAC/アンプ。高性能DACチップの能力を活かした低歪み・高SN比設計でOLED表示付き軽量機"
 tags: [ポータブルDAC, USB DAC, ESS9039Q2M, バランス出力, ドングル型, OLED表示]
 permalink: /products/ja/akliam-pd6/

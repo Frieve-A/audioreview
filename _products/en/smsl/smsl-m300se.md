@@ -7,6 +7,7 @@ lang: en
 ref: smsl-m300se
 date: 2025-08-08
 rating: [3.7, 0.8, 0.7, 1.0, 0.5, 0.7]
+price: 225
 summary: "The SMSL M300SE offers dual CS43131 DAC chips, balanced output, and MQA support as a desktop DAC/headphone amplifier, but its headphone amplifier section has limited output power that is insufficient for high-impedance loads."
 tags: [Balanced output, DAC, Desktop, Headphone amplifier, MQA]
 permalink: /products/en/smsl-m300se/

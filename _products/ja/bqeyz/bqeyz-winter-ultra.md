@@ -7,6 +7,7 @@ lang: ja
 ref: bqeyz-winter-ultra
 date: 2025-07-29
 rating: [2.5, 0.5, 0.7, 0.4, 0.6, 0.3]
+price: 41250
 summary: "ハイブリッド型ドライバー構成を採用したIEMだが、価格に見合う性能向上は限定的"
 tags: [BQEYZ, Winter Ultra, インイヤーモニター, ハイブリッド, 骨伝導]
 permalink: /products/ja/bqeyz-winter-ultra/

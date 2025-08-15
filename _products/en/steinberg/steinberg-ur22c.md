@@ -7,6 +7,7 @@ lang: en
 ref: steinberg-ur22c
 date: 2025-07-23
 rating: [3.9, 0.6, 0.7, 1.0, 0.8, 0.8]
+price: 157
 summary: "USB 3.0 audio interface supporting 32bit/192kHz. Features D-PRE Class A mic preamps and low-latency DSP effects, achieving high cost-performance with its unique feature set."
 tags: [32bit, Audio interface, Cubase, DSP, USB-C]
 permalink: /products/en/steinberg-ur22c/

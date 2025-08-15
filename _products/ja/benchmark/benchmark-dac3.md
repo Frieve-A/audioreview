@@ -7,6 +7,7 @@ lang: ja
 ref: benchmark-dac3
 date: 2025-08-10
 rating: [4.2, 0.9, 0.8, 0.9, 0.7, 0.9]
+price: 329250
 summary: "ESS ES9028PROチップを搭載した高性能DAC。世界最高レベルの測定値に加え、同等機能・測定性能の中では価格競争力も高い"
 tags: [Benchmark, DAC, ESS, アメリカ, デスクトップDAC, ハイエンド, バランス出力, プロオーディオ]
 permalink: /products/ja/benchmark-dac3/

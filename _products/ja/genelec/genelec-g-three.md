@@ -7,6 +7,7 @@ lang: ja
 ref: genelec-g-three
 date: 2025-07-24
 rating: [3.4, 0.8, 0.7, 0.2, 0.9, 0.8]
+price: 195800
 summary: "フィンランドの老舗プロオーディオメーカーGenelecによる5インチアクティブモニター。優秀な測定性能と信頼性を持つが、同等以上の性能を持つ製品と比較して価格が約6.6倍と極めて高価。"
 tags: [アクティブスピーカー, モニタースピーカー, Genelec, スタジオモニター, プロオーディオ]
 permalink: /products/ja/genelec-g-three/

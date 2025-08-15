@@ -7,6 +7,7 @@ lang: en
 ref: storm-audio-isp-evo
 date: 2025-08-07
 rating: [3.0, 0.5, 0.3, 1.0, 0.6, 0.6]
+price: 20000
 summary: "A fully digital 32-channel immersive sound processor. While measurement data is limited, high fidelity from digital processing is expected, offering superior cost-performance for 32-channel needs compared to competitors."
 tags: [DTS:X, Digital Processing, Dolby Atmos, Immersive Sound, Processors]
 permalink: /products/en/storm-audio-isp-evo/

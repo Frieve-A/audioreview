@@ -7,6 +7,7 @@ lang: en
 ref: trn-vx
 date: 2025-07-24
 rating: [1.9, 0.4, 0.6, 0.2, 0.3, 0.4]
+price: 67
 summary: "A 7-driver hybrid IEM with V-shaped acoustic characteristics delivering stimulating treble, but faces challenges in scientific validity and cost-performance due to 8kHz peak causing listening fatigue and the existence of more affordable alternatives"
 tags: [Hybrid, In-ear monitors, Listening-Fatigue, Treble-emphasized, V-shaped]
 permalink: /products/en/trn-vx/

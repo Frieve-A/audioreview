@@ -7,7 +7,8 @@ lang: en
 ref: yamaha-ns-sw050
 date: 2025-08-14
 rating: [2.4, 0.5, 0.4, 0.6, 0.5, 0.4]
-summary: "An entry-level 8-inch powered subwoofer with Advanced YST II and Twisted Flare Port. Spec’d at 28–200 Hz and 50 W continuous output, it suits small-to-medium rooms; independent measurement data are limited."
+price: 199
+summary: "An entry-level 8-inch powered subwoofer with Advanced YST II and Twisted Flare Port. Spec'd at 28–200 Hz and 50 W continuous output, it suits small-to-medium rooms; independent measurement data are limited."
 tags: [Subwoofer, Yamaha, Home Theater, Compact, Budget]
 permalink: /products/en/yamaha-ns-sw050/
 ---

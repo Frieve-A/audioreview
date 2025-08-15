@@ -7,6 +7,7 @@ lang: ja
 ref: genelec-8320a
 date: 2025-08-03
 rating: [3.4, 0.7, 0.8, 0.3, 0.8, 0.8]
+price: 120000
 summary: "4インチSAMスタジオモニターとして先進的な技術を持つが、同等機能のより安価な代替品に対してコストパフォーマンスに課題がある製品"
 tags: [スタジオモニター, アクティブスピーカー, ニアフィールド, SAM, Genelec]
 permalink: /products/ja/genelec-8320a/

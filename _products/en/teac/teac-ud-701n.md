@@ -7,6 +7,7 @@ lang: en
 ref: teac-ud-701n
 date: 2025-08-01
 rating: [2.2, 0.8, 0.5, 0.1, 0.6, 0.2]
+price: 4300
 summary: "TEAC's all-in-one unit with a proprietary discrete DAC. While its scientific validity clears transparency levels, its performance does not justify the high price, and its cost-performance is extremely low compared to more rational alternatives."
 tags: [DAC, Headphone amplifier, Hi-Res, MQA, Network player, Preamplifier, Streaming, TEAC]
 permalink: /products/en/teac-ud-701n/

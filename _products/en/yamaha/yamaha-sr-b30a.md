@@ -7,6 +7,7 @@ lang: en
 ref: yamaha-sr-b30a
 date: 2025-07-07
 rating: [3.7, 0.8, 0.7, 1.0, 0.8, 0.4]
+price: 163
 summary: "The YAMAHA SR-B30A is an entry-class soundbar offering Dolby Atmos support for 163 USD. Priced approximately 31 USD below its competitor, the DENON DHT-S218 (around 193 USD), it boasts the highest cost-performance for a product with this feature. Its spatial representation via angled upward-firing speakers is also excellent, proving particularly effective for movie viewing. However, its mid-high frequency resolution for music reproduction shows limitations inherent to its price point."
 tags: [Dolby Atmos, Entry Class, Soundbar, Virtual surround, YAMAHA]
 permalink: /products/en/yamaha-sr-b30a/

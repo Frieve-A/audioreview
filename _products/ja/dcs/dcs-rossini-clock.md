@@ -7,6 +7,7 @@ lang: ja
 ref: dcs-rossini-clock
 date: 2025-07-25
 rating: [2.1, 0.2, 0.8, 0.1, 0.8, 0.2]
+price: 2700000
 summary: "dCS Rossini Clockは高精度を謳うマスタークロックですが、現代のオーディオ環境ではその効果は科学的に証明されておらず不要です。同等機能を持つ製品と比較して著しく高価であり、コストパフォーマンスは皆無に等しい製品です。"
 tags: [ジッター, デジタルオーディオ, マスタークロック, 高級]
 permalink: /products/ja/dcs-rossini-clock/

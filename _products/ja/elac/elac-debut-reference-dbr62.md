@@ -7,6 +7,7 @@ lang: ja
 ref: elac-debut-reference-dbr62
 date: 2025-08-04
 rating: [3.8, 0.8, 0.7, 0.7, 0.8, 0.8]
+price: 72000
 summary: "Andrew Jones設計による6.5インチ2ウェイブックシェルフスピーカー。アラミド繊維ウーファーとシルクドームツイーターを搭載し、中性的な音質を実現するが、同等性能の競合品と比較してコストパフォーマンスに課題がある。"
 tags: [ブックシェルフスピーカー, ELAC, Andrew Jones, 2ウェイ, アラミド繊維]
 permalink: /products/ja/elac-debut-reference-dbr62/

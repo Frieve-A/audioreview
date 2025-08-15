@@ -7,7 +7,7 @@ lang: ja
 ref: luxman-d-03r
 date: 2025-08-10
 rating: [2.8, 0.5, 0.7, 0.4, 0.8, 0.4]
-price: 346500
+price: 523650
 summary: "高度なDAC統合とプレミアム品質を備えるハイエンドCDプレーヤー。等価機能の中では最安ではないが、総合的な価値は競争力あり"
 tags: [CDプレーヤー, DAC, デジタルオーディオ, ハイエンド, ラックスマン]
 permalink: /products/ja/luxman-d-03r/

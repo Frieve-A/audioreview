@@ -7,6 +7,7 @@ lang: en
 ref: pioneer-se-m521
 date: 2025-08-09
 rating: [2.7, 0.5, 0.2, 1.0, 0.5, 0.5]
+price: 18
 summary: "A closed-back 40mm-driver headphone with a low-price, bass-tilted design. Public measurements are limited, so per policy scientific certainty remains at the 0.5 baseline."
 tags: [Pioneer, Headphones, Closed-back, Budget]
 permalink: /products/en/pioneer-se-m521/

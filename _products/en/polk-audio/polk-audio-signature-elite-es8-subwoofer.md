@@ -7,6 +7,7 @@ lang: en
 ref: polk-audio-signature-elite-es8-subwoofer
 date: 2025-08-12
 rating: [2.5, 0.5, 0.6, 0.4, 0.5, 0.5]
+price: 449
 summary: "Compact 8-inch subwoofer with modern DSP features but limited output and high pricing"
 tags: [Subwoofer, Polk Audio, Class D, DSP, Home Theater]
 permalink: /products/en/polk-audio-signature-elite-es8-subwoofer/

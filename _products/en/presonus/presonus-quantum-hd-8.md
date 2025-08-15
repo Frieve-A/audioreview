@@ -7,6 +7,7 @@ lang: en
 ref: presonus-quantum-hd-8
 date: 2025-07-21
 rating: [3.7, 0.8, 0.7, 0.7, 0.7, 0.8]
+price: 1018
 summary: "A high-quality audio interface with professional-grade MAX-HD preamps and high dynamic range, but the price gap with similarly performing competitors is a concern."
 tags: [Audio interface, PreSonus, Pro Audio, Recording, USB-C]
 permalink: /products/en/presonus-quantum-hd-8/

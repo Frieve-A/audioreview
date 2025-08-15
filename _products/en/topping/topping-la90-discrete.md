@@ -7,6 +7,7 @@ lang: en
 ref: topping-la90-discrete
 date: 2025-07-14
 rating: [3.3, 0.9, 0.8, 0.4, 0.4, 0.8]
+price: 667
 summary: "Discrete-designed Class AB power amplifier achieving ultra-low distortion and high SNR. Achieves industry-leading measurement performance but faces cost-performance challenges."
 tags: [Class AB, Discrete, High Performance, Power amplifier, Topping]
 permalink: /products/en/topping-la90-discrete/

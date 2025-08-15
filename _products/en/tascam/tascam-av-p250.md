@@ -7,6 +7,7 @@ lang: en
 ref: tascam-av-p250
 date: 2025-08-14
 rating: [2.6, 0.5, 0.3, 0.5, 0.7, 0.6]
+price: 199
 summary: "Basic 15A rack-mount power distributor with circuit breaker protection, polarity checker, and surge/line-noise filters; 13 outlets (10 rear switched, 3 front unswitched). No advanced regulation or sequencing."
 tags: [Audio Accessories, Japan, Professional, Rack mount, Power conditioning]
 permalink: /products/en/tascam-av-p250/

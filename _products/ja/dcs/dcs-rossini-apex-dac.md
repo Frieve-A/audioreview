@@ -7,6 +7,7 @@ lang: ja
 ref: dcs-rossini-apex-dac
 date: 2025-07-25
 rating: [3.1, 0.9, 0.9, 0.0, 0.8, 0.5]
+price: 6500000
 summary: "最新のRing DAC APEX技術を搭載した超高級DAC。優秀な測定性能を実現するが、同等以上の性能を大幅に安価で実現できる製品が存在するため、コストパフォーマンスは極めて低い"
 tags: [APEX, Converter, DAC, Digital, Ring DAC, dCS, ハイエンド]
 permalink: /products/ja/dcs-rossini-apex-dac/

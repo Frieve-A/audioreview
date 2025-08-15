@@ -7,6 +7,7 @@ lang: en
 ref: sony-ult-field-5
 date: 2025-08-09
 rating: [3.1, 0.5, 0.5, 1.0, 0.6, 0.5]
+price: 177
 summary: "Bass-focused portable speaker. With no publicly verified measurements, evaluation is cautious; supports IP67 and up to 25-hour playback"
 tags: [Bluetooth Speaker, Portable speaker, Sony, Waterproof Speaker]
 permalink: /products/en/sony-ult-field-5/

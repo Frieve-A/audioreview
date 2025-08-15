@@ -7,6 +7,7 @@ lang: ja
 ref: ibasso-audio-dc-elite
 date: 2025-08-09
 rating: [2.9, 0.8, 0.7, 0.4, 0.5, 0.5]
+price: 73000
 summary: "プレミアムDAC チップを採用したフラッグシップUSB DAC/アンプドングルながら、同等性能を半額以下で実現可能な代替品が存在するためコストパフォーマンスは厳しい"
 tags: [DAC, ヘッドホンアンプ, ポータブル, ドングル, USB, iBasso Audio, ROHM BD34301EKV]
 permalink: /products/ja/ibasso-audio-dc-elite/

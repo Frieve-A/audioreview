@@ -7,6 +7,7 @@ lang: en
 ref: pioneer-n-70ae
 date: 2025-08-09
 rating: [2.0, 0.5, 0.3, 0.3, 0.5, 0.4]
+price: 1253
 summary: "High-end network audio player featuring dual ESS SABRE32 Ultra DACs. While offering high-resolution audio support, it faces cost-performance challenges versus modern products."
 tags: [DAC, DSD, Hi-Res, Network player, Network streamer, Pioneer]
 permalink: /products/en/pioneer-n-70ae/

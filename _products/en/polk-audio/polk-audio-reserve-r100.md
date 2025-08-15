@@ -7,6 +7,7 @@ lang: en
 ref: polk-audio-reserve-r100
 date: 2025-07-31
 rating: [3.6, 0.6, 0.6, 1.0, 0.7, 0.7]
+price: 599
 summary: "A compact bookshelf speaker with 58Hz-50kHz frequency response. Featuring Pinnacle Ring Radiator technology, it offers excellent cost-performance as it is available at a lower price than major competitors with equivalent performance."
 tags: [2-Way, Bookshelf speakers, Hi-Res Compatible, Polk Audio, Reserve]
 permalink: /products/en/polk-audio-reserve-r100/

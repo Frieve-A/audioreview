@@ -7,6 +7,7 @@ lang: en
 ref: sony-nw-wm1am2
 date: 2025-08-04
 rating: [3.0, 0.7, 0.7, 0.3, 0.8, 0.5]
+price: 1030
 summary: "A high-end DAP product with excellent technology and brand reliability, but faces significant cost-performance challenges due to the existence of competing products that offer equivalent functionality at much lower prices."
 tags: [Android, DSD, Digital audio player, Hi-Res, LDAC, Portable, Sony]
 permalink: /products/en/sony-nw-wm1am2/

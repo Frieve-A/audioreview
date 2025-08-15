@@ -7,6 +7,7 @@ lang: en
 ref: stax-sr-009s
 date: 2025-07-18
 rating: [3.0, 0.7, 0.9, 0.4, 0.6, 0.4]
+price: 3036
 summary: "The STAX SR-009S, one of STAX's flagship models, demonstrates excellent measurement performance but suffers from poor cost-performance due to its 3036 USD price point"
 tags: [Electrostatic Headphones, High-end, Japan, Open-Back, STAX]
 permalink: /products/en/stax-sr-009s/

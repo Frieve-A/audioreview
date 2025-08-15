@@ -7,6 +7,7 @@ lang: en
 ref: rme-adi-2-dac-fs
 date: 2025-07-30
 rating: [3.8, 0.9, 0.8, 0.4, 0.9, 0.8]
+price: 1299
 summary: "Professional-grade DAC with excellent measurement performance and rich features, but cost-performance challenges"
 tags: [DAC, DSD, ESS, Headphone amplifier, Hi-Res, Professional, RME]
 permalink: /products/en/rme-adi-2-dac-fs/

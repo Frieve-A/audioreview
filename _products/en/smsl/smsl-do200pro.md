@@ -7,6 +7,7 @@ lang: en
 ref: smsl-do200pro
 date: 2025-08-05
 rating: [3.6, 0.9, 0.9, 0.5, 0.5, 0.8]
+price: 399
 summary: "The SMSL DO200Pro features 12 CS43131 DAC chips delivering exceptional desktop DAC performance. With XLR 134dB and RCA 128dB dynamic range plus THD+N 0.00006%, it provides acoustic performance significantly exceeding transparency levels."
 tags: [Balanced output, Bluetooth, Dac, Desktop, Hdmi Arc, Preamps]
 permalink: /products/en/smsl-do200pro/

@@ -41,6 +41,7 @@ class ReviewData:
     summary: str
     tags: List[str]
     permalink: str
+    price: Optional[float] = None  # Add price field
     
     # Evaluation criteria scores (extracted from rating array)
     total_score: float = 0.0
@@ -260,7 +261,8 @@ class ReviewValidator:
                 rating=metadata.get('rating', []),
                 summary=metadata.get('summary', ''),
                 tags=metadata.get('tags', []),
-                permalink=metadata.get('permalink', '')
+                permalink=metadata.get('permalink', ''),
+                price=metadata.get('price')  # Extract price field
             )
             
             # Extract product ID for cross-language comparison
@@ -890,6 +892,65 @@ class ReviewValidator:
         
         return issues
     
+    def validate_price_consistency_between_languages(self) -> List[str]:
+        """Check price consistency between Japanese and English reviews of the same product"""
+        issues = []
+        
+        # Group reviews by product ID
+        product_reviews = {}
+        for review in self.reviews:
+            if review.product_id and review.layout == "product":  # Only check product reviews
+                if review.product_id not in product_reviews:
+                    product_reviews[review.product_id] = {}
+                product_reviews[review.product_id][review.lang] = review
+        
+        # Check for products with both Japanese and English reviews
+        for product_id, lang_reviews in product_reviews.items():
+            if 'ja' in lang_reviews and 'en' in lang_reviews:
+                ja_review = lang_reviews['ja']
+                en_review = lang_reviews['en']
+                
+                # Check if both reviews have price information
+                if ja_review.price is not None and en_review.price is not None:
+                    try:
+                        # Convert prices to float
+                        ja_price = float(ja_review.price)
+                        en_price = float(en_review.price)
+                        
+                        # Skip validation if both prices are 0 (free software)
+                        if ja_price == 0 and en_price == 0:
+                            # Both prices are 0, which is valid for free software
+                            pass
+                        elif en_price > 0:  # Avoid division by zero
+                            exchange_rate = ja_price / en_price
+                            
+                            # Check if exchange rate is within acceptable range (100-200 JPY per USD)
+                            if exchange_rate < 100:
+                                issues.append(f"Price exchange rate too low for {product_id}: "
+                                            f"{exchange_rate:.1f} JPY/USD (JPY: {ja_price}, USD: {en_price}) "
+                                            f"- Rate should be 100-200 JPY/USD")
+                            elif exchange_rate > 200:
+                                issues.append(f"Price exchange rate too high for {product_id}: "
+                                            f"{exchange_rate:.1f} JPY/USD (JPY: {ja_price}, USD: {en_price}) "
+                                            f"- Rate should be 100-200 JPY/USD")
+                            else:
+                                # Exchange rate is within acceptable range
+                                pass
+                        else:
+                            issues.append(f"Invalid USD price for {product_id}: {en_price} (must be greater than 0)")
+                    
+                    except (ValueError, TypeError):
+                        issues.append(f"Invalid price format for {product_id}: "
+                                    f"JPY: {ja_review.price}, USD: {en_review.price}")
+                
+                elif ja_review.price is None and en_review.price is not None:
+                    issues.append(f"Missing JPY price for {product_id} (USD price exists: {en_review.price})")
+                elif ja_review.price is not None and en_review.price is None:
+                    issues.append(f"Missing USD price for {product_id} (JPY price exists: {ja_review.price})")
+                # If both prices are None, no issue (price field is optional)
+        
+        return issues
+    
     def validate_all_reviews(self) -> None:
         """Validate all review files"""
         print("Searching for review files...")
@@ -1009,6 +1070,18 @@ class ReviewValidator:
                     print(f"  - {issue}")
             else:
                 print("[OK] Cross-language score consistency check passed")
+            
+            # Check cross-language price consistency
+            print("\n" + "="*50)
+            print("Checking cross-language price consistency...")
+            price_issues = self.validate_price_consistency_between_languages()
+            
+            if price_issues:
+                print(f"[ERROR] Cross-language price issues found: {len(price_issues)}")
+                for issue in price_issues:
+                    print(f"  - {issue}")
+            else:
+                print("[OK] Cross-language price consistency check passed")
     
     def generate_report(self) -> str:
         """Generate validation result report"""
@@ -1024,12 +1097,14 @@ class ReviewValidator:
         
         # Cross-language consistency check
         cross_lang_issues = self.validate_score_consistency_between_languages()
+        price_issues = self.validate_price_consistency_between_languages()
         
         report.append("## Summary Statistics")
         report.append(f"- Reviews validated: {total_reviews}")
         report.append(f"- Reviews with issues: {reviews_with_issues}")
         report.append(f"- Total issues detected: {total_issues}")
         report.append(f"- Cross-language consistency issues: {len(cross_lang_issues)}")
+        report.append(f"- Cross-language price issues: {len(price_issues)}")
         if total_reviews > 0:
             report.append(f"- Compliance rate: {((total_reviews - reviews_with_issues) / total_reviews * 100):.1f}%")
         else:
@@ -1047,6 +1122,10 @@ class ReviewValidator:
         for issue in cross_lang_issues:
             issue_categories["Cross-Language Score Mismatch"] = issue_categories.get("Cross-Language Score Mismatch", 0) + 1
         
+        # Add price issues to categories
+        for issue in price_issues:
+            issue_categories["Cross-Language Price Mismatch"] = issue_categories.get("Cross-Language Price Mismatch", 0) + 1
+        
         if issue_categories:
             report.append("## Issue Classification")
             for category, count in sorted(issue_categories.items(), key=lambda x: x[1], reverse=True):
@@ -1057,6 +1136,13 @@ class ReviewValidator:
         if cross_lang_issues:
             report.append("## Cross-Language Score Consistency Issues")
             for issue in cross_lang_issues:
+                report.append(f"- {issue}")
+            report.append("")
+        
+        # Cross-language price consistency issues
+        if price_issues:
+            report.append("## Cross-Language Price Consistency Issues")
+            for issue in price_issues:
                 report.append(f"- {issue}")
             report.append("")
         
@@ -1110,7 +1196,8 @@ class ReviewValidator:
             "in the future": "12. **Date Range Error**: Dates must be between site launch date (2025-07-05) and current date",
             "Title first part": "13. **Title Consistency Error**: Title first part must match target_name exactly",
             "Forbidden term": "14. **Forbidden Terms Policy Violation**: Replace table/chart terminology with appropriate evaluation levels like '透明レベル', '問題レベル', 'transparent level', 'issue level'",
-            "Japanese currency": "15. **Currency Conversion Recommendation**: Consider converting Japanese yen (JPY) to USD for international audience in English reviews"
+            "Japanese currency": "15. **Currency Conversion Recommendation**: Consider converting Japanese yen (JPY) to USD for international audience in English reviews",
+            "Price exchange rate": "16. **Price Consistency Error**: Ensure exchange rate between JPY and USD prices is within 100-200 JPY/USD range"
         }
         
         # Get unique recommendations
@@ -1164,6 +1251,8 @@ class ReviewValidator:
         
         # クロス言語の問題も追加
         cross_lang_issues = self.validate_score_consistency_between_languages()
+        price_issues = self.validate_price_consistency_between_languages()
+        
         if cross_lang_issues:
             if "Cross-Language Score Mismatch" not in issue_categories:
                 issue_categories["Cross-Language Score Mismatch"] = {"count": 0, "files": set()}
@@ -1175,6 +1264,19 @@ class ReviewValidator:
                     for issue in cross_lang_issues:
                         if review.product_id in issue:
                             issue_categories["Cross-Language Score Mismatch"]["files"].add(review.file_path)
+        
+        # Add price issues to categories
+        if price_issues:
+            if "Cross-Language Price Mismatch" not in issue_categories:
+                issue_categories["Cross-Language Price Mismatch"] = {"count": 0, "files": set()}
+            issue_categories["Cross-Language Price Mismatch"]["count"] += len(price_issues)
+            # Add files involved in price issues
+            for review in self.reviews:
+                if review.product_id and review.layout == "product":
+                    # Check if this product has price issues
+                    for issue in price_issues:
+                        if review.product_id in issue:
+                            issue_categories["Cross-Language Price Mismatch"]["files"].add(review.file_path)
         
         # 1件以上登場した問題のみを表示
         if issue_categories:
@@ -1234,6 +1336,8 @@ class ReviewValidator:
             return "Currency Conversion Recommendation"
         elif "cross-language" in issue_lower or "score mismatch" in issue_lower:
             return "Cross-Language Score Mismatch"
+        elif "price exchange rate" in issue_lower or "price consistency" in issue_lower:
+            return "Cross-Language Price Mismatch"
         else:
             return "Other"
 

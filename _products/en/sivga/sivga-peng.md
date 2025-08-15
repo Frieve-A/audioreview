@@ -7,6 +7,7 @@ lang: en
 ref: sivga-peng
 date: 2025-07-25
 rating: [2.3, 0.5, 0.6, 0.2, 0.5, 0.5]
+price: 495
 summary: "A closed-back headphone featuring African zebrawood earcups and 50mm sapphire composite diaphragm drivers. While offering a warm sound signature, it demonstrates poor cost-performance compared to products with equivalent performance."
 tags: [Headphones, Closed-Back, Wood, Sivga]
 permalink: /products/en/sivga-peng/

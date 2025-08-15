@@ -7,6 +7,7 @@ lang: ja
 ref: adam-audio-a5x
 date: 2025-07-31
 rating: [2.5, 0.6, 0.8, 0.2, 0.4, 0.5]
+price: 213000
 summary: "X-ARTツイーターを搭載した5.5インチニアフィールドモニターですが、フロントポート設計による1.1kHzでの明確な周波数特性の問題と、廃番による限定的なサポートが課題となっています。"
 tags: [スタジオモニター, ニアフィールド, X-ARTツイーター, 廃番製品]
 permalink: /products/ja/adam-audio-a5x/

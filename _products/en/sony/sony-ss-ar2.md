@@ -7,6 +7,7 @@ lang: en
 ref: sony-ss-ar2
 date: 2025-08-07
 rating: [3.0, 0.7, 0.7, 0.1, 0.8, 0.7]
+price: 10000
 summary: "A 10,000 USD 3-way floorstanding speaker featuring custom Scan-Speak drivers and Japanese maple wood baffle, but with low cost-performance compared to equivalent performance competitors."
 tags: [Floorstanding speakers, Hi-Fi, Scan-Speak, Sony]
 permalink: /products/en/sony-ss-ar2/

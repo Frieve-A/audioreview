@@ -7,6 +7,7 @@ lang: ja
 ref: focal-sub-one
 date: 2025-08-13
 rating: [2.9, 0.5, 0.6, 0.6, 0.8, 0.4]
+price: 179850
 summary: "デュアル8インチSlatefiberと200W RMS（100W×2, Class D）のプロ向けアクティブサブ。米国1,199 USD／国内121,000円。±3dB 32–120Hz・114dB peakの仕様で、同等以上の測定性能を満たしつつ安価な選択肢があるため、価格優位性は限定的です。"
 tags: [サブウーファー, アクティブ, スタジオ, プロフェッショナル, Slatefiber]
 permalink: /products/ja/focal-sub-one/

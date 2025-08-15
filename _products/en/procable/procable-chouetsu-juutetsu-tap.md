@@ -7,6 +7,7 @@ lang: en
 ref: procable-chouetsu-juutetsu-tap
 date: 2025-07-26
 rating: [1.2, 0.2, 0.3, 0.1, 0.5, 0.1]
+price: 125
 summary: "A Japanese audio power strip with a heavy iron casing, but it is an expensive product that lacks scientific evidence and has low rationality in its design philosophy."
 tags: [Audio Accessories, Japan, Power Strip, procable]
 permalink: /products/en/procable-chouetsu-juutetsu-tap/

@@ -7,6 +7,7 @@ lang: en
 ref: sennheiser-hd-599se
 date: 2025-08-07
 rating: [3.5, 0.7, 0.6, 0.8, 0.7, 0.7]
+price: 95
 summary: "The Sennheiser HD 599SE is an open-back headphone featuring E.A.R. technology. While it demonstrates good measurement performance, the existence of more affordable alternatives with equivalent or better performance presents a challenge in terms of cost-performance."
 tags: [Headphones, Open-Back, Sennheiser, Audiophile]
 permalink: /products/en/sennheiser-hd-599se/

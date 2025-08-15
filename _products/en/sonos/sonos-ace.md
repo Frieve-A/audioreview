@@ -7,6 +7,7 @@ lang: en
 ref: sonos-ace
 date: 2025-08-09
 rating: [2.4, 0.3, 0.6, 0.6, 0.4, 0.5]
+price: 399
 summary: "Sonos's first headphone product. Features unique functions like TV Audio Swap, but scientific validity is below average due to V-shaped frequency response and distortion issues"
 tags: [Bluetooth, Headphones, Noise cancelling, Over-ear, Wireless]
 permalink: /products/en/sonos-ace/

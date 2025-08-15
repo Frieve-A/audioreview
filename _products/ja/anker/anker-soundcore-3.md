@@ -7,6 +7,7 @@ lang: ja
 ref: anker-soundcore-3
 date: 2025-07-19
 rating: [2.4, 0.5, 0.6, 0.5, 0.4, 0.4]
+price: 6500
 summary: "チタンドライバー搭載のポータブルBluetoothスピーカー。同等製品が半額で入手可能でコストパフォーマンスに課題あり"
 tags: [ポータブルスピーカー, Bluetooth, IPX7防水, BassUp, チタンドライバー]
 permalink: /products/ja/anker-soundcore-3/

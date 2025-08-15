@@ -7,6 +7,7 @@ lang: ja
 ref: fiio-KA17
 date: 2025-07-22
 rating: [4.3, 0.9, 0.8, 1.0, 0.8, 0.8]
+price: 20990
 summary: "デュアルES9069Q DAC搭載のポータブルDAC/アンプ。THD+N 0.0015%以下、S/N比123dB、650mW出力を実現し、デスクトップレベルの測定性能を小型筐体で提供する高性能製品。"
 tags: [DAC, ヘッドホンアンプ, ポータブル, USB, バランス出力, THX]
 permalink: /products/ja/fiio-KA17/

@@ -7,6 +7,7 @@ lang: en
 ref: topping-dx5-ii
 date: 2025-07-19
 rating: [3.6, 0.9, 0.8, 0.6, 0.4, 0.9]
+price: 299
 summary: "2025 desktop DAC-headphone amplifier combo featuring dual ES9039Q2M chips and new X-Hybrid amplifier. While measurement performance is excellent, long-term reliability is a concern considering quality issues reported with the company's past products."
 tags: [DAC, Desktop, ES9039Q2M, Headphone amplifier, X-Hybrid]
 permalink: /products/en/topping-dx5-ii/

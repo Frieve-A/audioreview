@@ -7,6 +7,7 @@ lang: en
 ref: sony-mdr-7506
 date: 2025-07-23
 rating: [2.7, 0.3, 0.4, 1.0, 0.8, 0.2]
+price: 100
 summary: "An industry standard for many years, but its measurement performance is problematic by modern standards. Its cost-competitiveness is lost as superior competitors are available in the same price range."
 tags: [Closed-back, Headphones, Professional, Studio monitors]
 permalink: /products/en/sony-mdr-7506/

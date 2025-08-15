@@ -7,6 +7,7 @@ lang: en
 ref: rupert-neve-designs-rndi
 date: 2025-07-21
 rating: [2.9, 0.7, 0.7, 0.1, 0.8, 0.6]
+price: 260
 summary: "A premium DI box with unique analog technology. While its design is excellent, its cost-performance is extremely poor, and its necessity is questionable in the modern era."
 tags: [Audio interface, DI Box, Recording Equipment, Rupert Neve]
 permalink: /products/en/rupert-neve-designs-rndi/

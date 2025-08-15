@@ -7,6 +7,7 @@ lang: en
 ref: smsl-pl100
 date: 2025-08-13
 rating: [3.4, 0.7, 0.5, 1.0, 0.5, 0.7]
+price: 105.99
 summary: "Budget CD player with optical/coaxial digital outs and modest 3.5 mm headphone amp; 5 V/2 A USB power (adapter not included). Manufacturer specs indicate transparent-level analog performance; unmatched price for its feature set."
 tags: [CD Player, DAC, Budget Audio, Digital Transport]
 permalink: /products/en/smsl-pl100/

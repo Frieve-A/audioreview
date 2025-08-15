@@ -7,6 +7,7 @@ lang: ja
 ref: holo-audio-may-dac-kte
 date: 2025-07-31
 rating: [3.0, 0.8, 0.8, 0.2, 0.8, 0.4]
+price: 840000
 summary: "優れた測定性能を誇るフラッグシップR2R DAC。しかし、技術選択の合理性に乏しく、より安価で高性能な代替品の存在によりコストパフォーマンスは極めて低い。"
 tags: [DAC, R2R, ディスクリート, ハイエンド, 中国]
 permalink: /products/ja/holo-audio-may-dac-kte/

@@ -7,6 +7,7 @@ lang: ja
 ref: beats-solo-4
 date: 2025-08-12
 rating: [2.9, 0.4, 0.5, 0.8, 0.6, 0.6]
+price: 29850
 summary: "50時間バッテリーと改良された周波数特性を持つワイヤレスオンイヤーヘッドホンだが、音質とコストパフォーマンスで激しい競争に直面"
 tags: [ワイヤレス, Bluetooth, オンイヤー, コンシューマー]
 permalink: /products/ja/beats-solo-4/

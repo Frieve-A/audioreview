@@ -7,6 +7,7 @@ lang: en
 ref: sonicake-sonic-cube-ii
 date: 2025-08-09
 rating: [2.2, 0.5, 0.3, 1.0, 0.2, 0.2]
+price: 69
 summary: "Sonicake Sonic Cube II (QAI-22) is a 2-channel USB audio interface around 69 USD (8,800円 in JP market). Manufacturer claims 24bit/48kHz support and +48V phantom power, but third-party measurements are currently unavailable, limiting scientific validity [1][2][3]."
 tags: [2-Channel, Audio interface, Digital Modeling, Phantom Power, USB Connection]
 permalink: /products/en/sonicake-sonic-cube-ii/

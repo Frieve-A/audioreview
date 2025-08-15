@@ -7,6 +7,7 @@ lang: ja
 ref: eve-audio-sc203
 date: 2025-08-11
 rating: [2.7, 0.5, 0.7, 0.8, 0.4, 0.3]
+price: 68000
 summary: "μAMTツイーター搭載のコンパクトモニター。価格は349 USD級（Kali LP‑UNF等）と比べ高め。コスパの定量比較は本文参照"
 tags: [スタジオモニター, アクティブスピーカー, ニアフィールドモニター, デスクトップモニター]
 permalink: /products/ja/eve-audio-sc203/

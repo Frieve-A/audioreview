@@ -7,6 +7,7 @@ lang: en
 ref: soundpeats-engine4
 date: 2025-07-25
 rating: [3.6, 0.6, 0.7, 0.9, 0.6, 0.8]
+price: 57
 summary: "True wireless earbuds achieving excellent cost-performance with coaxial dual drivers and LDAC support at a 57 USD price point"
 tags: [Bluetooth5.3, Budget, Dual Driver, Hi-Res, LDAC, Wireless Earbuds]
 permalink: /products/en/soundpeats-engine4/

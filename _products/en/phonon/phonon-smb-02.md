@@ -7,6 +7,7 @@ lang: en
 ref: phonon-smb-02
 date: 2025-08-04
 rating: [2.5, 0.5, 0.5, 0.4, 0.6, 0.5]
+price: 280
 summary: "Professional monitor headphones by Japan's PHONON. Features proprietary PHD concept but lacks measurement data transparency and has significant cost-performance issues compared to equivalent competing products."
 tags: [Headphones, Monitor, Pro Audio, Japan, Studio]
 permalink: /products/en/phonon-smb-02/

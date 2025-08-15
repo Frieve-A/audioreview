@@ -7,6 +7,7 @@ lang: en
 ref: sabaj-a20d
 date: 2025-08-10
 rating: [4.0, 0.9, 0.8, 0.7, 0.6, 1.0]
+price: 420
 summary: "Desktop DAC/headphone amplifier with AK4499EX chip achieving reference-level performance (≈120dB SINAD). Offers solid value relative to current 299 USD-class balanced DAC/amp alternatives."
 tags: [DAC, Headphone-Amplifier, Desktop, USB, Bluetooth, MQA, DSD]
 permalink: /products/en/sabaj-a20d/

@@ -7,6 +7,7 @@ lang: en
 ref: tago-studio-takasaki-t3-01
 date: 2025-08-13
 rating: [2.3, 0.5, 0.6, 0.3, 0.5, 0.4]
+price: 470
 summary: "Japanese closed-back headphones with maple wood housing and silk protein-coated drivers targeting studio monitor applications but lacking transparent performance"
 tags: [Closed-back, Headphones, Japan, Monitor, Studio, Wood]
 permalink: /products/en/tago-studio-takasaki-t3-01/

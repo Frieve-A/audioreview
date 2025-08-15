@@ -7,6 +7,7 @@ lang: ja
 ref: eve-audio-sc204
 date: 2025-07-30
 rating: [3.4, 0.7, 0.8, 0.5, 0.6, 0.8]
+price: 105000
 summary: "ドイツEVE Audioによる4インチアクティブスタジオモニター。AMT技術とSilverCone技術により高音質を実現しますが、同等以上の性能を持つ競合製品の存在によりコストパフォーマンスは平均的な水準です。"
 tags: [スタジオモニター, アクティブスピーカー, ニアフィールドモニター, デスクトップモニター]
 permalink: /products/ja/eve-audio-sc204/

@@ -7,6 +7,7 @@ lang: ja
 ref: denon-perl-pro-ah-c15pl
 date: 2025-08-07
 rating: [2.7, 0.3, 0.8, 0.4, 0.7, 0.5]
+price: 35000
 summary: "パーソナライズ機能を搭載した高価格帯完全ワイヤレスイヤホン。先進的な個人最適化技術を採用するものの、基本的な音響性能に問題を抱えており、価格に見合わない製品となっている。"
 tags: [ノイズキャンセリング, パーソナライズ機能, 完全ワイヤレスイヤホン, 高価格]
 permalink: /products/ja/denon-perl-pro-ah-c15pl/

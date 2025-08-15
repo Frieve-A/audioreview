@@ -7,6 +7,7 @@ lang: ja
 ref: creative-aurvana-ace-2
 date: 2025-07-31
 rating: [2.4, 0.3, 0.6, 0.7, 0.5, 0.3]
+price: 22048
 summary: "xMEMS技術を採用した先進的なTrue Wirelessイヤホンだが、歪み問題とANC不具合により音質面で深刻な課題を抱える"
 tags: [Creative, True Wireless, xMEMS, アクティブノイズキャンセリング, デュアルドライバー]
 permalink: /products/ja/creative-aurvana-ace-2/

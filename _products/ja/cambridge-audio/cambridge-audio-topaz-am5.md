@@ -7,6 +7,7 @@ lang: ja
 ref: cambridge-audio-topaz-am5
 date: 2025-08-09
 rating: [2.5, 0.5, 0.4, 1.0, 0.4, 0.2]
+price: 16875
 summary: "Cambridge Audio Topaz AM5は25W出力の入門用統合アンプで、アナログ入力のみのシンプルな構成を特徴とします。既に製造終了で中古流通のみで入手可能で、現行代替製品と比べ機能面で劣ります。"
 tags: [Cambridge Audio, アンプ, インテグレーテッドアンプ, 入門機]
 permalink: /products/ja/cambridge-audio-topaz-am5/

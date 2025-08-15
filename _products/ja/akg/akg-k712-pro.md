@@ -7,6 +7,7 @@ lang: ja
 ref: akg-k712-pro
 date: 2025-07-08
 rating: [3.2, 0.7, 0.6, 0.3, 0.8, 0.8]
+price: 34800
 summary: "フラットな周波数特性を持つ開放型リファレンスヘッドホン。音質は優秀だが価格競争力に課題があり、安価な代替品が存在。"
 tags: [DTM, ヘッドホン, モニタリング, リファレンス, 開放型]
 permalink: /products/ja/akg-k712-pro/

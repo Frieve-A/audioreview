@@ -7,6 +7,7 @@ lang: ja
 ref: eclipse-td508mk4
 date: 2025-08-02
 rating: [2.8, 0.5, 0.7, 0.4, 0.7, 0.5]
+price: 134640
 summary: "Eclipse TD508MK4は優れたインパルス応答を追求したフルレンジスピーカーです。しかし、物理的制約による性能限界と、DSP技術でより高い性能を低コストで実現する現代の競合製品を前に、その価値は限定的です。"
 tags: [フルレンジスピーカー, ブックシェルフスピーカー, 単一ドライバー, 日本]
 permalink: /products/ja/eclipse-td508mk4/

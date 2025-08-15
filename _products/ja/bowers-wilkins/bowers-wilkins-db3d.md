@@ -7,6 +7,7 @@ lang: ja
 ref: bowers-wilkins-db3d
 date: 2025-08-12
 rating: [4.3, 0.7, 0.8, 1.0, 0.9, 0.9]
+price: 630000
 summary: "デュアル8インチAerofoilドライバーと1000Wアンプを搭載するプレミアムコンパクトサブウーファー。メーカー公表の極めて深い低域拡張と堅牢なDSP/アプリ制御を備え、同等以上の公表拡張を満たすより安価な代替は本稿時点で確認できません。"
 tags: [サブウーファー, 密閉型, コンパクト, プレミアム, デュアルドライバー, DSP]
 permalink: /products/ja/bowers-wilkins-db3d/

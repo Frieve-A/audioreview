@@ -7,6 +7,7 @@ lang: en
 ref: sony-xba-n3
 date: 2025-07-25
 rating: [2.1, 0.6, 0.5, 0.1, 0.6, 0.3]
+price: 267
 summary: "Despite adopting a hybrid driver configuration, this product faces significant cost-performance challenges, especially now that it is discontinued."
 tags: [Earphones, Hybrid, Hi-Res, Sony]
 permalink: /products/en/sony-xba-n3/

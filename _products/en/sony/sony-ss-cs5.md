@@ -7,6 +7,7 @@ lang: en
 ref: sony-ss-cs5
 date: 2025-07-25
 rating: [3.4, 0.4, 0.6, 1.0, 0.7, 0.7]
+price: 199
 summary: "Sony's entry-class 3-way bookshelf speaker. A competitive product that achieves a 53Hz low-frequency limit with a 3-way design at this price point."
 tags: [3-Way, Bookshelf speakers, Entry Class]
 permalink: /products/en/sony-ss-cs5/

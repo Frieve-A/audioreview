@@ -7,6 +7,7 @@ lang: ja
 ref: elac-varro-ds-1000
 date: 2025-08-12
 rating: [2.6, 0.6, 0.6, 0.6, 0.4, 0.4]
+price: 405000
 summary: "先進的なアプリ制御とAuto EQを搭載したシールド型デュアル10インチサブウーファー。堅実な性能を提供するが、2,699.98 USDでのコストパフォーマンスは良くない"
 tags: [サブウーファー, シールド型, デュアルドライバー, アプリ制御, Auto-EQ]
 permalink: /products/ja/elac-varro-ds-1000/

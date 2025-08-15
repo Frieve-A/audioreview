@@ -7,6 +7,7 @@ lang: ja
 ref: gustard-a18
 date: 2025-08-10
 rating: [3.6, 0.9, 0.5, 1.0, 0.6, 0.6]
+price: 84000
 summary: "AK4499搭載のバランス対応DAC。包括的な接続性と高品質な作りを備え、同等以上の機能・測定性能を持つより安価な代替が確認できないため、サイト規定上のCPは最大評価です。"
 tags: [DAC, バランス, AK4499, デスクトップ, Bluetooth]
 permalink: /products/ja/gustard-a18/

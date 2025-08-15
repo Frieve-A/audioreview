@@ -7,6 +7,7 @@ lang: ja
 ref: edifier-m60
 date: 2025-07-11
 rating: [2.5, 0.3, 0.4, 1.0, 0.4, 0.4]
+price: 25000
 summary: "66W出力でLDAC対応のコンパクトデスクトップスピーカー。VGP2025金賞受賞も、測定データ不足により性能検証が不可能で、科学的有効性は厳しい評価となる。ただし、同等の66W RMS製品と比較して優れたコストパフォーマンスを示す。"
 tags: [デスクトップスピーカー, Bluetooth, LDAC, ハイレゾ, アクティブスピーカー]
 permalink: /products/ja/edifier-m60/

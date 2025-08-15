@@ -7,6 +7,7 @@ lang: en
 ref: sunvalley-sv-275
 date: 2025-07-25
 rating: [1.0, 0.1, 0.2, 0.1, 0.5, 0.1]
+price: 660
 summary: "Despite being a KT88 push-pull tube amplifier, the SV-275 exhibits poor measurement performance with 10% THD, while the 89.99 USD Fosi Audio V3 achieves equivalent output with 0.003% THD, making it scientifically untenable by audio quality standards."
 tags: [KT88, Power amplifier, Push-Pull, Tube Amplifier]
 permalink: /products/en/sunvalley-sv-275/

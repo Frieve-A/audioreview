@@ -7,6 +7,7 @@ lang: en
 ref: thieaudio-prestige
 date: 2025-08-14
 rating: [2.6, 0.6, 0.7, 0.1, 0.6, 0.6]
+price: 1299
 summary: "Flagship tribrid (Prestige LTD) with 9 drivers and a 5-way crossover; technically coherent, but measured-performance peers like Truthear ZERO: RED at 64.99 USD make the value proposition weak."
 tags: [Electrostatic, Flagship, In-Ear-Monitor, In-ear monitors, Tribrid]
 permalink: /products/en/thieaudio-prestige/

@@ -7,6 +7,7 @@ lang: ja
 ref: beyerdynamic-mmx-300-2nd-generation
 date: 2025-08-12
 rating: [2.8, 0.6, 0.7, 0.3, 0.6, 0.6]
+price: 37493
 summary: "適度なオーディオ品質を持つゲーミングヘッドセットだが、現代の代替品と比較してコストパフォーマンスは中程度"
 tags: [ゲーミングヘッドセット, 密閉型, 有線, ドイツ製]
 permalink: /products/ja/beyerdynamic-mmx-300-2nd-generation/

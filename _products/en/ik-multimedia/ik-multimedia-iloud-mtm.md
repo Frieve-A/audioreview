@@ -7,7 +7,7 @@ lang: en
 ref: ik-multimedia-iloud-mtm
 date: 2025-08-10
 rating: [3.4, 0.6, 0.7, 1.0, 0.6, 0.5]
-price: 350
+price: 700
 summary: "Ultra-compact studio monitor with D'Appolito configuration. Built-in ARC room correction covers 40Hz–24kHz; small-driver physics constrain dynamics at higher SPL."
 tags: [Active, Compact, DSP, MTM, Room correction, Studio monitors]
 permalink: /products/en/ik-multimedia-iloud-mtm/

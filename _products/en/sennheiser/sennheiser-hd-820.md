@@ -7,6 +7,7 @@ lang: en
 ref: sennheiser-hd-820
 date: 2025-08-04
 rating: [2.9, 0.7, 0.8, 0.1, 0.7, 0.6]
+price: 2200
 summary: "A flagship closed-back headphone featuring innovative glass reflection technology, but with significant cost-performance issues relative to its 2,200 USD price point"
 tags: [Headphones, Closed-back, High-end, Sennheiser]
 permalink: /products/en/sennheiser-hd-820/

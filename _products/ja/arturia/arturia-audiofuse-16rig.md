@@ -7,6 +7,7 @@ lang: ja
 ref: arturia-audiofuse-16rig
 date: 2025-07-21
 rating: [3.5, 0.9, 0.7, 0.5, 0.6, 0.8]
+price: 194850
 summary: "16チャンネル入出力に対応した高密度オーディオインターフェース。ESS・Cirrus Logic製コンバーターと独立ミキサー2基を搭載し、エレクトロニックミュージックに特化した設計が特徴的"
 tags: [オーディオインターフェース, Arturia, USB-C, DC結合, モジュラーシンセ]
 permalink: /products/ja/arturia-audiofuse-16rig/

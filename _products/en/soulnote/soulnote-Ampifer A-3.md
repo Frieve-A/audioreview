@@ -7,6 +7,7 @@ lang: en
 ref: soulnote-ampifer-a-3
 date: 2025-07-22
 rating: [1.0, 0.1, 0.3, 0.0, 0.5, 0.1]
+price: 11067
 summary: "While it has a unique design philosophy, its measured performance falls far below modern standards, making its scientific validity extremely low. It is outperformed by products at a fraction of the price, resulting in non-existent cost-performance."
 tags: [Analog, Class A, High-end, Integrated amplifier, Japanese Made]
 permalink: /products/en/soulnote-ampifer-a-3/

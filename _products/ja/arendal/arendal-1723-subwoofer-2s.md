@@ -7,6 +7,7 @@ lang: ja
 ref: arendal-1723-subwoofer-2s
 date: 2025-08-05
 rating: [3.3, 0.7, 0.8, 0.3, 0.7, 0.8]
+price: 359850
 summary: "ノルウェーArendal Soundによる密閉型デュアルドライバーサブウーファー。フォースキャンセリング設計により歪率を半減させた高品質製品。"
 tags: [サブウーファー, 密閉型, デュアルドライバー, THX, ノルウェー]
 permalink: /products/ja/arendal-1723-subwoofer-2s/

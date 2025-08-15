@@ -7,6 +7,7 @@ lang: en
 ref: pioneer-ts-z900prs
 date: 2025-08-11
 rating: [2.5, 0.5, 0.7, 0.5, 0.5, 0.3]
+price: 697
 summary: "High-end component with CST coaxial technology. Measurable benefits are limited; cost-performance vs. the cheapest equivalent spec is 0.5"
 tags: [Car-speakers, Component-speakers, High-end]
 permalink: /products/en/pioneer-ts-z900prs/

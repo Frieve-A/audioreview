@@ -7,6 +7,7 @@ lang: en
 ref: sennheiser-hdv-820
 date: 2025-08-10
 rating: [2.1, 0.3, 0.7, 0.2, 0.6, 0.3]
+price: 2750
 summary: "High-end DAC/headphone amplifier with concerning measurement issues that contradict its premium positioning and pricing."
 tags: [DAC, Headphone-amplifier, ESS-SABRE32, Balanced, Desktop-audio]
 permalink: /products/en/sennheiser-hdv-820/

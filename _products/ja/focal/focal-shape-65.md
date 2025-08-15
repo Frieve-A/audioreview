@@ -7,6 +7,7 @@ lang: ja
 ref: bose-soundlink-home
 date: 2025-08-02
 rating: [2.8, 0.5, 0.6, 0.8, 0.3, 0.6]
+price: 33000
 summary: "高い防水性能とデザイン性を両立したポータブルスピーカー。しかし、モノラル再生である点や、より機能・性能で上回る競合製品の存在がコストパフォーマンスに影響を与えている。"
 tags: [Bluetooth, スピーカー, ポータブル, 防水, IP67]
 permalink: /products/ja/bose-soundlink-home/

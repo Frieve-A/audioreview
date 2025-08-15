@@ -7,6 +7,7 @@ lang: ja
 ref: bluesound-node-x
 date: 2025-07-08
 rating: [3.6, 0.7, 0.7, 0.7, 0.8, 0.7]
+price: 105000
 summary: "Bluesound10周年記念限定モデル。ESS Sabre ES9028Q2M DAC、THX AAAヘッドホンアンプ搭載でシルバー仕上げの上位版。749USD（約11万円）の価格設定だが、WiiM UltraやEversolo競合製品と比較して測定性能・コスパで厳しい評価。"
 tags: [BluOS, DAC, THX, ネットワークストリーマー, 限定版]
 permalink: /products/ja/bluesound-node-x/

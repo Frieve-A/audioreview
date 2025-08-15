@@ -7,6 +7,7 @@ lang: ja
 ref: dcs-lina-master-clock
 date: 2025-07-25
 rating: [2.2, 0.2, 0.6, 0.2, 0.8, 0.4]
+price: 1155000
 summary: "dCSのマスタークロックは、業務用としての限定的合理性を持つものの、オーディオアクセサリーとしては科学的根拠に乏しく、著しくコストパフォーマンスが低い。"
 tags: [マスタークロック, dCS, ハイエンド, デジタルオーディオ]
 permalink: /products/ja/dcs-lina-master-clock/

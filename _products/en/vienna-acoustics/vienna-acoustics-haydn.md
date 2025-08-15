@@ -7,6 +7,7 @@ lang: en
 ref: vienna-acoustics-haydn
 date: 2025-08-04
 rating: [2.5, 0.6, 0.7, 0.2, 0.5, 0.5]
+price: 1500
 summary: "Traditional bookshelf speaker from Austrian heritage brand. Features unique port design and premium finish, but equivalent performance can be achieved at lower cost."
 tags: [2-Way, Austria, Bookshelf speakers, Passive]
 permalink: /products/en/vienna-acoustics-haydn/

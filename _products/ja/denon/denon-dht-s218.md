@@ -7,6 +7,7 @@ lang: ja
 ref: denon-dht-s218
 date: 2025-07-07
 rating: [3.2, 0.7, 0.7, 0.7, 0.8, 0.3]
+price: 27979
 summary: "DENON DHT-S218は、デュアルサブウーファーを内蔵したDolby Atmos対応サウンドバーです。Dolby TrueHDやBluetooth 5.3 LE Audioといった上位規格に対応し、将来性も見据えた設計が特徴です。価格は27,979円で、より安価な競合も存在しますが、その機能差を考慮すれば、忠実度の高い再生を求めるユーザーにとって合理的な選択肢となります。"
 tags: [Bluetooth LE Audio, Dolby Atmos, Dolby TrueHD, サウンドバー, デノン, デュアルサブウーファー]
 permalink: /products/ja/denon-dht-s218/

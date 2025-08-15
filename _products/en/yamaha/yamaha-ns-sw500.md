@@ -7,6 +7,7 @@ lang: en
 ref: yamaha-ns-sw500
 date: 2025-08-11
 rating: [2.4, 0.5, 0.4, 0.8, 0.4, 0.3]
+price: 550
 summary: "10-inch A-YST II subwoofer with 250W power and 20Hz extension, but faces intense competition from better-performing alternatives at similar or lower prices"
 tags: [Subwoofer, Home Theater, Yamaha, A-YST II, Bass]
 permalink: /products/en/yamaha-ns-sw500/

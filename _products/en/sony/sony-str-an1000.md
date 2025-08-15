@@ -7,6 +7,7 @@ lang: en
 ref: sony-str-an1000
 date: 2025-07-09
 rating: [2.9, 0.6, 0.4, 0.7, 0.6, 0.6]
+price: 598
 summary: "The Sony STR-AN1000 is a 7.2-channel AV receiver offering basic functionality with 8K/4K HDMI 2.1 support and Dolby Atmos/DTS:X compatibility, presenting reasonable value at its price point despite limitations in measured performance and technical sophistication."
 tags: [AV Receiver, 7.2 Channel, Dolby Atmos, DTS:X, 8K Support, HDMI 2.1]
 permalink: /products/en/sony-str-an1000/

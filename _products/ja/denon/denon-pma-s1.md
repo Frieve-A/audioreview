@@ -7,6 +7,7 @@ lang: ja
 ref: denon-pma-s1
 date: 2025-08-08
 rating: [2.8, 0.7, 0.6, 0.5, 0.5, 0.5]
+price: 180000
 summary: "1993年にDenonのフラッグシップとして発売されたUHC-MOS搭載プリメインアンプ。50W+50W（8Ω、20Hz–20kHz）、THD 0.007%（1kHz/25W/8Ω）、S/N比108dB（Line）という仕様を持つが、現在の中古市場価格約125,000円は現代の高性能アンプと比較すると割高感が否めない。"
 tags: [UHC-MOS, インテグレーテッドアンプ, デノン, ハイエンド, ビンテージ]
 permalink: /products/ja/denon-pma-s1/

@@ -7,6 +7,7 @@ lang: en
 ref: polk-audio-reserve-r500
 date: 2025-08-02
 rating: [3.4, 0.5, 0.7, 0.9, 0.6, 0.7]
+price: 1498
 summary: "A tower speaker that fails to deliver performance commensurate with its price due to cabinet resonance and frequency response issues revealed by measurement data."
 tags: [2-Way, Floorstanding, Hi-Res, Tower Speaker]
 permalink: /products/en/polk-audio-reserve-r500/

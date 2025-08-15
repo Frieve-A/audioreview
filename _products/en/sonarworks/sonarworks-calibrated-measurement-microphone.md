@@ -7,6 +7,7 @@ lang: en
 ref: sonarworks-calibrated-measurement-microphone
 date: 2025-07-18
 rating: [3.8, 0.8, 0.6, 1.0, 0.8, 0.6]
+price: 69
 summary: "The Sonarworks SoundID Reference measurement microphone delivers high-precision measurement with individual calibration at an affordable price. At approximately 69 USD, it offers the best cost-performance among microphones with equivalent individual calibration features."
 tags: [Measurement Microphone, Acoustic Measurement, Calibration, Sonarworks]
 permalink: /products/en/sonarworks-calibrated-measurement-microphone/

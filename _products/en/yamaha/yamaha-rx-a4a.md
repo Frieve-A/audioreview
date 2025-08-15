@@ -7,6 +7,7 @@ lang: en
 ref: yamaha-rx-a4a
 date: 2025-07-27
 rating: [3.5, 0.8, 0.7, 0.5, 0.8, 0.7]
+price: 917
 summary: "7.2ch AV receiver featuring ESS SABRE DAC. Excellent measurement performance but faces significant cost-performance challenges compared to competing models."
 tags: [AV Receiver, Dolby Atmos, 8K Support, HDMI 2.1]
 permalink: /products/en/yamaha-rx-a4a/
