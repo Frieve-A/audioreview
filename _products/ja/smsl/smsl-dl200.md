@@ -7,6 +7,7 @@ lang: ja
 ref: smsl-dl200
 date: 2025-08-12
 rating: [3.8, 0.6, 0.8, 1.0, 0.6, 0.8]
+price: 28500
 summary: "ES9039Q2M搭載のデスクトップDAC/ヘッドホンアンプ。仕様上優秀な性能と包括的な接続性（LDAC Bluetooth/MQA-CD含む）を持ち、189.99 USDで強力な価値を提供"
 tags: [DAC, ヘッドホンアンプ, ESS, デスクトップオーディオ, MQA, Bluetooth]
 permalink: /products/ja/smsl-dl200/

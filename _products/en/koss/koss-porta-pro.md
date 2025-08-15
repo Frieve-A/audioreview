@@ -7,6 +7,7 @@ lang: en
 ref: koss-porta-pro
 date: 2025-07-29
 rating: [2.9, 0.6, 0.3, 0.7, 0.7, 0.6]
+price: 50
 summary: "An iconic open-back portable headphone from 1984. It offers a unique design and an open sound, but faces challenges with its dated technology and lack of isolation. Its cost-performance is modest, as cheaper products with better measured performance exist."
 tags: [Portable, Open-back, Headphones, Budget]
 permalink: /products/en/koss-porta-pro/

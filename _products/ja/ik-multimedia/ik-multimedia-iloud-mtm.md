@@ -7,6 +7,7 @@ lang: ja
 ref: ik-multimedia-iloud-mtm
 date: 2025-08-10
 rating: [3.4, 0.6, 0.7, 1.0, 0.6, 0.5]
+price: 105000
 summary: "D'Appolito配置の超小型スタジオモニター。ARCルーム補正システム内蔵で40Hz-24kHzをカバーし、小口径ドライバーの物理的制約により高SPL時のダイナミクスに制約がある。"
 tags: [Active, Compact, DSP, MTM, スタジオモニター, ルーム音響補正]
 permalink: /products/ja/ik-multimedia-iloud-mtm/

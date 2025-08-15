@@ -7,6 +7,7 @@ lang: ja
 ref: kef-blade-two-meta
 date: 2025-07-31
 rating: [3.1, 0.8, 0.9, 0.4, 0.5, 0.5]
+price: 4200000
 summary: "KEF Blade Two Metaは技術的に高度な設計を持つフラッグシップスピーカーですが、同等以上の性能がより安価な代替品によって実現可能です。"
 tags: [フロアスタンディングスピーカー, Uni-Q, メタマテリアル, ハイエンド]
 permalink: /products/ja/kef-blade-two-meta/

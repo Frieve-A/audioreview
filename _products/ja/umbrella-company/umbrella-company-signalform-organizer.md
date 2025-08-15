@@ -7,6 +7,7 @@ lang: ja
 ref: umbrella-company-signalform-organizer
 date: 2025-07-21
 rating: [2.7, 0.6, 0.5, 0.1, 0.7, 0.8]
+price: 118965
 summary: "日本製の多機能DIボックス。DI、リアンプ、レベルコンバーター統合によるワンボックス・ソリューションだが、機能的に同等な製品と比較してコストパフォーマンスに大きな課題がある。"
 tags: [DIボックス, プロオーディオ, リアンプ, レベルコンバーター, 日本]
 permalink: /products/ja/umbrella-company-signalform-organizer/

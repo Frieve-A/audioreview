@@ -7,6 +7,7 @@ lang: en
 ref: dayton-audio-umm-6
 date: 2025-07-19
 rating: [1.7, 0.3, 0.2, 0.7, 0.2, 0.3]
+price: 69
 summary: "While the Dayton Audio UMM-6 functions as an entry-level USB measurement microphone, its high noise floor, limited measurement performance, and the availability of superior alternatives at the same price point make it difficult to recommend."
 tags: [Calibration, Measurement Equipment, Microphones, USB]
 permalink: /products/en/dayton-audio-umm-6/

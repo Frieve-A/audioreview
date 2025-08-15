@@ -7,6 +7,7 @@ lang: en
 ref: mackie-cr3.5
 date: 2025-08-07
 rating: [3.2, 0.4, 0.4, 1.0, 0.7, 0.7]
+price: 100
 summary: "An entry-level 3.5-inch powered monitor for desktop use, featuring tone controls and position switching functionality."
 tags: [Active speakers, Desktop speaker, Entry-level, Studio monitors]
 permalink: /products/en/mackie-cr3.5/

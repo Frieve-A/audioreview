@@ -7,6 +7,7 @@ lang: en
 ref: audio-technica-ath-r70x
 date: 2025-07-14
 rating: [3.3, 0.8, 0.7, 0.3, 0.8, 0.7]
+price: 349
 summary: "Audio-Technica's first open-back reference headphones achieve high technical standards and natural sound quality, but face price competitiveness challenges against equivalent-performance products"
 tags: [Open-back, Headphones, Reference, Audio-Technica, Professional]
 permalink: /products/en/audio-technica-ath-r70x/

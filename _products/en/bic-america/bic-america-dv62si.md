@@ -7,6 +7,7 @@ lang: en
 ref: bic-america-dv62si
 date: 2025-07-20
 rating: [2.5, 0.3, 0.4, 1.0, 0.4, 0.4]
+price: 149.95
 summary: "A classic bookshelf speaker from 1999. While its large woofer offers notable bass, its overall measured performance and directivity are poor by modern standards. However, it is the cheapest option in its specific performance class, resulting in a high cost-performance score."
 tags: [2Way, Bass-Focused, Bookshelf speakers, Passive speakers]
 permalink: /products/en/bic-america-dv62si/

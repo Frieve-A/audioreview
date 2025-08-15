@@ -7,6 +7,7 @@ lang: en
 ref: kef-q950
 date: 2025-07-18
 rating: [3.9, 0.8, 0.8, 0.7, 0.8, 0.8]
+price: 800
 summary: "The KEF Q950 is a floor-standing speaker with excellent technology and sound quality, but its cost-performance is challenged by competitors offering equivalent measured performance at a lower price."
 tags: [3-Way, Floorstanding speakers, KEF, Uni-Q]
 permalink: /products/en/kef-q950/

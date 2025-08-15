@@ -7,6 +7,7 @@ lang: ja
 ref: tago-studio-takasaki-t3-01
 date: 2025-08-13
 rating: [2.3, 0.5, 0.6, 0.3, 0.5, 0.4]
+price: 69300
 summary: "メープル材のハウジングとシルクプロテインコーティングドライバーを搭載した日本製密閉型ヘッドホン。スタジオモニター用途を目標としながらも透明な性能に欠ける"
 tags: [スタジオ, ヘッドホン, モニター, 密閉型, 日本, 木材]
 permalink: /products/ja/tago-studio-takasaki-t3-01/

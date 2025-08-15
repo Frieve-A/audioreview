@@ -7,6 +7,7 @@ lang: ja
 ref: spec-rsa-bw1
 date: 2025-07-26
 rating: [1.9, 0.4, 0.6, 0.0, 0.5, 0.4]
+price: 544500
 summary: "クラスDアンプとしては測定性能が劣り、54万円という価格に対して同等機能を2万円台で実現可能な製品が存在するため、コストパフォーマンスは極めて低い"
 tags: [D級, SPEC, アンプ, プリメインアンプ, 日本]
 permalink: /products/ja/spec-rsa-bw1/

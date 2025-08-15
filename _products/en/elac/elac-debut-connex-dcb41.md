@@ -7,6 +7,7 @@ lang: en
 ref: elac-debut-connex-dcb41
 date: 2025-07-08
 rating: [4.2, 0.8, 0.8, 0.9, 0.8, 0.9]
+price: 595
 summary: "ELAC's powered bookshelf speakers featuring 4.5-inch polypropylene woofer and 0.75-inch soft dome tweeter. Comprehensive connectivity including HDMI ARC, Bluetooth, USB, and phono inputs characterizes this system. Priced at 595 USD with built-in 2x50W Class D amplifier, achieving 66Hz-25kHz frequency response. What Hi-Fi? 2024 Award winner delivering excellent cost-performance."
 tags: ["Active speakers", Bluetooth, ELAC, "HDMI ARC"]
 permalink: /products/en/elac-debut-connex-dcb41/

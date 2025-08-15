@@ -7,6 +7,7 @@ lang: ja
 ref: jtr-captivator-rs1
 date: 2025-08-07
 rating: [3.6, 0.8, 0.7, 0.6, 0.7, 0.8]
+price: 554850
 summary: "JTRの密閉型18インチサブウーファー。2400Wアンプと低歪設計で優れた低域再生を実現するも、Seaton F18+などの同等性能製品と比較してコストパフォーマンスは限定的"
 tags: [サブウーファー, 密閉型, JTR, ホームシアター, 18インチ]
 permalink: /products/ja/jtr-captivator-rs1/

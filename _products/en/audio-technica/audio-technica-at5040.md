@@ -7,6 +7,7 @@ lang: en
 ref: audio-technica-at5040
 date: 2025-08-12
 rating: [2.7, 0.8, 0.6, 0.5, 0.4, 0.4]
+price: 3279
 summary: "Premium studio vocal microphone with innovative four-capsule design, delivering excellent performance but at an extremely high price point relative to equivalent alternatives."
 tags: [Condenser, Microphones, Premium, Studio, Vocal]
 permalink: /products/en/audio-technica-at5040/

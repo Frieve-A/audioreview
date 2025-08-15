@@ -7,6 +7,7 @@ lang: en
 ref: denon-pma-3000ne-sp
 date: 2025-08-05
 rating: [3.3, 0.8, 0.8, 0.6, 0.5, 0.6]
+price: 2650
 summary: "Japanese integrated amplifier with solid measurements, but similar functionality and performance available at lower cost"
 tags: [DAC, Denon, Integrated amplifier, Japan, Phono Stage]
 permalink: /products/en/denon-pma-3000ne-sp/

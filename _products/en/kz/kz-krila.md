@@ -7,6 +7,7 @@ lang: en
 ref: kz-krila
 date: 2025-08-01
 rating: [2.9, 0.4, 0.6, 0.7, 0.6, 0.6]
+price: 23
 summary: "A budget-friendly earphone with a hybrid configuration and 4-stage tuning. While it shows technical effort, high-frequency peaks and BA driver timbre compromise fidelity, and its cost-performance is not top-tier."
 tags: [Budget, Hybrid, In-ear monitors, KZ, Tuning]
 permalink: /products/en/kz-krila/

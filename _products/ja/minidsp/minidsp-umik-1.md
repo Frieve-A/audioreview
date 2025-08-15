@@ -7,6 +7,7 @@ lang: ja
 ref: minidsp-umik-1
 date: 2025-07-18
 rating: [4.1, 0.8, 0.7, 1.0, 0.8, 0.8]
+price: 13000
 summary: "miniDSP UMIK-1は、個別の校正ファイルが付属する高精度な測定用USBマイクロホンです。手頃な価格で正確な音響測定を可能にし、プロからオーディオ愛好家まで幅広く支持されています。その優れたコストパフォーマンスと信頼性により、デファクトスタンダードとしての地位を確立しています。"
 tags: [測定マイク, USBマイク, miniDSP, 音響測定, 校正ファイル]
 permalink: /products/ja/minidsp-umik-1/

@@ -7,6 +7,7 @@ lang: ja
 ref: jbl-reflect-flow-pro
 date: 2025-07-09
 rating: [2.9, 0.6, 0.5, 0.4, 0.7, 0.7]
+price: 26993
 summary: "JBL Reflect Flow Proは、IP68防水機能とアクティブノイズキャンセリングを搭載したスポーツ向け完全ワイヤレスイヤホンです。優れた装着感と防水性能を持ちますが、179.95ドルの高価格に見合う性能や機能面での優位性は限定的で、同等性能の低価格製品が多数存在します。"
 tags: [JBL, 完全ワイヤレスイヤホン, スポーツ, 防水, ノイズキャンセリング, 生産終了]
 permalink: /products/ja/jbl-reflect-flow-pro/

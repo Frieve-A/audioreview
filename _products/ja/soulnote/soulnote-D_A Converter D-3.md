@@ -7,6 +7,7 @@ lang: ja
 ref: soulnote-d_a-converter-d-3
 date: 2025-07-22
 rating: [2.5, 0.9, 0.5, 0.1, 0.7, 0.3]
+price: 2398000
 summary: "ES9038PRO搭載の超高級DAC。基本性能は透明レベルを達成しているものの、同等性能を持つ製品の約17倍という価格設定でコストパフォーマンスは極めて低い。外部クロック必須の設計思想も合理性に疑問が残ります。"
 tags: [D/A Converter, DAC, ES9038PRO, High-End Audio, ソウルノート]
 permalink: /products/ja/soulnote-d_a-converter-d-3/

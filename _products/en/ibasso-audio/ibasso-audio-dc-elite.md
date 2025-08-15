@@ -7,6 +7,7 @@ lang: en
 ref: ibasso-audio-dc-elite
 date: 2025-08-09
 rating: [2.9, 0.8, 0.7, 0.4, 0.5, 0.5]
+price: 449
 summary: "A flagship USB DAC/amplifier dongle featuring premium DAC chips, but cost-performance is challenging due to the existence of alternative products that achieve equivalent performance at less than half the price"
 tags: [DAC, Dongle, Headphone amplifier, Portable, ROHM BD34301EKV, USB, iBasso Audio]
 permalink: /products/en/ibasso-audio-dc-elite/

@@ -7,6 +7,7 @@ lang: en
 ref: fiio-k17
 date: 2025-07-25
 rating: [3.9, 0.9, 0.8, 1.0, 0.5, 0.7]
+price: 899
 summary: "Flagship desktop DAC/amplifier with a powerful headphone output. It combines excellent measurement performance with outstanding cost-performance in its class."
 tags: [AKM, Desktop DAC, FiiO, Headphone amplifier, Streaming]
 permalink: /products/en/fiio-k17/

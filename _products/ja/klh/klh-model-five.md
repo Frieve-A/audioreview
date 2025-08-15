@@ -7,6 +7,7 @@ lang: ja
 ref: klh-model-five
 date: 2025-08-10
 rating: [3.0, 0.6, 0.4, 0.6, 0.8, 0.6]
+price: 299700
 summary: "1968年の名機を現代技術で復刻したアコースティック・サスペンション方式の大型スタンドマウント（専用スタンド付属）。伝統的設計で堅実な音質を実現するが、価格に見合う革新性には乏しい。"
 tags: [3ウェイ, Acoustic-Suspension, Standmount, Traditional]
 permalink: /products/ja/klh-model-five/

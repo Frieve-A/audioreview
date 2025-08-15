@@ -7,6 +7,7 @@ lang: ja
 ref: shure-sm58
 date: 2025-08-04
 rating: [2.3, 0.4, 0.3, 0.2, 0.9, 0.5]
+price: 16000
 summary: "1966年発売以来の定番ボーカルマイクだが、現代の技術基準では限定的な性能と高コストが目立つ"
 tags: [ダイナミックマイク, ボーカル, ライブ, Shure]
 permalink: /products/ja/shure-sm58/

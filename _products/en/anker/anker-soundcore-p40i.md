@@ -7,6 +7,7 @@ lang: en
 ref: anker-soundcore-p40i
 date: 2025-07-09
 rating: [3.2, 0.5, 0.6, 0.9, 0.7, 0.5]
+price: 53
 summary: "Completely wireless earbuds featuring multipoint, noise cancellation, and wireless charging at 53 USD price point. Excellent battery life and practical performance, but bass-heavy tuning makes them unsuitable for applications requiring flat acoustic characteristics"
 tags: [Anker, Noise cancellation, P40i, Soundcore, Wireless earphones]
 permalink: /products/en/anker-soundcore-p40i/

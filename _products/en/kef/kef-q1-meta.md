@@ -7,6 +7,7 @@ lang: en
 ref: kef-q1-meta
 date: 2025-08-11
 rating: [3.8, 0.6, 0.8, 0.7, 0.8, 0.9]
+price: 699.99
 summary: "Entry-level bookshelf speaker featuring KEF's advanced Uni-Q and MAT technologies at accessible pricing"
 tags: [Bookshelf, Speakers, Uni-Q, MAT, Entry-level]
 permalink: /products/en/kef-q1-meta/

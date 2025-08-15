@@ -7,6 +7,7 @@ lang: ja
 ref: yamaha-a-s801
 date: 2025-08-05
 rating: [3.9, 0.7, 0.7, 1.0, 0.5, 1.0]
+price: 150000
 summary: "ヤマハA-S801は100W/chのプリメインアンプで、ESS製DAC内蔵、DSD対応など同等機能を持つ製品中で高い価格競争力を実現し、優秀なコストパフォーマンスを持つ"
 tags: [DAC内蔵, ハイレゾ, プリメインアンプ, ヤマハ, 中級機]
 permalink: /products/ja/yamaha-a-s801/

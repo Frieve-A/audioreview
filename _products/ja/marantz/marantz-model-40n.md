@@ -7,6 +7,7 @@ lang: ja
 ref: marantz-model-40n
 date: 2025-08-04
 rating: [2.9, 0.5, 0.7, 0.3, 0.8, 0.6]
+price: 304800
 summary: "HEOS搭載のネットワークプリメインアンプ。測定性能は良好だが、同等機能の製品と比較して大幅に高価格"
 tags: [プリメインアンプ, ネットワークオーディオ, HEOS, ストリーミング, HDMI ARC]
 permalink: /products/ja/marantz-model-40n/

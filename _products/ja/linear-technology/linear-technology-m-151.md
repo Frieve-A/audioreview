@@ -7,6 +7,7 @@ lang: ja
 ref: linear-technology-m-151
 date: 2025-08-09
 rating: [1.8, 0.5, 0.4, 0.1, 0.3, 0.5]
+price: 906000
 summary: "1985年発売の日本製ハイエンドモノラルパワーアンプ。高価格帯の設計思想は特徴的だが、公的な測定データが公開されておらず、現代の測定開示ベースの比較では優位性は確認できない。"
 tags: [Japanese Audio, Monaural, Vintage, パワーアンプ]
 permalink: /products/ja/linear-technology-m-151/

@@ -7,6 +7,7 @@ lang: ja
 ref: sennheiser-hd-490-pro
 date: 2025-07-19
 rating: [4.0, 0.8, 0.7, 1.0, 0.8, 0.7]
+price: 60000
 summary: "プロフェッショナル向けの開放型ヘッドホンで、デュアルイヤーパッドシステムを採用。測定性能は良好だが技術革新は限定的。"
 tags: [スタジオモニター, プロフェッショナル, ヘッドホン, 開放型]
 permalink: /products/ja/sennheiser-hd-490-pro/

@@ -7,6 +7,7 @@ lang: ja
 ref: kef-ls50-meta
 date: 2025-07-08
 rating: [3.9, 0.9, 0.8, 0.6, 0.8, 0.8]
+price: 190000
 summary: "KEFの第12世代Uni-Q技術とMetamaterial Absorption Technology（MAT）を搭載した代表的ブックシェルフスピーカー。19万円という価格帯では技術的革新性と測定性能の両面で高い評価を得ている。しかし、同等の音響性能を持つ競合製品との価格差を考慮すると、コストパフォーマンスは厳しい評価となる。"
 tags: [KEF, ブックシェルフスピーカー, Uni-Q, MAT, イギリス, 2ウェイ]
 permalink: /products/ja/kef-ls50-meta/

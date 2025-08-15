@@ -7,6 +7,7 @@ lang: ja
 ref: letshuoer-dz4
 date: 2025-08-11
 rating: [2.7, 0.5, 0.6, 0.3, 0.6, 0.7]
+price: 12600
 summary: "独特なトリプルダイナミックドライバー構成を採用する低価格帯IEMですが、音質と価格性能で競争力に欠けます"
 tags: [インイヤーモニター, ダイナミックドライバー, 低価格]
 permalink: /products/ja/letshuoer-dz4/

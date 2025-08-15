@@ -7,6 +7,7 @@ lang: ja
 ref: yamaha-ns-sw050
 date: 2025-08-14
 rating: [2.4, 0.5, 0.4, 0.6, 0.5, 0.4]
+price: 30000
 summary: "Advanced YST IIとTwisted Flare Portを採用した8インチのエントリーサブウーファー。28–200 Hzの仕様と50 W（連続）の出力は小～中規模空間の基本的な低音補強向きで、測定性能の公的データは限られます。"
 tags: [コンパクト, サブウーファー, ホームシアター, ヤマハ, 予算重視]
 permalink: /products/ja/yamaha-ns-sw050/

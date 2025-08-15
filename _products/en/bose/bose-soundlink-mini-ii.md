@@ -7,6 +7,7 @@ lang: en
 ref: bose-soundlink-mini-ii
 date: 2025-07-25
 rating: [1.8, 0.3, 0.4, 0.2, 0.5, 0.4]
+price: 170
 summary: "A compact portable speaker with clear mid-range, but significantly inferior in scientific validity and cost-performance due to bass deficiency, outdated specifications, and extremely high pricing."
 tags: [Bluetooth, Bose, Compact, Portable speaker]
 permalink: /products/en/bose-soundlink-mini-ii/

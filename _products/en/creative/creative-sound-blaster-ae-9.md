@@ -7,6 +7,7 @@ lang: en
 ref: creative-sound-blaster-ae-9
 date: 2025-08-09
 rating: [3.1, 0.6, 0.8, 0.4, 0.5, 0.8]
+price: 293
 summary: "PCIe internal sound card featuring ESS SABRE 9038-class DAC. Specifications are strong but independent standardized bench data are limited; value lags versus capable external USB audio interfaces."
 tags: [Creative, DAC, ESS Sabre, Gaming, Headphone amplifier, PCIe, Sound Card]
 permalink: /products/en/creative-sound-blaster-ae-9/

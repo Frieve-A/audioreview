@@ -7,6 +7,7 @@ lang: ja
 ref: mundorf-amtu160w1-1
 date: 2025-07-10
 rating: [2.3, 0.6, 0.8, 0.4, 0.3, 0.2]
+price: 55840
 summary: "Mundorf AMT-U160W1-1は高SPL用途に特化したエアモーション・トランスフォーマー・ツイーター。技術的な構造は興味深いが、349ユーロという価格は同等機能を持つ競合製品との比較で合理性に欠ける。"
 tags: [ツイーター, AMT, Mundorf, リボン型, 高SPL]
 permalink: /products/ja/mundorf-amtu160w1-1/

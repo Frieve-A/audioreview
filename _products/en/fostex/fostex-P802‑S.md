@@ -7,6 +7,7 @@ lang: en
 ref: fostex-P802‑S
 date: 2025-07-30
 rating: [2.5, 0.6, 0.5, 0.3, 0.7, 0.4]
+price: 176
 summary: "Ultra-compact 2-way speaker featuring 8cm woofer and 20mm tweeter. Supports Hi-Res audio up to 40kHz, but faces significant challenges in scientific measurement values and price competitiveness."
 tags: [Bookshelf, Compact Speaker, Desktop, Hi-Res Compatible]
 permalink: /products/en/fostex-P802‑S/

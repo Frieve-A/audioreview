@@ -7,6 +7,7 @@ lang: en
 ref: earfun-tune-pro
 date: 2025-07-22
 rating: [2.6, 0.3, 0.4, 1.0, 0.4, 0.5]
+price: 60
 summary: "The EarFun Tune Pro boasts an unparalleled 120-hour battery life, making it a unique offering despite significant compromises in sound quality."
 tags: [ANC, Budget, Long Battery Life, Wireless headphones]
 permalink: /products/en/earfun-tune-pro/

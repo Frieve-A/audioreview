@@ -7,6 +7,7 @@ lang: ja
 ref: nagaoka-ntypec02
 date: 2025-07-30
 rating: [3.3, 0.6, 0.5, 1.0, 0.5, 0.7]
+price: 3480
 summary: "ANC機能を搭載したUSB-C接続イヤホン。5,000円以下でANC機能付きUSB-C接続を実現する希少な製品で、同等機能の競合製品が高価格帯に集中する中、優れたコストパフォーマンスを提供。"
 tags: [USB-C, アクティブノイズキャンセリング, イヤホン, デジタル]
 permalink: /products/ja/nagaoka-ntypec02/

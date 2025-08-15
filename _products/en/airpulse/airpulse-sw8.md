@@ -7,6 +7,7 @@ lang: en
 ref: airpulse-sw8
 date: 2025-08-12
 rating: [2.7, 0.5, 0.5, 0.6, 0.6, 0.5]
+price: 550
 summary: "Compact 8-inch subwoofer designed by Phil Jones, offering a claimed 25Hz–160Hz response and built-in Class D amplification. Lacks independent third-party measurements and faces strong competition from cheaper models with equal-or-better user-facing performance."
 tags: [Subwoofer, Active, Class D, 8 inch, Bass]
 permalink: /products/en/airpulse-sw8/

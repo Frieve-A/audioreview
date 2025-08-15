@@ -7,6 +7,7 @@ lang: ja
 ref: marantz-pm-10
 date: 2025-07-26
 rating: [3.0, 0.8, 0.6, 0.3, 0.7, 0.6]
+price: 1200000
 summary: "Marantzの初代リファレンス級Class Dアンプ。測定性能は透明レベルを達成するが、コストパフォーマンスに致命的な問題を抱える。"
 tags: [D級, インテグレーテッドアンプ, リファレンス, 高級]
 permalink: /products/ja/marantz-pm-10/

@@ -7,6 +7,7 @@ lang: en
 ref: fostex-hp-a8
 date: 2025-08-05
 rating: [3.1, 0.7, 0.6, 0.8, 0.3, 0.7]
+price: 600
 summary: "Headphone amplifier with 32bit DAC. Excellent measurement performance but discontinued with support concerns"
 tags: [32bit, AK4399, DAC, DSD, Discrete, Headphone amplifier]
 permalink: /products/en/fostex-hp-a8/

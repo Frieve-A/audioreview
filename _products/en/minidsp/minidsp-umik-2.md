@@ -7,6 +7,7 @@ lang: en
 ref: minidsp-umik-2
 date: 2025-07-18
 rating: [3.3, 0.6, 0.7, 1.0, 0.5, 0.5]
+price: 195
 summary: "USB measurement microphone featuring large capsule for low noise design, achieving the lowest price for equivalent functionality among USB measurement microphones"
 tags: [Measurement Microphone, USB, Calibration, Acoustic Measurement]
 permalink: /products/en/minidsp-umik-2/

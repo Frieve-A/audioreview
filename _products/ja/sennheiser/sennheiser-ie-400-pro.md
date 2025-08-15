@@ -7,6 +7,7 @@ lang: ja
 ref: sennheiser-ie-400-pro
 date: 2025-08-02
 rating: [3.0, 0.6, 0.6, 0.4, 0.8, 0.6]
+price: 48800
 summary: "プロ向けIEMとして設計されたダイナミック型イヤホンだが、現在の市場では同等性能製品が大幅に安価で入手可能"
 tags: [インイヤーモニター, ダイナミック型, プロフェッショナル, モニタリング]
 permalink: /products/ja/sennheiser-ie-400-pro/

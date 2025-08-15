@@ -7,6 +7,7 @@ lang: ja
 ref: sony-ult-field-1
 date: 2025-07-07
 rating: [3.3, 0.8, 0.6, 0.5, 0.7, 0.7]
+price: 19500
 summary: "ソニーの新作小型ポータブルスピーカー。ULTバスブースト機能、IP67防水、12時間バッテリーなど堅実な基本性能を備えています。しかし、同等の基本性能を持つAnker Soundcore 3が半額以下で存在するため、コストパフォーマンスは著しく低い評価となります。音質や機能面でもJBL Flip 6などの競合に対して明確な優位性はなく、価格に見合う価値があるとは言えません。"
 tags: [ポータブルスピーカー, IP67防水, ULTバス, 日本, Bluetooth]
 permalink: /products/ja/sony-ult-field-1/

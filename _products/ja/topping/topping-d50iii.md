@@ -7,6 +7,7 @@ lang: ja
 ref: topping-d50iii
 date: 2025-07-08
 rating: [4.0, 0.9, 0.8, 0.6, 0.9, 0.8]
+price: 34350
 summary: "デュアルES9039Q2M搭載のデスクトップDAC。測定性能は最高級レベルで多機能だが、価格帯競争において競合製品の存在で限定的なCP"
 tags: [Bluetooth, ES9039Q2M, PEQ, デスクトップDAC, プリアンプ機能]
 permalink: /products/ja/topping-d50iii/

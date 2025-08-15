@@ -7,6 +7,7 @@ lang: en
 ref: jbl-l100-classic-mkii
 date: 2025-07-08
 rating: [2.7, 0.6, 0.6, 0.2, 0.7, 0.6]
+price: 9600
 summary: "A 3-way bookshelf speaker reviving the 12-inch woofer and classic design as a modern version of the legendary 1970s L100. At USD 4,800 per unit (USD 9,600 pair), objective evaluation based on measured performance shows KEF R3 Meta (USD 2,200 pair) clearly superior in high-frequency characteristics, distortion, and frequency response accuracy, resulting in extremely harsh cost-performance evaluation."
 tags: [12-inch Woofer, 3-Way, America, Bookshelf speakers, Classic, JBL]
 permalink: /products/en/jbl-l100-classic-mkii/

@@ -7,6 +7,7 @@ lang: en
 ref: jabra-elite-8-active
 date: 2025-07-09
 rating: [2.7, 0.5, 0.6, 0.5, 0.6, 0.5]
+price: 200
 summary: "Sports-focused true wireless earbuds combining ruggedness and ANC performance, but challenged by price competitiveness and measurement transparency"
 tags: [Active, Active noise cancelling, Sports, Waterproof, Wireless earphones]
 permalink: /products/en/jabra-elite-8-active/

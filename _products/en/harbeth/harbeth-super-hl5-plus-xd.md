@@ -7,6 +7,7 @@ lang: en
 ref: harbeth-super-hl5-plus-xd
 date: 2025-08-13
 rating: [2.5, 0.5, 0.5, 0.3, 0.8, 0.4]
+price: 7790
 summary: "Large monitor speakers with traditional BBC design philosophy, offering warm midrange character but limited scientific validity relative to price point"
 tags: [Monitor, Bookshelf, BBC, Passive, Traditional]
 permalink: /products/en/harbeth-super-hl5-plus-xd/

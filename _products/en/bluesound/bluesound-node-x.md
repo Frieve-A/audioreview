@@ -7,6 +7,7 @@ lang: en
 ref: bluesound-node-x
 date: 2025-07-08
 rating: [3.6, 0.7, 0.7, 0.7, 0.8, 0.7]
+price: 700
 summary: "Limited edition 10th anniversary model featuring ESS Sabre ES9028Q2M DAC and THX AAA headphone amplifier in silver finish. Priced at 749 USD, but faces challenging value proposition against WiiM Ultra and Eversolo competitors in measurements and cost performance."
 tags: [BluOS, DAC, "Limited edition", "Network streamer", THX]
 permalink: /products/en/bluesound-node-x/

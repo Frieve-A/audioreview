@@ -7,6 +7,7 @@ lang: en
 ref: fiio-k9-akm
 date: 2025-08-02
 rating: [3.0, 0.8, 0.7, 0.3, 0.5, 0.7]
+price: 792
 summary: "Desktop DAC and headphone amplifier featuring AKM's flagship DAC chip AK4499EX. Achieves transparent-level measurement performance but faces cost-performance challenges."
 tags: [AKM, DAC, Desktop, Headphone amplifier, THX]
 permalink: /products/en/fiio-k9-akm/

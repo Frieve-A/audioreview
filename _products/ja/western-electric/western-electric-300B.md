@@ -7,6 +7,7 @@ lang: ja
 ref: western-electric-300B
 date: 2025-07-26
 rating: [3.4, 0.8, 0.7, 0.2, 0.9, 0.8]
+price: 210000
 summary: "1938年の仕様を忠実に再現した真空管だが、現代の代替品と比較すると極めて高価"
 tags: [300B, A級, Western Electric, アンプ, 真空管]
 permalink: /products/ja/western-electric-300B/

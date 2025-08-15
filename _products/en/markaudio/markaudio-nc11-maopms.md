@@ -7,6 +7,7 @@ lang: en
 ref: markaudio-nc11-maopms
 date: 2025-08-05
 rating: [2.6, 0.5, 0.7, 0.2, 0.6, 0.6]
+price: 2850
 summary: "A bookshelf speaker featuring the UK-designed MAOP11_MS full-range single driver. Despite extremely high pricing, measured performance advantages are limited, and equivalent functionality can be achieved at significantly lower cost with alternative products."
 tags: [Bookshelf speakers, Full-Range Speaker, High-end, Single Driver]
 permalink: /products/en/markaudio-nc11-maopms/

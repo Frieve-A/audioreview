@@ -7,6 +7,7 @@ lang: ja
 ref: oneplus-buds-pro-2
 date: 2025-07-15
 rating: [3.5, 0.7, 0.8, 0.4, 0.8, 0.8]
+price: 26000
 summary: "48dBのノイズキャンセリング機能とDynaudio監修の音質調整を特徴とするワイヤレスイヤホンですが、測定性能では同価格帯の競合製品に対し優位性を示せていません"
 tags: [Bluetooth, Dynaudio, OnePlus, アクティブノイズキャンセリング, 完全ワイヤレスイヤホン]
 permalink: /products/ja/oneplus-buds-pro-2/

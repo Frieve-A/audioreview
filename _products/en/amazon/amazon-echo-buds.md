@@ -7,6 +7,7 @@ lang: en
 ref: amazon-echo-buds
 date: 2025-08-12
 rating: [1.9, 0.4, 0.3, 0.4, 0.5, 0.3]
+price: 50
 summary: "Budget true wireless earbuds prioritizing voice assistant integration over audio fidelity"
 tags: [True Wireless, Voice Assistant, Budget Earbuds, Bluetooth]
 permalink: /products/en/amazon-echo-buds/

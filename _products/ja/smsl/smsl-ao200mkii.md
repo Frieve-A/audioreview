@@ -7,6 +7,7 @@ lang: ja
 ref: smsl-ao200mkii
 date: 2025-08-14
 rating: [3.7, 0.7, 0.6, 1.0, 0.6, 0.8]
+price: 37350
 summary: "4Ωで160W x 2のClass Dアンプ。Bluetooth 5.0、USBオーディオ入力、XLR/RCA入力、デュアルサブ出力、EQを搭載したコンパクト機"
 tags: [Bluetooth, DSP, D級, アンプ, インテグレーテッド]
 permalink: /products/ja/smsl-ao200mkii/

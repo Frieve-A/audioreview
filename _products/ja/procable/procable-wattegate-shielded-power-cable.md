@@ -7,6 +7,7 @@ lang: ja
 ref: procable-wattegate-shielded-power-cable
 date: 2025-07-26
 rating: [1.5, 0.1, 0.4, 0.1, 0.7, 0.2]
+price: 7222
 summary: "WATTGATE製コネクタを使用したシールド電源ケーブル。しかし、音質改善効果の科学的根拠は乏しく、同等機能の製品と比較してコストパフォーマンスに深刻な問題がある。"
 tags: [シールド, プロオーディオ, 日本, 電源ケーブル]
 permalink: /products/ja/procable-wattegate-shielded-power-cable/

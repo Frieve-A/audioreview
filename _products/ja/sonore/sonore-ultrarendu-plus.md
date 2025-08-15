@@ -7,6 +7,7 @@ lang: ja
 ref: sonore-ultrarendu-plus
 date: 2025-08-11
 rating: [2.6, 0.4, 0.3, 1.0, 0.6, 0.3]
+price: 134850
 summary: "オーディオファイル向け改善を謳うネットワークオーディオストリーマーだが、汎用代替品に対する測定可能な利点に欠ける"
 tags: [Digital Audio, Roon Ready, USB Bridge, ネットワークストリーマー]
 permalink: /products/ja/sonore-ultrarendu-plus/

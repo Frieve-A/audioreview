@@ -7,6 +7,7 @@ lang: ja
 ref: markaudio-nc11-maopms
 date: 2025-08-05
 rating: [2.6, 0.5, 0.7, 0.2, 0.6, 0.6]
+price: 348000
 summary: "イギリス設計のフルレンジ単体ドライバーMAOP11_MSを搭載したブックシェルフスピーカー。極めて高価格ながら測定性能面での優位性は限定的で、同等機能を大幅に安価で実現できる代替品が存在する。"
 tags: [シングルドライバー, フルレンジスピーカー, ブックシェルフスピーカー, 高級]
 permalink: /products/ja/markaudio-nc11-maopms/

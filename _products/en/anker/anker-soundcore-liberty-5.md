@@ -7,6 +7,7 @@ lang: en
 ref: anker-soundcore-liberty-5
 date: 2025-07-19
 rating: [2.6, 0.4, 0.6, 0.3, 0.7, 0.6]
+price: 129.99
 summary: "The Anker Soundcore Liberty 5 is a 129.99 USD wireless earphone offering basic ANC functionality and Bluetooth connectivity, but faces cost-performance challenges due to the existence of more affordable alternatives with equivalent features."
 tags: [ANC, Anker, Bluetooth, Wireless earphones]
 permalink: /products/en/anker-soundcore-liberty-5/

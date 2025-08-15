@@ -7,6 +7,7 @@ lang: en
 ref: edifier-mr3
 date: 2025-07-11
 rating: [3.9, 0.7, 0.8, 1.0, 0.6, 0.8]
+price: 117
 summary: "The Edifier MR3 is a 3.5-inch nearfield monitor supporting 52Hz-40kHz with 18W×2 output. Features Bluetooth 5.4 with versatile functionality, though measurement performance falls short of industry-leading standards."
 tags: [Active speakers, Bluetooth, Desktop, Nearfield, Studio monitors]
 permalink: /products/en/edifier-mr3/

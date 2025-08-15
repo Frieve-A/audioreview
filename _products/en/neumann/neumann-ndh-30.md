@@ -7,6 +7,7 @@ lang: en
 ref: neumann-ndh-30
 date: 2025-08-07
 rating: [4.4, 0.8, 0.8, 1.0, 0.9, 0.9]
+price: 487
 summary: "Professional open-back studio headphones. Features excellent measurement performance and design philosophy."
 tags: [Headphones, Open-Back, Professional, Studio monitors]
 permalink: /products/en/neumann-ndh-30/

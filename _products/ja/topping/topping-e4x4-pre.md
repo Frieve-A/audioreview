@@ -7,6 +7,7 @@ lang: ja
 ref: topping-e4x4-pre
 date: 2025-07-19
 rating: [2.8, 0.9, 0.5, 0.8, 0.3, 0.3]
+price: 39900
 summary: "優秀な測定性能を持つものの、信頼性に課題があるUSBオーディオインターフェース"
 tags: [Professional Audio, Topping, USB, オーディオインターフェース, 録音]
 permalink: /products/ja/topping-e4x4-pre/

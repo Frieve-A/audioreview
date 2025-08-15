@@ -7,6 +7,7 @@ lang: en
 ref: kef-kube-15-mie
 date: 2025-07-30
 rating: [3.0, 0.6, 0.5, 0.8, 0.6, 0.5]
+price: 1499
 summary: "KEF's 15-inch subwoofer, the Kube 15 MIE, features a 300W Class D amplifier and a sealed cabinet design, achieving 20Hz extension via MIE DSP processing. However, it offers poor cost-performance as competing products with superior performance are available for significantly less."
 tags: [Subwoofer, KEF, Class D, Sealed, DSP]
 permalink: /products/en/kef-kube-15-mie/

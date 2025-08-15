@@ -7,6 +7,7 @@ lang: en
 ref: denon-dl-103
 date: 2025-07-12
 rating: [1.8, 0.2, 0.3, 0.2, 0.6, 0.5]
+price: 247
 summary: "The Denon DL-103, released in 1963, is a low-output MC cartridge developed for the broadcasting industry. With a design over 60 years old, it significantly lags behind modern technology. Cost-performance is extremely poor due to the existence of much cheaper alternatives with comparable or better performance."
 tags: [Analog, Denon, MC cartridge, Phono cartridge, Turntable]
 permalink: /products/en/denon-dl-103/

@@ -7,6 +7,7 @@ lang: ja
 ref: twistura-woodnote
 date: 2025-07-28
 rating: [2.5, 0.7, 0.6, 0.1, 0.4, 0.7]
+price: 22350
 summary: "ウッドコンポジット振動板による自然な音響特性を持つものの、コストパフォーマンス面で厳しい競争環境に直面するIEM"
 tags: [インイヤーモニター, ウッド振動板, チューニングシステム, デュアルマグネチック]
 permalink: /products/ja/twistura-woodnote/

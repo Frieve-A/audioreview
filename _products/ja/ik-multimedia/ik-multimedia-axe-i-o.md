@@ -7,6 +7,7 @@ lang: ja
 ref: ik-multimedia-axe-i-o
 date: 2025-07-21
 rating: [4.2, 0.8, 0.7, 1.0, 0.8, 0.9]
+price: 55000
 summary: "ギター録音に特化した2入力5出力オーディオインターフェース。独自の機能セットに対し、優れたコストパフォーマンスを実現。"
 tags: [オーディオインターフェース, ギター録音, USB, 192kHz]
 permalink: /products/ja/ik-multimedia-axe-i-o/

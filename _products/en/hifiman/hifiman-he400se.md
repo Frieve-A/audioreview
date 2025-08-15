@@ -7,6 +7,7 @@ lang: en
 ref: hifiman-he400se
 date: 2025-08-01
 rating: [3.6, 0.7, 0.7, 1.0, 0.7, 0.5]
+price: 109
 summary: "An entry-level open-back headphone that delivers excellent measured performance and cost-effectiveness, but requires a dedicated amplifier to shine."
 tags: [Entry-level, HiFiMan, Open-back, "Planar magnetic"]
 permalink: /products/en/hifiman-he400se/

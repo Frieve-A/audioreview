@@ -7,6 +7,7 @@ lang: ja
 ref: tannoy-gold-5
 date: 2025-07-21
 rating: [2.4, 0.4, 0.4, 0.6, 0.7, 0.3]
+price: 34350
 summary: "Tannoy Gold 5は5インチデュアル・コンセントリック・スタジオモニターです。合理的な設計コンセプトに基づきながらも、実際の測定性能には重大な問題があり、主要な競合製品に劣ります。"
 tags: [Near-field Monitor, Tannoy, アクティブスピーカー, スタジオモニター]
 permalink: /products/ja/tannoy-gold-5/

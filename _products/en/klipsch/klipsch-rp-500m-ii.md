@@ -7,6 +7,7 @@ lang: en
 ref: klipsch-rp-500m-ii
 date: 2025-07-09
 rating: [2.3, 0.3, 0.6, 0.4, 0.6, 0.4]
+price: 606
 summary: "The Klipsch RP-500M II is a 2-way bookshelf speaker featuring a 5.25-inch woofer and 1-inch titanium tweeter with high-sensitivity design providing excellent efficiency, though evaluation is limited by frequency response issues and restricted technical originality."
 tags: [2-Way, 5.25 Inch Woofer, Bookshelf speakers, High Sensitivity, Horn tweeter]
 permalink: /products/en/klipsch-rp-500m-ii/

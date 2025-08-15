@@ -7,6 +7,7 @@ lang: en
 ref: audient-id48
 date: 2025-08-12
 rating: [4.1, 0.7, 0.7, 1.0, 0.8, 0.9]
+price: 999
 summary: "Professional 8-channel audio interface with excellent preamps and converters; no cheaper equal-or-better alternative identified at review time."
 tags: [8-Channel, Audio interface, Professional, Recording, USB-C]
 permalink: /products/en/audient-id48/

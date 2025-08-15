@@ -7,6 +7,7 @@ lang: ja
 ref: trn-vx-pro
 date: 2025-08-07
 rating: [2.2, 0.5, 0.5, 0.2, 0.5, 0.5]
+price: 13200
 summary: "TRN VX Proは9ドライバー(1DD+8BA)構成のハイブリッドIEMですが、88 USDの価格に対して7Hz Zero（20 USD）などの低価格競合製品が同等の機能・性能を20 USD程度で提供しているため、コストパフォーマンスが劣ります。"
 tags: [TRN, イヤホン, インイヤーモニター, ハイブリッド, 中華イヤホン]
 permalink: /products/ja/trn-vx-pro/

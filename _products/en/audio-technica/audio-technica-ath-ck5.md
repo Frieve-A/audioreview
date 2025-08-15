@@ -7,6 +7,7 @@ lang: en
 ref: audio-technica-ath-ck5
 date: 2025-07-24
 rating: [2.6, 0.2, 0.3, 1.0, 0.6, 0.5]
+price: 20
 summary: "Budget in-ear earphones released around 2005. Significantly outdated by modern technical standards"
 tags: [In-Ear Earphones, Wired, Budget, Discontinued]
 permalink: /products/en/audio-technica-ath-ck5/

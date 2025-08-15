@@ -7,6 +7,7 @@ lang: en
 ref: behringer-eurolive-b1200d-pro
 date: 2025-08-11
 rating: [2.6, 0.5, 0.4, 1.0, 0.4, 0.3]
+price: 369
 summary: "Budget 12-inch powered subwoofer with basic PA functionality but significant performance limitations compared to alternatives"
 tags: [Subwoofer, Powered, PA, Live Sound, Budget]
 permalink: /products/en/behringer-eurolive-b1200d-pro/

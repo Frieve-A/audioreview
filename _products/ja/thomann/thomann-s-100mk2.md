@@ -7,6 +7,7 @@ lang: ja
 ref: thomann-s-100mk2
 date: 2025-07-21
 rating: [1.9, 0.2, 0.3, 0.4, 0.5, 0.5]
+price: 37730
 summary: "Thomann S-100mk2は2x65W(8Ω)、2x100W(4Ω)出力のステレオパワーアンプです。THD・SNRといった主要な性能データが不明であり、最新の高性能アンプと比較して科学的有効性やコストパフォーマンスに大きな疑問があります。"
 tags: [AB級, Thomann, ドイツ, パワーアンプ, 業務用]
 permalink: /products/ja/thomann-s-100mk2/

@@ -7,6 +7,7 @@ lang: ja
 ref: sunvalley-sv-192s-dsd
 date: 2025-08-13
 rating: [1.7, 0.4, 0.3, 0.1, 0.5, 0.4]
+price: 232500
 summary: "2008年発売のBurr-Brown DSD1796チップと真空管出力段を採用した日本製DAC、現代の低価格代替品に大幅に劣る性能"
 tags: [DAC, デジタル・アナログコンバータ, 真空管, ハイレゾ音源, アップサンプリング]
 permalink: /products/ja/sunvalley-sv-192s-dsd/

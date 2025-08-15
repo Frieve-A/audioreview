@@ -7,6 +7,7 @@ lang: ja
 ref: ik-multimedia-iloud-micro-monitor
 date: 2025-08-10
 rating: [2.9, 0.4, 0.6, 0.5, 0.6, 0.8]
+price: 52500
 summary: "世界最小レベルの低音再生を実現する超コンパクトスタジオモニターだが、高歪みとコストパフォーマンスの課題により制約がある。"
 tags: [スタジオモニター, コンパクトスピーカー, Bluetooth, アクティブモニター]
 permalink: /products/ja/ik-multimedia-iloud-micro-monitor/

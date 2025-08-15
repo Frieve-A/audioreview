@@ -7,6 +7,7 @@ lang: en
 ref: hiby-rs6
 date: 2025-08-11
 rating: [2.6, 0.7, 0.8, 0.3, 0.6, 0.2]
+price: 1399
 summary: "Premium R2R digital audio player with impressive discrete DAC architecture, though cost-performance questions arise when compared to smartphone alternatives"
 tags: [Android, DAP, Darwin Architecture, Digital audio player, HiBy, R2R]
 permalink: /products/en/hiby-rs6/

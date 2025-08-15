@@ -7,6 +7,7 @@ lang: en
 ref: denon-dp-450usb
 date: 2025-07-07
 rating: [2.5, 0.8, 0.7, 0.4, 0.5, 0.1]
+price: 599
 summary: "Denon's mid-level belt-drive turntable with USB recording capability. While semi-automatic features provide convenience, the USD 599 price faces strong competition from the Fluance RT85 (USD 499 with Ortofon 2M Blue). Poor cost-performance when considering included cartridge quality."
 tags: [Denon, Turntable, USB Recording, Semi-Automatic, Belt Drive]
 permalink: /products/en/denon-dp-450usb/

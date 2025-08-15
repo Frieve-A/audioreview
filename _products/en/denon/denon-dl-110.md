@@ -7,6 +7,7 @@ lang: en
 ref: denon-dl-110
 date: 2025-07-12
 rating: [2.1, 0.2, 0.2, 0.6, 0.7, 0.4]
+price: 290
 summary: "Launched in 1982, the Denon DL-110 is a high-output MC cartridge based on a 40-year-old design, offering limited technical advantages. Its cost-performance is not high due to the existence of more affordable MM cartridges."
 tags: [Analog, Denon, MC cartridge, Phono cartridge, Turntable]
 permalink: /products/en/denon-dl-110/

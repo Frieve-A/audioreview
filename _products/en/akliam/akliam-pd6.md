@@ -7,6 +7,7 @@ lang: en
 ref: akliam-pd6
 date: 2025-07-28
 rating: [3.8, 0.8, 0.7, 1.0, 0.6, 0.7]
+price: 55
 summary: "Portable DAC/amp featuring ESS9039Q2M DAC. High-performance DAC chip delivers low distortion and high SNR design with OLED display in lightweight form"
 tags: [Balanced output, Dongle Type, ESS9039Q2M, OLED Display, Portable DAC, USB DAC]
 permalink: /products/en/akliam-pd6/

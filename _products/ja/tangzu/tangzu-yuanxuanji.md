@@ -7,6 +7,7 @@ lang: ja
 ref: tangzu-yuanxuanji
 date: 2025-07-27
 rating: [3.0, 0.6, 0.7, 0.5, 0.5, 0.7]
+price: 7350
 summary: "トポロジー技術を採用した49米ドルのIEMながら、同価格帯の競合製品と比較してコストパフォーマンスに課題があり、透明レベルの音質達成には至らない"
 tags: [Tangzu, インイヤーモニター, ダイナミックドライバー, 中国, 低価格]
 permalink: /products/ja/tangzu-yuanxuanji/

@@ -7,6 +7,7 @@ lang: en
 ref: asus-rog-cetra-true-wireless
 date: 2025-07-13
 rating: [2.7, 0.4, 0.6, 0.6, 0.7, 0.4]
+price: 119.99
 summary: "Gaming-focused true wireless earbuds with questionable scientific validity in audio quality. While ANC functionality and low-latency connectivity are commendable, cost-performance remains below standard due to the existence of more affordable equivalent products."
 tags: [Active noise cancelling, Gaming, Low Latency, True Wireless]
 permalink: /products/en/asus-rog-cetra-true-wireless/

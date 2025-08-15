@@ -7,6 +7,7 @@ lang: en
 ref: denon-avr-x1700h
 date: 2025-08-04
 rating: [3.8, 0.6, 0.7, 1.0, 0.7, 0.8]
+price: 499
 summary: "Mid-range AV receiver with 7.2 channel support and Dolby Atmos functionality. Achieves competitive pricing in its feature class with excellent cost-performance, though measurement performance remains at standard levels."
 tags: [AV Receiver, Dolby Atmos, 8K Support, Home Theater]
 permalink: /products/en/denon-avr-x1700h/

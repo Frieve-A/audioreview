@@ -7,6 +7,7 @@ lang: ja
 ref: truthear-x-crinacle-zero-red
 date: 2025-07-24
 rating: [4.0, 0.8, 0.7, 1.0, 0.7, 0.8]
+price: 8250
 summary: "Crinacle監修のデュアルドライバーIEM。科学的根拠に基づく設計思想が高く評価され、測定性能も優秀。同等以上の性能を持つより安価な競合が存在しないため、その価格帯で最高のコストパフォーマンスを実現しており、価格破壊的な製品と評価できます。"
 tags: [Crinacle, TruthEar, インイヤーモニター, デュアルドライバー]
 permalink: /products/ja/truthear-x-crinacle-zero-red/

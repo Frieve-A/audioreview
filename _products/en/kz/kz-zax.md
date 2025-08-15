@@ -7,6 +7,7 @@ lang: en
 ref: kz-zax
 date: 2025-07-23
 rating: [2.4, 0.4, 0.5, 0.5, 0.5, 0.5]
+price: 40
 summary: "The KZ ZAX adopts a 7BA+1DD hybrid configuration earphone, but faces challenges in measured performance and price competitiveness under current market standards."
 tags: [Earphones, Hybrid, KZ, In-Ear-Monitor]
 permalink: /products/en/kz-zax/

@@ -7,6 +7,7 @@ lang: ja
 ref: sony-ht-a9000
 date: 2025-08-13
 rating: [2.5, 0.5, 0.7, 0.4, 0.5, 0.4]
+price: 209850
 summary: "13基のスピーカーユニットと360 Spatial Sound Mappingを備えるフラッグシップ単体バー。先進機能は充実する一方、測定性能と価格のバランスから、より安価な代替と比べたCPに課題。"
 tags: [BRAVIA, DTS:X, サウンドバー, ソニー, ドルビーアトモス]
 permalink: /products/ja/sony-ht-a9000/

@@ -7,6 +7,7 @@ lang: ja
 ref: monitor-audio-vestra-w15
 date: 2025-08-11
 rating: [3.2, 0.5, 0.5, 0.9, 0.6, 0.7]
+price: 214350
 summary: "17Hzまでの低域延伸と500WクラスD増幅による大出力を実現する15インチポート型サブウーファー。Monitor AudioのアクセシブルなVestraシリーズのフラッグシップモデルです。"
 tags: [サブウーファー, ポート型エンクロージャー, クラスDアンプ, C-CAMドライバー, 15インチドライバー]
 permalink: /products/ja/monitor-audio-vestra-w15/

@@ -7,6 +7,7 @@ lang: en
 ref: denon-avc-a1h
 date: 2025-07-27
 rating: [4.4, 0.8, 0.9, 1.0, 0.8, 0.9]
+price: 5133
 summary: "For users aiming to build a 15.4-channel environment, this is the one and only flagship AV amplifier on the market."
 tags: [AV Amplifier, AV Receiver, Dolby Atmos, DTS:X, 8K, 15.4 Channel, Home Theater]
 permalink: /products/en/denon-avc-a1h/

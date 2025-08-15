@@ -7,6 +7,7 @@ lang: ja
 ref: polk-audio-signature-elite-es8-subwoofer
 date: 2025-08-12
 rating: [2.5, 0.5, 0.6, 0.4, 0.5, 0.5]
+price: 67350
 summary: "モダンなDSP機能を備えたコンパクトな8インチサブウーファーだが、出力が限定的で価格が高い"
 tags: [DSP, D級, Polk Audio, サブウーファー, ホームシアター]
 permalink: /products/ja/polk-audio-signature-elite-es8-subwoofer/

@@ -7,6 +7,7 @@ lang: en
 ref: oneodio-pro-c
 date: 2025-07-29
 rating: [2.2, 0.2, 0.3, 1.0, 0.5, 0.2]
+price: 47
 summary: "Budget wireless headphones featuring 110-hour playback and wired/wireless dual functionality. While significantly deviating from scientific audio reproduction, its exceptional battery performance offers the highest cost-performance for specific needs."
 tags: [Bluetooth, Budget, Long Playback, V-shaped, Wireless headphones]
 permalink: /products/en/oneodio-pro-c/

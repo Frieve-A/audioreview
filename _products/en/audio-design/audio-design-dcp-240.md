@@ -7,6 +7,7 @@ lang: en
 ref: audio-design-dcp-240
 date: 2025-08-02
 rating: [3.0, 0.8, 0.6, 0.2, 0.8, 0.6]
+price: 3667
 summary: "A fully balanced preamplifier with an innovative 'Amp-In-First' circuit. While it boasts excellent measurements, it faces an extreme challenge in cost-performance, as alternatives with comparable or superior functionality and performance are available for a fraction of the price."
 tags: [Fully-Balanced, High-end, Japanese-Made, Preamplifier]
 permalink: /products/en/audio-design-dcp-240/

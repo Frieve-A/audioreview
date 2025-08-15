@@ -7,6 +7,7 @@ lang: ja
 ref: tad-reference-one
 date: 2025-08-08
 rating: [2.8, 0.6, 0.8, 0.2, 0.6, 0.6]
+price: 9750000
 summary: "TAD Reference Oneは先進的なCST技術と高品質な設計により高い音響再現を志向する一方、超高額価格によりコストパフォーマンスは限定的なフラッグシップスピーカー"
 tags: [CST, スピーカー, タッド, ハイエンド, ベリリウム]
 permalink: /products/ja/tad-reference-one/

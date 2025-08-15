@@ -7,6 +7,7 @@ lang: ja
 ref: shure-sm7b
 date: 2025-07-21
 rating: [1.9, 0.3, 0.5, 0.2, 0.4, 0.5]
+price: 59850
 summary: "SM7Bは放送業界で標準的に使われるダイナミックマイクロフォンですが、測定性能と価格面で最新の代替製品に対して競争力が低下しています。"
 tags: [Shure, ダイナミック, ポッドキャスト, マイクロホン, 放送]
 permalink: /products/ja/shure-sm7b/

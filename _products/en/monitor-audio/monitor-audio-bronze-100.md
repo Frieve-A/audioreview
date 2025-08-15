@@ -7,6 +7,7 @@ lang: en
 ref: monitor-audio-bronze-100
 date: 2025-07-08
 rating: [3.4, 0.7, 0.6, 0.7, 0.7, 0.7]
+price: 399
 summary: "Bookshelf speaker with 8-inch woofer from the established British speaker manufacturer. Features unusually large driver for its price range, delivering deep bass extension down to 37Hz (-6dB). While the C-CAM technology drivers show excellent measured characteristics, the USD 399 price point faces tough competition from rivals like KEF Q150 at USD 299."
 tags: [8-inch woofer, Bookshelf, C-CAM, Speakers, United Kingdom]
 permalink: /products/en/monitor-audio-bronze-100/

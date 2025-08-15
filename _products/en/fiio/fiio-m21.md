@@ -7,6 +7,7 @@ lang: en
 ref: fiio-m21
 date: 2025-08-07
 rating: [3.6, 0.8, 0.7, 0.6, 0.8, 0.7]
+price: 329
 summary: "The FiiO M21 is a 329 USD Android-powered DAP featuring quad CS43198 DACs and 950mW output via desktop mode. However, with the equivalent-function JM21 available at 199 USD, cost-performance remains challenging."
 tags: [Android, DAP, Desktop, FiiO]
 permalink: /products/en/fiio-m21/

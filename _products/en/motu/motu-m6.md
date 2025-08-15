@@ -7,6 +7,7 @@ lang: en
 ref: motu-m6
 date: 2025-08-11
 rating: [4.2, 0.8, 0.7, 1.0, 0.8, 0.9]
+price: 450
 summary: "6-in/4-out USB-C audio interface with ESS Sabre32 DAC, 120 dB dynamic range, and ultra-low latency performance"
 tags: [Audio-Interface, USB-C, Recording, Studio]
 permalink: /products/en/motu-m6/

@@ -7,6 +7,7 @@ lang: en
 ref: cleer-ARC3 Gaming
 date: 2025-07-22
 rating: [3.2, 0.5, 0.7, 1.0, 0.5, 0.5]
+price: 235
 summary: "A uniquely positioned open-ear gaming earbud, though with challenges in acoustic performance."
 tags: [Earbuds, Gaming, Bluetooth, Open-ear, Wireless]
 permalink: /products/en/cleer-ARC3-Gaming/

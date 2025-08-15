@@ -7,6 +7,7 @@ lang: en
 ref: kef-q350
 date: 2025-07-18
 rating: [3.8, 0.7, 0.7, 0.8, 0.8, 0.8]
+price: 450
 summary: "A bookshelf speaker featuring KEF's Uni-Q technology. It delivers good measured performance and is a competitive option compared to other products in the same price range."
 tags: [2-Way, Bass Reflex, Bookshelf speakers, KEF, Uni-Q, United Kingdom]
 permalink: /products/en/kef-q350/

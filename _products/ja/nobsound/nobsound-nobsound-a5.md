@@ -7,6 +7,7 @@ lang: ja
 ref: nobsound-nobsound-a5
 date: 2025-07-24
 rating: [3.6, 0.7, 0.6, 1.0, 0.5, 0.8]
+price: 13493
 summary: "TPA3255チップとPFFB技術を採用した90ドル台のクラスDアンプ。0.002%の超低歪率を実現し、同等価格帯の競合製品と僅差の価格競争を展開。"
 tags: [D級, PFFB, TPA3255, アンプ, 中華アンプ]
 permalink: /products/ja/nobsound-nobsound-a5/

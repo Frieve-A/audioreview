@@ -7,6 +7,7 @@ lang: en
 ref: klh-model-five
 date: 2025-08-10
 rating: [3.0, 0.6, 0.4, 0.6, 0.8, 0.6]
+price: 1998
 summary: "Modern revival of the legendary 1968 acoustic-suspension large standmount (with dedicated stands). Delivers solid sound quality through traditional design but lacks innovation commensurate with its price point."
 tags: [Standmount, Acoustic-Suspension, 3-Way, Traditional]
 permalink: /products/en/klh-model-five/

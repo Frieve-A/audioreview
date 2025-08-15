@@ -7,6 +7,7 @@ lang: en
 ref: moondrop-rays
 date: 2025-08-01
 rating: [4.1, 0.8, 0.8, 1.0, 0.7, 0.8]
+price: 110
 summary: "Gaming IEM with hybrid configuration and DSP functionality. Features excellent measurement performance and high technical level, achieving the lowest price among competing products with equivalent functionality for outstanding cost-performance."
 tags: [DSP, Gaming, Hybrid, In-ear monitors, USB-C]
 permalink: /products/en/moondrop-rays/

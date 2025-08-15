@@ -7,6 +7,7 @@ lang: en
 ref: accuphase-dp-67
 date: 2025-08-08
 rating: [2.5, 0.8, 0.6, 0.3, 0.3, 0.5]
+price: 1550
 summary: "The Accuphase DP-67 is a CD player with excellent measured performance, but limited cost-performance evaluation due to price differences with lower-tier models of equivalent specifications."
 tags: [CD Player, DAC, High-end]
 permalink: /products/en/accuphase-dp-67/

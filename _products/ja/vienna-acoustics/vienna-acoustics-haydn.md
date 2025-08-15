@@ -7,6 +7,7 @@ lang: ja
 ref: vienna-acoustics-haydn
 date: 2025-08-04
 rating: [2.5, 0.6, 0.7, 0.2, 0.5, 0.5]
+price: 220000
 summary: "オーストリアの老舗ブランドによる伝統的なブックシェルフスピーカー。独特のポート設計と上質な仕上げが特徴だが、同等性能をより低価格で実現可能な製品が存在する。"
 tags: [ブックシェルフスピーカー, オーストリア, 2ウェイ, パッシブ]
 permalink: /products/ja/vienna-acoustics-haydn/

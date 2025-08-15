@@ -7,6 +7,7 @@ lang: en
 ref: 7hz-salnotes-zero
 date: 2025-08-14
 rating: [3.7, 0.8, 0.6, 0.8, 0.7, 0.8]
+price: 22.99
 summary: "A neutral-bright leaning, detachable-cable IEM delivering solid build for USD 22.99 (Linsoul 3.5mm no-mic spec as of 2025-08-14); treble peaks may cause fatigue for some"
 tags: [Budget, Dynamic driver, In-ear monitors, Wired]
 permalink: /products/en/7hz-salnotes-zero/

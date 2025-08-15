@@ -7,6 +7,7 @@ lang: en
 ref: denon-avr-x4300h
 date: 2025-07-27
 rating: [2.4, 0.6, 0.3, 0.7, 0.3, 0.5]
+price: 460
 summary: "A discontinued 9.2-channel AV receiver. While technically obsolete compared to current models, it holds some value when compared to its peers in the used market."
 tags: [AV Receiver, 9.2 Channel, Dolby Atmos, DTS:X, Discontinued]
 permalink: /products/en/denon-avr-x4300h/

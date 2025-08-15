@@ -7,6 +7,7 @@ lang: en
 ref: dali-spektor-6
 date: 2025-08-05
 rating: [2.8, 0.5, 0.5, 0.5, 0.7, 0.6]
+price: 602
 summary: "An entry-level floorstanding speaker with musical appeal, but faces challenges in scientific transparency and price competitiveness"
 tags: [2-Way, Denmark, Entry-level, Floorstanding speakers]
 permalink: /products/en/dali-spektor-6/

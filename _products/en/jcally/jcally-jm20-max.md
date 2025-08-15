@@ -7,6 +7,7 @@ lang: en
 ref: jcally-jm20-max
 date: 2025-07-30
 rating: [3.2, 0.8, 0.6, 0.6, 0.5, 0.7]
+price: 53
 summary: "USB-C DAC dongle featuring CS43131+SGM8262 dual-chip configuration. Excellent measurement performance but cost-performance concerns"
 tags: [DAC, Portable Amp, USB-C, CS43131, Dongle]
 permalink: /products/en/jcally-jm20-max/

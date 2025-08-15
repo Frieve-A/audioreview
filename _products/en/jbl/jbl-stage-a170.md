@@ -7,6 +7,7 @@ lang: en
 ref: jbl-stage-a170
 date: 2025-08-13
 rating: [3.3, 0.6, 0.4, 0.9, 0.8, 0.6]
+price: 500
 summary: "Floorstanding speaker with honest specifications and good measured performance, but faces intense competition from superior bookshelf alternatives at similar prices"
 tags: [Budget, Floorstanding, JBL, Speakers]
 permalink: /products/en/jbl-stage-a170/

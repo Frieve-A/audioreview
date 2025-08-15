@@ -7,6 +7,7 @@ lang: en
 ref: austrian-audio-micreator-studio
 date: 2025-07-29
 rating: [3.5, 0.7, 0.8, 0.8, 0.6, 0.6]
+price: 165
 summary: "USB-C condenser microphone designed for content creators. Features custom capsule and open acoustic technology, delivering 48kHz/24bit audio quality."
 tags: [USB Microphone, Content Creation, Condenser, USB-C]
 permalink: /products/en/austrian-audio-micreator-studio/

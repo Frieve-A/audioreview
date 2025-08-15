@@ -7,6 +7,7 @@ lang: ja
 ref: kef-q6-meta
 date: 2025-07-29
 rating: [3.2, 0.4, 0.8, 0.8, 0.7, 0.5]
+price: 99000
 summary: "KEF Q6 Metaは第12世代Uni-QドライバーとMAT技術を搭載した3ウェイセンタースピーカーです。技術的には先進的ですが、問題レベルの周波数特性と4Ω設計による駆動困難性が大きな欠点であり、実用性に課題を残します。"
 tags: [センタースピーカー, 3ウェイ, Uni-Q, MAT, KEF]
 permalink: /products/ja/kef-q6-meta/

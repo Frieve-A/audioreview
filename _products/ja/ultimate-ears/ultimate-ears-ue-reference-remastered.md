@@ -7,6 +7,7 @@ lang: ja
 ref: ultimate-ears-ue-reference-remastered
 date: 2025-08-12
 rating: [2.6, 0.5, 0.4, 0.4, 0.7, 0.6]
+price: 150000
 summary: "スタジオリファレンス向け3ドライバーバランスドアーマチュア搭載カスタムインイヤーモニターで、ニュートラルチューニングを特徴とするが、999ドル（約150,000円）価格帯での競合他社製品の優位性が顕著"
 tags: [インイヤーモニター, カスタムIEM, プロ用オーディオ, スタジオモニタリング, Ultimate Ears]
 permalink: /products/ja/ultimate-ears-ue-reference-remastered/

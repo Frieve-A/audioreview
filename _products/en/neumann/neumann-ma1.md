@@ -7,6 +7,7 @@ lang: en
 ref: neumann-ma1
 date: 2025-07-17
 rating: [4.3, 0.8, 0.9, 1.0, 0.8, 0.8]
+price: 249
 summary: "The Neumann MA1 is a DSP-based automatic monitor correction system co-developed with Fraunhofer IIS. While featuring hardware-level phase correction and Neumann's proprietary technology, its compatibility is limited to specific products and high pricing restricts its versatility."
 tags: [DSP, Measurement Microphone, Monitor Correction, Neumann, Room correction]
 permalink: /products/en/neumann-ma1/

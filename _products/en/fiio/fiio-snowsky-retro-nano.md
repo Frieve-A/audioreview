@@ -7,6 +7,7 @@ lang: en
 ref: fiio-snowsky-retro-nano
 date: 2025-07-29
 rating: [3.7, 0.8, 0.6, 1.0, 0.5, 0.8]
+price: 67
 summary: "A compact Bluetooth DAC/amplifier that fuses retro design with modern technology. Features a 4.4mm balanced output and a replaceable battery, delivering high cost-performance."
 tags: [Amplifiers, Balanced, Bluetooth, DAC, FiiO, Portable, Retro, SNOWSKY]
 permalink: /products/en/fiio-snowsky-retro-nano/

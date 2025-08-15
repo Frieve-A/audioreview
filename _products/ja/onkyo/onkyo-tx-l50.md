@@ -7,6 +7,7 @@ lang: ja
 ref: onkyo-tx-l50
 date: 2025-08-04
 rating: [2.0, 0.2, 0.4, 0.7, 0.3, 0.4]
+price: 45000
 summary: "形を優先し機能を犠牲にした極薄AVレシーバー。誇大な出力表示と著しく限定的な実用性能が科学的評価を大きく損なう。"
 tags: [5.1チャンネル, AVレシーバー, オンキヨー, ホームシアター, 薄型]
 permalink: /products/ja/onkyo-tx-l50/

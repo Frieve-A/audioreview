@@ -7,6 +7,7 @@ lang: en
 ref: audio-technica-ath-r50x
 date: 2025-07-12
 rating: [3.8, 0.7, 0.6, 1.0, 0.8, 0.7]
+price: 159
 summary: "Designed as professional open-back reference headphones, the ATH-R50x achieves 5Hz-40kHz wide-band reproduction and low distortion characteristics. It delivers excellent sound quality at a 159 USD price point with outstanding cost-performance compared to equivalent professional headphones."
 tags: [Headphones, Open-back, Professional, Reference, Audio-Technica]
 permalink: /products/en/audio-technica-ath-r50x/

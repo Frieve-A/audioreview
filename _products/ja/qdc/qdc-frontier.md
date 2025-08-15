@@ -7,6 +7,7 @@ lang: ja
 ref: qdc-frontier
 date: 2025-07-29
 rating: [2.8, 0.5, 0.8, 0.5, 0.3, 0.7]
+price: 18000
 summary: "設計思想は合理的ですが、性能を裏付けるデータが不十分で、技術的革新性やコストパフォーマンスに大きな課題を抱えるイヤホンです。"
 tags: [BA, インイヤーモニター, シングルドライバー, プロフェッショナル, モニター]
 permalink: /products/ja/qdc-frontier/

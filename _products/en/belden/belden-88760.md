@@ -7,6 +7,7 @@ lang: en
 ref: belden-88760
 date: 2025-08-13
 rating: [2.4, 0.5, 0.4, 0.5, 0.6, 0.4]
+price: 3.81
 summary: "Plenum-rated industrial control cable (FEP/FEP, Beldfoil) sometimes pitched for audio; standard electrical performance and significantly higher price than truly equivalent alternatives"
 tags: [Audio Cable, Belden, Cables, FEP, Shielded, Twisted Pair]
 permalink: /products/en/belden-88760/

@@ -7,6 +7,7 @@ lang: en
 ref: bowers-wilkins-px7-s3
 date: 2025-07-22
 rating: [3.1, 0.6, 0.6, 0.9, 0.5, 0.5]
+price: 372
 summary: "The PX7 S3 excels in comfort and build quality, but its sound is intentionally colored rather than faithful, and more affordable, higher-fidelity competitors exist."
 tags: [Bluetooth, High-end, Noise Cancelling, Over-ear, Wireless headphones]
 permalink: /products/en/bowers-wilkins-px7-s3/

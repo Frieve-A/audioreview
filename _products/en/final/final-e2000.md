@@ -7,6 +7,7 @@ lang: en
 ref: final-e2000
 date: 2025-08-14
 rating: [2.8, 0.6, 0.4, 0.5, 0.6, 0.7]
+price: 44
 summary: "Entry-level aluminum-housed IEM with swing-fit design; competent tuning and comfort, but value is undercut by cheaper models with tighter measurements"
 tags: [Aluminum Housing, Budget, Dynamic driver, Earphones, In-ear monitors]
 permalink: /products/en/final-e2000/

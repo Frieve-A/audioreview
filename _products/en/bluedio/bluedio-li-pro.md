@@ -7,6 +7,7 @@ lang: en
 ref: bluedio-li-pro
 date: 2025-08-07
 rating: [2.8, 0.5, 0.4, 1.0, 0.4, 0.5]
+price: 13
 summary: "Wired earphones featuring 13mm drivers and 7.1-channel virtual surround sound technology via USB sound card. While providing basic functionality, this budget product faces challenges in measurement performance and technical advantages."
 tags: [3.5mm, Built-in Microphone, In-ear, Noise Isolation, Wired earphones]
 permalink: /products/en/bluedio-li-pro/

@@ -7,6 +7,7 @@ lang: en
 ref: behringer-302usb-xenyx
 date: 2025-07-20
 rating: [3.5, 0.7, 0.4, 1.0, 0.5, 0.9]
+price: 73
 summary: "A compact USB-integrated mixer providing basic functionality, but with challenges in technology level and reliability"
 tags: [Analog Mixer, Behringer, Compact Mixer, Mixers, USB Audio Interface, XENYX]
 permalink: /products/en/behringer-302usb-xenyx/

@@ -7,6 +7,7 @@ lang: en
 ref: anker-soundcore-2
 date: 2025-07-19
 rating: [2.5, 0.4, 0.3, 1.0, 0.5, 0.3]
+price: 39.99
 summary: "A 12W portable Bluetooth speaker with 24-hour battery life and an IPX7 waterproof rating. While its audio performance is limited, it boasts the best cost-performance in its performance class."
 tags: [Anker, Bluetooth Speaker, Entry-level, Portable, Waterproof]
 permalink: /products/en/anker-soundcore-2/

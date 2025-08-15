@@ -7,6 +7,7 @@ lang: en
 ref: lewitt-lct-441-flex
 date: 2025-08-09
 rating: [3.8, 0.7, 0.7, 1.0, 0.5, 0.9]
+price: 399
 summary: "A large-diaphragm condenser microphone featuring 8 polar patterns, low noise design and 144dB SPL capability, but measurement performance falls behind top-tier models."
 tags: [Condenser Mic, Multi-Pattern, Recording, Lewitt]
 permalink: /products/en/lewitt-lct-441-flex/

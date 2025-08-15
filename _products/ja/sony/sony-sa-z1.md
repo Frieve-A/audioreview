@@ -7,6 +7,7 @@ lang: ja
 ref: sony-sa-z1
 date: 2025-08-04
 rating: [3.3, 0.7, 0.8, 0.3, 0.8, 0.7]
+price: 1199850
 summary: "Sonyの高級ニアフィールドアクティブスピーカー。GaNアンプとI-Arrayツイーター配置による先進技術を採用するも、コストパフォーマンスに課題がある製品です。"
 tags: [アクティブスピーカー, デスクトップオーディオ, ニアフィールドモニター, ハイレゾ]
 permalink: /products/ja/sony-sa-z1/

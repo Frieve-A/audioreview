@@ -7,6 +7,7 @@ lang: ja
 ref: xiaomi-buds-4-pro
 date: 2025-07-15
 rating: [3.4, 0.8, 0.7, 0.5, 0.6, 0.8]
+price: 30000
 summary: "LDAC対応とデュアルドライバーシステムを搭載したプレミアム完全ワイヤレスイヤホンですが、同等機能製品の価格競争激化により、コストパフォーマンスで劣勢が目立ちます。"
 tags: [LDAC, Xiaomi, アクティブノイズキャンセリング, デュアルドライバー, ワイヤレスイヤホン]
 permalink: /products/ja/xiaomi-buds-4-pro/

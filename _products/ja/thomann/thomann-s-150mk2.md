@@ -7,6 +7,7 @@ lang: ja
 ref: thomann-s-150mk2
 date: 2025-07-21
 rating: [1.9, 0.6, 0.2, 0.5, 0.2, 0.4]
+price: 34350
 summary: "時代遅れの設計で、限定的な用途にしか価値を見出せない従来型クラスABパワーアンプ"
 tags: [AB級, Thomann, アンプ, パワーアンプ]
 permalink: /products/ja/thomann-s-150mk2/

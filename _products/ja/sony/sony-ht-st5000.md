@@ -7,6 +7,7 @@ lang: ja
 ref: sony-ht-st5000
 date: 2025-08-13
 rating: [2.2, 0.3, 0.3, 0.4, 0.6, 0.6]
+price: 224850
 summary: "2017年発売の7.1.2ch Dolby Atmos対応サウンドバー。測定上の周波数特性の乱れが大きく、現行の同等機能製品に対しコストパフォーマンスは低いと判断します。"
 tags: [Dolby Atmos, サウンドバー, ソニー, ホームシアター]
 permalink: /products/ja/sony-ht-st5000/

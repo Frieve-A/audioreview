@@ -7,6 +7,7 @@ lang: en
 ref: bluedio-v2
 date: 2025-08-07
 rating: [2.3, 0.5, 0.4, 0.8, 0.3, 0.3]
+price: 65
 summary: "Low-priced Bluetooth headphones claiming 12-driver configuration. Lacks scientific measurement data and questions on rationality of unique configuration. Superior alternatives exist in the same price range."
 tags: [Bluetooth, Budget, Over-ear, Wireless headphones]
 permalink: /products/en/bluedio-v2/

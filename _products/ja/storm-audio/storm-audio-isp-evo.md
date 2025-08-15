@@ -7,6 +7,7 @@ lang: ja
 ref: storm-audio-isp-evo
 date: 2025-08-07
 rating: [3.0, 0.5, 0.3, 1.0, 0.6, 0.6]
+price: 3000000
 summary: "完全デジタル設計の32チャンネル対応イマーシブサウンドプロセッサー。測定データが限定的ながら、デジタル処理による高忠実度が期待され、32チャンネルが必要な用途で競合より優れたコストパフォーマンスを発揮。"
 tags: [プロセッサー, イマーシブサウンド, Dolby Atmos, DTS:X, デジタル処理]
 permalink: /products/ja/storm-audio-isp-evo/

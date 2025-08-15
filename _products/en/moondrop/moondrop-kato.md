@@ -7,6 +7,7 @@ lang: en
 ref: moondrop-kato
 date: 2025-08-01
 rating: [2.9, 0.7, 0.6, 0.4, 0.6, 0.6]
+price: 189
 summary: "The Moondrop Kato is a single dynamic driver IEM priced at 189 USD. While it boasts excellent measured performance, its cost-effectiveness and future viability are limited due to cheaper competitors and the release of a successor."
 tags: [Chinese IEM, Dynamic driver, Earphones, In-ear monitors, Moondrop, ULT Technology]
 permalink: /products/en/moondrop-kato/

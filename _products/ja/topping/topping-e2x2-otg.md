@@ -7,6 +7,7 @@ lang: ja
 ref: topping-e2x2-otg
 date: 2025-07-30
 rating: [3.9, 0.9, 0.8, 1.0, 0.4, 0.8]
+price: 22350
 summary: "Topping E2x2は優秀な測定性能とNFCA-LEヘッドホンアンプを搭載したUSBオーディオインターフェースです。ADC THD+N <0.0003%、DAC THD+N <0.001%という透明レベルを大幅に上回る性能を卓越したコストパフォーマンスで実現していますが、企業の信頼性とサポート面に課題があります。"
 tags: [オーディオインターフェース, DAC, ヘッドホンアンプ, USB, レコーディング]
 permalink: /products/ja/topping-e2x2-otg/

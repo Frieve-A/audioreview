@@ -7,6 +7,7 @@ lang: ja
 ref: victor-sx-dw77
 date: 2025-08-08
 rating: [2.4, 0.5, 0.4, 0.8, 0.4, 0.3]
+price: 57300
 summary: "2006年発売のMFBサーボ搭載アクティブサブウーファー。当時としては先進的なPWM Class-D増幅回路と600W出力を謳うが、現在の測定基準から見ると多くの面で時代遅れとなった製品で、詳細データが存在しません。"
 tags: [Active, D級, MFB, Victor, サブウーファー]
 permalink: /products/ja/victor-sx-dw77/

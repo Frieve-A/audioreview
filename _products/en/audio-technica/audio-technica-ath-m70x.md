@@ -7,6 +7,7 @@ lang: en
 ref: audio-technica-ath-m70x
 date: 2025-08-02
 rating: [2.4, 0.3, 0.5, 0.5, 0.6, 0.5]
+price: 235
 summary: "Expensive monitor headphones claiming professional use but delivering consumer-oriented sound. Equivalent performance is available for about half the price."
 tags: [Monitor Headphones, Studio, Audio-Technica, Professional Equipment]
 permalink: /products/en/audio-technica-ath-m70x/

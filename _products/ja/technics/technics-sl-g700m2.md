@@ -7,6 +7,7 @@ lang: ja
 ref: technics-sl-g700m2
 date: 2025-08-02
 rating: [3.1, 0.8, 0.7, 0.2, 0.8, 0.6]
+price: 524850
 summary: "高い測定性能を持つが、同等機能を大幅に安価で実現可能な代替手段が存在するため、コストパフォーマンスが低い一体型ネットワーク/スーパーオーディオCDプレーヤー"
 tags: [CD Player, SACD, Network Streaming, Digital Audio, Premium Audio]
 permalink: /products/ja/technics-sl-g700m2/

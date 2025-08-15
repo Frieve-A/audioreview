@@ -7,6 +7,7 @@ lang: ja
 ref: pioneer-sc-lx701
 date: 2025-08-13
 rating: [3.2, 0.5, 0.4, 1.0, 0.4, 0.9]
+price: 67500
 summary: "ESS SABRE32 DACとクラスD増幅を搭載した2016年発売の9.2チャンネルAVレシーバー。現在の中古市場で最安の9.2チャンネル機器として競合的なコストパフォーマンスを提供。"
 tags: [AVレシーバー, DTS:X, Dolby Atmos, D級, ESS, アメリカ, ホームシアター, 生産終了]
 permalink: /products/ja/pioneer-sc-lx701/

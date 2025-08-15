@@ -7,6 +7,7 @@ lang: en
 ref: holo-audio-may-dac-kte
 date: 2025-07-31
 rating: [3.0, 0.8, 0.8, 0.2, 0.8, 0.4]
+price: 5600
 summary: "A flagship R2R DAC boasting excellent measured performance. However, it lacks rationality in its technological choice, and its cost-performance is extremely low due to the existence of more affordable, higher-performing alternatives."
 tags: [China, DAC, Discrete, High-end, R2R]
 permalink: /products/en/holo-audio-may-dac-kte/

@@ -7,6 +7,7 @@ lang: ja
 ref: soundpeats-pearlclip-pro
 date: 2025-07-24
 rating: [2.3, 0.3, 0.5, 0.6, 0.4, 0.5]
+price: 7000
 summary: "オープンイヤー設計のクリップ式イヤホンとして物理的制約に対し合理的な設計を採用しているが、科学的な音質性能は透明レベルには程遠い"
 tags: [オープンイヤー, クリップ式, Bluetooth, IPX5, SoundPeats]
 permalink: /products/ja/soundpeats-pearlclip-pro/

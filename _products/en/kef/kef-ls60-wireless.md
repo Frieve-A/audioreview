@@ -7,6 +7,7 @@ lang: en
 ref: kef-ls60-wireless
 date: 2025-07-18
 rating: [3.3, 0.8, 0.9, 0.6, 0.6, 0.4]
+price: 6999
 summary: "KEF LS60 Wireless is a wireless floorstanding speaker that packs innovative technology and excellent acoustic performance into a slim cabinet."
 tags: [Active speakers, Floorstanding, KEF, LS60, Meta, UniCore, Wireless]
 permalink: /products/en/kef-ls60-wireless/

@@ -7,6 +7,7 @@ lang: en
 ref: fulcrum-acoustic-fh1565
 date: 2025-08-13
 rating: [3.2, 0.5, 0.6, 0.8, 0.6, 0.7]
+price: 3500
 summary: "Professional 15-inch coaxial horn loudspeaker with 60° x 45° coverage pattern designed for commercial installation applications, featuring proprietary DSP processing requirements."
 tags: [Coaxial Speakers, DSP, Horn Loaded, Installation, Professional]
 permalink: /products/en/fulcrum-acoustic-fh1565/

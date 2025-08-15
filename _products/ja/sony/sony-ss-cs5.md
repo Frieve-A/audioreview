@@ -7,6 +7,7 @@ lang: ja
 ref: sony-ss-cs5
 date: 2025-07-25
 rating: [3.4, 0.4, 0.6, 1.0, 0.7, 0.7]
+price: 29850
 summary: "ソニーのエントリークラス3ウェイブックシェルフスピーカー。53Hz下限の3ウェイ設計をこの価格帯で実現した競争力のある製品"
 tags: [ブックシェルフスピーカー, 3ウェイ, エントリークラス]
 permalink: /products/ja/sony-ss-cs5/

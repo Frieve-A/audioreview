@@ -7,6 +7,7 @@ lang: en
 ref: fiio-k7
 date: 2025-07-09
 rating: [4.2, 0.9, 0.8, 0.8, 0.9, 0.8]
+price: 225
 summary: "Excellent implementation of desktop DAC/amp combo featuring dual AK4493SEQ DACs and THX AAA 788+ amplifiers"
 tags: ["DAC/Amp combo", "Desktop DAC", Fiio, "Headphone amplifier"]
 permalink: /products/en/fiio-k7/

@@ -7,6 +7,7 @@ lang: en
 ref: ippinkan-airbow-n-05xd-ultimate
 date: 2025-08-11
 rating: [1.1, 0.5, 0.2, 0.0, 0.2, 0.2]
+price: 7400
 summary: "Modified ESOTERIC N-05XD network DAC preamp with custom parts upgrades, priced at premium over base model with unclear sonic benefits"
 tags: [AIRBOW, DAC, ESOTERIC, High-end, Network player, Preamplifier]
 permalink: /products/en/ippinkan-airbow-n-05xd-ultimate/

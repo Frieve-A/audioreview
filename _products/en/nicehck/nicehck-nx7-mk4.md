@@ -7,6 +7,7 @@ lang: en
 ref: nicehck-nx7-mk4
 date: 2025-07-27
 rating: [2.3, 0.5, 0.6, 0.2, 0.5, 0.5]
+price: 110
 summary: "Features a 7-driver configuration, but performance is unknown due to a lack of objective measurement data. Better and cheaper alternatives exist."
 tags: [7-Driver, Chinese Earphones, Hybrid, In-ear monitors, NiceHCK]
 permalink: /products/en/nicehck-nx7-mk4/

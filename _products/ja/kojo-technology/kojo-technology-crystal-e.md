@@ -7,6 +7,7 @@ lang: ja
 ref: kojo-technology-crystal-e
 date: 2025-08-14
 rating: [1.2, 0.1, 0.5, 0.2, 0.4, 0.0]
+price: 35740
 summary: "日本製の多層金属アースボックス。工作精度は高いものの、第三者測定で有効性を裏付けるデータが見当たらず、価格面でも代替手段に劣ります"
 tags: [アースボックス, 日本, オーディオアクセサリー, グラウンディング]
 permalink: /products/ja/kojo-technology-crystal-e/

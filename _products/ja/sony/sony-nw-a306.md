@@ -7,6 +7,7 @@ lang: ja
 ref: sony-nw-a306
 date: 2025-08-04
 rating: [2.6, 0.4, 0.5, 0.8, 0.4, 0.5]
+price: 35980
 summary: "エントリーレベルのハイレゾDAP。Android OS搭載だが音質面での科学的優位性は限定的で、コストパフォーマンスも競合他社に劣る。"
 tags: [Android, ソニー, デジタルオーディオプレーヤー, ハイレゾ, ポータブルオーディオ]
 permalink: /products/ja/sony-nw-a306/

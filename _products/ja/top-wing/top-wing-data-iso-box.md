@@ -7,6 +7,7 @@ lang: ja
 ref: top-wing-data-iso-box
 date: 2025-07-25
 rating: [1.4, 0.2, 0.4, 0.1, 0.4, 0.3]
+price: 55000
 summary: "オーディオ専用のネットワーク分離を謳う55,000円の5ポートスイッチ。科学的根拠が存在しない音質改善効果を主張しており、基本機能は3,000円台から入手可能な汎用品と同一です。"
 tags: [ネットワーク機器, オーディオアクセサリ, スイッチングハブ]
 permalink: /products/ja/top-wing-data-iso-box/

@@ -7,6 +7,7 @@ lang: en
 ref: kz-zas
 date: 2025-08-01
 rating: [2.5, 0.4, 0.7, 0.4, 0.6, 0.4]
+price: 65
 summary: "16-driver hybrid IEM with limited sound quality improvement despite technical complexity. Cost-performance inferior to competitors."
 tags: [BA+DD, Hybrid, In-ear monitors, KZ]
 permalink: /products/en/kz-zas/

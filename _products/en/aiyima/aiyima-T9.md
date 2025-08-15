@@ -7,6 +7,7 @@ lang: en
 ref: aiyima-T9
 date: 2025-07-22
 rating: [2.4, 0.4, 0.5, 0.8, 0.3, 0.4]
+price: 85
 summary: "Bluetooth-enabled compact amplifier with tube-style decoration and integrated features. Power specifications align with TPA3250 chip capabilities, offering certain value for users seeking a multi-functional desktop amplifier with vintage aesthetics."
 tags: [Amplifiers, Bluetooth, Class D, TPA3250, Tube, USB-DAC]
 permalink: /products/en/aiyima-T9/

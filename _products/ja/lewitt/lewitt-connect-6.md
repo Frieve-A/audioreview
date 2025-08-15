@@ -7,6 +7,7 @@ lang: ja
 ref: lewitt-connect-6
 date: 2025-08-14
 rating: [3.5, 0.6, 0.7, 1.0, 0.6, 0.6]
+price: 52350
 summary: "フルデジタルのモバイル連携とオンボードDSP、柔軟なルーティングを備えたクリエイター志向のUSB-Cインターフェース。価格帯で独自性が高い一台です。"
 tags: [オーディオインターフェース, USB-C, DSP, モバイル統合, コンテンツ制作]
 permalink: /products/ja/lewitt-connect-6/

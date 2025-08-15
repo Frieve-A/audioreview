@@ -7,6 +7,7 @@ lang: ja
 ref: sivga-que-utg
 date: 2025-07-25
 rating: [2.3, 0.6, 0.7, 0.2, 0.4, 0.4]
+price: 15980
 summary: "世界初のウルトラ薄ガラス（UTG）振膜を搭載した革新的IEM。NEG製ガラス振膜による高い技術レベルを実現するが、同等機能を持つ低価格競合製品の存在により、コストパフォーマンスは大幅に劣る。"
 tags: [SIVGA, イヤホン, インイヤーモニター, ガラス振膜, UTG, ダイナミック]
 permalink: /products/ja/sivga-que-utg/

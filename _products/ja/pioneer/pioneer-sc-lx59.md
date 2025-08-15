@@ -7,6 +7,7 @@ lang: ja
 ref: pioneer-sc-lx59
 date: 2025-07-24
 rating: [1.8, 0.2, 0.3, 1.0, 0.1, 0.2]
+price: 61800
 summary: "2015年発売の9.2ch AVレシーバー。音質に関する客観的データが乏しく、時代遅れの仕様とサポート終了により、現在の基準では推奨できません。"
 tags: [AVレシーバー, DTS-X, ドルビーアトモス, パイオニア, ホームシアター, 中古, 廃盤]
 permalink: /products/ja/pioneer-sc-lx59/

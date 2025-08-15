@@ -7,6 +7,7 @@ lang: en
 ref: elac-debut-b5-2
 date: 2025-08-04
 rating: [2.6, 0.4, 0.6, 0.5, 0.7, 0.4]
+price: 379
 summary: "ELAC Debut B5.2 is an entry-level bookshelf speaker with high midrange distortion. Requires EQ correction with output limitations, and more affordable alternatives with equivalent functionality exist."
 tags: [2-Way, Bookshelf, Entry-level, Passive, Speakers]
 permalink: /products/en/elac-debut-b5-2/

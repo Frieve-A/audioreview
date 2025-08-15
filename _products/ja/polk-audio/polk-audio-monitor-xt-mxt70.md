@@ -7,6 +7,7 @@ lang: ja
 ref: polk-audio-monitor-xt-mxt70
 date: 2025-08-13
 rating: [3.2, 0.4, 0.5, 1.0, 0.8, 0.5]
+price: 44850
 summary: "Polk Audio Monitor XT MXT70は、299 USD/本（メーカー）のタワー型スピーカーです。広帯域周波数特性とハイレゾ認証を備える一方、第三者測定では応答の不規則性や高出力時の歪み上昇が確認され、透明レベルには達しません。"
 tags: [タワースピーカー, ハイレゾ, パッシブスピーカー, Polk Audio, Dolby Atmos]
 permalink: /products/ja/polk-audio-monitor-xt-mxt70/

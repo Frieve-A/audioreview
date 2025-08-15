@@ -7,6 +7,7 @@ lang: ja
 ref: sony-ht-a9
 date: 2025-08-03
 rating: [2.8, 0.5, 0.7, 0.3, 0.6, 0.7]
+price: 178000
 summary: "360 Spatial Sound Mappingによる革新的な4スピーカーワイヤレスシステムですが、低音不足とコストパフォーマンスに課題があります。"
 tags: [ホームシアター, Dolby Atmos, DTS:X, ワイヤレス, サラウンドサウンド]
 permalink: /products/ja/sony-ht-a9/

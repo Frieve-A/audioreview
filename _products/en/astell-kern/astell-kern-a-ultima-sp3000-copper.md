@@ -7,6 +7,7 @@ lang: en
 ref: astell-kern-a-ultima-sp3000-copper
 date: 2025-08-14
 rating: [2.5, 0.7, 0.8, 0.2, 0.4, 0.4]
+price: 3699
 summary: "Flagship DAP with a pure copper chassis and AKM HEXA-Audio architecture. Excellent measured noise performance for IEMs, but pricey versus a smartphone + portable DAC that delivers comparable transparency and broader utility."
 tags: [Copper, DAP, Digital audio player, High-Resolution Audio, Portable, Premium]
 permalink: /products/en/astell-kern-a-ultima-sp3000-copper/

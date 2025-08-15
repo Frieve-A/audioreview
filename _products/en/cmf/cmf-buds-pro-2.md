@@ -7,6 +7,7 @@ lang: en
 ref: cmf-buds-pro-2
 date: 2025-07-30
 rating: [3.5, 0.7, 0.8, 0.8, 0.6, 0.6]
+price: 80
 summary: "True wireless earbuds achieving dual-driver (11mm+6mm), LDAC support, and 50dB noise canceling at 80 USD. Features Smart Dial physical volume control and exceptional functionality for the price range, though retains some V-shaped sound signature coloration."
 tags: [Buds Pro 2, CMF, Dual Driver, LDAC, Noise cancelling, Nothing, Wireless Earbuds]
 permalink: /products/en/cmf-buds-pro-2/

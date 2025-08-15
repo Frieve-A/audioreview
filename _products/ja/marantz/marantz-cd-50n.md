@@ -7,6 +7,7 @@ lang: ja
 ref: marantz-cd-50n
 date: 2025-08-03
 rating: [3.4, 0.9, 0.7, 0.4, 0.8, 0.6]
+price: 300000
 summary: "ESS DAC、HEOS、HDMI ARC、高解像度対応のプレミアムCDプレーヤー兼ネットワークオーディオストリーマーですが、代替手段と比較して大幅に高額です"
 tags: [CD プレーヤー, ネットワークストリーマー, ESS DAC, HEOS, HDMI ARC]
 permalink: /products/ja/marantz-cd-50n/

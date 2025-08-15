@@ -7,6 +7,7 @@ lang: en
 ref: north-flat-japan-d802j-plus-plus
 date: 2025-08-08
 rating: [2.3, 0.5, 0.3, 0.7, 0.4, 0.4]
+price: 111
 summary: "A full-digital amplifier reportedly adopting the STA326 chip. Based on publicly available information, transparency of measurement data appears limited."
 tags: [Digital Amplifier, Full Digital, STA326, North Flat Japan, FX-AUDIO]
 permalink: /products/en/north-flat-japan-d802j-plus-plus/

@@ -7,6 +7,7 @@ lang: en
 ref: jbl-reflect-flow-pro
 date: 2025-07-09
 rating: [2.9, 0.6, 0.5, 0.4, 0.7, 0.7]
+price: 180
 summary: "The JBL Reflect Flow Pro is a sports-focused true wireless earbud featuring IP68 waterproofing and active noise cancellation. While it offers excellent fit and water resistance, the USD 179.95 price point lacks justification given limited performance and feature advantages over numerous equivalent lower-priced alternatives."
 tags: [JBL, "True wireless earbuds", Sports, Waterproof, "Noise cancellation", Discontinued]
 permalink: /products/en/jbl-reflect-flow-pro/

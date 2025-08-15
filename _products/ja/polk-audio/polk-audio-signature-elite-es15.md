@@ -7,6 +7,7 @@ lang: ja
 ref: polk-audio-signature-elite-es15
 date: 2025-07-18
 rating: [3.0, 0.5, 0.4, 0.9, 0.6, 0.6]
+price: 47000
 summary: "Polk Audio Signature Elite ES15は、価格帯に応じた標準的な測定性能を備え、優れたコストパフォーマンスを提供するブックシェルフスピーカーです。"
 tags: [パッシブスピーカー, ブックシェルフ, ハイレゾ認証, 2ウェイ]
 permalink: /products/ja/polk-audio-signature-elite-es15/

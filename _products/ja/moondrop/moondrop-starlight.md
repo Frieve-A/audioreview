@@ -7,6 +7,7 @@ lang: ja
 ref: moondrop-starlight
 date: 2025-07-27
 rating: [3.1, 0.6, 0.7, 0.5, 0.6, 0.7]
+price: 27000
 summary: "日本限定モデルとして投入されたMg-Li合金ドーム採用の10mmダイナミックドライバーIEMで、DSP機能を搭載しているが、同価格帯の多ドライバー構成製品と比較してコストパフォーマンスに課題が見られる"
 tags: [DSP, Moondrop, インイヤーモニター, ダイナミックドライバー, 日本限定]
 permalink: /products/ja/moondrop-starlight/

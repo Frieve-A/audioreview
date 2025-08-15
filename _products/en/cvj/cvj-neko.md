@@ -7,6 +7,7 @@ lang: en
 ref: cvj-neko
 date: 2025-07-28
 rating: [1.9, 0.3, 0.5, 0.2, 0.5, 0.4]
+price: 90
 summary: "A limited edition of 1000 units single dynamic driver IEM featuring anime-style design, but lacks scientific justification for its 90 USD price point with significantly cheaper alternatives offering equivalent performance"
 tags: [Anime Design, CVJ, In-ear monitors, Limited edition, Single DD]
 permalink: /products/en/cvj-neko/

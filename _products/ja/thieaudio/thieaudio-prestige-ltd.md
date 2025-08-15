@@ -7,6 +7,7 @@ lang: ja
 ref: thieaudio-prestige-ltd
 date: 2025-08-14
 rating: [3.0, 0.7, 0.7, 0.3, 0.6, 0.7]
+price: 209000
 summary: "オリジナルPrestigeをより滑らかなバランスに再調整した上質なトライブリッド。測定面の整合性は高い一方、安価で測定優秀な代替機の存在によりコストパフォーマンスは低評価です。"
 tags: [インイヤーモニター, トライブリッド, フラッグシップ, 静電]
 permalink: /products/ja/thieaudio-prestige-ltd/

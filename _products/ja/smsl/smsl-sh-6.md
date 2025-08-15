@@ -7,6 +7,7 @@ lang: ja
 ref: smsl-sh-6
 date: 2025-08-10
 rating: [3.5, 0.8, 0.6, 1.0, 0.5, 0.6]
+price: 18000
 summary: "技術的に透明レベルを達成したコンパクトなヘッドホンアンプで、同価格帯での高いコストパフォーマンスが魅力"
 tags: [ヘッドホンアンプ, プリアンプ, デスクトップオーディオ, SMSL]
 permalink: /products/ja/smsl-sh-6/

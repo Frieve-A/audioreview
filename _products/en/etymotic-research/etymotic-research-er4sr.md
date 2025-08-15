@@ -7,6 +7,7 @@ lang: en
 ref: etymotic-research-er4sr
 date: 2025-07-07
 rating: [4.2, 1.0, 0.9, 0.6, 0.8, 0.9]
+price: 349
 summary: "A reference earphone continuing the single BA tradition from the 1991 ER4, pursuing measurement accuracy. Its exceptional >35dB isolation, comparable to custom IEMs, and a precise soundstage from drivers matched within ±1dB, offer unique value. While cheaper alternatives exist for sound quality alone, as a unique choice combining both isolation and measurement accuracy, it delivers high cost-performance for professional use and in specific environments."
 tags: [America, High Isolation, Reference, Single BA, Studio monitors]
 permalink: /products/en/etymotic-research-er4sr/

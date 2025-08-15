@@ -7,6 +7,7 @@ lang: ja
 ref: polk-audio-reserve-r600
 date: 2025-07-29
 rating: [3.0, 0.6, 0.7, 0.4, 0.6, 0.7]
+price: 127350
 summary: "Polk AudioのReserve R600は独自技術を搭載した中価格帯フロアスタンディングスピーカーですが、同等性能の低価格代替品が存在するためコストパフォーマンスに課題があります。"
 tags: [Polk Audio, Reserve Series, ハイレゾ, フロアスタンディングスピーカー]
 permalink: /products/ja/polk-audio-reserve-r600/

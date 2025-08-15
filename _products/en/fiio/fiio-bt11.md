@@ -7,6 +7,7 @@ lang: en
 ref: fiio-bt11
 date: 2025-07-23
 rating: [3.5, 0.7, 0.6, 1.0, 0.5, 0.7]
+price: 49
 summary: "The FiiO BT11 is a USB-C Bluetooth transmitter supporting various Bluetooth codecs for 49 USD. With its QCC5181 chip and comprehensive LDAC/aptX Adaptive/aptX Lossless support, it offers excellent cost-performance as the most affordable option in its category."
 tags: [Bluetooth Transmitter, FiiO, LDAC, aptX Adaptive, USB-C, QCC5181]
 permalink: /products/en/fiio-bt11/

@@ -7,6 +7,7 @@ lang: en
 ref: fiio-KA17
 date: 2025-07-22
 rating: [4.3, 0.9, 0.8, 1.0, 0.8, 0.8]
+price: 140
 summary: "Portable DAC/amp featuring dual ES9069Q DAC. Achieves THD+N below 0.0015%, S/N ratio of 123dB, and 650mW output, delivering desktop-level measurement performance in a compact form factor."
 tags: [Balanced output, DAC, Headphone amplifier, Portable, THX, USB]
 permalink: /products/en/fiio-KA17/

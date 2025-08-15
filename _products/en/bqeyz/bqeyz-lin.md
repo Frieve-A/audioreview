@@ -7,6 +7,7 @@ lang: en
 ref: bqeyz-lin
 date: 2025-08-09
 rating: [3.2, 0.5, 0.6, 1.0, 0.5, 0.6]
+price: 16
 summary: "USB-C DAC/amplifier adapter using the Conexant CX31993 chip. Supports up to 32bit/384kHz and offers 3.5mm/4.4mm outputs."
 tags: [Amplifiers, DAC, Dongle, Portable, USB-C]
 permalink: /products/en/bqeyz-lin/

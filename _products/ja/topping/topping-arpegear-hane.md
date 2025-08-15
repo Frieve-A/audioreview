@@ -7,6 +7,7 @@ lang: ja
 ref: topping-arpegear-hane
 date: 2025-07-06
 rating: [2.9, 0.7, 0.6, 0.5, 0.6, 0.5]
+price: 19350
 summary: "Toppingが新ブランドArpegEarとしてリリースした初のIEM。129米ドルの価格で10mmダイナミックドライバーを搭載し、4つのDIPスイッチによる16通りの音質調整が可能。測定では90dB SPLで0.05%未満の低いTHDを示すが、110dB時には5%まで上昇する。V字型のアグレッシブなサウンドシグネチャを持つ。同価格帯のTruthear Hexa（89.99米ドル）やDunu Titan S（100米ドル未満）などの競合品と比較すると、性能対価格の優位性は限定的。"
 tags: [ArpegEar, インイヤーモニター, ダイナミックドライバー, 中国, 調整可能]
 permalink: /products/ja/topping-arpegear-hane/

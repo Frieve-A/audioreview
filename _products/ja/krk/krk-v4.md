@@ -7,6 +7,7 @@ lang: ja
 ref: krk-v4
 date: 2025-07-23
 rating: [2.6, 0.6, 0.5, 0.2, 0.6, 0.7]
+price: 87780
 summary: "KRK V4は標準的な性能を持つスタジオモニターですが、より安価な代替品の存在により、科学的・技術的な観点から限定的な評価となります。"
 tags: [4inch, KRK, アクティブスピーカー, スタジオモニター]
 permalink: /products/ja/krk-v4/

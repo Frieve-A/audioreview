@@ -7,6 +7,7 @@ lang: ja
 ref: soundpeats-gofree2
 date: 2025-07-24
 rating: [2.7, 0.5, 0.4, 0.8, 0.5, 0.5]
+price: 9980
 summary: "オープンイヤー型でLDAC対応を謳うが、性能を裏付ける客観データに乏しい。同等機能の競合製品に対し、バッテリー性能で劣り、コストパフォーマンスにも課題が残る。"
 tags: [オープンイヤー, ワイヤレス, LDAC, Bluetooth, スポーツ]
 permalink: /products/ja/soundpeats-gofree2/

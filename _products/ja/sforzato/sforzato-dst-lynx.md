@@ -7,6 +7,7 @@ lang: ja
 ref: sforzato-dst-lynx
 date: 2025-08-13
 rating: [2.3, 0.5, 0.2, 1.0, 0.4, 0.2]
+price: 858000
 summary: "ZERO LINK専用のネットワークトランスポート。現時点で最安のZERO LINK到達手段ですが、第三者測定が無く、エコシステムの狭さが実用性を制限します。"
 tags: [ストリーミング, デジタルオーディオ, ネットワークトランスポート, ハイエンド, 日本]
 permalink: /products/ja/sforzato-dst-lynx/

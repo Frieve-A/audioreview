@@ -7,6 +7,7 @@ lang: en
 ref: fosi-audio-v3-mono
 date: 2025-07-23
 rating: [3.3, 0.8, 0.7, 0.5, 0.6, 0.7]
+price: 169
 summary: "A Class D monoblock with TPA3255 and PFFB technology, offering excellent measured performance but facing challenges in cost-performance."
 tags: [Monoblock Amplifier, Class D, TPA3255, PFFB]
 permalink: /products/en/fosi-audio-v3-mono/

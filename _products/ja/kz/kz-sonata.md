@@ -7,6 +7,7 @@ lang: ja
 ref: kz-sonata
 date: 2025-08-14
 rating: [2.2, 0.5, 0.5, 0.5, 0.4, 0.3]
+price: 22499
 summary: "KZ Sonataは片側14基・計28基のBAを用いたIEMです。スイッチの±1〜2 dB調整は公開されていますが、独立測定が未整備のため根拠が弱く、149.99 USDに対し実測データが豊富で安価な競合が存在します。"
 tags: [イヤホン, インイヤーモニター, チューナブル, バランスドアーマチュア, マルチドライバー]
 permalink: /products/ja/kz-sonata/

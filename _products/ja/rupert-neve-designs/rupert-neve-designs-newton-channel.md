@@ -7,6 +7,7 @@ lang: ja
 ref: rupert-neve-designs-newton-channel
 date: 2025-07-20
 rating: [3.2, 0.8, 0.8, 0.2, 0.7, 0.7]
+price: 299850
 summary: "優秀な測定性能と高い技術レベルを持つプロフェッショナル向けチャンネルストリップ。しかし、同等以上の機能を持つ製品がはるかに低価格で存在するため、コストパフォーマンスは極めて低い。"
 tags: [チャンネルストリップ, プリアンプ, EQ, コンプレッサー, プロオーディオ]
 permalink: /products/ja/rupert-neve-designs-newton-channel/

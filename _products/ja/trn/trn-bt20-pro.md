@@ -7,6 +7,7 @@ lang: ja
 ref: trn-bt20-pro
 date: 2025-08-13
 rating: [2.5, 0.4, 0.3, 1.0, 0.4, 0.4]
+price: 3780
 summary: "基本機能のワイヤレス化を安価に実現するが、コーデックはAAC/SBCのみで第三者測定は未公開。"
 tags: [Bluetooth, アダプター, インイヤーモニター, ワイヤレス, 完全ワイヤレスイヤホン]
 permalink: /products/ja/trn-bt20-pro/

@@ -7,6 +7,7 @@ lang: ja
 ref: kef-ci250rrm-thx
 date: 2025-07-30
 rating: [3.6, 0.6, 0.8, 1.0, 0.7, 0.5]
+price: 450000
 summary: "代替品のない独自の高性能を持つが、その価格と仕様は、導入環境を慎重に選ぶハイエンドユーザー向けと言える。"
 tags: [KEF, 天井埋込スピーカー, THX, MAT技術, 3ウェイ]
 permalink: /products/ja/kef-ci250rrm-thx/

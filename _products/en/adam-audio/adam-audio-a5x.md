@@ -7,6 +7,7 @@ lang: en
 ref: adam-audio-a5x
 date: 2025-07-31
 rating: [2.5, 0.6, 0.8, 0.2, 0.4, 0.5]
+price: 1419.98
 summary: "A 5.5-inch nearfield monitor featuring X-ART tweeter technology, but suffers from clear frequency response issues at 1.1kHz due to front-port design and limited support due to discontinuation."
 tags: [Discontinued Product, Nearfield, Studio monitors, X-ART Tweeter]
 permalink: /products/en/adam-audio-a5x/

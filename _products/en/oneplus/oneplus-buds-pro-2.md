@@ -7,6 +7,7 @@ lang: en
 ref: oneplus-buds-pro-2
 date: 2025-07-15
 rating: [3.5, 0.7, 0.8, 0.4, 0.8, 0.8]
+price: 177
 summary: "Featuring 48dB noise cancellation and Dynaudio-tuned audio adjustments, these wireless earbuds fail to demonstrate superiority in measured performance against similarly priced competing products"
 tags: [TWS, ANC, OnePlus, Dynaudio, Bluetooth]
 permalink: /products/en/oneplus-buds-pro-2/

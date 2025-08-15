@@ -7,6 +7,7 @@ lang: en
 ref: akg-n5-hybrid
 date: 2025-07-20
 rating: [3.5, 0.7, 0.8, 0.8, 0.6, 0.6]
+price: 191
 summary: "The AKG N5 Hybrid is a premium wireless earphone featuring LDAC codec support and an included USB-C 2.4GHz dongle. Its technical achievements in Hi-Res Audio support and low-latency connectivity are commendable, and the 191 USD price point represents a reasonable level compared to products with equivalent functionality."
 tags: [AKG, ANC, Gaming, Hi-Res, LDAC, Wireless earphones]
 permalink: /products/en/akg-n5-hybrid/

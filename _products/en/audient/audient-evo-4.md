@@ -7,6 +7,7 @@ lang: en
 ref: audient-evo-4
 date: 2025-08-03
 rating: [4.0, 0.8, 0.7, 1.0, 0.7, 0.8]
+price: 154
 summary: "Compact 2-input 2-output USB audio interface achieving transparent-level measured performance despite its small size"
 tags: [2-Input 2-Output, Audio interface, Compact, Recording, USB]
 permalink: /products/en/audient-evo-4/

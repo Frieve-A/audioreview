@@ -7,6 +7,7 @@ lang: ja
 ref: monitor-audio-vestra-w12
 date: 2025-08-11
 rating: [3.1, 0.6, 0.7, 0.7, 0.5, 0.6]
+price: 164850
 summary: "C-CAMドライバー技術とDSP制御を搭載した12インチ密閉型サブウーファー。プレミアムセグメントで競合するも、コストパフォーマンスに課題"
 tags: [DSP, D級, Monitor Audio, サブウーファー, 密閉型]
 permalink: /products/ja/monitor-audio-vestra-w12/

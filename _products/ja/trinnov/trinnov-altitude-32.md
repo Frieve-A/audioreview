@@ -7,6 +7,7 @@ lang: ja
 ref: trinnov-altitude-32
 date: 2025-08-07
 rating: [4.9, 0.9, 1.0, 1.0, 1.0, 1.0]
+price: 4350000
 summary: "フランスのTrinnovが開発した最大32チャンネル対応のAVプロセッサー。ESS Sabre Pro DAC搭載とIntelプラットフォームを採用し、業界最高水準の測定性能を実現。真に32chを必要とする環境に最適な唯一無二の製品だが、価格は29,000USDと高額。"
 tags: [AVプロセッサー, Dolby Atmos, DTS:X Pro, Auro-3D, 32チャンネル, プリアンプ]
 permalink: /products/ja/trinnov-altitude-32/

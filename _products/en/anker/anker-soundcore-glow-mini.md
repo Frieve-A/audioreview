@@ -7,6 +7,7 @@ lang: en
 ref: anker-soundcore-glow-mini
 date: 2025-08-09
 rating: [2.8, 0.5, 0.4, 1.0, 0.5, 0.4]
+price: 40
 summary: "Compact Bluetooth speaker with IP67 waterproofing, LED lighting, and PartyCast 2.0. Audio quality is size-limited, but CP is high as it is the cheapest option with this exact feature set."
 tags: [Bluetooth, IP67, LED Light, Portable speaker, Soundcore]
 permalink: /products/en/anker-soundcore-glow-mini/

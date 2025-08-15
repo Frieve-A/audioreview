@@ -7,6 +7,7 @@ lang: ja
 ref: sony-ta-zh1es
 date: 2025-08-13
 rating: [2.4, 0.7, 0.7, 0.2, 0.6, 0.2]
+price: 187350
 summary: "ソニーのフラッグシップヘッドフォンアンプは透明性より音楽性を重視し、プレミアム価格で意図的な音色を付加します"
 tags: [DAC, ソニー, ハイエンド, プレミアム, ヘッドホンアンプ]
 permalink: /products/ja/sony-ta-zh1es/

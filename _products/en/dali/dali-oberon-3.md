@@ -7,6 +7,7 @@ lang: en
 ref: dali-oberon-3
 date: 2025-07-08
 rating: [3.0, 0.7, 0.7, 0.3, 0.6, 0.7]
+price: 899
 summary: "Entry-level bookshelf speakers from Danish manufacturer DALI. Features 7-inch wood fiber woofer and SMC technology delivering above-price-point audio quality. Offers 47Hz-26kHz frequency response with 87dB sensitivity. However, the USD 800-899 price faces limitations when ELAC Debut 2.0 B6.2 (~USD 280) provides superior 44Hz-35kHz characteristics with significantly better cost-performance."
 tags: ["Bookshelf speakers", DALI, Denmark, "SMC Technology", "Wood Fiber"]
 permalink: /products/en/dali-oberon-3/

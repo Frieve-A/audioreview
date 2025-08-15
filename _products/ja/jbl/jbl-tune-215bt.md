@@ -7,6 +7,7 @@ lang: ja
 ref: jbl-tune-215bt
 date: 2025-08-09
 rating: [3.3, 0.5, 0.5, 1.0, 0.5, 0.8]
+price: 2880
 summary: "12.5mmドライバー、Bluetooth 5.0、最大16時間再生、USB Type‑C充電、2台同時接続のマルチポイント対応のネックバンド型イヤホン。実売約2,880円（Amazon.co.jp参照）で高い実用性を提供します。"
 tags: [Bluetooth, ネックバンド, イヤホン, JBL, ワイヤレス]
 permalink: /products/ja/jbl-tune-215bt/

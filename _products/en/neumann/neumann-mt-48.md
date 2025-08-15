@@ -7,6 +7,7 @@ lang: en
 ref: neumann-mt-48
 date: 2025-08-14
 rating: [3.7, 0.8, 0.9, 0.5, 0.7, 0.8]
+price: 1850
 summary: "Neumann's first audio interface combines Merging Technologies conversion with professional features but faces significant cost-performance challenges against established competitors"
 tags: [Audio interface, Conversion, Professional, Studio Equipment, USB-C]
 permalink: /products/en/neumann-mt-48/

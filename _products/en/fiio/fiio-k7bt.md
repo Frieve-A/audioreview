@@ -7,6 +7,7 @@ lang: en
 ref: fiio-k7bt
 date: 2025-07-09
 rating: [3.8, 0.8, 0.8, 0.6, 0.9, 0.7]
+price: 278
 summary: "Desktop DAC/amp combo adding Bluetooth functionality to K7, but questionable necessity of Bluetooth implementation"
 tags: [Bluetooth, "DAC/Amp combo", "Desktop DAC", Fiio, "Headphone amplifier"]
 permalink: /products/en/fiio-k7bt/

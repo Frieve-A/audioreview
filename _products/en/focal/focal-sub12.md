@@ -7,6 +7,7 @@ lang: en
 ref: focal-sub12
 date: 2025-08-12
 rating: [2.6, 0.5, 0.7, 0.4, 0.5, 0.5]
+price: 2599
 summary: "Professional 600W powered subwoofer with advanced W-cone technology; strong engineering but uncompetitive price-to-performance versus proven studio alternatives"
 tags: [Subwoofer, Studio-Monitor, Powered, Professional]
 permalink: /products/en/focal-sub12/

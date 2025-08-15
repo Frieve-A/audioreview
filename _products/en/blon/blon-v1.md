@@ -7,6 +7,7 @@ lang: en
 ref: blon-v1
 date: 2025-08-13
 rating: [3.6, 0.5, 0.8, 1.0, 0.6, 0.7]
+price: 41
 summary: "Dual CS43131 portable DAC/amp with aerospace-grade aluminum construction offering competitive performance at 41 USD"
 tags: [Amplifiers, CS43131, DAC, DSD, Hi-Res, Portable, USB]
 permalink: /products/en/blon-v1/

@@ -7,6 +7,7 @@ lang: ja
 ref: pioneer-ts-z900prs
 date: 2025-08-11
 rating: [2.5, 0.5, 0.7, 0.5, 0.5, 0.3]
+price: 104500
 summary: "CST同軸技術を特徴とする高級コンポーネント。測定可能な利益は限定的で、同等スペック最安比でのコストパフォーマンスは0.5"
 tags: [カースピーカー, コンポーネントスピーカー, 高級]
 permalink: /products/ja/pioneer-ts-z900prs/

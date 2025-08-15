@@ -7,6 +7,7 @@ lang: en
 ref: ik-multimedia-axe-i-o
 date: 2025-07-21
 rating: [4.2, 0.8, 0.7, 1.0, 0.8, 0.9]
+price: 399
 summary: "A 2-in/5-out audio interface specializing in guitar recording, offering excellent cost-performance for its unique feature set."
 tags: [192kHz, Audio interface, Guitar Recording, USB]
 permalink: /products/en/ik-multimedia-axe-i-o/

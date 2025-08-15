@@ -7,6 +7,7 @@ lang: en
 ref: marantz-pm-7000n
 date: 2025-08-03
 rating: [3.9, 0.8, 0.6, 0.8, 0.7, 1.0]
+price: 682
 summary: "A network-enabled integrated amplifier with excellent measurement performance and integrated design, offering acceptable cost-performance within reasonable range"
 tags: [HEOS, Integrated amplifier, Network audio, Streaming]
 permalink: /products/en/marantz-pm-7000n/

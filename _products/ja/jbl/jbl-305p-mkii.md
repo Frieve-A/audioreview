@@ -7,6 +7,7 @@ lang: ja
 ref: jbl-305p-mkii
 date: 2025-07-08
 rating: [4.2, 0.9, 0.8, 1.0, 0.8, 0.7]
+price: 17850
 summary: "JBLのプロフェッショナルモニターシリーズから生まれた5インチニアフィールドモニター。0.2%のTHD、75dBのSNR、49Hz-20kHzの周波数特性と、測定データで裏付けられた高い技術性能を誇る。単体価格119USDという圧倒的なコストパフォーマンスを実現し、同価格帯では最高水準の測定性能を提供する。Image Control Waveguideによる広いスイートスポットと、デスクトップ使用に配慮したBoundary EQ機能も実用的。"
 tags: [JBL, スタジオモニター, 305P, 5インチ, バイアンプ, プロフェッショナル]
 permalink: /products/ja/jbl-305p-mkii/

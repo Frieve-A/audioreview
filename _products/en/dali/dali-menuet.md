@@ -7,6 +7,7 @@ lang: en
 ref: dali-menuet
 date: 2025-08-07
 rating: [2.7, 0.4, 0.7, 0.2, 0.8, 0.6]
+price: 1386
 summary: "DALI's compact bookshelf speaker Menuet features solid design and build quality from an established Danish manufacturer, but significantly underperforms in cost-performance due to the existence of competing products that deliver equivalent performance at much lower prices."
 tags: [2-Way, Bookshelf speakers, DALI, Denmark]
 permalink: /products/en/dali-menuet/

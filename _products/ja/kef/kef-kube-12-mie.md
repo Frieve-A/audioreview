@@ -7,6 +7,7 @@ lang: ja
 ref: kef-kube-12-mie
 date: 2025-08-12
 rating: [2.7, 0.5, 0.6, 0.8, 0.4, 0.4]
+price: 164999
 summary: "Music Integrity Engine DSPを搭載した300Wアンプ付き12インチ密閉型サブウーファー"
 tags: [DSP, D級, サブウーファー, 密閉型]
 permalink: /products/ja/kef-kube-12-mie/

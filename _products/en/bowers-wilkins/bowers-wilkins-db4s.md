@@ -7,6 +7,7 @@ lang: en
 ref: bowers-wilkins-db4s
 date: 2025-08-01
 rating: [3.2, 0.6, 0.7, 0.4, 0.8, 0.7]
+price: 2199
 summary: "The DB4S is an entry-level model in the 700 series that incorporates the same Aerofoil cone technology as higher-end models. With 1000W output and a sealed enclosure design, it provides performance suitable for music reproduction, but faces challenges in cost-performance due to the existence of competitive products that achieve equivalent performance at lower prices."
 tags: [Subwoofer, Sealed, Smartphone Control, 1000W Output]
 permalink: /products/en/bowers-wilkins-db4s/

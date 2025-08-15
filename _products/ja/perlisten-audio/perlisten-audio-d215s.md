@@ -7,6 +7,7 @@ lang: ja
 ref: perlisten-audio-d215s
 date: 2025-08-07
 rating: [3.3, 0.8, 0.8, 0.2, 0.7, 0.8]
+price: 1499250
 summary: "THX Dominus認証を世界初で取得した高性能デュアル15インチサブウーファー。測定性能は極めて優秀だが、同等性能製品との価格差が約4.4倍という大幅なプレミアムが課題"
 tags: [サブウーファー, THX認証, デュアルドライバー, プッシュプル, ハイエンド]
 permalink: /products/ja/perlisten-audio-d215s/

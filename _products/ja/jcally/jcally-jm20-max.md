@@ -7,6 +7,7 @@ lang: ja
 ref: jcally-jm20-max
 date: 2025-07-30
 rating: [3.2, 0.8, 0.6, 0.6, 0.5, 0.7]
+price: 8000
 summary: "CS43131+SGM8262デュアルチップ搭載のUSB-C DACドングル。測定性能は優秀だがコストパフォーマンスに課題"
 tags: [DAC, ポータブルアンプ, USB-C, CS43131, ドングル]
 permalink: /products/ja/jcally-jm20-max/

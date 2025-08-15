@@ -7,6 +7,7 @@ lang: en
 ref: creative-pebble
 date: 2025-08-13
 rating: [2.5, 0.4, 0.3, 1.0, 0.5, 0.3]
+price: 24.99
 summary: "USB-powered desktop speakers at 25 USD. Provides total 4.4W RMS output, 100Hz–17kHz frequency response, and 86 dB SNR (spec) [1]. Third-party comprehensive measurements are limited, but it delivers sufficient basic performance for entry use. No cheaper current product with equal-or-better functions and performance was found; price rationality is high [1][2][4]."
 tags: [Budget, Creative, Desktop Speakers, USB-powered]
 permalink: /products/en/creative-pebble/

@@ -7,6 +7,7 @@ lang: ja
 ref: nothing-nothing-ear
 date: 2025-08-04
 rating: [3.4, 0.6, 0.7, 1.0, 0.5, 0.6]
+price: 22350
 summary: "Nothing Earは最大45dBの優秀なANC性能、高度なパラメトリックEQ、パーソナルサウンドプロファイル、LHDCコーデック対応を149USDで提供します。測定性能は標準的で、詳細な音質カスタマイズを重視するユーザー向けの強力な選択肢となります。"
 tags: [完全ワイヤレスイヤホン, Nothing, アクティブノイズキャンセリング]
 permalink: /products/ja/nothing-nothing-ear/

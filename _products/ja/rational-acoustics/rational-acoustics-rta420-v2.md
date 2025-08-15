@@ -7,6 +7,7 @@ lang: ja
 ref: rational-acoustics-rta420-v2
 date: 2025-07-18
 rating: [2.8, 0.4, 0.5, 1.0, 0.5, 0.4]
+price: 13350
 summary: "エントリークラスの測定用マイクロホンとして機能し、同等の測定機能を持つ製品としては最も手頃な価格帯であるため、コストパフォーマンスは良好です"
 tags: [測定マイク, 音響測定, Rational Acoustics, RTA-420]
 permalink: /products/ja/rational-acoustics-rta420-v2/

@@ -7,6 +7,7 @@ lang: en
 ref: bowers-wilkins-606s2
 date: 2025-08-03
 rating: [2.3, 0.4, 0.6, 0.3, 0.6, 0.4]
+price: 900
 summary: "The Bowers & Wilkins 606 S2 is a bookshelf speaker featuring a 6.5-inch Continuum cone driver and 1-inch decoupled double-dome aluminum tweeter. While it achieves a frequency response of 52Hz-28kHz, cost-performance challenges arise due to the availability of competing products offering equivalent or superior measured performance at significantly lower prices."
 tags: [2-Way, 6.5-inch, Aluminum Tweeter, Bookshelf speakers, Continuum]
 permalink: /products/en/bowers-wilkins-606s2/

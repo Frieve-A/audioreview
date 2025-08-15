@@ -7,6 +7,7 @@ lang: ja
 ref: truthear-pure
 date: 2025-07-14
 rating: [3.8, 0.7, 0.8, 0.7, 0.7, 0.9]
+price: 13500
 summary: "Hexaの後継機として登場したPureは、1DD+3BA構成と改良された設計により、バランスの取れた音質を実現した89.99USD価格帯IEM。科学的測定に基づく設計改良により音質向上を図っているが、コストパフォーマンス面では課題がある。"
 tags: [Truthear, インイヤーモニター, ハイブリッドドライバー, マルチドライバー]
 permalink: /products/ja/truthear-pure/

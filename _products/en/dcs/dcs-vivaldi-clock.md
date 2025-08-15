@@ -7,6 +7,7 @@ lang: en
 ref: dcs-vivaldi-clock
 date: 2025-07-25
 rating: [2.0, 0.3, 0.7, 0.1, 0.8, 0.1]
+price: 19533
 summary: "An extremely expensive master clock whose existence holds limited value in modern audio technology, failing to demonstrate scientific or audible superiority commensurate with its cost."
 tags: [Digital Audio, High-end, Master Clock, dCS]
 permalink: /products/en/dcs-vivaldi-clock/

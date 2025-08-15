@@ -7,6 +7,7 @@ lang: en
 ref: oneodio-pro30
 date: 2025-07-29
 rating: [2.4, 0.3, 0.2, 1.0, 0.4, 0.5]
+price: 27
 summary: "DJ/monitor headphones with 50mm drivers. While they offer basic features, a lack of measurement data raises questions about scientific validity. Cost-performance is excellent, being one of the most affordable options compared to competitors with similar features."
 tags: [Headphones, DJ, Monitor, Wired, 50mm Driver]
 permalink: /products/en/oneodio-pro30/

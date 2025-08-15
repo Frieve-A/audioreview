@@ -7,6 +7,7 @@ lang: ja
 ref: oneodio-pro50
 date: 2025-07-29
 rating: [2.0, 0.2, 0.3, 0.8, 0.5, 0.2]
+price: 5799
 summary: "DJ・エンターテイメント用途向けのV字型チューニングを採用した低価格ヘッドホン。科学的な音質再現からは大きく逸脱するが、価格を考慮すれば一定の価値を持つ製品。"
 tags: [DJ, V字型, エンターテイメント, ヘッドホン, 低価格]
 permalink: /products/ja/oneodio-pro50/

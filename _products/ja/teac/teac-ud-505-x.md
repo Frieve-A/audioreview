@@ -7,6 +7,7 @@ lang: ja
 ref: teac-ud-505-x
 date: 2025-08-03
 rating: [3.4, 0.9, 0.7, 0.3, 0.7, 0.8]
+price: 156420
 summary: "デュアルモノラル構成のESS ES9038Q2M DACチップを搭載したTEACのUSB DAC/ヘッドホンアンプ。測定性能は透明レベルを大幅に上回る優秀な結果を示しますが、同等の機能・性能を持つ製品と比較するとコストパフォーマンスに課題が残ります。"
 tags: [DAC, ヘッドホンアンプ, USB DAC, デュアルモノラル, ES9038, DSD512, 768kHz, バランス出力]
 permalink: /products/ja/teac-ud-505-x/

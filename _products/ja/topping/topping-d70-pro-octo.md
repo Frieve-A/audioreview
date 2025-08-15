@@ -7,6 +7,7 @@ lang: ja
 ref: topping-d70-pro-octo
 date: 2025-07-24
 rating: [4.0, 0.9, 0.8, 0.8, 0.7, 0.8]
+price: 89850
 summary: "8基のCS43198チップを搭載し、THD+N 0.00007%、SNR 134dBの測定性能を実現したハイエンドDAC。優れた科学的有効性と技術レベルを持つが、同等機能の製品と比較すると価格面で若干の劣勢。"
 tags: [DAC, Topping, CS43198, PCM768kHz, DSD512, Bluetooth]
 permalink: /products/ja/topping-d70-pro-octo/

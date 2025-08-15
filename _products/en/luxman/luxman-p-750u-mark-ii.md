@@ -7,6 +7,7 @@ lang: en
 ref: luxman-p-750u-mark-ii
 date: 2025-08-04
 rating: [2.4, 0.7, 0.8, 0.1, 0.5, 0.3]
+price: 2310
 summary: "High-end headphone amplifier with solid measurement performance but limited by SNR and facing severe cost-performance issues"
 tags: [Balanced output, Headphone amplifier, High-end, Japan]
 permalink: /products/en/luxman-p-750u-mark-ii/

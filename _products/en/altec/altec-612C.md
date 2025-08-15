@@ -7,6 +7,7 @@ lang: en
 ref: altec-612C
 date: 2025-07-26
 rating: [1.5, 0.2, 0.3, 0.2, 0.3, 0.5]
+price: 2200
 summary: "While possessing historical value as a 1970s vintage studio monitor, it falls far short of modern transparency standards in measured performance and exhibits poor cost-performance compared to contemporary products with equivalent functionality."
 tags: [Coaxial, Passive speakers, Studio monitors, Vintage Speakers]
 permalink: /products/en/altec-612C/

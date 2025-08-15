@@ -7,6 +7,7 @@ lang: ja
 ref: sony-mdr-ex1000
 date: 2025-07-22
 rating: [2.1, 0.4, 0.8, 0.4, 0.3, 0.2]
+price: 18800
 summary: "大型16mmドライバとリキッドクリスタルポリマー技術を特徴とする高級イヤホンだが、+6dBの5.5kHzピークによる音質問題と低いコストパフォーマンスが致命的"
 tags: [イヤホン, インイヤーモニター, ダイナミックドライバ, 高級]
 permalink: /products/ja/sony-mdr-ex1000/

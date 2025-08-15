@@ -7,6 +7,7 @@ lang: en
 ref: benchmark-ahb2
 date: 2025-08-09
 rating: [3.5, 1.0, 0.9, 0.4, 0.6, 0.6]
+price: 3499
 summary: "Power amplifier achieving transparent level using THX AAA technology. Boasts world-class SINAD 113 dB measurements; at 3,499 USD street price, cost-performance is limited versus cheaper transparent alternatives."
 tags: [Benchmark, Class-H, High-end, Power-Amplifier, THX-AAA]
 permalink: /products/en/benchmark-ahb2/

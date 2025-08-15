@@ -7,6 +7,7 @@ lang: ja
 ref: trinnov-audio-nova
 date: 2025-07-14
 rating: [3.7, 0.9, 0.9, 0.3, 0.8, 0.8]
+price: 523500
 summary: "ルームコレクション技術のパイオニアによる高性能プロセッサー。優れた測定性能と独自の3Dマイクロフォンを備えるが、同等機能の製品と比較してコストパフォーマンスに課題がある。"
 tags: [ルームコレクション, プリアンプ, プロセッサー, Dirac Live, 音響補正]
 permalink: /products/ja/trinnov-audio-nova/

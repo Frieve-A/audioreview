@@ -7,6 +7,7 @@ lang: en
 ref: earfun-free-pro-3-anc
 date: 2025-07-24
 rating: [3.0, 0.6, 0.5, 0.7, 0.5, 0.7]
+price: 79.99
 summary: "True wireless earbuds with 43dB ANC and aptX Adaptive support at 79.99USD. Its cost-performance is challenged by the cheaper CMF Buds Pro, which offers comparable or superior features in many aspects."
 tags: [True Wireless, ANC, Bluetooth 5.3, aptX Adaptive, Budget]
 permalink: /products/en/earfun-free-pro-3-anc/

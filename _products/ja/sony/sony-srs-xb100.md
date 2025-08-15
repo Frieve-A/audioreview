@@ -7,6 +7,7 @@ lang: ja
 ref: sony-srs-xb100
 date: 2025-08-02
 rating: [2.7, 0.6, 0.5, 0.5, 0.6, 0.5]
+price: 7791
 summary: "超コンパクトサイズに16時間バッテリーとIP67防水を搭載したポータブルスピーカー。音質面では物理的制約により限界があるものの、携帯性と実用性に特化した設計。"
 tags: [Bluetooth, ソニー, ポータブル, 超小型, 防水]
 permalink: /products/ja/sony-srs-xb100/

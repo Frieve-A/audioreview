@@ -7,6 +7,7 @@ lang: ja
 ref: neumann-ma1
 date: 2025-07-17
 rating: [4.3, 0.8, 0.9, 1.0, 0.8, 0.8]
+price: 37350
 summary: "Neumann MA1は、Fraunhofer IISとの共同開発によるDSPベースの自動モニター補正システムです。ハードウェアレベルでの位相補正とNeumann独自技術を搭載していますが、対応製品の限定性と高価格により汎用性が制限されています。"
 tags: [モニター補正, DSP, 測定マイク, ルーム補正, Neumann]
 permalink: /products/ja/neumann-ma1/

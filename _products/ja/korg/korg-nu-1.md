@@ -7,6 +7,7 @@ lang: ja
 ref: korg-nu-1
 date: 2025-08-01
 rating: [3.2, 0.6, 0.7, 1.0, 0.4, 0.5]
+price: 30000
 summary: "KORGが2018年に発売したNutube搭載の統合型DAC/ADC/プリアンプ。生産終了品だが、その多機能性と公称性能を考慮すると、中古市場において比類のないコストパフォーマンスを発揮するニッチな製品。"
 tags: [DAC, ADC, プリアンプ, フォノステージ, Nutube, 真空管, DSD, ハイレゾ]
 permalink: /products/ja/korg-nu-1/

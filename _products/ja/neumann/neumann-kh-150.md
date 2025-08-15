@@ -7,6 +7,7 @@ lang: ja
 ref: neumann-kh-150
 date: 2025-07-28
 rating: [4.4, 0.9, 0.8, 1.0, 0.8, 0.9]
+price: 300000
 summary: "史上最高クラスの測定性能とDSP補正を両立。同等性能の代替品が見当たらないため、この性能を求めるなら最高のコストパフォーマンスを誇る。"
 tags: [スタジオモニター, DSP, ニアフィールド, パワードスピーカー]
 permalink: /products/ja/neumann-kh-150/

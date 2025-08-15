@@ -7,6 +7,7 @@ lang: en
 ref: bose-soundlink-home
 date: 2025-08-02
 rating: [2.8, 0.5, 0.6, 0.8, 0.3, 0.6]
+price: 220
 summary: "A portable speaker that combines high waterproof performance with a stylish design. However, its monaural playback and the existence of more capable and better-performing competitors affect its cost-performance."
 tags: [Bluetooth, IP67, Portable, Speakers, Waterproof]
 permalink: /products/en/bose-soundlink-home/

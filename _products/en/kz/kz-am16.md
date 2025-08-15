@@ -7,6 +7,7 @@ lang: en
 ref: kz-am16
 date: 2025-07-27
 rating: [2.8, 0.6, 0.5, 0.9, 0.4, 0.4]
+price: 62
 summary: "Multi-driver IEM featuring 16 balanced armature drivers, but with limitations in scientific validity and design rationality as a budget product"
 tags: [16 Drivers, Balanced armature, Budget, In-ear monitors, KZ]
 permalink: /products/en/kz-am16/

@@ -7,6 +7,7 @@ lang: en
 ref: denon-pma-sx11
 date: 2025-08-05
 rating: [3.1, 0.8, 0.7, 0.3, 0.7, 0.6]
+price: 1700
 summary: "The Denon PMA-SX11 is a high-end integrated amplifier with excellent measured performance, but is overpriced compared to products with equivalent functionality"
 tags: [Denon, High-end, Integrated amplifier, Phono Stage]
 permalink: /products/en/denon-pma-sx11/

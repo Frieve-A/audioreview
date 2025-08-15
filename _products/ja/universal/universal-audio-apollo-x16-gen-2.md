@@ -7,6 +7,7 @@ lang: ja
 ref: universal-audio-apollo-x16-gen-2
 date: 2025-07-13
 rating: [4.6, 0.8, 0.9, 1.0, 0.9, 1.0]
+price: 440000
 summary: "133dBのダイナミックレンジと-129dB THD+N を実現したプロフェッショナル・オーディオインターフェース。強力なDSP機能を搭載し、同価格帯の競合製品と比較しても遜色ないコストパフォーマンスを持つが、UADプラグインエコシステムに価値を見出せるかが選択の鍵となる。"
 tags: [オーディオインターフェース, プロフェッショナル, Universal Audio, マルチチャンネル, DSP, 高価格]
 permalink: /products/ja/universal-audio-apollo-x16-gen-2/

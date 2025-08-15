@@ -7,6 +7,7 @@ lang: en
 ref: fiio-q7
 date: 2025-08-11
 rating: [3.9, 0.8, 0.9, 0.7, 0.8, 0.7]
+price: 600
 summary: "Desktop-class portable DAC/amplifier with ES9038PRO DAC and dual THX AAA 788+ amplification, delivering exceptional technical performance but at a premium price point."
 tags: [Balanced, DAC, ES9038PRO, Headphone amplifier, Portable, THX]
 permalink: /products/en/fiio-q7/

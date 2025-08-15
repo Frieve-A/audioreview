@@ -7,6 +7,7 @@ lang: ja
 ref: jbl-stage-a190
 date: 2025-08-13
 rating: [2.8, 0.5, 0.6, 0.6, 0.6, 0.5]
+price: 75000
 summary: "HDIウェーブガイドとデュアル8インチウーファー搭載の2.5ウェイタワースピーカー。工学的に基礎以上で性能は中程度"
 tags: [タワースピーカー, フロアスタンディング, HDI, アルミニウムツイーター, デュアル8インチ]
 permalink: /products/ja/jbl-stage-a190/

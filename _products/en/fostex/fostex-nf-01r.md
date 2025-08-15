@@ -7,6 +7,7 @@ lang: en
 ref: fostex-nf-01r
 date: 2025-08-10
 rating: [2.7, 0.5, 0.6, 0.3, 0.7, 0.6]
+price: 653
 summary: "A limited edition 5-inch nearfield monitor inheriting NF-01A lineage but restricted to Japan-only distribution through Rock oN Company. While featuring bi-amplified design with HR diaphragm woofer and UFLC tweeter, the extreme scarcity and lack of comprehensive measurement data significantly limit its practical value."
 tags: [Active speakers, Limited edition, Monitor Speaker, Nearfield, Professional]
 permalink: /products/en/fostex-nf-01r/

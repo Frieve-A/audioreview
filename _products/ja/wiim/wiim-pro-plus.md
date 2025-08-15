@@ -7,6 +7,7 @@ lang: ja
 ref: wiim-pro-plus
 date: 2025-07-08
 rating: [4.2, 0.8, 0.8, 0.9, 0.8, 0.9]
+price: 32850
 summary: "AKM4493SEQ DAC搭載のミュージックストリーマー（219USD）。SNR 120dB、THD+N -110dB、32bit/768kHz PCM・DSD512対応で透明レベルの測定値を実現。同価格帯に競合製品が存在しない圧倒的なコストパフォーマンス。"
 tags: [AKM, DAC, Velvet-sound, コストパフォーマンス, ネットワークストリーマー]
 permalink: /products/ja/wiim-pro-plus/

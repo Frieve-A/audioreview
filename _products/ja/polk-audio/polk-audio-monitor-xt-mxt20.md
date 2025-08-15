@@ -7,6 +7,7 @@ lang: ja
 ref: polk-audio-monitor-xt-mxt20
 date: 2025-07-18
 rating: [3.6, 0.6, 0.5, 1.0, 0.8, 0.7]
+price: 29520
 summary: "Polk Audio Monitor XT MXT20は、その性能カテゴリーにおいて最もコスト効率的な選択肢です。ブランドとしての信頼性も高く評価できますが、客観的な音質改善効果は限定的です。"
 tags: [Monitor XT, Polk, ハイレゾ, ブックシェルフスピーカー, 中価格帯]
 permalink: /products/ja/polk-audio-monitor-xt-mxt20/

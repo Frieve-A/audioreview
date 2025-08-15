@@ -7,6 +7,7 @@ lang: en
 ref: elac-varro-ps-250
 date: 2025-08-12
 rating: [3.6, 0.6, 0.7, 0.9, 0.7, 0.7]
+price: 699.98
 summary: "Premium-series 10-inch subwoofer with app control and Auto EQ; measured specs are solid. With current market price at 699.98 USD and strong competitors around 600 USD, value is acceptable when Auto EQ/app control matter."
 tags: [Subwoofer, Active, BASH, App Control, Auto EQ]
 permalink: /products/en/elac-varro-ps-250/

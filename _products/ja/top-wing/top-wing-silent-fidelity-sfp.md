@@ -7,6 +7,7 @@ lang: ja
 ref: top-wing-silent-fidelity-sfp
 date: 2025-07-25
 rating: [1.6, 0.2, 0.7, 0.1, 0.5, 0.1]
+price: 44000
 summary: "ネットワークオーディオ用途に特化した世界初のオーディオグレードSFPモジュール。光アイソレーション機能を提供するが、科学的有効性と費用対効果に極めて大きな課題があります。"
 tags: [ネットワークオーディオ, 光アイソレーション, SFPモジュール, デジタル]
 permalink: /products/ja/top-wing-silent-fidelity-sfp/

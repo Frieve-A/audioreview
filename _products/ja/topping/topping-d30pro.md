@@ -7,6 +7,7 @@ lang: ja
 ref: topping-d30pro
 date: 2025-08-01
 rating: [3.5, 0.9, 0.7, 0.5, 0.6, 0.8]
+price: 59850
 summary: "4基のCS43198チップを搭載したフルバランス設計のDAC。透明レベルの測定性能を実現するも、現在は同等性能でより安価な選択肢が存在する。"
 tags: [DAC, Topping, バランス出力, CS43198, 製品レビュー]
 permalink: /products/ja/topping-d30pro/

@@ -7,6 +7,7 @@ lang: ja
 ref: ik-multimedia-arc-studio
 date: 2025-08-09
 rating: [3.1, 0.8, 0.6, 0.3, 0.6, 0.8]
+price: 45000
 summary: "IK MultimediaのARC Studioは、室内音響補正システムとして音楽制作現場で実用的な効果を発揮する製品です。VRM技術による3D音響解析と21ポイント測定により、科学的に有効な補正を提供します。USD 300でハードウェア・ソフトウェア・測定マイクの完全パッケージを提供し、スタンドアロン動作が可能な点は評価できます。ただし、純粋な音響補正技術としては限界があり、価格対性能比も厳しい評価となります。"
 tags: [室内音響補正, DSP, 音楽制作, スタンドアロン, VRM技術]
 permalink: /products/ja/ik-multimedia-arc-studio/

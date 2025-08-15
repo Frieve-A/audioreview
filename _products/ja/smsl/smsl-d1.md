@@ -7,6 +7,7 @@ lang: ja
 ref: smsl-d1
 date: 2025-08-11
 rating: [3.3, 0.5, 0.5, 1.0, 0.5, 0.8]
+price: 12000
 summary: "ROHM BD34352EKVチップ搭載のエントリーレベルDAC。THD+N 0.00038%、SNR/DNR 119 dB、公称2.0 Vrms出力を79.99 USDの価格帯で提供"
 tags: [DAC, Digital-to-Analog-Converter, ROHM, USB, エントリークラス]
 permalink: /products/ja/smsl-d1/

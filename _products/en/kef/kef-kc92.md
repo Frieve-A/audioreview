@@ -7,6 +7,7 @@ lang: en
 ref: kef-kc92
 date: 2025-08-12
 rating: [2.8, 0.5, 0.7, 0.5, 0.8, 0.3]
+price: 2500
 summary: "Compact subwoofer with dual 9-inch force-canceling drivers and 1000W amplification, offering impressive bass extension to 11Hz but at premium pricing"
 tags: [Class D, Compact, Dual-driver, Force-canceling, Subwoofer]
 permalink: /products/en/kef-kc92/

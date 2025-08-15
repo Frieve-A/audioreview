@@ -7,6 +7,7 @@ lang: ja
 ref: teac-ax-505
 date: 2025-08-05
 rating: [3.3, 0.6, 0.5, 1.0, 0.4, 0.8]
+price: 140000
 summary: "Hypex Ncoreモジュール搭載の70W（8Ω）/130W（4Ω）インテグレーテッドアンプ。同等以上の機能・性能を持つ競合製品の中では最安価格を実現し、優れたコストパフォーマンスを提供する。"
 tags: [Hypex Ncore, インテグレーテッドアンプ, ティアック, バランス入力, ヘッドホンアンプ]
 permalink: /products/ja/teac-ax-505/

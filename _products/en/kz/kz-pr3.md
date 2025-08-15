@@ -7,6 +7,7 @@ lang: en
 ref: kz-pr3
 date: 2025-07-24
 rating: [2.5, 0.5, 0.6, 0.5, 0.5, 0.4]
+price: 49
 summary: "The KZ PR3 is a 49 USD earphone featuring a 13.2mm planar magnetic driver. It offers low distortion under 0.5% and high resolution, but generally exhibits an overly bright sound signature with superior alternatives available."
 tags: [Bright Sound, Earphones, KZ, Low Distortion, Planar magnetic]
 permalink: /products/en/kz-pr3/

@@ -7,6 +7,7 @@ lang: en
 ref: magico-m7
 date: 2025-08-12
 rating: [3.0, 0.6, 0.8, 0.1, 0.7, 0.8]
+price: 375000
 summary: "Four-way flagship loudspeaker with carbon fiber enclosure and advanced driver technology, positioned at extreme luxury pricing of 375,000 USD per pair"
 tags: [Carbon-Fiber, Flagship, Four-Way, High-end, Speakers]
 permalink: /products/en/magico-m7/

@@ -7,6 +7,7 @@ lang: en
 ref: neumann-kh-80-dsp-a-g
 date: 2025-07-28
 rating: [4.1, 0.8, 0.9, 0.7, 0.8, 0.9]
+price: 549
 summary: "4-inch nearfield monitor achieving high-precision acoustic characteristics through DSP control. Excellent measurement performance, but strong, lower-priced competition exists."
 tags: [DSP, German-Made, Nearfield, Pro Audio, Studio monitors]
 permalink: /products/en/neumann-kh-80-dsp-a-g/

@@ -7,6 +7,7 @@ lang: en
 ref: beyerdynamic-mmx-300-2nd-generation
 date: 2025-08-12
 rating: [2.8, 0.6, 0.7, 0.3, 0.6, 0.6]
+price: 249.95
 summary: "Gaming headset with decent audio quality but moderate cost-performance compared to modern alternatives"
 tags: [Gaming Headset, Closed-Back, Wired, German Engineering]
 permalink: /products/en/beyerdynamic-mmx-300-2nd-generation/

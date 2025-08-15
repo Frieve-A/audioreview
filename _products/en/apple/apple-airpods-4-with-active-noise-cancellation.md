@@ -7,6 +7,7 @@ lang: en
 ref: apple-airpods-4-with-active-noise-cancellation
 date: 2025-07-12
 rating: [4.0, 0.6, 0.7, 1.0, 0.8, 0.9]
+price: 179
 summary: "Apple's innovative open-ear ANC earbuds create a unique product category, and due to this uniqueness, it achieves a high cost-performance rating."
 tags: [Active noise cancelling, Apple, H2 Chip, Open-ear, Wireless earphones]
 permalink: /products/en/apple-airpods-4-with-active-noise-cancellation/

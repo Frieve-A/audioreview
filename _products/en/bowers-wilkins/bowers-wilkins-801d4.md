@@ -7,6 +7,7 @@ lang: en
 ref: bowers-wilkins-801d4
 date: 2025-07-26
 rating: [3.3, 0.7, 0.8, 0.2, 0.8, 0.8]
+price: 46000
 summary: "A flagship speaker with advanced technology and excellent measured performance, but extremely poor cost-performance due to the existence of alternatives that achieve equivalent performance at much lower cost"
 tags: [800 Series, Diamond Tweeter, Floorstanding speakers, High-end]
 permalink: /products/en/bowers-wilkins-801d4/

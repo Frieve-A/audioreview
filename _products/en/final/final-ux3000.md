@@ -7,6 +7,7 @@ lang: en
 ref: final-ux3000
 date: 2025-07-30
 rating: [2.9, 0.6, 0.5, 0.5, 0.7, 0.6]
+price: 102
 summary: "final's first wireless ANC headphones suffer from poor cost-performance against competing products offering equivalent or better functionality at a significantly lower price."
 tags: [Bluetooth, Noise Cancelling, Wireless headphones, final]
 permalink: /products/en/final-ux3000/

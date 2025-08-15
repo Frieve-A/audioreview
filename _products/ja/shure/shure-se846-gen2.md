@@ -7,6 +7,7 @@ lang: ja
 ref: shure-se846-gen2
 date: 2025-07-24
 rating: [3.3, 0.6, 0.8, 0.3, 0.9, 0.7]
+price: 116600
 summary: "Shure SE846 Gen2は高度な4ドライバーBA構成と優れた遮音性を持つプロ仕様イヤホンですが、現代の同等性能製品と比較して高価であり、コストパフォーマンスに課題があります。"
 tags: [Shure, イヤホン, インイヤーモニター, バランスドアーマチュア, プロオーディオ]
 permalink: /products/ja/shure-se846-gen2/

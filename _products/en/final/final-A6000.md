@@ -7,6 +7,7 @@ lang: en
 ref: final-A6000
 date: 2025-07-26
 rating: [2.9, 0.7, 0.8, 0.3, 0.6, 0.5]
+price: 363
 summary: "The A6000 is technically excellent but offers poor cost-performance, as equivalent or better sound quality can be achieved with the Moondrop Aria 2 (96 USD) for a fraction of the A6000's 363 USD price."
 tags: [Dynamic driver, Earphones, In-ear monitors, final]
 permalink: /products/en/final-A6000/

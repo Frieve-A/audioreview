@@ -7,6 +7,7 @@ lang: ja
 ref: procable-down-and-isolation-power-transformer-3000w-200v
 date: 2025-07-26
 rating: [2.5, 0.3, 0.5, 0.6, 0.6, 0.5]
+price: 118000
 summary: "Procableの200V専用3000W降圧トランス。従来技術による堅実な設計ですが、より安価な産業用製品が存在するため、コストパフォーマンスの観点からは慎重な判断が必要です。"
 tags: [電源トランス, アイソレーション, Procable, 200V, 3000W]
 permalink: /products/ja/procable-down-and-isolation-power-transformer-3000w-200v/

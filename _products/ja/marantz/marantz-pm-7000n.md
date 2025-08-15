@@ -7,6 +7,7 @@ lang: ja
 ref: marantz-pm-7000n
 date: 2025-08-03
 rating: [3.9, 0.8, 0.6, 0.8, 0.7, 1.0]
+price: 99000
 summary: "ネットワーク機能内蔵のプリメインアンプとして、測定性能と統合設計に優れ、コストパフォーマンスも許容範囲内の製品"
 tags: [プリメインアンプ, ネットワークオーディオ, HEOS, ストリーミング]
 permalink: /products/ja/marantz-pm-7000n/

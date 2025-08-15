@@ -7,6 +7,7 @@ lang: en
 ref: oneodio-pro10
 date: 2025-07-29
 rating: [2.2, 0.2, 0.5, 0.8, 0.4, 0.3]
+price: 27
 summary: "The OneOdio Pro10 is a budget headphone with DJ functionalities. While its acoustic performance is unsuitable for monitoring, its cost-performance is rated relatively high when considering its features."
 tags: [Headphones, DJ, Monitor, OneOdio, 50mm Driver, Wired]
 permalink: /products/en/oneodio-pro10/

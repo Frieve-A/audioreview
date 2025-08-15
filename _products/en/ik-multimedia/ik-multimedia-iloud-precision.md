@@ -7,6 +7,7 @@ lang: en
 ref: ik-multimedia-iloud-precision-5
 date: 2025-08-03
 rating: [4.2, 0.8, 0.8, 1.0, 0.7, 0.9]
+price: 1170
 summary: "An active studio monitor that integrates advanced DSP control and automatic room correction, offering overwhelming cost-performance against competitors with similar features."
 tags: [Active speakers, DSP, Linear Phase, Pro Audio, Room correction, Studio monitors]
 permalink: /products/en/ik-multimedia-iloud-precision-5/

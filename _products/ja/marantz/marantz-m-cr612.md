@@ -7,6 +7,7 @@ lang: ja
 ref: marantz-m-cr612
 date: 2025-08-02
 rating: [3.4, 0.4, 0.7, 0.9, 0.8, 0.6]
+price: 70000
 summary: "CDプレーヤーを内蔵する一体型システムとして優れたコストパフォーマンスを誇るが、測定性能には改善の余地がある製品"
 tags: [ネットワークオーディオ, ストリーミング, CDプレーヤー, アンプ, HEOS]
 permalink: /products/ja/marantz-m-cr612/

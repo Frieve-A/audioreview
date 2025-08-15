@@ -7,6 +7,7 @@ lang: en
 ref: kef-kube-12-mie
 date: 2025-08-12
 rating: [2.7, 0.5, 0.6, 0.8, 0.4, 0.4]
+price: 1099.99
 summary: "12-inch sealed subwoofer with 300W amplifier featuring KEF's Music Integrity Engine DSP"
 tags: [Class D, DSP, Sealed, Subwoofer]
 permalink: /products/en/kef-kube-12-mie/

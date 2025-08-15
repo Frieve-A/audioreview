@@ -7,6 +7,7 @@ lang: ja
 ref: kz-zas
 date: 2025-08-01
 rating: [2.5, 0.4, 0.7, 0.4, 0.6, 0.4]
+price: 9800
 summary: "16ドライバー構成のハイブリッドIEMだが、技術的複雑さに対して音質向上は限定的。コストパフォーマンスで競合に劣る。"
 tags: [BA+DD, KZ, インイヤーモニター, ハイブリッド]
 permalink: /products/ja/kz-zas/

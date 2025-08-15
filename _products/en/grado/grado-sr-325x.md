@@ -7,6 +7,7 @@ lang: en
 ref: grado-sr-325x
 date: 2025-08-04
 rating: [3.0, 0.5, 0.6, 0.7, 0.7, 0.5]
+price: 295
 summary: "Traditional open-back headphones from veteran American manufacturer Grado. Featuring aluminum housing and 4th generation X-series drivers, achieving above-average cost-performance while facing challenges in modern measurement-focused design approaches."
 tags: [Headphones, Open-back, Grado, Made in USA]
 permalink: /products/en/grado-sr-325x/

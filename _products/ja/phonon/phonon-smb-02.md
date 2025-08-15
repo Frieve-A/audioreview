@@ -7,6 +7,7 @@ lang: ja
 ref: phonon-smb-02
 date: 2025-08-04
 rating: [2.5, 0.5, 0.5, 0.4, 0.6, 0.5]
+price: 42000
 summary: "日本PHONONによるプロ用モニターヘッドホン。独自のPHDコンセプトを採用するが、測定データの透明性に欠け、同等機能の競合製品と比較してコストパフォーマンスに大きな課題がある。"
 tags: [ヘッドホン, モニター, プロオーディオ, 日本, スタジオ]
 permalink: /products/ja/phonon-smb-02/

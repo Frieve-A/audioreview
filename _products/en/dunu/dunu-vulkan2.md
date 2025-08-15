@@ -7,6 +7,7 @@ lang: en
 ref: dunu-vulkan2
 date: 2025-07-27
 rating: [3.0, 0.7, 0.8, 0.1, 0.7, 0.7]
+price: 383
 summary: "An 8-driver hybrid IEM with a 2DD+6BA configuration. While technically solid, its cost-performance is unacceptably low, as products with equivalent or superior measured performance are available for about 1/7th of the price."
 tags: [2DD+6BA, DUNU, Hybrid, In-ear monitors]
 permalink: /products/en/dunu-vulkan2/

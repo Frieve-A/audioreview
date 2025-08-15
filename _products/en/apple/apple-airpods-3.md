@@ -7,6 +7,7 @@ lang: en
 ref: apple-airpods-3
 date: 2025-07-09
 rating: [2.9, 0.6, 0.6, 0.6, 0.6, 0.5]
+price: 119
 summary: "Apple H1 chip ecosystem integration with Adaptive EQ functionality, but limited by open design bass deficiency and lack of noise cancellation"
 tags: [Adaptive EQ, Apple H1, Open design, Spatial audio, Wireless earphones]
 permalink: /products/en/apple-airpods-3/

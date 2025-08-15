@@ -7,7 +7,8 @@ lang: en
 ref: fostex-t50rpmk4
 date: 2025-08-14
 rating: [2.9, 0.4, 0.7, 0.4, 0.6, 0.8]
-summary: "Semi-open planar magnetic headphones using Fostex’s 4th-gen RP driver with symmetric housings and a 3.5 mm TRRS jack; official specs list 28 Ω, 97 dB/mW, 10–40 kHz, and 3,000 mW. Independent lab measurements are scarce as of this writing, and there are anecdotal reports of unit variance; cost-performance is constrained by cheaper planars with proven measurements."
+price: 250
+summary: "Semi-open planar magnetic headphones using Fostex's 4th-gen RP driver with symmetric housings and a 3.5 mm TRRS jack; official specs list 28 Ω, 97 dB/mW, 10–40 kHz, and 3,000 mW. Independent lab measurements are scarce as of this writing, and there are anecdotal reports of unit variance; cost-performance is constrained by cheaper planars with proven measurements."
 tags: [Fostex, Headphones, Planar magnetic, Semi-Open, Studio]
 permalink: /products/en/fostex-t50rpmk4/
 ---

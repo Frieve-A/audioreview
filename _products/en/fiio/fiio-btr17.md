@@ -7,6 +7,7 @@ lang: en
 ref: fiio-btr17
 date: 2025-07-07
 rating: [4.1, 0.9, 0.9, 0.7, 0.8, 0.8]
+price: 195
 summary: "FiiO's flagship Bluetooth receiver featuring dual ES9069Q DACs, THX AAA 78+ amplifiers, and Qualcomm QCC5181 platform, delivering lossless wireless transmission via aptX Lossless. Desktop mode achieves 650mW high output, providing DAP-level sound quality and functionality. Comprehensive format support including 768kHz/32bit PCM, DSD512, and MQA enables high-quality playback of any hi-res audio source."
 tags: [Amplifiers, AptX Lossless, Bluetooth, DAC, FiiO, Portable, Wireless]
 permalink: /products/en/fiio-btr17/

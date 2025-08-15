@@ -7,6 +7,7 @@ lang: ja
 ref: yamaha-ns-bp200
 date: 2025-08-03
 rating: [3.2, 0.6, 0.5, 1.0, 0.6, 0.5]
+price: 12150
 summary: "ヤマハの2ウェイブックシェルフスピーカー。85dBの低感度と6Ω設計による平均的な音響性能を、手頃な価格で提供する製品です。"
 tags: [ブックシェルフスピーカー, 2ウェイ, パッシブスピーカー, ヤマハ]
 permalink: /products/ja/yamaha-ns-bp200/

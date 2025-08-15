@@ -7,6 +7,7 @@ lang: ja
 ref: kef-q300
 date: 2025-08-03
 rating: [3.3, 0.4, 0.6, 1.0, 0.6, 0.7]
+price: 23251
 summary: "Uni-Q技術の先進性は評価できるが、それを裏付ける客観的測定データが限定的で、性能に課題が残る中型ブックシェルフスピーカー。"
 tags: [ブックシェルフスピーカー, Uni-Q, 2ウェイ, 生産終了]
 permalink: /products/ja/kef-q300/

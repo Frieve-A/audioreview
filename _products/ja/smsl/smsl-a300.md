@@ -7,6 +7,7 @@ lang: ja
 ref: smsl-a300
 date: 2025-08-13
 rating: [2.7, 0.6, 0.6, 0.4, 0.6, 0.5]
+price: 29399
 summary: "BTLブリッジ機能とBluetooth接続を提供する低価格Class Dアンプですが、同価格帯の競合製品に劣る控えめな測定性能が足かせとなっています。"
 tags: [BTL, Bluetooth, D級, デスクトップ, パワーアンプ, 低価格]
 permalink: /products/ja/smsl-a300/

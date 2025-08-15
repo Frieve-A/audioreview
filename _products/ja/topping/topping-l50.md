@@ -7,6 +7,7 @@ lang: ja
 ref: topping-l50
 date: 2025-08-05
 rating: [4.2, 0.9, 0.7, 1.0, 0.7, 0.9]
+price: 25350
 summary: "SINAD 125dBの優秀な測定性能を持つヘッドホンアンプで、同等性能のより安価な代替品が存在しない高いコストパフォーマンスを実現"
 tags: [ヘッドホンアンプ, デスクトップオーディオ, NFCA, 高SINAD]
 permalink: /products/ja/topping-l50/

@@ -7,6 +7,7 @@ lang: ja
 ref: sennheiser-hd-599
 date: 2025-08-02
 rating: [2.5, 0.6, 0.5, 0.4, 0.6, 0.4]
+price: 28930
 summary: "温かみのあるサウンドを特徴とする開放型ヘッドホンだが、測定性能と価格競争力に課題を抱える製品"
 tags: [Sennheiser, オーバーイヤー, ヘッドホン, 開放型]
 permalink: /products/ja/sennheiser-hd-599/

@@ -7,6 +7,7 @@ lang: ja
 ref: motu-m6
 date: 2025-08-11
 rating: [4.2, 0.8, 0.7, 1.0, 0.8, 0.9]
+price: 74800
 summary: "ESS Sabre32 DAC搭載、120 dBダイナミックレンジ、超低レイテンシー性能の6イン/4アウトUSB-Cオーディオインターフェース"
 tags: [オーディオインターフェース, USB-C, レコーディング, スタジオ]
 permalink: /products/ja/motu-m6/

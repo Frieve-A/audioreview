@@ -7,6 +7,7 @@ lang: ja
 ref: steinberg-ur-rt4
 date: 2025-08-05
 rating: [3.1, 0.7, 0.8, 0.3, 0.8, 0.5]
+price: 97350
 summary: "Rupert Neve Designsトランスフォーマー搭載の6入力オーディオインターフェースだが、高額な価格に見合う科学的改善効果は限定的"
 tags: [Rupert Neve, Steinberg, USB, オーディオインターフェース, レコーディング, 高級]
 permalink: /products/ja/steinberg-ur-rt4/

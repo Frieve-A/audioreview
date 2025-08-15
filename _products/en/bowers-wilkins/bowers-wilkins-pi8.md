@@ -7,6 +7,7 @@ lang: en
 ref: bowers-wilkins-pi8
 date: 2025-08-05
 rating: [3.3, 0.5, 0.8, 0.7, 0.6, 0.7]
+price: 399
 summary: "A true wireless earphone that achieves excellent sound quality with high-quality 12mm carbon cone drivers and aptX Lossless support, but faces cost-performance challenges when compared to competitive products."
 tags: [True Wireless Earphones, ANC, aptX Lossless, Carbon Driver, Premium]
 permalink: /products/en/bowers-wilkins-pi8/

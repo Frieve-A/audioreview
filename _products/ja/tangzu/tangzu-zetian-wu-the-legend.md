@@ -7,6 +7,7 @@ lang: ja
 ref: tangzu-zetian-wu-the-legend
 date: 2025-07-27
 rating: [2.7, 0.2, 0.7, 0.9, 0.6, 0.3]
+price: 38850
 summary: "デュアルプラナードライバー搭載の高級IEMだが、測定性能に深刻な問題を抱える"
 tags: [Dual-Driver, Planar, インイヤーモニター, ハイエンド]
 permalink: /products/ja/tangzu-zetian-wu-the-legend/

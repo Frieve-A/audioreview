@@ -7,6 +7,7 @@ lang: en
 ref: beyerdynamic-aventho-300
 date: 2025-07-31
 rating: [2.7, 0.2, 0.7, 0.5, 0.7, 0.6]
+price: 455
 summary: "Premium wireless headphones featuring studio driver technology, but facing challenges in measurement performance and price competitiveness"
 tags: [Headphones, Wireless, ANC, Noise Cancellation, Bluetooth, Premium]
 permalink: /products/en/beyerdynamic-aventho-300/

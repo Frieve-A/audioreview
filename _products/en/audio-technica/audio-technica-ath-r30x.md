@@ -7,6 +7,7 @@ lang: en
 ref: audio-technica-ath-r30x
 date: 2025-07-12
 rating: [2.4, 0.4, 0.5, 0.4, 0.6, 0.5]
+price: 100
 summary: "The ATH-R30X offers an entry point to open-back design at 100 USD, but suffers from significant audio quality issues including extreme +15dB peak at 10kHz and 6dB mid-bass bloat"
 tags: [Headphones, Open-back, Studio, Reference, Entry-level]
 permalink: /products/en/audio-technica-ath-r30x/

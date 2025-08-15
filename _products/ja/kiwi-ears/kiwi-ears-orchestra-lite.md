@@ -7,6 +7,7 @@ lang: ja
 ref: kiwi-ears-orchestra-lite
 date: 2025-07-07
 rating: [3.2, 0.9, 0.8, 0.2, 0.6, 0.7]
+price: 37000
 summary: "8BA構成でハンドメイドレジンシェルを採用したミドルレンジIEM。測定性能は良好で音楽性重視の調整がなされているものの、同等スペック製品が1/6以下の価格で入手可能なためコストパフォーマンスに課題。build qualityとハンドメイド品質は評価できるが、純粋な性能対価格では厳しい評価。"
 tags: [8BA, Kiwi Ears, インイヤーモニター, ハンドメイド, バランスドアーマチュア]
 permalink: /products/ja/kiwi-ears-orchestra-lite/

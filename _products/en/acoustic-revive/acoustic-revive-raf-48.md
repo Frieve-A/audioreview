@@ -7,6 +7,7 @@ lang: en
 ref: acoustic-revive-raf-48
 date: 2025-08-08
 rating: [2.0, 0.3, 0.6, 0.3, 0.5, 0.3]
+price: 937
 summary: "Air-float vibration isolation platform manufactured by Japan's Acoustic Revive. It employs air levitation similar to electron microscope tables; priced at USD 937, but shows low cost-performance given cheaper alternatives."
 tags: [Vibration Isolation, Platform, Acoustic Revive, Air Float]
 permalink: /products/en/acoustic-revive-raf-48/

@@ -7,6 +7,7 @@ lang: en
 ref: bowers-wilkins-805-d4
 date: 2025-08-13
 rating: [3.2, 0.6, 0.8, 0.3, 0.8, 0.7]
+price: 10000
 summary: "Premium bookshelf speaker with diamond tweeter and advanced cabinet construction, but elevated treble and poor cost-performance limit its appeal"
 tags: [Bookshelf speakers, Diamond Tweeter, Premium, Studio Reference]
 permalink: /products/en/bowers-wilkins-805-d4/

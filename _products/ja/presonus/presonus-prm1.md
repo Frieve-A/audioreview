@@ -7,6 +7,7 @@ lang: ja
 ref: presonus-prm1
 date: 2025-07-17
 rating: [1.7, 0.5, 0.2, 0.2, 0.4, 0.4]
+price: 19800
 summary: "PreSonus PRM1は音響測定専用のコンデンサーマイクロフォンです。19,800円という価格で20Hz-20kHzの線形周波数特性を持ちますが、測定精度や技術レベルでは高額な競合製品に劣ります。"
 tags: [PreSonus, RTA, マイクロホン, 測定機器, 音響測定]
 permalink: /products/ja/presonus-prm1/

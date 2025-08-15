@@ -7,6 +7,7 @@ lang: ja
 ref: rme-fireface-ufx-iii
 date: 2025-08-14
 rating: [4.4, 0.9, 0.8, 1.0, 0.8, 0.9]
+price: 517000
 summary: "マスタリンググレードの測定性能、MADI/ADAT/アナログを含む94×94 I/O、堅牢ドライバとDURecを備える188ch USB 3.0インターフェースです。"
 tags: [オーディオインターフェース, USB 3.0, MADI, プロレコーディング, コンバータ, RME]
 permalink: /products/ja/rme-fireface-ufx-iii/

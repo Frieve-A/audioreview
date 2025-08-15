@@ -7,6 +7,7 @@ lang: ja
 ref: marantz-cinema-70s
 date: 2025-07-29
 rating: [3.4, 0.6, 0.6, 0.7, 0.9, 0.6]
+price: 103300
 summary: "薄型7.2ch AVレシーバー。8K対応だが50Wの低出力が性能を大きく制約する"
 tags: [AVレシーバー, Dolby Atmos, 8K, HDMI, マルチチャンネル]
 permalink: /products/ja/marantz-cinema-70s/

@@ -7,6 +7,7 @@ lang: en
 ref: cca-nra
 date: 2025-08-12
 rating: [3.0, 0.4, 0.6, 0.5, 0.7, 0.8]
+price: 23
 summary: "Budget hybrid IEM with low-voltage electret (magnetostatic) driver technology but inconsistent tuning results"
 tags: [Budget, Earphones, Electret, Hybrid, In-ear monitors]
 permalink: /products/en/cca-nra/

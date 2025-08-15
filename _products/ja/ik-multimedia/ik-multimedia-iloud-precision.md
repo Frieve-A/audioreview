@@ -7,6 +7,7 @@ lang: ja
 ref: ik-multimedia-iloud-precision-5
 date: 2025-08-03
 rating: [4.2, 0.8, 0.8, 1.0, 0.7, 0.9]
+price: 176000
 summary: "先進的なDSP制御と自動音場補正機能を統合し、同等の機能を持つ競合製品に対して圧倒的なコストパフォーマンスを実現したスタジオモニター。"
 tags: [スタジオモニター, アクティブスピーカー, 室内補正, DSP, リニアフェーズ, プロオーディオ]
 permalink: /products/ja/ik-multimedia-iloud-precision-5/

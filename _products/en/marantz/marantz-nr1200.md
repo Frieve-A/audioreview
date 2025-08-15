@@ -7,6 +7,7 @@ lang: en
 ref: marantz-nr1200
 date: 2025-08-03
 rating: [3.6, 0.6, 0.6, 1.0, 0.6, 0.8]
+price: 400
 summary: "A modern stereo receiver with 2-channel support featuring five HDMI inputs. A compact chassis packed with essential functions targeting the 'post-AV' market."
 tags: [Stereo Receiver, HDMI, Streaming, Marantz, 2-Channel]
 permalink: /products/en/marantz-nr1200/

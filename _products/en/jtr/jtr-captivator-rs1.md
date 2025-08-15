@@ -7,6 +7,7 @@ lang: en
 ref: jtr-captivator-rs1
 date: 2025-08-07
 rating: [3.6, 0.8, 0.7, 0.6, 0.7, 0.8]
+price: 3699
 summary: "JTR's sealed 18-inch subwoofer. Achieves excellent low-frequency reproduction with 2400W amplifier and low-distortion design, but cost-performance is limited compared to equivalent-performance products like Seaton F18+"
 tags: [Subwoofer, Sealed, JTR, Home Theater, 18-Inch]
 permalink: /products/en/jtr-captivator-rs1/

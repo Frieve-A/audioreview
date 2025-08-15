@@ -7,6 +7,7 @@ lang: en
 ref: moondrop-kadenz
 date: 2025-07-27
 rating: [3.6, 0.8, 0.7, 0.6, 0.7, 0.8]
+price: 180
 summary: "Moondrop's latest IEM with a 10mm ULT Gen2 driver and TAC diamond-coated diaphragm. It offers excellent measured performance with an included high-performance DAC, but faces cost-performance challenges as alternative IEM and DAC combinations exist at a lower price."
 tags: [Dynamic driver, High Resolution, In-ear monitors, Moondrop]
 permalink: /products/en/moondrop-kadenz/

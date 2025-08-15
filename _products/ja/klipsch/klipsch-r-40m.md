@@ -7,6 +7,7 @@ lang: ja
 ref: klipsch-r-40m
 date: 2025-07-30
 rating: [2.0, 0.4, 0.5, 0.3, 0.5, 0.3]
+price: 41140
 summary: "4インチウーファーを搭載したエントリーレベルのブックシェルフスピーカー。Tractrixホーン技術を採用するが、測定性能は平均以下でコストパフォーマンスに課題。"
 tags: [エントリークラス, スピーカー, ブックシェルフ, ホーン型]
 permalink: /products/ja/klipsch-r-40m/

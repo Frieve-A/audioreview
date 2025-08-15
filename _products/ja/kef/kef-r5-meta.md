@@ -7,6 +7,7 @@ lang: ja
 ref: kef-r5-meta
 date: 2025-07-18
 rating: [3.9, 0.8, 0.8, 0.9, 0.6, 0.8]
+price: 480000
 summary: "KEF R5 Metaは、R3 Metaと同等の優れた技術をフロアスタンディング形式で実現したスピーカーです。単体での性能は非常に高いものの、コストパフォーマンスの観点からは「R3 Meta + サブウーファー」という、より柔軟で費用対効果の高い代替案が存在します。"
 tags: [KEF, R5, Meta, フロアスタンディングスピーカー, Uni-Q, MAT]
 permalink: /products/ja/kef-r5-meta/

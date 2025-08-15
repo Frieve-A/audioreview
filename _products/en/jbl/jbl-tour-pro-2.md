@@ -7,6 +7,7 @@ lang: en
 ref: jbl-tour-pro-2
 date: 2025-07-09
 rating: [2.9, 0.3, 0.5, 0.8, 0.7, 0.6]
+price: 250
 summary: "True wireless earbuds featuring a distinctive touchscreen case. ANC performance is moderate and audio quality is standard, but differentiated by innovative case functionality."
 tags: ["Active noise cancelling", JBL, "Smart Case", Touchscreen, "True wireless earbuds"]
 permalink: /products/en/jbl-tour-pro-2/

@@ -7,6 +7,7 @@ lang: ja
 ref: pmc-prodigy5
 date: 2025-08-10
 rating: [3.1, 0.6, 0.7, 0.8, 0.5, 0.5]
+price: 440000
 summary: "PMCのエントリーレベルフロアスタンディングスピーカー。ATL技術による合理的な低音再生を実現し、実売比較では良好なコストパフォーマンス。"
 tags: [ATL, Floorstanding, PMC, Transmission-Line, スピーカー]
 permalink: /products/ja/pmc-prodigy5/

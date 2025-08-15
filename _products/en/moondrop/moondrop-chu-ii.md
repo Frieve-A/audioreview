@@ -7,6 +7,7 @@ lang: en
 ref: moondrop-chu-ii
 date: 2025-07-29
 rating: [2.5, 0.4, 0.5, 0.8, 0.4, 0.4]
+price: 20
 summary: "The Moondrop Chu II is an entry-level IEM with a detachable cable. Its measured performance is adequate for its price, but superior competitors exist in the same bracket, making its cost-performance suboptimal."
 tags: [Chi-Fi, Detachable-Cable, Earphones, Entry-level, In-ear monitors, Moondrop]
 permalink: /products/en/moondrop-chu-ii/

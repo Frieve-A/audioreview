@@ -7,6 +7,7 @@ lang: en
 ref: marantz-model-40n
 date: 2025-08-04
 rating: [2.9, 0.5, 0.7, 0.3, 0.8, 0.6]
+price: 2499
 summary: "Network-enabled integrated amplifier with HEOS. Good measurement performance but significantly overpriced compared to equivalent functionality products"
 tags: [HDMI ARC, HEOS, Integrated amplifier, Network audio, Streaming]
 permalink: /products/en/marantz-model-40n/

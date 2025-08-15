@@ -7,6 +7,7 @@ lang: ja
 ref: krk-vxt6
 date: 2025-08-08
 rating: [2.1, 0.5, 0.6, 0.3, 0.2, 0.5]
+price: 67000
 summary: "KRK VXT6は6インチ2ウェイスタジオモニターでしたが、現在は製造終了しており、RF干渉に関するユーザー報告やコストパフォーマンスの観点から総合評価は低評価となります。"
 tags: [スタジオモニター, ニアフィールド, アクティブ, KRK]
 permalink: /products/ja/krk-vxt6/

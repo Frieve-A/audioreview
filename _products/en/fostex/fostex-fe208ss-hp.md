@@ -7,6 +7,7 @@ lang: en
 ref: fostex-fe208ss-hp
 date: 2025-08-14
 rating: [2.9, 0.5, 0.8, 0.4, 0.5, 0.7]
+price: 373
 summary: "Limited-run 8\" full-range driver with HP diaphragm and cellulose nanofiber tech (now discontinued). Advanced engineering, but at ¥55,000 faces cheaper rivals with stronger published measurements"
 tags: [Fostex, Full Range, Limited edition, Speaker Drivers]
 permalink: /products/en/fostex-fe208ss-hp/

@@ -7,6 +7,7 @@ lang: en
 ref: anker-soundcore-space-a40
 date: 2025-07-31
 rating: [3.5, 0.7, 0.6, 0.9, 0.7, 0.6]
+price: 60
 summary: "True wireless earbuds currently selling for 60 USD. Features LDAC support, up to 50-hour playback, and high-performance ANC, earning high praise for its excellent balance of features, price, and reliability."
 tags: [Anker, Soundcore, Space A40, Wireless Earbuds, Noise Cancelling, LDAC, ANC]
 permalink: /products/en/anker-soundcore-space-a40/

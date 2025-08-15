@@ -7,6 +7,7 @@ lang: en
 ref: dali-opticon-6
 date: 2025-07-29
 rating: [2.9, 0.7, 0.6, 0.3, 0.7, 0.6]
+price: 1914
 summary: "Floor-standing speaker achieving good measurement performance through hybrid tweeter technology, but facing significant cost-performance challenges"
 tags: [Floor Speaker, Hybrid Tweeter, DALI, Denmark]
 permalink: /products/en/dali-opticon-6/

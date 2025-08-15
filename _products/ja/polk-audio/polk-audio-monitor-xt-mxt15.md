@@ -7,6 +7,7 @@ lang: ja
 ref: polk-audio-monitor-xt-mxt15
 date: 2025-07-18
 rating: [2.7, 0.1, 0.4, 0.9, 0.8, 0.5]
+price: 22350
 summary: "Polk Audio Monitor XT MXT15は149ドルペアの予算価格スピーカーですが、著しく高い歪率を持ち、より安価で性能で優るMicca MB42X G2に対してコストパフォーマンスで大きく劣ります。ブランドとしての信頼性は高いものの、製品自体の性能には重大な欠点があります。"
 tags: [スピーカー, ブックシェルフスピーカー, 予算価格, Polk Audio]
 permalink: /products/ja/polk-audio-monitor-xt-mxt15/

@@ -7,6 +7,7 @@ lang: en
 ref: denafrips-ares-15th
 date: 2025-08-10
 rating: [2.0, 0.6, 0.3, 0.2, 0.7, 0.2]
+price: 1199
 summary: "R2R DAC with proprietary architecture offering analog flavor but limited scientific validity and poor cost-performance against modern alternatives"
 tags: [DAC, R2R, Denafrips, Digital-to-Analog-Converter, Balanced]
 permalink: /products/en/denafrips-ares-15th/

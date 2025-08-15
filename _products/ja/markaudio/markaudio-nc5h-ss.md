@@ -7,6 +7,7 @@ lang: ja
 ref: markaudio-nc5h-ss
 date: 2025-07-30
 rating: [1.8, 0.3, 0.6, 0.1, 0.5, 0.3]
+price: 157400
 summary: "8cmフルレンジユニットを採用したコンパクトブックシェルフスピーカー。シングルサスペンション技術を特徴とするものの、157,400円という価格に対する性能は限定的"
 tags: [コンパクト, フルレンジ, ブックシェルフスピーカー, 高価格]
 permalink: /products/ja/markaudio-nc5h-ss/

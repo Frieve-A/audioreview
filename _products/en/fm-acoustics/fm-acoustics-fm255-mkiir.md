@@ -7,6 +7,7 @@ lang: en
 ref: fm-acoustics-fm255-mkiir-en
 date: 2025-08-13
 rating: [2.2, 0.5, 0.7, 0.1, 0.4, 0.5]
+price: 18454
 summary: "Swiss upper-tier line stage, now discontinued and succeeded by FM 256-RC; sparse third-party measurements and weak value versus measurement-first alternatives"
 tags: [Preamplifier, Line Stage, Swiss Made, Discontinued]
 permalink: /products/en/fm-acoustics-fm255-mkiir/

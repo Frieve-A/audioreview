@@ -7,6 +7,7 @@ lang: ja
 ref: tascam-dr-07xp
 date: 2025-07-30
 rating: [3.6, 0.8, 0.7, 0.6, 0.7, 0.8]
+price: 26134
 summary: "32ビットフロート録音対応のポータブルレコーダー。高い音質性能と優れた設計思想を持つが、コストパフォーマンスは競合製品と比較してやや劣る。"
 tags: [TASCAM, ポータブルレコーダー, 32ビットフロート, USB-C, ステレオマイク]
 permalink: /products/ja/tascam-dr-07xp/

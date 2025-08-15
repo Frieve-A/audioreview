@@ -7,6 +7,7 @@ lang: en
 ref: bqeyz-winter-ultra
 date: 2025-07-29
 rating: [2.5, 0.5, 0.7, 0.4, 0.6, 0.3]
+price: 275
 summary: "Hybrid driver configuration IEM with limited performance improvement relative to price"
 tags: [BQEYZ, Bone conduction, Hybrid, In-ear monitors, Winter Ultra]
 permalink: /products/en/bqeyz-winter-ultra/

@@ -7,6 +7,7 @@ lang: ja
 ref: procable-up-and-isolation-power-transformer-3000w
 date: 2025-07-26
 rating: [1.9, 0.1, 0.3, 0.4, 0.6, 0.5]
+price: 158000
 summary: "200Vから230Vへの昇圧が可能な3000Wアイソレーショントランス。測定データが非公開である点に加え、より安価な産業用の代替品が存在するため、コストパフォーマンスには疑問が残ります。"
 tags: [電源トランス, アイソレーション, procable, 3000W]
 permalink: /products/ja/procable-up-and-isolation-power-transformer-3000w/

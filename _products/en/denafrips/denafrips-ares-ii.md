@@ -7,6 +7,7 @@ lang: en
 ref: denafrips-ares-ii
 date: 2025-08-10
 rating: [2.2, 0.4, 0.6, 0.2, 0.7, 0.3]
+price: 700
 summary: "R2R DAC with respectable measured performance but poor cost-performance against modern delta-sigma competitors"
 tags: [DAC, Digital Audio, High-end, R2R]
 permalink: /products/en/denafrips-ares-ii/

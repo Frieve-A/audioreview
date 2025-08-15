@@ -7,6 +7,7 @@ lang: en
 ref: audient-id14-mkii
 date: 2025-08-12
 rating: [4.0, 0.8, 0.7, 1.0, 0.7, 0.8]
+price: 399.99
 summary: "USB-C audio interface with Class-A preamps delivering excellent sound quality; no cheaper alternative offers equivalent functions and measured performance"
 tags: [Audio interface, Class A, Microphone Preamp, Recording, USB-C]
 permalink: /products/en/audient-id14-mkii/

@@ -7,6 +7,7 @@ lang: ja
 ref: qcy-melobuds-pro
 date: 2025-07-15
 rating: [3.8, 0.7, 0.6, 1.0, 0.7, 0.8]
+price: 5700
 summary: "QCY MeloBuds Proは、ハイブリッドANCとマルチポイント接続に対応し、優れたコストパフォーマンスを提供するが、音質バランスに課題があり、LDAC/AptXには非対応。"
 tags: [Bluetooth 5.2, アクティブノイズキャンセリング, マルチポイント, ワイヤレスイヤホン]
 permalink: /products/ja/qcy-melobuds-pro/

@@ -7,6 +7,7 @@ lang: en
 ref: anker-soundcore-liberty-4-pro
 date: 2025-07-19
 rating: [3.8, 0.7, 0.6, 1.0, 0.8, 0.7]
+price: 129.99
 summary: "True wireless earbuds featuring dual drivers, LDAC, and high-performance ANC, boasting outstanding cost-performance for its feature set."
 tags: [ANC, Active noise cancelling, Bluetooth, LDAC, True wireless earbuds]
 permalink: /products/en/anker-soundcore-liberty-4-pro/

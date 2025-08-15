@@ -7,6 +7,7 @@ lang: ja
 ref: sunvalley-sv-8800se
 date: 2025-08-13
 rating: [0.9, 0.1, 0.2, 0.0, 0.5, 0.1]
+price: 348000
 summary: "定格55W (8Ω, THD 10%) を公称する多球プッシュプル真空管アンプキット。109.99 USDのFosi Audio V3（48V電源）と比較して、8Ω出力はV3が上回りTHD <0.003%、SNR ≥110 dBのため測定性能は問題水準で、透明レベル再生は科学的に正当化できない"
 tags: [真空管アンプ, KT170, KT150, プッシュプル, パワーアンプ, DIYキット]
 permalink: /products/ja/sunvalley-sv-8800se/

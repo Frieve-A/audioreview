@@ -7,6 +7,7 @@ lang: en
 ref: kripton-ks-9-multi
 date: 2025-07-30
 rating: [3.0, 0.5, 0.7, 0.7, 0.6, 0.5]
+price: 1867
 summary: "A multifunctional all-in-one digital audio system, but more affordable and superior alternatives exist"
 tags: [Active speakers, Computer Audio, DSD, Digital Audio, MQA]
 permalink: /products/en/kripton-ks-9-multi/

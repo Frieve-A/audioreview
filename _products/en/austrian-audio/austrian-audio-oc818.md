@@ -7,6 +7,7 @@ lang: en
 ref: austrian-audio-oc818
 date: 2025-08-09
 rating: [3.6, 0.7, 0.9, 0.4, 0.8, 0.8]
+price: 1320
 summary: "Multi-pattern large diaphragm condenser microphone featuring CK12-style capsule. Offers excellent sound quality and innovative wireless control functionality, but faces cost-performance challenges."
 tags: [Condenser Microphone, Multi-pattern, Austrian Audio, CK12 Capsule, Professional Equipment]
 permalink: /products/en/austrian-audio-oc818/

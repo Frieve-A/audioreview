@@ -7,6 +7,7 @@ lang: ja
 ref: teac-dr-05xp
 date: 2025-08-04
 rating: [3.2, 0.7, 0.6, 0.8, 0.6, 0.5]
+price: 18000
 summary: "32ビットフロート録音機能を搭載した2025年発表の最新ハンディレコーダー。従来モデルから大幅な性能向上を実現している"
 tags: [ハンディレコーダー, 32ビットフロート, ポータブル録音機器, USB-Cインターフェース, TASCAM]
 permalink: /products/ja/teac-dr-05xp/

@@ -7,6 +7,7 @@ lang: en
 ref: minidsp-umik-1
 date: 2025-07-18
 rating: [4.1, 0.8, 0.7, 1.0, 0.8, 0.8]
+price: 87
 summary: "A USB measurement microphone with individual calibration files that has become a standard choice in acoustic measurement, but faces challenges in distortion tolerance at high SPL and technological innovation"
 tags: [Measurement Microphone, USB, Calibration, REW, Dirac]
 permalink: /products/en/minidsp-umik-1/

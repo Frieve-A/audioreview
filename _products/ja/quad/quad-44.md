@@ -7,6 +7,7 @@ lang: ja
 ref: quad-44
 date: 2025-07-21
 rating: [2.9, 0.6, 0.6, 0.5, 0.7, 0.5]
+price: 82500
 summary: "1980年代のCMOS切り替え技術を採用したモジュラー設計のプリアンプ。当時としては革新的だったが、現代の透明性基準からは劣る"
 tags: [Quad, アナログ, イギリス, ビンテージ, プリアンプ]
 permalink: /products/ja/quad-44/

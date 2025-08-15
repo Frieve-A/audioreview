@@ -7,6 +7,7 @@ lang: ja
 ref: sunvalley-sv-275
 date: 2025-07-25
 rating: [1.0, 0.1, 0.2, 0.1, 0.5, 0.1]
+price: 99000
 summary: "KT88プッシュプル真空管アンプながらTHD10%の劣悪な測定性能を示し、89.99ドルのFosi Audio V3が同等出力でTHD0.003%を実現する現状では科学的音質基準で推奨できない"
 tags: [真空管アンプ, KT88, プッシュプル, パワーアンプ]
 permalink: /products/ja/sunvalley-sv-275/

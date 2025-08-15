@@ -7,6 +7,7 @@ lang: ja
 ref: klipsch-pro-1000sw
 date: 2025-08-10
 rating: [2.1, 0.5, 0.3, 0.1, 0.7, 0.5]
+price: 254850
 summary: "Klipsch PRO-1000SW壁内サブウーファーは建築設置で適度な性能を提供しますが、1,699 USDにおいて極めて貧弱なコストパフォーマンスに悩まされています"
 tags: [サブウーファー, 壁内, Klipsch, パッシブ]
 permalink: /products/ja/klipsch-pro-1000sw/

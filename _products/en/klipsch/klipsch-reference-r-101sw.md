@@ -7,6 +7,7 @@ lang: en
 ref: klipsch-reference-r-101sw
 date: 2025-08-14
 rating: [3.0, 0.4, 0.6, 0.6, 0.8, 0.6]
+price: 549.99
 summary: "10-inch powered subwoofer with spun-copper TCP driver and a 150W RMS (300W peak) all-digital amp. Rear-ported, conventional engineering, solid warranty; outclassed on price/performance by cheaper, deeper rivals."
 tags: [10-inch, Class D, Home-Theater, Powered, Subwoofer]
 permalink: /products/en/klipsch-reference-r-101sw/

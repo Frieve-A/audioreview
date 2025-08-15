@@ -7,6 +7,7 @@ lang: ja
 ref: trn-v10-pro
 date: 2025-08-01
 rating: [2.7, 0.5, 0.4, 0.9, 0.2, 0.7]
+price: 2350
 summary: "2DD+2BA構成を持つ多ドラ機。優れたコストパフォーマンスを持つが、V字型チューニングにより科学的忠実度は限定的で、より安価で高性能な代替品も存在する。"
 tags: [イヤホン, ハイブリッドドライバー, 中華イヤホン, TRN, 2DD+2BA]
 permalink: /products/ja/trn-v10-pro/

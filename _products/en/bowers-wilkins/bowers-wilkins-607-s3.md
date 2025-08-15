@@ -7,6 +7,7 @@ lang: en
 ref: bowers-wilkins-607-s3
 date: 2025-07-08
 rating: [3.5, 0.8, 0.7, 0.4, 0.8, 0.8]
+price: 750
 summary: "The smallest model in B&W's new-generation 600 Series. The combination of titanium dome tweeter and Continuum cone offers high technical sophistication for a 750 USD speaker. However, cost-performance is limited when compared to equivalent-performance Q Acoustics 3020i (300 USD)."
 tags: [2-Way, B&W, Bookshelf speakers, Titanium tweeter, United Kingdom]
 permalink: /products/en/bowers-wilkins-607-s3/

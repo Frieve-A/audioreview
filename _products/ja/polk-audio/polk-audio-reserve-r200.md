@@ -7,6 +7,7 @@ lang: ja
 ref: polk-audio-reserve-r200
 date: 2025-07-18
 rating: [3.6, 0.7, 0.6, 0.9, 0.8, 0.6]
+price: 104850
 summary: "Polk Audio Reserve R200は、上位機種の優れたドライバー技術を継承したブックシェルフスピーカーです。信頼性の高いブランド背景を持ちますが、同等性能でより安価な代替品が存在するため、コストパフォーマンスが評価の分かれ目となります。"
 tags: [ブックシェルフスピーカー, Polk Audio, Reserve, R200]
 permalink: /products/ja/polk-audio-reserve-r200/

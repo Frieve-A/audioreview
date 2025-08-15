@@ -7,6 +7,7 @@ lang: en
 ref: krk-v6
 date: 2025-07-23
 rating: [2.4, 0.5, 0.6, 0.2, 0.6, 0.5]
+price: 629
 summary: "The KRK V6 S4 features extensive EQ settings, but its price of over 1,200 USD per pair does not align with its basic measurement performance, making it a product with extremely poor cost-performance."
 tags: [Active speakers, KRK, Kevlar Driver, Studio monitors]
 permalink: /products/en/krk-v6/

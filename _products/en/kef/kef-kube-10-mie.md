@@ -7,6 +7,7 @@ lang: en
 ref: kef-kube-10-mie
 date: 2025-08-12
 rating: [2.8, 0.5, 0.6, 0.3, 0.7, 0.7]
+price: 1099
 summary: "Sealed 10-inch subwoofer with DSP features, hampered by poor cost-performance against alternatives"
 tags: [Class D, DSP, Sealed, Subwoofer]
 permalink: /products/en/kef-kube-10-mie/

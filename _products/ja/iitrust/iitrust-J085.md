@@ -7,6 +7,7 @@ lang: ja
 ref: iitrust-J085
 date: 2025-07-24
 rating: [2.4, 0.4, 0.4, 1.0, 0.4, 0.2]
+price: 5000
 summary: "iitrust J085は50W出力でIPX7防水対応のポータブルBluetoothスピーカーです。予算重視のユーザーには合理的な選択肢となりますが、技術的な先進性や詳細な測定データは期待できません。"
 tags: [Bluetooth, スピーカー, ポータブル, 防水, 50W]
 permalink: /products/ja/iitrust-J085/

@@ -7,6 +7,7 @@ lang: ja
 ref: moondrop-chu-ii
 date: 2025-07-29
 rating: [2.5, 0.4, 0.5, 0.8, 0.4, 0.4]
+price: 2980
 summary: "Moondrop Chu IIはリケーブル対応のエントリーIEMです。測定性能は価格相応ですが、同価格帯にはより性能で優れた競合も存在し、コストパフォーマンスは良好とは言えません。"
 tags: [Moondrop, インイヤーモニター, イヤホン, エントリー, 中華イヤホン, リケーブル]
 permalink: /products/ja/moondrop-chu-ii/

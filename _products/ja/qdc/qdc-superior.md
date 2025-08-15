@@ -7,6 +7,7 @@ lang: ja
 ref: qdc-superior
 date: 2025-07-23
 rating: [2.6, 0.6, 0.5, 0.2, 0.6, 0.7]
+price: 12870
 summary: "qdcによる単一ダイナミックドライバー搭載IEM。測定性能は標準的だが、同等性能を持つ製品の4倍程度の価格設定により低いコストパフォーマンスを示す。"
 tags: [FitEar, qdc, インイヤーモニター, ダイナミックドライバー, 中国]
 permalink: /products/ja/qdc-superior/

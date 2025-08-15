@@ -7,6 +7,7 @@ lang: ja
 ref: sunvalley-sv-91b
 date: 2025-08-13
 rating: [1.4, 0.3, 0.4, 0.0, 0.5, 0.2]
+price: 366300
 summary: "卓越したビルドクオリティを持つプレミアム300Bシングルエンド真空管アンプですが、現在の市場では大幅なコストパフォーマンスの制約があります"
 tags: [真空管アンプ, シングルエンド, 300B, ハイエンド, プレミアム]
 permalink: /products/ja/sunvalley-sv-91b/

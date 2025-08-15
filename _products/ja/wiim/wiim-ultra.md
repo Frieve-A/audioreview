@@ -7,6 +7,7 @@ lang: ja
 ref: wiim-ultra
 date: 2025-07-08
 rating: [4.4, 0.9, 0.8, 0.9, 0.8, 1.0]
+price: 49350
 summary: "ES9038Q2M DAC搭載の統合型ストリーマー・プリアンプ（329USD）。SNR 121dB、THD+N -116dB、3.5インチタッチスクリーン、HDMI ARC、フォノ入力搭載。専用機器として完璧な機能統合と透明レベルの測定性能を両立。"
 tags: [DAC, ESS, HDMI ARC, タッチスクリーン, ネットワークストリーマー, プリアンプ]
 permalink: /products/ja/wiim-ultra/

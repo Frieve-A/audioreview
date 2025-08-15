@@ -7,6 +7,7 @@ lang: en
 ref: onkyo-tx-l50
 date: 2025-08-04
 rating: [2.0, 0.2, 0.4, 0.7, 0.3, 0.4]
+price: 300
 summary: "Ultra-slim AV receiver that prioritizes form over function. Exaggerated power specifications and severely limited practical performance significantly undermine scientific evaluation."
 tags: [AV Receiver, Slim Design, Home Theater, Onkyo, 5.1 Channel]
 permalink: /products/en/onkyo-tx-l50/

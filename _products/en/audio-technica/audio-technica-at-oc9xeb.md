@@ -7,6 +7,7 @@ lang: en
 ref: audio-technica-at-oc9xeb
 date: 2025-07-12
 rating: [2.0, 0.2, 0.2, 0.7, 0.7, 0.2]
+price: 259
 summary: "The Audio-Technica AT-OC9XEB is an entry-level MC cartridge, but its cost-performance is limited due to the existence of more affordable and higher-performing MM cartridges. It's an option for enjoying the hobby of vinyl playback, not for pursuing high fidelity."
 tags: [Analog, Audio-Technica, Cartridges, MC Type]
 permalink: /products/en/audio-technica-at-oc9xeb/

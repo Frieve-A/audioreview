@@ -7,6 +7,7 @@ lang: ja
 ref: marantz-model-60n
 date: 2025-08-04
 rating: [4.0, 0.7, 0.7, 1.0, 0.8, 0.8]
+price: 178200
 summary: "優秀な測定性能と充実したストリーミング機能を備えたネットワーク統合アンプ。同等機能と測定性能を持つ競合製品が低価格で存在しない。"
 tags: [Class A/B, HEOS, インテグレーテッドアンプ, ストリーミング, ネットワークオーディオ]
 permalink: /products/ja/marantz-model-60n/

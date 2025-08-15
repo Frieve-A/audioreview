@@ -7,6 +7,7 @@ lang: ja
 ref: shure-se425
 date: 2025-07-23
 rating: [2.6, 0.6, 0.5, 0.2, 0.8, 0.5]
+price: 32500
 summary: "デュアルBA構成のプロ仕様IEMだが、現在では中華製品に性能・価格で大きく劣後"
 tags: [イヤホン, インイヤーモニター, バランスドアーマチュア, プロフェッショナル]
 permalink: /products/ja/shure-se425/

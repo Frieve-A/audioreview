@@ -7,6 +7,7 @@ lang: ja
 ref: moondrop-kadenz
 date: 2025-07-27
 rating: [3.6, 0.8, 0.7, 0.6, 0.7, 0.8]
+price: 27000
 summary: "TACダイヤモンドコーティング振動板を採用した10mm ULT Gen2ドライバーを搭載するMoondropの最新IEM。高性能DACが付属し測定性能は優秀だが、より安価な代替品とDACの組み合わせが存在し、コストパフォーマンスに課題が残る。"
 tags: [Moondrop, インイヤーモニター, ダイナミックドライバー, 高解像度]
 permalink: /products/ja/moondrop-kadenz/

@@ -7,6 +7,7 @@ lang: en
 ref: altec-620A
 date: 2025-07-26
 rating: [1.8, 0.2, 0.4, 0.5, 0.2, 0.5]
+price: 933
 summary: "While historically valuable as a 1970s professional monitor speaker, the 620A falls significantly short of modern transparency standards and is priced at an extremely high market value."
 tags: [Altec, Coaxial, Studio monitors, Vintage Speakers]
 permalink: /products/en/altec-620A/

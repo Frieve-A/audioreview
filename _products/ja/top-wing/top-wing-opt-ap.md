@@ -7,6 +7,7 @@ lang: ja
 ref: top-wing-opt-ap
 date: 2025-07-25
 rating: [1.9, 0.2, 0.6, 0.3, 0.5, 0.3]
+price: 33000
 summary: "オーディオ専用を謳うWi-Fi 6アクセスポイントだが、科学的根拠に乏しく、一般的なWi-Fi 6機器の3.4倍という高額な価格設定となっている"
 tags: [Wi-Fi, ネットワーク, アクセスポイント, Wi-Fi 6]
 permalink: /products/ja/top-wing-opt-ap/

@@ -7,6 +7,7 @@ lang: ja
 ref: yamaha-ns-sw500
 date: 2025-08-11
 rating: [2.4, 0.5, 0.4, 0.8, 0.4, 0.3]
+price: 82500
 summary: "Advanced YST II搭載の10インチサブウーファー（250W、20Hz延長）だが、同等または低価格でより優れた性能の競合製品が存在"
 tags: [サブウーファー, ホームシアター, ヤマハ, A-YST II, 低音]
 permalink: /products/ja/yamaha-ns-sw500/

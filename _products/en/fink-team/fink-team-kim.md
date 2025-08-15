@@ -7,6 +7,7 @@ lang: en
 ref: fink-team-kim
 date: 2025-08-08
 rating: [2.2, 0.6, 0.8, 0.1, 0.5, 0.2]
+price: 11995
 summary: "The Fink Team KIM is a bookshelf speaker featuring an 8-inch woofer and an AMT tweeter. While its acoustic design is rational, measured performance does not clearly justify the 11,995 USD asking price. With alternatives offering equivalent or better performance at a fraction of the cost, it presents serious cost-performance issues."
 tags: [Speakers, Bookshelf, AMT, Germany]
 permalink: /products/en/fink-team-kim/

@@ -7,6 +7,7 @@ lang: en
 ref: eclipse-td508mk4
 date: 2025-08-02
 rating: [2.8, 0.5, 0.7, 0.4, 0.7, 0.5]
+price: 898
 summary: "The Eclipse TD508MK4 is a full-range speaker pursuing excellent impulse response. However, its value is limited by performance constraints due to physical limitations and modern competitors that achieve superior performance at lower costs with DSP technology."
 tags: [Bookshelf speakers, Full-Range Speaker, Japanese Made, Single Driver]
 permalink: /products/en/eclipse-td508mk4/

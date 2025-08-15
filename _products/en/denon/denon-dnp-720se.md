@@ -7,6 +7,7 @@ lang: en
 ref: denon-dnp-720se
 date: 2025-07-21
 rating: [2.6, 0.6, 0.3, 0.9, 0.5, 0.3]
+price: 250
 summary: "Network streamer released in 2012. Technical specifications meet transparency standards but lacks modern features. Cost-performance is reasonable in used market."
 tags: [Analog Output Issues, Denon, Legacy Generation, Network streamer]
 permalink: /products/en/denon-dnp-720se/

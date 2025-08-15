@@ -7,6 +7,7 @@ lang: ja
 ref: klipsch-reference-r-101sw
 date: 2025-08-14
 rating: [3.0, 0.4, 0.6, 0.6, 0.8, 0.6]
+price: 82499
 summary: "スパンカッパーTCPコーンと150W RMS（300Wピーク）のオールデジタルアンプを組み合わせた10インチ・パワードサブ。リアポート採用。保証は良好ですが、価格性能は廉価で深く鳴る競合に劣ります。"
 tags: [10インチ, D級, サブウーファー, パワード, ホームシアター]
 permalink: /products/ja/klipsch-reference-r-101sw/

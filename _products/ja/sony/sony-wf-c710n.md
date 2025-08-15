@@ -7,6 +7,7 @@ lang: ja
 ref: sony-wf-c710n
 date: 2025-07-14
 rating: [3.8, 0.7, 0.9, 0.7, 0.8, 0.7]
+price: 15600
 summary: "中価格帯ANCイヤホンとして優秀なノイズキャンセリング性能を発揮する一方、科学的測定結果と設計思想に課題を残すSony製品"
 tags: [Bluetooth, アクティブノイズキャンセリング, イヤホン, ソニー, ノイズキャンセリング, ワイヤレス]
 permalink: /products/ja/sony-wf-c710n/

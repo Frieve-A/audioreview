@@ -7,6 +7,7 @@ lang: en
 ref: elac-varro-rs500
 date: 2025-08-12
 rating: [3.0, 0.5, 0.7, 0.4, 0.7, 0.7]
+price: 1399
 summary: "10-inch sealed subwoofer with app control and DSP offering competent performance but limited value against budget alternatives"
 tags: [Subwoofer, Sealed, App Control, DSP, Home Theater, Music]
 permalink: /products/en/elac-varro-rs500/

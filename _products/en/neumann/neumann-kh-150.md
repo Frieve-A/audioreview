@@ -7,6 +7,7 @@ lang: en
 ref: neumann-kh-150
 date: 2025-07-28
 rating: [4.4, 0.9, 0.8, 1.0, 0.8, 0.9]
+price: 2000
 summary: "Combines top-class measurement performance with DSP correction. With no cheaper alternatives offering equivalent performance, it boasts the highest cost-performance for its capabilities."
 tags: [DSP, Nearfield, Powered Speaker, Studio monitors]
 permalink: /products/en/neumann-kh-150/

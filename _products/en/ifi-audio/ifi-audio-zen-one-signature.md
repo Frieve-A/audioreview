@@ -7,6 +7,7 @@ lang: en
 ref: ifi-audio-zen-one-signature
 date: 2025-08-04
 rating: [2.9, 0.8, 0.6, 0.4, 0.5, 0.6]
+price: 349
 summary: "DAC with versatile connectivity. Measurement performance achieves transparency levels but cost-performance is inferior."
 tags: [Balanced output, Bluetooth, DAC, MQA]
 permalink: /products/en/ifi-audio-zen-one-signature/

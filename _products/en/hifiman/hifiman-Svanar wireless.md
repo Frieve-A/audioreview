@@ -7,6 +7,7 @@ lang: en
 ref: hifiman-Svanar wireless
 date: 2025-07-23
 rating: [2.2, 0.4, 0.7, 0.3, 0.6, 0.2]
+price: 499
 summary: "HiFiMan's high-end wireless earphones featuring their proprietary R2R DAC. However, its technological superiority is unclear, and the 499 USD price is grossly inflated for its performance."
 tags: [ANC, LDAC, Premium, R2R DAC, Wireless earphones]
 permalink: /products/en/hifiman-Svanar wireless/

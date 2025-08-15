@@ -7,6 +7,7 @@ lang: en
 ref: axloie-bluetooth-speaker
 date: 2025-07-20
 rating: [1.6, 0.2, 0.3, 0.6, 0.2, 0.3]
+price: 30
 summary: "Axloie's Bluetooth speaker offers basic features like LED lighting and Bluetooth pairing at a low price point, but suffers from significant issues in fundamental audio performance aspects."
 tags: [Bluetooth, Budget, Portable speaker]
 permalink: /products/en/axloie-bluetooth-speaker/

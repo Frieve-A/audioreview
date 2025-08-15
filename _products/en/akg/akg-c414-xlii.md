@@ -7,6 +7,7 @@ lang: en
 ref: akg-c414-xlii
 date: 2025-07-21
 rating: [2.3, 0.8, 0.3, 0.3, 0.6, 0.3]
+price: 1299
 summary: "A multi-pattern large-diaphragm condenser microphone from the legendary C12 lineage. It features excellent measured performance and high versatility with 9 polar patterns, but its cost-performance is low due to the existence of more affordable, functionally similar alternatives."
 tags: [Condenser Microphone, Studio Recording, Vocal Recording, Instrument Recording, Multi-Pattern]
 permalink: /products/en/akg-c414-xlii/

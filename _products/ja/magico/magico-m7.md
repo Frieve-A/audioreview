@@ -7,6 +7,7 @@ lang: ja
 ref: magico-m7
 date: 2025-08-12
 rating: [3.0, 0.6, 0.8, 0.1, 0.7, 0.8]
+price: 56250000
 summary: "カーボンファイバー筐体と先進ドライバー技術を搭載した4ウェイフラッグシップスピーカー、375,000 USD (約56,250,000円) ペアの超高級価格帯に位置"
 tags: [Carbon-Fiber, Flagship, Four-Way, スピーカー, ハイエンド]
 permalink: /products/ja/magico-m7/

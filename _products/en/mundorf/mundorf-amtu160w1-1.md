@@ -7,6 +7,7 @@ lang: en
 ref: mundorf-amtu160w1-1
 date: 2025-07-10
 rating: [2.3, 0.6, 0.8, 0.4, 0.3, 0.2]
+price: 377
 summary: "The Mundorf AMT-U160W1-1 is an Air Motion Transformer tweeter specialized for high SPL applications. While the technical structure is interesting, the 349 Euro price lacks rationality when compared to competing products with equivalent functionality."
 tags: [Tweeter, AMT, Mundorf, Ribbon-type, High-SPL]
 permalink: /products/en/mundorf-amtu160w1-1/

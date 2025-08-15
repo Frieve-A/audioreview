@@ -7,6 +7,7 @@ lang: en
 ref: denon-avr-x2800h
 date: 2025-08-04
 rating: [3.5, 0.6, 0.7, 0.7, 0.8, 0.7]
+price: 567
 summary: "Mid-class AV receiver featuring 95W×7ch Class AB discrete amplifier. Supports Dolby Atmos/DTS:X and 8K Ultra HD, encompassing all essential functions for home theater construction."
 tags: [AV Receiver, Dolby Atmos, 8K Support, Home Theater, 7.2ch]
 permalink: /products/en/denon-avr-x2800h/

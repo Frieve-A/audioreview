@@ -7,6 +7,7 @@ lang: en
 ref: klipsch-new-york
 date: 2025-07-31
 rating: [3.3, 0.5, 0.6, 0.9, 0.7, 0.6]
+price: 699
 summary: "The Klipsch New York, the flagship model of Klipsch's 'Music City' party speaker series. It features dual 8-inch woofers, delivers up to 110dB of output, and is priced at 699 USD."
 tags: [Klipsch, Klipsch New York, Party Speaker, Bluetooth, Portable]
 permalink: /products/en/klipsch-new-york/

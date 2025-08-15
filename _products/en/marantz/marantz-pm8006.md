@@ -7,6 +7,7 @@ lang: en
 ref: marantz-pm8006
 date: 2025-08-11
 rating: [3.4, 0.6, 0.6, 0.8, 0.7, 0.7]
+price: 1199
 summary: "70W/ch integrated amplifier with clear, documented specs; competitive against modern peers when priced at typical US street"
 tags: [Integrated amplifier, Marantz, HDAM, Current feedback]
 permalink: /products/en/marantz-pm8006/

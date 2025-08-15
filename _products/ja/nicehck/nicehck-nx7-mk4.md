@@ -7,6 +7,7 @@ lang: ja
 ref: nicehck-nx7-mk4
 date: 2025-07-27
 rating: [2.3, 0.5, 0.6, 0.2, 0.5, 0.5]
+price: 16500
 summary: "7ドライバー構成を特徴とするが、客観的測定データが無く性能は未知数。より安価で優れた代替品が存在する。"
 tags: [7ドライバー, NiceHCK, インイヤーモニター, ハイブリッド, 中華イヤホン]
 permalink: /products/ja/nicehck-nx7-mk4/

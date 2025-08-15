@@ -7,6 +7,7 @@ lang: en
 ref: behringer-ecm8000
 date: 2025-07-18
 rating: [2.9, 0.4, 0.4, 1.0, 0.6, 0.5]
+price: 30
 summary: "The Behringer ECM8000 is a budget-friendly measurement microphone that offers a flat frequency response, but its accuracy is limited due to the lack of individual calibration files and high self-noise."
 tags: [Measurement Microphone, Condenser Microphone, Behringer, Acoustic Measurement, Phantom Power]
 permalink: /products/en/behringer-ecm8000/

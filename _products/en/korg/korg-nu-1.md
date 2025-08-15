@@ -7,6 +7,7 @@ lang: en
 ref: korg-nu-1
 date: 2025-08-01
 rating: [3.2, 0.6, 0.7, 1.0, 0.4, 0.5]
+price: 200
 summary: "An integrated DAC/ADC/preamp with Nutube technology from 2018. As a discontinued product, it offers unparalleled cost-performance on the used market for its specific feature set and claimed performance, making it a unique niche device."
 tags: [ADC, DAC, DSD, Hi-Res, Nutube, Phono Stage, Preamps, Tube]
 permalink: /products/en/korg-nu-1/

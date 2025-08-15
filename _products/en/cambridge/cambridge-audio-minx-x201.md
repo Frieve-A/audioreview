@@ -7,6 +7,7 @@ lang: en
 ref: cambridge-audio-minx-x201
 date: 2025-07-20
 rating: [3.2, 0.5, 0.7, 1.0, 0.6, 0.4]
+price: 550
 summary: "A compact subwoofer with class-leading output, boasting a maximum SPL of 105dB. While there are performance limitations due to its small enclosure, its phenomenal cost-performance is noteworthy."
 tags: [Subwoofer, Compact, DSP, Passive Radiator, High SPL]
 permalink: /products/en/cambridge-audio-minx-x201/

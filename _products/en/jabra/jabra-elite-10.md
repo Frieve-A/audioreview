@@ -7,6 +7,7 @@ lang: en
 ref: jabra-elite-10
 date: 2025-07-09
 rating: [2.9, 0.6, 0.7, 0.4, 0.6, 0.6]
+price: 190
 summary: "The Jabra Elite 10 is a true wireless earphone featuring 10mm drivers and the world's first LE Audio-compatible smart case. While offering industry-average sound quality performance, it has a significant price gap compared to equivalent functional products, with concerns about future support due to business withdrawal."
 tags: [Active noise cancelling, Discontinued product, Dolby Audio, True wireless earphones]
 permalink: /products/en/jabra-elite-10/

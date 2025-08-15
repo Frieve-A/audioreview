@@ -7,6 +7,7 @@ lang: en
 ref: fosi-audio-za3
 date: 2025-07-31
 rating: [4.1, 0.8, 0.7, 1.0, 0.8, 0.8]
+price: 119
 summary: "Compact Class-D amplifier featuring TPA3255 chip. Offers balanced inputs and mono/stereo switching functionality with excellent cost-performance compared to competing products with equivalent features."
 tags: [Balanced Input, Class D, Mono Amplifier, Stereo Amplifier, TPA3255]
 permalink: /products/en/fosi-audio-za3/

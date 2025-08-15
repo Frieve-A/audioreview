@@ -7,6 +7,7 @@ lang: ja
 ref: wharfedale-diamond-12-0
 date: 2025-08-04
 rating: [3.1, 0.4, 0.6, 0.7, 0.7, 0.7]
+price: 58000
 summary: "伝統的設計と限定的な科学的性能を持つエントリーレベルブックシェルフスピーカー"
 tags: [Wharfedale, エントリークラス, パッシブスピーカー, ブックシェルフスピーカー]
 permalink: /products/ja/wharfedale-diamond-12-0/

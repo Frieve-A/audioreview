@@ -7,6 +7,7 @@ lang: ja
 ref: polk-audio-signa-s4
 date: 2025-07-18
 rating: [2.6, 0.4, 0.3, 0.9, 0.7, 0.3]
+price: 39800
 summary: "Polk Audio Signa S4は39,800円でDolby Atmos対応とワイヤレスサブウーファーを提供するサウンドバーです。価格帯では競争力があるものの、科学的有効性と技術レベルでは課題があります。"
 tags: [サウンドバー, Dolby Atmos, ワイヤレスサブウーファー, 3.1.2チャンネル, 予算重視]
 permalink: /products/ja/polk-audio-signa-s4/

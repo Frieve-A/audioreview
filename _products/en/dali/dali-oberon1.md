@@ -7,6 +7,7 @@ lang: en
 ref: dali-oberon1
 date: 2025-08-07
 rating: [3.1, 0.6, 0.7, 0.5, 0.6, 0.7]
+price: 750
 summary: "Compact bookshelf speaker providing solid sound quality that exceeds entry-level expectations"
 tags: [2-Way, Bookshelf speakers, DALI, Denmark, Passive speakers]
 permalink: /products/en/dali-oberon1/

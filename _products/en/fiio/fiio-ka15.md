@@ -7,6 +7,7 @@ lang: en
 ref: fiio-ka15
 date: 2025-08-14
 rating: [4.0, 0.7, 0.7, 1.0, 0.7, 0.9]
+price: 99
 summary: "Mid-range USB DAC/amplifier featuring dual CS43198 DACs, up to 560mW balanced output, and comprehensive DSP including a 10-band PEQ with a color LCD."
 tags: [Amplifiers, Balanced, DAC, Portable, USB]
 permalink: /products/en/fiio-ka15/

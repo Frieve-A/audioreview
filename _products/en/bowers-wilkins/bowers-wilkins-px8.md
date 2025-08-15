@@ -7,6 +7,7 @@ lang: en
 ref: bowers-wilkins-px8
 date: 2025-07-14
 rating: [2.9, 0.7, 0.8, 0.8, 0.3, 0.3]
+price: 389
 summary: "A flagship wireless headphone featuring premium materials and proprietary technology, offering reasonable pricing compared to products with equivalent functionality"
 tags: [Headphones, Wireless, Noise Cancellation, Over-ear, Bluetooth, Premium]
 permalink: /products/en/bowers-wilkins-px8/

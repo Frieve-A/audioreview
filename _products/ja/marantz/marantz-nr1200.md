@@ -7,6 +7,7 @@ lang: ja
 ref: marantz-nr1200
 date: 2025-08-03
 rating: [3.6, 0.6, 0.6, 1.0, 0.6, 0.8]
+price: 60000
 summary: "2チャンネル対応ながら5つのHDMI入力を備える現代的なステレオレシーバー。コンパクトな筐体に必要十分な機能を詰め込んだ「ポストAV」市場向けの製品。"
 tags: [2チャンネル, HDMI, ステレオレシーバー, ストリーミング, マランツ]
 permalink: /products/ja/marantz-nr1200/

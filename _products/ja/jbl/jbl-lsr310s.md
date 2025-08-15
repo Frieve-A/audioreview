@@ -7,6 +7,7 @@ lang: ja
 ref: jbl-lsr310s
 date: 2025-07-23
 rating: [3.8, 0.5, 0.7, 1.0, 0.8, 0.8]
+price: 39800
 summary: "200W Class Dアンプと10インチドライバーを搭載したJBLのスタジオサブウーファー。27Hzまでの低域拡張を実現する。"
 tags: [スタジオサブウーファー, JBL, モニタースピーカー, ニアフィールド]
 permalink: /products/ja/jbl-lsr310s/

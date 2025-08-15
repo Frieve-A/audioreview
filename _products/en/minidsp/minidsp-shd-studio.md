@@ -7,6 +7,7 @@ lang: en
 ref: minidsp-shd-studio
 date: 2025-07-19
 rating: [2.3, 0.6, 0.7, 0.2, 0.4, 0.4]
+price: 949
 summary: "The MiniDSP SHD Studio features industry-standard Dirac Live room correction and Roon Ready compatibility as an all-digital preamplifier. However, given the 949 USD price point, numerous more affordable alternatives offering superior performance result in a poor cost-performance evaluation."
 tags: [All-Digital, DSP, Dirac Live, Network streamer, Preamplifier, Room correction]
 permalink: /products/en/minidsp-shd-studio/

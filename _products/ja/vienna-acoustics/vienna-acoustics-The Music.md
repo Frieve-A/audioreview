@@ -7,6 +7,7 @@ lang: ja
 ref: vienna-acoustics-The Music
 date: 2025-07-22
 rating: [1.7, 0.3, 0.7, 0.1, 0.4, 0.2]
+price: 6830000
 summary: "Vienna Acousticsのフラッグシップ「The Music」は独自のFlat Spider-Cone技術を採用するが、45,995USD/ペア（約683万円）という価格に対して、KEF R11 Metaが10分の1以下の価格で同等以上の性能を実現するため、コストパフォーマンスは極めて低い。"
 tags: [Vienna Acoustics, フロアスタンディングスピーカー, ハイエンドスピーカー, Klimtシリーズ]
 permalink: /products/ja/vienna-acoustics-The Music/

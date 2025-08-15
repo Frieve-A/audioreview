@@ -7,6 +7,7 @@ lang: en
 ref: altec-612A
 date: 2025-07-26
 rating: [1.7, 0.2, 0.4, 0.1, 0.5, 0.5]
+price: 3333
 summary: "While recognized for its historical value as a 1960s vintage studio monitor, this product shows significantly inferior performance by modern transparency standards and is problematic due to its extremely high selling price."
 tags: [Altec Lansing, Coaxial, Studio monitors, Vintage Speaker]
 permalink: /products/en/altec-612A/

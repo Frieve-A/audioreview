@@ -7,6 +7,7 @@ lang: en
 ref: audio-technica-at-umx3
 date: 2025-07-20
 rating: [2.7, 0.3, 0.4, 1.0, 0.5, 0.5]
+price: 132
 summary: "Audio-Technica's USB audio mixer AT-UMX3 is a streaming-oriented product with 24-bit/192kHz support and USB-C connectivity. With no cheaper products offering equivalent functionality available in the market, it achieves excellent cost-performance at world-class affordable levels."
 tags: [USB, Audio Mixer, Streaming Equipment, Audio-Technica]
 permalink: /products/en/audio-technica-at-umx3/

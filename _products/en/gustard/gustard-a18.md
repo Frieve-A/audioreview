@@ -7,6 +7,7 @@ lang: en
 ref: gustard-a18
 date: 2025-08-10
 rating: [3.6, 0.9, 0.5, 1.0, 0.6, 0.6]
+price: 560
 summary: "AK4499-based balanced DAC with comprehensive connectivity and premium build quality; no cheaper product with equal functionality and verified measurements identified, yielding maximum cost-performance under the site policy."
 tags: [DAC, Balanced, AK4499, Desktop, Bluetooth]
 permalink: /products/en/gustard-a18/

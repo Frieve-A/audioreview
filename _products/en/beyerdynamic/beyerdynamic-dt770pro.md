@@ -7,6 +7,7 @@ lang: en
 ref: beyerdynamic-dt770pro
 date: 2025-08-04
 rating: [2.6, 0.6, 0.6, 0.4, 0.5, 0.5]
+price: 199
 summary: "A classic studio monitor headphone from the established German manufacturer, but at current pricing, it struggles to demonstrate advantages over competing products."
 tags: [Closed-Back, Headphones, Studio monitors, beyerdynamic]
 permalink: /products/en/beyerdynamic-dt770pro/

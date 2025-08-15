@@ -7,6 +7,7 @@ lang: en
 ref: audio-technica-ath-adx5000
 date: 2025-07-26
 rating: [2.5, 0.4, 0.8, 0.1, 0.7, 0.5]
+price: 1390
 summary: "Flagship open-back headphones with advanced technology, but suffers from problematic measurement performance and extremely poor cost-performance"
 tags: [Headphones, Open-Back, Dynamic, Flagship, Audio-Technica]
 permalink: /products/en/audio-technica-ath-adx5000/

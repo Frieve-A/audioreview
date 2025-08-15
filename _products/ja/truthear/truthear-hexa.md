@@ -7,6 +7,7 @@ lang: ja
 ref: truthear-hexa
 date: 2025-07-24
 rating: [3.9, 0.8, 0.7, 0.7, 0.7, 1.0]
+price: 12000
 summary: "Truthear Hexaは1DD+3BAハイブリッド構成をUSD 79.99で提供する中国製IEMです。測定性能は非常に優秀ですが、自社のより安価なTruthear Zero:RED（USD 54.99）が同等以上の性能を実現しているため、コストパフォーマンスに課題があります。優れた遮音性能とフラットな周波数特性は評価されるものの、価格と性能のバランスを重視するならより良い選択肢が存在します。"
 tags: [1DD+3BA, Truthear, インイヤーモニター, ハイブリッド構成, 中国]
 permalink: /products/ja/truthear-hexa/

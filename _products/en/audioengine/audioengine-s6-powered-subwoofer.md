@@ -7,6 +7,7 @@ lang: en
 ref: audioengine-s6-powered-subwoofer
 date: 2025-08-13
 rating: [3.6, 0.5, 0.6, 1.0, 0.7, 0.8]
+price: 299
 summary: "Compact sealed 6-inch desktop subwoofer with clear published specs, limited third-party measurements, and top cost-performance due to no cheaper equivalent-or-better options"
 tags: [Compact, Desktop, Powered, Subwoofer]
 permalink: /products/en/audioengine-s6-powered-subwoofer/

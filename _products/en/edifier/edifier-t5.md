@@ -7,6 +7,7 @@ lang: en
 ref: edifier-t5
 date: 2025-08-10
 rating: [2.3, 0.4, 0.3, 0.7, 0.4, 0.5]
+price: 199.99
 summary: "Budget 8-inch powered subwoofer with 70W RMS output and 38-160Hz frequency response, offering basic bass reinforcement at an accessible price point."
 tags: [Subwoofer, Powered, Budget, Home Audio]
 permalink: /products/en/edifier-t5/

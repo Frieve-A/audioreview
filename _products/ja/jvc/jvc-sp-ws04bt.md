@@ -7,6 +7,7 @@ lang: ja
 ref: jvc-sp-ws04bt
 date: 2025-08-03
 rating: [2.4, 0.5, 0.4, 0.3, 0.7, 0.5]
+price: 20592
 summary: "天然木デザインを採用したIP67防水対応のポータブルBluetoothスピーカー。基本的な音質性能と実用性を備えるが、同等機能の低価格代替品が多数存在するためコストパフォーマンスに課題がある。"
 tags: [ポータブルスピーカー, Bluetooth, 防水, 木製デザイン, 2ウェイ]
 permalink: /products/ja/jvc-sp-ws04bt/

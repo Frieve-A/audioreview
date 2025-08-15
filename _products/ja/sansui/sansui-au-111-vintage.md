@@ -7,6 +7,7 @@ lang: ja
 ref: sansui-au-111-vintage
 date: 2025-07-21
 rating: [1.1, 0.1, 0.3, 0.1, 0.3, 0.3]
+price: 300000
 summary: "1965年発売のサンスイAU-111 Vintageは、THD 0.8%、S/N比70dBという測定値により、現代デジタル機器と比較して科学的有効性は極めて低い。300,000円という価格に対し、同等機能のFosi Audio V3（13,600円）が存在するため、コストパフォーマンスは著しく劣る。"
 tags: [真空管アンプ, プリメインアンプ, ビンテージ, サンスイ]
 permalink: /products/ja/sansui-au-111-vintage/

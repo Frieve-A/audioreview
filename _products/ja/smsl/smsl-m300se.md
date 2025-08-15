@@ -7,6 +7,7 @@ lang: ja
 ref: smsl-m300se
 date: 2025-08-08
 rating: [3.7, 0.8, 0.7, 1.0, 0.5, 0.7]
+price: 33800
 summary: "SMSL M300SEはデュアルCS43131 DACチップ、バランス出力、MQA対応を備えるデスクトップDAC/ヘッドホンアンプですが、ヘッドホンアンプ部の出力は限定的で高インピーダンス負荷には不十分です。"
 tags: [DAC, ヘッドホンアンプ, バランス出力, MQA, デスクトップオーディオ]
 permalink: /products/ja/smsl-m300se/

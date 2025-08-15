@@ -7,6 +7,7 @@ lang: en
 ref: ik-multimedia-iloud-micro-monitor
 date: 2025-08-10
 rating: [2.9, 0.4, 0.6, 0.5, 0.6, 0.8]
+price: 349
 summary: "Ultra-compact studio monitors with impressive bass extension but compromised by high distortion and cost-performance challenges."
 tags: [Active Monitor, Bluetooth, Compact Speaker, Studio monitors]
 permalink: /products/en/ik-multimedia-iloud-micro-monitor/

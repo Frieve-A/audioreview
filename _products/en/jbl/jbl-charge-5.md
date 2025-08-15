@@ -7,6 +7,7 @@ lang: en
 ref: jbl-charge-5
 date: 2025-07-07
 rating: [3.9, 0.8, 0.8, 0.6, 0.8, 0.9]
+price: 179
 summary: "JBL's workhorse portable speaker, covering all the bases for outdoor use with 40W total output, IP67 dust/water protection, 20-hour playback, and a power bank feature. While its acoustic performance is solid, the 179 USD price may feel steep for users who don't need the power bank, as strong, more affordable competitors challenge its value proposition."
 tags: [America, Bluetooth, Portable speaker, Power Bank, Waterproof]
 permalink: /products/en/jbl-charge-5/

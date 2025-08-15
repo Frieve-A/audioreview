@@ -7,6 +7,7 @@ lang: en
 ref: hyperx-cloud-mix-buds
 date: 2025-07-15
 rating: [3.5, 0.5, 0.6, 1.0, 0.7, 0.7]
+price: 80
 summary: "Gaming-focused design prioritizing low-latency functionality delivers superior cost-performance compared to competitors"
 tags: [Gaming Earbuds, Low Latency, True Wireless, HyperX]
 permalink: /products/en/hyperx-cloud-mix-buds/

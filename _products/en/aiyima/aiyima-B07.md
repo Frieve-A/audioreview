@@ -7,6 +7,7 @@ lang: en
 ref: aiyima-B07
 date: 2025-07-22
 rating: [3.6, 0.6, 0.7, 1.0, 0.5, 0.8]
+price: 109
 summary: "A 2.1-channel amplifier with a TPA3255 chip. Its measured output is significantly below the nominal specifications. The existence of a vastly superior alternative at an identical price point results in poor actual value."
 tags: [Class D Amplifier, TPA3255, 2.1 Channel, Subwoofer, Bluetooth]
 permalink: /products/en/aiyima-B07/

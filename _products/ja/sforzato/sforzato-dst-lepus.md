@@ -7,6 +7,7 @@ lang: ja
 ref: sforzato-dst-lepus
 date: 2025-08-13
 rating: [2.5, 0.5, 0.7, 0.3, 0.7, 0.3]
+price: 418000
 summary: "Sforzato DST-LEPUSは、LAN（SFPモジュール対応）/USB-B入力をZERO LINK出力へブリッジするネットワークトランスポートです。Diretta対応やTIDAL/Qobuz/Amazon Music対応など最新のネットワーク機能を備えますが、可聴差を裏づける第三者測定がなく、専用インターフェースへのロックインと価格が課題です。税込418,000円（2,826 USD）。"
 tags: [Sforzato, USB DAC, ZERO LINK, ネットワークストリーマー, ネットワークトランスポート, 日本]
 permalink: /products/ja/sforzato-dst-lepus/

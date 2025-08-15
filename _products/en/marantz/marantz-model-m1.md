@@ -7,6 +7,7 @@ lang: en
 ref: marantz-model-m1
 date: 2025-07-08
 rating: [3.4, 0.6, 0.8, 0.6, 0.8, 0.6]
+price: 858
 summary: "Japanese-made premium compact streaming amplifier with HDMI eARC support that also functions as a TV audio system"
 tags: [Japan, Marantz, Network audio, Streaming amplifier]
 permalink: /products/en/marantz-model-m1/

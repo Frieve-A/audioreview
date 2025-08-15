@@ -7,6 +7,7 @@ lang: en
 ref: atoll-ms-120
 date: 2025-08-12
 rating: [2.9, 0.9, 0.7, 0.1, 0.6, 0.6]
+price: 1599
 summary: "French-made network streamer with excellent measurements but premium pricing against more affordable alternatives"
 tags: [DAC, French-Audio, Network streamer, Network-Player, Preamps]
 permalink: /products/en/atoll-ms-120/

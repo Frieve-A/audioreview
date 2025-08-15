@@ -7,6 +7,7 @@ lang: ja
 ref: pioneer-a-70a
 date: 2025-08-04
 rating: [3.1, 0.8, 0.6, 0.3, 0.7, 0.7]
+price: 97800
 summary: "Pioneer A-70Aは伝統的なアナログ設計を踏襲したインテグレーテッドアンプですが、現代の基準では科学的有効性とコストパフォーマンスに課題があります。"
 tags: [アナログ, アンプ, インテグレーテッドアンプ, パイオニア]
 permalink: /products/ja/pioneer-a-70a/

@@ -7,6 +7,7 @@ lang: ja
 ref: pioneer-a-70da
 date: 2025-08-12
 rating: [2.5, 0.6, 0.5, 0.2, 0.7, 0.5]
+price: 300000
 summary: "ESS SABRE32 Ultra DAC搭載のClass Dプリメインアンプ。測定性能は良好だが、価格の15%で同等機能の代替品が存在するため、コストパフォーマンスが著しく劣る"
 tags: [DAC, D級, ESS SABRE32, デジタル入力, プリメインアンプ]
 permalink: /products/ja/pioneer-a-70da/

@@ -7,6 +7,7 @@ lang: ja
 ref: rme-babyface-pro-fs
 date: 2025-08-10
 rating: [4.1, 0.8, 0.9, 0.7, 0.9, 0.8]
+price: 130000
 summary: "プロフェッショナル向けUSB AudioInterface。測定値では透明レベルを達成するが、コストパフォーマンスは厳しい。"
 tags: [RME, USB, オーディオインターフェース, プロ用]
 permalink: /products/ja/rme-babyface-pro-fs/

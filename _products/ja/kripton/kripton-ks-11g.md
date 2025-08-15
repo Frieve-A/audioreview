@@ -7,6 +7,7 @@ lang: ja
 ref: kripton-ks-11g
 date: 2025-08-05
 rating: [2.1, 0.4, 0.4, 0.3, 0.6, 0.4]
+price: 65780
 summary: "aptX Adaptive対応のコンパクトデスクトップスピーカーだが、単体フルレンジドライバーの限界と価格競争力の不足が目立つ製品"
 tags: [アクティブスピーカー, ワイヤレス, aptX Adaptive, デスクトップ, フルレンジ]
 permalink: /products/ja/kripton-ks-11g/

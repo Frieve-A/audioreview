@@ -7,6 +7,7 @@ lang: en
 ref: arturia-audiofuse-16rig
 date: 2025-07-21
 rating: [3.5, 0.9, 0.7, 0.5, 0.6, 0.8]
+price: 1299
 summary: "High-density audio interface supporting 16-channel input/output. Features ESS and Cirrus Logic converters with dual independent mixers, specialized for electronic music production"
 tags: [Arturia, Audio interface, DC Coupling, Modular Synth, USB-C]
 permalink: /products/en/arturia-audiofuse-16rig/

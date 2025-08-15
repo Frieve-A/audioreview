@@ -7,6 +7,7 @@ lang: ja
 ref: mark-levinson-5909
 date: 2025-08-06
 rating: [3.4, 0.9, 0.8, 0.3, 0.7, 0.7]
+price: 149850
 summary: "Mark Levinsonの初のワイヤレスヘッドホンは、業界最高レベルのハーマンカーブ準拠率を達成しているものの、同等以上の機能を40,200円で提供するSony WH-1000XM5と比較すると、コストパフォーマンスに課題があります。"
 tags: [Bluetooth, Mark Levinson, アクティブノイズキャンセリング, ワイヤレスヘッドホン, 高級]
 permalink: /products/ja/mark-levinson-5909/

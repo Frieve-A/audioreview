@@ -7,6 +7,7 @@ lang: ja
 ref: top-wing-usb-lan-bridge
 date: 2025-07-25
 rating: [2.2, 0.2, 0.6, 0.5, 0.6, 0.3]
+price: 44000
 summary: "USB3.0からSFPポートへの変換を行うオーディオ専用設計を謳った44,000円の製品。基本機能はStarTech製品と同等でありながら、科学的根拠に乏しい音質改善効果を主張します。"
 tags: [USB-SFPコンバーター, ネットワーク機器, オーディオアクセサリ, メディアコンバーター]
 permalink: /products/ja/top-wing-usb-lan-bridge/

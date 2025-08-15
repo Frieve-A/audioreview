@@ -7,6 +7,7 @@ lang: en
 ref: luxman-d-03r
 date: 2025-08-10
 rating: [2.8, 0.5, 0.7, 0.4, 0.8, 0.4]
+price: 3491
 summary: "High-end CD player with advanced DAC integration and premium build quality; competitive overall value, though not the cheapest among equivalent alternatives"
 tags: [CD Player, DAC, Digital Audio, High-end, Luxman]
 permalink: /products/en/luxman-d-03r/

@@ -7,6 +7,7 @@ lang: en
 ref: fx-audio-pgn2
 date: 2025-08-09
 rating: [2.5, 0.5, 0.4, 0.8, 0.4, 0.4]
+price: 28
 summary: "Compact device with USB power and noise filtering functions, offering basic capabilities at an affordable price point"
 tags: [China, Digital Audio, Noise Filter, USB Filter, USB Stabilizer]
 permalink: /products/en/fx-audio-pgn2/

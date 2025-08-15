@@ -7,6 +7,7 @@ lang: en
 ref: acoustic-elegance-sbp15
 date: 2025-07-20
 rating: [3.8, 0.9, 0.8, 1.0, 0.4, 0.7]
+price: 425
 summary: "The Acoustic Elegance SBP15 subwoofer delivers industry-leading low distortion with its innovative Full Copper Faraday Sleeve and Lambda Motor technology. It offers the best cost-performance among products with comparable low-distortion capabilities, but faces supply issues due to small-scale manufacturing."
 tags: [Subwoofer, 15-inch, Home Theater, Sealed, High-end]
 permalink: /products/en/acoustic-elegance-sbp15/

@@ -7,6 +7,7 @@ lang: ja
 ref: sennheiser-hd600
 date: 2025-08-05
 rating: [3.5, 0.8, 0.6, 0.5, 0.8, 0.8]
+price: 39420
 summary: "1997年発売のリファレンスヘッドホン。優秀な測定性能を持つが、同等性能のHD560Sが半額で入手可能なためコストパフォーマンスに課題あり。"
 tags: [オープンバック, ハイインピーダンス, ヘッドホン, リファレンス]
 permalink: /products/ja/sennheiser-hd600/

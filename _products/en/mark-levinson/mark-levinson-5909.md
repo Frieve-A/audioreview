@@ -7,6 +7,7 @@ lang: en
 ref: mark-levinson-5909
 date: 2025-08-06
 rating: [3.4, 0.9, 0.8, 0.3, 0.7, 0.7]
+price: 999
 summary: "Mark Levinson's first wireless headphones achieve industry-leading Harman curve compliance, but face cost-performance challenges when compared to the Sennheiser Momentum 4 Wireless, which offers equivalent or superior features for 250 USD."
 tags: [ANC, Bluetooth, High-end, Mark Levinson, Wireless headphones]
 permalink: /products/en/mark-levinson-5909/

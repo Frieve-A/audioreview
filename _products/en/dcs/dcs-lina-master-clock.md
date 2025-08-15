@@ -7,6 +7,7 @@ lang: en
 ref: dcs-lina-master-clock
 date: 2025-07-25
 rating: [2.2, 0.2, 0.6, 0.2, 0.8, 0.4]
+price: 7700
 summary: "dCS's master clock, while having limited rationality for professional use, lacks scientific evidence as an audio accessory and offers extremely poor cost-performance."
 tags: [Master Clock, dCS, High-end, Digital Audio]
 permalink: /products/en/dcs-lina-master-clock/

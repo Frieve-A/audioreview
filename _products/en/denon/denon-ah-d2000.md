@@ -7,6 +7,7 @@ lang: en
 ref: denon-ah-d2000
 date: 2025-08-09
 rating: [2.5, 0.4, 0.6, 0.3, 0.7, 0.5]
+price: 400
 summary: "Closed‑back over‑ear upper‑class model featuring a 50mm microfibre diaphragm, magnesium‑alloy frame, Acoustic Optimizer, and symmetrical OFC cable. Officially rated 25Ω/106dB/mW, 5–45,000Hz. Discontinued; mostly available used"
 tags: [Headphones, Closed-back, Microfibre, Discontinued, Used Market]
 permalink: /products/en/denon-ah-d2000/

@@ -7,6 +7,7 @@ lang: ja
 ref: see-audio-bravery
 date: 2025-08-03
 rating: [2.2, 0.5, 0.6, 0.2, 0.5, 0.4]
+price: 44850
 summary: "4BA構成のIEMですが、測定データが限定的で、同価格帯のハイブリッド競合製品と比較してコストパフォーマンスに劣ります。"
 tags: [See Audio, イヤホン, インイヤーモニター, バランスドアーマチュア]
 permalink: /products/ja/see-audio-bravery/

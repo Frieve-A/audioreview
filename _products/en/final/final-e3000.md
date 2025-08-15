@@ -7,6 +7,7 @@ lang: en
 ref: final-e3000
 date: 2025-08-14
 rating: [2.7, 0.6, 0.4, 0.4, 0.7, 0.6]
+price: 55
 summary: "Budget earphone with balanced-leaning tuning and premium stainless-steel build; objectively competent but out-valued by newer, cheaper models with comparable measured tonality"
 tags: [Budget, Dynamic driver, Earphones, In-ear monitors]
 permalink: /products/en/final-e3000/

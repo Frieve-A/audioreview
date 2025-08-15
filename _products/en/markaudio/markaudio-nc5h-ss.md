@@ -7,6 +7,7 @@ lang: en
 ref: markaudio-nc5h-ss
 date: 2025-07-30
 rating: [1.8, 0.3, 0.6, 0.1, 0.5, 0.3]
+price: 1049
 summary: "Compact bookshelf speaker featuring 8cm full-range driver. While featuring single suspension technology, performance is limited relative to the 1,049 USD price point"
 tags: [Bookshelf speakers, Compact, Full Range, High Price]
 permalink: /products/en/markaudio-nc5h-ss/

@@ -7,6 +7,7 @@ lang: en
 ref: kef-r3-meta
 date: 2025-07-18
 rating: [4.2, 0.8, 0.8, 1.0, 0.8, 0.8]
+price: 2333
 summary: "The KEF R3 Meta is a 3-way bookshelf speaker featuring advanced technology and MAT technology, offering appropriate pricing compared to competitive products with equivalent performance, earning a high overall rating"
 tags: [3-Way, Bookshelf, MAT, Passive, Uni-Q]
 permalink: /products/en/kef-r3-meta/

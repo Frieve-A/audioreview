@@ -7,6 +7,7 @@ lang: en
 ref: nzxt-relay-subwoofer-ap-sub80
 date: 2025-08-12
 rating: [2.5, 0.2, 0.5, 1.0, 0.5, 0.3]
+price: 150
 summary: "Gaming-focused subwoofer with limited frequency range and high THD specifications"
 tags: [Desktop, Gaming, NZXT, Subwoofer]
 permalink: /products/en/nzxt-relay-subwoofer-ap-sub80/

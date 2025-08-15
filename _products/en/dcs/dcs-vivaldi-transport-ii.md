@@ -7,6 +7,7 @@ lang: en
 ref: dcs-vivaldi-transport-ii
 date: 2025-07-25
 rating: [2.0, 0.3, 0.7, 0.0, 0.8, 0.2]
+price: 50000
 summary: "dCS's flagship CD transport is technically excellent but fails to provide scientifically meaningful improvements in basic digital data delivery, with extremely poor cost-performance"
 tags: [CD Transport, Digital, High-end, dCS]
 permalink: /products/en/dcs-vivaldi-transport-ii/

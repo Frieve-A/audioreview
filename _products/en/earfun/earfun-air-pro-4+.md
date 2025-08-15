@@ -7,6 +7,7 @@ lang: en
 ref: earfun-air-pro-4+
 date: 2025-07-31
 rating: [3.6, 0.7, 0.8, 0.7, 0.6, 0.8]
+price: 99.99
 summary: "Advanced true wireless earphones featuring AI translation. NSAA design and 54-hour battery life at 99.99 USD"
 tags: [AI Translation, ANC, EarFun, Wireless earphones, aptX Lossless]
 permalink: /products/en/earfun-air-pro-4+/

@@ -7,6 +7,7 @@ lang: en
 ref: edifier-MR5
 date: 2025-07-23
 rating: [3.0, 0.5, 0.7, 0.7, 0.6, 0.5]
+price: 270
 summary: "A 5-inch active studio monitor featuring a tri-amped configuration and Bluetooth 6.0 support. Priced at 270 USD, its cost-performance is rated as slightly above average, given the existence of Bluetooth-equipped competitors like the Pioneer DJ DM-50D-BT available for around 201 USD (based on Japanese market price conversion)."
 tags: [Active speakers, Bluetooth Support, Hi-Res, Made in China, Studio monitors]
 permalink: /products/en/edifier-MR5/

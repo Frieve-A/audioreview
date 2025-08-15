@@ -7,6 +7,7 @@ lang: en
 ref: korg-ds-dac-10r
 date: 2025-08-01
 rating: [3.7, 0.8, 0.6, 1.0, 0.6, 0.7]
+price: 400
 summary: "A unique DAC/ADC combo device specialized for digitizing analog records. It is a rare product with both phono input and DSD recording capabilities, earning the highest cost-performance rating due to the lack of alternatives."
 tags: [DAC, ADC, Phono Preamp, DSD, Analog Records, USB]
 permalink: /products/en/korg-ds-dac-10r/

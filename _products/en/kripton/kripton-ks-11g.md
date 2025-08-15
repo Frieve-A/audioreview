@@ -7,6 +7,7 @@ lang: en
 ref: kripton-ks-11g
 date: 2025-08-05
 rating: [2.1, 0.4, 0.4, 0.3, 0.6, 0.4]
+price: 430
 summary: "Compact desktop speaker with aptX Adaptive support, but limited by single full-range driver constraints and poor price competitiveness"
 tags: [Active speakers, Desktop, Full-range, Wireless, aptX Adaptive]
 permalink: /products/en/kripton-ks-11g/

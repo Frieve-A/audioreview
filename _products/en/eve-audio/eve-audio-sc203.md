@@ -7,6 +7,7 @@ lang: en
 ref: eve-audio-sc203
 date: 2025-08-11
 rating: [2.7, 0.5, 0.7, 0.8, 0.4, 0.3]
+price: 457
 summary: "Compact studio monitor with μAMT tweeter technology; pricing sits above 349 USD-class alternatives like Kali LP‑UNF; see Cost‑Performance for quantified comparison"
 tags: [Active speakers, Desktop Monitor, Near-field Monitor, Studio monitors]
 permalink: /products/en/eve-audio-sc203/

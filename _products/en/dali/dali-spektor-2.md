@@ -7,6 +7,7 @@ lang: en
 ref: dali-spektor-2
 date: 2025-08-07
 rating: [2.7, 0.5, 0.6, 0.3, 0.7, 0.6]
+price: 265
 summary: "DALI's entry-level bookshelf speaker featuring wood fiber cone and lightweight tweeter, though facing significant price disadvantage against equivalent lower-cost alternatives."
 tags: [2-Way, Bookshelf speakers, DALI, Passive speakers]
 permalink: /products/en/dali-spektor-2/

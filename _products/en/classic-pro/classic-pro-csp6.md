@@ -7,6 +7,7 @@ lang: en
 ref: classic-pro-csp6
 date: 2025-08-14
 rating: [2.5, 0.4, 0.3, 0.8, 0.5, 0.5]
+price: 80
 summary: "A budget 6.5-inch passive PA speaker with a lightweight polypropylene cabinet. It does not meet transparent-level measurement targets but is a pragmatic, portable option for basic PA tasks."
 tags: [PA-Speaker, Passive-Speaker, Polypropylene-Cabinet, Budget-Audio]
 permalink: /products/en/classic-pro-csp6/

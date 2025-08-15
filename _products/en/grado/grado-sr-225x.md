@@ -7,6 +7,7 @@ lang: en
 ref: grado-sr-225x
 date: 2025-08-04
 rating: [2.3, 0.4, 0.5, 0.4, 0.6, 0.4]
+price: 225
 summary: "This open-back headphone employs traditional handcrafted methods but underperforms modern competitors in scientific measurements and cost-performance due to insufficient data and outdated design."
 tags: [Headphones, Open-back, Grado, Mid-range]
 permalink: /products/en/grado-sr-225x/

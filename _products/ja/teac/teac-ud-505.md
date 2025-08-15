@@ -7,6 +7,7 @@ lang: ja
 ref: teac-ud-505
 date: 2025-08-01
 rating: [2.5, 0.7, 0.6, 0.2, 0.5, 0.5]
+price: 210000
 summary: "AK4497デュアルモノラル構成のUSB DAC/ヘッドホンアンプ。科学的有効性は透明レベルをクリアするが、Topping DX5 Liteとの比較でコストパフォーマンスに課題がある。"
 tags: [AK4497, Bluetooth, DAC, DSD, USB, ティアック, ハイレゾ, ヘッドホンアンプ]
 permalink: /products/ja/teac-ud-505/

@@ -7,6 +7,7 @@ lang: en
 ref: apple-airpods-max
 date: 2025-07-09
 rating: [2.8, 0.4, 0.5, 0.7, 0.6, 0.6]
+price: 449
 summary: "Premium wireless headphones with wired DAC-equivalent sound quality, but difficult to justify at 449 USD price point"
 tags: [Headphones, Noise cancelling, Over-ear, Wireless]
 permalink: /products/en/apple-airpods-max/

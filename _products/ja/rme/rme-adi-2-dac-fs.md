@@ -7,6 +7,7 @@ lang: ja
 ref: rme-adi-2-dac-fs
 date: 2025-07-30
 rating: [3.8, 0.9, 0.8, 0.4, 0.9, 0.8]
+price: 158400
 summary: "優秀な測定性能と豊富な機能を持つプロ仕様DACだが、コストパフォーマンスに課題"
 tags: [DAC, ヘッドホンアンプ, RME, プロオーディオ, ESS, ハイレゾ, DSD]
 permalink: /products/ja/rme-adi-2-dac-fs/

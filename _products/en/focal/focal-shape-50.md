@@ -7,6 +7,7 @@ lang: en
 ref: focal-shape-50
 date: 2025-07-21
 rating: [2.2, 0.4, 0.6, 0.2, 0.5, 0.5]
+price: 699
 summary: "The Focal Shape 50 is a 5-inch studio monitor featuring proprietary technologies, but faces harsh evaluation in terms of measurement performance and cost-performance."
 tags: [Active, France, Studio monitors]
 permalink: /products/en/focal-shape-50/

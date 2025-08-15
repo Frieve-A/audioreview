@@ -7,6 +7,7 @@ lang: en
 ref: focal-vestia-no1
 date: 2025-07-30
 rating: [3.0, 0.5, 0.8, 0.4, 0.8, 0.5]
+price: 1100
 summary: "An entry-level model from Focal's Vestia series announced in 2023. This 2-way bookshelf speaker features a 6.5-inch Slatefiber diaphragm and a 1-inch TAM tweeter. While inheriting technologies from higher-end models, its current market price is difficult to verify, posing challenges for accurate competitive analysis."
 tags: [Bookshelf speakers, Focal, Made In France, Slatefiber, TAM Tweeter]
 permalink: /products/en/focal-vestia-no1/

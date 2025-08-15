@@ -7,6 +7,7 @@ lang: en
 ref: devialet-phantom-ii-95-db
 date: 2025-08-11
 rating: [3.4, 0.8, 0.7, 0.8, 0.8, 0.3]
+price: 1199
 summary: "Compact wireless speaker with strong technical performance meeting transparent-level criteria in multiple parameters; reasonable cost-performance versus cheapest equivalent alternatives, with premium design emphasis."
 tags: [Active speakers, Bluetooth, Compact Speaker, Premium, Wi-Fi, Wireless Speaker]
 permalink: /products/en/devialet-phantom-ii-95-db/

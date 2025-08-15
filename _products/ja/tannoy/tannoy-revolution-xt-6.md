@@ -7,6 +7,7 @@ lang: ja
 ref: tannoy-revolution-xt-6
 date: 2025-08-13
 rating: [2.9, 0.4, 0.6, 0.7, 0.7, 0.5]
+price: 147760
 summary: "2–3kHz帯に強いピークを持ち、透明性を損なうデュアルコンセントリック型ブックシェルフ。構造品質は妥当ながら測定上の弱点が支配的です"
 tags: [ブックシェルフ, スピーカー, Tannoy, デュアルコンセントリック, パッシブ]
 permalink: /products/ja/tannoy-revolution-xt-6/

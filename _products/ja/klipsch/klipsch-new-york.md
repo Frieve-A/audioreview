@@ -7,6 +7,7 @@ lang: ja
 ref: klipsch-new-york
 date: 2025-07-31
 rating: [3.3, 0.5, 0.6, 0.9, 0.7, 0.6]
+price: 104850
 summary: "Klipschのパーティースピーカー「Music City」シリーズの最上位モデル、Klipsch New York。デュアル8インチウーファーを搭載し、最大110dBの出力を実現。価格699 USDのポータブルスピーカーです。"
 tags: [Klipsch, Klipsch New York, パーティースピーカー, Bluetooth, ポータブル]
 permalink: /products/ja/klipsch-new-york/

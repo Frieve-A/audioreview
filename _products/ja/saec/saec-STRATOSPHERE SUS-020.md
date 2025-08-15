@@ -7,6 +7,7 @@ lang: ja
 ref: saec-stratosphere-sus-020
 date: 2025-07-22
 rating: [1.2, 0.0, 0.6, 0.0, 0.6, 0.0]
+price: 52800
 summary: "PC-TripleC EX導体を採用した最高級USBケーブルだが、デジタル伝送における科学的有効性やコストパフォーマンスは著しく低いと評価される"
 tags: [PC-TripleC, SAEC, USBケーブル, デジタル音響, 高級]
 permalink: /products/ja/saec-stratosphere-sus-020/

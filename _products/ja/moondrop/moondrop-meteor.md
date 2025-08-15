@@ -7,6 +7,7 @@ lang: en
 ref: moondrop-meteor
 date: 2025-08-01
 rating: [2.7, 0.7, 0.6, 0.1, 0.6, 0.7]
+price: 510
 summary: "A tribrid IEM with a unique meteorite-embedded design and 1DD+2BA+4Planar configuration, but at 510 USD, superior performance can be achieved with significantly less expensive alternatives."
 tags: [Moondrop, Tribrid, インイヤーモニター, プレミアム]
 permalink: /products/en/moondrop-meteor/

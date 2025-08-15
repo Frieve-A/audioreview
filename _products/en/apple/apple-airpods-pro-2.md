@@ -7,6 +7,7 @@ lang: en
 ref: apple-airpods-pro-2
 date: 2025-07-08
 rating: [3.1, 0.6, 0.7, 0.6, 0.6, 0.6]
+price: 250
 summary: "Apple AirPods Pro 2 delivers excellent ANC and usability but faces scientific evaluation and cost-performance challenges due to existence of equivalent-performance budget alternatives"
 tags: [Active noise cancelling, Adaptive EQ, Apple, H2 Chip, Wireless earphones]
 permalink: /products/en/apple-airpods-pro-2/

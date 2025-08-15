@@ -7,6 +7,7 @@ lang: ja
 ref: jbl-flip-7
 date: 2025-07-07
 rating: [3.2, 0.6, 0.7, 0.6, 0.8, 0.5]
+price: 17161
 summary: "JBL FLIP 7は、出力向上、IP68防水防塵、次世代Bluetooth規格Auracast対応など、前モデルから順当な進化を遂げたポータブルスピーカーです。しかし、これらの機能向上が価格に反映されており、コストパフォーマンスの面では前モデルほどの魅力はなく、慎重な判断が求められます。"
 tags: [AI, Bluetooth, JBL, スピーカー, ポータブルオーディオ, 防水]
 permalink: /products/ja/jbl-flip-7/

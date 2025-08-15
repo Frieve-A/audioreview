@@ -7,6 +7,7 @@ lang: ja
 ref: moondrop-rays
 date: 2025-08-01
 rating: [4.1, 0.8, 0.8, 1.0, 0.7, 0.8]
+price: 14300
 summary: "ハイブリッド構成とDSP機能を搭載したゲーミングIEM。優秀な測定性能と高い技術レベルを持ち、同等機能を持つ競合製品と比較して最も安価でコストパフォーマンスは優秀。"
 tags: [DSP, Hybrid, USB-C, インイヤーモニター, ゲーミング]
 permalink: /products/ja/moondrop-rays/

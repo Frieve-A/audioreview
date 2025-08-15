@@ -7,6 +7,7 @@ lang: en
 ref: jbl-wave-beam-2
 date: 2025-08-08
 rating: [3.1, 0.5, 0.5, 1.0, 0.5, 0.6]
+price: 54
 summary: "Entry-priced true wireless earbuds with ANC, multipoint, and IP54; strong on practical features and pricing."
 tags: [True Wireless, Noise Cancelling, Multipoint, JBL]
 permalink: /products/en/jbl-wave-beam-2/

@@ -7,6 +7,7 @@ lang: en
 ref: audio-technica-ath-cks330nc
 date: 2025-07-26
 rating: [3.9, 0.6, 0.7, 1.0, 0.8, 0.8]
+price: 34
 summary: "Rare wired earphones with USB-C connection and active noise cancellation. Features characteristic bass from SOLID BASS series and high-quality playback via built-in DAC."
 tags: [Earphones, Noise Cancellation, USB-C, Wired, DAC Built-in]
 permalink: /products/en/audio-technica-ath-cks330nc/

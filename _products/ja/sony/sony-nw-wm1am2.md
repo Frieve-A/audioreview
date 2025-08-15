@@ -7,6 +7,7 @@ lang: ja
 ref: sony-nw-wm1am2
 date: 2025-08-04
 rating: [3.0, 0.7, 0.7, 0.3, 0.8, 0.5]
+price: 154000
 summary: "優れた技術力とブランド信頼性を持つが、同等機能をより安価で提供する競合製品が存在するため、コストパフォーマンスに大きな課題が残るハイエンドDAP製品です。"
 tags: [Android, DSD, LDAC, ソニー, デジタルオーディオプレーヤー, ハイレゾ, ポータブル]
 permalink: /products/ja/sony-nw-wm1am2/

@@ -7,6 +7,7 @@ lang: ja
 ref: sennheiser-hd-820
 date: 2025-08-04
 rating: [2.9, 0.7, 0.8, 0.1, 0.7, 0.6]
+price: 319000
 summary: "革新的なガラス反射技術を採用したフラッグシップ密閉型ヘッドホンだが、31万9千円という価格に対してコストパフォーマンスに大きな問題がある"
 tags: [ヘッドホン, 密閉型, ハイエンド, Sennheiser]
 permalink: /products/ja/sennheiser-hd-820/

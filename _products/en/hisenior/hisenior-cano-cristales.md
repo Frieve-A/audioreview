@@ -7,6 +7,7 @@ lang: en
 ref: hisenior-cano-cristales
 date: 2025-07-30
 rating: [3.0, 0.5, 0.7, 0.6, 0.6, 0.6]
+price: 399
 summary: "An IEM with a 10-driver (2DD+8BA) configuration. Contrary to its complex design, its measured performance shows issues, and its cost-performance is merely average."
 tags: [Audiophile, Hi-Fi, Hybrid, In-ear monitors, Multi-Driver]
 permalink: /products/en/hisenior-cano-cristales/

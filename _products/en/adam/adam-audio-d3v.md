@@ -7,6 +7,7 @@ lang: en
 ref: adam-audio-d3v
 date: 2025-07-14
 rating: [4.1, 0.7, 0.8, 1.0, 0.8, 0.8]
+price: 300
 summary: "The Adam Audio D3V is a desktop monitor featuring D-ART ribbon tweeters. It boasts an excellent technical design and offers outstanding, best-in-class cost-performance compared to alternatives with similar features."
 tags: [Active speakers, Adam Audio, D-ART Tweeter, DSP, Desktop Monitor]
 permalink: /products/en/adam-audio-d3v/

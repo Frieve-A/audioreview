@@ -7,6 +7,7 @@ lang: en
 ref: accuphase-e-408
 date: 2025-08-08
 rating: [4.0, 0.7, 0.8, 0.9, 0.8, 0.8]
+price: 2200
 summary: "Class AB integrated amplifier delivering 180W. Shows solid measured performance with reasonable cost-performance by modern standards."
 tags: [Accuphase, Class AB, High-end, Integrated amplifier, Japan]
 permalink: /products/en/accuphase-e-408/

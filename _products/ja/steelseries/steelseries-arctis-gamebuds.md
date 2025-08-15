@@ -7,6 +7,7 @@ lang: ja
 ref: steelseries-arctis-gamebuds
 date: 2025-07-12
 rating: [3.3, 0.6, 0.7, 1.0, 0.3, 0.7]
+price: 22600
 summary: "SteelSeriesが手がけた初のゲーミング完全ワイヤレスイヤホン。2.4GHzとBluetoothの切り替え機能、ANC機能、40時間バッテリーを搭載し、同等機能の競合製品と比較して競争力のある価格設定となっている。"
 tags: [SteelSeries, アクティブノイズキャンセリング, ゲーミングイヤホン, ワイヤレス]
 permalink: /products/ja/steelseries-arctis-gamebuds/

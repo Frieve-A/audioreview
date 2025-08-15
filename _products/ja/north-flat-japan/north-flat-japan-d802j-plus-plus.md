@@ -7,6 +7,7 @@ lang: ja
 ref: north-flat-japan-d802j-plus-plus
 date: 2025-08-08
 rating: [2.3, 0.5, 0.3, 0.7, 0.4, 0.4]
+price: 16660
 summary: "STA326チップを採用と案内されるフルデジタルアンプ。公開情報の範囲では測定データの透明性に課題が残る。"
 tags: [デジタルアンプ, フルデジタル, STA326, North Flat Japan, FX-AUDIO]
 permalink: /products/ja/north-flat-japan-d802j-plus-plus/

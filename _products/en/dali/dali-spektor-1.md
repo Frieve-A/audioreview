@@ -7,6 +7,7 @@ lang: en
 ref: dali-spektor-1
 date: 2025-08-07
 rating: [3.2, 0.7, 0.5, 0.9, 0.6, 0.5]
+price: 400
 summary: "Danish-manufactured compact bookshelf speaker. Good cost-performance but lacks technological innovation"
 tags: [Bookshelf speakers, Danish Made, Entry-level, Passive speakers]
 permalink: /products/en/dali-spektor-1/

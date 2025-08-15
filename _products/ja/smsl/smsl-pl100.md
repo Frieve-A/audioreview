@@ -7,6 +7,7 @@ lang: ja
 ref: smsl-pl100
 date: 2025-08-13
 rating: [3.4, 0.7, 0.5, 1.0, 0.5, 0.7]
+price: 16100
 summary: "光/同軸デジタル出力と3.5mmヘッドホン出力を備えた低価格CDプレーヤー。電源はUSB-C 5 V/2 A（アダプタは非同梱）。メーカー公表値は透明域、機能対価格は同等以上で最安。"
 tags: [CDプレーヤー, DAC, バジェットオーディオ, デジタルトランスポート]
 permalink: /products/ja/smsl-pl100/

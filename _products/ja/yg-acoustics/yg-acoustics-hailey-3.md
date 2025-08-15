@@ -7,6 +7,7 @@ lang: ja
 ref: yg-acoustics-hailey-3
 date: 2025-08-07
 rating: [3.0, 0.7, 0.8, 0.2, 0.8, 0.5]
+price: 10200000
 summary: "YG Acousticsの代表的3ウェイスピーカーHailey 3は、高精度なアルミニウム加工技術と位相特性に優れるものの、68,000ドルという価格に対して同等性能をより安価に実現できる選択肢が存在する"
 tags: [スピーカー, フロアスタンディング, 3ウェイ, ハイエンド, アルミニウム]
 permalink: /products/ja/yg-acoustics-hailey-3/

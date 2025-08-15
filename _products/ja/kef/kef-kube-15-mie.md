@@ -7,6 +7,7 @@ lang: ja
 ref: kef-kube-15-mie
 date: 2025-07-30
 rating: [3.0, 0.6, 0.5, 0.8, 0.6, 0.5]
+price: 234000
 summary: "KEFの15インチサブウーファーKube 15 MIEは、300WのClass Dアンプと密閉型設計を採用し、MIE DSP処理により20Hzまでの低域再生を実現しますが、同等以上の性能を持つ競合製品がより安価なためコストパフォーマンスで劣ります。"
 tags: [DSP, D級, KEF, サブウーファー, 密閉型]
 permalink: /products/ja/kef-kube-15-mie/

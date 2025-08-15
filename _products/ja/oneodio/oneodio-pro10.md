@@ -7,6 +7,7 @@ lang: ja
 ref: oneodio-pro10
 date: 2025-07-29
 rating: [2.2, 0.2, 0.5, 0.8, 0.4, 0.3]
+price: 3998
 summary: "OneOdio Pro10は、DJ機能を備えた低価格ヘッドホンです。音響性能はモニター用途に不向きですが、機能性を考慮したコストパフォーマンスは比較的高く評価できます。"
 tags: [50mmドライバー, DJ, OneOdio, ヘッドホン, モニター, 有線]
 permalink: /products/ja/oneodio-pro10/

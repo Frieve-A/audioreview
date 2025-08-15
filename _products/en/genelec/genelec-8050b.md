@@ -7,6 +7,7 @@ lang: en
 ref: genelec-8050b
 date: 2025-08-11
 rating: [3.4, 0.8, 0.7, 0.2, 0.9, 0.8]
+price: 1975
 summary: "Premium professional studio monitor with excellent transparency but extremely poor cost-performance due to availability of equivalent-or-better alternatives at fraction of the price"
 tags: [8-inch Driver, Active speakers, Bi-amplified, Professional, Studio monitors]
 permalink: /products/en/genelec-8050b/

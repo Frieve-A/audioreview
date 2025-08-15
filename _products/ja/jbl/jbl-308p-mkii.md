@@ -7,6 +7,7 @@ lang: ja
 ref: jbl-308p-mkii
 date: 2025-07-31
 rating: [4.0, 0.8, 0.7, 1.0, 0.8, 0.7]
+price: 43350
 summary: "JBLの8インチスタジオモニターは、透明レベルに近い良好な測定性能と堅実な技術レベルに加え、優れたコストパフォーマンスを両立した製品です。"
 tags: [Class-D Amplifier, JBL, Near Field Monitor, アクティブスピーカー, スタジオモニター]
 permalink: /products/ja/jbl-308p-mkii/

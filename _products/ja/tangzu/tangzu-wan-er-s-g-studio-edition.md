@@ -7,6 +7,7 @@ lang: ja
 ref: tangzu-wan-er-s-g-studio-edition
 date: 2025-08-12
 rating: [2.9, 0.5, 0.5, 0.9, 0.4, 0.6]
+price: 3150
 summary: "ニュートラルなスタジオモニタリングを目指した平均的な技術性能を持つバジェットIEM"
 tags: [インイヤーモニター, スタジオモニタリング, ダイナミックドライバ, ニュートラル, バジェット]
 permalink: /products/ja/tangzu-wan-er-s-g-studio-edition/

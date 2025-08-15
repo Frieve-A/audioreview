@@ -7,6 +7,7 @@ lang: en
 ref: ifi-audio-NEO iDSD2
 date: 2025-07-22
 rating: [3.3, 0.8, 0.7, 0.3, 0.8, 0.7]
+price: 899
 summary: "World's first aptX Lossless compatible desktop DAC/amp. Features excellent measured performance, but its cost-performance is low considering alternatives that offer comparable or superior performance at a fraction of the price."
 tags: [Amplifiers, Bluetooth, DAC, Desktop, aptX Lossless]
 permalink: /products/en/ifi-audio-NEO iDSD2/

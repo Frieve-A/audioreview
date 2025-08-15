@@ -7,6 +7,7 @@ lang: en
 ref: dcs-rossini-clock
 date: 2025-07-25
 rating: [2.1, 0.2, 0.8, 0.1, 0.8, 0.2]
+price: 18000
 summary: "The dCS Rossini Clock is a high-precision master clock, but its benefits are unproven and unnecessary in modern audio systems. Compared to products with equivalent functionality, it is remarkably expensive and offers virtually no cost-performance."
 tags: [Digital Audio, High-end, Jitter, Master Clock]
 permalink: /products/en/dcs-rossini-clock/

@@ -7,6 +7,7 @@ lang: en
 ref: final-e1000
 date: 2025-08-14
 rating: [2.6, 0.5, 0.4, 0.5, 0.6, 0.6]
+price: 30
 summary: "Neutral-leaning wired IEM with excellent comfort. Strong value in Japan; globally outpriced by newer budget rivals."
 tags: [Budget, Dynamic driver, Earphones, Wired]
 permalink: /products/en/final-e1000/

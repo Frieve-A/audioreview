@@ -7,6 +7,7 @@ lang: en
 ref: anker-soundcore-liberty-4
 date: 2025-07-19
 rating: [3.3, 0.5, 0.5, 1.0, 0.7, 0.6]
+price: 68
 summary: "Standard wireless earbuds with cost-performance equivalent to same price range competitors"
 tags: [Wireless Earbuds, Bluetooth, ANC, Anker, True Wireless]
 permalink: /products/en/anker-soundcore-liberty-4/

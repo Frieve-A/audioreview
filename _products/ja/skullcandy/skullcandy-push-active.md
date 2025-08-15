@@ -7,6 +7,7 @@ lang: ja
 ref: skullcandy-push-active
 date: 2025-07-09
 rating: [2.2, 0.4, 0.4, 0.4, 0.6, 0.4]
+price: 11850
 summary: "Skullcandy Push Activeは、79ドルで提供されるスポーツ向け完全ワイヤレスイヤホンです。シリコン製イヤーフックによる安定した装着感と44時間の長時間バッテリー持続時間を特徴とします。音質は低域強調の典型的なV字型特性を示しますが、同等機能を30ドルで提供する競合製品が存在し、コストパフォーマンスは限定的です。"
 tags: [Skullcandy, スポーツ, イヤーフック, 完全ワイヤレスイヤホン, IP55]
 permalink: /products/ja/skullcandy-push-active/

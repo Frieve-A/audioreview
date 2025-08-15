@@ -7,6 +7,7 @@ lang: ja
 ref: topping-la90-discrete
 date: 2025-07-14
 rating: [3.3, 0.9, 0.8, 0.4, 0.4, 0.8]
+price: 100000
 summary: "超低歪率と高SNRを実現したディスクリート設計のClass ABパワーアンプ。測定性能では業界最高水準を達成するも、価格対性能比で課題を抱える。"
 tags: [AB級, Topping, ディスクリート, パワーアンプ, 高性能]
 permalink: /products/ja/topping-la90-discrete/

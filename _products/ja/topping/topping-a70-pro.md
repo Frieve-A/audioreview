@@ -7,6 +7,7 @@ lang: ja
 ref: topping-a70-pro
 date: 2025-08-08
 rating: [3.5, 0.9, 0.8, 0.3, 0.7, 0.8]
+price: 74850
 summary: "最大17W（16Ω、バランス）出力の高性能ヘッドホンアンプだが、一般的な用途ではオーバースペックになりやすく価格対効果は用途次第"
 tags: [ヘッドホンアンプ, バランス駆動, ハイパワー]
 permalink: /products/ja/topping-a70-pro/

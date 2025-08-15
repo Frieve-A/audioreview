@@ -7,6 +7,7 @@ lang: en
 ref: audio-technica-ath-m60xa
 date: 2025-07-20
 rating: [2.2, 0.6, 0.5, 0.4, 0.4, 0.3]
+price: 239
 summary: "The ATH-M60xA features a 38Ω low-impedance design for portable device compatibility, but faces significant challenges in scientific validity and technological innovation. The 239 USD price point is substantially overpriced compared to other products with equivalent functionality and performance, with notable irrational aspects in design philosophy."
 tags: [On-Ear Headphones, Professional Monitor, Audio-Technica, Studio Headphones]
 permalink: /products/en/audio-technica-ath-m60xa/

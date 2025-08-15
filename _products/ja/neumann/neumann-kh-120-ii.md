@@ -7,6 +7,7 @@ lang: ja
 ref: neumann-kh-120-ii
 date: 2025-07-28
 rating: [3.6, 0.6, 0.7, 0.7, 0.8, 0.8]
+price: 148500
 summary: "DSP搭載のニアフィールドモニター。測定性能は業界標準レベルだが、コストパフォーマンスで競合他社に劣る"
 tags: [スピーカー, モニタースピーカー, DSP, ニアフィールド, プロオーディオ]
 permalink: /products/ja/neumann-kh-120-ii/

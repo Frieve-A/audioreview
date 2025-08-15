@@ -7,6 +7,7 @@ lang: en
 ref: kripton-ks-55hg
 date: 2025-07-27
 rating: [2.6, 0.5, 0.6, 0.3, 0.6, 0.6]
+price: 953
 summary: "A wireless speaker claiming to be the world's first to support both LDAC and aptX Adaptive, but with issues in its technology-price balance"
 tags: [Active speakers, Desktop, LDAC, Wireless, aptX Adaptive]
 permalink: /products/en/kripton-ks-55hg/

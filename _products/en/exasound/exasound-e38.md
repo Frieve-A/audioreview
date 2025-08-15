@@ -7,6 +7,7 @@ lang: en
 ref: exasound-e38
 date: 2025-07-20
 rating: [3.0, 0.9, 0.7, 0.1, 0.8, 0.5]
+price: 4300
 summary: "An 8-channel DAC with excellent measurement performance. However, its benefits are limited for most users, and it suffers from extremely poor cost-performance and questionable design philosophy."
 tags: [DAC, Multi-channel, DSD256, High-end]
 permalink: /products/en/exasound-e38/

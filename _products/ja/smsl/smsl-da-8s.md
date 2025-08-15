@@ -7,6 +7,7 @@ lang: ja
 ref: smsl-da-8s
 date: 2025-08-12
 rating: [2.7, 0.5, 0.4, 1.0, 0.3, 0.5]
+price: 31049
 summary: "Bluetooth（aptX）とバランスXLR入力を備えた80W Class-Dのプリメインアンプ（生産終了品）"
 tags: [Bluetooth, D級, プリメインアンプ, 中国, 低価格, 生産終了]
 permalink: /products/ja/smsl-da-8s/

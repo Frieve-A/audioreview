@@ -7,6 +7,7 @@ lang: ja
 ref: monitor-audio-monitor50
 date: 2025-08-09
 rating: [2.3, 0.3, 0.4, 0.6, 0.5, 0.5]
+price: 33000
 summary: "英国Monitor Audioのエントリー級ブックシェルフ。測定性能は透明レベル未達だが、小型で設置しやすい。購入時は第三者測定が明確な代替機とも比較推奨"
 tags: [2ウェイ, イギリス, スピーカー, パッシブ, ブックシェルフ]
 permalink: /products/ja/monitor-audio-monitor50/

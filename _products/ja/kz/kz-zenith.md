@@ -7,6 +7,7 @@ lang: ja
 ref: kz-zenith
 date: 2025-07-27
 rating: [2.8, 0.6, 0.5, 0.7, 0.5, 0.5]
+price: 8250
 summary: "KZの12周年記念フラッグシップとして登場したZenithは、Driver X技術を採用した単一ダイナミックドライバーIEMです。測定性能は平均的で、高価格帯における科学的有効性は限定的です。"
 tags: [Driver X, KZ, インイヤーモニター, シングルドライバー, ダイナミック]
 permalink: /products/ja/kz-zenith/

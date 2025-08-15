@@ -7,6 +7,7 @@ lang: en
 ref: onix-alpha-xi1
 date: 2025-07-30
 rating: [3.6, 0.8, 0.7, 0.7, 0.6, 0.8]
+price: 109
 summary: "Compact portable USB DAC/amp featuring dual CS43198 DAC chips. Achieves transparent-level sound quality with 130dB dynamic range and -115dB THD+N measurements"
 tags: [Balanced output, CS43198, Headphone amplifier, Onix, Portable DAC]
 permalink: /products/en/onix-alpha-xi1/

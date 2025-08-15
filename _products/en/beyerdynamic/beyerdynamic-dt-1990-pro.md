@@ -7,6 +7,7 @@ lang: en
 ref: beyerdynamic-dt-1990-pro-mkii
 date: 2025-07-31
 rating: [3.7, 0.8, 0.7, 0.4, 0.8, 1.0]
+price: 675
 summary: "German-made open-back studio headphones featuring TESLA.45 drivers with 30Ω low-impedance design. Improved treble peak issues from previous generation and enhanced sound transparency, but cost-performance is inferior compared to equivalent competitive products."
 tags: [Beyerdynamic, Headphones, MKII, Open-Back, Studio monitors, Tesla]
 permalink: /products/en/beyerdynamic-dt-1990-pro-mkii/

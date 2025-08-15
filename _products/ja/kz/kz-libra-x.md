@@ -7,6 +7,7 @@ lang: ja
 ref: kz-libra-x
 date: 2025-08-01
 rating: [2.5, 0.5, 0.4, 0.5, 0.6, 0.5]
+price: 2300
 summary: "KZ Libra Xは25Ω/108dBの基本仕様を持つIEMですが、忠実度に関する客観的データが不足しています。また、同等仕様のKZ EDC PROが半額で入手可能なためコストパフォーマンスに課題があります。"
 tags: [インイヤーモニター, ダイナミック型, 中華イヤホン, 低価格]
 permalink: /products/ja/kz-libra-x/

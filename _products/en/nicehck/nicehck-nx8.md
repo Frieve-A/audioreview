@@ -7,6 +7,7 @@ lang: en
 ref: nicehck-nx8
 date: 2025-07-27
 rating: [2.6, 0.6, 0.7, 0.4, 0.5, 0.4]
+price: 200
 summary: "The NiceHCK NX8 with its 8-driver tribrid configuration shows technical ambition but faces significant cost-performance challenges."
 tags: [Hybrid, In-ear monitors, NiceHCK, Tribrid]
 permalink: /products/en/nicehck-nx8/

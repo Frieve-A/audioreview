@@ -7,6 +7,7 @@ lang: en
 ref: fiio-q3-mqa
 date: 2025-07-30
 rating: [3.7, 0.8, 0.6, 1.0, 0.6, 0.7]
+price: 161
 summary: "Portable DAC/amp featuring THX AAA technology and MQA full decode. Achieves excellent measurement performance and best-in-class cost-performance."
 tags: [Balanced output, FiiO, MQA, Portable DAC, THX]
 permalink: /products/en/fiio-q3-mqa/

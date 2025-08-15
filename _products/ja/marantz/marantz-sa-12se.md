@@ -7,6 +7,7 @@ lang: ja
 ref: marantz-sa-12se
 date: 2025-08-10
 rating: [2.4, 0.7, 0.6, 0.1, 0.8, 0.2]
+price: 300000
 summary: "優れた製造品質を持つハイエンドSACD/CDプレーヤーですが、プレミアム価格により極度にコストパフォーマンスが低い製品です"
 tags: [CDプレーヤー, DAC, SACDプレーヤー, ハイエンド]
 permalink: /products/ja/marantz-sa-12se/

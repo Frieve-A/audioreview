@@ -7,6 +7,7 @@ lang: en
 ref: kz-prx
 date: 2025-07-27
 rating: [3.5, 0.8, 0.7, 0.5, 0.6, 0.9]
+price: 40
 summary: "The KZ PRX is a 4th generation IEM featuring a 13.2mm planar driver. While it offers an affordable entry into planar technology at around 40 USD, it faces challenges in cost-performance based on pure measurements."
 tags: [Budget, High-Value, In-ear monitors, KZ, Planar]
 permalink: /products/en/kz-prx/

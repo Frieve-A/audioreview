@@ -7,6 +7,7 @@ lang: en
 ref: electro-voice-ev-tour-x-tx1152
 date: 2025-07-26
 rating: [2.5, 0.5, 0.6, 0.3, 0.7, 0.4]
+price: 1000
 summary: "A 15-inch professional passive speaker with significant cost-performance issues due to the availability of numerous low-cost powered speakers offering equivalent functionality."
 tags: [Live Sound, PA System, Passive speakers, Professional, Sound Reinforcement]
 permalink: /products/en/electro-voice-ev-tour-x-tx1152/

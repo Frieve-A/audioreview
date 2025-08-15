@@ -7,6 +7,7 @@ lang: en
 ref: denon-dht-s218
 date: 2025-07-07
 rating: [3.2, 0.7, 0.7, 0.7, 0.8, 0.3]
+price: 187
 summary: "The DENON DHT-S218 is a Dolby Atmos-enabled soundbar with built-in dual subwoofers. It stands out with its support for advanced standards like Dolby TrueHD and Bluetooth 5.3 LE Audio, offering a future-proof design. Priced at 187 USD, while more affordable competitors exist, its feature set makes it a rational choice for users prioritizing high-fidelity playback."
 tags: [DENON, Soundbar, Dolby Atmos, Dual Subwoofer, Dolby TrueHD, Bluetooth LE Audio]
 permalink: /products/en/denon-dht-s218/

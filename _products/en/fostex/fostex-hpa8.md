@@ -7,7 +7,8 @@ lang: en
 ref: fostex-hpa8
 date: 2025-08-08
 rating: [2.9, 0.5, 0.7, 0.5, 0.6, 0.6]
-summary: "Desktop DAC-integrated headphone amplifier featuring AKM AK4399. Asynchronous USB with TCXO and discrete amplification were advanced for its time, but cost-performance on today’s used market is limited by capable modern alternatives"
+price: 430
+summary: "Desktop DAC-integrated headphone amplifier featuring AKM AK4399. Asynchronous USB with TCXO and discrete amplification were advanced for its time, but cost-performance on today's used market is limited by capable modern alternatives"
 tags: [32bit, AK4399, DAC, Discrete, Headphone amplifier, Japan]
 permalink: /products/en/fostex-hpa8/
 ---

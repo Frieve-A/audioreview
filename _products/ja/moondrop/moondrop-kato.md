@@ -7,6 +7,7 @@ lang: ja
 ref: moondrop-kato
 date: 2025-08-01
 rating: [2.9, 0.7, 0.6, 0.4, 0.6, 0.6]
+price: 28350
 summary: "Moondrop Katoは189USDのシングルダイナミックIEMです。優れた測定性能を持ちますが、より安価な競合や後継機の登場により、コストパフォーマンスと将来性は限定的です。"
 tags: [Moondrop, インイヤーモニター, イヤホン, ダイナミックドライバー, 中華イヤホン, ULT技術]
 permalink: /products/ja/moondrop-kato/

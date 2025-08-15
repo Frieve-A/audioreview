@@ -7,6 +7,7 @@ lang: ja
 ref: smsl-d400ex
 date: 2025-08-14
 rating: [3.9, 0.8, 0.7, 0.9, 0.7, 0.8]
+price: 144000
 summary: "デュアルAK4499EX＋AK4191構成のプレミアムDAC。公称THD+N 0.00006%・XLRダイナミックレンジ133dBの仕様と第三者計測での高性能、豊富な入出力（USB/光/同軸/BT/I2S/AES）を備え、価格は959.99 USD（公式）で同格最安級の代替と比べ良好なコスパです。"
 tags: [DAC, デスクトップDAC, ハイエンド, AKM, 中国, ハイレゾ]
 permalink: /products/ja/smsl-d400ex/

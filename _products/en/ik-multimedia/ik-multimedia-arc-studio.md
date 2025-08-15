@@ -7,6 +7,7 @@ lang: en
 ref: ik-multimedia-arc-studio
 date: 2025-08-09
 rating: [3.1, 0.8, 0.6, 0.3, 0.6, 0.8]
+price: 299
 summary: "IK Multimedia's ARC Studio is a room acoustic correction system that delivers practical effects in music production environments. Through VRM technology's 3D acoustic analysis and 21-point measurement, it provides scientifically valid correction. At USD 299.99, it offers a complete package of hardware, software, and measurement microphone with standalone operation capability. However, it has limitations as a pure acoustic correction technology, and the price-to-performance ratio receives a strict evaluation."
 tags: [Room Acoustic Correction, DSP, Music Production, Standalone, VRM Technology]
 permalink: /products/en/ik-multimedia-arc-studio/

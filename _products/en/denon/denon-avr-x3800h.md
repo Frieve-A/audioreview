@@ -7,6 +7,7 @@ lang: en
 ref: denon-avr-x3800h
 date: 2025-07-27
 rating: [3.8, 0.7, 0.7, 0.9, 0.7, 0.8]
+price: 1699
 summary: "A rationally designed AV receiver that offers 9.4ch Atmos support for around 1,699 USD. With good measurement performance, including a THD of 0.08% (2-ch driven), and abundant features, it delivers excellent cost-performance, though a key competitor is available for slightly less."
 tags: [8K Support, 9 Channel, AV Receiver, Dolby Atmos, Room correction]
 permalink: /products/en/denon-avr-x3800h/

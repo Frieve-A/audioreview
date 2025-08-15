@@ -7,6 +7,7 @@ lang: ja
 ref: rme-hdspe-aio-pro
 date: 2025-07-27
 rating: [4.0, 0.8, 0.7, 1.0, 0.8, 0.7]
+price: 99000
 summary: "RME HDSPe AIO Proは、AK5572/AK4490コンバーターとSteadyClock FS技術を搭載したプロフェッショナル向けPCIeオーディオインターフェースです。SN比115dB、THD -110dBという優秀な測定性能を実現しており、同等機能のFireface UCX IIが165,000 JPYで販売される中、99,000 JPYという価格設定は優れたコストパフォーマンスを提供しています。"
 tags: [オーディオインターフェース, PCIe, プロオーディオ, RME, デジタルオーディオ]
 permalink: /products/ja/rme-hdspe-aio-pro/

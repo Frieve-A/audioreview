@@ -7,6 +7,7 @@ lang: en
 ref: perlisten-audio-d215s
 date: 2025-08-07
 rating: [3.3, 0.8, 0.8, 0.2, 0.7, 0.8]
+price: 9995
 summary: "High-performance dual 15-inch subwoofer that achieved the world's first THX Dominus certification. Measurement performance is extremely excellent, but a significant premium of approximately 4.4 times the price compared to equivalent performance products is a challenge"
 tags: [Dual Driver, High-end, Push-Pull, Subwoofer, THX Certification]
 permalink: /products/en/perlisten-audio-d215s/

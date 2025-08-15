@@ -7,6 +7,7 @@ lang: ja
 ref: simgot-ea500
 date: 2025-07-07
 rating: [2.7, 0.7, 0.6, 0.4, 0.6, 0.4]
+price: 11850
 summary: "79USDで提供される10mm DLCダイナミックドライバー搭載のシングルドライバーIEM。デュアル磁気回路設計と交換可能ノズルによるチューニング機能を特徴とします。測定性能や技術的完成度は良好ですが、20USDのMoondrop Chuや同価格のTruthear Hexaと比較すると、圧倒的なコストパフォーマンス優位性は見出せません。"
 tags: [79USD, DLC, インイヤーモニター, ダイナミックドライバー, 中国]
 permalink: /products/ja/simgot-ea500/

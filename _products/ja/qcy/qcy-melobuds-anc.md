@@ -7,6 +7,7 @@ lang: ja
 ref: qcy-melobuds-anc
 date: 2025-08-01
 rating: [3.7, 0.6, 0.5, 1.0, 0.7, 0.9]
+price: 4000
 summary: "QCY MeloBuds ANCは40dBのハイブリッドANCと優れたコストパフォーマンスを実現するも、技術的な革新性に欠け、より高性能な後継機種の存在により相対的な魅力が低下。"
 tags: [Bluetooth 5.2, アクティブノイズキャンセリング, 10mmドライバー, ワイヤレスイヤホン]
 permalink: /products/ja/qcy-melobuds-anc/

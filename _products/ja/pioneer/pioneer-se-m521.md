@@ -7,6 +7,7 @@ lang: ja
 ref: pioneer-se-m521
 date: 2025-08-09
 rating: [2.7, 0.5, 0.2, 1.0, 0.5, 0.5]
+price: 2500
 summary: "40mmドライバーを搭載した密閉型ヘッドホン。低価格かつ低音重視の設計。公開測定データは限定的で、科学的確実性はポリシー上の起点0.5を維持。"
 tags: [コストパフォーマンス, パイオニア, ヘッドホン, 密閉型]
 permalink: /products/ja/pioneer-se-m521/

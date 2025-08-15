@@ -7,6 +7,7 @@ lang: ja
 ref: perlisten-audio-s7t
 date: 2025-08-07
 rating: [3.3, 0.7, 0.8, 0.5, 0.6, 0.7]
+price: 3249400
 summary: "高度なDPC技術を採用したPerlisten Audio S7tは、世界初のTHX Dominus認証を受けた先進的なタワースピーカーです。優秀な測定性能と革新的な設計を持つ一方で、同等性能の競合製品と比較したコストパフォーマンスに課題があります。"
 tags: [タワースピーカー, THX Dominus, DPC技術, ベリリウムツイーター, 4way]
 permalink: /products/ja/perlisten-audio-s7t/

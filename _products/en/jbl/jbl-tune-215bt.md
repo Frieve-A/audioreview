@@ -7,6 +7,7 @@ lang: en
 ref: jbl-tune-215bt
 date: 2025-08-09
 rating: [3.3, 0.5, 0.5, 1.0, 0.5, 0.8]
+price: 19
 summary: "Bluetooth 5.0 neckband earphones featuring 12.5mm drivers, multi‑point (2 devices), USB‑C charging, and up to 16‑hour battery life. Approximately 19 USD (based on current market price)."
 tags: [Bluetooth, Neckband, Earphones, JBL, Wireless]
 permalink: /products/en/jbl-tune-215bt/

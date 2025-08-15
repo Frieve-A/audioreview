@@ -7,6 +7,7 @@ lang: ja
 ref: smsl-do200pro
 date: 2025-08-05
 rating: [3.6, 0.9, 0.9, 0.5, 0.5, 0.8]
+price: 59850
 summary: "12基のCS43131 DACチップを搭載したSMSL DO200Proは、優れた測定性能を実現するデスクトップDAC。XLR 134dB、RCA 128dBのダイナミックレンジとTHD+N 0.00006%という透明レベルを大きく上回る音響性能を提供します。"
 tags: [DAC, プリアンプ, 据え置き, バランス出力, Bluetooth, HDMI ARC]
 permalink: /products/ja/smsl-do200pro/

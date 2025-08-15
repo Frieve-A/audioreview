@@ -7,6 +7,7 @@ lang: en
 ref: ik-multimedia-z-tone-di
 date: 2025-08-02
 rating: [4.1, 0.9, 0.8, 1.0, 0.6, 0.8]
+price: 149
 summary: "A professional active DI box featuring variable impedance control and a JFET preamp. It boasts excellent measured performance and a unique feature set, offering outstanding cost-performance for its capabilities."
 tags: [DI Box, Preamplifier, Musical Instruments, Pro Audio, Active]
 permalink: /products/en/ik-multimedia-z-tone-di/

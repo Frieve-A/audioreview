@@ -7,6 +7,7 @@ lang: ja
 ref: smsl-da-9
 date: 2025-08-01
 rating: [3.3, 0.8, 0.7, 0.6, 0.6, 0.6]
+price: 37500
 summary: "SMSL DA-9は優れた測定性能を持つBluetooth対応Class Dアンプですが、現在は製造終了しており、より安価で高性能な代替品が存在するため、コストパフォーマンスで見劣りします。"
 tags: [Bluetooth, D級, SMSL, パワーアンプ, 廃盤]
 permalink: /products/ja/smsl-da-9/

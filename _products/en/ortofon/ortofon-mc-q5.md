@@ -7,6 +7,7 @@ lang: en
 ref: ortofon-mc-q5
 date: 2025-07-12
 rating: [2.3, 0.2, 0.2, 1.0, 0.7, 0.2]
+price: 310
 summary: "The Ortofon MC Q5 is a technically competent analog cartridge that achieves nearly equivalent cost-performance to the Audio-Technica AT-OC9XEB. While appropriately priced as an entry-class MC cartridge, its scientific validity is limited due to the inherent physical constraints of analog reproduction."
 tags: [Analog, Cartridges, MC-Type, Ortofon]
 permalink: /products/en/ortofon-mc-q5/

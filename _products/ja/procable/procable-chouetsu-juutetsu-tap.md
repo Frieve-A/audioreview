@@ -7,6 +7,7 @@ lang: ja
 ref: procable-chouetsu-juutetsu-tap
 date: 2025-07-26
 rating: [1.2, 0.2, 0.3, 0.1, 0.5, 0.1]
+price: 18800
 summary: "重鉄製筐体を採用した日本のオーディオ用電源タップだが、科学的根拠に乏しく、設計思想の合理性も低い高価格な製品"
 tags: [procable, オーディオアクセサリー, 日本, 電源タップ]
 permalink: /products/ja/procable-chouetsu-juutetsu-tap/

@@ -7,6 +7,7 @@ lang: en
 ref: denon-pma-900hne
 date: 2025-08-04
 rating: [3.9, 0.7, 0.7, 1.0, 0.8, 0.7]
+price: 1049
 summary: "Mid-class integrated amplifier with built-in HEOS networking functionality. Acceptable measurement performance and excellent cost-performance due to world's lowest price for equivalent functionality"
 tags: [HEOS, Integrated amplifier, MM/MC Phono, Network audio, Streaming]
 permalink: /products/en/denon-pma-900hne/

@@ -7,6 +7,7 @@ lang: ja
 ref: sony-xba-n3
 date: 2025-07-25
 rating: [2.1, 0.6, 0.5, 0.1, 0.6, 0.3]
+price: 40000
 summary: "ハイブリッドドライバー構成を採用するも、生産終了品となった現在ではコストパフォーマンスに大きな課題を抱える製品"
 tags: [イヤホン, ソニー, ハイブリッド, ハイレゾ]
 permalink: /products/ja/sony-xba-n3/

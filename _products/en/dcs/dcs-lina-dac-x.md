@@ -7,6 +7,7 @@ lang: en
 ref: dcs-lina-dac-x
 date: 2025-07-25
 rating: [3.1, 0.9, 0.8, 0.1, 0.7, 0.6]
+price: 15500
 summary: "dCS's latest network streamer DAC. It achieves excellent measurement performance with its Ring DAC, but faces extreme challenges in cost-performance as equivalent functionality can be achieved at a much lower cost with generic components."
 tags: [DAC, High-end, Network streamer, dCS]
 permalink: /products/en/dcs-lina-dac-x/

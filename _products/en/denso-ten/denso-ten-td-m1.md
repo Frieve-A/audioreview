@@ -7,6 +7,7 @@ lang: en
 ref: denso-ten-td-m1
 date: 2025-08-07
 rating: [2.2, 0.5, 0.4, 0.7, 0.2, 0.4]
+price: 999
 summary: "A wireless desktop speaker discontinued in 2016. While it features a unique single-driver design, it lacks technical superiority compared to current products, and its pricing in the hard-to-find used market is not reasonable."
 tags: [Desktop, Discontinued Product, Single Driver, Wireless Speaker]
 permalink: /products/en/denso-ten-td-m1/

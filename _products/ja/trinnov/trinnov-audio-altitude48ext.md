@@ -7,6 +7,7 @@ lang: ja
 ref: trinnov-audio-altitude48ext
 date: 2025-07-14
 rating: [4.1, 0.5, 0.9, 1.0, 0.9, 0.8]
+price: 5175000
 summary: "最大64チャンネル処理を実現する技術的に最高水準のAVプロセッサー。競合が存在しないため、その独自の価値からコストパフォーマンスは最高評価となる。"
 tags: [Trinnov, シアター, プロセッサー, 高級]
 permalink: /products/ja/trinnov-audio-altitude48ext/

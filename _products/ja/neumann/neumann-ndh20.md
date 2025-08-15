@@ -7,6 +7,7 @@ lang: ja
 ref: neumann-ndh20
 date: 2025-07-24
 rating: [2.6, 0.6, 0.8, 0.2, 0.5, 0.5]
+price: 97350
 summary: "Neumannブランドを冠したクローズドバック・スタジオヘッドホンだが、測定性能と価格の観点から現代的な選択肢とは言い難い製品"
 tags: [クローズドバック, スタジオモニター, ドイツ, ヘッドホン]
 permalink: /products/ja/neumann-ndh20/

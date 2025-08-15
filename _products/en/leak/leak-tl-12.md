@@ -7,6 +7,7 @@ lang: en
 ref: leak-tl-12
 date: 2025-07-29
 rating: [0.7, 0.1, 0.2, 0.1, 0.1, 0.2]
+price: 1333
 summary: "A historic tube amplifier from 1948. While groundbreaking for its time, its performance is significantly inferior by modern measurement standards, and it cannot be recommended over modern amplifiers in terms of cost, performance, or rationality."
 tags: [KT66, Power amplifier, Push-Pull, Tube Amplifier, Vintage]
 permalink: /products/en/leak-tl-12/

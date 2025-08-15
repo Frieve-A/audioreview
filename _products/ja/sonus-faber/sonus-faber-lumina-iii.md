@@ -7,6 +7,7 @@ lang: ja
 ref: sonus-faber-lumina-iii
 date: 2025-08-01
 rating: [3.1, 0.6, 0.6, 0.4, 0.8, 0.7]
+price: 368500
 summary: "イタリアンクラフトマンシップを謳うフロアスタンディングスピーカーだが、測定性能と価格の関係に課題を抱える製品"
 tags: [フロアスタンディングスピーカー, 3ウェイ, イタリア, Sonus Faber]
 permalink: /products/ja/sonus-faber-lumina-iii/

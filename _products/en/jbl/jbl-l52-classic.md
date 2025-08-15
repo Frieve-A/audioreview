@@ -7,6 +7,7 @@ lang: en
 ref: jbl-l52-classic
 date: 2025-07-31
 rating: [2.1, 0.3, 0.4, 0.3, 0.7, 0.4]
+price: 653
 summary: "Compact bookshelf speaker prioritizing retro design. Challenges in measurement performance and price competitiveness, with alternatives offering equivalent performance at a significantly lower cost."
 tags: [2-Way, Bookshelf speakers, Passive speakers, Retro Design]
 permalink: /products/en/jbl-l52-classic/

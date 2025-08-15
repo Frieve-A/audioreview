@@ -7,6 +7,7 @@ lang: ja
 ref: sivga-p2-pro
 date: 2025-07-25
 rating: [3.0, 0.6, 0.8, 0.4, 0.5, 0.7]
+price: 79800
 summary: "サファイア振動板を採用した革新的な平面磁気駆動型ヘッドホンですが、コストパフォーマンスの面で課題があります"
 tags: [オープンバック, サファイア振動板, ヘッドホン, 平面磁気駆動型, 木製筐体]
 permalink: /products/ja/sivga-p2-pro/

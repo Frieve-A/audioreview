@@ -7,6 +7,7 @@ lang: ja
 ref: kef-q1-meta
 date: 2025-08-11
 rating: [3.8, 0.6, 0.8, 0.7, 0.8, 0.9]
+price: 104999
 summary: "KEF の先進的なUni-Q とMAT 技術を搭載したエントリーレベルのブックシェルフスピーカー"
 tags: [MAT, Uni-Q, エントリークラス, スピーカー, ブックシェルフ]
 permalink: /products/ja/kef-q1-meta/

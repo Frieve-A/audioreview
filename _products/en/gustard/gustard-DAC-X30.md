@@ -7,6 +7,7 @@ lang: en
 ref: gustard-DAC-X30
 date: 2025-07-26
 rating: [3.4, 0.9, 0.8, 0.3, 0.7, 0.7]
+price: 3000
 summary: "High-performance network streaming DAC featuring four ES9039SPRO chips. Measurement performance reaches transparent levels, with low cost-performance evaluation compared to EverSolo DMP-A6 (859 USD)."
 tags: [DAC, Streaming, ES9039SPRO, Network, Hi-Res]
 permalink: /products/en/gustard-DAC-X30/

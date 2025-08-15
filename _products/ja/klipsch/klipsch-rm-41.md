@@ -7,6 +7,7 @@ lang: ja
 ref: klipsch-r-41m
 date: 2025-07-24
 rating: [2.6, 0.6, 0.5, 0.3, 0.6, 0.6]
+price: 47000
 summary: "Klipsch独自のTractrixホーン技術を採用したコンパクトなブックシェルフスピーカー。高感度設計により少ない電力で大音量を実現するが、測定性能には改善の余地があり、大幅に安価な競合製品の存在により価格競争力に欠ける。"
 tags: [スピーカー, ブックシェルフ, ホーン型, 高感度]
 permalink: /products/ja/klipsch-r-41m/

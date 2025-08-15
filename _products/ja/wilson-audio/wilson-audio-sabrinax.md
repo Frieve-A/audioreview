@@ -7,6 +7,7 @@ lang: ja
 ref: wilson-audio-sabrinax
 date: 2025-08-08
 rating: [3.5, 0.8, 0.8, 0.3, 0.8, 0.8]
+price: 18500
 summary: "Wilson Audio SabrinaXは同社の50年の技術を投入した3ウェイフロアスタンディングスピーカーですが、同等性能の製品がより安価で入手可能なため、コストパフォーマンス面で改善余地があります。"
 tags: [スピーカー, フロアスタンディング, ハイエンド, Wilson Audio, 3ウェイ]
 permalink: /products/ja/wilson-audio-sabrinax/

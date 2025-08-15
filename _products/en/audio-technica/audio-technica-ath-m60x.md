@@ -7,6 +7,7 @@ lang: en
 ref: audio-technica-ath-m60x
 date: 2025-08-02
 rating: [2.6, 0.3, 0.5, 0.7, 0.7, 0.4]
+price: 169
 summary: "The ATH-M60X is an on-ear professional monitor headphone featuring the company's 45mm driver, but exhibits significant frequency response issues with a prominent peak around 2kHz and dips at 700Hz and 3kHz. At 169 USD, competing products with equivalent or superior performance are available at a lower price, resulting in a challenging cost-performance position."
 tags: [Headphones, On-ear, Monitor, Audio-Technica]
 permalink: /products/en/audio-technica-ath-m60x/

@@ -7,6 +7,7 @@ lang: ja
 ref: kz-decet
 date: 2025-07-27
 rating: [2.4, 0.5, 0.6, 0.4, 0.3, 0.6]
+price: 4750
 summary: "片側5基の10ドライバー構成を特徴とするが、独立測定データがなく性能は未知数。信頼性にも懸念があるため限定的な評価となる。"
 tags: [KZ, イヤホン, インイヤーモニター, マルチドライバー, 中華イヤホン]
 permalink: /products/ja/kz-decet/

@@ -7,6 +7,7 @@ lang: ja
 ref: presonus-quantum-es2
 date: 2025-07-31
 rating: [3.4, 0.8, 0.5, 0.8, 0.7, 0.6]
+price: 37350
 summary: "クラスをリードするダイナミックレンジを持つ2x2 USB-Cオーディオインターフェース。優れた音質を実現するが、機能面では標準的。"
 tags: [オーディオインターフェース, USB-C, 2x2, PreSonus, 録音機器]
 permalink: /products/ja/presonus-quantum-es2/

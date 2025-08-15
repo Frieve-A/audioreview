@@ -7,6 +7,7 @@ lang: en
 ref: fosi-audio-ds2
 date: 2025-07-08
 rating: [3.7, 0.8, 0.7, 0.5, 0.9, 0.8]
+price: 60
 summary: "Portable USB DAC/amp with dual CS43131 chips. Excellent measurement specs and reasonable pricing, but faces tough competition from competitive products"
 tags: [Balanced output, CS43131, Portable amplifier, USB DAC]
 permalink: /products/en/fosi-audio-ds2/

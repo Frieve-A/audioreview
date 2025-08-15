@@ -7,6 +7,7 @@ lang: ja
 ref: polk-audio-mxt12
 date: 2025-07-23
 rating: [2.4, 0.4, 0.3, 0.6, 0.6, 0.5]
+price: 47840
 summary: "Polk Audio Monitor XT12は、12インチドライバーを搭載したサブウーファーです。しかし、公表されている性能は限定的で、同価格帯にはより高性能な代替品が存在するため、コストパフォーマンスに課題があります。"
 tags: [サブウーファー, ホームシアター, Polk Audio, 12インチ, Class A/B]
 permalink: /products/ja/polk-audio-mxt12/

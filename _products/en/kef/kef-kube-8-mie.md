@@ -7,6 +7,7 @@ lang: en
 ref: kef-kube-8-mie
 date: 2025-08-12
 rating: [3.3, 0.5, 0.6, 0.9, 0.6, 0.7]
+price: 699.99
 summary: "Compact 8-inch sealed subwoofer with Music Integrity Engine technology offering accurate bass reproduction in smaller spaces"
 tags: [Subwoofer, Sealed, Compact, DSP, KEF]
 permalink: /products/en/kef-kube-8-mie/

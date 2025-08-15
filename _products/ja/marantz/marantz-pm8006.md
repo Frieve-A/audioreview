@@ -7,6 +7,7 @@ lang: ja
 ref: marantz-pm8006
 date: 2025-08-11
 rating: [3.4, 0.6, 0.6, 0.8, 0.7, 0.7]
+price: 179850
 summary: "70W/chの明確な公式仕様を備える統合アンプ。米国の実勢価格を基準に同世代機と比較しても妥当"
 tags: [HDAM, インテグレーテッドアンプ, カレントフィードバック, マランツ]
 permalink: /products/ja/marantz-pm8006/

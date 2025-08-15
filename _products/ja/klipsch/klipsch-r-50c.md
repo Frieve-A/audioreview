@@ -7,6 +7,7 @@ lang: ja
 ref: klipsch-r-50c
 date: 2025-07-29
 rating: [3.2, 0.5, 0.5, 0.8, 0.7, 0.7]
+price: 52800
 summary: "Klipsch R-50Cは、Tractrixホーン技術による高い感度が特徴のセンタースピーカーです。しかし、より安価で周波数特性に優れる競合製品が存在するため、コストパフォーマンスに深刻な課題を抱えています。"
 tags: [センターチャンネル, ホームシアター, ホーン型, 中価格帯]
 permalink: /products/ja/klipsch-r-50c/

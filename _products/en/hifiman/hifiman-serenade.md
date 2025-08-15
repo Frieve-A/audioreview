@@ -7,6 +7,7 @@ lang: en
 ref: hifiman-serenade
 date: 2025-07-27
 rating: [3.7, 0.9, 0.8, 0.6, 0.6, 0.8]
+price: 1149
 summary: "The HiFiMan Serenade is a feature-rich desktop DAC/amp with a Himalaya PRO R2R DAC and Class A amplifier, but its cost-performance is challenged by the availability of less expensive alternative setups."
 tags: [Class A, DAC, Desktop, Headphone amplifier, R2R]
 permalink: /products/en/hifiman-serenade/

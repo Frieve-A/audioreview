@@ -7,6 +7,7 @@ lang: ja
 ref: sennheiser-ie-900
 date: 2025-08-07
 rating: [3.1, 0.8, 0.7, 0.3, 0.6, 0.7]
+price: 149900
 summary: "フラッグシップIEMとしての測定性能は優秀ですが、コストパフォーマンスに課題を抱える製品です。"
 tags: [インイヤーモニター, ダイナミックドライバー, フラッグシップ]
 permalink: /products/ja/sennheiser-ie-900/

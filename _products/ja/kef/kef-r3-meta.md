@@ -7,6 +7,7 @@ lang: ja
 ref: kef-r3-meta
 date: 2025-07-18
 rating: [4.2, 0.8, 0.8, 1.0, 0.8, 0.8]
+price: 350000
 summary: "KEF R3 Metaは優れた技術とMATテクノロジーを搭載した3ウェイブックシェルフスピーカーで、同等性能の競合製品と比較して適正な価格設定となっており、総合的に高い評価を得ている"
 tags: [3ウェイ, Bookshelf, MAT, Passive, Uni-Q]
 permalink: /products/ja/kef-r3-meta/

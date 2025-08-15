@@ -7,6 +7,7 @@ lang: ja
 ref: sennheiser-hd-660s2
 date: 2025-07-21
 rating: [3.5, 0.7, 0.8, 0.3, 0.9, 0.8]
+price: 90000
 summary: "HD 660Sの正統進化モデル。技術的改良は評価できるが、同等性能のHD 6XXが199ドルで入手可能なため、600ドルという価格設定は割高"
 tags: [Sennheiser, ヘッドホン, 開放型, 高インピーダンス]
 permalink: /products/ja/sennheiser-hd-660s2/

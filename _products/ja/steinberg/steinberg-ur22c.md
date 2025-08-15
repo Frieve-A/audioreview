@@ -7,6 +7,7 @@ lang: ja
 ref: steinberg-ur22c
 date: 2025-07-27
 rating: [3.9, 0.6, 0.7, 1.0, 0.8, 0.8]
+price: 23500
 summary: "32bit/192kHz対応のUSB 3.0オーディオインターフェイス。D-PREクラスAマイクプリアンプと低遅延DSPエフェクトを搭載し、独自の機能性で高いコストパフォーマンスを実現。"
 tags: [32bit, Cubase, DSP, USB-C, オーディオインターフェース]
 permalink: /products/ja/steinberg-ur22c/

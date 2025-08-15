@@ -7,6 +7,7 @@ lang: ja
 ref: jbl-hdi-3800
 date: 2025-07-30
 rating: [3.3, 0.7, 0.8, 0.4, 0.6, 0.8]
+price: 660000
 summary: "HDIシリーズのフラッグシップフロア型スピーカーとして高度なウェーブガイド技術を搭載するが、コストパフォーマンスに課題"
 tags: [HDI, JBL, フロアスタンディングスピーカー, ホーン型ツイーター, 高感度]
 permalink: /products/ja/jbl-hdi-3800/

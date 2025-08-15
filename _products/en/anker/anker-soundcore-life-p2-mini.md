@@ -7,6 +7,7 @@ lang: en
 ref: anker-soundcore-life-p2-mini
 date: 2025-07-19
 rating: [2.5, 0.3, 0.4, 0.9, 0.6, 0.3]
+price: 30
 summary: "As a budget wireless earphone priced at 30 USD, it provides basic functionality but offers limited scientific validity in terms of audio quality"
 tags: [Bluetooth, Budget, IPX5, Wireless earphones]
 permalink: /products/en/anker-soundcore-life-p2-mini/

@@ -7,6 +7,7 @@ lang: en
 ref: krk-vxt6
 date: 2025-08-08
 rating: [2.1, 0.5, 0.6, 0.3, 0.2, 0.5]
+price: 450
 summary: "The KRK VXT6 was a 6-inch 2-way studio monitor that is now discontinued, receiving a low overall rating due to reports of RF interference susceptibility and poor cost-performance considerations."
 tags: [Active, KRK, Nearfield, Studio monitors]
 permalink: /products/en/krk-vxt6/

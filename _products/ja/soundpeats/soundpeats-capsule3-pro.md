@@ -7,6 +7,7 @@ lang: ja
 ref: soundpeats-capsule3-pro
 date: 2025-07-15
 rating: [2.9, 0.6, 0.7, 1.0, 0.3, 0.3]
+price: 8490
 summary: "SOUNDPEATS Capsule3 Proは1万円以下の価格帯でハイブリッドANCとLDAC対応を実現したワイヤレスイヤホン。優れたコストパフォーマンスを誇るが、周波数特性の問題と低いS/N比により音質面で課題がある。"
 tags: [Bluetooth5.3, LDAC, アクティブノイズキャンセリング, ワイヤレスイヤホン]
 permalink: /products/ja/soundpeats-capsule3-pro/

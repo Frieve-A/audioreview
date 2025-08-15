@@ -7,6 +7,7 @@ lang: en
 ref: denon-pma-2500ne
 date: 2025-08-05
 rating: [2.9, 0.3, 0.6, 0.8, 0.6, 0.6]
+price: 1400
 summary: "A heavyweight integrated amplifier manufactured at the Shirakawa factory, with advanced features but notable discrepancies in S/N ratio measurements, and moderate cost-performance when considering alternative combinations"
 tags: [Integrated amplifier, Japan, Phono Input, USB DAC]
 permalink: /products/en/denon-pma-2500ne/

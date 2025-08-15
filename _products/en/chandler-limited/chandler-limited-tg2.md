@@ -7,6 +7,7 @@ lang: en
 ref: chandler-limited-tg2
 date: 2025-08-09
 rating: [2.5, 0.5, 0.7, 0.3, 0.5, 0.5]
+price: 3200
 summary: "2-channel microphone preamp faithfully recreating the EMI TG12428 preamp. While it delivers the vintage Abbey Road sound, it lags modern benchmarks in transparency and price efficiency"
 tags: [Microphone Preamp, Vintage, EMI, Abbey Road, Pro Audio]
 permalink: /products/en/chandler-limited-tg2/

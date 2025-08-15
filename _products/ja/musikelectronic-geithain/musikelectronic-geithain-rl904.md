@@ -7,6 +7,7 @@ lang: ja
 ref: musikelectronic-geithain-rl904
 date: 2025-08-02
 rating: [3.2, 0.5, 0.8, 0.4, 0.7, 0.8]
+price: 1196800
 summary: "ドイツのメーカーが手がける同軸スタジオモニター。基本設計は堅実だが、独立した測定データが不足しており、コストパフォーマンスに著しい課題がある。"
 tags: [Coaxial, German Engineering, Professional Audio, アクティブスピーカー, スタジオモニター]
 permalink: /products/ja/musikelectronic-geithain-rl904/

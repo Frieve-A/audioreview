@@ -7,6 +7,7 @@ lang: en
 ref: diatone-sw-g50
 date: 2025-08-09
 rating: [3.0, 0.5, 0.6, 0.9, 0.5, 0.5]
+price: 367
 summary: "Car audio subwoofer from Mitsubishi Electric. It features an NCV diaphragm and a powerful magnetic circuit, but limited published objective measurements constrain its overall competitiveness"
 tags: [Subwoofer, Car Audio, Diatone, Mitsubishi]
 permalink: /products/en/diatone-sw-g50/

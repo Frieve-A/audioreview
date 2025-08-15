@@ -7,6 +7,7 @@ lang: ja
 ref: radial-engineering-jd7
 date: 2025-08-08
 rating: [3.8, 0.8, 0.6, 1.0, 0.7, 0.7]
+price: 204000
 summary: "プロ用ギター信号分配アンプ。Jensen トランスを使用したクラスA設計により7台のアンプを同時駆動可能。"
 tags: [Signal Distribution, DI Box, Guitar Equipment, Professional Audio]
 permalink: /products/ja/radial-engineering-jd7/

@@ -7,6 +7,7 @@ lang: ja
 ref: ssl-e-series-eq-module
 date: 2025-08-09
 rating: [3.6, 0.5, 0.7, 0.9, 0.7, 0.8]
+price: 105000
 summary: "1980年代SSL 4000 Eコンソールの伝説的なEQを500シリーズに移植したパラメトリックイコライザー。Brown/Black両EQタイプを搭載するも、現代基準では限定的な透明性と高価格が課題。"
 tags: [SSL, EQ, 500シリーズ, パラメトリック, アナログ]
 permalink: /products/ja/ssl-e-series-eq-module/

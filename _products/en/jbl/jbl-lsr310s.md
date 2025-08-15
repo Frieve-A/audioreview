@@ -7,6 +7,7 @@ lang: en
 ref: jbl-lsr310s
 date: 2025-07-23
 rating: [3.8, 0.5, 0.7, 1.0, 0.8, 0.8]
+price: 265
 summary: "JBL studio subwoofer featuring a 200W Class D amplifier and a 10-inch driver, achieving low-frequency extension down to 27Hz."
 tags: [Studio Subwoofer, JBL, Monitor Speaker, Nearfield]
 permalink: /products/en/jbl-lsr310s/

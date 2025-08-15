@@ -7,6 +7,7 @@ lang: en
 ref: eve-audio-sc204
 date: 2025-07-30
 rating: [3.4, 0.7, 0.8, 0.5, 0.6, 0.8]
+price: 698
 summary: "A 4-inch active studio monitor from the German manufacturer EVE Audio. It delivers high-quality sound with its AMT and SilverCone technologies, but its cost-performance is average due to the existence of competing products with comparable or better performance."
 tags: [Active speakers, Desktop Monitor, Nearfield Monitor, Studio monitors]
 permalink: /products/en/eve-audio-sc204/

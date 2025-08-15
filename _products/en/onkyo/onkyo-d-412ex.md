@@ -7,6 +7,7 @@ lang: en
 ref: onkyo-d-412ex
 date: 2025-08-05
 rating: [2.7, 0.5, 0.6, 0.5, 0.6, 0.5]
+price: 533
 summary: "A 2-way bookshelf speaker featuring A-OMF diaphragm technology. Supports bi-wiring, but faces cost-performance challenges compared to competing products in the same price range."
 tags: [Bookshelf, Passive, 2-Way, Bi-wiring, Onkyo]
 permalink: /products/en/onkyo-d-412ex/

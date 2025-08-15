@@ -7,6 +7,7 @@ lang: en
 ref: adam-audio-t8v
 date: 2025-08-09
 rating: [3.5, 0.7, 0.6, 0.8, 0.7, 0.7]
+price: 299
 summary: "The ADAM Audio T8V features an 8-inch woofer and U-ART ribbon tweeter, achieving 33Hz-25kHz frequency response and 118dB maximum output. At 299 USD, it delivers professional-level performance."
 tags: [StudioMonitor, Adam, NearfieldMonitor, RibbonTweeter, 8inch]
 permalink: /products/en/adam-audio-t8v/

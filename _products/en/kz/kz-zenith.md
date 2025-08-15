@@ -7,6 +7,7 @@ lang: en
 ref: kz-zenith
 date: 2025-07-27
 rating: [2.8, 0.6, 0.5, 0.7, 0.5, 0.5]
+price: 55
 summary: "The Zenith, launched as KZ's 12th anniversary flagship, is a single dynamic driver IEM featuring Driver X technology. Its measurement performance is average, with limited scientific validity in its price segment."
 tags: [Driver X, Dynamic, In-ear monitors, KZ, Single Driver]
 permalink: /products/en/kz-zenith/

@@ -7,6 +7,7 @@ lang: ja
 ref: sennheiser-momentum-3-wireless
 date: 2025-08-09
 rating: [3.2, 0.7, 0.6, 0.3, 0.8, 0.8]
+price: 45000
 summary: "42mmドライバーとノイズキャンセリングを搭載したワイヤレスヘッドホン。測定性能は中級レベルで技術水準は標準的だが、同等機能製品の3倍の価格でコストパフォーマンスは低い"
 tags: [ワイヤレスヘッドホン, ノイズキャンセリング, Bluetooth, オーバーイヤー]
 permalink: /products/ja/sennheiser-momentum-3-wireless/

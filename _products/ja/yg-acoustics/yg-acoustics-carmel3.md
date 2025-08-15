@@ -7,6 +7,7 @@ lang: ja
 ref: yg-acoustics-carmel3
 date: 2025-08-08
 rating: [2.6, 0.5, 0.8, 0.1, 0.7, 0.5]
+price: 4500000
 summary: "YG Acoustics Carmel3は4,500,000円の2ウェイフロアスタンディングスピーカーですが、SVS Prime Pinnacle（約300,000円）のような優秀な代替品が存在するため、コストパフォーマンスに問題があります。"
 tags: [スピーカー, フロアスタンディング, ハイエンド, YG Acoustics]
 permalink: /products/ja/yg-acoustics-carmel3/

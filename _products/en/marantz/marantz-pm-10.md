@@ -7,6 +7,7 @@ lang: en
 ref: marantz-pm-10
 date: 2025-07-26
 rating: [3.0, 0.8, 0.6, 0.3, 0.7, 0.6]
+price: 8000
 summary: "Marantz's first reference-grade Class D amplifier. Achieves transparent-level measurement performance but suffers from critical cost-performance issues."
 tags: [Class D, High-end, Integrated amplifier, Reference]
 permalink: /products/en/marantz-pm-10/

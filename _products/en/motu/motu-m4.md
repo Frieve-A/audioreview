@@ -7,6 +7,7 @@ lang: en
 ref: motu-m4
 date: 2025-08-11
 rating: [4.1, 0.8, 0.8, 1.0, 0.6, 0.9]
+price: 270
 summary: "Entry-level 4x4 USB-C audio interface delivering exceptional measured performance through ESS Sabre32 Ultra DACs, comprehensive LCD metering, and ultra-low latency operation at competitive pricing."
 tags: [Audio interface, ESS Sabre, MIDI, Recording, USB-C]
 permalink: /products/en/motu-m4/

@@ -7,6 +7,7 @@ lang: en
 ref: bqeyz-winter
 date: 2025-07-29
 rating: [3.0, 0.5, 0.6, 0.2, 0.8, 0.9]
+price: 222
 summary: "A hybrid in-ear monitor featuring bone conduction technology. While the unique design philosophy is commendable, the product faces challenges in cost-performance."
 tags: [Bone conduction, Chinese IEM, Dynamic driver, Hybrid Driver, In-ear monitors]
 permalink: /products/en/bqeyz-winter/

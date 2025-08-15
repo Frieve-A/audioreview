@@ -7,6 +7,7 @@ lang: en
 ref: audio-technica-ath-m40x
 date: 2025-07-20
 rating: [2.7, 0.6, 0.4, 0.6, 0.6, 0.5]
+price: 94
 summary: "Designed as studio monitor headphones, but it faces cost-performance challenges as there are more affordable alternatives with equivalent performance in the current market."
 tags: [Audio-Technica, Closed-back, Headphones, Studio monitors]
 permalink: /products/en/audio-technica-ath-m40x/

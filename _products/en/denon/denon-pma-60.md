@@ -7,6 +7,7 @@ lang: en
 ref: denon-pma-60
 date: 2025-08-13
 rating: [2.6, 0.5, 0.6, 0.5, 0.5, 0.5]
+price: 599
 summary: "Compact Class-D integrated amplifier with solid published specs but discontinued status and middling value versus current all-in-one competitors"
 tags: [Bluetooth, Class D, DAC, Denon, Integrated-Amplifier]
 permalink: /products/en/denon-pma-60/

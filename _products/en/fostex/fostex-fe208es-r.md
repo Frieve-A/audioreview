@@ -7,6 +7,7 @@ lang: en
 ref: fostex-fe208es-r
 date: 2025-08-04
 rating: [2.0, 0.3, 0.6, 0.3, 0.4, 0.4]
+price: 833
 summary: "8-inch full-range driver released as limited edition in 2007. Despite Alnico magnet adoption, scientific validity and cost-performance suffer from 3.7kHz breakup and inflated used market prices"
 tags: [Alnico Magnet, Driver, Full-range, Limited edition]
 permalink: /products/en/fostex-fe208es-r/

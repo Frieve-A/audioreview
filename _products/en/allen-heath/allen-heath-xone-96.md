@@ -7,6 +7,7 @@ lang: en
 ref: allen-heath-xone-96
 date: 2025-07-26
 rating: [4.1, 0.8, 0.7, 1.0, 0.8, 0.8]
+price: 2200
 summary: "Professional 6+2 channel analog DJ mixer. Excellent measured performance and traditional Xone sound heritage, with great cost-performance in its class."
 tags: [Analog, Club Use, DJ Equipment, Mixers, Professional]
 permalink: /products/en/allen-heath-xone-96/

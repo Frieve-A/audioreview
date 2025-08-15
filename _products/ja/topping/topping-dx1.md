@@ -7,6 +7,7 @@ lang: ja
 ref: topping-dx1
 date: 2025-07-29
 rating: [4.0, 0.8, 0.7, 1.0, 0.7, 0.8]
+price: 14850
 summary: "AK4493S DACチップを搭載したエントリークラスのDAC/ヘッドホンアンプ。99 USDの価格でTHD+N 0.0002%以下、SNR 120dBという透明レベルの測定性能を実現し、この価格帯で最高のコストパフォーマンスを提供する。"
 tags: [DAC, ヘッドホンアンプ, デスクトップオーディオ, エントリークラス, USB DAC]
 permalink: /products/ja/topping-dx1/

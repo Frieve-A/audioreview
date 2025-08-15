@@ -7,6 +7,7 @@ lang: ja
 ref: sabaj-a20d
 date: 2025-08-10
 rating: [4.0, 0.9, 0.8, 0.7, 0.6, 1.0]
+price: 63000
 summary: "AK4499EXチップを搭載し約120dB SINADのリファレンス級測定性能を達成するデスクトップDAC・ヘッドホンアンプ。299 USD級のバランスDAC/AMPに対しても一定の価値を示します。"
 tags: [DAC, ヘッドホンアンプ, デスクトップ, USB, Bluetooth, MQA, DSD]
 permalink: /products/ja/sabaj-a20d/

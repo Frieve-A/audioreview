@@ -7,6 +7,7 @@ lang: ja
 ref: jbl-stage-a170
 date: 2025-08-13
 rating: [3.3, 0.6, 0.4, 0.9, 0.8, 0.6]
+price: 74999
 summary: "誠実な仕様と良好な測定性能を持つフロアスタンディングスピーカーですが、同価格帯の優秀なブックシェルフ製品との激しい競争に直面しています"
 tags: [Floorstanding, JBL, コストパフォーマンス, スピーカー]
 permalink: /products/ja/jbl-stage-a170/

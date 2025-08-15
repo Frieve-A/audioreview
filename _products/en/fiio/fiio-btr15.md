@@ -7,6 +7,7 @@ lang: en
 ref: fiio-btr15
 date: 2025-08-02
 rating: [4.1, 0.9, 0.8, 0.9, 0.7, 0.8]
+price: 109
 summary: "A Bluetooth DAC/amplifier with transparent-level measurement performance. A comparison with the most affordable products offering equivalent functionality reveals good cost-performance."
 tags: [Amplifiers, Bluetooth, DAC, FiiO, Portable]
 permalink: /products/en/fiio-btr15/

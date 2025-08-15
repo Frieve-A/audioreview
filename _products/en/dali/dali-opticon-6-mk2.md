@@ -7,6 +7,7 @@ lang: en
 ref: dali-opticon-6-mk2
 date: 2025-08-11
 rating: [2.5, 0.6, 0.5, 0.4, 0.5, 0.5]
+price: 1599
 summary: "Mid-tier floorstanding speakers with hybrid tweeter technology delivering decent measured performance but facing strong competition from significantly cheaper alternatives with equivalent functionality."
 tags: [3-Way, Floorstanding speakers, Hybrid Tweeter, Reflex Port, SMC Technology]
 permalink: /products/en/dali-opticon-6-mk2/

@@ -7,6 +7,7 @@ lang: ja
 ref: ik-multimedia-iloud-mtm-mkii
 date: 2025-07-31
 rating: [3.7, 0.7, 0.7, 0.9, 0.5, 0.9]
+price: 120000
 summary: "コンパクトサイズに先進的なARC自動校正システムを内蔵したアクティブスタジオモニター。優れた測定性能と革新的な技術により、小型スタジオに理想的なソリューションを提供します。"
 tags: [スタジオモニター, アクティブスピーカー, ルーム補正, MTM, コンパクト]
 permalink: /products/ja/ik-multimedia-iloud-mtm-mkii/

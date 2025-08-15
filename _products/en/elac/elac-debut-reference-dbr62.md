@@ -7,6 +7,7 @@ lang: en
 ref: elac-debut-reference-dbr62
 date: 2025-08-04
 rating: [3.8, 0.8, 0.7, 0.7, 0.8, 0.8]
+price: 480
 summary: "6.5-inch 2-way bookshelf speaker designed by Andrew Jones. Features aramid fiber woofer and silk dome tweeter for neutral sound quality, but faces cost-performance challenges compared to competing products with equivalent performance."
 tags: [2-Way, Andrew Jones, Aramid Fiber, Bookshelf speakers, ELAC]
 permalink: /products/en/elac-debut-reference-dbr62/

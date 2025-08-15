@@ -7,6 +7,7 @@ lang: en
 ref: denon-sc-m41
 date: 2025-07-25
 rating: [2.8, 0.4, 0.5, 1.0, 0.5, 0.4]
+price: 95
 summary: "The Denon SC-M41 is a 2-way bookshelf speaker designed for the D-M41 system. It offers outstanding cost-performance, being effectively the least expensive option among competitors with similar performance, though its scientific validity is limited by a lack of measurement data."
 tags: [2-Way, Bookshelf speakers, Denon, Passive speakers]
 permalink: /products/en/denon-sc-m41/

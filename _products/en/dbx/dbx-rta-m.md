@@ -7,6 +7,7 @@ lang: en
 ref: dbx-rta-m
 date: 2025-07-18
 rating: [2.1, 0.6, 0.2, 0.4, 0.4, 0.5]
+price: 65
 summary: "The dbx RTA-M is designed as a measurement microphone exclusively for specific DriveRack systems, but lacks versatility and faces numerous cheaper, higher-performance alternatives. While claiming flat 20Hz-20kHz response, independent third-party measurement data is limited, and cost-performance is extremely poor against products offering equivalent functionality at lower prices."
 tags: [Measurement Microphone, dbx, DriveRack, RTA, Audio Measurement]
 permalink: /products/en/dbx-rta-m/

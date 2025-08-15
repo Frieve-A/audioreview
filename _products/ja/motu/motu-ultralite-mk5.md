@@ -7,6 +7,7 @@ lang: ja
 ref: motu-ultralite-mk5
 date: 2025-08-10
 rating: [4.5, 0.9, 0.8, 1.0, 0.9, 0.9]
+price: 104993
 summary: "ESS Sabre32 DACを搭載し、マスタリング品質の125dBダイナミックレンジと優秀な測定性能を699.95 USD（約105,000円・参考）で実現するプロフェッショナル18×22 USB-Cオーディオインターフェース。"
 tags: [オーディオインターフェース, USB-C, ESS Sabre, プロフェッショナル録音, マルチチャンネル]
 permalink: /products/ja/motu-ultralite-mk5/

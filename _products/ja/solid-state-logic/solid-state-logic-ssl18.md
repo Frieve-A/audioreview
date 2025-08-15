@@ -7,6 +7,7 @@ lang: ja
 ref: solid-state-logic-ssl18
 date: 2025-07-22
 rating: [3.7, 0.8, 0.8, 0.5, 0.8, 0.8]
+price: 179850
 summary: "SSL18は26入力28出力の高性能USBオーディオインターフェイスで、SSLの伝統的なプリアンプ技術を搭載。測定性能は120dBのダイナミックレンジと優秀なTHD+N性能を実現しているが、同等機能のより安価な選択肢が存在するため、コストパフォーマンスは限定的。"
 tags: [SSL, オーディオインターフェース, プロオーディオ, ラックマウント, 録音機器]
 permalink: /products/ja/solid-state-logic-ssl18/

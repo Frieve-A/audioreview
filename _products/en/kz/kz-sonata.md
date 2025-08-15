@@ -7,6 +7,7 @@ lang: en
 ref: kz-sonata
 date: 2025-08-14
 rating: [2.2, 0.5, 0.5, 0.5, 0.4, 0.3]
+price: 149.99
 summary: "The KZ Sonata is an all-BA IEM (28 BA total, 14 per side) offered in Standard and Tuning versions. While the spec sheet is ambitious and the switches offer ±1–2 dB trims, there are still no credible third-party measurements; at 149.99 USD it faces cheaper, well-measured competitors."
 tags: [Balanced armature, Earphones, In-ear monitors, Multi-driver, Tunable]
 permalink: /products/en/kz-sonata/

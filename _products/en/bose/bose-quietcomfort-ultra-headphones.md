@@ -7,6 +7,7 @@ lang: en
 ref: bose-quietcomfort-ultra-headphones
 date: 2025-07-06
 rating: [3.6, 0.8, 0.7, 0.6, 0.8, 0.7]
+price: 270
 summary: "Bose's latest flagship noise-canceling headphones featuring industry-leading ANC performance and Immersive Audio spatial technology. CustomTune technology provides personalized optimization with excellent wearing comfort. At 270 USD, comprehensive performance exceeds competitors, though 24-hour battery life trails behind competitor products. Folding design ensures good portability."
 tags: [Bose, Flagship, Noise cancelling, Spatial audio, Wireless headphones]
 permalink: /products/en/bose-quietcomfort-ultra-headphones/

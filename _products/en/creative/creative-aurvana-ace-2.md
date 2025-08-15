@@ -7,6 +7,7 @@ lang: en
 ref: creative-aurvana-ace-2
 date: 2025-07-31
 rating: [2.4, 0.3, 0.6, 0.7, 0.5, 0.3]
+price: 149.99
 summary: "Advanced True Wireless earbuds featuring xMEMS technology, but suffering from serious audio quality issues due to distortion problems and ANC malfunctions"
 tags: [True Wireless, ANC, xMEMS, Creative, Dual Driver]
 permalink: /products/en/creative-aurvana-ace-2/

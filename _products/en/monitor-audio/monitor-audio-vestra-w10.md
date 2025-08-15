@@ -7,6 +7,7 @@ lang: en
 ref: monitor-audio-vestra-w10
 date: 2025-07-06
 rating: [2.9, 0.6, 0.5, 0.7, 0.6, 0.5]
+price: 899
 summary: "Compact 10-inch sealed subwoofer with C-CAM driver technology delivering controlled bass performance in small to medium rooms, positioned as an affordable entry into Monitor Audio's subwoofer lineup."
 tags: [Subwoofer, Sealed Enclosure, Class D Amplifier, C-CAM Driver]
 permalink: /products/en/monitor-audio-vestra-w10/

@@ -7,6 +7,7 @@ lang: en
 ref: dcs-rossini-transport
 date: 2025-07-25
 rating: [2.2, 0.8, 0.6, 0.1, 0.6, 0.1]
+price: 23500
 summary: "A high-end CD/SACD transport from UK's dCS. While its measurement performance is excellent, it is extraordinarily expensive compared to functionally equivalent products, making its existence highly questionable."
 tags: [CD Transport, Digital Audio, High-end, SACD, dCS]
 permalink: /products/en/dcs-rossini-transport/

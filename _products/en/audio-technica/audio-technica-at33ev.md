@@ -7,6 +7,7 @@ lang: en
 ref: audio-technica-at33ev
 date: 2025-07-12
 rating: [2.0, 0.2, 0.3, 0.4, 0.8, 0.3]
+price: 383
 summary: "Features advanced technology for an MC cartridge, but its absolute fidelity falls short of digital standards. Cost-performance is challenged by the existence of more affordable, high-performance MM cartridges."
 tags: [Analog, Audio-Technica, Cartridges, MC]
 permalink: /products/en/audio-technica-at33ev/

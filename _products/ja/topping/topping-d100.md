@@ -7,6 +7,7 @@ lang: ja
 ref: topping-d100
 date: 2025-07-14
 rating: [3.9, 0.8, 0.7, 0.6, 0.9, 0.9]
+price: 22500
 summary: "ES9038K2M搭載のエントリークラスDAC。基本性能は良好だが競合製品との価格競争において厳しい立場"
 tags: [ES9038K2M, USB DAC, エントリークラス, デスクトップDAC]
 permalink: /products/ja/topping-d100/

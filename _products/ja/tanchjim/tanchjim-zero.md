@@ -7,6 +7,7 @@ lang: ja
 ref: tanchjim-zero
 date: 2025-07-25
 rating: [3.6, 0.6, 0.7, 1.0, 0.6, 0.7]
+price: 2250
 summary: "極めて低い市場価格でニュートラル志向のサウンドを実現したダイナミック型IEM。測定性能は平均的だが、同等機能の製品群では最も低い価格水準を実現している。"
 tags: [インイヤーモニター, ダイナミックドライバー, ニュートラル, 中華イヤホン, 低価格]
 permalink: /products/ja/tanchjim-zero/

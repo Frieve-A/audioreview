@@ -7,6 +7,7 @@ lang: en
 ref: kef-r7-meta
 date: 2025-07-18
 rating: [4.2, 0.9, 0.9, 1.0, 0.6, 0.8]
+price: 3815
 summary: "A 3-way floorstanding speaker with industry-leading fidelity, powered by the 12th generation Uni-Q with MAT. It delivers exceptionally high measurement performance that justifies its price."
 tags: [KEF, Speakers, Floorstanding, MAT, Uni-Q, 3-Way]
 permalink: /products/en/kef-r7-meta/

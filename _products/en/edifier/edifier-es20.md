@@ -7,6 +7,7 @@ lang: en
 ref: edifier-es20
 date: 2025-08-02
 rating: [3.1, 0.5, 0.6, 0.6, 0.7, 0.7]
+price: 89.99
 summary: "A portable Bluetooth speaker with a stylish retro design and IP67 waterproofing. It offers solid standard features, but its cost-performance is moderate when compared to equivalent, more affordable alternatives."
 tags: [Bluetooth, Edifier, Portable speaker, Waterproof]
 permalink: /products/en/edifier-es20/

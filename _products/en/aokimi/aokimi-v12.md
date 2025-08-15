@@ -7,6 +7,7 @@ lang: en
 ref: aokimi-v12
 date: 2025-07-19
 rating: [2.0, 0.2, 0.1, 1.0, 0.3, 0.4]
+price: 14.50
 summary: "AOKIMI V12 is an entry-level true wireless earphone from a Chinese audio brand. It offers a range of features at a market-leading low price of 14.50 USD, but with significant compromises in sound quality, its overall value remains questionable."
 tags: [Bluetooth, China, Earphones, Entry-level, Noise Cancellation, Wireless]
 permalink: /products/en/aokimi-v12/

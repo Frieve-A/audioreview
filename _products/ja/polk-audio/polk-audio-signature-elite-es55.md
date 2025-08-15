@@ -7,6 +7,7 @@ lang: ja
 ref: polk-audio-signature-elite-es55
 date: 2025-08-01
 rating: [2.5, 0.5, 0.5, 0.2, 0.7, 0.6]
+price: 67350
 summary: "Polk Audio Signature Elite ES55は、Hi-Res Audio認証とPower Port技術を搭載したフロアスタンディングスピーカーですが、449USD（単体）の価格に対し、約6分の1の価格（単体換算74.99USD）で入手可能なDayton Audio T652-AIRという同等以上の性能を持つ代替品が存在するため、コストパフォーマンスに課題があります。"
 tags: [Polk Audio, Power Port, タワースピーカー, ハイレゾ, フロアスタンディングスピーカー]
 permalink: /products/ja/polk-audio-signature-elite-es55/

@@ -7,6 +7,7 @@ lang: en
 ref: dynaudio-acoustics-bm6a
 date: 2025-08-02
 rating: [2.3, 0.5, 0.6, 0.2, 0.4, 0.6]
+price: 1700
 summary: "The Dynaudio Acoustics BM6A employs established technology as a 6.5-inch 2-way active nearfield monitor, but its high price on the used market, despite being discontinued, places it at a significant cost-performance disadvantage against current competing products that offer equivalent functionality at a fraction of the price."
 tags: [Active speakers, Denmark, Nearfield, Studio monitors]
 permalink: /products/en/dynaudio-acoustics-bm6a/

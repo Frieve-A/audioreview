@@ -7,6 +7,7 @@ lang: en
 ref: klipsch-reference-r-121sw
 date: 2025-08-12
 rating: [2.7, 0.4, 0.5, 0.6, 0.8, 0.4]
+price: 649.99
 summary: "Budget subwoofer with measured mid-bass emphasis and cost-optimized construction"
 tags: [Subwoofer, Home Theater, Budget Audio, Bass Reflex]
 permalink: /products/en/klipsch-reference-r-121sw/

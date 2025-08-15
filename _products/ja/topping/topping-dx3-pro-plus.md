@@ -7,6 +7,7 @@ lang: ja
 ref: topping-dx3-pro-plus
 date: 2025-08-09
 rating: [3.8, 0.7, 0.7, 1.0, 0.6, 0.8]
+price: 29850
 summary: "ES9038Q2M DAC搭載のデスクトップDAC・ヘッドホンアンプ。公称THD+N 0.00015%と1800mW@32Ωの高出力を実現し、199 USDクラスで優れた仕様を備える。"
 tags: [DAC, ヘッドホンアンプ, デスクトップ, Bluetooth, LDAC, ESS]
 permalink: /products/ja/topping-dx3-pro-plus/

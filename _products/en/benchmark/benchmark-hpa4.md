@@ -7,6 +7,7 @@ lang: en
 ref: benchmark-hpa4
 date: 2025-08-10
 rating: [3.4, 0.9, 0.8, 0.2, 0.8, 0.7]
+price: 3499
 summary: "Flagship headphone amplifier/line output preamplifier featuring THX AAA-888 technology, achieving measured performance that far exceeds transparent levels"
 tags: [Benchmark, Desktop, Headphone amplifier, Preamplifier, THX AAA]
 permalink: /products/en/benchmark-hpa4/

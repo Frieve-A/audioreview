@@ -7,6 +7,7 @@ lang: en
 ref: jbl-tour-one-m3
 date: 2025-07-25
 rating: [3.6, 0.6, 0.8, 0.8, 0.7, 0.7]
+price: 365
 summary: "Innovative ANC headphones with a smart transmitter case, but frequency response issues require EQ adjustment for optimal audio quality."
 tags: [ANC Headphones, Wireless, LDAC, Noise Cancelling, Smart Case, JBL]
 permalink: /products/en/jbl-tour-one-m3/

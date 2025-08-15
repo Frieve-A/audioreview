@@ -7,6 +7,7 @@ lang: ja
 ref: smsl-c-100
 date: 2025-07-31
 rating: [3.8, 0.8, 0.7, 1.0, 0.6, 0.7]
+price: 17850
 summary: "コンパクト設計と高解像度対応を両立したエントリーDAC。AK4493Sチップ採用で優秀な測定性能を実現するも、技術的独自性は限定的。機能性を考慮するとクラス最高のコストパフォーマンスを誇る。"
 tags: [DAC, SMSL, AK4493S, USB, Bluetooth, MQA, コンパクト]
 permalink: /products/ja/smsl-c-100/

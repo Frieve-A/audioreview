@@ -7,6 +7,7 @@ lang: en
 ref: alpine-sv-h300
 date: 2025-08-14
 rating: [2.4, 0.3, 0.6, 0.7, 0.5, 0.3]
+price: 299
 summary: "Over-ear headphones using Alpine’s TKR3 haptic technology for enhanced bass sensation. Specs are documented but independent measurements are scarce, and—when judged against the cheapest current haptic competitor at MSRP 299 USD—the cost-performance is 0.7."
 tags: [Bass Enhancement, Consumer Audio, Headphones, Over-ear, Tactile]
 permalink: /products/en/alpine-sv-h300/

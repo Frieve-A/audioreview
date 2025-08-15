@@ -7,6 +7,7 @@ lang: ja
 ref: presonus-quantum-hd-8
 date: 2025-07-21
 rating: [3.7, 0.8, 0.7, 0.7, 0.7, 0.8]
+price: 152671
 summary: "プロレベルのMAX-HDプリアンプと高いダイナミックレンジを備えた高品質オーディオインターフェースですが、同等性能の競合製品との価格差が課題です。"
 tags: [USB-C, オーディオインターフェース, プロオーディオ, 録音, PreSonus]
 permalink: /products/ja/presonus-quantum-hd-8/

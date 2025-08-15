@@ -7,6 +7,7 @@ lang: en
 ref: genelec-8320a
 date: 2025-08-03
 rating: [3.4, 0.7, 0.8, 0.3, 0.8, 0.8]
+price: 800
 summary: "A 4-inch SAM studio monitor with advanced technology but limited cost-performance due to more affordable alternatives offering comparable or superior functionality"
 tags: [Active speakers, Genelec, Near-field, SAM, Studio monitors]
 permalink: /products/en/genelec-8320a/

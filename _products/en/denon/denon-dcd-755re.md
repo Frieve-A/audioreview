@@ -7,6 +7,7 @@ lang: en
 ref: denon-dcd-755re
 date: 2025-07-21
 rating: [2.2, 0.3, 0.4, 0.8, 0.5, 0.2]
+price: 173
 summary: "A CD player with many issues, including a complete lack of measurement data and the promotion of unscientific technology. As a discontinued product, support is a concern, and it offers little value as a dedicated device. Only its price on the used market provides a semblance of cost-performance."
 tags: [CD Player, DAC, Entry-level]
 permalink: /products/en/denon-dcd-755re/

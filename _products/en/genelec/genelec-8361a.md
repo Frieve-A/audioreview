@@ -7,6 +7,7 @@ lang: en
 ref: genelec-8361a
 date: 2025-08-11
 rating: [4.5, 0.9, 0.8, 1.0, 0.9, 0.9]
+price: 5450
 summary: "Flagship 3-way coaxial studio monitor with exceptional measured performance and transparent sound quality. Pricing is premium, but no cheaper product offers equal-or-better functions and performance."
 tags: [3-Way, Active speakers, Coaxial, Professional, Studio monitors]
 permalink: /products/en/genelec-8361a/

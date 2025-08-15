@@ -7,6 +7,7 @@ lang: ja
 ref: sony-lspx-s3
 date: 2025-08-04
 rating: [1.8, 0.2, 0.4, 0.2, 0.7, 0.3]
+price: 41700
 summary: "ガラス管を振動させる独特の技術を採用したオムニディレクショナルスピーカーだが、測定性能は期待を大きく下回り、同等機能をより安価に実現する代替品が多数存在する。"
 tags: [Bluetooth, スピーカー, オムニディレクショナル, LED, ガラスサウンド]
 permalink: /products/ja/sony-lspx-s3/

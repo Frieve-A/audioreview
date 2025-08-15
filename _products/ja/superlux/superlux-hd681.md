@@ -7,6 +7,7 @@ lang: ja
 ref: superlux-hd681
 date: 2025-07-23
 rating: [3.0, 0.6, 0.5, 0.8, 0.5, 0.6]
+price: 4000
 summary: "セミオープン型モニターヘッドホンとして基本性能は満たすが、高域の特性に課題があり、競合製品と比較した優位性に欠ける製品"
 tags: [エントリー, セミオープン, ヘッドホン, モニター]
 permalink: /products/ja/superlux-hd681/

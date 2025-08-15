@@ -7,6 +7,7 @@ lang: ja
 ref: teac-portacapture-x8
 date: 2025-07-09
 rating: [2.9, 0.5, 0.4, 1.0, 0.5, 0.5]
+price: 45000
 summary: "TASCAMの8トラック32bitフロートレコーダー。32bitフロート+8ch同時録音を両立する唯一の製品として、代替不可能な機能を提供しCP値1.0を達成。"
 tags: [ポータブルレコーダー, 32bitフロート, フィールドレコーディング, TASCAM]
 permalink: /products/ja/teac-portacapture-x8/

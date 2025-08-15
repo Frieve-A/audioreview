@@ -7,6 +7,7 @@ lang: ja
 ref: technics-su-g700m2
 date: 2025-07-27
 rating: [3.0, 0.3, 0.8, 0.3, 0.8, 0.8]
+price: 404850
 summary: "デジタルアンプ技術を活用した統合アンプ。S/N比67.7dBは問題レベルを下回り、より安価で高性能な代替品が存在するためコストパフォーマンスに劣る。"
 tags: [DAC内蔵, インテグレーテッドアンプ, テクニクス, デジタルアンプ, フォノステージ]
 permalink: /products/ja/technics-su-g700m2/

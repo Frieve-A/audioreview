@@ -7,6 +7,7 @@ lang: en
 ref: genelec-7040a
 date: 2025-08-11
 rating: [2.8, 0.7, 0.7, 0.2, 0.6, 0.6]
+price: 995
 summary: "Ultra-compact professional subwoofer with LSE technology delivering controlled low-frequency performance in limited spaces"
 tags: [Subwoofer, Studio-Monitor, Professional, Genelec, Active, Powered]
 permalink: /products/en/genelec-7040a/

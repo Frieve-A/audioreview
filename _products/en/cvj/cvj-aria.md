@@ -7,6 +7,7 @@ lang: en
 ref: cvj-aria
 date: 2025-07-28
 rating: [2.8, 0.5, 0.7, 0.4, 0.5, 0.7]
+price: 53
 summary: "A Chinese-made IEM featuring a 10mm nano-crystal coated dynamic driver. Characterized by its V-shaped sound signature and three interchangeable tuning nozzles."
 tags: [CVJ, China, Dynamic driver, Earphones, In-ear monitors]
 permalink: /products/en/cvj-aria/

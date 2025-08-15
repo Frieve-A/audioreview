@@ -7,6 +7,7 @@ lang: en
 ref: jbl-tour-pro-3
 date: 2025-07-06
 rating: [3.2, 0.6, 0.8, 0.5, 0.5, 0.8]
+price: 280
 summary: "JBL's first flagship earbuds with dual-driver configuration. Features 10mm dynamic + BA driver setup with significantly improved sound quality from predecessor. Smart charging case provides unique functionality, but pricing near 300 USD faces competition from similarly performing products at lower costs. Reliability concerns exist with reported early failure cases, questioning long-term durability."
 tags: [Dual driver, Flagship, JBL, Smart charging case, Wireless earphones]
 permalink: /products/en/jbl-tour-pro-3/

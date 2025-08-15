@@ -7,6 +7,7 @@ lang: ja
 ref: neumann-kh-80-dsp-a-g
 date: 2025-07-28
 rating: [4.1, 0.8, 0.9, 0.7, 0.8, 0.9]
+price: 82350
 summary: "DSP制御により高精度な音響特性を実現した4インチニアフィールドモニター。測定性能は優秀だが、より安価な競合製品も存在する。"
 tags: [スタジオモニター, DSP, ニアフィールド, ドイツ製, プロオーディオ]
 permalink: /products/ja/neumann-kh-80-dsp-a-g/

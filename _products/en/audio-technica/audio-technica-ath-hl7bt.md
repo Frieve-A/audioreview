@@ -7,6 +7,7 @@ lang: en
 ref: audio-technica-ath-hl7bt
 date: 2025-07-20
 rating: [2.8, 0.4, 0.6, 1.0, 0.4, 0.4]
+price: 100
 summary: "While rare as an open-back wireless headphone, it lacks scientific validity and overall appeal"
 tags: [Audio-Technica, Bluetooth, LDAC, Open-Back, Wireless headphones]
 permalink: /products/en/audio-technica-ath-hl7bt/

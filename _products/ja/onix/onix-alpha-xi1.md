@@ -7,6 +7,7 @@ lang: ja
 ref: onix-alpha-xi1
 date: 2025-07-30
 rating: [3.6, 0.8, 0.7, 0.7, 0.6, 0.8]
+price: 16350
 summary: "デュアルCS43198 DACチップを搭載したコンパクトなポータブルUSB DAC/アンプ。130dB のダイナミックレンジと-115dB THD+Nの測定値で透明レベルの音質を実現"
 tags: [ポータブルDAC, ヘッドホンアンプ, CS43198, バランス出力, Onix]
 permalink: /products/ja/onix-alpha-xi1/

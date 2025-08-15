@@ -7,6 +7,7 @@ lang: ja
 ref: sony-nw-zx707
 date: 2025-08-01
 rating: [2.9, 0.6, 0.6, 0.5, 0.7, 0.5]
+price: 134850
 summary: "測定性能は良好だが、同等機能でより安価な選択肢が存在するため、コストパフォーマンスに大きな課題が残るDAP製品です。"
 tags: [Android, ソニー, デジタルオーディオプレーヤー, ハイレゾ, ポータブル]
 permalink: /products/ja/sony-nw-zx707/

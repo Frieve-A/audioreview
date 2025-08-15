@@ -7,6 +7,7 @@ lang: ja
 ref: pioneer-m-25
 date: 2025-08-09
 rating: [2.1, 0.7, 0.3, 0.3, 0.4, 0.4]
+price: 100000
 summary: "1970年代後期のPioneer Series 20の一角を担うパワーアンプ。120W+120Wの出力とRETトランジスタを採用するも、現代の基準では測定性能と価格競争力で大幅に劣る"
 tags: [パイオニア, パワーアンプ, ビンテージ, 測定性能, 高調波歪率]
 permalink: /products/ja/pioneer-m-25/

@@ -7,6 +7,7 @@ lang: en
 ref: earthworks-m-23
 date: 2025-07-18
 rating: [3.2, 0.9, 0.8, 0.2, 0.7, 0.6]
+price: 499
 summary: "Demonstrates high scientific validity as a 3Hz-23kHz measurement microphone, but cost-performance is limited due to the existence of more affordable USB measurement microphones with sufficient performance."
 tags: [Measurement Microphone, Earthworks, Acoustic Measurement, USB Microphone]
 permalink: /products/en/earthworks-m-23/

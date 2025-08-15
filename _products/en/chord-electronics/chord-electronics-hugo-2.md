@@ -7,6 +7,7 @@ lang: en
 ref: chord-electronics-hugo-2
 date: 2025-07-29
 rating: [2.9, 0.8, 0.7, 0.1, 0.8, 0.5]
+price: 2175
 summary: "A portable DAC/headphone amplifier with a proprietary FPGA. While its measurement performance is excellent, its cost-performance is rated extremely poor due to numerous competing products that achieve equivalent or better performance at a fraction of the price."
 tags: [DAC, FPGA, Headphone amplifier, Portable]
 permalink: /products/en/chord-electronics-hugo-2/

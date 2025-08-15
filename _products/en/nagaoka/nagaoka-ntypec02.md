@@ -7,6 +7,7 @@ lang: en
 ref: nagaoka-ntypec02
 date: 2025-07-30
 rating: [3.3, 0.6, 0.5, 1.0, 0.5, 0.7]
+price: 23
 summary: "USB-C connected earphones with ANC functionality. A rare product achieving ANC functionality with USB-C connection under 33 USD, providing excellent cost-performance while competing products with equivalent functionality are concentrated in higher price ranges."
 tags: [Earphones, USB-C, ANC, Digital]
 permalink: /products/en/nagaoka-ntypec02/

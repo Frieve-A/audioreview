@@ -7,6 +7,7 @@ lang: en
 ref: apple-airpods-4
 date: 2025-07-12
 rating: [3.9, 0.6, 0.7, 1.0, 0.8, 0.8]
+price: 169
 summary: "Apple AirPods 4 demonstrates excellent cost-performance in the open-design market and offers superior convenience within the Apple ecosystem"
 tags: [Apple, Bluetooth, Open-ear, Wireless earphones]
 permalink: /products/en/apple-airpods-4/

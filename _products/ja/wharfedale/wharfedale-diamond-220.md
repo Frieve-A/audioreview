@@ -7,6 +7,7 @@ lang: ja
 ref: wharfedale-diamond-220
 date: 2025-08-02
 rating: [3.0, 0.5, 0.5, 1.0, 0.5, 0.5]
+price: 41100
 summary: "Wharfedale Diamond 220は英国の老舗メーカーによる2ウェイブックシェルフスピーカーです。測定性能は現代の最高水準には及ばないものの、優れたコストパフォーマンスを発揮する製品です。"
 tags: [Wharfedale, ブックシェルフスピーカー, 2ウェイスピーカー, パッシブスピーカー]
 permalink: /products/ja/wharfedale-diamond-220/

@@ -7,6 +7,7 @@ lang: ja
 ref: luxman-p-750u-mark-ii
 date: 2025-08-04
 rating: [2.4, 0.7, 0.8, 0.1, 0.5, 0.3]
+price: 346500
 summary: "高い測定性能を実現するもS/N比に課題があり、コストパフォーマンスに極めて大きな課題を抱えるハイエンドヘッドホンアンプ"
 tags: [ハイエンド, バランス出力, ヘッドホンアンプ, 日本]
 permalink: /products/ja/luxman-p-750u-mark-ii/

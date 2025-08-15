@@ -7,6 +7,7 @@ lang: ja
 ref: ik-multimedia-z-tone-di
 date: 2025-08-02
 rating: [4.1, 0.9, 0.8, 1.0, 0.6, 0.8]
+price: 22500
 summary: "可変インピーダンス制御とJFETプリアンプを搭載したプロフェッショナル仕様のアクティブDIボックス。優秀な測定性能と他に類を見ない独創的な機能を備え、その機能性を考慮すると非常に高いコストパフォーマンスを誇ります。"
 tags: [DI Box, プリアンプ, 楽器用, プロオーディオ, アクティブ]
 permalink: /products/ja/ik-multimedia-z-tone-di/

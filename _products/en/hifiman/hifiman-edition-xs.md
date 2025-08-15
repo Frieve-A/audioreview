@@ -7,6 +7,7 @@ lang: en
 ref: hifiman-edition-xs
 date: 2025-08-10
 rating: [2.3, 0.7, 0.5, 0.4, 0.4, 0.3]
+price: 269
 summary: "Open-back planar magnetic headphones with stealth magnet design offering good technical performance at an aggressive price point, though hampered by reliability concerns and questionable design philosophy"
 tags: [Headphones, HiFiMAN, Open-back, Planar magnetic]
 permalink: /products/en/hifiman-edition-xs/

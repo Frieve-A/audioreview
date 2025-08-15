@@ -7,6 +7,7 @@ lang: ja
 ref: teac-ai-303
 date: 2025-08-05
 rating: [3.3, 0.7, 0.8, 0.4, 0.7, 0.7]
+price: 118000
 summary: "HypexのNcoreモジュールを採用したコンパクトなDACアンプ統合機。高品質な技術を投入しているものの、同等機能を持つ製品と比較するとコストパフォーマンスに課題があります。"
 tags: [DAC, D級, ESS, Hypex, デスクトップ, プリメインアンプ]
 permalink: /products/ja/teac-ai-303/

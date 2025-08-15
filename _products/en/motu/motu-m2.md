@@ -7,6 +7,7 @@ lang: en
 ref: motu-m2
 date: 2025-07-08
 rating: [3.6, 0.7, 0.6, 0.9, 0.8, 0.6]
+price: 240
 summary: "2in2out audio interface featuring ESS Sabre32 Ultra DAC achieving industry-leading 120dB dynamic range and THD+N -110dB. No equivalent performance competitors exist at this price point, providing overwhelming cost-performance."
 tags: ["Audio interface", USB-C, "ESS Sabre32", 2in2out, DTM]
 permalink: /products/en/motu-m2/

@@ -7,6 +7,7 @@ lang: ja
 ref: jbl-stage-200p
 date: 2025-08-11
 rating: [2.5, 0.5, 0.4, 0.7, 0.5, 0.4]
+price: 65993
 summary: "エントリーレベルのホームシアターセットアップに適した従来設計と適切な性能を持つ低価格10インチパワードサブウーファー"
 tags: [サブウーファー, パワード, ホームシアター, 低価格]
 permalink: /products/ja/jbl-stage-200p/

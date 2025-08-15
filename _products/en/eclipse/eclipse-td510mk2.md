@@ -7,6 +7,7 @@ lang: en
 ref: eclipse-td510mk2
 date: 2025-08-02
 rating: [2.9, 0.3, 0.7, 0.6, 0.8, 0.5]
+price: 1833
 summary: "Its unique design for superior impulse response has lost its advantage to modern DSP technology, collapsing the product's entire value proposition."
 tags: [Egg-Shaped-Enclosure, Full-Range, Single-Driver, Speakers, Time-Domain-Theory]
 permalink: /products/en/eclipse-td510mk2/

@@ -7,6 +7,7 @@ lang: en
 ref: anker-soundcore-3
 date: 2025-07-19
 rating: [2.4, 0.5, 0.6, 0.5, 0.4, 0.4]
+price: 65
 summary: "Portable Bluetooth speaker with titanium drivers. Cost-performance challenged by equivalent products available at half the price"
 tags: [BassUp, Bluetooth, IPX7 Waterproof, Portable speaker, Titanium Driver]
 permalink: /products/en/anker-soundcore-3/

@@ -7,6 +7,7 @@ lang: en
 ref: monitor-audio-vestra-w15
 date: 2025-08-11
 rating: [3.2, 0.5, 0.5, 0.9, 0.6, 0.7]
+price: 1429
 summary: "Large 15-inch ported subwoofer delivering powerful low-frequency extension down to 17Hz with 500-watt Class D amplification, positioned as the flagship model in Monitor Audio's accessible Vestra series."
 tags: [Subwoofer, Ported Enclosure, Class D Amplifier, C-CAM Driver, 15-inch Driver]
 permalink: /products/en/monitor-audio-vestra-w15/

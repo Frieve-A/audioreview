@@ -7,6 +7,7 @@ lang: ja
 ref: skullcandy-indy-anc
 date: 2025-07-09
 rating: [2.8, 0.3, 0.5, 0.8, 0.6, 0.6]
+price: 12900
 summary: "Skullcandy Indy ANCは12,900円でANC機能と32時間バッテリーを提供するが、ベース過多のV字型音響特性とTHD性能に課題があり、科学的忠実度は限定的"
 tags: [IPX4, アクティブノイズキャンセリング, ノイズキャンセリング, ベース強調, 完全ワイヤレスイヤホン]
 permalink: /products/ja/skullcandy-indy-anc/

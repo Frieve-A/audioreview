@@ -7,6 +7,7 @@ lang: en
 ref: audio-technica-ath-m50x
 date: 2025-07-20
 rating: [2.7, 0.4, 0.6, 0.6, 0.6, 0.5]
+price: 135
 summary: "A well-known studio monitor headphone that faces challenges in measurement performance and design philosophy"
 tags: [Audio-Technica, Closed-back, Headphones, Studio monitors]
 permalink: /products/en/audio-technica-ath-m50x/

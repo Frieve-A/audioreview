@@ -7,6 +7,7 @@ lang: en
 ref: kef-q6-meta
 date: 2025-07-29
 rating: [3.2, 0.4, 0.8, 0.8, 0.7, 0.5]
+price: 660
 summary: "The KEF Q6 Meta is a 3-way center speaker with 12th gen Uni-Q drivers and MAT technology. While technically advanced, its problematic frequency response and difficult 4Ω load are significant drawbacks, posing practical usability challenges."
 tags: [3-Way, Center speaker, KEF, MAT, Uni-Q]
 permalink: /products/en/kef-q6-meta/

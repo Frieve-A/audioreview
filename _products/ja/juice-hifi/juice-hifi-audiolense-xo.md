@@ -7,6 +7,7 @@ lang: ja
 ref: juice-hifi-audiolense-xo
 date: 2025-07-07
 rating: [3.9, 1.0, 0.8, 0.4, 0.8, 0.9]
+price: 60450
 summary: "ノルウェー発の最先端ルーム補正ソフトウェア。True Time Domain（TTD）補正により全周波数の第一到達波を完全同期し、測定可能な音響改善を実現。AcourateやDirac Liveと並ぶ業界最高水準の技術力を持ち、マルチチャンネル対応やユーザビリティでは優位性あり。ただし無料代替手段の存在によりコストパフォーマンスは限定的。"
 tags: ["Audiolense XO", "Juice Hifi", TTD, マルチチャンネル, ルーム音響補正]
 permalink: /products/ja/juice-hifi-audiolense-xo/

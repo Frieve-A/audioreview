@@ -7,6 +7,7 @@ lang: en
 ref: marantz-m-cr612
 date: 2025-08-02
 rating: [3.4, 0.4, 0.7, 0.9, 0.8, 0.6]
+price: 467
 summary: "Boasting excellent cost-performance as an all-in-one system with a built-in CD player, though its measurement performance has room for improvement."
 tags: [Amplifiers, CD Player, HEOS, Network audio, Streaming]
 permalink: /products/en/marantz-m-cr612/

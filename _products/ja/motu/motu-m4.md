@@ -7,6 +7,7 @@ lang: ja
 ref: motu-m4
 date: 2025-08-11
 rating: [4.1, 0.8, 0.8, 1.0, 0.6, 0.9]
+price: 40493
 summary: "ESS Sabre32 Ultra DAC、包括的LCDメータリング、超低レイテンシー動作を搭載し、競争力のある価格設定でエントリーレベルの4x4 USB-Cオーディオインターフェースとして優れた測定性能を実現。"
 tags: [オーディオインターフェース, USB-C, ESS Sabre, レコーディング, MIDI]
 permalink: /products/ja/motu-m4/

@@ -7,6 +7,7 @@ lang: ja
 ref: kef-q3-meta
 date: 2025-08-12
 rating: [2.9, 0.6, 0.6, 0.5, 0.6, 0.6]
+price: 134999
 summary: "Meta技術を搭載したUni‑QドライバーのKEF Q3 Metaブックシェルフスピーカー。公式価格899.99 USDで洗練されたサウンドと適度なコストパフォーマンスを提供"
 tags: [ブックシェルフスピーカー, Uni-Q, Meta技術, KEF]
 permalink: /products/ja/kef-q3-meta/

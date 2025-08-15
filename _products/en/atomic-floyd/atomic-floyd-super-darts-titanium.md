@@ -7,6 +7,7 @@ lang: en
 ref: atomic-floyd-super-darts-titanium
 date: 2025-08-01
 rating: [1.4, 0.2, 0.4, 0.1, 0.4, 0.3]
+price: 399
 summary: "A hybrid driver earphone with titanium construction, but features severe audio quality issues including a sharp resonance peak around 10kHz and midrange recession. At its launch price of 399 USD, modern hybrid earphones costing around 30 USD offer equivalent or superior performance, resulting in extremely poor cost-performance."
 tags: [Earphones, High-end, Hybrid Driver, Titanium]
 permalink: /products/en/atomic-floyd-super-darts-titanium/

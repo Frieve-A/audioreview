@@ -7,6 +7,7 @@ lang: en
 ref: audio-technica-ath-cc500bt
 date: 2025-07-06
 rating: [3.4, 0.7, 0.6, 0.5, 0.8, 0.8]
+price: 129
 summary: "Cartilage conduction wireless headphones from audio-technica. Unique cartilage conduction technology achieves more natural sound quality than bone conduction while enabling environmental sound detection. While inferior to traditional headphones in audio quality, achieves high completion as cartilage conduction technology. Pricing is higher compared to bone conduction products but reasonable considering technical uniqueness. Excellent comfort for extended wear, suitable for business applications."
 tags: ["Cartilage conduction", Wireless, Business, "Extended wear", "Environmental sound"]
 permalink: /products/en/audio-technica-ath-cc500bt/

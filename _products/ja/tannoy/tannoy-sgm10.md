@@ -7,6 +7,7 @@ lang: ja
 ref: tannoy-sgm10
 date: 2025-08-01
 rating: [3.1, 0.6, 0.7, 0.1, 0.8, 0.9]
+price: 550000
 summary: "デュアルコンセントリック技術を採用した10インチパッシブスタジオモニター。伝統的な設計と現代的な製造技術の融合を図るが、コストパフォーマンスに大きな課題"
 tags: [Dual Concentric, Professional Audio, Tannoy, スタジオモニター, パッシブスピーカー]
 permalink: /products/ja/tannoy-sgm10/

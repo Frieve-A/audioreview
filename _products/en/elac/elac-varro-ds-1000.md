@@ -7,6 +7,7 @@ lang: en
 ref: elac-varro-ds-1000
 date: 2025-08-12
 rating: [2.6, 0.6, 0.6, 0.6, 0.4, 0.4]
+price: 2699.98
 summary: "Sealed dual 10-inch subwoofer with advanced app control and Auto EQ, offering solid performance but poor cost-performance ratio at 2,699.98 USD"
 tags: [Subwoofer, Sealed, Dual-Driver, App-Control, Auto-EQ]
 permalink: /products/en/elac-varro-ds-1000/

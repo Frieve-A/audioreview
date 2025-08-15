@@ -7,6 +7,7 @@ lang: en
 ref: ifi-audio-neo-idsd2
 date: 2025-07-21
 rating: [4.3, 0.9, 0.7, 1.0, 0.8, 0.9]
+price: 890
 summary: "Desktop DAC/headphone amplifier featuring world's first aptX Lossless support. Delivers excellent cost-performance due to its unique value proposition of unparalleled high power and advanced Bluetooth capabilities."
 tags: [Bluetooth, DAC, Desktop, Headphone amplifier, High Power, aptX Lossless, iFi Audio]
 permalink: /products/en/ifi-audio-neo-idsd2/

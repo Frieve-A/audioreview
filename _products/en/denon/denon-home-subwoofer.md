@@ -7,6 +7,7 @@ lang: en
 ref: denon-home-subwoofer
 date: 2025-08-14
 rating: [2.4, 0.5, 0.4, 0.7, 0.5, 0.3]
+price: 649
 summary: "Wireless 8-inch subwoofer with HEOS integration delivers convenient bass extension for Denon ecosystems but at premium pricing and with limited specification transparency"
 tags: [Subwoofer, Wireless, HEOS, Home Theater, Bass Reflex]
 permalink: /products/en/denon-home-subwoofer/

@@ -7,6 +7,7 @@ lang: ja
 ref: kef-r11-meta
 date: 2025-07-29
 rating: [4.2, 0.8, 0.8, 1.0, 0.8, 0.8]
+price: 1045000
 summary: "12世代Uni-Q＋MATを搭載したフラッグシップトールボーイスピーカー。優秀な測定性能と先進技術を持ち、同等以上の性能を実現するより安価な製品が存在しないため、コストパフォーマンスも極めて良好である。"
 tags: [KEF, フロアスタンディング, Uni-Q, MAT, 3ウェイ]
 permalink: /products/ja/kef-r11-meta/

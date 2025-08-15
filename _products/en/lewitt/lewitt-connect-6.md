@@ -7,6 +7,7 @@ lang: en
 ref: lewitt-connect-6
 date: 2025-08-14
 rating: [3.5, 0.6, 0.7, 1.0, 0.6, 0.6]
+price: 349
 summary: "A creator-focused USB-C interface with full digital mobile integration, onboard DSP, and flexible routing/mix features—uniquely capable at its price."
 tags: [Audio interface, USB-C, DSP, Mobile integration, Content creation]
 permalink: /products/en/lewitt-connect-6/

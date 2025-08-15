@@ -7,6 +7,7 @@ lang: en
 ref: genelec-g-five
 date: 2025-08-12
 rating: [2.9, 0.6, 0.6, 0.2, 0.8, 0.7]
+price: 1975
 summary: "Professional active monitor with rational engineering; strong specs but weak cost-performance versus equally capable 8-inch alternatives"
 tags: [Active speakers, Nearfield Monitor, Professional, Studio monitors]
 permalink: /products/en/genelec-g-five/

@@ -7,6 +7,7 @@ lang: en
 ref: gustard-ah90
 date: 2025-08-10
 rating: [3.6, 0.5, 0.7, 1.0, 0.6, 0.8]
+price: 599
 summary: "Network streaming DAC/headphone amplifier combining AK4499EX flagship chip with comprehensive connectivity at exceptional value point"
 tags: [AK4499EX, DAC, Desktop, Headphone amplifier, Network streamer]
 permalink: /products/en/gustard-ah90/

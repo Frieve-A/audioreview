@@ -7,6 +7,7 @@ ref: fiio-btr13
 date: 2025-08-09
 layout: product
 rating: [3.5, 0.5, 0.6, 1.0, 0.7, 0.7]
+price: 80
 summary: "Entry-level Bluetooth DAC/amp featuring dual CS43131 DAC chips. Provides 4.4 mm balanced output, comprehensive codec support, and a 0.96-inch IPS display."
 tags: [Amplifiers, Bluetooth, DAC, Entry-level, FiiO, Portable]
 permalink: /products/en/fiio-btr13/

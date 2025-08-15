@@ -7,6 +7,7 @@ lang: en
 ref: oneodio-a70
 date: 2025-07-29
 rating: [2.3, 0.2, 0.4, 1.0, 0.4, 0.3]
+price: 40
 summary: "Wireless headphones not recommended for sound quality-focused users due to extreme bass emphasis and design issues"
 tags: [Bluetooth, Budget, DJ, Monitor, Wireless headphones]
 permalink: /products/en/oneodio-a70/

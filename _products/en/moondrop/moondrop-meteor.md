@@ -7,6 +7,7 @@ lang: ja
 ref: moondrop-meteor
 date: 2025-08-01
 rating: [2.7, 0.7, 0.6, 0.1, 0.6, 0.7]
+price: 76500
 summary: "隕石を埋め込んだ独特なデザインと1DD+2BA+4Planar構成を持つトライブリッドIEMだが、76,500円という価格に対して、より安価に優れた性能を実現できる製品が存在する。"
 tags: [In-ear monitors, Moondrop, Premium, Tribrid]
 permalink: /products/ja/moondrop-meteor/

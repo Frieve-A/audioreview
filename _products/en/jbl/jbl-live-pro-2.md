@@ -7,6 +7,7 @@ lang: en
 ref: jbl-live-pro-2
 date: 2025-07-09
 rating: [3.1, 0.4, 0.6, 0.8, 0.7, 0.6]
+price: 150
 summary: "Mid-range true wireless earbuds with excellent battery performance and ANC functionality. Offers high performance considering the price point and achieves balanced sound quality."
 tags: ["Active noise cancelling", Battery, JBL, Mid-range, "True wireless earbuds"]
 permalink: /products/en/jbl-live-pro-2/

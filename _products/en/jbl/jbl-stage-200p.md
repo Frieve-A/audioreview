@@ -7,6 +7,7 @@ lang: en
 ref: jbl-stage-200p
 date: 2025-08-11
 rating: [2.5, 0.5, 0.4, 0.7, 0.5, 0.4]
+price: 440
 summary: "Budget-friendly 10-inch powered subwoofer with conventional design and adequate performance for entry-level home theater setups"
 tags: [Subwoofer, Powered, Home Theater, Budget]
 permalink: /products/en/jbl-stage-200p/

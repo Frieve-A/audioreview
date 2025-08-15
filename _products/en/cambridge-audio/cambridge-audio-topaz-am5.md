@@ -7,6 +7,7 @@ lang: en
 ref: cambridge-audio-topaz-am5
 date: 2025-08-09
 rating: [2.5, 0.5, 0.4, 1.0, 0.4, 0.2]
+price: 112
 summary: "Cambridge Audio Topaz AM5 is a 25W entry-level integrated amplifier with a simple analog-only I/O layout. It has been discontinued and is only available used, and it lacks functions compared to current alternatives."
 tags: [Amplifiers, Cambridge Audio, Entry-level, Integrated amplifier]
 permalink: /products/en/cambridge-audio-topaz-am5/

@@ -7,6 +7,7 @@ lang: en
 ref: beats-solo-4
 date: 2025-08-12
 rating: [2.9, 0.4, 0.5, 0.8, 0.6, 0.6]
+price: 199
 summary: "Wireless on-ear headphones with 50-hour battery life and improved frequency response, but faces strong competition in sound quality and value"
 tags: [Wireless, Bluetooth, On-ear, Consumer]
 permalink: /products/en/beats-solo-4/

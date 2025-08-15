@@ -7,6 +7,7 @@ lang: en
 ref: jbl-l10cs
 date: 2025-08-13
 rating: [2.9, 0.5, 0.4, 0.7, 0.8, 0.5]
+price: 770
 summary: "JBL's L10CS Classic Series subwoofer offers handsome wood-veneer aesthetics and competent basics, but its limited 32–150 Hz response and lack of modern features constrain scientific value and technology level. With current U.S. market pricing around 769.95 USD, clearly stronger performers exist at lower prices, so cost-performance is modest."
 tags: [Subwoofer, JBL, Classic Series, Bass Reflex, Powered Subwoofer]
 permalink: /products/en/jbl-l10cs/

@@ -7,6 +7,7 @@ lang: ja
 ref: smsl-ao300
 date: 2025-08-14
 rating: [3.7, 0.8, 0.6, 0.9, 0.6, 0.8]
+price: 43350
 summary: "メーカー公表の良好な仕様値と包括的な接続性を備えたオールインワンDAC/ヘッドホン/スピーカーアンプ"
 tags: [DAC, D級, アンプ, デスクトップオーディオ, ヘッドホンアンプ]
 permalink: /products/ja/smsl-ao300/

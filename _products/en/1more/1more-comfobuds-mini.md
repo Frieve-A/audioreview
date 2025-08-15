@@ -7,6 +7,7 @@ lang: en
 ref: 1more-comfobuds-mini
 date: 2025-07-15
 rating: [2.6, 0.4, 0.5, 0.8, 0.4, 0.5]
+price: 87
 summary: "An ANC-equipped wireless earphone focused on an ultra-compact design. While its 3.7g lightweight build is commendable, it lacks fundamental acoustic performance and technical advantages, resulting in low competitiveness for its price."
 tags: [Wireless Earbuds, ANC, 1MORE, Compact Design]
 permalink: /products/en/1more-comfobuds-mini/

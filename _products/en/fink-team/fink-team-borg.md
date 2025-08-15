@@ -7,6 +7,7 @@ lang: en
 ref: fink-team-borg
 date: 2025-08-08
 rating: [2.9, 0.7, 0.8, 0.3, 0.6, 0.5]
+price: 44000
 summary: "A crystallization of German acoustic engineering as a 2-way floorstanding speaker. While specifications are advanced, considering the current market price (Borg Episode 2 in Japan: 44,000 USD per pair), alternatives offering equivalent or better user-oriented functions and measured performance at lower cost exist; thus, cost-performance is low."
 tags: [2-Way, AMT Tweeter, Floorstanding speakers, German-Made, High-end]
 permalink: /products/en/fink-team-borg/

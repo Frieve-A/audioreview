@@ -7,6 +7,7 @@ lang: en
 ref: dcs-vivaldi-upsampler
 date: 2025-07-26
 rating: [1.9, 0.1, 0.8, 0.0, 0.8, 0.2]
+price: 25000
 summary: "While showcasing dCS's high technical capabilities, this flagship upsampler's core function lacks scientific validity. With equivalent functionality available at 1/76th the price, its existence as a dedicated device is questionable."
 tags: [DDC, High-end, Network streamer, United Kingdom, Upsampler]
 permalink: /products/en/dcs-vivaldi-upsampler/

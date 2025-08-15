@@ -7,6 +7,7 @@ lang: en
 ref: paradigm-monitor-se-atom
 date: 2025-08-09
 rating: [3.1, 0.5, 0.5, 1.0, 0.6, 0.5]
+price: 299
 summary: "Entry-level bookshelf speaker from Canadian Paradigm featuring good acoustic design and affordable pricing, though measured performance and technology level remain average"
 tags: [Bookshelf speakers, Canadian Audio, Entry-level, Home Audio, Passive speakers]
 permalink: /products/en/paradigm-monitor-se-atom/

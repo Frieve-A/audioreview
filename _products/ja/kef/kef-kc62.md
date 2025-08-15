@@ -7,6 +7,7 @@ lang: ja
 ref: kef-kc62
 date: 2025-07-18
 rating: [3.7, 0.8, 0.9, 0.4, 0.7, 0.9]
+price: 217800
 summary: "KEF KC62は革新的なUni-Core技術により超小型筐体で深い低音を実現するサブウーファーです。技術的な先進性は評価できますが、コストパフォーマンスに課題があります。"
 tags: [サブウーファー, KEF, Uni-Core, 小型, 高級]
 permalink: /products/ja/kef-kc62/

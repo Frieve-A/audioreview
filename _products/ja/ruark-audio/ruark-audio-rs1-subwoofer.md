@@ -7,6 +7,7 @@ lang: ja
 ref: ruark-audio-rs1-subwoofer
 date: 2025-08-12
 rating: [2.9, 0.5, 0.4, 0.8, 0.7, 0.5]
+price: 83600
 summary: "170mmドライバーと100W Class Dアンプを搭載したコンパクトデスクトップサブウーファー。MR1との組み合わせを想定。国内実売は83,600円、米国では410 USDが観測価格"
 tags: [170mm, D級, Ruark Audio, サブウーファー, デスクトップ]
 permalink: /products/ja/ruark-audio-rs1-subwoofer/

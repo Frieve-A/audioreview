@@ -7,6 +7,7 @@ lang: ja
 ref: shure-aonic-50
 date: 2025-07-09
 rating: [2.8, 0.6, 0.4, 0.6, 0.7, 0.5]
+price: 47000
 summary: "高品質な作りだが価格に見合わない性能のANCヘッドホン"
 tags: [ワイヤレスヘッドホン, ノイズキャンセリング, オーバーイヤー]
 permalink: /products/ja/shure-aonic-50/

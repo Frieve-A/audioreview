@@ -7,6 +7,7 @@ lang: en
 ref: kef-ci250rrm-thx
 date: 2025-07-30
 rating: [3.6, 0.6, 0.8, 1.0, 0.7, 0.5]
+price: 3000
 summary: "Offers unique, unrivaled performance, but its price and specifications make it suitable for high-end users with carefully considered installation environments."
 tags: [KEF, In-Ceiling Speaker, THX, MAT Technology, 3-Way]
 permalink: /products/en/kef-ci250rrm-thx/

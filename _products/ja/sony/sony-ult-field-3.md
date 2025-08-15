@@ -7,6 +7,7 @@ lang: ja
 ref: sony-ult-field-3
 date: 2025-08-09
 rating: [2.8, 0.4, 0.5, 0.9, 0.5, 0.5]
+price: 29999
 summary: "2ウェイ構成とIP67に対応したポータブルBluetoothスピーカー。ULTボタンで低音を強調し、24時間再生やParty Connect等を備えます。測定上は透明レベルには達していない一方、価格対性能は同等以上の競合と比べて良好です。"
 tags: [Bluetooth, アウトドア, ソニー, ポータブルスピーカー, 防水]
 permalink: /products/ja/sony-ult-field-3/

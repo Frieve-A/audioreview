@@ -7,6 +7,7 @@ lang: en
 ref: nicehck-himalaya
 date: 2025-08-02
 rating: [2.8, 0.5, 0.8, 0.3, 0.6, 0.6]
+price: 329
 summary: "A flagship IEM featuring advanced materials like a titanium alloy shell and CNT diaphragm. However, it lacks measured data to substantiate its performance, and the existence of more affordable alternatives severely limits its cost-performance."
 tags: [CNT Diaphragm, China, Dynamic driver, In-ear monitors, Titanium Alloy]
 permalink: /products/en/nicehck-himalaya/

@@ -7,6 +7,7 @@ lang: ja
 ref: topping-a50iii
 date: 2025-08-03
 rating: [4.5, 1.0, 0.8, 1.0, 0.9, 0.8]
+price: 30000
 summary: "Topping A50IIIは高性能NFCAモジュールを搭載したデスクトップヘッドホンアンプです。THD+N 0.00006%未満、ダイナミックレンジ144dB超、最大出力3500mW×2の優秀な測定性能を実現しています。"
 tags: [Topping, ヘッドホンアンプ, NFCA, デスクトップ]
 permalink: /products/ja/topping-a50iii/

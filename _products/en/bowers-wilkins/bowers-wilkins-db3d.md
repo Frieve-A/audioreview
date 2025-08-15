@@ -7,6 +7,7 @@ lang: en
 ref: bowers-wilkins-db3d
 date: 2025-08-12
 rating: [4.3, 0.7, 0.8, 1.0, 0.9, 0.9]
+price: 4200
 summary: "Premium compact subwoofer with dual 8-inch Aerofoil drivers and 1000W amplification, delivering very deep manufacturer-published extension and robust DSP/app control; no cheaper equal-or-better option on published extension was identified at review time."
 tags: [Subwoofer, Sealed, Compact, Premium, Dual-Driver, DSP]
 permalink: /products/en/bowers-wilkins-db3d/

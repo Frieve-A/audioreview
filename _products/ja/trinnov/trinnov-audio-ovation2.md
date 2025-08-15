@@ -7,6 +7,7 @@ lang: ja
 ref: trinnov-audio-ovation2
 date: 2025-07-14
 rating: [3.5, 0.9, 0.8, 0.4, 0.7, 0.7]
+price: 1485000
 summary: "高性能な測定値と先進的なルームコレクション技術を持つプロ仕様シネマプロセッサーですが、同等機能のMonolith HTP-1と比較して2.5倍の価格でコストパフォーマンスに課題があります。"
 tags: [シネマプロセッサー, ルームコレクション, Dolby Atmos, プロオーディオ, デジタル信号処理]
 permalink: /products/ja/trinnov-audio-ovation2/

@@ -7,6 +7,7 @@ lang: ja
 ref: ultrasone-signature-master-mk-ii
 date: 2025-08-08
 rating: [2.0, 0.5, 0.7, 0.1, 0.5, 0.2]
+price: 115000
 summary: "測定データの開示が限定的で、コストパフォーマンスに課題のあるスタジオヘッドホン"
 tags: [ヘッドホン, スタジオモニター, プロフェッショナル]
 permalink: /products/ja/ultrasone-signature-master-mk-ii/

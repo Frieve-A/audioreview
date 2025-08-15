@@ -7,6 +7,7 @@ lang: ja
 ref: q-acoustics-3020i
 date: 2025-08-08
 rating: [3.7, 0.7, 0.7, 0.6, 0.8, 0.9]
+price: 45000
 summary: "2006年創設の英国Q Acousticsによるエントリー〜ミドル価格帯のブックシェルフスピーカー。公称仕様と価格帯に見合った技術構成で、設計思想は合理的"
 tags: [2ウェイ, Q-Acoustics, イギリス, スピーカー, パッシブ, ブックシェルフ]
 permalink: /products/ja/q-acoustics-3020i/

@@ -7,6 +7,7 @@ lang: en
 ref: marantz-cinema-70s
 date: 2025-07-29
 rating: [3.4, 0.6, 0.6, 0.7, 0.9, 0.6]
+price: 689
 summary: "A slim 7.2-ch AV receiver whose 8K features are severely constrained by its low 50W output."
 tags: [AV Receiver, Dolby Atmos, 8K, HDMI, Multi-channel]
 permalink: /products/en/marantz-cinema-70s/

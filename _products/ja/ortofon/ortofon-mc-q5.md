@@ -7,6 +7,7 @@ lang: ja
 ref: ortofon-mc-q5
 date: 2025-07-12
 rating: [2.3, 0.2, 0.2, 1.0, 0.7, 0.2]
+price: 46530
 summary: "Ortofon MC Q5は技術的には一定水準を持つアナログカートリッジで、Audio-Technica AT-OC9XEBとほぼ同等のコストパフォーマンスを実現している。エントリークラスのMCカートリッジとして適切な価格設定だが、アナログ再生という手段自体の物理的制約により科学的有効性は限定的。"
 tags: [MC型, アナログ, オルトフォン, カートリッジ]
 permalink: /products/ja/ortofon-mc-q5/

@@ -7,6 +7,7 @@ lang: en
 ref: hegel-h80
 date: 2025-08-03
 rating: [2.3, 0.6, 0.6, 0.1, 0.7, 0.3]
+price: 2000
 summary: "A discontinued integrated amplifier from Norwegian veteran Hegel Music Systems. Despite solid measurement performance through SoundEngine technology and Class AB design, cost-performance remains poor due to alternatives achieving equivalent or better performance at significantly lower prices."
 tags: [Class AB, DAC, Discontinued, Integrated amplifier, SoundEngine]
 permalink: /products/en/hegel-h80/

@@ -7,6 +7,7 @@ lang: ja
 ref: polk-audio-monitor-xt-mxt60
 date: 2025-07-19
 rating: [2.9, 0.5, 0.6, 0.9, 0.4, 0.5]
+price: 30845
 summary: "Monitor XT MXT60は86dBの低感度と測定データ不足により科学的有効性に疑問が残るものの、JBL Stage A170が僅かに安価なためコストパフォーマンスは0.9と評価されます。"
 tags: [Polk Audio, ハイレゾ, フロアスタンディングスピーカー]
 permalink: /products/ja/polk-audio-monitor-xt-mxt60/

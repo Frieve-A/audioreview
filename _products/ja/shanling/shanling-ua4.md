@@ -7,6 +7,7 @@ lang: ja
 ref: shanling-ua4
 date: 2025-08-05
 rating: [3.4, 0.8, 0.7, 0.7, 0.5, 0.7]
+price: 14900
 summary: "ESS ES9069Q搭載の99USD小型ポータブルDAC/アンプ。優秀な測定性能を示すが、70USDのDUNU DTC-480と比較してコストパフォーマンスは限定的。"
 tags: [ポータブルDAC, ヘッドホンアンプ, ESS, バランス出力, デュアル出力]
 permalink: /products/ja/shanling-ua4/

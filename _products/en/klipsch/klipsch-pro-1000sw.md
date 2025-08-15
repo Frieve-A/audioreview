@@ -7,6 +7,7 @@ lang: en
 ref: klipsch-pro-1000sw
 date: 2025-08-10
 rating: [2.1, 0.5, 0.3, 0.1, 0.7, 0.5]
+price: 1699
 summary: "Klipsch PRO-1000SW in-wall subwoofer offers decent performance for architectural installations but suffers from extremely poor cost-performance at 1,699 USD"
 tags: [Subwoofer, In-wall, Klipsch, Passive]
 permalink: /products/en/klipsch-pro-1000sw/

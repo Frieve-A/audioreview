@@ -7,6 +7,7 @@ lang: ja
 ref: kef-kube-10-mie
 date: 2025-08-12
 rating: [2.8, 0.5, 0.6, 0.3, 0.7, 0.7]
+price: 164850
 summary: "DSP機能を搭載した密閉型10インチサブウーファー、代替製品に対するコストパフォーマンスの悪さが課題"
 tags: [DSP, D級, サブウーファー, 密閉型]
 permalink: /products/ja/kef-kube-10-mie/

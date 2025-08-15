@@ -7,6 +7,7 @@ lang: ja
 ref: polk-audio-reserve-r500
 date: 2025-08-02
 rating: [3.4, 0.5, 0.7, 0.9, 0.6, 0.7]
+price: 112350
 summary: "測定データで明らかになったキャビネット共振と周波数特性の問題により、価格に見合った性能を発揮できていないタワースピーカー"
 tags: [タワースピーカー, フロアスタンディング, 2ウェイ, ハイレゾオーディオ]
 permalink: /products/ja/polk-audio-reserve-r500/

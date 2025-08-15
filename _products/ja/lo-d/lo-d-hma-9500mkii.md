@@ -7,6 +7,7 @@ lang: ja
 ref: lo-d-hma-9500mkii
 date: 2025-07-21
 rating: [0.8, 0.2, 0.2, 0.2, 0.1, 0.1]
+price: 110000
 summary: "世界初のパワーMOS FET採用アンプ。しかし現代基準では測定性能が大幅に劣り、コストパフォーマンスも極めて低いヴィンテージ製品。"
 tags: [Hitachi, Lo-D, MOS FET, アンプ, ビンテージ]
 permalink: /products/ja/lo-d-hma-9500mkii/

@@ -7,6 +7,7 @@ lang: ja
 ref: onkyo-intec-r-n855
 date: 2025-08-04
 rating: [3.9, 0.7, 0.7, 1.0, 0.7, 0.8]
+price: 49800
 summary: "優秀な測定性能を持つネットワークステレオレシーバーで、コストパフォーマンスも良好だが信頼性に若干の課題"
 tags: [オンキヨー, ステレオアンプ, ストリーミング, ネットワークレシーバー, ハイレゾ]
 permalink: /products/ja/onkyo-intec-r-n855/

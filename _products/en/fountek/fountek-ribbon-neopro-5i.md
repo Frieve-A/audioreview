@@ -7,6 +7,7 @@ lang: en
 ref: fountek-ribbon-neopro-5i
 date: 2025-08-10
 rating: [4.0, 0.8, 0.7, 1.0, 0.7, 0.8]
+price: 400
 summary: "Large ribbon tweeter from China's Fountek featuring 145mm×15mm diaphragm and 1 Tesla magnetic circuit for high sensitivity and wide-band reproduction."
 tags: [Ribbon Tweeter, Fountek, DIY Audio, High Frequency, Transducers]
 permalink: /products/en/fountek-ribbon-neopro-5i/

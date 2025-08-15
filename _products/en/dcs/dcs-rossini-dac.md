@@ -7,6 +7,7 @@ lang: en
 ref: dcs-rossini-dac
 date: 2025-07-25
 rating: [2.5, 0.9, 0.6, 0.0, 0.8, 0.2]
+price: 34000
 summary: "An ultra-high-end DAC with proprietary Ring DAC technology. While its measurement performance is excellent, its cost-performance and design rationality are rated extremely low, as modern off-the-shelf chips deliver superior performance at less than 1/25th the price."
 tags: [Converters, DAC, Digital, High-end, dCS]
 permalink: /products/en/dcs-rossini-dac/

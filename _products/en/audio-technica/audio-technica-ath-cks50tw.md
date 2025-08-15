@@ -7,6 +7,7 @@ lang: en
 ref: audio-technica-ath-cks50tw
 date: 2025-07-09
 rating: [3.1, 0.6, 0.6, 0.5, 0.7, 0.7]
+price: 149
 summary: "Bass-focused true wireless earbuds with 9mm drivers delivering overwhelming 50-hour battery life"
 tags: [Bass-heavy, Earbuds, Noise cancelling, True-wireless]
 permalink: /products/en/audio-technica-ath-cks50tw/

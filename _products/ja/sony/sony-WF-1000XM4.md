@@ -7,6 +7,7 @@ lang: ja
 ref: sony-wf-1000xm4
 date: 2025-07-22
 rating: [3.0, 0.5, 0.7, 0.5, 0.8, 0.5]
+price: 25000
 summary: "業界をリードするノイズキャンセリング性能を持つが、原音忠実度からは外れた音質と、より安価で同等性能の製品の登場により、コストパフォーマンスは限定的。"
 tags: [Bluetooth, LDAC, イヤホン, ソニー, ノイズキャンセリング, 完全ワイヤレス]
 permalink: /products/ja/sony-wf-1000xm4/

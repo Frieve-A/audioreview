@@ -7,6 +7,7 @@ lang: en
 ref: anker-soundcore-glow
 date: 2025-08-09
 rating: [2.8, 0.4, 0.6, 1.0, 0.5, 0.3]
+price: 60
 summary: "Anker's mid-range portable speaker featuring 30W output, 360-degree sound and light effects. Measurements show significant dips in 1-5kHz range and excessive boost above 10kHz, placing it at scientifically problematic levels"
 tags: [360-degree, Bluetooth, LED, Portable, Speakers]
 permalink: /products/en/anker-soundcore-glow/

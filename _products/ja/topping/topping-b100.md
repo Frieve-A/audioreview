@@ -7,6 +7,7 @@ lang: ja
 ref: topping-b100
 date: 2025-07-19
 rating: [3.1, 0.8, 0.8, 0.4, 0.3, 0.8]
+price: 89700
 summary: "Topping B100は優れた測定性能を実現するClass ABモノブロック・パワーアンプですが、同等性能の製品が半額以下で入手可能なためコストパフォーマンスに課題があります。"
 tags: [AB級, Topping, アンプ, モノブロック]
 permalink: /products/ja/topping-b100/

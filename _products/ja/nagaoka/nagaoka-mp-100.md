@@ -7,6 +7,7 @@ lang: ja
 ref: nagaoka-mp-100
 date: 2025-07-10
 rating: [2.0, 0.3, 0.4, 0.5, 0.6, 0.2]
+price: 15000
 summary: "基本的な性能を持つが、多くの点で時代遅れなMMカートリッジ"
 tags: [カートリッジ, MM, アナログ, ターンテーブル]
 permalink: /products/ja/nagaoka-mp-100/

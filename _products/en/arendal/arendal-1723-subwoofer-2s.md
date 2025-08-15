@@ -7,6 +7,7 @@ lang: en
 ref: arendal-1723-subwoofer-2s
 date: 2025-08-05
 rating: [3.3, 0.7, 0.8, 0.3, 0.7, 0.8]
+price: 2399
 summary: "Sealed dual-driver subwoofer by Norwegian Arendal Sound. High-quality product with force-canceling design that halves distortion rates."
 tags: [Subwoofer, Sealed, Dual-Driver, THX, Norway]
 permalink: /products/en/arendal-1723-subwoofer-2s/

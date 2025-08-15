@@ -7,6 +7,7 @@ lang: ja
 ref: top-wing-opt-lan-bridge
 date: 2025-07-25
 rating: [1.7, 0.2, 0.6, 0.1, 0.5, 0.3]
+price: 44000
 summary: "SFP/RJ45メディアコンバーターにオーディオ専用設計を謳った44,000円（税込）の製品。基本機能は16 USDの汎用品と同等でありながら、科学的根拠に乏しい音質改善効果を主張する。"
 tags: [メディアコンバーター, ネットワーク機器, オーディオアクセサリ, SFP]
 permalink: /products/ja/top-wing-opt-lan-bridge/

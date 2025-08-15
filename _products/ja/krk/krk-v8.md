@@ -7,6 +7,7 @@ lang: ja
 ref: krk-v8
 date: 2025-07-23
 rating: [2.9, 0.7, 0.6, 0.4, 0.8, 0.4]
+price: 125850
 summary: "KRK V8 Series 4は29-24kHz対応の8インチスタジオモニターですが、1本839USDの価格設定により、同等機能を持つ競合製品と比較してコストパフォーマンスに劣ります。"
 tags: [スタジオモニター, KRK, 8インチ, アクティブモニター]
 permalink: /products/ja/krk-v8/

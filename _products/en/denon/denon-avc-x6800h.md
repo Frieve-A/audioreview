@@ -7,6 +7,7 @@ lang: en
 ref: denon-avc-x6800h
 date: 2025-08-01
 rating: [3.6, 0.8, 0.6, 0.8, 0.8, 0.6]
+price: 3499
 summary: "As a Made-in-Japan 11.4-channel AV receiver, this product boasts high basic performance but has room for improvement in cost-performance compared to competing products."
 tags: [8K, AV Receiver, DTS:X, Dolby Atmos, Japan]
 permalink: /products/en/denon-avc-x6800h/

@@ -7,6 +7,7 @@ lang: ja
 ref: sony-sa-sw7
 date: 2025-08-04
 rating: [3.2, 0.5, 0.5, 1.0, 0.7, 0.5]
+price: 29223
 summary: "Sony SA-SW7は100Wの出力と130mmドライバーを搭載したワイヤレスサブウーファーで、ワイヤレス接続対応製品の中では優れたコストパフォーマンスを実現しています。"
 tags: [BRAVIA Theatre, サブウーファー, ソニー, ワイヤレス]
 permalink: /products/ja/sony-sa-sw7/

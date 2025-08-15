@@ -7,6 +7,7 @@ lang: en
 ref: jbl-305p-mkii
 date: 2025-07-08
 rating: [4.2, 0.9, 0.8, 1.0, 0.8, 0.7]
+price: 119
 summary: "A 5-inch nearfield monitor born from JBL's professional monitor series. Boasts high technical performance backed by measurement data including 0.2% THD, 75dB SNR, and 49Hz-20kHz frequency response. Achieves overwhelming cost-performance at 119 USD per unit, providing the highest measurement performance in its price range. The Image Control Waveguide offers wide sweet spot, while the Boundary EQ function is practical for desktop use."
 tags: [305P, 5-inch, Bi-amp, JBL, Professional, Studio monitors]
 permalink: /products/en/jbl-305p-mkii/

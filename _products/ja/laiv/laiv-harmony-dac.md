@@ -7,6 +7,7 @@ lang: ja
 ref: laiv-harmony-dac
 date: 2025-07-24
 rating: [2.0, 0.6, 0.6, 0.1, 0.4, 0.3]
+price: 405000
 summary: "Intel FPGA搭載のR2R DAC。しかし測定性能は凡庸で、コストパフォーマンスに致命的な問題を抱える。"
 tags: [DAC, FPGA, Laiv, R2R, ハイエンド]
 permalink: /products/ja/laiv-harmony-dac/

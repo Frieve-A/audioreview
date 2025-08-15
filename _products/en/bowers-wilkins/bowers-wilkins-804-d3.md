@@ -7,6 +7,7 @@ lang: ja
 ref: bowers-wilkins-804-d3
 date: 2025-07-31
 rating: [2.7, 0.3, 0.7, 0.2, 0.8, 0.7]
+price: 1540000
 summary: "Diamondシリーズ第3世代のフロアスタンディングスピーカー。ダイヤモンドツイーターとContinuum FST技術を採用するも、測定性能と価格のバランスに課題があります。"
 tags: [スピーカー, フロアスタンディング, ハイエンド, 3ウェイ, ダイヤモンドツイーター]
 permalink: /products/ja/bowers-wilkins-804-d3/

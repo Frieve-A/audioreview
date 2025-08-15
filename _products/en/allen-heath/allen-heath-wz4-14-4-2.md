@@ -7,6 +7,7 @@ lang: en
 ref: allen-heath-wz4-14-4-2
 date: 2025-07-26
 rating: [3.5, 0.9, 0.7, 0.3, 0.8, 0.8]
+price: 1653
 summary: "A professional analog mixer with excellent, transparent-level measurement performance, but with significant cost-performance issues compared to digital mixers."
 tags: [Allen & Heath, Analog, Live Sound, Mixers, Pro Audio]
 permalink: /products/en/allen-heath-wz4-14-4-2/

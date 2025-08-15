@@ -7,6 +7,7 @@ lang: ja
 ref: sony-wh-1000xm6
 date: 2025-07-11
 rating: [4.2, 0.8, 0.9, 0.7, 0.9, 0.9]
+price: 56313
 summary: "ソニーのフラッグシップワイヤレスノイズキャンセリングヘッドホン。折りたたみ機構の復活と音質改善を実現した高品質な製品。"
 tags: [Bluetooth, アクティブノイズキャンセリング, ノイズキャンセリング, ヘッドホン, ワイヤレス]
 permalink: /products/ja/sony-wh-1000xm6/

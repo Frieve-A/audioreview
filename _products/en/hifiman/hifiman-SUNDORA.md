@@ -7,6 +7,7 @@ lang: en
 ref: hifiman-sundara
 date: 2025-07-22
 rating: [4.0, 0.8, 0.7, 1.0, 0.8, 0.7]
+price: 300
 summary: "The HiFiMAN SUNDARA is a mid-range open-back headphone employing planar magnetic technology, achieving excellent measurement performance and scientifically valid sound quality improvements. It offers high competitiveness in its price range."
 tags: [Headphones, HiFiMAN, Open-back, Planar magnetic]
 permalink: /products/en/hifiman-sundara/

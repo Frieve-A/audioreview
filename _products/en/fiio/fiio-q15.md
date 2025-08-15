@@ -7,6 +7,7 @@ lang: en
 ref: fiio-q15
 date: 2025-08-11
 rating: [3.0, 0.7, 0.6, 0.7, 0.6, 0.4]
+price: 440
 summary: "Portable DAC/amplifier featuring AK4191+AK4499EX DAC combo with 1600mW balanced output, comprehensive connectivity options, and desktop mode functionality (MSRP 399 USD; current street price ~439.99 USD)."
 tags: [AKM, Amplifiers, Balanced, Bluetooth, DAC, LDAC, Portable]
 permalink: /products/en/fiio-q15/

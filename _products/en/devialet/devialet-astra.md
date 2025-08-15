@@ -7,6 +7,7 @@ lang: en
 ref: devialet-astra
 date: 2025-08-13
 rating: [3.2, 0.6, 0.8, 0.3, 0.9, 0.6]
+price: 20000
 summary: "French integrated amplifier combining ADH technology with high-end aesthetics at ultra-premium pricing"
 tags: [Class D, France, Hybrid, Integrated amplifier, Streaming]
 permalink: /products/en/devialet-astra/

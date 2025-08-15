@@ -7,6 +7,7 @@ lang: en
 ref: fostex-th909
 date: 2025-07-27
 rating: [2.8, 0.7, 0.8, 0.2, 0.5, 0.6]
+price: 2000
 summary: "An open-back flagship headphone featuring Biodyna drivers, but its extremely high price results in poor cost-performance compared to competing products with similar performance."
 tags: [Open-back, Dynamic, High-end, Biodyna, Fostex]
 permalink: /products/en/fostex-th909/

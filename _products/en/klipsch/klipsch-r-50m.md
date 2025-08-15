@@ -7,6 +7,7 @@ lang: en
 ref: klipsch-r-50m
 date: 2025-08-10
 rating: [2.5, 0.5, 0.5, 0.5, 0.5, 0.5]
+price: 199
 summary: "Reference series bookshelf speaker featuring 5.25-inch Spun-Copper woofer and 1-inch aluminum tweeter. Claims 92dB sensitivity but faces cost-performance challenges compared to cheaper alternatives in the same price range."
 tags: [2-Way, 5.25-inch Woofer, Bookshelf speakers, Entry Class, Horn tweeter]
 permalink: /products/en/klipsch-r-50m/

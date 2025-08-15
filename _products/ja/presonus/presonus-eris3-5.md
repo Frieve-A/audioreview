@@ -7,6 +7,7 @@ lang: ja
 ref: presonus-eris3-5
 date: 2025-07-20
 rating: [2.7, 0.5, 0.6, 0.6, 0.5, 0.5]
+price: 19300
 summary: "PreSonus Eris3-5は、コンパクトな3.5インチスタジオモニターですが、科学的測定基準では競合製品に劣る部分が多く見られます。"
 tags: [スタジオモニター, 3.5インチ, パワードスピーカー, PreSonus]
 permalink: /products/ja/presonus-eris3-5/

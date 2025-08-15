@@ -7,6 +7,7 @@ lang: en
 ref: akg-k92
 date: 2025-08-10
 rating: [2.4, 0.2, 0.6, 0.5, 0.7, 0.4]
+price: 58
 summary: "AKG's entry-level closed-back studio monitor headphones"
 tags: [Closed-back, Entry-level, Headphones, Studio monitors]
 permalink: /products/en/akg-k92/

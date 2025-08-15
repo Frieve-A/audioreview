@@ -7,6 +7,7 @@ lang: ja
 ref: smsl-a50-pro
 date: 2025-08-01
 rating: [3.6, 0.8, 0.5, 1.0, 0.5, 0.8]
+price: 13000
 summary: "MA12070Pチップを搭載した2.1チャンネルClass Dアンプ。HDMI ARCを装備し、優れた測定性能と高いコストパフォーマンスを両立"
 tags: [2.1チャンネル, Bluetooth, D級, HDMI ARC, SMSL, アンプ]
 permalink: /products/ja/smsl-a50-pro/

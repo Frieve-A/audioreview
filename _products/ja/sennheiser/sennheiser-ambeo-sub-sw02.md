@@ -7,6 +7,7 @@ lang: ja
 ref: sennheiser-ambeo-sub-sw02
 date: 2025-08-12
 rating: [3.7, 0.5, 0.6, 0.9, 0.8, 0.9]
+price: 127500
 summary: "自動ルームキャリブレーションとAMBEOエコシステム連携を備えるワイヤレスサブウーファー。27Hz延伸とマルチサブ対応を実現する一方、主要競合より価格はやや高め。"
 tags: [サブウーファー, ワイヤレス, ホームシアター, 低音, ルーム補正]
 permalink: /products/ja/sennheiser-ambeo-sub-sw02/

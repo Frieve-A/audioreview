@@ -7,6 +7,7 @@ lang: ja
 ref: jabra-elite-10
 date: 2025-07-09
 rating: [2.9, 0.6, 0.7, 0.4, 0.6, 0.6]
+price: 28500
 summary: "Jabra Elite 10は10mmドライバーとLE Audio対応スマートケースを搭載した完全ワイヤレスイヤホン。業界平均レベルの音質性能を持つが、同等機能製品との価格差が大きく、事業撤退により将来的なサポートに不安がある。"
 tags: [完全ワイヤレスイヤホン, アクティブノイズキャンセリング, Dolby Audio, 撤退製品]
 permalink: /products/ja/jabra-elite-10/

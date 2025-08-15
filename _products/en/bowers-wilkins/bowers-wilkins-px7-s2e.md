@@ -7,6 +7,7 @@ lang: en
 ref: bowers-wilkins-px7-s2e
 date: 2025-07-29
 rating: [3.7, 0.6, 0.7, 0.9, 0.7, 0.8]
+price: 227
 summary: "High-quality wireless ANC headphones with biocellulose drivers and a premium design, differentiated by a unique acoustic philosophy amidst strong competitors in its price range."
 tags: [Bluetooth, Headphones, Noise cancelling, Premium, Wireless]
 permalink: /products/en/bowers-wilkins-px7-s2e/

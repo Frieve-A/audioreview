@@ -7,6 +7,7 @@ lang: ja
 ref: jbl-stage-260f
 date: 2025-08-13
 rating: [2.3, 0.5, 0.5, 0.4, 0.5, 0.4]
+price: 82493
 summary: "JBL Stage 260Fは、デュアル6.5インチウーファーとHDIウェーブガイド技術を搭載した2.5ウェイフロア型スピーカーで、プレミアム価格帯で控えめな性能を提供します。"
 tags: [フロア型, スピーカー, JBL, Stage, HDI, ホームオーディオ]
 permalink: /products/ja/jbl-stage-260f/

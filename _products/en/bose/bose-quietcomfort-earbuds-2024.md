@@ -7,6 +7,7 @@ lang: en
 ref: bose-quietcomfort-earbuds-2024
 date: 2025-07-26
 rating: [2.7, 0.6, 0.7, 0.4, 0.4, 0.6]
+price: 179
 summary: "True wireless earbuds offering excellent ANC and long battery life, but marked by compromises in sound quality and reported connectivity issues, facing challenges in price competitiveness."
 tags: [Active noise cancelling, Bluetooth, True wireless earbuds]
 permalink: /products/en/bose-quietcomfort-earbuds-2024/

@@ -7,6 +7,7 @@ lang: ja
 ref: minidsp-umik-2
 date: 2025-07-18
 rating: [3.3, 0.6, 0.7, 1.0, 0.5, 0.5]
+price: 29250
 summary: "大型カプセルによる低ノイズ設計が特徴的なUSB測定マイクで、同等機能のUSB測定マイクとしては最安価格を実現"
 tags: [測定マイク, USB, 校正, 音響測定]
 permalink: /products/ja/minidsp-umik-2/

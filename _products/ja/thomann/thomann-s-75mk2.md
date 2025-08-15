@@ -7,6 +7,7 @@ lang: ja
 ref: thomann-s-75mk2
 date: 2025-07-21
 rating: [2.5, 0.2, 0.3, 0.7, 0.6, 0.7]
+price: 19170
 summary: "t.amp S-75 MK IIは75W出力のクラスABパワーアンプで、小規模設備向けの廉価製品として設計されています。"
 tags: [19インチラック, 75W, AB級, パワーアンプ, プロ音響]
 permalink: /products/ja/thomann-s-75mk2/

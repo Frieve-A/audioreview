@@ -7,6 +7,7 @@ lang: en
 ref: focal-sub-one
 date: 2025-08-13
 rating: [2.9, 0.5, 0.6, 0.6, 0.8, 0.4]
+price: 1199
 summary: "Dual 8-inch Slatefiber cones, 200W RMS (2×100W Class D), 32–120 Hz (±3 dB), 114 dB peak. MSRP about 1,199 USD in the US; value is moderate given cheaper ≥performance alternatives."
 tags: [Subwoofer, Active, Studio, Professional, Slatefiber]
 permalink: /products/en/focal-sub-one/

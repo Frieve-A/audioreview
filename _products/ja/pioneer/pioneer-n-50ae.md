@@ -7,6 +7,7 @@ lang: ja
 ref: pioneer-n-50ae
 date: 2025-08-09
 rating: [2.9, 0.5, 0.6, 0.9, 0.4, 0.5]
+price: 35000
 summary: "ESS SABRE32 Ultra DACを搭載したネットワークオーディオプレーヤー。DSD 11.2MHz対応。現在は生産終了で、ファームウェア更新も停止している。現行ではより安価で高性能・高機能な代替が存在する。"
 tags: [DAC, ESS Sabre, ネットワークプレーヤー, パイオニア, 廃盤]
 permalink: /products/ja/pioneer-n-50ae/

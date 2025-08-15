@@ -7,6 +7,7 @@ lang: en
 ref: nobsound-nobsound-a5
 date: 2025-07-24
 rating: [3.6, 0.7, 0.6, 1.0, 0.5, 0.8]
+price: 89.95
 summary: "Class D amplifier in the 90 USD range featuring TPA3255 chip and PFFB technology. Achieves ultra-low distortion of 0.002% and engages in close price competition with equivalent competitors."
 tags: [Amplifiers, Chinese Amplifier, Class D, PFFB, TPA3255]
 permalink: /products/en/nobsound-nobsound-a5/

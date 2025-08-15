@@ -7,6 +7,7 @@ lang: ja
 ref: topping-pa3s
 date: 2025-08-12
 rating: [3.9, 0.8, 0.7, 1.0, 0.6, 0.8]
+price: 22350
 summary: "MA12070チップ搭載のバランス接続対応Class Dアンプ、コンパクトなデスクトップ型で透明な性能を実現"
 tags: [D級, MA12070, アンプ, デスクトップ, バランス]
 permalink: /products/ja/topping-pa3s/

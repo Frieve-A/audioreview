@@ -7,6 +7,7 @@ lang: en
 ref: denon-pma-s1
 date: 2025-08-08
 rating: [2.8, 0.7, 0.6, 0.5, 0.5, 0.5]
+price: 1200
 summary: "Released in 1993 as Denon's flagship integrated amplifier featuring UHC-MOS. Specifications include 50W+50W (8Ω, 20Hz–20kHz), THD 0.007% (1kHz/25W/8Ω), and S/N ratio 108dB (Line). The current used market price of approximately 1,200 USD remains expensive compared to modern high-performance amplifiers."
 tags: [Denon, High-end, Integrated amplifier, UHC-MOS, Vintage]
 permalink: /products/en/denon-pma-s1/

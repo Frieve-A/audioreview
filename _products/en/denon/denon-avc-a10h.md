@@ -7,6 +7,7 @@ lang: en
 ref: denon-avc-a10h
 date: 2025-08-04
 rating: [4.0, 0.6, 0.8, 1.0, 0.8, 0.8]
+price: 4699
 summary: "13.4-channel AV receiver manufactured at Shirakawa Audio Works. Features 13-channel built-in amplification with limited measurement data but offers Japanese manufacturing quality."
 tags: [8K Compatible, AV Receiver, Dolby Atmos, Home Theater, Japan]
 permalink: /products/en/denon-avc-a10h/

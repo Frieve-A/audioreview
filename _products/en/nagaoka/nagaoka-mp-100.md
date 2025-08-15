@@ -7,6 +7,7 @@ lang: en
 ref: nagaoka-mp-100
 date: 2025-07-10
 rating: [2.0, 0.3, 0.4, 0.5, 0.6, 0.2]
+price: 150
 summary: "A basic MM cartridge that is outdated in many respects."
 tags: [Analog, Cartridges, MM, Turntable]
 permalink: /products/en/nagaoka-mp-100/

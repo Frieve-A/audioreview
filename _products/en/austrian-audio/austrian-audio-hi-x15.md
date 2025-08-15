@@ -7,6 +7,7 @@ lang: en
 ref: austrian-audio-hi-x15
 date: 2025-08-13
 rating: [3.1, 0.5, 0.6, 0.9, 0.5, 0.6]
+price: 99
 summary: "Entry-level closed-back studio headphones using a 44mm Hi-X driver. Manufacturer specs are clear, but independent third-party FR/THD data for Hi-X15 remain scarce as of the review date; cost-performance is strong at 99 USD."
 tags: [Headphones, Closed-back, Studio monitoring, Austrian Audio, Hi-X]
 permalink: /products/en/austrian-audio-hi-x15/

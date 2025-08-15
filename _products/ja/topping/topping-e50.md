@@ -7,6 +7,7 @@ lang: ja
 ref: topping-e50
 date: 2025-08-05
 rating: [3.8, 0.9, 0.7, 0.7, 0.7, 0.8]
+price: 40350
 summary: "優秀な測定性能を持つエントリーレベルDAC、ただしコストパフォーマンスで競合製品に劣る"
 tags: [DAC, Topping, デスクトップ, USB, 高解像度]
 permalink: /products/ja/topping-e50/

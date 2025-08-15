@@ -7,6 +7,7 @@ lang: en
 ref: audio-technica-ath-m20x
 date: 2025-08-14
 rating: [2.0, 0.3, 0.2, 1.0, 0.3, 0.2]
+price: 59
 summary: "Entry-level closed-back monitors with neutral-leaning mids, audible low-bass roll-off, and weak passive isolation; excellent value around 59 USD for basic tracking in quiet rooms."
 tags: [Headphones, Studio, Monitor, Budget, Closed-back]
 permalink: /products/en/audio-technica-ath-m20x/

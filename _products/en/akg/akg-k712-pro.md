@@ -7,6 +7,7 @@ lang: en
 ref: akg-k712-pro
 date: 2025-07-08
 rating: [3.2, 0.7, 0.6, 0.3, 0.8, 0.8]
+price: 232
 summary: "Open-back reference headphones with flat frequency response characteristics. Excellent audio quality but faces price competitiveness challenges with affordable alternatives available."
 tags: [Headphones, Open-back, Reference, Monitor, DTM]
 permalink: /products/en/akg-k712-pro/

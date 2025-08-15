@@ -7,6 +7,7 @@ lang: en
 ref: bowers-wilkins-805-d4-signature
 date: 2025-08-13
 rating: [3.9, 0.7, 0.8, 0.7, 0.9, 0.8]
+price: 14000
 summary: "A measurement-first review of B&W’s flagship standmount. Independent data confirms 88.4dB(B) sensitivity, ~4.7Ω impedance minima with low EPDR, -6dB LF extension to 41Hz, and low THD at 90dB. Treble energy rises above 9–10kHz, so setup/toe-in matters. Cost-performance computes to 0.7 versus KEF Reference 1 Meta, the cheapest equal-or-better option."
 tags: [2-Way, 800 Series, Bookshelf, Continuum, Diamond, Dome tweeter, Loudspeaker, Passive, Signature]
 permalink: /products/en/bowers-wilkins-805-d4-signature/

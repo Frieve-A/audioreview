@@ -7,6 +7,7 @@ lang: en
 ref: jbl-bar-800
 date: 2025-07-07
 rating: [3.8, 0.9, 0.8, 0.6, 0.8, 0.7]
+price: 950
 summary: "JBL's 5.1.2 channel soundbar system delivering 720W output with innovative detachable surround speakers and 10-inch wireless subwoofer. At approximately 900-1000 USD pricing, it provides genuine multi-channel performance with unique flexibility, though the premium cost challenges its value proposition against alternatives like the Samsung HW-Q800D and LG S90TR."
 tags: [America, Soundbar, "Dolby Atmos", "5.1.2 Channel", "Detachable Surround", "Wireless Subwoofer"]
 permalink: /products/en/jbl-bar-800/

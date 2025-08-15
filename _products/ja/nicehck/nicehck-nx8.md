@@ -7,6 +7,7 @@ lang: ja
 ref: nicehck-nx8
 date: 2025-07-27
 rating: [2.6, 0.6, 0.7, 0.4, 0.5, 0.4]
+price: 30000
 summary: "8ドライバートライブリッド構成を採用したNiceHCK NX8は、技術的野心は評価できるものの、コストパフォーマンスに課題を抱える製品です。"
 tags: [NiceHCK, インイヤーモニター, トライブリッド, ハイブリッド]
 permalink: /products/ja/nicehck-nx8/

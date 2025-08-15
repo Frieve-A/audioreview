@@ -7,6 +7,7 @@ lang: ja
 ref: pioneer-se-master1
 date: 2025-07-18
 rating: [1.3, 0.3, 0.4, 0.1, 0.2, 0.3]
+price: 259000
 summary: "259,000円の手作り高級ヘッドホンながら、基本性能でのコストパフォーマンスが著しく低い製品"
 tags: [オープン型, ヘッドホン, 日本, 高級]
 permalink: /products/ja/pioneer-se-master1/

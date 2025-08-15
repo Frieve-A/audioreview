@@ -7,6 +7,7 @@ lang: en
 ref: kef-q150
 date: 2025-07-18
 rating: [3.8, 0.7, 0.7, 0.8, 0.8, 0.8]
+price: 430
 summary: "The KEF Q150 is a bookshelf speaker featuring the company's distinctive Uni-Q driver. It delivers good measured performance and is a competitive option compared to other products in the same price range."
 tags: [2-Way, Bookshelf speakers, KEF, Passive speakers, Uni-Q]
 permalink: /products/en/kef-q150/

@@ -7,6 +7,7 @@ lang: en
 ref: dcs-lina-network-dac
 date: 2025-07-25
 rating: [3.1, 0.9, 0.8, 0.1, 0.7, 0.6]
+price: 6700
 summary: "A premium network DAC with exceptional measurement performance. While the Ring DAC technology achieves transparent-level audio quality, the cost-performance is extremely poor due to numerous competing products offering equivalent performance at significantly lower prices."
 tags: [High-end, Network DAC, Ring DAC, Streaming, dCS]
 permalink: /products/en/dcs-lina-network-dac/

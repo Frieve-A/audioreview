@@ -7,6 +7,7 @@ lang: ja
 ref: sonarworks-calibrated-measurement-microphone
 date: 2025-07-18
 rating: [3.8, 0.8, 0.6, 1.0, 0.8, 0.6]
+price: 10350
 summary: "Sonarworks SoundID Reference測定マイクロフォンは、個別校正による高精度測定を手頃な価格で実現します。約10,000円という価格は、同等の個別校正機能を持つマイクロフォンの中で最もコストパフォーマンスに優れています。"
 tags: [測定マイクロフォン, 音響測定, 校正, Sonarworks]
 permalink: /products/ja/sonarworks-calibrated-measurement-microphone/

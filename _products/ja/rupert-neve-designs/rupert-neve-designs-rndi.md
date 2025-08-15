@@ -7,6 +7,7 @@ lang: ja
 ref: rupert-neve-designs-rndi
 date: 2025-07-21
 rating: [2.9, 0.7, 0.7, 0.1, 0.8, 0.6]
+price: 38500
 summary: "独自の伝統的アナログ技術が光るプレミアムDIボックス。設計は優れるものの、コストパフォーマンスは極めて低く、現代における必要性も限定的。"
 tags: [DI Box, Recording Equipment, Rupert Neve, オーディオインターフェース]
 permalink: /products/ja/rupert-neve-designs-rndi/

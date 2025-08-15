@@ -7,6 +7,7 @@ lang: ja
 ref: moondrop-ultrasonic
 date: 2025-08-07
 rating: [3.8, 0.7, 0.8, 0.9, 0.7, 0.7]
+price: 9900
 summary: "Moondrop ULTRASONICは9,900円 (74.99 USD) で、13mm TiNセラミックコーティングドーム複合振動板＋FRA高域BAのハイブリッド構成、LDAC対応、ANC機能を備える完全ワイヤレスイヤホンです。公開情報と第三者レビューに整合する堅実な設計で、遮音とANCの物理的制約を踏まえると科学的有効性は中程度ですが、総合的に良好なコストパフォーマンスを示します。"
 tags: [LDAC, Moondrop, アクティブノイズキャンセリング, ハイブリッドドライバー, ワイヤレスイヤホン, 完全ワイヤレスイヤホン]
 permalink: /products/ja/moondrop-ultrasonic/

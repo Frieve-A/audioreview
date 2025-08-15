@@ -7,6 +7,7 @@ lang: ja
 ref: schiit-audio-yggdrasil-plus
 date: 2025-07-25
 rating: [2.8, 0.8, 0.7, 0.3, 0.8, 0.2]
+price: 404850
 summary: "高価格のマルチビットDAC。競合は1/3の価格でより優れた測定性能を実現しており、コストパフォーマンスは極めて低い。"
 tags: [DAC, R2R, アメリカ, マルチビット, 高級]
 permalink: /products/ja/schiit-audio-yggdrasil-plus/

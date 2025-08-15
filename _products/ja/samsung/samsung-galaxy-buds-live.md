@@ -7,6 +7,7 @@ lang: ja
 ref: samsung-galaxy-buds-live
 date: 2025-07-31
 rating: [2.3, 0.3, 0.4, 0.6, 0.7, 0.3]
+price: 24000
 summary: "2020年発売の特徴的なビーン型デザインを採用したオープンイヤー型ANC搭載完全ワイヤレスイヤホン。開放型設計とANCの矛盾した組み合わせにより音質面で課題が多く、現在では同等以上の機能をより安価で実現できる製品が多数存在するため、コストパフォーマンスは低い。"
 tags: [Open-fit, Samsung, Wireless Earbuds, アクティブノイズキャンセリング, 完全ワイヤレスイヤホン]
 permalink: /products/ja/samsung-galaxy-buds-live/

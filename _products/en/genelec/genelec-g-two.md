@@ -7,6 +7,7 @@ lang: en
 ref: genelec-g-two
 date: 2025-08-07
 rating: [2.9, 0.7, 0.6, 0.1, 0.8, 0.7]
+price: 880
 summary: "Finnish Genelec's 4-inch active monitor. Measurement performance is good, but the price is extremely high, about 6-10 times compared to products with equivalent functions. Currently available as G Two B model."
 tags: [Active speakers, Desktop Speakers, Genelec, Monitor Speakers, Studio monitors]
 permalink: /products/en/genelec-g-two/

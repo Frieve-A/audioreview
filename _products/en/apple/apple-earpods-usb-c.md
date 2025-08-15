@@ -7,6 +7,7 @@ lang: en
 ref: apple-earpods-usb-c
 date: 2025-07-19
 rating: [1.4, 0.3, 0.2, 0.4, 0.3, 0.2]
+price: 19
 summary: "Apple's wired earphones USB-C version. Measurement results show 12dB bass deficiency and frequency response consistency issues, resulting in extremely low scientific validity. Technology level is also at the level of off-the-shelf design combinations."
 tags: [Apple, Earphones, USB-C, Wired, Entry-level]
 permalink: /products/en/apple-earpods-usb-c/

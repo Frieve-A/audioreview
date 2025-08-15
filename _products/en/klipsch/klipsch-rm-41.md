@@ -7,6 +7,7 @@ lang: en
 ref: klipsch-r-41m
 date: 2025-07-24
 rating: [2.6, 0.6, 0.5, 0.3, 0.6, 0.6]
+price: 313
 summary: "Compact bookshelf speaker featuring Klipsch's proprietary Tractrix horn technology. The high-efficiency design achieves high volume with minimal power, but measurement performance has room for improvement, and significantly cheaper competitive products exist, limiting price competitiveness."
 tags: [Bookshelf, High-efficiency, Horn-loaded, Speakers]
 permalink: /products/en/klipsch-r-41m/

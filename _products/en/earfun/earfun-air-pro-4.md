@@ -7,6 +7,7 @@ lang: en
 ref: earfun-air-pro-4
 date: 2025-07-25
 rating: [3.7, 0.7, 0.8, 1.0, 0.4, 0.8]
+price: 67
 summary: "Wireless earbuds featuring a Qualcomm QCC3091 chip and aptX Lossless support, delivering high-quality audio and excellent cost-performance, though reliability concerns for the emerging brand remain."
 tags: [ANC, Bluetooth5.4, Hi-Res, LDAC, Wireless Earbuds, aptX Lossless]
 permalink: /products/en/earfun-air-pro-4/

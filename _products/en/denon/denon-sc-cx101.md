@@ -7,6 +7,7 @@ lang: en
 ref: denon-sc-cx101
 date: 2025-07-21
 rating: [2.5, 0.3, 0.7, 0.8, 0.4, 0.3]
+price: 133
 summary: "The Denon SC-CX101 is a compact 2-way bass-reflex bookshelf speaker. Claims 40kHz high-frequency reproduction in a compact body, but scientific validity is limited, with reasonable cost-performance as a discontinued product"
 tags: [Speakers, Bookshelf, Compact, 2-Way]
 permalink: /products/en/denon-sc-cx101/

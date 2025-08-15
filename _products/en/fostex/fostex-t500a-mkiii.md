@@ -7,6 +7,7 @@ lang: en
 ref: fostex-t500a-mkiii
 date: 2025-08-14
 rating: [2.0, 0.4, 0.6, 0.2, 0.4, 0.4]
+price: 2524
 summary: "Premium horn super tweeter with limited measured performance and extremely poor cost-performance ratio"
 tags: [Fostex, High-end, Horn Super Tweeter, Limited Production]
 permalink: /products/en/fostex-t500a-mkiii/

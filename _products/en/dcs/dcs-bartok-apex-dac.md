@@ -7,6 +7,7 @@ lang: en
 ref: dcs-bartok-apex-dac
 date: 2025-07-25
 rating: [2.7, 0.7, 0.8, 0.1, 0.8, 0.3]
+price: 24200
 summary: "dCS's high-end streaming DAC. Its proprietary Ring DAC technology is distinctive, but its price is grossly disproportionate to its measured performance and features, resulting in extremely poor cost-rationality."
 tags: [DAC, Streaming, High-end, dCS, Ring DAC, APEX]
 permalink: /products/en/dcs-bartok-apex-dac/

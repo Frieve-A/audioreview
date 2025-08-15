@@ -7,6 +7,7 @@ lang: ja
 ref: monitor-audio-vestra-w10
 date: 2025-07-06
 rating: [2.9, 0.6, 0.5, 0.7, 0.6, 0.5]
+price: 134850
 summary: "C-CAMドライバー技術を採用した小型10インチ密閉型サブウーファーで、小規模から中規模の部屋でコントロールされた低音パフォーマンスを提供し、Monitor Audioのサブウーファーラインアップへの手頃なエントリーモデルとして位置付けられています。"
 tags: [C-CAM Driver, Class D Amplifier, Sealed Enclosure, サブウーファー]
 permalink: /products/ja/monitor-audio-vestra-w10/

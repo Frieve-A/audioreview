@@ -7,6 +7,7 @@ lang: en
 ref: jbl-hdi-3800
 date: 2025-07-30
 rating: [3.3, 0.7, 0.8, 0.4, 0.6, 0.8]
+price: 4400
 summary: "As the flagship floor-standing speaker of the HDI series, it features advanced waveguide technology but is challenged by its cost-performance ratio."
 tags: [Floorstanding speakers, HDI, High Sensitivity, Horn tweeter, JBL]
 permalink: /products/en/jbl-hdi-3800/

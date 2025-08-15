@@ -7,6 +7,7 @@ lang: ja
 ref: pioneer-n-70ae
 date: 2025-08-09
 rating: [2.0, 0.5, 0.3, 0.3, 0.5, 0.4]
+price: 188000
 summary: "デュアルESS SABRE32 Ultra DAC搭載のハイエンドネットワークオーディオプレーヤー。高解像度音源対応とマルチルーム機能を備えるが、現行競合と比較すると価格性能比に課題がある。"
 tags: [ネットワークプレーヤー, DAC, ストリーマー, ハイレゾ, DSD, パイオニア]
 permalink: /products/ja/pioneer-n-70ae/

@@ -7,6 +7,7 @@ lang: en
 ref: kz-edx-lite
 date: 2025-08-08
 rating: [2.2, 0.4, 0.4, 0.7, 0.4, 0.3]
+price: 10
 summary: "The KZ EDX Lite is an ultra-budget entry-level IEM featuring a 10mm dynamic driver. While the 10 USD price point is attractive, publicly available measurements indicate limited scientific audio improvement effects."
 tags: [Budget, Dynamic, Entry-level, In-ear monitors, KZ]
 permalink: /products/en/kz-edx-lite/

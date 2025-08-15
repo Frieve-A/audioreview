@@ -7,7 +7,8 @@ lang: ja
 ref: trn-black-pearl
 date: 2025-08-07
 rating: [4.2, 0.8, 0.8, 1.0, 0.8, 0.8]
-summary: "TRN Black Pearlは、37ドルという価格でハイエンド並みの性能を実現したポータブルDAC/アンプです。デュアルCS43131 DACチップ採用により、透明度の高い測定性能を達成しています。"
+price: 5550
+summary: "TRN Black Pearlは、37ドルという価格でハイエンド並みの性能を実現したポータブルDAC/アンプです。デュアルCS431431 DACチップ採用により、透明度の高い測定性能を達成しています。"
 tags: [DAC, アンプ, ポータブル, CS43131, デュアルチップ, 中華]
 permalink: /products/ja/trn-black-pearl/
 ---

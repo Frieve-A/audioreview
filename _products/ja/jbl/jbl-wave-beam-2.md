@@ -7,6 +7,7 @@ lang: ja
 ref: jbl-wave-beam-2
 date: 2025-08-08
 rating: [3.1, 0.5, 0.5, 1.0, 0.5, 0.6]
+price: 8030
 summary: "エントリー価格ながらANCとマルチポイント、IP54を備える完全ワイヤレスで、機能面の合理性と価格の強さが光ります。"
 tags: [完全ワイヤレス, ノイズキャンセリング, マルチポイント, JBL]
 permalink: /products/ja/jbl-wave-beam-2/

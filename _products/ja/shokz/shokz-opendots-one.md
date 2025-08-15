@@ -7,6 +7,7 @@ lang: ja
 ref: shokz-opendots-one
 date: 2025-07-14
 rating: [2.1, 0.4, 0.4, 0.2, 0.6, 0.5]
+price: 29900
 summary: "Shokz初のイヤーカフ型イヤホン。DirectPitch™技術による音漏れ抑制とBassphere™技術による低音強化を特徴とするが、29,900円という価格設定は同等機能を持つ競合製品と比較して極めて高い"
 tags: [イヤーカフ型, オープンイヤー, Shokz, エアコンダクション, Dolby Audio]
 permalink: /products/ja/shokz-opendots-one/

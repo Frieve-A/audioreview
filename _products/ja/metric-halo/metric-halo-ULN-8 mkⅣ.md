@@ -7,6 +7,7 @@ lang: ja
 ref: metric-halo-ULN-8 mkⅣ
 date: 2025-07-23
 rating: [3.3, 0.9, 0.8, 0.5, 0.3, 0.8]
+price: 775000
 summary: "MHLinkネットワーキングとDSPプラグインバンドルを特徴とするプロフェッショナル8チャンネルインターフェイス。高品質だが専用機能を活用できる特殊用途向け"
 tags: [DSP, USB-C, オーディオインターフェース, プロフェッショナル]
 permalink: /products/ja/metric-halo-ULN-8 mkⅣ/

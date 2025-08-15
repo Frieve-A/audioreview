@@ -7,6 +7,7 @@ lang: en
 ref: meze-audio-105aer
 date: 2025-07-20
 rating: [3.0, 0.5, 0.8, 0.5, 0.8, 0.4]
+price: 399
 summary: "An open-back headphone featuring advanced driver technology, but with significant cost-performance challenges at its 399 USD price point."
 tags: [50mm, Dynamic driver, Headphones, Open-back]
 permalink: /products/en/meze-audio-105aer/

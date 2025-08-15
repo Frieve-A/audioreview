@@ -7,6 +7,7 @@ lang: en
 ref: peerless-by-tymphany-ne95w
 date: 2025-08-11
 rating: [2.9, 0.6, 0.6, 0.9, 0.4, 0.4]
+price: 39
 summary: "3-inch full-range driver with aluminum cone and die-cast basket. Measurements show ripple in the upper band; flatness is limited, but cost-performance reaches 0.9 based on a like-for-like price comparison."
 tags: [Speaker Driver, Full Range, Peerless, Tymphany, DIY]
 permalink: /products/en/peerless-by-tymphany-ne95w/

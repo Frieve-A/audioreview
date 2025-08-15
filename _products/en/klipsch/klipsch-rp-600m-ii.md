@@ -7,6 +7,7 @@ lang: en
 ref: klipsch-rp-600m-ii
 date: 2025-07-09
 rating: [2.2, 0.4, 0.6, 0.3, 0.6, 0.3]
+price: 759
 summary: "The Klipsch RP-600M II is a 2-way bookshelf speaker featuring a 6.5-inch woofer and 1-inch horn tweeter with improved acoustic performance over the previous model, though evaluation is limited by design philosophy rationality and certain technical constraints."
 tags: [2-Way, 6.5 Inch Woofer, Bookshelf speakers, High Sensitivity, Horn tweeter]
 permalink: /products/en/klipsch-rp-600m-ii/

@@ -7,6 +7,7 @@ lang: ja
 ref: sennheiser-hd-599se
 date: 2025-08-07
 rating: [3.5, 0.7, 0.6, 0.8, 0.7, 0.7]
+price: 13980
 summary: "SennheiserのHD 599SEは、E.A.R.技術を搭載したオープンバック型ヘッドホンです。測定性能は良好ですが、同等以上の性能を持つより安価な選択肢が存在するため、コストパフォーマンスの面で課題があります。"
 tags: [ヘッドホン, オープンバック, Sennheiser, オーディオファイル]
 permalink: /products/ja/sennheiser-hd-599se/

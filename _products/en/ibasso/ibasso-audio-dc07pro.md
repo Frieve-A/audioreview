@@ -7,6 +7,7 @@ lang: en
 ref: ibasso-dc07pro
 date: 2025-07-08
 rating: [4.2, 0.9, 0.8, 0.7, 0.9, 0.9]
+price: 199
 summary: "Portable DAC/amp with quad CS43131 chips. Highest-level measurement performance with excellent functionality and good cost performance in price range"
 tags: [Portable DAC, CS43131, FPGA, USB-C, High Output]
 permalink: /products/en/ibasso-dc07pro/

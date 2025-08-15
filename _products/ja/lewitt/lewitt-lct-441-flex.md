@@ -7,6 +7,7 @@ lang: ja
 ref: lewitt-lct-441-flex
 date: 2025-08-09
 rating: [3.8, 0.7, 0.7, 1.0, 0.5, 0.9]
+price: 59850
 summary: "8種類のポーラーパターンを持つ大型ダイアフラムコンデンサーマイクロフォンで、低ノイズ設計と144dBの高SPL対応が特徴ですが、測定性能では上位機種に劣ります。"
 tags: [コンデンサーマイク, マルチパターン, レコーディング, Lewitt]
 permalink: /products/ja/lewitt-lct-441-flex/

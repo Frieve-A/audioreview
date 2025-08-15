@@ -7,6 +7,7 @@ lang: ja
 ref: polk-audio-signature-elite-es50
 date: 2025-07-25
 rating: [2.7, 0.6, 0.5, 0.3, 0.7, 0.6]
+price: 75000
 summary: "Polk Audio Signature Elite ES50は、Hi-Res Audio認証とDolby Atmos対応を謳うフロアスタンディングスピーカーですが、性能面で競争力のある製品が大幅に安価で存在するため、コストパフォーマンスに深刻な課題があります。"
 tags: [Dolby Atmos, Polk Audio, タワースピーカー, ハイレゾ, フロアスタンディングスピーカー]
 permalink: /products/ja/polk-audio-signature-elite-es50/

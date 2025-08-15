@@ -7,6 +7,7 @@ lang: ja
 ref: rme-adi-2-4-pro-se
 date: 2025-07-14
 rating: [4.5, 0.9, 0.8, 1.0, 0.8, 1.0]
+price: 352000
 summary: "プロオーディオの最高峰を目指すRMEによる32bit/768kHz対応AD/DAコンバーター。測定性能は業界最高水準を達成し、プロ用AD/DAコンバーターの中で優れたコストパフォーマンスを実現しています。"
 tags: [RME, ADコンバーター, DACコンバーター, プロオーディオ, 768kHz, 32bit]
 permalink: /products/ja/rme-adi-2-4-pro-se/

@@ -7,6 +7,7 @@ lang: ja
 ref: svs-sb-1000-pro
 date: 2025-07-25
 rating: [4.0, 0.7, 0.6, 1.0, 0.9, 0.8]
+price: 89850
 summary: "高度なDSP制御を搭載した12インチシールド型サブウーファー。独自のアプリ機能による高い調整能力と、業界最高水準のサポートが特徴です。"
 tags: [サブウーファー, シールド型, DSP, SVS, ホームシアター]
 permalink: /products/ja/svs-sb-1000-pro/

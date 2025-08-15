@@ -7,6 +7,7 @@ lang: en
 ref: monitor-audio-vestra-w12
 date: 2025-08-11
 rating: [3.1, 0.6, 0.7, 0.7, 0.5, 0.6]
+price: 1099
 summary: "12-inch sealed subwoofer with C-CAM driver technology and DSP control, competing in the premium segment with mixed cost-performance value"
 tags: [Subwoofer, Monitor Audio, Sealed Box, Class D, DSP]
 permalink: /products/en/monitor-audio-vestra-w12/

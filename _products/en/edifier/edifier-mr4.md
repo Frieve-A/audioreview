@@ -7,6 +7,7 @@ lang: en
 ref: edifier-mr4
 date: 2025-07-11
 rating: [3.3, 0.4, 0.6, 1.0, 0.7, 0.6]
+price: 115
 summary: "An entry-level studio monitor offered at an affordable price, but notable for its sub-bass reproduction limitations below 60Hz and mediocre measurement performance"
 tags: [Active speakers, Entry-level, Nearfield monitor, Studio monitors]
 permalink: /products/en/edifier-mr4/

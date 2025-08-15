@@ -7,6 +7,7 @@ lang: ja
 ref: sony-ult-field-5
 date: 2025-08-09
 rating: [3.1, 0.5, 0.5, 1.0, 0.6, 0.5]
+price: 26480
 summary: "重低音特化のポータブルスピーカー。測定値の公開は確認できないため評価は慎重だが、IP67防水と最大25時間再生に対応"
 tags: [Bluetoothスピーカー, ソニー, ポータブルスピーカー, 防水スピーカー]
 permalink: /products/ja/sony-ult-field-5/

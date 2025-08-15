@@ -7,6 +7,7 @@ lang: en
 ref: denon-dcd-a110
 date: 2025-07-26
 rating: [2.8, 0.7, 0.7, 0.2, 0.8, 0.4]
+price: 1518
 summary: "Denon's 110th anniversary SACD/CD player. Features Japanese craftsmanship with robust build quality and four Burr Brown PCM1795 DAC chips for high-quality playback, but cost-performance is poor due to the availability of alternatives offering equivalent functionality at one-sixth the price."
 tags: [110th Anniversary, CD Player, Denon, Japan, SACD]
 permalink: /products/en/denon-dcd-a110/

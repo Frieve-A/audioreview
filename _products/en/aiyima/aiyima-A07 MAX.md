@@ -7,6 +7,7 @@ lang: en
 ref: aiyima-a07-max
 date: 2025-07-22
 rating: [2.5, 0.6, 0.4, 0.8, 0.4, 0.3]
+price: 93
 summary: "A Class D amplifier using the TPA3255 chip. While its nominal performance is high, measurements reveal some issues. It offers versatility, but its design philosophy is not entirely rational."
 tags: [Chinese Product, Class D, Power amplifier, TPA3255]
 permalink: /products/en/aiyima-a07-max/

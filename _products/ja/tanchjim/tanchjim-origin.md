@@ -7,6 +7,7 @@ lang: ja
 ref: tanchjim-origin
 date: 2025-08-12
 rating: [2.8, 0.7, 0.6, 0.3, 0.8, 0.4]
+price: 38999
 summary: "第5世代DMT技術を搭載したシングルダイナミックドライバーIEM。製造品質は優秀だが、Truthear Gateなどの高性能低価格機と比べるとコストパフォーマンスは限定的。"
 tags: [Tanchjim, インイヤーモニター, シングルDD, ダイナミックドライバー, ハイファイ]
 permalink: /products/ja/tanchjim-origin/

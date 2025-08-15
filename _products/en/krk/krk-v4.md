@@ -7,6 +7,7 @@ lang: en
 ref: krk-v4
 date: 2025-07-23
 rating: [2.6, 0.6, 0.5, 0.2, 0.6, 0.7]
+price: 293
 summary: "The KRK V4 is a studio monitor with standard performance, but receives limited evaluation from scientific and technical perspectives due to the existence of more affordable alternatives."
 tags: [4inch, Active speakers, KRK, Studio monitors]
 permalink: /products/en/krk-v4/

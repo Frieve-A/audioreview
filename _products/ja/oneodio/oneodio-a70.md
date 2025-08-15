@@ -7,6 +7,7 @@ lang: ja
 ref: oneodio-a70
 date: 2025-07-29
 rating: [2.3, 0.2, 0.4, 1.0, 0.4, 0.3]
+price: 5980
 summary: "極端なベース強調と設計上の問題により、音質重視のユーザーには推奨できないワイヤレスヘッドホン"
 tags: [ワイヤレスヘッドホン, Bluetooth, DJ, モニター, 低価格]
 permalink: /products/ja/oneodio-a70/

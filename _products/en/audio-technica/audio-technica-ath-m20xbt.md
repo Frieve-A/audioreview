@@ -7,6 +7,7 @@ lang: en
 ref: audio-technica-ath-m20xbt
 date: 2025-07-20
 rating: [3.0, 0.6, 0.4, 0.8, 0.6, 0.6]
+price: 78
 summary: "An entry-level model combining monitor-style sound with wireless features. While it offers solid basic performance, it lacks features like ANC and is outperformed by competitors in cost-performance."
 tags: [Headphones, Wireless, Bluetooth, Monitor, Audio-Technica]
 permalink: /products/en/audio-technica-ath-m20xbt/

@@ -7,6 +7,7 @@ lang: ja
 ref: peerless-by-tymphany-ne95w
 date: 2025-08-11
 rating: [2.9, 0.6, 0.6, 0.9, 0.4, 0.4]
+price: 6102
 summary: "3インチフルレンジドライバー。アルミコーンと鋳造アルミニウムバスケット採用。測定上は高域でのリップルが見られ、フラットさは限定的だが、国内実売価格に対する代替比較ではCPは0.9"
 tags: [Speaker Driver, Full Range, Peerless, Tymphany, DIY]
 permalink: /products/ja/peerless-by-tymphany-ne95w/

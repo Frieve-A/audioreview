@@ -7,6 +7,7 @@ lang: en
 ref: frieve-effetune
 date: 2025-08-11
 rating: [3.7, 0.6, 0.7, 1.0, 0.6, 0.8]
+price: 0
 summary: "Free, open-source real-time audio effect processor with multi-platform support and scientific approach to audio processing"
 tags: [Software, DSP, Free, OpenSource, RealTime]
 permalink: /products/en/frieve-effetune/

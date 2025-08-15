@@ -7,6 +7,7 @@ lang: en
 ref: gustard-r26
 date: 2025-08-10
 rating: [2.4, 0.4, 0.6, 0.9, 0.2, 0.3]
+price: 1800
 summary: "R2R ladder DAC with comprehensive connectivity but significant performance compromises compared to modern alternatives"
 tags: [DAC, Desktop, Digital Source, Network streamer, R2R]
 permalink: /products/en/gustard-r26/

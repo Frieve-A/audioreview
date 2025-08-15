@@ -7,6 +7,7 @@ lang: ja
 ref: polk-audio-reserve-r700
 date: 2025-07-18
 rating: [4.0, 0.7, 0.8, 1.0, 0.8, 0.7]
+price: 330000
 summary: "Polk Audio Reserve R700は、クラス最高レベルの測定性能を、極めて競争力のある価格で実現したタワースピーカーです。同等の性能を持つ製品の中では最もコストパフォーマンスに優れ、卓越した価値を提供します。"
 tags: [タワースピーカー, 3ウェイ, ハイレゾ, Polk Audio, フロアスタンディング]
 permalink: /products/ja/polk-audio-reserve-r700/

@@ -7,6 +7,7 @@ lang: en
 ref: marantz-na-11s1
 date: 2025-08-02
 rating: [2.7, 0.8, 0.4, 0.5, 0.6, 0.4]
+price: 767
 summary: "Reference-class network audio player released in 2013. Despite excellent measurement performance, it is extremely expensive and lacks rationality compared to modern alternatives."
 tags: [DAC, Discontinued, High-end, Network player, Network streamer]
 permalink: /products/en/marantz-na-11s1/

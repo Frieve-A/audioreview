@@ -7,6 +7,7 @@ lang: en
 ref: fostex-rs-n2
 date: 2025-08-08
 rating: [3.5, 0.7, 0.4, 0.9, 0.8, 0.7]
+price: 2000
 summary: "The Fostex RS-N2 is a professional 3-way reference monitor employing distinctive engineering. It differs in design philosophy from modern DSP-integrated monitors and is primarily made-to-order for professional applications."
 tags: [3-Way, Active speakers, Fostex, Pro Audio, Professional, Studio monitors]
 permalink: /products/en/fostex-rs-n2/

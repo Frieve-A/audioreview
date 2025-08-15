@@ -7,6 +7,7 @@ lang: en
 ref: kz-symphony
 date: 2025-07-27
 rating: [2.2, 0.3, 0.7, 0.4, 0.5, 0.3]
+price: 69.99
 summary: "The KZ Symphony adopts an ambitious hybrid configuration, but its measurement performance is problematic and inferior to cheaper single-driver products. Consequently, its cost-performance and design rationality are highly questionable, resulting in a low overall evaluation."
 tags: [Dynamic, Earphones, Hybrid, In-ear monitors, KZ, Planar]
 permalink: /products/en/kz-symphony/

@@ -7,6 +7,7 @@ lang: en
 ref: crown-amcron-dc-300a-seriesii
 date: 2025-07-21
 rating: [2.5, 0.9, 0.4, 0.3, 0.5, 0.4]
+price: 350
 summary: "A legendary professional power amplifier from 1996, but shows significant technical obsolescence and cost-performance issues by modern standards"
 tags: [Amcron, Class AB, Crown, Power amplifier, Professional, Vintage]
 permalink: /products/en/crown-amcron-dc-300a-seriesii/

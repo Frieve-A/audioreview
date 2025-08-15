@@ -7,6 +7,7 @@ lang: en
 ref: anker-soundcore-liberty-4-nc
 date: 2025-07-09
 rating: [3.4, 0.6, 0.6, 0.9, 0.7, 0.6]
+price: 67
 summary: "True wireless earbuds achieving Ultra Noise Cancelling 3.0, LDAC support, and up to 50-hour playback at 87 USD. Boasts strongest-class noise cancellation performance in the early 67 USD range, but retains bass-heavy tendencies in sound quality."
 tags: [Anker, LDAC, Liberty 4 NC, Noise cancellation, Soundcore, Wireless earphones]
 permalink: /products/en/anker-soundcore-liberty-4-nc/

@@ -7,6 +7,7 @@ lang: ja
 ref: oasa-electronics-egretta-ts-a200asb
 date: 2025-07-23
 rating: [1.9, 0.4, 0.3, 0.3, 0.4, 0.5]
+price: 196000
 summary: "OASA Electronics Egretta TS-A200asBは独自の全方位音響設計を採用していますが、限定的な周波数特性と、より安価で高性能な代替製品が存在するため、コストパフォーマンスが低い製品です。"
 tags: [アクティブスピーカー, デスクトップスピーカー, 全方位スピーカー, 高価格]
 permalink: /products/ja/oasa-electronics-egretta-ts-a200asb/

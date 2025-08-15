@@ -7,6 +7,7 @@ lang: en
 ref: kz-decet
 date: 2025-07-27
 rating: [2.4, 0.5, 0.6, 0.4, 0.3, 0.6]
+price: 32
 summary: "Features a 10-driver configuration (5 per side), but receives a limited evaluation due to a lack of independent measurement data and reliability concerns, leaving its performance unknown."
 tags: [Chinese IEM, Earphones, In-ear monitors, KZ, Multi-driver]
 permalink: /products/en/kz-decet/

@@ -7,6 +7,7 @@ lang: en
 ref: moondrop-para
 date: 2025-07-28
 rating: [2.7, 0.5, 0.7, 0.4, 0.6, 0.5]
+price: 299
 summary: "The Moondrop Para is an open-back headphone featuring a 100mm planar magnetic driver and FDT technology. Despite its advanced technical features, it has clear issues with its acoustic characteristics and cost-performance."
 tags: [FDT, Headphones, Mid-range, Moondrop, Open-back, Planar magnetic]
 permalink: /products/en/moondrop-para/

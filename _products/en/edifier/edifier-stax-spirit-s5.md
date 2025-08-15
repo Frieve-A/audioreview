@@ -7,6 +7,7 @@ lang: en
 ref: edifier-stax-spirit-s5
 date: 2025-07-24
 rating: [3.2, 0.7, 0.7, 0.7, 0.5, 0.6]
+price: 499
 summary: "While this premium headphone with wireless planar magnetic drivers offers respectable audio performance, it faces significant challenges regarding its overall value due to a lack of features (especially ANC) justifying its 499 USD price and the existence of a more cost-effective competitor."
 tags: [Bluetooth, Headphones, Planar magnetic, Premium, Wireless]
 permalink: /products/en/edifier-stax-spirit-s5/

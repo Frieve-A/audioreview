@@ -7,6 +7,7 @@ lang: ja
 ref: kz-edx-lite
 date: 2025-08-08
 rating: [2.2, 0.4, 0.4, 0.7, 0.4, 0.3]
+price: 1500
 summary: "KZ EDX Liteは10mmダイナミックドライバーを搭載した超低価格帯のエントリーIEMです。1,500円という価格は魅力的ですが、公開測定の範囲で確認できる科学的な音質改善効果は限定的です。"
 tags: [KZ, インイヤーモニター, エントリー, 低価格, ダイナミック]
 permalink: /products/ja/kz-edx-lite/

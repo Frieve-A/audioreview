@@ -7,6 +7,7 @@ lang: en
 ref: genelec-8030cp
 date: 2025-07-30
 rating: [3.6, 0.8, 0.8, 0.3, 0.9, 0.8]
+price: 528
 summary: "5-inch active studio monitor by Finnish veteran manufacturer Genelec. Features excellent measured performance and reliability, but cost-performance is inferior compared to competing products with equivalent functionality."
 tags: [Active speakers, Near-field Monitor, Pro Audio, Studio monitors]
 permalink: /products/en/genelec-8030cp/

@@ -7,6 +7,7 @@ lang: en
 ref: genelec-8350a
 date: 2025-08-12
 rating: [4.0, 0.8, 0.7, 0.7, 0.9, 0.9]
+price: 2595
 summary: "Professional SAM studio monitor with excellent engineering; strong value given cheaper DSP-calibrated peers exist"
 tags: [8 Inch, Active Monitor, Professional, SAM Technology, Studio monitors]
 permalink: /products/en/genelec-8350a/

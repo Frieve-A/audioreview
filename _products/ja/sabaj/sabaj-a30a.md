@@ -7,6 +7,7 @@ lang: ja
 ref: sabaj-a30a
 date: 2025-08-10
 rating: [2.1, 0.5, 0.5, 0.3, 0.6, 0.2]
+price: 67500
 summary: "デジタル信号処理と複数入力オプションを備えたクラスDプリメインアンプですが、独立した測定検証がなく、より安価な代替品からの強力な競争に直面しています。"
 tags: [Bluetooth, DSP, D級, アンプ, デジタル入力]
 permalink: /products/ja/sabaj-a30a/

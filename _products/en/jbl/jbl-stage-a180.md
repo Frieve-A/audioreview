@@ -7,6 +7,7 @@ lang: en
 ref: jbl-stage-a180
 date: 2025-08-13
 rating: [3.0, 0.4, 0.6, 1.0, 0.6, 0.4]
+price: 400
 summary: "Budget floor standing speaker with deep bass capability but problematic treble tuning causing piercing highs that are difficult to correct through EQ."
 tags: [Floor Standing Speakers, Tower Speakers, Budget Audio, JBL, HDI Waveguide]
 permalink: /products/en/jbl-stage-a180/

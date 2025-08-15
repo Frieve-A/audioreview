@@ -7,6 +7,7 @@ lang: en
 ref: kef-lsx-ii
 date: 2025-07-18
 rating: [4.0, 0.7, 0.8, 1.0, 0.8, 0.7]
+price: 1400
 summary: "The KEF LSX II is a unique compact wireless speaker in its price range, integrating a proprietary Uni-Q coaxial driver and versatile streaming capabilities. It establishes a distinct market position by combining excellent acoustic performance with comprehensive connectivity."
 tags: [Wireless Speaker, Uni-Q Driver, Streaming Capable, Coaxial Speaker]
 permalink: /products/en/kef-lsx-ii/

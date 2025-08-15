@@ -7,7 +7,8 @@ lang: en
 ref: linear-technology-m-151
 date: 2025-08-09
 rating: [1.8, 0.5, 0.4, 0.1, 0.3, 0.5]
-summary: "Japanese high-end monaural power amplifier released in 1985. The design intent is distinctive for its time, but no public measurement data exists; against today’s measurement-disclosed landscape, superiority cannot be substantiated."
+price: 6040
+summary: "Japanese high-end monaural power amplifier released in 1985. The design intent is distinctive for its time, but no public measurement data exists; against today's measurement-disclosed landscape, superiority cannot be substantiated."
 tags: [Japanese Audio, Monaural, Power amplifier, Vintage]
 permalink: /products/en/linear-technology-m-151/
 ---

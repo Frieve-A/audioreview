@@ -7,6 +7,7 @@ lang: en
 ref: marantz-Model 10
 date: 2025-07-27
 rating: [2.9, 0.9, 0.8, 0.3, 0.6, 0.3]
+price: 15000
 summary: "Marantz's flagship integrated amplifier with custom Purifi Class D module offers top-tier measurements, but its 15,000 USD price is undermined by cost-effective alternatives providing equivalent output, functionality, and performance, including digital-integrated options."
 tags: [Analog, Class D, High-end, Integrated amplifier, Purifi]
 permalink: /products/en/marantz-Model 10/

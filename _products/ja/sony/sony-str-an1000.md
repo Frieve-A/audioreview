@@ -7,6 +7,7 @@ lang: ja
 ref: sony-str-an1000
 date: 2025-07-09
 rating: [2.9, 0.6, 0.4, 0.7, 0.6, 0.6]
+price: 89700
 summary: "Sony STR-AN1000は7.2チャンネルAVレシーバーで、8K/4K HDMI 2.1対応やDolby Atmos、DTS:X対応という基本的な機能を提供するが、測定性能・技術レベル・コストパフォーマンスの面で厳しい評価となる。"
 tags: [AVレシーバー, 7.2チャンネル, Dolby Atmos, DTS:X, 8K対応, HDMI 2.1]
 permalink: /products/ja/sony-str-an1000/

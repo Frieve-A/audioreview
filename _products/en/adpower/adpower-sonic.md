@@ -7,6 +7,7 @@ lang: en
 ref: adpower-sonic
 date: 2025-08-02
 rating: [1.1, 0.1, 0.2, 0.2, 0.5, 0.1]
+price: 47
 summary: "An audio equipment sheet claiming static electricity removal that lacks a scientific basis and is an extremely expensive pseudoscientific product."
 tags: [Audio Accessories, Static Electricity Removal, EMI Shielding]
 permalink: /products/en/adpower-sonic/

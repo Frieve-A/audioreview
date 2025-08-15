@@ -7,6 +7,7 @@ lang: en
 ref: nothing-nothing-ear
 date: 2025-08-04
 rating: [3.4, 0.6, 0.7, 1.0, 0.5, 0.6]
+price: 149
 summary: "Nothing Ear offers excellent 45dB ANC performance, advanced parametric EQ, Personal Sound Profile, and LHDC codec support for 149 USD. Its measurement performance is standard, making it a strong option for users prioritizing detailed sound customization and functionality over cost."
 tags: [Active noise cancelling, Nothing, True Wireless Earphones]
 permalink: /products/en/nothing-nothing-ear/

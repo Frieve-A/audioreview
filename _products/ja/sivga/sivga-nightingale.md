@@ -7,6 +7,7 @@ lang: ja
 ref: sivga-nightingale
 date: 2025-08-02
 rating: [2.9, 0.6, 0.7, 0.4, 0.5, 0.7]
+price: 34350
 summary: "14.5mm プラナー磁気ドライバーを搭載したインイヤーモニター。ミッドレンジに特化した音響特性を持つが、コストパフォーマンスに課題あり。"
 tags: [Sivga, インイヤーモニター, プラナーマグネティック, プラナー磁気]
 permalink: /products/ja/sivga-nightingale/

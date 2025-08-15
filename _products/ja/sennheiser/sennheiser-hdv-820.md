@@ -7,6 +7,7 @@ lang: ja
 ref: sennheiser-hdv-820
 date: 2025-08-10
 rating: [2.1, 0.3, 0.7, 0.2, 0.6, 0.3]
+price: 412500
 summary: "プレミアムポジショニングと価格設定に矛盾する測定上の問題を持つハイエンドDAC/ヘッドホンアンプ。"
 tags: [DAC, ヘッドホンアンプ, ESS-SABRE32, バランス, デスクトップオーディオ]
 permalink: /products/ja/sennheiser-hdv-820/

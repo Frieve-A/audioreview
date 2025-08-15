@@ -7,6 +7,7 @@ lang: ja
 ref: sonos-ace
 date: 2025-08-09
 rating: [2.4, 0.3, 0.6, 0.6, 0.4, 0.5]
+price: 59800
 summary: "Sonosの初ヘッドホン製品。TV Audio Swapなど独自機能を搭載するが、V字型音響特性と歪みの問題により科学的有効性は平均以下"
 tags: [ヘッドホン, ワイヤレス, ノイズキャンセリング, Bluetooth, オーバーイヤー]
 permalink: /products/ja/sonos-ace/

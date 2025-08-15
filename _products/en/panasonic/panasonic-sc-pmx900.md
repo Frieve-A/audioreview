@@ -7,6 +7,7 @@ lang: en
 ref: panasonic-sc-pmx900
 date: 2025-08-12
 rating: [3.3, 0.4, 0.7, 1.0, 0.6, 0.6]
+price: 280
 summary: "Technics-tuned CD stereo system with Bluetooth, AirPlay 2/Chromecast built-in, USB-B/optical inputs, and DSD (2.8/5.6MHz) playback"
 tags: [CD Player, Stereo System, Bluetooth, High-Resolution Audio, Technics, Digital Amplifier]
 permalink: /products/en/panasonic-sc-pmx900/

@@ -7,6 +7,7 @@ lang: en
 ref: denon-avr-x4500h
 date: 2025-07-27
 rating: [3.7, 0.8, 0.7, 1.0, 0.4, 0.8]
+price: 600
 summary: "A powerful 9.2-channel AV receiver from 2018, pioneering IMAX Enhanced support and offering 11.2-channel processing. Available on the used market for around 600 USD, it combines excellent performance (THD 0.05%) and cost-performance, but carries risks as a discontinued product."
 tags: [4K Support, 9 Channel, AV Receiver, Dolby Atmos, IMAX Enhanced, Room correction]
 permalink: /products/en/denon-avr-x4500h/

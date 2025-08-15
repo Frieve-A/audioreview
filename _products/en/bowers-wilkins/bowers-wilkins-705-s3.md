@@ -7,6 +7,7 @@ lang: en
 ref: bowers-wilkins-705-s3
 date: 2025-07-31
 rating: [3.1, 0.7, 0.7, 0.5, 0.4, 0.8]
+price: 3400
 summary: "A high-end bookshelf speaker that demonstrates standard-level performance in scientific measurements but faces challenges in cost-performance and support quality"
 tags: [Bookshelf speakers, Bowers & Wilkins, High-end, Passive speakers]
 permalink: /products/en/bowers-wilkins-705-s3/

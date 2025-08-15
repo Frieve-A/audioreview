@@ -7,6 +7,7 @@ lang: en
 ref: bose-501z
 date: 2025-08-03
 rating: [1.5, 0.2, 0.3, 0.2, 0.4, 0.4]
+price: 133
 summary: "Acoustimass satellite speaker system released in 1988. Significantly inferior acoustic performance and low cost-performance by modern measurement standards"
 tags: [Satellite Speaker, Subwoofer, Vintage, Acoustimass]
 permalink: /products/en/bose-501z/

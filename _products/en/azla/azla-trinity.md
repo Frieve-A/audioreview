@@ -7,6 +7,7 @@ lang: en
 ref: azla-trinity
 date: 2025-08-08
 rating: [2.9, 0.5, 0.4, 1.0, 0.5, 0.5]
+price: 14.7
 summary: "Entry-level model featuring an 8mm driver, 3-layer composite diaphragm, and Hi-Res Audio certification for analog playback. Scientific validity remains hard to assess due to insufficient measurement disclosure"
 tags: [Earphones, Entry-level, Hi-Res, USB-C, Wired]
 permalink: /products/en/azla-trinity/

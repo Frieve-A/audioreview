@@ -7,6 +7,7 @@ lang: en
 ref: audio-technica-fluat-at-ic700
 date: 2025-07-23
 rating: [1.2, 0.1, 0.5, 0.0, 0.5, 0.1]
+price: 323
 summary: "High-priced interconnect cable featuring 6N-OFC+PCUHD+HYPER OFC triple hybrid conductors. No scientifically verifiable performance improvements confirmed, with extremely poor cost-performance."
 tags: [Audio-Technica, FLUAT, High-end, Interconnect Cable]
 permalink: /products/en/audio-technica-fluat-at-ic700/

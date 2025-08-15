@@ -7,6 +7,7 @@ lang: ja
 ref: tanchjim-ola-bass
 date: 2025-07-24
 rating: [2.7, 0.6, 0.6, 0.5, 0.5, 0.5]
+price: 6500
 summary: "10mm PEEK振動板を採用したシングルDD搭載IEMながら、同等性能の低価格代替品が多数存在し、コストパフォーマンスで劣勢"
 tags: [Bass Enhanced, Single Dynamic Driver, Tanchjim, インイヤーモニター, コストパフォーマンス]
 permalink: /products/ja/tanchjim-ola-bass/

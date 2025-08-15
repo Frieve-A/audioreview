@@ -7,6 +7,7 @@ lang: ja
 ref: kripton-ks-55hg
 date: 2025-07-27
 rating: [2.6, 0.5, 0.6, 0.3, 0.6, 0.6]
+price: 143000
 summary: "世界初のLDAC/aptX Adaptive両対応を謳うが、技術的先進性と価格のバランスに課題を残すワイヤレススピーカー"
 tags: [アクティブスピーカー, ワイヤレス, LDAC, aptX Adaptive, デスクトップ]
 permalink: /products/ja/kripton-ks-55hg/

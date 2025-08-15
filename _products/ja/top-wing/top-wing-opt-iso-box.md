@@ -7,6 +7,7 @@ lang: ja
 ref: top-wing-opt-iso-box
 date: 2025-07-27
 rating: [1.2, 0.1, 0.3, 0.1, 0.4, 0.3]
+price: 39600
 summary: "光アイソレーション技術を採用したネットワークオーディオ用LANアイソレーターですが、約4万円という価格に対して科学的根拠と費用対効果の両面で重大な問題があります。"
 tags: [ネットワークオーディオ, LANアイソレーター, 光変換, ノイズ対策]
 permalink: /products/ja/top-wing-opt-iso-box/

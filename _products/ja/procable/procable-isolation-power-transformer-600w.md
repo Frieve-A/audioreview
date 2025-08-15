@@ -7,6 +7,7 @@ lang: ja
 ref: procable-isolation-power-transformer-600w
 date: 2025-07-26
 rating: [2.5, 0.3, 0.4, 1.0, 0.6, 0.2]
+price: 47800
 summary: "ProCableの600Wアイソレーショントランスは、客観的データは欠如しているものの、原理的には有効な電源ノイズ対策を提供します。企業の販売姿勢には合理性の点で大きな疑問符がつきますが、600W容量の完成品としては市場で希少な選択肢です。"
 tags: [電源機器, アイソレーション, ギター, ProCable, 600W]
 permalink: /products/ja/procable-isolation-power-transformer-600w/

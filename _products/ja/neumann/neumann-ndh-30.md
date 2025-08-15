@@ -7,6 +7,7 @@ lang: ja
 ref: neumann-ndh-30
 date: 2025-08-07
 rating: [4.4, 0.8, 0.8, 1.0, 0.9, 0.9]
+price: 73040
 summary: "プロフェッショナル向けオープンバック・スタジオヘッドホン。優秀な測定性能と設計思想を持つ。"
 tags: [ヘッドホン, オープンバック, スタジオモニター, プロフェッショナル]
 permalink: /products/ja/neumann-ndh-30/

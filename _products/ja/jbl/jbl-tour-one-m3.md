@@ -7,6 +7,7 @@ lang: ja
 ref: jbl-tour-one-m3
 date: 2025-07-25
 rating: [3.6, 0.6, 0.8, 0.8, 0.7, 0.7]
+price: 54780
 summary: "スマートケース（送信機）を搭載した革新的なANCヘッドホンだが、周波数特性に課題があり、音質向上にはEQ調整が必須"
 tags: [ANCヘッドホン, ワイヤレス, LDAC, ノイズキャンセリング, スマートケース, JBL]
 permalink: /products/ja/jbl-tour-one-m3/

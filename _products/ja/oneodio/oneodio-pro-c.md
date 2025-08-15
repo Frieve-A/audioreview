@@ -7,6 +7,7 @@ lang: ja
 ref: oneodio-pro-c
 date: 2025-07-29
 rating: [2.2, 0.2, 0.3, 1.0, 0.5, 0.2]
+price: 7000
 summary: "110時間の長時間再生を特徴とする低価格ワイヤレスヘッドホン。科学的音質再現からは大きく逸脱するものの、その驚異的なバッテリー性能は、特定のニーズに対して最高のコストパフォーマンスを提供します。"
 tags: [ワイヤレスヘッドホン, 低価格, 長時間再生, V字型, Bluetooth]
 permalink: /products/ja/oneodio-pro-c/

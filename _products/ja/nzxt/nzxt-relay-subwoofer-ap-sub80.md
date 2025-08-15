@@ -7,6 +7,7 @@ lang: ja
 ref: nzxt-relay-subwoofer-ap-sub80
 date: 2025-08-12
 rating: [2.5, 0.2, 0.5, 1.0, 0.5, 0.3]
+price: 22499
 summary: "ゲーミング用途に特化したサブウーファーですが、周波数レンジが限定的でTHD仕様が高い製品です"
 tags: [サブウーファー, ゲーミング, NZXT, デスクトップオーディオ]
 permalink: /products/ja/nzxt-relay-subwoofer-ap-sub80/

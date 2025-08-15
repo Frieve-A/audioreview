@@ -7,6 +7,7 @@ lang: en
 ref: audiophonics-laiv-harmony-udac
 date: 2025-07-26
 rating: [2.6, 0.8, 0.6, 0.3, 0.5, 0.4]
+price: 994
 summary: "The LAIV Harmony uDAC is an R2R ladder DAC with excellent measurement performance, but its cost-performance is extremely low as products with equivalent or superior performance are available for about a quarter of the price."
 tags: [DAC, R2R, LAIV, Audiophonics, Hi-Res]
 permalink: /products/en/audiophonics-laiv-harmony-udac/

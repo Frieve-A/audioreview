@@ -7,6 +7,7 @@ lang: ja
 ref: sennheiser-momentum-4-wireless
 date: 2025-08-09
 rating: [3.9, 0.7, 0.7, 1.0, 0.8, 0.7]
+price: 56300
 summary: "最大60時間バッテリーのANCワイヤレス。現行の同等以上性能の競合が本機より高価なため、定義上のCPは高い"
 tags: [ワイヤレスヘッドホン, ノイズキャンセリング, オーバーイヤー, Bluetooth]
 permalink: /products/ja/sennheiser-momentum-4-wireless/

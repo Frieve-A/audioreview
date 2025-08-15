@@ -7,6 +7,7 @@ lang: en
 ref: benchmark-dac3
 date: 2025-08-10
 rating: [4.2, 0.9, 0.8, 0.9, 0.7, 0.9]
+price: 2195
 summary: "High-performance DAC featuring ESS ES9028PRO chip. Delivers world-class measurements with strong price competitiveness among equivalents"
 tags: [America, Balanced output, Benchmark, DAC, Desktop DAC, ESS, High-end, Pro Audio]
 permalink: /products/en/benchmark-dac3/

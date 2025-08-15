@@ -7,6 +7,7 @@ lang: en
 ref: bic-america-fh-65b
 date: 2025-07-24
 rating: [2.9, 0.4, 0.5, 0.7, 0.7, 0.6]
+price: 438
 summary: "The BIC America FH-65B is a 6.5-inch 2-way bookshelf speaker featuring a high-sensitivity horn tweeter design. However, due to a lack of objective measurement data to support its performance and challenges in cost-performance, its overall rating is below average."
 tags: [BIC America, Bookshelf speakers, Home Theater, Horn tweeter]
 permalink: /products/en/bic-america-fh-65b/

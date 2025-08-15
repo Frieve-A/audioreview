@@ -7,6 +7,7 @@ lang: en
 ref: fostex-th900mk2
 date: 2025-07-25
 rating: [2.5, 0.4, 0.8, 0.2, 0.7, 0.4]
+price: 1525
 summary: "Premium closed-back headphones with significant V-shaped characteristics causing challenges in scientific validity"
 tags: [Headphones, Closed-back, Premium, Fostex, Dynamic]
 permalink: /products/en/fostex-th900mk2/

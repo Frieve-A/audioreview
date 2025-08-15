@@ -7,6 +7,7 @@ lang: en
 ref: antelope-audio-amari
 date: 2025-07-13
 rating: [2.6, 0.9, 0.7, 0.0, 0.5, 0.5]
+price: 3000
 summary: "Reference-grade AD/DA converter featuring 8×DAC architecture and 138dB dynamic range. Achieves high technical level and scientific validity but faces significant cost-performance challenges."
 tags: [AD/DA Converter, High-end, Mastering, Premium Equipment, Reference]
 permalink: /products/en/antelope-audio-amari/

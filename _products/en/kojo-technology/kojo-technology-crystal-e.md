@@ -7,6 +7,7 @@ lang: en
 ref: kojo-technology-crystal-e-en
 date: 2025-08-14
 rating: [1.2, 0.1, 0.5, 0.2, 0.4, 0.0]
+price: 379.99
 summary: "Well-built Japanese passive grounding box with an 8-layer metal stack. Lacks third-party measurement evidence of audible benefits and is poor value versus cheaper, functionally equivalent options."
 tags: [grounding box, passive, Japan, audio accessory]
 permalink: /products/en/kojo-technology-crystal-e/

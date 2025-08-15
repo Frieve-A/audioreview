@@ -7,6 +7,7 @@ lang: en
 ref: epz-p50
 date: 2025-07-27
 rating: [3.2, 0.7, 0.8, 0.5, 0.5, 0.7]
+price: 180
 summary: "As a tribrid IEM featuring 1DD+2BA+2 planar configuration, this product demonstrates technical advancement and acoustic performance with recognized competitiveness in its price range. Particularly strong low-frequency depth and texture provide advantages over same-price competitors."
 tags: [EPZ, Hybrid, In-ear monitors, Tribrid]
 permalink: /products/en/epz-p50/

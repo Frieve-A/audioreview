@@ -7,6 +7,7 @@ lang: ja
 ref: soulnote-ampifer-a-3
 date: 2025-07-22
 rating: [1.0, 0.1, 0.3, 0.0, 0.5, 0.1]
+price: 1660000
 summary: "独自の設計思想を持つものの、測定性能は現代の基準を大幅に下回り、科学的有効性は極めて低い。数十分の一の価格の製品に性能で劣るため、コストパフォーマンスは存在しない。"
 tags: [A級, アナログ, インテグレーテッドアンプ, ハイエンド, 日本]
 permalink: /products/ja/soulnote-ampifer-a-3/

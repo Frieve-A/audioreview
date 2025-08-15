@@ -7,6 +7,7 @@ lang: ja
 ref: trn-bax-pro
 date: 2025-07-28
 rating: [2.4, 0.4, 0.7, 0.2, 0.7, 0.4]
+price: 60000
 summary: "TRN BAX ProはSonion製静電ドライバーを搭載したハイブリッドIEMです。先進技術を採用しているものの、音源忠実度よりV字型のサウンドを優先したチューニングとなっており、測定性能に基づけばコストパフォーマンスは限定的です。"
 tags: [EST, イヤホン, インイヤーモニター, ハイブリッド, 中華IEM, 静電ドライバー]
 permalink: /products/ja/trn-bax-pro/

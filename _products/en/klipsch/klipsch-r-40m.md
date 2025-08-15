@@ -7,6 +7,7 @@ lang: en
 ref: klipsch-r-40m
 date: 2025-07-30
 rating: [2.0, 0.4, 0.5, 0.3, 0.5, 0.3]
+price: 274
 summary: "Entry-level bookshelf speaker with a 4-inch woofer. Features Tractrix horn technology but measurement performance is below average with poor cost-performance."
 tags: [Bookshelf, Entry-level, Horn, Speakers]
 permalink: /products/en/klipsch-r-40m/

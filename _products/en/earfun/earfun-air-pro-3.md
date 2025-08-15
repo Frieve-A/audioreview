@@ -7,6 +7,7 @@ lang: en
 ref: earfun-air-pro-3
 date: 2025-07-15
 rating: [2.5, 0.4, 0.6, 1.0, 0.3, 0.2]
+price: 57
 summary: "True wireless earbuds featuring 11mm wool composite drivers and Qualcomm QCC3071 chipset. Boasts 43dB ANC performance and 45-hour battery life. Its 57 USD price point gives it exceptional cost-performance, but measurement data reveals significant distortion issues that challenge scientific validity."
 tags: [ANC, Active noise cancelling, Bluetooth5.3, Wireless Earbuds, aptX Adaptive]
 permalink: /products/en/earfun-air-pro-3/

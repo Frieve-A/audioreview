@@ -7,6 +7,7 @@ lang: ja
 ref: thieaudio-prestige
 date: 2025-08-14
 rating: [2.6, 0.6, 0.7, 0.1, 0.6, 0.6]
+price: 194850
 summary: "9ドライバー＋5ウェイのトライブリッド（Prestige LTD）。測定の整合性は堅実ですが、Truthear ZERO: RED（64.99 USD）のように“同等以上の測定性能”を満たす低価格品が存在するため、費用対効果は厳しいです。"
 tags: [イヤホン, インイヤーモニター, トライブリッド, フラッグシップ, 静電型]
 permalink: /products/ja/thieaudio-prestige/

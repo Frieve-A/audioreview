@@ -7,6 +7,7 @@ lang: ja
 ref: meze-audio-105aer
 date: 2025-07-20
 rating: [3.0, 0.5, 0.8, 0.5, 0.8, 0.4]
+price: 59850
 summary: "先進的なドライバー技術を搭載したオープンバック型ヘッドホンですが、399ドルという価格設定に対してコストパフォーマンスに大きな課題があります。"
 tags: [50mm, オープンバック, ヘッドホン, 動的ドライバー]
 permalink: /products/ja/meze-audio-105aer/

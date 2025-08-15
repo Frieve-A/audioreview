@@ -7,6 +7,7 @@ lang: ja
 ref: kef-r7-meta
 date: 2025-07-18
 rating: [4.2, 0.9, 0.9, 1.0, 0.6, 0.8]
+price: 572286
 summary: "MAT搭載の第12世代Uni-Qによる、業界最高水準の忠実度を誇る3ウェイフロアスタンディングスピーカー。その価格に見合う、極めて高い測定性能を実現している。"
 tags: [KEF, スピーカー, フロアスタンディング, MAT, Uni-Q, 3ウェイ]
 permalink: /products/ja/kef-r7-meta/

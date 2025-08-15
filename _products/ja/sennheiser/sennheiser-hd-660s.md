@@ -7,6 +7,7 @@ lang: ja
 ref: sennheiser-hd-660s
 date: 2025-08-02
 rating: [3.6, 0.8, 0.7, 0.5, 0.7, 0.9]
+price: 75000
 summary: "HD 660Sは150オーム設計とTHD 0.04%以下の測定性能を持つオープンバック型ヘッドホンです。しかし、Drop HD 6XX等の競合製品が類似の性能をより低価格で提供しており、コストパフォーマンス面での優位性は限定的です。"
 tags: [Sennheiser, オーディオファイル, オープンバック, ヘッドホン]
 permalink: /products/ja/sennheiser-hd-660s/

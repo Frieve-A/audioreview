@@ -7,6 +7,7 @@ lang: en
 ref: audio-technica-ath-r70xa
 date: 2025-07-12
 rating: [3.6, 0.8, 0.7, 0.5, 0.8, 0.8]
+price: 349
 summary: "The ATH-R70xa is a professional open-back reference headphone featuring a 470Ω high-impedance design, with significantly lower cost-performance compared to alternatives like the ATH-R50x at 159 USD."
 tags: [Headphones, Open-back, Reference, Professional, High-impedance]
 permalink: /products/en/audio-technica-ath-r70xa/

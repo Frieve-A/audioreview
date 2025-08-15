@@ -7,6 +7,7 @@ lang: ja
 ref: sabaj-d5
 date: 2025-08-10
 rating: [3.3, 0.9, 0.6, 0.5, 0.5, 0.8]
+price: 70500
 summary: "ES9038PROチップ搭載デスクトップDAC/アンプ。優秀な測定性能を実現するも、より安価な代替品との競争に直面"
 tags: [DAC, ヘッドホンアンプ, デスクトップ, ES9038PRO, バランス]
 permalink: /products/ja/sabaj-d5/

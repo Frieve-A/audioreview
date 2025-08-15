@@ -7,6 +7,7 @@ lang: en
 ref: denon-perl-pro-ah-c15pl
 date: 2025-08-07
 rating: [2.7, 0.3, 0.8, 0.4, 0.7, 0.5]
+price: 233
 summary: "High-priced true wireless earbuds featuring personalization technology. Despite advanced individual optimization technology, the product suffers from fundamental acoustic performance issues, failing to justify its price point."
 tags: [High-end, Noise Cancellation, Personalization Technology, True Wireless Earbuds]
 permalink: /products/en/denon-perl-pro-ah-c15pl/

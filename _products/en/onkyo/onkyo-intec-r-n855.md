@@ -7,6 +7,7 @@ lang: en
 ref: onkyo-intec-r-n855
 date: 2025-08-04
 rating: [3.9, 0.7, 0.7, 1.0, 0.7, 0.8]
+price: 498
 summary: "Network stereo receiver with excellent measured performance and good cost-performance, but some reliability concerns"
 tags: [Network Receiver, Stereo Amplifier, High-Resolution Audio, Streaming, Onkyo]
 permalink: /products/en/onkyo-intec-r-n855/

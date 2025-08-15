@@ -7,6 +7,7 @@ lang: ja
 ref: sonos-sub-mini
 date: 2025-08-12
 rating: [3.1, 0.4, 0.6, 1.0, 0.7, 0.4]
+price: 64800
 summary: "Sonosエコシステム統合に最適化された、相殺型デュアル6インチドライバー搭載のコンパクト無線サブウーファー。利便性と一体運用に優れますが、エコシステム前提と第三者測定の欠如が制約です。"
 tags: [サブウーファー, ワイヤレス, コンパクト, ホームシアター, 音楽]
 permalink: /products/ja/sonos-sub-mini/

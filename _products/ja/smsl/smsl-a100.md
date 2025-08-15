@@ -7,6 +7,7 @@ lang: ja
 ref: smsl-a100
 date: 2025-07-20
 rating: [3.2, 0.6, 0.4, 1.0, 0.6, 0.6]
+price: 13950
 summary: "Infineon MA12070チップを搭載したコンパクトなClass-Dアンプ。良好な測定性能と優れたコストパフォーマンスを両立しています。"
 tags: [Bluetooth, D級, SMSL, アンプ, コンパクト]
 permalink: /products/ja/smsl-a100/

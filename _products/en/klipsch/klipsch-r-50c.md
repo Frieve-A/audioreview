@@ -7,6 +7,7 @@ lang: en
 ref: klipsch-r-50c
 date: 2025-07-29
 rating: [3.2, 0.5, 0.5, 0.8, 0.7, 0.7]
+price: 352
 summary: "The Klipsch R-50C is a center channel speaker notable for its high sensitivity due to Tractrix horn technology. However, it faces a serious cost-performance challenge due to the existence of more affordable competitors with superior frequency response."
 tags: [Center Channel, Home Theater, Horn-Loaded, Mid-range]
 permalink: /products/en/klipsch-r-50c/

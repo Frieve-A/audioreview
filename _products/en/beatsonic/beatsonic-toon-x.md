@@ -7,6 +7,7 @@ lang: en
 ref: beat-sonic-toon-x
 date: 2025-07-30
 rating: [3.2, 0.8, 0.5, 0.4, 0.7, 0.8]
+price: 352
 summary: "A 4-channel DSP-equipped amplifier designed to improve factory car audio systems. It achieves nearly transparent-level measurement performance, but faces competition from equally capable alternatives at lower prices."
 tags: [Amplifiers, Car Audio, DSP, Plug and Play]
 permalink: /products/en/beat-sonic-toon-x/

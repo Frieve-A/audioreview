@@ -7,6 +7,7 @@ lang: en
 ref: cca-rhapsody
 date: 2025-07-27
 rating: [3.2, 0.3, 0.7, 1.0, 0.6, 0.6]
+price: 45
 summary: "A 6-driver IEM with a 2DD+4BA setup and a 4-stage tuning switch. It achieves the lowest price for equivalent features, but its measurement performance reveals significant issues."
 tags: [Hybrid IEM, Six-Driver, Tuning Switch, Budget IEM, CCA]
 permalink: /products/en/cca-rhapsody/

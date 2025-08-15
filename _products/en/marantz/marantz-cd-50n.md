@@ -7,6 +7,7 @@ lang: en
 ref: marantz-cd-50n
 date: 2025-08-03
 rating: [3.4, 0.9, 0.7, 0.4, 0.8, 0.6]
+price: 2000
 summary: "Premium CD player and network audio streamer with ESS DAC, HEOS, HDMI ARC, and high-resolution support, but significantly overpriced compared to alternative solutions"
 tags: [CD Player, ESS DAC, HDMI ARC, HEOS, Network streamer]
 permalink: /products/en/marantz-cd-50n/

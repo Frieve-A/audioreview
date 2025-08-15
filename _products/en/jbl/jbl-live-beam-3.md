@@ -7,6 +7,7 @@ lang: en
 ref: jbl-live-beam-3
 date: 2025-08-08
 rating: [3.4, 0.5, 0.6, 1.0, 0.7, 0.6]
+price: 199
 summary: "LDAC support, ANC, multipoint, and a touchscreen Smart Charging Case; limited third-party measurements. Among the cheapest with this feature set, so CP is maxed"
 tags: [Active noise cancelling, IP55, JBL, LDAC, Smart Charging Case, True Wireless]
 permalink: /products/en/jbl-live-beam-3/

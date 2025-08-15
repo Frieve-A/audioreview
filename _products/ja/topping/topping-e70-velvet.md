@@ -7,6 +7,7 @@ lang: ja
 ref: topping-e70-velvet
 date: 2025-08-01
 rating: [3.5, 0.9, 0.8, 0.4, 0.6, 0.8]
+price: 63000
 summary: "AK4499EXチップ搭載の高性能DAC。測定性能は優秀ですが、同等機能を持つより安価な製品が存在するためコストパフォーマンスは高くありません。"
 tags: [DAC, Topping, AKM, デスクトップオーディオ, Bluetooth]
 permalink: /products/ja/topping-e70-velvet/

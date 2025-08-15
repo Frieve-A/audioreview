@@ -7,6 +7,7 @@ lang: en
 ref: fiio-qx13
 date: 2025-08-09
 rating: [4.1, 0.6, 0.9, 1.0, 0.7, 0.9]
+price: 219
 summary: "FiiO's flagship portable DAC/amp featuring ESS ES9027PRO DAC chip with carbon fiber construction and desktop mode for high performance"
 tags: [Balanced output, DAC, FiiO, Headphone amplifier, Hi-Res, Portable]
 permalink: /products/en/fiio-qx13/

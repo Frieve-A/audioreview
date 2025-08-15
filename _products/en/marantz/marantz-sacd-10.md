@@ -7,6 +7,7 @@ lang: en
 ref: marantz-sacd-10
 date: 2025-07-26
 rating: [2.8, 0.7, 0.8, 0.3, 0.6, 0.4]
+price: 12000
 summary: "Premium SACD/CD player featuring proprietary SACDM-3 transport. While technically accomplished, cost-performance concerns and questionable dedicated player necessity challenge its value proposition."
 tags: [CD Player, DAC, High-end, Marantz, SACD]
 permalink: /products/en/marantz-sacd-10/

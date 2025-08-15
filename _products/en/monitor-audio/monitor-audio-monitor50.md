@@ -7,6 +7,7 @@ lang: en
 ref: monitor-audio-monitor50
 date: 2025-08-09
 rating: [2.3, 0.3, 0.4, 0.6, 0.5, 0.5]
+price: 220
 summary: "Entry-class bookshelf from Monitor Audio. Falls short of transparent-level measurements but compact and easy to place. Compare with models that have clear third‑party measurements before purchase"
 tags: [2-Way, Bookshelf, Passive, Speakers, United Kingdom]
 permalink: /products/en/monitor-audio-monitor50/

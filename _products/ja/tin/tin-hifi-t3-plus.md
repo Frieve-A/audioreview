@@ -7,6 +7,7 @@ lang: ja
 ref: tin-hifi-t3-plus
 date: 2025-07-13
 rating: [3.0, 0.6, 0.7, 0.2, 0.7, 0.8]
+price: 10400
 summary: "10mm LCPダイアフラム搭載エントリークラスIEM。ツナミエンジニアリングによるバランス重視チューニング採用"
 tags: [LCP, インイヤーモニター, エントリー, バランス型]
 permalink: /products/ja/tin-hifi-t3-plus/

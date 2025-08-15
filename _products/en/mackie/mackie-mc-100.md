@@ -7,6 +7,7 @@ lang: en
 ref: mackie-mc-100
 date: 2025-07-30
 rating: [2.4, 0.5, 0.2, 0.7, 0.5, 0.5]
+price: 35
 summary: "Entry-level closed-back studio headphones with 40mm drivers. Provides basic monitoring functions, but its detailed measurement performance is unknown and it lacks technical innovation, resulting in a mediocre product."
 tags: [Closed-back, Entry-level, Headphones, Studio monitors]
 permalink: /products/en/mackie-mc-100/

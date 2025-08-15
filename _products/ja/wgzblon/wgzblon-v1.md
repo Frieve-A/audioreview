@@ -7,6 +7,7 @@ lang: ja
 ref: wgzblon-v1
 date: 2025-08-01
 rating: [3.2, 0.8, 0.3, 1.0, 0.4, 0.7]
+price: 6150
 summary: "デュアルCS43131 DACチップを搭載したポータブルDAC/アンプ。優秀な測定性能と競合製品との比較において優れたコストパフォーマンスを実現している。"
 tags: [DAC, アンプ, ポータブル, CS43131, バランス出力, シングルエンド出力]
 permalink: /products/ja/wgzblon-v1/

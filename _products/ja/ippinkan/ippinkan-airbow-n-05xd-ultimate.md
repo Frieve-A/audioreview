@@ -7,6 +7,7 @@ lang: ja
 ref: ippinkan-airbow-n-05xd-ultimate
 date: 2025-08-11
 rating: [1.1, 0.5, 0.2, 0.0, 0.2, 0.2]
+price: 1067000
 summary: "ESOTERICのN-05XDネットワークDACプリアンプの改造版。カスタムパーツのアップグレードを施し、ベースモデルよりも高価格設定されているが、音質向上効果は不明確"
 tags: [AIRBOW, DAC, エソテリック, ネットワークプレーヤー, ハイエンド, プリアンプ]
 permalink: /products/ja/ippinkan-airbow-n-05xd-ultimate/

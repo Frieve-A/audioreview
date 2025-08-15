@@ -7,6 +7,7 @@ lang: ja
 ref: kef-kube-8-mie
 date: 2025-08-12
 rating: [3.3, 0.5, 0.6, 0.9, 0.6, 0.7]
+price: 104999
 summary: "Music Integrity Engine技術を搭載したコンパクトな8インチ密閉型サブウーファー、小スペースで正確な低音再生を実現"
 tags: [サブウーファー, 密閉型, コンパクト, DSP, KEF]
 permalink: /products/ja/kef-kube-8-mie/

@@ -7,6 +7,7 @@ lang: en
 ref: anker-soundcore-liberty-air-2-pro
 date: 2025-07-09
 rating: [2.1, 0.2, 0.4, 0.8, 0.4, 0.3]
+price: 127
 summary: "True wireless earbuds with ANC functionality, but measured performance is mediocre with limited technological advantages. Cost-performance ratio is acceptable given competing options in the same price range."
 tags: ["Active noise cancelling", Anker, LDAC, Soundcore, "True wireless earbuds"]
 permalink: /products/en/anker-soundcore-liberty-air-2-pro/

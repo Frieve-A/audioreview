@@ -7,6 +7,7 @@ lang: en
 ref: denon-dp-3000ne
 date: 2025-07-27
 rating: [1.8, 0.3, 0.4, 0.3, 0.4, 0.4]
+price: 2499
 summary: "Denon's flagship direct-drive turntable, suffering from performance that does not justify its price and serious quality control issues."
 tags: [Analog Audio, Direct Drive, Turntable]
 permalink: /products/en/denon-dp-3000ne/

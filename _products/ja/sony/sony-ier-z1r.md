@@ -7,6 +7,7 @@ lang: ja
 ref: sony-ier-z1r
 date: 2025-07-29
 rating: [2.3, 0.2, 0.8, 0.1, 0.8, 0.4]
+price: 226710
 summary: "高い技術力は認められるものの、測定性能とコストパフォーマンスに深刻な課題を抱え、総合的な評価は低い"
 tags: [インイヤーモニター, ソニー, ハイブリッドドライバー, ハイレゾ, フラッグシップ]
 permalink: /products/ja/sony-ier-z1r/

@@ -7,6 +7,7 @@ lang: en
 ref: audio-technica-at-sb727
 date: 2025-07-07
 rating: [2.5, 0.7, 0.6, 0.7, 0.3, 0.2]
+price: 200
 summary: "A modern revival of the 1980s portable turntable concept. While Bluetooth connectivity and built-in battery offer appealing portability, audio quality compromises are significant. At USD 200, stationary turntables provide superior performance. Appeals to nostalgia and convenience but unsuitable for serious audio applications."
 tags: [Audio-Technica, Bluetooth, Portable turntable, Retro, Sound Burger]
 permalink: /products/en/audio-technica-at-sb727/

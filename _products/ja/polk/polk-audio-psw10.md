@@ -7,6 +7,7 @@ lang: ja
 ref: polk-audio-psw10
 date: 2025-07-19
 rating: [2.4, 0.3, 0.4, 0.7, 0.7, 0.3]
+price: 32000
 summary: "エントリーレベルのサブウーファーとして基本的な低音再生は可能だが、より安価で高性能な代替品が存在するため選択する意義は薄い製品"
 tags: [エントリークラス, サブウーファー, パワードサブウーファー, ホームシアター]
 permalink: /products/ja/polk-audio-psw10/

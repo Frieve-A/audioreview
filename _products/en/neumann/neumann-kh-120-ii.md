@@ -7,6 +7,7 @@ lang: en
 ref: neumann-kh-120-ii
 date: 2025-07-28
 rating: [3.6, 0.6, 0.7, 0.7, 0.8, 0.8]
+price: 990
 summary: "DSP-equipped nearfield monitor. Measurement performance is at industry standard level but falls behind competitors in cost-performance."
 tags: [Speakers, Monitor Speakers, DSP, Nearfield, Pro Audio]
 permalink: /products/en/neumann-kh-120-ii/

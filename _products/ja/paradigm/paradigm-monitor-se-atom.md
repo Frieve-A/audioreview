@@ -7,6 +7,7 @@ lang: ja
 ref: paradigm-monitor-se-atom
 date: 2025-08-09
 rating: [3.1, 0.5, 0.5, 1.0, 0.6, 0.5]
+price: 44850
 summary: "カナダのParadigmによるエントリーレベルのブックシェルフスピーカー。良好な音響設計と手頃な価格が特徴だが、測定性能と技術レベルは平均的"
 tags: [Canadian Audio, Entry Level, Home Audio, パッシブスピーカー, ブックシェルフスピーカー]
 permalink: /products/ja/paradigm-monitor-se-atom/

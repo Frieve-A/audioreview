@@ -7,6 +7,7 @@ lang: en
 ref: akg-k240-studio
 date: 2025-07-21
 rating: [2.5, 0.3, 0.5, 0.6, 0.3, 0.8]
+price: 42
 summary: "Semi-open studio headphones inheriting a design from 1991. While it holds value as an affordable semi-open option, it suffers from serious issues with low-frequency distortion."
 tags: [AKG, Headphones, Semi-Open, Studio monitors]
 permalink: /products/en/akg-k240-studio/

@@ -7,6 +7,7 @@ lang: en
 ref: lo-d-hma-9500mkii
 date: 2025-07-21
 rating: [0.8, 0.2, 0.2, 0.2, 0.1, 0.1]
+price: 733
 summary: "The world's first power MOS FET amplifier. However, by modern standards, it exhibits significantly inferior measurement performance and extremely poor cost-performance as a vintage product."
 tags: [Amplifiers, Hitachi, Lo-D, MOS FET, Vintage]
 permalink: /products/en/lo-d-hma-9500mkii/

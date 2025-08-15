@@ -7,6 +7,7 @@ lang: ja
 ref: neumann-mt-48
 date: 2025-08-14
 rating: [3.7, 0.8, 0.9, 0.5, 0.7, 0.8]
+price: 277500
 summary: "Neumann初のオーディオインターフェースはMerging Technologies由来の高品位コンバージョンとプロ機能を統合。ただし既存強豪と比べるとコストパフォーマンス面で課題が残ります"
 tags: [オーディオインターフェース, USB-C, プロフェッショナル音響, スタジオ機器, コンバージョン]
 permalink: /products/ja/neumann-mt-48/

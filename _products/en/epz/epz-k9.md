@@ -7,6 +7,7 @@ lang: en
 ref: epz-k9
 date: 2025-07-29
 rating: [2.8, 0.6, 0.7, 0.1, 0.7, 0.7]
+price: 369
 summary: "The EPZ K9 is a 1DD+8BA hybrid IEM, but with the KZ ZS10 Pro offering equivalent performance for USD 39 compared to the K9's USD 369 price, its cost-performance is severely lacking."
 tags: [Chinese IEM, EPZ, Earphones, Hybrid Driver, In-ear monitors]
 permalink: /products/en/epz-k9/

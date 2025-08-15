@@ -7,6 +7,7 @@ lang: en
 ref: adam-audio-a3x
 date: 2025-08-06
 rating: [3.4, 0.4, 0.7, 1.0, 0.6, 0.7]
+price: 187
 summary: "Compact monitor with X-ART tweeter, but faces challenges in THD performance and low-frequency extension, currently discontinued"
 tags: [Monitor Speakers, Active, Nearfield, Ribbon Tweeter, Discontinued]
 permalink: /products/en/adam-audio-a3x/

@@ -7,6 +7,7 @@ lang: en
 ref: dayton-audio-imm-6c
 date: 2025-08-11
 rating: [3.3, 0.4, 0.6, 1.0, 0.5, 0.8]
+price: 44.98
 summary: "USB-C calibrated measurement microphone offering laboratory-grade calibration at exceptionally low cost, though limited by device-dependent noise performance."
 tags: [Measurement Microphone, USB-C, Calibrated, Dayton Audio, Mobile Compatible]
 permalink: /products/en/dayton-audio-imm-6c/

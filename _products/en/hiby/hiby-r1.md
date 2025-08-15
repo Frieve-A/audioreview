@@ -7,6 +7,7 @@ lang: en
 ref: hiby-r1
 date: 2025-08-04
 rating: [2.8, 0.8, 0.5, 0.3, 0.6, 0.6]
+price: 112
 summary: "The HiBy R1 is an entry-level DAP priced at 112 USD. It features the CS43131 DAC and demonstrates excellent measured performance, but faces cost-performance challenges when compared to smartphone + DAC dongle combinations."
 tags: [CS43131, DAP, Entry-level, HiBy, Portable]
 permalink: /products/en/hiby-r1/

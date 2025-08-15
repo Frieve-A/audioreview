@@ -7,6 +7,7 @@ lang: ja
 ref: realme-buds-air-3
 date: 2025-07-15
 rating: [2.9, 0.4, 0.5, 1.0, 0.6, 0.4]
+price: 7200
 summary: "42dB ANC搭載のTWS。基本性能は確保されているが、測定データ非公開により科学的有効性の評価は困難。日本市場価格が未確定のため、コストパフォーマンスの最終評価は保留。"
 tags: [realme, アクティブノイズキャンセリング, ワイヤレスイヤホン, 完全ワイヤレスイヤホン]
 permalink: /products/ja/realme-buds-air-3/

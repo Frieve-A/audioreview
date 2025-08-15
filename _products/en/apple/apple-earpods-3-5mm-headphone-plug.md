@@ -7,6 +7,7 @@ lang: en
 ref: apple-earpods-3-5mm-headphone-plug
 date: 2025-07-25
 rating: [2.0, 0.3, 0.4, 0.1, 0.8, 0.4]
+price: 25
 summary: "Apple's traditional wired earphones prioritize comfort-focused design, but suffer from bass deficiency due to open-back structure and extremely poor cost-performance"
 tags: [3.5mm, Apple, EarPods, Entry-level, Wired earphones]
 permalink: /products/en/apple-earpods-3-5mm-headphone-plug/

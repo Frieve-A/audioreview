@@ -7,6 +7,7 @@ lang: ja
 ref: klipsch-reference-r-121sw
 date: 2025-08-12
 rating: [2.7, 0.4, 0.5, 0.6, 0.8, 0.4]
+price: 97499
 summary: "計測でミッドバス強調が確認される、コスト最適化設計のバジェットサブウーファー"
 tags: [サブウーファー, ホームシアター, バジェットオーディオ, バスレフ]
 permalink: /products/ja/klipsch-reference-r-121sw/

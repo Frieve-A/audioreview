@@ -7,6 +7,7 @@ lang: en
 ref: aful-performer8
 date: 2025-07-06
 rating: [3.7, 0.8, 0.8, 0.3, 0.8, 1.0]
+price: 369.99
 summary: "A luxury hybrid IEM featuring 7BA+1DD driver configuration at USD 369.99. Advanced acoustic technologies including 4-way crossover and RLC network achieve 5Hz-35kHz frequency response. Measurement performance is excellent, particularly the smooth treble extension rivals top-tier products in its price range. However, cost-performance suffers due to the emergence of ultra-budget IEMs like the CCA CRA at USD 15-20."
 tags: [7BA+1DD, China, High-Resolution, "Hybrid technology", "In-ear monitors"]
 permalink: /products/en/aful-performer8/

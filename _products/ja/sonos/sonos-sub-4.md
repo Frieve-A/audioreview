@@ -7,6 +7,7 @@ lang: ja
 ref: sonos-sub-4
 date: 2025-08-11
 rating: [3.2, 0.5, 0.4, 1.0, 0.6, 0.7]
+price: 119850
 summary: "デュアルフォースキャンセリングとWi‑Fi 6対応を備えるプレミアム無線サブ。独立測定は未公表だが、Sonosエコシステム内で同等以上をより安価に満たす代替は現状なし"
 tags: [サブウーファー, ワイヤレス, Sonos, エコシステム]
 permalink: /products/ja/sonos-sub-4/

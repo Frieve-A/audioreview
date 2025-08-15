@@ -7,6 +7,7 @@ lang: ja
 ref: polk-audio-signature-elite-es20
 date: 2025-07-18
 rating: [3.1, 0.5, 0.4, 1.0, 0.6, 0.6]
+price: 38484
 summary: "Polk Audio Signature Elite ES20は価格帯に応じた標準的な測定性能を提供し、競合製品に対して優れたコストパフォーマンスを実現しています。"
 tags: [パッシブスピーカー, ブックシェルフ, ハイレゾ認証, 2ウェイ]
 permalink: /products/ja/polk-audio-signature-elite-es20/

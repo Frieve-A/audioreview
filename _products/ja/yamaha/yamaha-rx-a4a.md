@@ -7,6 +7,7 @@ lang: ja
 ref: yamaha-rx-a4a
 date: 2025-07-27
 rating: [3.5, 0.8, 0.7, 0.5, 0.8, 0.7]
+price: 137500
 summary: "ESS SABRE DACを搭載した7.2ch AVレシーバー。優秀な測定性能を持つが、競合機と比較してコストパフォーマンスに大きな課題がある。"
 tags: [AVレシーバー, Dolby Atmos, 8K対応, HDMI 2.1]
 permalink: /products/ja/yamaha-rx-a4a/

@@ -7,6 +7,7 @@ lang: en
 ref: kef-blade-two-meta
 date: 2025-07-31
 rating: [3.1, 0.8, 0.9, 0.4, 0.5, 0.5]
+price: 28000
 summary: "The KEF Blade Two Meta is a flagship speaker with a technically advanced design, but equivalent or superior performance is achievable through more affordable alternatives."
 tags: [Floorstanding speakers, High-end, Metamaterial, Uni-Q]
 permalink: /products/en/kef-blade-two-meta/

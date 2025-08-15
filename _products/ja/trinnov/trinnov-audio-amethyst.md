@@ -7,6 +7,7 @@ lang: ja
 ref: trinnov-audio-amethyst
 date: 2025-07-14
 rating: [2.7, 0.7, 0.9, 0.1, 0.7, 0.3]
+price: 1500000
 summary: "Trinnov Audio Amethystは高度なルームコレクション技術を搭載したプリアンプですが、同等機能を949ドルで提供するminiDSP SHD Studioと比較すると、10000ドルという価格設定は科学的根拠に乏しい"
 tags: [ハイエンド, プリアンプ, ルームコレクション, ストリーマー, DAC]
 permalink: /products/ja/trinnov-audio-amethyst/

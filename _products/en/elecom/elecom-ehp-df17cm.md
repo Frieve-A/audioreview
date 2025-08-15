@@ -7,6 +7,7 @@ lang: en
 ref: elecom-ehp-df17cm
 date: 2025-07-30
 rating: [2.9, 0.5, 0.6, 0.9, 0.4, 0.5]
+price: 27
 summary: "Wired USB-C earphones with ANC, offering value for low-latency applications, but lacking transparency in overall measured performance."
 tags: [Active noise cancelling, ELECOM, Earphones, USB-C, Wired]
 permalink: /products/en/elecom-ehp-df17cm/

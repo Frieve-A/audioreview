@@ -7,6 +7,7 @@ lang: en
 ref: moondrop-ultrasonic
 date: 2025-08-07
 rating: [3.8, 0.7, 0.8, 0.9, 0.7, 0.7]
+price: 75
 summary: "The Moondrop ULTRASONIC, priced at 74.99 USD, features a 13mm TiN ceramic-coated dome composite diaphragm + FRA treble BA hybrid design, LDAC support, and ANC. Based on public specifications and third-party reports, it is a solid, rational implementation. Considering physical limits of isolation and ANC, scientific validity is moderate, while overall cost-performance is strong."
 tags: [ANC, Hybrid Driver, LDAC, Moondrop, TWS, Wireless earphones]
 permalink: /products/en/moondrop-ultrasonic/

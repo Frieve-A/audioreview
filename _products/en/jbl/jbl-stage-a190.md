@@ -7,6 +7,7 @@ lang: en
 ref: jbl-stage-a190
 date: 2025-08-13
 rating: [2.8, 0.5, 0.6, 0.6, 0.6, 0.5]
+price: 500
 summary: "2.5-way tower speaker with HDI waveguide and dual 8-inch woofers; moderate performance with above-basic engineering"
 tags: [Tower Speakers, Floorstanding, HDI, Aluminum Tweeter, Dual 8-inch]
 permalink: /products/en/jbl-stage-a190/

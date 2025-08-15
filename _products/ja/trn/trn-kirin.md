@@ -7,6 +7,7 @@ lang: ja
 ref: trn-kirin
 date: 2025-08-14
 rating: [2.6, 0.5, 0.5, 0.6, 0.5, 0.5]
+price: 19470
 summary: "14.5mm平面磁界ドライバー＋交換ノズルと交換式プラグを備えるIEM。測定面の裏付けは平均的で、より安価かつ実測に基づく優位な代替が存在します"
 tags: [TRN, インイヤーモニター, バジェットオーディオ, プラナーマグネティック]
 permalink: /products/ja/trn-kirin/

@@ -7,6 +7,7 @@ lang: en
 ref: focusrite-scarlett-16i16
 date: 2025-07-30
 rating: [4.2, 0.8, 0.8, 1.0, 0.8, 0.8]
+price: 432
 summary: "A 16-in/16-out USB audio interface featuring RedNet converters, boasting a vast 122dB dynamic range and excellent preamp performance. It stands as the world's most affordable option among products with equivalent or superior features and measurement performance, delivering extremely high cost-performance."
 tags: [24bit/192kHz, Audio interface, Focusrite, RedNet, USB]
 permalink: /products/en/focusrite-scarlett-16i16/

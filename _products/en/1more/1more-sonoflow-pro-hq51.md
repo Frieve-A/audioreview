@@ -7,6 +7,7 @@ lang: en
 ref: 1more-sonoflow-pro-hq51
 date: 2025-07-31
 rating: [3.6, 0.6, 0.7, 0.8, 0.7, 0.8]
+price: 85
 summary: "Wireless headphones achieving high-transparency sound quality through DLC drivers and LDAC codec support. Features 40dB+ noise cancellation performance and 100-hour long battery life."
 tags: [Headphones, Wireless, ANC, LDAC, Hi-Res]
 permalink: /products/en/1more-sonoflow-pro-hq51/

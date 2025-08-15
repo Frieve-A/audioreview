@@ -7,6 +7,7 @@ lang: ja
 ref: shure-aonic-4
 date: 2025-07-29
 rating: [2.9, 0.6, 0.5, 0.4, 0.8, 0.6]
+price: 41000
 summary: "Shureが手がけた初のハイブリッド設計IEM。プロレベルの優れた遮音性を誇るが、同等の遮音性を持つ製品が大幅に安価に存在し、コストパフォーマンスに課題を残す。"
 tags: [Shure, インイヤーモニター, ハイブリッドドライバー, プロオーディオ, 高遮音性]
 permalink: /products/ja/shure-aonic-4/

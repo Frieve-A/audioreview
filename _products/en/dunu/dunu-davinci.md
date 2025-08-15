@@ -7,6 +7,7 @@ lang: en
 ref: dunu-davinci
 date: 2025-08-05
 rating: [3.7, 0.7, 0.8, 0.7, 0.7, 0.8]
+price: 299
 summary: "The DUNU x Gizaudio DaVinci is a 6-driver hybrid IEM featuring new meta-tuning. While technically refined, it faces cost-performance challenges due to the existence of more affordable competitors like the Kiwi Ears KE4."
 tags: [DUNU, Hybrid Driver, In-ear monitors, Premium]
 permalink: /products/en/dunu-davinci/

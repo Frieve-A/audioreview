@@ -7,6 +7,7 @@ lang: ja
 ref: sonus-faber-venere-signature
 date: 2025-08-07
 rating: [2.9, 0.6, 0.7, 0.2, 0.8, 0.6]
+price: 824850
 summary: "イタリアの伝統的工芸技術による3ウェイフロアスタンディングスピーカー。美的デザインと音楽的表現を重視した設計だが、測定性能と価格競争力に課題"
 tags: [フロアスタンディングスピーカー, 3ウェイ, アルミニウムドライバー, イタリア製]
 permalink: /products/ja/sonus-faber-venere-signature/

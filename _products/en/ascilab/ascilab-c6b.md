@@ -7,6 +7,7 @@ lang: en
 ref: ascilab-c6b
 date: 2025-07-29
 rating: [3.8, 0.8, 0.7, 0.9, 0.5, 0.9]
+price: 1100
 summary: "A 2-way bookshelf speaker that achieves industry-leading acoustic performance through a measurement-driven design philosophy and offers competitive value for its price."
 tags: [AsciLab, Bookshelf speakers, Low Distortion, Measurement-Driven Design, Waveguide]
 permalink: /products/en/ascilab-c6b/

@@ -7,6 +7,7 @@ lang: ja
 ref: trn-vx-pro-plus
 date: 2025-07-25
 rating: [2.8, 0.6, 0.6, 0.4, 0.5, 0.7]
+price: 6900
 summary: "1DD+8BAハイブリッド構成のイヤホンながら、同等性能をより安価に実現する代替品の存在により、コストパフォーマンスに課題を抱える製品"
 tags: [イヤホン, ハイブリッドドライバー, 中華イヤホン, TRN]
 permalink: /products/ja/trn-vx-pro-plus/

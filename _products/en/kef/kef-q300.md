@@ -7,6 +7,7 @@ lang: en
 ref: kef-q300
 date: 2025-08-03
 rating: [3.3, 0.4, 0.6, 1.0, 0.6, 0.7]
+price: 155
 summary: "A mid-size bookshelf speaker with advanced Uni-Q technology that shows good theoretical promise, but limited objective measurement data raises questions about its performance."
 tags: [2-Way, Bookshelf speakers, Discontinued, Uni-Q]
 permalink: /products/en/kef-q300/

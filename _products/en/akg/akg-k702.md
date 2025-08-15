@@ -7,6 +7,7 @@ lang: en
 ref: akg-k702
 date: 2025-08-05
 rating: [3.6, 0.6, 0.6, 0.9, 0.7, 0.8]
+price: 120
 summary: "Classic open-back reference headphones from Austrian audio giant AKG. Features traditional design with Varimotion diaphragm and flat-wire voice coil, but cost-performance advantage is limited in today's market where equivalent-performance competitors are available at lower prices."
 tags: [Headphones, Open-back, Reference, Pro Audio, AKG]
 permalink: /products/en/akg-k702/

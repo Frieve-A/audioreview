@@ -7,6 +7,7 @@ lang: en
 ref: letshuoer-dz4
 date: 2025-08-11
 rating: [2.7, 0.5, 0.6, 0.3, 0.6, 0.7]
+price: 88
 summary: "Budget IEM with unique triple dynamic driver configuration; measured FR data available, but value proposition remains weak versus cheaper, well-measured peers"
 tags: [Budget, Dynamic driver, In-ear monitors]
 permalink: /products/en/letshuoer-dz4/

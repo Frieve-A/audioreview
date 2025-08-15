@@ -7,6 +7,7 @@ lang: en
 ref: denon-pma-1700ne
 date: 2025-08-05
 rating: [3.4, 0.8, 0.7, 0.4, 0.7, 0.8]
+price: 980
 summary: "70W×2 output integrated amplifier with built-in USB-DAC and MM/MC phono equalizer, featuring Advanced AL32 Processing Plus for high-resolution audio support. Excellent measured performance, but equivalent functionality can be achieved with lower-cost combinations, resulting in low cost-performance."
 tags: [Denon, Integrated amplifier, Japan, Phono Stage, USB-DAC]
 permalink: /products/en/denon-pma-1700ne/

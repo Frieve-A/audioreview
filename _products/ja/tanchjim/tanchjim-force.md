@@ -7,6 +7,7 @@ lang: ja
 ref: tanchjim-force
 date: 2025-07-31
 rating: [3.2, 0.7, 0.8, 0.3, 0.6, 0.8]
+price: 41999
 summary: "Tanchjim x Effect Audio共同開発の先進的なIEM。しかし、音響性能で同等以上の選択肢が1/3以下の価格で存在するため、コストパフォーマンスに極めて大きな課題を持つ。"
 tags: [Effect Audio, Tanchjim, インイヤーモニター, オープンバック, コラボレーション, デュアルダイナミック]
 permalink: /products/ja/tanchjim-force/

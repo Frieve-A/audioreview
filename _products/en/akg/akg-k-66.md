@@ -7,6 +7,7 @@ lang: en
 ref: akg-k-66
 date: 2025-08-09
 rating: [2.2, 0.5, 0.2, 1.0, 0.2, 0.3]
+price: 20
 summary: "Discontinued low-cost semi-open headphones. While 32Ω low impedance design enables compatibility with wide range of devices, currently difficult to obtain with many available alternatives."
 tags: [Headphones, Semi-open, Discontinued, Budget]
 permalink: /products/en/akg-k-66/

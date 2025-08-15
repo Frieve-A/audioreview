@@ -7,6 +7,7 @@ lang: en
 ref: denon-avr-x1800h
 date: 2025-08-02
 rating: [3.3, 0.7, 0.5, 0.9, 0.7, 0.5]
+price: 484
 summary: "A 7.2-channel AV receiver. It offers good measurement performance but is technologically standard. Its cost-performance is not top-rated due to the existence of more affordable competitors."
 tags: [AV Receiver, Home Theater, 7.2 Channel, Dolby Atmos, 8K Support]
 permalink: /products/en/denon-avr-x1800h/

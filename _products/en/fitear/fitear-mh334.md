@@ -7,6 +7,7 @@ lang: en
 ref: fitear-mh334
 date: 2025-08-13
 rating: [3.4, 0.7, 0.6, 0.6, 0.7, 0.8]
+price: 1800
 summary: "Japanese custom in-ear monitor with 4-driver 3-way configuration, voiced by mastering engineer Mitsuharu Harada for studio reference use"
 tags: [Balanced armature, Custom IEM, In-ear monitors, Professional, Studio Reference]
 permalink: /products/en/fitear-mh334/

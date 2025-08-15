@@ -7,6 +7,7 @@ lang: en
 ref: jvc-sp-ws04bt
 date: 2025-08-03
 rating: [2.4, 0.5, 0.4, 0.3, 0.7, 0.5]
+price: 137
 summary: "IP67 waterproof portable Bluetooth speaker featuring natural wood design. Provides basic audio performance and practicality, but faces cost-performance challenges due to numerous low-priced alternatives with equivalent functionality."
 tags: [2-Way, Bluetooth, Portable speaker, Waterproof, Wood Design]
 permalink: /products/en/jvc-sp-ws04bt/

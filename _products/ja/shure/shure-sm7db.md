@@ -7,6 +7,7 @@ lang: ja
 ref: shure-sm7db
 date: 2025-08-02
 rating: [3.8, 0.7, 0.8, 0.6, 0.9, 0.8]
+price: 69300
 summary: "アクティブプリアンプ内蔵により利便性を向上させたSM7シリーズの最新モデル。高い技術レベルと信頼性を誇るが、コストパフォーマンスでは競合製品に劣る。"
 tags: [マイクロホン, ダイナミック, プリアンプ内蔵, 配信, ポッドキャスト, Shure]
 permalink: /products/ja/shure-sm7db/

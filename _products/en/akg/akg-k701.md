@@ -7,6 +7,7 @@ lang: en
 ref: akg-k701
 date: 2025-07-14
 rating: [2.5, 0.4, 0.6, 0.8, 0.3, 0.4]
+price: 140
 summary: "The AKG K701 once set a standard for reference headphones, but by modern standards, it faces challenges in frequency response fidelity, with better alternatives available in terms of cost-performance and reliability."
 tags: [AKG, Headphones, Open-Back, Studio monitors]
 permalink: /products/en/akg-k701/

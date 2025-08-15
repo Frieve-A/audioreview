@@ -7,6 +7,7 @@ lang: ja
 ref: storm-audio-isp-elite-mk3
 date: 2025-08-07
 rating: [3.3, 0.6, 0.7, 1.0, 0.5, 0.5]
+price: 3899850
 summary: "Storm Audio ISP Elite MK3は、最大32チャンネル処理、Dirac Live対応、各種イマーシブオーディオフォーマット対応を備えたフランス製高級AVプロセッサーで、同等の機能・性能を持つTrinnov Altitude32との比較によりコストパフォーマンス評価1.0を獲得しました。"
 tags: [AVプロセッサー, イマーシブオーディオ, Dirac Live, HDMI 2.1, フランス製]
 permalink: /products/ja/storm-audio-isp-elite-mk3/

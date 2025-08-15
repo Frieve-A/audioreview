@@ -7,6 +7,7 @@ lang: en
 ref: dali-rubikore-6
 date: 2025-07-26
 rating: [3.3, 0.8, 0.7, 0.3, 0.7, 0.8]
+price: 3467
 summary: "High-end floorstanding speaker from Danish DALI. Achieves excellent sound quality with 38Hz-34kHz frequency response and hybrid tweeter technology. The price of approximately 3467 USD (pair) poses cost-performance challenges considering ELAC Debut 2.0 F5.2 (approximately 1000 USD) offers comparable 42Hz-35kHz characteristics."
 tags: [DALI, Denmark, Floorstanding speakers, Hybrid Tweeter, SMC Technology]
 permalink: /products/en/dali-rubikore-6/

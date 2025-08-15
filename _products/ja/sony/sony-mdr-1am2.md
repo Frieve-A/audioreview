@@ -7,6 +7,7 @@ lang: ja
 ref: sony-mdr-1am2
 date: 2025-07-31
 rating: [2.9, 0.5, 0.7, 0.5, 0.6, 0.6]
+price: 36950
 summary: "ALCP振動板とバランス接続に対応した軽量なハイレゾ対応ヘッドホン。快適な装着感が特徴。"
 tags: [ハイレゾ, バランス接続, ヘッドホン, 密閉型]
 permalink: /products/ja/sony-mdr-1am2/

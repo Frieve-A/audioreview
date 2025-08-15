@@ -7,6 +7,7 @@ lang: en
 ref: fosi-audio-v3
 date: 2025-07-23
 rating: [3.8, 0.9, 0.7, 1.0, 0.6, 0.6]
+price: 107
 summary: "A compact Class D amplifier featuring the TPA3255 chip and PFFB technology, combining excellent measured performance with best-in-class cost-performance."
 tags: [Class D Amplifier, Compact Amplifier, Desktop, Power amplifier, TPA3255]
 permalink: /products/en/fosi-audio-v3/

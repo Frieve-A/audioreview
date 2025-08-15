@@ -7,6 +7,7 @@ lang: en
 ref: dayton-audio-t652-air
 date: 2025-07-23
 rating: [3.7, 0.6, 0.8, 1.0, 0.6, 0.7]
+price: 125
 summary: "Achieves world-class affordability as a tower speaker equipped with an AMT tweeter, based on US pricing"
 tags: [AMT Tweeter, Budget, Entry-level, Tower Speaker]
 permalink: /products/en/dayton-audio-t652-air/

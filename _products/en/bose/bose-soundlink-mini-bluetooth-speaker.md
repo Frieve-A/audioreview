@@ -7,6 +7,7 @@ lang: en
 ref: bose-soundlink-mini-bluetooth-speaker
 date: 2025-07-24
 rating: [1.5, 0.3, 0.2, 0.3, 0.4, 0.3]
+price: 40
 summary: "Original Bluetooth speaker released in 2013. No waterproof functionality, significantly inferior measurement performance and cost-performance compared to modern competitors"
 tags: [Bluetooth Speaker, Portable, Discontinued, Premium]
 permalink: /products/en/bose-soundlink-mini-bluetooth-speaker/

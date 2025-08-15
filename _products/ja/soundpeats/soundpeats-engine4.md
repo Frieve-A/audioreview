@@ -7,6 +7,7 @@ lang: ja
 ref: soundpeats-engine4
 date: 2025-07-25
 rating: [3.6, 0.6, 0.7, 0.9, 0.6, 0.8]
+price: 8480
 summary: "同軸デュアルドライバーとLDAC対応で8000円台の価格ながら優秀なコストパフォーマンスを実現した完全ワイヤレスイヤホン"
 tags: [Bluetooth5.3, LDAC, コスパ, デュアルドライバー, ハイレゾ, ワイヤレスイヤホン]
 permalink: /products/ja/soundpeats-engine4/

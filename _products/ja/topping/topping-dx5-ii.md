@@ -7,6 +7,7 @@ lang: ja
 ref: topping-dx5-ii
 date: 2025-07-19
 rating: [3.6, 0.9, 0.8, 0.6, 0.4, 0.9]
+price: 44850
 summary: "デュアルES9039Q2Mチップと新X-Hybridアンプを搭載した2025年のデスクトップDAC・ヘッドホンアンプコンボ。測定性能は優秀だが、同社の過去製品で報告された品質問題を考慮すると長期信頼性には注意が必要。"
 tags: [DAC, ヘッドホンアンプ, ES9039Q2M, X-Hybrid, デスクトップオーディオ]
 permalink: /products/ja/topping-dx5-ii/

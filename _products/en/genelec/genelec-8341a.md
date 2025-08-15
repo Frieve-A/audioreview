@@ -7,6 +7,7 @@ lang: en
 ref: genelec-8341a
 date: 2025-07-30
 rating: [4.0, 0.8, 0.9, 0.5, 0.9, 0.9]
+price: 5251
 summary: "Finland's veteran manufacturer Genelec delivers this cutting-edge 3-way coaxial studio monitor. While SAM technology and GLM correction achieve industry-leading measurement performance, the price is approximately twice as high compared to alternatives with equivalent performance."
 tags: [Active speakers, Coaxial, DSP, Professional, Studio monitors]
 permalink: /products/en/genelec-8341a/

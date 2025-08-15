@@ -7,6 +7,7 @@ lang: ja
 ref: technics-sl-1200mk7
 date: 2025-07-09
 rating: [2.6, 0.6, 0.5, 0.4, 0.6, 0.5]
+price: 149800
 summary: "DJ向けに設計された現代版SL-1200だが、コストパフォーマンスと技術的革新性で大きく劣る"
 tags: [ターンテーブル, DJ, アナログ, ダイレクトドライブ]
 permalink: /products/ja/technics-sl-1200mk7/

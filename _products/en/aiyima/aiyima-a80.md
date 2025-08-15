@@ -7,6 +7,7 @@ lang: en
 ref: aiyima-a80
 date: 2025-08-10
 rating: [3.4, 0.7, 0.7, 0.8, 0.5, 0.7]
+price: 199.99
 summary: "Integrated amplifier with DAC featuring TPA3255 chip and ESS9038Q2M DAC, offering adequate performance with convenience premium over separate component alternatives"
 tags: [Amplifiers, Bluetooth, DAC, ESS9038Q2M, Integrated, TPA3255]
 permalink: /products/en/aiyima-a80/

@@ -7,6 +7,7 @@ lang: en
 ref: eclipse-td508mk3
 date: 2025-08-02
 rating: [2.5, 0.3, 0.6, 0.4, 0.7, 0.5]
+price: 880
 summary: "A full-range speaker that pursues excellent impulse response. However, it faces significant challenges in frequency response, distortion, and cost-performance enabled by modern DSP technology."
 tags: [Bookshelf speakers, Eclipse, Full-Range, Japan]
 permalink: /products/en/eclipse-td508mk3/

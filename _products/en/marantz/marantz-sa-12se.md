@@ -7,6 +7,7 @@ lang: en
 ref: marantz-sa-12se
 date: 2025-08-10
 rating: [2.4, 0.7, 0.6, 0.1, 0.8, 0.2]
+price: 2000
 summary: "High-end SACD/CD player with excellent build quality but severely compromised cost-performance due to premium pricing"
 tags: [CD Player, DAC, High-end, SACD Player]
 permalink: /products/en/marantz-sa-12se/

@@ -7,6 +7,7 @@ lang: ja
 ref: polk-audio-reserve-r100
 date: 2025-07-31
 rating: [3.6, 0.6, 0.6, 1.0, 0.7, 0.7]
+price: 62000
 summary: "58Hz-50kHzの周波数特性を持つコンパクトブックシェルフスピーカー。Pinnacle Ring Radiator技術を採用し、同等性能を持つ主要な競合製品よりも安価に購入できるため、優れたコストパフォーマンスを発揮します。"
 tags: [ブックシェルフスピーカー, 2ウェイ, Hi-Res対応, Polk Audio, Reserve]
 permalink: /products/ja/polk-audio-reserve-r100/

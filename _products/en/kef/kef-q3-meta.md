@@ -7,6 +7,7 @@ lang: en
 ref: kef-q3-meta
 date: 2025-08-12
 rating: [2.9, 0.6, 0.6, 0.5, 0.6, 0.6]
+price: 899.99
 summary: "KEF Q3 Meta bookshelf speakers featuring Uni-Q driver with Meta technology, offering refined sound with moderate cost-performance at 899.99 USD"
 tags: [Bookshelf speakers, KEF, Meta Technology, Uni-Q]
 permalink: /products/en/kef-q3-meta/

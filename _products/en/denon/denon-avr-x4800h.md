@@ -7,6 +7,7 @@ lang: en
 ref: denon-avr-x4800h
 date: 2025-08-04
 rating: [3.6, 0.8, 0.7, 0.5, 0.8, 0.8]
+price: 1755
 summary: "While demonstrating excellent measurement performance as a high-end 9.4-channel AV receiver, it faces cost-performance challenges due to significantly cheaper alternatives that offer equivalent functionality"
 tags: [AV Receiver, Denon, 9.4 Channel, Dolby Atmos, DTS:X, 8K Support]
 permalink: /products/en/denon-avr-x4800h/
