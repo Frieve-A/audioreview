@@ -360,7 +360,74 @@ a:hover {
   font-size: 14px;
   font-weight: 500;
   color: #666666;
+  display: flex;
+  align-items: center;
+  gap: 4px;
 }
+
+.price-tooltip {
+  position: relative;
+  cursor: help;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 16px;
+  height: 16px;
+  background-color: #666666;
+  color: white;
+  border-radius: 50%;
+  font-size: 10px;
+  font-weight: bold;
+  transition: background-color 0.3s ease;
+}
+
+.price-tooltip:hover {
+  background-color: #333333;
+}
+
+.price-tooltip:hover::after {
+  content: attr(data-tooltip);
+  position: absolute;
+  bottom: 100%;
+  background-color: #333333;
+  color: white;
+  padding: 8px 12px;
+  border-radius: 6px;
+  font-size: 12px;
+  font-weight: normal;
+  z-index: 1000;
+  margin-bottom: 8px;
+  white-space: normal;
+  text-align: left;
+  line-height: 1.4;
+  word-break: normal;
+  overflow-wrap: break-word;
+  width: 300px;
+  /* Prevent tooltip from going off-screen */
+  left: 50%;
+  transform: translateX(-50%);
+  max-width: 300px;
+  /* Ensure minimum margin from screen edges */
+  min-width: 200px;
+}
+
+/* Adjust tooltip position to prevent overflow */
+.price-tooltip:hover::after {
+  left: max(15px, calc(50% - 150px));
+  transform: none;
+}
+
+/* Remove the tooltip arrow/caret */
+/* .price-tooltip:hover::before {
+  content: '';
+  position: absolute;
+  bottom: 100%;
+  left: 50%;
+  transform: translateX(-50%);
+  border: 6px solid transparent;
+  border-top-color: #333333;
+  margin-bottom: 2px;
+} */
 
 .price-value {
   font-size: 16px;
@@ -384,9 +451,11 @@ a:hover {
 }
 
 .individual-gauges {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  display: flex;
+  flex-wrap: wrap;
   gap: 20px;
+  justify-content: center;
+  align-items: flex-start;
 }
 
 .gauge-container {
@@ -394,6 +463,8 @@ a:hover {
   flex-direction: column;
   align-items: center;
   gap: 10px;
+  min-width: 200px;
+  flex: 0 0 auto;
 }
 
 .gauge-label {
@@ -491,16 +562,19 @@ a:hover {
 .review-meta {
   display: flex;
   align-items: center;
+  flex-wrap: wrap;
   gap: 20px;
   color: #666;
 }
 
 .review-meta time {
   font-size: 14px;
+  white-space: nowrap;
 }
 
 .tags {
   display: flex;
+  flex-wrap: wrap;
   gap: 8px;
 }
 
@@ -510,6 +584,7 @@ a:hover {
   border-radius: 4px;
   font-size: 12px;
   color: #666;
+  white-space: nowrap;
 }
 
 /* Parent company information */
@@ -1038,14 +1113,34 @@ a:hover {
   }
 
   .product-price {
-    flex-direction: column;
-    align-items: flex-start;
-    gap: 4px;
+    flex-direction: row;
+    align-items: center;
+    gap: 8px;
     padding: 0;
   }
 
   .price-label {
     font-size: 12px;
+  }
+
+  .price-tooltip {
+    width: 14px;
+    height: 14px;
+    font-size: 9px;
+  }
+
+  .price-tooltip:hover::after {
+    font-size: 11px;
+    padding: 6px 10px;
+    word-break: normal;
+    overflow-wrap: break-word;
+    white-space: normal;
+    text-align: left;
+    width: 300px;
+    /* Prevent tooltip from going off-screen on mobile */
+    left: max(15px, calc(50% - 150px));
+    transform: none;
+    max-width: 300px;
   }
 
   .price-value {
@@ -1089,14 +1184,14 @@ a:hover {
   }
   
   /* Mobile SVG stroke width adjustments */
-  .gauge-chart .gauge-background,
-  .gauge-chart .gauge-progress {
-    stroke-width: 15;
+  .gauge-chart svg .gauge-background,
+  .gauge-chart svg .gauge-progress {
+    stroke-width: 28 !important;
   }
   
-  .overall-gauge .gauge-background,
-  .overall-gauge .gauge-progress {
-    stroke-width: 18;
+  .overall-gauge .gauge-chart svg .gauge-background,
+  .overall-gauge .gauge-chart svg .gauge-progress {
+    stroke-width: 28 !important;
   }
 
   .products-grid {
@@ -1649,6 +1744,16 @@ a:hover {
   border-bottom: 1px solid #e0e0e0;
 }
 
+/* When search buttons are moved above reference section */
+.search-buttons[style*="margin-bottom"] {
+  border-top: none;
+  border-bottom: 1px solid #e0e0e0;
+  background-color: #f8f9fa;
+  border-radius: 8px;
+  padding: 20px;
+  margin: 30px 0;
+}
+
 .search-button-container {
   display: flex;
   gap: 15px;
@@ -1942,5 +2047,18 @@ a:hover {
   .category-tag-link {
     padding: 0.5rem 0.8rem;
     font-size: 0.85rem;
+  }
+  
+  .review-meta {
+    gap: 15px;
+  }
+  
+  .tags {
+    gap: 6px;
+  }
+  
+  .tag {
+    font-size: 11px;
+    padding: 3px 6px;
   }
 }

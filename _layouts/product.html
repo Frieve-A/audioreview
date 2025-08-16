@@ -8,7 +8,10 @@ layout: default
     
     {% if page.price %}
     <div class="product-price">
-      <span class="price-label">{{ site.data.strings[page.lang].reference_price }}:</span>
+      <span class="price-label">
+        {{ site.data.strings[page.lang].reference_price }}:
+        <span class="price-tooltip" data-tooltip="{{ site.data.strings[page.lang].price_tooltip }}">?</span>
+      </span>
       <span class="price-value">
         {% if page.lang == 'ja' %}
           <span class="price-number" data-price="{{ page.price }}">{{ page.price }}</span> 円

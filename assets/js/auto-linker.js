@@ -110,6 +110,10 @@ class AutoLinker {
   }
 
   getTextNodes(element) {
+    // Find the References section to exclude content after it
+    const refHeading = this.findReferenceHeading(element);
+    const refSectionStart = refHeading ? refHeading : null;
+
     const walker = document.createTreeWalker(
       element,
       NodeFilter.SHOW_TEXT,
@@ -121,6 +125,10 @@ class AutoLinker {
           }
           // Skip text that is already linked or inside any link
           if (this.isInsideLink(node)) {
+            return NodeFilter.FILTER_REJECT;
+          }
+          // Skip text that comes after the References section
+          if (refSectionStart && this.isAfterReferenceSection(node, refSectionStart)) {
             return NodeFilter.FILTER_REJECT;
           }
           return NodeFilter.FILTER_ACCEPT;
@@ -168,6 +176,28 @@ class AutoLinker {
       parent = parent.parentElement;
     }
     return false;
+  }
+
+  findReferenceHeading(element) {
+    const candidates = ['References', '参考情報'];
+    const headings = element.querySelectorAll('h2, h3, h4, h5, h6');
+    for (const h of headings) {
+      const title = (h.textContent || '').trim();
+      if (candidates.includes(title)) {
+        return h;
+      }
+    }
+    return null;
+  }
+
+  isAfterReferenceSection(node, refHeading) {
+    // Check if the node comes after the References heading
+    // Use compareDocumentPosition for efficient comparison
+    const comparison = node.compareDocumentPosition(refHeading);
+    
+    // If node comes after refHeading in document order
+    // DOCUMENT_POSITION_PRECEDING means refHeading precedes node
+    return (comparison & Node.DOCUMENT_POSITION_PRECEDING) !== 0;
   }
 
   processTextNode(textNode) {
@@ -380,6 +410,9 @@ class AutoLinker {
     const testRegex = /[\[\uFF3B]([0-9]+)[\]\uFF3D]/; // non-global for TreeWalker test
     const regex = /[\[\uFF3B]([0-9]+)[\]\uFF3D]/g; // global for actual replacement
 
+    // Find the References section to exclude content after it
+    const refHeading = this.findReferenceHeading(rootElement);
+
     // Repeat until no more replacements are found to ensure all candidates are linked
     let iterationCount = 0;
     const maxIterations = 100;
@@ -397,6 +430,8 @@ class AutoLinker {
           {
             acceptNode: (node) => {
               if (this.isInExcludedElement(node) || this.isInsideLink(node)) return NodeFilter.FILTER_REJECT;
+              // Skip text that comes after the References section
+              if (refHeading && this.isAfterReferenceSection(node, refHeading)) return NodeFilter.FILTER_REJECT;
               const text = node.textContent;
               return testRegex.test(text) ? NodeFilter.FILTER_ACCEPT : NodeFilter.FILTER_REJECT;
             }

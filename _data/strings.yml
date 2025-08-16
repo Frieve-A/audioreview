@@ -62,6 +62,7 @@ en:
   search_on_google: "Search on Google"
   search_on_amazon: "Search on Amazon"
   reference_price: "Reference Price"
+  price_tooltip: "This price is calculated based on the general global sales price surveyed at the time of writing. It may differ from the latest price or local price."
   # Product categories
   product_categories: "Product Categories"
   # 404
@@ -133,6 +134,7 @@ ja:
   search_on_google: "Googleで検索"
   search_on_amazon: "Amazonで検索"
   reference_price: "参考価格"
+  price_tooltip: "この価格は記事執筆時点で調査したグローバルにおける一般販売価格を基に算出した金額です。最新の価格や現地価格とは異なることがあります"
   # Product categories
   product_categories: "製品カテゴリごとのレビュー"
   # 404

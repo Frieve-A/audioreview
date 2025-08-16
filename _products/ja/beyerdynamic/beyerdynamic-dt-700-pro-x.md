@@ -52,7 +52,7 @@ $$ \Large \text{0.7} $$
 
 録音・編集時の**遮音**と**装着快適性**、**保守性**を重視する用途に好適です。**コスト優先**なら、同等のモニター適性を持つ**AKG K371**が有力[3][6]。一方で**ベロアの快適さ**や**純正スペアの入手性**に価値を置くなら、本機を選ぶ理由は明確です。
 
-## 参考情報（References）
+## 参考情報
 
 [1] beyerdynamic (Press), “Unlimited Creativity: The new beyerdynamic PRO X series…（DT 700 PRO X 技術データ含む）”  
 https://beyerdynamic.prezly.com/unlimited-creativity-the-new-beyerdynamic-pro-x-series-for-creators
