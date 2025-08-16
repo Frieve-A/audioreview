@@ -403,9 +403,7 @@ a:hover {
   word-break: normal;
   overflow-wrap: break-word;
   width: 300px;
-  /* Prevent tooltip from going off-screen */
-  left: 50%;
-  transform: translateX(-50%);
+  left: -30px;
   max-width: 300px;
   /* Ensure minimum margin from screen edges */
   min-width: 200px;
@@ -413,21 +411,8 @@ a:hover {
 
 /* Adjust tooltip position to prevent overflow */
 .price-tooltip:hover::after {
-  left: max(15px, calc(50% - 150px));
   transform: none;
 }
-
-/* Remove the tooltip arrow/caret */
-/* .price-tooltip:hover::before {
-  content: '';
-  position: absolute;
-  bottom: 100%;
-  left: 50%;
-  transform: translateX(-50%);
-  border: 6px solid transparent;
-  border-top-color: #333333;
-  margin-bottom: 2px;
-} */
 
 .price-value {
   font-size: 16px;
@@ -463,7 +448,7 @@ a:hover {
   flex-direction: column;
   align-items: center;
   gap: 10px;
-  min-width: 200px;
+  min-width: 160px;
   flex: 0 0 auto;
 }
 
@@ -1137,8 +1122,7 @@ a:hover {
     white-space: normal;
     text-align: left;
     width: 300px;
-    /* Prevent tooltip from going off-screen on mobile */
-    left: max(15px, calc(50% - 150px));
+    left: -30px;
     transform: none;
     max-width: 300px;
   }
