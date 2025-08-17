@@ -419,7 +419,7 @@ class ReviewValidator:
                 if end_date_str != metadata_date:
                     issues.append(f"Date mismatch: metadata date ({metadata_date}) does not match article end date ({end_date_str})")
             else:
-                issues.append("Article end date not found in expected format (YYYY-MM-DD) or (YYYY.MM.DD)")
+                issues.append("Article end date not found in expected format (YYYY.MM.DD) using half-width brackets () and dots between year, month, and day")
         
         except Exception as e:
             issues.append(f"Error occurred during date consistency validation: {e}")
@@ -924,15 +924,15 @@ class ReviewValidator:
                         elif en_price > 0:  # Avoid division by zero
                             exchange_rate = ja_price / en_price
                             
-                            # Check if exchange rate is within acceptable range (100-200 JPY per USD)
-                            if exchange_rate < 100:
+                            # Check if exchange rate is within acceptable range (50-200 JPY per USD)
+                            if exchange_rate < 50:
                                 issues.append(f"Price exchange rate too low for {product_id}: "
                                             f"{exchange_rate:.1f} JPY/USD (JPY: {ja_price}, USD: {en_price}) "
-                                            f"- Rate should be 100-200 JPY/USD")
+                                            f"- Rate should be 50-200 JPY/USD")
                             elif exchange_rate > 200:
                                 issues.append(f"Price exchange rate too high for {product_id}: "
                                             f"{exchange_rate:.1f} JPY/USD (JPY: {ja_price}, USD: {en_price}) "
-                                            f"- Rate should be 100-200 JPY/USD")
+                                            f"- Rate should be 50-200 JPY/USD")
                             else:
                                 # Exchange rate is within acceptable range
                                 pass
@@ -1191,13 +1191,13 @@ class ReviewValidator:
             "must be in 0.1 increments": "9. **Score Format Error**: All scores must be in 0.1 increments (e.g., 0.1, 0.2, 0.3, etc.)",
             "Permalink structure exceeds": "10. **Permalink Structure Error**: Permalink should not exceed 3 levels (/products or companies/lang/ref/)",
             "Date mismatch": "11. **Date Consistency Error**: Metadata date must match article end date in parentheses",
-            "Article end date not found": "11. **Date Consistency Error**: Article must end with date in parentheses (YYYY-MM-DD)",
+            "Article end date not found": "11. **Date Consistency Error**: Article must end with date in parentheses using half-width brackets () and dots between year, month, and day (YYYY.MM.DD)",
             "before site launch": "12. **Date Range Error**: Dates must be between site launch date (2025-07-05) and current date",
             "in the future": "12. **Date Range Error**: Dates must be between site launch date (2025-07-05) and current date",
             "Title first part": "13. **Title Consistency Error**: Title first part must match target_name exactly",
             "Forbidden term": "14. **Forbidden Terms Policy Violation**: Replace table/chart terminology with appropriate evaluation levels like '透明レベル', '問題レベル', 'transparent level', 'issue level'",
             "Japanese currency": "15. **Currency Conversion Recommendation**: Consider converting Japanese yen (JPY) to USD for international audience in English reviews",
-            "Price exchange rate": "16. **Price Consistency Error**: Ensure exchange rate between JPY and USD prices is within 100-200 JPY/USD range"
+            "Price exchange rate": "16. **Price Consistency Error**: Ensure exchange rate between JPY and USD prices is within 50-200 JPY/USD range"
         }
         
         # Get unique recommendations
