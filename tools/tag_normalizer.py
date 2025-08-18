@@ -726,6 +726,7 @@ def main():
     parser.add_argument('--dry-run', action='store_true', help="Show what would be changed without actually modifying files.")
     parser.add_argument('--fix', action='store_false', dest='dry_run', help="Apply the changes to the files.")
     parser.add_argument('--before', type=str, help="Process only files whose metadata date is on/before this datetime (YYYY-MM-DD[THH:MM[:SS]])")
+    parser.add_argument('--file', type=str, action='append', help="Process only the specified file path (relative to project root). Can be used multiple times.")
     parser.set_defaults(dry_run=True)
     
     args = parser.parse_args()
@@ -753,6 +754,45 @@ def main():
     before_dt = _parse_before_datetime(args.before) if args.before else None
     # Expose to normalize_tags_in_file without refactoring many signatures
     globals()["__BEFORE_DATETIME__"] = before_dt
+
+    # Handle multiple file processing
+    if args.file:
+        print(f"Processing {len(args.file)} specified file(s)...")
+        print(f"Mode: {'Dry Run' if args.dry_run else 'Fix'}")
+        print("=" * 40)
+        
+        files_processed = 0
+        files_changed = 0
+        
+        for file_path_str in args.file:
+            file_path = ROOT_DIR / file_path_str
+            if not file_path.exists():
+                print(f"Error: File not found: {file_path_str}")
+                continue
+            
+            # Determine language and rules based on file path
+            if '/en/' in file_path_str:
+                rules = normalization_rules_en
+                lang = 'en'
+            elif '/ja/' in file_path_str:
+                rules = normalization_rules_ja
+                lang = 'ja'
+            else:
+                print(f"Error: Cannot determine language for file: {file_path_str}")
+                print("File must be in a directory containing '/en/' or '/ja/'")
+                continue
+            
+            print(f"Processing: {file_path_str} ({lang.upper()})")
+            
+            if normalize_tags_in_file(file_path, rules, args.dry_run):
+                files_changed += 1
+            files_processed += 1
+        
+        print("=" * 40)
+        print(f"Processed {files_processed} file(s), {files_changed} file(s) changed.")
+        if args.dry_run and files_changed > 0:
+            print("Run with --fix to apply these changes.")
+        return
 
     print(f"Starting tag normalization for all articles...")
     print(f"Mode: {'Dry Run' if args.dry_run else 'Fix'}")

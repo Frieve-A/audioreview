@@ -12,6 +12,7 @@ This script provides the following functionality:
 Usage:
     python review_validator.py                             # Validate all files
     python review_validator.py -f path/to/file.md          # Validate single file
+    python review_validator.py --files file1.md file2.md   # Validate multiple specific files
     python review_validator.py --before 2025-08-01         # Validate only files dated on/before 2025-08-01
     python review_validator.py --before 2025-08-01T12:00   # Same as above, time component is accepted
 """
@@ -980,6 +981,25 @@ class ReviewValidator:
         
         self._validate_files(files_to_validate)
     
+    def validate_multiple_files(self, file_paths: List[str]) -> None:
+        """Validate multiple specific review files"""
+        print(f"Validating {len(file_paths)} specified files...")
+        
+        # Check if all files exist
+        existing_files = []
+        for file_path in file_paths:
+            if os.path.exists(file_path):
+                existing_files.append(file_path)
+            else:
+                print(f"[WARNING] File not found: {file_path}")
+        
+        if not existing_files:
+            print("[ERROR] No valid files found to validate")
+            return
+        
+        print(f"Found {len(existing_files)} valid files to validate")
+        self._validate_files(existing_files)
+    
     def _validate_files(self, files: List[str]) -> None:
         """Common validation logic for multiple files"""
         failed_files = []  # Track files that failed to parse
@@ -1349,6 +1369,7 @@ def main():
         epilog="""Examples:
   python review_validator.py                           # Validate all files
   python review_validator.py -f _companies/ja/sony.md # Validate single file
+  python review_validator.py --files file1.md file2.md # Validate multiple specific files
   python review_validator.py --file ../path/to/file.md # Validate single file with relative path
   python review_validator.py --before 2025-08-01       # Validate only files dated on/before 2025-08-01
   python review_validator.py --before 2025-08-01T12:00 # Time component accepted"""
@@ -1358,6 +1379,12 @@ def main():
         '-f', '--file',
         type=str,
         help='Path to a single review file to validate'
+    )
+    parser.add_argument(
+        '--files',
+        nargs='+',
+        type=str,
+        help='Paths to multiple review files to validate'
     )
     parser.add_argument(
         '--before',
@@ -1373,7 +1400,9 @@ def main():
     validator = ReviewValidator(".", before=args.before)
     
     # Run validation based on arguments
-    if args.file:
+    if args.files:
+        validator.validate_multiple_files(args.files)
+    elif args.file:
         validator.validate_single_file(args.file)
     else:
         validator.validate_all_reviews()
