@@ -721,12 +721,79 @@ def normalize_tags_in_file(file_path, rules, dry_run=True):
     return False
 
 
+def update_dates_in_file(file_path, new_date, dry_run=True):
+    """Updates dates in both front matter and end of file content."""
+    try:
+        content = file_path.read_text(encoding='utf-8')
+        original_content = content
+        changes_made = False
+        
+        # Update front matter date
+        front_matter_match = re.match(r'^---\s*\n(.*?)\n---\s*\n', content, re.DOTALL)
+        if front_matter_match:
+            front_matter = front_matter_match.group(1)
+            # Replace date in front matter
+            date_pattern = r'^date:\s*[0-9]{4}-[0-9]{2}-[0-9]{2}\s*$'
+            if re.search(date_pattern, front_matter, re.MULTILINE):
+                new_front_matter = re.sub(date_pattern, f'date: {new_date}', front_matter, flags=re.MULTILINE)
+                if new_front_matter != front_matter:
+                    content = content.replace(front_matter, new_front_matter, 1)
+                    changes_made = True
+                    print(f"  Front matter date: {new_date}")
+        
+        # Update date at end of file (common patterns: *Last updated: YYYY-MM-DD* and (YYYY.M.D))
+        end_date_patterns = [
+            r'\*Last updated:\s*[0-9]{4}-[0-9]{2}-[0-9]{2}\*',
+            r'\([0-9]{4}\.[0-9]{1,2}\.[0-9]{1,2}\)'
+        ]
+        
+        for pattern in end_date_patterns:
+            if re.search(pattern, content):
+                if pattern == r'\*Last updated:\s*[0-9]{4}-[0-9]{2}-[0-9]{2}\*':
+                    content = re.sub(pattern, f'*Last updated: {new_date}*', content)
+                else:  # (YYYY.M.D) format
+                    # Convert YYYY-MM-DD to YYYY.M.D format
+                    year, month, day = new_date.split('-')
+                    dot_date = f"({year}.{int(month)}.{int(day)})"
+                    content = re.sub(pattern, dot_date, content)
+                changes_made = True
+                print(f"  End date: {new_date}")
+                break
+        
+        if changes_made:
+            print(f"--- Date updates for: {file_path.relative_to(ROOT_DIR)}")
+            if not dry_run:
+                file_path.write_text(content, encoding='utf-8')
+                print("  -> Updated.")
+            else:
+                print("  -> (Dry run)")
+            print("")
+            return True
+        
+    except Exception as e:
+        print(f"Error updating dates in {file_path}: {e}")
+    
+    return False
+
+
 def main():
-    parser = argparse.ArgumentParser(description="Normalize tags in product/company markdown files.")
+    parser = argparse.ArgumentParser(
+        description="Normalize tags in product/company markdown files.",
+        formatter_class=argparse.RawDescriptionHelpFormatter,
+        epilog="""Examples:
+  python tag_normalizer.py                           # Normalize all files (dry run)
+  python tag_normalizer.py --fix                     # Normalize all files
+  python tag_normalizer.py --file path/to/file.md    # Normalize single file
+  python tag_normalizer.py --files file1.md file2.md # Normalize multiple files
+  python tag_normalizer.py --before 2025-08-01       # Normalize only files dated on/before 2025-08-01
+  python tag_normalizer.py --update-date 2025.08.19  # Update dates in files to 2025-08-19"""
+    )
     parser.add_argument('--dry-run', action='store_true', help="Show what would be changed without actually modifying files.")
     parser.add_argument('--fix', action='store_false', dest='dry_run', help="Apply the changes to the files.")
     parser.add_argument('--before', type=str, help="Process only files whose metadata date is on/before this datetime (YYYY-MM-DD[THH:MM[:SS]])")
     parser.add_argument('--file', type=str, action='append', help="Process only the specified file path (relative to project root). Can be used multiple times.")
+    parser.add_argument('--files', nargs='+', type=str, help="Process multiple specified file paths (relative to project root).")
+    parser.add_argument('--update-date', type=str, help="Update dates in files to specified date (format: YYYY.MM.DD)")
     parser.set_defaults(dry_run=True)
     
     args = parser.parse_args()
@@ -755,16 +822,114 @@ def main():
     # Expose to normalize_tags_in_file without refactoring many signatures
     globals()["__BEFORE_DATETIME__"] = before_dt
 
-    # Handle multiple file processing
-    if args.file:
-        print(f"Processing {len(args.file)} specified file(s)...")
+    # Handle date update functionality
+    if args.update_date:
+        # Parse date format YYYY.MM.DD to YYYY-MM-DD
+        try:
+            date_parts = args.update_date.split('.')
+            if len(date_parts) == 3:
+                year, month, day = date_parts
+                new_date = f"{year}-{month.zfill(2)}-{day.zfill(2)}"
+                # Validate date
+                datetime.strptime(new_date, "%Y-%m-%d")
+            else:
+                print(f"Error: Invalid date format '{args.update_date}'. Expected format: YYYY.MM.DD")
+                return
+        except ValueError:
+            print(f"Error: Invalid date '{args.update_date}'. Expected format: YYYY.MM.DD")
+            return
+        
+        print(f"Starting date update to {new_date}...")
+        print(f"Mode: {'Dry Run' if args.dry_run else 'Fix'}")
+        print("=" * 40)
+        
+        # Handle multiple file processing for date update
+        files_to_process = []
+        if args.files:
+            files_to_process = args.files
+        elif args.file:
+            files_to_process = args.file
+        
+        if files_to_process:
+            files_processed = 0
+            files_changed = 0
+            
+            for file_path_str in files_to_process:
+                file_path = ROOT_DIR / file_path_str
+                if not file_path.exists():
+                    print(f"Error: File not found: {file_path_str}")
+                    continue
+                
+                print(f"Processing: {file_path_str}")
+                
+                if update_dates_in_file(file_path, new_date, args.dry_run):
+                    files_changed += 1
+                files_processed += 1
+            
+            print("=" * 40)
+            print(f"Processed {files_processed} file(s), {files_changed} file(s) changed.")
+            if args.dry_run and files_changed > 0:
+                print("Run with --fix to apply these changes.")
+            return
+        else:
+            # Process all files for date update
+            processing_map = {
+                'en': [PRODUCTS_DIR_EN, COMPANIES_DIR_EN],
+                'ja': [PRODUCTS_DIR_JA, COMPANIES_DIR_JA]
+            }
+            
+            total_files_changed = 0
+            
+            for lang, directories in processing_map.items():
+                print(f"--- Processing language: {lang.upper()} ---")
+                files_changed_lang = 0
+                
+                for directory in directories:
+                    if not directory.exists():
+                        print(f"Directory not found, skipping: {directory}")
+                        continue
+                    
+                    print(f"Processing directory: {directory.relative_to(ROOT_DIR)}")
+                    all_files = sorted(list(directory.glob('**/*.md')))
+                    
+                    for file_path in all_files:
+                        if file_path.is_file():
+                            if update_dates_in_file(file_path, new_date, args.dry_run):
+                                files_changed_lang += 1
+                
+                if files_changed_lang > 0:
+                    print(f"Updated {files_changed_lang} files for {lang.upper()}.")
+                else:
+                    print(f"No date updates needed for {lang.upper()}.")
+                
+                total_files_changed += files_changed_lang
+                print("-" * 40)
+            
+            print("=" * 40)
+            if total_files_changed > 0:
+                print(f"TOTAL: Updated {total_files_changed} files across all languages.")
+                if args.dry_run:
+                    print("\nRun with --fix to apply these changes.")
+            else:
+                print("No date updates needed in any language.")
+            return
+
+    # Handle multiple file processing for tag normalization
+    files_to_process = []
+    if args.files:
+        files_to_process = args.files
+    elif args.file:
+        files_to_process = args.file
+    
+    if files_to_process:
+        print(f"Processing {len(files_to_process)} specified file(s)...")
         print(f"Mode: {'Dry Run' if args.dry_run else 'Fix'}")
         print("=" * 40)
         
         files_processed = 0
         files_changed = 0
         
-        for file_path_str in args.file:
+        for file_path_str in files_to_process:
             file_path = ROOT_DIR / file_path_str
             if not file_path.exists():
                 print(f"Error: File not found: {file_path_str}")

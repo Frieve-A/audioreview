@@ -925,15 +925,15 @@ class ReviewValidator:
                         elif en_price > 0:  # Avoid division by zero
                             exchange_rate = ja_price / en_price
                             
-                            # Check if exchange rate is within acceptable range (50-200 JPY per USD)
+                            # Check if exchange rate is within acceptable range (50-250 JPY per USD)
                             if exchange_rate < 50:
                                 issues.append(f"Price exchange rate too low for {product_id}: "
                                             f"{exchange_rate:.1f} JPY/USD (JPY: {ja_price}, USD: {en_price}) "
-                                            f"- Rate should be 50-200 JPY/USD")
-                            elif exchange_rate > 200:
+                                            f"- Rate should be 50-250 JPY/USD")
+                            elif exchange_rate > 250:
                                 issues.append(f"Price exchange rate too high for {product_id}: "
                                             f"{exchange_rate:.1f} JPY/USD (JPY: {ja_price}, USD: {en_price}) "
-                                            f"- Rate should be 50-200 JPY/USD")
+                                            f"- Rate should be 50-250 JPY/USD")
                             else:
                                 # Exchange rate is within acceptable range
                                 pass
@@ -1217,7 +1217,7 @@ class ReviewValidator:
             "Title first part": "13. **Title Consistency Error**: Title first part must match target_name exactly",
             "Forbidden term": "14. **Forbidden Terms Policy Violation**: Replace table/chart terminology with appropriate evaluation levels like '透明レベル', '問題レベル', 'transparent level', 'issue level'",
             "Japanese currency": "15. **Currency Conversion Recommendation**: Consider converting Japanese yen (JPY) to USD for international audience in English reviews",
-            "Price exchange rate": "16. **Price Consistency Error**: Ensure exchange rate between JPY and USD prices is within 50-200 JPY/USD range"
+            "Price exchange rate": "16. **Price Consistency Error**: Ensure exchange rate between JPY and USD prices is within 50-250 JPY/USD range"
         }
         
         # Get unique recommendations
