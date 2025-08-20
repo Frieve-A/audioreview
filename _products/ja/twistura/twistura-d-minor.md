@@ -5,7 +5,7 @@ target_name: "Twistura D-Minor"
 company_id: twistura
 lang: ja
 ref: twistura-d-minor
-date: 2025-08-19
+date: 2025-08-20
 rating: [2.6, 0.5, 0.3, 0.7, 0.5, 0.6]
 price: 6435
 summary: "中域重視のチューニングと交換式フィルターを搭載したエントリー向けの予算重視IEM"
@@ -67,5 +67,5 @@ $$ \Large \text{0.6} $$
 
 [6] PR TIMES, “『TWISTURA』からエントリークラスの新たなるIEM登場（D-MINOR/D-MAJOR）」 国内価格（D-MINOR：6,435円）掲載, https://prtimes.jp/main/html/rd/p/000000083.000139013.html, アクセス日 2025-08-18。
 
-(2025.8.19)
+(2025.8.20)
 
