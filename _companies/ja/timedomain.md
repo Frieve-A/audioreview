@@ -1,15 +1,15 @@
 ---
 layout: company
-title: "TimeDomain Corporation 企業レビュー"
-target_name: "TimeDomain Corporation"
-company_id: timedomain-corporation
+title: "TIMEDOMAIN 企業レビュー"
+target_name: "TIMEDOMAIN"
+company_id: timedomain
 lang: ja
-ref: timedomain-corporation
-date: 2025-08-20
+ref: timedomain
+date: 2025-08-21
 rating: [1.9, 0.5, 0.4, 0.1, 0.5, 0.4]
 summary: "タイムドメイン理論を掲げる日本のスピーカーメーカー。主力のYoshii9系は独自の設計思想を打ち出していますが、第三者測定の不足と価格に対する実測裏付けの弱さから総合評価は低めです。"
 tags: [スピーカー, 日本, タイムドメイン, デスクトップオーディオ]
-permalink: /companies/ja/timedomain-corporation/
+permalink: /companies/ja/timedomain/
 ---
 
 ## 概要
@@ -64,5 +64,5 @@ $$ \Large \text{0.4} $$
 [5] TIMEDOMAIN Lab mini shop（修理対応の記載あり）: https://www.timedomain.shop/items/4947337 （2025-08-19確認）  
 [6] TIMEDOMAIN公式資料（群遅延重視の説明PDF）: http://www.timedomain.co.jp/documents/2003masscom/extend_td.pdf （2025-08-19確認）
 
-(2025.8.20)
+(2025.8.21)
 

@@ -1,15 +1,15 @@
 ---
 layout: company
-title: "TimeDomain Corporation Company Review"
-target_name: "TimeDomain Corporation"
-company_id: timedomain-corporation
+title: "TIMEDOMAIN Company Review"
+target_name: "TIMEDOMAIN"
+company_id: timedomain
 lang: en
-ref: timedomain-corporation
-date: 2025-08-20
+ref: timedomain
+date: 2025-08-21
 rating: [1.9, 0.5, 0.4, 0.1, 0.5, 0.4]
 summary: "Japanese speaker maker advocating a time-domain theory. The Yoshii9 line presents a clear concept, but the lack of independent measurements and weak price justification keep the overall score low."
 tags: [Desktop, Japan, Speakers, Time Domain]
-permalink: /companies/en/timedomain-corporation/
+permalink: /companies/en/timedomain/
 ---
 ## Overview
 
@@ -63,5 +63,5 @@ If you value measurement-backed transparency and value, start with active studio
 [5] TIMEDOMAIN Lab mini shop (repair note): https://www.timedomain.shop/items/4947337 (accessed 2025-08-19)  
 [6] TIMEDOMAIN document (group-delay emphasis PDF): http://www.timedomain.co.jp/documents/2003masscom/extend_td.pdf (accessed 2025-08-19)
 
-(2025.8.20)
+(2025.8.21)
 

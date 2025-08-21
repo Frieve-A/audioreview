@@ -1,71 +1,69 @@
 ---
 layout: product
-title: "Antelope Audio Zen Quadro Synergy Core 製品レビュー"
+title: "Antelope Audio Zen Quadro Synergy Core Product Review"
 target_name: "Antelope Audio Zen Quadro Synergy Core"
 company_id: antelope-audio
-lang: ja
+lang: en
 ref: antelope-audio-zen-quadro-synergy-core
-date: 2025-08-14
+date: 2025-08-21
 rating: [3.7, 0.8, 0.7, 1.0, 0.4, 0.8]
-price: 92950
-summary: "最大130dBクラスのコンバーター、デュアルUSB-C（2ホスト同時）接続、DCカップリングI/O、豊富なリアルタイムDSP/FPGA処理を、コンパクトなバスパワー筐体に収めたデスクトップIFです。"
-tags: [オーディオインターフェース, USB-C, DSP, コンバーター, デスクトップ]
-permalink: /products/ja/antelope-audio-zen-quadro-synergy-core/
+price: 729
+summary: "Desktop audio interface offering up to 130 dB converters, dual USB-C (two-host) connectivity, DC-coupled I/O, and extensive real-time DSP/FPGA processing in a compact, bus-powered design."
+tags: [Audio interface, Converters, DSP, Desktop, USB-C]
+permalink: /products/en/antelope-audio-zen-quadro-synergy-core/
 ---
+## Overview
 
-## 概要
+The Zen Quadro Synergy Core is a 14×10, bus-powered desktop interface with four discrete mic preamps, real-time Synergy Core DSP/FPGA effects and a dual-USB design that can connect two hosts (e.g., computer + phone) simultaneously [1][3]. It includes DC-coupled I/O and comes with 37 AFX modules pre-installed for tracking/streaming workflows [2]. Manufacturer specifications cite up to 130 dB D/A dynamic range and 75 dB preamp gain [1][3].
 
-Zen Quadro Synergy Coreは、14×10入出力、4基のディスクリート・マイクプリアンプ、リアルタイムSynergy Coreエフェクト、**2つのUSB-Cポートで2台のホストを同時接続**できる設計を備えた、バスパワー動作のデスクトップIFです [1][3]。I/OはDCカップリングに対応し、標準で37種のAFXモジュールが付属します [2]。メーカー公称では、D/Aで最大130dBのダイナミックレンジ、プリアンプは最大75dBゲインを謳います [1][3]。
-
-## 科学的有効性
+## Scientific Validity
 
 $$ \Large \text{0.8} $$
 
-現時点で広範な第三者測定は多くありません。以下は**メーカー公称値**（およびそれをまとめた小売情報）です。**A/D**：122dB（A-weighted）、THD+N −116dB。**D/A**：130dB（A-weighted）、THD+N −115dB。**マイクプリ**：最大ゲイン75dB、EIN −128dBu（A-weighted）との記載が流通情報にあります。**ヘッドホン**：118dB DR [2][3][4][6]。これらの値はインターフェース電子回路として十分に透明域を満たします。今後、第三者測定が出揃えば追記・更新します。
+Independent lab measurements are not yet broadly available; the following are manufacturer specifications (and retailer summaries of those specs). **A/D**: 122 dB A-weighted dynamic range, THD+N −116 dB. **D/A**: 130 dB A-weighted dynamic range, THD+N −115 dB. **Mic preamps**: max gain 75 dB; EIN typically listed as −128 dBu A-weighted; **headphones**: 118 dB DR [2][3][4][6]. These figures comfortably clear transparency thresholds for interface electronics. As third-party data emerges, this section should be updated to reflect independently verified results.
 
-## 技術レベル
+## Technology Level
 
 $$ \Large \text{0.7} $$
 
-Antelope独自の第4世代64-bit AFCクロック、DSP+FPGAのハイブリッド処理、**入出力のDCカップリング切替**、そして希少な**デュアルUSBでの2ホスト同時運用**（USB OTG）といった設計が特徴です [1][2][3]。付属の37種AFXと、6系統入力チェーンで最大48モノ・インスタンスまでの同時使用は、オンデバイス処理として余裕があります [1][2]。一方でコンバーター/プリアンプのコアは完全自社開発とまでは示されず、独創性は中程度と判断します。
+Notable engineering features include Antelope’s 4th-gen 64-bit AFC clocking, a hybrid DSP+FPGA effects platform, DC-coupled I/O with user-switchable coupling, and a rare dual-USB topology that supports two simultaneous hosts (USB OTG) [1][2][3]. The included 37 real-time AFX modules and up to 48 mono effect instances across six input chains provide substantial on-device processing headroom [1][2]. Converter and preamp silicon are not disclosed as fully in-house designs, so while the integration is sophisticated, originality is moderate.
 
-## コストパフォーマンス
+## Cost-Performance
 
 $$ \Large \text{1.0} $$
 
-**国内実勢：92,950円（参考）** [5] **／US実勢：729 USD** [7]。評価にあたり、**バスパワーの4プリ内蔵デスクトップ型**、**A/D 122dB以上＆D/A 125dB以上**、**オンデバイスのリアルタイム複合エフェクト**（マルチモジュール・チェーン）、**デジタルI/O（ADAT In＋S/PDIF I/O）**、**2ホスト同時のデュアルUSB**という**ユーザー視点の機能・測定性能**を同等以上で満たす、より安価な代替を探索しましたが、該当品は確認できませんでした。近い代替としてMOTU UltraLite-mk5（オンボードDSPミキサー/125dB D/A、**デュアルUSBなし**）やSSL 12（>120dBクラス、**プラグイン的エフェクト非搭載**、ゲイン幅も小）が挙がるものの、いずれも要件を満たしません [8][9]。**同等以上の安価品が存在しないためCP＝1.0**とします。
+**Market price (US): 729 USD** [5][7]. To score cost-performance, we searched for cheaper products with **equivalent-or-better user functions and measured performance**, specifically: bus-powered 4-preamp desktop interface, ≥122 dB A/D and ≥125 dB D/A DR, robust **onboard** real-time effects processing (multi-module chains), digital I/O (ADAT In + S/PDIF I/O), and **dual-USB** two-host operation. We did not find any cheaper product meeting all of these concurrently. Close alternatives like MOTU UltraLite-mk5 (onboard DSP mixer, 125 dB D/A, no dual-USB) and SSL 12 (>120 dB DR class, no plugin-style effects, lower preamp gain) fail the equivalence requirement on functions and/or core specs [8][9]. **Conclusion: no cheaper equivalent exists → CP = 1.0.**
 
-## 信頼性・サポート
+## Reliability & Support
 
 $$ \Large \text{0.4} $$
 
-公式手順では**オンラインによるデバイス認証が必須**で、オフライン認証は不可、ソフト更新にもインターネット接続が推奨されています [10][11]。SOSレビューでもセットアップ時にLauncherの挙動に小さな手間があった旨の記載があります [2]。コミュニティ報告は賛否が混在しており、長期実績を踏まえた上で評価更新の余地があります。現時点ではソフト依存と認証要件を重く見て**0.4**とします [2][12][13]。
+Official guidance requires online activation via Antelope Launcher; **offline activation is not possible**, and an internet connection is recommended for updates [10][11]. The SOS review notes some minor Launcher friction during setup (needing a Manager Server restart) [2]. Community feedback on stability is mixed across forums and social media; some report smooth operation, others report connectivity/Launcher issues. Given the mandatory online activation and the variability in user reports, we set reliability/support at **0.4** pending longer-term field data [2][12][13].
 
-## 設計思想の合理性
+## Rationality of Design Philosophy
 
 $$ \Large \text{0.8} $$
 
-高DR/低THD+Nの達成、**2ホスト同時**やループバックを含む実用的なルーティング、**オンデバイス**処理による低遅延トラッキングなど、実測に落とし込める要素に注力している点は合理的です [1][2][3]。可搬バスパワーで透明域を狙う方向性も首尾一貫しています。非科学的主張には依拠せず、測定で裏付け可能な改善に投資していると評価します。
+The design targets measurable transparency (high DR/low THD+N), practical creator workflows (dual-USB, loopback, ADAT In + S/PDIF I/O), and low-latency **onboard** effects for tracking/streaming—all features with clear, testable benefits [1][2][3]. The focus on portable, bus-powered operation without sacrificing converter or preamp headroom is scientifically sound. The approach avoids non-falsifiable claims and aligns with transparent-level performance targets.
 
-## アドバイス
+## Advice
 
-4系統プリ、ハイDR変換、**オンボードAFX**を**バスパワー**でまとめたいモバイル制作・配信・小規模スタジオ用途に好適です。**デュアルUSB**はDAW＋スマホ等のハイブリッド配信で特に有用です [1]。一方、ドライバの成熟度やソフト依存を最小化したいなら、RMEやMOTUも有力候補ですが、2ホスト同時やAFXの幅は得られません [2][8]。オンデバイス処理と二重ホスト運用が価値になるワークフローなら、本機は価格帯で代替困難な選択肢です。
+Zen Quadro Synergy Core suits mobile producers, streamers, and small studios needing four quality preamps, high-spec conversion, and **onboard** real-time effects in a single bus-powered unit. The dual-USB host feature is uniquely useful for hybrid setups (e.g., DAW + phone input) [1]. If you prioritize ultra-mature driver ecosystems and minimal software dependencies, interfaces from RME and MOTU remain strong alternatives, albeit without the same dual-USB/two-host and AFX breadth [2][8]. If your workflow benefits from on-device effects chains and dual-host routing, the Zen Quadro offers uncommon capability at its price.
 
-## 参考情報
+## References
 
-[1] Antelope Audio「Zen Quadro Synergy Core 製品ページ」2025年8月アクセス https://en.antelopeaudio.com/products/zen-quadro-synergy-core/  
-[2] Sound On Sound「Antelope Audio Zen Quadro Synergy Core」2025年7月（レビュー）https://www.soundonsound.com/reviews/antelope-audio-zen-quadro-synergy-core  
-[3] Antelope Audio サポート「Zen Quadro Synergy Core 技術仕様」最終更新2025年4月18日 https://support.antelopeaudio.com/en/support/solutions/articles/42000107483-technical-specifications  
-[4] Thomann「Antelope Zen Quadro Synergy Core」EINやデュアルUSB同時動作の記載、2025年8月アクセス https://www.thomannmusic.com/antelope_zen_quadro_synergy_core.htm  
-[5] サウンドハウス「Zen Quadro Synergy Core」国内税込価格の参考、2025年8月アクセス https://www.soundhouse.co.jp/products/detail/item/347706/  
-[6] zZounds / Alto Music 商品ページ（EIN −128dBu A-weightedなどの仕様記載）2025年8月アクセス https://www.zzounds.com/item--ANEZENQUADROSYN ; https://www.altomusic.com/products/antelope-audio-zen-quadro-synergy-core-14x10-dual-usb-bus-powered-interface  
-[7] Antelope Audio「Zen Quadro – Key Features」（米国ページに729 USDの表示）2025年8月アクセス https://en.antelopeaudio.com/products/zen-quadro-synergy-core-key-features/  
-[8] MOTU「UltraLite-mk5 – Specs」125dB D/A、−114dB THD+N、2025年8月アクセス https://motu.com/en-us/products/gen5/ultralite-mk5/specs/  
-[9] Solid State Logic「SSL 12」>120dB DR、ゲイン幅など、2025年8月アクセス https://solidstatelogic.com/products/ssl-12  
-[10] Antelope Audio サポート「アカウント作成・製品アクティベーション・ソフトインストール」（オフライン認証不可の明記）2025年4月18日 https://support.antelopeaudio.com/en/support/solutions/articles/42000107429-account-creation-product-activation-and-software-installation  
-[11] Antelope Audio「Get Started Guide」（アクティベーションにインターネット必須の明記）2025年8月アクセス https://en.antelopeaudio.com/get-started-en/  
-[12] Sound On Sound レビュー内のセットアップ/Launcher記述 https://www.soundonsound.com/reviews/antelope-audio-zen-quadro-synergy-core  
-[13] フォーラム/コミュニティでの安定性に関する混在報告（例：SOSフォーラム、Reddit）2025年8月アクセス https://www.soundonsound.com/forum/viewtopic.php?t=68995 ; https://www.reddit.com/r/antelopeaudio/comments/1gjom78/whats_your_experience_with_the_new_zen_quadro/
+[1] Antelope Audio, “Zen Quadro Synergy Core – Product Page,” accessed August 2025. https://en.antelopeaudio.com/products/zen-quadro-synergy-core/  
+[2] Sound On Sound, “Antelope Audio Zen Quadro Synergy Core,” July 2025 (review). Notes AFX count, dual-USB use, and quotes manufacturer DR/THD figures. https://www.soundonsound.com/reviews/antelope-audio-zen-quadro-synergy-core  
+[3] Antelope Audio Support, “Zen Quadro Synergy Core – Technical Specifications,” last updated Apr 18, 2025. https://support.antelopeaudio.com/en/support/solutions/articles/42000107483-technical-specifications  
+[4] Thomann, “Antelope Zen Quadro Synergy Core,” retail listing summarizing EIN and dual-USB simultaneous host feature, accessed August 2025. https://www.thomannmusic.com/antelope_zen_quadro_synergy_core.htm  
+[5] Antelope Audio, “Zen Quadro – Key Features” (US page with 729 USD price), accessed August 2025. https://en.antelopeaudio.com/products/zen-quadro-synergy-core-key-features/  
+[6] zZounds / Alto Music, retail listings summarizing mic pre EIN (−128 dBu A-weighted) and core specs, accessed August 2025. https://www.zzounds.com/item--ANEZENQUADROSYN ; https://www.altomusic.com/products/antelope-audio-zen-quadro-synergy-core-14x10-dual-usb-bus-powered-interface  
+[7] Vintage King, “Antelope Audio Zen Quadro Synergy Core,” 729 USD (US market), accessed August 2025. https://vintageking.com/antelope-audio-zen-quadro-synergy-core-14-in-10-out-usb-c-audio-interface  
+[8] MOTU, “UltraLite-mk5 – Specs,” 125 dB D/A DR, −114 dB THD+N, accessed August 2025. https://motu.com/en-us/products/gen5/ultralite-mk5/specs/  
+[9] Solid State Logic, “SSL 12,” >120 dB DR class, 62 dB mic gain; product page, accessed August 2025. https://solidstatelogic.com/products/ssl-12  
+[10] Antelope Audio Support, “Account Creation, Product Activation and Software Installation” (online activation required), Apr 18, 2025. https://support.antelopeaudio.com/en/support/solutions/articles/42000107429-account-creation-product-activation-and-software-installation  
+[11] Antelope Audio, “Get Started Guide” (internet required for activation), accessed August 2025. https://en.antelopeaudio.com/get-started-en/  
+[12] Sound On Sound (review), setup/Launcher notes. https://www.soundonsound.com/reviews/antelope-audio-zen-quadro-synergy-core  
+[13] SOS forum / Reddit threads and user reviews discussing stability (mixed), accessed August 2025. https://www.soundonsound.com/forum/viewtopic.php?t=68995 ; https://www.reddit.com/r/antelopeaudio/comments/1gjom78/whats_your_experience_with_the_new_zen_quadro/
 
-(2025.8.14)
-
+(2025.8.21)

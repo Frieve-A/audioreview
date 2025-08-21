@@ -5,48 +5,59 @@ target_name: "Kiwi Ears"
 company_id: kiwi-ears
 lang: en
 ref: kiwi-ears
-date: 2025-07-06
-rating: [3.8, 0.8, 0.7, 1.0, 0.7, 0.6]
-summary: "A Chinese emerging IEM manufacturer owned by Linsoul Audio, established as a brand by an unnamed acoustic engineer. Known for high-quality handcrafted assembly and dual quality inspection systems, the Orchestra Lite (249USD) demonstrates excellent performance with an 8BA configuration, establishing itself as a benchmark in the 249USD price bracket. Direct competitors in the same price range are limited, with reviewers evaluating that it has set new standards in this price segment. This company is suitable for users who prioritize quality and attention to detail over technological innovation."
+date: 2025-08-21
+rating: [3.2, 0.8, 0.7, 0.4, 0.7, 0.6]
+summary: "A Linsoul-owned IEM brand focused on handcrafted assembly and dual QC. Models like the Orchestra Lite (8BA) show solid execution with neutral-leaning FR on third-party measurements[1][2]. However, cheaper wired IEMs with equal-or-better measured performance exist, so company-wide cost-performance is not maximal."
 tags: [Balanced armature, Chi-Fi, China, In-ear monitors, Linsoul]
 permalink: /companies/en/kiwi-ears/
 ---
+
 ## Overview
 
-Kiwi Ears is a Chinese emerging IEM manufacturer owned by Linsoul Audio, initiated as an effort by an unnamed tuner (who tuned some of the most popular Chi-Fi IEMs recently) to establish their own brand. With musicians and studio engineers particularly in mind, they aim to produce professional IEMs that reveal every nuance in music and performance. The company is known for handcrafted manufacturing and dual quality inspection systems, deploying products across a wide price range from Cadenza (35USD) to Orchestra (500USD). The Orchestra Lite particularly achieves half the price of the original Orchestra at 249USD, attracting industry attention.
+Kiwi Ears is a Chinese IEM brand known for handcrafted production and dual quality inspection. The lineup spans from entry models to multi-BA designs. The Orchestra Lite in particular adopts an 8BA/3-way topology and measures neutral-leaning on independent FR tests[1][2].
 
 ## Scientific Validity
 
 $$ \Large \text{0.8} $$
 
-Kiwi Ears' flagship product, the Orchestra Lite, features an 8BA configuration (2 high-frequency + 4 mid-frequency + 2 low-frequency) achieving THD 0.3%, realizing "very low distortion." The 3-way passive crossover strategy employs five independent passive components to achieve intricate layering and minimize total harmonic distortion. Each unit undergoes two separate rounds of quality control inspection by engineers, including left and right channel frequency matching. Measurable performance improvements are realized, and scientific validity can be rated as high.
+Independent FR measurements (IEC-711 class coupler) confirm a neutral-tilted response consistent with the design intent[2]. Left/right matching and two-stage QC are documented by the company[1]. Comprehensive, model-by-model THD/IMD datasets are still limited, so we stop short of the very top score.
 
 ## Technology Level
 
 $$ \Large \text{0.7} $$
 
-Kiwi Ears achieves reasonable standards in balanced armature technology, particularly possessing design know-how for multi-driver configurations. The Quintet combines four different driver technologies (1DD+1BA+1Planar+1PZT), developing proprietary technologies like KARS (Kiwi Acoustic Resonance System) and MPT (Micro Planar Transducers). However, these remain combinations or improvements of existing driver technologies, with limited fundamental technological innovation or proprietary acoustic design theory. While handcrafted manufacturing and detailed quality control are commendable, the technical standard only slightly exceeds industry average.
+The brand demonstrates above-average execution of multi-BA and hybrid topologies, handcrafted shells, and documented QC[1]. Radical innovations (e.g., DSP integration) are limited, so the level is set slightly above industry average.
 
 ## Cost-Performance
 
-$$ \Large \text{1.0} $$
+$$ \Large \text{0.4} $$
 
-The Kiwi Ears Orchestra Lite sells for 249USD, providing excellent performance in this price bracket. Reviews sometimes compare it with higher-priced models like DUNU SA6 (550USD) and Moondrop Variations (520USD), but these are significantly more expensive than the 249USD Orchestra Lite and not direct competitors. Actual same-price competitors are limited, with reviewers stating "Orchestra Lite successfully fills a previously underwhelming niche in the 250USD price bracket" and "sets a new standard in this category." In the same price bracket, "not many sets match what the Orchestra Lite can do as a whole for the asking price," establishing it as a benchmark in the 249USD segment. CP = 249USD ÷ 249USD = 1.0, establishing a leadership position in this price bracket.
+Using **Orchestra Lite (249 USD)** as a representative baseline, we select **Moondrop Aria 2 (99.99 USD)** as **equal-or-better** for user-visible functions and measured performance (wired IEM, THD≤0.05% @1kHz (spec), effective FR 20Hz–20kHz within −3dB on IEC60318-4)[2][4][5].  
+**Computation**: 99.99 USD ÷ 249 USD = **0.40** → score **0.4**.  
+Given the availability of cheaper, measurement-transparent alternatives, company-level CP cannot be 1.0.
 
 ## Reliability & Support
 
 $$ \Large \text{0.7} $$
 
-Kiwi Ears provides a 1-year IEM warranty and 3-month cable warranty, maintaining a comprehensive support system through Linsoul Audio. Each unit undergoes two rounds of quality control inspection by engineers, including left and right channel frequency matching inspection. With handcrafted manufacturing, they are evaluated as having "excellent build quality and cable for the price range." Linsoul's rapid shipping and careful packaging are also highly rated, providing reliable support systems for international customers as well. As a Chinese company, they demonstrate the highest level of reliability.
+Warranty (1-year IEM / 3-month cable) and dual QC including L/R FR matching are stated[1]. Distribution via Linsoul provides consistent logistics. Long-term field failure statistics are limited, so we refrain from a top score.
 
 ## Rationality of Design Philosophy
 
 $$ \Large \text{0.6} $$
 
-Kiwi Ears' design philosophy represents an approach emphasizing high-quality handcrafted manufacturing and attention to detail, showing some rationality. Professional positioning targeting musicians and studio engineers is also clear. The corporate concept of combining technological innovation with refined tuning strategies is understandable. However, fundamental technological innovation or proprietary acoustic theory remains limited, staying within combinations of existing technologies, showing a corporate stance that prioritizes practicality and quality over scientific innovation.
+Prioritizing neutral FR, passive crossovers, and practical build choices is rational[1][2]. However, limited adoption of modern DSP-based cost/performance leverage keeps the philosophical rationality at a moderate level.
 
 ## Advice
 
-Kiwi Ears is a suitable choice for users who value high-quality handcrafted manufacturing and detailed quality control. The Orchestra Lite particularly provides excellent performance with an 8BA configuration at 249USD, earning high evaluation especially for midrange expression. However, for those seeking the best cost-performance or absolute performance, we recommend also considering competitors like DUNU SA6 or Moondrop Variations. For long-term use, the company's comprehensive quality control system and reliable support through Linsoul are significant advantages. This company is most suitable for users who prioritize steady quality improvement and attention to detail over technological innovation.
+Kiwi Ears suits users who value neutral-leaning tonality, handcrafted builds, and published QC steps. If strict price-to-measurement value is your priority, compare against equal-or-better, lower-priced wired IEMs (e.g., Aria 2) before deciding[4][5].
 
-(2025.7.6)
+## References
+
+[1] Kiwi Ears, “Kiwi Ears Orchestra Lite,” https://kiwiears.com/products/kiwi-ears-orchestra-lite (accessed 2025-08-20)  
+[2] headphones.com, “Kiwi Ears Orchestra Lite Review (FR measurement; IEC-711; >8kHz caution),” https://headphones.com/blogs/reviews/kiwi-ears-orchestra-lite-review-the-return-of-multi-ba-midrange-iem (2023-05-20)  
+[3] Bloom Audio, “Kiwi Ears Orchestra Lite,” https://bloomaudio.com/products/kiwi-ears-orchestra-lite (accessed 2025-08-20)  
+[4] MOONDROP, “MOONDROP Aria 2 – Specifications,” https://moondroplab.com/en/products/aria2 (accessed 2025-08-20)  
+[5] Linsoul, “MOONDROP ARIA 2,” https://www.linsoul.com/products/moondrop-aria2 (accessed 2025-08-20)
+
+(2025.8.21)
