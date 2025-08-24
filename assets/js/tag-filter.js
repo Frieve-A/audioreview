@@ -26,6 +26,14 @@ class TagFilterManager {
   }
 
   init() {
+    // Only initialize on products pages
+    if (!window.location.pathname.includes('/products/')) {
+      return;
+    }
+    
+    // Prevent image dragging
+    this.preventImageDragging();
+    
     const resultCountElement = document.getElementById('result-count');
     if (resultCountElement) {
       this.originalResultText = resultCountElement.innerHTML;
@@ -37,6 +45,13 @@ class TagFilterManager {
     this.loadStateFromURL();
   }
 
+  preventImageDragging() {
+    // Set draggable="false" on all images
+    const images = document.querySelectorAll('img');
+    images.forEach(img => {
+      img.setAttribute('draggable', 'false');
+    });
+  }
 
 
   // Add this method to support new data source from JSON

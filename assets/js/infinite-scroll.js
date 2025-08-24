@@ -14,14 +14,23 @@ class InfiniteScrollManager {
     this.itemsPerLoad = 30; // Items to add per scroll
     this.isLoading = false;
     
-    // State management (unified)
-    this.state = {
-      sort: 'date-desc',
-      tags: [],
-      searchMode: 'and', // Support for AND/OR search mode
-      displayedCount: 90,
-      isLoading: false
-    };
+         // State management (unified)
+     this.state = {
+       sort: 'date-desc',
+       tags: [],
+       searchMode: 'and', // Support for AND/OR search mode
+       ratingFilters: {
+         overall: { min: 0, max: 5 },
+         scientific: { min: 0, max: 1 },
+         technical: { min: 0, max: 1 },
+         cost: { min: 0, max: 1 },
+         reliability: { min: 0, max: 1 },
+         design: { min: 0, max: 1 }
+       },
+       priceFilter: { min: 0, max: this.currentLanguage === 'en' ? 1000000 : 100000000 },
+       displayedCount: 90,
+       isLoading: false
+     };
     
     // UI elements
     this.observer = null;
@@ -32,6 +41,14 @@ class InfiniteScrollManager {
   }
   
   async init() {
+    // Only initialize on products pages
+    if (!window.location.pathname.includes('/products/')) {
+      return;
+    }
+    
+    // Prevent image dragging
+    this.preventImageDragging();
+    
     // Set initial loading state
     this.updateResultCount();
     
@@ -43,6 +60,14 @@ class InfiniteScrollManager {
     this.setupEventListeners();
     this.renderInitialContent();
     this.setupInfiniteScroll();
+  }
+
+  preventImageDragging() {
+    // Set draggable="false" on all images
+    const images = document.querySelectorAll('img');
+    images.forEach(img => {
+      img.setAttribute('draggable', 'false');
+    });
   }
   
   async loadData() {
@@ -87,15 +112,23 @@ class InfiniteScrollManager {
       if (window.tagFilter.selectedTags.length > 0) {
         this.state.tags = [...new Set(window.tagFilter.selectedTags)];
         this.state.searchMode = window.tagFilter.searchMode;
-        this.applyFilters();
-      } else {
-        // No tags in URL, render all items
-        this.renderItems(0, this.displayedCount);
       }
-    } else {
-      // No tag filter available, render all items
-      this.renderItems(0, this.displayedCount);
     }
+    
+    // Initialize rating filter state from URL if present
+    if (window.ratingFilter) {
+      window.ratingFilter.loadStateFromURL();
+      this.state.ratingFilters = window.ratingFilter.getFilterState();
+    }
+    
+    // Initialize price filter state from URL if present (products only)
+    if (window.priceFilter) {
+      window.priceFilter.loadStateFromURL();
+      this.state.priceFilter = window.priceFilter.getFilterState();
+    }
+    
+    // Apply all filters
+    this.applyFilters();
     
     this.updateResultCount();
   }
@@ -443,7 +476,7 @@ class InfiniteScrollManager {
     return rating[index] || 0;
   }
   
-  // Tag filter functionality - maintain existing UI structure
+  // Filter functionality - maintain existing UI structure
   renderTagFilters() {
     // Delegate to existing TagFilterManager for UI generation
     // This ensures complete compatibility with existing tag filter UI
@@ -457,6 +490,18 @@ class InfiniteScrollManager {
       window.tagFilter.bindEvents();
       window.tagFilter.eventsBound = true;
     }
+    
+    // Initialize rating filter if available
+    if (window.ratingFilter) {
+      window.ratingFilter.buildRatingFilter();
+      window.ratingFilter.bindEvents();
+    }
+    
+    // Initialize price filter if available (products only)
+    if (window.priceFilter) {
+      window.priceFilter.buildPriceFilter();
+      window.priceFilter.bindEvents();
+    }
   }
   
   // Tag filter event handling - delegate to existing TagFilterManager
@@ -469,15 +514,31 @@ class InfiniteScrollManager {
       this.applyFilters();
     }
   }
+
+  // Rating filter event handling
+  handleRatingFilterChange() {
+    if (window.ratingFilter) {
+      this.state.ratingFilters = window.ratingFilter.getFilterState();
+      this.applyFilters();
+    }
+  }
+
+  // Price filter event handling (products only)
+  handlePriceFilterChange() {
+    if (window.priceFilter) {
+      this.state.priceFilter = window.priceFilter.getFilterState();
+      this.applyFilters();
+    }
+  }
   
   // Unified filter application
   applyFilters() {
-    if (this.state.tags.length === 0) {
-      // Show all items
-      this.filteredData = [...this.allData];
-    } else {
-      // Filter by selected tags using existing TagFilterManager logic
-      this.filteredData = this.allData.filter(item => {
+    // Start with all data
+    this.filteredData = [...this.allData];
+    
+    // Apply tag filters
+    if (this.state.tags.length > 0) {
+      this.filteredData = this.filteredData.filter(item => {
         if (this.state.searchMode === 'and') {
           return this.state.tags.every(tag => 
             item.tags && item.tags.includes(tag)
@@ -487,6 +548,38 @@ class InfiniteScrollManager {
             item.tags && item.tags.includes(tag)
           );
         }
+      });
+    }
+    
+    // Apply rating filters
+    this.filteredData = this.filteredData.filter(item => {
+      if (!item.rating || item.rating.length < 6) return false;
+      
+      const rating = item.rating;
+      const filters = this.state.ratingFilters;
+      
+      // Check overall rating (index 0)
+      if (rating[0] < filters.overall.min || rating[0] > filters.overall.max) {
+        return false;
+      }
+      
+      // Check individual ratings (indices 1-5)
+      if (rating[1] < filters.scientific.min || rating[1] > filters.scientific.max) return false;
+      if (rating[2] < filters.technical.min || rating[2] > filters.technical.max) return false;
+      if (rating[3] < filters.cost.min || rating[3] > filters.cost.max) return false;
+      if (rating[4] < filters.reliability.min || rating[4] > filters.reliability.max) return false;
+      if (rating[5] < filters.design.min || rating[5] > filters.design.max) return false;
+      
+      return true;
+    });
+    
+    // Apply price filters (products only)
+    if (window.location.pathname.includes('/products/')) {
+      this.filteredData = this.filteredData.filter(item => {
+        if (item.price === null || item.price === undefined) return true; // Include items without price
+        
+        const price = parseFloat(item.price);
+        return price >= this.state.priceFilter.min && price <= this.state.priceFilter.max;
       });
     }
     
@@ -521,7 +614,12 @@ class InfiniteScrollManager {
     const totalCount = this.allData.length;
     const filteredCount = this.filteredData.length;
     const isCompaniesPage = window.location.pathname.includes('/companies/');
-    const hasFilters = window.tagFilter && window.tagFilter.selectedTags.length > 0;
+    
+    // Check if any filters are active (tags, ratings, or price)
+    const hasTagFilters = window.tagFilter && window.tagFilter.selectedTags.length > 0;
+    const hasRatingFilters = window.ratingFilter && window.ratingFilter.hasActiveFilters();
+    const hasPriceFilters = window.priceFilter && window.priceFilter.hasActiveFilters();
+    const hasFilters = hasTagFilters || hasRatingFilters || hasPriceFilters;
     
     if (this.currentLanguage === 'ja') {
       if (isCompaniesPage) {

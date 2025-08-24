@@ -786,14 +786,14 @@ def main():
   python tag_normalizer.py --file path/to/file.md    # Normalize single file
   python tag_normalizer.py --files file1.md file2.md # Normalize multiple files
   python tag_normalizer.py --before 2025-08-01       # Normalize only files dated on/before 2025-08-01
-  python tag_normalizer.py --update-date 2025.08.19  # Update dates in files to 2025-08-19"""
+  python tag_normalizer.py --update-date 2025.08.19  # Update dates and normalize tags in files"""
     )
     parser.add_argument('--dry-run', action='store_true', help="Show what would be changed without actually modifying files.")
     parser.add_argument('--fix', action='store_false', dest='dry_run', help="Apply the changes to the files.")
     parser.add_argument('--before', type=str, help="Process only files whose metadata date is on/before this datetime (YYYY-MM-DD[THH:MM[:SS]])")
     parser.add_argument('--file', type=str, action='append', help="Process only the specified file path (relative to project root). Can be used multiple times.")
     parser.add_argument('--files', nargs='+', type=str, help="Process multiple specified file paths (relative to project root).")
-    parser.add_argument('--update-date', type=str, help="Update dates in files to specified date (format: YYYY.MM.DD)")
+    parser.add_argument('--update-date', type=str, help="Update dates in files to specified date and normalize tags (format: YYYY.MM.DD)")
     parser.set_defaults(dry_run=True)
     
     args = parser.parse_args()
@@ -839,11 +839,11 @@ def main():
             print(f"Error: Invalid date '{args.update_date}'. Expected format: YYYY.MM.DD")
             return
         
-        print(f"Starting date update to {new_date}...")
+        print(f"Starting date update to {new_date} and tag normalization...")
         print(f"Mode: {'Dry Run' if args.dry_run else 'Fix'}")
         print("=" * 40)
         
-        # Handle multiple file processing for date update
+        # Handle multiple file processing for date update and tag normalization
         files_to_process = []
         if args.files:
             files_to_process = args.files
@@ -860,9 +860,24 @@ def main():
                     print(f"Error: File not found: {file_path_str}")
                     continue
                 
-                print(f"Processing: {file_path_str}")
+                # Determine language and rules based on file path
+                if '/en/' in file_path_str:
+                    rules = normalization_rules_en
+                    lang = 'en'
+                elif '/ja/' in file_path_str:
+                    rules = normalization_rules_ja
+                    lang = 'ja'
+                else:
+                    print(f"Error: Cannot determine language for file: {file_path_str}")
+                    print("File must be in a directory containing '/en/' or '/ja/'")
+                    continue
                 
-                if update_dates_in_file(file_path, new_date, args.dry_run):
+                print(f"Processing: {file_path_str} ({lang.upper()})")
+                
+                date_changed = update_dates_in_file(file_path, new_date, args.dry_run)
+                tags_changed = normalize_tags_in_file(file_path, rules, args.dry_run)
+                
+                if date_changed or tags_changed:
                     files_changed += 1
                 files_processed += 1
             
@@ -872,15 +887,15 @@ def main():
                 print("Run with --fix to apply these changes.")
             return
         else:
-            # Process all files for date update
+            # Process all files for date update and tag normalization
             processing_map = {
-                'en': [PRODUCTS_DIR_EN, COMPANIES_DIR_EN],
-                'ja': [PRODUCTS_DIR_JA, COMPANIES_DIR_JA]
+                'en': ([PRODUCTS_DIR_EN, COMPANIES_DIR_EN], normalization_rules_en),
+                'ja': ([PRODUCTS_DIR_JA, COMPANIES_DIR_JA], normalization_rules_ja)
             }
             
             total_files_changed = 0
             
-            for lang, directories in processing_map.items():
+            for lang, (directories, rules) in processing_map.items():
                 print(f"--- Processing language: {lang.upper()} ---")
                 files_changed_lang = 0
                 
@@ -894,13 +909,16 @@ def main():
                     
                     for file_path in all_files:
                         if file_path.is_file():
-                            if update_dates_in_file(file_path, new_date, args.dry_run):
+                            date_changed = update_dates_in_file(file_path, new_date, args.dry_run)
+                            tags_changed = normalize_tags_in_file(file_path, rules, args.dry_run)
+                            
+                            if date_changed or tags_changed:
                                 files_changed_lang += 1
                 
                 if files_changed_lang > 0:
                     print(f"Updated {files_changed_lang} files for {lang.upper()}.")
                 else:
-                    print(f"No date updates needed for {lang.upper()}.")
+                    print(f"No updates needed for {lang.upper()}.")
                 
                 total_files_changed += files_changed_lang
                 print("-" * 40)
@@ -911,7 +929,7 @@ def main():
                 if args.dry_run:
                     print("\nRun with --fix to apply these changes.")
             else:
-                print("No date updates needed in any language.")
+                print("No updates needed in any language.")
             return
 
     # Handle multiple file processing for tag normalization

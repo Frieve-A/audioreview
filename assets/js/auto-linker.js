@@ -36,8 +36,19 @@ class AutoLinker {
   }
 
   async init() {
+    // Prevent image dragging
+    this.preventImageDragging();
+    
     await this.loadSearchData();
     this.processContent();
+  }
+
+  preventImageDragging() {
+    // Set draggable="false" on all images
+    const images = document.querySelectorAll('img');
+    images.forEach(img => {
+      img.setAttribute('draggable', 'false');
+    });
   }
 
   async loadSearchData() {

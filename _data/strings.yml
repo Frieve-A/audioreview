@@ -54,6 +54,10 @@ en:
   technology_features: "Technology & Features"
   purpose: "Purpose"
   other: "Other"
+  # Rating filter
+  filter_by_rating: "Filter by Rating"
+  price_range: "Price Range"
+  filter_by_price: "Filter by Price (USD)"
   companies_available: "company reviews available"
   products_available: "product reviews available"
   companies_showing: "showing"
@@ -126,6 +130,10 @@ ja:
   purpose: "用途"
   evaluation: "評価軸"
   other: "その他"
+  # Rating filter
+  filter_by_rating: "評価で絞り込み"
+  price_range: "価格範囲"
+  filter_by_price: "価格で絞り込み（円）"
   companies_available: "社の企業レビューを掲載中"
   products_available: "製品のレビューを掲載中"
   companies_showing: "を表示"

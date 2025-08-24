@@ -1,7 +1,7 @@
 ---
 layout: product
-title: "サンワサプライ MM-SPU8BK 製品レビュー"
-target_name: "サンワサプライ MM-SPU8BK"
+title: "Sanwa Supply MM-SPU8BK 製品レビュー"
+target_name: "Sanwa Supply MM-SPU8BK"
 company_id: sanwa-supply
 lang: ja
 ref: sanwa-supply-mm-spu8bk

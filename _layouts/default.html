@@ -142,6 +142,21 @@
       companiesAvailable: '{% if page.lang %}{{ site.data.strings[page.lang].companies_available }}{% else %}{{ site.data.strings.ja.companies_available }}{% endif %}',
       productsAvailable: '{% if page.lang %}{{ site.data.strings[page.lang].products_available }}{% else %}{{ site.data.strings.ja.products_available }}{% endif %}'
     };
+    window.ratingFilterStrings = {
+      filterTitle: '{% if page.lang %}{{ site.data.strings[page.lang].filter_by_rating }}{% else %}{{ site.data.strings.ja.filter_by_rating }}{% endif %}',
+      clearFilters: '{% if page.lang %}{{ site.data.strings[page.lang].clear_filters }}{% else %}{{ site.data.strings.ja.clear_filters }}{% endif %}',
+      overall: '{% if page.lang %}{{ site.data.strings[page.lang].overall_rating }}{% else %}{{ site.data.strings.ja.overall_rating }}{% endif %}',
+      scientific: '{% if page.lang %}{{ site.data.strings[page.lang].scientific_validity }}{% else %}{{ site.data.strings.ja.scientific_validity }}{% endif %}',
+      technical: '{% if page.lang %}{{ site.data.strings[page.lang].technology_level }}{% else %}{{ site.data.strings.ja.technology_level }}{% endif %}',
+      cost: '{% if page.lang %}{{ site.data.strings[page.lang].cost_performance }}{% else %}{{ site.data.strings.ja.cost_performance }}{% endif %}',
+      reliability: '{% if page.lang %}{{ site.data.strings[page.lang].reliability_support }}{% else %}{{ site.data.strings.ja.reliability_support }}{% endif %}',
+      design: '{% if page.lang %}{{ site.data.strings[page.lang].design_rationality }}{% else %}{{ site.data.strings.ja.design_rationality }}{% endif %}'
+    };
+    window.priceFilterStrings = {
+      filterTitle: '{% if page.lang %}{{ site.data.strings[page.lang].filter_by_price }}{% else %}{{ site.data.strings.ja.filter_by_price }}{% endif %}',
+      clearFilters: '{% if page.lang %}{{ site.data.strings[page.lang].clear_filters }}{% else %}{{ site.data.strings.ja.clear_filters }}{% endif %}',
+      priceRange: '{% if page.lang %}{{ site.data.strings[page.lang].price_range }}{% else %}{{ site.data.strings.ja.price_range }}{% endif %}'
+    };
   </script>
   <!-- Load common tag information first -->
   <script src="{{ '/assets/js/tags.js' | relative_url }}"></script>
@@ -149,6 +164,8 @@
   <script src="{{ '/assets/js/search.js' | relative_url }}"></script>
   <script src="{{ '/assets/js/gauge.js' | relative_url }}"></script>
   <script src="{{ '/assets/js/tag-filter.js' | relative_url }}"></script>
+  <script src="{{ '/assets/js/rating-filter.js' | relative_url }}"></script>
+  <script src="{{ '/assets/js/price-filter.js' | relative_url }}"></script>
   <script src="{{ '/assets/js/infinite-scroll.js' | relative_url }}"></script>
   <script src="{{ '/assets/js/auto-linker.js' | relative_url }}"></script>
   <script src="{{ '/assets/js/price-formatter.js' | relative_url }}"></script>
