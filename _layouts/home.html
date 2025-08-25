@@ -178,9 +178,9 @@ layout: default
             <span class="price-label">{% if page.lang == 'ja' %}参考価格{% else %}Reference Price{% endif %}:</span>
             <span class="price-value">
               {% if page.lang == 'ja' %}
-                {{ product.price | number_with_commas }} 円
+                <span class="price-number" data-price="{{ product.price }}">{{ product.price }}</span> 円
               {% else %}
-                {{ product.price | number_with_commas }} USD
+                <span class="price-number" data-price="{{ product.price }}">{{ product.price }}</span> USD
               {% endif %}
             </span>
           </div>
@@ -213,6 +213,9 @@ layout: default
 
 <!-- Load category tags script -->
 <script src="{{ '/assets/js/category-tags.js' | relative_url }}"></script>
+
+<!-- Load price formatter script -->
+<script src="{{ '/assets/js/price-formatter.js' | relative_url }}"></script>
 
 <script>
 // Home page search functionality

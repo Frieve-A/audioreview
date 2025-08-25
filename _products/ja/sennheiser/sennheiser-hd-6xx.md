@@ -1,27 +1,27 @@
 ---
 layout: product
-title: "Sennheiser HD-6XX 製品レビュー"
-target_name: "Sennheiser HD-6XX"
+title: "Sennheiser HD 6XX 製品レビュー"
+target_name: "Sennheiser HD 6XX"
 company_id: sennheiser
 lang: ja
 ref: sennheiser-hd-6xx
 date: 2025-08-20
 rating: [3.5, 0.6, 0.7, 0.5, 0.9, 0.8]
 price: 29800
-summary: "HD-6XXは、HD650系譜の音響設計をそのままに手頃な価格で提供するオープンバック型ヘッドホンです。複数の第三者測定により特性がHD650と極めて近いことが確認でき、長年の定評あるチューニングを安価に入手できます。"
+summary: "HD 6XXは、HD 650系譜の音響設計をそのままに手頃な価格で提供するオープンバック型ヘッドホンです。複数の第三者測定により特性がHD 650と極めて近いことが確認でき、長年の定評あるチューニングを安価に入手できます。"
 tags: [ヘッドホン, オープンバック型, リファレンス, コストパフォーマンス, ドイツ]
 permalink: /products/ja/sennheiser-hd-6xx/
 ---
 
 ## 概要
 
-Sennheiser HD-6XXは、Drop（旧Massdrop）とSennheiserの協業モデルで、HD650の設計を踏襲したオープンバック型ダイナミックヘッドホンです。公称インピーダンスは300Ωで、分解・交換可能な構造やアイルランド製の表記など仕様情報が公開されています[2]。測定系サイトではHD650の新品パッド装着時と非常に近い周波数特性が確認されています[1]。国内の代表的市場価格は約29,800円（199 USD）です[2]。
+Sennheiser HD 6XXは、Drop（旧Massdrop）とSennheiserの協業モデルで、HD 650の設計を踏襲したオープンバック型ダイナミックヘッドホンです。公称インピーダンスは300Ωで、分解・交換可能な構造やアイルランド製の表記など仕様情報が公開されています[2]。測定系サイトではHD 650の新品パッド装着時と非常に近い周波数特性が確認されています[1]。国内の代表的市場価格は約29,800円（199 USD）です[2]。
 
 ## 科学的有効性
 
 $$ \Large \text{0.6} $$
 
-第三者測定に基づく要点です。周波数特性はフラット志向で、中域は良好ですが、低域はターゲット比でローエンドが弱く、低域RMS偏差5.6 dB、低域拡張39.45 Hz、Low Bassは-7.81 dBです[1]。高域は小さな凹凸があり、総じてやや抑え気味です[1]。高調波歪はWHD 94 dB SPLで0.05%、104 dB SPLで0.12%と良好（ただし104 dBではやや増加）です[1]。また、HD650のイヤーパッドを新品に交換するとHD-6XXとの周波数特性がほぼ一致することが報告されています[1]。以上より、透明域には届かない部分（±3 dBを超える帯域）が残るものの、基礎的な測定性能は高水準と判断します。
+第三者測定に基づく要点です。周波数特性はフラット志向で、中域は良好ですが、低域はターゲット比でローエンドが弱く、低域RMS偏差5.6 dB、低域拡張39.45 Hz、Low Bassは-7.81 dBです[1]。高域は小さな凹凸があり、総じてやや抑え気味です[1]。高調波歪はWHD 94 dB SPLで0.05%、104 dB SPLで0.12%と良好（ただし104 dBではやや増加）です[1]。また、HD 650のイヤーパッドを新品に交換するとHD 6XXとの周波数特性がほぼ一致することが報告されています[1]。以上より、透明域には届かない部分（±3 dBを超える帯域）が残るものの、基礎的な測定性能は高水準と判断します。
 
 ## 技術レベル
 
@@ -41,7 +41,7 @@ $$ \Large \text{0.5} $$
 
 $$ \Large \text{0.9} $$
 
-製品は2年間のメーカー保証が明記され[2]、Sennheiserの修理・保証フローが案内されています[7]。HD600/650系の純正ケーブル・ヘッドバンドなどスペアパーツが公式で提供されており、消耗部品の入手性も良好です[6]。長期運用実績と交換容易な構造を踏まえ高評価とします。
+製品は2年間のメーカー保証が明記され[2]、Sennheiserの修理・保証フローが案内されています[7]。HD 600/650系の純正ケーブル・ヘッドバンドなどスペアパーツが公式で提供されており、消耗部品の入手性も良好です[6]。長期運用実績と交換容易な構造を踏まえ高評価とします。
 
 ## 設計思想の合理性
 
@@ -60,7 +60,7 @@ $$ \Large \text{0.8} $$
 [3] RTINGS.com, “Sennheiser HD 650 Review”, https://www.rtings.com/headphones/reviews/sennheiser/hd-650 （ドライバー構造変更なし、パッド交換後の一致に関する記述, Accessed 2025-08-20）  
 [4] RTINGS.com, “HiFiMan HE400se Review”, https://www.rtings.com/headphones/reviews/hifiman/he400se （最終更新 2025-07-28, LFE/FR偏差、WHD 94/104 dB, Accessed 2025-08-20）  
 [5] HIFIMAN Official Store, “HE400se”, https://store.hifiman.com/index.php/he400se.html （価格109 USD, Accessed 2025-08-20）  
-[6] Sennheiser Hearing EU, “Spare parts and accessories（HD650互換パーツ）”, https://eu.sennheiser-hearing.com/collections/sennheiser-spare-parts-and-accessories/compatibility-hd650 （Accessed 2025-08-20）  
+[6] Sennheiser Hearing EU, “Spare parts and accessories（HD 650互換パーツ）”, https://eu.sennheiser-hearing.com/collections/sennheiser-spare-parts-and-accessories/compatibility-hd650 （Accessed 2025-08-20）  
 [7] Sennheiser, “Repair process and warranty conditions”, https://www.sennheiser.com/en-us/support/knowledge-base/repair-process （Accessed 2025-08-20）
 
 (2025.8.20)
