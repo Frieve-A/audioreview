@@ -41,8 +41,8 @@ class InfiniteScrollManager {
   }
   
   async init() {
-    // Only initialize on products pages
-    if (!window.location.pathname.includes('/products/')) {
+    // Only initialize on companies or products pages
+    if (!window.location.pathname.includes('/companies/') && !window.location.pathname.includes('/products/')) {
       return;
     }
     

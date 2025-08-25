@@ -1,6 +1,5 @@
 ---
 layout: home
-title: "Frieve - Audio Review"
 lang: en
 ---
 
