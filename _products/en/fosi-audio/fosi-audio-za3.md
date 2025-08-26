@@ -5,49 +5,63 @@ target_name: "Fosi Audio ZA3"
 company_id: fosi-audio
 lang: en
 ref: fosi-audio-za3
-date: 2025-07-31
+date: 2025-08-26
 rating: [4.1, 0.8, 0.7, 1.0, 0.8, 0.8]
-price: 119
-summary: "Compact Class-D amplifier featuring TPA3255 chip. Offers balanced inputs and mono/stereo switching functionality with excellent cost-performance compared to competing products with equivalent features."
+price: 149.99
+summary: "Compact TPA3255 Class-D with balanced combo input, stereo/mono (PBTL), 12V trigger, sub-out, and five socketed op-amps; clean performance with caveats for continuous 4Ω stereo."
 tags: [Balanced Input, Class D, Mono Amplifier, Stereo Amplifier, TPA3255]
 permalink: /products/en/fosi-audio-za3/
 ---
+
 ## Overview
 
-The Fosi Audio ZA3 is a compact Class-D amplifier powered by the Texas Instruments TPA3255 chip. With its distinctive dual stereo/mono design, it delivers 155W×2 (stereo) or 235W×1 (mono) output when powered by a 48V/5A supply. The unit supports both balanced inputs (XLR/TRS) and unbalanced inputs (RCA), while also featuring 12V trigger functionality and op-amp swapping capability. Despite being manufactured by a Chinese company, it demonstrates attention to component selection by incorporating Japanese capacitors (NCC, ELNA), German capacitors (WIMA), and Japanese inductors (Sumida).
+Fosi Audio’s ZA3 is a palm-sized Class-D power amplifier based on TI’s TPA3255. Notable features at this price include a **balanced combo input (XLR/¼" TRS)**, **stereo/mono PBTL switch**, **12V trigger-in**, **active subwoofer out**, and **five DIP8 op-amp sockets** for rolling. With the 48V/5A PSU, the maker specifies **155 W×2 @4Ω (stereo)** or **235 W×1 @4Ω (mono)**, **SINAD 89 dB**, **SNR ≥106 dB**, **THD <0.006%**, and **FR 20 Hz–20 kHz (±0.1 dB)**. Independent measurements confirm generally low distortion/noise but report protection at sustained high power into 4Ω with both channels driven and that the sub-out does **not high-pass** the mains. [1][2]
 
 ## Scientific Validity
 
 $$ \Large \text{0.8} $$
 
-The measurement performance demonstrates good standards. The SINAD value of 89dB, S/N ratio of 106dB, THD<0.006%, and frequency response of 20Hz-20kHz (±0.1dB) meet transparent level criteria. The frequency response accuracy of ±0.1dB is particularly excellent, and the dynamic range of 106dB provides sufficient performance. However, the SINAD value of 89dB is equivalent to the company's V3 model and falls within the standard range for Class-D amplifiers. The low noise floor of 150μV is also good, though there is a slight gap compared to the latest high-end DAC-integrated amplifiers. Based on measured values, transparency in the audible range is secured, and scientific validity can be highly evaluated.
+**Manufacturer specs (with 48V/5A PSU):** SINAD 89 dB, SNR ≥106 dB, THD <0.006%, FR 20 Hz–20 kHz (±0.1 dB), noise floor ≈150 μV; power **155 W×2 (4Ω, stereo)** / **235 W×1 (4Ω, mono)**. [1]  
+**Third-party results:** Erin’s Audio Corner shows **load-dependent behavior**; in **4Ω stereo** sustained testing the amp **goes into protect**, while shorter “burst” windows yield higher numbers. The **main speaker outputs are full-range even when sub-out is engaged** (mains not high-passed; sub LPF ≈120 Hz, −3 dB). Test rig: **QA402**, 22.4 kHz BW, 4/8 Ω loads, both channels loaded; reactive loads also evaluated. [2]  
+**Interpretation:** Distortion/noise are well below audibility in typical use. Treat 155 W×2 as an **upper bound** rather than continuous 4Ω two-channel sine capability. [1][2]
 
 ## Technology Level
 
 $$ \Large \text{0.7} $$
 
-The adoption of the TPA3255 chip remains a valid choice today, though it cannot be considered particularly innovative technology. Balanced input support and mono/stereo switching functionality are practical, but technical uniqueness is limited. The op-amp swapping feature (supporting 5 DIP8 sockets) may be appealing to enthusiasts, but its actual impact on measurement performance is questionable. Cooling system improvements (larger chassis compared to V3, side ventilation ports, dust covers) represent rational improvements. The adoption of Japanese and German components contributes to quality improvement but also increases costs. Overall, the design meets industry standards, but no technological breakthroughs or patented technologies are evident.
+TPA3255 platforms are common, but the ZA3’s **balanced combo input**, **PBTL mono**, **12V trigger**, and **five socketed op-amps** in a compact chassis remain uncommon under 200 USD. The design refines thermal layout (side vents, chassis heatsinking) and modularity without exotic or proprietary silicon. [1][2]
 
 ## Cost-Performance
 
 $$ \Large \text{1.0} $$
 
-Against the Japanese market price of 119 USD, the AIYIMA A70 (featuring TPA3255, XLR/TRS support, 300W×2 output) with equivalent functionality is sold at 200 USD. The ZA3 achieves the lowest price among competing products with equivalent balanced input functionality and measurement performance. For users requiring balanced input (XLR/TRS) and mono/stereo switching functionality, the ZA3 holds clear price advantages. This pricing with a 48V power supply represents world-class affordability in the equivalent function category, earning the highest cost-performance rating.
+**ZA3 current price (with 48V/5A PSU): 149.99 USD.** [1]  
+**Cheapest equal-or-better comparator (balanced input, comparable “transparent-class” measured behavior):** **AIYIMA A70 — 199 USD**. [3]  
+At this time the **ZA3 is the world’s cheapest** product meeting the required **balanced I/O + stereo/mono + measured transparency** set among reputable brands; therefore **CP = 1.0** by rule. [1][2][3]
 
 ## Reliability & Support
 
 $$ \Large \text{0.8} $$
 
-Fosi Audio is a rapidly growing Chinese manufacturer with stable product quality. The support structure is well-established, offering 24-month warranty, Japanese manual inclusion, and official sales through Amazon.co.jp. User reviews report few failure incidents, indicating high product reliability. However, as an emerging manufacturer, long-term product support and after-service track record remains limited. Parts procurement and repair support present some concerns compared to established brands. While currently good, it cannot be considered industry-leading.
+Two-year warranty and broad distribution; simple Class-D topology and quality passives (NCC/ELNA, WIMA, Sumida) are positives. **Op-amp rolling is supported but must be done carefully** to avoid instability or damage. [1][2]
 
 ## Rationality of Design Philosophy
 
 $$ \Large \text{0.8} $$
 
-The adoption of Class-D technology to achieve high efficiency and enable high output in a compact chassis is rational. Balanced input support and mono/stereo switching functionality offer high practicality, while the 12V trigger function is effective for system integration. The op-amp swapping feature has limited measured improvement effects but provides flexibility to accommodate user preferences. Improved cooling design contributes to long-term reliability. Concentrating audiophile-oriented features like balanced inputs and monoblock drive into a compact and affordable chassis clearly defines its rationale as a dedicated device and is highly logical.
+Function-first feature set (balanced, PBTL, trigger, sub-out) at low cost aligns with transparent-performance goals. The **no-HPF mains with sub-out** is a design compromise; otherwise, engineering choices are pragmatic for measurement-first users. [1][2]
 
 ## Advice
 
-The ZA3 is a technically excellent amplifier, making it an optimal choice particularly for users requiring balanced input functionality. It offers clear price advantages compared to competing products with equivalent balanced input functionality (such as AIYIMA A70), providing extremely excellent cost-performance. In terms of sound quality, it achieves transparent level performance with good measurement results. For environments requiring balanced input and mono/stereo switching functionality, it represents the most rational choice among currently available options. However, if these functions are unnecessary, more affordable products with RCA input only may be alternatives. For users with clear balanced input requirements after defining their system configuration and necessary functions, this product can be strongly recommended.
+Great value when you **need balanced input**, plan for **mono bridging** someday, or want a compact power stage for desks/small-to-mid rooms. For 2.1 systems, implement **bass management upstream** (DAC/pre-DSP) since mains are full-range. If you routinely drive **4Ω speakers loudly for long durations**, consider **dual ZA3 in mono** or a higher-current alternative. [1][2][3]
 
-(2025.7.31)
+## References
+
+[1] Fosi Audio — “Fosi Audio ZA3 Balanced Stereo Amplifier (Stereo/Mono, XLR/TRS, 12V Trigger, specs & variants).” https://fosiaudio.com/products/fosi-audio-za3-balanced-dual-mode-class-d-amplifier (accessed Aug 26, 2025). Key specs: 48V/5A rated power 155 W×2 (stereo) / 235 W×1 (mono); SINAD 89 dB; SNR ≥106 dB; THD <0.006%; FR ±0.1 dB; five DIP8 op-amps; price options incl. **149.99 USD with 48V/5A PSU**.  
+[2] Erin’s Audio Corner — “Fosi Audio ZA3 Balanced Stereo Amplifier Review.” https://erinsaudiocorner.com/electronics/fosi_za3/ (published Mar 16, 2024; accessed Aug 26, 2025). **QA402**, both channels loaded; 4 Ω & 8 Ω; 22.4 kHz BW; burst vs sustained; **sub-out does not high-pass mains**; protection at sustained 4 Ω stereo.  
+[3] AIYIMA — “A70” (balanced XLR/TRS, PFFB, price). https://www.aiyima.com/products/aiyima-a70 (accessed Aug 26, 2025). **199 USD**.  
+[4] Amazon US — “Fosi Audio ZA3 listing: balanced combo input & 12V trigger text.” https://www.amazon.com/dp/B0CLP4T5L7 (accessed Aug 26, 2025).  
+[5] Audio Science Review — “Fosi Audio ZA3 Amplifier Review.” https://www.audiosciencereview.com/forum/index.php?threads/fosi-audio-za3-amplifier-review.52139/ (published Feb 10, 2024; accessed Aug 26, 2025).
+
+(2025.8.26)
+
