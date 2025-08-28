@@ -742,23 +742,25 @@ def update_dates_in_file(file_path, new_date, dry_run=True):
                     print(f"  Front matter date: {new_date}")
         
         # Update date at end of file (common patterns: *Last updated: YYYY-MM-DD* and (YYYY.M.D))
-        end_date_patterns = [
-            r'\*Last updated:\s*[0-9]{4}-[0-9]{2}-[0-9]{2}\*',
-            r'\([0-9]{4}\.[0-9]{1,2}\.[0-9]{1,2}\)'
-        ]
-        
-        for pattern in end_date_patterns:
-            if re.search(pattern, content):
-                if pattern == r'\*Last updated:\s*[0-9]{4}-[0-9]{2}-[0-9]{2}\*':
-                    content = re.sub(pattern, f'*Last updated: {new_date}*', content)
-                else:  # (YYYY.M.D) format
-                    # Convert YYYY-MM-DD to YYYY.M.D format
-                    year, month, day = new_date.split('-')
-                    dot_date = f"({year}.{int(month)}.{int(day)})"
-                    content = re.sub(pattern, dot_date, content)
+        # Only mark as changed if the value actually differs from new_date
+        # Pattern 1: *Last updated: YYYY-MM-DD*
+        m_last_updated = re.search(r'\*Last updated:\s*([0-9]{4}-[0-9]{2}-[0-9]{2})\*', content)
+        if m_last_updated:
+            current_last_updated = m_last_updated.group(1)
+            if current_last_updated != new_date:
+                content = re.sub(r'\*Last updated:\s*[0-9]{4}-[0-9]{2}-[0-9]{2}\*', f'*Last updated: {new_date}*', content)
                 changes_made = True
                 print(f"  End date: {new_date}")
-                break
+        else:
+            # Pattern 2: (YYYY.M.D)
+            m_paren_date = re.search(r'\(([0-9]{4})\.([0-9]{1,2})\.([0-9]{1,2})\)', content)
+            if m_paren_date:
+                year, month, day = new_date.split('-')
+                dot_date = f"({year}.{int(month)}.{int(day)})"
+                if m_paren_date.group(0) != dot_date:
+                    content = re.sub(r'\([0-9]{4}\.[0-9]{1,2}\.[0-9]{1,2}\)', dot_date, content)
+                    changes_made = True
+                    print(f"  End date: {new_date}")
         
         if changes_made:
             print(f"--- Date updates for: {file_path.relative_to(ROOT_DIR)}")
