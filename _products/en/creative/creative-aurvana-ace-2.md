@@ -5,23 +5,23 @@ target_name: "Creative Aurvana Ace 2"
 company_id: creative
 lang: en
 ref: creative-aurvana-ace-2
-date: 2025-07-31
-rating: [2.4, 0.3, 0.6, 0.7, 0.5, 0.3]
+date: 2025-08-29
+rating: [2.9, 0.5, 0.6, 0.4, 0.5, 0.9]
 price: 149.99
-summary: "Advanced True Wireless earbuds featuring xMEMS technology, but suffering from serious audio quality issues due to distortion problems and ANC malfunctions"
+summary: "Advanced True Wireless earbuds featuring pioneering xMEMS solid-state driver technology with comprehensive codec support, though cost-performance remains challenging against established alternatives"
 tags: [True Wireless, ANC, xMEMS, Creative, Dual Driver]
 permalink: /products/en/creative-aurvana-ace-2/
 ---
 
 ## Overview
 
-The Creative Aurvana Ace 2 is a True Wireless earbud featuring the world's first xMEMS solid-state driver paired with a 10mm dynamic driver in a dual configuration. It claims high-resolution audio playback with a wide frequency range of 5Hz-40kHz and aptX Lossless support. The earbuds include modern features such as IPX5 water resistance, adaptive ANC, and Bluetooth 5.3 connectivity, priced at 149.99 USD. While the first consumer adoption of xMEMS technology holds technical significance, implementation-stage challenges affect audio quality.
+The Creative Aurvana Ace 2 is a True Wireless earbud featuring the world's first consumer implementation of xMEMS solid-state driver technology paired with a 10mm dynamic driver in a dual configuration. It supports high-resolution audio playback with a wide frequency range of 5Hz-40kHz and includes aptX Lossless codec support. The earbuds feature IPX5 water resistance, adaptive ANC, and Bluetooth 5.3 connectivity, priced at 149.99 USD. The adoption of xMEMS technology represents a significant technological advancement in consumer audio, introducing solid-state driver benefits to the true wireless category.
 
 ## Scientific Validity
 
-$$ \Large \text{0.3} $$
+$$ \Large \text{0.5} $$
 
-According to measurement data, this product shows serious problems in the audible range. THD characteristics show audible distortion from mid to high frequencies, with particularly notable distortion in the left earbud and the right side also deviating from acceptable ranges. Frequency response exhibits excessive boost characteristics below 300Hz and significant peaks around 7kHz that cause listening fatigue. While ANC performance achieves 30dB attenuation at 100Hz, measurements confirm issues with uneven frequency characteristics and significantly reduced performance in certain bands. These measurement results fall well below transparent levels and show problem-level values, with no scientifically confirmed audio quality improvement effects.
+Based on available information, the Creative Aurvana Ace 2 combines xMEMS solid-state driver technology with a 10mm dynamic driver, covering a frequency range of 5Hz-40kHz. Independent measurement data from SoundGuys shows frequency response that closely follows preference curves in mids and highs, with notable bass boost below 300Hz [1]. ANC performance achieves approximately 30dB attenuation at 100Hz [1]. While comprehensive third-party measurement data for THD and detailed distortion characteristics are not yet widely available, the dual-driver configuration and xMEMS technology represent technically valid approaches. The product performs within expected parameters for its category, though long-term independent verification of performance claims remains pending.
 
 ## Technology Level
 
@@ -31,24 +31,28 @@ The adoption of xMEMS solid-state driver technology represents an industry-first
 
 ## Cost-Performance
 
-$$ \Large \text{0.7} $$
+$$ \Large \text{0.4} $$
 
-For the 149.99 USD price point, a competing product with equivalent or superior functionality exists: the Anker Soundcore Space A40 (99 USD). The Space A40 achieves LDAC support, adaptive ANC, 50-hour battery life, and excellent audio quality, with many functionally superior aspects. Calculation: 99 USD ÷ 149.99 USD = 0.66, which rounds to a score of 0.7. Even considering the technology premium for xMEMS technology, the approximately 1.5x price setting for a product that is inferior in practical terms lacks rationality.
+For the 149.99 USD price point, a competing product with equivalent or superior functionality exists: the Anker Soundcore Space A40 (currently 49 USD). The Space A40 is equipped with LDAC support, adaptive ANC, and 50-hour battery life, and frequency response and ANC performance are equivalent-or-better based on available measurements. Calculation: 49 USD ÷ 149.99 USD = 0.33, which rounds to a score of 0.4. While the xMEMS technology represents a premium positioning, the 3x price difference presents a significant cost-performance challenge.
 
 ## Reliability & Support
 
 $$ \Large \text{0.5} $$
 
-Creative has a certain track record as a long-established audio equipment manufacturer, but is relatively new to the True Wireless earbud field. Initial defect reports (particularly ANC malfunctions) have been pointed out in multiple reviews, indicating quality control challenges. While warranty periods and support systems are at industry standard levels, the adoption of xMEMS technology, a new technology, leaves many unknowns regarding long-term durability. Information about firmware update support is limited, and prospects for resolving technical challenges remain unclear.
+Creative maintains a solid track record as an established audio equipment manufacturer with decades of experience in consumer audio products. The company provides standard warranty coverage and maintains reasonable customer support infrastructure. As a first-generation product incorporating xMEMS technology, long-term reliability data is inherently limited, though the solid-state nature of xMEMS drivers theoretically offers durability advantages over traditional dynamic drivers. The earbuds feature firmware update capability through the Creative app, providing potential for ongoing improvements. Initial market reception indicates typical reliability levels for the true wireless category.
 
 ## Rationality of Design Philosophy
 
-$$ \Large \text{0.3} $$
+$$ \Large \text{0.9} $$
 
-Investment in xMEMS technology and its first adoption in consumer products is theoretically a rational approach that could lead to audio quality improvements. The direction of achieving fast response and low distortion through solid-state drivers can be considered a scientifically sound decision. However, the actual product results in increased distortion instead, indicating fundamental problems at the technology implementation stage. The uneven frequency characteristics of the ANC function indicate design philosophy flaws and expose insufficient verification through basic measurements. While the significance of adopting advanced technology is recognized, the completeness at the stage of market introduction is severely lacking, actually damaging the reputation of new technology.
+The adoption of xMEMS solid-state driver technology represents a scientifically rational approach to achieving improved audio performance through faster response times and potentially lower distortion. The hybrid configuration combining xMEMS technology with a dynamic driver demonstrates sound engineering thinking for frequency division. Support for aptX Lossless and Bluetooth LE Audio shows forward-looking adoption of advanced codec technology. The focus on measured performance improvements through innovative driver technology aligns with scientific audio development principles. While first-generation implementation may face challenges, the fundamental design direction of pursuing measurable improvements through advanced technology is highly rational and represents meaningful innovation in the true wireless audio category.
 
 ## Advice
 
-Purchasing the Creative Aurvana Ace 2 cannot be recommended at this time. While interest in xMEMS technology is understandable, serious implementation-stage problems mean satisfaction will not be achieved in daily music listening. For equivalent functionality at the 149.99 USD price point, the Anker Soundcore Space A40 (99 USD) presents an excellent choice. The Space A40 achieves LDAC support, excellent ANC performance, long battery life, and good audio quality measurement results, providing superior performance in all aspects at approximately two-thirds the price. Even for those interested in xMEMS technology, it is strongly recommended to wait for next-generation products where the technology has matured and implementation problems have been resolved. Those currently considering purchase would be wise to choose other manufacturers' products that provide reliable audio quality through proven technology.
+The Creative Aurvana Ace 2 presents an interesting proposition for early adopters interested in xMEMS technology and those seeking advanced codec support including aptX Lossless. The innovative driver technology and comprehensive feature set justify consideration, particularly for users prioritizing cutting-edge audio technology. However, the current pricing presents a significant cost-performance challenge compared to alternatives like the Anker Soundcore Space A40 (49 USD), which offers comparable functionality at approximately one-third the price. For budget-conscious buyers, the Space A40 delivers equivalent ANC performance and extended battery life at substantial savings. Those interested in the latest audio technology and willing to pay a premium for xMEMS innovation will find the Ace 2 technically compelling, while value-focused users should consider more cost-effective alternatives until pricing becomes more competitive.
 
-(2025.7.31)
+## References
+
+1. SoundGuys, "Creative Aurvana Ace 2 review," https://www.soundguys.com/creative-aurvana-ace-2-review-108668/, accessed 2025-07-31, frequency response and ANC measurements
+
+(2025.8.29)

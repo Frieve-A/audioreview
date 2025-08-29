@@ -5,7 +5,7 @@ target_name: "Nothing Ear Open"
 company_id: nothing
 lang: en
 ref: nothing-ear-open
-date: 2025-08-21
+date: 2025-08-29
 rating: [3.2, 0.6, 0.7, 1.0, 0.4, 0.5]
 price: 149
 summary: "Open-ear wireless earbuds with a 14.2mm titanium-coated driver and IP54 rating. They post the strongest MDAQS we’ve seen to date in the open-ear class but still face inherent sub-bass limits and mixed customer support feedback."
@@ -33,13 +33,13 @@ Nothing’s “Open Sound” implementation mixes several thoughtful elements: a
 
 $$ \Large \text{1.0} $$
 
-Cost-performance is defined against the **cheapest product with equal-or-better functions and **measured** performance**. As of this review, we found **no cheaper open-ear model** that matches or exceeds Ear (open)’s **measured audio quality**: e.g., Bose Ultra Open Earbuds score **2.3** MDAQS overall (more expensive), and Soundcore AeroFit 2 score **1.8** (cheaper but measurably worse). Therefore, **no cheaper equal-or-better alternative** exists in measurement terms, and CP is set to **1.0**. [3][4]
+Cost-performance evaluates the cheapest product with equivalent-or-better functions and measured performance. At 149 USD, Nothing Ear (open) competes against Soundcore AeroFit 2 (99.99 USD) and Bose Ultra Open Earbuds (299 USD). Equipped with equivalent open-ear design, Bluetooth connectivity, and app-based EQ, the AeroFit 2 costs less but delivers significantly lower measured audio quality (MDAQS 1.8 vs 3.6). Per policy requirements for "equivalent-or-better" performance, cheaper alternatives with measurably inferior audio quality are excluded from CP calculation. The Bose Ultra Open, while equivalent in functions, costs more and scores lower (MDAQS 2.3). Therefore, no cheaper equal-or-better alternative exists and CP = 1.0. [3][4]
 
 ## Reliability & Support
 
 $$ \Large \text{0.4} $$
 
-Official after-sales guidance cites **3–5 working days** for repairs (excluding logistics), which is competitive on paper. However, aggregated user reports in 2024–2025 highlight inconsistent experiences and delays in warranty handling. Hardware protection is decent (IP54 buds and case). Netting these factors, reliability of the product itself appears average, but support execution pulls the score down. [7][8]
+Nothing offers a standard one-year warranty with quoted repair times of 3–5 working days (excluding logistics). Hardware protection is decent (IP54 buds and case). However, specific 2024 customer reports document systematic support issues: warranty claims involving "frustrating back-and-forth with copy-paste responses" for products failing within months, investigation delays extending "almost three months" with "no solution in sight," and refund processing taking over three weeks despite delivery confirmation. These documented cases indicate support execution significantly underperforms official timelines. [7][8]
 
 ## Rationality of Design Philosophy
 
@@ -65,9 +65,9 @@ If you **need awareness first**, Ear (open) is currently the most convincing **m
 
 [6] The Verge, “Nothing Ear (Open) announced,” https://www.theverge.com/2024/9/24/24252192/nothing-ear-open-wireless-earbuds-headphones-available , 2024-09-24. (Launch timing; key specs overview)
 
-[7] Nothing Support, “After-Sales Service Process,” https://us.nothing.tech/pages/support-after-sales-process , accessed 2025-08-21. (Repair time 3–5 working days)
+[7] Nothing Technology, "Warranty Policy," https://in.nothing.tech/pages/warranty-policy , accessed 2025-08-29. (One-year warranty coverage, repair timeline 3–5 working days excluding logistics)
 
-[8] Trustpilot, “Nothing Reviews,” https://www.trustpilot.com/review/nothing.tech , accessed 2025-08-21. (Recent customer service reports)
+[8] Trustpilot, "Nothing Reviews - Customer Service Complaints," https://www.trustpilot.com/review/nothing.tech , accessed 2025-08-29. (Documented 2024 cases: warranty claim delays, investigation periods extending months, refund processing issues)
 
-(2025.8.21)
+(2025.8.29)
 

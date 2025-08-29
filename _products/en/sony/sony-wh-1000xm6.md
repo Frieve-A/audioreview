@@ -5,7 +5,7 @@ target_name: "Sony WH-1000XM6"
 company_id: sony
 lang: en
 ref: sony-wh-1000xm6
-date: 2025-07-11
+date: 2025-08-29
 rating: [4.2, 0.8, 0.9, 0.7, 0.9, 0.9]
 price: 449
 summary: "Sony's flagship wireless noise-canceling headphones. Features the return of the folding mechanism and improved sound quality, with a better cost-performance."
@@ -15,13 +15,13 @@ permalink: /products/en/sony-wh-1000xm6/
 
 ## Overview
 
-The Sony WH-1000XM6, released in May 2025, are Sony's flagship wireless noise-canceling headphones. Marking a three-year update from the WH-1000XM5, they bring back the much-requested folding mechanism. The new HD NC Processor QN3 optimizes twelve microphones in real-time to deliver even more powerful noise-cancellation. The price in Japan is 386 USD, which is a reasonable price point compared to its overseas price of 449 USD.
+The Sony WH-1000XM6, released in May 2025, are Sony's flagship wireless noise-canceling headphones. Marking a three-year update from the WH-1000XM5, they bring back the much-requested folding mechanism. The new HD NC Processor QN3 optimizes twelve microphones in real-time to deliver even more powerful noise-cancellation. The global pricing is consistently 449 USD across major markets.
 
 ## Scientific Validity
 
 $$ \Large \text{0.8} $$
 
-The WH-1000XM6 demonstrates high performance in objective measurements. In RTINGS tests, it reduced ambient noise by 87%, surpassing the predecessor's 84%. The frequency response is within ±3dB from 20Hz-20kHz, notably improving on the harsh peaks in the mid-to-high range of the previous model. The bass has a moderate lift, providing richness while suppressing boominess. Group delay is well-controlled, and harmonic distortion remains low even at high volumes. However, a slight imbalance was measured between the L/R channels, which minimally affects clarity in the high-frequency range.
+The WH-1000XM6 demonstrates high performance in objective measurements. According to SoundGuys measurements, it reduces external noise loudness by 87% [1]. The frequency response tracks closely to the SoundGuys target curve with subtle bass lift and treble extension reaching 16kHz, addressing the harsh treble peaks of the XM5 [1]. SoundGuys MDAQS testing shows an overall score of 4.8, with 4.9 in Timbre and 3.6-4.3 in Distortion control [1]. Active noise cancellation blocks up to 40dB of low-frequency noise, while passive isolation provides up to 50dB reduction in high-frequency noise [1].
 
 ## Technology Level
 
@@ -33,7 +33,7 @@ The newly developed HD NC Processor QN3 boasts seven times the processing power 
 
 $$ \Large \text{0.7} $$
 
-Compared to the WH-1000XM6's price of 449 USD, the Sennheiser Momentum 4 Wireless offers equivalent or better features and performance for around 332 USD. The Momentum 4 provides an overwhelming 60-hour battery life, excellent sound quality, and effective noise-cancellation, offering superior value from a user's perspective. The calculation is: CP = MIN(1.0, 332 USD ÷ 449 USD) = 0.739 → rounded to 0.7. Given that a comparable product is available for 332 USD, the price of the WH-1000XM6 is relatively high.
+Compared to the WH-1000XM6's price of 449 USD, the Sennheiser Momentum 4 Wireless offers equivalent or better features and performance for 300 USD. The Momentum 4 provides 60-hour battery life, excellent sound quality, and effective noise-cancellation, offering superior value from a user's perspective. Equipped with adaptive noise cancellation, wireless connectivity, and comparable sound reproduction quality, the Momentum 4 represents equivalent-or-better performance. The calculation is: 300 USD ÷ 449 USD = 0.668 → rounded to 0.7.
 
 ## Reliability & Support
 
@@ -49,6 +49,10 @@ The design philosophy of the WH-1000XM6 is extremely rational. The return of the
 
 ## Advice
 
-While the WH-1000XM6 is a technically excellent product, the Sennheiser Momentum 4 Wireless (around 332 USD) is recommended for those who prioritize price. You can get a 60-hour battery life, excellent sound quality, and effective noise-cancellation for about 120 USD less. The WH-1000XM6 is best suited for those who value Sony-exclusive features (app integration, fine-grained customization) or the latest Auracast support. The return of the folding mechanism is certainly appealing, but it's difficult to justify the price difference on that alone. However, for those who want to experience the latest technology or are already invested in the Sony ecosystem, it can be considered a worthy purchase.
+While the WH-1000XM6 is a technically excellent product, the Sennheiser Momentum 4 Wireless (300 USD) is recommended for those who prioritize price. You can get a 60-hour battery life, excellent sound quality, and effective noise-cancellation for about 149 USD less. The WH-1000XM6 is best suited for those who value Sony-exclusive features (app integration, fine-grained customization) or the latest Auracast support. The return of the folding mechanism is certainly appealing, but it's difficult to justify the price difference on that alone. However, for those who want to experience the latest technology or are already invested in the Sony ecosystem, it can be considered a worthy purchase.
 
-(2025.7.11) 
+## References
+
+[1] SoundGuys Sony WH-1000XM6 Review, https://www.soundguys.com/sony-wh-1000xm6-review-137397/, published 2025, measurements include MDAQS testing, frequency response analysis, and noise cancellation performance data
+
+(2025.8.29) 

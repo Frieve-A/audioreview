@@ -5,9 +5,9 @@ target_name: "Beyerdynamic Aventho 300"
 company_id: beyerdynamic
 lang: en
 ref: beyerdynamic-aventho-300
-date: 2025-07-31
-rating: [2.7, 0.2, 0.7, 0.5, 0.7, 0.6]
-price: 455
+date: 2025-08-29
+rating: [3.0, 0.3, 0.7, 0.7, 0.7, 0.6]
+price: 400
 summary: "Premium wireless headphones featuring studio driver technology, but facing challenges in measurement performance and price competitiveness"
 tags: [Headphones, Wireless, ANC, Noise Cancellation, Bluetooth, Premium]
 permalink: /products/en/beyerdynamic-aventho-300/
@@ -15,13 +15,13 @@ permalink: /products/en/beyerdynamic-aventho-300/
 
 ## Overview
 
-The Beyerdynamic Aventho 300 is a premium wireless headphone released in 2024 by the established German audio manufacturer. It features the STELLAR.45 driver used in the company's studio monitor headphones, offers 50-hour extended battery life, and includes active noise cancellation functionality. Set at a Japanese market price of 455 USD, this product targets a position in the competitive premium wireless headphone market. It has garnered attention as an ambitious product incorporating cutting-edge technologies such as Dolby Atmos support and head tracking functionality.
+The Beyerdynamic Aventho 300 is a premium wireless headphone released in 2024 by the established German audio manufacturer. It features the STELLAR.45 driver used in the company's studio monitor headphones, offers 50-hour extended battery life, and includes active noise cancellation functionality. Set at a retail price of 400 USD, this product targets a position in the competitive premium wireless headphone market. It has garnered attention as an ambitious product incorporating cutting-edge technologies such as Dolby Atmos support and head tracking functionality.
 
 ## Scientific Validity
 
-$$ \Large \text{0.2} $$
+$$ \Large \text{0.3} $$
 
-Objective measurements by SoundGuys, using their MDAQS (Multi-Dimensional Audio Quality Scores), recorded a low overall score of 2.5/5. The timbre evaluation showed particularly poor results at 2.1/5, confirming clear issues with frequency response characteristics. Distortion characteristics also fell significantly below expected transparency levels with a score of 2.8/5. Active noise cancellation performance is limited to 67% passive isolation and 80% noise reduction with ANC enabled, clearly inferior compared to industry-leading standards. When compared against transparency standards, multiple indicators fall within problematic ranges, scientifically confirming that audible improvements are limited.
+Third-party measurements reveal frequency response issues in the 60-150 Hz range with excessive bass that overpowers lower-mids, affecting overall clarity. The frequency response extends from 10 Hz to 40 kHz with 45mm STELLAR.45 drivers at 32-ohm impedance and 105 dB SPL sensitivity. SoundGuys testing indicated distortion performance scoring 2.8/5 [1], falling below transparency expectations. The treble range shows elevation in the 6-8 kHz sibilant region requiring EQ adjustment. Active noise cancellation performance, while functional, lags behind industry leaders like Sony and Bose in overall effectiveness.
 
 ## Technology Level
 
@@ -31,9 +31,9 @@ The STELLAR.45 driver shares an identical design with studio monitor headphones 
 
 ## Cost-Performance
 
-$$ \Large \text{0.5} $$
+$$ \Large \text{0.7} $$
 
-Against the 455 USD price point, the Sony WH-1000XM5, with equivalent or superior functionality and performance, is available for 239 USD. Calculation: 239 USD ÷ 455 USD = 0.52, indicating below-average cost-performance. Compared to the Bose QuietComfort Ultra (248 USD), Bose maintains superiority in ANC performance, comfort, and sound quality measurements, with no discernible advantages justifying the price difference. While the 50-hour battery life significantly exceeds competitors, this single advantage is insufficient to bridge the 200+ USD price gap. Multiple superior alternatives exist at this price point, requiring careful consideration in purchase decisions.
+Against the 400 USD retail price, the Sony WH-1000XM5, with equivalent or superior functionality and performance, is available for 280 USD. Equipped with superior ANC performance and frequency response, the Sony model provides equivalent-or-better overall performance. Calculation: 280 USD ÷ 400 USD = 0.70. The Bose QuietComfort Ultra, currently at 329 USD (discounted from 429 USD MSRP), offers superior ANC performance at lower cost than the Aventho 300. The cost-performance analysis reveals significant room for improvement against established competitors in the premium wireless segment.
 
 ## Reliability & Support
 
@@ -45,10 +45,14 @@ Beyerdynamic, established in 1924, maintains a solid position in the industry as
 
 $$ \Large \text{0.6} $$
 
-The approach of utilizing studio drivers represents rational thinking that prioritizes measurement performance. However, the actual measurement results failing to reach expected standards suggests inadequate design adjustments in the adaptation for a consumer product. Support for cutting-edge technologies like Dolby Atmos and head tracking is progressive, but fundamental acoustic performance improvements should be prioritized. The 455 USD price point, while showing inferior measurement results compared to competitors, reveals weak market analysis in pricing decisions. While technical potential is acknowledged, significant room for improvement exists in both product completeness and market competitiveness, leaving challenges in the execution of its design philosophy.
+The approach of utilizing studio STELLAR.45 drivers represents rational thinking that prioritizes measurement performance and leverages proven acoustic technology. The integration of advanced features like Dolby Atmos head tracking, 50-hour battery life, and comprehensive codec support (aptX Lossless, LE Audio) demonstrates forward-thinking design. However, the frequency response tuning with excessive 60-150 Hz emphasis suggests consumer-oriented compromises that may detract from studio driver accuracy. The 400 USD price point against current market competition including Sony WH-1000XM5 (280 USD) and Bose QuietComfort Ultra (329 USD) reveals pricing strategy challenges. The design philosophy shows strong technical foundations but requires better market positioning and tuning refinement to justify premium positioning.
 
 ## Advice
 
-For those considering purchasing the Beyerdynamic Aventho 300, a careful comparison with competing products in the same price range is highly recommended. While the exceptional 50-hour battery life is certainly attractive, the Sony WH-1000XM5 and Bose QuietComfort Ultra clearly demonstrate superiority in sound quality measurements and active noise cancellation performance. Particularly at the 455 USD price, combining the 239 USD Sony WH-1000XM5 with a high-performance wired headphone of equivalent value (around 216 USD) would likely provide a superior overall acoustic experience. Unless there is a special brand loyalty to Beyerdynamic, the optimal solution at this price point likely lies in other choices. If considering a purchase, it is essential to audition the product to confirm that the sound signature aligns with personal preferences. Regarding long-term comfort, reports of pressure on the top of the head require careful consideration of individual fit and comfort.
+For those considering purchasing the Beyerdynamic Aventho 300, comparison with competing products reveals pricing challenges at the 400 USD retail point. The 50-hour battery life and STELLAR.45 studio drivers offer unique advantages, but value competition is intense. The Sony WH-1000XM5 at 280 USD provides significantly better value with superior ANC and tuning, while the Bose QuietComfort Ultra at 329 USD offers premium ANC performance at lower cost than the Aventho 300. Current market conditions make the Aventho 300 difficult to recommend at full retail price. Consider this option only if maximum battery life and Beyerdynamic's signature sound are absolute priorities, though both Sony and Bose alternatives offer superior overall value propositions. Comfort considerations regarding clamping force and weight (319g) should be evaluated through personal testing.
 
-(2025.7.31)
+## References
+
+[1] SoundGuys. "Beyerdynamic AVENTHO 300 review." June 2, 2025. https://www.soundguys.com/beyerdynamic-aventho-300-review-128644/. Multi-Dimensional Audio Quality Scores (MDAQS) testing, distortion (MOS-D) score 2.8/5.
+
+(2025.8.29)

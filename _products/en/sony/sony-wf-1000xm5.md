@@ -5,10 +5,10 @@ target_name: "Sony WF-1000XM5"
 company_id: sony
 lang: en
 ref: sony-wf-1000xm5
-date: 2025-07-06
-rating: [4.0, 0.9, 0.9, 0.7, 0.8, 0.7]
-price: 163
-summary: "Features Integrated Processor V2 and QN2e HD processor with 8.4mm Dynamic Driver X delivering improved sound quality and industry-leading ANC performance. Achieves 25% size reduction and 20% weight reduction while providing maximum 87% noise cancellation and 50dB+ attenuation above 1kHz. The 163 USD current price achieves the lowest cost among equivalent performance competitors, offering premium cost-performance in the complete wireless market."
+date: 2025-08-29
+rating: [4.3, 0.9, 0.9, 1.0, 0.8, 0.7]
+price: 228
+summary: "Features Integrated Processor V2 and QN2e HD processor with 8.4mm Dynamic Driver X delivering improved sound quality and industry-leading ANC performance. Achieves 25% size reduction and 20% weight reduction while providing maximum 87% noise cancellation and 50dB+ attenuation above 1kHz. The 228 USD current price is competitive within the premium market but faces strong competition from newer models with equivalent performance."
 tags: [Active noise cancelling, Japan, Sony, V2 Processor, Wireless earphones]
 permalink: /products/en/sony-wf-1000xm5/
 ---
@@ -20,7 +20,7 @@ The Sony WF-1000XM5 represents Sony's latest flagship true wireless earbuds. Equ
 
 $$ \Large \text{0.9} $$
 
-The 8.4mm Dynamic Driver X, significantly enlarged from the previous 6mm, achieves reduced mechanical noise and lower distortion. The 20Hz-40kHz frequency response significantly exceeds human hearing range and demonstrates excellent measured performance. ANC performance achieves maximum 87% noise cancellation rate, showing 50dB+ attenuation above 1kHz and 15dB in low frequencies, providing objectively verifiable significant effects. New ear tips provide superior sealing compared to previous models, improving passive isolation performance. However, frequency response changes occur in certain bands during ANC operation, representing deviation from pure faithful reproduction. LDAC support enables 96kHz/24bit transmission, theoretically achieving high-quality transmission.
+The 8.4mm Dynamic Driver X, significantly enlarged from the previous 6mm, achieves reduced mechanical noise and lower distortion. The 20Hz-40kHz frequency response significantly exceeds human hearing range according to manufacturer specifications [1]. ANC performance achieves maximum 87% noise cancellation rate, showing 50dB+ attenuation above 1kHz and 15dB in low frequencies according to manufacturer claims [1], providing objectively verifiable significant effects. New ear tips provide superior sealing compared to previous models, improving passive isolation performance. However, frequency response changes occur in certain bands during ANC operation, representing deviation from pure faithful reproduction. LDAC support enables 96kHz/24bit transmission, theoretically achieving high-quality transmission.
 
 ## Technology Level
 
@@ -30,9 +30,9 @@ Implementation of Integrated Processor V2 for 24-bit audio processing and analog
 
 ## Cost-Performance
 
-$$ \Large \text{0.7} $$
+$$ \Large \text{1.0} $$
 
-Against the current Japanese market price of 163 USD, lower-cost alternatives with equivalent ANC functionality exist. The most affordable competing product, Sony WF-C710N (approximately 120 USD), provides ANC, touch control, 30-hour battery life, IPX4 water resistance, and achieves average 85% noise reduction. 120 USD ÷ 163 USD = 0.73, making equivalent ANC functionality available at lower cost. While this product is more affordable compared to premium products like Apple AirPods Pro 2 (265 USD) and Bose QuietComfort Ultra Earbuds (264 USD), the price gap with lower models for basic ANC functionality is significant, resulting in standard-level cost-performance.
+At the current market price of 228 USD, the WF-1000XM5 represents the most affordable option among premium true wireless earbuds with equivalent or better performance. The closest competitor, Technics EAH-AZ100 (299 USD), offers 10mm drivers, 20Hz-40kHz frequency response, LDAC support, and adaptive noise cancelling, making it functionally equivalent but 31% more expensive. The WF-1000XM5 provides 8.4mm drivers, 20Hz-40kHz response, LDAC support, and industry-leading ANC performance at the lowest price point among products with equivalent user-facing functions and measured performance, resulting in optimal cost-performance within the premium segment.
 
 ## Reliability & Support
 
@@ -48,6 +48,10 @@ Integrated Processor V2 for 24-bit audio processing and analog amplification, 8.
 
 ## Advice
 
-This product represents one of the technological pinnacles of true wireless earbuds and offers optimal choice for those seeking to balance convenience, high sound quality, and high-performance ANC in this format. The 163 USD price point is extremely competitive compared to rivals, with excellent balance of ANC performance, sound quality, technical standards, and functionality. It delivers supreme practicality for modern usage scenarios including commuting, sports, and multi-device connectivity. The 87% noise cancellation performance provides significant value for airplane and train use, while the 8.4mm large driver sound quality represents the highest standard in this price range. However, for pure sound quality pursuit as top priority, wired IEMs at this price point may offer different acoustic characteristics that avoid Bluetooth compression and processing delays. Clear recognition of the convenience-versus-sound-quality tradeoff is essential, with recommendation for choices prioritizing practicality in modern usage environments.
+This product represents one of the technological pinnacles of true wireless earbuds and offers optimal choice for those seeking to balance convenience, high sound quality, and high-performance ANC in this format. The 228 USD price point represents the most competitive option among premium competitors, with excellent balance of ANC performance, sound quality, technical standards, and functionality. It delivers supreme practicality for modern usage scenarios including commuting, sports, and multi-device connectivity. The 87% noise cancellation performance provides significant value for airplane and train use, while the 8.4mm large driver sound quality represents the highest standard in this price range. However, for pure sound quality pursuit as top priority, wired IEMs at this price point may offer different acoustic characteristics that avoid Bluetooth compression and processing delays. Clear recognition of the convenience-versus-sound-quality tradeoff is essential, with recommendation for choices prioritizing practicality in modern usage environments.
 
-(2025.7.6)
+## References
+
+[1] Sony WF-1000XM5 Official Specifications, Sony Electronics, https://www.sony.com/electronics/headphones/wf-1000xm5, accessed 2025-7-6
+
+(2025.8.29)
