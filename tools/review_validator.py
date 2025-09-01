@@ -420,7 +420,7 @@ class ReviewValidator:
                 if end_date_str != metadata_date:
                     issues.append(f"Date mismatch: metadata date ({metadata_date}) does not match article end date ({end_date_str})")
             else:
-                issues.append("Article end date not found in expected format (YYYY.MM.DD) using half-width brackets () and dots between year, month, and day")
+                issues.append("Article end date not found in expected format (YYYY.M.D) using half-width brackets () and dots between year, month, and day")
         
         except Exception as e:
             issues.append(f"Error occurred during date consistency validation: {e}")
@@ -1211,7 +1211,7 @@ class ReviewValidator:
             "must be in 0.1 increments": "9. **Score Format Error**: All scores must be in 0.1 increments (e.g., 0.1, 0.2, 0.3, etc.)",
             "Permalink structure exceeds": "10. **Permalink Structure Error**: Permalink should not exceed 3 levels (/products or companies/lang/ref/)",
             "Date mismatch": "11. **Date Consistency Error**: Metadata date must match article end date in parentheses",
-            "Article end date not found": "11. **Date Consistency Error**: Article must end with date in parentheses using half-width brackets () and dots between year, month, and day (YYYY.MM.DD)",
+            "Article end date not found": "11. **Date Consistency Error**: Article must end with date in parentheses using half-width brackets () and dots between year, month, and day (YYYY.M.D)",
             "before site launch": "12. **Date Range Error**: Dates must be between site launch date (2025-07-05) and current date",
             "in the future": "12. **Date Range Error**: Dates must be between site launch date (2025-07-05) and current date",
             "Title first part": "13. **Title Consistency Error**: Title first part must match target_name exactly",

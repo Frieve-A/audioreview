@@ -788,14 +788,15 @@ def main():
   python tag_normalizer.py --file path/to/file.md    # Normalize single file
   python tag_normalizer.py --files file1.md file2.md # Normalize multiple files
   python tag_normalizer.py --before 2025-08-01       # Normalize only files dated on/before 2025-08-01
-  python tag_normalizer.py --update-date 2025.08.19  # Update dates and normalize tags in files"""
+  python tag_normalizer.py --update-date 2025.08.19  # Update dates and normalize tags in files (YYYY.MM.DD)
+  python tag_normalizer.py --update-date 2025-08-19  # Update dates and normalize tags in files (YYYY-MM-DD)"""
     )
     parser.add_argument('--dry-run', action='store_true', help="Show what would be changed without actually modifying files.")
     parser.add_argument('--fix', action='store_false', dest='dry_run', help="Apply the changes to the files.")
     parser.add_argument('--before', type=str, help="Process only files whose metadata date is on/before this datetime (YYYY-MM-DD[THH:MM[:SS]])")
     parser.add_argument('--file', type=str, action='append', help="Process only the specified file path (relative to project root). Can be used multiple times.")
     parser.add_argument('--files', nargs='+', type=str, help="Process multiple specified file paths (relative to project root).")
-    parser.add_argument('--update-date', type=str, help="Update dates in files to specified date and normalize tags (format: YYYY.MM.DD)")
+    parser.add_argument('--update-date', type=str, help="Update dates in files to specified date and normalize tags (format: YYYY.MM.DD or YYYY-MM-DD)")
     parser.set_defaults(dry_run=True)
     
     args = parser.parse_args()
@@ -826,19 +827,29 @@ def main():
 
     # Handle date update functionality
     if args.update_date:
-        # Parse date format YYYY.MM.DD to YYYY-MM-DD
+        # Parse date format YYYY.MM.DD or YYYY-MM-DD to YYYY-MM-DD
         try:
-            date_parts = args.update_date.split('.')
+            # Check if date uses dots or hyphens as separators
+            if '.' in args.update_date:
+                date_parts = args.update_date.split('.')
+                separator = '.'
+            elif '-' in args.update_date:
+                date_parts = args.update_date.split('-')
+                separator = '-'
+            else:
+                print(f"Error: Invalid date format '{args.update_date}'. Expected format: YYYY.MM.DD or YYYY-MM-DD")
+                return
+            
             if len(date_parts) == 3:
                 year, month, day = date_parts
                 new_date = f"{year}-{month.zfill(2)}-{day.zfill(2)}"
                 # Validate date
                 datetime.strptime(new_date, "%Y-%m-%d")
             else:
-                print(f"Error: Invalid date format '{args.update_date}'. Expected format: YYYY.MM.DD")
+                print(f"Error: Invalid date format '{args.update_date}'. Expected format: YYYY.MM.DD or YYYY-MM-DD")
                 return
         except ValueError:
-            print(f"Error: Invalid date '{args.update_date}'. Expected format: YYYY.MM.DD")
+            print(f"Error: Invalid date '{args.update_date}'. Expected format: YYYY.MM.DD or YYYY-MM-DD")
             return
         
         print(f"Starting date update to {new_date} and tag normalization...")
