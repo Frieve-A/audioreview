@@ -8,10 +8,9 @@ ref: 3e-audio
 date: 2025-08-25
 rating: [4.3, 0.9, 0.8, 1.0, 0.7, 0.9]
 summary: "Shenzhen-based ODM/OEM audio manufacturer specializing in Class D amplifiers using Texas Instruments TPA3251/3255 with carefully tuned Post-Filter Feedback (PFFB); independently measured to reach state-of-the-art distortion and load-invariant behavior at accessible prices."
-tags: [Class-D, Amplifier, ODM, OEM, TPA3255, TPA3251, PFFB, Shenzhen]
+tags: [Amplifiers, Class D, ODM, OEM, PFFB, Shenzhen, TPA3251, TPA3255]
 permalink: /companies/en/3e-audio/
 ---
-
 ## Overview
 
 3e Audio is a Shenzhen-based audio manufacturer focused on making “great-sounding and high performance audio products that everyone can afford to enjoy.” The company primarily serves ODM/OEM clients and DIY enthusiasts, centering on Class D amplifiers built around TI’s TPA3251/3255 chips. Their latest finished amplifiers (A5 stereo, A7 mono/stereo) implement Post-Filter Feedback (PFFB) to push distortion lower and make frequency response highly load-invariant. The lineup emphasizes measurable performance and pragmatic feature sets over cosmetic luxury.
@@ -37,7 +36,7 @@ $$ \Large \text{1.0} $$
 - **A7 Mono (with 48 V / 5 A PSU): 180 USD**.  
 Both are finished products with balanced inputs and PFFB. [2]
 
-We looked for the **cheapest product(s) with equal-or-better user-facing functions and measured performance**. Sub-$300 competitors often cited—e.g., Fosi V3 Mono and Topping PA5 II/II+—do **not** surpass the A5/A7’s best-case THD+N at 5 W into 4 Ω under comparable conditions (V3 Mono is ≈**100 dB SINAD via XLR**, Topping PA5 II family tests are typically ≤~100 dB). Therefore, as of this review date we **did not find a cheaper equivalent-or-better** finished alternative; **CP = 1.0** by definition. [2][4][5]
+We looked for the **cheapest product(s) with equal-or-better user-facing functions and measured performance**. Sub-300 USD competitors often cited—e.g., Fosi V3 Mono and Topping PA5 II/II+—do **not** surpass the A5/A7’s best-case THD+N at 5 W into 4 Ω under comparable conditions (V3 Mono is ≈**100 dB SINAD via XLR**, Topping PA5 II family tests are typically ≤~100 dB). Therefore, as of this review date we **did not find a cheaper equivalent-or-better** finished alternative; **CP = 1.0** by definition. [2][4][5]
 
 > Equivalence note (why others are excluded): Even where power and I/O are comparable, the cited lower-cost models **do not meet or exceed** the A5/A7’s **< –100 dB THD+N @ 5 W / 4 Ω** benchmark alongside comparable features, so they are not valid comparators under the strict “equal-or-better” rule. [2][4][5]
 

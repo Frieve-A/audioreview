@@ -54,5 +54,5 @@ If you want objective-leaning specs and strong value, ROSESELSA is worth shortli
 6. HiFiGo — “SMSL DO400” (499.99 USD; accessed 2025-08-30) https://hifigo.com/products/smsl-do400  
 7. TempoTec (official) — “Sonata BHD Pro” (59.90 USD; SNR 131 dB / THD+N 0.00012%; accessed 2025-08-30) https://www.tempotec.net/products/sonata-bhd-pro-usb-dac
 
-(2025-08-30)
+(2025-9-1)
 

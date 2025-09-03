@@ -58,5 +58,5 @@ $$ \Large \text{0.7} $$
 6. HiFiGo — “SMSL DO400”（499.99 USD、2025-08-30参照）https://hifigo.com/products/smsl-do400  
 7. TempoTec（公式）— “Sonata BHD Pro”（59.90 USD、SNR 131 dB/THD+N 0.00012%、2025-08-30参照）https://www.tempotec.net/products/sonata-bhd-pro-usb-dac
 
-(2025-08-30)
+(2025-9-1)
 

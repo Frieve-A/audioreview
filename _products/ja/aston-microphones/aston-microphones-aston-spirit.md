@@ -7,7 +7,7 @@ lang: ja
 ref: aston-microphones-aston-spirit
 date: 2025-08-26
 rating: [2.7, 0.4, 0.6, 0.5, 0.6, 0.6]
-price: 369
+price: 52800
 summary: "高域を強調する意図的ボイシングのマルチパターンLDC。中立性は低く、同等以上の測定性能を持つ低価格品が存在するためCPは伸びません。"
 tags: [コンデンサ, スタジオ, マイクロホン, マルチパターン, レコーディング]
 permalink: /products/ja/aston-microphones-aston-spirit/
