@@ -1,7 +1,7 @@
 ---
 layout: product
-title: "ソニー TA-F5000 製品レビュー"
-target_name: "ソニー TA-F5000"
+title: "Sony TA-F5000 製品レビュー"
+target_name: "Sony TA-F5000"
 company_id: sony
 lang: ja
 ref: sony-ta-f5000

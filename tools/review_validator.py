@@ -721,6 +721,38 @@ class ReviewValidator:
         
         return issues
     
+    def validate_frontmatter_format(self, review: ReviewData) -> List[str]:
+        """Check if YAML front matter format is correct (no text before first '---')"""
+        issues = []
+        
+        try:
+            try:
+                with open(review.file_path, 'r', encoding='utf-8') as f:
+                    content = f.read()
+            except UnicodeDecodeError as e:
+                issues.append(f"UTF-8 encoding error: {e}")
+                return issues
+            
+            # Check if file starts with '---'
+            if not content.startswith('---'):
+                # Check if there's any text before the first '---'
+                first_dash_match = re.search(r'^---', content, re.MULTILINE)
+                if first_dash_match:
+                    # There's text before the first '---'
+                    text_before = content[:first_dash_match.start()].strip()
+                    if text_before:
+                        # Count lines in the text before front matter
+                        lines_before = text_before.count('\n') + 1
+                        issues.append(f"Text found before YAML front matter (lines 1-{lines_before}): '{text_before[:100]}{'...' if len(text_before) > 100 else ''}' - File must start with '---'")
+                else:
+                    # No '---' found at all
+                    issues.append("YAML front matter not found - file must start with '---'")
+            
+        except Exception as e:
+            issues.append(f"Error occurred during front matter format validation: {e}")
+        
+        return issues
+
     def validate_forbidden_terms(self, review: ReviewData) -> List[str]:
         """Check for forbidden terms in content"""
         issues = []
@@ -757,6 +789,41 @@ class ReviewValidator:
             
         except Exception as e:
             issues.append(f"Error occurred during forbidden terms validation: {e}")
+        
+        return issues
+    
+    def validate_language_folder_placement(self, review: ReviewData) -> List[str]:
+        """Check if file is placed in the correct language folder based on metadata lang field"""
+        issues = []
+        
+        try:
+            # Extract language from file path
+            path_parts = Path(review.file_path).parts
+            
+            # Find the language directory in the path
+            folder_lang = None
+            if "_products" in path_parts:
+                products_index = path_parts.index("_products")
+                if len(path_parts) > products_index + 1:
+                    folder_lang = path_parts[products_index + 1]
+            elif "_companies" in path_parts:
+                companies_index = path_parts.index("_companies")
+                if len(path_parts) > companies_index + 1:
+                    folder_lang = path_parts[companies_index + 1]
+            
+            # Check if folder language matches metadata language
+            if folder_lang and review.lang:
+                if folder_lang != review.lang:
+                    issues.append(f"Language folder mismatch: file is in '{folder_lang}' folder but metadata lang is '{review.lang}'")
+                elif folder_lang not in ["ja", "en"]:
+                    issues.append(f"Invalid language folder: '{folder_lang}' (must be 'ja' or 'en')")
+            elif not folder_lang:
+                issues.append("Could not determine language from file path")
+            elif not review.lang:
+                issues.append("Language not specified in metadata")
+        
+        except Exception as e:
+            issues.append(f"Error occurred during language folder validation: {e}")
         
         return issues
     
@@ -1035,6 +1102,7 @@ class ReviewValidator:
             
             # Execute various validations
             issues = []
+            issues.extend(self.validate_frontmatter_format(review))
             issues.extend(self.validate_score_consistency(review))
             issues.extend(self.validate_policy_compliance(review))
             issues.extend(self.validate_content_structure(review))
@@ -1046,6 +1114,7 @@ class ReviewValidator:
             issues.extend(self.validate_title_target_name_consistency(review))
             issues.extend(self.validate_forbidden_terms(review))
             issues.extend(self.validate_japanese_currency_in_english_reviews(review))
+            issues.extend(self.validate_language_folder_placement(review))
             
             review.issues = issues
             self.reviews.append(review)
@@ -1196,28 +1265,31 @@ class ReviewValidator:
         # Generate improvement recommendations based on issue types
         recommendations = {
             "UTF-8 encoding error": "0. **UTF-8 Encoding Error**: File contains invalid byte sequences that cannot be decoded as UTF-8. Check for corrupted characters or incorrect encoding.",
-            "Invalid rating array length": "1. **Score Consistency**: Ensure rating array length matches policy requirements",
-            "Overall score and sum of individual evaluations do not match": "2. **Score Accuracy**: Verify that overall score equals the sum of individual evaluation scores",
-            "Score for evaluation criterion": "3. **Score Range**: Check that all scores are within the valid range (0.0-1.0)",
-            "Required field": "4. **Metadata Completeness**: Fill in all required metadata fields in the front matter",
-            "Invalid layout value": "5. **Layout Compliance**: Use only allowed layout values (e.g., 'company', 'product')",
-            "LaTeX/USD Symbol Error": "6. **Symbol Policy Violation**: Use 'USD' or 'JPY' instead of $ symbols - dollar signs and backslashes are forbidden",
-            "Single dollar sign detected": "6. **Symbol Policy Violation**: Use 'USD' or 'JPY' instead of $ symbols - dollar signs and backslashes are forbidden",
-            "Potential LaTeX issue detected": "6. **Symbol Policy Violation**: Use 'USD' or 'JPY' instead of $ symbols - dollar signs and backslashes are forbidden",
-            "Forbidden dollar sign detected": "6. **Symbol Policy Violation**: Use 'USD' or 'JPY' instead of $ symbols - dollar signs and backslashes are forbidden",
-            "Forbidden backslash detected": "6. **Symbol Policy Violation**: Use 'USD' or 'JPY' instead of $ symbols - dollar signs and backslashes are forbidden",
-            "CP calculation formula error": "7. **CP Calculation Error**: Use correct formula CP = cheapest_equivalent_price / target_price",
-            "Product category mismatch": "8. **Product Category Error**: Compare only products in the same category with equivalent functions",
-            "must be in 0.1 increments": "9. **Score Format Error**: All scores must be in 0.1 increments (e.g., 0.1, 0.2, 0.3, etc.)",
-            "Permalink structure exceeds": "10. **Permalink Structure Error**: Permalink should not exceed 3 levels (/products or companies/lang/ref/)",
-            "Date mismatch": "11. **Date Consistency Error**: Metadata date must match article end date in parentheses",
-            "Article end date not found": "11. **Date Consistency Error**: Article must end with date in parentheses using half-width brackets () and dots between year, month, and day (YYYY.M.D)",
-            "before site launch": "12. **Date Range Error**: Dates must be between site launch date (2025-07-05) and current date",
-            "in the future": "12. **Date Range Error**: Dates must be between site launch date (2025-07-05) and current date",
-            "Title first part": "13. **Title Consistency Error**: Title first part must match target_name exactly",
-            "Forbidden term": "14. **Forbidden Terms Policy Violation**: Replace table/chart terminology with appropriate evaluation levels like '透明レベル', '問題レベル', 'transparent level', 'issue level'",
-            "Japanese currency": "15. **Currency Conversion Recommendation**: Consider converting Japanese yen (JPY) to USD for international audience in English reviews",
-            "Price exchange rate": "16. **Price Consistency Error**: Ensure exchange rate between JPY and USD prices is within 50-250 JPY/USD range"
+            "Text found before YAML front matter": "1. **Front Matter Format Error**: File must start with '---' - remove any text before the first '---' line",
+            "YAML front matter not found": "1. **Front Matter Format Error**: File must start with '---' - add YAML front matter at the beginning of the file",
+            "Invalid rating array length": "2. **Score Consistency**: Ensure rating array length matches policy requirements",
+            "Overall score and sum of individual evaluations do not match": "3. **Score Accuracy**: Verify that overall score equals the sum of individual evaluation scores",
+            "Score for evaluation criterion": "4. **Score Range**: Check that all scores are within the valid range (0.0-1.0)",
+            "Required field": "5. **Metadata Completeness**: Fill in all required metadata fields in the front matter",
+            "Invalid layout value": "6. **Layout Compliance**: Use only allowed layout values (e.g., 'company', 'product')",
+            "LaTeX/USD Symbol Error": "7. **Symbol Policy Violation**: Use 'USD' or 'JPY' instead of $ symbols - dollar signs and backslashes are forbidden",
+            "Single dollar sign detected": "7. **Symbol Policy Violation**: Use 'USD' or 'JPY' instead of $ symbols - dollar signs and backslashes are forbidden",
+            "Potential LaTeX issue detected": "7. **Symbol Policy Violation**: Use 'USD' or 'JPY' instead of $ symbols - dollar signs and backslashes are forbidden",
+            "Forbidden dollar sign detected": "7. **Symbol Policy Violation**: Use 'USD' or 'JPY' instead of $ symbols - dollar signs and backslashes are forbidden",
+            "Forbidden backslash detected": "7. **Symbol Policy Violation**: Use 'USD' or 'JPY' instead of $ symbols - dollar signs and backslashes are forbidden",
+            "CP calculation formula error": "8. **CP Calculation Error**: Use correct formula CP = cheapest_equivalent_price / target_price",
+            "Product category mismatch": "9. **Product Category Error**: Compare only products in the same category with equivalent functions",
+            "must be in 0.1 increments": "10. **Score Format Error**: All scores must be in 0.1 increments (e.g., 0.1, 0.2, 0.3, etc.)",
+            "Permalink structure exceeds": "11. **Permalink Structure Error**: Permalink should not exceed 3 levels (/products or companies/lang/ref/)",
+            "Date mismatch": "12. **Date Consistency Error**: Metadata date must match article end date in parentheses",
+            "Article end date not found": "12. **Date Consistency Error**: Article must end with date in parentheses using half-width brackets () and dots between year, month, and day (YYYY.M.D)",
+            "before site launch": "13. **Date Range Error**: Dates must be between site launch date (2025-07-05) and current date",
+            "in the future": "13. **Date Range Error**: Dates must be between site launch date (2025-07-05) and current date",
+            "Title first part": "14. **Title Consistency Error**: Title first part must match target_name exactly",
+            "Forbidden term": "15. **Forbidden Terms Policy Violation**: Replace table/chart terminology with appropriate evaluation levels like '透明レベル', '問題レベル', 'transparent level', 'issue level'",
+            "Japanese currency": "16. **Currency Conversion Recommendation**: Consider converting Japanese yen (JPY) to USD for international audience in English reviews",
+            "Language folder mismatch": "17. **Language Folder Placement Error**: Move file to correct language folder (ja/en) based on metadata lang field",
+            "Price exchange rate": "18. **Price Consistency Error**: Ensure exchange rate between JPY and USD prices is within 50-250 JPY/USD range"
         }
         
         # Get unique recommendations
@@ -1324,6 +1396,8 @@ class ReviewValidator:
         
         if "utf-8 encoding error" in issue_lower or "invalid utf-8" in issue_lower:
             return "UTF-8 Encoding Error"
+        elif "text found before yaml front matter" in issue_lower or "yaml front matter not found" in issue_lower:
+            return "Front Matter Format Error"
         elif "overall score" in issue_lower or "総合得点" in issue or "total score inconsistency" in issue_lower:
             return "Score Consistency Error"
         elif "required field" in issue_lower or "required section" in issue_lower or "必須フィールド" in issue or "必須セクション" in issue:
@@ -1354,6 +1428,8 @@ class ReviewValidator:
             return "Forbidden Terms Policy Violation"
         elif "japanese currency" in issue_lower or "yen" in issue_lower or "jpy" in issue_lower:
             return "Currency Conversion Recommendation"
+        elif "language folder mismatch" in issue_lower or "invalid language folder" in issue_lower:
+            return "Language Folder Placement Error"
         elif "cross-language" in issue_lower or "score mismatch" in issue_lower:
             return "Cross-Language Score Mismatch"
         elif "price exchange rate" in issue_lower or "price consistency" in issue_lower:
