@@ -33,7 +33,7 @@ The STA326 is a general-purpose chip, and we did not find public descriptions of
 
 $$ \Large \text{0.7} $$
 
-Cost-performance receives an average evaluation. The D802J++ market price of 111 USD, and the Aiyima A07 Premium (featuring TPA3255, SNR 103dB, THD 0.05%) at 73 USD. Calculation: 73 USD ÷ 111 USD = 0.66, rounded to 0.7. The A07 Premium discloses clear measurement data and adopts a higher-performance chip, offering superior technical transparency, though the price difference is not substantial.
+Cost-performance receives an average evaluation. The D802J++ market price of 111 USD, and the AIYIMA A07 Premium (featuring TPA3255, SNR 103dB, THD 0.05%) at 73 USD. Calculation: 73 USD ÷ 111 USD = 0.66, rounded to 0.7. The A07 Premium discloses clear measurement data and adopts a higher-performance chip, offering superior technical transparency, though the price difference is not substantial.
 
 ## Reliability & Support
 

@@ -1,7 +1,7 @@
 ---
 layout: product
-title: "Aiyima B07 Product Review"
-target_name: "Aiyima B07"
+title: "AIYIMA B07 Product Review"
+target_name: "AIYIMA B07"
 company_id: aiyima
 lang: en
 ref: aiyima-B07
@@ -15,7 +15,7 @@ permalink: /products/en/aiyima-B07/
 
 ## Overview
 
-The Aiyima B07 is a 2.1-channel Class D amplifier combining the Texas Instruments TPA3255 chip with a QCC3040 Bluetooth chip. It claims a rated output of 300W×2 (stereo) + 300W (subwoofer) and features Bluetooth 5.2 connectivity (supporting AAC, SBC, aptX, APTX-LL, APTX-HD). The unit includes independent subwoofer frequency adjustment (±4dB) and cutoff frequency adjustment (50-220Hz) functions, designed as a desktop-oriented compact amplifier supporting DC24-48V power input. It incorporates six NE5532 op-amps and provides bass and treble adjustment functionality.
+The AIYIMA B07 is a 2.1-channel Class D amplifier combining the Texas Instruments TPA3255 chip with a QCC3040 Bluetooth chip. It claims a rated output of 300W×2 (stereo) + 300W (subwoofer) and features Bluetooth 5.2 connectivity (supporting AAC, SBC, aptX, APTX-LL, APTX-HD). The unit includes independent subwoofer frequency adjustment (±4dB) and cutoff frequency adjustment (50-220Hz) functions, designed as a desktop-oriented compact amplifier supporting DC24-48V power input. It incorporates six NE5532 op-amps and provides bass and treble adjustment functionality.
 
 ## Scientific Validity
 
@@ -39,7 +39,7 @@ The B07's current market price is 109 USD. Per review policy, cost-performance i
 
 $$ \Large \text{0.5} $$
 
-While the Aiyima brand has some market presence, long-term reliability data is limited. User reports indicate heating issues after about 10 minutes of use, suggesting thermal management challenges within the compact chassis. The product warranty is at the industry-standard level, but global support infrastructure is inferior compared to major manufacturers. These heating issues may impact long-term reliability.
+While the AIYIMA brand has some market presence, long-term reliability data is limited. User reports indicate heating issues after about 10 minutes of use, suggesting thermal management challenges within the compact chassis. The product warranty is at the industry-standard level, but global support infrastructure is inferior compared to major manufacturers. These heating issues may impact long-term reliability.
 
 ## Rationality of Design Philosophy
 
@@ -49,6 +49,6 @@ The concept of a dedicated 2.1-channel amplifier is rational. However, the signi
 
 ## Advice
 
-This product is not recommended. The cost-performance score of 1.0 is a byproduct of the calculation rule and does not represent the product's actual value, which is poor. The Fosi Audio BT30D Pro, which is available at the exact same price of 109 USD, overwhelmingly outperforms this product in measured performance. Given the unacceptable gap between claimed and actual performance, coupled with heating issues, there is no rational reason to choose the Aiyima B07. For anyone considering a 2.1-channel amplifier, the Fosi Audio BT30D Pro is the superior choice in every regard.
+This product is not recommended. The cost-performance score of 1.0 is a byproduct of the calculation rule and does not represent the product's actual value, which is poor. The Fosi Audio BT30D Pro, which is available at the exact same price of 109 USD, overwhelmingly outperforms this product in measured performance. Given the unacceptable gap between claimed and actual performance, coupled with heating issues, there is no rational reason to choose the AIYIMA B07. For anyone considering a 2.1-channel amplifier, the Fosi Audio BT30D Pro is the superior choice in every regard.
 
 (2025.7.22)

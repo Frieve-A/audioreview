@@ -1,7 +1,7 @@
 ---
 layout: product
-title: "aiyima T9 Product Review"
-target_name: "aiyima T9"
+title: "AIYIMA T9 Product Review"
+target_name: "AIYIMA T9"
 company_id: aiyima
 lang: en
 ref: aiyima-T9
@@ -14,7 +14,7 @@ permalink: /products/en/aiyima-T9/
 ---
 ## Overview
 
-The aiyima T9 is a Bluetooth-enabled compact desktop amplifier manufactured by Chinese audio company aiyima. It features the TPA3250 chip and is marketed with "100W×2" power output specifications. However, according to Texas Instruments' official datasheet, the TPA3250 can deliver 70W stereo continuous into 8Ω and up to 130W into 4Ω with a 32V supply, making the claimed 100W×2 specification theoretically achievable but likely referring to peak rather than continuous power. The design emphasizes visual appeal with tube-style LED decoration and VU meters. It offers multiple input terminals (Bluetooth, USB-DAC, optical digital, coaxial digital, RCA) to accommodate various audio sources.
+The AIYIMA T9 is a Bluetooth-enabled compact desktop amplifier manufactured by Chinese audio company AIYIMA. It features the TPA3250 chip and is marketed with "100W×2" power output specifications. However, according to Texas Instruments' official datasheet, the TPA3250 can deliver 70W stereo continuous into 8Ω and up to 130W into 4Ω with a 32V supply, making the claimed 100W×2 specification theoretically achievable but likely referring to peak rather than continuous power. The design emphasizes visual appeal with tube-style LED decoration and VU meters. It offers multiple input terminals (Bluetooth, USB-DAC, optical digital, coaxial digital, RCA) to accommodate various audio sources.
 
 ## Scientific Validity
 
@@ -38,7 +38,7 @@ The T9's current market price is approximately 85 USD. For a product with equiva
 
 $$ \Large \text{0.3} $$
 
-aiyima is a relatively new Chinese manufacturer with a limited long-term reliability track record. The warranty period is a standard one year, but the international support infrastructure is inadequate, with repair services in Japan being particularly difficult. Firmware updates and other software support cannot be expected. Third-party verification data regarding product durability has not been published, making long-term reliability unknown.
+AIYIMA is a relatively new Chinese manufacturer with a limited long-term reliability track record. The warranty period is a standard one year, but the international support infrastructure is inadequate, with repair services in Japan being particularly difficult. Firmware updates and other software support cannot be expected. Third-party verification data regarding product durability has not been published, making long-term reliability unknown.
 
 ## Rationality of Design Philosophy
 

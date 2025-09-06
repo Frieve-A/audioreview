@@ -41,7 +41,7 @@ No cheaper product offering equivalent user-facing functions **and** equal-or-be
 
 $$ \Large \text{0.3} $$
 
-The platform (TPA3255) is widely used and parts are readily available, but long-term, independent reliability data specific to A07 Pro are limited. Warranty/support are provided through Aiyima’s channels; documentation and accessory options (various power supplies) are available on the official site [2].
+The platform (TPA3255) is widely used and parts are readily available, but long-term, independent reliability data specific to A07 Pro are limited. Warranty/support are provided through AIYIMA's channels; documentation and accessory options (various power supplies) are available on the official site [2].
 
 ## Rationality of Design Philosophy
 
@@ -55,8 +55,8 @@ Choose A07 Pro if you need a small, inexpensive wireless amp for desktop or smal
 
 ## References
 
-[1] Audio Science Review — *Aiyima A07 Pro Amplifier Review*, May 20, 2023, https://www.audiosciencereview.com/forum/index.php?threads/aiyima-a07-pro-amplifier-review.44864/ (accessed Aug 15, 2025). The summary states “competent levels of noise and distortion.”   
-[2] Aiyima (official) — *A07 Pro product page*, price/specs (TPA3255, QCC304X BT 5.2, THD 0.002%, SNR 90 dB; selectable PSUs), https://www.aiyima.com/products/aiyima-a07-pro (accessed Aug 15, 2025).   
+[1] Audio Science Review — *AIYIMA A07 Pro Amplifier Review*, May 20, 2023, https://www.audiosciencereview.com/forum/index.php?threads/aiyima-a07-pro-amplifier-review.44864/ (accessed Aug 15, 2025). The summary states "competent levels of noise and distortion."   
+[2] AIYIMA (official) — *A07 Pro product page*, price/specs (TPA3255, QCC304X BT 5.2, THD 0.002%, SNR 90 dB; selectable PSUs), https://www.aiyima.com/products/aiyima-a07-pro (accessed Aug 15, 2025).   
 [3] Fosi Audio (official) — *BT20A Pro product page*, price from 79.99 USD; spec table incl. THD+N and SNR, https://fosiaudio.com/products/bt20a-pro-2-channel-bluetooth-power-amplifier (accessed Aug 15, 2025).   
 [4] Audio Science Review — *Fosi Audio BT20A Pro Amplifier Review*, Apr 10, 2023, https://www.audiosciencereview.com/forum/index.php?threads/fosi-audio-bt20a-pro-amplifier-review.43751/ (accessed Aug 15, 2025).   
 [5] Amazon.com — *AIYIMA A07 Pro listing* (market availability; general spec block), https://www.amazon.com/Upgraded-AIYIMA-TPA3255-Amplifier-Bluetooth/dp/B0BN8H8X2Z (accessed Aug 15, 2025).   

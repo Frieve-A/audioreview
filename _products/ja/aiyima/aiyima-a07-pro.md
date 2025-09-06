@@ -55,8 +55,8 @@ $$ \Large \text{0.5} $$
 
 ## 参考情報
 
-[1] Audio Science Review — 「Aiyima A07 Pro Amplifier Review」, 2023-05-20, https://www.audiosciencereview.com/forum/index.php?threads/aiyima-a07-pro-amplifier-review.44864/（2025-08-15参照）. “competent levels of noise and distortion” の要旨。   
-[2] Aiyima公式 — 「A07 Pro 製品ページ」（価格/仕様：TPA3255、QCC304X BT 5.2、THD 0.002%、S/N 90 dB、電源24–48 V等）, https://www.aiyima.com/products/aiyima-a07-pro（2025-08-15参照）.   
+[1] Audio Science Review — 「AIYIMA A07 Pro Amplifier Review」, 2023-05-20, https://www.audiosciencereview.com/forum/index.php?threads/aiyima-a07-pro-amplifier-review.44864/（2025-08-15参照）. "competent levels of noise and distortion" の要旨。   
+[2] AIYIMA公式 — 「A07 Pro 製品ページ」（価格/仕様：TPA3255、QCC304X BT 5.2、THD 0.002%、S/N 90 dB、電源24–48 V等）, https://www.aiyima.com/products/aiyima-a07-pro（2025-08-15参照）.   
 [3] Fosi Audio公式 — 「BT20A Pro」製品ページ（79.99 USD、主要スペック表）, https://fosiaudio.com/products/bt20a-pro-2-channel-bluetooth-power-amplifier（2025-08-15参照）.   
 [4] Audio Science Review — 「Fosi Audio BT20A Pro Amplifier Review」, 2023-04-10, https://www.audiosciencereview.com/forum/index.php?threads/fosi-audio-bt20a-pro-amplifier-review.43751/（2025-08-15参照）.   
 [5] Amazon.co.jp — 「AIYIMA A07 Pro」価格確認（13,999円）, https://www.amazon.co.jp/AIYIMA-TPA3255-QCC304X-Bluetooth-デスクトップアンプ/dp/B0BN8H8X2Z（2025-08-15参照）.   

@@ -1,7 +1,7 @@
 ---
 layout: product
-title: "aiyima A70 Product Review"
-target_name: "aiyima A70"
+title: "AIYIMA A70 Product Review"
+target_name: "AIYIMA A70"
 company_id: aiyima
 lang: en
 ref: aiyima-A70
@@ -15,7 +15,7 @@ permalink: /products/en/aiyima-A70/
 
 ## Overview
 
-The Aiyima A70 is a Class D stereo amplifier employing the Texas Instruments TPA3255 chip. It claims a maximum output of 300W×2 (4Ω) and features Post Filter Feedback (PFFB) technology to eliminate load dependency and improve linearity. Equipped with XLR and RCA inputs plus trigger input functionality, it's designed as a compact desktop amplifier. The unit incorporates an NE5532 op-amp with swappable design providing flexibility for sound tuning.
+The AIYIMA A70 is a Class D stereo amplifier employing the Texas Instruments TPA3255 chip. It claims a maximum output of 300W×2 (4Ω) and features Post Filter Feedback (PFFB) technology to eliminate load dependency and improve linearity. Equipped with XLR and RCA inputs plus trigger input functionality, it's designed as a compact desktop amplifier. The unit incorporates an NE5532 op-amp with swappable design providing flexibility for sound tuning.
 
 ## Scientific Validity
 
@@ -39,7 +39,7 @@ At the 199 USD price point, no cheaper alternative offering equivalent or superi
 
 $$ \Large \text{0.6} $$
 
-Aiyima has established market presence as a Chinese audio brand, but long-term reliability data is limited. Some reviews note the unit gets warm quickly, raising minor concerns about thermal management, but no widespread failure reports exist. Product warranty is at industry standard level, while global support infrastructure is inferior compared to major manufacturers. Due to Class D technology characteristics, failure rates are expected to be relatively low, but lacks proven track record for long-term reliability.
+AIYIMA has established market presence as a Chinese audio brand, but long-term reliability data is limited. Some reviews note the unit gets warm quickly, raising minor concerns about thermal management, but no widespread failure reports exist. Product warranty is at industry standard level, while global support infrastructure is inferior compared to major manufacturers. Due to Class D technology characteristics, failure rates are expected to be relatively low, but lacks proven track record for long-term reliability.
 
 ## Rationality of Design Philosophy
 

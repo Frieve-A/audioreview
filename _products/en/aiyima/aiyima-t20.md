@@ -1,7 +1,7 @@
 ---
 layout: product
-title: "Aiyima T20 Product Review"
-target_name: "Aiyima T20"
+title: "AIYIMA T20 Product Review"
+target_name: "AIYIMA T20"
 company_id: aiyima
 lang: en
 ref: aiyima-t20
@@ -14,7 +14,7 @@ permalink: /products/en/aiyima-t20/
 ---
 ## Overview
 
-The Aiyima T20 is a fully balanced line preamplifier using two ECC83 (12AX7) tubes plus TI LME49720 (socketed, user-replaceable) and OPA1612 op-amps. It provides balanced XLR and unbalanced RCA inputs/outputs, digital volume with remote control, and 12 V trigger in/out—features rarely seen at this price. (Manufacturer/retailer documentation [1][2].)
+The AIYIMA T20 is a fully balanced line preamplifier using two ECC83 (12AX7) tubes plus TI LME49720 (socketed, user-replaceable) and OPA1612 op-amps. It provides balanced XLR and unbalanced RCA inputs/outputs, digital volume with remote control, and 12 V trigger in/out—features rarely seen at this price. (Manufacturer/retailer documentation [1][2].)
 
 ## Scientific Validity
 
@@ -57,7 +57,7 @@ For listeners wanting balanced XLR connectivity plus a touch of tube character a
 
 ## References
 
-[1] Audiophonics — “Aiyima T20 Tube Balanced Preamplifier (2× ECC83)—Specs” — https://www.audiophonics.fr/en/preamplifiers-volume-controllers/aiyima-t20-p-21019.html — accessed 2025-08-21. (Lists SNR ≥ 112 dB, THD+N 0.003 %, dynamic range 109 dB, FR ±0.2 dB, 12 V trigger, op-amp types.)
+[1] Audiophonics — "AIYIMA T20 Tube Balanced Preamplifier (2× ECC83)—Specs" — https://www.audiophonics.fr/en/preamplifiers-volume-controllers/aiyima-t20-p-21019.html — accessed 2025-08-21. (Lists SNR ≥ 112 dB, THD+N 0.003 %, dynamic range 109 dB, FR ±0.2 dB, 12 V trigger, op-amp types.)
 
 [2] AIYIMA (official) — “AIYIMA T20” product page (price) — https://www.aiyima.com/products/aiyima-t20 — accessed 2025-08-21. (Confirms existence and price around 179.99 USD; tube/XLR features.)
 

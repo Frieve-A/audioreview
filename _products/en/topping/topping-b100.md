@@ -48,6 +48,6 @@ The design philosophy of emphasizing measured performance and achieving a level 
 
 ## Advice
 
-While the B100 is a product with excellent measured performance, it is necessary to recognize that alternatives exist that can achieve equivalent performance at a lower cost. The Fosi Audio V3 Mono and Aiyima A70 Mono offer similar or better performance for less than half the price, making the rational reason to choose the B100 limited in practice. It becomes an option for those who are particular about the Topping brand with its focus on measured performance or specifically seek a Class AB design, but considering alternatives is recommended if cost-performance is a priority. Even if you want to leverage the benefits of a monoblock design, it is possible to achieve similar effects with more affordable options.
+While the B100 is a product with excellent measured performance, it is necessary to recognize that alternatives exist that can achieve equivalent performance at a lower cost. The Fosi Audio V3 Mono and AIYIMA A70 Mono offer similar or better performance for less than half the price, making the rational reason to choose the B100 limited in practice. It becomes an option for those who are particular about the Topping brand with its focus on measured performance or specifically seek a Class AB design, but considering alternatives is recommended if cost-performance is a priority. Even if you want to leverage the benefits of a monoblock design, it is possible to achieve similar effects with more affordable options.
 
 (2025.7.19) 

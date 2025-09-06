@@ -1,7 +1,7 @@
 ---
 layout: product
-title: "Aiyima A80 Product Review"
-target_name: "Aiyima A80"
+title: "AIYIMA A80 Product Review"
+target_name: "AIYIMA A80"
 company_id: aiyima
 lang: en
 ref: aiyima-a80
@@ -14,7 +14,7 @@ permalink: /products/en/aiyima-a80/
 ---
 ## Overview
 
-The Aiyima A80 is an integrated amplifier launched in late 2024, combining a TPA3255 Class D amplifier with ESS9038Q2M DAC and Bluetooth connectivity. The unit features PFFB (Post-Filter Feedback) technology, VU meter display, and comprehensive input options including USB-C, optical, coaxial, and RCA connections. Positioned as a next-generation audio amplifier, it targets users seeking an all-in-one solution for desktop and small room audio systems.
+The AIYIMA A80 is an integrated amplifier launched in late 2024, combining a TPA3255 Class D amplifier with ESS9038Q2M DAC and Bluetooth connectivity. The unit features PFFB (Post-Filter Feedback) technology, VU meter display, and comprehensive input options including USB-C, optical, coaxial, and RCA connections. Positioned as a next-generation audio amplifier, it targets users seeking an all-in-one solution for desktop and small room audio systems.
 
 ## Scientific Validity
 
@@ -38,7 +38,7 @@ At 199.99 USD (product page price), the A80 competes with a separates stack that
 
 $$ \Large \text{0.5} $$
 
-Aiyima provides standard manufacturer warranty and has established distribution through major retailers. The company has been present in the budget audio market for several years with generally acceptable product reliability. No specific long-term reliability data available for this recent model. Support infrastructure appears adequate for the price segment, though firmware update capability is not applicable to this analog-input focused design. Represents industry average reliability and support expectations for budget integrated amplifiers.
+AIYIMA provides standard manufacturer warranty and has established distribution through major retailers. The company has been present in the budget audio market for several years with generally acceptable product reliability. No specific long-term reliability data available for this recent model. Support infrastructure appears adequate for the price segment, though firmware update capability is not applicable to this analog-input focused design. Represents industry average reliability and support expectations for budget integrated amplifiers.
 
 ## Rationality of Design Philosophy
 

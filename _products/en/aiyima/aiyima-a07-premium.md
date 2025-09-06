@@ -1,7 +1,7 @@
 ---
 layout: product
-title: "Aiyima A07 Premium Product Review"
-target_name: "Aiyima A07 Premium"
+title: "AIYIMA A07 Premium Product Review"
+target_name: "AIYIMA A07 Premium"
 company_id: aiyima
 lang: en
 ref: aiyima-a07-premium
@@ -14,7 +14,7 @@ permalink: /products/en/aiyima-a07-premium/
 ---
 ## Overview
 
-The Aiyima A07 Premium is a compact Class D stereo amplifier built around TI’s TPA3255 with NE5532 op-amps. It is sold **with or without a power supply**: the official store lists the base unit without PSU, while some retailers bundle a **32V/5A** adapter and highlight parts such as ELNA and WIMA capacitors. Manufacturer specs include **0.05% THD**, **103 dB SNR**, and a headline **“300 W × 2 (4 Ω, 10% THD+N)”** which is a burst/marketing maximum rather than a continuous rating. A realistic **complete-system** price from the official store is **about 90.98 USD** (A07 Premium **60.99 USD** without PSU + AIYIMA **32V/5A PSU 29.99 USD**).
+The AIYIMA A07 Premium is a compact Class D stereo amplifier built around TI’s TPA3255 with NE5532 op-amps. It is sold **with or without a power supply**: the official store lists the base unit without PSU, while some retailers bundle a **32V/5A** adapter and highlight parts such as ELNA and WIMA capacitors. Manufacturer specs include **0.05% THD**, **103 dB SNR**, and a headline **“300 W × 2 (4 Ω, 10% THD+N)”** which is a burst/marketing maximum rather than a continuous rating. A realistic **complete-system** price from the official store is **about 90.98 USD** (A07 Premium **60.99 USD** without PSU + AIYIMA **32V/5A PSU 29.99 USD**).
 
 ## Scientific Validity
 

@@ -1,7 +1,7 @@
 ---
 layout: product
-title: "Aiyima T20 製品レビュー"
-target_name: "Aiyima T20"
+title: "AIYIMA T20 製品レビュー"
+target_name: "AIYIMA T20"
 company_id: aiyima
 lang: ja
 ref: aiyima-t20
@@ -15,7 +15,7 @@ permalink: /products/ja/aiyima-t20/
 
 ## 概要
 
-Aiyima T20は、ECC83（12AX7）×2本とTI LME49720（ソケット式・交換可）およびOPA1612を用いたハイブリッド構成の**完全バランス**・ラインプリアンプです。バランスXLR/アンバランスRCAの入出力、デジタルボリューム＋リモコン、12 Vトリガー入出力を備え、この価格帯では稀少な機能セットを実現しています（メーカー/販売店資料 [1][2]）。
+AIYIMA T20は、ECC83（12AX7）×2本とTI LME49720（ソケット式・交換可）およびOPA1612を用いたハイブリッド構成の**完全バランス**・ラインプリアンプです。バランスXLR/アンバランスRCAの入出力、デジタルボリューム＋リモコン、12 Vトリガー入出力を備え、この価格帯では稀少な機能セットを実現しています（メーカー/販売店資料 [1][2]）。
 
 ## 科学的有効性
 
@@ -58,7 +58,7 @@ $$ \Large \text{0.4} $$
 
 ## 参考情報
 
-[1] Audiophonics — 「Aiyima T20 Tube Balanced Preamplifier（2×ECC83）仕様」 — https://www.audiophonics.fr/en/preamplifiers-volume-controllers/aiyima-t20-p-21019.html — 参照日: 2025-08-21（SNR ≥ 112 dB、THD+N 0.003 %、DR 109 dB、FR ±0.2 dB、12 Vトリガー等）
+[1] Audiophonics — 「AIYIMA T20 Tube Balanced Preamplifier（2×ECC83）仕様」 — https://www.audiophonics.fr/en/preamplifiers-volume-controllers/aiyima-t20-p-21019.html — 参照日: 2025-08-21（SNR ≥ 112 dB、THD+N 0.003 %、DR 109 dB、FR ±0.2 dB、12 Vトリガー等）
 
 [2] AIYIMA公式 — 「AIYIMA T20 製品ページ（価格）」 — https://www.aiyima.com/products/aiyima-t20 — 参照日: 2025-08-21（存在・価格の確認、機能概要）
 

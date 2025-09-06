@@ -1,7 +1,7 @@
 ---
 layout: product
-title: "aiyima A07 MAX Product Review"
-target_name: "aiyima A07 MAX"
+title: "AIYIMA A07 MAX Product Review"
+target_name: "AIYIMA A07 MAX"
 company_id: aiyima
 lang: en
 ref: aiyima-a07-max
@@ -14,7 +14,7 @@ permalink: /products/en/aiyima-a07-max/
 ---
 ## Overview
 
-The aiyima A07 MAX is a Class D power amplifier featuring the Texas Instruments TPA3255 chip. It delivers a claimed 300W×2 (4Ω) in stereo mode and 600W (2Ω) in mono mode, equipped with enthusiast features including swappable op-amp chips and bridge mode capability. Positioned as the flagship model in the popular series from Chinese company aiyima, this product aims to achieve high-power output at a relatively affordable price point.
+The AIYIMA A07 MAX is a Class D power amplifier featuring the Texas Instruments TPA3255 chip. It delivers a claimed 300W×2 (4Ω) in stereo mode and 600W (2Ω) in mono mode, equipped with enthusiast features including swappable op-amp chips and bridge mode capability. Positioned as the flagship model in the popular series from Chinese company AIYIMA, this product aims to achieve high-power output at a relatively affordable price point.
 
 ## Scientific Validity
 
@@ -38,7 +38,7 @@ A comparison was made with the Fosi Audio V3 (approximately 72 USD), which offer
 
 $$ \Large \text{0.4} $$
 
-aiyima is an emerging Chinese audio company. While a product warranty of one year or more is offered on their official website and through retailers, one cannot expect the established global warranty system or prompt repair services of a major manufacturer. The actual quality of support response is uncertain, and concerns remain about long-term reliability, leading to a reliability rating below the industry average.
+AIYIMA is an emerging Chinese audio company. While a product warranty of one year or more is offered on their official website and through retailers, one cannot expect the established global warranty system or prompt repair services of a major manufacturer. The actual quality of support response is uncertain, and concerns remain about long-term reliability, leading to a reliability rating below the industry average.
 
 ## Rationality of Design Philosophy
 

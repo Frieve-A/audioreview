@@ -1,7 +1,7 @@
 ---
 layout: product
-title: "Aiyima A07 Premium 製品レビュー"
-target_name: "Aiyima A07 Premium"
+title: "AIYIMA A07 Premium 製品レビュー"
+target_name: "AIYIMA A07 Premium"
 company_id: aiyima
 lang: ja
 ref: aiyima-a07-premium
@@ -14,7 +14,7 @@ permalink: /products/ja/aiyima-a07-premium/
 ---
 ## 概要
 
-Aiyima A07 Premiumは、TI TPA3255とNE5532オペアンプを採用したコンパクトなクラスDステレオアンプです。**電源同梱版と電源なし版**の両方が流通しており、公式ストアは本体のみ（PSUなし）を基本とし、販売店によっては**32V/5A電源**が同梱されるパッケージもあります（ELNAやWIMA等の部品名が説明に記載される場合があります）。メーカー仕様は**THD 0.05%**、**SNR 103 dB**、見出し値として**「300W×2（4Ω・THD+N 10%）」**を掲示しますが、これは連続出力の実態を表すものではありません。
+AIYIMA A07 Premiumは、TI TPA3255とNE5532オペアンプを採用したコンパクトなクラスDステレオアンプです。**電源同梱版と電源なし版**の両方が流通しており、公式ストアは本体のみ（PSUなし）を基本とし、販売店によっては**32V/5A電源**が同梱されるパッケージもあります（ELNAやWIMA等の部品名が説明に記載される場合があります）。メーカー仕様は**THD 0.05%**、**SNR 103 dB**、見出し値として**「300W×2（4Ω・THD+N 10%）」**を掲示しますが、これは連続出力の実態を表すものではありません。
 
 ## 科学的有効性
 
