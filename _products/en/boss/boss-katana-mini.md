@@ -1,66 +1,64 @@
 ---
 layout: product
-title: "Boss Katana-Mini 製品レビュー"
+title: "Boss Katana-Mini Product Review"
 target_name: "Boss Katana-Mini"
 company_id: boss
-lang: ja
+lang: en
 ref: boss-katana-mini
 date: 2025-08-26
 rating: [3.5, 0.5, 0.6, 1.0, 0.7, 0.7]
-price: 14999
-summary: "アナログ・マルチステージ・ゲイン回路、電池駆動、テープ風ディレイを搭載した7Wコンパクト練習用アンプです。"
-tags: [ギターアンプ, 練習用アンプ, ポータブル, 電池駆動, アナログ]
-permalink: /products/ja/boss-katana-mini/
+price: 114.99
+summary: "Compact 7W practice amplifier with analog multi-stage gain circuit, battery operation, and tape-style delay for portable guitar practice applications."
+tags: [Guitar Amplifier, Practice Amp, Portable, Battery Powered, Analog]
+permalink: /products/en/boss-katana-mini/
 ---
 
-## 概要
+## Overview
 
-Boss Katana-Miniは、10 cm（4インチ）スピーカーとアナログ・マルチステージ・ゲイン回路を備えた**7 W**電池駆動ギターアンプです。3タイプ（Clean/Crunch/Brown）のアンプ、アナログ3バンドEQ、**テープ風ディレイ**を搭載し、AUX INと**PHONES/REC OUT（キャビネット・ボイシング）**を備えます。単三電池6本または別売ACアダプターで動作します [1]。
+The Boss Katana-Mini is a 7-watt battery-powered guitar amplifier featuring a 4-inch speaker and an analog multi-stage gain circuit. It provides three amp types (Clean, Crunch, Brown), a three-band analog EQ, and a built-in tape-style delay. Operation is via six AA batteries (or optional AC adapter). Phones/recording out with cabinet voicing and an aux-in are included [1].
 
-## 科学的有効性
+## Scientific Validity
 
 $$ \Large \text{0.5} $$
 
-入手可能な客観データはメーカー公表仕様に限られます。**定格出力7 W**、**10 cm（4インチ）スピーカー**、3アンプタイプ、アナログ3バンドEQ、**電池寿命の目安 約7時間（アルカリ）/ 約9時間（Ni-MH 2500 mAh）** などです [1]。周波数特性、THD/THD+N、S/N、クロストーク等の第三者測定は2025年8月26日時点で未確認のため、カタログ値以上の検証はできません。したがって基準値の0.5とします。
+Public objective data for the Katana-Mini are limited to official specifications: rated output 7 W, 10 cm (4") speaker, three amp types, analog 3-band EQ, onboard tape-style delay, and typical battery life of ~7 hours (alkaline) / ~9 hours (Ni-MH 2500 mAh) [1]. No independent lab measurements (FR/THD/THD+N/SNR/crosstalk) were found as of this review date, so verification beyond catalog specs is not possible. Baseline 0.5 is applied.
 
-## 技術レベル
+## Technology Level
 
 $$ \Large \text{0.6} $$
 
-マルチステージ・アナログゲイン回路とアナログ・トーンスタックにより、携帯性とシンプルさを重視した設計です。2017年世代の成熟技術であり、アプリ連携やワイヤレス制御などの最新機能は省いています。目的適合は良好ですが新規性は中程度です [1]。
+Boss employs a proprietary multi-stage analog gain circuit and traditional tone stack in a compact, battery-capable design. While solid for portability and simplicity, the 2017-era approach lacks modern conveniences such as app integration or wireless control. Incremental rather than cutting-edge, hence 0.6 [1].
 
-## コストパフォーマンス
+## Cost-Performance
 
 $$ \Large \text{1.0} $$
 
-**分母（レビュー対象価格）:** 14,999円（米国市場の**114.99 USD**相当を基準とします）[3]。  
-**同等以上の最安比較対象:** **Boss Katana-Mini X**（**10 W**、5インチ、6サウンド、2エフェクト同時、チューナー、Bluetooth、**充電式バッテリー**）— **169.99 USD** [2][4]。  
-**単純比:** 169.99 ÷ 114.99 = **1.4783** → **CP = MIN(1.0, 1.4783) = 1.0**。  
-現時点で**同等以上の機能・出力を満たすより安価な製品は確認できません**。
+**Denominator (review target price):** 114.99 USD (current US market price) [3].  
+**Cheapest equal-or-better comparator (functions/output):** **Boss Katana-Mini X** — 10 W, 5" speaker, six analog sound options, two simultaneous effects, onboard tuner, Bluetooth audio, and a rechargeable battery — **169.99 USD** [2][4].  
+**Raw division:** 169.99 ÷ 114.99 = **1.4783** → **CP = MIN(1.0, 1.4783) = 1.0**.
 
-## 信頼性・サポート
-
-$$ \Large \text{0.7} $$
-
-Boss/Rolandのサポート体制はグローバルに整備されています。**米国**では「**2023年1月1日以降**に購入された**その他のRoland/BOSS製品**」は**2年間の限定保証**の対象です（適用条件・地域差あり）[5]。シンプルなアナログ構成はソフトウェア由来の故障リスクが低い点もプラスです。
-
-## 設計思想の合理性
+## Reliability & Support
 
 $$ \Large \text{0.7} $$
 
-練習用途に必要な機能（電池駆動・小型軽量・基本3タイプの歪み・アナログEQ・簡便な空間系）に資源を集中し、操作とコストを抑えています。一方でBluetooth/充電池/多機能エフェクト等は後発のKatana-Mini Xに譲ります。用途志向としては合理的です [1][2]。
+Boss/Roland maintain global service networks. In the United States, “all other Roland and BOSS products purchased after January 1, 2023” carry a **2-year limited warranty** (exceptions may apply) [5]. The Katana-Mini’s simple analog architecture reduces firmware-related failure modes.
 
-## アドバイス
+## Rationality of Design Philosophy
 
-**シンプルで電池駆動の練習用アンプ**を探す方にはKatana-Miniは有力です。**10 W、Bluetooth、充電式、チューナー、エフェクト拡張**が必要なら**Katana-Mini X**を検討してください [2][4]。モデリングやアプリ連携を重視する場合はデジタル系の代替も候補になります。
+$$ \Large \text{0.7} $$
 
-## 参考情報
+The design prioritizes portable practice: battery operation, compact size, analog tone stack, and a single ambience effect to broaden usability without complexity. Skipping Bluetooth/multi-FX/app control keeps cost and operation simple. Rational for its purpose, though not feature-rich versus newer entrants [1][2].
 
-[1] BOSS. 「KATANA-MINI | Guitar Amplifier」 https://www.boss.info/global/products/katana-mini/ （2025-08-26参照）  
-[2] BOSS. 「KATANA-MINI X | Guitar Amplifier」 https://www.boss.info/us/products/katana-mini_x/ （2025-08-26参照）  
-[3] Sweetwater. 「Boss Katana Mini 7-watt Combo Amp — 114.99 USD」 https://www.sweetwater.com/store/detail/KataMini--boss-katana-mini-7-watt-combo-amp （2025-08-26参照）  
-[4] Sweetwater. 「Boss Katana-Mini X 10-watt 1×5-inch Combo Amplifier — 169.99 USD」 https://www.sweetwater.com/store/detail/KataMiniX--boss-katana-mini-by-10-watt-1-by-5-inch-portable-guitar-amplifier （2025-08-26参照）  
-[5] BOSS. 「Service & Warranty Information（米国）」 https://www.boss.info/us/support/service_repair/ （2025-08-26参照）
+## Advice
+
+If you want a **simple, battery-powered practice amp** with analog voicing and a useful built-in delay, the Katana-Mini remains compelling. If you need **more output (10 W), Bluetooth audio, a rechargeable battery, an onboard tuner, and additional effects**, step up to the **Katana-Mini X** [2][4]. Players seeking deep modeling and app ecosystems should consider digital-first alternatives.
+
+## References
+
+[1] BOSS. “KATANA-MINI | Guitar Amplifier.” https://www.boss.info/global/products/katana-mini/ (accessed 2025-08-26).  
+[2] BOSS. “KATANA-MINI X | Guitar Amplifier.” https://www.boss.info/us/products/katana-mini_x/ (accessed 2025-08-26).  
+[3] Sweetwater. “Boss Katana Mini 7-watt Combo Amp — 114.99 USD.” https://www.sweetwater.com/store/detail/KataMini--boss-katana-mini-7-watt-combo-amp (accessed 2025-08-26).  
+[4] Sweetwater. “Boss Katana-Mini X 10-watt 1×5-inch Combo Amplifier — 169.99 USD.” https://www.sweetwater.com/store/detail/KataMiniX--boss-katana-mini-by-10-watt-1-by-5-inch-portable-guitar-amplifier (accessed 2025-08-26).  
+[5] BOSS. “Service & Warranty Information (U.S.).” https://www.boss.info/us/support/service_repair/ (accessed 2025-08-26).
 
 (2025.8.26)
-

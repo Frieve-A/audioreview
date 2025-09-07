@@ -1,53 +1,54 @@
 ---
 layout: product
-title: "Bowers & Wilkins 804 D3 Product Review"
+title: "Bowers & Wilkins 804 D3 製品レビュー"
 target_name: "Bowers & Wilkins 804 D3"
 company_id: bowers-wilkins
-lang: en
+lang: ja
 ref: bowers-wilkins-804-d3
 date: 2025-07-31
 rating: [2.7, 0.3, 0.7, 0.2, 0.8, 0.7]
-price: 9000
-summary: "Third-generation Diamond Series floorstanding speaker. Despite featuring a diamond tweeter and Continuum FST technology, there are challenges in its measured performance and price balance."
-tags: [3ウェイ, Diamond Tweeter, Floorstanding, スピーカー, ハイエンド]
-permalink: /products/en/bowers-wilkins-804-d3/
+price: 1540000
+summary: "Diamondシリーズ第3世代のフロアスタンディングスピーカー。ダイヤモンドツイーターとContinuum FST技術を採用するも、測定性能と価格のバランスに課題があります。"
+tags: [スピーカー, フロアスタンディング, ハイエンド, 3ウェイ, ダイヤモンドツイーター]
+permalink: /products/ja/bowers-wilkins-804-d3/
 ---
-## Overview
 
-The Bowers & Wilkins 804 D3 is a floorstanding speaker from the third generation of the Diamond Series, developed by the established British audio manufacturer. It features a 3-way design with a 25mm diamond dome tweeter, a 130mm Continuum FST midrange driver, and two 165mm Aerofoil cone bass drivers. The manufacturer specifies a frequency response of 24Hz-28kHz (±3dB). Positioned as a staple product in the premium audio market, it builds on the company's history and brand strength. The speaker is designed to provide both visual and acoustic presence through high-quality cabinet finishing and proprietary driver technology.
+## 概要
 
-## Scientific Validity
+Bowers & Wilkins 804 D3は、英国の老舗オーディオメーカーが開発したDiamondシリーズ第3世代のフロアスタンディングスピーカーです。25mmダイヤモンドドームツイーター、130mm Continuum FST中域ドライバー、165mm Aerofoilコーン低域ドライバー2基を搭載した3ウェイ設計で、メーカー公称値では24Hz-28kHz（±3dB）の再生帯域を実現しています。プレミアムオーディオ市場における定番製品として位置づけられ、高品質なキャビネット仕上げと独自のドライバー技術により、視覚的にも音響的にも存在感のある製品として設計されています。
+
+## 科学的有効性
 
 $$ \Large \text{0.3} $$
 
-Objective evaluation based on third-party measurement data reveals multiple issues that can affect audibility. The frequency response, according to measurements by SoundStage!, is 28Hz-20kHz (±3.0dB), which is on the edge of the problematic level as per our measurement criteria. Total harmonic distortion (THD) is particularly problematic, exceeding 1% in the low frequencies below 100Hz and reaching up to 3% in some cases, which significantly surpasses the problematic level (1% or more for speakers). While the nominal sensitivity is 90dB/2.83V/m, measurements from Stereophile indicate it is closer to 88dB. The impedance drops to a minimum of 3.0 ohms, presenting a difficult load for amplifiers. While the bass extension is excellent, the overall measured performance does not reach a transparent level.
+信頼できる第三者機関の測定データに基づく客観的評価では、可聴性に影響する複数の問題が確認されます。SoundStage!の測定によれば、周波数特性は28Hz-20kHz（±3.0dB）であり、問題レベル（±3.0dB以上）の境界線上にあります。特に高調波歪率（THD）は問題で、100Hz以下の低域では1%を超え、ソースによっては3%に達することもあり、スピーカーにおける問題レベル（1%以上）を大幅に上回ります。公称感度は90dB/2.83V/mですが、実測では88dB程度と報告されています。インピーダンスが最低3.0オームまで低下するため、アンプにとって駆動困難な負荷特性を示しています。低域の伸びは優秀ですが、全体的な測定性能は透明なレベルには到達していません。
 
-## Technology Level
+## 技術レベル
 
 $$ \Large \text{0.7} $$
 
-The diamond dome tweeter represents the company's flagship technology with theoretical justification, offering high rigidity and low mass to suppress high-frequency distortion. The Continuum FST midrange driver uses a woven composite structure designed to suppress break-up modes, showing technical rationality. The Aerofoil bass drivers feature an aerodynamically optimized design to reduce unwanted vibrations. The crossover frequencies of 350Hz/4kHz are appropriate choices considering each driver's characteristics. However, these technologies represent the company's long-term accumulation rather than groundbreaking innovations that revolutionize the industry. While the design completion is high, there remains room for improvement under current measurement technology standards.
+ダイヤモンドドームツイーターは同社の看板技術として理論的根拠があり、高い剛性と軽量性により高域の歪みを抑制する効果が期待できます。Continuum FST中域ドライバーは織り込み複合材構造により分割振動を抑制する設計で、技術的合理性があります。Aerofoil低域ドライバーも空力学的最適化により不要振動を低減する独自設計です。クロスオーバー周波数350Hz/4kHzの設定も各ドライバーの特性を考慮した適切な選択です。ただし、これらの技術は同社の長年の蓄積によるものであり、業界を革新する画期的新技術とは言えません。設計の完成度は高いものの、最新の測定技術基準では改善の余地が残されています。
 
-## Cost-Performance
+## コストパフォーマンス
 
 $$ \Large \text{0.2} $$
 
-The 804 D3 is discontinued, making new units unavailable. Its original launch price was approximately 9,000 USD per pair. The successor model, the 804 D4, currently sells for around 14,000 USD per pair. For comparison, current 3-way floorstanding speakers such as the ELAC Uni-Fi Reference UFR52 (approx. 1,400 USD per pair) and the Revel Concerta2 F36 (approx. 2,200 USD per pair) offer superior or comparable measured performance at a fraction of the price. Based on the price difference with current products offering equivalent function and superior measured performance, the cost-performance is evaluated poorly. The calculation is `1,400 USD ÷ 9,000 USD ≒ 0.16`, resulting in a score of 0.2.
+804 D3は既に生産終了しており、新品での入手は困難です。発売当時の価格はペアで約154万円（税込）でした。後継機種である804 D4の現在価格はペア約160万円（税込）です。比較対象として、現行の3ウェイフロアスタンディングスピーカーである「ELAC Uni-Fi Reference UFR52」（ペア約25万円）や「Revel Concerta2 F36」（ペア約35万円）などは、本機を上回る、あるいは同等の測定性能を大幅に安価で実現しています。同等の機能とより優れた測定性能を持つ現行製品との価格差が極めて大きいため、コストパフォーマンスは低評価となります。計算式は `250,000円 ÷ 1,540,000円 ≒ 0.16` となり、スコアは0.2です。
 
-## Reliability & Support
+## 信頼性・サポート
 
 $$ \Large \text{0.8} $$
 
-Bowers & Wilkins, established in 1966, maintains a well-established repair system and global support network as a veteran manufacturer. In most regions, a multi-year product warranty is provided through authorized importers, with after-sales service available at authorized dealers nationwide. The company's Diamond Series follows a long-term production policy with a stable parts supply system. The product's robust construction and quality control maintain failure rates at or below the industry average. However, due to the complex driver configuration, parts costs for repairs can be expensive. As a passive speaker requiring no firmware updates, the risk of obsolescence during long-term use is low.
+Bowers & Wilkinsは1966年創立の老舗メーカーとして確立された修理体制とグローバルサポート網を持ちます。日本では正規輸入代理店を通じた製品保証が提供され、全国の認定販売店でアフターサービスを受けることができます。同社のDiamondシリーズは長期生産が基本方針で、部品供給体制も比較的安定しています。製品の堅牢な作りと品質管理により、故障率は業界平均を下回る水準を維持しています。ただし、複雑なドライバー構成のため、修理時の部品コストは高額になる傾向があります。ファームウェア更新等は必要ないパッシブスピーカーのため、長期使用における陳腐化リスクは低いと評価できます。
 
-## Rationality of Design Philosophy
+## 設計思想の合理性
 
 $$ \Large \text{0.7} $$
 
-The material selection and placement of each driver have a scientific basis: the diamond tweeter for reducing high-frequency distortion, the Continuum midrange for suppressing break-up modes, and the Aerofoil bass drivers for optimizing airflow—all contributing to measurable sound quality improvements. The crossover design also makes rational choices that leverage each driver's characteristics. However, despite these technological investments, the final measurement results do not reach transparent levels, indicating room for improvement in the effective application of technology. Furthermore, given that comparable or better performance is achievable at a significantly lower cost with other products, questions arise about the necessity of its existence as a dedicated audio device at its price point. While the steadfast adherence to traditional approaches is notable, efforts toward innovation and cost reduction appear limited.
+各ドライバーの材料選択と配置には科学的根拠があり、ダイヤモンドツイーターによる高域歪み低減、Continuum中域による分割振動抑制、Aerofoil低域による空気流最適化など、測定可能な音質改善に寄与する方向性です。クロスオーバー設計も各ドライバーの特性を活かす合理的な選択がなされています。一方で、これらの技術投入にも関わらず、最終的な測定結果では透明レベルに到達しておらず、技術の有効活用に改善の余地があります。また、同等以上の性能を大幅に安価に実現する製品が存在することを踏まえると、本機の価格設定における専用オーディオ機器としての存在意義には疑問が生じます。伝統的なアプローチを堅実に踏襲している点は評価できますが、革新性やコスト削減への取り組みは限定的です。
 
-## Advice
+## アドバイス
 
-Those considering a purchase should be aware that this product is discontinued and are recommended to make objective comparisons with current 3-way floorstanding speakers. Current products such as the ELAC Uni-Fi Reference UFR52 and Revel Concerta2 F36 offer superior measured performance at significantly lower prices. When auditioning, carefully evaluate how the high THD characteristics, especially in the bass, and the ±3.0dB frequency response deviation actually affect music reproduction. These measurement limitations may become apparent, particularly in applications emphasizing high-volume playback or precise sound imaging. When considering used market purchases, carefully verify the condition and deterioration of the drivers, and also consider the availability of repair parts. When selecting an amplifier, thoroughly confirm its capability to drive a low impedance load of 3.0 ohms and choose a model with adequate current supply.
+購入を検討される方は、本製品が既に生産終了していることを考慮し、現行の3ウェイフロアスタンディングスピーカーとの客観的比較をお勧めします。「ELAC Uni-Fi Reference UFR52」や「Revel Concerta2 F36」など、より優秀な測定性能を持つ現行製品が大幅に安価で入手可能です。試聴される際は、特に低域で高いTHD特性や±3.0dBの周波数偏差が実際の音楽再生にどの程度影響するかを慎重に評価してください。特に大音量再生や精密な音像定位を重視される用途では、これらの測定上の制約が顕在化する可能性があります。中古市場での購入を検討される場合は、ドライバーの劣化状況を慎重に確認し、修理部品の入手可能性も考慮してください。アンプ選択時は、最低インピーダンス3.0オームでの駆動能力を十分に確認し、適切な電流供給能力を持つ機種を選択してください。
 
 (2025.7.31)

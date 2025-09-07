@@ -1,53 +1,53 @@
 ---
 layout: product
-title: "Moondrop Meteor Product Review"
+title: "Moondrop Meteor 製品レビュー"
 target_name: "Moondrop Meteor"
 company_id: moondrop
-lang: en
+lang: ja
 ref: moondrop-meteor
 date: 2025-08-01
 rating: [2.7, 0.7, 0.6, 0.1, 0.6, 0.7]
-price: 510
-summary: "A tribrid IEM with a unique meteorite-embedded design and 1DD+2BA+4Planar configuration, but at 510 USD, superior performance can be achieved with significantly less expensive alternatives."
-tags: [Moondrop, Tribrid, インイヤーモニター, プレミアム]
-permalink: /products/en/moondrop-meteor/
+price: 76500
+summary: "隕石を埋め込んだ独特なデザインと1DD+2BA+4Planar構成を持つトライブリッドIEMだが、76,500円という価格に対して、より安価に優れた性能を実現できる製品が存在する。"
+tags: [In-ear monitors, Moondrop, Tribrid, プレミアム]
+permalink: /products/ja/moondrop-meteor/
 ---
-## Overview
+## 概要
 
-The Moondrop Meteor is the company's flagship tribrid IEM released in late 2024. It features a 7-driver configuration consisting of 1 dynamic driver, 2 balanced armatures, and 4 microplanar drivers, along with a distinctive faceplate that incorporates actual meteorite fragments. The design incorporates XTM composite technology for a dedicated crossover design and acoustic metamaterial filters for sound tuning. Priced at 510 USD, the Meteor is positioned as Moondrop's premium IEM tuned according to their VDSF Target Response curve.
+Moondrop Meteorは2024年末にリリースされた同社のフラッグシップトライブリッドIEMです。1つのダイナミックドライバー、2つのバランスドアーマチュア、4つのマイクロプラナードライバーという7ドライバー構成と、実際の隕石を埋め込んだ独特なフェイスプレートが特徴的な製品です。XTM複合技術による専用クロスオーバー設計と、アコースティックメタマテリアルフィルターによる音響調整が施されています。価格は76,500円で、MoondropがVDSF Target Response curveに基づいてチューニングした高級IEMとして位置づけられています。
 
-## Scientific Validity
+## 科学的有効性
 
 $$ \Large \text{0.7} $$
 
-The measured specifications of 18.5Ω impedance, 120dB/Vrms sensitivity, and a 9Hz-35kHz frequency response demonstrate generally good performance. The 120dB sensitivity meets the excellent level standard of 100dB or higher, and the low impedance design ensures good drivability with portable devices. However, the specified Total Harmonic Distortion (THD) of ≤0.6% reaches the problematic level of 0.5% or higher for IEMs according to product category guidelines. While other specifications are good, this level of distortion is a notable drawback for a high-fidelity product.
+インピーダンス18.5Ω、感度120dB/Vrms、周波数特性9Hz-35kHzという測定値は、概ね良好な性能を示しています。感度120dBは100dB以上の優秀レベルをクリアし、低インピーダンス設計によりポータブル機器での駆動性も確保されています。しかし、公称の高調波歪率（THD）が≤0.6%という値は、製品カテゴリ別基準においてイヤホンで問題とされるレベルである0.5%以上に達しています。他のスペックは良好であるものの、この歪率はハイファイ製品としては明確な欠点となります。
 
-## Technology Level
+## 技術レベル
 
 $$ \Large \text{0.6} $$
 
-The 7-driver tribrid configuration and XTM composite technology crossover design demonstrate technical uniqueness. The use of 4 microplanar drivers for high-frequency reproduction and the acoustic metamaterial filters for suppressing peaks around 4.7kHz and 7.2kHz represent rational design approaches. The utilization of actual meteorite as a vibration damper is also an interesting engineering solution. However, considering the final measured performance, particularly the THD, it is questionable whether this complex technological investment directly translates to audibly meaningful improvements. While the technology level exceeds industry average standards, it cannot be considered a top-tier proprietary design.
+7ドライバーによるトライブリッド構成と、XTM複合技術によるクロスオーバー設計は技術的な独自性を示しています。4つのマイクロプラナードライバーによる高域再生と、アコースティックメタマテリアルフィルターによる4.7kHzと7.2kHz周辺のピーク抑制は合理的な設計アプローチです。実際の隕石を振動ダンパーとして活用するアイデアも興味深い取り組みです。しかし、最終的な測定性能、特にTHDを見る限り、この複雑な技術投入が聴覚上意味のある改善に直結しているかは疑問です。業界水準としては平均を上回る技術レベルですが、最高水準の自社設計とは言えません。
 
-## Cost-Performance
+## コストパフォーマンス
 
 $$ \Large \text{0.1} $$
 
-At a price of 510 USD, a product like the Truthear ZERO:RED (approximately 55 USD) offers superior measured performance. The ZERO:RED demonstrates significantly lower THD across the entire frequency spectrum, providing superior fidelity from a user's perspective. The cost-performance calculation yields 55 USD ÷ 510 USD = 0.107, indicating that superior performance can be obtained at approximately 1/9th the price. Since decorative elements such as meteorite embedding are not included in functionality and performance evaluation, the pure performance-to-price ratio results in an extremely low rating.
+76,500円という価格に対して、Truthear ZERO:RED（約8,250円）のような製品が、より優れた測定性能を提供します。ZERO:REDは全周波数帯域で著しく低いTHDを示しており、ユーザー視点ではより高い忠実度を提供します。コストパフォーマンス計算では、8,250円 ÷ 76,500円 = 0.107... となり、約9分の1の価格で優れた性能が得られることを示しています。隕石埋め込みなどの装飾的要素は機能・測定性能評価には含めないため、純粋な性能対価格比では極めて低い評価となります。
 
-## Reliability & Support
+## 信頼性・サポート
 
 $$ \Large \text{0.6} $$
 
-Moondrop, as an established Chinese audio manufacturer, provides a 1-year product warranty and maintains a global sales network and support system. The cable comes with a 3-month warranty. No particular failure risks have been reported for their IEM products, and the standard 0.78mm 2-pin connection system ensures easy availability of replacement cables. However, the complex 7-driver configuration may potentially carry higher long-term failure risks compared to simpler designs. The support system can be evaluated as industry average.
+Moondropは中国の確立されたオーディオメーカーとして1年間の製品保証を提供しており、グローバルな販売網とサポート体制を持っています。ケーブルには3か月保証が設定されています。IEM製品として特別な故障リスクは報告されておらず、0.78mm 2ピンという標準的な接続方式により交換ケーブルの入手も容易です。ただし、複雑な7ドライバー構成は、単純な構成の製品より長期使用での故障リスクが高い可能性があります。サポート体制は業界平均水準と評価できます。
 
-## Rationality of Design Philosophy
+## 設計思想の合理性
 
 $$ \Large \text{0.7} $$
 
-The tuning approach based on the VDSF Target Response curve and the design philosophy aimed at improving measurable acoustic characteristics are rational. The acoustic metamaterial filters for addressing specific frequency issues and the dedicated frequency band allocation for each driver are based on scientific principles. The attention to phase alignment through XTM composite technology also represents appropriate directional thinking. However, questions remain whether the complex 7-driver configuration was truly necessary, especially when it results in less-than-ideal THD performance. The possibility that superior measured performance could be achieved with simpler, more optimized configurations suggests some aspects of the technological investment may be over-engineered.
+VDSF Target Response curveに基づくチューニングと、測定可能な音響特性の改善を目指した設計アプローチは合理的です。アコースティックメタマテリアルフィルターによる特定周波数の問題解決や、各ドライバーへの専用帯域の割り当ても科学的根拠に基づいています。XTM複合技術による位相整合への配慮も適切な方向性です。しかし、理想的とは言えないTHD性能に終わっている点を鑑みると、この複雑な7ドライバー構成が本当に必要だったのかは疑問が残ります。より簡素で最適化された構成で優れた測定性能を達成できる可能性は、一部の技術投入が過剰設計であった可能性を示唆します。
 
-## Advice
+## アドバイス
 
-The Moondrop Meteor is a product with technical interest and unique design, but it cannot be recommended from a cost-performance perspective. The acoustic performance obtained for 510 USD is surpassed by products like the Truthear ZERO:RED at around 55 USD. It would only be a viable option for those who find value in the meteorite embedding and complex driver configuration and have sufficient budget flexibility. For purchasers prioritizing pure sound quality, we strongly recommend considering products with superior measured performance, which are available at a fraction of the price. Unless you place special value on the Moondrop brand or the aesthetic design, it is not a rational choice.
+Moondrop Meteorは技術的な興味深さと独特なデザインを持つ製品ですが、コストパフォーマンスの観点では推奨できません。76,500円で得られる音響性能は、Truthear ZERO:REDのような8,250円程度の製品に劣ります。隕石埋め込みや複雑なドライバー構成に価値を見出し、予算に余裕がある場合にのみ選択肢となるでしょう。純粋な音質を重視する購入者には、ごくわずかな価格で入手できる、より優れた測定性能を持つ製品を検討することを強く推奨します。Moondropブランドや見た目のデザインに特別な価値を感じる場合を除き、合理的な選択とは言えません。
 
 (2025.8.1)
