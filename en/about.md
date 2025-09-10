@@ -50,6 +50,10 @@ The four evaluation criteria other than cost performance (Scientific Validity, T
 The overall rating is the sum of the five criteria, resulting in a maximum of 5.0 points and a minimum of 0.0 points.
 2.5 is the baseline, with ratings of approximately 3.0 or higher indicating high evaluation, and 4.0 or higher indicating very high evaluation.
 
+## Limitations
+
+Due to the nature of this site as a meta-review platform, the review quality for products with insufficient information available on the internet (such as minor products without third-party measurements or reviews, or newly released products) may be lower.
+
 ## Using the Company and Product Lists
 
 1. **Search**: Click the magnifying glass in the page header or the "Search" link in the navigation bar to open the search window. Enter at least two characters to search company names, product names, summaries, and tags.
