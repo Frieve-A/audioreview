@@ -7,6 +7,16 @@ lang: en
 # An Objective "Yardstick" for Audio Selection
 {: .about-title}
 
+## Who Is This Site For?
+
+### Recommended For
+• Those who want to know absolute evaluations of audio equipment based on measurable, reproducible, objective scientific indicators for purchase consideration, and want to minimize the effort required for such information gathering.
+
+### Not Recommended For
+• Those who seek non-sound-related values in audio equipment such as design/interior aesthetics, material quantity investment, expensive materials, nostalgia, vintage, etc., or those who prioritize subjective evaluations that go against scientific transparency
+
+---
+
 The world is flooded with audio reviews.  
 "Deep, immersive sound," "high resolution"... these words alone don't really tell you whether a product is truly right for you.
 
@@ -40,7 +50,7 @@ We strictly evaluate whether the design directly contributes to measurable or au
 
 Each of the five evaluation criteria above is scored on a scale of 0.0 to 1.0. The sum of these scores is displayed as an overall rating from 0.0 to 5.0.
 
-The four evaluation criteria other than cost performance (Scientific Validity, Technical Level, Reliability & Support, and Rationality of Design Philosophy) are scored as follows:
+The four evaluation criteria other than cost performance (Scientific Validity, Technical Level, Reliability & Support, and Rationality of Design Philosophy) can be approximately interpreted as follows:
 - **0.8-1.0**: Excellent
 - **0.6-0.8**: Good
 - **0.4-0.6**: Average
