@@ -64,6 +64,8 @@ The overall rating is the sum of the five criteria, resulting in a maximum of 5.
 
 Due to the nature of this site as a meta-review platform, the review quality for products with insufficient information available on the internet (such as minor products without third-party measurements or reviews, or newly released products) may be lower.
 
+We continuously improve our evaluation policies to provide more beneficial reviews. Therefore, there may be differences in evaluations between older articles with outdated timestamps and the latest articles.
+
 ## Using the Company and Product Lists
 
 1. **Search**: Click the magnifying glass in the page header or the "Search" link in the navigation bar to open the search window. Enter at least two characters to search company names, product names, summaries, and tags.
