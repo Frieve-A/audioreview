@@ -7,16 +7,6 @@ lang: en
 # An Objective "Yardstick" for Audio Selection
 {: .about-title}
 
-## Who Is This Site For?
-
-### Recommended For
-• Those who want to know absolute evaluations of audio equipment based on measurable, reproducible, objective scientific indicators for purchase consideration, and want to minimize the effort required for such information gathering.
-
-### Not Recommended For
-• Those who seek non-sound-related values in audio equipment such as design/interior aesthetics, material quantity investment, expensive materials, nostalgia, vintage, etc., or those who prioritize subjective evaluations that go against scientific transparency
-
----
-
 The world is flooded with audio reviews.  
 "Deep, immersive sound," "high resolution"... these words alone don't really tell you whether a product is truly right for you.
 
@@ -26,6 +16,14 @@ We evaluate audio products and companies fairly, based on **"scientific perspect
 
 We care about only one thing: **"benefit to our readers"**.  
 We have zero bias toward manufacturers. We review honestly and straightforwardly based on facts—good products are good, and those that aren't, aren't.
+
+## Who Is This Site For?
+
+### Recommended For
+• Those who want to know absolute evaluations of audio equipment based on measurable, reproducible, objective scientific indicators for purchase consideration, and want to minimize the effort required for such information gathering.
+
+### Not Recommended For
+• Those who seek non-sound-related values in audio equipment such as design/interior aesthetics, material quantity investment, expensive materials, nostalgia, vintage, etc., or those who prioritize subjective evaluations that go against scientific transparency
 
 ## Our Unique Evaluation Criteria
 
