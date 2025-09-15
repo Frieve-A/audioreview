@@ -5,8 +5,8 @@ target_name: "Fosi Audio ZA3"
 company_id: fosi-audio
 lang: ja
 ref: fosi-audio-za3
-date: 2025-08-26
-rating: [4.1, 0.8, 0.7, 1.0, 0.8, 0.8]
+date: 2025-09-15
+rating: [4.0, 0.7, 0.7, 1.0, 0.8, 0.8]
 price: 26000
 summary: "TPA3255搭載の小型クラスD。XLR/¼\"TRSのバランス入力、ステレオ/モノ（PBTL）、12Vトリガー、サブ出力、5基のDIP8オペアンプ交換に対応。4Ω連続大出力では注意。"
 tags: [D級, TPA3255, ステレオアンプ, バランス入力, モノアンプ]
@@ -19,7 +19,7 @@ Fosi Audio ZA3 は TI TPA3255 を採用した小型パワーアンプです。**
 
 ## 科学的有効性
 
-$$ \Large \text{0.8} $$
+$$ \Large \text{0.7} $$
 
 **メーカー公称（48V/5A）:** SINAD 89 dB、SNR ≥106 dB、THD <0.006%、20 Hz–20 kHz（±0.1 dB）、ノイズフロア約150 μV、**155 W×2（4Ω・ステレオ）/ 235 W×1（4Ω・モノ）**。 [1]  
 **第三者測定:** Erin’s Audio Corner は**負荷依存**を示し、**4Ω・ステレオの持続テスト**で保護動作を確認。一方、**短時間（バースト）**では高めの結果。**サブ出力を有効にしてもメインはフルレンジ**（LPFは約120 Hz、−3 dB）。テスト条件：**QA402**、22.4 kHz帯域、4/8 Ω、両ch同時、リアクティブ負荷も評価。 [2]  
@@ -63,5 +63,5 @@ $$ \Large \text{0.8} $$
 [4] Amazon US — 「Fosi Audio ZA3（コンボ入力・12Vトリガーの文言）」https://www.amazon.com/dp/B0CLP4T5L7 （2025年8月26日参照）。  
 [5] Audio Science Review — 「Fosi Audio ZA3 Amplifier Review」https://www.audiosciencereview.com/forum/index.php?threads/fosi-audio-za3-amplifier-review.52139/ （2024年2月10日公開、2025年8月26日参照）。
 
-(2025.8.26)
+(2025.9.15)
 

@@ -5,10 +5,10 @@ target_name: "Creative Pebble"
 company_id: creative
 lang: ja
 ref: creative-pebble
-date: 2025-08-13
-rating: [2.5, 0.4, 0.3, 1.0, 0.5, 0.3]
+date: 2025-09-15
+rating: [2.4, 0.3, 0.3, 1.0, 0.5, 0.3]
 price: 3673
-summary: "25 USDという低価格で購入できるUSB電源デスクトップスピーカー。合計4.4W RMSの出力、周波数特性100Hz–17kHz、SNR 86 dB（公称）を備える[1]。測定データの第三者公開は限定的だが、エントリー用途で必要十分な基本性能を提供する。現行市場で同等以上の機能・性能を備えたより安価な代替は確認できず、価格妥当性は高い[1][2][4]。"
+summary: "25 USDという低価格で購入できるUSB電源デスクトップスピーカー。合計4.4W RMSの出力、周波数特性100Hz–17kHz、SNR 86 dB（公称）を備える[1]。測定データの第三者公開は限定的だが、エントリー用途で必要十分な基本性能を提供する。現行市場で同等以上の機能・性能を備えたより安価な代替は確認できず、価格妥当性は高い。"
 tags: [Creative, デスクトップスピーカー, USB電源, 予算]
 permalink: /products/ja/creative-pebble/
 ---
@@ -19,9 +19,9 @@ Creative Pebbleは、25 USDという極めて低価格で提供されるUSB電�
 
 ## 科学的有効性
 
-$$ \Large \text{0.4} $$
+$$ \Large \text{0.3} $$
 
-Creative Pebbleは25 USDという極低価格帯でのデスクトップスピーカーとして、基本的な音響性能を提供します。スピーカー専用基準で評価すると、周波数特性100Hz–17kHz（公称）は可聴帯域内で制限があり、SNRは86 dB（公称）、総合出力は4.4W RMSです[1]。第三者の網羅的測定は未確認のため、基準0.5から帯域の狭さ等を考慮して0.4としました。デスクトップの近接使用では必要十分な音圧を確保でき、エントリーレベル製品として妥当です[1]。
+Creative Pebbleは25 USDという極低価格帯でのデスクトップスピーカーとして、基本的な音響性能を提供します。スピーカー専用基準で評価すると、周波数特性100Hz–17kHz（公称）は可聴帯域内で制限があり、SNRは86 dB（公称）、総合出力は4.4W RMSです[1]。第三者の網羅的測定は未確認のため、基準0.5から帯域の狭さ等を考慮して0.3としました。デスクトップの近接使用では必要十分な音圧を確保でき、エントリーレベル製品として妥当です[1]。
 
 ## 技術レベル
 
@@ -33,7 +33,7 @@ Pebbleの技術レベルは価格帯相応の基本的なレベルに留まり�
 
 $$ \Large \text{1.0} $$
 
-Creative公式ストアでの価格は24.99 USDです[1]。等価以上（USB給電2.0、同等以上の周波数特性・出力・SNR）の製品としてEdifier R19U（150Hz–20kHz、RMS 2W×2、SNR ≥80 dB）が安価に流通していますが、周波数下限・出力の両面で劣るため「等価以上」に該当しません[4]。現時点で同等以上かつより安価な現行製品は確認できず、定義によりCPは1.0となります（数式表示は不要）。なお、PCWorldでもPebbleは100 USD未満カテゴリの推奨として言及されています[2][3]。
+Creative公式ストアでの価格は24.99 USDです[1]。現在販売中の低価格USB給電2.0スピーカーにおいては、公表カタログで周波数特性やSNR等の基礎指標が十分に開示されておらず、出力もPebble比で低い/未記載が多いため、Pebbleの公称帯域（100Hz–17kHz）、SNR（86 dB）、総合出力（4.4W RMS）に対して「等価以上」であることを確認できません。現行市場で同等以上かつより安価な製品は確認できず、定義によりCPは1.0とします。
 
 ## 信頼性・サポート
 
@@ -49,13 +49,10 @@ Pebbleの設計思想は価格最優先のアプローチを採用しており�
 
 ## アドバイス
 
-Creative Pebbleは、極めて限られた予算（25 USD）でデスクトップスピーカーを必要とする場合の選択肢として位置づけるべき製品です。音質よりも価格とデザイン性を重視し、基本的なコンピューター作業やカジュアルな音楽鑑賞が主な用途であれば、一定の価値を提供します。もし予算に余裕がある場合（50 USD以上）は、より測定性能の透明性が高く、技術仕様が明確な製品への投資を推奨します。Pebbleは「最低限の機能を最低限の価格で」という割り切った判断をする場合に適しており、音質向上や長期使用を重視するなら他の選択肢の検討も有益です[1][2]。
+Creative Pebbleは、極めて限られた予算（25 USD）でデスクトップスピーカーを必要とする場合の選択肢として位置づけるべき製品です。音質よりも価格とデザイン性を重視し、基本的なコンピューター作業やカジュアルな音楽鑑賞が主な用途であれば、一定の価値を提供します。もし予算に余裕がある場合（50 USD以上）は、より測定性能の透明性が高く、技術仕様が明確な製品への投資を推奨します。Pebbleは「最低限の機能を最低限の価格で」という割り切った判断をする場合に適しており、音質向上や長期使用を重視するなら他の選択肢の検討も有益です[1]。
 
 ## 参考情報
 
-1. Creative Labs, "Creative Pebble - Modern 2.0 USB Desktop Speakers," https://us.creative.com/p/speakers/creative-pebble （参照日: 2025-08-13）。主要仕様: 周波数特性100–17,000 Hz、SNR 86 dB、総合出力最大4.4W RMS、価格24.99 USD。
-2. PCWorld, "Best budget computer speakers: PC audio for less than 100 USD," https://www.pcworld.com/article/407990/the-best-budget-computer-speakers.html （参照日: 2025-08-13）。
-3. PCWorld, "Creative Pebble review: Impressively big sound from teeny 25 USD speakers," https://www.pcworld.com/article/407934/creative-pebble-review-impressively-big-sound-from-teeny-25-speakers.html （2018-02-28、参照日: 2025-08-13）。
-4. Edifier, "Extraordinary Compact USB Speakers | R19U," https://www.edifier.com/global/p/computer-speakers/r19u （参照日: 2025-08-13）。主要仕様: 周波数特性150–20,000 Hz、SNR ≥80 dB、RMS 2W×2。
+1. Creative Labs, "Creative Pebble - Modern 2.0 USB Desktop Speakers," https://us.creative.com/p/speakers/creative-pebble （参照日: 2025-09-15）。主要仕様: 周波数特性100–17,000 Hz、SNR 86 dB、総合出力最大4.4W RMS、価格24.99 USD。
 
-(2025.8.13)
+(2025.9.15)

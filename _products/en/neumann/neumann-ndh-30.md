@@ -5,8 +5,8 @@ target_name: "Neumann NDH-30"
 company_id: neumann
 lang: en
 ref: neumann-ndh-30
-date: 2025-08-07
-rating: [4.4, 0.8, 0.8, 1.0, 0.9, 0.9]
+date: 2025-09-15
+rating: [4.3, 0.7, 0.8, 1.0, 0.9, 0.9]
 price: 487
 summary: "Professional open-back studio headphones. Features excellent measurement performance and design philosophy."
 tags: [Headphones, Open-Back, Professional, Studio monitors]
@@ -18,9 +18,9 @@ The Neumann NDH-30 is an open-back studio headphone developed to reproduce the r
 
 ## Scientific Validity
 
-$$ \Large \text{0.8} $$
+$$ \Large \text{0.7} $$
 
-The NDH-30 demonstrates high measurement performance standards. THD (Total Harmonic Distortion) measures below 0.03% at 1kHz and 100dB SPL, approaching the transparent level (0.01% or below) with excellent results. The frequency response covers a wide band from 12Hz-34kHz, and while measurements indicate slight attenuation in the 1.5kHz-3.5kHz range, it shows generally flat characteristics. Maximum SPL reaches 104dB, and while S/N ratio specifications are not officially disclosed, performance expectations are high based on the company's studio monitor technology. The open-back design naturally lacks isolation, but this aligns with the intended design purpose. Comparing against measurement result standards, THD approaches transparent levels, frequency response falls within acceptable ranges, and audible sound quality improvements can be expected within the audible range.
+Independent measurements show high but not “excellent” per our thresholds. Distortion: above ~200 Hz, harmonics fall below noise floor at normal levels; low‑frequency 2nd harmonic ≈ −50 dB (~0.32%), with slight 3rd‑order rise only at high SPLs [5]. Our policy threshold for headphones treats ≲0.05% as excellent and ≳0.5% as problematic; NDH‑30’s lows stay <0.5% (not problematic) but are not ≤0.05% (not excellent). Frequency response: largely flat with ~3 dB dip near ~2 kHz and a narrow ~4 kHz peak; >10 kHz shows gentle roll‑off [5]. Against our FR guidance (±1 dB excellent; ±3 dB standard), the presence of narrow >±3 dB features keeps it short of “excellent.” Manufacturer specs (THD <0.03% @1 kHz/100 dB; sensitivity 104 dB SPL @1 kHz/1 Vrms) align [1]. Therefore, Scientific Validity = 0.7.
 
 ## Technology Level
 
@@ -32,7 +32,7 @@ The NDH-30 employs advanced technical design. The 38mm neodymium magnet driver i
 
 $$ \Large \text{1.0} $$
 
-The NDH-30's Japanese market price is 487 USD. No product with equivalent or superior function and performance at a lower price could be identified. Therefore, the cost-performance score is 1.0. The price setting is acceptable in professional markets as compensation for its quality.
+The NDH-30's price basis is A = 487 USD (representative market price). We surveyed wired open-back competitors (e.g., Sennheiser HD 600/560S, Beyerdynamic DT 900 Pro X, HIFIMAN Sundara). None can be shown—based on third‑party measurements on our evaluation axes (frequency‑response deviation, THD)—to be equivalent‑or‑better in all relevant aspects while being cheaper. Therefore, per policy, the review target is the cheapest among equivalent‑or‑better options and Cost‑Performance = 1.0.
 
 ## Reliability & Support
 
@@ -50,4 +50,16 @@ The NDH-30's design philosophy is extremely rational. It sets clear goals to rep
 
 The NDH-30 is optimal for audio engineers working in professional mixing and mastering environments using Neumann studio monitors as reference. The acoustic compatibility with the company's monitors represents maximum value, and for this application, it offers value commensurate with its price. Conversely, for general studio monitoring or music production applications, alternatives like the Sennheiser HD600 or AKG K240 Studio may be considered, though they do not match the NDH-30's performance in all aspects. When considering purchase, carefully evaluate whether compatibility with Neumann monitor environments is truly necessary. Additionally, due to open-back design, it's unsuitable for use in isolation-required environments. While undoubtedly a high-quality product, if cost-performance is prioritized, verify if lower-priced options suffice for your needs. In professional applications with adequate budget, this product demonstrates its true value.
 
-(2025.8.7)
+## References
+
+[1] Neumann, NDH 30 Product Page (specs: sensitivity, THD), https://www.neumann.com/en-en/products/headphones/ndh-30/, accessed 2025-09-15
+
+[2] Neumann Newsroom, NDH 30 announcement, https://newsroom.neumann.com/ja-jp/neumann-opunbakku-xingnondh-30woririsu, accessed 2025-09-15
+
+[3] Amazon US, Sennheiser HD 600 product page (market price), https://www.amazon.com/dp/B00004SY4H, accessed 2025-09-15
+
+[4] RTINGS, Sennheiser HD 600 Review (measurements), https://www.rtings.com/headphones/reviews/sennheiser/hd-600, accessed 2025-09-15
+
+[5] Audio Science Review Forum, Neumann NDH 30 Review (FR and distortion measurements), https://www.audiosciencereview.com/forum/index.php?threads/neumann-ndh-30-review.44459/, accessed 2025-09-15
+
+(2025.9.15)

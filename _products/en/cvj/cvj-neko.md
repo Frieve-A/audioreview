@@ -5,8 +5,8 @@ target_name: "CVJ Neko"
 company_id: cvj
 lang: en
 ref: cvj-neko
-date: 2025-07-28
-rating: [1.9, 0.3, 0.5, 0.2, 0.5, 0.4]
+date: 2025-09-15
+rating: [2.1, 0.5, 0.5, 0.2, 0.5, 0.4]
 price: 90
 summary: "A limited edition of 1000 units single dynamic driver IEM featuring anime-style design, but lacks scientific justification for its 90 USD price point with significantly cheaper alternatives offering equivalent performance"
 tags: [Anime Design, CVJ, In-ear monitors, Limited edition, Single DD]
@@ -18,7 +18,7 @@ The CVJ Neko is a limited edition in-ear monitor released by Chinese audio brand
 
 ## Scientific Validity
 
-$$ \Large \text{0.3} $$
+$$ \Large \text{0.5} $$
 
 The scientific validity of the CVJ Neko is at a low level. The official specifications only show a standard frequency response range of 20Hz-20kHz, with no detailed measurement data for THD, SNR, IMD, and other parameters disclosed. Objective measurement results for this product cannot be found on major measurement sites such as Crinacle or Audio Science Review, indicating insufficient scientific verification. As a single dynamic driver, it employs a common configuration, and while there are material characteristics such as the black-gold composite diaphragm, no scientific evidence is provided that this brings clear audible sound quality improvements. The 114dB sensitivity is a standard value with no issues for driving ease, but objective indicators showing transparent-level sound quality achievement cannot be confirmed.
 
@@ -50,4 +50,4 @@ The rationality of design philosophy is evaluated below average. The CVJ Neko's 
 
 When considering purchasing the CVJ Neko, it is recommended to make decisions with an understanding that this product has strong characteristics as an anime design collector's item. For those seeking pure acoustic performance, choosing combinations such as the KZ ZVX (approximately 16 USD) with a mid-class DAC amplifier, or higher-tier hybrid driver IEMs with the same budget, will provide significantly superior sound quality. For those other than those who find value in limited production scarcity and feel strong attraction to the anime character design, recommendation is difficult from a cost-performance perspective. Since many scientifically verified products with published measurement data exist in the same price range, those aiming for objective sound quality improvement are strongly recommended to choose those alternatives. Even when wanting to balance sound quality and design, it is more rational to select cheaper alternatives and invest the saved budget in custom cables or upgrade ear tips.
 
-(2025.7.28)
+(2025.9.15)
