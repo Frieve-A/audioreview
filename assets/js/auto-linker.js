@@ -32,6 +32,9 @@ class AutoLinker {
     this.minLength = 2; // Minimum character length
     this.maxLength = 100; // Maximum character length
     this.processedRanges = new Set(); // Track already processed ranges
+    // Excluded terms that should never be auto-linked (case-insensitive)
+    // Keep this list short and specific to avoid suppressing valid links.
+    this.excludedTerms = new Set(['spl']);
     this.init();
   }
 
@@ -273,6 +276,9 @@ class AutoLinker {
       
       // Check string length
       if (targetName.length < this.minLength || targetName.length > this.maxLength) return;
+
+      // Skip if the targetName is in excluded terms (case-insensitive)
+      if (this.isExcludedTerm(targetName)) return;
       
       // Search for exact match (case insensitive)
       const regex = new RegExp(`\\b${this.escapeRegex(targetName)}\\b`, 'gi');
@@ -309,6 +315,11 @@ class AutoLinker {
 
     // Sort by start index for proper ordering
     return matches.sort((a, b) => a.startIndex - b.startIndex);
+  }
+
+  isExcludedTerm(name) {
+    if (!name) return false;
+    return this.excludedTerms.has(String(name).trim().toLowerCase());
   }
 
   isCurrentPage(item, currentPageInfo) {

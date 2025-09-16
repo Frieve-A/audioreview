@@ -33,7 +33,7 @@ $$ \Large \text{0.6} $$
 
 Astrotec implements contemporary transducer tech rather than pushing novel electronics or DSP. Notable examples include the **planar-plus-PZT** hybrid in **Archimedes** (CNC metal shells, specified dual-sided magnet array) [3][5] and LCP diaphragms in budget DD models like **Vesna** [2]. These are competent, mainstream implementations; we do not find evidence of breakthrough system-level innovation or published technical papers/patents that would justify a higher score.
 
-## Cost-Performance (company-wide)
+## Cost-Performance
 
 $$ \Large \text{0.7} $$
 

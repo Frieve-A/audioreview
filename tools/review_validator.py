@@ -517,8 +517,20 @@ class ReviewValidator:
             else:
                 required_sections = self.policy_requirements["required_sections_ja"]  # Default to Japanese
             
-            # Extract actual sections from content using regex to handle optional text in parentheses
-            actual_sections = [re.match(r"##\s*([^（(]+)", line).group(1).strip() for line in content.split('\n') if line.startswith("## ")]
+            # Extract actual sections from content - exact match only
+            actual_sections = []
+            for line in content.split('\n'):
+                if line.startswith("## "):
+                    section_title = line[3:].strip()
+                    # Check for exact match with required sections only
+                    if section_title in required_sections:
+                        actual_sections.append(section_title)
+                    else:
+                        # Check if this looks like a required section but with extra text
+                        for required_section in required_sections:
+                            if section_title.startswith(required_section):
+                                issues.append(f"Section title '{section_title}' does not exactly match required name '{required_section}' - extra text detected")
+                                break
 
             # 1. Check for existence of required sections
             missing_sections = [s for s in required_sections if s not in actual_sections]

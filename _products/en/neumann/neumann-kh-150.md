@@ -1,7 +1,7 @@
 ---
 layout: product
-title: "Neumann KH-150 Product Review"
-target_name: "Neumann KH-150"
+title: "Neumann KH 150 Product Review"
+target_name: "Neumann KH 150"
 company_id: neumann
 lang: en
 ref: neumann-kh-150
@@ -14,7 +14,7 @@ permalink: /products/en/neumann-kh-150/
 ---
 ## Overview
 
-The Neumann KH-150 is a 6.5-inch 2-way powered studio monitor positioned in the company's mid-range lineup. It achieves room-adaptive calibration through a combination of DSP-controlled electronics and the MA1 automatic monitor alignment system. With bi-amp driving providing 145W for the woofer and 100W for the tweeter, it delivers a high maximum output of 118.7dB SPL at 1m and a low-frequency extension down to 39Hz. Reflecting its design philosophy intended for professional recording environments, it has received high praise from the industry for its excellent measurement performance.
+The Neumann KH 150 is a 6.5-inch 2-way powered studio monitor positioned in the company's mid-range lineup. It achieves room-adaptive calibration through a combination of DSP-controlled electronics and the MA1 automatic monitor alignment system. With bi-amp driving providing 145W for the woofer and 100W for the tweeter, it delivers a high maximum output of 118.7dB SPL at 1m and a low-frequency extension down to 39Hz. Reflecting its design philosophy intended for professional recording environments, it has received high praise from the industry for its excellent measurement performance.
 
 ## Scientific Validity
 
@@ -48,6 +48,6 @@ The DSP-based approach to achieving linear phase characteristics and the integra
 
 ## Advice
 
-The KH-150 is one of the highest-performing studio monitors on the market today in terms of measured performance. If you require its top-tier capabilities—specifically, the combination of deep bass extension to 39Hz and an extremely high maximum SPL of 118.7dB, along with DSP-based automatic room correction—there are no other options. In that context, its price is fully justified. However, if your work does not demand this level of physical performance, other DSP-corrected monitors (for example, those with smaller woofers) may be worth considering. The wisest purchasing decision will come from carefully assessing whether you truly need this class-leading performance in your production environment.
+The KH 150 is one of the highest-performing studio monitors on the market today in terms of measured performance. If you require its top-tier capabilities—specifically, the combination of deep bass extension to 39Hz and an extremely high maximum SPL of 118.7dB, along with DSP-based automatic room correction—there are no other options. In that context, its price is fully justified. However, if your work does not demand this level of physical performance, other DSP-corrected monitors (for example, those with smaller woofers) may be worth considering. The wisest purchasing decision will come from carefully assessing whether you truly need this class-leading performance in your production environment.
 
 (2025.7.28)

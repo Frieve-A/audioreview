@@ -1,7 +1,7 @@
 ---
 layout: product
-title: "Neumann KH-310-A Product Review"
-target_name: "Neumann KH-310-A"
+title: "Neumann KH 310 A Product Review"
+target_name: "Neumann KH 310 A"
 company_id: neumann
 lang: en
 ref: neumann-kh-310-a
@@ -14,7 +14,7 @@ permalink: /products/en/neumann-kh-310-a/
 ---
 ## Overview
 
-The Neumann KH-310-A is a 3-way tri-amplified active studio monitor developed by Neumann, the established German audio equipment manufacturer. It features an 8.25-inch woofer, a 3-inch midrange driver, and a 1-inch tweeter, powered by independent thermally protected Class AB amplifiers with a total rated output of 290W (150W for bass, 70W for mids, and 70W for treble). It achieves a frequency response of 34Hz-21kHz and a maximum SPL exceeding 116dB, designed for precision monitoring applications in professional studios. The sealed cabinet design prevents standing wave resonance, and the MMD (Mathematically Modeled Dispersion) waveguide technology realizes excellent directivity control.
+The Neumann KH 310 A is a 3-way tri-amplified active studio monitor developed by Neumann, the established German audio equipment manufacturer. It features an 8.25-inch woofer, a 3-inch midrange driver, and a 1-inch tweeter, powered by independent thermally protected Class AB amplifiers with a total rated output of 290W (150W for bass, 70W for mids, and 70W for treble). It achieves a frequency response of 34Hz-21kHz and a maximum SPL exceeding 116dB, designed for precision monitoring applications in professional studios. The sealed cabinet design prevents standing wave resonance, and the MMD (Mathematically Modeled Dispersion) waveguide technology realizes excellent directivity control.
 
 ## Scientific Validity
 

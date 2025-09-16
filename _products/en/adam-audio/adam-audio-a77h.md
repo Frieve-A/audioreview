@@ -54,7 +54,7 @@ Design choices prioritize **measurable** outcomes (FR control, SPL/THD at declar
 
 ## Advice
 
-A77H suits **midfield distances** where you need high headroom and room-adaptive neutrality from a compact three-way. Use **PURE** voicing for critical work; address placement effects via back-plate EQ/A Control, and consider **on-speaker SoundID** when treatment is constrained. If you need still higher output or a different calibration ecosystem, JBL 7-Series or Neumann KH-Series are viable—but costlier—alternatives.
+A77H suits **midfield distances** where you need high headroom and room-adaptive neutrality from a compact three-way. Use **PURE** voicing for critical work; address placement effects via back-plate EQ/A Control, and consider **on-speaker SoundID** when treatment is constrained. If you need still higher output or a different calibration ecosystem, JBL 7-Series or Neumann KH Series are viable—but costlier—alternatives.
 
 ## References
 

@@ -1,7 +1,7 @@
 ---
 layout: product
-title: "Neumann KH-120 II Product Review"
-target_name: "Neumann KH-120 II"
+title: "Neumann KH 120 II Product Review"
+target_name: "Neumann KH 120 II"
 company_id: neumann
 lang: en
 ref: neumann-kh-120-ii
@@ -15,7 +15,7 @@ permalink: /products/en/neumann-kh-120-ii/
 
 ## Overview
 
-The Neumann KH-120 II is a DSP-equipped active nearfield monitor speaker developed by Neumann, the venerable German audio manufacturer. It features a 5.25-inch woofer and 1-inch tweeter in a bi-amplified configuration with a total output of 245W (145W woofer, 100W tweeter). With a frequency response of 44Hz-21kHz (±3dB) and maximum SPL capability of 116.8dB, it incorporates a DSP-controlled high-precision crossover and Mathematically Modelled Dispersion (MMD) waveguide technology. Designed for professional studio use, it also offers optional room correction functionality using the MA 1 measurement microphone system.
+The Neumann KH 120 II is a DSP-equipped active nearfield monitor speaker developed by Neumann, the venerable German audio manufacturer. It features a 5.25-inch woofer and 1-inch tweeter in a bi-amplified configuration with a total output of 245W (145W woofer, 100W tweeter). With a frequency response of 44Hz-21kHz (±3dB) and maximum SPL capability of 116.8dB, it incorporates a DSP-controlled high-precision crossover and Mathematically Modelled Dispersion (MMD) waveguide technology. Designed for professional studio use, it also offers optional room correction functionality using the MA 1 measurement microphone system.
 
 ## Scientific Validity
 
@@ -49,6 +49,6 @@ The adoption of DSP-controlled digital signal processing and an active crossover
 
 ## Advice
 
-While the KH-120 II is a technically solid product, it's difficult to find a clear advantage that justifies its price. Especially when considering the total cost to build a room correction system, competing products like the Adam Audio A7V can achieve similar functionality at a lower cost. For users who prioritize pure cost-performance, we strongly recommend considering other options, including the A7V. However, it can be a viable option for those who value the reliability of the Neumann brand or the seamless integration of a native room correction system with the MA 1. When making a purchase, be sure to fully compare these cost differences and functionalities.
+While the KH 120 II is a technically solid product, it's difficult to find a clear advantage that justifies its price. Especially when considering the total cost to build a room correction system, competing products like the Adam Audio A7V can achieve similar functionality at a lower cost. For users who prioritize pure cost-performance, we strongly recommend considering other options, including the A7V. However, it can be a viable option for those who value the reliability of the Neumann brand or the seamless integration of a native room correction system with the MA 1. When making a purchase, be sure to fully compare these cost differences and functionalities.
 
 (2025.7.28)
