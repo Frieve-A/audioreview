@@ -5,10 +5,10 @@ target_name: "TAD ME1-TX"
 company_id: tad
 lang: en
 ref: tad-me1-tx
-date: 2025-09-20
+date: 2025-09-24
 rating: [3.6, 0.7, 0.9, 1.0, 0.7, 0.3]
 price: 18200
-summary: "High-end bookshelf speakers with proprietary CST driver technology and beryllium tweeter, but extremely poor cost-performance compared to equivalent alternatives"
+summary: "High-end bookshelf speakers with proprietary CST driver technology and beryllium tweeter. Demonstrates exceptional technological advancement and world's most affordable cost-performance, but with design philosophy rationality concerns"
 tags: [Beryllium, Bookshelf, CST, High-end, Speakers]
 permalink: /products/en/tad-me1-tx/
 ---
@@ -32,7 +32,7 @@ The ME1TX demonstrates exceptional technological advancement through multiple pr
 
 $$ \Large \text{1.0} $$
 
-At 18,200 USD per pair, the TAD-ME1TX demonstrates exceptional cost-performance as the world's most affordable product achieving equivalent or superior performance. Comprehensive market research reveals no alternative products under 18,200 USD that match the ME1TX's specifications: 36Hz-60kHz frequency response, 85dB sensitivity, 4Ω impedance, ±1.5dB accuracy (based on predecessor ME1 measurements), and extremely low distortion characteristics. The ME1TX represents the most cost-effective solution for achieving this level of performance in the bookshelf speaker category. CP = 18,200 USD ÷ 18,200 USD = 1.0.
+Evaluated under a method-agnostic policy that compares functionally equivalent performance envelopes rather than transducer topology, the ME1TX delivers best-in-class cost-performance at 18,200 USD per pair. Using the following envelope as the benchmark—approximately ±1.5 dB linearity across the midband (inferred from predecessor ME1 measurements), very low nonlinear distortion, controlled directivity up to 60 kHz, and low-frequency extension to around 36 Hz—we find no verified alternatives under 18,200 USD that meet or exceed the same envelope as of 2025-09. Accordingly, the relative price/performance attains 1.0 under our method-agnostic CP policy.
 
 ## Reliability & Support
 
@@ -58,4 +58,4 @@ The TAD-ME1TX represents the most cost-effective solution for achieving its exce
 
 [3] TAD Laboratories, "TAD-ME1TX Official Product Page", https://www.technicalaudiodevices.com/micro-evolution-one-tx/
 
-(2025.9.20)
+(2025.9.24)
