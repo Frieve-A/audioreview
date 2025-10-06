@@ -5,56 +5,70 @@ target_name: "MOTU M2"
 company_id: motu
 lang: ja
 ref: motu-m2
-date: 2025-07-08
-rating: [3.6, 0.7, 0.6, 0.9, 0.8, 0.6]
+date: 2025-10-06
+rating: [3.6, 0.8, 0.6, 0.8, 0.8, 0.6]
 price: 35970
-summary: "ESS Sabre32 Ultra DAC搭載により業界最高水準の120dB、THD+N -110dBを実現した2in2outオーディオインターフェース。同価格帯に同等性能の競合製品は存在せず、圧倒的なコストパフォーマンスを提供。"
+summary: "ESS Sabre32 Ultra採用の2in/2out USB-Cインターフェース。第三者測定でメイン出力は約120 dB(A) DR・低歪が確認され、ループバックDRも約−112 dBと実用面で良好です。メーターとループバックを備え、総合的に高い実用価値を示します。"
 tags: [オーディオインターフェース, USB-C, ESS Sabre32, 2in2out, DTM]
 permalink: /products/ja/motu-m2/
 ---
 
 ## 概要
 
-MOTU M2は、2019年にリリースされたUSB-Cオーディオインターフェースです。ESS Technology Sabre32 Ultra DAC搭載により、同価格帯では画期的な高音質を実現しました。2in2outの構成でありながら、フルカラーディスプレイを搭載し、視覚的な入出力レベル確認が可能です。MOTUは1980年代から続く老舗オーディオメーカーで、プロフェッショナル市場での実績があります。
+MOTU M2は2019年登場のコンパクトな2in/2out USB-Cオーディオインターフェースです。ESS Sabre32 Ultra DACにより価格帯としては高い出力測定性能を実現し、カラー表示の入出力メーターとループバック機能を備えます。
 
 ## 科学的有効性
 
-$$ \Large \text{0.7} $$
+$$ \Large \text{0.8} $$
 
-ESS Sabre32 Ultra DAC搭載により、THD+N < -110 dB（ライン出力）、ダイナミックレンジ120 dBA（ライン出力）を実現。マイク入力のEIN -129 dBuは同価格帯では優秀な数値です。192kHz/24bitサンプリングに対応し、可聴域を十分に超えた測定性能を持ちます。ただし、人間の聴覚上透明レベルを大幅に上回る性能であり、実用上の音質改善効果は限定的です。
+**メーカー公称**は**ライン出力120 dB(A) ダイナミックレンジ**、**約−110 dB THD+N**、マイク入力**EIN −129 dBu**です [1][2]。  
+**第三者測定**では、  
+- **ASR**のベンチ測定レビューでM2のDAC出力は価格帯として非常に良好、同フォーラムの**ループバック測定**スレッドで**往復ダイナミックレンジ約−112 dB**（DAC→ADC）と報告され、実用的な録音品質が裏づけられます [3][4]。  
+
+結論として、メイン出力は透明性を十分に満たし、ADC/マイク経路も同価格帯で競争力のある水準です（ループバックDRの値はADC側が上限を決めていることを示唆）。
 
 ## 技術レベル
 
 $$ \Large \text{0.6} $$
 
-ESS Sabre32 Ultra DACの採用は当時としては先進的でしたが、現在では多くの製品で採用されています。独自設計というよりは高品質なDACチップの選択による性能向上です。フルカラーディスプレイによる視覚的フィードバックは実用的ですが、技術的な革新性は限定的。プリアンプ回路の設計も標準的なレベルです。
+性能は独自技術というよりも、良質なコンバーターの適切な実装と堅実なアナログ設計に依存します。カラー表示のメーターや安定したUSB-C接続は実用的ですが、技術的革新性は限定的です。
 
 ## コストパフォーマンス
 
-$$ \Large \text{0.9} $$
+$$ \Large \text{0.8} $$
 
-現在価格約35,970円に対し、同価格帯の競合製品を見ると、SSL 2（110.5-112dB、THD+N <0.0012%）、PreSonus Studio 24C（108-115dB、THD+N 0.002%）、Steinberg UR22C（102-106dB、THD+N 0.0015%）などが存在します。しかし、MOTU M2の120dB（ESS Sabre32 Ultra）、THD+N -110dBという測定性能は、これらすべてを大幅に上回る業界最高水準です。同等の測定性能を持つ2in2out製品は、この価格帯には存在しません。ESS Sabre32 Ultra DACの採用により実現した透明レベルを遥かに超える性能は、明確な技術的優位性を示しており、価格に見合った価値を提供しています。
+**米国実勢価格**は**199.95 USD**前後です [2]。**同等の機能・測定性能**を満たす最安水準の実例として、  
+- **Focusrite Scarlett 2i2（第4世代）**：メーカー仕様で**120 dB(A) ライン出力DR**、**約−109 dB THD+N**、価格**199.99 USD**程度 [5]。第三者測定レビューも存在します [6]。  
+- **SSL 2 MKII**：**117 dB(A)**とわずかに低めで、価格は近似 [7]。  
+
+同等性能の代替が実質同価格で存在するため、M2の価値は**強い**が**一強ではない**という評価です。メーターやループバックを重視する用途ではM2に優位性があります。
 
 ## 信頼性・サポート
 
 $$ \Large \text{0.8} $$
 
-MOTUは老舗メーカーとしての実績があり、製品の信頼性は高いレベルです。国内正規代理店による3年保証、ファームウェアアップデート対応も継続的に行われています。USB-Cコネクタの採用により将来性も確保されています。ただし、修理対応は海外送付となる場合があり、完全ではありません。
+MOTUはドライバ/ファームの継続的提供で実績があり、筐体も堅牢です。地域によっては修理時に海外送付が必要となる場合があります。
 
 ## 設計思想の合理性
 
 $$ \Large \text{0.6} $$
 
-高品質DACチップの採用により確実な音質向上を図った合理的な設計です。USB-Cの採用、フルカラーディスプレイによる視覚的フィードバックなど、実用性を重視した設計思想は評価できます。ESS Sabre32 Ultra DACの選択は測定性能向上に直結する技術的判断であり、同価格帯のAKM AK5552搭載製品と比較して明確な性能差を実現しています。2in2out構成でのマイクプリアンプ品質（EIN -129 dBu）も競合製品を上回る水準です。ただし、透明レベルを大幅に超える性能追求は、実際の録音・再生における可聴性向上への寄与が限定的という課題もあります。
+「測定的透明性＋可視化（メーター）」に資源を配分した設計は宅録・配信に合理的です。奇をてらわず、使い勝手と基礎性能を重視しています。
 
 ## アドバイス
 
-MOTU M2は確かに高音質を実現していますが、価格競争力に課題があります。約1/2の価格で実用的な性能を持つPreSonus AudioBox USB 96の存在を考慮すると、購入理由は限定的です。フルカラーディスプレイやブランド価値を重視する場合は選択肢となりますが、純粋に音質重視なら安価な代替品で十分です。DTM初心者であれば、AudioBox USB 96で基本を学び、必要に応じて上位機種を検討するのが合理的です。プロユースを考えるなら、より高性能な8in8out以上の製品を選択すべきでしょう。
+2×2でクリーンな出力、使いやすいメーター、配信向けのループバックを求めるならM2は有力候補です。表示やループバックを重視しないなら**Scarlett 2i2（第4世代）**も同等の出力測定性能を持つ有力代替です。**SSL 2 MKII**は改善版として選択肢に入りますが、出力DRはわずかに低くなります。
 
-## 補足情報
+## 参考文献
 
-付属ソフトウェアにMOTU Performer Lite、Ableton Live 10 Liteが含まれます。iPad対応により、モバイル音楽制作にも活用可能です。重量470gの軽量設計で可搬性に優れています。
+[1] MOTU — *M2 Specifications* https://motu.com/en-us/products/m-series/m2/specs/  
+[2] MOTU — *M2 製品ページ* https://motu.com/products/m-series/m2  
+[3] Audio Science Review — *Motu M2 Review (Audio Interface)*（ベンチ測定）https://www.audiosciencereview.com/forum/index.php?threads/motu-m2-review-audio-interface.19911/  
+[4] Audio Science Review — *MOTU M2 loopback measurements*（ループバックDR ≈−112 dB）https://www.audiosciencereview.com/forum/index.php?threads/motu-m2-loopback-measurements.13033/  
+[5] Focusrite — *Scarlett 2i2（4th Gen）仕様* https://userguides.focusrite.com/hc/en-gb/articles/19640392541202-Scarlett-2i2-Specifications  
+[6] Audio Science Review — *Focusrite Scarlett 2i2（4th Gen）レビュー* https://www.audiosciencereview.com/forum/index.php?threads/focusrite-scarlett-2i2-4th-gen-interface-review.58790/  
+[7] Solid State Logic — *SSL 2/2+ MKII 仕様比較*（MKIIで117 dB DR）https://support.solidstatelogic.com/hc/en-gb/articles/21551651147677-SSL-2-2-MKII-Audio-Performance-Specifications-Compared-to-MKI
 
 ## レビュー日時
 
-(2025.7.8)
+(2025.10.6)

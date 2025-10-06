@@ -5,49 +5,74 @@ target_name: "Marantz M-CR612"
 company_id: marantz
 lang: en
 ref: marantz-m-cr612
-date: 2025-08-02
-rating: [3.4, 0.4, 0.7, 0.9, 0.8, 0.6]
-price: 467
-summary: "Boasting excellent cost-performance as an all-in-one system with a built-in CD player, though its measurement performance has room for improvement."
+date: 2025-10-06
+rating: [3.5, 0.4, 0.7, 1.0, 0.8, 0.6]
+price: 650
+summary: "A compact network CD receiver with HEOS. Measurements are modest by today’s transparency targets, but overall value is strong versus current all-in-one peers. Now updated with verified I/O, format support, power/dimensions, and amplifier operating modes."
 tags: [Amplifiers, CD Player, HEOS, Network audio, Streaming]
 permalink: /products/en/marantz-m-cr612/
 ---
 ## Overview
 
-The Marantz M-CR612 is a compact all-in-one system that integrates a CD player, network streaming, and amplifier functions. Released in 2019, this unit inherits the success of its predecessor, the M-CR611, featuring HEOS technology for multi-room support and compatibility with various streaming services. The compact 280mm x 111mm x 303mm chassis houses a Texas Instruments PCM5102A DAC chip and a Class D amplifier circuit, achieving a rated output of 50W x 2ch (6Ω).
+The Marantz M-CR612 is a compact all-in-one unit that integrates a CD player, network streaming, and a stereo amplifier. It supports HEOS multi-room and major streaming platforms (AirPlay 2, Internet Radio, Spotify Connect), plus Bluetooth playback, dual optical inputs, analog in/out, subwoofer pre-out, USB-A (rear), and speaker **A/B** switching [1][2]. The tray mechanism plays music CDs and DATA CDs (MP3/WMA) [1]. Rated output is **50 W × 2 ch into 6 Ω (1 kHz, THD+N 0.7%)** with frequency response **10 Hz–40 kHz (±3 dB)** from analog-in [1]. US official price is 650 USD at the time of writing [2].
+
+> **What changed in this revision:** added verified I/O (A/B, sub-out, analog out), **Parallel BTL/bi-amp** modes, gapless support, **DSD 2.8/5.6 MHz and 192 kHz/24-bit** network/USB playback, Bluetooth profile/codec details, power consumption and dimensions—all cross-checked to the official manual [1] and product page [2].
 
 ## Scientific Validity
 
 $$ \Large \text{0.4} $$
 
-From a measurement performance perspective, there is room for improvement. According to official specifications, THD (1kHz, 5W, 6Ω) is stated at 0.1%, which significantly exceeds the transparent level of 0.01%. The SNR of 90dB surpasses the problematic level of 80dB but falls short of the ideal 105dB or higher. The frequency response is specified as 10Hz-40kHz (±3dB), where ±3dB sits on the borderline of the problematic level. While the high efficiency characteristic of Class D amplifiers is commendable, from the perspective of auditory transparency, it lags behind modern digital technology standards.
+Measured-spec transparency is limited by today’s targets. Official specs list **THD 0.1% (1 kHz, 5 W, 6 Ω, Analog In)**, **S/N 90 dB (10 W, 6 Ω, IHF-A, Analog In)**, **FR 10 Hz–40 kHz (±3 dB)**, and at full rated power **THD+N 0.7% (50 W, 6 Ω, 1 kHz)** [1]. A typical “transparent” electronics target (~0.01% THD, ≥105 dB S/N) is stricter, so the score reflects headroom. No third-party full bench data were located; scoring therefore relies on official specifications.
+
+### Detailed technical capabilities (verified)
+
+- **High-res/network/USB formats:** WAV/FLAC/ALAC up to **192 kHz/24-bit**; **DSD 2.8/5.6 MHz**; plus MP3/WMA/AAC; gapless for WAV/FLAC/ALAC/DSD [1].  
+- **Amplifier architecture:** class-D with **Parallel BTL** and **bi-amp** modes (menu-selectable) to lower output impedance and drive HF/LF units independently [1].  
+- **Bluetooth:** **v3.0+EDR**, **A2DP 1.2/AVRCP 1.5**, **codec: SBC** (A2DP 20 Hz–20 kHz). Includes **Bluetooth OFF mode** to reduce RF noise when not needed [1].  
 
 ## Technology Level
 
 $$ \Large \text{0.7} $$
 
-In terms of technical implementation, it demonstrates a level above the industry average. The combination of TI's PCM5102A DAC and a digital amplifier is a rational design choice. The integration of HEOS technology enables multi-room playback and compatibility with various streaming services, showcasing advanced network functionality. The PWM amplifier circuitry also shows efforts to suppress the harshness typical of Class D designs. However, the chipset used is a combination of off-the-shelf products, with limited proprietary technology implementation. Support for 192kHz/24bit PCM and 5.6MHz DSD meets contemporary requirements.
+Platform integration is mature: HEOS multi-room, AirPlay 2, Internet Radio, USB playback, and dual optical inputs with auto-wake TV input behavior [1][2]. Parallel BTL/bi-amp and gapless playback are thoughtful touches for an all-in-one. However, there’s no novel amplifier topology beyond well-executed class-D and the measured specs remain conservative, so the score is above average rather than cutting-edge.
 
 ## Cost-Performance
 
-$$ \Large \text{0.9} $$
+$$ \Large \text{1.0} $$
 
-The cost-performance is excellent. Compared to this unit's (receiver only) current market price of 467 USD, there are more affordable options that integrate CD playback, network streaming, and amplifier functions. For example, the Panasonic SC-PMX900 is sold for 400 USD as a complete system including speakers. In terms of pure function-to-price ratio, a more affordable alternative that even includes speakers exists, preventing the CP from reaching the highest score. Based on the calculation: 400 USD ÷ 467 USD ≈ 0.86, the cost-performance score is 0.9. This positions the M-CR612 very competitively within the all-in-one network CD receiver category.
+We compare across classes/brands to the **lowest-priced current all-in-one with equal or greater functional scope**:
+
+- **Denon CEOL N-12** (CD + network + amp, HEOS, HDMI ARC, phono): **699 USD** MSRP [3].  
+- **Technics SA-C600** (CD + network + amp, phono): official specs and US/UK pages place it **above** the Marantz in typical pricing; we did not find verified new-unit pricing below **650 USD** [4].
+
+Within these verified peers, the **M-CR612 is the least expensive** while offering CD transport + network streaming + amplification with comparable scope. No cheaper, equal-or-better new unit was verifiable; hence the high CP score.
 
 ## Reliability & Support
 
 $$ \Large \text{0.8} $$
 
-The reliability and support system under the Marantz brand exceeds industry standards. The track record of its predecessor, the M-CR611, achieving long-term top sales in the Japanese market serves as proof of quality and market acceptance. As an established audio manufacturer, their repair system and firmware update support are stable, providing confidence for long-term use. Software updates for HEOS technology are also continuously provided, showing a commitment to functional improvements.
+Marantz provides a **3-year US warranty** and maintains the HEOS ecosystem under the D+M umbrella [2]. The manual documents **auto-standby**, firmware update pathways, and a **headphone amp gain selector** (3 levels) for compatibility [1]. Track record and service network support long-term ownership.
 
 ## Rationality of Design Philosophy
 
 $$ \Large \text{0.6} $$
 
-The design approach shows a certain rationality towards contemporary requirements. The integration of a CD player and network streaming functions is a practical approach that utilizes existing CD collections while also supporting modern music distribution services. The adoption of a Class D amplifier for high efficiency and heat suppression is a rational choice. Multi-room support through HEOS technology is also advanced. However, with measurement performance lagging behind the latest standards, there is room for improvement in the rationality of the design philosophy.
+Combining **CD playback + network streaming** in a compact, cool-running chassis remains pragmatic for space-constrained setups. Speaker **A/B** and **subwoofer pre-out** simplify 2-zone/background use or 2.1 systems. The trade-off is modest lab specs versus transparency-oriented separates, which this score reflects.
 
 ## Advice
 
-The M-CR612 is a suitable choice for users who need both a CD player and network streaming capabilities in a compact installation space. It is a particularly strong candidate for users who want to utilize their existing CD collection while also taking advantage of the HEOS ecosystem for multi-room playback, offering excellent cost-performance. As this unit is a receiver only, it offers the flexibility to be paired with speakers of your choice, but it is important to consider the total cost including the speakers. For those seeking higher sound quality performance, considering higher-tier products like the Technics SA-C600 is also recommended.
+If you need **CDs and network streaming in one box** with HEOS/AirPlay 2 and straightforward speaker wiring (A/B, bi-amp, or Parallel BTL), the M-CR612 is an easy recommendation. Match with 4–16 Ω bookshelf speakers; add a powered sub via **SW OUT** if desired [1][2]. If HDMI ARC and phono input matter and you can stretch budget, **Denon CEOL N-12** is a step up [3]; for a different industrial/aesthetic approach with phono at a higher price band, **Technics SA-C600** is an option [4].
 
-(2025.8.2)
+### Practical details (for installers)
+
+- **I/O:** Analog in/out (1/1), **2× optical in**, **USB-A (rear)**, **subwoofer pre-out**, **headphone out**, **Ethernet/Wi-Fi**, **FM/AM tuner**, **speaker A/B**, screw-type posts [1][2].  
+- **Power & size:** **55 W** consumption (standby **0.3 W**, network-standby **4 W**); **303 W × 105 H × 280 D mm**, **3.4 kg** [1].  
+
+### References
+[1] Marantz **M-CR612** Owner’s Manual — features/specs, formats, Bluetooth, power/dimensions. https://manuals.marantz.com/mcr612/EU/EN/OBAOSYqihmfszx.php  
+[2] Marantz US Product Page — **M-CR612** (I/O summary, features, US positioning). https://www.marantz.com/en-us/product/network-audio-players/m-cr612/137273.html  
+[3] Denon US Product Page — **CEOL N-12** (features, **699 USD** price). https://www.denon.com/en-us/product/mini-systems/ceol-n-12/300671.html  
+[4] Technics Official Specs — **SA-C600**. https://www.technics.com/au/products/hifi-components-speakers/sa-c600.specs.html
+
+(2025.10.6)
+

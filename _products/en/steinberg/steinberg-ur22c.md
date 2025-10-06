@@ -5,49 +5,58 @@ target_name: "Steinberg UR22C"
 company_id: steinberg
 lang: en
 ref: steinberg-ur22c
-date: 2025-07-23
+date: 2025-10-06
 rating: [3.9, 0.6, 0.7, 1.0, 0.8, 0.8]
 price: 157
 summary: "USB 3.0 audio interface supporting 32bit/192kHz. Features D-PRE Class A mic preamps and low-latency DSP effects, achieving high cost-performance with its unique feature set."
 tags: [32bit, Audio interface, Cubase, DSP, USB-C]
 permalink: /products/en/steinberg-ur22c/
 ---
+
 ## Overview
 
-The Steinberg UR22C is a 2-input, 2-output USB 3.0 audio interface developed by Steinberg, a veteran German music software company. Supporting 32bit/192kHz recording and playback, it features D-PRE Class A microphone preamps developed in collaboration with Yamaha. Key characteristics include low-latency performance via USB Type-C connectivity, built-in DSP effect processing, and iPad Pro compatibility, adapting to modern production environments. Bundled with Cubase AI software, it provides an integrated solution leveraging the company's expertise as the developer of VST technology.
+The Steinberg UR22C is a 2-in/2-out USB 3.0 audio interface developed by Steinberg. It supports 32-bit/192kHz recording and playback and features D-PRE Class A mic preamps developed with Yamaha[1][2]. Key traits include low-latency performance via USB Type-C, built-in DSP effects (REV-X reverb, channel strip, guitar amp) for true zero-latency monitoring[2], and iPad Pro compatibility. Bundled Cubase AI leverages Steinberg’s VST know-how to provide an integrated workflow.
 
 ## Scientific Validity
 
 $$ \Large \text{0.6} $$
 
-The UR22C's published specifications achieve THD+N of 0.003% (1kHz, 0dBu output level), a dynamic range of 102dB (A-weighted), and a frequency response of 20Hz-22kHz (±0.5dB). These figures demonstrate performance approaching transparent levels, but show no decisive advantages when compared to competitors in the same price range. When compared to the Focusrite Scarlett 2i2 4th Gen (mic input dynamic range 116dB, THD+N -100dB) and similarly priced products from PreSonus (dynamic range 105dB), it falls short in some indicators. While 32-bit integer support theoretically reduces quantization noise, its audibility in actual music production is limited.
+According to the official manual, the UR22C delivers THD+N of 0.003% (1 kHz, 22 Hz/22 kHz BPF), 102 dB(A) dynamic range, and a frequency response of +0.0/–0.4 dB (20 Hz–22 kHz)[1]. These are near-transparent figures but not class-leading at this price. Focusrite’s Scarlett 2i2 4th Gen specifies 120 dB A/D dynamic range and –110 dB THD+N[3], while PreSonus Studio 24c lists 106 dB(A) mic pre dynamic range[4]. 32-bit integer support increases internal headroom in theory, but its audible benefit in typical production is limited.
 
 ## Technology Level
 
 $$ \Large \text{0.7} $$
 
-The D-PRE Class A microphone preamps, developed in collaboration with Yamaha, demonstrate a design based on a solid technical foundation. USB 3.0 SuperSpeed support, providing increased bandwidth and power supply capability, along with improved internal processing precision through 32-bit integer processing, meets modern technical standards. The built-in DSP with REV-X reverb algorithms and real-time effect processing provides uniqueness, but these technical implementations remain within a good execution of industry standards without demonstrating innovative technical superiority. The hardware-software integrated design represents a rational approach.
+D-PRE mic preamps, USB 3.x bandwidth/power, 32-bit internal processing, and real-time DSP (REV-X, etc.) reflect a solid, modern engineering baseline[1][2]. The hardware-software integration is rational, though not a disruptive leap beyond strong industry standards.
 
 ## Cost-Performance
 
 $$ \Large \text{1.0} $$
 
-The UR22C's market price in Japan is approximately 157 USD. The evaluation criterion is whether a product with equivalent functions and performance exists at a lower price. Based on an investigation of competing products that feature all of the UR22C's key characteristics—such as built-in DSP effects (reverb, channel strip) for zero-latency monitoring, 32-bit/192kHz recording and playback support, and USB 3.0 connectivity—no more affordable alternative was found. While cheaper options exist if one foregoes DSP effects, they are not considered equivalent in function and thus not valid for comparison. Therefore, this product is evaluated as having excellent cost-performance for its unique feature set, resulting in a score of 1.0.
+Our criterion is whether there is a cheaper product that matches or exceeds UR22C’s key functions and measured performance. The Antelope Audio Zen Go Synergy Core offers onboard DSP/FX and 24-bit/192kHz conversion with up to ~127 dB converter headroom[5], but typical street prices are higher than UR22C (~USD 157). Yamaha’s AG03MK2 provides zero-latency DSP for streaming[6], yet lacks published measurement parity and is limited to 24-bit. With no cheaper alternative confirmed that meets or exceeds UR22C in both function and measurement, UR22C retains a top cost-performance score.
 
 ## Reliability & Support
 
 $$ \Large \text{0.8} $$
 
-Since 2004, Steinberg has benefited from the established support infrastructure of its parent company, Yamaha. In Japan, a support system is established through authorized distributors, with a 1-year product warranty period. Firmware updates are provided regularly, with past updates having significantly improved the internal mixer and FX functions. Stable product quality can be expected due to Yamaha's years of experience in acoustic equipment manufacturing and quality control systems. While specific failure rate data is not publicly available, user forum reports show no significant quality issues.
+As part of the Yamaha group, Steinberg benefits from established distribution and support. A one-year warranty and regular firmware/software updates (e.g., dspMixFx) support long-term stability. No broad, credible evidence of systemic reliability issues has been observed.
 
 ## Rationality of Design Philosophy
 
 $$ \Large \text{0.8} $$
 
-As the developer of VST technology, the company's design philosophy emphasizing hardware-software integration is scientifically rational. It demonstrates a design adapted to modern music production workflows, including tight integration with Cubase AI, built-in DSP effect processing, and low-latency realization through USB 3.0. While the improved internal calculation precision from 32-bit integer processing is a rational approach that contributes to measurement performance, its practical auditory advantages are limited. Nevertheless, the existence of a dedicated device with microphone preamps and versatile I/O should be clearly distinguished from general-purpose audio devices.
+Prioritizing hardware–software integration is scientifically sound. Tight Cubase AI integration, onboard DSP monitoring, and low-latency USB 3.x operation align with current production workflows[2]. While 32-bit internal processing offers measurement headroom, audible superiority isn’t universally guaranteed.
 
 ## Advice
 
-The UR22C is an optimal choice for producers who prioritize a zero-latency monitoring environment with built-in DSP and software-hardware integration. For Cubase users in particular, it is a highly rational choice that can be expected to improve overall production efficiency through its tight integration with the bundled software. If zero-latency monitoring with DSP effects is not a requirement and pure AD/DA conversion performance is the top priority, alternatives like the Focusrite Scarlett 2i2 4th Gen (approx. 180 USD), which offers superior measurement specs, could be considered. However, the UR22C provides unique value with its DSP effects, robust build quality, and seamless integration with Cubase at an excellent cost-performance ratio. For beginners, the integrated package of hardware and software serves as a significant advantage when starting out in music production.
+Choose the UR22C if you value zero-latency monitoring with onboard DSP and a tightly integrated Cubase workflow. If you don’t need DSP and prioritize pure converter metrics, the Scarlett 2i2 4th Gen is a strong alternative in measurement terms[3]. The UR22C’s unique DSP suite, robust build, and DAW integration make it an excellent value.
 
-(2025.7.23)
+## References
+[1] UR22C Operation Manual (Technical Specifications), Steinberg: https://download.steinberg.net/downloads_hardware/UR-C/Manuals/UR22C_Operation_Manual_English.pdf  
+[2] UR22C Product Page, Steinberg: https://www.steinberg.net/audio-interfaces/ur22c/  
+[3] Scarlett 2i2 4th Gen Specifications, Focusrite: https://us.focusrite.com/products/scarlett-2i2  
+[4] Studio 24c Specifications, PreSonus: https://www.presonus.com/products/studio-24c  
+[5] Zen Go Synergy Core (Key Features), Antelope Audio: https://en.antelopeaudio.com/products/zen-go-synergy-core-key-features-kr/  
+[6] AG03MK2 Product Page, Yamaha: https://europe.yamaha.com/en/audio/streaming-gaming/products/mixers/ag/ag03mk2/
+
+(2025.10.6)

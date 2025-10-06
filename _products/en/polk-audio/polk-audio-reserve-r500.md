@@ -5,49 +5,63 @@ target_name: "Polk Audio Reserve R500"
 company_id: polk-audio
 lang: en
 ref: polk-audio-reserve-r500
-date: 2025-08-02
-rating: [3.4, 0.5, 0.7, 0.9, 0.6, 0.7]
-price: 1498
-summary: "A tower speaker that fails to deliver performance commensurate with its price due to cabinet resonance and frequency response issues revealed by measurement data."
+date: 2025-10-06
+rating: [3.3, 0.5, 0.7, 0.8, 0.6, 0.7]
+price: 1118
+summary: "A tower speaker whose measurements reveal issues in the mid-bass and upper-treble that limit value versus today’s best options—though room EQ can help."
 tags: [2-Way, Floorstanding, Hi-Res, Tower Speaker]
 permalink: /products/en/polk-audio-reserve-r500/
 ---
+
 ## Overview
 
-The Polk Audio Reserve R500 was released in 2021 as the entry-level tower speaker in the company's Reserve series. It features a 2-way design with a 1-inch Pinnacle Ring Radiator tweeter and two 5.25-inch Turbine Cone woofers, claiming Hi-Res Audio certification, Dolby Atmos, and IMAX Enhanced compatibility. Positioned as a product that fuses modern technology with traditional design philosophy from Polk, a veteran American audio manufacturer with a rich history.
+The Polk Audio Reserve R500 was released in 2021 as the entry-level tower in the Reserve series. It uses a 1-inch Pinnacle Ring Radiator tweeter and dual 5.25-inch Turbine Cone woofers in a 2-way layout. It is “3D-audio ready” via the optional R900 height module and X-Port bass system; Polk lists current pricing at **559 USD each** on the official site [1]. (Earlier wording that implied “Dolby Atmos / IMAX Enhanced compatibility” has been corrected to reflect the brand’s official description [1].)
 
 ## Scientific Validity
 
 $$ \Large \text{0.5} $$
 
-Detailed measurement data from Erin's Audio Corner reveals multiple serious issues. While the frequency response stays within ±2dB from 80Hz-16kHz, there is a pronounced dip around 150-160Hz caused by cabinet resonance, with measurements indicating that "height-induced strong resonance pulls down the mid-bass region." Additionally, energy increases in the 4-6kHz range cause the highs to sound "shouty," while IMD distortion at 1kHz introduces subtle audio smearing. The tweeter's narrowing directivity above 6kHz also negatively affects proper soundstage imaging. These measurement results deviate significantly from the transparent level (±0.5dB) and approach problematic performance levels.
+Independent Klippel NFS measurements show generally neutral response (about **±2 dB from 80 Hz–16 kHz**) but with notable traits that affect tonality and staging: elevated energy around **4–6 kHz** makes highs sound “shouty,” and **narrowing tweeter radiation above ~6 kHz** reduces top-end “air” off-axis [2]. Discussion accompanying the same dataset and community analysis note a **cabinet/height-mode resonance around ~150 Hz** that can pull down mid-bass [2][3]. These behaviors are correctable with EQ, but as-is they depart from transparent targets.
 
 ## Technology Level
 
 $$ \Large \text{0.7} $$
 
-The Pinnacle Ring Radiator tweeter is Polk's proprietary ring radiator technology, designed to improve directional characteristics compared to conventional dome types. The Turbine Cone woofers are made of polypropylene with foam core construction, featuring a turbine shape aimed at improving rigidity and damping. The rear port system called X-Port combines closed-tube absorbers to reduce distortion. While these technologies possess certain uniqueness, they fall within standard industry levels overall, with no revolutionary innovation evident.
+Polk’s **Pinnacle** ring-radiator tweeter, **Turbine Cone** mid-bass drivers, and **X-Port** resonator scheme are solid, modern implementations rather than breakthroughs. Materials, motor topology, and enclosure engineering align with mainstream practice at this price [1].
 
 ## Cost-Performance
 
-$$ \Large \text{0.9} $$
+$$ \Large \text{0.8} $$
 
-Against the current market price of 749 USD per unit (1498 USD per pair), a superior alternative exists. The ELAC Debut 3.0 DF63, which has equivalent or better functionality and measured performance, is available for 649 USD per unit (1298 USD per pair). Detailed measurements from third-party sources like Erin's Audio Corner confirm that the 3-way DF63 shows superior performance to the R500, particularly in distortion characteristics. Calculation: `1298 USD ÷ 1498 USD = 0.87`. Rounded to the nearest tenth, the score is 0.9. Cost-performance is rated as good since superior performance can be achieved for approximately 13% less cost.
+Using the **ELAC Debut 3.0 DF63** (3-way, independently measured to outperform the R500 and even approach class-up rivals) as the benchmark, the **DF63 is 649 USD each (1,298 USD/pair)** at multiple authorized retailers and was measured by the same lab in 2025 [4][5][6][7]. The R500’s current official price is **559 USD each (1,118 USD/pair)** [1]. Because the **lowest-price equal-or-better option costs more than the R500**, value is merely fair rather than good; the score reflects that delta.
 
 ## Reliability & Support
 
 $$ \Large \text{0.6} $$
 
-Polk Audio is a veteran manufacturer founded in 1972, currently operating under Sound United (DEI Holdings). The product warranty is an industry-standard 5 years, with comprehensive support systems in North America, but support in the Japanese market is limited through D&M Holdings distribution. No major quality issues have been reported for the Reserve R500, but it doesn't possess particularly superior reliability compared to emerging manufacturers. Rated as an industry-average support structure.
+Warranty for Polk passive home speakers remains **5 years** in the U.S. [8]. Corporate ownership changed in **2025**: Polk (Sound United portfolio) moved from **Masimo** to **Harman (Samsung)** upon deal completion on **September 23, 2025** [9][10]. Support coverage remains strong in North America; availability varies by region.
 
 ## Rationality of Design Philosophy
 
 $$ \Large \text{0.7} $$
 
-Support for modern acoustic standards including Hi-Res Audio certification, Dolby Atmos, and IMAX Enhanced is rational. The 2-way design makes sense for controlling manufacturing costs while avoiding crossover design complications. The X-Port distortion reduction approach is also scientifically grounded. However, cabinet resonance issues revealed by measurements suggest insufficient verification during the design stage, resulting in a product that assumes "usable with EQ correction." As dedicated audio equipment, the rationality of the design philosophy remains questionable given that superior performance can be achieved through cheaper alternatives.
+A compact 2-way tower with wide domestic acceptance and optional height-module integration is rational. However, the measured **150 Hz resonance** and **upper-treble directivity/level** quirks imply trade-offs that need EQ to realize best results, whereas some competitors measure cleaner out-of-box at similar size.
 
 ## Advice
 
-Careful consideration is necessary for purchase given the technical issues indicated by measurement data. Without correction, natural sound reproduction cannot be expected due to the 150-160Hz dip from cabinet resonance and 4-6kHz emphasis. For home theater applications combined with AV amplifiers featuring EQ functionality, these issues might be correctable, but it's not recommended for pure audio applications. In the same price range, the ELAC Debut 3.0 DF63 offers clear advantages in both measured performance and price. If you must choose the Polk brand, consider investing in the higher-end R700 model instead.
+If you use room correction (Dirac/MultEQ/ARC, etc.), the R500 can be shaped into a neutral listen and integrates well in theater roles. For **music without EQ**, the **upper-treble emphasis** and **mid-bass dip** may be audible; audition with toe-in and placement experimentation. If you want demonstrably better measured performance and can spend ~**180 USD more per pair**, the **ELAC DF63** is the stronger technical choice [4][6].
 
-(2025.8.2)
+## References
+
+[1] Polk Audio – Reserve R500 product page & price: https://www.polkaudio.com/en-us/product/home-speakers/floor-standing/reserve-r500/300033.html  
+[2] Erin’s Audio Corner – Polk R500 Klippel NFS review (highlights incl. ±2 dB, 4–6 kHz, narrowing HF): https://erinsaudiocorner.com/loudspeakers/polk_r500/  
+[3] Audio Science Review forum thread discussing ~150 Hz resonance on R500: https://www.audiosciencereview.com/forum/index.php?threads/polk-r500-tower-speaker-measurements-and-review-by-erins-audio-corner.52380/  
+[4] Erin’s Audio Corner – ELAC Debut 3.0 DF63 Klippel NFS review (2025): https://erinsaudiocorner.com/loudspeakers/elac_df63/  
+[5] ELAC official – Debut 3.0 / DF63 family page: https://elac.com/debut-3-0  
+[6] Crutchfield – DF63 price (each): https://www.crutchfield.com/S-dDaPrN3YIlU/p_970DF63BK/ELAC-Debut-3-0-DF63-Black.html  
+[7] Music Direct – DF63 price (each): https://www.musicdirect.com/equipment/speakers/elac-debut-3-0-df63-floor-standing-speaker-black-each/  
+[8] Polk Audio – Warranty (USA, passive speakers 5 years): https://www.polkaudio.com/en-us/warranty.html  
+[9] Masimo press release – closed acquisition of Sound United (2022): https://investor.masimo.com/news/news-details/2022/Masimo-Closes-Acquisition-of-Sound-United/default.aspx  
+[10] HARMAN press release / news – **deal completed** Sept 23, 2025: https://news.harman.com/releases/harman-completes-sound-united-acquisition-to-expand-premium-audio-leadership
+
+(2025.10.6)
