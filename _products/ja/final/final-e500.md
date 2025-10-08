@@ -35,6 +35,8 @@ $$ \Large \text{0.8} $$
 英語版と同一基準（USD）で評価を統一します。E500の代表的市場価格は **24.99 USD** [3]。対抗として**Moondrop Chu II**（**19.54 USD**）は着脱式0.78 mm 2ピン、金属シェルを備え、第三者のFR/測定が充実しており、ユーザー視点で**機能・測定性能が同等以上**と判断できます [7][8][9]。  
 計算（USD基準）：**19.54 USD ÷ 24.99 USD = 0.7819 → 0.8**。
 
+注記（日本国内価格）：日本ではE500の税込価格は公式でおよそ**1,980円**、主要セール時は**1,680〜1,780円**程度まで下がる例があり、国内相場では非常に安価な部類です [10][11][12]。
+
 ## 信頼性・サポート
 
 $$ \Large \text{0.7} $$
@@ -62,6 +64,9 @@ E500はVR/ゲームや日常リスニングで癖の少ない選択肢です。�
 [7] Linsoul「Moondrop Chu II – 価格/仕様（0.78 mm 2ピン）」https://www.linsoul.com/products/moondrop-chu-ii（参照日 2025-08-23）  
 [8] Audio Science Review「Moondrop Chu II – 測定/レビュー」https://www.audiosciencereview.com/forum/index.php?threads/moondrop-chu-ii-iem-review.55179/（参照日 2025-08-23）  
 [9] Squiglink（Timmy）「Moondrop Chu 2 周波数特性」https://timmyv.squig.link/?share=Bad_Guy_Target%2CMoondrop_Chu_2（参照日 2025-08-23）
+[10] final 公式ストア「E500（国内価格）」https://final-inc.myshopify.com/products/e500-jp（参照日 2025-10-08）  
+[11] AV Watch「Amazon新生活SALEでE500が1,780円」https://av.watch.impress.co.jp/docs/news/1572901.html（参照日 2025-10-08）  
+[12] AV Watch「プライムデー先行セールでE500が1,680円」https://av.watch.impress.co.jp/docs/news/1608305.html（参照日 2025-10-08）
 
 (2025.8.23)
 

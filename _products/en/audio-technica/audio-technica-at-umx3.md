@@ -5,50 +5,59 @@ target_name: "Audio-Technica AT-UMX3"
 company_id: audio-technica
 lang: en
 ref: audio-technica-at-umx3
-date: 2025-07-20
-rating: [2.7, 0.3, 0.4, 1.0, 0.5, 0.5]
+date: 2025-10-08
+rating: [2.8, 0.3, 0.4, 1.0, 0.5, 0.6]
 price: 132
-summary: "Audio-Technica's USB audio mixer AT-UMX3 is a streaming-oriented product with 24-bit/192kHz support and USB-C connectivity. With no cheaper products offering equivalent functionality available in the market, it achieves excellent cost-performance at world-class affordable levels."
+summary: "Audio-Technica’s AT-UMX3 is a compact livestreaming USB audio mixer with 24-bit/192 kHz, loopback, +48 V phantom power and USB-C bus power. Officially stated frequency response (USB input → monitor out) is ±1.5 dB from 20 Hz to 20 kHz, while other distortion/noise metrics are not published. Its core streaming functionality matches mainstream rivals but at a substantially lower typical price."
 tags: [USB, Audio Mixer, Streaming Equipment, Audio-Technica]
 permalink: /products/en/audio-technica-at-umx3/
 ---
 
 ## Overview
 
-The Audio-Technica AT-UMX3 is a USB audio mixer released in Japan in February 2024. As the company's first USB audio mixer, it was developed primarily for live streaming and podcast production. It features high-quality AD conversion supporting 24-bit/192kHz, 48V phantom power, loopback functionality, and is housed in a compact chassis (127×131×44mm). Leveraging Audio-Technica's brand recognition and quality reputation, it aims to expand into the content creator market.
+The Audio-Technica AT-UMX3 is a USB audio mixer introduced in Japan in February 2024 at around **132 USD**. It targets livestreaming and podcast production with **24-bit/192 kHz** USB audio, **loopback**, **+48 V phantom power**, and **USB-C bus power (5 V / 500 mA)**. I/O is practical for creators: **XLR/TRS mic combo**, **Hi-Z 1/4" guitar input**, **stereo 1/4" keyboard inputs (L/MONO, R)**, **USB stereo in/out**, and a **3.5 mm headphone out**. The chassis is compact at **127 × 131 × 44 mm** and **334 g**, intended for desk-friendly setups. [1][3]
 
 ## Scientific Validity
 
 $$ \Large \text{0.3} $$
 
-While the AT-UMX3's 24-bit/192kHz AD conversion theoretically reaches transparent performance levels, actual measured performance shows limitations. According to Audio-Technica's official specifications, the frequency response for USB input monitoring output is ±1.5dB (20Hz-20kHz), which falls short of the transparency level (±0.5dB) in the measurement standard table. Detailed measurement data for THD+N, S/N ratio, and dynamic range are not publicly available, making complete evaluation of scientific validity difficult. Special shielding and electrical filters are implemented for noise reduction, but specific performance improvement measurements are not provided. The 48V phantom power and USB-C connectivity represent standard implementations.
+**Official measured frequency response (USB input → monitor output): ±1.5 dB (20 Hz–20 kHz)** under defined conditions (loopback ON, max USB input, medium monitor volume @1 kHz) [1]. This is outside a transparency-target of ±0.5 dB. No official THD+N, S/N, or dynamic-range plots are published. While the device supports **24-bit/192 kHz** conversion, the absence of comprehensive distortion/noise data limits quantitative assessment; therefore the score remains conservative.
 
 ## Technology Level
 
 $$ \Large \text{0.4} $$
 
-The AT-UMX3 is a product based on combinations of existing technologies, with no observable proprietary technological innovations. 24-bit/192kHz support is now a standard specification and lacks technical advancement. Loopback functionality and USB-C connectivity are also industry-standard implementations. While the chassis design is solid, no technical originality or industry-leading elements are confirmed. Although Audio-Technica's accumulated acoustic technology expertise is utilized, development for this product remains within the scope of off-the-shelf technologies.
+The AT-UMX3 combines established elements—24-bit/192 kHz USB audio, USB-C bus power, loopback, and phantom power—without disclosed proprietary converter topologies or novel DSP. Implementation quality appears competent, but nothing suggests category-leading innovation.
 
 ## Cost-Performance
 
 $$ \Large \text{1.0} $$
 
-Against the AT-UMX3's Japanese market price of 132 USD, investigation of competing products with equivalent functionality revealed that products offering both 24-bit/192kHz support and USB-C connectivity are extremely limited in the current market. The iConnectivity AUDIO4c (399.99 USD ≈ 373 USD) only supports up to 24-bit/96kHz, inferior to the AT-UMX3's 192kHz capability, while the Just Mixer M (price undisclosed) also supports only 24-bit/96kHz. Other cheaper products (such as D Debra Mini4) either only support USB-A connectivity or have undisclosed sampling rate specifications, making them functionally inferior. As no cheaper products with equivalent or superior functionality and specifications can currently be identified, the AT-UMX3 is effectively the world's most affordable option, resulting in a cost-performance rating of 1.0.
+**Comparison target (equal or better key functionality):** **Yamaha AG03MK2**—a mainstream streaming mixer/interface offering **24-bit/192 kHz**, **loopback**, **USB-C**, and **+48 V phantom**. The **official shop price is 199.99 USD** in the U.S. [2].  
+**AT-UMX3 price reference:** launch price **132 USD** in Japan. [3]
+
+With **matching core streaming functions** and general availability, AG03MK2 represents a fair benchmark; it is **significantly more expensive** than AT-UMX3. Within the scope of equal-function competitors verified here, AT-UMX3 achieves the top cost-performance rating.
 
 ## Reliability & Support
 
 $$ \Large \text{0.5} $$
 
-While Audio-Technica maintains certain reliability as an established acoustic manufacturer, the AT-UMX3 is the company's first USB audio mixer, with limited track record in this field. Warranty periods and support systems are standard, but information regarding driver updates and firmware support specific to USB devices is insufficient. No particularly superior support system compared to competitors is confirmed, rating at industry average level.
+Audio-Technica’s brand history supports baseline reliability. As the company’s **first** USB mixer, long-term firmware/driver cadence specific to this line isn’t yet established publicly. Warranty/support appear standard; nothing notably above the norm is confirmed.
 
 ## Rationality of Design Philosophy
 
-$$ \Large \text{0.5} $$
+$$ \Large \text{0.6} $$
 
-The AT-UMX3's design philosophy is rational in addressing streaming market demands. It incorporates specifications suitable for modern streaming environments including 24-bit/192kHz support, USB-C connectivity, compact design, and plug-and-play functionality. Given that competing products with equivalent functionality are currently limited in the market, the existence value as dedicated audio equipment is recognized to a certain degree. However, publication of more advanced measurement data and further technological innovation for differentiation are desired at this stage, preventing evaluation as completely rational. The pricing is within reasonable range considering technical specifications.
+The control layout and I/O map are aligned to streaming tasks: single-mic focus with Hi-Z and stereo line for instruments, **loopback** for program audio, and **USB-C bus power** for tidy setups. The compact 334 g body and 127 × 131 × 44 mm footprint promote portability. Publishing fuller measurement data (distortion/noise/linearity) would further validate the engineering choices, but the existing design is coherent for the intended creator workflow, warranting a slightly higher score.
 
 ## Advice
 
-Those considering purchasing the AT-UMX3 are recommended to first clarify usage requirements and budget. For high-quality streaming requiring 24-bit/192kHz support or integration with latest devices requiring USB-C connectivity, the AT-UMX3 represents the most affordable option currently available in the market with equivalent functionality. For budget-conscious users requiring only basic streaming functionality, competing products with 24-bit/96kHz support may be worth consideration, but considering future expandability and quality improvements, the significance of 192kHz support is substantial. Under current market conditions, with no cheaper alternatives offering equivalent specifications available, this product can be evaluated as providing excellent cost-performance in this field.
+If your workflow needs **24/192**, **loopback**, **USB-C bus power**, and **phantom power** in a compact desk unit at minimal cost, the AT-UMX3 is compelling. If advanced, verified low-distortion metrics are a priority, watch for third-party measurements or consider interfaces with published full test data; otherwise, this mixer covers creator-oriented essentials at a notably low typical price.
 
-(2025.7.20) 
+## References
+
+[1] Audio-Technica — AT-UMX3 Specifications (official): https://www.audio-technica.co.jp/document/AT-UMX3/en/Content/Accessory/AT-UMX3/specifications/specifications.html  
+[2] Yamaha — AG03MK2 official shop page (24/192, loopback, USB-C, price): https://shop.usa.yamaha.com/en/p/pro-audio/pro-audio-mixers/live-streaming-mixers/ag03mk2-3-channel-live-streaming-loopback-audio-usb-mixer  
+[3] Notebookcheck — Japan launch timing and **~132 USD** price: https://www.notebookcheck.net/Audio-Technica-Japan-unveils-AT-UMX3-USB-audio-mixer-for-podcasters-and-live-streamers.803347.0.html
+
+(2025.10.8)
