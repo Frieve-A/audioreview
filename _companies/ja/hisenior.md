@@ -8,7 +8,7 @@ ref: hisenior
 date: 2025-07-30
 rating: [3.4, 0.4, 0.7, 1.0, 0.6, 0.7]
 summary: "中国成都に拠点を置くカスタムIEM専門メーカー。2016年設立でプロミュージシャン向け製品に特化。カスタムIEM市場で最高の価格競争力を持つが測定性能に課題"
-tags: [Custom, Hybrid, インイヤーモニター, プロ用, 中国]
+tags: [Custom, Hybrid, インイヤーモニター, プロフェッショナル, 中国]
 permalink: /companies/ja/hisenior/
 ---
 ## 概要

@@ -9,7 +9,7 @@ date: 2025-08-20
 rating: [2.2, 0.4, 0.7, 0.1, 0.5, 0.5]
 price: 16000
 summary: "Premium 3-way floorstanding speaker with diamond tweeter. Third-party measurements show treble excess, strong port resonances, and an extremely demanding load; technology level is high but scientific validity is mixed and cost-performance is very poor versus cheaper models that deliver neutral response and an easier amplifier load."
-tags: [3-Way, Diamond Tweeter, Floorstanding, High-end, Premium]
+tags: [3-Way, Diamond Tweeter, Floorstanding speakers, High-end, Premium]
 permalink: /products/en/bowers-wilkins-804-d4/
 ---
 ## Overview

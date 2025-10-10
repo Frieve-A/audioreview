@@ -9,7 +9,7 @@ date: 2025-08-15
 rating: [2.5, 0.5, 0.4, 0.4, 0.7, 0.5]
 price: 1800
 summary: "A traditional acoustic suspension bookshelf speaker offering classic American sound with limited competitive advantages over modern alternatives."
-tags: [Acoustic Suspension, Bookshelf speakers, Passive, Two-way]
+tags: [2-Way, Acoustic Suspension, Bookshelf speakers, Passive]
 permalink: /products/en/klh-model-three/
 ---
 ## Overview

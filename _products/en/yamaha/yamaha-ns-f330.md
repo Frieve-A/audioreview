@@ -9,10 +9,9 @@ date: 2025-08-13
 rating: [2.2, 0.4, 0.4, 0.4, 0.4, 0.6]
 price: 1200
 summary: "Conventional 2-way floorstanding speaker; lacks independent measurements and is now discontinued, yielding middling scientific validity and cost-performance versus cheaper 3-way alternatives"
-tags: [Floorstanding, 2-Way, Bass-Reflex, High-Resolution]
+tags: [2-Way, Bass-Reflex, Floorstanding speakers, High-Resolution]
 permalink: /products/en/yamaha-ns-f330/
 ---
-
 ## Overview
 
 The Yamaha NS-F330 is a 2-way, 3-driver floorstanding loudspeaker with dual 5-inch PMD cone woofers and a 1-inch aluminum dome tweeter. Yamaha lists 40 Hz–45 kHz response, 89 dB/2.83 V/1 m sensitivity, 6 Ω nominal impedance, and a 3.2 kHz crossover [1]. Yamaha highlights a studio-monitor-derived waveguide for directivity control and a rounded, double-baffle cabinet to suppress standing waves [2].

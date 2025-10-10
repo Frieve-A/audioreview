@@ -9,10 +9,9 @@ date: 2025-08-23
 rating: [2.7, 0.5, 0.7, 0.5, 0.3, 0.7]
 price: 475
 summary: "Discontinued compact floorstanding speaker with a hybrid tweeter and dual 5-inch woofers. Solid engineering but limited by lack of third-party measurements and discontinued status; used-market value depends heavily on comparators."
-tags: [Floorstanding, Speakers, Discontinued, Hybrid-Tweeter, Wood-Fiber]
+tags: [Discontinued, Floorstanding speakers, Hybrid-Tweeter, Speakers, Wood-Fiber]
 permalink: /products/en/dali-ikon-5-mk2/
 ---
-
 ## Overview
 
 The Ikon 5 MK2 is a compact 2.5-way floorstander from DALI’s Ikon MK2 line, now discontinued [1]. It uses a hybrid tweeter module (28 mm soft dome + 17×45 mm ribbon) and two 5-inch wood-fibre cone woofers in a bass-reflex cabinet. With base, dimensions are 838 × 150 × 280 mm and 10.4 kg per speaker [1]. DALI’s own papers describe the MK2 updates as improving bass and overall dynamics while keeping wide dispersion up top [2][3].

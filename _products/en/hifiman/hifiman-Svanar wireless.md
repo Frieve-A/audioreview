@@ -6,15 +6,15 @@ company_id: hifiman
 lang: en
 ref: hifiman-Svanar wireless
 date: 2025-10-07
-rating: [2.9, 0.4, 0.7, 0.7, 0.6, 0.2]
+rating: [2.6, 0.4, 0.7, 0.7, 0.6, 0.2]
 price: 199
-summary: "HiFiMan's high-end wireless earphones featuring their proprietary R2R DAC. While the regular price was $499, the current official store price is $199. The technology’s objective superiority remains unclear, but the much lower prevailing price materially improves cost-performance."
+summary: "HiFiMan's high-end wireless earphones featuring their proprietary R2R DAC. While the regular price was 499 USD, the current official store price is 199 USD. The technology's objective superiority remains unclear, but the much lower prevailing price materially improves cost-performance."
 tags: [ANC, LDAC, Premium, R2R DAC, Wireless earphones]
 permalink: /products/en/hifiman-Svanar wireless/
 ---
 ## Overview
 
-The HIFIMAN Svanar wireless, named after the company's wired earphones, is a wireless model featuring a proprietary discrete R2R DAC, the "Himalaya." It also boasts a Topology Diaphragm driver and LDAC codec support. While it launched in the premium $499 tier, the **current official store price is $199** at the time of this update [1]. However, its core technology, the R2R DAC, presents numerous challenges from an audio fidelity perspective, and HIFIMAN does not disclose comparative measurements that would establish superiority over mainstream ΔΣ DAC solutions [2].
+The HIFIMAN Svanar wireless, named after the company's wired earphones, is a wireless model featuring a proprietary discrete R2R DAC, the "Himalaya." It also boasts a Topology Diaphragm driver and LDAC codec support. While it launched in the premium 499 USD tier, the **current official store price is 199 USD** at the time of this update [1]. However, its core technology, the R2R DAC, presents numerous challenges from an audio fidelity perspective, and HIFIMAN does not disclose comparative measurements that would establish superiority over mainstream ΔΣ DAC solutions [2].
 
 ## Scientific Validity
 
@@ -32,7 +32,7 @@ The driver utilizes "Topology Diaphragm" technology, and the frequency response 
 
 $$ \Large \text{0.7} $$
 
-Using the **current general selling price** of the reviewed product at **$199** from the official store [1], we compare it to the **cheapest product with equal or superior functionality** confirmed by the manufacturer: the **1MORE EVO** (LDAC, ANC, hybrid driver), officially priced at **$169.99** with current sale price often shown as **$139.99** on the brand site [3]. For cost-performance per policy, we use the **lowest generally available official price** of the comparator (to avoid bias toward the reviewed item). Taking **$139.99 ÷ $199 = 0.703**, this **rounds to 0.7**. The high-cost discrete R2R approach here still lacks measured performance advantages over ΔΣ DAC competitors; however, the substantial drop in the product’s own price materially narrows the gap and improves its value proposition compared to when it was $499.
+Using the **current general selling price** of the reviewed product at **199 USD** from the official store [1], we compare it to the **cheapest product with equal or superior functionality** confirmed by the manufacturer: the **1MORE EVO** (LDAC, ANC, hybrid driver), officially priced at **169.99 USD** with current sale price often shown as **139.99 USD** on the brand site [3]. For cost-performance per policy, we use the **lowest generally available official price** of the comparator (to avoid bias toward the reviewed item). Taking **139.99 USD ÷ 199 USD = 0.703**, this **rounds to 0.7**. The high-cost discrete R2R approach here still lacks measured performance advantages over ΔΣ DAC competitors; however, the substantial drop in the product's own price materially narrows the gap and improves its value proposition compared to when it was 499 USD.
 
 ## Reliability & Support
 
@@ -48,7 +48,7 @@ In the pursuit of High Fidelity to the source, there is no rational reason to ch
 
 ## Advice
 
-The HIFIMAN Svanar wireless is a niche product for audiophiles who find particular value in the specific technology of R2R DACs and cannot be recommended to the general consumer. With the price now **$199 on the official store** [1], it is no longer “grossly overpriced,” and its value has improved markedly versus launch. Even so, for those who prioritize objectively demonstrated fidelity, alternatives such as the **1MORE EVO** offer comparable features at a lower general price [3]. If considering a purchase, one must have an LDAC-compatible device and, more importantly, understand that the appeal here remains tied to a specific technological ideology rather than verified superiority in measurements.
+The HIFIMAN Svanar wireless is a niche product for audiophiles who find particular value in the specific technology of R2R DACs and cannot be recommended to the general consumer. With the price now **199 USD on the official store** [1], it is no longer "grossly overpriced," and its value has improved markedly versus launch. Even so, for those who prioritize objectively demonstrated fidelity, alternatives such as the **1MORE EVO** offer comparable features at a lower general price [3]. If considering a purchase, one must have an LDAC-compatible device and, more importantly, understand that the appeal here remains tied to a specific technological ideology rather than verified superiority in measurements.
 
 ## References
 

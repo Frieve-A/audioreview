@@ -9,10 +9,9 @@ date: 2025-09-18
 rating: [2.4, 0.6, 0.6, 0.2, 0.8, 0.2]
 price: 13198
 summary: "Heritage three-way horn-loaded speaker with exceptional sensitivity but significant frequency response issues"
-tags: [Speakers, Horn-loaded, Three-way, High-efficiency, Heritage]
+tags: [3-Way, Heritage, High-efficiency, Horn-loaded, Speakers]
 permalink: /products/en/klipsch-la-scala-al5/
 ---
-
 ## Overview
 
 The Klipsch La Scala AL5 is a three-way fully horn-loaded loudspeaker from the Heritage series, continuing Paul W. Klipsch's 1946 design philosophy. This large floorstanding speaker features updated drivers and crossover networks while maintaining the original horn-loaded technology for high efficiency dynamics. Priced at 13,198 USD per pair, it targets audiophiles seeking heritage design with modern refinements in substantial 201-pound packages.

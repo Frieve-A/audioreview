@@ -9,10 +9,9 @@ date: 2025-08-23
 rating: [3.0, 0.5, 0.7, 0.9, 0.3, 0.6]
 price: 900
 summary: "Discontinued slim 3-way floorstander using B&W’s FST midrange and Nautilus tube-loaded tweeter. Solid build and mid detail for the size; limited low-bass extension (±3 dB: 69 Hz) and system/room-dependent integration."
-tags: [Floorstanding, 3-Way, Discontinued, FST, Nautilus]
+tags: [3-Way, Discontinued, FST, Floorstanding speakers, Nautilus]
 permalink: /products/en/bowers-wilkins-cm8/
 ---
-
 ## Overview
 
 The Bowers & Wilkins CM8 is a compact 3-way ported floorstander that sat below CM9 in the former CM line. Original MSRP was **1,099 USD each**. It employs a 25 mm aluminum-dome tweeter in a Nautilus™ tapered tube, a 125 mm Kevlar® FST™ midrange, and dual 125 mm paper/Kevlar woofers. Manufacturer specifications list **frequency response (±3 dB) 69 Hz–22 kHz**, **sensitivity 88 dB (2.83 V/1 m)**, **nominal 8 Ω**, and crossovers at **350 Hz / 4 kHz**. The model is discontinued and now resides in the brand’s product archive. [1][2][4]

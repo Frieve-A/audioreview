@@ -9,7 +9,7 @@ date: 2025-08-15
 rating: [1.6, 0.2, 0.8, 0.0, 0.4, 0.2]
 price: 2550000
 summary: "真空管とペルチェ冷却を採用するプレミアムLDC。工作精度は極めて高い一方、測定指標と機能同等の現行LDCと比べると価格対効果は極端に低い製品です"
-tags: [Condenser, Microphone, Tube, スタジオ, プロ用]
+tags: [Condenser, Microphone, Tube, スタジオ, プロフェッショナル]
 permalink: /products/ja/sony-c-800g-9x/
 ---
 ## 概要

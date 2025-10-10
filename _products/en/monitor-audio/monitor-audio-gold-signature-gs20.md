@@ -9,10 +9,9 @@ date: 2025-08-24
 rating: [2.1, 0.7, 0.6, 0.7, 0.1, 0.0]
 price: 3000
 summary: "Discontinued floorstanding speaker with solid third-party measurements but only middling cost-performance against current towers like Polk’s R700"
-tags: [Floorstanding, 2.5-Way, RST, C-CAM, Discontinued]
+tags: [2.5-Way, C-CAM, Discontinued, Floorstanding speakers, RST]
 permalink: /products/en/monitor-audio-gold-signature-gs20/
 ---
-
 ## Overview
 
 The Monitor Audio Gold Signature GS20 is a discontinued 2.5-way floorstanding loudspeaker from the mid-2000s Gold Signature line. It uses two 6.5-inch RST (Rigid Surface Technology) C-CAM drivers (one bass, one bass-mid) and a 1-inch gold-anodized C-CAM dome tweeter with nominal crossovers around 250 Hz and 2.7 kHz in a slim reflex cabinet for full-range stereo use. [2]

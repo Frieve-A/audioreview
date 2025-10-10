@@ -9,7 +9,7 @@ date: 2025-08-16
 rating: [2.4, 0.5, 0.4, 0.7, 0.3, 0.5]
 price: 811
 summary: "Three-way, bass-reflex floorstander with A-PMD cones and an aluminum dome tweeter; discontinued model"
-tags: [Discontinued, Floorstanding speakers, Three-way, Yamaha]
+tags: [3-Way, Discontinued, Floorstanding speakers, Yamaha]
 permalink: /products/en/yamaha-ns-f700/
 ---
 ## Overview

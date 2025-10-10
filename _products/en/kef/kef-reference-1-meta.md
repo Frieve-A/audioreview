@@ -9,7 +9,7 @@ date: 2025-08-15
 rating: [3.5, 0.8, 0.7, 0.5, 0.8, 0.7]
 price: 9999.98
 summary: "Three-way standmount with 12th-gen Uni-Q and MAT; objectively neutral with refined directivity; expensive versus studio monitors delivering equal or better measured performance"
-tags: [Bookshelf speakers, Coaxial, High-end, Metamaterial, Three-Way]
+tags: [3-Way, Bookshelf speakers, Coaxial, High-end, Metamaterial]
 permalink: /products/en/kef-reference-1-meta/
 ---
 ## Overview

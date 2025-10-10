@@ -9,10 +9,9 @@ date: 2025-08-18
 rating: [3.3, 0.6, 0.6, 0.7, 0.7, 0.7]
 price: 1500
 summary: "Entry-level floorstander with SMC magnet tech and solid catalog specs; independent lab data remains limited; faces strong value competition."
-tags: [Floorstanding, Two-way, Bass-reflex, SMC Technology]
+tags: [2-Way, Bass-reflex, Floorstanding speakers, SMC Technology]
 permalink: /products/en/dali-oberon-5/
 ---
-
 ## Overview
 
 The DALI Oberon 5 is a compact two-way, bass-reflex floorstanding speaker (dual 5.25-inch mid/bass, 29 mm soft-dome tweeter) positioned as an entry into DALI’s lineup that incorporates their SMC (Soft Magnetic Composite) motor parts. The design targets wide dispersion and low loss behaviour for natural reproduction in small to mid-size rooms. Key catalog specs include 39 Hz–26 kHz (±3 dB) frequency range, 88 dB sensitivity (2.83 V/1 m), 6 Ω nominal impedance, and a 2.4 kHz crossover. [1]

@@ -9,10 +9,9 @@ date: 2025-08-16
 rating: [3.2, 0.5, 0.6, 0.9, 0.6, 0.6]
 price: 710
 summary: "A solid, conventional 3-way floorstander. The lack of independent measurements keeps scientific validity conservative; features and build are competent for the price."
-tags: [Tower Speakers, Floorstanding, 3-Way, Home Theater, Yamaha]
+tags: [3-Way, Floorstanding speakers, Home Theater, Tower Speakers, Yamaha]
 permalink: /products/en/yamaha-ns-f350/
 ---
-
 ## Overview
 The NS-F350 is a 3-way, bass-reflex floorstander with dual 6.5-inch woofers, a 5-inch midrange, and a 1-inch aluminum dome tweeter. It crosses at 1.4/3.8kHz, measures 220×1,157×339mm, and weighs 25.9kg per unit. Japan MSRP is 55,000円 per unit [1][2].
 

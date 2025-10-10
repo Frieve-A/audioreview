@@ -9,10 +9,9 @@ date: 2025-08-28
 rating: [3.6, 0.7, 0.9, 0.3, 0.9, 0.8]
 price: 19995
 summary: "Premium Swiss floorstanding speaker featuring the C112+ coaxial ribbon and an aluminum cabinet with TIM2 bracing, using dual woofers plus three passive radiators; coherent directivity with benign impedance and verified sensitivity data"
-tags: [Floorstanding, Coaxial, Ribbon, Switzerland, Premium]
+tags: [Coaxial, Floorstanding speakers, Premium, Ribbon, Switzerland]
 permalink: /products/en/piega-coax-611/
 ---
-
 ## Overview
 
 The Piega Coax 611 applies the brand’s ribbon expertise to a slim, aluminum floorstander. It combines the latest C112+ coaxial ribbon (GEN2) with two 160 mm UHQD woofers and three 160 mm passive radiators in an extruded aluminum cabinet reinforced by TIM2 bracing (117 × 21 × 31 cm; 45 kg) [1]. Piega hand-builds its speakers in Horgen, Switzerland. The GEN2 coax covers from ~450 Hz with an internal mid–tweeter crossover around 3.5 kHz [2].

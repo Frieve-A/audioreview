@@ -9,7 +9,7 @@ date: 2025-08-20
 rating: [2.9, 0.7, 0.5, 0.8, 0.5, 0.4]
 price: 415
 summary: "Two-way bookshelf speaker with Kevlar driver and aluminum tweeter, offering competent performance and reasonable value in the current used market"
-tags: [Bookshelf speakers, Discontinued, Passive speakers, Two-way]
+tags: [2-Way, Bookshelf speakers, Discontinued, Passive speakers]
 permalink: /products/en/bowers-wilkins-685-s2/
 ---
 ## Overview

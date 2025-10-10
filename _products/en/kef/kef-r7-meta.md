@@ -9,10 +9,9 @@ date: 2025-07-18
 rating: [4.2, 0.9, 0.9, 1.0, 0.6, 0.8]
 price: 3815
 summary: "A 3-way floorstanding speaker with industry-leading fidelity, powered by the 12th generation Uni-Q with MAT. It delivers exceptionally high measurement performance that justifies its price."
-tags: [KEF, Speakers, Floorstanding, MAT, Uni-Q, 3-Way]
+tags: [3-Way, Floorstanding speakers, KEF, MAT, Speakers, Uni-Q]
 permalink: /products/en/kef-r7-meta/
 ---
-
 ## Overview
 
 The KEF R7 Meta is a 3-way floorstanding speaker developed by the venerable British speaker manufacturer KEF. This model is positioned as the 12th generation, featuring the company's signature Uni-Q driver array combined with the newly developed MAT (Metamaterial Absorption Technology). The configuration employs a coaxial arrangement of a 25mm aluminum dome tweeter with a 125mm aluminum cone midrange driver, paired with two 165mm bass drivers.

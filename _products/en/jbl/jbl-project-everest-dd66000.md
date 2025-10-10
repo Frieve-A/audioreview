@@ -9,7 +9,7 @@ date: 2025-08-27
 rating: [2.1, 0.6, 0.7, 0.1, 0.4, 0.3]
 price: 65000
 summary: "Former flagship dual-15-inch horn system using beryllium compression drivers and battery-biased (“charge-coupled”) passive networks. Tremendous headroom and controlled directivity, but extremely poor cost-performance versus cheaper designs that match or exceed measured capability."
-tags: [Floorstanding, High-end, Horn, JBL, Speakers]
+tags: [Floorstanding speakers, High-end, Horn, JBL, Speakers]
 permalink: /products/en/jbl-project-everest-dd66000/
 ---
 ## Overview

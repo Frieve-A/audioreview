@@ -9,7 +9,7 @@ date: 2025-08-07
 rating: [3.0, 0.7, 0.8, 0.2, 0.8, 0.5]
 price: 68000
 summary: "YG Acoustics' flagship 3-way speaker Hailey 3 excels in precision aluminum machining and phase characteristics, but at 68,000 USD, equivalent performance can be achieved at significantly lower cost through alternative options"
-tags: [3-Way, Aluminum, Floorstanding, High-end, Speakers]
+tags: [3-Way, Aluminum, Floorstanding speakers, High-end, Speakers]
 permalink: /products/en/yg-acoustics-hailey-3/
 ---
 ## Overview

@@ -8,7 +8,7 @@ ref: soundcraft
 date: 2025-08-25
 rating: [3.7, 0.7, 0.8, 0.9, 0.7, 0.6]
 summary: "1973年設立の英国プロ用ミキシングコンソールメーカー、現在はHARMANが所有。コンパクトなUiシリーズから本格的なViシリーズまで幅広いミキサーラインナップを展開。堅実なアナログ伝統を持つが、デジタル競合との激しい競争に直面。"
-tags: [Analog, Audio, Console, Digital, Live, Mixer, プロ用, 録音]
+tags: [Analog, Audio, Console, Digital, Live, Mixer, プロフェッショナル, 録音]
 permalink: /companies/ja/soundcraft/
 ---
 ## 概要

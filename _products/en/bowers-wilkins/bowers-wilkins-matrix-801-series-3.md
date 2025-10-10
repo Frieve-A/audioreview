@@ -9,7 +9,7 @@ date: 2025-08-20
 rating: [2.9, 0.6, 0.7, 0.6, 0.5, 0.5]
 price: 1800
 summary: "A vintage flagship with robust Matrix bracing and serious output capability. By today’s measurement standards it stops short of fully transparent, but measured modern towers exist that match or beat it at far lower prices—yielding moderate cost-performance at the representative USD 1,800 used price."
-tags: [3-Way, Floorstanding, Matrix Technology, Studio monitors, Vintage]
+tags: [3-Way, Floorstanding speakers, Matrix Technology, Studio monitors, Vintage]
 permalink: /products/en/bowers-wilkins-matrix-801-series-3/
 ---
 ## Overview

@@ -9,10 +9,9 @@ date: 2025-09-06
 rating: [3.9, 0.5, 0.9, 0.8, 0.9, 0.8]
 price: 17900
 summary: "Flagship three-way floorstanding speaker featuring advanced MPD III AMT tweeter and RDT III driver technology with competitive cost-performance positioning within the premium segment."
-tags: [Floorstanding, AMT, Three-way, Premium, Flagship]
+tags: [3-Way, AMT, Flagship, Floorstanding speakers, Premium]
 permalink: /products/en/monitor-audio-pl300-3g/
 ---
-
 ## Overview
 
 The Monitor Audio Platinum 300 3G represents the flagship of Monitor Audio's Platinum series, featuring the company's most advanced driver technologies. This three-way floorstanding speaker incorporates the third-generation Micro Pleated Diaphragm (MPD III) Air Motion Transformer tweeter, 4-inch RDT III midrange driver, and dual 8-inch RDT III bass drivers. The speaker demonstrates Monitor Audio's 50+ years of engineering expertise with proprietary technologies developed for their ground-breaking prototypes, offering extended frequency response to 60kHz and sophisticated cabinet construction with 16-layer lacquer finish.

@@ -9,10 +9,9 @@ date: 2025-08-24
 rating: [3.5, 0.5, 0.7, 1.0, 0.5, 0.8]
 price: 825
 summary: "Discontinued floorstanding speaker with D'Appolito configuration; sound design is sensible but third-party measurements are scarce"
-tags: [Floorstanding, Speakers, Discontinued, D'Appolito, Multi-fibre]
+tags: [D'Appolito, Discontinued, Floorstanding speakers, Multi-fibre, Speakers]
 permalink: /products/en/fyne-audio-f303/
 ---
-
 ## Overview
 
 The Fyne Audio F303 is a discontinued 2-way floorstanding loudspeaker in a D’Appolito layout (two 150 mm multi-fibre mid/bass drivers around a 25 mm polyester-dome tweeter). It uses Fyne’s FyneFlute surround geometry on the woofers and a tweeter assembly reported to employ a neodymium magnet with a phase-compensator disc behind the protective mesh. The F303 sat below the current F303i successor and is listed under “Discontinued” on Fyne’s site. [1][3][8][2]

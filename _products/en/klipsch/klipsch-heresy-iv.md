@@ -9,10 +9,9 @@ date: 2025-09-18
 rating: [2.4, 0.3, 0.4, 0.6, 0.8, 0.3]
 price: 3198
 summary: "High-sensitivity horn-loaded floorstanding speaker with significant frequency response deviations and premium pricing that lacks measurement-based justification."
-tags: [Speakers, Floorstanding, Horn-loaded, Heritage, High-sensitivity]
+tags: [Floorstanding speakers, Heritage, High-sensitivity, Horn-loaded, Speakers]
 permalink: /products/en/klipsch-heresy-iv/
 ---
-
 ## Overview
 
 The Klipsch Heresy IV represents the fourth generation of the iconic Heresy design, first introduced in 1957 as a compact center channel speaker. This heritage floorstanding speaker features an all-new K-107-TI titanium diaphragm compression driver, K-702 polyimide compression driver, and K-28-E 12-inch fiber-composite woofer. For the first time in the Heresy lineage, the IV includes a rear port design utilizing Tractrix geometry, improving low-frequency extension by approximately 10Hz compared to its sealed predecessor. Built in Hope, Arkansas using book-matched wood veneer and traditional craftsmanship methods.

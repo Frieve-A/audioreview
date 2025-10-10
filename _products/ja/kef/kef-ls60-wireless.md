@@ -9,7 +9,7 @@ date: 2025-07-18
 rating: [3.3, 0.8, 0.9, 0.6, 0.6, 0.4]
 price: 792000
 summary: "KEF LS60 Wirelessは、革新的な技術と優れた音響性能をスリムな筐体に凝縮したワイヤレスフロアスタンディングスピーカーですが、コストパフォーマンスと設計思想には注意点があります。"
-tags: [KEF, LS60, Meta, UniCore, アクティブスピーカー, フロアスタンディング, ワイヤレス]
+tags: [KEF, LS60, Meta, UniCore, アクティブスピーカー, フロアスタンディングスピーカー, ワイヤレス]
 permalink: /products/ja/kef-ls60-wireless/
 ---
 ## 概要

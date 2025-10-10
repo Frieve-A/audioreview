@@ -8,7 +8,7 @@ ref: alcons-audio
 date: 2025-08-13
 rating: [2.3, 0.5, 0.8, 0.1, 0.6, 0.3]
 summary: "シネマ、設備、ツアー用途向けの独自プロリボン技術を専門とするオランダのプロ音響メーカーで、ホーム音響への関連性は限定的"
-tags: [Netherlands, Pro Audio, Professional Equipment, アクティブスピーカー, スピーカー, プロ用, リボン型]
+tags: [Netherlands, Pro Audio, Professional Equipment, アクティブスピーカー, スピーカー, プロフェッショナル, リボン型]
 permalink: /companies/ja/alcons-audio/
 ---
 ## 概要

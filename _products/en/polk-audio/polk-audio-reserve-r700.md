@@ -9,10 +9,9 @@ date: 2025-07-18
 rating: [4.0, 0.7, 0.8, 1.0, 0.8, 0.7]
 price: 2298
 summary: "The Polk Audio Reserve R700 is a tower speaker that delivers class-leading measurement performance at an extremely competitive price. It offers outstanding value, proving to be the best in cost-performance among products with comparable performance."
-tags: [Tower Speaker, 3-Way, Hi-Res, Polk Audio, Floorstanding]
+tags: [3-Way, Floorstanding speakers, Hi-Res, Polk Audio, Tower Speaker]
 permalink: /products/en/polk-audio-reserve-r700/
 ---
-
 ## Overview
 
 The Polk Audio Reserve R700 is a 3-way tower speaker featuring a 1-inch Pinnacle Ring Radiator tweeter, 6.5-inch Turbine Cone midrange, and dual 8-inch long-throw woofers. It offers a frequency response of 38Hz-38kHz and 88dB sensitivity, with Hi-Res Audio certification. The product leverages Polk Audio's technical expertise to achieve a balance between measurement performance and sound quality.

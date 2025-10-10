@@ -9,7 +9,7 @@ date: 2025-08-14
 rating: [2.6, 0.5, 0.3, 0.5, 0.7, 0.6]
 price: 29100
 summary: "15Aサーキットブレーカー、極性チェッカー、サージ／ラインノイズフィルターを備える1Uラック電源分配器。出力は合計13口（リア10口スイッチ連動、フロント3口常時）。高度な制御やレギュレーションは非搭載。"
-tags: [Audio Accessories, Power conditioning, Rack mount, プロ用, 日本]
+tags: [Audio Accessories, Power conditioning, Rack mount, プロフェッショナル, 日本]
 permalink: /products/ja/tascam-av-p250/
 ---
 ## 概要

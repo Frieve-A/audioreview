@@ -8,7 +8,7 @@ ref: ams-neve
 date: 2025-08-09
 rating: [2.4, 0.5, 0.7, 0.2, 0.8, 0.2]
 summary: "AMS Neveは60年以上の歴史を持つ英国のオーディオ機器メーカーで、1073プリアンプや大型コンソールで業界標準を築いている。測定性能は透明レベルに達しない一方で、独自のMarinair変圧器技術により高い技術レベルを維持している。"
-tags: [Console, Vintage, プリアンプ, プロ用, ミキシング]
+tags: [Console, Vintage, プリアンプ, プロフェッショナル, ミキシング]
 permalink: /companies/ja/ams-neve/
 ---
 ## 概要

@@ -9,7 +9,7 @@ date: 2025-09-12
 rating: [2.1, 0.5, 0.7, 0.1, 0.6, 0.2]
 price: 225000
 summary: "Limited-edition flagship loudspeaker featuring super-formed aluminum construction and advanced Uni-Q technology, but extreme pricing undermines value proposition."
-tags: [Aluminum, Floorstanding, Luxury, Speakers, Uni-Q]
+tags: [Aluminum, Floorstanding speakers, Luxury, Speakers, Uni-Q]
 permalink: /products/en/kef-muon/
 ---
 ## Overview

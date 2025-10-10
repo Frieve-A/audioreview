@@ -9,7 +9,7 @@ date: 2025-08-13
 rating: [2.3, 0.5, 0.5, 0.4, 0.5, 0.4]
 price: 550
 summary: "JBL Stage 260F is a 2.5-way floorstanding speaker with dual 6.5-inch woofers and HDI waveguide technology, offering modest performance at a premium price point."
-tags: [Floorstanding, HDI, Home-Audio, JBL, Speakers, Stage]
+tags: [Floorstanding speakers, HDI, Home-Audio, JBL, Speakers, Stage]
 permalink: /products/en/jbl-stage-260f/
 ---
 ## Overview

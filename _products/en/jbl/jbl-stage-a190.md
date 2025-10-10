@@ -9,10 +9,9 @@ date: 2025-08-13
 rating: [2.8, 0.5, 0.6, 0.6, 0.6, 0.5]
 price: 500
 summary: "2.5-way tower speaker with HDI waveguide and dual 8-inch woofers; moderate performance with above-basic engineering"
-tags: [Tower Speakers, Floorstanding, HDI, Aluminum Tweeter, Dual 8-inch]
+tags: [Aluminum Tweeter, Dual 8-inch, Floorstanding speakers, HDI, Tower Speakers]
 permalink: /products/en/jbl-stage-a190/
 ---
-
 ## Overview
 
 The JBL Stage A190 is a 2.5-way floorstanding loudspeaker featuring dual 8-inch polycellulose woofers and JBL's High-Definition Imaging (HDI) waveguide technology. Positioned as JBL's flagship tower in the Stage series, the A190 incorporates a 1-inch aluminum dome tweeter with crossover points at 1.4kHz and 2.0kHz. As of 2025, the official list price on JBL.com is 499.95 USD per speaker (often shown as sold out) [1].

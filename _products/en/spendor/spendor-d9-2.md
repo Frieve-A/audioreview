@@ -9,7 +9,7 @@ date: 2025-08-20
 rating: [2.6, 0.5, 0.7, 0.2, 0.6, 0.6]
 price: 14998
 summary: "British-made 3-way floorstanding speaker with 27Hz–25kHz range and 90dB sensitivity; refined engineering and finish, but cost-performance is weak against objectively strong, lower-priced competitors"
-tags: [3-Way, Floorstanding, Premium, Speakers, United Kingdom]
+tags: [3-Way, Floorstanding speakers, Premium, Speakers, United Kingdom]
 permalink: /products/en/spendor-d9-2/
 ---
 ## Overview

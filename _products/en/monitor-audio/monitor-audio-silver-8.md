@@ -9,10 +9,9 @@ date: 2025-08-24
 rating: [2.3, 0.6, 0.4, 0.8, 0.2, 0.3]
 price: 1000
 summary: "A discontinued 2015 three-way floorstander with solid third-party measurements; compelling used buy around 1000 USD/pair but beaten on price by modern budget towers with comparable data"
-tags: [Floorstanding, Three-Way, C-CAM, Discontinued]
+tags: [3-Way, C-CAM, Discontinued, Floorstanding speakers]
 permalink: /products/en/monitor-audio-silver-8/
 ---
-
 ## Overview
 
 The Monitor Audio Silver 8 is a three-way floorstanding speaker from the 5th-generation Silver series (2014–2015). US retail was just under 2000 USD/pair. It uses C-CAM (ceramic-coated aluminum-magnesium) drivers—dual 6" woofers, 4" midrange, and a 1" dome tweeter. Production has ended; used-market pricing typically ranges ~800–1350 USD/pair depending on finish and condition.

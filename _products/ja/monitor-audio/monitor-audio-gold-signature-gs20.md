@@ -9,10 +9,9 @@ date: 2025-08-24
 rating: [2.1, 0.7, 0.6, 0.7, 0.1, 0.0]
 price: 450000
 summary: "生産終了のフロア型。第三者測定は良好ですが、現行の計測公開タワー（例：Polk R700 2,198 USD/ペア）と比べるとコストパフォーマンスは中程度に留まります"
-tags: [フロア型, 2.5ウェイ, RST, C-CAM, 生産終了]
+tags: [2.5ウェイ, C-CAM, RST, フロアスタンディングスピーカー, 生産終了]
 permalink: /products/ja/monitor-audio-gold-signature-gs20/
 ---
-
 ## 概要
 
 Monitor Audio Gold Signature GS20は2000年代中期のGold Signatureシリーズに属する**2.5ウェイ**・フロア型スピーカーです。6.5インチのRST（Rigid Surface Technology）C-CAMドライバー2基（ウーファー＋バス／ミッド）と1インチC-CAMドームツイーターを搭載し、約250 Hz／2.7 kHzのクロスで動作するスリムなバスレフ設計です。[2]

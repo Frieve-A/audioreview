@@ -9,10 +9,9 @@ date: 2025-07-18
 rating: [4.0, 0.7, 0.8, 1.0, 0.8, 0.7]
 price: 330000
 summary: "Polk Audio Reserve R700は、クラス最高レベルの測定性能を、極めて競争力のある価格で実現したタワースピーカーです。同等の性能を持つ製品の中では最もコストパフォーマンスに優れ、卓越した価値を提供します。"
-tags: [タワースピーカー, 3ウェイ, ハイレゾ, Polk Audio, フロアスタンディング]
+tags: [3ウェイ, Polk Audio, タワースピーカー, ハイレゾ, フロアスタンディングスピーカー]
 permalink: /products/ja/polk-audio-reserve-r700/
 ---
-
 ## 概要
 
 Polk Audio Reserve R700は、1インチPinnacle Ring Radiatorツイーター、6.5インチTurbine Coneミッドレンジ、デュアル8インチロングスロー・ウーファーを搭載した3ウェイタワースピーカーです。38Hz～38kHzの周波数特性と88dBの感度を持ち、Hi-Resオーディオ認証を取得しています。Polk Audioの技術的な蓄積を活用し、測定性能と音質の両立を図った製品として位置づけられています。

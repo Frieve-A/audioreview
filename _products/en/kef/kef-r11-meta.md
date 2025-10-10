@@ -9,7 +9,7 @@ date: 2025-07-29
 rating: [4.2, 0.8, 0.8, 1.0, 0.8, 0.8]
 price: 6967
 summary: "Flagship tower speaker featuring 12th generation Uni-Q + MAT technology. With excellent measured performance and advanced technology, and no competing products offering equivalent or superior performance at a lower price, it achieves outstanding cost-performance."
-tags: [3-Way, Floorstanding, KEF, MAT, Uni-Q]
+tags: [3-Way, Floorstanding speakers, KEF, MAT, Uni-Q]
 permalink: /products/en/kef-r11-meta/
 ---
 ## Overview

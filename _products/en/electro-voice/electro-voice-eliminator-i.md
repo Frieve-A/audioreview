@@ -9,7 +9,7 @@ date: 2025-08-23
 rating: [2.5, 0.5, 0.4, 0.5, 0.6, 0.5]
 price: 899
 summary: "The Eliminator i is a 15-inch two-way passive PA loudspeaker with Ring-Mode Decoupling (RMD), rated 350 W long-term, 99 dB sensitivity, and 60°×40° horn coverage."
-tags: [Live Sound, PA, Professional, Speakers, Two-Way]
+tags: [2-Way, Live Sound, PA, Professional, Speakers]
 permalink: /products/en/electro-voice-eliminator-i/
 ---
 ## Overview

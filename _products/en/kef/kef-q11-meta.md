@@ -9,7 +9,7 @@ date: 2025-08-11
 rating: [3.8, 0.7, 0.6, 1.0, 0.7, 0.8]
 price: 2200
 summary: "KEF's flagship Q-series floorstanding speaker implements 12th‑gen Uni‑Q with MAT and delivers solid, well‑controlled measured behavior and strong value where no cheaper equal‑or‑better option is verifiably available."
-tags: [3-Way, Floorstanding, KEF, Meta-material, Speakers, Uni-Q]
+tags: [3-Way, Floorstanding speakers, KEF, Meta-material, Speakers, Uni-Q]
 permalink: /products/en/kef-q11-meta/
 ---
 ## Overview

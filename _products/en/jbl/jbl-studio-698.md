@@ -9,10 +9,9 @@ date: 2025-08-27
 rating: [3.5, 0.6, 0.6, 1.0, 0.7, 0.6]
 price: 1998
 summary: "3-way tower speaker with HDI horn technology and dual 8-inch woofers; objectively good output and largely neutral dispersion with a mild upper-treble dip and an ~80 Hz mid-bass rise"
-tags: [Tower-Speaker, 3-Way, Compression-Driver, HDI, Floorstanding]
+tags: [3-Way, Compression-Driver, Floorstanding speakers, HDI, Tower-Speaker]
 permalink: /products/en/jbl-studio-698/
 ---
-
 ## Overview
 
 The JBL Studio 698 is a 3-way floorstanding loudspeaker featuring JBL’s High Definition Imaging (HDI) waveguide with a 1-inch compression driver (2414H-1), a 6-inch PolyPlas midrange and dual 8-inch PolyPlas woofers in a rear-ported enclosure. Key specs: 36 Hz–40 kHz bandwidth, 90 dB sensitivity (2.83 V/1 m), and 6 Ω nominal impedance. [6]

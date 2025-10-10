@@ -9,10 +9,9 @@ date: 2025-08-23
 rating: [2.5, 0.5, 0.6, 0.7, 0.3, 0.4]
 price: 1150
 summary: "Discontinued floorstanding speakers with average measured specs; independent data shows cheaper current towers (e.g., JBL Stage A180) can meet or exceed core measurements, weakening cost-performance"
-tags: [Floorstanding, Speakers, Discontinued, Kevlar, Aluminum]
+tags: [Aluminum, Discontinued, Floorstanding speakers, Kevlar, Speakers]
 permalink: /products/en/bowers-wilkins-684-s2/
 ---
-
 ## Overview
 
 The Bowers & Wilkins 684 S2 was a slim two-way floorstanding model in the 600 S2 line, launched in 2014 and now discontinued/archived by the manufacturer [3][1]. It used dual 130 mm woven-Kevlar bass/mid drivers and a 25 mm Decoupled Double Dome aluminum tweeter in a bass-reflex cabinet with Flowport [1]. The launch price was 1,150 USD per pair [2], and the model has been superseded by newer 600-series generations [4].

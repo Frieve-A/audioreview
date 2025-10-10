@@ -9,10 +9,9 @@ date: 2025-08-24
 rating: [2.5, 0.6, 0.5, 0.5, 0.7, 0.2]
 price: 2995
 summary: "Linn Majik 140 is a four-way floorstanding speaker; third-party measurements reveal notable response and impedance issues, and cheaper floorstanders with equal-or-better measured performance exist—hurting its cost-performance."
-tags: [Linn, Floorstanding, Speakers, Four-way, Passive]
+tags: [Floorstanding speakers, Four-way, Linn, Passive, Speakers]
 permalink: /products/en/linn-majik-140/
 ---
-
 ## Overview
 
 The Linn Majik 140 is a four-way, ported floorstanding loudspeaker featuring a 0.75" fabric-dome supertweeter, 1.17" polyurethane elastomer-dome tweeter, and dual 6.5" drivers in separate enclosures. Introduced at 2,995 USD per pair, it represents Linn's mid-tier offering with the company's 2K tweeter-supertweeter array technology. The speaker can be configured for single-, bi-, tri-, or quad-wiring/amping configurations.

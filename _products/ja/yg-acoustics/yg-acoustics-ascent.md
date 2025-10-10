@@ -9,10 +9,9 @@ date: 2025-08-29
 rating: [3.1, 0.6, 0.9, 0.4, 0.7, 0.5]
 price: 4290000
 summary: "独自BilletCore／ForgeCore技術を採用する3ウェイ・フロア型。公称26Hz–40kHz/90dB/平均4オームの仕様と高い製造精度は魅力だが、第三者測定が乏しく、CPは同等性能の低価格製品に劣ります。"
-tags: [フロア型, 3ウェイ, パッシブ, プレミアム, アルミニウム, BilletCore, ForgeCore]
+tags: [3ウェイ, BilletCore, ForgeCore, アルミニウム, パッシブ, フロアスタンディングスピーカー, プレミアム]
 permalink: /products/ja/yg-acoustics-ascent/
 ---
-
 ## 概要
 
 YG Acoustics Ascentは、Peaksシリーズに属する3ウェイのフロアスタンディングスピーカーです。ForgeCoreツイーター、7.25インチBilletCoreミッド、8.75インチBilletCoreウーファーを搭載し、寸法は101.5×27×45cm、重量は各54kgです。メーカー公表の基本仕様は周波数応答26Hz–40kHz、感度90dB、インピーダンス平均4オーム（最小2.5オーム）です [1]。同社は米国デンバーと英国ケンブリッジの二拠点体制で設計・製造を行っています [2]。

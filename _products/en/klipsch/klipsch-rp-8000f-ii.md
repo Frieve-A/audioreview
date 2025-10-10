@@ -9,10 +9,9 @@ date: 2025-08-24
 rating: [3.2, 0.6, 0.6, 0.7, 0.7, 0.6]
 price: 799
 summary: "Horn-loaded floorstanding speaker with improved directivity and good value when judged against broader market options"
-tags: [Floorstanding, Horn, Tractrix, Klipsch]
+tags: [Floorstanding speakers, Horn, Klipsch, Tractrix]
 permalink: /products/en/klipsch-rp-8000f-ii/
 ---
-
 ## Overview
 
 The Klipsch RP-8000F-II is the flagship floorstanding speaker in Klipsch's Reference Premiere series, featuring the company’s horn-loaded 90°×90° Tractrix waveguide, a 1" titanium LTS tweeter, and dual 8" Cerametallic woofers in a 2.5-way layout. The II generation adds cabinet bracing and dual internal chambers (one per woofer) with separate rear Tractrix ports, improving resonance control and reducing inter-modulation between woofers. Sensitivity is specified at 98 dB (2.83 V/1 m, half-space), and the rated frequency response is 35 Hz–25 kHz (±3 dB). [5]

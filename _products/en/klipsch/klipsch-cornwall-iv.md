@@ -9,10 +9,9 @@ date: 2025-09-18
 rating: [2.5, 0.5, 0.5, 0.3, 0.9, 0.3]
 price: 7299
 summary: "Three-way horn-loaded floorstander. High sensitivity and long warranty, while independent measurement data and modern integration are limited"
-tags: [Floorstanding, Horn-loaded, Three-way, High-efficiency, Heritage]
+tags: [3-Way, Floorstanding speakers, Heritage, High-efficiency, Horn-loaded]
 permalink: /products/en/klipsch-cornwall-iv/
 ---
-
 ## Overview
 
 The Klipsch Cornwall IV is a three-way horn-loaded floorstanding loudspeaker in the Heritage series. It employs a K-107-TI titanium HF driver, a K-702 polyimide midrange driver with Tractrix horn, and a 15-inch woofer. Claimed specs include 32 Hz–20 kHz (±4 dB) frequency response, 102 dB sensitivity @2.83V/1m, 119 dB max SPL, and 8-ohm nominal impedance [1]. It is manufactured in Hope, Arkansas with wood veneer finishes (American Walnut, Satin Black Ash, Natural Cherry) [1]. The IV generation updates the network and mid horn (Mumps), maintaining the heritage architecture while refining implementation [1][2].

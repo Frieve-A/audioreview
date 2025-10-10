@@ -8,10 +8,9 @@ ref: agasound
 date: 2025-09-17
 rating: [2.1, 0.5, 0.4, 0.4, 0.4, 0.4]
 summary: "Chinese audio company focusing on budget IEMs with dual magnetic driver technology, but lacks competitive pricing and measurement transparency"
-tags: [Chinese Audio, IEM, Budget Audio, Dual Magnetic Driver]
+tags: [Budget Audio, China, Dual Magnetic Driver, In-ear monitors]
 permalink: /companies/en/agasound/
 ---
-
 ## Overview
 
 $$ \Large \text{2.1} $$

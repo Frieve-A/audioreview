@@ -8,7 +8,7 @@ ref: aune-audio
 date: 2025-08-15
 rating: [3.4, 0.7, 0.6, 0.4, 0.8, 0.9]
 summary: "中国のオーディオ企業で、DAC/アンプにおいて安定した測定性能を提供し、ヘッドフォンでは革新的なMLDドライバー技術を展開しているが、既存の競合他社に対してコストパフォーマンスの課題が残る。"
-tags: [DAC, ESS Sabre, MLDドライバー, アンプ, ヘッドホン, 中国オーディオ]
+tags: [DAC, ESS Sabre, MLDドライバー, アンプ, ヘッドホン, 中国]
 permalink: /companies/ja/aune-audio/
 ---
 ## 概要

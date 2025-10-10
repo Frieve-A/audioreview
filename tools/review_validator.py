@@ -1323,21 +1323,35 @@ class ReviewValidator:
 
         return "\n".join(report)
     
+    def _safe_print(self, text: str) -> None:
+        """Safely print text with Unicode encoding handling"""
+        try:
+            print(text)
+        except UnicodeEncodeError:
+            # Handle Unicode encoding issues on Windows
+            import sys
+            if hasattr(sys.stdout, 'reconfigure'):
+                sys.stdout.reconfigure(encoding='utf-8')
+                print(text)
+            else:
+                # Fallback for older Python versions
+                print(text.encode('utf-8', errors='replace').decode('utf-8'))
+
     def print_report(self) -> None:
         """Print report to console"""
         report_content = self.generate_report()
-        print("\n" + "="*60)
-        print(report_content)
-        print("="*60)
+        self._safe_print("\n" + "="*60)
+        self._safe_print(report_content)
+        self._safe_print("="*60)
         
         # 問題の種類ごとの合計数を表示
         self._print_issue_summary()
     
     def _print_issue_summary(self) -> None:
         """Display issue summary by category with file counts"""
-        print("\n" + "="*60)
-        print("Issue Summary by Category")
-        print("="*60)
+        self._safe_print("\n" + "="*60)
+        self._safe_print("Issue Summary by Category")
+        self._safe_print("="*60)
         
         # 問題の種類を分類
         issue_categories = {}
@@ -1388,19 +1402,19 @@ class ReviewValidator:
             for category, data in sorted_categories:
                 if data["count"] >= 1:
                     file_count = len(data["files"])
-                    print(f"{category}: {data['count']} issues in {file_count} file(s)")
+                    self._safe_print(f"{category}: {data['count']} issues in {file_count} file(s)")
         else:
-            print("No issues found.")
+            self._safe_print("No issues found.")
         
         # 総合統計
         total_files_with_issues = len(files_with_issues)
         total_issues = sum(data["count"] for data in issue_categories.values())
         
-        print(f"\nSummary:")
-        print(f"- Total files with issues: {total_files_with_issues}")
-        print(f"- Total issues detected: {total_issues}")
+        self._safe_print(f"\nSummary:")
+        self._safe_print(f"- Total files with issues: {total_files_with_issues}")
+        self._safe_print(f"- Total issues detected: {total_issues}")
         if self.reviews:
-            print(f"- Issue rate: {(total_files_with_issues / len(self.reviews) * 100):.1f}%")
+            self._safe_print(f"- Issue rate: {(total_files_with_issues / len(self.reviews) * 100):.1f}%")
     
     def _categorize_issue(self, issue: str) -> str:
         """Categorize issues by type"""

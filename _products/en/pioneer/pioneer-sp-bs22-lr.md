@@ -9,7 +9,7 @@ date: 2025-09-01
 rating: [3.9, 0.6, 0.8, 1.0, 0.7, 0.8]
 price: 130
 summary: "Andrew Jones-designed bookshelf speakers with solid, measurement-first engineering; discontinued but still competitive on transparency and value at the historical street price"
-tags: [Andrew Jones, Bass-Reflex, Bookshelf speakers, Budget Audio, Two-Way]
+tags: [2-Way, Andrew Jones, Bass-Reflex, Bookshelf speakers, Budget Audio]
 permalink: /products/en/pioneer-sp-bs22-lr/
 ---
 ## Overview

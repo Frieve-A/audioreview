@@ -9,7 +9,7 @@ date: 2025-08-26
 rating: [4.0, 0.7, 0.9, 1.0, 0.7, 0.7]
 price: 3399.98
 summary: "A three-way active monitor pair with DSP, Sonarworks integration, and strong manufacturer-published output specs. Third-party lab data is still sparse, but on paper it competes seriously with established studio standards."
-tags: [Active speakers, DSP, Room correction, Studio monitors, Three-Way]
+tags: [3-Way, Active speakers, DSP, Room correction, Studio monitors]
 permalink: /products/en/adam-audio-a8h/
 ---
 ## Overview

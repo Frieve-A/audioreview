@@ -9,7 +9,7 @@ date: 2025-08-29
 rating: [3.1, 0.6, 0.9, 0.4, 0.7, 0.5]
 price: 19800
 summary: "Three-way floorstander featuring YG’s BilletCore/ForgeCore tech. Strong engineering and build; limited third-party measurements keep scientific certainty provisional. Cost-performance lags cheaper, equivalently capable alternatives."
-tags: [3-Way, Aluminum, BilletCore, Floorstanding, ForgeCore, Passive, Premium]
+tags: [3-Way, Aluminum, BilletCore, Floorstanding speakers, ForgeCore, Passive, Premium]
 permalink: /products/en/yg-acoustics-ascent/
 ---
 ## Overview

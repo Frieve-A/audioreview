@@ -8,7 +8,7 @@ ref: genelec
 date: 2025-09-16
 rating: [3.7, 0.9, 0.9, 0.2, 0.8, 0.9]
 summary: "Finnish professional audio monitor manufacturer established 1978, renowned for active speaker technology and studio monitor market leadership with measurement-focused approach"
-tags: [Professional Audio, Active Monitors, Studio Monitors, Finnish Manufacturing, Class-D Amplification]
+tags: [Active Monitors, Class-D Amplification, Finnish Manufacturing, Professional, Studio monitors]
 permalink: /companies/en/genelec/
 ---
 ## Overview

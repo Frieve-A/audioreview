@@ -9,10 +9,9 @@ date: 2025-09-03
 rating: [2.9, 0.5, 0.4, 1.0, 0.4, 0.6]
 price: 68
 summary: "Desktop 2.0 speaker system with BasXPort technology delivering balanced sound but limited by conventional technology and reliability concerns"
-tags: [Speakers, Desktop, Two-way, BasXPort]
+tags: [2-Way, BasXPort, Desktop, Speakers]
 permalink: /products/en/creative-gigaworks-t20-series-ii-gw-t20ii-r2/
 ---
-
 ## Overview
 
 The Creative GigaWorks T20 Series II is a 2.0 desktop speaker system designed to deliver full-range audio without requiring a separate subwoofer. Building on the foundation of its award-winning predecessor, this model incorporates Creative's proprietary BasXPort technology alongside a two-way driver configuration featuring silk dome tweeters and woven glass fiber drivers. The system outputs 14 watts RMS per channel with a frequency response range of 50Hz to 20kHz, targeting multimedia and entertainment applications.

@@ -9,10 +9,9 @@ date: 2025-09-18
 rating: [2.3, 0.2, 0.7, 0.3, 0.9, 0.2]
 price: 5499
 summary: "Heritage floorstanding speaker with horn-loaded design showing significant frequency response deviations and questionable measurement-design philosophy alignment."
-tags: [Speakers, Floorstanding, Horn-loaded, Heritage, High-sensitivity]
+tags: [Floorstanding speakers, Heritage, High-sensitivity, Horn-loaded, Speakers]
 permalink: /products/en/klipsch-forte-iv/
 ---
-
 ## Overview
 
 The Klipsch Forte IV represents the company's heritage approach to loudspeaker design, featuring horn-loaded high and midrange drivers with a 12-inch woofer and 15-inch passive radiator. As part of Klipsch's Heritage series, the Forte IV maintains traditional horn-loading technology developed over 75 years while incorporating updated drivers and crossover components. The speaker carries premium positioning at 5,499 USD per pair with hand-assembled construction in Arkansas and grain-matched wood veneers.

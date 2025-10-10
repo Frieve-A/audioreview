@@ -9,7 +9,7 @@ date: 2025-08-20
 rating: [3.3, 0.6, 0.6, 0.6, 0.8, 0.7]
 price: 1659
 summary: "Discontinued 15-inch three-way powered PA speaker with Wi-Fi control. Delivers solid output and practical DSP, but faces cost-performance pressure from cheaper two-way competitors offering comparable real-world utility."
-tags: [PA, Powered, Professional, Speakers, Three-way, WiFi]
+tags: [3-Way, PA, Powered, Professional, Speakers, WiFi]
 permalink: /products/en/jbl-prx835/
 ---
 ## Overview

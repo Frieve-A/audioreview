@@ -6,7 +6,7 @@ company_id: hifiman
 lang: ja
 ref: hifiman-Svanar wireless
 date: 2025-10-07
-rating: [2.9, 0.4, 0.7, 0.7, 0.6, 0.2]
+rating: [2.6, 0.4, 0.7, 0.7, 0.6, 0.2]
 price: 29850
 summary: "HIFIMAN独自のR2R DACを搭載した無線イヤホン。発売時は499 USD帯でしたが、現在は公式ストアで199 USDとなっており、価格低下によりコストパフォーマンスは大幅に改善しています。もっとも、技術的優位性を裏付ける測定データは依然として不明瞭です。"
 tags: [LDAC, R2R DAC, アクティブノイズキャンセリング, 無線イヤホン, 高級]

@@ -9,10 +9,9 @@ date: 2025-10-06
 rating: [3.3, 0.5, 0.7, 0.8, 0.6, 0.7]
 price: 1118
 summary: "A tower speaker whose measurements reveal issues in the mid-bass and upper-treble that limit value versus today’s best options—though room EQ can help."
-tags: [2-Way, Floorstanding, Hi-Res, Tower Speaker]
+tags: [2-Way, Floorstanding speakers, Hi-Res, Tower Speaker]
 permalink: /products/en/polk-audio-reserve-r500/
 ---
-
 ## Overview
 
 The Polk Audio Reserve R500 was released in 2021 as the entry-level tower in the Reserve series. It uses a 1-inch Pinnacle Ring Radiator tweeter and dual 5.25-inch Turbine Cone woofers in a 2-way layout. It is “3D-audio ready” via the optional R900 height module and X-Port bass system; Polk lists current pricing at **559 USD each** on the official site [1]. (Earlier wording that implied “Dolby Atmos / IMAX Enhanced compatibility” has been corrected to reflect the brand’s official description [1].)
