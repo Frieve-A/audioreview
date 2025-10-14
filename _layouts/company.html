@@ -136,7 +136,7 @@ layout: default
   <section class="related-products">
     <h2>{{ site.data.strings[page.lang].related_products }}</h2>
     {% assign current_company_id = page.company_id %}
-    {% assign related_products = site.products | where: 'company_id', current_company_id | where: 'lang', page.lang %}
+    {% assign related_products = site.products | where: 'company_id', current_company_id | where: 'lang', page.lang | sort: 'date' | reverse %}
     
     {% if related_products.size > 0 %}
       <div class="products-grid">
