@@ -1,7 +1,7 @@
 ---
 layout: product
-title: "オーディオテクニカ ATR2100x-USB 製品レビュー"
-target_name: "オーディオテクニカ ATR2100x-USB"
+title: "Audio-Technica ATR2100x-USB 製品レビュー"
+target_name: "Audio-Technica ATR2100x-USB"
 company_id: audio-technica
 lang: ja
 ref: audio-technica-atr2100x-usb
