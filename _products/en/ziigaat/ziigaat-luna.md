@@ -6,12 +6,13 @@ company_id: ziigaat
 lang: en
 ref: ziigaat-luna
 date: 2025-10-30
-rating: [2.7, 0.6, 0.6, 0.4, 0.5, 0.6]
+rating: [2.8, 0.6, 0.6, 0.4, 0.5, 0.6]
 price: 379
 summary: "Studio-focused 6-driver balanced armature IEM with measured THD of 0.57% and good frequency response characteristics, but significant cost-performance disadvantage against cheaper alternatives"
-tags: [Balanced armature, Detachable Cable, In-ear monitors, Professional, Studio monitors]
+tags: [IEM, Balanced Armature, Studio Monitor, Professional Audio, Detachable Cable]
 permalink: /products/en/ziigaat-luna/
 ---
+
 ## Overview
 
 The ZiiGaat Luna is a studio reference in-ear monitor featuring six balanced armature drivers designed for professional audio applications. The Luna employs dual Sonion 39AY008 subwoofers, dual Knowles 32873 midrange drivers, and dual Knowles 33518 tweeters in a 3D-printed medical-grade resin shell. Positioned as a professional tool for studio engineers and stage performers, the Luna targets studio monitor-like accuracy with an 8 dB sub-bass shelf at 250 Hz and flat midrange response. ZiiGaat, founded on collaborative audio innovation, represents their technical expertise through hand-matched drivers and precision manufacturing processes.
