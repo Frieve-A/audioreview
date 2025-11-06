@@ -7,7 +7,7 @@ lang: ja
 ref: dyson-ontrac
 date: 2025-11-02
 rating: [1.8, 0.4, 0.6, 0.1, 0.4, 0.3]
-price: 499
+price: 74990
 summary: "55時間のバッテリーライフと40dBのANC、カスタマイズ可能なデザインを特徴とするプレミアムオーバーイヤーヘッドホンですが、同等機能の製品と比較して大幅に割高です。"
 tags: [Bluetooth, DSP, アクティブノイズキャンセリング, プレミアム, ヘッドホン]
 permalink: /products/ja/dyson-ontrac/

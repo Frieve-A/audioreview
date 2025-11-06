@@ -6,7 +6,7 @@ company_id: ziigaat
 lang: en
 ref: ziigaat-luna
 date: 2025-10-30
-rating: [2.8, 0.6, 0.6, 0.4, 0.5, 0.6]
+rating: [2.7, 0.6, 0.6, 0.4, 0.5, 0.6]
 price: 379
 summary: "Studio-focused 6-driver balanced armature IEM with measured THD of 0.57% and good frequency response characteristics, but significant cost-performance disadvantage against cheaper alternatives"
 tags: [IEM, Balanced Armature, Studio Monitor, Professional Audio, Detachable Cable]

@@ -7,7 +7,7 @@ lang: ja
 ref: prism-sound-titan
 date: 2025-11-02
 rating: [3.7, 0.9, 0.8, 0.2, 0.8, 1.0]
-price: 2910
+price: 436500
 summary: "内蔵DSPエンジンを搭載した18x18プロフェッショナルUSBオーディオインターフェース。優れた測定性能を実現するも、同等代替品と比較して価格が大幅に高額"
 tags: [オーディオインターフェース, プロフェッショナル, DSP, USB, マルチチャンネル]
 permalink: /products/ja/prism-sound-titan/

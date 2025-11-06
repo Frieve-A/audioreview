@@ -6,7 +6,7 @@ company_id: audio-first-designs
 lang: en
 ref: audio-first-designs-fidelia
 date: 2025-11-02
-rating: [3.5, 0.5, 0.9, 0.5, 0.7, 0.8]
+rating: [3.4, 0.5, 0.9, 0.5, 0.7, 0.8]
 price: 1508
 summary: "Premium DIY bookshelf speaker kit with exceptional technology and engineering expertise, featuring proprietary waveguide design and ceramic-aluminum drivers, though significantly more expensive than equivalent-performing alternatives."
 tags: [Speakers, DIY, Bookshelf, Premium, Waveguide, Ceramic]
@@ -57,6 +57,7 @@ The Audio First Designs Fidelia targets experienced DIY enthusiasts seeking prem
 [2] Audio First Designs, "Fidelia (Kit)", https://audiofirstdesigns.uk/fidelia, accessed 2025-10-31
 [3] Lean Audio, "Audio First Designs Fidelia High-performance audio DIY kit (PAIR)", £1,140.00, https://leanaudio.co.uk/product/audio-first-designs-fidelia-high-performance-audio-diy-kit-pair/, accessed 2025-10-31
 [4] Erin's Audio Corner, "Philharmonic Ceramic Mini Bookshelf Speaker Review", https://www.erinsaudiocorner.com/loudspeakers/philharmonic_ceramic_mini/, accessed 2025-10-31
-[5] Philharmonic Audio, "The Ceramic Mini Monitor (Price per PAIR)", $810.00, https://philharmonicaudio.com/products/ceramic-mini-monitor, accessed 2025-10-31
+[5] Philharmonic Audio, "The Ceramic Mini Monitor (Price per PAIR)", 810 USD, https://philharmonicaudio.com/products/ceramic-mini-monitor, accessed 2025-10-31
+ 
 
 (2025.11.2)

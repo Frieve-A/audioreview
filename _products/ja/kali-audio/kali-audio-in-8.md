@@ -6,7 +6,7 @@ company_id: kali-audio
 lang: ja
 ref: kali-audio-in-8
 date: 2025-11-02
-rating: [3.2, 0.5, 0.9, 1.0, 0.2, 0.8]
+rating: [3.4, 0.5, 0.9, 1.0, 0.2, 0.8]
 price: 144672
 summary: "DSPルーム補正機能とトライアンプClass D設計を備えた3ウェイ同軸スタジオモニター。革新的な音響設計を採用するが測定性能は複雑な結果を示す"
 tags: [3ウェイ, DSP, D級, アクティブスピーカー, スタジオモニター, 同軸]

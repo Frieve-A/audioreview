@@ -6,7 +6,7 @@ company_id: kali-audio
 lang: en
 ref: kali-audio-in-8
 date: 2025-11-02
-rating: [3.2, 0.5, 0.9, 1.0, 0.2, 0.8]
+rating: [3.4, 0.5, 0.9, 1.0, 0.2, 0.8]
 price: 898
 summary: "Three-way coaxial studio monitor with DSP room compensation and tri-amped Class D design, offering innovative acoustic architecture but mixed measured performance"
 tags: [3-Way, Active speakers, Class D, Coaxial, DSP, Studio monitors]

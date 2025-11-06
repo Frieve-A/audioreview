@@ -6,7 +6,7 @@ company_id: prism-sound
 lang: en
 ref: prism-sound-lyra-2
 date: 2025-11-02
-rating: [3.5, 0.9, 0.9, 0.5, 0.9, 0.6]
+rating: [3.8, 0.9, 0.9, 0.5, 0.9, 0.6]
 price: 3225
 summary: "Professional 2-input, 4-output USB audio interface with world-class measured performance but significant cost premium over equivalent alternatives"
 tags: [Audio interface, Prism Sound, Professional, Recording Equipment, USB]
