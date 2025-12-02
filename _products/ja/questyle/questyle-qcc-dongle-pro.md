@@ -5,10 +5,10 @@ target_name: "Questyle QCC Dongle Pro Lossless Bluetooth トランスミッタ�
 company_id: questyle
 lang: ja
 ref: questyle-qcc-dongle-pro
-date: 2025-11-30
-rating: [3.2, 0.5, 0.7, 0.6, 0.6, 0.8]
-price: 15000
-summary: "aptX LosslessやLDACを含む包括的なコーデックサポートを備え、MFi認証を取得したBluetoothトランスミッターですが、同等品と比較して高価格という制約があります"
+date: 2025-12-02
+rating: [3.6, 0.5, 0.7, 1.0, 0.6, 0.8]
+price: 10764
+summary: "aptX LosslessやLDACを含む包括的なコーデックサポートを備え、MFi認証を取得したBluetoothトランスミッターで、iOS互換性が必要なユーザーにとって最適な選択肢です"
 tags: [Bluetooth, トランスミッター, アダプター, USB-C, LDAC, aptX, Questyle]
 permalink: /products/ja/questyle-qcc-dongle-pro/
 ---
@@ -21,7 +21,7 @@ Questyle QCC Dongle Pro Lossless Bluetoothトランスミッターは、同社�
 
 $$ \Large \text{0.5} $$
 
-15,000円のデジタルBluetoothトランスミッターとして、QCC Dongle ProはLDACやaptX Losslessを含む包括的なコーデックサポートにより、正当な機能向上を提供しています。デバイス仕様には、Bluetooth 5.4、≥10mの伝送範囲、最低48msの超低遅延、48kHz/24bit LDAC動作時の37mA消費電力が含まれています。しかし、THD、SNR、周波数応答、ジッター、デジタル変換精度などの実際のオーディオ測定結果について、第三者機関からの公開データは入手できません。低遅延と効率的な消費電力を謳っていますが、これらの仕様は独立した検証を欠いています。透明なオーディオ性能レベルを確認する測定データがなく、基本的にはデジタルコーデック変換デバイスでありながら高価格であることを考慮すると、検証された性能指標の不在を反映した保守的な評価となります[1][2]。
+10,764円のデジタルBluetoothトランスミッターとして、QCC Dongle ProはLDACやaptX Losslessを含む包括的なコーデックサポートにより、正当な機能向上を提供しています。デバイス仕様には、Bluetooth 5.4、≥10mの伝送範囲、最低48msの超低遅延、48kHz/24bit LDAC動作時の37mA消費電力が含まれています。しかし、THD、SNR、周波数応答、ジッター、デジタル変換精度などの実際のオーディオ測定結果について、第三者機関からの公開データは入手できません。低遅延と効率的な消費電力を謳っていますが、これらの仕様は独立した検証を欠いています。透明なオーディオ性能レベルを確認する測定データがなく、基本的にはデジタルコーデック変換デバイスでありながら高価格であることを考慮すると、検証された性能指標の不在を反映した保守的な評価となります[1][2]。
 
 ## 技術レベル
 
@@ -31,9 +31,9 @@ QCC Dongle Proは、現世代のBluetoothおよびコーデック標準の適切
 
 ## コストパフォーマンス
 
-$$ \Large \text{0.6} $$
+$$ \Large \text{1.0} $$
 
-Questyle QCC Dongle Proは15,000円で、マルチコーデックサポート（SBC、aptX、aptX HD、aptX Adaptive、aptX Lossless、LDAC）、USB-C接続、低遅延伝送（<48ms）を備えています。FiiO Air Linkは同等のコーデックサポート（SBC、aptX全種、LDAC）とUSB-C接続、同等の遅延性能を備えています。CP = 9,000円 ÷ 15,000円 = 0.60。この計算により、FiiO Air Linkを通じて、レビュー対象価格の60%で同等の機能と性能を得ることができることが示されます[4]。
+Questyle QCC Dongle Proは10,764円で、MFi認証、包括的なコーデックサポート（aptX Lossless、aptX Adaptive、aptX HD、aptX、SBC、LDAC）、Bluetooth 5.4、低遅延、ユニバーサルシステム互換性、USB-C接続を提供しています。ただし、LightningポートのiOSデバイスとは互換性がないことにご注意ください（Lightning-USB-Cアダプターは未対応）。MFi認証と包括的なコーデックサポートを備えた同等機能を持つ製品の中で、QCC Dongle Proは世界最安価格を実現しています。MFi認証が不要であれば、FiiO Air Linkなどの代替品が類似のコーデックサポートを低価格で提供しますが、iOSエコシステム統合機能との互換性はありません[4]。
 
 ## 信頼性・サポート
 
@@ -49,7 +49,7 @@ Questyleは「Science driven State of the Art Innovative Engineering」原則に
 
 ## アドバイス
 
-Questyle QCC Dongle Proは、包括的なコーデックサポートを備えたMFi認証ワイヤレスオーディオ伝送を必要とするユーザーをターゲットとしています。特にAppleエコシステム統合が求められる専門的または商用環境において、iOS互換性認証が用途に不可欠な場合はこのデバイスを検討してください。ただし、一般的な消費者用途では、FiiO Air Linkなどの代替品により同等の機能を大幅に安価で利用できます。同等品に対する68%の価格プレミアムは、優れたオーディオ性能ではなく、主にMFi認証により正当化されています。類似のコーデック実装を使用する高品質Bluetoothトランスミッター間での機能的オーディオ性能差は最小限であるため、特定の用途でiOS認証の必要性が追加コストを正当化するかどうかを評価してください。
+Questyle QCC Dongle Proは、包括的なコーデックサポートを備えたMFi認証ワイヤレスオーディオ伝送を必要とするユーザーをターゲットとしています。このデバイスはLightningポートのiOSデバイスとは互換性がなく、新しいUSB-C搭載iOSデバイスに限定されることにご注意ください。特にAppleエコシステム統合が求められる専門的または商用環境において、iOS互換性認証が用途に不可欠な場合はこのデバイスを検討してください。10,764円で、QCC Dongle ProはMFi認証と包括的なコーデックサポートを備えた同等機能を持つ製品の中で世界最安価格を実現しています。MFi認証が不要であれば、FiiO Air Linkなどの代替品が類似のコーデックサポートを低価格で提供しますが、iOSエコシステム統合機能との互換性はありません[4]。購入前に、MFi認証によるiOS互換性とUSB-Cデバイス互換性が特定の用途要件に必要かどうかを評価してください。
 
 ## 参考情報
 
@@ -60,4 +60,4 @@ Questyle QCC Dongle Proは、包括的なコーデックサポートを備えた
 5. Questyle. Warranty info. https://questyleshop.com/pages/warranty-info. 参照 2025-11-26.
 6. ecoustics.com. Review: Questyle QCC & QCC Pro Bluetooth Dongles. https://www.ecoustics.com/reviews/questyle-qcc-pro/. 参照 2025-11-26.
 
-(2025.11.30)
+(2025.12.2)
