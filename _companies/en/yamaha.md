@@ -1,62 +1,69 @@
 ---
 layout: company
-title: "Yamaha Company Review"
-target_name: "Yamaha"
+title: "Yamaha Corporation Company Review"
+target_name: "Yamaha Corporation"
 company_id: yamaha
 lang: en
 ref: yamaha
-date: 2025-07-05
-rating: [3.7, 0.8, 0.9, 0.4, 0.8, 0.8]
-summary: "Representative Japanese comprehensive musical instrument and audio equipment manufacturer founded in 1887. Based on acoustic technologies cultivated through instrument manufacturing, they operate broadly from audio equipment to professional sound systems, leading the industry with proprietary sound field technologies. While performance and reliability are high, cost-performance receives harsh evaluation compared to recent high-performance, low-cost products. However, as the only company handling both instruments and audio, they remain an attractive choice for users who deeply love music."
-tags: [Japan, Instruments, "AV amplifiers", "CINEMA DSP", "Comprehensive manufacturer"]
+date: 2025-12-09
+rating: [2.7, 0.5, 0.6, 0.6, 0.6, 0.4]
+summary: "Japanese audio equipment manufacturer with 125+ year history, offering diverse product portfolio from professional audio to consumer electronics, achieving average performance in measurement-based evaluation"
+tags: [Yamaha, AVR, Studio-Monitors, Headphones, Professional-Audio, DSP, Japanese-Audio, Audio-Equipment-Manufacturer]
 permalink: /companies/en/yamaha/
 ---
 
 ## Overview
 
-Founded in 1887 by Torakusu Yamaha, this is one of Japan's oldest musical instrument manufacturers. With over 130 years of history, the company has expanded into a wide range of businesses including audio equipment, professional sound systems, and semiconductors, based on acoustic technologies cultivated through manufacturing pianos, wind instruments, and string instruments. As the world's only company simultaneously engaged in instrument manufacturing and audio equipment development, they develop products from both "performing" and "listening" perspectives.
-
-In the audio field, they hold the world's top share in AV amplifiers, leading the industry with proprietary sound field technologies such as CINEMA DSP and YPAO (Yamaha Parametric room Acoustic Optimizer) automatic sound field correction. Recently, they've also focused on wireless multi-room playback with MusicCast-compatible products, maintaining their position as a traditional audio manufacturer while adapting to modern lifestyles.
+Yamaha Corporation, founded in 1887 by Torakusu Yamaha, began with reed organ repair and manufacturing, evolving into a diversified global corporation. With annual revenue of 462.1 billion yen and 18,949 employees across 61 subsidiary companies, Yamaha operates three major business segments: Musical Instruments (dominant with 26% global market share), Audio Equipment, and Industrial Machinery. The company's audio division encompasses professional audio equipment, home theater receivers, studio monitors, headphones, and network devices. Yamaha's "Natural Sound" philosophy emphasizes transparent reproduction without equipment coloration, supported by over 125 years of accumulated know-how in musical instrument manufacturing and audio engineering.
 
 ## Scientific Validity
 
-$$ \Large \text{0.8} $$
+$$ \Large \text{0.5} $$
 
-Yamaha's acoustic technologies are based on practical acoustic knowledge cultivated through instrument manufacturing, achieving high levels of scientific validity. CINEMA DSP technology, in particular, recreates sound fields using data measured at actual concert halls worldwide, with objectively verifiable effects. YPAO automatic sound field correction is also a technology that measures room acoustic characteristics and applies scientific corrections. Knowledge of wood acoustic characteristics and resonance theory from instrument manufacturing is also applied to speaker design, enabling product development based on understanding "sound as instruments" that transcends mere electrical acoustic design.
+Yamaha's measured audio performance falls between problematic and transparent levels across representative products. The RX-A1080 AVR achieves SINAD of 78-85 dB depending on input type, with the HDMI input achieving 85 dB exceeding the 80 dB transparent threshold for SINAD, while the Toslink input at 78 dB is at the borderline between problematic and transparent levels. The primary HDMI input achieves transparent level performance [1]. The HS7 studio monitor exceeds problematic frequency response deviation at ±3.6 dB from 80Hz-20kHz, surpassing the ±3.0 dB problematic threshold [2]. The YH-5000SE headphones exhibit distortion at 114 dB SPL, which represents extreme limit performance testing far exceeding typical usage levels. At normal listening levels (94 dB SPL), narrow distortion peaks between 2-3 kHz are observed. The headphones also show problematic frequency response with unusual 1-1.5 kHz peaks and jagged 2-5 kHz response [3]. While Yamaha's measurements do not reach state-of-the-art performance, the RX-A1080's HDMI input achieves transparent level, and overall product range performance falls between problematic and transparent levels.
 
 ## Technology Level
 
-$$ \Large \text{0.9} $$
+$$ \Large \text{0.6} $$
 
-Through the fusion of acoustic technologies cultivated over 130+ years in instrument manufacturing with modern digital technologies, they maintain industry-leading technical capabilities. They possess numerous proprietary technologies in sound field processing that competitors cannot match, with these technologies adopted in professional venues such as movie theaters and broadcast stations. DSP technology from semiconductor business, acoustic theory from instrument business, and electroacoustic technology from audio business interact synergistically, demonstrating comprehensive technical capabilities that other companies cannot replicate. Recent developments in AI-powered sound field correction technology are also noteworthy.
+Yamaha demonstrates solid engineering capabilities with proprietary technologies including CINEMA DSP for surround sound processing, Advanced YST (Yamaha Active Servo Technology) for subwoofers, and custom YSS-214 IC chips for DSP processing. The company held significant DSP patents during the early 1990s, establishing foundational technology for digital audio processing, though this technology has since become commoditized industry-wide. Yamaha maintains in-house design and manufacturing with 125+ years of accumulated know-how, appropriately integrating digital, circuit, and software technologies while utilizing contemporary components like ESS DAC chips. However, compared to breakthrough innovators like Purifi Audio's revolutionary Eigentakt technology or rapidly advancing Chinese manufacturers, Yamaha's technology represents mature, established approaches rather than cutting-edge innovation. The company's technological foundation remains solid but lacks the measurement excellence achieved by leading contemporary audio companies.
 
 ## Cost-Performance
 
-$$ \Large \text{0.4} $$
+$$ \Large \text{0.6} $$
 
-While Yamaha products are high-quality and reliable, recent technological innovations have created many lower-priced products with equivalent measurement performance, resulting in harsh evaluation for pure cost-performance. For example, the AV amplifier "RX-V6A" (approximately USD 800) has equivalent basic performance to Denon's "AVR-X1700H" (approximately USD 600), yielding CP of about 0.75. The integrated amplifier "A-S801" (approximately USD 1,200) compared to S.M.S.L's "AL200" (approximately USD 400) with equivalent or superior output and THD+N characteristics yields CP of about 0.33. The flagship speaker "NS-5000" (approximately USD 20,000 pair) also faces very competitive alternatives like KEF "R11 Meta" (approximately USD 7,000 pair) with excellent measurement performance, making cost efficiency challenging. Overall, while the company has specific functional advantages, it struggles with price competitiveness, resulting in this score.
+This site evaluates based solely on functionality and measured performance values, without considering driver types or configurations. Cost-performance analysis reveals Yamaha's positioning above market efficiency levels across all representative product categories. The Yamaha HS7 studio monitor pair at 700 USD faces superior alternatives: JBL 305P MKII at 298 USD per pair offers equivalent active monitoring functionality with comparable measured performance and 5-inch driver size more suitable for direct comparison [4]. Equipped with equivalent active monitoring functions, frequency response (43Hz-21kHz, ±3dB) and THD performance (1kHz, 0.5% or below) are equivalent-or-better. CP calculation: CP = 298 USD ÷ 700 USD = 0.43. The Yamaha RX-A1080 AVR at 1,300 USD with 78-85 dB SINAD faces the Denon AVR-X3800H at 1,699 USD offering equivalent multi-channel processing, HDMI connectivity, and DSP features, with Denon achieving 95 dB SINAD via Toslink input, though the Denon showed DAC performance regression compared to its predecessor [5]. Given the Denon's higher price and performance regression, the RX-A1080 represents the most cost-effective option in this comparison, yielding CP = 1.0. Most critically, the flagship YH-5000SE headphones at 5,000 USD with problematic frequency response and severe 114 dB SPL distortion face the Sennheiser HD800S at 1,699 USD delivering superior measured linearity and distortion performance (THD 0.05% or below at 94 dB SPL, 0.1% or below at 104 dB SPL) [6]. CP calculation: CP = 1,699 USD ÷ 5,000 USD = 0.34. Simple average across categories yields 0.6 ((0.43 + 1.0 + 0.34) ÷ 3), though the flagship headphone significantly impacts overall company cost-performance assessment.
 
 ## Reliability & Support
 
-$$ \Large \text{0.8} $$
+$$ \Large \text{0.6} $$
 
-As a historic company with over 130 years of history, product reliability is high with comprehensive after-sales service. The long-term support system cultivated through instrument business is also applied to audio products, with repair and parts supply often available for older products. However, recent digitalization has created new challenges different from traditional analog products, such as long-term firmware update support and compatibility with new audio formats. Nevertheless, the company actively addresses these challenges through their technical capabilities and support systems.
+Yamaha maintains established warranty and support infrastructure through global authorized dealer networks, leveraging 125+ years of company stability and established service operations. Standard warranty periods vary by region and product, with repairs and replacements using new or refurbished parts meeting Yamaha specifications. The company requires authorized dealer purchases for warranty validity, with regional support variations including dealer-based support in EU/UK markets and direct manufacturer contact in other regions. Some recall history exists, notably the PA-300C AC adapter recall for 2010-2012 production units, though no significant widespread failure patterns have been identified. Yamaha's long-established business operations and robust construction typical of established audio manufacturers contribute to overall reliability expectations. The company's extensive global presence and established service network provide adequate support infrastructure, though standard warranty terms and dealer-dependent service model represent industry average rather than exceptional support offerings.
 
 ## Rationality of Design Philosophy
 
-$$ \Large \text{0.8} $$
+$$ \Large \text{0.4} $$
 
-The design philosophy combining understanding of "natural sound" cultivated through instrument manufacturing with modern digital technologies is extremely rational. Rather than pursuing mere high performance, various technical elements are organically combined toward the essential purpose of "enjoying music." Sound field technologies like CINEMA DSP are developed not as mere acoustic effects but as technologies that scientifically recreate actual concert hall acoustic characteristics. However, in modern products with increasing multifunctionality, not all functions are equally refined, requiring greater rationality in function selection.
+Yamaha's stated "Natural Sound" philosophy emphasizes transparent audio reproduction and preserving original recordings without equipment coloration, aligning theoretically with scientific measurement principles. The company claims measurement-focused development approaches and rejection of unnecessary coloration, with historical use of musician panels for prototype evaluation. Actual measured performance shows the RX-A1080's HDMI input achieving 85 dB SINAD meeting the transparent threshold, while the Toslink input at 78 dB SINAD is at the borderline between problematic and transparent levels. The HS7's ±3.6 dB frequency response deviation indicates problematic levels, but the YH-5000SE's distortion at 114 dB SPL represents extreme limit performance testing far exceeding typical usage levels, which must be considered in context. Measurements show mixed results with some products achieving transparent levels while others reach problematic thresholds, indicating partial implementation inconsistency with stated scientific goals. The heavy reliance on subjective musician evaluation panels rather than purely objective measurement validation may contradict claimed scientific approaches. Cost allocation appears suboptimal for measurement performance in some cases, as comparable or superior measured results are achieved by competitors at lower price points. While Yamaha's philosophical direction toward transparency is scientifically rational, execution shows mixed results with transparent-level achievement in some products and problematic levels in others.
 
 ## Advice
 
-Yamaha products are suitable choices for all music lovers. The fusion of deep musical understanding as an instrument manufacturer with cutting-edge technology provides music experiences unavailable from other companies.
+For consumers seeking transparent audio reproduction at optimal cost-performance ratios, Yamaha represents a traditional choice with established brand heritage but falls short of current market leaders in measured performance per dollar. Professional audio purchasers should consider Yamaha for DSP-equipped applications where established support networks and proven reliability outweigh measurement performance priorities, particularly in installed sound applications requiring long-term support. Budget-conscious consumers will find superior measured performance through Chinese manufacturers (Topping, SMSL) for electronic components or Adam Audio/JBL for studio monitors. Yamaha remains suitable for users prioritizing brand heritage, established support infrastructure, and proven reliability over leading-edge measured performance, though current pricing reflects brand premium rather than measurement superiority. Consumers should evaluate specific measurement data against alternatives before purchase to ensure value alignment with performance expectations.
 
-- **Home Theater Beginners**: We recommend starting with entry-level AV amplifiers. Operation is intuitive with comprehensive automatic setup functions.
-- **Music Enthusiasts**: A-S series integrated amplifiers and speakers like NS-5000 offer the natural sound characteristic of instrument manufacturers.
-- **Professionals**: Professional audio equipment and monitor speakers trusted in professional environments are well-represented.
-- **Multi-function Focus**: MusicCast-compatible products enable multi-room environments for enjoying music throughout the home.
+## References
 
-When purchasing, it's important to select optimal products for your specific usage from the company's extensive product lineup. Auditioning Yamaha products at music stores is often possible, and we recommend listening to actual sound before purchasing.
+[1] Audio Science Review - Review and Measurements of Yamaha RX-A1080 AVR. https://www.audiosciencereview.com/forum/index.php?threads/review-and-measurements-of-yamaha-rx-a1080-avr.9090/ (Accessed 2025-12-09)
 
-(2025.07.05)
+[2] Audio Science Review - Yamaha HS7 Review (Studio Monitor). https://www.audiosciencereview.com/forum/index.php?threads/yamaha-hs7-review-studio-monitor.19761/ (Accessed 2025-12-09)
+
+[3] Audio Science Review - Yamaha YH-5000SE Flagship Headphone Review. https://www.audiosciencereview.com/forum/index.php?threads/yamaha-yh-5000se-flagship-headphone-review.56209/ (Accessed 2025-12-09)
+
+[4] Music Radar - Best Budget Studio Monitors. https://www.musicradar.com/news/best-budget-studio-monitors (Accessed 2025-12-09)
+
+[5] Audio Science Review - Denon AVR-X3800H Review. https://www.audiosciencereview.com/forum/index.php?threads/denon-avr-x3800h-review.38574/ (Accessed 2025-12-09)
+
+[6] Audio Science Review - Sennheiser HD800S Review (Headphone). https://www.audiosciencereview.com/forum/index.php?threads/sennheiser-hd800s-review-headphone.18424/ (Accessed 2025-12-09)
+
+[7] Yamaha Corporation - About Yamaha. https://www.yamaha.com/en/about/ (Accessed 2025-12-09)
+
+(2025.12.9)

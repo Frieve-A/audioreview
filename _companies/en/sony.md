@@ -5,65 +5,80 @@ target_name: "Sony"
 company_id: sony
 lang: en
 ref: sony
-date: 2025-07-05
-rating: [3.7, 0.7, 0.9, 0.4, 0.9, 0.8]
-summary: "Japanese electronics manufacturer that created the history of portable music with the Walkman and continues to lead wireless earbud technology innovation. Leveraging technical expertise cultivated across fields from music production to consumer products, they boast world-class performance particularly in noise cancellation technology. Their product lineup ranges from professional monitor headphones to high-quality wireless earbuds for general consumers, meeting diverse needs."
-tags: [Japan, Audio, Wireless, "Noise cancellation", Walkman]
+date: 2025-12-09
+rating: [3.4, 0.6, 0.8, 0.7, 0.6, 0.7]
+summary: "Sony Corporation is a Japanese multinational conglomerate founded in 1946, with over 60 years of audio technology development. Known for innovations like LDAC codec and 360 Reality Audio. Evaluation based on third-party measurement data from flagship products shows that latest flagships like WH-1000XM6 and WF-1000XM5 demonstrate standard to good performance, though performance variance exists across the overall portfolio."
+tags: [Headphones, Microphones, Wireless, LDAC, 360 Reality Audio, Japan]
 permalink: /companies/en/sony/
 ---
-
 ## Overview
 
-Founded in 1946, Sony is a representative Japanese electronics manufacturer with a long history in the fusion of music and technology. Since launching the Walkman in 1979, they have continued to reign as pioneers in portable music players. Currently, they continue leading technological innovation particularly in the wireless earbud market.
-
-Their product lineup spans from professional equipment for music production and recording studios to wireless earbuds for general consumers. The WH-1000X and WF-1000XM series, in particular, have earned high global recognition by achieving both industry-leading noise cancellation technology and sound quality.
+Sony Corporation is a Japanese multinational conglomerate founded in 1946 by Ibuka Masaru and Morita Akio as Tokyo Telecommunications Engineering Corporation, adopting its current name in 1958. With over 60 years of professional audio technology development, Sony has built a committed relationship with music production based on technology, from their first professional product, the C-37A microphone introduced in 1958, to the latest 360 Reality Audio format. The company operates under the "For The Music" philosophy, emphasizing preservation of creator intent and authentic music experiences. Sony's audio portfolio spans consumer and professional markets, including high-resolution audio products, wireless speakers, noise-cancelling headphones, and professional recording equipment used in broadcast and recording studios worldwide.
 
 ## Scientific Validity
 
-$$ \Large \text{0.7} $$
+$$ \Large \text{0.6} $$
 
-Sony's scientific validity is particularly evident in their noise cancellation technology. The WH-1000XM5 achieves effective noise reduction using dual noise sensor technology with eight microphones. This technology provides measurable and reproducible results, enabling objective evaluation.
-
-Meanwhile, LDAC (Hi-Res Audio Wireless) technology enables high-resolution audio transmission via Bluetooth, theoretically allowing higher quality music playback than conventional codecs. However, actual audible differences are sometimes limited depending on usage environment and source material.
+Evaluation based on third-party measurement data from Sony's flagship products demonstrates standard to good performance across the product portfolio. The latest flagship WH-1000XM6 records overall score of 4.8 in SoundGuys MDAQS testing, including Timbre: 4.9, Immersiveness: 4.6, and Distortion: 4.3, showing good performance across key metrics [1]. The WF-1000XM5 achieves ANC performance exceeding 30dB attenuation in low frequencies and up to 50dB above 1kHz according to RTINGS measurements, demonstrating excellent noise cancelling performance [2]. Frequency response deviation from Harman target curve records RMS deviation of 4.2dB in bass range, 1.65dB in midrange, and 2.24dB in treble range, falling within standard ranges [2]. The WF-1000XM5 records harmonic distortion (THD) of 0.27% at 94dB SPL, showing standard performance below problematic levels [2]. However, the IER-Z1R exhibits V-shaped frequency response and high THD in low frequencies, reaching problematic levels [3]. Weighted average evaluation across flagship products indicates that Sony's overall portfolio demonstrates standard to good performance levels.
 
 ## Technology Level
 
-$$ \Large \text{0.9} $$
+$$ \Large \text{0.8} $$
 
-Sony's technical level is exceptionally high, particularly leading the industry in digital signal processing and wireless technology. Their proprietary V1 processor integrates noise cancellation processing and audio processing, achieving high performance with low power consumption.
-
-LDAC technology has been adopted as a standard specification by the Bluetooth SIG, demonstrating its recognized technical value in the industry. Additionally, 360 Reality Audio is an ambitious initiative proposing new forms of spatial audio technology, aiming to revolutionize music listening experiences. Professional products like the MDR-7506 and MDR-CD900ST are used as standard equipment in recording studios worldwide, demonstrating their high technical reliability.
+Sony demonstrates significant technological innovation with proprietary developments and substantial R&D investment. The LDAC codec technology enables transmission of approximately three times more data (990kbps) compared to conventional Bluetooth technologies (330kbps), representing cutting-edge wireless audio advancement [8]. Their 360 Reality Audio format utilizes object-based spatial audio technology built on MPEG-H 3D Audio codec, supporting up to 24 discrete objects for immersive audio experiences [9]. The WH-1000XM6's QN3 processor achieves seven times faster processing speed than the previous QN1, enabling real-time optimization of twelve microphones with advanced technology [4]. Over 60+ years of technical expertise accumulation and consistent adoption of proprietary patent technologies place Sony significantly above average industry technology levels.
 
 ## Cost-Performance
 
-$$ \Large \text{0.4} $$
+$$ \Large \text{0.7} $$
 
-WH-1000XM5 (USD 396) has equivalent noise cancellation performance to the Soundcore Life Q30 (USD 67), resulting in CP = 67 ÷ 396 = 0.2. WF-1000XM4 (USD 220) has equivalent THD+N 0.3% and frequency response to the Soundcore Liberty 3 Pro (USD 87), resulting in CP = 87 ÷ 220 = 0.4. MDR-7506 (USD 147) has equivalent measurement performance to the Audio-Technica ATH-M40x (USD 81), resulting in CP = 81 ÷ 147 = 0.5.
+This site evaluates based solely on functionality and measured performance values, without considering driver types or configurations. Sony's flagship product cost-performance evaluation is based on weighted average of multiple representative products. The latest flagship WH-1000XM6 (449.99 USD) provides comprehensive functionality including 12-microphone array with QN3 processor, 360 Reality Audio Upmix for Cinema, LDAC-compatible Bluetooth 5.3, 30-hour battery life, and advanced app features, with CP = 1.0 as no competing products with equivalent-or-better functions and measured performance exist at lower prices [4]. The WF-1000XM5 (228 USD) provides comprehensive feature set including ANC performance exceeding 30dB, LDAC codec support, wireless charging, and Bluetooth 5.3 multipoint connectivity, with CP = 1.0 as lower-priced alternatives lack multiple essential user-facing functions [5]. The WH-1000XM5 (240 USD) has CP = 150 USD ÷ 240 USD = 0.63, rounded to 0.6, as Audio-Technica ATH-M50xBT2 (150 USD) provides equivalent-or-better functions and measured performance [6]. The IER-Z1R (1,511 USD) has CP = 149 USD ÷ 1,511 USD = 0.099, rounded to 0.1, as Truthear NOVA (149 USD) provides equivalent-or-better measured performance [7]. Weighted average according to importance of flagship products results in overall portfolio cost-performance evaluation of 0.7.
 
 ## Reliability & Support
 
-$$ \Large \text{0.9} $$
+$$ \Large \text{0.6} $$
 
-As a major global manufacturer, Sony maintains an excellent support structure. While product warranty periods are industry-standard, their global service network provides consistent support worldwide.
-
-Firmware updates are provided frequently, with new features and bug fixes continuously delivered. Particularly for flagship products like the WH-1000X series and WF-1000XM series, functional improvements continue long after release, demonstrating consideration for long-term use.
+Sony provides standard industry warranty coverage with global manufacturer support infrastructure. Standard warranty period spans 1-2 years depending on product category, meeting industry average expectations [10]. The company maintains worldwide service network enabling repair and replacement services, with established global support systems providing above-average infrastructure capabilities. However, customer service experiences show mixed results, with some reported challenges in warranty claim processes and coverage decisions [11]. Sony's 60+ year operational history demonstrates established manufacturing reliability, though specific failure rate data remains limited. The combination of global support infrastructure and mixed service execution results in above-average but not exceptional reliability assessment.
 
 ## Rationality of Design Philosophy
 
-$$ \Large \text{0.8} $$
+$$ \Large \text{0.7} $$
 
-Sony's design philosophy emphasizes balancing technological innovation with practicality. The implementation of noise cancellation technology is based on clear scientific principles, with objectively measurable effects. The adoption of wireless technology is also a rational decision considering convenience in modern usage environments.
-
-However, some products exhibit excessive multifunctionality. Additionally, dependence on proprietary standards (such as LDAC) creates compatibility challenges despite technical advantages. Overall, product development follows rational and practical design philosophy.
+Sony's design philosophy demonstrates largely scientific approach with technology-driven innovation. The "For The Music" philosophy emphasizes preserving creator intent and measurement-focused development, representing rational scientific approach [12]. Technologies like LDAC and 360 Reality Audio directly contribute to measurable performance improvements in wireless audio quality and spatial audio reproduction. Consistent technology evolution over 60+ years shows progressive performance advancement in new model releases. Advanced functional integration of digital processing, AI, and wireless technologies contributes to transparent-level performance goals. However, some traditional marketing elements remain, and measurement publication could be more comprehensive. The company's focus on objective indicators and cutting-edge technology adoption while maintaining professional market validation indicates strong scientific rationality.
 
 ## Advice
 
-Sony products are ideal for modern users seeking to balance cutting-edge technology with practicality. They provide performance significantly superior to competitors, particularly in applications where noise cancellation functionality is important.
+Sony is suitable for users seeking established brand reliability and innovative wireless technologies, particularly LDAC codec and 360 Reality Audio capabilities. The company's "For The Music" philosophy and professional studio heritage provide confidence for music creation applications. However, for cost-conscious buyers prioritizing measurement performance, alternatives like Audio-Technica offer superior value propositions with equivalent functionality at lower prices.
 
-- **Business Professionals with Frequent Commutes/Travel**: The WH-1000XM5 is optimal for music enjoyment and calls during travel, offering long-term comfortable use and excellent noise cancellation performance.
-- **Music Producers/Professionals**: The MDR-7506 and MDR-CD900ST are standard equipment used in studios worldwide, providing accurate sound reproduction.
-- **Wireless-Focused Users**: The WF-1000XM4 achieves both high sound quality and noise cancellation while being completely wireless, representing current top-tier products.
+Consider Sony when: seeking cutting-edge wireless audio technologies, requiring established global support infrastructure, or needing professional studio-validated equipment heritage. The LDAC codec capability provides genuine advantage for high-resolution wireless audio transmission, and 360 Reality Audio offers unique spatial audio experiences unavailable from most competitors.
 
-For those seeking both technological innovation and quality, Sony is an extremely reliable choice.
+Avoid Sony when: prioritizing pure cost-performance ratio, seeking the flattest possible frequency response measurements, or requiring the lowest prices for equivalent functionality. measurement data indicates that more affordable alternatives often provide superior technical performance, making Sony's premium pricing difficult to justify purely on measurement criteria.
 
-(2025.07.05)
+For professional applications, verify specific product measurements before purchase, as performance varies significantly across Sony's extensive portfolio. The brand's technological innovation capabilities are undeniable, but individual product evaluation remains essential for optimal selection.
+
+## References
+
+[1] SoundGuys, Sony WH-1000XM6 Review, https://www.soundguys.com/sony-wh-1000xm6-review-read-before-buying-137397/, published 2025, MDAQS testing showing Overall: 4.8, Timbre: 4.9, Immersiveness: 4.6, Distortion: 4.3 scores for WH-1000XM6
+
+[2] RTINGS.com, Sony WF-1000XM5 Truly Wireless Review, https://www.rtings.com/headphones/reviews/sony/wf-1000xm5-truly-wireless, accessed 2025-12-08, comprehensive measurement data including ANC performance, frequency response deviation, THD measurements
+
+[3] Crinacle, Sony IER-Z1R Measurements, https://crinacle.com/graphs/iems/sony-ier-z1r/, accessed 2025-12-08, measurement data showing V-shaped frequency response and high THD
+
+[4] Sony Corporation, WH-1000XM6 Official Help Guide, https://helpguide.sony.net/mdr/2984/v1/en/contents/TP1001863304.html, accessed 2025-12-08, technical specifications and features
+
+[5] SoundGuys, Sony WF-1000XM5 Review, https://www.soundguys.com/sony-wf-1000xm5-review-95465/, accessed 2025-12-08, features and measured performance evaluation
+
+[6] SoundGuys, Sony WH-1000XM5 Review, https://www.soundguys.com/sony-wh-1000xm5-review-95465/, accessed 2025-12-08, pricing and cost-performance comparison
+
+[7] Crinacle, Truthear NOVA Measurements, https://crinacle.com/graphs/iems/truthear-nova/, accessed 2025-12-08, comparison measurement data with IER-Z1R
+
+[8] Sony Corporation, LDAC Technology Information, https://www.sony.co.jp/en/Products/LDAC/info/, accessed 2025-12-08
+
+[9] Sony Corporation, 360 Reality Audio Technology, https://www.sony.co.jp/en/Products/360RA/licensing/, accessed 2025-12-08
+
+[10] Sony Asia, Standard Warranty Coverage, https://www.sony-asia.com/electronics/support/articles/00262118, accessed 2025-12-08
+
+[11] Sony Professional Support, Standard Product Warranty, https://pro.sony/en_GB/support-services/primesupport/support-professional-solutions-europe-standard-product-warranty, accessed 2025-12-08
+
+[12] Sony Asia Pacific, For The Music Philosophy, https://www.sony-asia.com/for-the-music, accessed 2025-12-08
+
+(2025.12.9)
