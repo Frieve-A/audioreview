@@ -5,7 +5,7 @@ target_name: "KEF Coda W"
 company_id: kef
 lang: ja
 ref: kef-coda-w
-date: 2025-12-08
+date: 2025-12-11
 rating: [4.0, 0.5, 1.0, 0.8, 0.7, 1.0]
 price: 130000
 summary: "第12世代Uni-Qドライバーアレイを搭載した2ウェイアクティブスタンドマウントスピーカー。HDMI ARC、aptX Lossless、内蔵フォノプリアンプを含む包括的な接続性を提供"
@@ -60,4 +60,4 @@ KEF Coda Wはプレミアムアクティブスピーカーを求める方に優�
 [5] ecoustics.com - KEF Unveils Coda W: Bluetooth Speakers with aptX Lossless - https://www.ecoustics.com/products/kef-coda-w/ (2025年12月3日アクセス)
 [6] Klipsch The Fives - https://www.klipsch.com/jp/products/the-fives-powered-speakers (2025年12月3日アクセス)
 
-(2025.12.8)
+(2025.12.11)

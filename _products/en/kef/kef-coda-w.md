@@ -5,7 +5,7 @@ target_name: "KEF Coda W"
 company_id: kef
 lang: en
 ref: kef-coda-w
-date: 2025-12-08
+date: 2025-12-11
 rating: [4.0, 0.5, 1.0, 0.8, 0.7, 1.0]
 price: 999
 summary: "2-way active standmount speakers featuring 12th Generation Uni-Q driver array with comprehensive connectivity including HDMI ARC, aptX Lossless, and integrated phono preamp"
@@ -59,4 +59,4 @@ The KEF Coda W offers excellent proprietary technology and comprehensive connect
 [5] ecoustics.com - KEF Unveils Coda W: Bluetooth Speakers with aptX Lossless - https://www.ecoustics.com/products/kef-coda-w/ (Accessed December 3, 2025)
 [6] Klipsch The Fives - https://www.klipsch.com/products/the-fives-powered-speakers (Accessed December 3, 2025)
 
-(2025.12.8)
+(2025.12.11)
