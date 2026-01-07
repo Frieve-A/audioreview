@@ -13,5 +13,7 @@ platforms :mingw, :x64_mingw, :mswin, :jruby do
   gem "tzinfo-data"
 end
 
-gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
+# wdm is optional - provides faster file watching on Windows
+# Skip if it fails to build (requires MSYS2 DevKit)
+gem "wdm", "~> 0.2", :platforms => [:mingw, :x64_mingw, :mswin], :require => false
 gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]

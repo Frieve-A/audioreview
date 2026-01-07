@@ -15,6 +15,9 @@ vendor/
 .zshrc
 .profile
 
+# Python virtual environment
+.venv/
+
 # Editor/IDE files
 .vscode/
 .idea/
