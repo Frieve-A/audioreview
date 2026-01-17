@@ -98,4 +98,4 @@ lambda/*/.aws-sam/
 lambda/*/coverage/
 lambda/*/logs/
 lambda/*/tmp/
-lambda/*/temp/
+lambda/*/temp/.codex/
