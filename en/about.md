@@ -90,4 +90,10 @@ We hope our reviews serve as a reliable "yardstick" to help you find the one pro
 
 ---
 
+A scientific introduction to audio for informed product selection (free e-book)
+
+[The End and Rebirth of Audio: Deconstruction and Reconstruction of Audio through Pure Reason](https://deuslibri.com/book/the-end-and-rebirth-of-audio/en)
+
+---
+
 [Frieve Web Site](https://www.frieve.com)
