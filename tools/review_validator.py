@@ -558,6 +558,7 @@ class ReviewValidator:
                     section_match = re.search(section_match_pattern, content)
                     if section_match:
                         section_content = section_match.group(0)
+                        # Required format per policy: $$ \Large \text{0.6} $$
                         score_pattern = r'\$\$ \\Large \\text\{([\d.]+)\} \$\$'
                         score_match = re.search(score_pattern, section_content)
                         if score_match:
@@ -1292,6 +1293,7 @@ class ReviewValidator:
             "CP calculation formula error": "8. **CP Calculation Error**: Use correct formula CP = cheapest_equivalent_price / target_price",
             "Product category mismatch": "9. **Product Category Error**: Compare only products in the same category with equivalent functions",
             "must be in 0.1 increments": "10. **Score Format Error**: All scores must be in 0.1 increments (e.g., 0.1, 0.2, 0.3, etc.)",
+            "Score display not found": "10. **Score Format Error**: Each scoring section must display score using LaTeX format: $$ \\Large \\text{X.X} $$ - do NOT use bold **X.X** format",
             "Permalink structure exceeds": "11. **Permalink Structure Error**: Permalink should not exceed 3 levels (/products or companies/lang/ref/)",
             "Date mismatch": "12. **Date Consistency Error**: Metadata date must match article end date in parentheses",
             "Article end date not found": "12. **Date Consistency Error**: Article must end with date in parentheses using half-width brackets () and dots between year, month, and day (YYYY.M.D)",
@@ -1438,7 +1440,7 @@ class ReviewValidator:
             return "CP Calculation Error"
         elif "product category" in issue_lower or "category mismatch" in issue_lower:
             return "Product Category Error"
-        elif "0.1 increments" in issue_lower or "score format" in issue_lower:
+        elif "0.1 increments" in issue_lower or "score format" in issue_lower or "score display not found" in issue_lower:
             return "Score Format Error"
         elif "latex" in issue_lower or "dollar" in issue_lower or "forbidden" in issue_lower or "backslash" in issue_lower:
             return "Symbol Policy Violation"

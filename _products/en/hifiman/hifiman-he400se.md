@@ -5,60 +5,58 @@ target_name: "HiFiMan HE400se"
 company_id: hifiman
 lang: en
 ref: hifiman-he400se
-date: 2025-08-01
-rating: [3.6, 0.7, 0.7, 1.0, 0.7, 0.5]
+date: 2026-01-21
+rating: [3.7, 0.7, 0.6, 1.0, 0.4, 1.0]
 price: 109
-summary: "An entry-level open-back headphone that delivers excellent measured performance and cost-effectiveness, but requires a dedicated amplifier to shine."
-tags: [Entry-level, HiFiMan, Open-back, "Planar magnetic", Headphones]
+summary: "Open-back planar magnetic headphones featuring Stealth Magnet technology with verified third-party measurements and entry-level positioning."
+tags: [headphones, planar-magnetic, open-back, budget, hifiman]
 permalink: /products/en/hifiman-he400se/
 ---
 
 ## Overview
 
-The HiFiMan HE400se is an entry-level open-back headphone from the company, featuring planar magnetic driver technology. Released in the 2020s, it is positioned at an affordable price point of approximately USD 109 and incorporates a proprietary magnetic circuit design called Stealth Magnets. By its nature as an open-back headphone, it is specialized for listening in quiet environments and is characterized by an open, spacious soundstage.
+The HiFiMan HE400se represents the company's entry-level planar magnetic headphones, incorporating Stealth Magnet technology derived from flagship models [1]. Released in 2020-2021 with the Stealth Magnets version in 2022, these open-back headphones utilize an 80mm planar magnetic driver with ferrite magnets rather than neodymium for cost reduction. HiFiMan, founded by Dr. Fang Bian in 2005, operates dedicated R&D centers and maintains in-house manufacturing in China. The HE400se positions itself at 109 USD as part of HiFiMan's strategy to democratize planar magnetic technology.
 
 ## Scientific Validity
 
 $$ \Large \text{0.7} $$
 
-The HiFiMan HE400se has a frequency response of 20Hz to 20kHz, a low impedance of 25Ω, and a claimed sensitivity of 91dB SPL. In actual measurements, the sensitivity is a relatively low 86.6 dB/mW, meaning it requires significant power to reach adequate volume levels. Regarding its THD characteristics, it achieves the low distortion inherent to planar magnetic drivers at this price point, showing an advantage especially in low-frequency distortion compared to many dynamic driver headphones in the same price range. Channel matching is good, but there is a characteristic dip in the 1-3kHz band typical of HiFiMan products.
+The HE400se demonstrates favorable measurement performance with verified third-party data from Audio Science Review, DIY-Audio-Heaven, Reference Audio Analyzer, and SoundStage Network [2][3][4]. Measured THD remains below 0.2%, approaching the excellent threshold of 0.05% for headphones [3]. Frequency response deviation of approximately ±2-3dB meets the standard threshold of ±3dB with compliance to target curves except for bass region and slight 1.5-3kHz shortfall [2]. These measurements place the HE400se near the transparent level borderline for its category.
 
 ## Technology Level
 
-$$ \Large \text{0.7} $$
+$$ \Large \text{0.6} $$
 
-It adopts a magnetic circuit design called Stealth Magnets that reduces acoustic interference. The 80mm diameter planar magnetic driver uses technology inherited from the company's higher-end models, but it is fundamentally an entry-level design. The impedance characteristic is almost purely resistive at 26.5Ω, with minimal phase shift. However, compared to higher-end models like the Sony MDR-MV1 at approximately USD 400 or the TAGO STUDIO T3-01 at approximately USD 550, there are clear differences in driver accuracy and housing design sophistication.
+HiFiMan demonstrates moderate technology implementation through proprietary Stealth Magnet design and established planar magnetic expertise [1]. The company's in-house development capabilities span from 2009 HE-5 through current flagship models. Stealth Magnet technology with rounded edges reduces acoustic interference, though performance impact remains unclear versus marketing benefit. The 80mm driver utilizes standard planar magnetic principles with silver traces. Single-sided magnet array represents cost-reduction approach rather than technical advancement, limiting overall technology assessment despite genuine innovation elements.
 
 ## Cost-Performance
 
 $$ \Large \text{1.0} $$
 
-The HiFiMan HE400se is priced at approximately USD 109 (as of August 2025, on Amazon.com). Based on the function this product provides—an "open-back listening experience"—and its measured performance, there are virtually no cheaper alternatives within the product group that offers the same function. Regardless of driver technology, when evaluated on a pure performance-to-price basis within its functional category, the cost-performance score is a perfect 1.0.
+CP = 1.0 (no cheaper equivalent-or-better product exists). No equivalent-or-better open-back headphones with verified third-party measurements exist at a lower price point than the HE400SE's 109 USD. Qualified comparisons include Sennheiser HD560S (180-200 USD) with THD 0.05% and sensitivity 99 dB/mW, and HiFiMAN Sundara (279 USD) with THD below 0.5% and sensitivity 90 dB/mW [5]. The HE400se achieves measured THD below 0.2% and sensitivity 86.6 dB/mW. This site evaluates based solely on functionality and measured performance values, without considering driver types or configurations.
 
 ## Reliability & Support
 
-$$ \Large \text{0.7} $$
+$$ \Large \text{0.4} $$
 
-It comes with a 1-year warranty from HiFiMan and is sold through official channels. The company has a solid track record as a veteran manufacturer of planar magnetic headphones, but its support system and repair services are at industry-standard levels. Public information about product failure rates is limited, but it can be assessed as having typical reliability for an entry-level product. As a wired headphone, firmware updates are not applicable.
+HiFiMan provides standard one-year warranty extendable to 18 months through product registration, with global support network availability through an extensive authorized dealer network [1]. The short warranty period represents a negative factor. While forum discussions mention cable and pad quality concerns, these are user-replaceable accessories rather than core product reliability issues. No statistical failure rate data (RMA ratio, MTBF) is publicly available for this specific model, so failure rate assessment remains neutral. Parts availability for repairs may be limited for older or discontinued models. The global manufacturer support infrastructure provides accessibility for warranty service.
 
 ## Rationality of Design Philosophy
 
-$$ \Large \text{0.5} $$
+$$ \Large \text{1.0} $$
 
-The low 25Ω impedance design seems intended for use with portable devices. However, this is paired with a very low measured sensitivity of 86.6 dB/mW, which results in most smartphones and portable players being unable to provide sufficient driving power to unlock its performance. This combination of specifications, where it is designed for portability but requires a stationary amplifier in practice, represents a divergence between design philosophy and actual performance, thus its rationality cannot be rated highly.
+HiFiMan demonstrates exemplary rational design philosophy through technology democratization strategy [1]. Cost allocation prioritizes functional performance over aesthetic elements, utilizing mass production efficiency in Chinese facilities while maintaining in-house control. The approach focuses on scientifically-based planar magnetic technology with proprietary Stealth Magnet innovations rather than marketing-driven features. Clear model progression from HE400s shows measurable improvements in resolution and distortion. Manufacturing decisions favor ferrite magnets over neodymium for cost optimization without compromising core functionality. This represents optimal rational approach to accessible audiophile product development.
 
 ## Advice
 
-The two most critical factors in considering these headphones are **your listening environment** and **whether you have a dedicated headphone amplifier**. As an "open-back" model, it, by design, leaks a significant amount of sound outwards and provides almost no isolation from ambient noise. This makes it **entirely unsuitable** for use in any environment where quiet operation or noise isolation is needed, such as on public transport, in a café, or in an office.
+The HE400se suits users seeking genuine planar magnetic technology at minimal cost with capability for third-party cable upgrades. Immediate stock cable replacement becomes essential due to documented quality issues. Users requiring reliable long-term operation should consider higher-tier alternatives given quality control patterns. The headphones require dedicated amplification despite efficiency claims. Buyers prioritizing measurements over brand prestige will find functional planar magnetic technology at unprecedented pricing. Consider extended warranty options and budget for immediate accessory upgrades when purchasing.
 
-Furthermore, when connected directly to a smartphone or PC, its low sensitivity makes it difficult to achieve adequate volume and clean, undistorted sound quality. To experience the superb acoustic capabilities of this headphone, **a dedicated headphone amplifier is effectively a requirement**.
+## References
 
-If your use is confined to a quiet space at home and you can provide proper amplification, then the HiFiMan HE400se is one of the strongest contenders in its price range. Under these specific conditions, it is difficult to find a product with superior measured performance for less money, regardless of driver type.
+[1] HiFiMan Official HE400se Product Page - https://www.hifiman.com/products/detail/310 - accessed 2026-01-20
+[2] Audio Science Review HE400SE Review - https://www.audiosciencereview.com/forum/index.php?threads/hifiman-he400se-review-headphone.28771/ - accessed 2026-01-20 - GRAS 45C measurement rig
+[3] DIY-Audio-Heaven HE400SE Measurements - https://diyaudioheaven.wordpress.com/headphones/measurements/hifiman/he400se/ - accessed 2026-01-20 - 1mW @ 25Ω test conditions
+[4] Reference Audio Analyzer HE400SE V2 Report - https://reference-audio-analyzer.pro/en/report/hp/hifiman-he400se-v2.php - accessed 2026-01-20
+[5] Audio Science Review HD560S Review - https://www.audiosciencereview.com/forum/index.php?threads/sennheiser-hd560s-review-headphone.29603/ - accessed 2026-01-20 - ASR standardized measurement setup
 
-## Additional Information
-
-This product claims a sensitivity of 91dB SPL, but actual measurements show 86.6 dB/mW. It is important to note this discrepancy. This low sensitivity is the primary reason a headphone amplifier is necessary to achieve sufficient volume. Also, the characteristic dip in the 1-3kHz band is common to many HiFiMan products, and personal preference for this acoustic signature will be an important factor in product selection.
-
-## Review Date
-
-(2025.8.1)
+(2026.1.21)
