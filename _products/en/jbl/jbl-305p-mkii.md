@@ -5,56 +5,61 @@ target_name: "JBL 305P MkII"
 company_id: jbl
 lang: en
 ref: jbl-305p-mkii
-date: 2025-09-06
-rating: [4.0, 0.7, 0.8, 1.0, 0.8, 0.7]
-price: 159
-summary: "A 5-inch nearfield monitor born from JBL's professional monitor series. Boasts high technical performance backed by measurement data including 0.2% THD, 75dB SNR, and 49Hz-20kHz frequency response. Delivers strong cost-performance at 159 USD per unit while offering class-leading measured performance. The Image Control Waveguide offers a wide sweet spot, while the Boundary EQ function is practical for desktop use."
-tags: [305P, 5-inch, Bi-amp, JBL, Professional, Studio monitors]
+date: 2026-01-23
+rating: [3.7, 0.6, 0.8, 1.0, 0.3, 1.0]
+price: 199
+summary: "Powered 5-inch studio monitor featuring proprietary Image Control Waveguide technology from JBL's flagship M2, delivering professional nearfield monitoring capabilities with documented resonance issues affecting accuracy."
+tags: [Nearfield, jbl, powered-monitor, professional-audio, studio-monitor]
 permalink: /products/en/jbl-305p-mkii/
 ---
-
 ## Overview
 
-The JBL 305P MkII is a 5-inch nearfield studio monitor that inherits technology from JBL's professional monitor series. Equipped with dual 82W (41W×2) Class-D amplifiers and featuring a wide frequency response of 49Hz-20kHz in a 2-way bi-amplified configuration. Combining the patented Image Control Waveguide with a 5-inch long-throw woofer and 1-inch neodymium tweeter, it achieves professional-level acoustic performance at an affordable price. It also incorporates practical design features including Boundary EQ function for desktop use and near-wall placement, plus 3-stage HF Trim adjustment capability, making it adaptable to diverse installation environments.
+The JBL 305P MkII is a powered 5-inch two-way studio monitor from JBL Professional, incorporating Image Control Waveguide technology originally developed for their flagship M2 Master Reference Monitor. Priced around 199 USD each, it features dual 41W Class-D amplifiers, balanced XLR and TRS inputs, and adjustable boundary EQ settings. The monitor targets home studios and professional nearfield applications with patented acoustic technologies.
 
 ## Scientific Validity
 
-$$ \Large \text{0.7} $$
+$$ \Large \text{0.6} $$
 
-Official specs document **0.2% THD** (1kHz/2.83VRMS), **75dBA/70dBr SNR**, **49Hz–20kHz (±3dB)**, and **94dB continuous / 108dB peak SPL**[1]. Independent **Klippel NFS** measurements publish full Spinorama data with **3.3dB frequency deviation** and a **Preference Score of 4.89 (7.02 with a perfect sub)**[2][3]. While measurement transparency is strong, these results are **not physically exceptional for a compact 5-inch monitor**, so Scientific Validity is set to **0.7**.
+Third-party measurements from Erin's Audio Corner show THD of 0.2% at 1kHz (above excellent threshold of 0.1% for speakers, but well below problematic level of 1%), frequency response within 49Hz-20kHz (±3dB standard range), but signal-to-noise ratio of 75dB falls below sufficient threshold (80dB). Critical issues include port resonance causing +3dB jump at 1.6-1.8kHz and cabinet resonance dip at 225Hz. Maximum SPL limited to 96dB at 1m due to built-in limiting. Score reflects good THD performance, SNR slightly below sufficient threshold, and standard frequency response with documented resonance issues [1][2].
 
 ## Technology Level
 
 $$ \Large \text{0.8} $$
 
-The 305P MkII incorporates numerous advanced technologies inherited from JBL's higher-end models. The patented Image Control Waveguide achieves detailed stereo imaging and a wide sweet spot. The combination of a 5-inch long-throw woofer and 1-inch neodymium dome tweeter balances efficiency and low distortion. Dual 41W Class-D amplifiers supply ample power while keeping thermal load low. Boundary EQ mitigates low-frequency boost from desktop or near-wall placement, and the 3-stage HF Trim allows fine tuning across rooms. These features directly contribute to measured performance rather than being mere feature add-ons.
+JBL implements proprietary patented technologies including Image Control Waveguide (originally from 9,000 USD M2 Master Reference Monitor) and Slip Stream low-frequency port design. Both represent in-house development with patented design implementations, demonstrating significant know-how accumulation. However, waveguide technology is no longer cutting-edge as similar designs are now implemented by competitors (Kali Audio, Adam Audio, PreSonus) without licensing, making it standard rather than uniquely desirable. Dual Class-D amplification and DSP limiting represent common implementations [3].
 
 ## Cost-Performance
 
 $$ \Large \text{1.0} $$
 
-Typical unit price is **159 USD**. Among products with **equal or better measured performance**, the least-expensive notable competitor is **Kali Audio LP-6 V2** (unit **249 USD**), whose Spinorama-based preference score exceeds that of the 305P MkII[3][4]. Because the 305P MkII itself is **the cheapest option that does not underperform** in measurement terms, its cost-performance score here is **1.0**.
+CP = 1.0 (no cheaper equivalent-or-better product exists). Comprehensive comparison analysis found no qualified candidates offering equivalent-or-better measured performance and functions at lower cost. Candidates including Kali LP-6v2 (200 USD), Adam T5V (209 USD), and Yamaha HS5 (199 USD) were disqualified due to higher pricing, unknown THD specifications, or inferior measured performance. The 305P MkII represents the most cost-effective option combining proprietary waveguide technology with professional connectivity and room adjustment controls [4].
 
 ## Reliability & Support
 
-$$ \Large \text{0.8} $$
+$$ \Large \text{0.3} $$
 
-JBL’s track record in professional audio suggests above-average durability for the 305P MkII. Global distribution supports standard warranty and service levels. Long-term reliability data for Class-D modules remains less extensive than for legacy Class-AB designs, and premium-tier support should not be expected at this price. Nonetheless, basic warranty and repair support are in line with industry norms.
+JBL provides standard 1-year warranty with manufacturer support through phone channels. Known reliability issues include voice coil rub requiring warranty repair, cabinet resonance problems around 225Hz, power-up failures from standby mode, and manufacturing quality control issues with loose components. Third-party repair services available with 7-day turnaround and 180-day service guarantees. Limited global support availability reduces accessibility outside primary markets [5].
 
 ## Rationality of Design Philosophy
 
-$$ \Large \text{0.7} $$
+$$ \Large \text{1.0} $$
 
-The design philosophy prioritizes features that translate to measurable improvements: the Image Control Waveguide, efficient Class-D amplification, and Boundary EQ for practical placement. Omitting RCA inputs is a cost trade-off that may reduce convenience for some users, but aligns with the monitor’s professional, function-first positioning.
+JBL demonstrates rational design through measurement-focused Linear Spatial Reference criteria (72 measurements taken 360 degrees), efficient cost allocation prioritizing acoustic performance over aesthetics, and clear model evolution from LSR305 with measurable improvements including MDF enclosure and enhanced transducers. Modern Class-D amplification and DSP implementation optimize efficiency while flagship technology trickle-down maximizes performance per dollar. Scientific specification approach avoids subjective tuning claims [1].
 
 ## Advice
 
-The 305P MkII offers excellent value for entry-level studio monitoring with professional-grade measured performance. The Image Control Waveguide provides a wide sweet spot ideal for desktop setups, while Boundary EQ helps optimize placement near walls. For users seeking the lowest cost without compromising measurement-based performance, the 305P MkII represents a solid choice. Consider the Kali Audio LP-6 V2 if budget allows for superior preference scores, though the 305P MkII remains competitive for its price point.
+The JBL 305P MkII delivers professional acoustic technologies but requires awareness of documented limitations. Port and cabinet resonance issues affect midrange accuracy, while SPL limiting restricts use to nearfield applications under 96dB. Suitable for home studios and bedroom producers requiring balanced connectivity and room adjustment controls. Consider higher-end alternatives if midrange accuracy is critical, or accept resonance characteristics as compromise for flagship technology implementation.
 
 ## References
-[1] https://jblpro.com/en/products/305p-mkii  
-[2] https://www.erinsaudiocorner.com/loudspeakers/jbl_305pmk2/  
-[3] https://www.spinorama.org/speakers/JBL%20305P%20Mark%20ii/ErinsAudioCorner/index_eac.html  
-[4] https://www.kaliaudio.com/lone-pine-studio-monitors
 
-(2025.9.6)
+[1] JBL Professional - 305P MkII Official Product Page - https://jblpro.com/en-US/products/305p-mkii - accessed 2026-01-22
+
+[2] Erin's Audio Corner - JBL 305P MkII Review - https://www.erinsaudiocorner.com/loudspeakers/jbl_305pmk2/ - accessed 2026-01-22 - Klippel NFS measurement system
+
+[3] Audio Science Review - JBL LSR305P MkII and Control 1 Pro Monitors Review - https://www.audiosciencereview.com/forum/index.php?threads/jbl-lsr305p-mkii-and-control-1-pro-monitors-review.10811/ - accessed 2026-01-22 - Klippel NFS measurement
+
+[4] Erin's Audio Corner - Kali LP-6v2 Review - https://www.erinsaudiocorner.com/loudspeakers/kali_lp-6v2/ - accessed 2026-01-22 - Klippel NFS measurement comparison
+
+[5] Gearspace - JBL 305P MkII Problem Discussion - https://gearspace.com/board/low-end-theory/1239207-jbl-305p-mkii-problem.html - accessed 2026-01-23
+
+(2026.1.23)
