@@ -1,60 +1,73 @@
 ---
 layout: company
-title: "HiFiMAN Review"
+title: "HiFiMAN Company Review"
 target_name: "HiFiMAN"
 company_id: hifiman
 lang: en
 ref: hifiman
-date: 2025-07-23
-rating: [4.0, 0.7, 0.8, 0.9, 0.7, 0.9]
-summary: "A Chinese planar magnetic headphone specialist founded in 2007. Through founder Fang Bian's technological innovation, they expanded planar magnetic headphones, previously limited to high-price ranges, across a wide price spectrum. Products like Sundara, Ananda, and the Arya series have succeeded in providing planar magnetic sound characteristics at accessible prices. While there are quality control challenges, they are an industry leader in technological innovation and price disruption."
-tags: [Budget, China, Headphones, Planar magnetic, Technological Innovation]
+date: 2026-01-24
+rating: [2.8, 0.4, 1.0, 0.6, 0.3, 0.5]
+summary: "Chinese planar magnetic specialist with advanced technology but measurement issues and quality control problems"
+tags: [Headphones, Planar-magnetic, Desktop-electronics, Chinese-manufacturer]
 permalink: /companies/en/hifiman/
 ---
+
 ## Overview
 
-Founded in China by Fang Bian in 2007, HiFiMAN played a revolutionary role in popularizing planar magnetic headphones. Before this company, planar magnetic headphones were limited to ultra-luxury models costing thousands of dollars, but HiFiMAN achieved planar magnetic headphones in the hundreds of dollars range through proprietary technological innovation.
-
-Particularly noteworthy are the company's "Stealth Magnet" technology and "Nanometer Diaphragm" technology. These significantly improved the traditional challenges of planar magnetic designs regarding weight and efficiency issues, with the Sundara achieving a lightweight 372g. They now offer planar magnetic headphones across a wide price range, from the entry-level HE400se to the top-tier Susvara and HE1000 series.
+HiFiMAN Electronics, founded by Dr. Fang Bian in 2005, is a Chinese manufacturer specializing in planar magnetic headphones and desktop audio equipment [1]. Headquartered in Tianjin with operations across multiple facilities, the company generated 31.7 million USD revenue in 2024 across 40 countries [1]. Their current lineup spans 149-15000 USD, from budget HE400SE to flagship Susvara Unveiled. HiFiMAN holds 134 patents and operates fully integrated manufacturing with two factories in China [1]. Recent developments include IPO application to Beijing Stock Exchange and ASUS ROG technology partnership [1].
 
 ## Scientific Validity
 
-$$ \Large \text{0.7} $$
+$$ \Large \text{0.4} $$
 
-The basic scientific advantages of planar magnetic drivers can be confirmed. The Sundara's (approx. USD 299) THD+N performance of 0.2% or less is superior compared to dynamic driver products in the same price range. Additionally, the Susvara (approx. USD 6,000) achieves extremely excellent THD+N of 0.05% or less. However, the company's claims about "nanometer-level diaphragms" have an unclear correlation with actual audible effects, showing strong marketing elements. Variations in measurement performance between products are also a challenge.
+Third-party measurements from ASR and Headphones.com reveal mixed-to-problematic performance across HiFiMAN's lineup [2][3][4]. For THD, flagship Susvara exceeds target at 94dB SPL in 4-5kHz range and shows extreme distortion at 114dB SPL, while Sundara demonstrates issues at 6-7kHz [2]. Regarding frequency response, Sundara shows near-target compliance (upper bass to lower treble), but flagship models lack comprehensive deviation data [2][4]. For S/N ratio and SINAD, desktop EF400 claims 118dB S/N but delivers only 3W versus 4.4W specification with U-shaped THD+N curve, indicating measurement discrepancies versus catalog specifications [3]. Multiple models measured via GRAS 43AG show varying Harman target compliance, with budget models (HE400SE) and mid-range (Edition XS) demonstrating acceptable frequency response but lacking comprehensive distortion benchmarks [4]. Overall, the company's products fall between problematic and transparent thresholds across key metrics, with flagship distortion issues pulling the evaluation toward problematic levels.
 
 ## Technology Level
 
-$$ \Large \text{0.8} $$
+$$ \Large \text{1.0} $$
 
-They lead the industry in mass production technology for planar magnetic drivers. The "Stealth Magnet" technology in particular is a proprietary technology that minimizes acoustic wave interference by optimizing magnet placement, solving traditional planar magnetic problems. Diaphragm technologies like "Nanometer Diaphragm" and "NEO Supernano Diaphragm" are also excellent technologies that achieve both weight reduction and high rigidity. However, there are large technological gaps between upper and lower models, with clear differentiation in technology investment according to price.
+HiFiMAN demonstrates exceptional technology capabilities through 134 proprietary patents and fully in-house development infrastructure [1]. Their NEO Supernano diaphragm technology represents nanometer-scale material science advancement, while Stealth Magnet design enables acoustic transparency through specialized magnetic geometries. Technology value is validated by ASUS licensing arrangements for ROG gaming headsets, indicating competitive advantages sufficient for major manufacturer partnerships [1]. The company's vertically integrated approach from materials development through manufacturing demonstrates accumulated technological know-how with multi-year competitive moats in planar magnetic driver technology.
 
 ## Cost-Performance
 
-$$ \Large \text{0.9} $$
+$$ \Large \text{0.6} $$
 
-The cost-performance is rated extremely high. The company's core products, the HE400se (approx. USD 109) and Sundara (approx. USD 299), have no rivals with comparable performance in their price ranges, giving them a CP score of 1.0. This price disruption has greatly contributed to the popularization of planar magnetic headphones. In contrast, high-end models like the Susvara (approx. USD 6,000) face competition from more affordable rivals like the Meze Empyrean II (approx. USD 2,999), resulting in a divided evaluation with a CP of approx. 0.5 (USD 2,999 ÷ USD 6,000). However, considering the immense value offered by their mainstream entry-to-mid-range products, the company as a whole receives a high score.
+This site evaluates based solely on functionality and measured performance values, without considering driver types or configurations.
+
+Company CP is evaluated using weighted average of representative products. **Edition XV (399 USD, weight 0.4)**: Compared with Audeze LCD-2 Classic (399 USD). THD: HiFiMAN shows issues at 6-7kHz versus Audeze's minimal distortion per ASR [5]. Frequency response: both show near-target Harman compliance. Core functions (open-back planar, balanced cable option) equivalent. CP = 399 ÷ 399 = 1.0. **HE600 (799 USD, weight 0.3)**: Compared with Audeze LCD-2 Classic (399 USD). THD: HiFiMAN flagship models show distortion exceeding target at high SPL versus Audeze's controlled distortion [5]. Functions equivalent. CP = 399 ÷ 799 = 0.5. **EF499 (299 USD, weight 0.3)**: Compared with SMSL SU-6 (100 USD). SINAD: SMSL achieves 120+ dB versus HiFiMAN's U-shaped THD+N curve issues [6]. Functions (USB input, balanced output, desktop form factor) equivalent. CP = 100 ÷ 299 = 0.3.
+
+Weighted CP = (1.0 × 0.4) + (0.5 × 0.3) + (0.3 × 0.3) = 0.64 → 0.6
 
 ## Reliability & Support
 
-$$ \Large \text{0.7} $$
+$$ \Large \text{0.3} $$
 
-Quality control challenges cannot be denied. Particularly, the initial defect rate is higher than other companies, with cable breaks and driver malfunctions reported. The warranty period is 1 year, which is industry standard, but there are variations in repair service response speed and quality. However, they have been working to improve quality in recent years, with improved stability in products from the Edition XS onwards. Community information sharing is also active, with user-to-user problem solving.
+HiFiMAN offers 2-5 year warranty coverage with global dealer network across seven regions, but faces documented reliability challenges [7]. Statistical analysis of 90K Reddit comments shows HiFiMAN with 0.75 reliability rating, the lowest among major headphone manufacturers [7]. Known issues include persistent driver failures, channel imbalance, cable problems, and headband strap breakage across product lines [7]. Parts availability requires weeks to months for procurement, with some older models lacking replacement components. Customer service complaints include poor communication, delayed responses, and inadequate resolution processes despite extensive authorized dealer infrastructure.
 
 ## Rationality of Design Philosophy
 
-$$ \Large \text{0.9} $$
+$$ \Large \text{0.5} $$
 
-The company's design philosophy is extremely rational. They continue technological innovation to maximize the physical advantages of planar magnetic drivers while reducing manufacturing costs. The "Stealth Magnet" technology in particular is an acoustically sound design based on scientific principles. They also provide clear technological differentiation at each price point, offering performance appropriate to price. There are few occult elements, with support from technical papers.
+HiFiMAN's design philosophy emphasizes measurement-focused scientific approach over audiophile mythology, with Dr. Fang Bian's nanomaterials background driving technical development. The company demonstrates rational technology democratization, implementing flagship innovations like Stealth Magnets across price tiers from 149 USD to 15000 USD. Material science focus on diaphragm thickness reduction and magnetic circuit optimization represents quantifiable engineering improvements. However, gap exists between scientific claims and measured performance, with distortion issues in flagship products contradicting transparency objectives. Philosophy maintains scientific rationality but execution shows mixed results in achieving stated acoustic transparency goals.
 
 ## Advice
 
-HiFiMAN products are suitable for those who want to experience planar magnetic headphones or seek high cost-performance. However, it's important to understand quality control challenges before purchasing.
+HiFiMAN offers advanced planar magnetic technology at democratized price points but faces significant quality control and measurement performance challenges. Consider their products when planar magnetic technology is specifically desired and budget constraints favor their pricing versus established competitors like Audeze or Dan Clark Audio. Priority should be given to newer models with improved QC processes, while flagship purchases require careful consideration of documented distortion characteristics. For desktop electronics, competitors like Topping and SMSL demonstrate superior measured SINAD performance at lower cost points. Extended warranty coverage recommended given documented reliability concerns.
 
-- **For Planar Magnetic Beginners**: We recommend starting with the HE400se or Sundara. You can experience the characteristic sound quality of planar magnetic technology at affordable prices.
-- **For Intermediate Users and Above**: Edition XS and Ananda are excellent choices providing near-flagship performance at mid-price ranges.
-- **For Advanced Users**: Susvara, the HE1000 series, and the Arya series are suitable for those seeking the highest level of planar magnetic headphones, though prices are correspondingly high.
+## References
 
-We recommend always auditioning before purchase. It's also important to choose retailers with solid return/exchange policies, considering the possibility of initial defects. Despite quality control challenges, their technological innovation and price disruption continue to have a major impact on the entire audio industry.
+[1] HiFiMan Overview - Wikipedia - https://en.wikipedia.org/wiki/HiFiMan - accessed 2026-01-24
 
-(2025.07.23)
+[2] ASR Susvara Review - https://www.audiosciencereview.com/forum/index.php?threads/hifiman-susvara-headphone-review.50705/ - accessed 2026-01-24 - GRAS 45CA, Topping A90/Benchmark AHB2
+
+[3] Headphones.com EF400 Review - https://headphones.com/blogs/reviews/hifiman-ef400-review-measurements - accessed 2026-01-24 - Independent measurement testing
+
+[4] Headphones.com HiFiMAN Reviews - https://headphones.com/blogs/reviews - accessed 2026-01-24 - GRAS 43AG measurement rig
+
+[5] ASR LCD-X Review - https://www.audiosciencereview.com/forum/index.php?threads/audeze-lcd-x-over-ear-open-back-headphone-review.16777/ - accessed 2026-01-24 - GRAS 45CA measurement rig
+
+[6] ASR DAC Performance Index - https://www.audiosciencereview.com/forum/index.php?pages/Audio_DAC_Performance_Index/ - accessed 2026-01-24
+
+[7] Reddit Reliability Analysis - https://www.headphonesty.com/2025/11/reddit-comments-most-recommended-headphones-complaints/ - accessed 2026-01-24 - 90K comments analysis
+
+(2026.1.24)

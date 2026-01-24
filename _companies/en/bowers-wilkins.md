@@ -1,61 +1,74 @@
 ---
 layout: company
-title: "Bowers & Wilkins (B&W) Company Review"
-target_name: "Bowers & Wilkins (B&W)"
+title: "Bowers & Wilkins Company Review"
+target_name: "Bowers & Wilkins"
 company_id: bowers-wilkins
 lang: en
 ref: bowers-wilkins
-date: 2025-07-24
-rating: [4.0, 0.8, 0.9, 0.6, 0.8, 0.9]
-summary: "Premium British speaker manufacturer founded in 1966. Operates across professional applications from cinemas to recording studios, as well as high-end audiophile products. The diamond tweeters of the 800 series are an iconic industry symbol. Recently expanded into wireless headphones and smart speakers, maintaining its traditional audio brand status while adapting to modern lifestyle needs."
-tags: [Diamond Tweeter, High-end, Professional, Speakers, United Kingdom]
+date: 2026-01-24
+rating: [3.1, 0.6, 0.9, 0.4, 0.5, 0.7]
+summary: "British audio manufacturer with mixed measurement performance across portfolio, strong proprietary technology development, premium pricing structure, and documented reliability concerns affecting overall value proposition."
+tags: [Diamond-tweeter, Headphones, Matrix-cabinet, Premium, Speakers, United Kingdom, Wireless]
 permalink: /companies/en/bowers-wilkins/
 ---
 ## Overview
 
-Founded in 1966 by John Bowers, this British premium audio brand has continued pursuing innovative technology and superior sound quality under the philosophy of "conveying the emotion of music as it truly is." It is known for unique technologies unavailable elsewhere, including the diamond tweeters of the 800 series and proprietary Continuum cone technology.
-
-The company was acquired by Sound United in 2020. Subsequently, in 2022, its parent company Sound United was acquired by the medical technology company Masimo. It is now part of Masimo's portfolio, which also includes other renowned audio brands like Denon, Marantz, and Polk Audio. As part of this major group, the company is actively pursuing modern audio devices including wireless headphones and smart speakers.
+Founded 1966, acquired by Harman/Samsung 2025. British premium audio manufacturer with 323.6 million USD revenue, producing PX headphones and 600/700 speakers. Targets high-end market through luxury partnerships (BMW, McLaren) and studio collaboration [7].
 
 ## Scientific Validity
 
-$$ \Large \text{0.8} $$
+$$ \Large \text{0.6} $$
 
-B&W products demonstrate not only subjective "good sound" but also excellent measured results. The diamond tweeters of the 800 series achieve superior high-frequency characteristics both theoretically and in actual measurements due to their hardness and lightness. The company's developed Continuum cone technology is also scientifically grounded, dramatically reducing mid-range distortion. However, design-focused products sometimes show acoustic compromises, and not all products are scientifically optimized.
+Third-party measurements from RTINGS, ASR, and Hi-Fi News reveal mixed performance across B&W's portfolio [1][2][3]. For THD, the 603 S3 floorstanding shows 0.1% @ 1kHz and <0.1% @ 10kHz at 90dB SPL, approaching transparent levels, while the 607 S2 shows low tweeter distortion but woofer breakup issues [2][3]. Regarding frequency response, the PX8 headphones exhibit >±3dB deviations with overemphasized bass and recessed highs per RTINGS, while the 607 S2 speakers show elevated highs (+5dB above 7kHz) and limited bass extension (-6dB @ 40Hz) per ASR [1][2]. For S/N ratio, the PX8 achieved 4.2/10 on SoundGuys' MDAQS algorithm due to V-shaped frequency curve [4]. Overall, speakers demonstrate acceptable distortion performance but frequency response issues across product lines, while headphones show significant deviation from neutral targets, placing the company between problematic and transparent thresholds.
 
 ## Technology Level
 
 $$ \Large \text{0.9} $$
 
-The company possesses industry-leading technical capabilities. Diamond tweeter manufacturing technology is unmatched by competitors, with active development of proprietary technologies including Continuum cones and Aerofoil profiles. Revolutionary approaches in each speaker design element include Nautilus technology for rear acoustic processing and the Matrix structure for cabinet design. Recent wireless products also apply technologies developed in traditional wired audio, such as Formation technology for high-quality wireless transmission.
+Strong patent portfolio: Continuum cones (8-year development), diamond tweeters, Matrix cabinets. Dedicated Steyning Research Establishment since 1982. Recent innovations include Biomimetic Suspension, solid tweeter construction [7].
 
 ## Cost-Performance
 
-$$ \Large \text{0.6} $$
+$$ \Large \text{0.4} $$
 
-To evaluate the company's overall cost-performance, we examine several representative products. For instance, the flagship 805 D4 (approx. 9,000 USD per pair) can be compared with the Neumann KH 150, which offers equivalent or better measured performance for about 3,800 USD per pair (CP = 3,800 ÷ 9,000 ≈ 0.42). The 603 S3 (approx. 2,600 USD per pair) can be compared to the KEF Q750 (approx. 1,900 USD per pair) (CP = 1,900 ÷ 2,600 ≈ 0.73). Even the top-tier 801 D4 (approx. 38,000 USD per pair) has alternatives like the Genelec 8361A (approx. 13,500 USD per pair) (CP = 13,500 ÷ 38,000 ≈ 0.36). The average CP is approximately 0.50, leading to a score of 0.6. While performance is high, the price heavily reflects brand value and manufacturing costs.
+This site evaluates based solely on functionality and measured performance values, without considering driver types or configurations.
+
+Company CP is evaluated using weighted average of representative products. **PX8 (599 USD, weight 0.4)**: Compared with Sony WH-1000XM5 (250 USD). THD: Sony shows "very low distortion" versus B&W's "very good" per RTINGS [1]. Frequency response: Sony demonstrates more consistent response versus B&W's >±3dB deviations [1]. ANC and Bluetooth functions equivalent. CP = 250 ÷ 599 = 0.4. **607 S2 (450 USD/pair, weight 0.3)**: Compared with JBL 305P MkII (240 USD/pair). THD: JBL shows excellent transient response versus B&W's woofer breakup issues per ASR [5]. Frequency response: JBL provides flat studio tuning versus B&W's +5dB elevated highs [2][5]. Functions (bookshelf form, stereo playback) equivalent. CP = 240 ÷ 450 = 0.5. **603 S3 (1000 USD/pair, weight 0.3)**: Compared with ELAC Debut 2.0 B6.2 (245 USD/pair). THD: both show good distortion performance. Frequency response: ELAC demonstrates better balanced response versus B&W's elevated highs per ASR [6]. Functions equivalent. CP = 245 ÷ 1000 = 0.2.
+
+Weighted CP = (0.4 × 0.4) + (0.5 × 0.3) + (0.2 × 0.3) = 0.37 → 0.4
 
 ## Reliability & Support
 
-$$ \Large \text{0.8} $$
+$$ \Large \text{0.5} $$
 
-Reliability as an established brand is high, with generally excellent product durability. After-sales service is comprehensive, with repair support often available for older products. However, recent wireless products cannot expect the same long-term reliability as traditional passive speakers regarding battery life and long-term firmware update support. Additionally, potential changes in the support structure since the 2022 parent company acquisition warrant future monitoring.
+5-year warranty for speakers, 2-year electronics. Global service network but documented issues: Formation connectivity problems, PX failures, expensive repairs, 4-month delays. Firmware updates continue but service quality inconsistent [8].
 
 ## Rationality of Design Philosophy
 
-$$ \Large \text{0.9} $$
+$$ \Large \text{0.7} $$
 
-Product design is highly rational, with thorough implementation of acoustic engineering principles. All technical elements are organically combined toward the clear goal of "faithful reproduction." The adoption of diamond tweeters is not merely for luxury appeal but is genuinely aimed at improving acoustic characteristics. The design aesthetic also emphasizes functional beauty, ensuring visual appeal doesn't compromise acoustic performance. However, some products show designs that aren't completely rational due to balancing commercial requirements.
+Substantial R&D investment in proprietary technologies shows genuine innovation. However, "True Sound" marketing claims lack scientific backing and measurement verification. Technology advancement proven but transparency limited [7].
 
 ## Advice
 
-B&W is an excellent choice for those seeking a "lifetime" audio system. While pricing is high, it delivers value commensurate with the investment.
+B&W provides genuine innovations (Matrix cabinets, diamond tweeters) but measurement performance varies significantly. Sony WH-1000XM5 and JBL 305P MkII offer better measured performance at lower cost. Consider B&W for specific proprietary tech or studio heritage, but evaluate measurements carefully against premiums. Reliability concerns suggest extended warranty.
 
-- **Audio beginners**: Start with the 600 Series. This allows you to understand B&W's sonic characteristics with a clear upgrade path.
-- **Intermediate to advanced users**: The 700 and 800 Series are the main targets. The 805 D4 is particularly outstanding, condensing 800 Series technology into a compact form.
-- **Professionals**: The 800 Series and Nautilus are suitable, holding industry-standard status in many recording studios.
-- **Modern lifestyle focus**: Wireless products, including the Formation series and PX/PI series, are well-developed.
+## References
 
-We strongly recommend purchasing from authorized dealers. There are significant differences in after-sales service and warranty compared to parallel imports.
+[1] RTINGS PX8 Wireless Review - https://www.rtings.com/headphones/reviews/bowers-wilkins/px8-wireless - 2025 - GRAS 43AG fixture with RA0402 coupler
 
-(2025.07.24)
+[2] ASR B&W 607 S2 Anniversary Review - https://www.audiosciencereview.com/forum/index.php?threads/bowers-wilkins-607-s2-anniversary-edition-review-video.21608/ - accessed 2026-01-23 - Klippel NFS measurement
+
+[3] Hi-Fi News 603 S3 Lab Report - https://www.hifinews.com/content/bw-603-loudspeaker-lab-report - 2026-01-23 - 90dB SPL/1m measurement conditions
+
+[4] SoundGuys PX8 Review - https://www.soundguys.com/bowers-and-wilkins-px8-review-116184/ - accessed 2026-01-23 - HEAD acoustics MDAQS algorithm
+
+[5] JBL LSR305P MKii ASR Review - https://www.audiosciencereview.com/forum/index.php?threads/jbl-lsr305p-mkii-and-control-1-pro-monitors-review.10811/ - Klippel NFS measurement
+
+[6] ELAC Debut 2.0 B6.2 ASR Review - https://www.audiosciencereview.com/forum/index.php?threads/elac-debut-2-0-b6-2-speaker-review.14272/ - Klippel NFS measurement
+
+[7] Bowers & Wilkins Official Technology - https://www.bowerswilkins.com/en/category/loudspeakers/800-series-diamond/ - accessed 2026-01-23
+
+[8] Bowers & Wilkins Support and Warranty - https://support.bowerswilkins.com/app/answers/detail/a_id/10080/~/product-warranty-terms-and-conditions - 2026-01-23
+
+(2026.1.24)

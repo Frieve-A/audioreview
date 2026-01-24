@@ -78,6 +78,7 @@ temp/
 dev/
 sessions/
 .review_agent/
+.review_agent_v2/
 
 # Lambda functions
 lambda/*/node_modules/
