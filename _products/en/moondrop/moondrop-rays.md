@@ -1,53 +1,60 @@
 ---
 layout: product
-title: "Moondrop Rays Product Review"
-target_name: "Moondrop Rays"
+title: "MOONDROP Moondrop Rays Product Review"
+target_name: "MOONDROP Moondrop Rays"
 company_id: moondrop
 lang: en
 ref: moondrop-rays
-date: 2025-08-01
-rating: [4.1, 0.8, 0.8, 1.0, 0.7, 0.8]
-price: 110
-summary: "Gaming IEM with hybrid configuration and DSP functionality. Features excellent measurement performance and high technical level, achieving the lowest price among competing products with equivalent functionality for outstanding cost-performance."
-tags: [DSP, Gaming, Hybrid, In-ear monitors, USB-C]
+date: 2026-01-31
+rating: [3.6, 0.6, 0.9, 1.0, 0.4, 0.7]
+price: 99.99
+summary: "Gaming-focused IEMs with hybrid drivers, USB-C DSP, and AI noise cancellation, but limited by manufacturer-only specifications and quality control issues."
+tags: [Gaming, In-ear monitors, ai, dsp, hybrid, usb-c]
 permalink: /products/en/moondrop-rays/
 ---
 ## Overview
 
-The Moondrop Rays is a gaming-oriented in-ear monitor released in 2025 by Chinese manufacturer Moondrop. It features a hybrid configuration combining a 10mm sapphire-coated diaphragm dynamic driver with a 6mm ring-shaped planar magnetic driver, and incorporates USB-C connectivity with built-in DSP gaming sound card functionality. Positioned as the company's first gaming model, it includes AI voice enhancement algorithms with noise canceling capability and visual multipoint parametric EQ adjustment features. Priced at 110 USD in the US market, it was developed through collaboration with professional gamers.
+The MOONDROP RAYS represents the company's debut into professional gaming audio, combining their established HiFi measurement expertise with gaming-specific optimization. Released in April 2025 at 99.99 USD, this gaming IEM features a hybrid driver configuration with 10mm sapphire-plated dynamic and 6mm annular planar magnetic drivers [1]. The device integrates USB-C DSP technology with AI-powered noise cancellation, parametric EQ functionality, and gaming presets for over 20 popular titles including VALORANT and CS:GO [1]. Developed through collaboration with esports professionals, the RAYS targets competitive gamers requiring both audio accuracy and gaming-specific features like spatial positioning and customizable tuning.
 
 ## Scientific Validity
 
-$$ \Large \text{0.8} $$
+$$ \Large \text{0.6} $$
 
-Total harmonic distortion measures below 0.05% at 1kHz, meeting the excellent standards for IEM products. Frequency response claims a wide bandwidth of 7Hz-39kHz, with effective bandwidth achieving within -3dB from 20Hz-20kHz. Sensitivity of 120dB/Vrms ensures sufficient output levels, while 30Ω impedance suits general-purpose equipment driving. The hybrid configuration combines dynamic driver low-frequency reproduction capability with planar magnetic driver high-frequency characteristics. DSP processing is expected to improve signal quality, though specific S/N ratio and crosstalk values are not disclosed. Performance within measurable ranges is good, but achieving transparent levels remains partially unclear.
+Manufacturer specifications indicate THD of ≤0.05% at 1kHz, demonstrating excellent distortion control on paper [1]. Frequency response spans 20-20,000 Hz effective range with sensitivity rated at 120 dB/Vrms [1]. However, no third-party measurements are available from credible sources including Audio Science Review, Erin's Audio Corner, RTINGS, or Crinacle [2]. Critical metrics including signal-to-noise ratio, crosstalk measurements, and frequency response deviation from established targets remain undocumented [2]. The evaluation is severely limited to manufacturer claims without independent laboratory verification, preventing definitive assessment of actual measured performance.
 
 ## Technology Level
 
-$$ \Large \text{0.8} $$
+$$ \Large \text{0.9} $$
 
-The hybrid driver configuration is technically sophisticated, with the 10mm dynamic driver employing a sapphire-coated diaphragm combined with a 6mm ring-shaped planar magnetic driver demonstrating design originality. USB-C connectivity with a built-in DSP sound card using 4-layer gold-plated circuit boards and precision-designed components represents advanced industry implementation. NPU integration executing AI voice enhancement algorithms demonstrates technical advancement beyond conventional ENC. Visual multipoint parametric EQ functionality enables detailed adjustment of filter type, gain, Q-value, and frequency. These technologies demonstrate progressiveness exceeding current industry standards.
+The RAYS demonstrates advanced technology integration through several cutting-edge implementations. The AI-powered noise cancellation with embedded Neural Processing Unit represents emerging technology introduced in gaming audio around 2023 [3]. USB-C digital interface provides zero-latency transmission with integrated DSP functionality for parametric EQ control [3]. The hybrid driver configuration combines established dynamic driver technology with recent annular planar magnetic variants [3]. MOONDROP's proprietary patents and in-house design capabilities, combined with measurement-driven development using professional equipment, indicate significant accumulated technological expertise [3]. Minor marketing-focused elements like sapphire diaphragm plating prevent a perfect score.
 
 ## Cost-Performance
 
 $$ \Large \text{1.0} $$
 
-Alternative products with equivalent or superior functionality and measurement performance include the SteelSeries Arctis GameBuds (220 USD), HyperX Cloud Mix Buds 2 (165 USD), and Razer Hammerhead Pro HyperSpeed (220 USD). All these products feature USB-C connectivity with DSP processing, gaming optimization, and digital signal processing capabilities. Among these, the most affordable alternative is the HyperX Cloud Mix Buds 2 at 165 USD. However, the Moondrop Rays is priced even lower. As it is the lowest-priced product in the world offering equivalent functionality and measurement performance, it achieves a perfect cost-performance score of 1.0. As a product integrating DSP functionality, AI voice enhancement, parametric EQ, and USB-C sound card features, it achieves exceptionally excellent pricing.
+CP = 1.0. No qualified comparison candidates were identified that offer equivalent-or-better performance at lower pricing [4]. All evaluated products including 7Hz Salnotes Zero (20 USD) and Moondrop Chu II (19 USD) lack essential gaming functions despite superior measured performance from third-party sources [4]. The unique combination of USB-C DSP integration, AI noise cancellation microphone, parametric EQ with gaming presets, and zero-latency digital transmission creates a functional gap in the market [4]. While budget IEMs demonstrate excellent acoustic performance, none provide the specialized gaming infrastructure that defines the RAYS' value proposition.
 
 ## Reliability & Support
 
-$$ \Large \text{0.7} $$
+$$ \Large \text{0.4} $$
 
-Moondrop is a relatively new manufacturer established in 2015, but has established an industry position through hit products like the Aria, Starfield, and Blessing. Specific failure rate data is not publicly available, but market evaluation of the company's products is generally favorable. The warranty period is standard, with support systems established through authorized distributors in the US market. Regarding firmware update support, future updates are expected for DSP-equipped products, but long-term support policies are not clearly defined. As an emerging manufacturer, it maintains industry-average support systems, but long-term reliability requires an accumulated track record.
+Warranty coverage spans only 1 year for IEMs with 3 months for cables, handled through retailer-dependent support rather than direct manufacturer service [3]. Quality control inconsistencies are documented, including missing cable chin sliders and concerns about plastic-feeling construction despite metal appearance [3]. The product has been listed as discontinued in some markets as of 2025, potentially affecting long-term support availability [3]. While firmware updates remain active through the MOONDROP Link app v1.2.21, the overall support infrastructure shows significant limitations including limited global coverage and repair service availability [3].
 
 ## Rationality of Design Philosophy
 
-$$ \Large \text{0.8} $$
+$$ \Large \text{0.7} $$
 
-The design philosophy specialized for gaming applications is scientifically rational. DSP signal processing, AI voice enhancement, and parametric EQ functionality all represent technologies with measurable sound quality improvement effects. The hybrid driver configuration is a rational approach utilizing each driver's physical characteristics. USB-C connectivity enables high-quality signal processing without battery-driven constraints through external power supply. Software adjustment functionality enables optimization according to user preferences and applications. However, for general music listening, these specialized features are not necessarily required, and simpler high-quality driver designs may be more rational in some cases. The specialization for gaming applications demonstrates a clear direction.
+MOONDROP maintains their science-based measurement approach while adapting to gaming market requirements, allocating high cost priority to performance and function over brand premium [1]. The integration of cutting-edge AI/DSP technology and parametric EQ control demonstrates rational technological advancement [1]. However, design philosophy is partially compromised by marketing-focused elements including sapphire diaphragm plating without demonstrated audible benefit and unverifiable gaming optimization claims [1]. Color-shifting metal faceplates and aesthetic spending detract from purely functional allocation [1]. Despite these concerns, the core philosophy remains measurement-driven with innovative digital integration representing logical evolution of their HiFi expertise.
 
 ## Advice
 
-The Moondrop Rays is a high-quality IEM specialized for gaming applications, featuring excellent measurement performance and advanced technology. For competitive gaming and streaming where sound positioning and voice communication quality are critical, users will benefit from its DSP functionality and AI voice enhancement. Compared to competing products with equivalent functionality (SteelSeries Arctis GameBuds, HyperX Cloud Mix Buds 2, Razer Hammerhead Pro HyperSpeed), it achieves the lowest price, with 110 USD representing exceptionally excellent cost-performance. For gamers seeking advanced features like DSP processing, parametric EQ, and AI voice enhancement, this represents the most rational choice currently available in the market. While USB-C connectivity enables smartphone use, PC environments are preferable for full DSP functionality utilization. For pure music listening applications where gaming-specific features are unnecessary, considering more affordable alternatives is recommended.
+The MOONDROP RAYS targets a specific niche requiring gaming-focused features that standard IEMs cannot provide. For competitive gamers needing parametric EQ control, AI noise cancellation, and zero-latency USB-C connectivity, the RAYS offers unique functionality at 99.99 USD [1]. However, potential buyers should be aware of quality control concerns and limited warranty support [3]. The lack of third-party measurements creates uncertainty about actual acoustic performance compared to manufacturer claims [2]. For pure audio reproduction without gaming features, alternatives like the 7Hz Salnotes Zero offer superior verified performance at significantly lower cost [4]. Choose the RAYS only if gaming-specific DSP functionality and microphone capabilities are essential requirements.
 
-(2025.8.1)
+## References
+
+[1] MOONDROP RAYS Gaming In-Ear Monitor - https://moondroplab.com/en/products/rays - accessed 2026-01-31
+[2] Audio Science Review Forum - https://www.audiosciencereview.com/forum/index.php?tags/moondrop/ - accessed 2026-01-31
+[3] Headfonics Review - https://headfonics.com/moondrop-rays-review/ - accessed 2026-01-31
+[4] Audio Science Review - 7Hz Salnotes Zero IEM Review - https://www.audiosciencereview.com/forum/index.php?threads/7hz-salnotes-zero-iem-review.50226/ - accessed 2026-01-31
+
+(2026.1.31)
