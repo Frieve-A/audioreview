@@ -5,56 +5,67 @@ target_name: "Final"
 company_id: final
 lang: en
 ref: final
-date: 2025-07-26
-rating: [4.0, 0.8, 1.0, 0.3, 0.9, 1.0]
-summary: "Final Inc. is a Japanese veteran audio manufacturer founded in 1974. Starting with cartridges, amplifiers, and speakers, they are now globally acclaimed for high-end headphones and IEMs. Their flagship models D8000 (planar magnetic) and A8000 (pure beryllium diaphragm) pursue innovative technologies, while the E1000-E5000 series provides high-quality acoustic experiences for entry users in the approx. USD 16-192 price range. Their technical prowess and commitment to sound quality are industry-leading, though cost-performance is limited due to the existence of more affordable alternatives."
-tags: [Beryllium, Earphones, Headphones, High-end, Japan, Planar magnetic]
+date: 2026-02-08
+rating: [2.4, 0.5, 0.8, 0.0, 0.4, 0.7]
+summary: "Japanese audio manufacturer with proprietary technologies and measurement-focused approach, but limited third-party verification and high pricing relative to performance alternatives."
+tags: [Japan, Headphones, Earphones, Planar magnetic, Beryllium]
 permalink: /companies/en/final/
 ---
+
 ## Overview
 
-Final Inc. is a Japanese acoustic equipment manufacturer established in 1974. The company changed its name from S'NEXT Co., Ltd. to Final Inc. in 2020. For over 50 years, they have handled a wide range of products from cartridges, turntables, amplifiers, and speakers to headphones and IEMs. Currently, they are headquartered in Kawasaki, Kanagawa Prefecture.
-
-The company employs its proprietary AFDS (Air Film Damping System) in the D8000 and uses a pure beryllium diaphragm in the A8000. The E1000-E5000 series ranges from approximately USD 16 to USD 192, with the E3000 winning the VGP Gold Award for four consecutive years.
+Final Audio (stylized as "final") is a Japanese high-end audio manufacturer founded in 2007, with roots tracing to 1974. Based in Kawasaki, the company develops proprietary technologies including f-Core drivers, Air Film Damping System (AFDS), and patent-pending Perceptual Transparency Measurement (PTM) methodology. Current product portfolio spans flagship D8000 Pro planar magnetic headphones (4,299 USD), beryllium-diaphragm A-series earphones, and recent wireless UX series expansions.
 
 ## Scientific Validity
 
-$$ \Large \text{0.8} $$
+$$ \Large \text{0.5} $$
 
-Final's product development adopts scientifically-based approaches in acoustic engineering. The AFDS (Air Film Damping System) employed in the D8000 was developed using finite element method and laser Doppler vibrometer diaphragm simulation, theoretically and practically solving conventional weaknesses of planar magnetic types. The pure beryllium diaphragm in the A8000 has a scientific basis as an ideal diaphragm material next to diamond, with physical properties of specific gravity 1.85 and sound velocity 12,900m/s. The E4000 and E5000 series incorporate psychoacoustic research to avoid high-frequency masking effects, with effectiveness verified by many independent measurement institutions.
+Comprehensive third-party measurements from major evaluation sites (ASR, RTINGS) remain unavailable for Final Audio products. Partial frequency response data exists from Crinacle for D8000 Pro, A8000, and E5000 [2][3][5], with the D8000 Pro showing a prominent peak around 1kHz and a deep recession at 2.5kHz, indicating notable deviations from Harman target. No published THD, SNR, or IMD data from independent laboratories exists for any flagship model. Scientific Validity cannot be comprehensively evaluated due to insufficient standardized measurement data; the score of 0.5 reflects this data limitation and is applied conservatively.
 
 ## Technology Level
 
-$$ \Large \text{1.0} $$
+$$ \Large \text{0.8} $$
 
-The A8000 employs a tetra-chamber structure (dividing the driver unit interior into 4 chambers). The D8000 improves low-frequency reproduction performance in 50mm drivers through AFDS technology. They maintain an integrated production system at their headquarters factory, possessing pure beryllium processing technology and stainless steel mirror finishing technology. Former engineers from Sony and Yamaha participate in development.
+Final demonstrates advanced proprietary technologies with patent-pending PTM evaluation methodology representing genuine innovation in audio measurement science [6]. The company developed f-Core driver architecture with brass housing and 30-micron ultrathin CCAW voice coils, AFDS technology preventing diaphragm-magnet contact in planar designs, and beryllium foil implementation. Complete in-house design and manufacturing capabilities since 2009, combined with 50+ years accumulated expertise, establish strong technological foundation despite some previously cutting-edge innovations becoming industry standard.
 
 ## Cost-Performance
 
-$$ \Large \text{0.3} $$
+$$ \Large \text{0.0} $$
 
-The representative D8000 (market price approx. USD 2,736) is compared to the HIFIMAN Ananda Nano (approx. USD 624), which offers equivalent or better measured performance, resulting in a CP of approx. 0.23. Similarly, the A8000 (approx. USD 1,361) compared to the Moondrop Blessing 3 (approx. USD 309) has a CP of approx. 0.23, and the E5000 (approx. USD 192) compared to the Truthear Hexa (approx. USD 70) has a CP of approx. 0.36. As the performance of these flagship products can be achieved with more affordable alternatives, the company's overall cost-performance is evaluated as limited.
+Evaluation across three representative products, weighted by product line significance: D8000 Pro (0.4), A8000 (0.3), E5000 (0.3).
+
+**D8000 Pro (4,299 USD)**: Open-back, wired, over-ear headphone with no DSP or wireless functions. Comparator: HiFiMAN HE400SE (109 USD), an open-back wired over-ear headphone with equivalent user-facing functions. ASR measurements confirm HE400SE achieves THD below 0.2% and frequency response close to Harman target at typical listening levels [1]. The D8000 Pro shows notable frequency response deviations from Harman target (1kHz peak, 2.5kHz recession) per Crinacle measurements [2]. HE400SE demonstrates equivalent-or-better measured performance based on available data. CP = 109 USD ÷ 4,299 USD = 0.025.
+
+**A8000 (1,999 USD)**: Wired IEM with MMCX detachable cable, no DSP or wireless functions. Comparator: Salnotes Zero (20 USD), a wired IEM with detachable cable and equivalent user-facing functions. Crinacle frequency response measurements show the Salnotes Zero achieves closer conformance to Harman target than the A8000's V-shaped response with significant midrange recession [3][4]. Comparison is provisional due to limited third-party THD data for both products. CP = 20 USD ÷ 1,999 USD = 0.010.
+
+**E5000 (279 USD)**: Wired IEM with MMCX detachable cable. Comparator: Salnotes Zero (20 USD). Crinacle measurements show the E5000 exhibits a warm, bass-heavy response with deviation from Harman target, while the Salnotes Zero achieves closer target conformance [4][5]. Comparison is provisional. CP = 20 USD ÷ 279 USD = 0.072.
+
+Weighted CP = (0.025 × 0.4) + (0.010 × 0.3) + (0.072 × 0.3) = 0.010 + 0.003 + 0.022 = 0.035 → 0.0.
 
 ## Reliability & Support
 
-$$ \Large \text{0.9} $$
+$$ \Large \text{0.4} $$
 
-The quality control through an integrated in-house manufacturing system and the top-class warranty period of 1, 2, or 5 years depending on the product are highly commendable. A comprehensive domestic after-sales service system is also maintained in Japan. However, the number of global support locations is limited compared to the largest manufacturers, which is reflected in the overall score. Publicly available RMA rates and failure report data are limited.
+Standard one-year warranty period falls below industry average, with dealer-based support system providing global coverage through authorized retailer network [7]. Repair services available during and after warranty with costs ranging 20-50% of retail price for out-of-warranty repairs. No systematic quality issues documented, though isolated driver failures reported in D8000 models and occasional seal problems in A6000 units. Service timeline up to seven working days represents adequate but not exceptional support responsiveness compared to direct manufacturer service models.
 
 ## Rationality of Design Philosophy
 
-$$ \Large \text{1.0} $$
+$$ \Large \text{0.7} $$
 
-The company makes technology choices based on scientific evidence. The A8000's beryllium diaphragm represents material selection based on physical properties of specific gravity 1.85 and sound velocity 12,900m/s. D8000's AFDS technology was developed using finite element method and laser Doppler vibrometer simulation. The E1000-E5000 series all employ 6.4mm drivers with tuning based on psychoacoustic research. No unscientific elements are included in the design.
+Final Audio demonstrates a measurement-focused scientific methodology through its proprietary PTM evaluation system, representing a genuinely scientific approach to audio development [6]. Continuous model progression from D8000 to D8000 Pro shows documented performance improvements, and recent TONALITE AI personalization technology reflects forward-looking functional integration. However, the company's premium product pricing (D8000 Pro at 4,299 USD, A8000 at 1,999 USD) is not proportionate to measured performance advantages over substantially cheaper alternatives, indicating that a significant portion of costs does not directly contribute to measurement performance improvement. Investment in expensive materials such as beryllium diaphragms, brass housings, and mirror-polished stainless steel has not been demonstrated to produce measurably superior results compared to conventional approaches at a fraction of the price.
 
 ## Advice
 
-They provide product lineups suitable for users seeking products using the highest-grade technologies.
+Final Audio suits users specifically valuing Japanese engineering heritage and proprietary measurement methodologies. The company's PTM evaluation approach and TONALITE AI personalization offer genuine technical innovation. However, limited third-party measurement verification and substantial price premiums relative to alternatives with equivalent-or-better measured performance require careful consideration. Budget-conscious users seeking maximum measured performance per dollar will find significantly better value from competitors such as HiFiMAN and Moondrop.
 
-- **Price-range products**: E1000 (approx. USD 16), E3000 (approx. USD 35), E4000 (approx. USD 105), and E5000 (approx. USD 192) are available with 6.4mm drivers.
-- **Premium models**: A8000 (approx. USD 1,361) with a pure beryllium diaphragm and D8000 (approx. USD 2,736) with AFDS technology are available.
-- **Awards**: The E3000 has won the VGP Gold Award for four consecutive years.
+## References
 
-A generous 1, 2, or 5-year product warranty, depending on the model, is available through authorized dealer purchases.
+[1] Audio Science Review, HiFiMAN HE400SE Review - https://www.audiosciencereview.com/forum/index.php?threads/hifiman-he400se-review-headphone.28771/ - accessed 2026-02-08
+[2] Crinacle, Final D8000 Pro Frequency Response - https://crinacle.com/graphs/headphones/final-d8000-pro/ - accessed 2026-02-08
+[3] Crinacle, Final A8000 Frequency Response - https://crinacle.com/graphs/iems/final-audio-a8000/ - accessed 2026-02-08
+[4] Crinacle, Salnotes Zero Frequency Response - https://crinacle.com/graphs/iems/salnotes-zero/ - accessed 2026-02-08
+[5] Crinacle, Final E5000 Frequency Response - https://crinacle.com/graphs/iems/final-audio-e5000/ - accessed 2026-02-08
+[6] Final Audio, About Us - https://snext-final.com/en/aboutus/ - accessed 2026-02-08
+[7] Final Audio, Warranty FAQ - https://snext-final.com/en/series/faq/id=770 - accessed 2026-02-08
 
-(2025.07.26)
+(2026.2.8)
