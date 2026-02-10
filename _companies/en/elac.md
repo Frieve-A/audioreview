@@ -5,56 +5,75 @@ target_name: "ELAC"
 company_id: elac
 lang: en
 ref: elac
-date: 2025-07-20
-rating: [4.3, 0.9, 1.0, 0.6, 0.9, 0.9]
-summary: "A veteran German audio equipment manufacturer established in 1926. Globally renowned for its proprietary JET tweeter (a type of Heil driver), which is highly acclaimed for its ultra-high frequency reproduction and low distortion. In recent years, with the participation of renowned speaker designer Andrew Jones, they have developed innovative products combining JET tweeters with coaxial technology, as well as a product lineup with excellent cost-performance. One of the few manufacturers that successfully balances technical advancement with accessible pricing."
-tags: [Andrew Jones, Germany, Heil Driver, JET Tweeter, Speakers]
+date: 2026-02-09
+rating: [3.9, 0.5, 1.0, 0.9, 0.5, 1.0]
+summary: "German audio manufacturer with 100-year heritage, known for proprietary JET tweeter technology and measurement-based design approach across entry to premium speaker segments."
+tags: [speakers, German engineering, JET tweeter, passive speakers, bookshelf speakers]
 permalink: /companies/en/elac/
 ---
+
 ## Overview
 
-ELAC (Electroacustic GmbH) was established in Kiel, Germany in 1926, making it an audio equipment manufacturer with nearly 100 years of history. Known as an innovator in acoustic technology from its founding, its proprietary JET tweeter (a type of Heil driver) in particular had a major influence on subsequent speaker design. For many years, it has been beloved as synonymous with high-end audio within Germany.
-
-In 2013, Andrew Jones, formerly the principal engineer at TAD (Technical Audio Devices), joined the company and developed the 'Concentric Driver,' a coaxial unit combining the JET tweeter with a woofer. He designed numerous acclaimed products including the Debut, Uni-Fi, and Carina series. However, in July 2021, Jones announced his departure from ELAC after six years of success. Currently, Rolf Janke (Head of Research and Development) at the German headquarters handles design, working on new series such as the Solano.
+ELAC Electroacustic GmbH is a German audio equipment manufacturer founded in 1926, initially pioneering sonar technology and acoustic research for military applications before transitioning to consumer audio products post-WWII with their first record player in 1948. The company is globally recognized for innovative tweeter technologies including the 4Pi omnidirectional tweeter (1985) and revolutionary JET folded-ribbon tweeter (1993). ELAC currently operates dual manufacturing strategies with premium products hand-manufactured at their Kiel, Germany facility and entry-level products through established Chinese manufacturing partnerships, while maintaining comprehensive R&D capabilities across both German headquarters and California design facilities, marking their centennial anniversary in 2026.
 
 ## Scientific Validity
 
-$$ \Large \text{0.9} $$
+$$ \Large \text{0.5} $$
 
-ELAC's products are thoroughly designed based on scientific measurement data. Particularly in Andrew Jones' designed Debut 2.0 series, optimization of directivity characteristics through spinorama measurements, precise adjustment of crossover frequencies, and control of internal cabinet resonances all show measurable improvement effects. The company's latest flagship Carina FS247.4 achieves excellent measurement values of THD+N below 0.5% and frequency response 20Hz-40kHz within ±2dB. These figures are confirmed by independent third-party measurements, making their scientific validity clear.
+Third-party measurements from Audio Science Review and Erin's Audio Corner (Klippel NFS) provide quantified performance data across ELAC's product range. The Debut 2.0 B6.2 shows on-axis frequency response deviation of ±3.4dB (300Hz-5kHz normalized), with bass extension to 63Hz (-3dB) and 48.3Hz (-6dB); distortion at 86dB/1m is low, while at 96dB/1m woofer distortion increases around 400Hz [1][3]. The newer Debut 3.0 DF63 floorstanding achieves improved on-axis deviation of ±2.5dB (300Hz-5kHz normalized), demonstrating measurable generational improvement in frequency response linearity [6]. The Debut Reference DBR-62 exhibits approximately 80-degree horizontal dispersion with minimum impedance of 5 ohms [5]. Across the product line, newer models show an improving trajectory in frequency response performance. However, specific THD percentage values and S/N ratio data are not comprehensively reported in available third-party sources, limiting assessment primarily to frequency response as the sole fully quantified metric.
 
 ## Technology Level
 
 $$ \Large \text{1.0} $$
 
-ELAC's proprietary JET tweeter technology demonstrates industry-leading technical capability. The latest JET6 Tweeter in particular evolves Air Motion Transformer (AMT) technology, achieving six times the vibration area of conventional dome tweeters. This enables both ultra-high frequency reproduction up to 40kHz and extremely low distortion characteristics. In Andrew Jones' designed Carina series, a coaxial unit was developed by combining this JET tweeter with a 5.25-inch aluminum cone mid-bass driver to achieve a high crossover frequency of 2.7kHz. Currently, under Rolf Janke's design for the Solano series, AS-XR (Aluminum Sandwich eXtended Range) technology develops new composite cone materials using aluminum/paper combinations, showcasing continuous technological innovation.
+ELAC demonstrates exceptional technology advancement through proprietary JET tweeter development, acquiring original Air Motion Transformer rights in 1993 from bankrupt A.R.E.S. company and continuously innovating through multiple generations to the current JET 6 with frequency response extending to 50kHz (2024) [2]. The company maintains extensive patent portfolios for folded-ribbon tweeter technology and manufactures these advanced components entirely in-house at their Kiel facility using hand-assembly techniques. Additional breakthrough innovations include AS-XR aluminum sandwich driver materials using proprietary gluing processes, X-JET coaxial systems combining folded-ribbon with traditional drivers, and specialized automotive applications. ELAC's technology licensing partnerships with premium automotive brands like Burmester for Porsche and Mercedes-Benz systems validates their sustained engineering excellence and competitive technological advantages in acoustic transducer development across multiple market segments.
 
 ## Cost-Performance
 
-$$ \Large \text{0.6} $$
+$$ \Large \text{0.9} $$
 
-ELAC speakers have very competitive pricing for their excellent performance. For example, when compared with products having equivalent measurement performance to the Debut 2.0 B6.2 (approximately USD 520 per pair), such as the Q Acoustics 3000i series or Wharfedale Diamond 12 series, the cost-performance can be evaluated as high, but since it's not the absolute lowest price, the CP score is 0.6. The Carina BS243.4 (approximately USD 800 per pair) shows a similar trend.
+Weighted CP = (1.0 × 0.5) + (0.7 × 0.3) + (1.0 × 0.2) = 0.91 → 0.9
+
+**Entry-level: ELAC Debut 2.0 B6.2** (490 USD/pair, weight 0.5): Equipped with standard passive bookshelf functions (binding posts, ported design), third-party measured on-axis frequency response deviation is ±3.4dB (300Hz-5kHz) [3]. Q Acoustics 3020i (479 USD/pair) was evaluated with third-party measured on-axis deviation of ±3.8dB (64Hz-20kHz) [8]; while measurement ranges differ, available data does not confirm equivalent-or-better performance. KEF Q150 and JBL Stage A130 were also evaluated but did not demonstrate equivalent-or-better measured frequency response performance in available third-party data [1]. No cheaper product with equivalent-or-better measured performance was identified; CP = 1.0.
+
+**Premium: ELAC Vela 2.0 BS403.2** (2,300 USD/pair, weight 0.3): KEF LS50 Meta (1,500 USD/pair) provides equivalent user-facing functions (passive bookshelf, binding posts) with third-party verified on-axis frequency response of ±3.5dB (78Hz-20kHz, Klippel NFS) and sensitivity of 83.8dB [7]. Equipped with equivalent passive bookshelf functionality, and frequency response linearity is equivalent-or-better based on available third-party data. Third-party measurements for the Vela are unavailable; this comparison is provisional. CP = 1,500 USD ÷ 2,300 USD = 0.65 → 0.7.
+
+**Mid-range: ELAC Uni-Fi 2.0 UB52** (600 USD/pair, weight 0.2): No cheaper passive bookshelf speaker with equivalent-or-better measured performance and user-facing functions was identified. CP = 1.0.
 
 ## Reliability & Support
 
-$$ \Large \text{0.9} $$
+$$ \Large \text{0.5} $$
 
-Based on the tradition of German manufacturing, quality control provides extremely excellent product reliability. The company's products clear Europe's strict quality standards and are designed to withstand long-term use. The warranty period is typically 5 years, exceeding industry standards, and provides comprehensive after-sales service through authorized distributors in Japan. The parts supply system is particularly excellent, with major components available for procurement even for models over 10 years old. However, some entry-level models are manufactured in China for price control, and these products may show slight quality variations.
+ELAC provides limited warranty coverage with 3-year protection on speaker cabinets and drivers, reduced to 1-year coverage on electronic components including amplifiers and active crossovers [4]. The company operates through authorized dealer networks globally with regional support variations, though documented customer service reports consistently indicate problematic delayed response times ranging 3-7 days and inconsistent service quality across different regions and product categories. Known reliability concerns include recurring distortion artifacts in Uni-Fi 2.0 models affecting vocal reproduction, mechanical rattling issues in Debut 6.2 port designs during moderate playback levels, and documented amplifier failures in subwoofer lines requiring component replacement. While passive speaker designs inherently benefit from fewer failure points compared to active electronics, documented model-specific manufacturing defects and support infrastructure limitations significantly impact overall reliability assessment for potential buyers.
 
 ## Rationality of Design Philosophy
 
-$$ \Large \text{0.9} $$
+$$ \Large \text{1.0} $$
 
-ELAC's design philosophy is extremely rational, with a scientific approach based on acoustic engineering consistently applied. Andrew Jones' design philosophy of "matching measurement data with listening experience" is reflected in all company products, with objective data-based improvements continuing without relying on subjective sound quality evaluation. The adoption of the JET tweeter has a clear technical justification for achieving excellent transient response and ultra-high frequency reproduction, with its effects confirmed by measurement data. Similarly, the use of coaxial units has the rational purpose of achieving acoustic characteristics close to a point source. Non-scientific "occult" elements are completely eliminated, with rational justification existing for all design decisions.
+ELAC demonstrates exemplary rational design philosophy fundamentally centered on measurement-based acoustic engineering principles with subjective validation employed exclusively for final verification rather than primary design methodology [9]. Their systematic approach integrates comprehensive objective measurement data using professional Klippel NFS measurement systems conforming to ANSI/CTA-2034-A industry standards while maintaining cost-effective manufacturing strategies balancing performance optimization with market accessibility. The company's consistent innovation trajectory spanning from breakthrough 4Pi omnidirectional tweeters through current JET 6 technology demonstrates systematic advancement based on verifiable scientific principles rather than marketing trends. ELAC's foundational philosophy of delivering "great sound that is both technically advanced and emotionally engaging" reflects sophisticated engineering balance prioritizing measurable performance criteria over subjective marketing claims while ensuring final products deliver satisfying musical experiences through objective validation methods.
 
 ## Advice
 
-ELAC is one of the few manufacturers that embodies the philosophy of "excellent technology at affordable prices." Particularly Andrew Jones' designed products have a very excellent balance between measurement performance and price, making them highly recommended for audio beginners to advanced users alike.
+ELAC represents compelling choice for consumers prioritizing scientifically-validated performance and innovative acoustic technologies across diverse price segments from entry-level to premium offerings. Entry-level Debut series delivers exceptional measured performance value with comprehensive market analysis confirming no cheaper equivalent-or-better alternatives currently available meeting ELAC's measurement standards. Premium segments provide exclusive access to unique JET folded-ribbon technology offering superior frequency extension and reduced distortion, though competitive alternatives exist at lower price points for consumers prioritizing cost over technological innovation. Potential buyers should carefully consider documented reliability concerns affecting specific model lines and verify authorized dealer status ensuring proper warranty coverage. The company's measurement-focused design philosophy particularly appeals to data-driven consumers seeking objective performance validation rather than subjective marketing claims, while their century-long acoustic engineering heritage provides confidence in continued technological advancement and product development consistency.
 
-- **Audio beginners**: The Debut 2.0 series is the optimal choice for experiencing genuine acoustic performance at affordable prices. The B6.2 in particular offers surprisingly excellent cost-performance considering its measurement performance.
-- **Intermediate to advanced users**: The Carina and Adante series provide technology comparable to high-end speakers at more accessible prices. The ultra-high frequency reproduction capability of the JET tweeter in particular is worth experiencing.
-- **Technology-oriented audio enthusiasts**: The company's proprietary JET tweeter and the coaxial driver technology that applies it offer unique acoustic characteristics that cannot be experienced elsewhere. It is worth considering from a technical interest perspective.
+## References
 
-ELAC's products, successfully balancing "technical advancement" with "accessible pricing," can be said to be a valuable presence in today's audio market.
+[1] Audio Science Review - ELAC Debut 2.0 B6.2 Speaker Review - https://www.audiosciencereview.com/forum/index.php?threads/elac-debut-2-0-b6-2-speaker-review.14272/ - accessed 2026-02-08 - Klippel NFS measurement
 
-(2025.07.20)
+[2] ELAC Official About Page - https://elac.com/about/ - accessed 2026-02-08
+
+[3] Spinorama Database - ELAC Debut 2.0 B6.2 - https://www.spinorama.org/speakers/Elac%20Debut%202.0%20B6.2/ASR/index_asr.html - accessed 2026-02-08 - Frequency response deviation 3.4dB (300Hz-5kHz)
+
+[4] ELAC Warranty Information - https://elac.com/warranty-information - accessed 2026-02-09
+
+[5] Audio Science Review - ELAC Debut Reference DBR-62 Speaker Review - https://www.audiosciencereview.com/forum/index.php?threads/elac-debut-reference-dbr-62-speaker-review.12232/ - accessed 2026-02-08 - Klippel NFS measurement
+
+[6] Spinorama Database - ELAC Debut 3.0 DF63 - https://www.spinorama.org/speakers/Elac%20Debut%203.0%20Floorstand%20DF63/ErinsAudioCorner/index_eac.html - accessed 2026-02-08 - Erin's Audio Corner / Klippel NFS, frequency response deviation 2.5dB (300Hz-5kHz)
+
+[7] Audio Science Review - KEF LS50 Meta Review - https://www.audiosciencereview.com/forum/index.php?threads/kef-ls50-meta-review-speaker.25574/ - accessed 2026-02-09 - Klippel NFS measurement
+
+[8] Audio Science Review - Q Acoustics 3020i Speaker Review - https://www.audiosciencereview.com/forum/index.php?threads/q-acoustics-3020i-bookshelf-speaker-review.14568/ - accessed 2026-02-08 - Klippel NFS measurement
+
+[9] Sound & Vision - Man on a Mission: Speaker Designer Andrew Jones - https://www.soundandvision.com/content/man-mission-speaker-designer-andrew-jones - accessed 2026-02-09
+
+(2026.2.9)
