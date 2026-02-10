@@ -5,13 +5,12 @@ target_name: "ELAC"
 company_id: elac
 lang: en
 ref: elac
-date: 2026-02-09
+date: 2026-02-10
 rating: [3.9, 0.5, 1.0, 0.9, 0.5, 1.0]
 summary: "German audio manufacturer with 100-year heritage, known for proprietary JET tweeter technology and measurement-based design approach across entry to premium speaker segments."
-tags: [speakers, German engineering, JET tweeter, passive speakers, bookshelf speakers]
+tags: [Bookshelf speakers, German engineering, JET tweeter, Passive speakers, speakers]
 permalink: /companies/en/elac/
 ---
-
 ## Overview
 
 ELAC Electroacustic GmbH is a German audio equipment manufacturer founded in 1926, initially pioneering sonar technology and acoustic research for military applications before transitioning to consumer audio products post-WWII with their first record player in 1948. The company is globally recognized for innovative tweeter technologies including the 4Pi omnidirectional tweeter (1985) and revolutionary JET folded-ribbon tweeter (1993). ELAC currently operates dual manufacturing strategies with premium products hand-manufactured at their Kiel, Germany facility and entry-level products through established Chinese manufacturing partnerships, while maintaining comprehensive R&D capabilities across both German headquarters and California design facilities, marking their centennial anniversary in 2026.
@@ -76,4 +75,4 @@ ELAC represents compelling choice for consumers prioritizing scientifically-vali
 
 [9] Sound & Vision - Man on a Mission: Speaker Designer Andrew Jones - https://www.soundandvision.com/content/man-mission-speaker-designer-andrew-jones - accessed 2026-02-09
 
-(2026.2.9)
+(2026.2.10)

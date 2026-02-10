@@ -5,10 +5,10 @@ target_name: "Waves"
 company_id: waves
 lang: en
 ref: waves
-date: 2026-01-18
+date: 2026-02-10
 rating: [4.1, 0.6, 0.9, 1.0, 0.7, 0.9]
 summary: "Israel-based pioneering audio software company founded in 1992, creator of the world's first commercial audio plugin. Recognized with a Technical Grammy Award for outstanding technical contributions. Their proprietary SoundGrid technology and psychoacoustic expertise represent exceptional technical sophistication, with hardware products competitively priced within their specialized ecosystem. Ideal for professional environments requiring advanced plugin processing and networking capabilities, though budget-conscious users seeking basic stagebox functionality may find more cost-effective alternatives outside the SoundGrid ecosystem."
-tags: [Professional Audio, Audio Software, Audio Hardware, Audio Plugins, SoundGrid]
+tags: [Audio Hardware, Audio Plugins, Audio Software, Professional, SoundGrid]
 permalink: /companies/en/waves/
 ---
 ## Overview
@@ -59,4 +59,4 @@ For professional environments requiring advanced plugin processing capabilities 
 
 [3] Thomann Music, Midas DL251 Pro Series 48-input/16-output Stage Box, https://www.thomannmusic.com/midas_dl251.htm, accessed 2026-01-18, 48x16 AES50-networked I/O, 48 MIDAS mic preamps, 24-bit/96kHz operation, current pricing at 3,555 USD
 
-(2026.1.18)
+(2026.2.10)

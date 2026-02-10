@@ -5,14 +5,13 @@ target_name: "FiiO X3 Mark III"
 company_id: fiio
 lang: en
 ref: fiio-x3-mark-iii
-date: 2026-01-18
+date: 2026-02-10
 rating: [3.0, 0.7, 0.7, 0.7, 0.3, 0.6]
 price: 199
 summary: "Third-generation portable high-resolution digital audio player featuring dual TI PCM5242 DACs and balanced output, but limited by outdated technology and discontinued status."
-tags: [Digital Audio Player, DAP, Portable Audio, Hi-Res Audio, Balanced Output, FiiO]
+tags: [Balanced output, DAP, Digital audio player, FiiO, Hi-Res, Portable]
 permalink: /products/en/fiio-x3-mark-iii/
 ---
-
 ## Overview
 
 The FiiO X3 Mark III represents the Chinese manufacturer's third-generation portable digital audio player, introduced in 2017 with dual TI PCM5242 DAC chips and both single-ended and balanced output capabilities. This device marked FiiO's first implementation of dual DAC architecture at this price point, featuring a triple PCB design to minimize interference and support high-resolution audio formats up to 192kHz/32-bit PCM and DSD64 [1]. Despite solid engineering for its era, the X3 Mark III has been officially discontinued by FiiO and faces significant technological obsolescence compared to modern alternatives available in 2026.
@@ -60,4 +59,4 @@ The FiiO X3 Mark III represents solid engineering achievement from 2017 but face
 5. FiiO X3 Mark III Discontinuation Notice, https://www.fiio.com/newsinfo/133845.html, accessed January 2026
 6. FiiO Warranty Terms, https://www.fiio.com/serviceinsurance, accessed January 2026
 
-(2026.1.18)
+(2026.2.10)

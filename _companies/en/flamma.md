@@ -5,7 +5,7 @@ target_name: "FLAMMA"
 company_id: flamma
 lang: en
 ref: flamma
-date: 2026-01-18
+date: 2026-02-10
 rating: [3.1, 0.5, 0.5, 0.9, 0.5, 0.7]
 summary: "Digital guitar effects company offering affordable multi-effects pedals with excellent cost-performance, particularly the FX100 budget option"
 tags: [Guitar Effects, Multi-Effects, Digital Audio, Affordable, DSP]
@@ -61,4 +61,4 @@ FLAMMA Innovation is recommended for budget-conscious musicians seeking comprehe
 [7] Flamma Innovation, "FLAMMA Portable Multi Effects Pedal FX100", https://www.flamma.shop/products/flamma-portable-multi-effects-pedal-fx100, accessed 2026-01-18
 [8] Zoom Corporation, "MS-50G+ MultiStomp for Guitarists", https://zoomcorp.com/en/us/multi-effects/multistomp-pedals/ms-50g-plus/, accessed 2026-01-18
 
-(2026.1.18)
+(2026.2.10)

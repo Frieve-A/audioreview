@@ -5,14 +5,13 @@ target_name: "FiiO X5 III"
 company_id: fiio
 lang: en
 ref: fiio-x5-iii
-date: 2026-01-18
+date: 2026-02-10
 rating: [3.1, 0.6, 0.7, 0.5, 0.5, 0.8]
 price: 400
 summary: "Android-based Digital Audio Player featuring dual AKM AK4490EN DACs with balanced output capabilities, offering solid audio performance but facing cost-performance challenges against modern alternatives."
-tags: [Digital Audio Player, DAP, Android, Balanced Output, Portable Audio]
+tags: [Android, Balanced output, DAP, Digital audio player, Portable]
 permalink: /products/en/fiio-x5-iii/
 ---
-
 ## Overview
 
 The FiiO X5 III represents FiiO's Android-based approach to high-fidelity portable music players, featuring dual AKM AK4490EN DACs in true dual-channel configuration. Launched as a mastering quality lossless playback device, it incorporates customized Android 5.1 OS with specialized Pure Music Mode for audio-only operation. The device provides both single-ended 3.5mm and balanced 2.5mm outputs, supporting PCM up to 384kHz/32-bit (WAV) and DSD64/128 formats. With 32GB internal storage expandable via dual microSD slots, Wi-Fi connectivity, and Bluetooth 4.0 with aptX, the X5 III targets audiophiles seeking dedicated portable audio solutions with smartphone-like functionality.
@@ -58,4 +57,4 @@ The X5 III is discontinued with only limited remaining stock available through s
 [3] FiiO X5iii Review - Headfonics - https://headfonics.com/fiio-x5iii-review/ (Independent review with technical analysis, accessed January 2026)
 [4] FiiO X5 III Product Page - https://www.fiio.com/x5iii (Official product information and specifications)
 
-(2026.1.18)
+(2026.2.10)

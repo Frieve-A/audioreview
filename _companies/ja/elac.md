@@ -5,7 +5,7 @@ target_name: "ELAC"
 company_id: elac
 lang: ja
 ref: elac
-date: 2026-02-09
+date: 2026-02-10
 rating: [3.9, 0.5, 1.0, 0.9, 0.5, 1.0]
 summary: "JETツイーター技術と測定ベースの設計アプローチで知られる100年の歴史を持つドイツのオーディオメーカー。エントリーレベルからプレミアムスピーカーセグメントまで幅広く展開。"
 tags: [スピーカー, ドイツエンジニアリング, JETツイーター, パッシブスピーカー, ブックシェルフスピーカー]
@@ -76,4 +76,4 @@ ELACは、エントリーレベルからプレミアムまでの多様な価格�
 
 [9] Sound & Vision - Man on a Mission: Speaker Designer Andrew Jones - https://www.soundandvision.com/content/man-mission-speaker-designer-andrew-jones - accessed 2026-02-09
 
-(2026.2.9)
+(2026.2.10)

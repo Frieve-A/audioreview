@@ -5,7 +5,7 @@ target_name: "FLAMMA"
 company_id: flamma
 lang: ja
 ref: flamma
-date: 2026-01-18
+date: 2026-02-10
 rating: [3.1, 0.5, 0.5, 0.9, 0.5, 0.7]
 summary: "優れたコストパフォーマンスを提供する手頃な価格のマルチエフェクター、特にFX100予算モデルを展開するデジタルギターエフェクト企業"
 tags: [ギターエフェクト, マルチエフェクト, デジタルオーディオ, 安価, DSP]
@@ -61,4 +61,4 @@ FLAMMA Innovationは、包括的なマルチエフェクト機能を求める予
 [7] Flamma Innovation、「FLAMMA ポータブルマルチエフェクトペダル FX100」、https://www.flamma.shop/products/flamma-portable-multi-effects-pedal-fx100、2026年1月18日アクセス
 [8] Zoom Corporation、「MS-50G+ MultiStomp for Guitarists」、https://zoomcorp.com/en/us/multi-effects/multistomp-pedals/ms-50g-plus/、2026年1月18日アクセス
 
-(2026.1.18)
+(2026.2.10)

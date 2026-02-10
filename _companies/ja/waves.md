@@ -5,7 +5,7 @@ target_name: "Waves"
 company_id: waves
 lang: ja
 ref: waves
-date: 2026-01-18
+date: 2026-02-10
 rating: [4.1, 0.6, 0.9, 1.0, 0.7, 0.9]
 summary: "1992年創立のイスラエル拠点オーディオソフトウェア先駆企業。世界初の商用オーディオプラグインの開発者として、技術的貢献によりテクニカルグラミー賞を受賞。独自のSoundGrid技術と心理音響学の専門知識は卓越した技術的洗練度を示し、ハードウェア製品は専用エコシステム内で競争力ある価格設定です。先進プラグイン処理とネットワーキング機能が必要な業務環境に最適ですが、基本的なステージボックス機能のみを求める予算重視ユーザーには、SoundGridエコシステム外により費用効果的な選択肢があります。"
 tags: [Professional Audio, Audio Software, Audio Hardware, Audio Plugins, SoundGrid]
@@ -59,4 +59,4 @@ $$ \Large \text{0.9} $$
 
 [3] Thomann Music, Midas DL251 Pro Series 48-input/16-output Stage Box, https://www.thomannmusic.com/midas_dl251.htm, アクセス日 2026-01-18, 48x16 AES50ネットワーク接続I/O、48 MIDASマイクプリアンプ、24ビット/96kHz動作、現在価格3,555USD
 
-(2026.1.18)
+(2026.2.10)
