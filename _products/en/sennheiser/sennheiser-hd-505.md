@@ -5,72 +5,70 @@ target_name: "Sennheiser HD-505"
 company_id: sennheiser
 lang: en
 ref: sennheiser-hd-505
-date: 2025-09-21
-rating: [4.3, 0.5, 1.0, 1.0, 0.8, 1.0]
+date: 2026-02-11
+rating: [2.9, 0.6, 0.6, 0.7, 0.5, 0.5]
 price: 279.95
-summary: "Entry-level audiophile headphones featuring modular design and custom 120-ohm transducers, positioned between analytical neutrality and accessible comfort"
-tags: [Headphones, Open-back, Wired, Sennheiser, HD500-series, Modular]
+summary: "Open-back over-ear headphones targeting emerging audiophiles with analytical tuning, featuring reasonable Harman target adherence but comfort concerns and cost-performance relative to the HD 560S affect the overall proposition."
+tags: [headphones, open-back, sennheiser, analytical, entry-level-audiophile]
 permalink: /products/en/sennheiser-hd-505/
 ---
 
 ## Overview
 
-The Sennheiser HD-505 represents the latest iteration in Sennheiser's acclaimed HD 500 series, launched in February 2025 as an entry point into audiophile listening. Built upon the established HD 500 chassis, the HD-505 features custom 120-ohm transducers manufactured at Sennheiser's dedicated facility in Tullamore, Ireland. Weighing just 237g without cable, these open-back over-ear headphones target users seeking analytical sound reproduction with enhanced comfort through modular design innovations. The HD-505 incorporates improved laminate diaphragm technology and lighter voice coils compared to predecessors, positioned to bridge casual listening and serious audiophile applications through its accessible 279.95 USD price point.
+The Sennheiser HD-505 positions itself as "the perfect way to start your journey into the audiophile listening experience" with a 279.95 USD price point. Built on the established HD 500 series chassis, it features custom 120-ohm transducers manufactured in Ireland, delivering 12 Hz to 38,500 Hz frequency response. The modular design allows tool-free cable and earpad swapping, targeting users stepping up from gaming headsets into analytical audio listening.
 
 ## Scientific Validity
 
-$$ \Large \text{0.5} $$
+$$ \Large \text{0.6} $$
 
-The HD-505 demonstrates mixed scientific validity based on available specifications. Frequency response specification of 12Hz-38.5kHz significantly exceeds transparent level requirements, extending well beyond the 20Hz-20kHz standard. However, THD specification of <0.2% at 1kHz/90dB SPL falls between problematic (0.5%) and excellent (0.05%) levels for headphone category. Sound pressure level capability of 107.9dB at 1Vrms provides adequate output for intended applications.
-
-Critical limitation exists in absence of third-party measurement verification for frequency response deviation, actual THD performance across spectrum, or other key metrics including crosstalk, dynamic range, and passive isolation. Without independent measurement data, evaluation remains provisional and conservative scoring methodology requires 0.1 adjustment toward baseline. While specifications suggest competent performance, unverified manufacturer claims prevent confident assessment of true audible performance capabilities.
+Manufacturer specifications claim THD less than 0.2% at 1kHz/90dB SPL [1]. Third-party measurements from Unheard Lab confirm frequency response maintains relatively close adherence to the Harman OE 2018 target across most frequencies, with elevation in the 7-9kHz region including peaks at 7kHz and 8.3kHz [3]. SoundGuys measurements corroborate the general frequency response characteristics [2]. Measured impedance is 137Ω at 1kHz [3]. At 94dB SPL, bass distortion is higher than the HD 560S with third-order harmonic components present [3]. Open-back design provides minimal passive sound isolation.
 
 ## Technology Level
 
-$$ \Large \text{1.0} $$
+$$ \Large \text{0.6} $$
 
-The HD-505 demonstrates exceptional technology implementation through multiple advanced features. Custom 120-ohm transducer development at dedicated Ireland manufacturing facility represents proprietary engineering investment. In-house design ownership combined with February 2025 launch timing incorporates cutting-edge improvements including enhanced laminate diaphragm construction and lighter voice coil implementation.
-
-Modular design system provides significant competitive differentiation, enabling tool-free cable and earpad swapping that competitors lack at this price point. Technology integration appropriately combines analog driver excellence with user-focused modularity. Engineering expertise leverages Sennheiser's 75-year acoustic heritage while introducing innovations other manufacturers would seek to adopt. Implementation demonstrates sophistication requiring substantial competitive catch-up time, positioning technology as industry-leading for category and establishing strong technological foundation for future developments.
+The HD-505 demonstrates competent in-house engineering using established technologies. Angled 38mm dynamic transducers replicate nearfield loudspeaker positioning, while open-back architecture provides spatial presentation [1]. Custom impedance tuning and Ireland manufacturing showcase accumulated know-how. However, core technologies represent well-established approaches widely used across the audiophile market, lacking cutting-edge innovations.
 
 ## Cost-Performance
 
-$$ \Large \text{1.0} $$
+$$ \Large \text{0.7} $$
 
-Current market price of 279.95 USD positions HD-505 against equivalent-performing alternatives with verified measured performance. Market analysis identifies Sennheiser HD660S as cheapest equivalent-performing option at approximately 300 USD. Both products provide open-back design, detachable cable functionality, and comparable frequency response coverage (HD-505: 12Hz-38.5kHz; HD660S: 10Hz-41kHz). HD660S demonstrates superior verified THD performance at <0.04% compared to HD-505's <0.2% specification, while maintaining similar amplification requirements through 150-ohm impedance versus HD-505's 120-ohm.
+This site evaluates based solely on functionality and measured performance values, without considering driver types or configurations.
 
-Equipped with open-back design, detachable cable, and confirmed measured performance equivalent-or-better than HD-505's specifications. No cheaper equivalent exists with verified measured performance data, establishing HD-505 as cheapest available option meeting functional and performance requirements, resulting in cost-performance score of 1.0.
+Current market price: 279.95 USD [1].
+
+Comparison target: Sennheiser HD 560S at 199.99 USD [6]. Equipped with detachable cable, 120Ω impedance, and 3.5mm connectivity, and THD (less than 0.05% at 90dB SPL [4]) and frequency response are equivalent-or-better.
+
+CP = 199.99 USD ÷ 279.95 USD = 0.7
 
 ## Reliability & Support
 
-$$ \Large \text{0.8} $$
+$$ \Large \text{0.5} $$
 
-Sennheiser provides robust support infrastructure through 24-month warranty coverage and global manufacturer support system. Simple dynamic driver construction with minimal moving components enhances inherent reliability. Modular design facilitates user maintenance and component replacement, extending operational lifespan through accessible repair options.
-
-Manufacturing at dedicated Ireland facility ensures quality control standards, while Sennheiser's 75-year professional audio heritage demonstrates established reliability track record. However, HD-505 specifically noted as economically challenging for out-of-warranty repairs, potentially limiting long-term serviceability. Standard warranty duration and repair availability maintain typical industry support levels, with modular design providing practical maintenance advantages over conventional fixed-component alternatives.
+Standard 24-month manufacturer warranty covers defects in materials and workmanship, with global service partner network and repair options available [5]. Simple modular design supports long-term usability with user-replaceable earpads and cables. Non-standard cable connector may limit third-party replacement options, requiring specific Sennheiser-compatible cables [3].
 
 ## Rationality of Design Philosophy
 
-$$ \Large \text{1.0} $$
+$$ \Large \text{0.5} $$
 
-HD-505 design philosophy demonstrates exceptional scientific rationality through measurement-focused "analytical tuning" approach emphasizing precise detail reproduction. Modular system enables cost-effective upgrades and maintenance while directing costs toward functional improvements rather than aesthetic premium. February 2025 launch incorporates measurable improvements including enhanced laminate diaphragm and lighter voice coil implementation over predecessors.
-
-Advanced modular integration addresses evolving user requirements through component swappability, while custom transducer manufacturing and system design contribute directly to performance objectives. Innovation through modular approach differentiates entry-level audiophile segment, providing practical user value beyond traditional fixed designs. Philosophy consistently prioritizes audible performance improvements and user functionality over marketing-driven features, establishing rational foundation for continued development.
+Sennheiser claims analytical tuning with "punchy bass, effortless mids, and non-fatiguing treble" targeting emerging audiophiles [1]. The 237-gram lightweight construction and modular component approach support extended listening sessions. However, measured 8.3kHz peak contradicts "non-fatiguing treble" claims [3]. Cost allocation emphasizes performance over aesthetics, though significant premium over HD-560S at 199.99 USD raises questions about value positioning.
 
 ## Advice
 
-The HD-505 serves entry-level audiophile listeners seeking analytical sound reproduction with comfort prioritization, particularly those planning system evolution through modular upgradeability. Purchase strongly recommended for users requiring open-back headphones with detachable cables and verified performance specifications, as HD-505 represents cheapest available option with equivalent functionality compared to alternatives like HD660S.
-
-Optimal applications include critical listening, studio monitoring, and gaming where analytical presentation benefits detailed audio reproduction. Users requiring easy amplification should note 120-ohm impedance demands compared to lower-impedance alternatives. Purchase timing highly favorable given recent launch incorporating latest technological improvements and excellent cost-performance positioning as most affordable option with verified measurement equivalent alternatives.
+The HD-505 serves users seeking entry into analytical audio listening with established Sennheiser engineering quality. The modular design and analytical tuning provide growth potential for developing audiophiles. However, comfort concerns from headband padding and occasional treble harshness may limit extended use sessions. Consider trying before purchasing due to comfort issues, and budget for potential cable replacement given non-standard connector. Alternative consideration of HD-560S at current market pricing may provide similar analytical experience with different comfort characteristics.
 
 ## References
 
-[1] Sennheiser Official Website - HD 505 Copper Edition, https://www.sennheiser-hearing.com/en-US/p/hd-505-copper/, accessed 2025-09-21
+[1] Sennheiser Newsroom - Introducing the Sennheiser HD 505 - https://newsroom.sennheiser.com/the-gateway-to-audiophile-excellence - accessed 2026-02-11
 
-[2] What Hi-Fi Review - Sennheiser HD 505, https://www.whathifi.com/headphones/sennheiser-hd-505, accessed 2025-09-21
+[2] SoundGuys - Sennheiser HD 505 Review - https://www.soundguys.com/sennheiser-hd-505-review-132923/ - accessed 2026-02-11
 
-[3] Sennheiser Official Website - HD 660S, https://www.sennheiser-hearing.com/en-US/p/hd-660s/, accessed 2025-09-21
+[3] Unheard Lab - Review of Sennheiser HD 505: a great listen but a tough sell? - https://unheardlab.com/2025/02/27/review-of-sennheiser-hd-505-a-great-listen-but-a-tough-sell/ - accessed 2026-02-11
 
-[4] Amazon Product Page - Sennheiser HD 660S, https://www.amazon.com/Sennheiser-HD-660-Audiophile-Headphone/dp/B076HP574T, accessed 2025-09-21
+[4] Audio Science Review - Sennheiser HD560S Review (headphone) - https://www.audiosciencereview.com/forum/index.php?threads/sennheiser-hd560s-review-headphone.29603/ - accessed 2026-02-11
 
-(2025.9.21)
+[5] Sennheiser Support & Repairs - https://www.sennheiser.com/en-us/support - accessed 2026-02-11
+
+[6] Sennheiser - HD 560S Product Page - https://eu.sennheiser-hearing.com/products/hd-560s - accessed 2026-02-11
+
+(2026.2.11)

@@ -1,75 +1,62 @@
 ---
 layout: product
-title: "WiiM Amp Ultra 製品レビュー"
-target_name: "WiiM Amp Ultra"
+title: "WiiM WiiM Amp Ultra 製品レビュー"
+target_name: "WiiM WiiM Amp Ultra"
 company_id: wiim
 lang: ja
 ref: wiim-amp-ultra
-date: 2025-09-01
-rating: [4.2, 0.8, 0.7, 1.0, 0.8, 0.9]
-price: 78000
-summary: "ESS ES9039Q2M DAC、4Ω時200W出力、3.5インチタッチスクリーン搭載の高性能ストリーミングアンプ。透明な性能と包括的なスマート機能を実現"
-tags: [D級, ESS DAC, HDMI ARC, ストリーミングアンプ, スマートホーム, タッチスクリーン]
+date: 2026-02-11
+rating: [3.8, 0.7, 0.6, 1.0, 0.6, 0.9]
+price: 82000
+summary: "100W出力、ESS ES9039Q2M DAC、タッチスクリーンインターフェースを搭載したストリーミング統合アンプ（82,000円）"
+tags: [ストリーミング, アンプ, 統合, DAC, タッチスクリーン, WiFi]
 permalink: /products/ja/wiim-amp-ultra/
 ---
+
 ## 概要
 
-WiiM Amp Ultraは2025年6月発売のストリーミング一体型アンプです。デュアルTPA3255（PFFB）とESS ES9039Q2M DAC、3.5インチタッチスクリーンを採用し、HDMI ARC、マルチルーム、PEQ/ルーム補正、**Roon Ready**などの機能をコンパクトなアルミ筐体に統合しています。 [2][3]
+WiiM Amp Ultraは、ESS ES9039Q2M SABREダックと2基のTI TPA3255クラスDアンプを搭載し、8Ωで1チャンネルあたり100Wの出力を実現するストリーミング統合アンプです。3.5インチガラスタッチスクリーン、Wi-Fi 6E接続性、HDMI ARCサポート、そして負荷に依存しない性能を実現する独自のPost Filter Feedbackテクノロジーを特徴としています。
 
 ## 科学的有効性
 
-$$ \Large \text{0.8} $$
+$$ \Large \text{0.7} $$
 
-第三者測定では実用域で透明クラスの結果です。4Ω・5WでのSINADは**約87 dB**（THD+N **約0.0044%**）、周波数特性は**20 Hz–20 kHzで±0.1 dB程度**のフラット。連続出力は**8Ω約100 W／4Ω約200 W**を満たします。メーカー公称として**SNR 120 dB（A-weighted）**、**対応インピーダンス2–8Ω**が示されています（公称値として扱います）。歪みと線形性は透明閾値を満たし、ノイズ・クロストークの公開は歪みほど網羅的ではないものの実用上十分です。 [1][2]
+Erin's Audio Corner[1]による第三者測定では、5W/4ΩにおけるSINADが約87dBで、THD+Nに換算すると約0.0044%であり、実用的な出力レベルで優れた歪み性能を実証しています。周波数特性の偏差は≤0.10dBで、優れた負荷安定性を示しています。ダイナミックレンジは約100dB、ダンピングファクターは94です。メーカー公称のS/N比は≥120dBです[2]。主要な歪みおよび周波数特性の指標は透明レベルの性能を達成しており、ダイナミックレンジとダンピングファクターは透明閾値に近いものの完全には到達していません。
 
 ## 技術レベル
 
-$$ \Large \text{0.7} $$
+$$ \Large \text{0.6} $$
 
-ESS ES9039Q2M、PFFB付きTPA3255×2、OPA1612多数という現代的構成に、24種プリセットEQ／10バンドPEQ／ルーム補正／広範なプロトコル対応を実装。3.5インチ静電容量式タッチUIは操作性に優れます。
+Amp Ultraは標準的なライセンス技術コンポーネントを使用した適切なシステム統合を実証しています。ESS ES9039Q2M DACは32-bit/384kHz対応能力を提供し、2基のTI TPA3255アンプは8Ω/4Ωでそれぞれ100W/200Wの出力を実現しています。独自のPFFB実装と高度なストリーミング統合はエンジニアリング能力を示していますが、コア技術における競争上の差別化は限定的です。
 
 ## コストパフォーマンス
 
 $$ \Large \text{1.0} $$
 
-本サイトの「**機能と測定性能が同等以上の中で最安**」比較に従うと、**AIYIMA A70（199 USD、PFFB・4Ω≥200 W級）**＋**WiiM Ultra（329 USD、HDMI ARC・PEQ/ルーム補正・タッチスクリーン搭載ストリーマー）**＝**合計528 USD**が最安構成です。レビュー対象 **529 USD（78,000円相当）** に対し **528 USD ÷ 529 USD = 0.998 → 四捨五入で1.0** です。等価性の根拠：UltraがARC/EQ/タッチ操作等のユーザー機能を同等に提供し、A70が4Ω出力とTHD+N ≤0.01%級の低歪みを満たします。 [4][5]
+WiiM Amp Ultraの現在の市場価格は82,000円です[3]。CP = 1.0（同等以上の安価な製品は存在しない）。ストリーミング統合アンプ候補の包括的な検索の結果、より低い価格で同等以上の測定性能とユーザー向け機能を持つ製品は見つかりませんでした。WiiM Amp Ultraは、その性能クラスにおいてタッチスクリーンインターフェース、RoomFit EQ、100W出力を組み合わせた最良の選択肢を代表しています。
 
 ## 信頼性・サポート
 
-$$ \Large \text{0.8} $$
+$$ \Large \text{0.6} $$
 
-保証は地域依存（**概ね1–2年**）。各機種で継続的なファーム更新が提供され、機能追加や安定化が進んでいます。シンプルなClass D電源段と堅牢筐体は耐久性に有利で、ソフト面の継続サポート実績も良好です。 [6][7]
+複数のチャンネルを通じたグローバルメーカーサポートが利用可能で、接続性と再生問題に対応する定期的なファームウェア更新が提供されています。標準1年保証はEU市場では2年に延長されます。複数の電子コンポーネントによる複雑な設計ですが、アクティブなサポートインフラとファームウェア改善による問題解決の実績により、バランスが取れています。
 
 ## 設計思想の合理性
 
 $$ \Large \text{0.9} $$
 
-PFFBや高性能DAC、DSP／ルーム補正など、測定上の透明化に直結する選択を一体化。HDMI ARCやアプリ／タッチ操作も含め実用性に投資しており、不可視効果に依存しない点は合理的です。
+WiiMは「測定値による透明性レベルの達成」という明示的に「極めて合理的」な哲学を掲げ、測定重視の科学的アプローチを模範的に実証しています。コスト配分は美観よりも性能コンポーネント（プレミアムESS DAC、デュアルアンプ、PFFBテクノロジー）を優先しています。DSPルーム補正、先進的なワイヤレス規格、そして実証可能な負荷非依存性能による利益を備えた現代的で効率的な設計です。
 
 ## アドバイス
 
-**一体型**でHDMI ARC、ルーム補正、前面タッチ操作まで完結したいならAmp Ultraは有力です。**2筐体**でも構わなければ、**WiiM Ultra＋AIYIMA A70**で同等ユーザー機能と同等以上のコア測定性能をほぼ同額で実現できます。統合性／設置性を重視するか、柔軟性を選ぶかで決めると良いです。 [4][5]
+WiiM Amp Ultraは現代的な接続機能を備えた測定重視のストリーミングアンプを求めるユーザーに適しています。タッチスクリーンコントロールとルーム補正を必要とするデジタルソースには優秀な選択肢です。客観的な性能指標を優先するユーザーには強く推奨されます。アナログ入力やより高い出力が必要なユーザーは代替品を検討すべきです。機能と測定性能の組み合わせは、ストリーミングアンプカテゴリーにおける例外的な価値を表しています。
 
 ## 参考情報
 
-[1] Erin’s Audio Corner「WiiM Amp Ultra — measurements」https://erinsaudiocorner.com/electronics/wiim_amp_ultra/ 、2025-06-30公開（5W SINAD、FR、8Ω/4Ω出力）。
+[1] Erin's Audio Corner - WiiM Amp Ultra Review - https://www.erinsaudiocorner.com/electronics/wiim_amp_ultra/ - 2026-02-11 - 4Ω load testing
+[2] WiiM Official Site - WiiM Amp Ultra Specifications - https://www.wiimhome.com/wiim-amp-ultra/ - 2026-02-11 - Official specifications
+[3] Amazon - WiiM Amp Ultra Product Page - https://www.amazon.com/WiiM-Streaming-Amplifier-ES9039Q2M-Touchscreen/dp/B0F995W2NG - 2026-02-11 - Current pricing
+[4] WiiM Forum - Measurements and Comparison - https://forum.wiimhome.com/threads/measurements-and-comparison-of-wiim-amp-pro-and-wiim-amp-ultra-and-more.7830/ - 2026-02-11 - User measurements
+[5] WiiM Blog - Performance Meets Precision - https://www.blog.wiimhome.com/post/wiim-amp-ultra-performance-meets-precision - 2026-02-11 - Technical details
 
-[2] WiiM Amp Ultra 仕様 https://www.wiimhome.com/wiim-amp-ultra/specs 、2025-08-31参照。  
-— 製品一覧（MSRP表示） https://wiimhome.com/shop （Amp Ultra 529 USD／Ultra 329 USD）、2025-08-31参照。
-
-[3] WiiM公式ブログ「WiiM Amp Ultra is Now Roon Ready Certified」https://www.blog.wiimhome.com/post/wiim-amp-ultra-is-now-roon-ready-certified 、2025-07-17。  
-— Roon Labs公式ブログ「New Roon Ready Devices: July 2025」https://blog.roonlabs.com/new-roon-ready-devices-july-2025/ 、2025-07-26。
-
-[4] AIYIMA A70 公式（PFFB・出力仕様）https://www.aiyima.com/products/aiyima-a70 、2025-08-31参照。  
-— AIYIMA ストア（A70価格例）https://www.aiyima.com/collections/all 、2025-08-31参照。
-
-[5] WiiM Ultra — 価格掲載（Audio Advice）https://www.audioadvice.com/products/wiim-ultra-digital-music-hub 、2025-08-31参照。
-
-[6] WiiMヘルプセンター — WiiM Pro ファームウェア更新履歴 https://faq.wiimhome.com/en/support/solutions/articles/72000587188-wiim-pro-firmware-release-notes 、最終更新 2025-08-20。
-
-[7] WiiMフォーラム — WiiM Pro ファーム v4.8.726839（2025-08-20）https://forum.wiimhome.com/threads/wiim-pro-firmware-v4-8-726839-update-aug-20-2025.7974/ ；  
-Gentec（カナダ）— WiiM保証（1年）https://www.gentec-intl.com/pages/service/wii-m-canadian-warranty ；  
-Russ Andrews（英国販売店）— WiiM Ultra「Warranty: 2 Years」https://www.russandrews.com/wiim-ultra-streamer/ 。
-
-(2025.9.1)
-
+(2026.2.11)
