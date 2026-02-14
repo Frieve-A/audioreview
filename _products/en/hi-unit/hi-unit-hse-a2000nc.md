@@ -55,6 +55,6 @@ For users seeking affordable USB-C wired earphones with ANC capability, the HSE-
 1. Hi-Unit HSE-A2000NC Product Page, https://hi-unit.jp/blogs/products/hse-a2000nc, accessed 2026-01-08
 2. Hi-Unit HSE-A2000NC Launch Announcement, https://hi-unit.jp/blogs/news/hse-a2000nc, accessed 2026-01-08
 3. Belkin SoundForm ANC Wired Earbuds Product Page, https://www.belkin.com/p/anc-wired-earbuds-usb-c/G3H0003fqWH.html, 29.99 USD pricing confirmed, accessed 2026-01-08
-4. USD/JPY Exchange Rate, Wise Currency Converter, https://wise.com/us/currency-converter/usd-to-jpy-rate/history, 156.78 JPY/USD current rate as of January 8 2026, accessed 2026-01-08
+4. USD/JPY Exchange Rate, Wise Currency Converter, https://wise.com/us/currency-converter/usd-to-jpy-rate/history, exchange rate 156.78 as of January 8 2026, accessed 2026-01-08
 
 (2026.1.9)

@@ -377,6 +377,32 @@ class ReviewValidator:
         
         return issues
     
+    def validate_price_format(self, review: ReviewData) -> List[str]:
+        """Check that product price is a valid JSON number (no ranges, currency symbols, etc.).
+        Invalid formats like '17000-23250円' or '109.99-149.99 USD' cause search data JSON parse errors."""
+        issues = []
+        if review.layout != "product":
+            return issues
+        if review.price is None:
+            return issues
+        try:
+            price_val = review.price
+            if isinstance(price_val, (int, float)):
+                if price_val < 0:
+                    issues.append(f"Invalid price: {price_val} (must be non-negative)")
+            else:
+                s = str(price_val).strip()
+                parsed = float(s)
+                if parsed < 0:
+                    issues.append(f"Invalid price: {price_val} (must be non-negative)")
+        except (ValueError, TypeError):
+            issues.append(
+                f"Invalid price format for JSON: '{review.price}' - use a single numeric value "
+                "(e.g., 20125 or 129.99). Price ranges (e.g., 17000-23250円) and currency symbols "
+                "cause search data JSON parse errors."
+            )
+        return issues
+    
     def validate_date_consistency(self, review: ReviewData) -> List[str]:
         """Check date consistency between metadata and article end"""
         issues = []
@@ -1118,6 +1144,7 @@ class ReviewValidator:
             issues.extend(self.validate_frontmatter_format(review))
             issues.extend(self.validate_score_consistency(review))
             issues.extend(self.validate_policy_compliance(review))
+            issues.extend(self.validate_price_format(review))
             issues.extend(self.validate_content_structure(review))
             # Check for USD symbol issues in summary
             issues.extend(self.validate_summary_latex_issues(review.summary))
@@ -1303,7 +1330,8 @@ class ReviewValidator:
             "Forbidden term": "15. **Forbidden Terms Policy Violation**: Replace table/chart terminology with appropriate evaluation levels like '透明レベル', '問題レベル', 'transparent level', 'issue level'",
             "Japanese currency": "16. **Currency Conversion Recommendation**: Consider converting Japanese yen (JPY) to USD for international audience in English reviews",
             "Language folder mismatch": "17. **Language Folder Placement Error**: Move file to correct language folder (ja/en) based on metadata lang field",
-            "Price exchange rate": "18. **Price Consistency Error**: Ensure exchange rate between JPY and USD prices is within 50-250 JPY/USD range"
+            "Price exchange rate": "18. **Price Consistency Error**: Ensure exchange rate between JPY and USD prices is within 50-250 JPY/USD range",
+            "Invalid price format for JSON": "19. **Price Format Error**: Use a single numeric value for price (e.g., 20125 or 129.99). Price ranges (e.g., 17000-23250円) and currency symbols cause search data JSON parse errors"
         }
         
         # Get unique recommendations
@@ -1432,6 +1460,8 @@ class ReviewValidator:
             return "Missing Required Elements"
         elif "out of range" in issue_lower or "範囲外" in issue:
             return "Score Range Error"
+        elif "invalid price format for json" in issue_lower:
+            return "Price Format Error"
         elif "format" in issue_lower or "フォーマット" in issue or "形式" in issue:
             return "Format Error"
         elif "placement" in issue_lower or "配置" in issue:

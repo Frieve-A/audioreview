@@ -6,7 +6,7 @@ company_id: akg
 lang: en
 ref: akg-k99
 date: 2025-11-09
-rating: [2.7, 0.5, 0.5, 0.4, 0.8, 0.6]
+rating: [2.8, 0.5, 0.5, 0.4, 0.8, 0.6]
 price: 64
 summary: "Budget semi-open headphones with basic functionality and conservative design, offering limited cost-performance against cheaper alternatives like the Superlux HD681 despite limited measurement data availability"
 tags: [Headphones, Semi-open, Over-ear, Budget, AKG]

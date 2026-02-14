@@ -6,7 +6,7 @@ company_id: sennheiser
 lang: en
 ref: sennheiser-hd-490-pro
 date: 2026-01-29
-rating: [3.7, 0.7, 1.0, 0.3, 0.6, 1.0]
+rating: [3.6, 0.7, 1.0, 0.3, 0.6, 1.0]
 price: 429
 summary: "Professional studio headphones with proprietary technologies and dual ear pad system, limited by cost-performance positioning"
 tags: [headphones, studio, professional, open-back, sennheiser]
