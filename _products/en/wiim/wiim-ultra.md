@@ -1,53 +1,65 @@
 ---
 layout: product
-title: "WiiM-Ultra Product Review"
-target_name: "WiiM-Ultra"
+title: "WiiM WiiM-Ultra Product Review"
+target_name: "WiiM WiiM-Ultra"
 company_id: wiim
 lang: en
 ref: wiim-ultra
-date: 2025-07-08
-rating: [4.4, 0.9, 0.8, 0.9, 0.8, 1.0]
+date: 2026-02-16
+rating: [3.8, 0.8, 0.5, 1.0, 0.5, 1.0]
 price: 329
-summary: "Integrated streamer-preamp with ES9038Q2M DAC (329 USD). SNR 121dB, THD+N -116dB, 3.5-inch touchscreen, HDMI ARC, phono input. Perfect functional integration and transparency-level measurements as dedicated equipment."
-tags: [DAC, Ess, Hdmi-arc, Network streamer, Preamps, Touchscreen]
+summary: "Digital music streamer combining excellent measured performance with comprehensive functionality at competitive pricing"
+tags: [DAC, Digital-Hub, Headphone-Amplifier, Network streamer, Network-Audio, Preamps]
 permalink: /products/en/wiim-ultra/
 ---
 ## Overview
 
-WiiM Ultra is the flagship integrated streamer-preamp from WiiM brand under China's LinkPlay Technology. At 329 USD, it combines ES9038Q2M DAC achieving transparency-level measurements of SNR 121dB, THD+N -116dB (0.00018%) with 3.5-inch touchscreen, HDMI ARC, MM phono input, subwoofer output, and headphone output integration. Featuring Wi-Fi 6, Bluetooth 5.3, and Room Correction functionality, it represents an innovative product realizing all necessary functions for dedicated audio equipment in a single unit.
+The WiiM Ultra is WiiM's flagship digital network hub featuring a 3.5-inch touchscreen display, launched in Q3 2024 at 329 USD. It combines music streaming, DAC, preamplifier, and headphone amplifier functions in a single unit. Built around an ESS ES9038Q2M DAC with Wi-Fi 6E connectivity, the device targets audiophiles seeking advanced streaming capabilities without premium pricing. WiiM, part of Linkplay Technology, emphasizes measurement-focused design philosophy over traditional audiophile approaches.
 
 ## Scientific Validity
 
-$$ \Large \text{0.9} $$
+$$ \Large \text{0.8} $$
 
-WiiM Ultra measurement performance significantly exceeds transparency levels. The ES9038Q2M DAC achieves SNR 121dB, THD+N -116dB (0.00018%), and frequency response ±0.05dB, realizing distortion rates far below human auditory limits. Headphone output also delivers excellent SNR 119dB, THD+N -99dB, with 32bit/384kHz PCM support completely covering the audible range. These figures are equivalent to or better than dedicated DACs in 10x+ price ranges, providing scientifically clear and measurable benefits. Particularly excellent is maintaining high measurement performance across all multiple inputs and outputs.
+Third-party measurements from SoundStage! Network show THD+N of 0.00019%, indicating excellent distortion control [1]. SNR of 119dB demonstrates high noise performance. SINAD measurements from Audio Science Review reach 115dB, confirming excellent overall performance [2]. Crosstalk of -86dB shows good channel separation. Frequency response deviation of ±0.2dB at 20Hz and 20kHz indicates accurate frequency reproduction. All measured parameters demonstrate performance significantly exceeding acceptable levels, validating the scientific effectiveness of the design.
 
 ## Technology Level
 
-$$ \Large \text{0.8} $$
+$$ \Large \text{0.5} $$
 
-WiiM Ultra technical level is very high for an integrated product. The combination of ES9038Q2M DAC and TPA6120A2 headphone amplifier represents industry-standard implementation. System integration technology including 3.5-inch touchscreen integration, HDMI ARC support, Room Correction functionality, Wi-Fi 6 and Bluetooth 5.3 wireless implementation is extremely high-level. Particularly, built-in phono preamplifier and complete digital/analog input/output integration solves technically challenging problems. However, the DAC chip itself is off-the-shelf, with limited proprietary circuit design technology.
+The WiiM Ultra demonstrates competent engineering through in-house design and appropriate technology selection. It uses standard licensed components including ESS ES9038Q2M DAC and TPA6120A2 headphone amplifier, with current technologies like Wi-Fi 6E and Bluetooth 5.3. However, these technologies were introduced in 2020-2021 and are now widely adopted. The product lacks proprietary patent technology or innovative solutions that would be particularly desirable for competitors to license. Strength lies in effective integration and cost optimization rather than technological advancement.
 
 ## Cost-Performance
 
-$$ \Large \text{0.9} $$
+$$ \Large \text{1.0} $$
 
-WiiM Ultra cost performance is extremely high with abnormal pricing for an integrated product. No other product exists at 329 USD integrating ES9038Q2M DAC, preamplifier, phono preamplifier, headphone amplifier, touchscreen, and Room Correction functionality. Assembling equivalent functionality separately requires: Cambridge Audio MXN10 (399 USD) + phono preamplifier (200 USD) + headphone amplifier (200 USD) for minimum 800 USD+, making Ultra's functional integration overwhelmingly superior in cost performance. Price setting maximally leverages Chinese manufacturing cost reduction benefits.
+Current market price: 329 USD. After comprehensive search, no products were identified with equivalent-or-better measured performance and user-facing functions at lower pricing. Comparison candidates like Topping E30 II (149 USD) lack essential streaming functionality, headphone output, and phono input. Bluesound Node N130 (549 USD) shows significantly inferior measured performance with 94dB SINAD versus 115dB. The WiiM Ultra uniquely combines excellent measured performance (115dB SINAD, 0.00019% THD+N, 119dB SNR), comprehensive functionality (streaming, DAC, preamp, headphone amp, phono stage), and integrated design at its price point.
+
+CP = 1.0 (no cheaper equivalent-or-better product exists)
 
 ## Reliability & Support
 
-$$ \Large \text{0.8} $$
+$$ \Large \text{0.5} $$
 
-WiiM Ultra reliability is good for an integrated product. Despite complex functional integration, quality remains stable through LinkPlay manufacturing experience, with high evaluations from What Hi-Fi Awards supporting reliability. While failure risk increases with additional components like touchscreen, no significant quality issues are currently reported. Firmware updates are active with continuous feature improvements. However, 1-year warranty is brief, and long-term reliability of complex systems remains unclear for an emerging brand.
+Warranty period of 1 year (2 years in Europe) represents standard coverage but below premium product expectations. Global manufacturer support available through WiiM directly with regular firmware updates approximately every 3-4 weeks, demonstrating active ongoing support. Recent firmware version 5.2.807149 released February 2026 addresses known issues including optical input dropouts. Complex design with touchscreen, multiple inputs, and DSP processing presents inherently higher failure potential than simpler devices. Build quality shows respectable construction with aluminum chassis and thermal management systems.
 
 ## Rationality of Design Philosophy
 
 $$ \Large \text{1.0} $$
 
-WiiM Ultra design philosophy is extremely rational, realizing the ideal form of dedicated audio equipment. It perfectly integrates elements necessary for modern audio systems: ensuring transparency-level measurement performance, integrating all required functions, intuitive touchscreen operation, and TV integration through HDMI ARC support. Room Correction functionality solves acoustic problems, phono input accommodates analog records, and headphone output enables personal listening. Integrating all these at 329 USD completely establishes necessity as dedicated equipment. Functional integration impossible with general-purpose equipment makes the design philosophy ideal.
+WiiM Ultra exemplifies exceptionally rational design philosophy with complete focus on measurable performance improvements. The company explicitly adopts scientific, measurement-based approaches while rejecting subjective audiophile claims. Costs are efficiently allocated toward function and performance rather than exotic materials or marketing premiums. Model progression from Pro Plus to Ultra shows clear measurable improvements (DAC upgrade, enhanced features) with rational pricing increases. Advanced integration of modern technologies including Wi-Fi 6E and room correction software demonstrates innovative efficiency. All performance claims are scientifically verifiable and independently verified through measurements.
 
 ## Advice
 
-WiiM Ultra is the most recommendable product in the current streamer-preamp market. No other product exists at 329 USD achieving transparency-level measurement performance, perfect functional integration, and touchscreen operation, with overwhelming cost performance. Particularly, integrating streaming, preamplifier, phono preamplifier, headphone amplifier, and Room Correction functionality in a single device realizes significant cost reduction and convenience improvement compared to traditional separate component combinations. For purchase consideration, this is the only technically irreplaceable choice at this price point. Even considering emerging brand support continuity risks, current functional, performance, and price advantages are overwhelming, making this an unhesitatingly recommendable product.
+For users seeking comprehensive digital audio hub functionality with excellent measured performance, the WiiM Ultra represents exceptional value without compromise on technical specifications. Its combination of streaming, DAC, preamp, and headphone amplifier functions in a single unit eliminates component stacking costs while delivering high-end measured performance. The touchscreen interface and room correction capabilities provide modern convenience features. However, users requiring extended warranty periods or preferring separate components for maximum upgradeability should consider alternatives. The rational, measurement-focused approach makes it ideal for users prioritizing objective performance over subjective audio mythology.
 
-(2025.7.8)
+## References
+
+[1] SoundStage! Network - WiiM Ultra Streaming Preamplifier Measurements - https://www.soundstagenetwork.com/index.php?option=com_content&view=article&id=3017:wiim-ultra-streaming-preamplifier-measurements&catid=433&Itemid=110 - accessed 2026-02-16 - Audio Precision APx555 B Series analyzer
+
+[2] Audio Science Review - WiiM Ultra Streamer Preamp Review - https://www.audiosciencereview.com/forum/index.php?threads/wiim-ultra-streamer-preamp-review.57342/ - accessed 2026-02-16
+
+[3] WiiM Ultra Product Information - https://wiimhome.com/wiimultra/overview - accessed 2026-02-16
+
+[4] Amazon WiiM Ultra Music Streamer - https://www.amazon.com/WiiM-Streamer-Touchscreen-Compatible-Headphone/dp/B0D41YCLW8 - accessed 2026-02-16
+
+(2026.2.16)

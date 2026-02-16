@@ -593,6 +593,18 @@ class ReviewValidator:
                                 actual_score = review.individual_scores[i]
                                 if abs(displayed_score - actual_score) > 0.01:
                                     issues.append(f"Displayed score ({displayed_score}) in section '{section}' does not match rating score ({actual_score})")
+
+                            # Check score position: score must appear BEFORE text content
+                            # Per policy, format is: ## Heading\n\n$$ score $$\n\nText...
+                            # Extract content between heading and score
+                            heading_pattern = re.compile(f"## {re.escape(section)}(?:[（(].*?[）)])?\\s*\n")
+                            heading_match = re.search(heading_pattern, section_content)
+                            if heading_match:
+                                content_before_score = section_content[heading_match.end():score_match.start()]
+                                # Strip whitespace; if there's substantial text before the score, it's misplaced
+                                text_before_score = content_before_score.strip()
+                                if text_before_score:
+                                    issues.append(f"Score position error in section '{section}': score must appear immediately after the section heading, before the text content (per policy). Found text before score: '{text_before_score[:80]}...'")
                         else:
                             issues.append(f"Score display not found in section '{section}'")
             
@@ -1321,6 +1333,7 @@ class ReviewValidator:
             "Product category mismatch": "9. **Product Category Error**: Compare only products in the same category with equivalent functions",
             "must be in 0.1 increments": "10. **Score Format Error**: All scores must be in 0.1 increments (e.g., 0.1, 0.2, 0.3, etc.)",
             "Score display not found": "10. **Score Format Error**: Each scoring section must display score using LaTeX format: $$ \\Large \\text{X.X} $$ - do NOT use bold **X.X** format",
+            "Score position error": "10b. **Score Position Error**: Score must appear immediately after the section heading, before the text content. Correct format: ## Heading → $$ score $$ → Text content",
             "Permalink structure exceeds": "11. **Permalink Structure Error**: Permalink should not exceed 3 levels (/products or companies/lang/ref/)",
             "Date mismatch": "12. **Date Consistency Error**: Metadata date must match article end date in parentheses",
             "Article end date not found": "12. **Date Consistency Error**: Article must end with date in parentheses using half-width brackets () and dots between year, month, and day (YYYY.M.D)",
@@ -1470,6 +1483,8 @@ class ReviewValidator:
             return "CP Calculation Error"
         elif "product category" in issue_lower or "category mismatch" in issue_lower:
             return "Product Category Error"
+        elif "score position error" in issue_lower:
+            return "Score Position Error"
         elif "0.1 increments" in issue_lower or "score format" in issue_lower or "score display not found" in issue_lower:
             return "Score Format Error"
         elif "latex" in issue_lower or "dollar" in issue_lower or "forbidden" in issue_lower or "backslash" in issue_lower:
