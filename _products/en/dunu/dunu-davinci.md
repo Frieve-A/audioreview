@@ -1,53 +1,75 @@
 ---
 layout: product
-title: "DUNU DaVinci Product Review"
-target_name: "DUNU DaVinci"
+title: "DUNU DUNU DaVinci Product Review"
+target_name: "DUNU DUNU DaVinci"
 company_id: dunu
 lang: en
 ref: dunu-davinci
-date: 2025-08-05
-rating: [3.7, 0.7, 0.8, 0.7, 0.7, 0.8]
+date: 2026-02-18
+rating: [2.8, 0.6, 0.9, 0.1, 0.7, 0.5]
 price: 299
-summary: "The DUNU x Gizaudio DaVinci is a 6-driver hybrid IEM featuring new meta-tuning. While technically refined, it faces cost-performance challenges due to the existence of more affordable competitors like the Kiwi Ears KE4."
-tags: [DUNU, Hybrid Driver, In-ear monitors, Premium]
+summary: "Hybrid 6-driver IEM with advanced 3D-printed acoustic chambers and proprietary Q-Lock cable system, demonstrating strong technology implementation but limited third-party measurement verification."
+tags: [DUNU, Gizaudio, Hybrid Drivers, In-ear monitors, Multi-Driver, Premium]
 permalink: /products/en/dunu-davinci/
 ---
 ## Overview
 
-The DUNU x Gizaudio DaVinci is a 6-driver hybrid in-ear monitor released in 2024. It features two dynamic drivers (8mm and 10mm) and four balanced armature drivers with a 5-way crossover design. Through collaboration with Gizaudio, it achieves "new meta-tuning" that adheres to the JM-1 target curve, aiming for warmer sound quality compared to the traditional Harman IEM curve. The product includes a high-quality resin shell with stabilized wood faceplate and modular cables (3.5mm/4.4mm compatible), priced at 299 USD.
+The DUNU x Gizaudio DaVinci is a six-driver hybrid in-ear monitor featuring dual dynamic drivers and four balanced armature drivers per side. Released in July 2024 through collaboration with respected reviewer Timmy from Gizaudio, it utilizes cutting-edge 3D-printed acoustic chambers and DUNU's proprietary Q-Lock Mini cable system. Priced at 299 USD, the DaVinci targets the premium sub-300 USD market segment with advanced driver configuration and modern manufacturing techniques [1].
 
 ## Scientific Validity
 
-$$ \Large \text{0.7} $$
+$$ \Large \text{0.6} $$
 
-According to measurement data, the frequency response covers 5Hz-40kHz, achieving THD (Total Harmonic Distortion) of less than 0.5% at 1kHz. The specifications of 35Ω impedance and 109-112dB/mW sensitivity fall within standard ranges for IEMs. Adherence to the JM-1 target curve results in flat characteristics in the 150Hz-2kHz midrange as measured. The THD value of less than 0.5% sits on the boundary of the problematic level (0.5% or higher) according to measurement result standards, and is not exceptional compared to the latest high-performance products. Based on measurement result standards, while it provides audible improvements, it represents intermediate performance that does not reach transparent levels.
+Third-party measurements from B&K 5128 system confirm THD well below audible threshold at 105dB SPL [2]. Manufacturer specifications list THD+N below 0.5% at 1kHz, indicating acceptable distortion performance for headphones category. However, comprehensive third-party measurement data from major testing facilities remains extremely limited, with no verified measurements from Audio Science Review, RTINGS, or Erin's Audio Corner as of review date. Specific numeric values for frequency response deviation, S/N ratio, SINAD, and IMD are unavailable from credible third-party sources. Overall measured performance cannot be fully evaluated due to insufficient verified data.
 
 ## Technology Level
 
-$$ \Large \text{0.8} $$
+$$ \Large \text{0.9} $$
 
-The 6-driver hybrid configuration is technically sophisticated, with the two dynamic drivers employing independent chamber design to achieve low distortion and wide-range bass response. The precise frequency division control through 5-way electronic crossover represents advanced technical implementation for this price range. The balanced armature drivers, co-developed with domestic manufacturers, achieve higher response accuracy than conventional BA drivers through lead material optimization. While no technical papers or patents are confirmed, the design's originality and rationality are commendable. The technology investment contributes to actual sound quality improvement rather than pursuing auditorily meaningless specifications.
+The DaVinci demonstrates exceptional technology level through multiple advanced implementations. Features proprietary patented Q-Lock Mini cable system (CNIPA ZL201821202295.0, WIPO WO2020019499A1) enabling swappable 3.5mm and 4.4mm terminations. Cutting-edge 3D-printed acoustic chambers developed through Higetech collaboration provide five independent acoustic tubes for driver isolation. Six-driver hybrid configuration combines dual dynamic drivers with four balanced armatures using five-way electronic crossover. In-house collaborative design with community validation from CanJam SG 2024 feedback demonstrates high technical expertise and contemporary technology adoption [1][3].
 
 ## Cost-Performance
 
-$$ \Large \text{0.7} $$
+$$ \Large \text{0.1} $$
 
-The DUNU DaVinci is priced at 299 USD, but the Kiwi Ears KE4 (2DD+2BA hybrid configuration) with equivalent functionality and performance is available for 199 USD. The KE4 adopts the same "new meta-tuning" and provides comparable sound quality as confirmed by multiple reviews. Based on the cost-performance calculation formula, 199 USD ÷ 299 USD = 0.665, which rounds to 0.7. While the DaVinci shows slight advantages in transient response and dynamic contrast, the clear performance improvements justifying the price difference are limited. The existence of the KE4 clearly demonstrates that it is not the world's cheapest option for equivalent functionality.
+This site evaluates based solely on functionality and measured performance values, without considering driver types or configurations.
+
+The DaVinci is priced at 299 USD. User-facing functions include detachable cable with 3.5mm/4.4mm termination options and passive sound isolation. Manufacturer specifications list THD+N below 0.5% at 1kHz, with third-party B&K 5128 measurements confirming THD well below audible threshold at 105dB SPL [2].
+
+Comparison target: 7Hz Salnotes Zero (approximately 20 USD [6]). Equipped with detachable 0.78mm 2-pin cable and passive isolation, with third-party ASR measurements confirming impressively low distortion and excellent frequency response target compliance, THD and frequency response performance are equivalent-or-better [7]. Adding approximately 10 USD for a 4.4mm balanced cable to normalize connectivity, the total comparator price is approximately 30 USD.
+
+CP = 30 USD ÷ 299 USD = 0.1
 
 ## Reliability & Support
 
 $$ \Large \text{0.7} $$
 
-DUNU is a Chinese audio manufacturer established in 1994 with over 20 years of experience in the IEM market. Products come with standard warranty periods and support systems through international sales networks. As it is not an emerging manufacturer, there are no major concerns about product quality or failure rates, though it cannot be considered industry-leading support infrastructure. Since this product category does not require firmware updates, that aspect of evaluation does not apply. No reports of serious quality issues with past products have been confirmed, maintaining industry-average reliability standards.
+Above-average reliability and support infrastructure. Standard one-year warranty against manufacturing defects with coverage through authorized retailers. Global support system available through manufacturer direct channels and Head-Fi forum representative, though domestic repair facilities unavailable requiring overseas shipping for warranty claims. Build quality consistently praised with durable skin-friendly resin shells and solid-stabilized wooden face panels. Six-driver hybrid configuration represents moderate complexity but premium materials including LEO cable with single-crystal copper and silver plating demonstrate robust construction. Known issues include cable stiffness and large shell size affecting fit for some users [5].
 
 ## Rationality of Design Philosophy
 
-$$ \Large \text{0.8} $$
+$$ \Large \text{0.5} $$
 
-The adoption of the JM-1 target curve represents a rational approach to scientifically improving the problems of traditional Harman IEM curves (lack of warmth, excessive brightness). Through collaboration with Gizaudio, objective sound quality improvements based on measurement data have been achieved. The hybrid driver configuration represents a theoretically correct design philosophy that optimizes each driver's characteristics to improve performance across all frequency ranges. The precise frequency division through 5-way crossover is a technical approach directly linked to sound quality improvement. No occult claims or unscientific design philosophies are evident, with rational product development aimed at measurable performance improvements.
+DUNU demonstrates mixed design philosophy with both rational and questionable elements. Positive aspects include measurement-focused development approach since 1994, adoption of modern 3D-printed acoustic chambers providing functional benefits, and proprietary Q-Lock system offering genuine user convenience. Community validation through CanJam feedback incorporation shows evidence-based refinement. However, design exhibits concerns with meaningless aesthetic investment in wooden face panels providing no measurable performance benefit. Six-driver hybrid configuration represents functional frequency division approach rather than quantity investment, though claims about acoustic performance lack independent verification. Overall approach balances modern innovation with established techniques but includes non-functional cost elements [1].
 
 ## Advice
 
-The DUNU DaVinci is a technically refined product, but we strongly recommend comparing it with the Kiwi Ears KE4 before purchase. The KE4 is 100 USD cheaper while providing equivalent sound quality performance as confirmed by multiple independent reviews. Reasons to choose the DaVinci would include slightly superior transient response and dynamic contrast, plus high-quality accessories. However, the clear advantages justifying this price difference (100 USD) are limited. If treble issues are a concern, the DaVinci becomes a safer choice, but for those prioritizing cost-effectiveness, we recommend considering the KE4 first. Since both benefit from "new meta-tuning," the KE4 is a rational choice if price is the top priority. The fact that the KE4 is reported to be more comfortable in terms of fit should also be considered.
+For musicians and audiophiles seeking premium hybrid IEM technology under 300 USD, the DaVinci offers advanced driver configuration and modern manufacturing techniques. Best suited for users prioritizing cutting-edge technology implementation and modular cable convenience. Consider fit compatibility due to large shell size and cable characteristics. Potential buyers should note limited third-party measurement verification requires confidence in manufacturer specifications. Those requiring comprehensive measured performance validation may prefer products with extensive third-party testing. Strong choice for users valuing innovative manufacturing approaches and proprietary technologies in premium IEM category.
 
-(2025.8.5)
+## References
+
+[1] DUNU x Gizaudio DaVinci Product Page - https://hifigo.com/products/dunu-x-gizaudio-davinci - accessed 2026-02-17
+
+[2] The Headphone Community Forum - DUNU x GizAudio Da Vinci Measurements - https://forum.headphones.com/t/dunu-x-gizaudio-da-vinci-measurements-official-discussion/23489 - accessed 2026-02-17 - B&K 5128 system
+
+[3] DUNU x Gizaudio DaVinci Launch Information - https://hifigo.com/blogs/news/dunu-x-gizaudio-davinci-2dd-4ba-driver-hybrid-iems - accessed 2026-02-17
+
+[4] Amazon DUNU DaVinci Listing - https://www.amazon.com/HiFiGo-Vinci-Earphones-Frequency-Crossover/dp/B0D46F8S98 - accessed 2026-02-17
+
+[5] DUNU Customer Service Thread - Head-Fi - https://www.head-fi.org/threads/dunu-customer-service-and-warranty-information-help.778624/ - accessed 2026-02-17
+
+[6] 7Hz Salnotes Zero - Linsoul - https://www.linsoul.com/products/7hz-salnotes-zero - accessed 2026-02-18
+
+[7] Audio Science Review - 7Hz Salnotes Zero IEM Review - https://www.audiosciencereview.com/forum/index.php?threads/7hz-salnotes-zero-iem-review.50226/ - accessed 2026-02-18
+
+(2026.2.18)

@@ -1,69 +1,68 @@
 ---
 layout: product
-title: "beyerdynamic DT 900 PRO X Product Review"
-target_name: "beyerdynamic DT 900 PRO X"
+title: "Beyerdynamic beyerdynamic DT 900 PRO X Product Review"
+target_name: "Beyerdynamic beyerdynamic DT 900 PRO X"
 company_id: beyerdynamic
 lang: en
 ref: beyerdynamic-dt-900-pro-x
-date: 2025-08-15
-rating: [4.1, 0.7, 0.8, 0.9, 0.9, 0.8]
-price: 269.99
-summary: "Open-back studio headphones with STELLAR.45 drivers: excellent build and serviceability, neutral-leaning bass/mids with an elevated 6–12 kHz region."
-tags: [Headphones, Open-back, Studio, Professional, Monitoring]
+date: 2026-02-18
+rating: [2.8, 0.6, 0.6, 0.4, 0.7, 0.5]
+price: 300
+summary: "Open-back professional studio headphones with STELLAR.45 driver technology and 48-ohm impedance for broad compatibility"
+tags: [Headphones, Open-back, Studio, Professional, Dynamic, Beyerdynamic]
 permalink: /products/en/beyerdynamic-dt-900-pro-x/
 ---
 
 ## Overview
 
-The beyerdynamic DT 900 PRO X are open-back studio headphones for critical listening, mixing, and mastering. They use the new 48-ohm STELLAR.45 driver system in a serviceable, modular build that is handmade in Germany, with most parts replaceable (pads, headband, cables, and more) [3]. Technical data include 5–40,000 Hz manufacturer FR spec, 48 Ω impedance, ~345 g weight, and detachable 1.8 m / 3 m straight cables via a 3-pin mini-XLR cup connector [3].
+The DT 900 PRO X represents beyerdynamic's modern approach to professional studio headphones, launched in 2021 with the newly developed STELLAR.45 driver technology. Part of the Pro X series alongside the closed-back DT 700 PRO X, these open-back headphones feature 48-ohm impedance for compatibility across mobile devices and professional equipment. The headphones target audio professionals and enthusiasts with handcrafted German manufacturing and user-replaceable components for extended longevity.
 
 ## Scientific Validity
 
-$$ \Large \text{0.7} $$
+$$ \Large \text{0.6} $$
 
-Independent measurements agree on a largely neutral low–midrange with very good bass extension for an open-back, but they also show a prominent energy rise in the mid/upper treble (roughly 6–12 kHz). DIY-Audio-Heaven reports “20 Hz = 0 dB” extension with slightly elevated 50–500 Hz and clear treble features [2], while RTINGS’ raw/derived data show limited low-bass level (LFE ~58 Hz) and notable treble structure, yet good imaging and channel matching metrics [1]. Distortion is low: DIY-Audio-Heaven’s plots indicate mostly 2nd-harmonic content in the deep bass and <1% above ~70 Hz at ~94 dB SPL; higher bands stay very low [2]. Overall, transparency is strong but the elevated upper band can be bright to some users.
+Third-party measurements from Audio Science Review show THD of 0.04% at 1kHz, indicating excellent distortion control well below problematic thresholds [1]. However, frequency response exhibits significant deviations with +5 to +6dB treble elevation and a narrow -15dB dip at 4kHz [2]. Bass extension reaches 20Hz at 0dB reference level demonstrating good low-frequency performance. The combination of superior distortion characteristics offset by frequency response irregularities results in moderate overall measured performance.
 
 ## Technology Level
 
-$$ \Large \text{0.8} $$
+$$ \Large \text{0.6} $$
 
-STELLAR.45 combines a neodymium ring magnet, copper-clad lightweight voice-coil wire, and a three-layer diaphragm with integrated damping to keep the coil controlled in the gap even at high excursion, aiming for efficiency and low distortion from common interfaces and mobile sources [3]. Compared with legacy high-impedance DT models, the 48 Ω load and detachable mini-XLR ecosystem improve practical drivability and serviceability without sacrificing measured performance.
+The DT 900 PRO X demonstrates genuine technological advancement through proprietary STELLAR.45 driver development featuring symmetrical overhang voice coil design and three-layer PEEK polymer diaphragm with integrated damping [3]. Manufacturing employs precision 0.6mm magnetic gap tolerance with N52 neodymium magnets exceeding 1 Tesla field strength. However, the design remains purely analog without digital integration or advanced software features, limiting technology sophistication compared to contemporary products incorporating DSP, wireless connectivity, or AI-based processing capabilities.
 
 ## Cost-Performance
 
-$$ \Large \text{0.9} $$
+$$ \Large \text{0.4} $$
 
-Current market price of the review target: **269.99 USD** (new) [5].  
-Cheapest equivalent-or-better competitor identified: **Sennheiser HD 560S at 233.99 USD** (new) [6]. The HD 560S is an open-back, wired monitor headphone with at least as neutral a midband, low distortion, and high sensitivity (120 Ω / ~110 dB/V), meeting functional and measured-performance equivalence for monitoring [7][1].
-
-**Calculation:** 233.99 USD ÷ 269.99 USD = **0.8667 → 0.9**.  
-DT 900 PRO X retains an advantage in modular parts and robust construction, but purely on price/performance the HD 560S is cheaper while meeting the equivalence threshold.
+This evaluation is based solely on functionality and measured performance values, without considering driver types or configurations. CP = 109 USD / 300 USD = 0.36. The Hifiman HE400se demonstrates equivalent-or-better performance with THD <0.2% approaching 0.05% versus the target's qualitative "very low distortion" assessment, and superior frequency response target compliance compared to the DT 900 PRO X's bright treble characteristics [4]. Both products provide open-back design, detachable cables, and full-range frequency response, making the HE400se a significantly cheaper alternative for equivalent measured audio performance.
 
 ## Reliability & Support
 
-$$ \Large \text{0.9} $$
+$$ \Large \text{0.7} $$
 
-Handmade in Germany with robust materials; nearly all components are replaceable (pads, cables, headband, etc.) [3]. Warranty is **up to 2 years** (standard manufacturer terms; cables/accessories may be shorter) [4]. The detachable mini-XLR system and official spares ecosystem support long service life. This combination merits a high score even without an extended (3-year) term.
+Beyerdynamic provides standard 2-year manufacturer warranty with global support infrastructure including dedicated help centers and repair services [5]. The headphones feature simple construction with minimal electronic components, reducing failure risk. User-replaceable ear pads, detachable mini-XLR cables, and modular design enhance longevity. Only isolated anecdotal reports of connection failures exist without statistical failure data. The robust German manufacturing and comprehensive parts availability support reliable long-term operation.
 
 ## Rationality of Design Philosophy
 
-$$ \Large \text{0.8} $$
+$$ \Large \text{0.5} $$
 
-A low-impedance, efficient driver tuned for studio SPL from ordinary interfaces is a rational direction. The modular construction aligns with longevity and total-cost-of-ownership goals. However, the persistent upper-treble rise (seen across credible measurements) trades strict neutrality for a detail-forward presentation; rational overall, but not the most neutral option in class.
+The DT 900 PRO X demonstrates measurement-focused development with quantified performance targets and individual factory calibration through included software [6]. The 48-ohm impedance optimization for broad device compatibility represents rational engineering. However, the design philosophy receives no bonus for purely analog approach without incorporating modern efficiency technologies like DSP or software-based room correction. While avoiding occult audio claims, the premium pricing without digital integration or cutting-edge functional advantages limits rationality assessment in contemporary context.
 
 ## Advice
 
-If you want a rugged, serviceable, open-back with strong imaging and easy drivability, the DT 900 PRO X is an excellent choice. Expect a bright top end; if you’re treble-sensitive or require stricter neutrality for reference checks, start with a gentle shelf/peak EQ around the 6–12 kHz region or consider the Sennheiser HD 560S as a lower-cost neutral benchmark [1][2][7]. If you need isolation, look at the sibling DT 700 PRO X.
+Professional users seeking open-back headphones for mixing applications will find the DT 900 PRO X delivers reliable German manufacturing with genuine driver innovation and broad device compatibility. The bright frequency response may suit those preferring enhanced detail retrieval in upper frequencies. However, budget-conscious buyers should consider the Hifiman HE400se, which provides equivalent measured performance at significantly lower cost. The replaceable components and robust construction justify consideration for users prioritizing longevity and serviceability over pure cost-effectiveness.
 
 ## References
 
-[1] RTINGS.com, “Beyerdynamic DT 900 PRO X Review,” https://www.rtings.com/headphones/reviews/beyerdynamic/dt-900-pro-x, accessed 2025-08-15.  
-[2] DIY-Audio-Heaven, “DT 900 PRO X measurements,” https://diyaudioheaven.wordpress.com/headphones/measurements/brands-a-i/dt-900-pro-x/, accessed 2025-08-15.  
-[3] beyerdynamic (official), “DT 900 PRO X – Studio headphones for critical listening, mixing & mastering,” https://north-america.beyerdynamic.com/p/dt-900-pro-x, accessed 2025-08-15.  
-[4] beyerdynamic (official), “Warranty,” https://north-america.beyerdynamic.com/service-support/warranty, accessed 2025-08-15.  
-[5] B&H Photo Video, “Beyerdynamic DT 900 PRO X Open-Back Studio Headphones – Price 269.99 USD,” https://www.bhphotovideo.com/c/product/1863921-REG/beyerdynamic_729906_studio_headphones_closed_systems.html, accessed 2025-08-15.  
-[6] Newegg (marketplace), “Sennheiser HD 560S – New from 233.99 USD,” https://www.newegg.com/p/pl?d=sennheiser+509144, accessed 2025-08-15.  
-[7] Sennheiser (official), “HD 560S,” https://www.sennheiser-hearing.com/en-US/p/hd-560s/, accessed 2025-08-15.
+[1] Audio Science Review Forum - DT 900 PRO X Review - https://www.audiosciencereview.com/forum/index.php?threads/dt-900-pro-x-review-these-new-beyerdynamic-headphones-are-excellent.40678/ - accessed 2026-02-17 - 90 dBA SPL test conditions
 
-(2025.8.15)
+[2] DIY Audio Heaven - DT 900 PRO X Measurements - https://diyaudioheaven.wordpress.com/measurements/brands-a-i/dt-900-pro-x/ - accessed 2026-02-17
 
+[3] The new beyerdynamic driver in our PRO X headphones - https://blog-na.beyerdynamic.com/the-new-beyerdynamic-driver-in-our-pro-x-headphones/ - accessed 2026-02-17
+
+[4] Audio Science Review - Hifiman HE400se Review - https://www.audiosciencereview.com/forum/index.php?threads/hifiman-he400se-review-headphone.28771/ - accessed 2026-02-17
+
+[5] Beyerdynamic Warranty and Support - https://north-america.beyerdynamic.com/service-support/warranty - accessed 2026-02-17
+
+[6] DT 900 PRO X Official Product Page - https://europe.beyerdynamic.com/p/dt-900-pro-x - accessed 2026-02-17
+
+(2026.2.18)
