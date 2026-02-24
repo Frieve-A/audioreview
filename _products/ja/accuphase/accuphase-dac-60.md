@@ -5,71 +5,57 @@ target_name: "Accuphase DAC-60"
 company_id: accuphase
 lang: ja
 ref: accuphase-dac-60
-date: 2025-08-21
-rating: [2.3, 0.7, 0.3, 0.1, 0.8, 0.4]
-price: 99000
-summary: "旧世代DACプラットフォームを用いる自社カード型入力。機能面は十分ですが、単体DACの進歩と価格低下により総合的な割高感が大きい製品です"
-tags: [DAC, デジタル入力カード, ハイエンド, PCM, DSD]
+date: 2026-02-24
+rating: [2.5, 0.5, 0.6, 0.4, 0.5, 0.5]
+price: 220125
+summary: "デュアルES9016K2M DACを搭載したAccuphaseアンプ用デジタル入力ボード。高解像度PCMおよびDSD形式に対応するが、性能検証に必要な測定データが公開されていません。"
+tags: [DAC, デジタル入力ボード, ハイレゾ音源, DSD, PCM]
 permalink: /products/ja/accuphase-dac-60/
 ---
 
 ## 概要
 
-DAC-60は対応するAccuphaseプリアンプ／インテグレーテッドに装着するデジタル入力カードです。並列接続のES9016K2Mによる**2MDS+（Multiple Delta Sigma）**原理を採用し、USB・光・同軸入力を装備。USBはPCM最大384 kHz/32-bit、DSD 11.2 MHz（ASIOのみ）、同軸は192 kHz/24-bit、光は96 kHz/24-bitに対応します。これらは公式資料で確認できます。 [1][2][3]
+DAC-60は、対応するプリアンプおよびプリメインアンプに装着するために設計されたAccuphaseの第6世代デジタル入力ボードです。DAC-50の後継として2021年末にリリースされ、独自の2MDS+実装による並列構成のデュアルESS ES9016K2M DACチップを特徴としています。ボードは384kHz/32-bit PCMおよびDSD256までのUSB入力、さらに自動切替優先機能付きの同軸および光入力をサポートします。
 
 ## 科学的有効性
 
-$$ \Large \text{0.7} $$
+$$ \Large \text{0.5} $$
 
-インターフェースとフォーマット対応は現行水準（USB: PCM 384 kHz/32-bit・DSD 11.2 MHz、COAX: 192 kHz/24-bit、OPTICAL: 96 kHz/24-bit）。D/A部は並列DAC＋フルバランス後段フィルタなど、ノイズ／歪み低減を意図した2MDS+実装です。DAC-60本体の第三者測定（THD+N／SINAD・ダイナミックレンジ等）は未公開ですが、設計・機能から**透明域ボーダー相当は期待できる**水準と判断します。信頼できる測定が公開され次第、数値で更新します。 [1][2]
+本製品の測定データは公開されていません。信頼できる第三者測定は見当たらず[1]、メーカーの音質関連仕様（THD、S/N比、周波数特性、SINAD、クロストーク）も公表されていません。データ不足のため科学的有効性は評価できず、スコアは0.5としています。
 
 ## 技術レベル
 
-$$ \Large \text{0.3} $$
+$$ \Large \text{0.6} $$
 
-ES9016K2Mの並列2MDS+という堅実な構成ながら、最新DACアーキテクチャと比べると世代差があります。カード型のため汎用性や拡張性は単体DACに劣ります。 [1][3]
+DAC-60は、確認された自社設計と独自実装により平均以上の技術レベルを示しています。Accuphaseの2MDS+ Multiple Delta Sigma変換原理とANCCノイズキャンセレーションは、独自の特許保護技術を表しています[2]。デュアル並列ES9016K2M構成は実装における技術的洗練を示しています。しかし、基盤となるESSチップは最先端というよりも確立された部品であり、技術は画期的なイノベーションよりも既存アプローチの洗練に焦点を当てています。モジュラーボード設計はAccuphaseエコシステム内で競争優位性を提供します。
 
 ## コストパフォーマンス
 
-$$ \Large \text{0.1} $$
+$$ \Large \text{0.4} $$
 
-**レビュー対象の実勢価格（国内）：** **99,000円** 程度（税込）。[8][9]  
-**英語版の価格基準（CP計算の分母）：** **1,475 USD**（米国ディーラー掲示価格）。[4][5]
-
-**比較基準（最安の同等以上品）：** **Topping E30 II** — USB/光/同軸入力、PCM 768 kHz/32-bit・DSD512対応、第三者測定で透明域の性能。**149 USD**（実勢）。[6][7]
-
-**同等以上と判断する理由：** ユーザー視点の入出力（USB/光/同軸）を同等に備え、対応フォーマットはより広く、独立測定で透明域（THD+N／SINAD・ダイナミックレンジ）が確認されています。 [7]
-
-**CP計算（数値の明示）：**  
-149 USD ÷ 1,475 USD = **0.101** → **0.1**（小数第1位で丸め）。
+現在の市場価格は220,125円（1,475 USD）です[3]。CP = 549.99 USD ÷ 1,475 USD = 0.4。SMSL D400ESは549.99 USDで、利用可能な仕様に基づいて同等以上の機能を提供します。D400ESはPCM 768kHz/32-bitサポート（384kHz/32-bitに対して）およびDSD512サポート（DSD256に対して）のUSBデジタル入力、さらにDAC-60の中核機能に匹敵する同軸および光入力を提供します[4]。D400ESはAudio Science Reviewの参照測定によりSINAD 120+ dBを実証していますが、DAC-60の測定性能は未文書化のままです。明確な性能比較を可能にする第三者測定がターゲット製品では利用できないため、この評価は機能的等価性に基づく暫定的なものです。
 
 ## 信頼性・サポート
 
-$$ \Large \text{0.8} $$
+$$ \Large \text{0.5} $$
 
-Accuphaseは工作品質とサポート体制に定評があります。一方、カード運用は対応機種への依存が避けられず、汎用の単体DACに比べシステム自由度は下がります。
+DAC-60は可動部品を最小限に抑えた専用DAC入力ボードとしてのシンプルで堅牢な設計から恩恵を受け、故障に対して本質的に耐性があります。Accuphaseは構築品質と信頼性において確立された評判を維持しています。しかし、サポートの制限には、購入国に限定された保証範囲で国際サポートなし、具体的な保証条件が明確に文書化されていないことが含まれます。修理サービスは正規代理店およびサービスステーションを通じて利用可能ですが、製品年数に伴い部品入手可能性が低下します。第6世代設計は、前バージョンから信頼性向上を示唆する反復的改良を表しています。
 
 ## 設計思想の合理性
 
-$$ \Large \text{0.4} $$
+$$ \Large \text{0.5} $$
 
-自社アンプ内で配線や設置を簡潔にできる利点はありますが、旧世代プラットフォームを高価格で提供する戦略は、同等機能・透明測定の単体DACが低価格で多数ある現状では合理性が限定的です。 [6][7]
+DAC-60は設計思想の合理性において混合的です。正の側面には、会社名に「ACCU」（正確）と「PHASE」を組み合わせることに反映された、精度と忠実度に重点を置く測定重視アプローチが含まれます[2]。独自のANCCノイズキャンセレーション技術と完全な自社設計は、性能向上への科学的アプローチを表しています。しかし、並列構成の標準ESSチップに対する1,475 USDの価格は、機能や性能向上に直接関連しない重要なブランドプレミアムコストを表しています。技術実装は健全ですが、コスト配分は純粋な性能最適化よりもプレミアム製造とブランドポジショニングを重視しています。
 
 ## アドバイス
 
-既存のAccuphaseシステムで内部統合を重視するなら利便性はあります。性能／費用重視なら**Topping E30 II**が第一候補です。バランス出力など追加要件がある場合は、より上位の単体DACも検討すると良いでしょう。 [6][7]
+高解像度デジタル入力機能の追加を求める既存のAccuphaseプリアンプまたはプリメインアンプオーナーにとって、DAC-60は自動入力切替と実証された信頼性でシームレスなシステム統合を提供します。しかし、潜在的購入者は、SMSL D400ESなどのスタンドアロンDACが大幅に低コストで同等の機能を提供することを考慮すべきです。DAC-60の価値提案は、Accuphaseシステム統合の要件に完全に依存します。新システム構築者は、特に検証用の公開性能測定の欠如を考慮して、Accuphaseのモジュラーアプローチへの投資よりもスタンドアロンDACソリューションがより良い全体価値を提供するかどうかを評価すべきです。
 
 ## 参考情報
 
-1. Accuphase — *DAC-60*（製品ページ）, https://www.accuphase.com/model/dac-60.html, 2025年8月アクセス。  
-2. Accuphase — *DAC-60 カタログ（EN, PDF）*, https://www.accuphase.com/cat/dac-60_en.pdf, 2025年8月アクセス。  
-3. Accuphase — *DAC-60 技術資料（PDF）*, https://www.accuphase.com/technical_information/dac-60_technical_information.pdf, 2025年8月アクセス。  
-4. Audio Classics — *Accuphase 2024 U.S. List Pricing（PDF）*（DAC-60: 1,475 USD）, https://www.audioclassics.com/pricelist/Accuphase-US-List-Pricing-V1-2-4-20240201.pdf, 2025年8月アクセス。  
-5. Just Audio HiFi — *Accuphase DAC-60*（米国ディーラー価格）, https://justaudiohifi.com/collections/accuphase-1/products/accuphase-dac-60, 2025年8月アクセス。  
-6. ShenzhenAudio — *Topping E30 II 製品ページ*（実勢価格）, https://shenzhenaudio.com/products/topping-e30-ii-dual-ak4493s-decoder-dac-with-remote-control-hi-res-decoder, 2025年8月アクセス。  
-7. Audio Science Review — *Topping E30 II DAC Review & Measurements*, https://www.audiosciencereview.com/forum/index.php?threads/topping-e30-ii-dac-review.36028/, 2025年8月アクセス。  
-8. オーディオユニオン — *Accuphase DAC-60（新品）*, https://www.audiounion.jp/ct/detail/new/182338/, 2025年8月アクセス。  
-9. サウンドエース — *Accuphase DAC-60*（国内価格の参考）, https://www.soundace.jp/SHOP/Accuphase_DAC-60.html, 2025年8月アクセス。
+[1] Audio Science Review - https://www.audiosciencereview.com/forum/index.php - accessed 2026-02-24
+[2] Accuphase Laboratory DAC-60 - https://www.accuphase.com/model/dac-60.html - accessed 2026-02-24
+[3] Vinyl Sound USA DAC-60 Product Page - https://vinylsound.com/products/accuphase-dac-60 - accessed 2026-02-24
+[4] SMSL D400ES Desktop DAC - https://apos.audio/products/smsl-d400es - accessed 2026-02-24
 
-(2025.8.21)
-
+(2026.2.24)

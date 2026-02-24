@@ -5,67 +5,57 @@ target_name: "Accuphase DAC-60"
 company_id: accuphase
 lang: en
 ref: accuphase-dac-60
-date: 2025-08-21
-rating: [2.3, 0.7, 0.3, 0.1, 0.8, 0.4]
+date: 2026-02-24
+rating: [2.5, 0.5, 0.6, 0.4, 0.5, 0.5]
 price: 1475
-summary: "High-priced digital input card using an older-generation DAC platform; functionally competent but outclassed on value by modern standalone DACs"
-tags: [DAC, DSD, Digital Input Card, High-end, PCM]
+summary: "Digital input board for Accuphase amplifiers with dual ES9016K2M DACs, supporting high-resolution PCM and DSD formats but lacking publicly available measurement data for performance verification."
+tags: [DAC, Digital-Input-Board, High-Resolution-Audio, DSD, PCM]
 permalink: /products/en/accuphase-dac-60/
 ---
+
 ## Overview
 
-The Accuphase DAC-60 is a digital input card for compatible Accuphase pre/integrated amplifiers. It implements Accuphase’s “2MDS+ (Multiple Delta Sigma)” principle using parallel ES9016K2M DAC chips, and offers USB, optical, and coaxial inputs with support for PCM up to 384 kHz/32-bit and DSD up to 11.2896 MHz (DSD256). Coaxial supports up to 192 kHz/24-bit and optical up to 96 kHz/24-bit. These capabilities are confirmed in Accuphase’s official materials. [1][2][3]
+The DAC-60 is Accuphase's 6th generation digital input board designed for installation in compatible preamplifiers and integrated amplifiers. Released in late 2021 as successor to the DAC-50, it features dual ESS ES9016K2M DAC chips in parallel configuration with proprietary 2MDS+ implementation. The board supports USB input up to 384kHz/32-bit PCM and DSD256, plus coaxial and optical inputs with automatic switching priority.
 
 ## Scientific Validity
 
-$$ \Large \text{0.7} $$
+$$ \Large \text{0.5} $$
 
-Interface support and format ceilings are modern (USB: PCM 384 kHz/32-bit, DSD 11.2 MHz; COAX: 192 kHz/24-bit; OPTICAL: 96 kHz/24-bit). The converter section applies Accuphase’s 2MDS+ with parallel DACs and fully balanced post-filtering, design choices aimed at lowering noise and distortion. While comprehensive third-party device-level measurements (THD+N/SINAD, dynamic range, crosstalk) for DAC-60 are not yet published, the implementation and feature set make **borderline-transparent performance plausible**, pending independent verification. Update this section once credible lab data appears. [1][2]
+No measurement data is publicly available for this product. Credible third-party measurements were not found [1], and manufacturer audio-performance specifications (THD, S/N ratio, frequency response, SINAD, crosstalk) are not published. Scientific Validity cannot be evaluated due to insufficient data; the score is 0.5.
 
 ## Technology Level
 
-$$ \Large \text{0.3} $$
+$$ \Large \text{0.6} $$
 
-The design employs an older-generation ESS DAC (ES9016K2M) in a parallel 2MDS+ topology. It is competent but not state-of-the-art relative to current converter architectures. The proprietary card form factor also constrains upgradability versus standalone DACs. [1][3]
+The DAC-60 demonstrates above-average technology level through confirmed in-house design and proprietary implementations. Accuphase's 2MDS+ Multiple Delta Sigma converter principle and ANCC noise cancellation represent proprietary patent-protected technologies [2]. The dual parallel ES9016K2M configuration shows technical sophistication in implementation. However, the underlying ESS chips are established rather than cutting-edge components, and the technology focuses on refinement of existing approaches rather than breakthrough innovation. The modular board design provides competitive advantage within Accuphase's ecosystem.
 
 ## Cost-Performance
 
-$$ \Large \text{0.1} $$
+$$ \Large \text{0.4} $$
 
-**Current market price (review target):** 1,475 USD (US dealer list). [4][5]
-
-**Cheapest equal-or-better comparator:** **Topping E30 II** — standalone DAC with USB/optical/coaxial, PCM up to 768 kHz/32-bit and DSD512, plus transparent-class independent measurements. **149 USD** (current market price). [6][7]
-
-**Why equivalent-or-better:** E30 II offers the same user-facing digital inputs (USB/optical/coax) and broader format ceilings; third-party measurements demonstrate transparent fidelity in key metrics. [7]
-
-**CP calculation (required display):**  
-149 USD ÷ 1,475 USD = **0.101** → **0.1** (rounded to one decimal).
+Current market price is 1,475 USD [3]. CP = 549.99 USD ÷ 1,475 USD = 0.4. The SMSL D400ES at 549.99 USD provides equivalent-or-better functions based on available specifications. The D400ES offers USB digital input with PCM 768kHz/32-bit support (vs 384kHz/32-bit) and DSD512 support (vs DSD256), plus coaxial and optical inputs matching the DAC-60's core functionality [4]. The D400ES demonstrates SINAD of 120+ dB from Audio Science Review referenced measurements, while the DAC-60's measured performance remains undocumented. No third-party measurements are available for the target product to enable definitive performance comparison, making this evaluation provisional based on functional equivalence.
 
 ## Reliability & Support
 
-$$ \Large \text{0.8} $$
+$$ \Large \text{0.5} $$
 
-Accuphase has an established reputation for build quality and long-term service via authorized channels. As a plug-in card, the DAC-60 is limited to specific Accuphase hosts, adding system-compatibility constraints relative to universal standalone DACs.
+The DAC-60 benefits from simple robust design as a dedicated DAC input board with minimal moving parts, inherently resistant to failure. Accuphase maintains an established reputation for build quality and reliability. However, support limitations include warranty coverage restricted to country of purchase with no international support, and specific warranty terms are not clearly documented. Repair services are available through authorized distributors and service stations, but parts availability decreases with product age. The 6th generation design indicates iterative refinement suggesting reliability improvements over previous versions.
 
 ## Rationality of Design Philosophy
 
-$$ \Large \text{0.4} $$
+$$ \Large \text{0.5} $$
 
-Integrating a DAC as a proprietary card simplifies cabling inside an Accuphase stack, but it ties the user to one ecosystem while employing an older converter platform at a premium price. When functionally equivalent, transparently measuring DACs are widely available at a fraction of the cost, the technical rationale is limited. [6][7]
+The DAC-60 demonstrates mixed design philosophy rationality. Positive aspects include measurement-focused approach with emphasis on accuracy and fidelity, reflected in the company name combining "ACCU" (accurate) with "PHASE" [2]. Proprietary ANCC noise cancellation technology and complete in-house design represent scientific approaches to performance improvement. However, the 1,475 USD price for standard ESS chips in parallel configuration represents significant brand premium costs not directly related to function or performance improvements. While the technical implementation is sound, cost allocation heavily favors premium manufacturing and brand positioning over pure performance optimization.
 
 ## Advice
 
-For existing Accuphase owners who value internal integration and aesthetics, the DAC-60 can be convenient. Performance-oriented buyers should consider modern standalone DACs: **Topping E30 II** for maximal value/equivalence, or step up to models with balanced outputs if your system requires them. [6][7]
+For existing Accuphase preamplifier or integrated amplifier owners seeking to add high-resolution digital input capability, the DAC-60 provides seamless system integration with automatic input switching and proven reliability. However, potential buyers should consider that standalone DACs like the SMSL D400ES offer equivalent functionality at significantly lower cost. The DAC-60's value proposition depends entirely on the requirement for Accuphase system integration. New system builders should evaluate whether standalone DAC solutions might provide better overall value than investing in Accuphase's modular approach, especially given the lack of publicly available performance measurements for verification.
 
 ## References
 
-1. Accuphase Laboratory — *DAC-60* (official model page), https://www.accuphase.com/model/dac-60.html, accessed Aug 2025.  
-2. Accuphase Laboratory — *DAC-60 Catalog (EN, PDF)*, https://www.accuphase.com/cat/dac-60_en.pdf, accessed Aug 2025.  
-3. Accuphase Laboratory — *DAC-60 Technical Information (PDF)*, https://www.accuphase.com/technical_information/dac-60_technical_information.pdf, accessed Aug 2025.  
-4. Audio Classics — *Accuphase 2024 U.S. List Pricing (PDF)*, DAC-60 listed at 1,475 USD, https://www.audioclassics.com/pricelist/Accuphase-US-List-Pricing-V1-2-4-20240201.pdf, accessed Aug 2025.  
-5. Just Audio HiFi — *Accuphase DAC-60* (dealer page), https://justaudiohifi.com/collections/accuphase-1/products/accuphase-dac-60, accessed Aug 2025.  
-6. ShenzhenAudio — *Topping E30 II product page* (current market price), https://shenzhenaudio.com/products/topping-e30-ii-dual-ak4493s-decoder-dac-with-remote-control-hi-res-decoder, accessed Aug 2025.  
-7. Audio Science Review — *Topping E30 II DAC Review & Measurements*, https://www.audiosciencereview.com/forum/index.php?threads/topping-e30-ii-dac-review.36028/, accessed Aug 2025.
+[1] Audio Science Review - https://www.audiosciencereview.com/forum/index.php - accessed 2026-02-24
+[2] Accuphase Laboratory DAC-60 - https://www.accuphase.com/model/dac-60.html - accessed 2026-02-24
+[3] Vinyl Sound USA DAC-60 Product Page - https://vinylsound.com/products/accuphase-dac-60 - accessed 2026-02-24
+[4] SMSL D400ES Desktop DAC - https://apos.audio/products/smsl-d400es - accessed 2026-02-24
 
-(2025.8.21)
-
+(2026.2.24)
