@@ -1,11 +1,11 @@
 ---
 layout: product
-title: "AIYIMA AIYIMA A07 Premium 製品レビュー"
-target_name: "AIYIMA AIYIMA A07 Premium"
+title: "AIYIMA A07 Premium 製品レビュー"
+target_name: "AIYIMA A07 Premium"
 company_id: aiyima
 lang: ja
 ref: aiyima-a07-premium
-date: 2026-02-24
+date: 2026-02-25
 rating: [3.1, 0.6, 0.2, 1.0, 0.4, 0.9]
 price: 8800
 summary: "TPA3255チップを搭載した競争力のある価格で良好な測定性能を発揮するバジェットクラスDアンプ。ただし、基本的な技術レベルと最小限の保証サポートにより制限される"
@@ -58,4 +58,4 @@ AIYIMA A07 Premiumは、良好な測定性能を持つバジェットデスク�
 [4] AIYIMA - A07 Premium Official Product Page - https://www.aiyima.com/products/a07-premium - accessed 2026-02-24
 [5] AIYIMA - Return and Refund Policy - https://www.aiyima.com/pages/return-and-refund-policy - accessed 2026-02-24
 
-(2026.2.24)
+(2026.2.25)

@@ -1,11 +1,11 @@
 ---
 layout: product
-title: "AIYIMA AIYIMA A07 Premium Product Review"
-target_name: "AIYIMA AIYIMA A07 Premium"
+title: "AIYIMA A07 Premium Product Review"
+target_name: "AIYIMA A07 Premium"
 company_id: aiyima
 lang: en
 ref: aiyima-a07-premium
-date: 2026-02-24
+date: 2026-02-25
 rating: [3.1, 0.6, 0.2, 1.0, 0.4, 0.9]
 price: 60.99
 summary: "Budget Class D amplifier with TPA3255 chip delivering good measured performance at competitive price, though limited by basic technology level and minimal warranty support"
@@ -58,4 +58,4 @@ The AIYIMA A07 Premium offers excellent value for users seeking budget desktop a
 [4] AIYIMA - A07 Premium Official Product Page - https://www.aiyima.com/products/a07-premium - accessed 2026-02-24
 [5] AIYIMA - Return and Refund Policy - https://www.aiyima.com/pages/return-and-refund-policy - accessed 2026-02-24
 
-(2026.2.24)
+(2026.2.25)
