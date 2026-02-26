@@ -5,49 +5,61 @@ target_name: "Topping DX1"
 company_id: topping
 lang: en
 ref: topping-dx1
-date: 2025-07-29
-rating: [4.0, 0.8, 0.7, 1.0, 0.7, 0.8]
+date: 2026-02-26
+rating: [3.7, 0.8, 0.6, 1.0, 0.6, 0.7]
 price: 99
-summary: "Entry-class DAC/headphone amplifier featuring AK4493S DAC chip. At a price of 99 USD, it achieves transparent-level measured performance with THD+N below 0.0002% and an SNR of 120dB, offering the best cost-performance in its price range."
-tags: [DAC, Desktop, Entry Class, Headphone amplifier, USB DAC]
+summary: "Entry-level desktop DAC/amplifier combo featuring AKM AK4493S chip with transparent-level measured performance verified by third-party measurements. No cheaper equivalent exists at 99 USD price point."
+tags: [AKM AK4493S, DAC, Desktop, Entry-level, Headphone amplifier, USB Audio]
 permalink: /products/en/topping-dx1/
 ---
 ## Overview
 
-The Topping DX1 is an entry-class DAC/headphone amplifier released by Chinese audio manufacturer Topping. Despite its affordable price of 99 USD, it incorporates AKM's VELVET Sound technology with the AK4493S DAC chip and XMOS XU208 USB controller, supporting high-resolution audio up to PCM 384kHz/32bit and DSD256. The compact aluminum housing measures 10×9.8×3.2cm and features 6.35mm and 3.5mm headphone outputs, RCA outputs, High/Low gain switching, and operates solely on USB power for high convenience. The measured performance of THD+N below 0.0002% (DAC) and an SNR of 120dB (DAC) is extremely excellent for this price range, garnering significant attention as an entry-class DAC/amplifier.
+The Topping DX1 is an entry-level desktop DAC and headphone amplifier combo featuring the AKM AK4493S 32-bit DAC chip. Released in September 2022 at 99 USD, it combines high-resolution audio support up to 32-bit/384kHz PCM and native DSD256 with USB-powered operation. The device targets audiophiles seeking capable desktop performance without higher-end complexity or cost.
 
 ## Scientific Validity
 
 $$ \Large \text{0.8} $$
 
-The DX1's measured performance is extremely excellent. The DAC section's THD+N below 0.0002% and the amplifier section's THD+N below 0.0003% meet transparent level criteria. The SNR of 120dB (DAC), 118dB (amplifier), and dynamic range of 120dB (DAC), 118dB (amplifier) also reach transparent levels. Jitter is suppressed to -160dB, near measurement limits, and noise levels are extremely low at 2.0uV (DAC section) and 1.0uV (amplifier section), causing no issues even with sensitive IEMs. The frequency response shows no problematic deviations within 20Hz-20kHz, and the 280mW×2 output at a 32Ω load provides sufficient drive capability for medium impedance headphones. Having achieved transparent levels in nearly all measurement criteria, its scientific validity is highly rated.
+Manufacturer specifications indicate excellent performance across all metrics: THD+N below 0.0002% for DAC section and below 0.0003% for headphone amplifier, S/N ratio of 118-120dB, dynamic range of 118-120dB, and frequency response within ±0.3dB from 20Hz-20kHz [1]. Crosstalk measures -112dB for DAC and -86dB for amplifier sections. Third-party measurements from L7Audiolab [2] provide graphical verification including THD+N vs frequency, dynamic range, linearity, IMD (SMPTE), and multitone analysis, confirming transparent-level performance. All evaluated metrics significantly exceed policy-defined transparent thresholds: THD+N (0.01% threshold), S/N (105dB threshold), dynamic range (105dB threshold), frequency response (±0.5dB threshold), and crosstalk (-70dB threshold).
 
 ## Technology Level
 
-$$ \Large \text{0.7} $$
+$$ \Large \text{0.6} $$
 
-The DX1 incorporates the AK4493S chip adopting AKM's VELVET Sound technology, which is a high-performance DAC chip positioned below the company's flagship AK4497. Combined with the XMOS XU208 USB controller, it achieves stable digital signal processing. Particularly noteworthy is the proprietary LNRD (Low Noise Regulator Design) circuit that effectively filters noise from the USB power supply, realizing an extremely low noise floor. However, the technological elements used are combinations of existing technologies, with no innovative proprietary designs visible. The circuit design is solid and appropriately implements technologies necessary for achieving its measured performance, but contains no industry-leading advanced technologies. While the technology level is sufficient for this price range, differentiation elements from higher-end models are limited.
+The DX1 incorporates proven AKM AK4493S DAC technology with XMOS XU208 USB controller, representing solid but established components rather than cutting-edge innovation. Topping's proprietary discrete LNRD noise filtering circuit demonstrates accumulated know-how in power supply design. The implementation combines licensed standard chips with in-house circuit optimization, achieving above-average technology level without breakthrough innovations. USB bus-powered operation and dual-gain switching show practical engineering focus.
 
 ## Cost-Performance
 
 $$ \Large \text{1.0} $$
 
-The price of the DX1 is 99 USD. After researching current products with equivalent functionality (USB input, headphone and RCA outputs) and equivalent or superior measured performance (THD+N ≤ 0.0003%, SNR ≥ 118dB, output ≥ 280mW@32Ω), no cheaper alternative to the DX1 was found. As this product is effectively the world's cheapest for this performance class, its cost-performance is rated a perfect 1.0. A user cannot obtain equivalent or better performance for less money.
+CP = 1.0 (no cheaper equivalent-or-better product exists)
+
+After comprehensive search across products from 9 USD to 200+ USD price ranges, no devices were identified with equivalent-or-better measured performance and user-facing functions at lower cost. Candidates investigated included Apple USB-C adapter (insufficient power and missing desktop functions), FiiO K5 Pro ESS (SINAD performance gap of 28-30dB), SMSL M100 (DAC-only without amplifier), and FX-Audio DAC-X6 (significantly inferior noise floor). The DX1 represents the most affordable option combining desktop DAC/amplifier functionality with transparent-level specifications.
 
 ## Reliability & Support
 
-$$ \Large \text{0.7} $$
+$$ \Large \text{0.6} $$
 
-Topping, a Chinese audio manufacturer founded in 2008, has gained recognition in recent years through measurement-focused product development. Product failure rates are at industry-average levels, with no reports of serious quality issues confirmed. Warranty periods vary by purchase region but are generally 1-2 years. A support system is established through authorized distributors in many regions, making repair services possible. Since no firmware update functionality is incorporated, long-term support risks in this regard are low. However, being relatively young since its founding, some uncertainty remains regarding long-term corporate sustainability compared to established brands. While product reliability itself is good, the support system remains at industry-average standards.
+The device receives slightly above-average reliability scoring through simple, robust design with minimal moving parts and proven XMOS XU208 USB controller technology. Global manufacturer support system adds confidence, though 1-year warranty period falls short of industry average 2-year coverage. No documented inherent hardware failures or manufacturing defects found in investigation. USB bus-powered operation eliminates external power supply failure points, contributing to overall reliability.
 
 ## Rationality of Design Philosophy
 
-$$ \Large \text{0.8} $$
+$$ \Large \text{0.7} $$
 
-The DX1's design philosophy is extremely rational. It clearly targets achieving transparent levels in measurement criteria and realizes excellent values across all THD+N, SNR, and dynamic range parameters. The simple design, operating solely on USB power, successfully balances usability and sound quality. Despite the compact housing design, it ensures appropriate heat dissipation and shielding, implementing necessary elements for achieving its measured performance without excess or deficiency. The LNRD circuit's power noise countermeasures represent a rational approach based on scientific evidence. For the goal of achieving transparent-level sound quality while keeping costs down, the elimination of unnecessary decoration and non-scientific elements, adopting only technologies that purely contribute to performance improvement, is highly commendable. The design philosophy of pursuing rationality, characteristic of the measurement-focused Topping, is thoroughly implemented.
+Topping demonstrates a measurement-focused scientific approach with complete elimination of subjective audio claims, achieving transparent-level specifications at entry-level pricing. Cost allocation directly contributes to function and measured performance improvement, with aesthetics and premium materials appropriately deprioritized. Active reduction of meaningless costs is evident: removal of display screen, optical/coaxial outputs, and external power supply to focus resources on audio performance. The design philosophy prioritizes measurable audio performance over marketing-driven features, representing a rational engineering strategy for achieving transparent sound quality at minimum cost.
 
 ## Advice
 
-For 99 USD, the DX1 is the optimal choice for any user seeking transparent-level audio performance. Particularly for beginners looking to improve sound quality from their PC or smartphone's built-in DAC, its balance of high measured performance and affordable pricing is unmatched. It provides sufficient drive capability for 32-300Ω headphones and enables comfortable listening even with IEM combinations due to its extremely low noise. As it is the cheapest option on the market for this level of performance, if you are looking for the best performance within your budget, the DX1 is the product to choose. However, for those seeking balanced output, optical digital input, or multiple input switching functions, higher-end products should be considered. Additionally, for primary use with high-impedance headphones (over 300Ω), higher-output amplifiers are more suitable. In a desktop environment where sound quality and simple operation are prioritized, the DX1 serves as the most rational entry point.
+The DX1 suits users seeking transparent desktop audio performance with comprehensive format support at the most affordable price point available. Recommended for those prioritizing measured specifications over premium construction or advanced features. Consider higher-tier options if extended warranty, additional inputs, or higher power output are required. The device excels as cost-effective entry into desktop audio with performance capabilities matching significantly more expensive alternatives.
 
-(2025.7.29)
+## References
+
+[1] SHENZHENAUDIO - TOPPING DX1 AK4493S Desktop DAC & Headphone Amplifier - https://shenzhenaudio.com/products/topping-dx1-ak4493s-desktop-dac-headphone-amplifier - accessed 2026-02-25
+
+[2] L7Audiolab - Measurements of Topping DX1 USB DAC/HPAmp - https://www.l7audiolab.com/f/topping-dx1/ - accessed 2026-02-25
+
+[3] Topping Audio - DX1 Official Product Page - https://www.toppingaudio.com/product-item/dx1 - accessed 2026-02-25
+
+[4] Audio Science Review Forum - Topping DX1 mini desktop DAC & AMP - https://www.audiosciencereview.com/forum/index.php?threads/topping-dx1-mini-desktop-dac-amp.37600/ - accessed 2026-02-25
+
+(2026.2.26)
