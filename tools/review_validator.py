@@ -384,6 +384,7 @@ class ReviewValidator:
         if review.layout != "product":
             return issues
         if review.price is None:
+            issues.append("Required field 'price' is missing for product review")
             return issues
         try:
             price_val = review.price
