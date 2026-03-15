@@ -5,49 +5,57 @@ target_name: "Q Acoustics 3030i"
 company_id: q-acoustics
 lang: en
 ref: q-acoustics-3030i
-date: 2025-07-08
-rating: [3.9, 0.8, 0.7, 0.9, 0.7, 0.8]
+date: 2026-03-15
+rating: [4.1, 0.7, 0.7, 1.0, 0.8, 0.9]
 price: 399
-summary: "Bookshelf speaker with 6.5-inch woofer developed by British Q Acoustics. Features frequency response of 46Hz-30kHz (+3dB/-6dB) and 88dB efficiency, with acoustic design excellence in midrange expression. At USD 399 (approximately 400 USD), it offers a rational choice compared to competitors like Wharfedale Diamond 12.2 and KEF Q350."
-tags: [3000i Series, Bookshelf, Q Acoustics, Speakers, United Kingdom]
+summary: "Discontinued bookshelf speaker with solid engineering, excellent cost-performance as no cheaper equivalent exists, and rational measurement-focused design philosophy"
+tags: [Speakers, Bookshelf, Passive, Q Acoustics, Discontinued]
 permalink: /products/en/q-acoustics-3030i/
 ---
+
 ## Overview
 
-The Q Acoustics 3030i is a premium bookshelf speaker from the 3000i series by British manufacturer Q Acoustics. It features a 165mm (6.5-inch) mid-bass driver and a 22mm (0.9-inch) dome tweeter, achieving a frequency response of 46Hz-30kHz (+3dB/-6dB). The cabinet dimensions are 201mm wide × 325mm high × 330mm deep, weighing 6.4kg, adopting a relatively large enclosure for its price range. Unique point-to-point bracing technology ensures rigidity with a 12.5-liter internal volume design. With 88dB efficiency and 6-ohm impedance (4-ohm minimum), it is recommended for amplifier driving power of 25-75W.
+The Q Acoustics 3030i is a 2-way passive bookshelf speaker featuring a 165mm bass driver and 22mm tweeter in a reflex enclosure. Released in February 2020 as the largest model in the 3000i series, it was designed to deliver substantial bass performance from a compact cabinet. The speaker incorporates Q Acoustics' proprietary P2P bracing technology and tweeter isolation system. Originally priced at 399 USD, the 3030i was discontinued in August 2024 and replaced by the 3030c in the newer 3000c series. Q Acoustics, founded in 2006, has established itself as a multi-award winning brand focusing on measurement-based loudspeaker design.
 
 ## Scientific Validity
 
-$$ \Large \text{0.8} $$
+$$ \Large \text{0.7} $$
 
-Objective data exists from multiple third-party measurement institutions, confirming high consistency with claimed specifications. Frequency response measurements demonstrate flat characteristics relative to the 0dB reference line across the 100Hz-20kHz range, with minimal variation even with grille attached. Bass extension down to 46Hz (-6dB) is confirmed through measurements, and the 2.4kHz crossover frequency setting is appropriate. The 88dB efficiency matches measured values, and the 6-ohm/4-ohm minimum load characteristics present no driving difficulties for typical amplifiers. However, specific THD+N numerical data could not be confirmed, limiting scientific verification of distortion characteristics. Overall measured results are good, with audible range performance scientifically substantiated.
+Third-party measurements from Audio Science Review and Spinorama.org show frequency response deviation of ±2.3dB within the 300Hz-5kHz range, indicating good performance between excellent and standard thresholds. Bass extension reaches 47Hz at -6dB point with comprehensive spinorama data available. THD measurements show onset of woofer distortion at 95-98dB SPL at 1 meter.
 
 ## Technology Level
 
 $$ \Large \text{0.7} $$
 
-The 165mm driver represents technology transferred from the 3050i floorstanding speaker, with the impregnated and coated paper cone combined with optimized motor constituting a rational approach. The 22mm tweeter's decoupling design from the front panel is effective from a vibration isolation perspective, representing a technically sound choice. Point-to-point bracing utilizes computer-analyzed optimization design, achieving more effective rigidity than conventional bracing. However, these technologies remain within the application range of existing techniques, with limited innovative elements. From current technological standards, advanced technologies like DSP processing and active control are not adopted, remaining within conventional passive speaker design frameworks.
+The 3030i demonstrates solid engineering with proprietary P2P bracing technology providing targeted cabinet reinforcement and tweeter isolation system preventing internal pressure modulations. Design ownership is in-house with Q Acoustics developing refinements to established technologies. The 165mm paper cone driver uses impregnated and coated construction with low-hysteresis rubber surround. However, technologies are established rather than cutting-edge, having trickled down from the flagship Concept 500 series. The design remains purely analog and mechanical without digital integration or advanced technology adoption seen in contemporary products. While competently executed with some proprietary elements, the technology level reflects proven approaches rather than innovation.
 
 ## Cost-Performance
 
-$$ \Large \text{0.9} $$
+$$ \Large \text{1.0} $$
 
-The Q Acoustics 3030i sells for USD 399 (approximately 400 USD). Competing products with equivalent 6.5-inch drivers include the Wharfedale Diamond 12.2 at USD 499 and KEF Q350 at USD 500, positioning the 3030i in the lowest price tier. However, the smaller KEF Q150 at USD 350 provides equivalent acoustic performance, while the Monitor Audio Bronze 100 at USD 399 achieves superior low-frequency performance with its 8-inch woofer. CP calculation: 350÷399=0.88, resulting in approximately 12% higher cost compared to the world's cheapest equivalent product. While receiving superior evaluation in midrange expression versus competitors, advantages in pure performance-to-price ratio remain limited.
+Current market price: 399 USD per pair. After comprehensive search from lowest-priced passive bookshelf speakers with third-party measurements, no products were found offering equivalent-or-better measured performance at a lower price. Candidates including Micca RB42 (150 USD), Pioneer SP-BS22-LR (179 USD), Polk S15 (259 USD), and ELAC B6.2 (290 USD) all demonstrated inferior measured performance in frequency response deviation, bass extension, or distortion characteristics when compared to the 3030i's ±2.3dB frequency deviation and 47Hz bass extension. The KEF Q150 showed better measured performance but pricing verification indicated equivalent or higher cost. CP = 1.0 (no cheaper equivalent-or-better product exists).
 
 ## Reliability & Support
 
-$$ \Large \text{0.7} $$
+$$ \Large \text{0.8} $$
 
-Q Acoustics, founded in 1996, is a British manufacturer with over 25 years of established reputation. The 3000i series represents a long-selling product line with sustained market availability, establishing reliability credentials. Product warranty periods meet industry standards, with quality control systems from UK headquarters well-established. However, typical overseas manufacturer constraints apply regarding official distributor support in the Japanese market. User reviews report no significant failure patterns, with reliability as a passive speaker meeting general standards. Recently, product transition to the 3000c series positions the 3030i as a discontinued product.
+Excellent warranty coverage of 5 years when registered with Q Acoustics, significantly exceeding industry standard 2-year periods. Support provided directly by manufacturer (Armour Home Electronics Ltd.) with global availability and UK-based operations. Build quality consistently praised across reviews with P2P bracing system and precision construction delivering robust design resistant to cabinet resonance. However, moderate design complexity with internal bracing and mechanically isolated components introduces more potential failure points than simpler designs. Known issues include vendor-supplied stand isolation problems that were resolved, and some placement sensitivity due to rear-firing port design. Parts availability may be limited for older models based on user reports.
 
 ## Rationality of Design Philosophy
 
-$$ \Large \text{0.8} $$
+$$ \Large \text{0.9} $$
 
-Incorporating a 165mm driver in a bookshelf speaker with a large 12.5-liter enclosure represents a rational choice prioritizing low-frequency performance. Point-to-point bracing for rigidity is physically sound, with measured results supporting this design philosophy. The 2.4kHz crossover frequency setting is appropriate, maximizing driver characteristics. The frequency response characteristics remaining within ±3dB across the audible range represents excellent engineering achievement by speaker standards, where such tolerance is considered standard practice due to physical constraints of acoustic reproduction. While advanced technologies like DSP acoustic field correction and active crossovers are not adopted, the passive design philosophy provides amplifier selection flexibility and long-term reliability. The 330mm depth enclosure, while creating installation constraints, is acoustically justified for achieving the measured low-frequency performance. Overall, the design represents rational optimization within speaker engineering principles.
+Q Acoustics demonstrates exceptionally rational design philosophy with explicit measurement-focused scientific approach while rejecting traditional audio mythology. The company states it "believes in science and data" using laser interferometry for cabinet analysis rather than intuitive design. Cost allocation prioritizes performance with P2P bracing and precision engineering over exotic materials, explicitly avoiding "metal, hydrocarbons, or exciting additives to paper." The 3030i shows clear measurable progression over the 3020i with 18Hz deeper bass extension and larger drivers. Design emphasizes mass production efficiency and proven materials optimized through engineering rather than premium positioning. Technology adoption focuses directly on measurable performance improvements, representing highly rational loudspeaker development approach.
 
 ## Advice
 
-The Q Acoustics 3030i represents a choice for users prioritizing midrange expression capability. While bass extension down to 46Hz (-6dB) and 88dB efficiency enable acoustic performance with medium-sized amplifiers, the KEF Q150 (USD 349.99) provides equivalent overall performance at 12% lower cost than the USD 399 price point. For cost-performance priority, we recommend considering the KEF Q150 first. The price differential can only be justified when finding special value in midrange expression capability. Additionally, consider installation constraints from the 330mm depth large enclosure and the product's movement toward discontinuation.
+The Q Acoustics 3030i represents excellent value for those seeking substantial bookshelf speakers with good measured performance, particularly given no cheaper alternatives exist with equivalent capabilities. The 5-year warranty and solid build quality provide confidence for long-term ownership. However, prospective buyers should note the product is discontinued with replacement by the 3030c series. Consider the rear-firing port requires adequate wall clearance for optimal bass response. The measurement-focused engineering approach delivers predictable performance without exotic materials or inflated pricing. For buyers prioritizing objective performance over brand prestige, the 3030i offers rational engineering at fair market pricing.
 
-(2025.7.8)
+## References
+
+[1] Q Acoustics Official Product Page - https://www.qacoustics.com/products/3030i-bookshelf-speaker-pair - accessed 2026-03-14
+[2] Audio Science Review Q Acoustics 3030i Measurements - https://www.audiosciencereview.com/forum/index.php?threads/q-acoustics-3030i-quasi-anechoic-spinorama-and-other-measurements.12500/ - accessed 2026-03-14 - Umik-1 microphone, bass splice at 385Hz
+[3] Spinorama.org Q Acoustics 3030i Data - https://www.spinorama.org/speakers/Q%20Acoustics%203030i/Misc/index_misc-napilopez.html - accessed 2026-03-14 - CEA2034 spinorama dataset
+[4] Amazon Q Acoustics 3030i English Walnut - https://www.amazon.com/Acoustics-3030i-Bookshelf-Speaker-English/dp/B083KPXTBN - accessed 2026-03-14
+
+(2026.3.15)
