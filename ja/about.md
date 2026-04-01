@@ -92,3 +92,5 @@ lang: ja
 ---
 
 [FrieveのWebサイトへ](https://www.frieve.com)
+
+[プロジェクトを支援する](https://ko-fi.com/frievea){:target="_blank"}

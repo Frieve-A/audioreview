@@ -97,3 +97,5 @@ A scientific introduction to audio for informed product selection (free e-book)
 ---
 
 [Frieve Web Site](https://www.frieve.com)
+
+[Support This Project](https://ko-fi.com/frievea){:target="_blank"}
