@@ -85,12 +85,17 @@ lang: ja
 
 ---
 
-失敗しないオーディオ製品選びのための科学的オーディオ入門書（無料電子書籍）
+* 失敗しないオーディオ製品選びのための科学的オーディオ入門書（無料電子書籍）
 
-[オーディオの終焉と再生 ― 純粋理性による音響の解体と再構築](https://deuslibri.com/book/the-end-and-rebirth-of-audio/ja)
+  [オーディオの終焉と再生 ― 純粋理性による音響の解体と再構築](https://deuslibri.com/book/the-end-and-rebirth-of-audio/ja){:target="_blank"}
+
+
+* オーディオ機器データベース — スペックの閲覧・分析・比較
+
+  [Frieve - AudioSpecs](https://audiospecs.frieve.com/){:target="_blank"}
 
 ---
 
-[FrieveのWebサイトへ](https://www.frieve.com)
+[FrieveのWebサイトへ](https://www.frieve.com){:target="_blank"}
 
 [プロジェクトを支援する](https://ko-fi.com/frievea){:target="_blank"}
