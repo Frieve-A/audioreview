@@ -64,7 +64,7 @@ en:
   products_showing: "showing"
   sort_by: "Sort by:"
   search_on_google: "Search on Google"
-  search_on_amazon: "Search on Amazon"
+  search_on_amazon: "Search on Amazon [PR]"
   reference_price: "Reference Price"
   price_tooltip: "This price is calculated based on the general global sales price surveyed at the time of writing. It may differ from the latest price or local price."
   # Product categories
@@ -140,7 +140,7 @@ ja:
   products_showing: "を表示"
   sort_by: "並び替え:"
   search_on_google: "Googleで検索"
-  search_on_amazon: "Amazonで検索"
+  search_on_amazon: "Amazonで検索 [PR]"
   reference_price: "参考価格"
   price_tooltip: "この価格は記事執筆時点で調査したグローバルにおける一般販売価格を基に算出した金額です。最新の価格や現地価格とは異なることがあります"
   # Product categories
