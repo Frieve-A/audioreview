@@ -6,6 +6,7 @@ company_id: agptek
 lang: ja
 ref: agptek-x15st
 date: 2025-12-23
+price: 5594
 rating: [3.1, 0.5, 0.3, 0.9, 0.7, 0.7]
 summary: "基本機能を備えたバジェットMP3プレーヤー、旧式のBluetooth 4.0技術を採用"
 tags: [Bluetooth, MP3プレーヤー, デジタルオーディオプレーヤー, バジェット, ポータブルオーディオ]

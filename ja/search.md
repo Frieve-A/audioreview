@@ -41,6 +41,7 @@ class SearchPage {
     try {
       const response = await fetch('/assets/data/search_ja.json');
       this.searchData = await response.json();
+      this.searchData._index = SearchCommon.prepareSearchIndex(this.searchData);
     } catch (error) {
       console.error('Failed to load search data:', error);
       this.searchMessage.textContent = '検索データの読み込みに失敗しました。';

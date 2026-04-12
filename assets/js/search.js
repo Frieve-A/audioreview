@@ -290,6 +290,8 @@ class SearchEngine {
       const searchFile = `/assets/data/search_${currentLang}.json`;
       const response = await fetch(searchFile);
       this.searchData = await response.json();
+      // Pre-build search index (decode entities, lowercase) once at load time
+      this.searchData._index = SearchCommon.prepareSearchIndex(this.searchData);
     } catch (error) {
       console.error('Failed to load search data:', error);
     }
@@ -329,9 +331,12 @@ class SearchEngine {
       }
     });
 
-    // Search input event
+    // Search input event with debounce
+    this._searchTimer = null;
     this.searchInput.addEventListener('input', (e) => {
-      this.performSearch(e.target.value);
+      const query = e.target.value;
+      if (this._searchTimer) clearTimeout(this._searchTimer);
+      this._searchTimer = setTimeout(() => this.performSearch(query), 120);
     });
 
     // Handle Enter key press to navigate to search results page

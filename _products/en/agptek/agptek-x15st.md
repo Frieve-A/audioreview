@@ -6,6 +6,7 @@ company_id: agptek
 lang: en
 ref: agptek-x15st
 date: 2025-12-23
+price: 37.3
 rating: [3.1, 0.5, 0.3, 0.9, 0.7, 0.7]
 summary: "Budget MP3 player with basic functionality and outdated Bluetooth 4.0 technology"
 tags: [Bluetooth, Budget, DAP, Digital audio player, MP3 Player, Portable]

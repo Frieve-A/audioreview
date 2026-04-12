@@ -1,154 +1,116 @@
 // Common search logic for both overlay search and search pages
 class SearchCommon {
-  // Add HTML entity decoding function
+  // Decode HTML entities using a reusable textarea element
+  static _decodeTextarea = null;
   static decodeHtmlEntities(text) {
-    const textarea = document.createElement('textarea');
-    textarea.innerHTML = text;
-    return textarea.value;
+    if (!SearchCommon._decodeTextarea) {
+      SearchCommon._decodeTextarea = document.createElement('textarea');
+    }
+    SearchCommon._decodeTextarea.innerHTML = text;
+    return SearchCommon._decodeTextarea.value;
+  }
+
+  // Pre-process search data: decode entities once and cache lowercase versions
+  static prepareSearchIndex(searchData) {
+    const allItems = [...searchData.companies, ...searchData.products];
+    return allItems.map(item => {
+      const title = SearchCommon.decodeHtmlEntities(item.title.toLowerCase());
+      const summary = SearchCommon.decodeHtmlEntities(item.summary.toLowerCase());
+      const tags = item.tags.map(tag => SearchCommon.decodeHtmlEntities(tag.toLowerCase()));
+      return { ...item, _title: title, _summary: summary, _tags: tags };
+    });
   }
 
   static searchItems(searchData, query) {
     const normalizedQuery = query.toLowerCase();
+    const words = normalizedQuery.split(/\s+/).filter(w => w.length > 0);
+    if (words.length === 0) return [];
+
+    // Build word-boundary regexes once per search
+    const wordRegexes = words.map(w => {
+      const escaped = w.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+      return new RegExp(`\\b${escaped}`, 'i');
+    });
+
+    // Use pre-built index if available, otherwise build on the fly
+    const allItems = searchData._index || SearchCommon.prepareSearchIndex(searchData);
+
     const titleExactMatchResults = [];
     const summaryExactMatchResults = [];
 
-    const allItems = [...searchData.companies, ...searchData.products];
+    for (let i = 0; i < allItems.length; i++) {
+      const item = allItems[i];
+      const title = item._title;
+      const summary = item._summary;
+      const tags = item._tags;
 
-    allItems.forEach(item => {
-      // Check if ALL keywords are present
-      const isAllKeywordsMatch = SearchCommon.isAllKeywordsMatch(item, normalizedQuery);
-      
-      if (isAllKeywordsMatch) {
-        const titleMatchCount = SearchCommon.getTitleMatchCount(item, normalizedQuery);
-        const titleWordStartMatchCount = SearchCommon.getTitleWordStartMatchCount(item, normalizedQuery);
-        const totalMatchCount = SearchCommon.getTotalMatchCount(item, normalizedQuery);
-        const totalWordStartMatchCount = SearchCommon.getTotalWordStartMatchCount(item, normalizedQuery);
-        
-        if (titleMatchCount === totalMatchCount) {
-          // All keywords are in title
-          titleExactMatchResults.push({ 
-            ...item, 
-            titleMatchCount,
-            titleWordStartMatchCount,
-            totalMatchCount,
-            totalWordStartMatchCount
-          });
-        } else {
-          // Some keywords are in summary/tags
-          summaryExactMatchResults.push({ 
-            ...item, 
-            titleMatchCount,
-            titleWordStartMatchCount,
-            totalMatchCount,
-            totalWordStartMatchCount
-          });
+      // Check all keywords present (inline for speed)
+      let allMatch = true;
+      for (let wi = 0; wi < words.length; wi++) {
+        const w = words[wi];
+        if (title.includes(w) || summary.includes(w) || tags.some(t => t.includes(w))) {
+          continue;
         }
+        allMatch = false;
+        break;
       }
-    });
+      if (!allMatch) continue;
 
-    // Sort by word start match count (descending), then by total match count (descending), then by title length (ascending)
+      // Compute all match counts in a single pass over words
+      let titleMatchCount = 0;
+      let titleWordStartMatchCount = 0;
+      let totalMatchCount = 0;
+      let totalWordStartMatchCount = 0;
+
+      for (let wi = 0; wi < words.length; wi++) {
+        const w = words[wi];
+        const re = wordRegexes[wi];
+        const inTitle = title.includes(w);
+        const inSummary = summary.includes(w);
+        const inTags = tags.some(t => t.includes(w));
+
+        if (inTitle) titleMatchCount++;
+        if (inTitle || inSummary || inTags) totalMatchCount++;
+        if (re.test(title)) titleWordStartMatchCount++;
+        if (re.test(title) || re.test(summary) || tags.some(t => re.test(t))) totalWordStartMatchCount++;
+      }
+
+      const result = {
+        ...item,
+        titleMatchCount,
+        titleWordStartMatchCount,
+        totalMatchCount,
+        totalWordStartMatchCount
+      };
+
+      if (titleMatchCount === totalMatchCount) {
+        titleExactMatchResults.push(result);
+      } else {
+        summaryExactMatchResults.push(result);
+      }
+    }
+
     titleExactMatchResults.sort((a, b) => {
-      // First by word start match count (descending)
       if (b.titleWordStartMatchCount !== a.titleWordStartMatchCount) {
         return b.titleWordStartMatchCount - a.titleWordStartMatchCount;
       }
-      // Then by total match count (descending)
       if (b.titleMatchCount !== a.titleMatchCount) {
         return b.titleMatchCount - a.titleMatchCount;
       }
-      // Finally by title length (ascending)
       return a.title.length - b.title.length;
     });
 
     summaryExactMatchResults.sort((a, b) => {
-      // First by word start match count (descending)
       if (b.totalWordStartMatchCount !== a.totalWordStartMatchCount) {
         return b.totalWordStartMatchCount - a.totalWordStartMatchCount;
       }
-      // Then by total match count (descending)
       if (b.totalMatchCount !== a.totalMatchCount) {
         return b.totalMatchCount - a.totalMatchCount;
       }
-      // Finally by title length (ascending)
       return a.title.length - b.title.length;
     });
 
     return [...titleExactMatchResults, ...summaryExactMatchResults];
-  }
-
-  static isAllKeywordsMatch(item, query) {
-    const words = query.split(/\s+/).filter(word => word.length > 0);
-    if (words.length === 0) return false;
-    
-    // Decode HTML entities before comparison
-    const title = SearchCommon.decodeHtmlEntities(item.title.toLowerCase());
-    const summary = SearchCommon.decodeHtmlEntities(item.summary.toLowerCase());
-    const tags = item.tags.map(tag => SearchCommon.decodeHtmlEntities(tag.toLowerCase()));
-    
-    // Check if ALL keywords are present in title, summary, or tags
-    return words.every(word => {
-      return title.includes(word) || 
-             summary.includes(word) || 
-             tags.some(tag => tag.includes(word));
-    });
-  }
-
-  static getTitleMatchCount(item, query) {
-    const words = query.split(/\s+/).filter(word => word.length > 0);
-    if (words.length === 0) return 0;
-    
-    // Decode HTML entities before comparison
-    const title = SearchCommon.decodeHtmlEntities(item.title.toLowerCase());
-    
-    return words.filter(word => title.includes(word)).length;
-  }
-
-  static getTitleWordStartMatchCount(item, query) {
-    const words = query.split(/\s+/).filter(word => word.length > 0);
-    if (words.length === 0) return 0;
-    
-    // Decode HTML entities before comparison
-    const title = SearchCommon.decodeHtmlEntities(item.title.toLowerCase());
-    
-    return words.filter(word => {
-      // Check for word boundary match (word starts with the keyword)
-      const wordBoundaryRegex = new RegExp(`\\b${word.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}`, 'i');
-      return wordBoundaryRegex.test(title);
-    }).length;
-  }
-
-  static getTotalMatchCount(item, query) {
-    const words = query.split(/\s+/).filter(word => word.length > 0);
-    if (words.length === 0) return 0;
-    
-    // Decode HTML entities before comparison
-    const title = SearchCommon.decodeHtmlEntities(item.title.toLowerCase());
-    const summary = SearchCommon.decodeHtmlEntities(item.summary.toLowerCase());
-    const tags = item.tags.map(tag => SearchCommon.decodeHtmlEntities(tag.toLowerCase()));
-    
-    return words.filter(word => {
-      return title.includes(word) || 
-             summary.includes(word) || 
-             tags.some(tag => tag.includes(word));
-    }).length;
-  }
-
-  static getTotalWordStartMatchCount(item, query) {
-    const words = query.split(/\s+/).filter(word => word.length > 0);
-    if (words.length === 0) return 0;
-    
-    // Decode HTML entities before comparison
-    const title = SearchCommon.decodeHtmlEntities(item.title.toLowerCase());
-    const summary = SearchCommon.decodeHtmlEntities(item.summary.toLowerCase());
-    const tags = item.tags.map(tag => SearchCommon.decodeHtmlEntities(tag.toLowerCase()));
-    
-    return words.filter(word => {
-      // Check for word boundary match in title, summary, or tags
-      const wordBoundaryRegex = new RegExp(`\\b${word.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}`, 'i');
-      return wordBoundaryRegex.test(title) || 
-             wordBoundaryRegex.test(summary) || 
-             tags.some(tag => wordBoundaryRegex.test(tag));
-    }).length;
   }
 
   static containsWords(text, query) {
@@ -165,14 +127,12 @@ class SearchCommon {
   }
 
   static getCurrentLanguage() {
-    // Get language from URL (/en/ or /ja/)
     const path = window.location.pathname;
     if (path.includes('/en/')) {
       return 'en';
     } else if (path.includes('/ja/')) {
       return 'ja';
     }
-    // Default to Japanese for root pages
     return 'ja';
   }
-} 
+}

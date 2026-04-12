@@ -6,6 +6,7 @@ company_id: aurex
 lang: ja
 ref: aurex-hr-810ii
 date: 2026-02-23
+price: 21000
 rating: [2.3, 0.5, 0.5, 0.5, 0.2, 0.6]
 summary: "東芝の高級ブランドから発売されたバック・エレクトレット方式とプラグ一体型ステップアップトランスを採用したヴィンテージ・エレクトレットヘッドホンですが、測定データの不足と時代遅れの技術が課題です"
 tags: [Aurex, エレクトレット, ビンテージ, ヘッドホン, 東芝, 静電型]
@@ -59,5 +60,6 @@ Aurex HR-810IIは主に現代的性能よりも歴史的意義に興味がある
 6. STAX Bundle set SRS-3100 Electrostatic Earspeaker System SR-L300 + SRM (廃版、1,140 USD), https://audio46.com/products/stax-srs-3100-earspeaker-system, 2026年1月18日アクセス
 7. Aurex SB-A10 amplifier | Hi-Fi News, https://www.hifinews.com/content/aurex-sb-a10-amplifier, 2026年1月18日アクセス
 8. ESP950 Over Ear Headphones - Koss Stereophones, https://koss.com/products/esp950, 2026年1月18日アクセス
+9. Toshiba HR-810 | hifi-wiki.com（HR-810系の定価記載）, https://hifi-wiki.com/index.php/Toshiba_HR-810, 2026年1月18日アクセス
 
 (2026.2.23)

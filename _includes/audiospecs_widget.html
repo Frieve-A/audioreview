@@ -1,0 +1,11 @@
+{% assign widget_data = site.data.audiospecs_map[page.ref] %}
+{% if widget_data %}
+<div class="audiospecs-widget" style="display:none;">
+  <iframe
+    src="{{ site.audiospecs_base_url }}/embed.html#/spec?brand={{ widget_data.brand | url_encode }}&product={{ widget_data.product | url_encode }}&lang={{ page.lang }}&theme=light"
+    width="400"
+    frameborder="0"
+    title="AudioSpecs: {{ page.target_name }}"
+  ></iframe>
+</div>
+{% endif %}

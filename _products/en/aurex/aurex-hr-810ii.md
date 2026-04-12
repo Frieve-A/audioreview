@@ -6,6 +6,7 @@ company_id: aurex
 lang: en
 ref: aurex-hr-810ii
 date: 2026-02-23
+price: 85
 rating: [2.3, 0.5, 0.5, 0.5, 0.2, 0.6]
 summary: "Vintage electret headphone with back-electret design and a plug-integrated step-up transformer adapter from Toshiba's luxury line, hampered by lack of measurement data and obsolete technology"
 tags: [Headphones, Electret, Vintage, Aurex, Toshiba, Electrostatic]
@@ -60,5 +61,6 @@ The Aurex HR-810II appeals primarily to vintage audio collectors and electrostat
 6. STAX Bundle set SRS-3100 Electrostatic Earspeaker System SR-L300 + SRM (discontinued, 1,140 USD), https://audio46.com/products/stax-srs-3100-earspeaker-system, accessed 2026-01-18
 7. Aurex SB-A10 amplifier | Hi-Fi News, https://www.hifinews.com/content/aurex-sb-a10-amplifier, accessed 2026-01-18
 8. ESP950 Over Ear Headphones - Koss Stereophones, https://koss.com/products/esp950, accessed 2026-01-18
+9. Toshiba HR-810 (original list price context, HR-810 family), https://hifi-wiki.com/index.php/Toshiba_HR-810, accessed 2026-01-18
 
 (2026.2.23)
