@@ -1,0 +1,416 @@
+---
+layout: null
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Frieve - Audio Review Widget</title>
+<style>
+:root[data-theme="light"] {
+  --bg: #FFFFFF;
+  --text: #333333;
+  --gauge-bg: #E9ECEF;
+  --score-bg: #FFFFFF;
+  --link: #00AA44;
+  --border: #E0E0E0;
+}
+:root[data-theme="dark"] {
+  --bg: #1A1A1A;
+  --text: #E0E0E0;
+  --gauge-bg: #3D3D3D;
+  --score-bg: #2A2A2A;
+  --link: #4CAF50;
+  --border: #3A3A3A;
+}
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  background: var(--bg);
+  color: var(--text);
+  padding: 20px;
+  line-height: 1.5;
+}
+.widget-title {
+  font-size: 22px;
+  font-weight: 700;
+  margin-bottom: 16px;
+  text-align: center;
+}
+/* Overall gauge on top, centered */
+.overall-section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 16px;
+}
+/* Individual gauges in a row below, align by gauge position */
+.individual-section {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: flex-end;
+  gap: 12px;
+  margin-bottom: 16px;
+}
+.gauge-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 6px;
+}
+.gauge-chart {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.gauge-chart.overall-size {
+  width: 120px;
+  height: 120px;
+}
+.gauge-chart.individual-size {
+  width: 90px;
+  height: 90px;
+}
+.gauge-svg {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.gauge-progress {
+  stroke-dasharray: 0 9999;
+  transition: stroke-dasharray 1.0s cubic-bezier(0.65, 0, 0.35, 1);
+}
+.gauge-score {
+  position: relative;
+  z-index: 2;
+  font-weight: 700;
+  color: var(--text);
+  background-color: var(--score-bg);
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+}
+.gauge-score.overall-score {
+  width: 78px;
+  height: 78px;
+  font-size: 24px;
+}
+.gauge-score.individual-score {
+  width: 58px;
+  height: 58px;
+  font-size: 16px;
+}
+.gauge-label {
+  font-size: 14px;
+  font-weight: 600;
+  text-align: center;
+  line-height: 1.2;
+  max-width: 100px;
+  white-space: pre-line;
+}
+.gauge-label.overall-label {
+  font-size: 17px;
+  font-weight: 700;
+  white-space: nowrap;
+}
+.widget-summary {
+  font-size: 16px;
+  line-height: 1.7;
+  margin-bottom: 16px;
+  color: var(--text);
+}
+.widget-footer {
+  border-top: 1px solid var(--border);
+  padding-top: 10px;
+  font-size: 14px;
+  text-align: center;
+}
+.widget-footer .powered-by {
+  color: var(--text);
+  opacity: 0.6;
+  margin-bottom: 4px;
+}
+.widget-footer a {
+  color: var(--link);
+  text-decoration: none;
+}
+.widget-footer a:hover {
+  text-decoration: underline;
+}
+</style>
+</head>
+<body>
+<script>
+(function() {
+  var STRINGS = {
+    en: {
+      overall_rating: "Overall Rating",
+      scientific_validity: "Scientific Validity",
+      technology_level: "Technology Level",
+      cost_performance: "Cost-Performance",
+      reliability_support: "Reliability & Support",
+      design_rationality: "Design Rationality",
+      powered_by: "Powered by Frieve - Audio Review",
+      read_review: "Read the full review on Frieve - Audio Review"
+    },
+    ja: {
+      overall_rating: "\u7DCF\u5408\u8A55\u4FA1",
+      scientific_validity: "\u79D1\u5B66\u7684\u6709\u52B9\u6027",
+      technology_level: "\u6280\u8853\u30EC\u30D9\u30EB",
+      cost_performance: "\u30B3\u30B9\u30C8\n\u30D1\u30D5\u30A9\u30FC\u30DE\u30F3\u30B9",
+      reliability_support: "\u4FE1\u983C\u6027\u30FB\n\u30B5\u30DD\u30FC\u30C8",
+      design_rationality: "\u8A2D\u8A08\u601D\u60F3\u306E\n\u5408\u7406\u6027",
+      powered_by: "Powered by Frieve - Audio Review",
+      read_review: "Frieve - Audio Review\u3067\u30EC\u30D3\u30E5\u30FC\u3092\u8AAD\u3080"
+    }
+  };
+
+  var GAUGE_COLORS = [
+    "#FFD580",  // Overall
+    "#AEC6CF",  // Scientific Validity
+    "#B2DFDB",  // Technology Level
+    "#C1E1C1",  // Cost-Performance
+    "#D7BDE2",  // Reliability & Support
+    "#D3D3D3"   // Design Rationality
+  ];
+
+  var GAUGE_KEYS = [
+    "overall_rating",
+    "scientific_validity",
+    "technology_level",
+    "cost_performance",
+    "reliability_support",
+    "design_rationality"
+  ];
+
+  var params = new URLSearchParams(window.location.search);
+  var ref = params.get("ref");
+  var lang = params.get("lang") || "en";
+  var theme = params.get("theme") || "light";
+
+  if (lang !== "ja") lang = "en";
+  if (theme !== "dark") theme = "light";
+
+  document.documentElement.setAttribute("data-theme", theme);
+  document.documentElement.setAttribute("lang", lang);
+
+  var strings = STRINGS[lang];
+
+  function notifyHeight(h) {
+    window.parent.postMessage({
+      type: "frieve-audioreview-widget-resize",
+      ref: ref || "",
+      height: h
+    }, "*");
+  }
+
+  function hideWidget() {
+    document.body.innerHTML = "";
+    document.body.style.margin = "0";
+    document.body.style.padding = "0";
+    notifyHeight(0);
+  }
+
+  if (!ref) { hideWidget(); return; }
+
+  function findProduct(data, ref, lang) {
+    var baseUrl = location.origin;
+    var reviewUrl = baseUrl + "/products/" + lang + "/" + ref + "/";
+    for (var i = 0; i < data.products.length; i++) {
+      if (data.products[i].url === reviewUrl) return data.products[i];
+    }
+    return null;
+  }
+
+  // Fetch the product page HTML and extract the Overview section text
+  function fetchOverview(productUrl) {
+    return fetch(productUrl)
+      .then(function(res) {
+        if (!res.ok) throw new Error("page fetch failed");
+        return res.text();
+      })
+      .then(function(html) {
+        var parser = new DOMParser();
+        var doc = parser.parseFromString(html, "text/html");
+        var content = doc.querySelector(".review-content");
+        if (!content) return null;
+
+        // Find the Overview h2 and collect following paragraphs until next h2
+        var children = content.children;
+        var found = false;
+        var paragraphs = [];
+        for (var i = 0; i < children.length; i++) {
+          var el = children[i];
+          if (el.tagName === "H2") {
+            if (found) break; // next section
+            if (el.textContent.trim().toLowerCase().replace(/\s+/g, "") === "overview" ||
+                el.textContent.trim() === "\u6982\u8981") {
+              found = true;
+              continue;
+            }
+          }
+          if (found && el.tagName === "P") {
+            paragraphs.push(el.textContent);
+          }
+        }
+        if (paragraphs.length === 0) return null;
+        // Join and strip citation indices like [1], [2], [1][2], etc.
+        var text = paragraphs.join("\n\n");
+        text = text.replace(/\s*\[\d+\]/g, "");
+        return text.trim();
+      })
+      .catch(function() { return null; });
+  }
+
+  function createGaugeSVG(score, maxScore, color, isOverall) {
+    var percentage = (score / maxScore) * 100;
+    var sizeClass = isOverall ? "overall-size" : "individual-size";
+    var scoreClass = isOverall ? "overall-score" : "individual-score";
+    var bgColor = getComputedStyle(document.documentElement).getPropertyValue("--gauge-bg").trim();
+
+    var chart = document.createElement("div");
+    chart.className = "gauge-chart " + sizeClass;
+
+    var svg = document.createElementNS("http://www.w3.org/2000/svg", "svg");
+    svg.setAttribute("class", "gauge-svg");
+    svg.setAttribute("viewBox", "0 0 200 200");
+
+    var bgPath = document.createElementNS("http://www.w3.org/2000/svg", "path");
+    bgPath.setAttribute("d", "M 46.97 153.03 A 75 75 0 1 1 153.03 153.03");
+    bgPath.setAttribute("stroke", bgColor);
+    bgPath.setAttribute("stroke-width", "20");
+    bgPath.setAttribute("fill", "none");
+    bgPath.setAttribute("stroke-linecap", "round");
+
+    var progressPath = document.createElementNS("http://www.w3.org/2000/svg", "path");
+    progressPath.setAttribute("d", "M 46.97 153.03 A 75 75 0 1 1 153.03 153.03");
+    progressPath.setAttribute("stroke", color);
+    progressPath.setAttribute("stroke-width", "20");
+    progressPath.setAttribute("fill", "none");
+    progressPath.setAttribute("stroke-linecap", "round");
+    progressPath.setAttribute("class", "gauge-progress");
+
+    svg.appendChild(bgPath);
+    svg.appendChild(progressPath);
+
+    var scoreDiv = document.createElement("div");
+    scoreDiv.className = "gauge-score " + scoreClass;
+    scoreDiv.textContent = score.toFixed(1);
+
+    chart.appendChild(svg);
+    chart.appendChild(scoreDiv);
+
+    // Animate after append
+    requestAnimationFrame(function() {
+      var pathLength = progressPath.getTotalLength();
+      progressPath.style.strokeDasharray = "0 " + pathLength;
+      requestAnimationFrame(function() {
+        var visibleLength = pathLength * (percentage / 100);
+        progressPath.style.strokeDasharray = visibleLength + " " + pathLength;
+      });
+    });
+
+    return chart;
+  }
+
+  function render(product, overviewText) {
+    var rating = product.rating;
+    if (!rating || rating.length < 6) { hideWidget(); return; }
+
+    // Title
+    var title = document.createElement("div");
+    title.className = "widget-title";
+    title.textContent = product.title;
+    document.body.appendChild(title);
+
+    // Overall gauge (top, centered, large)
+    var overallSection = document.createElement("div");
+    overallSection.className = "overall-section";
+    var overallContainer = document.createElement("div");
+    overallContainer.className = "gauge-container";
+    var overallLabel = document.createElement("div");
+    overallLabel.className = "gauge-label overall-label";
+    overallLabel.textContent = strings.overall_rating;
+    var overallChart = createGaugeSVG(rating[0], 5.0, GAUGE_COLORS[0], true);
+    overallContainer.appendChild(overallLabel);
+    overallContainer.appendChild(overallChart);
+    overallSection.appendChild(overallContainer);
+    document.body.appendChild(overallSection);
+
+    // Individual gauges (row below)
+    var individualSection = document.createElement("div");
+    individualSection.className = "individual-section";
+    for (var i = 1; i < 6; i++) {
+      var container = document.createElement("div");
+      container.className = "gauge-container";
+      var label = document.createElement("div");
+      label.className = "gauge-label";
+      label.textContent = strings[GAUGE_KEYS[i]];
+      var chart = createGaugeSVG(rating[i], 1.0, GAUGE_COLORS[i], false);
+      container.appendChild(label);
+      container.appendChild(chart);
+      individualSection.appendChild(container);
+    }
+    document.body.appendChild(individualSection);
+
+    // Summary (prefer overview from page body, fallback to metadata summary)
+    var summaryText = overviewText || product.summary;
+    if (summaryText) {
+      var summary = document.createElement("div");
+      summary.className = "widget-summary";
+      summary.textContent = summaryText;
+      document.body.appendChild(summary);
+    }
+
+    // Footer
+    var footer = document.createElement("div");
+    footer.className = "widget-footer";
+    var poweredBy = document.createElement("div");
+    poweredBy.className = "powered-by";
+    poweredBy.textContent = strings.powered_by;
+    var link = document.createElement("a");
+    link.href = product.url;
+    link.target = "_blank";
+    link.rel = "noopener noreferrer";
+    link.textContent = strings.read_review;
+    footer.appendChild(poweredBy);
+    footer.appendChild(link);
+    document.body.appendChild(footer);
+
+    // Notify height
+    requestAnimationFrame(function() {
+      notifyHeight(document.body.scrollHeight);
+    });
+    new ResizeObserver(function() {
+      notifyHeight(document.body.scrollHeight);
+    }).observe(document.body);
+  }
+
+  // Fetch search data, then fetch overview from product page
+  fetch("/assets/data/search_" + lang + ".json")
+    .then(function(res) {
+      if (!res.ok) throw new Error("fetch failed");
+      return res.json();
+    })
+    .then(function(data) {
+      var product = findProduct(data, ref, lang);
+      if (!product) { hideWidget(); return; }
+      // Fetch overview text from the actual product page
+      fetchOverview(product.url).then(function(overviewText) {
+        render(product, overviewText);
+      });
+    })
+    .catch(function() {
+      hideWidget();
+    });
+})();
+</script>
+</body>
+</html>
