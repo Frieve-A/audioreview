@@ -484,6 +484,10 @@ focal-clear-mg:
   brand: "Focal"
   product: "Clear MG"
 
+focal-hadenys:
+  brand: "Focal"
+  product: "Hadenys"
+
 focal-shape-40:
   brand: "Focal Professional"
   product: "Shape 40"
@@ -924,6 +928,10 @@ neumann-kh-420-g:
   brand: "Neumann"
   product: "KH 420 G"
 
+noble-audio-fokus-rex5:
+  brand: "Noble Audio"
+  product: "FoKus Rex5"
+
 nothing-nothing-ear:
   brand: "Nothing"
   product: "Nothing Ear"
@@ -987,6 +995,10 @@ samson-sr850:
 sennheiser-HD 6XX:
   brand: "Drop x Sennheiser"
   product: "HD 6XX"
+
+sennheiser-hd-25:
+  brand: "Sennheiser"
+  product: "HD 25"
 
 sennheiser-hd-490-pro:
   brand: "Sennheiser"
