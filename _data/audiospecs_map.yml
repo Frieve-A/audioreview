@@ -64,6 +64,10 @@ akg-k371-bt:
   brand: "AKG"
   product: "K371-BT"
 
+akg-k612-pro:
+  brand: "AKG"
+  product: "K612 Pro"
+
 akg-k701:
   brand: "AKG"
   product: "K701"
@@ -75,6 +79,10 @@ akg-k702:
 akg-k712-pro:
   brand: "AKG"
   product: "AKG K712 Pro"
+
+akg-k872:
+  brand: "AKG"
+  product: "K872"
 
 anker-soundcore-liberty-4:
   brand: "Soundcore"
@@ -148,6 +156,10 @@ audio-technica-ath-adx7000:
   brand: "Audio-Technica"
   product: "ATH-ADX7000"
 
+audio-technica-ath-e70:
+  brand: "Audio-Technica"
+  product: "ATH-E70"
+
 audio-technica-ath-m20x:
   brand: "Audio-Technica"
   product: "Audio-Technica ATH-M20x"
@@ -207,6 +219,10 @@ austrian-audio-hi-x65:
 bang-olufsen-beoplay-h100:
   brand: "Bang & Olufsen"
   product: "Beoplay H100"
+
+beats-studio-pro:
+  brand: "Beats"
+  product: "Studio Pro"
 
 behringer-ecm8000:
   brand: "Behringer"
@@ -268,9 +284,21 @@ beyerdynamic-tygr-300-r:
   brand: "beyerdynamic"
   product: "TYGR 300 R"
 
+bose-noise-cancelling-headphones-700:
+  brand: "Bose"
+  product: "Noise Cancelling Headphones 700"
+
+bose-quietcomfort-earbuds-2024:
+  brand: "Bose"
+  product: "QuietComfort Earbuds (2024)"
+
 bose-quietcomfort-ultra:
   brand: "Bose"
   product: "QuietComfort Ultra Headphones"
+
+bose-quietcomfort-ultra-earbuds:
+  brand: "Bose"
+  product: "QuietComfort Ultra Earbuds"
 
 bose-quietcomfort-ultra-headphones:
   brand: "Bose"
@@ -291,6 +319,10 @@ bowers-wilkins-607-s3:
 bowers-wilkins-705-s3:
   brand: "Bowers & Wilkins"
   product: "705 S3"
+
+bowers-wilkins-px7-s2e:
+  brand: "Bowers & Wilkins"
+  product: "Px7 S2e"
 
 bowers-wilkins-px7-s3:
   brand: "Bowers & Wilkins"
@@ -512,6 +544,10 @@ fostex-th900mk2:
   brand: "Fostex"
   product: "TH-900mk2"
 
+fostex-th909:
+  brand: "Fostex"
+  product: "TH909"
+
 genelec-8010a:
   brand: "Genelec"
   product: "8010A Studio Monitor"
@@ -542,7 +578,7 @@ grado-sr-325x:
 
 grado-sr-80x:
   brand: "Grado"
-  product: "Grado SR80x"
+  product: "SR80x"
 
 gustard-r26:
   brand: "Gustard"
@@ -676,6 +712,10 @@ ik-multimedia-iloud-precision-mtm:
   brand: "iLoud"
   product: "iLoud Precision MTM"
 
+jabra-elite-10:
+  brand: "Jabra"
+  product: "Elite 10"
+
 jbl-306p-mkii:
   brand: "JBL Professional"
   product: "306P MkII"
@@ -799,6 +839,10 @@ klipsch-rp-500m-ii:
 klipsch-rp-600m-ii:
   brand: "Klipsch"
   product: "Reference Premiere RP-600M II"
+
+koss-porta-pro:
+  brand: "Koss"
+  product: "Porta Pro"
 
 kz-castor:
   brand: "KZ"
@@ -932,6 +976,10 @@ noble-audio-fokus-rex5:
   brand: "Noble Audio"
   product: "FoKus Rex5"
 
+nothing-ear-a:
+  brand: "Nothing"
+  product: "Ear (a)"
+
 nothing-nothing-ear:
   brand: "Nothing"
   product: "Nothing Ear"
@@ -947,6 +995,10 @@ philips-fidelio-x3:
 philips-shp9500:
   brand: "Philips"
   product: "SHP9500"
+
+philips-shp9600:
+  brand: "Philips"
+  product: "SHP9600"
 
 polk-audio-reserve-r100:
   brand: "Polk Audio"
@@ -976,6 +1028,10 @@ qcy-melobuds-pro:
   brand: "QCY"
   product: "MeloBuds Pro"
 
+qudelix-5k:
+  brand: "Qudelix"
+  product: "5K"
+
 rme-adi-2-4-pro-se:
   brand: "RME"
   product: "ADI-2/4 Pro SE"
@@ -992,6 +1048,10 @@ samson-sr850:
   brand: "Samson"
   product: "SR850 Professional Studio Reference Headphones"
 
+samsung-galaxy-buds3-pro:
+  brand: "Samsung Galaxy Buds"
+  product: "Galaxy Buds3 Pro"
+
 sennheiser-HD 6XX:
   brand: "Drop x Sennheiser"
   product: "HD 6XX"
@@ -999,6 +1059,10 @@ sennheiser-HD 6XX:
 sennheiser-hd-25:
   brand: "Sennheiser"
   product: "HD 25"
+
+sennheiser-hd-280-pro:
+  brand: "Sennheiser"
+  product: "HD 280 Pro"
 
 sennheiser-hd-490-pro:
   brand: "Sennheiser"
@@ -1076,6 +1140,14 @@ sennheiser-momentum-4-wireless:
   brand: "Sennheiser"
   product: "MOMENTUM 4 Wireless"
 
+sennheiser-momentum-true-wireless-3:
+  brand: "Sennheiser"
+  product: "MOMENTUM True Wireless 3"
+
+sennheiser-momentum-true-wireless-4:
+  brand: "Sennheiser"
+  product: "MOMENTUM True Wireless 4"
+
 shure-aonic-4:
   brand: "Shure"
   product: "AONIC 4"
@@ -1148,6 +1220,10 @@ sivga-que-utg:
   brand: "Sivga"
   product: "Que UTG"
 
+skullcandy-crusher-evo:
+  brand: "Skullcandy"
+  product: "Crusher Evo"
+
 smsl-ao300:
   brand: "SMSL"
   product: "SMSL AO300"
@@ -1175,6 +1251,10 @@ smsl-d400ex:
 smsl-do200pro:
   brand: "SMSL"
   product: "DO200 Pro"
+
+smsl-do400:
+  brand: "SMSL"
+  product: "DO400"
 
 smsl-su-10:
   brand: "SMSL"
@@ -1209,7 +1289,7 @@ sony-ier-m9:
   product: "IER-M9"
 
 sony-ier-z1r:
-  brand: "Sony Signature Series"
+  brand: "Sony"
   product: "IER-Z1R"
 
 sony-mdr-7506:
@@ -1267,6 +1347,14 @@ sony-wh-1000xm5:
 sony-wh-1000xm6:
   brand: "Sony"
   product: "WH-1000XM6"
+
+stax-sr-009s:
+  brand: "STAX"
+  product: "SR-009S"
+
+steelseries-arctis-nova-pro-wireless:
+  brand: "SteelSeries"
+  product: "Arctis Nova Pro Wireless"
 
 superlux-hd681:
   brand: "Superlux"
@@ -1426,7 +1514,7 @@ wharfedale-diamond-220:
 
 wiim-pro:
   brand: "WiiM"
-  product: "WiiM Pro"
+  product: "Pro"
 
 wiim-pro-plus:
   brand: "WiiM"
