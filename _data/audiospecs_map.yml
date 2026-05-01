@@ -4,9 +4,17 @@
 # key: product ref (from frontmatter)
 # brand/product: exact values from AudioSpecs DB (passed to widget URL)
 
+3e-audio-a5:
+  brand: "3e Audio"
+  product: "A5"
+
 64-audio-u12t:
   brand: "64 Audio"
   product: "U12t"
+
+7hz-crinacle-zero-2:
+  brand: "7Hz"
+  product: "7Hz x Crinacle Salnotes Zero:2"
 
 7hz-legato:
   brand: "7Hz"
@@ -23,6 +31,22 @@
 7hz-timeless-ii:
   brand: "7Hz"
   product: "Timeless II"
+
+accuphase-e-3000:
+  brand: "Accuphase"
+  product: "E-3000"
+
+accuphase-e-305:
+  brand: "Accuphase"
+  product: "E-305"
+
+accuphase-e-4000:
+  brand: "Accuphase"
+  product: "E-4000"
+
+accuphase-e-408:
+  brand: "Accuphase"
+  product: "E-408"
 
 adam-audio-a5x:
   brand: "ADAM Audio"
@@ -47,6 +71,34 @@ adam-audio-t5v:
 aiyima-A70:
   brand: "AIYIMA"
   product: "AIYIMA A70"
+
+aiyima-a07-max:
+  brand: "AIYIMA"
+  product: "A07 MAX"
+
+aiyima-a07-premium:
+  brand: "AIYIMA"
+  product: "A07 Premium"
+
+aiyima-a07-pro:
+  brand: "AIYIMA"
+  product: "A07 PRO"
+
+aiyima-a20:
+  brand: "AIYIMA"
+  product: "A20"
+
+aiyima-a80:
+  brand: "AIYIMA"
+  product: "A80"
+
+aiyima-p600:
+  brand: "AIYIMA"
+  product: "P600"
+
+aiyima-t20:
+  brand: "AIYIMA"
+  product: "T20"
 
 akg-k240-studio:
   brand: "AKG"
@@ -100,6 +152,10 @@ anker-soundcore-space-a40:
   brand: "Soundcore"
   product: "Space A40"
 
+apogee-boom:
+  brand: "Apogee"
+  product: "Boom"
+
 apple-airpods-4:
   brand: "Apple AirPods"
   product: "AirPods 4"
@@ -111,6 +167,10 @@ apple-airpods-max:
 apple-airpods-pro-2:
   brand: "Apple AirPods"
   product: "AirPods Pro (2nd generation)"
+
+audeze-isine20:
+  brand: "Audeze"
+  product: "iSINE 20"
 
 audeze-lcd-5:
   brand: "Audeze"
@@ -155,6 +215,10 @@ audio-technica-ath-adx5000:
 audio-technica-ath-adx7000:
   brand: "Audio-Technica"
   product: "ATH-ADX7000"
+
+audio-technica-ath-cks330nc:
+  brand: "Audio-Technica"
+  product: "ATH-CKS330NC"
 
 audio-technica-ath-e70:
   brand: "Audio-Technica"
@@ -219,6 +283,10 @@ austrian-audio-hi-x65:
 bang-olufsen-beoplay-h100:
   brand: "Bang & Olufsen"
   product: "Beoplay H100"
+
+beat-sonic-toon-x:
+  brand: "Beat Sonic"
+  product: "Toon X"
 
 beats-studio-pro:
   brand: "Beats"
@@ -348,6 +416,10 @@ campfire-audio-clara:
   brand: "Campfire Audio"
   product: "Clara"
 
+cayin-btc-2:
+  brand: "Cayin"
+  product: "BTC-2"
+
 chord-electronics-hugo-2:
   brand: "Chord Electronics"
   product: "Hugo 2"
@@ -359,6 +431,10 @@ chord-electronics-mojo-2:
 creative-pebble:
   brand: "Creative"
   product: "Pebble"
+
+crinear-daybreak:
+  brand: "CrinEar"
+  product: "Daybreak"
 
 dali-oberon1:
   brand: "DALI"
@@ -372,9 +448,37 @@ denafrips-ares-ii:
   brand: "Denafrips"
   product: "Ares II"
 
+denafrips-enyo-15th:
+  brand: "Denafrips"
+  product: "Enyo 15th"
+
 denon-ah-d9200:
   brand: "Denon"
   product: "AH-D9200"
+
+denon-dht-s218:
+  brand: "Denon"
+  product: "DHT-S218"
+
+denon-pma-sx11:
+  brand: "Denon"
+  product: "PMA-SX11"
+
+denon-sc-m41:
+  brand: "Denon"
+  product: "SC-M41"
+
+deqx-pre-8:
+  brand: "DEQX"
+  product: "Pre-8"
+
+devialet-expert-140-pro:
+  brand: "Devialet"
+  product: "Expert 140 Pro"
+
+dunu-davinci:
+  brand: "DUNU"
+  product: "DaVinci"
 
 dunu-kima2:
   brand: "DUNU"
@@ -404,6 +508,18 @@ edifier-mr4:
   brand: "Edifier"
   product: "MR4"
 
+edifier-mr5:
+  brand: "Edifier"
+  product: "MR5"
+
+edifier-s300:
+  brand: "Edifier"
+  product: "S300"
+
+edifier-t5s:
+  brand: "Edifier"
+  product: "T5S"
+
 elac-debut-2-0-b5-2:
   brand: "ELAC"
   product: "Debut 2.0 B5.2"
@@ -432,6 +548,10 @@ elac-vela-bs-403:
   brand: "ELAC"
   product: "Vela BS403"
 
+fiio-btr15:
+  brand: "FiiO"
+  product: "BTR15"
+
 fiio-btr17:
   brand: "FiiO"
   product: "BTR17"
@@ -444,9 +564,17 @@ fiio-ft1-pro:
   brand: "FiiO"
   product: "FT1 Pro"
 
+fiio-ja11:
+  brand: "FiiO"
+  product: "JA11"
+
 fiio-jm21:
   brand: "FiiO"
   product: "M21"
+
+fiio-jt7:
+  brand: "FiiO"
+  product: "JT7"
 
 fiio-k11:
   brand: "FiiO"
@@ -455,6 +583,10 @@ fiio-k11:
 fiio-k13-r2r:
   brand: "FiiO"
   product: "K13 R2R"
+
+fiio-k15:
+  brand: "FiiO"
+  product: "K15"
 
 fiio-k17:
   brand: "FiiO"
@@ -488,6 +620,10 @@ fiio-ka13:
   brand: "FiiO"
   product: "KA13"
 
+fiio-ka17:
+  brand: "FiiO"
+  product: "KA17"
+
 fiio-m21:
   brand: "FiiO"
   product: "M21"
@@ -495,6 +631,10 @@ fiio-m21:
 fiio-q15:
   brand: "FiiO"
   product: "Q15"
+
+final-e5000:
+  brand: "final"
+  product: "E5000"
 
 focal-alpha-50-evo:
   brand: "Focal Professional"
@@ -532,6 +672,14 @@ focal-utopia:
   brand: "Focal"
   product: "Utopia 2020"
 
+fosi-audio-k5-pro:
+  brand: "Fosi Audio"
+  product: "K5 PRO"
+
+fosi-audio-sk02:
+  brand: "Fosi Audio"
+  product: "SK02"
+
 fosi-audio-v3:
   brand: "Fosi Audio"
   product: "V3"
@@ -540,6 +688,22 @@ fosi-audio-v3-mono:
   brand: "Fosi Audio"
   product: "V3 Mono"
 
+fosi-audio-za3:
+  brand: "Fosi Audio"
+  product: "ZA3"
+
+fosi-audio-zd3:
+  brand: "Fosi Audio"
+  product: "ZD3"
+
+fosi-audio-zh3:
+  brand: "Fosi Audio"
+  product: "ZH3"
+
+fosi-audio-zp3:
+  brand: "Fosi Audio"
+  product: "ZP3"
+
 fostex-th900mk2:
   brand: "Fostex"
   product: "TH-900mk2"
@@ -547,6 +711,10 @@ fostex-th900mk2:
 fostex-th909:
   brand: "Fostex"
   product: "TH909"
+
+fostex-th910:
+  brand: "Fostex"
+  product: "TH910"
 
 genelec-8010a:
   brand: "Genelec"
@@ -567,6 +735,10 @@ genelec-8351b:
 genelec-8361a:
   brand: "Genelec"
   product: "8361A SAM Studio Monitor"
+
+google-pixel-buds-pro-2:
+  brand: "Google Pixel Buds"
+  product: "Pixel Buds Pro 2"
 
 grado-sr-225x:
   brand: "Grado"
@@ -636,6 +808,10 @@ hifiman-he600:
   brand: "HIFIMAN"
   product: "HE600"
 
+hifiman-serenade-jr:
+  brand: "HIFIMAN"
+  product: "Goldenwave Serenade Jr"
+
 hifiman-sundara:
   brand: "HIFIMAN"
   product: "Sundara"
@@ -651,6 +827,14 @@ hifiman-susvara:
 hifiman-susvara-unveiled:
   brand: "HIFIMAN"
   product: "Susvara Unveiled"
+
+htc-hp06:
+  brand: "HTC"
+  product: "HP06"
+
+ibasso-audio-dc04-ultra:
+  brand: "iBasso"
+  product: "DC04 Ultra"
 
 ifi-audio-NEO iDSD2:
   brand: "iFi audio"
@@ -732,6 +916,14 @@ jbl-4329p:
   brand: "JBL"
   product: "JBL 4329P Studio Monitor"
 
+jbl-bar-1000-mk2:
+  brand: "JBL"
+  product: "Bar 1000 MK2"
+
+jbl-l52-classic:
+  brand: "JBL"
+  product: "L52 Classic"
+
 jbl-stage-a130:
   brand: "JBL"
   product: "Stage A130"
@@ -739,6 +931,10 @@ jbl-stage-a130:
 jbl-studio-698:
   brand: "JBL"
   product: "Studio 698"
+
+jcally-jm6-pro:
+  brand: "JCALLY"
+  product: "JM6 Pro"
 
 jds-labs-element-iv:
   brand: "JDS Labs"
@@ -771,6 +967,10 @@ kali-audio-lp-unf:
 kef-blade-two-meta:
   brand: "KEF"
   product: "Blade Two Meta"
+
+kef-coda-w:
+  brand: "KEF"
+  product: "Coda W"
 
 kef-ls50-meta:
   brand: "KEF"
@@ -816,6 +1016,14 @@ kef-r3-meta:
   brand: "KEF"
   product: "R3 Meta"
 
+kef-r7-meta:
+  brand: "KEF"
+  product: "R7 Meta"
+
+kii-audio-three:
+  brand: "Kii Audio"
+  product: "THREE"
+
 klipsch-cornwall-iv:
   brand: "Klipsch"
   product: "Cornwall IV"
@@ -852,6 +1060,10 @@ kz-edx:
   brand: "KZ"
   product: "EDX"
 
+kz-prx:
+  brand: "KZ"
+  product: "PRX"
+
 kz-zsn-pro-x:
   brand: "KZ"
   product: "ZSN Pro X"
@@ -859,6 +1071,26 @@ kz-zsn-pro-x:
 letshuoer-s12-pro:
   brand: "LETSHUOER"
   product: "S12 Pro"
+
+lizer-lab-jijuma-horn:
+  brand: "Lizer Lab"
+  product: "Jijuma Horn"
+
+loxjie-a40:
+  brand: "Loxjie"
+  product: "A40"
+
+loxjie-d30-2024:
+  brand: "Loxjie"
+  product: "D30 2024"
+
+madoo-typ930:
+  brand: "Madoo"
+  product: "TYP930"
+
+marantz-stereo-70s:
+  brand: "Marantz"
+  product: "STEREO 70s"
 
 meze-audio-109-pro:
   brand: "Meze Audio"
@@ -924,6 +1156,10 @@ moondrop-dusk:
   brand: "Moondrop"
   product: "Moondrop x Crinacle Blessing 2 Dusk"
 
+moondrop-golden-ages-2:
+  brand: "Moondrop"
+  product: "Golden Ages 2"
+
 moondrop-kadenz:
   brand: "Moondrop"
   product: "Kadenz"
@@ -939,6 +1175,10 @@ moondrop-may:
 moondrop-rays:
   brand: "Moondrop"
   product: "RAYS"
+
+moondrop-space-travel-2-ultra:
+  brand: "Moondrop"
+  product: "Space Travel 2 Ultra"
 
 moondrop-stellaris:
   brand: "Moondrop"
@@ -972,6 +1212,10 @@ neumann-kh-420-g:
   brand: "Neumann"
   product: "KH 420 G"
 
+neumann-ndh-30:
+  brand: "Neumann"
+  product: "NDH 30"
+
 noble-audio-fokus-rex5:
   brand: "Noble Audio"
   product: "FoKus Rex5"
@@ -983,6 +1227,18 @@ nothing-ear-a:
 nothing-nothing-ear:
   brand: "Nothing"
   product: "Nothing Ear"
+
+oilsky-m308:
+  brand: "Oilsky"
+  product: "M308"
+
+oilsky-m501-pro:
+  brand: "Oilsky"
+  product: "M501 Pro"
+
+ollo-audio-x1:
+  brand: "OLLO Audio"
+  product: "X1"
 
 oneodio-focus-a6:
   brand: "OneOdio"
@@ -999,6 +1255,18 @@ philips-shp9500:
 philips-shp9600:
   brand: "Philips"
   product: "SHP9600"
+
+pioneer-deq-2000a:
+  brand: "Pioneer"
+  product: "DEQ-2000A"
+
+polk-audio-monitor-xt20:
+  brand: "Polk Audio"
+  product: "Monitor XT20"
+
+polk-audio-psw10:
+  brand: "Polk Audio"
+  product: "PSW10"
 
 polk-audio-reserve-r100:
   brand: "Polk Audio"
@@ -1024,6 +1292,10 @@ q-acoustics-3020i:
   brand: "Q Acoustics"
   product: "3020i"
 
+q-acoustics-3030i:
+  brand: "Q Acoustics"
+  product: "3030i"
+
 qcy-melobuds-pro:
   brand: "QCY"
   product: "MeloBuds Pro"
@@ -1031,6 +1303,10 @@ qcy-melobuds-pro:
 qudelix-5k:
   brand: "Qudelix"
   product: "5K"
+
+revel-f35:
+  brand: "Revel"
+  product: "Concerta2 F35"
 
 rme-adi-2-4-pro-se:
   brand: "RME"
@@ -1067,6 +1343,10 @@ sennheiser-hd-280-pro:
 sennheiser-hd-490-pro:
   brand: "Sennheiser"
   product: "HD 490 PRO"
+
+sennheiser-hd-505:
+  brand: "Sennheiser"
+  product: "HD 505"
 
 sennheiser-hd-550:
   brand: "Sennheiser"
@@ -1224,9 +1504,17 @@ skullcandy-crusher-evo:
   brand: "Skullcandy"
   product: "Crusher Evo"
 
+smsl-a100:
+  brand: "SMSL"
+  product: "A100"
+
 smsl-ao300:
   brand: "SMSL"
   product: "SMSL AO300"
+
+smsl-c200-pro:
+  brand: "SMSL"
+  product: "C200 Pro"
 
 smsl-d-6s:
   brand: "SMSL"
@@ -1248,6 +1536,14 @@ smsl-d400ex:
   brand: "SMSL"
   product: "D400EX"
 
+smsl-dl200:
+  brand: "SMSL"
+  product: "DL200"
+
+smsl-do100-pro:
+  brand: "SMSL"
+  product: "DO100 Pro"
+
 smsl-do200pro:
   brand: "SMSL"
   product: "DO200 Pro"
@@ -1255,6 +1551,18 @@ smsl-do200pro:
 smsl-do400:
   brand: "SMSL"
   product: "DO400"
+
+smsl-ds100:
+  brand: "SMSL"
+  product: "DS100"
+
+smsl-m300se:
+  brand: "SMSL"
+  product: "M300SE"
+
+smsl-pl150:
+  brand: "SMSL"
+  product: "PL150"
 
 smsl-su-10:
   brand: "SMSL"
@@ -1364,9 +1672,25 @@ svs-sb-1000-pro:
   brand: "SVS"
   product: "SB-1000 Pro"
 
+tanchjim-zero-dsp:
+  brand: "Tanchjim"
+  product: "Zero DSP"
+
 tangzu-fudu-verse-1:
   brand: "Tangzu"
   product: "Fudu Verse 1"
+
+teac-ha-507:
+  brand: "TEAC"
+  product: "HA-507"
+
+technics-eah-az100:
+  brand: "Technics"
+  product: "EAH-AZ100"
+
+technics-eah-az80:
+  brand: "Technics"
+  product: "EAH-AZ80"
 
 thieaudio-hype-10:
   brand: "ThieAudio"
@@ -1404,6 +1728,10 @@ topping-a70-pro:
   brand: "Topping"
   product: "A70 Pro"
 
+topping-a900:
+  brand: "Topping"
+  product: "A900"
+
 topping-d30pro:
   brand: "Topping"
   product: "D30 Pro"
@@ -1423,6 +1751,10 @@ topping-d70-pro-octo:
 topping-d70-pro-sabre:
   brand: "Topping"
   product: "D70 Pro SABRE"
+
+topping-d90-iii-discrete:
+  brand: "Topping"
+  product: "D90 III Discrete"
 
 topping-d90-iii-sabre:
   brand: "Topping"
@@ -1480,6 +1812,26 @@ topping-la90-discrete:
   brand: "Topping"
   product: "LA90 Discrete"
 
+topping-pa3s:
+  brand: "Topping"
+  product: "PA3s"
+
+topping-pa5-ii:
+  brand: "Topping"
+  product: "PA5 II"
+
+trn-black-pearl:
+  brand: "TRN"
+  product: "Black Pearl"
+
+trn-shell:
+  brand: "TRN"
+  product: "Shell"
+
+trn-te-pro:
+  brand: "TRN"
+  product: "TE Pro"
+
 truthear-gate:
   brand: "Truthear"
   product: "GATE"
@@ -1504,6 +1856,10 @@ truthear-x-crinacle-zero-red:
   brand: "Truthear"
   product: "ZERO:RED"
 
+ugreen-hitune-max5c:
+  brand: "UGREEN"
+  product: "HiTune Max5c"
+
 wharfedale-diamond-12-2:
   brand: "Wharfedale"
   product: "Diamond 12.2"
@@ -1512,6 +1868,10 @@ wharfedale-diamond-220:
   brand: "Wharfedale"
   product: "Diamond 220"
 
+wharfedale-super-linton:
+  brand: "Wharfedale"
+  product: "Super Linton"
+
 wiim-pro:
   brand: "WiiM"
   product: "Pro"
@@ -1519,6 +1879,10 @@ wiim-pro:
 wiim-pro-plus:
   brand: "WiiM"
   product: "Pro Plus"
+
+wiim-ultra:
+  brand: "WiiM"
+  product: "Ultra"
 
 wilson-audio-sabrinax:
   brand: "Wilson Audio"
@@ -1543,6 +1907,14 @@ yamaha-hs7:
 yamaha-ns-10m:
   brand: "Yamaha"
   product: "NS-10M Studio"
+
+yamaha-ns-bp200:
+  brand: "Yamaha"
+  product: "NS-BP200"
+
+yamaha-ycm705:
+  brand: "Yamaha"
+  product: "YCM705"
 
 yamaha-yh-c3000:
   brand: "Yamaha"
