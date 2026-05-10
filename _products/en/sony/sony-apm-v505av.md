@@ -4,7 +4,7 @@ title: "Sony APM-V505AV Product Review"
 target_name: "Sony APM-V505AV"
 company_id: sony
 lang: en
-ref: sony-apm-v505av-en
+ref: sony-apm-v505av
 date: 2025-08-29
 rating: [2.7, 0.5, 0.4, 1.0, 0.3, 0.5]
 price: 59

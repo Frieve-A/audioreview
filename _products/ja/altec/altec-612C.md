@@ -4,13 +4,13 @@ title: "Altec 612C 製品レビュー"
 target_name: "Altec 612C"
 company_id: altec
 lang: ja
-ref: altec-612C
+ref: altec-612c
 date: 2025-07-26
 rating: [1.5, 0.2, 0.3, 0.2, 0.3, 0.5]
 price: 330000
 summary: "1970年代のヴィンテージスタジオモニターとして歴史的価値はあるものの、現代の測定基準では透明レベルに遠く及ばず、同等機能の現代製品と比較してコストパフォーマンスは低い"
 tags: [ヴィンテージスピーカー, スタジオモニター, コアキシャル, パッシブスピーカー]
-permalink: /products/ja/altec-612C/
+permalink: /products/ja/altec-612c/
 ---
 
 ## 概要

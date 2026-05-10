@@ -4,13 +4,13 @@ title: "Metric Halo ULN-8 mkⅣ Product Review"
 target_name: "Metric Halo ULN-8 mkⅣ"
 company_id: metric-halo
 lang: en
-ref: metric-halo-ULN-8 mkⅣ
+ref: metric-halo-uln-8-mk4
 date: 2025-07-23
 rating: [3.3, 0.9, 0.8, 0.5, 0.3, 0.8]
 price: 5167
 summary: "Professional 8-channel interface featuring MHLink networking and DSP plugin bundle. High quality but specialized for niche applications that can utilize its proprietary features"
 tags: [Audio interface, DSP, Professional, USB-C]
-permalink: /products/en/metric-halo-ULN-8 mkⅣ/
+permalink: /products/en/metric-halo-uln-8-mk4/
 ---
 ## Overview
 

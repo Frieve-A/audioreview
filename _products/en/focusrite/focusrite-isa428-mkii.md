@@ -4,7 +4,7 @@ title: "Focusrite ISA428 MkII Product Review"
 target_name: "Focusrite ISA428 MkII"
 company_id: focusrite
 lang: en
-ref: focusrite-isa428-mkii-en
+ref: focusrite-isa428-mkii
 date: 2025-08-20
 rating: [3.0, 0.5, 0.8, 0.5, 0.8, 0.4]
 price: 1999

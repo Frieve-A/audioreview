@@ -4,7 +4,7 @@ title: "Audio Precision 企業レビュー"
 target_name: "Audio Precision"
 company_id: audio-precision
 lang: ja
-ref: audio-precision-review
+ref: audio-precision
 date: 2025-07-05
 rating: [4.7, 1.0, 1.0, 0.7, 1.0, 1.0]
 summary: "オーディオ測定における絶対的な世界標準。同社のオーディオアナライザなくして、現代の高性能オーディオ製品は生まれないと言っても過言ではありません。Audio Precision (AP) は、音の性能を客観的な数値で定義し、検証するための「ものさし」そのものを提供する、オーディオ業界の品質を根底から支える存在です。"

@@ -4,13 +4,13 @@ title: "Audio-Technica AT-SP3X Product Review"
 target_name: "Audio-Technica AT-SP3X"
 company_id: audio-technica
 lang: en
-ref: audio-technica-AT-SP3X
+ref: audio-technica-at-sp3x
 date: 2025-07-23
 rating: [2.5, 0.4, 0.3, 0.7, 0.6, 0.5]
 price: 198
 summary: "A compact powered bookshelf speaker with some challenges in scientific measurement standards, but its cost-performance is slightly above average compared to competing products with equivalent functionality, including Bluetooth."
 tags: [Powered Speaker, Bookshelf, Bluetooth, Audio-Technica, Desktop]
-permalink: /products/en/audio-technica-AT-SP3X/
+permalink: /products/en/audio-technica-at-sp3x/
 ---
 
 ## Overview

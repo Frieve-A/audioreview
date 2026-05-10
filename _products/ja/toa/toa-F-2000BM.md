@@ -4,13 +4,13 @@ title: "TOA F-2000BM 製品レビュー"
 target_name: "TOA F-2000BM"
 company_id: toa
 lang: ja
-ref: toa-F-2000BM
+ref: toa-f-2000bm
 date: 2025-07-24
 rating: [3.1, 0.6, 0.4, 0.9, 0.7, 0.5]
 price: 27800
 summary: "商業施設向けに設計された2ウェイコンパクトスピーカー。同クラスの競合製品を上回る優れたコストパフォーマンスを誇りますが、詳細な音響特性データの不足が評価上の課題となります。"
 tags: [プロフェッショナルオーディオ, 商業音響, コンパクトスピーカー, TOA, 2ウェイ]
-permalink: /products/ja/toa-F-2000BM/
+permalink: /products/ja/toa-f-2000bm/
 ---
 
 ## 概要

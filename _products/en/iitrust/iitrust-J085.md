@@ -4,13 +4,13 @@ title: "iitrust J085 Product Review"
 target_name: "iitrust J085"
 company_id: iitrust
 lang: en
-ref: iitrust-J085
+ref: iitrust-j085
 date: 2025-07-24
 rating: [2.4, 0.4, 0.4, 1.0, 0.4, 0.2]
 price: 33
 summary: "The iitrust J085 is a portable Bluetooth speaker featuring 50W output with IPX7 waterproof rating. While it offers a reasonable choice for budget-conscious users, technical advancement and detailed measurement data cannot be expected."
 tags: [50W, Bluetooth, Portable, Speakers, Waterproof]
-permalink: /products/en/iitrust-J085/
+permalink: /products/en/iitrust-j085/
 ---
 ## Overview
 

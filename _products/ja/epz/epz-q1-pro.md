@@ -4,7 +4,7 @@ title: "EPZ Q1 Pro 製品レビュー"
 target_name: "EPZ Q1 Pro"
 company_id: epz
 lang: ja
-ref: epz-q1-pro-ja
+ref: epz-q1-pro
 date: 2025-08-18
 rating: [2.9, 0.6, 0.4, 0.7, 0.5, 0.7]
 price: 5300

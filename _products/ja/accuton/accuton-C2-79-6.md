@@ -4,13 +4,13 @@ title: "Accuton C2-79/6 製品レビュー"
 target_name: "Accuton C2-79/6"
 company_id: accuton
 lang: ja
-ref: accuton-C2-79-6
+ref: accuton-c2-79-6
 date: 2025-07-26
 rating: [3.4, 0.8, 0.9, 0.3, 0.6, 0.8]
 price: 68460
 summary: "ドイツAccuton社の3インチセラミックドーム型ミッドレンジドライバー。業界最高水準の技術力による低歪み性能を実現していますが、同等性能の代替品と比較するとコストパフォーマンスは低いです。"
 tags: [ドイツ, ミッドレンジドライバー, セラミック, ハイエンド, DIYオーディオ]
-permalink: /products/ja/accuton-C2-79-6/
+permalink: /products/ja/accuton-c2-79-6/
 ---
 
 ## 概要

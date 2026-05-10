@@ -2,15 +2,15 @@
 layout: product
 title: "Audirvāna Studio レビュー"
 target_name: "Audirvāna Studio"
-company_id: audirvāna
+company_id: audirvana
 lang: ja
-ref: audirvāna-studio
+ref: audirvana-studio
 date: 2026-04-13
 rating: [3.9, 0.7, 0.5, 1.0, 0.8, 0.9]
 price: 12750
 summary: "ビット完全再生と排他DAC制御を重視するフランス製デジタルオーディオプレーヤーソフトウェア。一部の安定性への配慮があるものの、プレミアム競合製品に対して優れたコストパフォーマンスを提供"
 tags: [software, digital-audio-player, parametric-eq, convolution, streaming, subscription]
-permalink: /products/ja/audirvāna-studio/
+permalink: /products/ja/audirvana-studio/
 ---
 
 ## 概要

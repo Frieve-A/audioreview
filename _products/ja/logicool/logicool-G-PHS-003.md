@@ -4,13 +4,13 @@ title: "Logicool G-PHS-003 製品レビュー"
 target_name: "Logicool G-PHS-003"
 company_id: logicool
 lang: ja
-ref: logicool-G-PHS-003
+ref: logicool-g-phs-003
 date: 2025-07-23
 rating: [2.8, 0.6, 0.4, 0.6, 0.7, 0.5]
 price: 12200
 summary: "G-PHS-003は2019年発売のゲーミングヘッドセットで、Pro-G 50mmドライバーとBlue VO!CE技術を搭載しています。しかし、現在の市場価格12,200円に対し、SteelSeries Arctis Nova 1が7,580円でソフトウェア経由の同等機能を提供するため、コストパフォーマンスが劣る製品です。"
 tags: [Blue VO!CE, Surround Sound, Wired, ゲーミング]
-permalink: /products/ja/logicool-G-PHS-003/
+permalink: /products/ja/logicool-g-phs-003/
 ---
 ## 概要
 

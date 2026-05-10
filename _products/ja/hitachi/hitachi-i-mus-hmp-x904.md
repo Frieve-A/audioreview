@@ -4,13 +4,13 @@ title: "日立 i-μ's HMP-X904 製品レビュー"
 target_name: "日立 i-μ's HMP-X904"
 company_id: hitachi
 lang: ja
-ref: hitachi-i-μs-hmp-x904
+ref: hitachi-i-mus-hmp-x904
 date: 2025-12-26
 rating: [1.9, 0.3, 0.2, 1.0, 0.2, 0.2]
 price: 817
 summary: "機能が著しく制限され、メーカーサポートも終了した2009年の旧式デジタルオーディオプレーヤー。現代の低価格代替品によって完全に陳腐化されている"
 tags: [デジタルオーディオプレーヤー, ポータブル音楽プレーヤー, 廃止製品, レガシーデバイス]
-permalink: /products/ja/hitachi-i-μs-hmp-x904/
+permalink: /products/ja/hitachi-i-mus-hmp-x904/
 ---
 
 ## 概要

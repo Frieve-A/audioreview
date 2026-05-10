@@ -4,7 +4,7 @@ title: "Sennheiser HD 650 製品レビュー"
 target_name: "Sennheiser HD 650"
 company_id: sennheiser
 lang: ja
-ref: sennheiser-hd-650-review
+ref: sennheiser-hd-650
 date: 2025-08-23
 rating: [3.3, 0.7, 0.6, 0.3, 0.9, 0.8]
 price: 52500

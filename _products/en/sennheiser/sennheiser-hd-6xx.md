@@ -4,13 +4,13 @@ title: "Sennheiser HD 6XX Product Review"
 target_name: "Sennheiser HD 6XX"
 company_id: sennheiser
 lang: en
-ref: sennheiser-HD 6XX
+ref: sennheiser-hd-6xx
 date: 2025-08-20
 rating: [3.5, 0.6, 0.7, 0.5, 0.9, 0.8]
 price: 199
 summary: "The HD 6XX brings the HD 650 lineage to a more accessible price. Multiple third-party measurements show its response closely matches a well-padded HD 650, making a long-standing reference tuning available for less."
 tags: [Headphones, Open-back, Reference, Value, Germany]
-permalink: /products/en/sennheiser-HD 6XX/
+permalink: /products/en/sennheiser-hd-6xx/
 ---
 
 ## Overview

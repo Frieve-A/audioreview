@@ -4,7 +4,7 @@ title: "Sunvalley SV-284D Product Review"
 target_name: "Sunvalley SV-284D"
 company_id: sunvalley
 lang: en
-ref: sunvalley-sv-284d-en
+ref: sunvalley-sv-284d
 date: 2025-08-29
 rating: [1.6, 0.3, 0.4, 0.0, 0.6, 0.3]
 price: 4000

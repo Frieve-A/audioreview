@@ -4,7 +4,7 @@ title: "Sonos Era 300 Product Review"
 target_name: "Sonos Era 300"
 company_id: sonos
 lang: en
-ref: sonos-era-300-en
+ref: sonos-era-300
 date: 2025-08-16
 rating: [3.6, 0.6, 0.7, 0.7, 0.8, 0.8]
 price: 449

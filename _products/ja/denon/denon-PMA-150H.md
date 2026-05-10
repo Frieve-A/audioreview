@@ -4,13 +4,13 @@ title: "Denon PMA-150H 製品レビュー"
 target_name: "Denon PMA-150H"
 company_id: denon
 lang: ja
-ref: denon-PMA-150H
+ref: denon-pma-150h
 date: 2025-07-22
 rating: [3.4, 0.7, 0.8, 0.6, 0.6, 0.7]
 price: 70000
 summary: "DDFA技術とHEOSストリーミングを搭載したコンパクトなネットワーク統合アンプ。測定性能は妥当だが、より安価で高性能な代替品の登場によりコストパフォーマンスに課題がある。"
 tags: [HEOS, インテグレーテッドアンプ, ストリーミング, デジタルアンプ, ネットワークオーディオ]
-permalink: /products/ja/denon-PMA-150H/
+permalink: /products/ja/denon-pma-150h/
 ---
 ## 概要
 

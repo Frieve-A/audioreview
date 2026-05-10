@@ -4,7 +4,7 @@ title: "Dr. Feickert Analogue Company Review"
 target_name: "Dr. Feickert Analogue"
 company_id: dr-feickert-analogue
 lang: en
-ref: dr-feickert-analogue-review
+ref: dr-feickert-analogue
 date: 2025-07-06
 rating: [2.2, 0.2, 0.6, 0.1, 0.8, 0.5]
 summary: "German precision engineering manufacturer specializing in analog turntables and related measurement instruments. Their technology serves merely to marginally improve the fundamental performance limitations of analog, an inherently inferior reproduction method. When measured against the absolute standard of master source fidelity, their products fall short of even affordable digital equipment across all performance metrics, making their value proposition extremely limited and cost-performance essentially non-existent."

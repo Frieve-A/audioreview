@@ -4,13 +4,13 @@ title: "AIYIMA A70 Product Review"
 target_name: "AIYIMA A70"
 company_id: aiyima
 lang: en
-ref: aiyima-A70
+ref: aiyima-a70
 date: 2025-07-26
 rating: [3.9, 0.8, 0.7, 1.0, 0.6, 0.8]
 price: 199
 summary: "Class D amplifier featuring TPA3255 chip and PFFB technology. Excellent measurement performance with superior cost-performance in its feature set."
 tags: [Class D Amplifier, TPA3255, Stereo Amplifier, PFFB]
-permalink: /products/en/aiyima-A70/
+permalink: /products/en/aiyima-a70/
 ---
 
 ## Overview

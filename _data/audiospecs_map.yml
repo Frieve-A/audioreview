@@ -68,7 +68,7 @@ adam-audio-t5v:
   brand: "ADAM Audio"
   product: "T5V"
 
-aiyima-A70:
+aiyima-a70:
   brand: "AIYIMA"
   product: "AIYIMA A70"
 
@@ -836,7 +836,7 @@ ibasso-audio-dc04-ultra:
   brand: "iBasso"
   product: "DC04 Ultra"
 
-ifi-audio-NEO iDSD2:
+ifi-audio-neo-idsd2:
   brand: "iFi audio"
   product: "NEO iDSD 2"
 
@@ -1328,7 +1328,7 @@ samsung-galaxy-buds3-pro:
   brand: "Samsung Galaxy Buds"
   product: "Galaxy Buds3 Pro"
 
-sennheiser-HD 6XX:
+sennheiser-hd-6xx:
   brand: "Drop x Sennheiser"
   product: "HD 6XX"
 
@@ -1372,7 +1372,7 @@ sennheiser-hd-620s:
   brand: "Sennheiser"
   product: "HD 620S"
 
-sennheiser-hd-650-review:
+sennheiser-hd-650:
   brand: "Sennheiser"
   product: "HD 650"
 

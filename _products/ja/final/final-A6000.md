@@ -4,13 +4,13 @@ title: "final A6000 製品レビュー"
 target_name: "final A6000"
 company_id: final
 lang: ja
-ref: final-A6000
+ref: final-a6000
 date: 2025-07-26
 rating: [2.9, 0.7, 0.8, 0.3, 0.6, 0.5]
 price: 54442
 summary: "A6000は技術的には優秀ですが、54,442円という価格に対し、Moondrop Aria 2（14,450円）で同等以上の音質が得られるためコストパフォーマンスは低いです。"
 tags: [イヤホン, インイヤーモニター, ダイナミックドライバー, ファイナル]
-permalink: /products/ja/final-A6000/
+permalink: /products/ja/final-a6000/
 ---
 ## 概要
 

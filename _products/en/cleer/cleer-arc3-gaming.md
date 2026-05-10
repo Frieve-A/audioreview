@@ -4,13 +4,13 @@ title: "cleer ARC3 Gaming Product Review"
 target_name: "cleer ARC3 Gaming"
 company_id: cleer
 lang: en
-ref: cleer-ARC3 Gaming
+ref: cleer-arc3-gaming
 date: 2025-07-22
 rating: [3.2, 0.5, 0.7, 1.0, 0.5, 0.5]
 price: 235
 summary: "A uniquely positioned open-ear gaming earbud, though with challenges in acoustic performance."
 tags: [Earbuds, Gaming, Bluetooth, Open-ear, Wireless]
-permalink: /products/en/cleer-ARC3-Gaming/
+permalink: /products/en/cleer-arc3-gaming/
 ---
 
 ## Overview

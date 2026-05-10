@@ -4,13 +4,13 @@ title: "Electro-Voice Tour X TX1152 製品レビュー"
 target_name: "Electro-Voice Tour X TX1152"
 company_id: electro-voice
 lang: ja
-ref: electro-voice-ev-tour-x-tx1152
+ref: electro-voice-tour-x-tx1152
 date: 2025-07-26
 rating: [2.5, 0.5, 0.6, 0.3, 0.7, 0.4]
 price: 150000
 summary: "15インチプロ仕様パッシブスピーカー。同等機能を持つ低価格なパワードスピーカーが多数存在するため、コストパフォーマンスに重大な課題を抱える。"
 tags: [Live Sound, PA System, Professional Audio, Sound Reinforcement, パッシブスピーカー]
-permalink: /products/ja/electro-voice-ev-tour-x-tx1152/
+permalink: /products/ja/electro-voice-tour-x-tx1152/
 ---
 ## 概要
 

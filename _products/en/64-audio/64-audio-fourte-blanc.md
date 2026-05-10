@@ -4,13 +4,13 @@ title: "64 Audio Fourté Blanc Product Review"
 target_name: "64 Audio Fourté Blanc"
 company_id: 64-audio
 lang: en
-ref: 64-audio-fourté-blanc
+ref: 64-audio-fourte-blanc
 date: 2026-02-28
 rating: [2.4, 0.5, 0.6, 0.3, 0.8, 0.2]
 price: 3699
 summary: "Limited edition 4-driver hybrid IEM with proprietary tia and Apex technologies, lacking third-party measurement validation and focusing heavily on premium materials over scientific performance optimization."
 tags: [64 Audio, Earphones, Hybrid, In-ear monitors]
-permalink: /products/en/64-audio-fourté-blanc/
+permalink: /products/en/64-audio-fourte-blanc/
 ---
 ## Overview
 

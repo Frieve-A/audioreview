@@ -4,7 +4,7 @@ title: "DVAS Model-2B Product Review"
 target_name: "DVAS Model-2B"
 company_id: dvas
 lang: en
-ref: dvas-model-2b-en
+ref: dvas-model-2b
 date: 2025-08-26
 rating: [1.7, 0.5, 0.4, 0.0, 0.5, 0.3]
 price: 8958

@@ -4,13 +4,13 @@ title: "ifi-audio NEO iDSD2 製品レビュー"
 target_name: "ifi-audio NEO iDSD2"
 company_id: ifi-audio
 lang: ja
-ref: ifi-audio-NEO iDSD2
+ref: ifi-audio-neo-idsd2
 date: 2026-01-06
 rating: [3.2, 0.7, 0.7, 0.3, 0.8, 0.7]
 price: 133517
 summary: "世界初のaptX Lossless対応を謳うデスクトップDAC/アンプ。優秀な測定性能を持つが、同等以上の性能をはるかに低価格で実現する代替品が存在するため、コストパフォーマンスは低い。"
 tags: [DAC, アンプ, デスクトップオーディオ, Bluetooth, aptX Lossless]
-permalink: /products/ja/ifi-audio-NEO iDSD2/
+permalink: /products/ja/ifi-audio-neo-idsd2/
 ---
 
 ## 概要

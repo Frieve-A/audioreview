@@ -4,7 +4,7 @@ title: "Synergistic Research Company Review"
 target_name: "Synergistic Research"
 company_id: synergistic-research
 lang: en
-ref: synergistic-research-review
+ref: synergistic-research
 date: 2025-07-05
 rating: [0.9, 0.0, 0.1, 0.0, 0.7, 0.1]
 summary: "An audio company promoting proprietary scientific theories like 'quantum tunneling' and 'UEF technology' while developing extremely high-priced cables and accessories. Most products lack clear evidence of effectiveness from mainstream scientific and engineering perspectives. While supported by users who believe in brand value and subjective sound quality evaluations, the objective performance-to-price ratio is among the lowest in the audio market. Purchase decisions test personal beliefs rather than scientific rationality."

@@ -2,14 +2,14 @@
 layout: company
 title: "SMSL Audio 企業レビュー"
 target_name: "SMSL Audio"
-company_id: smsl-audio
+company_id: smsl
 lang: ja
-ref: smsl-audio
+ref: smsl
 date: 2025-12-08
 rating: [3.6, 0.9, 0.8, 1.0, 0.1, 0.8]
 summary: "測定性能において例外的な結果を実現し、主力製品が世界最安レベルのコストパフォーマンスを提供する中国メーカーですが、信頼性の懸念と不十分なサポートインフラによって阻害されています。"
 tags: [DAC, ESS Sabre, アンプ, デジタルオーディオ, 中国]
-permalink: /companies/ja/smsl-audio/
+permalink: /companies/ja/smsl/
 ---
 ## 概要
 

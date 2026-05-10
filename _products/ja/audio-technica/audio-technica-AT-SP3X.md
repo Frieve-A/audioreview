@@ -4,13 +4,13 @@ title: "Audio-Technica AT-SP3X 製品レビュー"
 target_name: "Audio-Technica AT-SP3X"
 company_id: audio-technica
 lang: ja
-ref: audio-technica-AT-SP3X
+ref: audio-technica-at-sp3x
 date: 2025-07-23
 rating: [2.5, 0.4, 0.3, 0.7, 0.6, 0.5]
 price: 29700
 summary: "コンパクトなパワードブックシェルフスピーカーだが、科学的測定基準では課題が残り、コストパフォーマンスは同等機能の競合製品と比較して平均をやや上回る水準。"
 tags: [Bluetooth, オーディオテクニカ, デスクトップ, パワードスピーカー, ブックシェルフ]
-permalink: /products/ja/audio-technica-AT-SP3X/
+permalink: /products/ja/audio-technica-at-sp3x/
 ---
 ## 概要
 

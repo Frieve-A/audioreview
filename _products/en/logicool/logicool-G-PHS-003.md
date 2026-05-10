@@ -4,13 +4,13 @@ title: "Logicool G-PHS-003 Product Review"
 target_name: "Logicool G-PHS-003"
 company_id: logicool
 lang: en
-ref: logicool-G-PHS-003
+ref: logicool-g-phs-003
 date: 2025-07-23
 rating: [2.8, 0.6, 0.4, 0.6, 0.7, 0.5]
 price: 81
 summary: "The G-PHS-003 is a gaming headset released in 2019, featuring Pro-G 50mm drivers and Blue VO!CE technology. However, with a current market price of 81 USD, the SteelSeries Arctis Nova 1 offers equivalent functionality via software for 51 USD, making this product inferior in cost-performance."
 tags: [Gaming, Wired, Surround Sound, Blue VO!CE]
-permalink: /products/en/logicool-G-PHS-003/
+permalink: /products/en/logicool-g-phs-003/
 ---
 
 ## Overview

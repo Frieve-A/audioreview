@@ -4,7 +4,7 @@ title: "Synergistic Research 企業レビュー"
 target_name: "Synergistic Research"
 company_id: synergistic-research
 lang: ja
-ref: synergistic-research-review
+ref: synergistic-research
 date: 2025-07-05
 rating: [0.9, 0.0, 0.1, 0.0, 0.7, 0.1]
 summary: "「量子トンネリング」「UEF技術」といった独自の科学理論を掲げ、極めて高価格帯のケーブルやアクセサリーを展開するオーディオ企業。その製品は、主流の科学・工学の観点からは効果の根拠が不明瞭なものが大半を占める。ブランド価値や主観的な音質評価を信じるユーザーには支持される一方、客観的な性能対価格比はオーディオ市場で最も低い水準にある。購入には、科学的合理性よりも個人の信念が試されると言えるだろう。"

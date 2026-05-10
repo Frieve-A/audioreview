@@ -4,13 +4,13 @@ title: "final A5000 Product Review"
 target_name: "final A5000"
 company_id: final
 lang: en
-ref: final-A5000
+ref: final-a5000
 date: 2025-07-30
 rating: [2.5, 0.4, 0.7, 0.1, 0.8, 0.5]
 price: 219
 summary: "A mid-range IEM with V-shaped acoustic characteristics, but competing products offering superior fidelity exist at a fraction of the price, making it difficult to recommend from a cost-performance perspective."
 tags: [Dynamic driver, Earphones, In-ear monitors, V-shaped Frequency Response, final]
-permalink: /products/en/final-A5000/
+permalink: /products/en/final-a5000/
 ---
 ## Overview
 

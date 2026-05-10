@@ -4,13 +4,13 @@ title: "Western Electric 300B Product Review"
 target_name: "Western Electric 300B"
 company_id: western-electric
 lang: en
-ref: western-electric-300B
+ref: western-electric-300b
 date: 2025-07-26
 rating: [3.4, 0.8, 0.7, 0.2, 0.9, 0.8]
 price: 1400
 summary: "A vacuum tube faithfully reproducing 1938 specifications, but extremely expensive compared to modern alternatives"
 tags: [300B, Amplifiers, Class A, Vacuum Tube, Western Electric]
-permalink: /products/en/western-electric-300B/
+permalink: /products/en/western-electric-300b/
 ---
 ## Overview
 

@@ -4,7 +4,7 @@ title: "Quloos QU02 USB Bridge Product Review"
 target_name: "Quloos QU02 USB Bridge"
 company_id: quloos
 lang: en
-ref: quloos-qu02-usb-bridge-en
+ref: quloos-qu02-usb-bridge
 date: 2025-08-25
 rating: [3.3, 0.5, 0.6, 1.0, 0.5, 0.7]
 price: 389.99

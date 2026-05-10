@@ -4,13 +4,13 @@ title: "Maestraudio MAPro1000 製品レビュー"
 target_name: "Maestraudio MAPro1000"
 company_id: maestraudio
 lang: ja
-ref: maestraudio-MAPro1000
+ref: maestraudio-mapro1000
 date: 2026-01-07
 rating: [2.4, 0.5, 0.5, 0.4, 0.6, 0.4]
 price: 21900
 summary: "独自のRST技術を搭載した日本製IEMながら測定データの透明性に課題があり、同等機能を持つ代替品との比較ではコストパフォーマンスが限定的です。"
 tags: [MMCX, イヤホン, インイヤーモニター, ゲーミング, ハイブリッド, 日本]
-permalink: /products/ja/maestraudio-MAPro1000/
+permalink: /products/ja/maestraudio-mapro1000/
 ---
 ## 概要
 

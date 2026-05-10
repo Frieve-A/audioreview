@@ -4,13 +4,13 @@ title: "Hitachi i-μ's HMP-X904 Product Review"
 target_name: "Hitachi i-μ's HMP-X904"
 company_id: hitachi
 lang: en
-ref: hitachi-i-μs-hmp-x904
+ref: hitachi-i-mus-hmp-x904
 date: 2025-12-26
 rating: [1.9, 0.3, 0.2, 1.0, 0.2, 0.2]
 price: 5.50
 summary: "Obsolete 2009 digital audio player with severely limited functionality and no manufacturer support, completely superseded by modern budget alternatives"
 tags: [Digital audio player, Discontinued, Legacy Device, Portable Music Player]
-permalink: /products/en/hitachi-i-μs-hmp-x904/
+permalink: /products/en/hitachi-i-mus-hmp-x904/
 ---
 ## Overview
 

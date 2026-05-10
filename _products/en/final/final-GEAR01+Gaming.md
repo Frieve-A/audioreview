@@ -4,13 +4,13 @@ title: "final GEAR01+Gaming Product Review"
 target_name: "final GEAR01+Gaming"
 company_id: final
 lang: en
-ref: final-GEAR01+Gaming
+ref: final-gear01+gaming
 date: 2025-07-31
 rating: [3.5, 0.6, 0.6, 1.0, 0.6, 0.7]
 price: 65
 summary: "True wireless earphones that combine gaming-specific features with LDAC compatibility. Features 35ms low latency mode and hybrid ANC, achieving superior cost-performance compared to competing products with equivalent functions."
 tags: [Gaming earphones, True wireless, LDAC, ANC, Bluetooth5.4]
-permalink: /products/en/final-GEAR01+Gaming/
+permalink: /products/en/final-gear01+gaming/
 ---
 
 ## Overview

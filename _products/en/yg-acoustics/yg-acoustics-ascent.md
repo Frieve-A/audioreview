@@ -4,7 +4,7 @@ title: "YG Acoustics Ascent Product Review"
 target_name: "YG Acoustics Ascent"
 company_id: yg-acoustics
 lang: en
-ref: yg-acoustics-ascent-en
+ref: yg-acoustics-ascent
 date: 2025-08-29
 rating: [3.1, 0.6, 0.9, 0.4, 0.7, 0.5]
 price: 19800

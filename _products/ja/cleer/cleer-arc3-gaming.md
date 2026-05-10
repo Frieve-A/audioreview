@@ -4,13 +4,13 @@ title: "cleer ARC3 Gaming 製品レビュー"
 target_name: "cleer ARC3 Gaming"
 company_id: cleer
 lang: ja
-ref: cleer-ARC3 Gaming
+ref: cleer-arc3-gaming
 date: 2025-07-22
 rating: [3.2, 0.5, 0.7, 1.0, 0.5, 0.5]
 price: 34543
 summary: "独自の地位を確立したオープンイヤー型ゲーミングイヤホンだが、音響性能には課題も"
 tags: [イヤホン, ゲーミング, Bluetooth, オープンイヤー, ワイヤレス]
-permalink: /products/ja/cleer-ARC3-Gaming/
+permalink: /products/ja/cleer-arc3-gaming/
 ---
 
 ## 概要

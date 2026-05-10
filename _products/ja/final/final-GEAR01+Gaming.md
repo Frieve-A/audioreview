@@ -4,13 +4,13 @@ title: "final GEAR01+Gaming 製品レビュー"
 target_name: "final GEAR01+Gaming"
 company_id: final
 lang: ja
-ref: final-GEAR01+Gaming
+ref: final-gear01+gaming
 date: 2025-07-31
 rating: [3.5, 0.6, 0.6, 1.0, 0.6, 0.7]
 price: 9800
 summary: "ゲーミング特化機能とLDAC対応を両立した完全ワイヤレスイヤホン。35ms低遅延モードとハイブリッドANCを搭載し、同等機能を持つ競合製品と比較して優れたコストパフォーマンスを実現している。"
 tags: [Bluetooth5.4, LDAC, アクティブノイズキャンセリング, ゲーミングイヤホン, 完全ワイヤレス]
-permalink: /products/ja/final-GEAR01+Gaming/
+permalink: /products/ja/final-gear01+gaming/
 ---
 ## 概要
 

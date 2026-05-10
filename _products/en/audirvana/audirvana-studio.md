@@ -2,15 +2,15 @@
 layout: product
 title: "Audirvāna Studio Review"
 target_name: "Audirvāna Studio"
-company_id: audirvāna
+company_id: audirvana
 lang: en
-ref: audirvāna-studio
+ref: audirvana-studio
 date: 2026-04-13
 rating: [3.9, 0.7, 0.5, 1.0, 0.8, 0.9]
 price: 85
 summary: "French digital audio player software emphasizing bit-perfect playback and exclusive DAC access, offering strong cost-performance against premium competitors despite some stability considerations"
 tags: [software, digital-audio-player, parametric-eq, convolution, streaming, subscription]
-permalink: /products/en/audirvāna-studio/
+permalink: /products/en/audirvana-studio/
 ---
 
 ## Overview

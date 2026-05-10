@@ -4,13 +4,13 @@ title: "64 Audio Fourté Blanc 製品レビュー"
 target_name: "64 Audio Fourté Blanc"
 company_id: 64-audio
 lang: ja
-ref: 64-audio-fourté-blanc
+ref: 64-audio-fourte-blanc
 date: 2026-02-28
 rating: [2.4, 0.5, 0.6, 0.3, 0.8, 0.2]
 price: 486000
 summary: "独自のtiaおよびApexテクノロジーを搭載した限定版4ドライバーハイブリッドIEMで、第三者測定による検証が不足しており、科学的性能最適化よりもプレミアム素材に重点を置いている。"
 tags: [64 Audio, イヤホン, インイヤーモニター, ハイブリッド]
-permalink: /products/ja/64-audio-fourté-blanc/
+permalink: /products/ja/64-audio-fourte-blanc/
 ---
 ## 概要
 

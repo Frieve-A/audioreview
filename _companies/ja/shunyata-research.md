@@ -4,7 +4,7 @@ title: "Shunyata Research 企業レビュー"
 target_name: "Shunyata Research"
 company_id: shunyata-research
 lang: ja
-ref: shunyata-research-review
+ref: shunyata-research
 date: 2025-07-05
 rating: [1.9, 0.1, 0.6, 0.1, 0.9, 0.2]
 summary: "米国のハイエンドオーディオアクセサリーメーカー。電源ケーブルやパワーコンディショナーを中心に、独自の特許技術を多数投入した製品を展開。プロオーディオや医療分野での採用実績をアピールする一方、その価格設定と効果の科学的根拠については大きな疑問符が付く。製品は高品質な素材で堅牢に作られているが、主張される音質改善効果は客観的データに乏しく、コストパフォーマンスは極めて低い。"

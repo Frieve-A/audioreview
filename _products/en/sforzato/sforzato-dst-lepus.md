@@ -4,7 +4,7 @@ title: "Sforzato DST-LEPUS Product Review"
 target_name: "Sforzato DST-LEPUS"
 company_id: sforzato
 lang: en
-ref: sforzato-dst-lepus-en
+ref: sforzato-dst-lepus
 date: 2025-08-13
 rating: [2.5, 0.5, 0.7, 0.3, 0.7, 0.3]
 price: 2826

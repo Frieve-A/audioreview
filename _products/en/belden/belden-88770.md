@@ -4,7 +4,7 @@ title: "Belden 88770 Product Review"
 target_name: "Belden 88770"
 company_id: belden
 lang: en
-ref: belden-88770-en
+ref: belden-88770
 date: 2025-08-22
 rating: [2.4, 0.5, 0.4, 0.5, 0.6, 0.4]
 price: 5.22

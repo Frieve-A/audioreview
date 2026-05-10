@@ -4,13 +4,13 @@ title: "Fostex P802-S 製品レビュー"
 target_name: "Fostex P802-S"
 company_id: fostex
 lang: ja
-ref: fostex-P802‑S
+ref: fostex-p802-s
 date: 2025-07-30
 rating: [2.5, 0.6, 0.5, 0.3, 0.7, 0.4]
 price: 26400
 summary: "8cmウーファーと20mmツイーターを搭載した超小型2ウェイスピーカー。40kHz対応でハイレゾ音源に対応するものの、科学的測定値と価格競争力において大きな課題を抱える。"
 tags: [コンパクトスピーカー, デスクトップオーディオ, ハイレゾ, ブックシェルフ]
-permalink: /products/ja/fostex-P802‑S/
+permalink: /products/ja/fostex-p802-s/
 ---
 ## 概要
 

@@ -2,14 +2,14 @@
 layout: company
 title: "SMSL Audio Company Review"
 target_name: "SMSL Audio"
-company_id: smsl-audio
+company_id: smsl
 lang: en
-ref: smsl-audio
+ref: smsl
 date: 2025-12-08
 rating: [3.6, 0.9, 0.8, 1.0, 0.1, 0.8]
 summary: "Chinese manufacturer delivering exceptional measured performance with main products offering world-class cost-performance, but hindered by reliability concerns and inadequate support infrastructure."
 tags: [Amplifiers, China, DAC, Digital Audio, ESS Sabre]
-permalink: /companies/en/smsl-audio/
+permalink: /companies/en/smsl/
 ---
 ## Overview
 

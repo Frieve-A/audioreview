@@ -4,13 +4,13 @@ title: "Piega Coax 411 Product Review"
 target_name: "Piega Coax 411"
 company_id: piega
 lang: en
-ref: piega-coax411
+ref: piega-coax-411
 date: 2025-08-06
 rating: [2.5, 0.7, 0.8, 0.1, 0.4, 0.5]
 price: 9995
 summary: "Swiss-made premium bookshelf speaker with extremely poor cost-performance compared to equivalent alternatives. While ribbon technology is interesting, measurement performance remains average by modern standards."
 tags: [Bookshelf speakers, Coaxial, High Price, Ribbon Tweeter, Swiss Made]
-permalink: /products/en/piega-coax411/
+permalink: /products/en/piega-coax-411/
 ---
 ## Overview
 

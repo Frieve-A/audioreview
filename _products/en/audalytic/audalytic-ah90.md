@@ -4,7 +4,7 @@ title: "Audalytic AH90 Product Review"
 target_name: "Audalytic AH90"
 company_id: audalytic
 lang: en
-ref: audalytic-ah90-en
+ref: audalytic-ah90
 date: 2025-08-21
 rating: [3.7, 0.8, 0.6, 0.9, 0.6, 0.8]
 price: 599

@@ -4,7 +4,7 @@ title: "Dr. Feickert Analogue 企業レビュー"
 target_name: "Dr. Feickert Analogue"
 company_id: dr-feickert-analogue
 lang: ja
-ref: dr-feickert-analogue-review
+ref: dr-feickert-analogue
 date: 2025-07-05
 rating: [2.2, 0.2, 0.6, 0.1, 0.8, 0.5]
 summary: "ドイツの精密機械メーカー。アナログターンテーブルとその関連測定器を製造。その技術は、アナログという原理的に性能の低い再生方式の欠点を僅かに改善するに留まる。マスター音源への忠実度という絶対基準に照らすと、数万円のデジタル機器に全ての性能指標で劣後し、その存在価値は極めて限定的。コストパフォーマンスは皆無に等しい。"

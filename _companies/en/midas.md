@@ -4,7 +4,7 @@ title: "Midas Company Review"
 target_name: "Midas"
 company_id: midas
 lang: en
-ref: midas-en
+ref: midas
 date: 2025-08-24
 rating: [3.2, 0.8, 0.6, 0.5, 0.6, 0.7]
 summary: "UK-born pro mixing console brand known for a measurement-first approach; part of Music Tribe since 2009 and focused on live sound digital desks"

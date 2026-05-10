@@ -4,13 +4,13 @@ title: "AIYIMA B07 製品レビュー"
 target_name: "AIYIMA B07"
 company_id: aiyima
 lang: ja
-ref: aiyima-B07
+ref: aiyima-b07
 date: 2025-07-22
 rating: [3.6, 0.6, 0.7, 1.0, 0.5, 0.8]
 price: 16350
 summary: "TPA3255チップ搭載の2.1chアンプ。実測出力が公称値を大幅に下回る。同価格で性能が大幅に優れた代替品が存在するため、実質的な価値は低い。"
 tags: [2.1チャンネル, Bluetooth, D級, TPA3255, サブウーファー]
-permalink: /products/ja/aiyima-B07/
+permalink: /products/ja/aiyima-b07/
 ---
 ## 概要
 

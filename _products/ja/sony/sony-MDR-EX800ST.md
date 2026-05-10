@@ -4,13 +4,13 @@ title: "Sony MDR-EX800ST 製品レビュー"
 target_name: "Sony MDR-EX800ST"
 company_id: sony
 lang: ja
-ref: sony-MDR-EX800ST
+ref: sony-mdr-ex800st
 date: 2025-07-22
 rating: [2.9, 0.4, 0.6, 0.4, 0.5, 1.0]
 price: 20800
 summary: "16mmダイナミックドライバーを搭載したプロ向けIEM。特定の業務用途に最適化された合理的な設計思想を持つが、意図的な高域カットと、より安価で高性能な代替品の存在により総合評価は限定的。"
 tags: [Monitor, インイヤーモニター, ソニー, ダイナミックドライバー, プロフェッショナル]
-permalink: /products/ja/sony-MDR-EX800ST/
+permalink: /products/ja/sony-mdr-ex800st/
 ---
 ## 概要
 

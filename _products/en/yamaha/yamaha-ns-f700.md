@@ -4,7 +4,7 @@ title: "Yamaha NS-F700 Product Review"
 target_name: "Yamaha NS-F700"
 company_id: yamaha
 lang: en
-ref: yamaha-ns-f700-en
+ref: yamaha-ns-f700
 date: 2025-08-16
 rating: [2.4, 0.5, 0.4, 0.7, 0.3, 0.5]
 price: 811

@@ -4,7 +4,7 @@ title: "Sonus Faber Aida II Product Review"
 target_name: "Sonus Faber Aida II"
 company_id: sonus-faber
 lang: en
-ref: sonus-faber-aida-ii-en
+ref: sonus-faber-aida-ii
 date: 2025-08-25
 rating: [2.3, 0.5, 0.7, 0.1, 0.6, 0.4]
 price: 130000

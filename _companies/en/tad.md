@@ -4,7 +4,7 @@ title: "TAD Company Review"
 target_name: "TAD"
 company_id: tad
 lang: en
-ref: tad-review
+ref: tad
 date: 2025-07-05
 rating: [3.8, 0.9, 1.0, 0.3, 0.9, 0.7]
 summary: "A high-end speaker brand that consolidates Pioneer's technical expertise. Since its birth in 1978, it has applied technology cultivated in professional studio monitors to home speakers, achieving world-class acoustic performance. The product lineup, which can be called a treasure trove of proprietary technologies including beryllium diaphragms and concentric drivers, demonstrates overwhelming performance in both measurement data and listening experience. However, the pricing that exceeds USD 130,000 even for the smallest model represents the ultimate choice accessible only to limited audiophiles."

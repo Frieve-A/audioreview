@@ -4,7 +4,7 @@ title: "KOJO Technology Crystal E – Review"
 target_name: "KOJO Technology Crystal E"
 company_id: kojo-technology
 lang: en
-ref: kojo-technology-crystal-e-en
+ref: kojo-technology-crystal-e
 date: 2025-08-14
 rating: [1.2, 0.1, 0.5, 0.2, 0.4, 0.0]
 price: 379.99

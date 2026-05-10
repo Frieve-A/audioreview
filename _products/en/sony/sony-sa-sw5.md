@@ -4,7 +4,7 @@ title: "Sony SA-SW5 Product Review"
 target_name: "Sony SA-SW5"
 company_id: sony
 lang: en
-ref: sony-sa-sw5-en
+ref: sony-sa-sw5
 date: 2025-08-20
 rating: [3.1, 0.5, 0.6, 1.0, 0.5, 0.5]
 price: 699

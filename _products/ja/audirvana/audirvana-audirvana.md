@@ -2,15 +2,15 @@
 layout: product
 title: "Audirvāna Audirvāna 製品レビュー"
 target_name: "Audirvāna Audirvāna"
-company_id: audirvāna
+company_id: audirvana
 lang: ja
-ref: audirvāna-audirvāna
+ref: audirvana-audirvana
 date: 2026-04-19
 rating: [3.8, 0.5, 0.6, 1.0, 0.7, 1.0]
 price: 11999
 summary: "ビット・パーフェクト再生、ストリーミング統合、高度なDSP処理機能を備えたフランス製デジタル音楽プレーヤーソフトウェア"
 tags: [Software, Audio Player, Streaming, DSP, Cross-platform]
-permalink: /products/ja/audirvāna-audirvāna/
+permalink: /products/ja/audirvana-audirvana/
 ---
 
 ## 概要

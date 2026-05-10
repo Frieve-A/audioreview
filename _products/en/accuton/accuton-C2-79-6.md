@@ -4,13 +4,13 @@ title: "Accuton C2-79/6 Product Review"
 target_name: "Accuton C2-79/6"
 company_id: accuton
 lang: en
-ref: accuton-C2-79-6
+ref: accuton-c2-79-6
 date: 2025-07-26
 rating: [3.4, 0.8, 0.9, 0.3, 0.6, 0.8]
 price: 456.40
 summary: "A 3.5-inch ceramic dome midrange driver from German Accuton. While achieving industry-leading low distortion performance through cutting-edge technology, cost-performance is low when compared to equivalent alternatives."
 tags: [Ceramic, DIY Audio, Germany, High-end, Midrange Driver]
-permalink: /products/en/accuton-C2-79-6/
+permalink: /products/en/accuton-c2-79-6/
 ---
 ## Overview
 

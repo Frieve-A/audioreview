@@ -757,6 +757,53 @@ class ReviewValidator:
         
         return issues
     
+    def validate_filename_ref_permalink_consistency(self, review: ReviewData) -> List[str]:
+        """Check that filename stem, ref field, and permalink last segment all match.
+
+        Detects cases like filename `ibasso-audio-dc07pro.md` with ref `ibasso-dc07pro`
+        and permalink `/products/en/ibasso-dc07pro/` — these three must be identical
+        because they all define the same canonical product slug.
+        """
+        issues = []
+
+        stem = Path(review.file_path).stem
+        ref = (review.ref or '').strip()
+        permalink_last = ''
+        if review.permalink:
+            permalink_last = review.permalink.strip('/').split('/')[-1]
+
+        if not ref or not permalink_last:
+            # Missing fields are reported by other validators; skip here
+            return issues
+
+        slug_rule = "Slug must be lowercase ASCII alphanumeric, hyphen-separated (e.g., 'company-name-product-name')."
+
+        for label, value in (("filename stem", stem), ("ref", ref), ("permalink last segment", permalink_last)):
+            if value != value.lower():
+                issues.append(f"{label.capitalize()} must be lowercase: '{value}'. {slug_rule}")
+            if ' ' in value:
+                issues.append(f"{label.capitalize()} must not contain spaces: '{value}'. Replace spaces with hyphens. {slug_rule}")
+            if not value.isascii():
+                non_ascii = [f"U+{ord(c):04X}({c})" for c in value if ord(c) > 127]
+                issues.append(f"{label.capitalize()} must be ASCII-only: '{value}' (non-ASCII: {', '.join(non_ascii)}). Replace with ASCII equivalents (e.g., U+2011 NON-BREAKING HYPHEN -> '-', Ⅳ -> 'iv' or '4'). {slug_rule}")
+
+        match_rule = "Per policy, filename stem, frontmatter `ref`, and the last segment of `permalink` must all be identical (file `foo.md` -> `ref: foo` and `permalink: /<products|companies>/<lang>/foo/`)."
+
+        if stem != ref:
+            issues.append(
+                f"Filename/ref mismatch: filename stem '{stem}' does not match ref '{ref}'. {match_rule}"
+            )
+        if stem != permalink_last:
+            issues.append(
+                f"Filename/permalink mismatch: filename stem '{stem}' does not match permalink last segment '{permalink_last}'. {match_rule}"
+            )
+        if ref != permalink_last:
+            issues.append(
+                f"Ref/permalink mismatch: ref '{ref}' does not match permalink last segment '{permalink_last}'. {match_rule}"
+            )
+
+        return issues
+
     def validate_title_target_name_consistency(self, review: ReviewData) -> List[str]:
         """Check if the first part of title matches target_name"""
         issues = []
@@ -1165,6 +1212,7 @@ class ReviewValidator:
             issues.extend(self.validate_date_consistency(review))
             issues.extend(self.validate_date_range(review))
             issues.extend(self.validate_title_target_name_consistency(review))
+            issues.extend(self.validate_filename_ref_permalink_consistency(review))
             issues.extend(self.validate_forbidden_terms(review))
             issues.extend(self.validate_japanese_currency_in_english_reviews(review))
             issues.extend(self.validate_language_folder_placement(review))
@@ -1341,6 +1389,12 @@ class ReviewValidator:
             "before site launch": "13. **Date Range Error**: Dates must be between site launch date (2025-07-05) and current date",
             "in the future": "13. **Date Range Error**: Dates must be between site launch date (2025-07-05) and current date",
             "Title first part": "14. **Title Consistency Error**: Title first part must match target_name exactly",
+            "Filename/ref mismatch": "14b. **Filename/Ref/Permalink Mismatch**: Filename stem, frontmatter `ref`, and permalink last segment must all be identical (e.g., file `foo-bar.md` requires `ref: foo-bar` and `permalink: /.../foo-bar/`)",
+            "Filename/permalink mismatch": "14b. **Filename/Ref/Permalink Mismatch**: Filename stem, frontmatter `ref`, and permalink last segment must all be identical (e.g., file `foo-bar.md` requires `ref: foo-bar` and `permalink: /.../foo-bar/`)",
+            "Ref/permalink mismatch": "14b. **Filename/Ref/Permalink Mismatch**: Filename stem, frontmatter `ref`, and permalink last segment must all be identical (e.g., file `foo-bar.md` requires `ref: foo-bar` and `permalink: /.../foo-bar/`)",
+            "Filename stem must be": "14c. **Filename/Ref/Permalink Format Error**: Filename stem, `ref`, and permalink last segment must all be lowercase with no spaces (use hyphens instead)",
+            "Ref must be": "14c. **Filename/Ref/Permalink Format Error**: Filename stem, `ref`, and permalink last segment must all be lowercase with no spaces (use hyphens instead)",
+            "Permalink last segment must be": "14c. **Filename/Ref/Permalink Format Error**: Filename stem, `ref`, and permalink last segment must all be lowercase ASCII with no spaces (use hyphens instead)",
             "Forbidden term": "15. **Forbidden Terms Policy Violation**: Replace table/chart terminology with appropriate evaluation levels like '透明レベル', '問題レベル', 'transparent level', 'issue level'",
             "Japanese currency": "16. **Currency Conversion Recommendation**: Consider converting Japanese yen (JPY) to USD for international audience in English reviews",
             "Language folder mismatch": "17. **Language Folder Placement Error**: Move file to correct language folder (ja/en) based on metadata lang field",
@@ -1498,6 +1552,10 @@ class ReviewValidator:
             return "Date Range Error"
         elif "title first part" in issue_lower or "does not match target_name" in issue_lower:
             return "Title Consistency Error"
+        elif "filename/ref mismatch" in issue_lower or "filename/permalink mismatch" in issue_lower or "ref/permalink mismatch" in issue_lower:
+            return "Filename/Ref/Permalink Mismatch"
+        elif "must be lowercase" in issue_lower or "must not contain spaces" in issue_lower or "must be ascii-only" in issue_lower:
+            return "Filename/Ref/Permalink Format Error"
         elif "forbidden term" in issue_lower:
             return "Forbidden Terms Policy Violation"
         elif "japanese currency" in issue_lower or "yen" in issue_lower or "jpy" in issue_lower:

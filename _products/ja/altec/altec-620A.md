@@ -4,13 +4,13 @@ title: "Altec 620A 製品レビュー"
 target_name: "Altec 620A"
 company_id: altec
 lang: ja
-ref: altec-620A
+ref: altec-620a
 date: 2025-07-26
 rating: [1.8, 0.2, 0.4, 0.5, 0.2, 0.5]
 price: 140000
 summary: "1970年代のプロフェッショナル・モニタースピーカーとして歴史的価値は認められるものの、現代の透明性基準から見ると性能は大幅に劣っており、市場価格が極めて高額であることが問題です。"
 tags: [ヴィンテージスピーカー, スタジオモニター, コアキシャル, Altec]
-permalink: /products/ja/altec-620A/
+permalink: /products/ja/altec-620a/
 ---
 
 ## 概要

@@ -4,13 +4,13 @@ title: "Piega Coax 411 製品レビュー"
 target_name: "Piega Coax 411"
 company_id: piega
 lang: ja
-ref: piega-coax411
+ref: piega-coax-411
 date: 2025-08-06
 rating: [2.5, 0.7, 0.8, 0.1, 0.4, 0.5]
 price: 1500000
 summary: "スイス製の高級ブックシェルフスピーカーだが、同等性能の競合製品と比較して著しく高価で、コストパフォーマンスは極めて低い。リボン技術は興味深いものの、測定性能では現代の基準から見て平凡。"
 tags: [ブックシェルフスピーカー, リボンツイーター, コアキシャル, スイス製, 高価格]
-permalink: /products/ja/piega-coax411/
+permalink: /products/ja/piega-coax-411/
 ---
 
 ## 概要

@@ -4,13 +4,13 @@ title: "Gustard DAC-X30 製品レビュー"
 target_name: "Gustard DAC-X30"
 company_id: gustard
 lang: ja
-ref: gustard-DAC-X30
+ref: gustard-dac-x30
 date: 2025-07-26
 rating: [3.4, 0.9, 0.8, 0.3, 0.7, 0.7]
 price: 450000
 summary: "4基のES9039SPROチップを搭載した高性能ネットワークストリーミングDAC。測定性能は透明レベルに達し、EverSolo DMP-A6（859USD）との比較でコストパフォーマンスは低い評価。"
 tags: [DAC, ストリーミング, ES9039SPRO, ネットワーク, ハイレゾ]
-permalink: /products/ja/gustard-DAC-X30/
+permalink: /products/ja/gustard-dac-x30/
 ---
 
 ## 概要

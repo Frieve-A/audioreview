@@ -4,13 +4,13 @@ title: "hifiman Svanar wireless Product Review"
 target_name: "hifiman Svanar wireless"
 company_id: hifiman
 lang: en
-ref: hifiman-Svanar wireless
+ref: hifiman-svanar-wireless
 date: 2025-10-07
 rating: [2.6, 0.4, 0.7, 0.7, 0.6, 0.2]
 price: 199
 summary: "HiFiMan's high-end wireless earphones featuring their proprietary R2R DAC. While the regular price was 499 USD, the current official store price is 199 USD. The technology's objective superiority remains unclear, but the much lower prevailing price materially improves cost-performance."
 tags: [ANC, LDAC, Premium, R2R DAC, Wireless earphones]
-permalink: /products/en/hifiman-Svanar wireless/
+permalink: /products/en/hifiman-svanar-wireless/
 ---
 ## Overview
 

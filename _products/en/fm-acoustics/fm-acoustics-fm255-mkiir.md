@@ -4,7 +4,7 @@ title: "FM Acoustics FM255 MkIIR Product Review"
 target_name: "FM Acoustics FM255 MkIIR"
 company_id: fm-acoustics
 lang: en
-ref: fm-acoustics-fm255-mkiir-en
+ref: fm-acoustics-fm255-mkiir
 date: 2025-08-13
 rating: [2.2, 0.5, 0.7, 0.1, 0.4, 0.5]
 price: 18454
