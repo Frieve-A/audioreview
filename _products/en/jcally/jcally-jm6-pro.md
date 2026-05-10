@@ -6,54 +6,70 @@ company_id: jcally
 lang: en
 ref: jcally-jm6-pro
 date: 2025-08-20
-rating: [3.1, 0.7, 0.6, 0.6, 0.5, 0.7]
-price: 14
-summary: "Competent dual-DAC USB-C dongle delivering transparent performance at budget pricing, though lacks distinguishing technical innovation."
+rating: [3.0, 0.7, 0.6, 0.5, 0.5, 0.7]
+price: 17
+summary: "Compact USB-C dongle using a CX31993 codec plus MAX97220 headphone amp; spec-transparent figures for very little money, but no distinctive technical innovation."
 tags: [DAC, Dongle, Portable, CX31993, MAX97220]
 permalink: /products/en/jcally-jm6-pro/
 ---
 
 ## Overview
 
-The JCally JM6 Pro is a USB-C to 3.5mm DAC dongle featuring dual DAC implementation with Conexant CX31993 and Maxim MAX97220 chips. Weighing 6g and measuring 110mm, this portable audio adapter targets users seeking improved audio quality from smartphones and computers. The device supports PCM up to 32-bit/384kHz and provides microphone passthrough functionality for headset compatibility.
+The JCally JM6 Pro is a USB-C to 3.5 mm DAC dongle that pairs a Conexant CX31993 USB audio codec with a Maxim MAX97220 headphone amplifier in a metal shell. It weighs about 6 g, measures ~110 mm, supports PCM up to 32-bit/384 kHz, and passes headset microphones (CTIA) through for calls. These are manufacturer-published specs. [1][2]
 
 ## Scientific Validity
 
 $$ \Large \text{0.7} $$
 
-The JM6 Pro achieves transparent-level performance based on manufacturer specifications. Signal-to-noise ratio of 124dB exceeds the 105dB threshold for transparent operation [1]. THD+N of -95dB (0.0018%) falls well within the transparent range below 0.01% [1]. Crosstalk suppression of -110dB significantly exceeds the -70dB transparent threshold [1]. These specifications indicate the device should operate without audible degradation for typical listening scenarios. However, independent third-party measurements are not yet available to verify these manufacturer claims.
+Manufacturer specifications indicate transparency-class performance: signal-to-noise ratio 124 dB, THD+N −95 dB (≈0.0018 %), and crosstalk −110 dB, which are consistent with audibly transparent playback in typical use. Independent third-party bench measurements specific to JM6 Pro have not yet been located; until such data appears, these values should be treated as provisional manufacturer specs. [1][2]
 
 ## Technology Level
 
 $$ \Large \text{0.6} $$
 
-The dual-DAC configuration combining CX31993 and MAX97220 represents competent but conventional engineering. The CX31993 provides the primary DAC function while MAX97220 handles amplification duties. This approach demonstrates understanding of signal chain optimization but lacks notable innovation. The 5N OFC silver-plated cable construction and aluminum housing show attention to implementation details. However, the technology remains within established industry practices without advancing the state of portable DAC design.
+The architecture—USB codec (CX31993) feeding a dedicated headphone driver (MAX97220)—is a competent, common solution for dongles. Execution details like the aluminum housing and braided cable are solid but conventional. No unique topology, patents, or notable new techniques are evident from public materials. [1]
 
 ## Cost-Performance
 
-$$ \Large \text{0.6} $$
+$$ \Large \text{0.5} $$
 
-At 14 USD current market price, the JM6 Pro competes with the Apple USB-C to 3.5mm adapter at 9 USD. Equipped with dual DAC implementation and manufacturer-specified 124dB SNR, the comparison yields CP = 9 USD ÷ 14 USD = 0.6. The Apple adapter demonstrates excellent measured performance with 0.9Ω output impedance and transparent audio quality [2], providing equivalent functionality for basic listening applications despite simpler single-chip design.
+Current market price is 17 USD for JM6 Pro. [1] The cheapest equivalent-or-better option is Apple’s USB-C to 3.5 mm Headphone Jack Adapter at 9 USD, which provides the same user-facing function and has repeatedly measured very low output impedance (~0.5–0.9 Ω) and low distortion consistent with transparency. Therefore **CP = 9 USD ÷ 17 USD = 0.53 → 0.5** (rounded to one decimal). [3][4][5]
+
+*Equivalence note:* Apple’s adapter offers the same USB-C to 3.5 mm analog output and transparent measured behavior (low output impedance and low distortion), so it qualifies as “equivalent-or-better” from a user perspective. [4][5]
 
 ## Reliability & Support
 
 $$ \Large \text{0.5} $$
 
-JCally provides standard 3-month warranty coverage typical of budget Chinese audio manufacturers. The company maintains presence through established retailers like HiFiGo with after-sales service. However, long-term reliability data remains limited given the relatively new market position. The simple design with no firmware requirements reduces potential failure points, though build quality consistency across production batches is unverified.
+Warranty coverage varies by retailer: JCally’s regional distributor lists **4 months** for audio adapters, some stores state **3 months**, while other large retailers (e.g., HiFiGo) advertise **1 year** for dongles. There is no centralized global warranty statement. The product itself requires no firmware, reducing potential software failure modes, but long-term reliability data is sparse. [6][7][8]
 
 ## Rationality of Design Philosophy
 
 $$ \Large \text{0.7} $$
 
-The JM6 Pro pursues a rational approach to portable DAC design by focusing on measured performance rather than marketing claims. The dual-DAC implementation addresses power and noise considerations systematically. Supporting high-resolution PCM formats aligns with technical requirements, though practical benefits remain limited for typical content. The emphasis on objective specifications over subjective marketing demonstrates scientifically-oriented development philosophy, contributing to transparent audio reproduction goals.
+Focusing on a proven codec-plus-amp chain to hit transparent-class specs at a very low price is a rational, measurement-oriented approach. The design avoids extravagance and targets objective performance; however, it does not advance the technical state of the art beyond established dongle designs. [1]
 
 ## Advice
 
-For users seeking cost-effective improvement over smartphone built-in audio or basic dongles, the JM6 Pro offers measurable benefits at minimal cost. The device suits sensitive earphones and moderate-impedance headphones below 160Ω. Consider this option when transparent audio reproduction is prioritized over brand prestige or premium build materials. Users requiring extensive power output for high-impedance headphones should consider dedicated headphone amplifiers instead.
+If you want a simple, inexpensive wired output for IEMs and easy-to-drive headphones, JM6 Pro should perform audibly transparent based on the published numbers. If you need more voltage/current for insensitive planars or high-impedance headphones, step up to a higher-power dongle or a dedicated portable amp. If the lowest possible spend is the priority and a fixed-cable form factor is acceptable, Apple’s USB-C adapter remains the baseline bargain. [3][4][5]
 
 ## References
 
-[1] JCally Official Specifications - JM6 Pro Product Page, accessed 2025-08-18
-[2] Apple USB-C to 3.5 mm Headphone Jack Adapter measurements and reviews - Head-Fi.org, multiple independent measurements showing 0.9Ω output impedance and transparent performance
+[1] HiFiGo — “JCALLY JM6 Pro CX31993 Digital Audio Portable Decoding Type-C To 3.5 mm Amplifier”, price and specs (PCM 32/384, SNR 124 dB, THD+N −95 dB, crosstalk −110 dB, ~6 g, ~110 mm). https://hifigo.com/products/jcally-jm6-pro (accessed 2025-08-19)
+
+[2] JCally Bangladesh (regional distributor) — “JCALLY JM6 Pro CX31993 Digital Audio Portable Decoding Type-C To 3.5 mm Amplifier”, features (Mic: Yes) mirroring catalog specs. https://jcallybd.com/product/jcally-jm6-pro-cx31993-digital-audio-portable-decoding-type-c-to-3-5mm-amplifier/ (accessed 2025-08-19)
+
+[3] Apple (US) — “USB-C to 3.5 mm Headphone Jack Adapter”, price 9 USD. https://www.apple.com/shop/product/MW2Q3AM/A/usb-c-to-35-mm-headphone-jack-adapter (accessed 2025-08-19)
+
+[4] Audio Science Review — “Review: Apple vs Google USB-C Headphone Adapters”, notes Apple output impedance ≈0.9 Ω with measurement data. https://www.audiosciencereview.com/forum/index.php?threads/review-apple-vs-google-usb-c-headphone-adapters.5541/ (accessed 2025-08-19)
+
+[5] Audio Science Review (thread page) — additional user measurement citing ≈0.5 Ω output impedance for Apple USB-C dongle (corroborating low-impedance behavior). https://www.audiosciencereview.com/forum/index.php?threads/review-apple-vs-google-usb-c-headphone-adapters.5541/page-8 (accessed 2025-08-19)
+
+[6] JCally Bangladesh — “Warranty Policy” (Audio Adapter: 4-month warranty). https://jcallybd.com/warranty-policy/ (accessed 2025-08-19)
+
+[7] HiFiGo — “Warranty & Refund Policy” (Dongles: 1-year warranty; cables/adapters 3 months). https://hifigo.com/pages/warranty-refund-policy (accessed 2025-08-19)
+
+[8] Hangout Audio — “JCALLY JM6 Pro Portable DAC-Amplifier” (lists 3-month warranty for manufacturing defects). https://hangout.audio/products/jcally-jm6-pro (accessed 2025-08-19)
 
 (2025.8.20)
+
