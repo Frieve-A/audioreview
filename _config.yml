@@ -26,6 +26,12 @@ defaults:
     values:
       layout: "product"
 
+# Disable github-pages default theme (jekyll-theme-primer) which ships
+# assets/css/style.scss and conflicts with this site's assets/css/style.css.
+# On incremental rebuilds, primer's SCSS overwrites our static CSS, breaking
+# styles in the browser until a full rebuild.
+theme: null
+
 plugins:
   - jekyll-seo-tag
 
