@@ -87,12 +87,14 @@
 </head>
 <body>
   <header class="site-header">
-    <div class="container">
+    <div class="container header-inner">
       <h1 class="site-title">
-        <a href="{% if page.lang %}{{ '/' | append: page.lang | append: '/' | relative_url }}{% else %}{{ '/' | relative_url }}{% endif %}">{% if page.lang %}{{ site.data.strings[page.lang].site_title }}{% else %}{{ site.title }}{% endif %}</a>
-        <img src="{{ '/assets/images/icon-64x64.png' | relative_url }}" alt="Favicon" style="vertical-align: middle; margin-left: 10px; height: 1em;">
+        <a class="brand-link" href="{% if page.lang %}{{ '/' | append: page.lang | append: '/' | relative_url }}{% else %}{{ '/' | relative_url }}{% endif %}">
+          <img src="{{ '/assets/images/icon-64x64.png' | relative_url }}" alt="" aria-hidden="true">
+          <span>{% if page.lang %}{{ site.data.strings[page.lang].site_title }}{% else %}{{ site.title }}{% endif %}</span>
+        </a>
       </h1>
-      <nav class="site-nav">
+      <nav class="site-nav" aria-label="Primary navigation">
         <a href="{% if page.lang %}{{ '/' | append: page.lang | append: '/' | relative_url }}{% else %}{{ '/' | relative_url }}{% endif %}">{% if page.lang %}{{ site.data.strings[page.lang].home }}{% else %}ホーム{% endif %}</a>
         <a href="{% if page.lang %}{{ '/companies/' | append: page.lang | append: '/' | relative_url }}{% else %}{{ '/companies/' | relative_url }}{% endif %}">{% if page.lang %}{{ site.data.strings[page.lang].companies }}{% else %}企業一覧{% endif %}</a>
         <a href="{% if page.lang %}{{ '/products/' | append: page.lang | append: '/' | relative_url }}{% else %}{{ '/products/' | relative_url }}{% endif %}">{% if page.lang %}{{ site.data.strings[page.lang].products }}{% else %}製品一覧{% endif %}</a>
@@ -100,14 +102,27 @@
         <a href="{% if page.lang == 'en' %}https://forms.gle/PacNpgAyN646CYrZA{% else %}https://forms.gle/hXeh72BCSBhKDZm77{% endif %}" target="_blank" rel="noopener noreferrer">{% if page.lang %}{{ site.data.strings[page.lang].review_request }}{% else %}レビュー依頼{% endif %}</a>
         <a href="{% if page.lang %}{{ '/' | append: page.lang | append: '/about' | relative_url }}{% else %}{{ '/about' | relative_url }}{% endif %}">{% if page.lang %}{{ site.data.strings[page.lang].about }}{% else %}About{% endif %}</a>
       </nav>
-      {% include language_switcher.html %}
+      <div class="header-actions">
+        {% include language_switcher.html %}
+        <details class="mobile-nav">
+          <summary>Menu</summary>
+          <nav class="mobile-nav-panel" aria-label="Mobile navigation">
+            <a href="{% if page.lang %}{{ '/' | append: page.lang | append: '/' | relative_url }}{% else %}{{ '/' | relative_url }}{% endif %}">{% if page.lang %}{{ site.data.strings[page.lang].home }}{% else %}ホーム{% endif %}</a>
+            <a href="{% if page.lang %}{{ '/companies/' | append: page.lang | append: '/' | relative_url }}{% else %}{{ '/companies/' | relative_url }}{% endif %}">{% if page.lang %}{{ site.data.strings[page.lang].companies }}{% else %}企業一覧{% endif %}</a>
+            <a href="{% if page.lang %}{{ '/products/' | append: page.lang | append: '/' | relative_url }}{% else %}{{ '/products/' | relative_url }}{% endif %}">{% if page.lang %}{{ site.data.strings[page.lang].products }}{% else %}製品一覧{% endif %}</a>
+            <a href="#" class="mobile-search-toggle">{% if page.lang %}{{ site.data.strings[page.lang].search }}{% else %}検索{% endif %}</a>
+            <a href="{% if page.lang == 'en' %}https://forms.gle/PacNpgAyN646CYrZA{% else %}https://forms.gle/hXeh72BCSBhKDZm77{% endif %}" target="_blank" rel="noopener noreferrer">{% if page.lang %}{{ site.data.strings[page.lang].review_request }}{% else %}レビュー依頼{% endif %}</a>
+            <a href="{% if page.lang %}{{ '/' | append: page.lang | append: '/about' | relative_url }}{% else %}{{ '/about' | relative_url }}{% endif %}">{% if page.lang %}{{ site.data.strings[page.lang].about }}{% else %}About{% endif %}</a>
+          </nav>
+        </details>
+      </div>
     </div>
   </header>
 
   <div class="search-overlay" id="search-overlay">
     <div class="search-content">
-      <input type="text" id="search-input" placeholder="{% if page.lang %}{{ site.data.strings[page.lang].search_placeholder }}{% else %}企業名・製品名で検索...{% endif %}">
-      <button id="search-close">×</button>
+      <input type="text" id="search-input" placeholder="{% if page.lang %}{{ site.data.strings[page.lang].search_placeholder }}{% else %}{{ site.data.strings.ja.search_placeholder }}{% endif %}">
+      <button id="search-close">&times;</button>
       <div id="search-results"></div>
     </div>
   </div>
@@ -160,6 +175,7 @@
   </script>
   <!-- Load common tag information first -->
   <script src="{{ '/assets/js/tags.js' | relative_url }}"></script>
+  <script src="{{ '/assets/js/category-tags.js' | relative_url }}"></script>
   <script src="{{ '/assets/js/search-common.js' | relative_url }}"></script>
   <script src="{{ '/assets/js/search.js' | relative_url }}"></script>
   <script src="{{ '/assets/js/gauge.js' | relative_url }}"></script>
@@ -169,6 +185,7 @@
   <script src="{{ '/assets/js/infinite-scroll.js' | relative_url }}"></script>
   <script src="{{ '/assets/js/auto-linker.js' | relative_url }}"></script>
   <script src="{{ '/assets/js/price-formatter.js' | relative_url }}"></script>
+  <script src="{{ '/assets/js/design-enhancements.js' | relative_url }}"></script>
   <script src="{{ '/assets/js/search-buttons-position.js' | relative_url }}"></script>
   <script src="{{ '/assets/js/audiospecs-resize.js' | relative_url }}"></script>
 </body>

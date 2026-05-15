@@ -149,28 +149,23 @@ class SearchPage {
       <div class="search-results-header">
         <h2>「${SearchCommon.escapeHtml(query)}」の検索結果 (${results.length}件)</h2>
       </div>
-      <div class="search-results-list">
+      <div class="search-results-list catalog-grid">
         ${results.map(item => `
-          <div class="search-result-item">
-            <div class="search-result-type">${item.type}</div>
-            <h3><a href="${item.url}">${item.title}</a></h3>
-            <div class="search-result-rating">
-              <span class="rating-value">${this.getDisplayRating(item.rating)}</span>
-              <span class="rating-stars">★</span>
+          <article class="review-card search-result-item">
+            <span class="search-result-type tag">${SearchCommon.escapeHtml(item.type || '')}</span>
+            <h3><a href="${item.url}">${SearchCommon.escapeHtml(item.title || '')}</a></h3>
+            <div class="score-row search-result-rating">
+              <span>総合評価</span>
+              <span class="score-pill">${this.getDisplayRating(item.rating)}<small>/5</small></span>
             </div>
-            <p class="search-result-summary">${item.summary}</p>
-            ${item.price ? `
-              <div class="product-card-price">
-                <span class="price-label">参考価格:</span>
-                <span class="price-value">${this.formatPrice(item.price)} 円</span>
-              </div>
-            ` : ''}
-            ${item.tags.length > 0 ? `
-              <div class="search-result-tags">
-                ${item.tags.map(tag => `<span class="tag">${tag}</span>`).join('')}
-              </div>
-            ` : ''}
-          </div>
+            <p class="search-result-summary">${SearchCommon.escapeHtml(item.summary || '')}</p>
+            <div class="meta-row search-result-meta">
+              ${item.price ? `<span>参考価格 ${this.formatPrice(item.price)} 円</span>` : ''}
+              ${Array.isArray(item.tags) && item.tags.length > 0 ? `
+                ${item.tags.map(tag => `<span class="tag">${SearchCommon.escapeHtml(tag)}</span>`).join('')}
+              ` : ''}
+            </div>
+          </article>
         `).join('')}
       </div>
     `;
@@ -215,4 +210,4 @@ class SearchPage {
 document.addEventListener('DOMContentLoaded', () => {
   new SearchPage();
 });
-</script> 
+</script>

@@ -14,7 +14,7 @@ class CategoryTagsManager {
 
     // Use common product type tags
     const productTypeTags = window.TagUtils.getProductTypeTags(this.currentLanguage);
-    
+
     if (productTypeTags.length === 0) {
       grid.innerHTML = '<p class="no-categories">No product categories available.</p>';
       return;
@@ -34,11 +34,17 @@ class CategoryTagsManager {
   createTagLink(tag) {
     const currentLang = this.currentLanguage;
     const url = `/products/${currentLang}/?tags=${encodeURIComponent(tag)}`;
-    return `<a href="${url}" class="category-tag-link">${tag}</a>`;
+    return `<a href="${url}" class="category-tag-link">${this.escapeHtml(tag)}</a>`;
+  }
+
+  escapeHtml(value) {
+    const div = document.createElement('div');
+    div.textContent = value;
+    return div.innerHTML;
   }
 }
 
 // Initialize on page load
 document.addEventListener('DOMContentLoaded', function() {
   new CategoryTagsManager();
-}); 
+});

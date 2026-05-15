@@ -1,178 +1,261 @@
 ---
 layout: default
 ---
-<article class="product-review">
-  <header class="review-header">
-    {% include social_share.html %}
-    <h1>{{ page.target_name }}</h1>
-    
-    {% if page.price %}
-    <div class="product-price">
-      <span class="price-label">
-        {{ site.data.strings[page.lang].reference_price }}:
-        <span class="price-tooltip" data-tooltip="{{ site.data.strings[page.lang].price_tooltip }}">?</span>
-      </span>
-      <span class="price-value">
-        {% if page.lang == 'ja' %}
-          <span class="price-number" data-price="{{ page.price }}">{{ page.price }}</span> 円
-        {% else %}
-          <span class="price-number" data-price="{{ page.price }}">{{ page.price }}</span> USD
-        {% endif %}
-      </span>
-    </div>
-    {% endif %}
-    
-    {% assign current_company_id = page.company_id %}
-    {% assign parent_company = site.companies | where: 'company_id', current_company_id | where: 'lang', page.lang | first %}
+{% assign current_company_id = page.company_id %}
+{% assign parent_company = site.companies | where: 'company_id', current_company_id | where: 'lang', page.lang | first %}
 
-    <!-- Gauge Charts -->
-    {% if page.rating and page.rating.size >= 6 %}
-    <div class="rating-gauges">
-      <!-- Overall Rating Gauge -->
-      <div class="gauge-container overall-gauge">
-        <div class="gauge-label">{{ site.data.strings[page.lang].overall_rating }}</div>
-        <div class="gauge-chart" data-score="{{ page.rating[0] }}" data-color="#FFD580">
-          <svg class="gauge-svg" viewBox="0 0 200 200">
-            <!-- Background arc -->
-            <path class="gauge-background" d="M 46.97 153.03 A 75 75 0 1 1 153.03 153.03" stroke="#E9ECEF" stroke-width="20" fill="none" stroke-linecap="round"/>
-            <!-- Progress arc -->
-            <path class="gauge-progress" d="M 46.97 153.03 A 75 75 0 1 1 153.03 153.03" stroke="#FFD580" stroke-width="20" fill="none" stroke-linecap="round"/>
-          </svg>
-          <div class="gauge-score">{{ page.rating[0] | round: 1 }}</div>
-        </div>
-      </div>
-      
-      <!-- Individual Rating Gauges -->
-      <div class="individual-gauges">
-        <div class="gauge-container">
-          <div class="gauge-label">{{ site.data.strings[page.lang].scientific_validity }}</div>
-          <div class="gauge-chart" data-score="{{ page.rating[1] }}" data-color="#AEC6CF">
-            <svg class="gauge-svg" viewBox="0 0 200 200">
-              <!-- Background arc -->
-              <path class="gauge-background" d="M 46.97 153.03 A 75 75 0 1 1 153.03 153.03" stroke="#E9ECEF" stroke-width="20" fill="none" stroke-linecap="round"/>
-              <!-- Progress arc -->
-              <path class="gauge-progress" d="M 46.97 153.03 A 75 75 0 1 1 153.03 153.03" stroke="#AEC6CF" stroke-width="20" fill="none" stroke-linecap="round"/>
-            </svg>
-            <div class="gauge-score">{{ page.rating[1] | round: 1 }}</div>
+<article class="product-review review-page">
+  <section class="review-shell report-shell">
+    <div class="review-article article">
+      <header class="review-header report-header">
+        <div class="report-topline">
+          <div class="report-title">
+            <h2>{{ site.data.strings[page.lang].product_review }}</h2>
           </div>
         </div>
-        
-        <div class="gauge-container">
-          <div class="gauge-label">{{ site.data.strings[page.lang].technology_level }}</div>
-          <div class="gauge-chart" data-score="{{ page.rating[2] }}" data-color="#B2DFDB">
-            <svg class="gauge-svg" viewBox="0 0 200 200">
-              <!-- Background arc -->
-              <path class="gauge-background" d="M 46.97 153.03 A 75 75 0 1 1 153.03 153.03" stroke="#E9ECEF" stroke-width="20" fill="none" stroke-linecap="round"/>
-              <!-- Progress arc -->
-              <path class="gauge-progress" d="M 46.97 153.03 A 75 75 0 1 1 153.03 153.03" stroke="#B2DFDB" stroke-width="20" fill="none" stroke-linecap="round"/>
-            </svg>
-            <div class="gauge-score">{{ page.rating[2] | round: 1 }}</div>
-          </div>
-        </div>
-        
-        <div class="gauge-container">
-          <div class="gauge-label">{{ site.data.strings[page.lang].cost_performance }}</div>
-          <div class="gauge-chart" data-score="{{ page.rating[3] }}" data-color="#C1E1C1">
-            <svg class="gauge-svg" viewBox="0 0 200 200">
-              <!-- Background arc -->
-              <path class="gauge-background" d="M 46.97 153.03 A 75 75 0 1 1 153.03 153.03" stroke="#E9ECEF" stroke-width="20" fill="none" stroke-linecap="round"/>
-              <!-- Progress arc -->
-              <path class="gauge-progress" d="M 46.97 153.03 A 75 75 0 1 1 153.03 153.03" stroke="#C1E1C1" stroke-width="20" fill="none" stroke-linecap="round"/>
-            </svg>
-            <div class="gauge-score">{{ page.rating[3] | round: 1 }}</div>
-          </div>
-        </div>
-        
-        <div class="gauge-container">
-          <div class="gauge-label">{{ site.data.strings[page.lang].reliability_support }}</div>
-          <div class="gauge-chart" data-score="{{ page.rating[4] }}" data-color="#D7BDE2">
-            <svg class="gauge-svg" viewBox="0 0 200 200">
-              <!-- Background arc -->
-              <path class="gauge-background" d="M 46.97 153.03 A 75 75 0 1 1 153.03 153.03" stroke="#E9ECEF" stroke-width="20" fill="none" stroke-linecap="round"/>
-              <!-- Progress arc -->
-              <path class="gauge-progress" d="M 46.97 153.03 A 75 75 0 1 1 153.03 153.03" stroke="#D7BDE2" stroke-width="20" fill="none" stroke-linecap="round"/>
-            </svg>
-            <div class="gauge-score">{{ page.rating[4] | round: 1 }}</div>
-          </div>
-        </div>
-        
-        <div class="gauge-container">
-          <div class="gauge-label">{{ site.data.strings[page.lang].design_rationality }}</div>
-          <div class="gauge-chart" data-score="{{ page.rating[5] }}" data-color="#D3D3D3">
-            <svg class="gauge-svg" viewBox="0 0 200 200">
-              <!-- Background arc -->
-              <path class="gauge-background" d="M 46.97 153.03 A 75 75 0 1 1 153.03 153.03" stroke="#E9ECEF" stroke-width="20" fill="none" stroke-linecap="round"/>
-              <!-- Progress arc -->
-              <path class="gauge-progress" d="M 46.97 153.03 A 75 75 0 1 1 153.03 153.03" stroke="#D3D3D3" stroke-width="20" fill="none" stroke-linecap="round"/>
-            </svg>
-            <div class="gauge-score">{{ page.rating[5] | round: 1 }}</div>
-          </div>
-        </div>
-      </div>
-    </div>
-    {% endif %}
-    
-    <p class="review-summary">{{ page.summary }}</p>
-    <div class="review-meta">
-      <time datetime="{{ page.date | date: '%Y-%m-%d' }}">{% if page.lang == 'ja' %}{{ page.date | date: '%Y年%m月%d日' }}{% else %}{{ page.date | date: '%B %d, %Y' }}{% endif %}</time>
-      {% if page.tags %}
-      <div class="tags">
-        {% for tag in page.tags %}
-          <a href="/products/{{ page.lang }}/?tags={{ tag | url_encode }}" class="tag">{{ tag }}</a>
-        {% endfor %}
-      </div>
-      {% endif %}
-    </div>
-  </header>
 
-  <div class="review-content">
-    {% include audiospecs_widget.html %}
-    {{ content }}
-  </div>
+        <h1 id="report-title">{{ page.target_name }}</h1>
 
-  <!-- Search Buttons -->
-  <section class="search-buttons">
-    <div class="search-button-container">
-      <a href="https://www.google.com/search?q={{ page.target_name | url_encode }}" target="_blank" class="search-button google-search">
-        <span class="search-icon">🔍</span>
-        {{ site.data.strings[page.lang].search_on_google }}
-      </a>
-      {% if page.lang == 'ja' %}
-        <a href="https://www.amazon.co.jp/s?k={{ page.target_name | url_encode }}&tag=frieve02-22" target="_blank" class="search-button amazon-search">
-          <span class="search-icon">🛒</span>
-          {{ site.data.strings[page.lang].search_on_amazon }}
-        </a>
-      {% else %}
-        <a href="https://www.amazon.com/s?k={{ page.target_name | url_encode }}&tag=frieve-20" target="_blank" class="search-button amazon-search">
-          <span class="search-icon">🛒</span>
-          {{ site.data.strings[page.lang].search_on_amazon }}
-        </a>
-      {% endif %}
-    </div>
-  </section>
-
-  {% include adsense.html %}
-  
-  {% if parent_company %}
-  <section class="related-company">
-    <h2>{{ site.data.strings[page.lang].related_company }}</h2>
-    <div class="company-card">
-      <h3><a href="{{ parent_company.url }}">{{ parent_company.target_name }}</a></h3>
-      <div class="company-rating">
-        <span class="rating-value">
-          {% if parent_company.rating and parent_company.rating.size > 0 %}
-            {{ parent_company.rating[0] | round: 1 }}
+        <div class="title-meta-row">
+          {% if page.tags %}
+            <div class="report-meta">
+              {% for tag in page.tags %}
+                <a href="/products/{{ page.lang }}/?tags={{ tag | url_encode }}" class="tag meta-chip">{{ tag }}</a>
+              {% endfor %}
+            </div>
           {% else %}
-            N/A
+            <div></div>
           {% endif %}
-        </span>
-        <span class="rating-stars">★</span>
+
+          {% if page.price %}
+            <div class="price-box">
+              <span class="price-box-label">
+                {{ site.data.strings[page.lang].reference_price }}
+                <span class="price-tooltip" tabindex="0" role="img" aria-label="{{ site.data.strings[page.lang].price_tooltip }}" data-tooltip="{{ site.data.strings[page.lang].price_tooltip }}">?</span>
+              </span>
+              <strong><span class="price-number" data-price="{{ page.price }}">{{ page.price }}</span>{% if page.lang == 'ja' %} 円{% else %} USD{% endif %}</strong>
+            </div>
+          {% endif %}
+        </div>
+
+        {% if page.rating and page.rating.size >= 6 %}
+        <div class="rating-board">
+          <div class="gauge-container overall-gauge">
+            <div class="gauge-label gauge-label-overall">{{ site.data.strings[page.lang].overall_rating }}</div>
+            <div class="gauge-chart" data-score="{{ page.rating[0] }}" data-color="#d9a441">
+              <svg class="gauge-svg" viewBox="0 0 200 200" aria-hidden="true">
+                <path class="gauge-background" d="M 46.97 153.03 A 75 75 0 1 1 153.03 153.03" stroke="#E9ECEF" stroke-width="20" fill="none" stroke-linecap="round"/>
+                <path class="gauge-progress" d="M 46.97 153.03 A 75 75 0 1 1 153.03 153.03" stroke="#d9a441" stroke-width="20" fill="none" stroke-linecap="round"/>
+              </svg>
+              <div class="gauge-score">{{ page.rating[0] | round: 1 }}</div>
+            </div>
+          </div>
+
+          <div class="rating-gauges individual-gauges">
+            <div class="gauge-container">
+              <div class="gauge-label gauge-label-scientific-validity">{{ site.data.strings[page.lang].scientific_validity }}</div>
+              <div class="gauge-chart" data-score="{{ page.rating[1] }}" data-color="#8db3bf">
+                <svg class="gauge-svg" viewBox="0 0 200 200" aria-hidden="true">
+                  <path class="gauge-background" d="M 46.97 153.03 A 75 75 0 1 1 153.03 153.03" stroke="#E9ECEF" stroke-width="20" fill="none" stroke-linecap="round"/>
+                  <path class="gauge-progress" d="M 46.97 153.03 A 75 75 0 1 1 153.03 153.03" stroke="#8db3bf" stroke-width="20" fill="none" stroke-linecap="round"/>
+                </svg>
+                <div class="gauge-score">{{ page.rating[1] | round: 1 }}</div>
+              </div>
+            </div>
+
+            <div class="gauge-container">
+              <div class="gauge-label gauge-label-technology-level">{{ site.data.strings[page.lang].technology_level }}</div>
+              <div class="gauge-chart" data-score="{{ page.rating[2] }}" data-color="#88c3bb">
+                <svg class="gauge-svg" viewBox="0 0 200 200" aria-hidden="true">
+                  <path class="gauge-background" d="M 46.97 153.03 A 75 75 0 1 1 153.03 153.03" stroke="#E9ECEF" stroke-width="20" fill="none" stroke-linecap="round"/>
+                  <path class="gauge-progress" d="M 46.97 153.03 A 75 75 0 1 1 153.03 153.03" stroke="#88c3bb" stroke-width="20" fill="none" stroke-linecap="round"/>
+                </svg>
+                <div class="gauge-score">{{ page.rating[2] | round: 1 }}</div>
+              </div>
+            </div>
+
+            <div class="gauge-container">
+              <div class="gauge-label gauge-label-cost-performance">{{ site.data.strings[page.lang].cost_performance }}</div>
+              <div class="gauge-chart" data-score="{{ page.rating[3] }}" data-color="#92c995">
+                <svg class="gauge-svg" viewBox="0 0 200 200" aria-hidden="true">
+                  <path class="gauge-background" d="M 46.97 153.03 A 75 75 0 1 1 153.03 153.03" stroke="#E9ECEF" stroke-width="20" fill="none" stroke-linecap="round"/>
+                  <path class="gauge-progress" d="M 46.97 153.03 A 75 75 0 1 1 153.03 153.03" stroke="#92c995" stroke-width="20" fill="none" stroke-linecap="round"/>
+                </svg>
+                <div class="gauge-score">{{ page.rating[3] | round: 1 }}</div>
+              </div>
+            </div>
+
+            <div class="gauge-container">
+              <div class="gauge-label gauge-label-reliability-support">{{ site.data.strings[page.lang].reliability_support }}</div>
+              <div class="gauge-chart" data-score="{{ page.rating[4] }}" data-color="#bba4ca">
+                <svg class="gauge-svg" viewBox="0 0 200 200" aria-hidden="true">
+                  <path class="gauge-background" d="M 46.97 153.03 A 75 75 0 1 1 153.03 153.03" stroke="#E9ECEF" stroke-width="20" fill="none" stroke-linecap="round"/>
+                  <path class="gauge-progress" d="M 46.97 153.03 A 75 75 0 1 1 153.03 153.03" stroke="#bba4ca" stroke-width="20" fill="none" stroke-linecap="round"/>
+                </svg>
+                <div class="gauge-score">{{ page.rating[4] | round: 1 }}</div>
+              </div>
+            </div>
+
+            <div class="gauge-container">
+              <div class="gauge-label gauge-label-design-rationality">{{ site.data.strings[page.lang].design_rationality }}</div>
+              <div class="gauge-chart" data-score="{{ page.rating[5] }}" data-color="#a9aeac">
+                <svg class="gauge-svg" viewBox="0 0 200 200" aria-hidden="true">
+                  <path class="gauge-background" d="M 46.97 153.03 A 75 75 0 1 1 153.03 153.03" stroke="#E9ECEF" stroke-width="20" fill="none" stroke-linecap="round"/>
+                  <path class="gauge-progress" d="M 46.97 153.03 A 75 75 0 1 1 153.03 153.03" stroke="#a9aeac" stroke-width="20" fill="none" stroke-linecap="round"/>
+                </svg>
+                <div class="gauge-score">{{ page.rating[5] | round: 1 }}</div>
+              </div>
+            </div>
+          </div>
+        </div>
+        {% endif %}
+
+        <p class="review-summary summary">{{ page.summary }}</p>
+        <div class="report-utility">
+          <time class="updated-date" datetime="{{ page.date | date: '%Y-%m-%d' }}">
+            {% if page.lang == 'ja' %}{{ page.date | date: '%Y年%m月%d日' }}{% else %}{{ page.date | date: '%B %d, %Y' }}{% endif %}
+          </time>
+          {% include social_share.html %}
+        </div>
+      </header>
+
+      <div class="review-content content">
+        {% include audiospecs_widget.html %}
+        {{ content }}
       </div>
-      <p class="company-summary">{{ parent_company.summary }}</p>
-      <time class="company-date" datetime="{{ parent_company.date | date: '%Y-%m-%d' }}">
-        {% if page.lang == 'ja' %}{{ parent_company.date | date: '%Y年%m月%d日' }}{% else %}{{ parent_company.date | date: '%B %d, %Y' }}{% endif %}
-      </time>
+
+      <section class="external-search-block exit-section">
+        <h2>{{ site.data.strings[page.lang].external_search }}</h2>
+        <p>{{ site.data.strings[page.lang].external_search_desc }}</p>
+        <div class="exit-grid">
+          <a href="https://www.google.com/search?q={{ page.target_name | url_encode }}" target="_blank" rel="noopener noreferrer" class="exit-link google google-search search-button">
+            <strong>{{ site.data.strings[page.lang].search_on_google }}</strong>
+            <span>{{ site.data.strings[page.lang].google_search_desc }}</span>
+          </a>
+          {% if page.lang == 'ja' %}
+            <a href="https://www.amazon.co.jp/s?k={{ page.target_name | url_encode }}&tag=frieve02-22" target="_blank" rel="noopener noreferrer" class="exit-link amazon amazon-search search-button">
+              <strong>{{ site.data.strings[page.lang].search_on_amazon }}</strong>
+              <span>{{ site.data.strings[page.lang].amazon_search_desc }}</span>
+            </a>
+          {% else %}
+            <a href="https://www.amazon.com/s?k={{ page.target_name | url_encode }}&tag=frieve-20" target="_blank" rel="noopener noreferrer" class="exit-link amazon amazon-search search-button">
+              <strong>{{ site.data.strings[page.lang].search_on_amazon }}</strong>
+              <span>{{ site.data.strings[page.lang].amazon_search_desc }}</span>
+            </a>
+          {% endif %}
+        </div>
+      </section>
+
+      {% if jekyll.environment == "production" %}
+      <section class="adsense-panel ad-slot" aria-label="Advertisement">
+        {% include adsense.html %}
+      </section>
+      {% endif %}
+
+      {% if parent_company %}
+      <section class="related-company related-panel">
+        <h2>{{ site.data.strings[page.lang].related_company }}</h2>
+        <article class="review-card company-card related-card">
+          <h3><a href="{{ parent_company.url | relative_url }}">{{ parent_company.target_name }}</a></h3>
+          <div class="score-row">
+            <span>{{ site.data.strings[page.lang].overall_rating }}</span>
+            <span class="score-pill">
+              {% if parent_company.rating and parent_company.rating.size > 0 %}
+                {{ parent_company.rating[0] | round: 1 }}<small>/5</small>
+              {% else %}
+                N/A
+              {% endif %}
+            </span>
+          </div>
+          <p class="company-summary">{{ parent_company.summary }}</p>
+          <div class="meta-row">
+            <time class="company-date" datetime="{{ parent_company.date | date: '%Y-%m-%d' }}">
+              {% if page.lang == 'ja' %}{{ parent_company.date | date: '%Y年%m月%d日' }}{% else %}{{ parent_company.date | date: '%B %d, %Y' }}{% endif %}
+            </time>
+          </div>
+        </article>
+      </section>
+      {% endif %}
     </div>
+
+    <aside class="review-sidebar aside" aria-label="Review metadata">
+      <section class="aside-card toc-card">
+        <h2>{{ site.data.strings[page.lang].contents }}</h2>
+        <ol class="toc-list" id="review-toc"></ol>
+      </section>
+
+      {% if page.rating and page.rating.size >= 6 %}
+      <section class="aside-card rating-summary-card">
+        <h2>{{ site.data.strings[page.lang].overall_rating }}</h2>
+        <dl class="rating-summary-list">
+          <dt>{{ site.data.strings[page.lang].overall_rating }}</dt>
+          <dd>{{ page.rating[0] | round: 1 }} / 5</dd>
+          <dt>{{ site.data.strings[page.lang].scientific_validity }}</dt>
+          <dd>{{ page.rating[1] | round: 1 }} / 1</dd>
+          <dt>{{ site.data.strings[page.lang].technology_level }}</dt>
+          <dd>{{ page.rating[2] | round: 1 }} / 1</dd>
+          <dt>{{ site.data.strings[page.lang].cost_performance }}</dt>
+          <dd>{{ page.rating[3] | round: 1 }} / 1</dd>
+          <dt>{{ site.data.strings[page.lang].reliability_support }}</dt>
+          <dd>{{ page.rating[4] | round: 1 }} / 1</dd>
+          <dt>{{ site.data.strings[page.lang].design_rationality }}</dt>
+          <dd>{{ page.rating[5] | round: 1 }} / 1</dd>
+        </dl>
+      </section>
+      {% endif %}
+
+      <section class="aside-card product-info-card">
+        <h2>{{ site.data.strings[page.lang].product_info }}</h2>
+        <dl class="compact-meta">
+          <dt>{{ site.data.strings[page.lang].product_label }}</dt>
+          <dd>{{ page.target_name }}</dd>
+          {% if parent_company %}
+            <dt>{{ site.data.strings[page.lang].company_label }}</dt>
+            <dd>{{ parent_company.target_name }}</dd>
+          {% endif %}
+          {% if page.price %}
+            <dt>{{ site.data.strings[page.lang].reference_price }}</dt>
+            <dd><span class="price-number" data-price="{{ page.price }}">{{ page.price }}</span>{% if page.lang == 'ja' %} 円{% else %} USD{% endif %}</dd>
+          {% endif %}
+          <dt>{{ site.data.strings[page.lang].date }}</dt>
+          <dd>{% if page.lang == 'ja' %}{{ page.date | date: '%Y年%m月%d日' }}{% else %}{{ page.date | date: '%B %d, %Y' }}{% endif %}</dd>
+        </dl>
+      </section>
+
+      {% if page.tags %}
+      <section class="aside-card tag-card">
+        <h2>{{ site.data.strings[page.lang].tags }}</h2>
+        <div class="tags">
+          {% for tag in page.tags %}
+            <a href="/products/{{ page.lang }}/?tags={{ tag | url_encode }}" class="tag">{{ tag }}</a>
+          {% endfor %}
+        </div>
+      </section>
+      {% endif %}
+
+      <section class="aside-card actions sidebar-search-card">
+        <a href="https://www.google.com/search?q={{ page.target_name | url_encode }}" target="_blank" rel="noopener noreferrer" class="search-google google-search">{{ site.data.strings[page.lang].search_on_google }}</a>
+        {% if page.lang == 'ja' %}
+          <a href="https://www.amazon.co.jp/s?k={{ page.target_name | url_encode }}&tag=frieve02-22" target="_blank" rel="noopener noreferrer" class="search-amazon amazon-search">{{ site.data.strings[page.lang].search_on_amazon }}</a>
+        {% else %}
+          <a href="https://www.amazon.com/s?k={{ page.target_name | url_encode }}&tag=frieve-20" target="_blank" rel="noopener noreferrer" class="search-amazon amazon-search">{{ site.data.strings[page.lang].search_on_amazon }}</a>
+        {% endif %}
+      </section>
+    </aside>
   </section>
-  {% endif %}
 </article>
+
+{% if page.rating and page.rating.size >= 6 %}
+<script>
+  window.reviewDesignData = {
+    layout: 'product',
+    metrics: [
+      { key: 'scientific', label: {{ site.data.strings[page.lang].scientific_validity | jsonify }}, score: {{ page.rating[1] | default: 0 }}, color: '#8db3bf' },
+      { key: 'technical', label: {{ site.data.strings[page.lang].technology_level | jsonify }}, score: {{ page.rating[2] | default: 0 }}, color: '#88c3bb' },
+      { key: 'cost', label: {{ site.data.strings[page.lang].cost_performance | jsonify }}, score: {{ page.rating[3] | default: 0 }}, color: '#92c995' },
+      { key: 'reliability', label: {{ site.data.strings[page.lang].reliability_support | jsonify }}, score: {{ page.rating[4] | default: 0 }}, color: '#bba4ca' },
+      { key: 'design', label: {{ site.data.strings[page.lang].design_rationality | jsonify }}, score: {{ page.rating[5] | default: 0 }}, color: '#a9aeac' }
+    ]
+  };
+</script>
+{% endif %}

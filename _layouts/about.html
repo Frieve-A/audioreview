@@ -1,0 +1,32 @@
+---
+layout: default
+---
+
+<article class="about-page">
+  <section class="about-shell report-shell">
+    <div class="about-article article">
+      {% if page.legacy_tagline or page.legacy_description %}
+      <header class="about-intro-panel">
+        <p class="hero-kicker">Scientific Audio Meta Review</p>
+        {% if page.legacy_tagline %}
+          <h1>{{ page.legacy_tagline }}</h1>
+        {% endif %}
+        {% if page.legacy_description %}
+          <p class="about-intro-copy">{{ page.legacy_description }}</p>
+        {% endif %}
+      </header>
+      {% endif %}
+
+      <div class="about-content content">
+        {{ content }}
+      </div>
+    </div>
+
+    <aside class="about-sidebar aside" aria-label="{% if page.lang == 'ja' %}このサイトについての目次{% else %}About page contents{% endif %}">
+      <section class="aside-card toc-card">
+        <h2>{% if page.lang == 'ja' %}目次{% else %}Contents{% endif %}</h2>
+        <ol class="toc-list" id="about-toc"></ol>
+      </section>
+    </aside>
+  </section>
+</article>

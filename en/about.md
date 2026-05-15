@@ -1,7 +1,10 @@
 ---
-layout: default
+layout: about
 title: About
 lang: en
+permalink: /en/about/
+legacy_tagline: "Beyond Story, Beyond Brand. The Truth in Silence."
+legacy_description: "The ultimate meta-review site for audio gear. We deliver the final word through exhaustive analysis of dozens of sources worldwide. Our philosophy is simple: scientific, logical, and rational. We judge products on measured sound quality and functionality, and nothing else. Subjectivity, personal preference, the product's story or romantic appeal, and design are completely stripped away. What remains is an unvarnished, unbiased review."
 ---
 
 # Site Introduction Video

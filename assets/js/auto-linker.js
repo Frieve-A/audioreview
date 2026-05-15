@@ -271,8 +271,10 @@ class AutoLinker {
     allItems.forEach(item => {
       const targetName = item.title;
       
-      // Skip if same as current page (multiple checks for reliability)
-      if (this.isCurrentPage(item, currentPageInfo)) return;
+      // Product review pages in the design mock highlight the reviewed product
+      // name in the body as a product entity link, so only non-product self
+      // references remain excluded.
+      if (this.isCurrentPage(item, currentPageInfo) && item.type !== 'product') return;
       
       // Check string length
       if (targetName.length < this.minLength || targetName.length > this.maxLength) return;
@@ -589,4 +591,4 @@ class AutoLinker {
 // Initialize after DOMContentLoaded
 document.addEventListener('DOMContentLoaded', () => {
   new AutoLinker();
-}); 
+});

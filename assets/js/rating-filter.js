@@ -23,8 +23,8 @@ class RatingFilterManager {
   }
 
   init() {
-    // Only initialize on products pages
-    if (!window.location.pathname.includes('/products/')) {
+    // Initialize on listing pages
+    if (!window.location.pathname.includes('/products/') && !window.location.pathname.includes('/companies/')) {
       return;
     }
     
@@ -58,8 +58,8 @@ class RatingFilterManager {
 
     filterSection.innerHTML = `
       <div class="rating-filter-toggle" id="rating-filter-toggle">
-        <span>⭐ ${labels.filterTitle}</span>
-        <span class="rating-filter-toggle-icon" id="rating-toggle-icon">▼</span>
+        <span>${labels.filterTitle}</span>
+        <span class="rating-filter-toggle-icon" id="rating-toggle-icon">+</span>
       </div>
       
       <div class="rating-filter-panel" id="rating-filter-panel">
@@ -244,11 +244,11 @@ class RatingFilterManager {
 
     if (this.isExpanded) {
       panel.style.maxHeight = panel.scrollHeight + 'px';
-      icon.textContent = '▲';
+      icon.textContent = '-';
       panel.classList.add('expanded');
     } else {
       panel.style.maxHeight = '0';
-      icon.textContent = '▼';
+      icon.textContent = '+';
       panel.classList.remove('expanded');
     }
   }
@@ -262,7 +262,7 @@ class RatingFilterManager {
     if (!panel || !icon) return;
     
     panel.style.maxHeight = panel.scrollHeight + 'px';
-    icon.textContent = '▲';
+    icon.textContent = '-';
     panel.classList.add('expanded');
   }
 

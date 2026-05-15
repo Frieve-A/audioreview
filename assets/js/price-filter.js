@@ -81,8 +81,8 @@ class PriceFilterManager {
 
     filterSection.innerHTML = `
       <div class="price-filter-toggle" id="price-filter-toggle">
-        <span>💰 ${labels.filterTitle}</span>
-        <span class="price-filter-toggle-icon" id="price-toggle-icon">▼</span>
+        <span>${labels.filterTitle}</span>
+        <span class="price-filter-toggle-icon" id="price-toggle-icon">+</span>
       </div>
       
       <div class="price-filter-panel" id="price-filter-panel">
@@ -255,11 +255,11 @@ class PriceFilterManager {
 
     if (this.isExpanded) {
       panel.style.maxHeight = panel.scrollHeight + 'px';
-      icon.textContent = '▲';
+      icon.textContent = '-';
       panel.classList.add('expanded');
     } else {
       panel.style.maxHeight = '0';
-      icon.textContent = '▼';
+      icon.textContent = '+';
       panel.classList.remove('expanded');
     }
   }
@@ -273,7 +273,7 @@ class PriceFilterManager {
     if (!panel || !icon) return;
     
     panel.style.maxHeight = panel.scrollHeight + 'px';
-    icon.textContent = '▲';
+    icon.textContent = '-';
     panel.classList.add('expanded');
   }
 
