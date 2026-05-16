@@ -1,0 +1,12 @@
+{% assign img_data = site.data.audiospecs_map[page.ref] %}
+{% if img_data and img_data.asin_jp or img_data.asin_us %}
+{% if page.lang == 'ja' %}{% assign img_priority = 'jp' %}{% else %}{% assign img_priority = 'us' %}{% endif %}
+{% capture img_query %}priority={{ img_priority }}{% if img_data.asin_jp %}&asin_jp={{ img_data.asin_jp }}{% endif %}{% if img_data.asin_us %}&asin_us={{ img_data.asin_us }}{% endif %}{% endcapture %}
+<div class="product-image-wrap">
+  <img class="product-image"
+       src="https://audiospecs-amazon-image.frievea.workers.dev/amazon-image?{{ img_query }}"
+       alt="{{ page.target_name | escape }}"
+       loading="lazy"
+       onerror="this.parentNode.style.display='none';">
+</div>
+{% endif %}
