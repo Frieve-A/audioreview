@@ -9,11 +9,11 @@ layout: default
     <p class="hero-copy">{{ site.data.strings[page.lang].seo_description }}</p>
   </div>
 
-  <form class="search-panel">
+  <form class="search-panel" id="home-search-form" action="{{ '/search/' | append: page.lang | append: '/' | relative_url }}" method="get">
     <label for="home-search-input">{{ site.data.strings[page.lang].home_search_label }}</label>
     <div class="search-box home-search-container">
-      <input type="search" id="home-search-input" placeholder="{{ site.data.strings[page.lang].search_placeholder }}" autocomplete="off">
-      <button id="home-search-button" type="button">{{ site.data.strings[page.lang].search }}</button>
+      <input type="search" id="home-search-input" name="q" minlength="2" required placeholder="{{ site.data.strings[page.lang].search_placeholder }}" autocomplete="off">
+      <button id="home-search-button" type="submit">{{ site.data.strings[page.lang].search }}</button>
     </div>
   </form>
 </section>
@@ -202,33 +202,20 @@ layout: default
 
 <script>
 document.addEventListener('DOMContentLoaded', function() {
+  const homeSearchForm = document.getElementById('home-search-form');
   const homeSearchInput = document.getElementById('home-search-input');
-  const homeSearchButton = document.getElementById('home-search-button');
 
   if (homeSearchInput) {
     homeSearchInput.focus();
   }
 
-  function performHomeSearch() {
-    const query = homeSearchInput.value.trim();
-    if (query && query.length >= 2) {
-      const currentLang = getCurrentLanguage();
-      window.location.href = `/search/${currentLang}/?q=${encodeURIComponent(query)}`;
-    }
-  }
-
-  function getCurrentLanguage() {
-    const path = window.location.pathname;
-    if (path.includes('/en/')) return 'en';
-    if (path.includes('/ja/')) return 'ja';
-    return 'ja';
-  }
-
-  if (homeSearchButton && homeSearchInput) {
-    homeSearchButton.addEventListener('click', performHomeSearch);
-    homeSearchInput.addEventListener('keypress', function(event) {
-      if (event.key === 'Enter') {
-        performHomeSearch();
+  if (homeSearchForm && homeSearchInput) {
+    homeSearchForm.addEventListener('submit', function(event) {
+      const query = homeSearchInput.value.trim();
+      if (!query || query.length < 2) {
+        event.preventDefault();
+      } else {
+        homeSearchInput.value = query;
       }
     });
   }

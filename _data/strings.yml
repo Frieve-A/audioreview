@@ -67,6 +67,7 @@ en:
   sort_by: "Sort by:"
   search_on_google: "Search on Google"
   search_on_amazon: "Search on Amazon [PR]"
+  view_on_amazon: "View on Amazon [PR]"
   reference_price: "Reference Price"
   price_tooltip: "This price is calculated based on the general global sales price surveyed at the time of writing. It may differ from the latest price or local price."
   product_categories: "Product Categories"
@@ -81,6 +82,7 @@ en:
   external_search_desc: "Check additional information and availability outside this site."
   google_search_desc: "Search reviews, measurements, and references on Google."
   amazon_search_desc: "Check current availability and seller information."
+  amazon_view_desc: "Open the product page directly on Amazon."
 
 ja:
   site_title: "Frieve - Audio Review"
@@ -151,6 +153,7 @@ ja:
   sort_by: "並び替え:"
   search_on_google: "Googleで検索"
   search_on_amazon: "Amazonで検索 [PR]"
+  view_on_amazon: "Amazonで見る [PR]"
   reference_price: "参考価格"
   price_tooltip: "この価格は記事作成時点で調査した一般的な販売価格に基づく参考値です。最新価格や地域ごとの価格とは異なる場合があります。"
   product_categories: "製品カテゴリ"
@@ -165,3 +168,4 @@ ja:
   external_search_desc: "このサイト外の追加情報や販売状況を確認できます。"
   google_search_desc: "レビュー、測定、参考情報をGoogleで検索します。"
   amazon_search_desc: "現在の販売状況や販売者情報を確認します。"
+  amazon_view_desc: "Amazonの商品ページを直接開きます。"

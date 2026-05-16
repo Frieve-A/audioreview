@@ -3,6 +3,12 @@ layout: default
 ---
 {% assign current_company_id = page.company_id %}
 {% assign parent_company = site.companies | where: 'company_id', current_company_id | where: 'lang', page.lang | first %}
+{% assign amazon_map = site.data.audiospecs_map[page.ref] %}
+{% if page.lang == 'ja' and amazon_map.asin_jp %}
+  {% assign amazon_direct_url = 'https://www.amazon.co.jp/dp/' | append: amazon_map.asin_jp | append: '?tag=frieve02-22' %}
+{% elsif page.lang != 'ja' and amazon_map.asin_us %}
+  {% assign amazon_direct_url = 'https://www.amazon.com/dp/' | append: amazon_map.asin_us | append: '?tag=frieve-20' %}
+{% endif %}
 
 <article class="product-review review-page">
   <section class="review-shell report-shell">
@@ -15,6 +21,8 @@ layout: default
         </div>
 
         <h1 id="report-title">{{ page.target_name }}</h1>
+
+        {% include product_image.html %}
 
         <div class="title-meta-row">
           {% if page.tags %}
@@ -132,7 +140,12 @@ layout: default
             <strong>{{ site.data.strings[page.lang].search_on_google }}</strong>
             <span>{{ site.data.strings[page.lang].google_search_desc }}</span>
           </a>
-          {% if page.lang == 'ja' %}
+          {% if amazon_direct_url %}
+            <a href="{{ amazon_direct_url }}" target="_blank" rel="noopener noreferrer" class="exit-link amazon amazon-search search-button">
+              <strong>{{ site.data.strings[page.lang].view_on_amazon }}</strong>
+              <span>{{ site.data.strings[page.lang].amazon_view_desc }}</span>
+            </a>
+          {% elsif page.lang == 'ja' %}
             <a href="https://www.amazon.co.jp/s?k={{ page.target_name | url_encode }}&tag=frieve02-22" target="_blank" rel="noopener noreferrer" class="exit-link amazon amazon-search search-button">
               <strong>{{ site.data.strings[page.lang].search_on_amazon }}</strong>
               <span>{{ site.data.strings[page.lang].amazon_search_desc }}</span>
@@ -235,7 +248,9 @@ layout: default
 
       <section class="aside-card actions sidebar-search-card">
         <a href="https://www.google.com/search?q={{ page.target_name | url_encode }}" target="_blank" rel="noopener noreferrer" class="search-google google-search">{{ site.data.strings[page.lang].search_on_google }}</a>
-        {% if page.lang == 'ja' %}
+        {% if amazon_direct_url %}
+          <a href="{{ amazon_direct_url }}" target="_blank" rel="noopener noreferrer" class="search-amazon amazon-search">{{ site.data.strings[page.lang].view_on_amazon }}</a>
+        {% elsif page.lang == 'ja' %}
           <a href="https://www.amazon.co.jp/s?k={{ page.target_name | url_encode }}&tag=frieve02-22" target="_blank" rel="noopener noreferrer" class="search-amazon amazon-search">{{ site.data.strings[page.lang].search_on_amazon }}</a>
         {% else %}
           <a href="https://www.amazon.com/s?k={{ page.target_name | url_encode }}&tag=frieve-20" target="_blank" rel="noopener noreferrer" class="search-amazon amazon-search">{{ site.data.strings[page.lang].search_on_amazon }}</a>

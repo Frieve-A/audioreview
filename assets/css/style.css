@@ -3768,6 +3768,24 @@ a {
   gap: 16px;
 }
 
+.product-image-wrap {
+  margin: 12px 0 16px;
+  display: flex;
+  justify-content: flex-start;
+}
+
+.product-image {
+  max-width: 240px;
+  max-height: 240px;
+  width: auto;
+  height: auto;
+  object-fit: contain;
+  background: #fff;
+  border: 1px solid var(--lab-line);
+  border-radius: var(--lab-radius);
+  padding: 8px;
+}
+
 .title-meta-row {
   display: grid;
   grid-template-columns: minmax(0, 1fr) auto;
