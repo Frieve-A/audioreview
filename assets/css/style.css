@@ -7217,3 +7217,13 @@ a {
     justify-content: flex-start;
   }
 }
+
+/* Keep responsive AdSense units measurable inside the review-page ad panel. */
+.adsense-panel.ad-slot {
+  display: block;
+}
+
+.adsense-panel.ad-slot .adsbygoogle {
+  width: 100%;
+  min-height: 90px;
+}
