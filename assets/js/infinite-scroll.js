@@ -27,7 +27,8 @@ class InfiniteScrollManager {
       priceFilter: {
         min: 0,
         max: this.currentLanguage === 'en' ? 1000000 : 100000000
-      }
+      },
+      specFilter: false
     };
 
     this.init();
@@ -108,6 +109,11 @@ class InfiniteScrollManager {
       this.state.priceFilter = window.priceFilter.getFilterState();
     }
 
+    if (window.specFilter) {
+      window.specFilter.loadStateFromURL();
+      this.state.specFilter = window.specFilter.getFilterState();
+    }
+
     this.applyFilters();
   }
 
@@ -128,6 +134,11 @@ class InfiniteScrollManager {
     if (window.priceFilter) {
       window.priceFilter.buildPriceFilter();
       window.priceFilter.bindEvents();
+    }
+
+    if (window.specFilter) {
+      window.specFilter.buildSpecFilter();
+      window.specFilter.bindEvents();
     }
   }
 
@@ -409,6 +420,10 @@ class InfiniteScrollManager {
     });
 
     if (this.isProductsPage()) {
+      if (this.state.specFilter) {
+        this.filteredData = this.filteredData.filter((item) => item.has_audiospecs === true);
+      }
+
       this.filteredData = this.filteredData.filter((item) => {
         if (item.price === null || item.price === undefined) return true;
         const price = Number(item.price);
@@ -475,6 +490,12 @@ class InfiniteScrollManager {
     this.applyFilters();
   }
 
+  handleSpecFilterChange() {
+    if (!window.specFilter) return;
+    this.state.specFilter = window.specFilter.getFilterState();
+    this.applyFilters();
+  }
+
   handleSortChange(sortType) {
     this.sortData(sortType);
     this.displayedCount = 90;
@@ -509,7 +530,8 @@ class InfiniteScrollManager {
     const hasFilters = Boolean(
       (window.tagFilter && window.tagFilter.selectedTags.length > 0) ||
       (window.ratingFilter && window.ratingFilter.hasActiveFilters()) ||
-      (window.priceFilter && window.priceFilter.hasActiveFilters())
+      (window.priceFilter && window.priceFilter.hasActiveFilters()) ||
+      (window.specFilter && window.specFilter.hasActiveFilters())
     );
 
     if (this.currentLanguage === 'ja') {

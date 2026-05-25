@@ -27,6 +27,8 @@ layout: null
       "rating": {% if product.rating and product.rating.size > 0 %}[{{ product.rating | join: ',' }}]{% else %}[0,0,0,0,0,0]{% endif %},
       "tags": [{% for tag in product.tags %}"{{ tag | escape }}"{% unless forloop.last %},{% endunless %}{% endfor %}],
       "company_id": "{{ product.company_id }}",
+      {% assign audiospecs_data = site.data.audiospecs_map[product.ref] %}
+      "has_audiospecs": {% if audiospecs_data %}true{% else %}false{% endif %},
       "price": {% if product.price %}{{ product.price }}{% else %}null{% endif %},
       "type": "Product"
     }{% unless forloop.last %},{% endunless %}

@@ -39,6 +39,7 @@ permalink: /products/ja/
   <div class="tag-filter-section" id="tag-filter-section"></div>
   <div class="rating-filter-section" id="rating-filter-section"></div>
   <div class="price-filter-section" id="price-filter-section"></div>
+  <div class="spec-filter-section" id="spec-filter-section"></div>
 
   <div class="catalog-grid products-grid" id="products-grid"></div>
 

@@ -27,6 +27,7 @@ a,
 .tag-filter-toggle,
 .rating-filter-toggle,
 .price-filter-toggle,
+.spec-filter-section,
 .search-icon,
 .tag-filter-button,
 .company-card,
@@ -68,6 +69,7 @@ a,
 .tag-filter-toggle,
 .rating-filter-toggle,
 .price-filter-toggle,
+.spec-filter-section,
 .search-icon,
 .tag-filter-button,
 .company-card,
@@ -1527,6 +1529,10 @@ a:hover {
   margin-bottom: 30px;
 }
 
+.spec-filter-section {
+  margin-bottom: 30px;
+}
+
 /* Rating Filter Styles */
 .rating-filter-section {
   margin-bottom: 30px;
@@ -1670,6 +1676,37 @@ a:hover {
   color: #495057;
   border-bottom: 1px solid #dee2e6;
   padding-bottom: 6px;
+}
+
+.spec-filter-content {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 14px;
+}
+
+.spec-filter-title {
+  font-size: 16px;
+  font-weight: 500;
+  color: #495057;
+}
+
+.spec-filter-checkbox {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  color: #495057;
+  font-size: 13px;
+  font-weight: 500;
+  cursor: pointer;
+}
+
+.spec-filter-checkbox input {
+  width: 16px;
+  height: 16px;
+  margin: 0;
+  cursor: pointer;
 }
 
 /* Dual Range Slider Styles */
@@ -4351,7 +4388,8 @@ body {
 .sort-controls,
 .tag-filter-section,
 .rating-filter-section,
-.price-filter-section {
+.price-filter-section,
+.spec-filter-section {
   border: 1px solid var(--lab-line);
   border-radius: var(--lab-radius);
   background: rgba(255, 255, 255, 0.82);
@@ -4383,7 +4421,8 @@ body {
 
 .tag-filter-section,
 .rating-filter-section,
-.price-filter-section {
+.price-filter-section,
+.spec-filter-section {
   padding: 14px;
 }
 
@@ -5472,7 +5511,8 @@ a:hover {
 .sort-controls,
 .tag-filter-section,
 .rating-filter-section,
-.price-filter-section {
+.price-filter-section,
+.spec-filter-section {
   margin: 0;
   padding: 18px;
   border: 1px solid var(--lab-line);
@@ -5491,7 +5531,9 @@ a:hover {
 .sort-controls label,
 .tag-filter-toggle,
 .rating-filter-toggle,
-.price-filter-toggle {
+.price-filter-toggle,
+.spec-filter-title,
+.spec-filter-checkbox {
   color: var(--lab-muted);
   font-size: 13px;
   font-weight: 760;
@@ -7226,4 +7268,20 @@ a {
 .adsense-panel.ad-slot .adsbygoogle {
   width: 100%;
   min-height: 90px;
+}
+
+/* Keep product/company info labels readable when values contain long strings. */
+.product-info-card .compact-meta {
+  grid-template-columns: max-content minmax(0, 1fr);
+}
+
+.product-info-card .compact-meta dt {
+  white-space: nowrap;
+  word-break: keep-all;
+  overflow-wrap: normal;
+}
+
+.product-info-card .compact-meta dd {
+  min-width: 0;
+  overflow-wrap: anywhere;
 }

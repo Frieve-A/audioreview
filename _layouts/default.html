@@ -171,6 +171,10 @@
       clearFilters: '{% if page.lang %}{{ site.data.strings[page.lang].clear_filters }}{% else %}{{ site.data.strings.ja.clear_filters }}{% endif %}',
       priceRange: '{% if page.lang %}{{ site.data.strings[page.lang].price_range }}{% else %}{{ site.data.strings.ja.price_range }}{% endif %}'
     };
+    window.specFilterStrings = {
+      filterTitle: '{% if page.lang %}{{ site.data.strings[page.lang].filter_by_specs }}{% else %}{{ site.data.strings.ja.filter_by_specs }}{% endif %}',
+      audiospecsAvailable: '{% if page.lang %}{{ site.data.strings[page.lang].audiospecs_available }}{% else %}{{ site.data.strings.ja.audiospecs_available }}{% endif %}'
+    };
   </script>
   <!-- Load common tag information first -->
   <script src="{{ '/assets/js/tags.js' | relative_url }}"></script>
@@ -181,6 +185,7 @@
   <script src="{{ '/assets/js/tag-filter.js' | relative_url }}"></script>
   <script src="{{ '/assets/js/rating-filter.js' | relative_url }}"></script>
   <script src="{{ '/assets/js/price-filter.js' | relative_url }}"></script>
+  <script src="{{ '/assets/js/spec-filter.js' | relative_url }}"></script>
   <script src="{{ '/assets/js/infinite-scroll.js' | relative_url }}"></script>
   <script src="{{ '/assets/js/auto-linker.js' | relative_url }}"></script>
   <script src="{{ '/assets/js/price-formatter.js' | relative_url }}"></script>

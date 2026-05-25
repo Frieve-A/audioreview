@@ -1,78 +1,73 @@
 ---
 layout: product
-title: "intime KOTTERI ALTERNATIVE Product Review"
-target_name: "intime KOTTERI ALTERNATIVE"
+title: "intime 脂 (KOTTERI) ALTERNATIVE -コッテリ オルタナ- Product Review"
+target_name: "intime 脂 (KOTTERI) ALTERNATIVE -コッテリ オルタナ-"
 company_id: intime
 lang: en
 ref: intime-kotteri-alternative
-date: 2026-05-19
-rating: [2.1, 0.5, 0.6, 0.2, 0.3, 0.5]
-price: 76.46
-summary: "A bass-specialized wired IEM combining a diamond-coated dynamic driver and proprietary passive ceramic tweeter. No independent measurement data exists to assess fidelity. At 76.46 USD, cost-performance is low against 18.99 USD equivalents with confirmed measurement data."
-tags: [Bass, Earphones, Hybrid, In-ear monitors, Wired]
+date: 2026-05-25
+rating: [2.2, 0.5, 0.4, 0.3, 0.5, 0.5]
+price: 75.38
+summary: "Bass-focused wired IEM with a fixed cable and limited objective verification."
+tags: [Bass, Earphones, In-ear Monitors, Passive, Wired]
 permalink: /products/en/intime-kotteri-alternative/
 ---
 ## Overview
 
-The intime KOTTERI ALTERNATIVE is a wired canal-type IEM released in December 2025, developed as a collaboration between intime (O2aid Co., Ltd., Takasaki, Japan) and Japanese retailer e☆イヤホン. Priced at 76.46 USD, it is the third product in the KOTTERI bass-impact series. It uses the same hybrid driver pair as the higher-priced KOTTERI MarkII — a φ10mm diamond-coated dynamic driver and intime's proprietary passive ceramic tweeter — at a reduced price achieved by replacing the detachable cable with a non-detachable coaxial design. The product is explicitly tuned for heavy bass emphasis and is not positioned as a neutral or reference-grade earphone.
+intime 脂 (KOTTERI) ALTERNATIVE -コッテリ オルタナ- is a wired canal-type earphone sold through e-earphone [1][2]. It is positioned as the third KOTTERI model, and this review uses a 75.38 USD price basis while keeping the focus on a simple fixed-cable earphone rather than feature-heavy operation [1][2].
 
 ## Scientific Validity
 
 $$ \Large \text{0.5} $$
 
-Manufacturer specifications indicate a frequency response range of 15Hz–40kHz with no ±dB tolerance stated [1]; no independent third-party measurements exist. Scientific Validity cannot be assessed due to insufficient data.
+Manufacturer specifications list a frequency response of 15 Hz-40 kHz [1]. No independent third-party measurements are available in the cited sources, so objective performance cannot be verified beyond the catalog claim [1].
 
 ## Technology Level
 
-$$ \Large \text{0.6} $$
+$$ \Large \text{0.4} $$
 
-O2aid's most significant technical asset is its genuine, patented expertise in passive piezoelectric ceramic tweeter technology — a discipline the founder developed across 35+ years at Hitachi Metals and Taiyo Yuden before the company's founding [3]. O2aid holds patents on its multi-layer ceramic element structure with engineered vertical support elements that control resonant behavior. This technology is genuinely proprietary and has not been replicated by competitors in nearly a decade of commercial availability. The product is fully in-house designed and manufactured by O2aid, reflecting authentic engineering ownership rather than commodity OEM assembly.
-
-These strengths are moderated by several limiting factors. The diamond-coated dynamic driver diaphragm is now widely used across mid-range IEMs from numerous manufacturers and provides no competitive differentiation [2]. Acoustic resonance via housing material selection is an established tuning practice. The ALTERNATIVE introduces no new driver or acoustic technology compared to the 2024 MarkII — it is a cost-optimized repackaging of an existing driver configuration. The entire design is analog-passive with no digital signal processing, software integration, or connectivity technology of any kind.
+The product uses a mature passive IEM layout with a fixed cable and no digital or wireless functions [1][2]. That shows deliberate product-specific design work, but the published materials do not document a newer platform or durable technical moat, so the score stays below average [1][2].
 
 ## Cost-Performance
 
-$$ \Large \text{0.2} $$
+$$ \Large \text{0.3} $$
 
 This site evaluates based solely on functionality and measured performance values, without considering driver types or configurations.
 
-The review target, intime KOTTERI ALTERNATIVE, is priced at 76.46 USD [1]. The identified cheapest equivalent-or-better product is the Truthear HOLA at 18.99 USD [4].
+| Item | Review target | TRUTHEAR HOLA | Result |
+|:---|:---|:---|:---|
+| Use case | Wired passive IEM with fixed 3.5 mm cable [1] | Wired passive IEM with detachable 0.78 mm 2-pin cable [3] | Equivalent-or-better |
+| Frequency response | 15 Hz-40 kHz (manufacturer spec) [1] | 8 Hz-46 kHz (manufacturer spec) [3] | Better |
+| THD | Not documented [1] | THD <=0.1% @1kHz (94 dB) [3] | Better |
+| Independent measurement support | None in the cited sources [1] | Independent graph coverage exists [4] | Better |
+| Price | 75.38 USD [1] | 18.99 USD [3] | Better |
 
-The Truthear HOLA provides wired 3.5mm connectivity, canal-type in-ear design, no ANC, and no DSP — matching the review target's essential user-facing functions — and additionally offers a detachable cable, which is an improvement over the review target's non-detachable design. Performance comparison (provisional — the review target has no third-party measurement data):
-
-- Frequency Response deviation from Harman target: Crinacle FR measurement confirms near-Harman neutral-warm alignment for the Truthear HOLA [5], whereas the review target's manufacturer documentation explicitly describes it as delivering "quite biased sound, not refined sound" with intentionally heavy bass emphasis and no ±dB deviation data — the HOLA is objectively better by Harman FR deviation criteria.
-- THD: Truthear HOLA manufacturer specification ≤0.1% @ 1kHz, 94dB [4] vs unknown for the review target (no manufacturer specification, no third-party measurement).
-
-CP = 18.99 USD ÷ 76.46 USD = 0.2483
+The comparison target is TRUTHEAR HOLA because it matches the same wired passive IEM use case and publishes stronger objective data on both frequency response and distortion [3][4]. A = 75.38 USD, B = 18.99 USD, so CP = B / A = 18.99 USD / 75.38 USD = 0.2519. Rounded to one decimal, the CP score is 0.3. This site evaluates based solely on functionality and measured performance values, without considering driver types or configurations.
 
 ## Reliability & Support
 
-$$ \Large \text{0.3} $$
+$$ \Large \text{0.5} $$
 
-The product carries a 1-year warranty [1]. The non-detachable cable design is an inherent structural risk: cable stress degradation and connector failure are among the most common IEM failure modes, and since user replacement is not possible, any cable fault requires sending the unit to the manufacturer for repair. O2aid provides direct manufacturer-level support via email inquiry rather than relying solely on dealer channels [3]. However, support is Japan-only with no documented global infrastructure, and post-warranty parts supply and repair duration are not officially specified. No documented failure issues specific to this model have been identified, but no statistical failure rate data is available.
+Warranty duration is not published in the accessible sources, and no model-specific failure statistics or repair-turnaround data are available [1][2]. The fixed cable reduces user-replaceable parts, but it also makes cable wear a practical long-term limitation that depends on manufacturer repair handling [1][2].
 
 ## Rationality of Design Philosophy
 
 $$ \Large \text{0.5} $$
 
-The KOTTERI ALTERNATIVE is explicitly designed for subjective bass impact over measurement-based performance improvement. The creator's documentation describes the product as "quite biased sound, not refined sound," targeting emotional visceral impact for 90s alternative rock listeners — a philosophy grounded in subjective preference and nostalgia rather than fidelity optimization [2]. The softer duralumin front housing is deliberately selected to promote internal acoustic resonance as a coloring mechanism, not as a technique oriented toward fidelity improvement. At the December 2025 release date, DSP-based parametric EQ was a widely available and lower-cost alternative approach to achieving bass emphasis on neutral-tuned IEMs.
-
-Partially offsetting these negatives is concrete cost rationality: the same hybrid driver configuration as the higher-priced MarkII is delivered at 76.46 USD through the straightforward elimination of the detachable cable — a genuine cost reduction that improves accessibility without compromising the core acoustic components.
+The design keeps the product focused on one audible goal: a bass-emphasis wired earphone with a simple fixed cable and no extra electronics [1][2]. That makes the concept internally coherent, but the published materials do not show an objective performance path that clearly justifies the tuning emphasis over cheaper measured alternatives, so the philosophy remains average [1][2][3][4].
 
 ## Advice
 
-The intime KOTTERI ALTERNATIVE is a niche product for listeners who specifically prioritize physical bass impact over accurate frequency reproduction. Its core acoustic components — the patented passive ceramic tweeter and diamond-coated dynamic driver — reflect genuine technical investment, but no independent performance data exists to evaluate fidelity, distortion, or signal quality. At 76.46 USD, the Truthear HOLA at 18.99 USD provides Crinacle-measured near-Harman frequency response alignment, a disclosed THD specification of ≤0.1%, and a detachable cable for long-term cable replacement. For listeners whose primary goal is measured performance and sustained value, alternatives with established third-party measurement data represent substantially better choices. This product is appropriate only for listeners who specifically seek the KOTTERI's intentionally bass-heavy character and accept the limited measurement transparency and non-replaceable cable as deliberate design trade-offs.
+Choose this model only if you specifically want the KOTTERI tuning and accept the fixed cable plus the lack of third-party verification [1][2]. If your priority is measured performance per USD, TRUTHEAR HOLA is the clearer pick because it costs 18.99 USD and publishes an 8 Hz-46 kHz response together with THD <=0.1% @1kHz (94 dB) [3][4].
 
 ## References
 
-[1] e☆イヤホン - intime 脂(KOTTERI) ALTERNATIVE product page - https://www.e-earphone.jp/products/665852 - Accessed 2026-05-17
+[1] e-earphone - intime 脂 (KOTTERI) ALTERNATIVE -コッテリ オルタナ- product page - https://www.e-earphone.jp/products/665852 - accessed 2026-05-24 - Official product page with product name, catalog frequency response 15 Hz-40 kHz, and fixed 3.5 mm cable.
 
-[2] e☆イヤホン - intime 脂(KOTTERI) ALTERNATIVE feature article - https://www.e-earphone.jp/blogs/feature/kotteri-alternative-1 - Accessed 2026-05-17
+[2] e-earphone feature article - ライブの迫力は音の解像度だけで再現できるのか？低音特化型イヤホン「intime 脂 (KOTTERI) ALTERNATIVE」 - https://www.e-earphone.jp/blogs/feature/kotteri-alternative-1 - published 2026-02-12, accessed 2026-05-24 - Product concept, bass-focus positioning, and fixed-cable cost-reduction explanation.
 
-[3] O2aid Co., Ltd. - About page - https://o2aid.com/en/about/ - Accessed 2026-05-17
+[3] TRUTHEAR - HOLA official product page - https://truthear.com/products/hola - accessed 2026-05-24 - Official product page with price 18.99 USD, frequency response 8 Hz-46 kHz, effective 20 Hz-20 kHz (-3 dB), THD <=0.1% @1kHz (94 dB), and 0.78 mm 2-pin detachable cable.
 
-[4] Truthear - HOLA official product page - https://truthear.com/products/hola - Accessed 2026-05-17; manufacturer THD specification ≤0.1% @ 1kHz (94dB); US retail price 18.99 USD
+[4] Crinacle / In-Ear Fidelity - Truthear HOLA graph database entry - https://crinacle.com/graphs/iems/truthear-hola/ - accessed 2026-05-24 - Independent measurement coverage for the comparator model.
 
-[5] Crinacle / In-Ear Fidelity - Truthear HOLA frequency response graph - https://crinacle.com/graphs/iems/truthear-hola/ - Accessed 2026-05-17; third-party FR measurement confirming near-Harman neutral-warm alignment
-
-(2026.5.19)
+(2026.5.25)
