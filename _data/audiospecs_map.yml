@@ -176,6 +176,10 @@ adpower-sonic:
   product: "Sonic"
   asin_jp: "B0B2W84YZG"
 
+aful-cantor:
+  brand: "AFUL"
+  product: "Cantor"
+
 aful-dawn-x:
   brand: "AFUL"
   product: "DAWN-X"
@@ -342,6 +346,12 @@ akg-p104:
   brand: "HARMAN"
   product: "P104"
 
+akg-p120:
+  brand: "AKG"
+  product: "P120"
+  asin_jp: "B00160PRBU"
+  asin_us: "B00M9CUOKI"
+
 akg-q701:
   brand: "AKG"
   product: "Q701"
@@ -499,6 +509,11 @@ astell-kern-a-ultima-sp3000-copper:
   asin_jp: "B0BH94NMXX"
   asin_us: "B0BHHZMSS5"
 
+astell-kern-ak-hc5:
+  brand: "Astell&Kern"
+  product: "AK HC5"
+  asin_jp: "B0GH1Y7BDW"
+
 astell-kern-kann-ultra:
   brand: "Astell&Kern"
   product: "KANN Ultra"
@@ -639,6 +654,12 @@ audio-technica-at2035:
   asin_jp: "B002T45X1G"
   asin_us: "B002T45X1G"
 
+audio-technica-at33ev:
+  brand: "Audio-Technica"
+  product: "AT33EV"
+  asin_jp: "B001J2KGDY"
+  asin_us: "B001J2KGDY"
+
 audio-technica-at5045:
   brand: "Audio-Technica"
   product: "AT5045"
@@ -668,6 +689,12 @@ audio-technica-ath-adx7000:
   asin_jp: "B0FWBZQJ38"
   asin_us: "B0FWBZQJ38"
 
+audio-technica-ath-ava500:
+  brand: "Audio-Technica"
+  product: "ATH-AVA500"
+  asin_jp: "B00YWT3SLS"
+  asin_us: "B00YWT3SLS"
+
 audio-technica-ath-avc500:
   brand: "Audio-Technica"
   product: "ATH-AVC500"
@@ -678,6 +705,12 @@ audio-technica-ath-ck1tw:
   brand: "Audio-Technica"
   product: "ATH-CK1TW"
   asin_jp: "B09J4QF7F1"
+
+audio-technica-ath-ck2000ti:
+  brand: "Audio-Technica"
+  product: "ATH-CK2000Ti"
+  asin_jp: "B07N3WT8LK"
+  asin_us: "B07N3WT8LK"
 
 audio-technica-ath-cks330nc:
   brand: "Audio-Technica"
@@ -843,6 +876,10 @@ aurex-ty-anx3:
 aurorasound-hfsa-01:
   brand: "Aurorasound"
   product: "HFSA-01"
+
+austrian-audio-full-score-one:
+  brand: "Austrian Audio"
+  product: "Full Score One"
 
 austrian-audio-hi-x15:
   brand: "Austrian Audio"
@@ -1072,6 +1109,12 @@ blon-v1:
   product: "V1"
   asin_jp: "B0D8W6JVTS"
 
+blon-x-hbb-z300:
+  brand: "BLON"
+  product: "Z300"
+  asin_jp: "B0C2Y35PWK"
+  asin_us: "B0C2XY3SH9"
+
 bluesound-node-x:
   brand: "Bluesound"
   product: "Node X"
@@ -1275,6 +1318,10 @@ cayin-ru7:
   asin_jp: "B0C7H8JRGC"
   asin_us: "B0C7PNV6KF"
 
+cayin-soul-170ha:
+  brand: "Cayin"
+  product: "Soul 170HA"
+
 cca-c12:
   brand: "CCA"
   product: "C12"
@@ -1370,6 +1417,12 @@ creative-stage-se:
   product: "Stage SE"
   asin_jp: "B0BYGYRG3X"
   asin_us: "B0BV272MC5"
+
+creative-t100:
+  brand: "Creative"
+  product: "T100"
+  asin_jp: "B07QFJ5V6D"
+  asin_us: "B07W46668C"
 
 crinear-daybreak:
   brand: "CrinEar"
@@ -1747,6 +1800,12 @@ dunu-davinci:
   asin_jp: "B0DFCCB2K3"
   asin_us: "B0D46F8S98"
 
+dunu-dn-142:
+  brand: "DUNU"
+  product: "DN-142"
+  asin_jp: "B0G3GHDVP8"
+  asin_us: "B0G3GHDVP8"
+
 dunu-dn-242:
   brand: "DUNU"
   product: "DN-242"
@@ -1832,6 +1891,11 @@ earfun-wave-pro:
 eclipse-td508mk4:
   brand: "Eclipse"
   product: "TD508MK4"
+
+eclipse-td510zmk2:
+  brand: "Eclipse TD"
+  product: "TD510ZMK2"
+  asin_jp: "B00778CG7S"
 
 edifier-d32:
   brand: "Edifier"
@@ -2324,11 +2388,26 @@ final-a6000:
   product: "A6000"
   asin_us: "B0FBR8D4YK"
 
+final-d8000:
+  brand: "final"
+  product: "D8000"
+  asin_jp: "B076M3B85S"
+  asin_us: "B076M3B85S"
+
 final-e5000:
   brand: "final"
   product: "E5000"
   asin_jp: "B07CNNCZSC"
   asin_us: "B07CNNCZSC"
+
+final-grid01:
+  brand: "REB"
+  product: "GRID01"
+  asin_jp: "B0CNGBGYVS"
+
+final-s6000:
+  brand: "final"
+  product: "S6000"
 
 final-vr3000-for-gaming:
   brand: "final"
@@ -2340,6 +2419,12 @@ final-vr3000-wireless:
   brand: "final"
   product: "VR3000 Wireless for Gaming"
   asin_jp: "B0DP33Q33B"
+
+final-ze500-for-asmr:
+  brand: "final"
+  product: "ZE500 for ASMR"
+  asin_jp: "B0F2GJSVCD"
+  asin_us: "B0GQTLCFBW"
 
 fitear-mh334:
   brand: "FitEar"
@@ -2622,6 +2707,14 @@ genelec-7370a:
   brand: "Genelec"
   product: "7370A SAM Studio Subwoofer"
 
+genelec-7380a:
+  brand: "Genelec"
+  product: "7380A SAM Studio Subwoofer"
+
+genelec-7382a:
+  brand: "Genelec"
+  product: "7382A SAM Studio Subwoofer"
+
 genelec-8010a:
   brand: "Genelec"
   product: "8010A Studio Monitor"
@@ -2661,6 +2754,10 @@ genelec-8361a:
   brand: "Genelec"
   product: "8361A SAM Studio Monitor"
 
+genelec-9320a:
+  brand: "Genelec"
+  product: "9320A SAM Reference Controller"
+
 genelec-g-one:
   brand: "Genelec"
   product: "G One"
@@ -2679,6 +2776,14 @@ genelec-g-two:
   asin_jp: "B07CG2WNQ9"
   asin_us: "B01FY94192"
 
+german-physiks-pqs-402:
+  brand: "German Physiks"
+  product: "PQS-402"
+
+gk-kunten:
+  brand: "GK AudioLab"
+  product: "KUNTEN"
+
 google-pixel-buds-pro-2:
   brand: "Google Pixel Buds"
   product: "Pixel Buds Pro 2"
@@ -2688,6 +2793,16 @@ google-pixel-buds-pro-2:
 grace-design-m701:
   brand: "Grace Design"
   product: "m701"
+
+grace-design-m900:
+  brand: "Grace Design"
+  product: "m900"
+  asin_jp: "B07288S3QS"
+  asin_us: "B07288S3QS"
+
+grado-signature-s750:
+  brand: "Grado"
+  product: "Signature S750"
 
 grado-sr-225x:
   brand: "Grado"
@@ -2748,6 +2863,11 @@ harman-kardon-onyx-studio-8:
   asin_jp: "B0BRYPNY9H"
   asin_us: "B0BRYQ641F"
 
+harmonic-empire-long-zhong-dui:
+  brand: "Harmonic Empire"
+  product: "Long Zhong Dui (隆中对)"
+  asin_us: "B0G2S19K3S"
+
 hedd-audio-type-07-mk2:
   brand: "HEDD"
   product: "Type 07 MK2"
@@ -2790,6 +2910,10 @@ hiby-r6-pro-ii-2025:
   brand: "HiBy"
   product: "R6 Pro II 2025"
   asin_us: "B0FLJTZGGS"
+
+hid-labs-detect:
+  brand: "HID-Labs"
+  product: "DETECT"
 
 hidizs-ap80-pro-max:
   brand: "Hidizs"
@@ -2877,6 +3001,12 @@ hifiman-he-560:
   product: "HE560"
   asin_jp: "B00K6JEYD4"
   asin_us: "B00K6JEYD4"
+
+hifiman-he1000se:
+  brand: "HIFIMAN"
+  product: "HE1000se"
+  asin_jp: "B081B3YYCZ"
+  asin_us: "B07H7GSDYV"
 
 hifiman-he400se:
   brand: "HIFIMAN"
@@ -3134,6 +3264,10 @@ ik-multimedia-iloud-precision-mtm:
   brand: "iLoud"
   product: "iLoud Precision MTM"
 
+intime-kotteri-alternative:
+  brand: "intime"
+  product: "脂 (KOTTERI) ALTERNATIVE"
+
 io-data-soundgenicplus:
   brand: "I-O DATA"
   product: "Soundgenic Plus"
@@ -3315,6 +3449,11 @@ jcally-jm6-pro:
   asin_jp: "B0CWRFD81C"
   asin_us: "B0CWRFD81C"
 
+jd10-type-c:
+  brand: "FiiO"
+  product: "JD10 Type-C"
+  asin_jp: "B09TZH3MNL"
+
 jds-labs-element-iv:
   brand: "JDS Labs"
   product: "Element IV"
@@ -3324,6 +3463,10 @@ jlab-epic-lux-lab-edition:
   product: "Epic Lux Lab Edition"
   asin_jp: "B0DRDNJNTD"
   asin_us: "B0DRDNJNTD"
+
+jr-sound-hpa-101:
+  brand: "JR Sound"
+  product: "COLIS HPA-101"
 
 jvc-sp-ws04bt:
   brand: "Victor"
@@ -3387,6 +3530,12 @@ kanto-audio-sub8:
   asin_jp: "B09GT92B84"
   asin_us: "B09GT92B84"
 
+kbear-pt01-phoenix:
+  brand: "KBEAR"
+  product: "Phoenix"
+  asin_jp: "B0FF9SZX1Z"
+  asin_us: "B0FDWW1XFM"
+
 kbear-tc12pro:
   brand: "KBEAR"
   product: "TC12 Pro"
@@ -3401,6 +3550,10 @@ kef-coda-w:
   product: "Coda W"
   asin_jp: "B0FXGFHK2H"
   asin_us: "B0FXM9RDF4"
+
+kef-coda7:
+  brand: "KEF"
+  product: "Coda 7"
 
 kef-kc62:
   brand: "KEF"
@@ -3590,6 +3743,12 @@ kinera-celest-ignitex-beast:
   asin_jp: "B0DHRCRL7M"
   asin_us: "B0DHNBGWMS"
 
+kinera-celest-rue:
+  brand: "Celest"
+  product: "Rue"
+  asin_jp: "B0DMS7V36Y"
+  asin_us: "B0DMRL41QL"
+
 kiwi-ears-ardor:
   brand: "Kiwi Ears"
   product: "Ardor"
@@ -3729,6 +3888,10 @@ ks-digital-a200mk2:
   brand: "KS Digital"
   product: "A200 MK2"
 
+ks-digital-c100-reference:
+  brand: "KS Digital"
+  product: "C100 Reference"
+
 ks-digital-c5-coax:
   brand: "KS Digital"
   product: "C5 Coax"
@@ -3811,6 +3974,12 @@ kz-prx:
   product: "PRX"
   asin_jp: "B0DKWFMGJ5"
   asin_us: "B0DMNW7WMJ"
+
+kz-saga:
+  brand: "KZ"
+  product: "Saga"
+  asin_jp: "B0DK1V52D7"
+  asin_us: "B0DHFZZDCL"
 
 kz-sonata:
   brand: "KZ"
@@ -4064,6 +4233,12 @@ marantz-m-cr612:
   product: "M-CR612"
   asin_jp: "B07NJ4XBZZ"
   asin_us: "B07R6XN737"
+
+marantz-model-40n:
+  brand: "Marantz"
+  product: "Model 40n"
+  asin_jp: "B09VR3N1YW"
+  asin_us: "B09VR3N1YW"
 
 marantz-model-50:
   brand: "Marantz"
@@ -4362,6 +4537,12 @@ moondrop-chu-ii:
   asin_jp: "B0CB8HHS8V"
   asin_us: "B0CB8HHS8V"
 
+moondrop-chu-ii-dsp:
+  brand: "Moondrop"
+  product: "Chu II DSP"
+  asin_jp: "B0CRP76PVM"
+  asin_us: "B0CRP76PVM"
+
 moondrop-cosmo:
   brand: "Moondrop"
   product: "Cosmo"
@@ -4495,6 +4676,12 @@ motu-m6:
   asin_jp: "B0BL731XXZ"
   asin_us: "B0BKR3YMB9"
 
+motu-motu-8d:
+  brand: "MOTU"
+  product: "8D"
+  asin_jp: "B06XJK94D2"
+  asin_us: "B06W56RMKX"
+
 motu-ultralite-mk5:
   brand: "MOTU"
   product: "UltraLite-mk5"
@@ -4606,6 +4793,11 @@ noble-audio-fokus-rex5:
   asin_jp: "B0GGX8CDLK"
   asin_us: "B0DQYGS6G1"
 
+nobsound-u2:
+  brand: "Nobsound"
+  product: "U2"
+  asin_jp: "B07V371GPH"
+
 nobsound-u5:
   brand: "Nobsound"
   product: "U5"
@@ -4668,6 +4860,12 @@ oneodio-monitor-80:
   product: "Monitor 80"
   asin_jp: "B09Q34QNKF"
   asin_us: "B09K7NDGN7"
+
+oneodio-pro30:
+  brand: "OneOdio"
+  product: "Pro-30"
+  asin_jp: "B07BQNTT9N"
+  asin_us: "B07G74V1YP"
 
 onix-alpha-xi1:
   brand: "Onix"
@@ -5080,6 +5278,12 @@ presonus-quantum-hd-8:
   asin_jp: "B0CTFPQDTM"
   asin_us: "B0CTFPQDTM"
 
+presonus-studio-24c:
+  brand: "PreSonus"
+  product: "Studio 24c"
+  asin_jp: "B07L9MWWDK"
+  asin_us: "B07L9MWWDK"
+
 primare-i22:
   brand: "Primare"
   product: "I22"
@@ -5159,6 +5363,11 @@ qdc-white-tiger-ii:
   brand: "qdc"
   product: "WHITE TIGER II"
   asin_jp: "B0DN1LX5LH"
+
+qoa-adonis:
+  brand: "QoA"
+  product: "Adonis"
+  asin_jp: "B08QJ2FV96"
 
 quad-44:
   brand: "Quad"
@@ -5260,6 +5469,12 @@ rode-microphones-nt1-a:
   asin_jp: "B0002PSCQM"
   asin_us: "B002QAUOKS"
 
+rode-rode-nt1-signature:
+  brand: "RØDE"
+  product: "NT1 Signature Series"
+  asin_jp: "B0CKVD62NX"
+  asin_us: "B0CKVD62NX"
+
 roseselsa-aurora-ultra:
   brand: "Roseselsa"
   product: "Aurora Ultra"
@@ -5298,11 +5513,21 @@ sabaj-d5:
   asin_jp: "B07QRF4XM9"
   asin_us: "B07PYRM6J6"
 
+saec-sl-3030:
+  brand: "SAEC"
+  product: "SL-3030"
+
 samson-sr850:
   brand: "Samson"
   product: "SR850 Professional Studio Reference Headphones"
   asin_jp: "B002LBSEQS"
   asin_us: "B002LBSEQS"
+
+samson-sr990:
+  brand: "Samson"
+  product: "SR990"
+  asin_jp: "B084JN9ZLV"
+  asin_us: "B084JN9ZLV"
 
 samsung-galaxy-buds3-pro:
   brand: "Samsung Galaxy Buds"
@@ -5747,6 +5972,12 @@ smsl-ao300:
   asin_jp: "B0CHRTDJMR"
   asin_us: "B0CHRTDJMR"
 
+smsl-c-100:
+  brand: "SMSL"
+  product: "C100"
+  asin_jp: "B0BNG2XT2C"
+  asin_us: "B0BNFZ75LJ"
+
 smsl-c200-pro:
   brand: "SMSL"
   product: "C200 Pro"
@@ -5851,6 +6082,12 @@ smsl-po100-ak:
   asin_jp: "B0BM4BXW5X"
   asin_us: "B0BM47Z454"
 
+smsl-po100-pro:
+  brand: "SMSL"
+  product: "PO100 Pro"
+  asin_jp: "B0BLYVZCV5"
+  asin_us: "B0BLYVZCV5"
+
 smsl-sd-9:
   brand: "SMSL"
   product: "SD-9"
@@ -5913,6 +6150,45 @@ smsl-vmv-t2:
   asin_jp: "B0D7CDNDNT"
   asin_us: "B0D7CDNDNT"
 
+softears-rs10:
+  brand: "Softears"
+  product: "RS10"
+  asin_jp: "B096VP7YKC"
+
+softears-rsv:
+  brand: "Softears"
+  product: "RSV"
+  asin_jp: "B09H5L7JT5"
+  asin_us: "B09H5L7JT5"
+
+softears-rsv-mk2:
+  brand: "Softears"
+  product: "RSV MK2"
+  asin_jp: "B0FP4VHWQ9"
+  asin_us: "B0FNW982R6"
+
+softears-studio4:
+  brand: "Softears"
+  product: "Studio 4"
+  asin_jp: "B0BX5WXQYG"
+  asin_us: "B0BX5WXQYG"
+
+softears-turii:
+  brand: "Softears"
+  product: "Turii"
+
+softears-twilight:
+  brand: "Softears"
+  product: "Twilight"
+  asin_jp: "B0BML1BXV4"
+  asin_us: "B0BML1BXV4"
+
+softears-volume-s:
+  brand: "Softears"
+  product: "Volume S"
+  asin_jp: "B0DRVL4Q98"
+  asin_us: "B0DRVL4Q98"
+
 solid-state-logic-ssl18:
   brand: "SSL"
   product: "SSL 18"
@@ -5924,6 +6200,11 @@ sonicake-sonic-cube-ii:
   product: "Sonic Cube II"
   asin_jp: "B0DSVRNBM5"
   asin_us: "B0DSVRNBM5"
+
+sonore-ultrarendu-plus:
+  brand: "Sonore"
+  product: "ultraRendu Plus"
+  asin_jp: "B0DWMMZ5CT"
 
 sonos-ace:
   brand: "Sonos"
@@ -5972,6 +6253,12 @@ sony-inzone-h5:
   asin_jp: "B0CKFDV356"
   asin_us: "B0CJGV2DQT"
 
+sony-inzone-h9:
+  brand: "Sony"
+  product: "INZONE H9"
+  asin_jp: "B0B4T3R33X"
+  asin_us: "B0B1TDHLPT"
+
 sony-mdr-1a:
   brand: "Sony"
   product: "MDR-1A"
@@ -5983,6 +6270,10 @@ sony-mdr-1am2:
   product: "MDR-1AM2"
   asin_jp: "B079VJ11XC"
   asin_us: "B07BCBT3KC"
+
+sony-mdr-5760:
+  brand: "Sony"
+  product: "MDR-5760"
 
 sony-mdr-7506:
   brand: "Sony"
@@ -6247,6 +6538,12 @@ steinberg-ur-c-v3-0:
   asin_jp: "B07YG4KVCF"
   asin_us: "B07YG4KVCF"
 
+steinberg-ur12:
+  brand: "Steinberg"
+  product: "UR12"
+  asin_jp: "B00QY4RLRQ"
+  asin_us: "B00QY4RLRQ"
+
 steinberg-ur22c:
   brand: "Steinberg"
   product: "UR22C"
@@ -6307,6 +6604,12 @@ tago-studio-takasaki-t3-02:
   product: "T3-02"
   asin_jp: "B0B7JHR87P"
   asin_us: "B0B7JHR87P"
+
+talomen-w50x:
+  brand: "Talomen"
+  product: "W50x"
+  asin_jp: "B0DPX6F9YW"
+  asin_us: "B0DPX6F9YW"
 
 tanchjim-bunny:
   brand: "Tanchjim"
@@ -6389,6 +6692,11 @@ tannoy-gold-7:
   asin_jp: "B07YLC2NKB"
   asin_us: "B07YLC2NKB"
 
+tannoy-prestige-kensington-gr:
+  brand: "Tannoy"
+  product: "Kensington GR"
+  asin_jp: "B00RB9GF9S"
+
 tannoy-sgm10:
   brand: "Tannoy"
   product: "Super Gold Monitor SGM 10"
@@ -6397,6 +6705,18 @@ tannoy-turnberry-gr:
   brand: "Tannoy"
   product: "Turnberry GR"
   asin_jp: "B00JNMLPSM"
+
+tc-electronic-level-pilot-x:
+  brand: "TC Electronic"
+  product: "Level Pilot X"
+  asin_jp: "B07H51LHFV"
+  asin_us: "B07H51LHFV"
+
+tc-electronic-monitor-pilot:
+  brand: "TC Electronic"
+  product: "Monitor Pilot"
+  asin_jp: "B09VSPVT2R"
+  asin_us: "B09VSPVT2R"
 
 teac-ai-303:
   brand: "TEAC"
@@ -6515,11 +6835,24 @@ thieaudio-prestige-ltd:
   product: "Prestige LTD"
   asin_jp: "B0CCH1S3FC"
 
+tiandirenhe-td25:
+  brand: "Tiandirenhe"
+  product: "TD25"
+
 tin-hifi-t3-plus:
   brand: "Tin HiFi"
   product: "T3 Plus"
   asin_jp: "B09M334JHG"
   asin_us: "B09LV2S1YB"
+
+tomoca-products-tcc-100:
+  brand: "TOMOCA"
+  product: "TCC-100"
+  asin_jp: "B0767BHYDH"
+
+tomoca-products-tcct-100st:
+  brand: "TOMOCA"
+  product: "TCCT-100ST"
 
 top-wing-opt-lan-bridge:
   brand: "TOP WING"
@@ -6757,6 +7090,12 @@ trn-conch:
   asin_jp: "B0CMCWC4YY"
   asin_us: "B0CNGJ7P14"
 
+trn-emx:
+  brand: "TRN"
+  product: "EMX"
+  asin_jp: "B0BFB7NS8L"
+  asin_us: "B0BDRQV8XK"
+
 trn-jaws:
   brand: "TRN"
   product: "JAWS"
@@ -6872,6 +7211,11 @@ ultrasone-signature-pure:
   asin_jp: "B0CB8KD619"
   asin_us: "B0DX23K9YL"
 
+umbrella-company-the-fader-control:
+  brand: "Umbrella Company"
+  product: "The Fader Control"
+  asin_jp: "B08GLJ1NRL"
+
 universal-audio-apollo-e2m:
   brand: "Universal Audio"
   product: "Apollo e2m"
@@ -6889,6 +7233,10 @@ universal-audio-volt-876:
   product: "Volt 876"
   asin_jp: "B0FTM85D18"
   asin_us: "B0FT7Q1TZX"
+
+venture-electronics-odo+:
+  brand: "Venture Electronics"
+  product: "Odo+"
 
 victor-ex-hr10000:
   brand: "Victor"
@@ -7165,6 +7513,10 @@ yamaha-yh-c3000:
   brand: "Yamaha"
   product: "YH-C3000"
   asin_us: "B0GGFG2J7Y"
+
+yamaha-yst-sw500:
+  brand: "Yamaha"
+  product: "YST-SW500"
 
 yamaha-zg02:
   brand: "Yamaha"
