@@ -200,17 +200,17 @@ layout: default
         <h2>{{ site.data.strings[page.lang].overall_rating }}</h2>
         <dl class="rating-summary-list">
           <dt>{{ site.data.strings[page.lang].overall_rating }}</dt>
-          <dd>{{ page.rating[0] | round: 1 }} / 5</dd>
+          <dd>{{ page.rating[0] | round: 1 }} / 5.0</dd>
           <dt>{{ site.data.strings[page.lang].scientific_validity }}</dt>
-          <dd>{{ page.rating[1] | round: 1 }} / 1</dd>
+          <dd>{{ page.rating[1] | round: 1 }} / 1.0</dd>
           <dt>{{ site.data.strings[page.lang].technology_level }}</dt>
-          <dd>{{ page.rating[2] | round: 1 }} / 1</dd>
+          <dd>{{ page.rating[2] | round: 1 }} / 1.0</dd>
           <dt>{{ site.data.strings[page.lang].cost_performance }}</dt>
-          <dd>{{ page.rating[3] | round: 1 }} / 1</dd>
+          <dd>{{ page.rating[3] | round: 1 }} / 1.0</dd>
           <dt>{{ site.data.strings[page.lang].reliability_support }}</dt>
-          <dd>{{ page.rating[4] | round: 1 }} / 1</dd>
+          <dd>{{ page.rating[4] | round: 1 }} / 1.0</dd>
           <dt>{{ site.data.strings[page.lang].design_rationality }}</dt>
-          <dd>{{ page.rating[5] | round: 1 }} / 1</dd>
+          <dd>{{ page.rating[5] | round: 1 }} / 1.0</dd>
         </dl>
       </section>
       {% endif %}
@@ -228,7 +228,7 @@ layout: default
             <dt>{{ site.data.strings[page.lang].reference_price }}</dt>
             <dd><span class="price-number" data-price="{{ page.price }}">{{ page.price }}</span>{% if page.lang == 'ja' %} 円{% else %} USD{% endif %}</dd>
           {% endif %}
-          <dt>{{ site.data.strings[page.lang].date }}</dt>
+          <dt>{{ site.data.strings[page.lang].review_date }}</dt>
           <dd>{% if page.lang == 'ja' %}{{ page.date | date: '%Y年%m月%d日' }}{% else %}{{ page.date | date: '%B %d, %Y' }}{% endif %}</dd>
         </dl>
       </section>
