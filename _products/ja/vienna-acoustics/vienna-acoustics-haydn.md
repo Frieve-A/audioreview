@@ -5,6 +5,7 @@ target_name: "Vienna Acoustics Haydn"
 company_id: vienna-acoustics
 lang: ja
 ref: vienna-acoustics-haydn
+audiodb_uid: adb-88179448481a
 date: 2025-08-04
 rating: [2.5, 0.6, 0.7, 0.2, 0.5, 0.5]
 price: 220000
@@ -12,7 +13,6 @@ summary: "オーストリアの老舗ブランドによる伝統的なブック�
 tags: [ブックシェルフスピーカー, オーストリア, 2ウェイ, パッシブ]
 permalink: /products/ja/vienna-acoustics-haydn/
 ---
-
 ## 概要
 
 Vienna Acousticsは1989年にオーストリアで設立された老舗スピーカーメーカーです。Haydnシリーズは同社の代表的なブックシェルフスピーカーで、独自のX3P透明素材ウーファーと、ポート内にツイーターを配置する特異なデザインが特徴です。現行のSE Signatureモデルは1.1インチシルクドームツイーターと6インチSpider-Cone X3Pミッドウーファーを搭載し、40Hz-20kHzの周波数特性、88.5dB感度、4オーム負荷を実現しています。同社の音響工学への取り組みと、ヨーロッパ的な音作りの伝統を体現した製品として位置づけられています。

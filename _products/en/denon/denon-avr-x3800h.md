@@ -5,6 +5,7 @@ target_name: "Denon AVR-X3800H"
 company_id: denon
 lang: en
 ref: denon-avr-x3800h
+audiodb_uid: adb-224e4018a68e
 date: 2025-07-27
 rating: [3.8, 0.7, 0.7, 0.9, 0.7, 0.8]
 price: 1699

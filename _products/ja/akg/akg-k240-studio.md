@@ -5,6 +5,7 @@ target_name: "AKG K240 Studio"
 company_id: akg
 lang: ja
 ref: akg-k240-studio
+audiodb_uid: adb-e2a8919eb56b
 date: 2025-07-21
 rating: [2.5, 0.3, 0.5, 0.6, 0.3, 0.8]
 price: 6336

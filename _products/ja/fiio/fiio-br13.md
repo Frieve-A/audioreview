@@ -5,6 +5,7 @@ target_name: "FiiO BR13"
 company_id: fiio
 lang: ja
 ref: fiio-br13
+audiodb_uid: adb-93b0b574312d
 date: 2026-05-19
 rating: [3.6, 0.7, 0.4, 1.0, 0.7, 0.8]
 price: 9300

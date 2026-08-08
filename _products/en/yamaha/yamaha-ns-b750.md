@@ -5,6 +5,7 @@ target_name: "Yamaha NS-B750"
 company_id: yamaha
 lang: en
 ref: yamaha-ns-b750
+audiodb_uid: adb-438b9fb50de8
 date: 2025-08-30
 rating: [1.8, 0.5, 0.4, 0.2, 0.4, 0.3]
 price: 1040

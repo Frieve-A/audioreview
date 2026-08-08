@@ -5,6 +5,7 @@ target_name: "EPZ K9"
 company_id: epz
 lang: ja
 ref: epz-k9
+audiodb_uid: adb-ef45a67eef3a
 date: 2025-07-29
 rating: [2.8, 0.6, 0.7, 0.1, 0.7, 0.7]
 price: 39800

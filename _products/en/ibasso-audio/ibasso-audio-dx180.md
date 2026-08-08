@@ -5,6 +5,7 @@ target_name: "iBasso Audio DX180"
 company_id: ibasso-audio
 lang: en
 ref: ibasso-audio-dx180
+audiodb_uid: adb-5bdcd598b7cd
 date: 2025-09-21
 rating: [3.7, 0.9, 0.7, 1.0, 0.4, 0.7]
 price: 529

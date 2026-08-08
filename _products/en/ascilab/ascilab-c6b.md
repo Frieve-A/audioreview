@@ -5,6 +5,7 @@ target_name: "AsciLab C6B"
 company_id: ascilab
 lang: en
 ref: ascilab-c6b
+audiodb_uid: adb-a77b7de05162
 date: 2025-07-29
 rating: [3.8, 0.8, 0.7, 0.9, 0.5, 0.9]
 price: 1100

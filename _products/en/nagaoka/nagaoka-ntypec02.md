@@ -5,6 +5,7 @@ target_name: "Nagaoka NTYPEC02"
 company_id: nagaoka
 lang: en
 ref: nagaoka-ntypec02
+audiodb_uid: adb-0682915931b9
 date: 2025-07-30
 rating: [3.3, 0.6, 0.5, 1.0, 0.5, 0.7]
 price: 23
@@ -12,7 +13,6 @@ summary: "USB-C connected earphones with ANC functionality. A rare product achie
 tags: [Earphones, USB-C, ANC, Digital]
 permalink: /products/en/nagaoka-ntypec02/
 ---
-
 ## Overview
 
 The Nagaoka NTYPEC02 is a canal-type wired earphone with USB-C connection support, released in June 2025. It features ANC (Active Noise Cancelling) functionality, which is rare in the 23 USD (tax included) price range, and incorporates aluminum housing for improved sound isolation. With a 12mm driver and a built-in DAC supporting 96kHz/24bit, it enables direct processing of digital audio. This product represents the company's new expansion into modern digital audio equipment, marking a departure from its traditional analog cartridge specialization.

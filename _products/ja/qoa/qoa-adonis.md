@@ -5,6 +5,7 @@ target_name: "QoA Adonis"
 company_id: qoa
 lang: ja
 ref: qoa-adonis
+audiodb_uid: adb-bb1bfef5fe43
 date: 2026-05-21
 rating: [1.4, 0.5, 0.2, 0.1, 0.4, 0.2]
 price: 25110

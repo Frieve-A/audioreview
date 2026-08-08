@@ -5,6 +5,7 @@ target_name: "Koss KSC75"
 company_id: koss
 lang: en
 ref: koss-ksc75
+audiodb_uid: adb-ebe06082c59a
 date: 2025-08-16
 rating: [3.5, 0.5, 0.4, 1.0, 0.7, 0.9]
 price: 19.99
@@ -12,7 +13,6 @@ summary: "A featherweight clip-on with 2 µm titanium-coated diaphragms that sou
 tags: [Clip-on, Open-back, Budget, Portable, On-ear]
 permalink: /products/en/koss-ksc75/
 ---
-
 ## Overview
 
 The KSC75 combines an open-back ear-clip design with **2 µm titanium-coated diaphragms** (spec: 15–25,000 Hz, 60 Ω, 101 dB, THD <0.2%). It favors situational awareness and comfort in casual listening scenarios.

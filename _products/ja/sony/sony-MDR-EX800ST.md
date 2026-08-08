@@ -5,6 +5,7 @@ target_name: "Sony MDR-EX800ST"
 company_id: sony
 lang: ja
 ref: sony-mdr-ex800st
+audiodb_uid: adb-59e58f3597ab
 date: 2025-07-22
 rating: [2.9, 0.4, 0.6, 0.4, 0.5, 1.0]
 price: 20800

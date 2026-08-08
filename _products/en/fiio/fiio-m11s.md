@@ -5,6 +5,7 @@ target_name: "FiiO M11S"
 company_id: fiio
 lang: en
 ref: fiio-m11s
+audiodb_uid: adb-3c095aba1eda
 date: 2025-10-19
 rating: [4.0, 0.8, 0.9, 0.7, 0.7, 0.9]
 price: 499

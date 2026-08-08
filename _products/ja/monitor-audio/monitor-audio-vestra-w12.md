@@ -5,6 +5,7 @@ target_name: "Monitor Audio Vestra W12"
 company_id: monitor-audio
 lang: ja
 ref: monitor-audio-vestra-w12
+audiodb_uid: adb-64d96b9e0fa7
 date: 2025-08-11
 rating: [3.1, 0.6, 0.7, 0.7, 0.5, 0.6]
 price: 164850

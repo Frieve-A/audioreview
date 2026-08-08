@@ -5,6 +5,7 @@ target_name: "Philips SHP9500"
 company_id: philips
 lang: en
 ref: philips-shp9500
+audiodb_uid: adb-a06193137b95
 date: 2026-02-16
 rating: [3.1, 0.5, 0.3, 1.0, 0.5, 0.8]
 price: 85

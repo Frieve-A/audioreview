@@ -5,6 +5,7 @@ target_name: "Moondrop Star Light"
 company_id: moondrop
 lang: ja
 ref: moondrop-starlight
+audiodb_uid: adb-2f3e1986d08f
 date: 2025-07-27
 rating: [3.1, 0.6, 0.7, 0.5, 0.6, 0.7]
 price: 27000

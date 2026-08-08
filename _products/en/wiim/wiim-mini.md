@@ -5,6 +5,7 @@ target_name: "WiiM Mini"
 company_id: wiim
 lang: en
 ref: wiim-mini
+audiodb_uid: adb-830270b8adc2
 date: 2025-08-20
 rating: [3.4, 0.7, 0.6, 1.0, 0.6, 0.5]
 price: 89

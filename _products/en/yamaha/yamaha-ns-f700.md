@@ -5,6 +5,7 @@ target_name: "Yamaha NS-F700"
 company_id: yamaha
 lang: en
 ref: yamaha-ns-f700
+audiodb_uid: adb-22327c10525f
 date: 2025-08-16
 rating: [2.4, 0.5, 0.4, 0.7, 0.3, 0.5]
 price: 811

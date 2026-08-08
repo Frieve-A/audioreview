@@ -5,6 +5,7 @@ target_name: "Polk Audio Monitor XT60"
 company_id: polk
 lang: ja
 ref: polk-audio-monitor-xt60
+audiodb_uid: adb-1cb9ab3a9609
 date: 2025-07-19
 rating: [2.9, 0.5, 0.6, 0.9, 0.4, 0.5]
 price: 30845

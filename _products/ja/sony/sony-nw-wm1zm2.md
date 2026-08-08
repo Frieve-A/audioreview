@@ -5,6 +5,7 @@ target_name: "Sony NW-WM1ZM2"
 company_id: sony
 lang: ja
 ref: sony-nw-wm1zm2
+audiodb_uid: adb-0cfd52e03091
 date: 2025-09-08
 rating: [2.4, 0.7, 0.7, 0.2, 0.4, 0.4]
 price: 440000

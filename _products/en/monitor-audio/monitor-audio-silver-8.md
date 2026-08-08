@@ -5,6 +5,7 @@ target_name: "Monitor Audio Silver 8"
 company_id: monitor-audio
 lang: en
 ref: monitor-audio-silver-8
+audiodb_uid: adb-414184dbb0e4
 date: 2025-08-24
 rating: [2.3, 0.6, 0.4, 0.8, 0.2, 0.3]
 price: 1000

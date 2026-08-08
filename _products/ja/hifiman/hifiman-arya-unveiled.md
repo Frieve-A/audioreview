@@ -5,6 +5,7 @@ target_name: "HiFiMAN Arya Unveiled"
 company_id: hifiman
 lang: ja
 ref: hifiman-arya-unveiled
+audiodb_uid: adb-90575e02909a
 date: 2025-12-03
 rating: [3.0, 0.5, 0.7, 0.1, 0.8, 0.9]
 price: 217350
@@ -12,7 +13,6 @@ summary: "ステルスマグネット技術とナノ厚ダイアフラム設計�
 tags: [ヘッドホン, 平面磁界型, オープンバック, ハイエンド, ステルスマグネット]
 permalink: /products/ja/hifiman-arya-unveiled/
 ---
-
 ## 概要
 
 HiFiMAN Arya Unveiledは、HiFiMAN の人気Aryaシリーズの最新モデルで、同社の革新的な「unveiled」デザインアプローチを採用しています。217,350円のオープンバック平面磁界型ヘッドホンで、HiFiMAN独自のステルスマグネット技術とナノ厚ダイアフラムを搭載し、Aryaシリーズの性能における「劇的な飛躍」と同社が説明する性能を実現しています。ケーブルを除く重量413g、露出リアデザインの大型平面磁界型ドライバーを特徴とし、現代的な技術進歩を備えたハイエンド平面磁界型性能を求めるオーディオファンをターゲットとしています。

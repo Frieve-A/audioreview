@@ -5,6 +5,7 @@ target_name: "ELAC Vela BS 403"
 company_id: elac
 lang: ja
 ref: elac-vela-bs-403
+audiodb_uid: adb-e12f6dda172b
 date: 2025-08-26
 rating: [2.9, 0.5, 0.7, 0.3, 0.7, 0.7]
 price: 240000
@@ -12,7 +13,6 @@ summary: "JET 5 AMTツィーターと台形キャビネットを採用するク�
 tags: [ブックシェルフ, パッシブ, リボン, ツィーター, クローズアウト]
 permalink: /products/ja/elac-vela-bs-403/
 ---
-
 ## 概要
 
 Vela BS 403は、JET 5エアモーショントランスフォーマーツィーターと150 mm AS-XRウーファーを組み合わせた2ウェイ・バスレフのパッシブ・ブックシェルフです。メーカー公称は41 Hz–50 kHz、能率86 dB（2.83 V/1 m）、公称インピーダンス4 Ωです[2]。現行はBS403.2（Vela 2.0、JET 6搭載）へ置き換えられており、BS 403はクローズアウト品や中古で流通しています[7][8]。

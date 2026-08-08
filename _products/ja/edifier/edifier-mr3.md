@@ -5,6 +5,7 @@ target_name: "Edifier MR3"
 company_id: edifier
 lang: ja
 ref: edifier-mr3
+audiodb_uid: adb-7d523a71a339
 date: 2026-02-13
 rating: [3.2, 0.7, 0.4, 1.0, 0.6, 0.5]
 price: 22499

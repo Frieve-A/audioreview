@@ -5,6 +5,7 @@ target_name: "Final VR3000-Wireless"
 company_id: final
 lang: ja
 ref: final-vr3000-wireless
+audiodb_uid: adb-0fc9ebfdeca0
 date: 2025-09-02
 rating: [3.2, 0.5, 0.6, 1.0, 0.5, 0.6]
 price: 19417

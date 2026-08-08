@@ -5,6 +5,7 @@ target_name: "Sennheiser IE 600"
 company_id: sennheiser
 lang: ja
 ref: sennheiser-ie-600
+audiodb_uid: adb-41506ace7d91
 date: 2025-07-07
 rating: [3.1, 0.8, 0.9, 0.3, 0.7, 0.4]
 price: 104900

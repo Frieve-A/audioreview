@@ -5,6 +5,7 @@ target_name: "miniDSP ADept"
 company_id: minidsp
 lang: ja
 ref: minidsp-adept
+audiodb_uid: adb-51bc624f297a
 date: 2025-09-08
 rating: [3.4, 0.7, 0.6, 1.0, 0.4, 0.7]
 price: 60000
@@ -12,7 +13,6 @@ summary: "ESS ES9842 Proチップを搭載し透明レベルの仕様を達成�
 tags: [ADC, フォノプリアンプ, DSP, ハイレゾ, アナログデジタル変換]
 permalink: /products/ja/minidsp-adept/
 ---
-
 ## 概要
 
 miniDSP ADeptは、ADC機能にフォノプリアンプとDSPベースのイコライゼーションを組み合わせたコンパクトなオーディオファイル向けアナログ・デジタル変換器です。ESS ES9842 Pro変換チップとXMOSインターフェースをベースとし、USB-C、S/PDIF、TOSLINKなど複数の出力フォーマットで最大32bit/192kHz変換に対応します。高解像度ライン入力ADCとMM/MCカートリッジ対応フォノ機能を兼ね、RIAAに加えてDeccaやColumbia等のヒストリカルカーブもDSPで選択できます。これは測定重視の費用効果的な製品を通じてハイエンドオーディオを民主化するminiDSPのアプローチを代表し、単一のコンパクトユニットで複数機能を統合しています［1］［2］［3］。

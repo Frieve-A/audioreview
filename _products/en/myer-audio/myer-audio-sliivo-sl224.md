@@ -5,6 +5,7 @@ target_name: "MYER-AUDIO SLIIVO SL224"
 company_id: myer-audio
 lang: en
 ref: myer-audio-sliivo-sl224
+audiodb_uid: adb-c98c1ee1f5bb
 date: 2025-10-27
 rating: [1.7, 0.5, 0.4, 0.4, 0.3, 0.1]
 price: 229

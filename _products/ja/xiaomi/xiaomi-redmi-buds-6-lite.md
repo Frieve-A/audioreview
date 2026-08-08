@@ -5,6 +5,7 @@ target_name: "Xiaomi Redmi Buds 6 Lite"
 company_id: xiaomi
 lang: ja
 ref: xiaomi-redmi-buds-6-lite
+audiodb_uid: adb-95745f026d09
 date: 2025-12-14
 rating: [3.2, 0.5, 0.6, 1.0, 0.5, 0.6]
 price: 3000

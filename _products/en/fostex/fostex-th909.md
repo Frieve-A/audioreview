@@ -5,6 +5,7 @@ target_name: "Fostex TH909"
 company_id: fostex
 lang: en
 ref: fostex-th909
+audiodb_uid: adb-55243cec98c5
 date: 2025-07-27
 rating: [2.8, 0.7, 0.8, 0.2, 0.5, 0.6]
 price: 2000
@@ -12,7 +13,6 @@ summary: "An open-back flagship headphone featuring Biodyna drivers, but its ext
 tags: [Open-back, Dynamic, High-end, Biodyna, Fostex]
 permalink: /products/en/fostex-th909/
 ---
-
 ## Overview
 
 The Fostex TH909 is an open-back dynamic headphone derived from the company's flagship TH900MK2. It features 50mm Biodyna drivers and a unique dual-layer metal grill structure, with a beautiful Urushi lacquer finish on Mizume cherry wood. Fostex, established in 1973 as a subsidiary of Foster Electric, has a long track record in speaker unit development and manufacturing. This product combines traditional lacquer techniques from the Sakamoto Urushi Kogei workshop with modern acoustic technology.

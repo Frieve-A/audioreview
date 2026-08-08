@@ -5,6 +5,7 @@ target_name: "Yamaha YH-C3000"
 company_id: yamaha
 lang: en
 ref: yamaha-yh-c3000
+audiodb_uid: adb-d586b3fe0574
 date: 2026-01-02
 rating: [2.8, 0.5, 0.9, 0.1, 0.7, 0.6]
 price: 1699.95
@@ -12,7 +13,6 @@ summary: "Premium closed-back headphones featuring proprietary Armodynamic drive
 tags: [Headphones, Closed-back, Premium, Japan, Yamaha]
 permalink: /products/en/yamaha-yh-c3000/
 ---
-
 ## Overview
 
 The Yamaha YH-C3000 represents Yamaha's premium entry into the high-end headphone market, featuring newly developed Armodynamic drivers with over a decade of development behind them. These closed-back headphones incorporate advanced materials including ZYLON found in Yamaha flagship speakers, housed in handcrafted beech wood enclosures. Designed and assembled at Yamaha's Kakegawa factory in Japan alongside flagship grand pianos, the YH-C3000 embodies traditional craftsmanship combined with modern driver technology. The headphones target audiophiles seeking premium construction and Yamaha's "True Sound" philosophy of accurate reproduction.

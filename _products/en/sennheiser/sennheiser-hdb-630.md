@@ -5,6 +5,7 @@ target_name: "Sennheiser HDB 630"
 company_id: sennheiser
 lang: en
 ref: sennheiser-hdb-630
+audiodb_uid: adb-aa030c8b3949
 date: 2025-11-21
 rating: [4.2, 0.5, 0.9, 1.0, 0.8, 1.0]
 price: 499
@@ -12,7 +13,6 @@ summary: "Wireless audiophile headphones with advanced DSP, parametric EQ with f
 tags: [Headphones, Wireless, Bluetooth, ANC, Hi-Res, Parametric EQ]
 permalink: /products/en/sennheiser-hdb-630/
 ---
-
 ## Overview
 
 The Sennheiser HDB 630 represents a strategic approach to wireless audiophile headphones, featuring a 42mm dynamic transducer manufactured at Sennheiser's Tullamore facility in Ireland. Key distinguishing features include 60-hour battery life, adaptive noise cancellation achieving 80-84% reduction, parametric EQ with crossfeed functionality inspired by the flagship HE 1, and an included USB-C transmitter enabling 24-bit/96kHz wireless audio. The closed-back design inherits the proven MOMENTUM 4 chassis while targeting neutral sound with smooth bass and intimate vocals for studio work and serious listening.

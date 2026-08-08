@@ -5,6 +5,7 @@ target_name: "MOONDROP Harmon-SP"
 company_id: moondrop
 lang: ja
 ref: moondrop-harmon-sp
+audiodb_uid: adb-f574aec86473
 date: 2025-11-24
 rating: [3.7, 0.5, 0.9, 1.0, 0.4, 0.9]
 price: 37500
@@ -12,7 +13,6 @@ summary: "特許取得4キャビティクロスオーバー技術とH.O.D.D.D.U.
 tags: [ヘッドホン, インイヤーモニター, ダイナミック型, トリプルドライバー, Moondrop, プレミアム]
 permalink: /products/ja/moondrop-harmon-sp/
 ---
-
 ## 概要
 
 MOONDROP Harmon-SPは、TAGO STUDIOとMOONDROPのコラボレーション製品で、標準のHarmon XTM-3DDとは異なる仕様とチューニング特性を持つバリエーションです。この製品は、3つの10mmダイナミック型ドライバーを使用した先進的なトリプルダイナミック構成を特長とし、1つの中高域ドライバーとMOONDROP独自のH.O.D.D.D.U.S.（水平対向デュアルダイナミックドライバーシステム）ベースモジュールを組み合わせています。標準Harmonとの主な仕様差は、インピーダンス7.5Ω（対19Ω）、感度119dB/Vrms（対114dB/Vrms）で、≤0.1%のTHD性能と4キャビティクロスオーバー技術は同一です。319米ドル（約37,500円）で販売され、超低歪みと拡張周波数レスポンスを謳い、プレミアムインイヤーモニター市場をターゲットとしています。

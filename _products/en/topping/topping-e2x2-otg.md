@@ -5,6 +5,7 @@ target_name: "Topping E2x2 OTG"
 company_id: topping
 lang: en
 ref: topping-e2x2-otg
+audiodb_uid: adb-5918e7b7e9a6
 date: 2025-10-06
 rating: [3.9, 0.9, 0.8, 1.0, 0.4, 0.8]
 price: 199

@@ -5,6 +5,7 @@ target_name: "Beyerdynamic DT 880 PRO"
 company_id: beyerdynamic
 lang: en
 ref: beyerdynamic-dt-880-pro
+audiodb_uid: adb-0c36ae00e0d1
 date: 2025-09-17
 rating: [2.3, 0.5, 0.6, 0.2, 0.7, 0.3]
 price: 170

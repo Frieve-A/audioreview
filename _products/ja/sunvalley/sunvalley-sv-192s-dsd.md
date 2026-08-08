@@ -5,6 +5,7 @@ target_name: "Sun Valley SV-192S-DSD"
 company_id: sunvalley
 lang: ja
 ref: sunvalley-sv-192s-dsd
+audiodb_uid: adb-aa89e68d7b9c
 date: 2025-08-13
 rating: [1.7, 0.4, 0.3, 0.1, 0.5, 0.4]
 price: 232500
@@ -12,7 +13,6 @@ summary: "2008年発売のBurr-Brown DSD1796チップと真空管出力段を採
 tags: [DAC, デジタル・アナログコンバータ, 真空管, ハイレゾ音源, アップサンプリング]
 permalink: /products/ja/sunvalley-sv-192s-dsd/
 ---
-
 ## 概要
 
 Sun Valley SV-192S-DSDは2008年に発売された日本製デジタル・アナログコンバータで、Burr-Brown DSD1796 DACチップと12AU7/ECC82真空管を使用したバッファステージを特徴としています。24ビット/192kHzまでの高解像度音声信号処理能力を持ち、DACおよびデジタル・デジタルアップサンプリング機能を備えています。本機は超高解像度デジタルオーディオ処理の初期の試みを代表し、真空管と半導体のハイブリッド設計思想でオーディオファイル市場をターゲットとした製品です。

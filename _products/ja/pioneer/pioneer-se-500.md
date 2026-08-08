@@ -5,6 +5,7 @@ target_name: "Pioneer SE-500"
 company_id: pioneer
 lang: ja
 ref: pioneer-se-500
+audiodb_uid: adb-565be12761fa
 date: 2026-01-02
 rating: [1.6, 0.5, 0.4, 0.1, 0.0, 0.6]
 price: 9200

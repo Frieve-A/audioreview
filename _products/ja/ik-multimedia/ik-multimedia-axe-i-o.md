@@ -5,6 +5,7 @@ target_name: "IK Multimedia AXE I/O"
 company_id: ik-multimedia
 lang: ja
 ref: ik-multimedia-axe-i-o
+audiodb_uid: adb-5745f72b6b31
 date: 2025-07-21
 rating: [4.2, 0.8, 0.7, 1.0, 0.8, 0.9]
 price: 55000
@@ -12,7 +13,6 @@ summary: "ギター録音に特化した2入力5出力オーディオインタ�
 tags: [オーディオインターフェース, ギター録音, USB, 192kHz]
 permalink: /products/ja/ik-multimedia-axe-i-o/
 ---
-
 ## 概要
 
 IK Multimedia AXE I/Oは、ギタリストのために特別に設計された2入力5出力のUSBオーディオインターフェースです。24ビット/192kHz対応で、Z-TONE可変インピーダンス機能やPUREマイクプリアンプ、専用リアンプ出力など、ギター録音に特化した機能を多数搭載しています。AmpliTube 5とTONEX SEソフトウェアも付属し、多彩なギタートーンにアクセス可能です。同社の長年にわたるギター音源開発の経験を活かした製品として位置付けられています。

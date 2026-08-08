@@ -5,6 +5,7 @@ target_name: "Shanling Regal"
 company_id: shanling
 lang: ja
 ref: shanling-regal
+audiodb_uid: adb-c1b8b2e98b8a
 date: 2025-11-24
 rating: [2.4, 0.5, 0.6, 0.6, 0.5, 0.2]
 price: 94000

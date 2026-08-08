@@ -5,6 +5,7 @@ target_name: "MAONO PS22 Lite"
 company_id: maono
 lang: en
 ref: maono-ps22-lite
+audiodb_uid: adb-e3d0afcdcb80
 date: 2025-10-15
 rating: [3.7, 0.6, 0.7, 1.0, 0.7, 0.7]
 price: 69.99

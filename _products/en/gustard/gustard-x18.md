@@ -5,6 +5,7 @@ target_name: "Gustard X18"
 company_id: gustard
 lang: en
 ref: gustard-x18
+audiodb_uid: adb-c20012756dd3
 date: 2025-08-10
 rating: [3.7, 0.9, 0.7, 0.7, 0.6, 0.8]
 price: 749
@@ -12,7 +13,6 @@ summary: "High-performance ESS Sabre ES9038PRO DAC achieving exceptional measure
 tags: [DAC, ES9038PRO, MQA, Bluetooth, Balanced]
 permalink: /products/en/gustard-x18/
 ---
-
 ## Overview
 
 The Gustard X18 is a desktop DAC based on the flagship ESS Sabre ES9038PRO chipset, priced at 749 USD [5]. This Chinese manufacturer has focused resources on engineering rather than marketing, delivering measured performance that reached top-of-class SINAD in third-party testing. The X18 features comprehensive connectivity including USB, SPDIF, AES, I2S, and Bluetooth 5.0 with LDAC support, along with full MQA hardware decoding capabilities.

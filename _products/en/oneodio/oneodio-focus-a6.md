@@ -5,6 +5,7 @@ target_name: "OneOdio Focus A6"
 company_id: oneodio
 lang: en
 ref: oneodio-focus-a6
+audiodb_uid: adb-092ce09a7997
 date: 2025-11-26
 rating: [2.8, 0.5, 0.6, 0.7, 0.4, 0.6]
 price: 69.99
@@ -12,7 +13,6 @@ summary: "Bluetooth 6.0 wireless headphones with hybrid ANC and Hi-Res Audio cer
 tags: [Headphones, Wireless, ANC, Bluetooth, Hi-Res, OneOdio]
 permalink: /products/en/oneodio-focus-a6/
 ---
-
 ## Overview
 
 The OneOdio Focus A6 are over-ear wireless headphones featuring Bluetooth 6.0 connectivity, hybrid Active Noise Cancellation, and Hi-Res Audio certification with LDAC codec support. Released in July 2025 at an MSRP of 79.99 USD but currently available for 69.99 USD, these headphones incorporate cutting-edge wireless technology including first-generation Bluetooth 6.0 with ISOAL implementation. OneOdio positions the Focus A6 as their first app-integrated product with advanced features including 75-hour battery life, multiple ANC modes, and gaming-optimized low-latency performance.

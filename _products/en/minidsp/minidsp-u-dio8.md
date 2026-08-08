@@ -5,6 +5,7 @@ target_name: "MiniDSP U-DIO8"
 company_id: minidsp
 lang: en
 ref: minidsp-u-dio8
+audiodb_uid: adb-b7ed345cbea6
 date: 2025-09-08
 rating: [2.8, 0.5, 0.4, 1.0, 0.3, 0.6]
 price: 325

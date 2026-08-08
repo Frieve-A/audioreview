@@ -5,6 +5,7 @@ target_name: "beyerdynamic DT 700 PRO X"
 company_id: beyerdynamic
 lang: en
 ref: beyerdynamic-dt-700-pro-x
+audiodb_uid: adb-d9ba593cc9f4
 date: 2025-08-15
 rating: [3.7, 0.7, 0.8, 0.8, 0.7, 0.7]
 price: 239
@@ -12,7 +13,6 @@ summary: "Closed-back studio headphones with STELLAR.45 driver technology delive
 tags: [Closed-back, Studio, Professional, Monitoring, Velour]
 permalink: /products/en/beyerdynamic-dt-700-pro-x/
 ---
-
 ## Overview
 
 The DT 700 PRO X is a closed-back studio monitor that debuts beyerdynamic’s **STELLAR.45** driver and emphasizes serviceability: a detachable **3-pin mini-XLR** cable, replaceable velour pads, and a robust spring-steel headband[1]. The official product page reiterates the **48-ohm** design aimed at broad device compatibility and lists key specs and replaceable parts[4].

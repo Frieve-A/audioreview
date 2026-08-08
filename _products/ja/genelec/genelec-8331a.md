@@ -5,6 +5,7 @@ target_name: "Genelec 8331A"
 company_id: genelec
 lang: ja
 ref: genelec-8331a
+audiodb_uid: adb-d8ba2293e56a
 date: 2025-08-01
 rating: [4.0, 0.7, 0.9, 0.7, 0.8, 0.9]
 price: 389250

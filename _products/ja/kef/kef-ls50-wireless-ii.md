@@ -5,6 +5,7 @@ target_name: "KEF LS50 Wireless II"
 company_id: kef
 lang: ja
 ref: kef-ls50-wireless-ii
+audiodb_uid: adb-cdf2ce695552
 date: 2025-09-13
 rating: [2.6, 0.4, 0.8, 0.3, 0.3, 0.8]
 price: 449999
@@ -12,7 +13,6 @@ summary: "KEFのLS50 Wireless IIは先進的なMAT技術と高度な工学技術
 tags: [アクティブスピーカー, ワイヤレス, ブックシェルフ, KEF, Uni-Q, MAT]
 permalink: /products/ja/kef-ls50-wireless-ii/
 ---
-
 ## 概要
 
 KEF LS50 Wireless IIは、KEFのフラッグシップアクティブブックシェルフスピーカーであり、第12世代Uni-Qドライバーアレイとメタマテリアル吸音技術（MAT）を搭載しています。130mmアルミコーンウーファーと25mmベント付きアルミドームツイーターを中心に構築され、専用のクラスD（280W）とクラスA/B（100W）アンプリフィケーションにより、総出力380Wを実現します。HDMI eARCを含む豊富な接続性により、24bit/384kHzまでの包括的なワイヤレスストリーミングをサポートし、技術的に洗練されたオールインワンスピーカーシステムです。

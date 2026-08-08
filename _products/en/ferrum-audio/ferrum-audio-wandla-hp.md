@@ -5,6 +5,7 @@ target_name: "Ferrum Audio WANDLA HP"
 company_id: ferrum-audio
 lang: en
 ref: ferrum-audio-wandla-hp
+audiodb_uid: adb-72d2891baa13
 date: 2025-12-14
 rating: [4.1, 0.8, 0.9, 1.0, 0.5, 0.9]
 price: 3295

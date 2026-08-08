@@ -5,6 +5,7 @@ target_name: "Yamaha ZG02"
 company_id: yamaha
 lang: ja
 ref: yamaha-zg02
+audiodb_uid: adb-fd7cf4994129
 date: 2025-10-16
 rating: [3.4, 0.5, 0.6, 1.0, 0.7, 0.6]
 price: 30000

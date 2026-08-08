@@ -5,6 +5,7 @@ target_name: "Victor EX-HR10000"
 company_id: victor
 lang: en
 ref: victor-ex-hr10000
+audiodb_uid: adb-624ac510a8eb
 date: 2025-10-30
 rating: [2.3, 0.5, 0.7, 0.3, 0.7, 0.1]
 price: 1300
@@ -12,7 +13,6 @@ summary: "Premium wood cone compact system with high-resolution audio support bu
 tags: [Compact System, Wood Cone, High Resolution Audio, Bluetooth, FM Radio]
 permalink: /products/en/victor-ex-hr10000/
 ---
-
 ## Overview
 
 The Victor EX-HR10000 is a premium compact component audio system featuring Victor's proprietary wood cone speaker technology. Positioned as a special limited product, this system combines a 50W + 50W amplifier with full-range wood cone speakers in a complete package priced at 1300 USD. The design emphasizes "original sound exploration" through extensive use of wood materials including cherry wood sheets and red oak blocks. The system supports high-resolution audio playback up to 192kHz/24bit, Bluetooth connectivity with aptX codec, and includes FM radio functionality. Victor developed this product in collaboration with Victor Studio engineers, aiming to reproduce studio master sound quality in a home environment.

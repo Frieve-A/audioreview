@@ -5,6 +5,7 @@ target_name: "HiFiMAN Prelude"
 company_id: hifiman
 lang: ja
 ref: hifiman-prelude
+audiodb_uid: adb-c49e9deb6028
 date: 2025-11-30
 rating: [2.1, 0.7, 0.4, 0.2, 0.5, 0.3]
 price: 375000

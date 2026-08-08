@@ -5,6 +5,7 @@ target_name: "iFi Audio xDSD Gryphon"
 company_id: ifi-audio
 lang: ja
 ref: ifi-audio-xdsd-gryphon
+audiodb_uid: adb-c6ee7479ae50
 date: 2025-08-24
 rating: [3.5, 0.7, 0.8, 0.5, 0.7, 0.8]
 price: 89700
@@ -12,7 +13,6 @@ summary: "優秀な測定性能と多機能を備える高級ポータブルDAC/
 tags: [DAC, アンプ, ポータブル, Bluetooth, バランス]
 permalink: /products/ja/ifi-audio-xdsd-gryphon/
 ---
-
 ## 概要
 
 xDSD GryphonはBurr-Brown DACを採用し、PCM 32-bit/768 kHz、DSD512、フルMQAデコードに対応するプレミアムなポータブルDAC/ヘッドホンアンプです。Bluetooth 5.1（aptX Adaptive/HD/LL、LDAC、LHDC/HWA対応）、USB-C/S/PDIF入力、4.4 mmバランス/3.5 mm S-Balanced出力を備え、XBass II・XSpace・iEMatchなどのアナログ機能も搭載します。バランス出力は>1000 mW@32 Ω、出力インピーダンスは<1 Ωです。 [1]

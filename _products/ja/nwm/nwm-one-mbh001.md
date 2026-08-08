@@ -5,6 +5,7 @@ target_name: "nwm ONE MBH001"
 company_id: nwm
 lang: ja
 ref: nwm-one-mbh001
+audiodb_uid: adb-71b791f116b4
 date: 2025-09-12
 rating: [3.3, 0.5, 0.7, 1.0, 0.5, 0.6]
 price: 44800
@@ -12,7 +13,6 @@ summary: "NTTの独自PSZ音漏れ低減技術を搭載したオープンイヤ�
 tags: [オープンイヤー, ワイヤレス, Bluetooth, PSZ, NTT]
 permalink: /products/ja/nwm-one-mbh001/
 ---
-
 ## 概要
 
 nwm ONE MBH001は、NTT sonoricityが独自のPersonalized Sound Zone（PSZ）技術を武器にコンシューマーオーディオ市場に参入した製品です。このオープンイヤー型ワイヤレスヘッドホンは、12mmツイーターと35mmウーファーのデュアルドライバーシステムを採用し、位相キャンセル原理による音漏れ最小化を設計コンセプトとしています。価格は44,800円で、NTTの50年以上にわたる通信・音響研究の蓄積を活用し、従来のオープンイヤー設計よりも優れた音の封じ込めを主張しています。Bluetooth 5.3によるマルチポイント接続、20時間のバッテリー持続時間、LC3やLE Audioなどの現代的なコーデック対応を特徴としています。

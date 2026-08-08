@@ -5,6 +5,7 @@ target_name: "Amazon Echo Studio"
 company_id: amazon
 lang: en
 ref: amazon-echo-studio
+audiodb_uid: adb-8e523a41ef2a
 date: 2025-08-20
 rating: [4.1, 0.6, 0.8, 1.0, 0.8, 0.9]
 price: 199.99

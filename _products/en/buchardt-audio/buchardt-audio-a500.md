@@ -5,6 +5,7 @@ target_name: "Buchardt Audio A500"
 company_id: buchardt-audio
 lang: en
 ref: buchardt-audio-a500
+audiodb_uid: adb-c11a3576d281
 date: 2025-11-21
 rating: [4.7, 0.8, 1.0, 1.0, 0.9, 1.0]
 price: 4450

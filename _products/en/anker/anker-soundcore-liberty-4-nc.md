@@ -5,6 +5,7 @@ target_name: "Anker Soundcore Liberty 4 NC"
 company_id: anker
 lang: en
 ref: anker-soundcore-liberty-4-nc
+audiodb_uid: adb-437d54df1375
 date: 2025-07-09
 rating: [3.4, 0.6, 0.6, 0.9, 0.7, 0.6]
 price: 67

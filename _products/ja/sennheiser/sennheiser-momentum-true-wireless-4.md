@@ -5,6 +5,7 @@ target_name: "SENNHEISER MOMENTUM True Wireless 4"
 company_id: sennheiser
 lang: ja
 ref: sennheiser-momentum-true-wireless-4
+audiodb_uid: adb-8274ac801992
 date: 2025-07-06
 rating: [3.6, 0.9, 0.9, 0.7, 0.7, 0.4]
 price: 35900

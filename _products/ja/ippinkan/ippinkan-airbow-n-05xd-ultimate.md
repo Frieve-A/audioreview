@@ -5,6 +5,7 @@ target_name: "Ippinkan Airbow N-05XD Ultimate"
 company_id: ippinkan
 lang: ja
 ref: ippinkan-airbow-n-05xd-ultimate
+audiodb_uid: adb-3ebb8a73a304
 date: 2025-08-11
 rating: [1.1, 0.5, 0.2, 0.0, 0.2, 0.2]
 price: 1067000

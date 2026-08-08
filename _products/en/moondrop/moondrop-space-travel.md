@@ -5,6 +5,7 @@ target_name: "MOONDROP Space Travel"
 company_id: moondrop
 lang: en
 ref: moondrop-space-travel
+audiodb_uid: adb-e7343ce67f27
 date: 2026-03-03
 rating: [3.4, 0.5, 0.8, 1.0, 0.4, 0.7]
 price: 29.99

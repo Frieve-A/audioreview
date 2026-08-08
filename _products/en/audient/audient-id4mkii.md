@@ -5,6 +5,7 @@ target_name: "Audient iD4 MKII"
 company_id: audient
 lang: en
 ref: audient-id4mkii
+audiodb_uid: adb-13113ef1ee45
 date: 2025-12-29
 rating: [3.4, 0.7, 0.7, 1.0, 0.6, 0.4]
 price: 199

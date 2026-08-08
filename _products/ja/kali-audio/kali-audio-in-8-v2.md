@@ -5,6 +5,7 @@ target_name: "Kali Audio IN-8 V2"
 company_id: kali-audio
 lang: ja
 ref: kali-audio-in-8-v2
+audiodb_uid: adb-ec643e6a1240
 date: 2025-10-27
 rating: [3.2, 0.5, 0.8, 0.8, 0.3, 0.8]
 price: 67500

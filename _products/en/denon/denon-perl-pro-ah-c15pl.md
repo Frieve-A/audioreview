@@ -5,6 +5,7 @@ target_name: "Denon PerL Pro AH-C15PL"
 company_id: denon
 lang: en
 ref: denon-perl-pro-ah-c15pl
+audiodb_uid: adb-80e569a8051b
 date: 2025-08-07
 rating: [2.7, 0.3, 0.8, 0.4, 0.7, 0.5]
 price: 233

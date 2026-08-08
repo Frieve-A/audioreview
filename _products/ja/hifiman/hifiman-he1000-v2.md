@@ -5,6 +5,7 @@ target_name: "HiFiMAN HE1000 V2"
 company_id: hifiman
 lang: ja
 ref: hifiman-he1000-v2
+audiodb_uid: adb-a2cfcd88019c
 date: 2026-06-08
 rating: [2.3, 0.5, 0.8, 0.1, 0.6, 0.3]
 price: 152900
@@ -12,7 +13,6 @@ summary: "自社開発の平面磁気エンジニアリングと複数の特許�
 tags: [ヘッドホン, 開放型, 平面磁気, HiFiMAN]
 permalink: /products/ja/hifiman-he1000-v2/
 ---
-
 ## 概要
 
 HiFiMAN HE1000 V2は、現在152,900円（1,399 USD）で販売されている開放型オーバーイヤーヘッドホンです。2016年に399,800円（2,999 USD）で発売された初代モデルのシャーシをベースに、Stealth Magnetテクノロジーをドライバーレベルで追加した改良版です。HiFiMANはDr. Fang Bianが2007年に設立した企業で、コンシューマーヘッドホン市場における平面磁気トランスデューサー技術の商業化を牽引してきました。現行モデルは、Stealth Magnet改良によるドライバーレベルのアップグレードを施しながら、発売当初のMSRPから大幅な値下げを実現しています。メーカー仕様では、インピーダンス35Ω、感度90dB、重量420gとされています。

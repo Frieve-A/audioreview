@@ -5,6 +5,7 @@ target_name: "Yanyin Canon Pro"
 company_id: yanyin
 lang: ja
 ref: yanyin-canon-pro
+audiodb_uid: adb-aaeb4244d2b2
 date: 2025-08-20
 rating: [3.1, 0.6, 0.7, 0.4, 0.6, 0.8]
 price: 68280

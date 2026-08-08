@@ -5,6 +5,7 @@ target_name: "KEF Reference 5 Meta"
 company_id: kef
 lang: ja
 ref: kef-reference-5-meta
+audiodb_uid: adb-27256c964da5
 date: 2025-10-16
 rating: [4.1, 0.8, 0.9, 0.7, 0.9, 0.8]
 price: 3000000

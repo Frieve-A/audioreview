@@ -5,6 +5,7 @@ target_name: "Sabaj A20D"
 company_id: sabaj
 lang: ja
 ref: sabaj-a20d
+audiodb_uid: adb-e809d30bf479
 date: 2025-08-10
 rating: [4.0, 0.9, 0.8, 0.7, 0.6, 1.0]
 price: 63000
@@ -12,7 +13,6 @@ summary: "AK4499EXチップを搭載し約120dB SINADのリファレンス級測
 tags: [DAC, ヘッドホンアンプ, デスクトップ, USB, Bluetooth, MQA, DSD]
 permalink: /products/ja/sabaj-a20d/
 ---
-
 ## 概要
 
 Sabaj A20Dは複数世代にわたって進化してきたデスクトップDAC・ヘッドホンアンプで、現在の2023年版ではAKMのフラッグシップAK4499EX DACチップとAK4191EQを組み合わせています。このオールインワンユニットはPCM 32-bit/768kHzやネイティブDSD512までの高解像度フォーマットをサポートし、USB-C、光デジタル、同軸、Bluetooth 5.0による包括的な接続性を提供し、RCAとXLRによるライン出力に加えて4.4mmおよび6.35mmのヘッドホン出力を備えています。

@@ -5,6 +5,7 @@ target_name: "Genelec 8050B"
 company_id: genelec
 lang: en
 ref: genelec-8050b
+audiodb_uid: adb-a4883919d3ce
 date: 2025-08-11
 rating: [3.4, 0.8, 0.7, 0.2, 0.9, 0.8]
 price: 1975

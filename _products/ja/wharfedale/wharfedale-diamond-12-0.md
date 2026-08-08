@@ -5,6 +5,7 @@ target_name: "Wharfedale Diamond 12.0"
 company_id: wharfedale
 lang: ja
 ref: wharfedale-diamond-12-0
+audiodb_uid: adb-c7d601f3cc2e
 date: 2025-08-04
 rating: [3.1, 0.4, 0.6, 0.7, 0.7, 0.7]
 price: 58000

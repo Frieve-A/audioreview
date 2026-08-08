@@ -5,6 +5,7 @@ target_name: "Denon DNP-720SE"
 company_id: denon
 lang: ja
 ref: denon-dnp-720se
+audiodb_uid: adb-65e43d1d4d61
 date: 2025-07-21
 rating: [2.6, 0.6, 0.3, 0.9, 0.5, 0.3]
 price: 35000

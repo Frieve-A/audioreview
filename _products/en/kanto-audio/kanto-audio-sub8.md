@@ -5,6 +5,7 @@ target_name: "Kanto Audio SUB8"
 company_id: kanto-audio
 lang: en
 ref: kanto-audio-sub8
+audiodb_uid: adb-501200d7ce7c
 date: 2025-08-28
 rating: [2.7, 0.7, 0.5, 0.5, 0.6, 0.4]
 price: 349.99
@@ -12,7 +13,6 @@ summary: "Compact 8-inch sealed subwoofer with solid third-party measurements an
 tags: [Subwoofer, Powered, Sealed, Desktop, Nearfield]
 permalink: /products/en/kanto-audio-sub8/
 ---
-
 ## Overview
 
 The Kanto Audio SUB8 is a compact sealed powered subwoofer with an 8-inch paper-cone driver and a Class D amplifier rated at 150 W RMS (300 W peak). Manufacturer specifications list frequency response at 35–175 Hz and cabinet dimensions of 11″ × 11″ × 11.9″ (28 × 28 × 30.3 cm), 18.3 lb (8.3 kg); list price is 349.99 USD. These features target easy under-desk/nearfield integration via a variable 40–120 Hz low-pass and a 0/180° phase switch [2].

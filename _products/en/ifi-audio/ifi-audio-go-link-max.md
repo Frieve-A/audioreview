@@ -5,6 +5,7 @@ target_name: "iFi Audio GO Link Max"
 company_id: ifi-audio
 lang: en
 ref: ifi-audio-go-link-max
+audiodb_uid: adb-992a81cf0915
 date: 2025-08-24
 rating: [3.2, 0.7, 0.6, 0.9, 0.5, 0.5]
 price: 79
@@ -12,7 +13,6 @@ summary: "Compact USB-C dongle DAC with dual ESS ES9219 chips, both 3.5mm and 4.
 tags: [DAC, Dongle, Portable, USB-C, Balanced, iFi Audio]
 permalink: /products/en/ifi-audio-go-link-max/
 ---
-
 ## Overview
 
 The iFi Audio GO Link Max is a USB-C dongle DAC using dual ESS ES9219 chips with **both** 3.5 mm (S-Balanced) and 4.4 mm balanced outputs in a 14.5 g body (150×15×10 mm). Rated output is up to **241 mW @ 32 Ω (bal.)** / **100 mW @ 32 Ω (SE)**, SNR **130 dBA (bal.) / 125 dBA (SE)**, and THD+N ≤0.0016% (bal.) / ≤0.0015% (SE). It supports PCM up to 384 kHz and DSD256. Channel separation exceeds **118 dB**. Manufacturer materials note Dynamic Range Enhancement (DRE) adding **+6 dB** to dynamic range [1][2].

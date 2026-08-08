@@ -5,6 +5,7 @@ target_name: "Accuphase E-408"
 company_id: accuphase
 lang: ja
 ref: accuphase-e-408
+audiodb_uid: adb-10796a59dcb4
 date: 2025-08-08
 rating: [4.0, 0.7, 0.8, 0.9, 0.8, 0.8]
 price: 340000

@@ -5,6 +5,7 @@ target_name: "DALI Sub E-12 F"
 company_id: dali
 lang: ja
 ref: dali-sub-e-12-f
+audiodb_uid: adb-2c877a203afa
 date: 2025-10-29
 rating: [2.2, 0.5, 0.5, 0.1, 0.6, 0.5]
 price: 240000

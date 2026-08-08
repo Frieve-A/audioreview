@@ -5,6 +5,7 @@ target_name: "Topping D90 III Discrete"
 company_id: topping
 lang: ja
 ref: topping-d90-iii-discrete
+audiodb_uid: adb-6ca39ca074cf
 date: 2025-08-29
 rating: [3.4, 0.9, 0.8, 0.5, 0.6, 0.6]
 price: 150000
@@ -12,7 +13,6 @@ summary: "測定的に透明レベルの性能と充実した入出力・PEQを�
 tags: [DAC, デスクトップ, ディスクリート, ハイエンド, Bluetooth]
 permalink: /products/ja/topping-d90-iii-discrete/
 ---
-
 ## 概要
 
 Topping D90 III Discreteは、PSRM（Phase-Switching Reference Modulator）による**完全ディスクリート1bit**構成を採用したフラッグシップDACです[1]。USB／光／同軸／AES/EBU／IIS（I²S）／Bluetooth入力、XLR/RCA出力を備え、PCM 32-bit/768 kHzとDSD512に対応します。TOPPING Tuneアプリ経由で**PEQ**設定にも対応します[2]。公称値はTHD+N 0.00006%（XLR）、S/N比131 dB（A-wt）、ダイナミックレンジ130 dB（A-wt）です[2]。

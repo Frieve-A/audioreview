@@ -5,6 +5,7 @@ target_name: "MOONDROP Stellaris"
 company_id: moondrop
 lang: en
 ref: moondrop-stellaris
+audiodb_uid: adb-c263f6d20c81
 date: 2025-09-24
 rating: [1.5, 0.2, 0.6, 0.1, 0.4, 0.2]
 price: 129.99

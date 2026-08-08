@@ -5,6 +5,7 @@ target_name: "Audio-Technica ATH-CM707"
 company_id: audio-technica
 lang: en
 ref: audio-technica-ath-cm707
+audiodb_uid: adb-3d2b9c172d29
 date: 2025-09-04
 rating: [2.0, 0.5, 0.5, 0.2, 0.6, 0.2]
 price: 103

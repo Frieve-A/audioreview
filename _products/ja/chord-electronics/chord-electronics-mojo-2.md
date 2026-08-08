@@ -5,6 +5,7 @@ target_name: "Chord Electronics Mojo 2"
 company_id: chord-electronics
 lang: ja
 ref: chord-electronics-mojo-2
+audiodb_uid: adb-e8851635d9aa
 date: 2025-09-01
 rating: [3.7, 0.8, 0.9, 0.5, 0.6, 0.9]
 price: 82760
@@ -12,7 +13,6 @@ summary: "ロスレスUHD DSPと長タップWTAフィルターを備える先進
 tags: [Portable-DAC, Headphone-Amplifier, FPGA, High-Resolution-Audio, British-Audio]
 permalink: /products/ja/chord-electronics-mojo-2/
 ---
-
 ## 概要
 
 Mojo 2は**2022年**に登場したMojoの後継機です。独自FPGA DACと**40,960タップ**のWTAフィルターを継承しつつ、**ビットパーフェクトの「UHD DSP」**（トーン/EQとクロスフィード）や**Intelligent Desktop Mode**など電源周りを強化しています。 [2][8][9]

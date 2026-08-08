@@ -5,6 +5,7 @@ target_name: "Apogee Duet 3"
 company_id: apogee
 lang: en
 ref: apogee-duet-3
+audiodb_uid: adb-f1a558eb7511
 date: 2025-12-30
 rating: [4.0, 0.8, 0.8, 1.0, 0.6, 0.8]
 price: 649

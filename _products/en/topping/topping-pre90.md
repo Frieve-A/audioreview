@@ -5,6 +5,7 @@ target_name: "Topping pre90"
 company_id: topping
 lang: en
 ref: topping-pre90
+audiodb_uid: adb-afb164dd184b
 date: 2026-05-27
 rating: [3.4, 0.9, 0.6, 0.6, 0.5, 0.8]
 price: 599
@@ -12,7 +13,6 @@ summary: "Fully balanced solid-state analog line preamplifier with NFCA modules 
 tags: [Preamplifier, Balanced, Solid-State, Topping, Analog]
 permalink: /products/en/topping-pre90/
 ---
-
 ## Overview
 
 The Topping Pre90 is a fully balanced analog line preamplifier launched on 2020-12-07 by Guangzhou Topping Electronics & Technology, built around the company's proprietary NFCA (Nested Feedback Composite Amplifier) modules and a Japanese-relay-switched resistor-network stepped attenuator. Topping has built its brand on measurement-first audio electronics, and the Pre90 sits as the dedicated line-stage piece of the A90/D90/L70 ecosystem, currently priced at 599 USD with an optional Ext90 input extender at 249 USD [1].

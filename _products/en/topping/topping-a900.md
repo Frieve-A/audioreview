@@ -5,6 +5,7 @@ target_name: "TOPPING A900"
 company_id: topping
 lang: en
 ref: topping-a900
+audiodb_uid: adb-3789630129b7
 date: 2025-11-30
 rating: [4.4, 0.8, 1.0, 1.0, 0.6, 1.0]
 price: 1199

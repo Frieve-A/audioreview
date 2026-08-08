@@ -5,6 +5,7 @@ target_name: "Austrian Audio OC16"
 company_id: austrian-audio
 lang: ja
 ref: austrian-audio-oc16
+audiodb_uid: adb-6aa143152eb8
 date: 2025-11-14
 rating: [3.8, 0.7, 0.9, 0.4, 0.9, 0.9]
 price: 59900

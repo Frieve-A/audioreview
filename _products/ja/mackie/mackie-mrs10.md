@@ -5,6 +5,7 @@ target_name: "Mackie MRS10"
 company_id: mackie
 lang: ja
 ref: mackie-mrs10
+audiodb_uid: adb-17b0999a58d6
 date: 2025-09-20
 rating: [2.7, 0.6, 0.4, 0.9, 0.6, 0.2]
 price: 58500
@@ -12,7 +13,6 @@ summary: "120Wクラス AB アンプ搭載の10インチパワードスタジオ
 tags: [サブウーファー, スタジオモニター, パワード, クラス AB]
 permalink: /products/ja/mackie-mrs10/
 ---
-
 ## 概要
 
 Mackie MRS10は、スタジオモニタリング用途向けに低域レスポンスを拡張するため設計されたMRシリーズの10インチパワードスタジオサブウーファーです。120Wクラス AB アンプで駆動されるグラスアラミド複合材10インチウーファーを搭載し、35 Hzから180 Hzまでの周波数レスポンスと最大SPL 119 dBを実現。40から180 Hzまでの調整可能なクロスオーバー、極性スイッチ、既存のモニターシステムとの統合のためのXLRおよびTRS接続を備えています。

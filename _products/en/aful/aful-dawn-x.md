@@ -5,6 +5,7 @@ target_name: "AFUL Dawn-X"
 company_id: aful
 lang: en
 ref: aful-dawn-x
+audiodb_uid: adb-7920ab61af10
 date: 2025-11-11
 rating: [3.1, 0.5, 0.7, 1.0, 0.4, 0.5]
 price: 1299.99

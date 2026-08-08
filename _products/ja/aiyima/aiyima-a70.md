@@ -5,6 +5,7 @@ target_name: "AIYIMA A70"
 company_id: aiyima
 lang: ja
 ref: aiyima-a70
+audiodb_uid: adb-c332f8e9f695
 date: 2025-08-08
 rating: [3.9, 0.8, 0.7, 1.0, 0.6, 0.8]
 price: 25000

@@ -5,6 +5,7 @@ target_name: "Accuphase DP-410"
 company_id: accuphase
 lang: ja
 ref: accuphase-dp-410
+audiodb_uid: adb-474878f060f1
 date: 2025-09-02
 rating: [2.4, 0.7, 0.6, 0.2, 0.4, 0.5]
 price: 465000

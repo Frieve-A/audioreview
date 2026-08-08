@@ -5,6 +5,7 @@ target_name: "Revel M106"
 company_id: revel
 lang: en
 ref: revel-m106
+audiodb_uid: adb-3efc768e5a82
 date: 2025-11-01
 rating: [3.4, 0.7, 0.7, 0.2, 0.8, 1.0]
 price: 2000

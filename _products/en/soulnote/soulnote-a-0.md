@@ -5,6 +5,7 @@ target_name: "SOULNOTE A-0"
 company_id: soulnote
 lang: en
 ref: soulnote-a-0
+audiodb_uid: adb-3ce9dc93bdbb
 date: 2025-09-12
 rating: [1.9, 0.5, 0.4, 0.2, 0.6, 0.2]
 price: 880

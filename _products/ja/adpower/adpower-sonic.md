@@ -5,6 +5,7 @@ target_name: "adpower sonic"
 company_id: adpower
 lang: ja
 ref: adpower-sonic
+audiodb_uid: adb-1cd38bc5025c
 date: 2025-08-02
 rating: [1.1, 0.1, 0.2, 0.2, 0.5, 0.1]
 price: 6990
@@ -12,7 +13,6 @@ summary: "静電気除去をうたうオーディオ機器用シートだが、�
 tags: [オーディオアクセサリー, 静電気除去, EMI対策]
 permalink: /products/ja/adpower-sonic/
 ---
-
 ## 概要
 
 AdPower Sonicは、車両用AdPowerシリーズの静電気除去技術を応用したとされるオーディオ機器用シートです。スピーカーのポートやバッフル面に貼り付けることで音質向上を謳っていますが、実際は16×32×0.5mmから36×98×0.5mmの薄いシートをMサイズ6,990円、Lサイズ9,990円で販売する製品です。静電気除去による音質改善を主張していますが、科学的な検証データや測定結果は提示されていません。

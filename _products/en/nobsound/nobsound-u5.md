@@ -5,6 +5,7 @@ target_name: "Nobsound U5"
 company_id: nobsound
 lang: en
 ref: nobsound-u5
+audiodb_uid: adb-b9ee8e44fe10
 date: 2025-11-10
 rating: [3.0, 0.6, 0.5, 1.0, 0.4, 0.5]
 price: 42

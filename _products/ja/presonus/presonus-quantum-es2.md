@@ -5,6 +5,7 @@ target_name: "PreSonus Quantum ES2"
 company_id: presonus
 lang: ja
 ref: presonus-quantum-es2
+audiodb_uid: adb-ac65a6d1c3a0
 date: 2025-07-31
 rating: [3.4, 0.8, 0.5, 0.8, 0.7, 0.6]
 price: 37350
@@ -12,7 +13,6 @@ summary: "クラスをリードするダイナミックレンジを持つ2x2 USB
 tags: [オーディオインターフェース, USB-C, 2x2, PreSonus, 録音機器]
 permalink: /products/ja/presonus-quantum-es2/
 ---
-
 ## 概要
 
 PreSonus Quantum ES2は、同社が展開するQuantumシリーズのエントリーモデルとして位置づけられる2入力2出力のUSB-Cオーディオインターフェースです。最大24ビット/192kHz録音に対応し、クラス最高レベルのダイナミックレンジを実現するMAX-HDプリアンプ、自動ゲイン機能などを備え、宅録やポッドキャスト配信で高音質を求めるユーザー向けに開発されました。Fenderとの共同開発による楽器入力端子や、Studio One+の6ヶ月ライセンスが付属する点も特徴的です。

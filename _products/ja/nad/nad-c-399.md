@@ -5,6 +5,7 @@ target_name: "NAD C-399"
 company_id: nad
 lang: ja
 ref: nad-c-399
+audiodb_uid: adb-426dc95fa475
 date: 2025-10-29
 rating: [4.2, 0.8, 0.7, 1.0, 0.8, 0.9]
 price: 299700
@@ -12,7 +13,6 @@ summary: "Hypex nCoreテクノロジー、ESS SabreDAC、モジュラー拡張�
 tags: ["インテグレーテッドアンプ", "DAC", "Hypex nCore", "ESS Sabre", "MDC2", "ハイパフォーマンス"]
 permalink: /products/ja/nad-c-399/
 ---
-
 ## 概要
 
 NAD C-399 HybridDigital DACアンプは、以前はMastersシリーズ限定だったHypex nCoreアンプ技術をClassicシリーズに統合したNADのハイエンド技術の結集です。このインテグレーテッドアンプは連続180W/チャンネル、瞬間250Wの出力を提供し、32ビット/384kHz ESS Sabre ES9028 DAC、デュアルMDC2モジュラー拡張ポート、MMフォノステージ、専用ヘッドホンアンプ、Bluetooth aptX HD接続機能を搭載しています。299,700円の価格で、C-399は実績のあるアンプ技術と包括的なデジタル・アナログ接続機能を、将来の拡張に対応したモジュラープラットフォームで組み合わせています。

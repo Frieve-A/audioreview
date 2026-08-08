@@ -5,6 +5,7 @@ target_name: "Denon AH-D9200"
 company_id: denon
 lang: en
 ref: denon-ah-d9200
+audiodb_uid: adb-12a4f71a36fe
 date: 2025-08-16
 rating: [1.9, 0.5, 0.6, 0.1, 0.5, 0.2]
 price: 1799
@@ -12,7 +13,6 @@ summary: "Japanese bamboo closed-back headphones; third-party lab measurements r
 tags: [Headphones, Closed-back, Over-ear, High-end, Bamboo]
 permalink: /products/en/denon-ah-d9200/
 ---
-
 ## Overview
 
 The AH-D9200 is Denon’s flagship closed-back, over-ear headphone made in Japan, featuring 50 mm “FreeEdge” dynamic drivers and bamboo earcups. Denon lists a 24 ohm impedance, 105 dB/mW sensitivity, and 5 Hz–56 kHz bandwidth, with a listed weight of 375 g [1]. Current US market price shown on Denon and a major US retailer is 1,799 USD [2][3].

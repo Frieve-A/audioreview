@@ -5,6 +5,7 @@ target_name: "Klipsch R-40M"
 company_id: klipsch
 lang: en
 ref: klipsch-r-40m
+audiodb_uid: adb-6c2c5322edf2
 date: 2025-07-30
 rating: [2.0, 0.4, 0.5, 0.3, 0.5, 0.3]
 price: 274
@@ -12,7 +13,6 @@ summary: "Entry-level bookshelf speaker with a 4-inch woofer. Features Tractrix 
 tags: [Bookshelf, Entry-level, Horn, Speakers]
 permalink: /products/en/klipsch-r-40m/
 ---
-
 ## Overview
 
 The Klipsch R-40M is an entry-level bookshelf speaker from the company's Reference series. It features a 1-inch aluminum LTS tweeter and a 4-inch TCP (Thermoformed Crystalline Polymer) woofer, distinguished by proprietary 90°×90° Tractrix horn technology. The compact cabinet delivers 50W RMS/200W peak power handling with 91dB sensitivity.

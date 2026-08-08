@@ -5,6 +5,7 @@ target_name: "Sennheiser HD 599"
 company_id: sennheiser
 lang: ja
 ref: sennheiser-hd-599
+audiodb_uid: adb-a5e2c26cea81
 date: 2025-08-02
 rating: [2.5, 0.6, 0.5, 0.4, 0.6, 0.4]
 price: 28930

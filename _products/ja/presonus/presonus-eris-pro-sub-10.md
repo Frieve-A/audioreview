@@ -5,6 +5,7 @@ target_name: "PreSonus Eris Pro Sub 10"
 company_id: presonus
 lang: ja
 ref: presonus-eris-pro-sub-10
+audiodb_uid: adb-af0cbd390f34
 date: 2025-10-15
 rating: [3.0, 0.5, 0.4, 1.0, 0.4, 0.7]
 price: 69800

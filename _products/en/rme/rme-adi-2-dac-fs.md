@@ -5,6 +5,7 @@ target_name: "RME ADI-2 DAC FS"
 company_id: rme
 lang: en
 ref: rme-adi-2-dac-fs
+audiodb_uid: adb-87da4efa6637
 date: 2025-07-30
 rating: [3.8, 0.9, 0.8, 0.4, 0.9, 0.8]
 price: 1299

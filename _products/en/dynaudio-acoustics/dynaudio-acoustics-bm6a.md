@@ -5,6 +5,7 @@ target_name: "Dynaudio Acoustics BM6A"
 company_id: dynaudio-acoustics
 lang: en
 ref: dynaudio-acoustics-bm6a
+audiodb_uid: adb-d767a64c9993
 date: 2025-08-02
 rating: [2.3, 0.5, 0.6, 0.2, 0.4, 0.6]
 price: 1700

@@ -5,6 +5,7 @@ target_name: "ELAC Debut 2.0 B5.2"
 company_id: elac
 lang: en
 ref: elac-debut-2-0-b5-2
+audiodb_uid: adb-0430e8b6ea84
 date: 2025-11-12
 rating: [2.9, 0.4, 0.6, 0.5, 0.6, 0.8]
 price: 329

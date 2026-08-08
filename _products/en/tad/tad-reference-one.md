@@ -5,6 +5,7 @@ target_name: "TAD Reference One"
 company_id: tad
 lang: en
 ref: tad-reference-one
+audiodb_uid: adb-f32fb6913d0b
 date: 2025-08-08
 rating: [2.8, 0.6, 0.8, 0.2, 0.6, 0.6]
 price: 78000

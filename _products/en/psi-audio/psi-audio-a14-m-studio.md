@@ -5,6 +5,7 @@ target_name: "PSI Audio A14-M Studio"
 company_id: psi-audio
 lang: en
 ref: psi-audio-a14-m-studio
+audiodb_uid: adb-04f5e0fdb5a9
 date: 2025-12-02
 rating: [3.3, 0.4, 0.9, 0.4, 1.0, 0.6]
 price: 1998

@@ -5,6 +5,7 @@ target_name: "Sennheiser MOMENTUM Sport"
 company_id: sennheiser
 lang: ja
 ref: sennheiser-momentum-sport
+audiodb_uid: adb-7617173ee75b
 date: 2025-11-06
 rating: [3.6, 0.5, 0.8, 1.0, 0.5, 0.8]
 price: 50000

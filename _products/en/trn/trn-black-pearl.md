@@ -5,6 +5,7 @@ target_name: "TRN TRN Black Pearl"
 company_id: trn
 lang: en
 ref: trn-black-pearl
+audiodb_uid: adb-e8abc425bdfb
 date: 2026-01-24
 rating: [3.5, 0.8, 0.3, 1.0, 0.7, 0.7]
 price: 36.99
@@ -12,7 +13,6 @@ summary: "TRN Black Pearl achieves transparent-level DAC/amplifier performance t
 tags: [dac, headphone-amplifier, portable, usb-c, balanced-output, parametric-eq]
 permalink: /products/en/trn-black-pearl/
 ---
-
 ## Overview
 
 The TRN Black Pearl is a portable DAC/headphone amplifier featuring dual CS43131 DAC chips and CB5100 USB bridge. At 37 USD, it provides 4.4mm balanced and 3.5mm single-ended outputs with 384kHz/32-bit PCM and DSD256 support, plus 10-band parametric EQ via WALK PLAY APP.

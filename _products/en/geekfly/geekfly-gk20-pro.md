@@ -5,6 +5,7 @@ target_name: "GEEKFLY GK20 PRO"
 company_id: geekfly
 lang: en
 ref: geekfly-gk20-pro
+audiodb_uid: adb-ab9482a76470
 date: 2026-05-15
 rating: [1.9, 0.5, 0.3, 0.3, 0.5, 0.3]
 price: 106

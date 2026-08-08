@@ -5,6 +5,7 @@ target_name: "FiiO M3K"
 company_id: fiio
 lang: ja
 ref: fiio-m3k
+audiodb_uid: adb-8a6658f9b6bf
 date: 2026-01-27
 rating: [3.2, 0.6, 0.5, 0.7, 0.6, 0.8]
 price: 10500

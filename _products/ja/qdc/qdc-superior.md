@@ -5,6 +5,7 @@ target_name: "qdc Superior"
 company_id: qdc
 lang: ja
 ref: qdc-superior
+audiodb_uid: adb-f8aeebad63f2
 date: 2025-07-23
 rating: [2.6, 0.6, 0.5, 0.2, 0.6, 0.7]
 price: 12870

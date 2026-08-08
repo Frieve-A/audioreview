@@ -5,6 +5,7 @@ target_name: "Edifier STAX Spirit S5"
 company_id: edifier
 lang: en
 ref: edifier-stax-spirit-s5
+audiodb_uid: adb-cf9b975cc9b2
 date: 2025-07-24
 rating: [3.2, 0.7, 0.7, 0.7, 0.5, 0.6]
 price: 499

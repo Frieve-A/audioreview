@@ -5,6 +5,7 @@ target_name: "SMSL D300"
 company_id: smsl
 lang: ja
 ref: smsl-d300
+audiodb_uid: adb-76bf9bd41a92
 date: 2025-08-28
 rating: [3.0, 0.9, 0.4, 0.7, 0.4, 0.6]
 price: 59999
@@ -12,7 +13,6 @@ summary: "ROHM BD34301EKV搭載のデスクトップDAC。LDAC対応Bluetoothと
 tags: [DAC, デスクトップ, DSD, Bluetooth, Rohm, 生産終了]
 permalink: /products/ja/smsl-d300/
 ---
-
 ## 概要
 
 SMSL D300はROHM製BD34301EKVを中核としたデスクトップDACで、PCM 768kHz・DSD512、バランスXLR/RCA、Bluetooth 5.0（LDAC受信）に対応します [1]。公式ページは存続していますが、主要小売では販売終了・在庫切れ表示が多く、新品の入手性は低下しています [3][4][1]。

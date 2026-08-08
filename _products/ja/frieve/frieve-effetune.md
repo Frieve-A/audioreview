@@ -5,6 +5,7 @@ target_name: "Frieve EffeTune"
 company_id: frieve
 lang: ja
 ref: frieve-effetune
+audiodb_uid: adb-2671acf92e53
 date: 2025-08-11
 rating: [3.7, 0.6, 0.7, 1.0, 0.6, 0.8]
 price: 0
@@ -12,7 +13,6 @@ summary: "マルチプラットフォーム対応でリアルタイム音響エ�
 tags: [ソフトウェア, DSP, 無料, オープンソース, リアルタイム]
 permalink: /products/ja/frieve-effetune/
 ---
-
 ## 概要
 
 Frieve EffeTuneは、Frieve-Aが開発した無料のオープンソースリアルタイム音響エフェクトプロセッサで、音楽リスニング体験の向上を求めるオーディオ愛好家を対象としています。WebアプリケーションとWindows、macOS、Linuxデスクトップソフトウェアの両方として利用可能で、コンピュータをオーディオソースとスピーカーまたはアンプの間に配置する強力な音響エフェクトプロセッサに変換します。このソフトウェアは「オーディオファイルの迷信なし、純粋な科学のみ」の哲学で科学的アプローチを重視し、ルーム補正のための周波数レスポンス測定ツールを内蔵しています。

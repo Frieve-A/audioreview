@@ -5,6 +5,7 @@ target_name: "WiiM Pro"
 company_id: wiim
 lang: ja
 ref: wiim-pro
+audiodb_uid: adb-2c99484ba66a
 date: 2025-08-22
 rating: [3.4, 0.7, 0.5, 1.0, 0.5, 0.7]
 price: 22080
@@ -12,7 +13,6 @@ summary: "AirPlay 2／Chromecast／Roon Ready対応の多機能ストリーマ�
 tags: [ストリーマー, ネットワークオーディオ, デジタルオーディオ, 予算]
 permalink: /products/ja/wiim-pro/
 ---
-
 ## 概要
 
 WiiM Proは**22,080円**のエントリー向けネットワークストリーマーです。**AirPlay 2／Google Cast（Chromecast built-in）／Spotify Connect／TIDAL Connect／Alexa Cast／DLNA／Roon Ready**に対応し、**光/同軸の入出力とアナログ入出力**を装備、**デジタル出力は24ビット/192 kHzのビットパーフェクト**に対応します[1]。

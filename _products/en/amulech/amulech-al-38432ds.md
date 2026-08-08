@@ -5,6 +5,7 @@ target_name: "Amulech AL-38432DS"
 company_id: amulech
 lang: en
 ref: amulech-al-38432ds
+audiodb_uid: adb-53ca5efad5d5
 date: 2025-12-05
 rating: [3.2, 0.7, 0.5, 1.0, 0.2, 0.8]
 price: 135
@@ -12,7 +13,6 @@ summary: "Desktop USB DAC with headphone amplifier featuring ES9018K2M chip and 
 tags: [USB-DAC, Headphone-Amplifier, Desktop-Audio, ESS-Technology]
 permalink: /products/en/amulech-al-38432ds/
 ---
-
 ## Overview
 
 The Amulech AL-38432DS is a desktop USB DAC with integrated headphone amplifier released in December 2015. Built around the ESS Technology ES9018K2M 32-bit DAC chip and TPA6130A2 headphone amplifier IC, it supports high-resolution audio formats up to 384kHz/32-bit PCM and DSD256 (11.2MHz). The unit features dual high-precision ±1.0ppm TCXO oscillators for precise timing and aims to deliver "pure sound through ideal D/A conversion." At approximately 135 USD, it positioned itself as an affordable high-resolution audio solution for desktop use.

@@ -5,6 +5,7 @@ target_name: "7Hz Timeless II"
 company_id: 7hz
 lang: en
 ref: 7hz-timeless-ii
+audiodb_uid: adb-5d580b527af0
 date: 2025-09-13
 rating: [3.0, 0.7, 0.7, 0.2, 0.4, 1.0]
 price: 229

@@ -5,6 +5,7 @@ target_name: "HiFiMan HE400se"
 company_id: hifiman
 lang: en
 ref: hifiman-he400se
+audiodb_uid: adb-92655a3862ba
 date: 2026-01-21
 rating: [3.7, 0.7, 0.6, 1.0, 0.4, 1.0]
 price: 109
@@ -12,7 +13,6 @@ summary: "Open-back planar magnetic headphones featuring Stealth Magnet technolo
 tags: [headphones, planar-magnetic, open-back, budget, hifiman]
 permalink: /products/en/hifiman-he400se/
 ---
-
 ## Overview
 
 The HiFiMan HE400se represents the company's entry-level planar magnetic headphones, incorporating Stealth Magnet technology derived from flagship models [1]. Released in 2020-2021 with the Stealth Magnets version in 2022, these open-back headphones utilize an 80mm planar magnetic driver with ferrite magnets rather than neodymium for cost reduction. HiFiMan, founded by Dr. Fang Bian in 2005, operates dedicated R&D centers and maintains in-house manufacturing in China. The HE400se positions itself at 109 USD as part of HiFiMan's strategy to democratize planar magnetic technology.

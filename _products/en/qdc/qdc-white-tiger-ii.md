@@ -5,6 +5,7 @@ target_name: "QDC White Tiger II"
 company_id: qdc
 lang: en
 ref: qdc-white-tiger-ii
+audiodb_uid: adb-e222f593bde4
 date: 2025-11-26
 rating: [2.7, 0.5, 0.8, 0.4, 0.4, 0.6]
 price: 1359.15

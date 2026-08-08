@@ -5,6 +5,7 @@ target_name: "Barefoot Sound Footprint03"
 company_id: barefoot-sound
 lang: en
 ref: barefoot-sound-footprint03
+audiodb_uid: adb-530789cbaad6
 date: 2025-10-27
 rating: [4.2, 0.6, 0.9, 1.0, 0.7, 1.0]
 price: 1995

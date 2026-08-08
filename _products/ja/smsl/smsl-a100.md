@@ -5,6 +5,7 @@ target_name: "SMSL A100"
 company_id: smsl
 lang: ja
 ref: smsl-a100
+audiodb_uid: adb-46dd45bd79b4
 date: 2025-07-20
 rating: [3.2, 0.6, 0.4, 1.0, 0.6, 0.6]
 price: 13950

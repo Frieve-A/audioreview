@@ -5,6 +5,7 @@ target_name: "Denon AVR-X1800H"
 company_id: denon
 lang: en
 ref: denon-avr-x1800h
+audiodb_uid: adb-9d69896a4b75
 date: 2025-08-02
 rating: [3.3, 0.7, 0.5, 0.9, 0.7, 0.5]
 price: 484
@@ -12,7 +13,6 @@ summary: "A 7.2-channel AV receiver. It offers good measurement performance but 
 tags: [AV Receiver, Home Theater, 7.2 Channel, Dolby Atmos, 8K Support]
 permalink: /products/en/denon-avr-x1800h/
 ---
-
 ## Overview
 
 The Denon AVR-X1800H is a 7.2-channel AV receiver. It features a discrete power amplifier with an output of 80W (8Ω, 20Hz-20kHz, 0.08% THD, 2ch driven) and supports the latest video formats such as 8K Ultra HD, HDR10+, and eARC. Equipped with a 32-bit D/A converter, it supports high-resolution audio. It also includes HEOS for wireless streaming and Audyssey MultEQ XT for room acoustic correction, providing sufficient functionality to serve as the core of a modern home theater.

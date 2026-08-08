@@ -5,6 +5,7 @@ target_name: "Yamaha AG06MK2"
 company_id: yamaha
 lang: en
 ref: yamaha-ag06mk2
+audiodb_uid: adb-1db63b04f8d7
 date: 2025-10-16
 rating: [4.0, 0.6, 0.8, 1.0, 0.8, 0.8]
 price: 239.99

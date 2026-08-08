@@ -5,6 +5,7 @@ target_name: "PreSonus Quantum ES2"
 company_id: presonus
 lang: en
 ref: presonus-quantum-es2
+audiodb_uid: adb-ac65a6d1c3a0
 date: 2025-07-31
 rating: [3.4, 0.8, 0.5, 0.8, 0.7, 0.6]
 price: 249

@@ -5,6 +5,7 @@ target_name: "Acoustic Elegance SBP15"
 company_id: acoustic-elegance
 lang: en
 ref: acoustic-elegance-sbp15
+audiodb_uid: adb-9e3f949ae33f
 date: 2025-07-20
 rating: [3.8, 0.9, 0.8, 1.0, 0.4, 0.7]
 price: 425
@@ -12,7 +13,6 @@ summary: "The Acoustic Elegance SBP15 subwoofer delivers industry-leading low di
 tags: [Subwoofer, 15-inch, Home Theater, Sealed, High-end]
 permalink: /products/en/acoustic-elegance-sbp15/
 ---
-
 ## Overview
 
 The Acoustic Elegance SBP15 is a 15-inch subwoofer incorporating the company's proprietary Full Copper Faraday Sleeve (FCFS) technology and Lambda Motor design. With specifications including Fs 21.3Hz, Qts 0.43, Xmax 14mm (one-way), and 500W continuous rating, it is optimized for sealed enclosures. FCFS achieves extremely low distortion rates, while Lambda Motor's low inductance design enables clear reproduction up to 500Hz and beyond. The unique production system of handcrafted manufacturing by a single artisan in Wisconsin, USA, allows for technical specifications that would be difficult to achieve with typical mass production products.

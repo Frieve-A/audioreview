@@ -5,6 +5,7 @@ target_name: "Fengru QZX-A1"
 company_id: fengru
 lang: ja
 ref: fengru-qzx-a1
+audiodb_uid: adb-41f42d1799c0
 date: 2026-03-17
 rating: [2.6, 0.5, 0.1, 1.0, 0.5, 0.5]
 price: 3000

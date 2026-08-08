@@ -5,6 +5,7 @@ target_name: "DUNU Titan S"
 company_id: dunu
 lang: ja
 ref: dunu-titan-s
+audiodb_uid: adb-8ed3e1fb6d0e
 date: 2025-10-01
 rating: [2.6, 0.5, 0.6, 0.4, 0.6, 0.5]
 price: 9315

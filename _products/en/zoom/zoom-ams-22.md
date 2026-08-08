@@ -5,6 +5,7 @@ target_name: "Zoom AMS-22"
 company_id: zoom
 lang: en
 ref: zoom-ams-22
+audiodb_uid: adb-298e501721e4
 date: 2025-08-25
 rating: [2.9, 0.5, 0.5, 1.0, 0.4, 0.5]
 price: 79.99

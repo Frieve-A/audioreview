@@ -5,6 +5,7 @@ target_name: "Fostex HP-A8"
 company_id: fostex
 lang: en
 ref: fostex-hp-a8
+audiodb_uid: adb-f70806e2709d
 date: 2025-08-05
 rating: [3.1, 0.7, 0.6, 0.8, 0.3, 0.7]
 price: 600

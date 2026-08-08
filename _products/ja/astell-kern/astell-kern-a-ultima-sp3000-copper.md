@@ -5,6 +5,7 @@ target_name: "Astell & Kern A&ultima SP3000 Copper"
 company_id: astell-kern
 lang: ja
 ref: astell-kern-a-ultima-sp3000-copper
+audiodb_uid: adb-08a3e635dd16
 date: 2025-08-14
 rating: [2.5, 0.7, 0.8, 0.2, 0.4, 0.4]
 price: 554850

@@ -5,6 +5,7 @@ target_name: "MOONDROP Cosmo"
 company_id: moondrop
 lang: ja
 ref: moondrop-cosmo
+audiodb_uid: adb-7a502f887193
 date: 2025-08-24
 rating: [2.6, 0.6, 0.7, 0.3, 0.4, 0.6]
 price: 129600
@@ -12,7 +13,6 @@ summary: "中高域の明瞭さと穏当な高域を狙った開放型プラナ�
 tags: [開放型, プラナー, オーバーイヤー]
 permalink: /products/ja/moondrop-cosmo/
 ---
-
 ## 概要
 
 Cosmo は MOONDROP の開放型プラナー旗艦です。100 mm の超薄膜（基材厚み約0.5 µm）に純銀エッチング回路を貼り合わせた「Full Drive Technology」、低インピーダンス、4.4 mm バランス付属などを特徴とします。実測では低域の量感が控えめで、中域がやや前に出る一方、高域は荒れにくい傾向が示されています。筐体は金属製で重量級です。国内市場の実売は 129,600円 周辺が確認できます [1][7][8]。

@@ -5,6 +5,7 @@ target_name: "Klipsch Heritage La Scala AL6"
 company_id: klipsch
 lang: en
 ref: klipsch-la-scala-al6
+audiodb_uid: adb-44a6d3d777d6
 date: 2025-10-21
 rating: [3.1, 0.5, 0.7, 0.4, 0.8, 0.7]
 price: 14998

@@ -5,6 +5,7 @@ target_name: "Audeze LCD-X 2021"
 company_id: audeze
 lang: en
 ref: audeze-lcd-x-2021
+audiodb_uid: adb-cbc7acd14649
 date: 2025-09-15
 rating: [2.8, 0.6, 0.7, 0.2, 0.6, 0.7]
 price: 1199

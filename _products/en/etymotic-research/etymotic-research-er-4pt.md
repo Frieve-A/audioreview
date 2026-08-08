@@ -5,6 +5,7 @@ target_name: "Etymotic Research ER-4PT"
 company_id: etymotic-research
 lang: en
 ref: etymotic-research-er-4pt
+audiodb_uid: adb-728f84397fa7
 date: 2025-09-28
 rating: [3.2, 0.5, 0.6, 1.0, 0.8, 0.3]
 price: 299

@@ -5,6 +5,7 @@ target_name: "HiFi Rose RS150B"
 company_id: hifi-rose
 lang: ja
 ref: hifi-rose-rs150b
+audiodb_uid: adb-ecaffc20a7cf
 date: 2025-08-27
 rating: [3.0, 0.9, 1.0, 0.2, 0.5, 0.4]
 price: 789000
@@ -12,7 +13,6 @@ summary: "14.9インチ大型タッチディスプレイとHDMI ARC/4K出力を�
 tags: [ネットワークプレーヤー, DAC, ストリーマー]
 permalink: /products/ja/hifi-rose-rs150b/
 ---
-
 ## 概要
 
 RS150Bは、14.9インチIPSタッチパネル、バランスXLR/RCA出力、HDMI ARC入力と4K映像出力、内蔵SSDベイ/USB/NAS対応を一体化したHiFi Roseのリファレンス機です。ROSE OSを採用し、Roon ReadyとMQAフルデコードに対応。ネットワーク再生、DAC、簡易プリアンプ、映像/操作UIを一箱にまとめたメディアハブ的設計です。 [1][2]

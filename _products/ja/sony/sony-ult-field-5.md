@@ -5,6 +5,7 @@ target_name: "Sony ULT FIELD 5"
 company_id: sony
 lang: ja
 ref: sony-ult-field-5
+audiodb_uid: adb-84d71d38f799
 date: 2025-08-09
 rating: [3.1, 0.5, 0.5, 1.0, 0.6, 0.5]
 price: 26480

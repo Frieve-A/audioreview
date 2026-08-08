@@ -5,6 +5,7 @@ target_name: "Audio-Technica AT-705"
 company_id: audio-technica
 lang: en
 ref: audio-technica-at-705
+audiodb_uid: adb-70a0d318e359
 date: 2026-05-03
 rating: [2.3, 0.4, 0.2, 1.0, 0.1, 0.6]
 price: 70
@@ -12,7 +13,6 @@ summary: "A vintage 1970s electret condenser over-ear headphone and the first mo
 tags: [Headphones, Vintage, Electret, Discontinued, Over-ear]
 permalink: /products/en/audio-technica-at-705/
 ---
-
 ## Overview
 
 The Audio-Technica AT-705 is an electret condenser over-ear headphone produced around 1973–1974 as the first model in the AT-700 series. The system consists of the circumaural headphone and a proprietary impedance-matching transformer adapter that connects to a power amplifier’s speaker outputs (4–16 ohm primary impedance); the adapter provides 36 dB of voltage step-up for the electret drivers. The model has long been discontinued, there is no current official product page, and units appear only on the secondary market.

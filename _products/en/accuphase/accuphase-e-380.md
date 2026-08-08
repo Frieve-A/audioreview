@@ -5,6 +5,7 @@ target_name: "Accuphase E-380"
 company_id: accuphase
 lang: en
 ref: accuphase-e-380
+audiodb_uid: adb-725adfa48904
 date: 2025-08-25
 rating: [2.8, 0.7, 0.5, 0.4, 0.7, 0.5]
 price: 4599

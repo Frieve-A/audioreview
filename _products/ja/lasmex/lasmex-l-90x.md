@@ -5,6 +5,7 @@ target_name: "Lasmex L-90X"
 company_id: lasmex
 lang: ja
 ref: lasmex-l-90x
+audiodb_uid: adb-ee0ad2d3f2c7
 date: 2025-09-29
 rating: [2.9, 0.5, 0.4, 1.0, 0.6, 0.4]
 price: 4956

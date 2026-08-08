@@ -5,6 +5,7 @@ target_name: "Polk Audio Monitor XT35"
 company_id: polk-audio
 lang: en
 ref: polk-audio-monitor-xt35
+audiodb_uid: adb-b4a066fb7580
 date: 2025-08-20
 rating: [2.6, 0.5, 0.3, 1.0, 0.4, 0.4]
 price: 249

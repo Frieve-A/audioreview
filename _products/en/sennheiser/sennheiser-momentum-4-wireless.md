@@ -5,6 +5,7 @@ target_name: "Sennheiser MOMENTUM 4 Wireless"
 company_id: sennheiser
 lang: en
 ref: sennheiser-momentum-4-wireless
+audiodb_uid: adb-47950cdcbc12
 date: 2025-08-09
 rating: [3.9, 0.7, 0.7, 1.0, 0.8, 0.7]
 price: 350

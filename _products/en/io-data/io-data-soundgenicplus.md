@@ -5,6 +5,7 @@ target_name: "I-O Data Soundgenic Plus"
 company_id: io-data
 lang: en
 ref: io-data-soundgenicplus
+audiodb_uid: adb-46f8863e8bcf
 date: 2025-12-18
 rating: [2.5, 0.5, 0.6, 0.6, 0.5, 0.3]
 price: 325

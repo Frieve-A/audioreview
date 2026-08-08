@@ -5,6 +5,7 @@ target_name: "Pioneer SE-700"
 company_id: pioneer
 lang: en
 ref: pioneer-se-700
+audiodb_uid: adb-aaa6f350d144
 date: 2026-01-02
 rating: [1.0, 0.2, 0.4, 0.2, 0.0, 0.2]
 price: 200
@@ -12,7 +13,6 @@ summary: "Vintage 1974 headphones with innovative polymer film technology but si
 tags: [Headphones, Vintage, Pioneer, Polymer]
 permalink: /products/en/pioneer-se-700/
 ---
-
 ## Overview
 
 The Pioneer SE-700 represents a fascinating piece of audio history, introduced in 1974 as part of Pioneer's ambitious attempt to revolutionize headphone technology through advanced polymer film technology [1]. These headphones were among the world's first high-polymer molecular headphones, featuring a 7 µm polymer film transducer with a fundamentally different operational approach compared to conventional headphone designs [2]. Manufactured from 1974 to 1977 with an original retail price of approximately 279 DM, the SE-700 served as Pioneer's flagship model in a three-product line that included the SE-300 and SE-500. The design won prestigious Gold Sim and Top Form Italian design awards and represented genuine innovation in transducer technology, though this ambitious technological approach ultimately proved problematic in practical implementation.

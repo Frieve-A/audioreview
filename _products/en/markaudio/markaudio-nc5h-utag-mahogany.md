@@ -5,6 +5,7 @@ target_name: "MarkAudio NC5H UTAG Mahogany"
 company_id: markaudio
 lang: en
 ref: markaudio-nc5h-utag-mahogany
+audiodb_uid: adb-21d8e63f82c2
 date: 2025-09-22
 rating: [2.3, 0.5, 0.7, 0.1, 0.6, 0.4]
 price: 932
@@ -12,7 +13,6 @@ summary: "Limited edition bookshelf speakers featuring world's first UTAG glass 
 tags: [Speakers, Full-range, Bookshelf, UTAG, Glass diaphragm, Premium]
 permalink: /products/en/markaudio-nc5h-utag-mahogany/
 ---
-
 ## Overview
 
 The MarkAudio NC5H UTAG Mahogany represents a unique entry in the bookshelf speaker market, featuring the world's first full-range driver with a diaphragm crafted from UTAG (Ultra Thin Acoustic Glass). This limited edition model, restricted to just 10 pairs and handcrafted by Shinshu artisans, combines cutting-edge glass diaphragm technology with premium mahogany solid wood construction. The speaker utilizes NEG's Dinorex UTG (100µm ultra-thin chemically strengthened glass) originally developed for foldable smartphones, adapted for audio applications. With claimed frequency extension from 53Hz to 40kHz and dual bass reflex ports of different lengths, this speaker targets audiophiles seeking innovative materials and craftsmanship.

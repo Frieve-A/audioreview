@@ -5,6 +5,7 @@ target_name: "Topping D30Pro"
 company_id: topping
 lang: en
 ref: topping-d30pro
+audiodb_uid: adb-a8a8aed3d367
 date: 2025-08-01
 rating: [3.5, 0.9, 0.7, 0.5, 0.6, 0.8]
 price: 399

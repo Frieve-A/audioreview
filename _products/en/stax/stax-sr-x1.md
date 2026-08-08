@@ -5,6 +5,7 @@ target_name: "STAX SR-X1"
 company_id: stax
 lang: en
 ref: stax-sr-x1
+audiodb_uid: adb-a262ce7aa8eb
 date: 2025-08-29
 rating: [2.5, 0.5, 0.6, 0.4, 0.7, 0.3]
 price: 535

@@ -5,6 +5,7 @@ target_name: "Tempotec Sonata BHD Pro"
 company_id: tempotec
 lang: en
 ref: tempotec-sonata-bhd-pro
+audiodb_uid: adb-75deb61d65e9
 date: 2025-08-25
 rating: [3.4, 0.8, 0.6, 0.7, 0.6, 0.7]
 price: 70

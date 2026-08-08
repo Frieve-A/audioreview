@@ -5,6 +5,7 @@ target_name: "Topping A70 Pro"
 company_id: topping
 lang: en
 ref: topping-a70-pro
+audiodb_uid: adb-378feed9fa6c
 date: 2025-08-08
 rating: [3.5, 0.9, 0.8, 0.3, 0.7, 0.8]
 price: 499

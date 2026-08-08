@@ -5,6 +5,7 @@ target_name: "Creative Pebble SE"
 company_id: creative
 lang: en
 ref: creative-pebble-se
+audiodb_uid: adb-f421eab8271b
 date: 2025-09-03
 rating: [2.0, 0.3, 0.4, 0.4, 0.5, 0.4]
 price: 24.99
@@ -12,7 +13,6 @@ summary: "USB-C powered desktop speakers with RGB lighting at around 25 USD. Pro
 tags: [Budget, Creative, Desktop Speakers, USB-C, RGB Lighting]
 permalink: /products/en/creative-pebble-se/
 ---
-
 ## Overview
 
 The Creative Pebble SE is a USB-C powered 2.0 desktop speaker system at about 25 USD, essentially an updated version of the original Pebble with added RGB lighting and modern connectivity. It delivers up to 4.4W RMS total output through 2-inch full-range drivers angled at 45 degrees for desktop listening optimization, enhanced by built-in passive radiators for low-frequency reinforcement [1][2]. The distinctive orb-shaped design incorporates seven preset RGB lighting modes. Targeting desktop computer users who prioritize both functionality and aesthetic appeal, the SE maintains the Pebble series’ approachable audio while adding visual enhancement for modern setups.

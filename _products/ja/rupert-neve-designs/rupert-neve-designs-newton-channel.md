@@ -5,6 +5,7 @@ target_name: "Rupert Neve Designs Newton Channel"
 company_id: rupert-neve-designs
 lang: ja
 ref: rupert-neve-designs-newton-channel
+audiodb_uid: adb-d0736cf3e4e9
 date: 2025-07-20
 rating: [3.2, 0.8, 0.8, 0.2, 0.7, 0.7]
 price: 299850
@@ -12,7 +13,6 @@ summary: "優秀な測定性能と高い技術レベルを持つプロフェッ�
 tags: [チャンネルストリップ, プリアンプ, EQ, コンプレッサー, プロオーディオ]
 permalink: /products/ja/rupert-neve-designs-newton-channel/
 ---
-
 ## 概要
 
 Rupert Neve Designs Newton Channelは、2023年6月に発売されたプロフェッショナル向けチャンネルストリップです。1999年USD（約30万円）の価格で、クラスAマイクプリアンプ（72dBゲイン）、3バンドEQ、VCAコンプレッサー、Silkハーモニック・サチュレーション回路を1Uラックマウント筐体に統合しています。Rupert Neveの音響設計哲学を現代的な製造技術で実現した製品として位置づけられ、同社の中では最もアクセスしやすい価格帯のラックマウント製品です。

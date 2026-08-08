@@ -5,6 +5,7 @@ target_name: "Logitech Z313"
 company_id: logitech
 lang: en
 ref: logitech-z313
+audiodb_uid: adb-e0eb29fa94ee
 date: 2025-08-21
 rating: [2.1, 0.3, 0.4, 0.7, 0.4, 0.3]
 price: 69.99
@@ -12,7 +13,6 @@ summary: "Budget 2.1 speaker system with severe frequency-response shaping; requ
 tags: [Speakers, Desktop, 2.1 System, Budget]
 permalink: /products/en/logitech-z313/
 ---
-
 ## Overview
 
 The Logitech Z313 is an entry-level 2.1 PC speaker system (two satellites + subwoofer, 25 W RMS). Current U.S. market pricing is about **69.99 USD**. Independent measurements show large, engineered tonal deviations that materially affect fidelity, so we evaluate it strictly by data below.

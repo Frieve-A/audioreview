@@ -5,6 +5,7 @@ target_name: "Technics SU-R1000"
 company_id: technics
 lang: ja
 ref: technics-su-r1000
+audiodb_uid: adb-ac40a99a160a
 date: 2025-09-05
 rating: [3.4, 0.5, 0.9, 0.5, 0.7, 0.8]
 price: 1499000

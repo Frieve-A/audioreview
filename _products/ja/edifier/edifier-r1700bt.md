@@ -5,6 +5,7 @@ target_name: "Edifier R1700BT"
 company_id: edifier
 lang: ja
 ref: edifier-r1700bt
+audiodb_uid: adb-b9e33aa01fdb
 date: 2025-08-31
 rating: [2.8, 0.4, 0.6, 0.9, 0.6, 0.3]
 price: 22064
@@ -12,7 +13,6 @@ summary: "Bluetooth 5.1対応の小型2.0パワードスピーカー。設計は
 tags: [ブックシェルフスピーカー, アクティブスピーカー, Bluetooth, 予算オーディオ]
 permalink: /products/ja/edifier-r1700bt/
 ---
-
 ## 概要
 
 Edifier R1700BTは4インチ中低域ドライバーと19 mmシルクドームツイーター、合計66 W RMS出力を備える2.0アクティブBluetoothスピーカーです。Class-D＋DSP/DRC、デュアルRCA入力、Bluetooth 5.1、10°上向きのMDFキャビネットを採用します [1]。

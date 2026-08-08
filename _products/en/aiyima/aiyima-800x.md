@@ -5,6 +5,7 @@ target_name: "AIYIMA 800X"
 company_id: aiyima
 lang: en
 ref: aiyima-800x
+audiodb_uid: adb-fd2870ca2685
 date: 2026-02-24
 rating: [2.7, 0.5, 0.4, 0.6, 0.4, 0.8]
 price: 195.99
@@ -12,7 +13,6 @@ summary: "8-inch powered subwoofer with standard Class-D amplification and multi
 tags: [Subwoofers, Class D, TPA3116D2, Powered]
 permalink: /products/en/aiyima-800x/
 ---
-
 ## Overview
 
 The AIYIMA 800X is an 8-inch powered subwoofer designed to enhance bass response in home audio systems. Built around Texas Instruments' TPA3116D2 Class-D amplifier chip and MVSILICON's BP1048B2 Bluetooth processor, it targets budget-conscious users seeking straightforward bass augmentation with multiple connectivity options [1][2]. The trapezoidal enclosure design features MDF construction with claimed frequency coverage from 30Hz to 300Hz.

@@ -5,6 +5,7 @@ target_name: "TEAC S-300NEO"
 company_id: teac
 lang: ja
 ref: teac-s-300neo
+audiodb_uid: adb-49d9a53b14f4
 date: 2025-10-01
 rating: [2.0, 0.5, 0.3, 0.1, 0.4, 0.7]
 price: 114750

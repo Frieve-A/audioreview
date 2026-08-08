@@ -5,6 +5,7 @@ target_name: "NiceHCK Himalaya"
 company_id: nicehck
 lang: en
 ref: nicehck-himalaya
+audiodb_uid: adb-2a3a6dd0de57
 date: 2025-08-02
 rating: [2.8, 0.5, 0.8, 0.3, 0.6, 0.6]
 price: 329

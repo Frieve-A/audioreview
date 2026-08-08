@@ -5,6 +5,7 @@ target_name: "HiFiMAN Sundara Closed-Back"
 company_id: hifiman
 lang: en
 ref: hifiman-sundara-closed-back
+audiodb_uid: adb-ac3ee9c7b103
 date: 2025-09-17
 rating: [2.0, 0.5, 0.6, 0.2, 0.3, 0.4]
 price: 399

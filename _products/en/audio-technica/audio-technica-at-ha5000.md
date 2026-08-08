@@ -5,6 +5,7 @@ target_name: "Audio-Technica AT-HA5000"
 company_id: audio-technica
 lang: en
 ref: audio-technica-at-ha5000
+audiodb_uid: adb-5cf49fbb66e9
 date: 2025-10-05
 rating: [1.9, 0.6, 0.4, 0.2, 0.4, 0.3]
 price: 645

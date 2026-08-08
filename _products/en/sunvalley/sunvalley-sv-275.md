@@ -5,6 +5,7 @@ target_name: "Sunvalley SV-275"
 company_id: sunvalley
 lang: en
 ref: sunvalley-sv-275
+audiodb_uid: adb-823eee45dd52
 date: 2025-07-25
 rating: [1.0, 0.1, 0.2, 0.1, 0.5, 0.1]
 price: 660

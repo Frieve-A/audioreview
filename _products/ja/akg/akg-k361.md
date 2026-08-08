@@ -5,6 +5,7 @@ target_name: "AKG K361"
 company_id: akg
 lang: ja
 ref: akg-k361
+audiodb_uid: adb-816c66faa490
 date: 2025-09-21
 rating: [3.1, 0.5, 0.4, 1.0, 0.4, 0.8]
 price: 13700

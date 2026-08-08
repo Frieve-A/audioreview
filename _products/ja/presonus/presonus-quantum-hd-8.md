@@ -5,6 +5,7 @@ target_name: "PreSonus Quantum HD 8"
 company_id: presonus
 lang: ja
 ref: presonus-quantum-hd-8
+audiodb_uid: adb-5c8c2e43ec32
 date: 2025-07-21
 rating: [3.7, 0.8, 0.7, 0.7, 0.7, 0.8]
 price: 152671
@@ -12,7 +13,6 @@ summary: "プロレベルのMAX-HDプリアンプと高いダイナミックレ�
 tags: [USB-C, オーディオインターフェース, プロオーディオ, 録音, PreSonus]
 permalink: /products/ja/presonus-quantum-hd-8/
 ---
-
 ## 概要
 
 PreSonus Quantum HD 8は、同社の30年にわたる技術革新の集大成として2024年にリリースされた26入力30出力のUSB-Cオーディオインターフェースです。8基の新開発MAX-HDマイクプリアンプと最大+75dBのゲインを搭載し、32bit/192kHzの高解像度録音に対応します。Studio One Pro 7の永続ライセンス（199.99USD相当）が付属し、プロフェッショナルな音楽制作環境を提供します。1Uラックマウント対応の筐体に、ADAT I/O、S/PDIF I/O、MIDI I/O、ワードクロック入出力、リアンプ出力、ループバック機能を搭載し、スタジオでの多様な録音ニーズに対応する設計となっています。

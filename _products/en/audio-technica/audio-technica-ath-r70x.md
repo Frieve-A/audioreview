@@ -5,6 +5,7 @@ target_name: "Audio-Technica ATH-R70x"
 company_id: audio-technica
 lang: en
 ref: audio-technica-ath-r70x
+audiodb_uid: adb-bf7dc0183246
 date: 2025-07-14
 rating: [3.3, 0.8, 0.7, 0.3, 0.8, 0.7]
 price: 349
@@ -12,7 +13,6 @@ summary: "Audio-Technica's first open-back reference headphones achieve high tec
 tags: [Open-back, Headphones, Reference, Audio-Technica, Professional]
 permalink: /products/en/audio-technica-ath-r70x/
 ---
-
 ## Overview
 
 The Audio-Technica ATH-R70x was released in 2014 as the company's first open-back reference headphones. Featuring a 45mm driver with 470Ω high impedance and 99dB sensitivity, it achieves wide-band reproduction from 5Hz to 40kHz. The lightweight design of approximately 210g ensures comfort during extended use, making it suitable for both professional music production and high-quality music listening. The aluminum honeycomb mesh housing design provides high acoustic transparency, delivering natural and open soundstage characteristics.

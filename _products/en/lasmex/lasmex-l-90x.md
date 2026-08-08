@@ -5,6 +5,7 @@ target_name: "Lasmex L-90X"
 company_id: lasmex
 lang: en
 ref: lasmex-l-90x
+audiodb_uid: adb-ee0ad2d3f2c7
 date: 2025-09-29
 rating: [2.9, 0.5, 0.4, 1.0, 0.6, 0.4]
 price: 33
@@ -12,7 +13,6 @@ summary: "Hybrid electrostatic headphones with unique positioning but lacking me
 tags: [Headphones, Electrostatic, Hybrid, High-Resolution]
 permalink: /products/en/lasmex-l-90x/
 ---
-
 ## Overview
 
 The Lasmex L-90X is positioned as a high-resolution compatible electrostatic headphone featuring a hybrid driver system that combines both electrostatic and dynamic 40mm dome drivers. Marketed by German-branded manufacturer Lasmex, the L-90X claims extended frequency response from 5Hz to 50kHz and represents the company's premium electrostatic technology offering. The product targets users seeking electrostatic sound characteristics at an accessible price point compared to traditional electrostatic systems that require dedicated high-voltage amplifiers.

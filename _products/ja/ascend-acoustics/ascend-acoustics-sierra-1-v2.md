@@ -5,6 +5,7 @@ target_name: "Ascend Acoustics Sierra-1 V2"
 company_id: ascend-acoustics
 lang: ja
 ref: ascend-acoustics-sierra-1-v2
+audiodb_uid: adb-61e762dc4e84
 date: 2025-08-20
 rating: [4.1, 0.8, 0.7, 0.9, 0.8, 0.9]
 price: 149244
@@ -12,7 +13,6 @@ summary: "Klippel NFSに基づくCTA-2034公開データ、竹材キャビネッ
 tags: [スピーカー, ブックシェルフ, パッシブ, ハイエンド]
 permalink: /products/ja/ascend-acoustics-sierra-1-v2/
 ---
-
 ## 概要
 
 Ascend Acoustics Sierra-1 V2は、ペア149,244円（998 USD）のパッシブブックシェルフスピーカーです。Klippel NFSで取得したCTA-2034準拠データを公開し、各個体の生産ライン周波数特性（シリアル付き、左右±1 dBマッチング）を同梱します。縦方向積層の竹材キャビネットを採用し、30日満足保証と7年保証が付属します。 [1][3]

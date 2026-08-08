@@ -5,6 +5,7 @@ target_name: "Loxjie D40"
 company_id: loxjie
 lang: ja
 ref: loxjie-d40
+audiodb_uid: adb-bd9dd9ff9885
 date: 2025-08-24
 rating: [3.6, 0.8, 0.6, 0.7, 0.7, 0.8]
 price: 64800
@@ -12,7 +13,6 @@ summary: "デュアルESS ES9068AS DACチップを搭載したデスクトップ
 tags: [DAC, ヘッドホンアンプ, デスクトップ, ESS-Sabre, MQA, Bluetooth, USB]
 permalink: /products/ja/loxjie-d40/
 ---
-
 ## 概要
 
 Loxjie D40は、デュアルESS ES9068AS DACチップをバランス構成で搭載したデスクトップDAC・ヘッドホンアンプ複合ユニットです。USB/同軸/光入力、Bluetooth（LDAC対応）を備え、PCM 32-bit/768kHz、DSD512、MQAフルデコードに対応します[4][5]。デジタル・アナログ変換とヘッドホン駆動を1台で完結したいユーザーを主対象としています。

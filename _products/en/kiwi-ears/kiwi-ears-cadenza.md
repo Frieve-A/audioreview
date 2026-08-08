@@ -5,6 +5,7 @@ target_name: "Kiwi Ears Cadenza"
 company_id: kiwi-ears
 lang: en
 ref: kiwi-ears-cadenza
+audiodb_uid: adb-d6b6dc83c7b3
 date: 2025-09-06
 rating: [3.2, 0.6, 0.4, 0.6, 0.6, 1.0]
 price: 34.99

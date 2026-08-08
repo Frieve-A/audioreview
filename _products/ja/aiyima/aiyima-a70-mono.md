@@ -5,6 +5,7 @@ target_name: "AIYIMA A70 Mono"
 company_id: aiyima
 lang: ja
 ref: aiyima-a70-mono
+audiodb_uid: adb-ca84eca89a10
 date: 2025-08-15
 rating: [3.8, 0.8, 0.7, 0.9, 0.6, 0.8]
 price: 25600
@@ -12,7 +13,6 @@ summary: "TPA3255とPFFBを採用したモノブロックClass Dアンプです�
 tags: [Class Dアンプ, TPA3255, モノアンプ, PFFB, モノブロック]
 permalink: /products/ja/aiyima-a70-mono/
 ---
-
 ## 概要
 
 AIYIMA A70 Monoは、Texas InstrumentsのTPA3255とPost Filter Feedback（PFFB）を組み合わせたモノブロックClass Dアンプです。XLRバランス入力とRCA入力、システム連携用の12Vトリガーを備え、アクティブサブウーファー出力（可変ローパス40〜200Hz、RCA入力時の+6dBゲイン切替）を内蔵します。定格は4Ωで300W（48V/5A時）です[1]。

@@ -5,6 +5,7 @@ target_name: "Western Electric 300B"
 company_id: western-electric
 lang: en
 ref: western-electric-300b
+audiodb_uid: adb-420a2963546b
 date: 2025-07-26
 rating: [3.4, 0.8, 0.7, 0.2, 0.9, 0.8]
 price: 1400

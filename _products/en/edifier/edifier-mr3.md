@@ -5,6 +5,7 @@ target_name: "Edifier MR3"
 company_id: edifier
 lang: en
 ref: edifier-mr3
+audiodb_uid: adb-7d523a71a339
 date: 2026-02-13
 rating: [3.2, 0.7, 0.4, 1.0, 0.6, 0.5]
 price: 149.99
@@ -12,7 +13,6 @@ summary: "Active studio monitor with flat frequency response, Bluetooth 5.4 conn
 tags: [active-speakers, studio-monitors, bluetooth, desktop-speakers]
 permalink: /products/en/edifier-mr3/
 ---
-
 ## Overview
 
 The MR3 is Edifier's powered studio monitor targeting desktop monitoring applications with a focus on accurate audio reproduction. Featuring 3.5-inch mid-low drivers with 1-inch silk dome tweeters, the system delivers 18W × 2 RMS output with 92.5dB peak SPL capability for near-field monitoring. Key features include Bluetooth 5.4 connectivity with multi-device support, balanced TRS inputs, headphone output, and Hi-Res Audio certification supporting 24-bit/96kHz processing. The design incorporates dimpled tweeter waveguides for enhanced high-frequency response and MDF cabinet construction for reduced distortion. At 149.99 USD MSRP with occasional promotional pricing around 99.98 USD, it positions as an accessible studio monitor bridging professional accuracy with modern connectivity features for home studios and desktop setups.

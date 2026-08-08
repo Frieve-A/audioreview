@@ -5,6 +5,7 @@ target_name: "Universal Audio Apollo e2m"
 company_id: universal-audio
 lang: ja
 ref: universal-audio-apollo-e2m
+audiodb_uid: adb-c2f79d2bb6c7
 date: 2025-12-01
 rating: [4.4, 0.9, 0.9, 1.0, 0.7, 0.9]
 price: 75000

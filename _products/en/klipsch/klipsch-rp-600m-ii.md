@@ -5,6 +5,7 @@ target_name: "Klipsch RP-600M II"
 company_id: klipsch
 lang: en
 ref: klipsch-rp-600m-ii
+audiodb_uid: adb-76543f2c4952
 date: 2025-07-09
 rating: [2.2, 0.4, 0.6, 0.3, 0.6, 0.3]
 price: 759

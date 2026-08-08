@@ -5,6 +5,7 @@ target_name: "Softears Turii"
 company_id: softears
 lang: en
 ref: softears-turii
+audiodb_uid: adb-3435409dff2e
 date: 2026-05-31
 rating: [1.5, 0.4, 0.6, 0.0, 0.2, 0.3]
 price: 1399

@@ -5,6 +5,7 @@ target_name: "MOTU 8D"
 company_id: motu
 lang: ja
 ref: motu-motu-8d
+audiodb_uid: adb-c12abb8ab780
 date: 2026-05-25
 rating: [3.7, 0.7, 0.6, 1, 0.7, 0.7]
 price: 110000
@@ -12,7 +13,6 @@ summary: "AES3、S/PDIF、USB、AVB-TSN、DSPミキシング、ブラウザ制�
 tags: [オーディオインターフェース, AVB, AES3, DSP, デジタルルーティング, ヘッドホン出力]
 permalink: /products/ja/motu-motu-8d/
 ---
-
 ## 概要
 
 MOTU 8Dは、AES3、S/PDIF、USB、AVB-TSN接続を核にしたコンパクトなデジタルオーディオインターフェース兼ルーティングハブです。サンプルレート変換、48入力DSPミキサー、ブラウザ制御、マトリクスルーティング、割り当て可能なヘッドホン出力を、ハーフラック筐体にまとめています。MOTUは今でもAVBラインアップの一部として案内しています[1][2]。

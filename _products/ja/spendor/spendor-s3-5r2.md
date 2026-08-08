@@ -5,6 +5,7 @@ target_name: "Spendor S3/5R2"
 company_id: spendor
 lang: ja
 ref: spendor-s3-5r2
+audiodb_uid: adb-2bdfbc33279c
 date: 2025-10-12
 rating: [2.7, 0.5, 0.6, 0.7, 0.7, 0.2]
 price: 112500
@@ -12,7 +13,6 @@ summary: "BBC伝統を継承する廃盤ブックシェルフスピーカー。�
 tags: [スピーカー, ブックシェルフ, BBC, イギリス]
 permalink: /products/ja/spendor-s3-5r2/
 ---
-
 ## 概要
 
 Spendor S3/5R2は、同社のBBC伝統設計思想の継続を表す製品で、オリジナルのLS 3/5a仕様を現代的に改良したものです。BBCサウンドエンジニア出身のSpencer Hughesが設立したSpendorは、1960年代後期から伝統的なスピーカー設計に注力してきました。S3/5R2は密閉型設計で、SA1モデルから22mmツイーターと140mm ep39ウーファーを採用し、低域の明瞭性と透明度を向上させたオリジナルS3/5の改良版として位置づけられています[1]。発売時1595ドルでしたが、現在は廃盤となり、2024-2025年の市場相場に基づき約750ドルで中古市場のみで入手可能です。

@@ -5,6 +5,7 @@ target_name: "Michael Fidler Spartan-20"
 company_id: michael-fidler
 lang: ja
 ref: michael-fidler-spartan-20
+audiodb_uid: adb-3663ae497f96
 date: 2025-08-28
 rating: [2.9, 0.3, 0.6, 1.0, 0.6, 0.4]
 price: 99200
@@ -12,7 +13,6 @@ summary: "デュアルMM/MC入力、厳密なRIAAと非常に低い歪みを備�
 tags: [フォノステージ, プリアンプ, MM, MC, オーディオ機器]
 permalink: /products/ja/michael-fidler-spartan-20/
 ---
-
 ## 概要
 
 Spartan-20は英国製のデュアルMM/MCフォノプリアンプで、Spartan-15のMM部にディスクリートClass-A MCヘッドアンプを組み合わせています。22 Hz・3次サブソニック、2段階LFクロスフィード、モノスイッチ、並列RCAライン出力など、実用的な機能を備えます。2025年3–4月時点の直販価格は670 USD（日本記事の価格欄は 99,200円相当を記載）です。 [1][2]

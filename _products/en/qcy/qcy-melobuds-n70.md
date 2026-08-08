@@ -5,6 +5,7 @@ target_name: "QCY MeloBuds N70"
 company_id: qcy
 lang: en
 ref: qcy-melobuds-n70
+audiodb_uid: adb-7527cbd3f451
 date: 2025-09-09
 rating: [3.2, 0.6, 0.8, 0.8, 0.5, 0.5]
 price: 59.99
@@ -12,7 +13,6 @@ summary: "Affordable true wireless earbuds featuring MEMS tweeter technology wit
 tags: [Wireless, Earbuds, MEMS, ANC, LDAC, Bluetooth]
 permalink: /products/en/qcy-melobuds-n70/
 ---
-
 ## Overview
 
 The QCY MeloBuds N70 represents an ambitious attempt to bring MEMS (Micro-Electro-Mechanical Systems) tweeter technology to the affordable true wireless earbuds market. Featuring a hybrid driver configuration that combines a 10mm liquid silicone dynamic driver with a USound MEMS tweeter, these earbuds target the sub-60 USD segment while offering premium features including LDAC codec support, Hi-Res certification, and up to 56dB adaptive ANC. QCY, established by Dongguan Hele Electronics, positions this model as their flagship offering with cutting-edge acoustic technology typically found in significantly more expensive products.

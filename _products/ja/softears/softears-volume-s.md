@@ -5,6 +5,7 @@ target_name: "Softears Volume S"
 company_id: softears
 lang: ja
 ref: softears-volume-s
+audiodb_uid: adb-584b950196c4
 date: 2026-05-31
 rating: [2.4, 0.6, 0.8, 0.2, 0.3, 0.5]
 price: 49000

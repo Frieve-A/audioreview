@@ -5,6 +5,7 @@ target_name: "RODE RODE NT1 Signature"
 company_id: rode
 lang: en
 ref: rode-rode-nt1-signature
+audiodb_uid: adb-8e3a8c8ef567
 date: 2026-05-27
 rating: [4.2, 0.7, 0.7, 1.0, 1.0, 0.8]
 price: 159

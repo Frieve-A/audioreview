@@ -5,6 +5,7 @@ target_name: "Sennheiser MOMENTUM Sport"
 company_id: sennheiser
 lang: en
 ref: sennheiser-momentum-sport
+audiodb_uid: adb-7617173ee75b
 date: 2025-11-06
 rating: [3.6, 0.5, 0.8, 1.0, 0.5, 0.8]
 price: 329.95
@@ -12,7 +13,6 @@ summary: "First-to-market fitness earbuds with integrated heart rate and body te
 tags: [Earbuds, Wireless, Fitness, Heart Rate Monitor, Temperature Sensor, Bluetooth, ANC]
 permalink: /products/en/sennheiser-momentum-sport/
 ---
-
 ## Overview
 
 The Sennheiser MOMENTUM Sport represents a pioneering approach to fitness-focused audio devices, being the world's first commercially available earbuds to integrate both heart rate and body temperature monitoring capabilities. Released in April 2024 at 329.95 USD, these earbuds combine Sennheiser's established audio expertise with Polar's fitness tracking technology. The product features 10mm dynamic drivers, Bluetooth 5.2 connectivity with aptX Adaptive codec support, and a comprehensive sensor suite including photoplethysmography (PPG) heart rate monitoring, body temperature sensing accurate to ±0.3°C, and three-axis accelerometers. With IP55 water resistance (manufacturer specification, though some sources report IPX5) and integration across major fitness platforms including Apple Health, Garmin Connect, Strava, and Peloton, the MOMENTUM Sport targets users seeking consolidated audio and fitness tracking functionality.

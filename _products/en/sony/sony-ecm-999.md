@@ -5,6 +5,7 @@ target_name: "Sony ECM-999"
 company_id: sony
 lang: en
 ref: sony-ecm-999
+audiodb_uid: adb-5e46ce3c74db
 date: 2025-10-11
 rating: [2.9, 0.4, 0.5, 1.0, 0.4, 0.6]
 price: 240

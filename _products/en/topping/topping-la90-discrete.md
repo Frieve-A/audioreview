@@ -5,6 +5,7 @@ target_name: "Topping LA90 Discrete"
 company_id: topping
 lang: en
 ref: topping-la90-discrete
+audiodb_uid: adb-2b9725ca940d
 date: 2025-07-14
 rating: [3.3, 0.9, 0.8, 0.4, 0.4, 0.8]
 price: 667

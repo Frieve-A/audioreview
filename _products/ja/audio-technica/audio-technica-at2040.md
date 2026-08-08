@@ -5,6 +5,7 @@ target_name: "Audio-Technica AT2040"
 company_id: audio-technica
 lang: ja
 ref: audio-technica-at2040
+audiodb_uid: adb-372dd02623de
 date: 2025-11-05
 rating: [3.6, 0.5, 0.6, 1.0, 0.8, 0.7]
 price: 14850

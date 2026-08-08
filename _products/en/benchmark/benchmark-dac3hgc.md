@@ -5,6 +5,7 @@ target_name: "Benchmark DAC3 HGC"
 company_id: benchmark
 lang: en
 ref: benchmark-dac3hgc
+audiodb_uid: adb-c8e81e59a78c
 date: 2025-07-25
 rating: [2.9, 0.9, 0.6, 0.3, 0.8, 0.3]
 price: 2653

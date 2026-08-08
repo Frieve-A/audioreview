@@ -5,6 +5,7 @@ target_name: "Sabaj D5"
 company_id: sabaj
 lang: en
 ref: sabaj-d5
+audiodb_uid: adb-74f06c7a035d
 date: 2025-08-10
 rating: [3.3, 0.9, 0.6, 0.5, 0.5, 0.8]
 price: 470
@@ -12,7 +13,6 @@ summary: "Desktop DAC/amplifier using ES9038PRO chip achieving excellent measure
 tags: [DAC, Headphone-amplifier, Desktop, ES9038PRO, Balanced]
 permalink: /products/en/sabaj-d5/
 ---
-
 ## Overview
 
 Sabaj D5 is a desktop DAC and headphone amplifier combination featuring the flagship ES9038PRO DAC chip from ESS Technology. Supporting high-resolution audio up to 32-bit/768kHz PCM and DSD512, the D5 provides both single-ended and balanced outputs with 1912mW power at 32Ω. Digital inputs are USB, optical, coaxial, and I2S via HDMI; line outputs are balanced XLR and single-ended RCA; headphone outputs are 4-pin XLR (balanced) and 6.35 mm. Remote control is included. Sabaj positions this as a high-performance desktop solution targeting transparent sound reproduction.

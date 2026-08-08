@@ -5,6 +5,7 @@ target_name: "BIC America DV62si"
 company_id: bic-america
 lang: en
 ref: bic-america-dv62si
+audiodb_uid: adb-1a1985d8ab8e
 date: 2025-07-20
 rating: [2.5, 0.3, 0.4, 1.0, 0.4, 0.4]
 price: 149.95

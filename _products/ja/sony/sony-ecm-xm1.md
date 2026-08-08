@@ -5,6 +5,7 @@ target_name: "Sony ECM-XM1"
 company_id: sony
 lang: ja
 ref: sony-ecm-xm1
+audiodb_uid: adb-1e07f97ef8d7
 date: 2025-11-18
 rating: [3.0, 0.4, 0.4, 1.0, 0.6, 0.6]
 price: 19500

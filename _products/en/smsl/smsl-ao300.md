@@ -5,6 +5,7 @@ target_name: "SMSL AO300"
 company_id: smsl
 lang: en
 ref: smsl-ao300
+audiodb_uid: adb-b5f6f6e03eb9
 date: 2026-03-14
 rating: [3.4, 0.7, 0.4, 1.0, 0.6, 0.7]
 price: 289

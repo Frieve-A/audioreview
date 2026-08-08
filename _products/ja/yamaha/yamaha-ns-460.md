@@ -5,6 +5,7 @@ target_name: "YAMAHA NS-460"
 company_id: yamaha
 lang: ja
 ref: yamaha-ns-460
+audiodb_uid: adb-d1363066ade5
 date: 2025-07-21
 rating: [1.6, 0.3, 0.2, 0.5, 0.2, 0.4]
 price: 22000

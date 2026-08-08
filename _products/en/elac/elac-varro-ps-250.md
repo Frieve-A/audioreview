@@ -5,6 +5,7 @@ target_name: "Elac Varro PS-250"
 company_id: elac
 lang: en
 ref: elac-varro-ps-250
+audiodb_uid: adb-3fc788f09f4a
 date: 2025-08-12
 rating: [3.6, 0.6, 0.7, 0.9, 0.7, 0.7]
 price: 699.98
@@ -12,7 +13,6 @@ summary: "Premium-series 10-inch subwoofer with app control and Auto EQ; measure
 tags: [Subwoofer, Active, BASH, App Control, Auto EQ]
 permalink: /products/en/elac-varro-ps-250/
 ---
-
 ## Overview
 
 The Elac Varro PS-250 is a 10-inch powered subwoofer positioned as the entry-level model in Elac's Premium Varro series. It features a 250-watt RMS BASH amplifier driving a treated paper cone woofer with a large 2.0-inch voice coil. The subwoofer includes modern conveniences like Bluetooth app control and automatic room correction through 16 internal parametric EQs. While offering advanced digital processing features typically found in higher-end models, it competes in a highly contested price segment against established specialist subwoofer manufacturers.

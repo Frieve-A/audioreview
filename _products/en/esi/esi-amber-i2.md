@@ -5,6 +5,7 @@ target_name: "ESI Amber i2"
 company_id: esi
 lang: en
 ref: esi-amber-i2
+audiodb_uid: adb-c387f188da5b
 date: 2025-09-14
 rating: [3.3, 0.5, 0.6, 0.9, 0.6, 0.7]
 price: 177

@@ -5,6 +5,7 @@ target_name: "Google Pixel Buds Pro 2"
 company_id: google
 lang: ja
 ref: google-pixel-buds-pro-2
+audiodb_uid: adb-47e43cc97424
 date: 2025-10-17
 rating: [3.4, 0.5, 1.0, 0.4, 0.5, 1.0]
 price: 25000
@@ -12,7 +13,6 @@ summary: "Tensor A1チップによる先進的なノイズキャンセリング�
 tags: [イヤホン, アクティブノイズキャンセリング, Bluetooth, Google, Tensor A1, ワイヤレスオーディオ]
 permalink: /products/ja/google-pixel-buds-pro-2/
 ---
-
 ## 概要
 
 Google Pixel Buds Pro 2は、超低レイテンシオーディオ処理専用に設計されたカスタムTensor A1チップを搭載したGoogleの第2世代プレミアムワイヤレスイヤホンです。2024年9月にMSRP 229ドル（現在179ドル）で発売され、11mmダイナミックドライバーと高周波チャンバーを組み込み、前世代と比較して2倍強力なアクティブノイズキャンセレーションを実現しています。この製品は、オーディオアプリケーション向けの独自シリコンソリューション開発へのGoogleのコミットメントを示しており、前世代の5-6倍と比較して音速の90倍の速度でオーディオを処理します。主要機能には、Bluetooth 5.4接続、マルチポイントペアリング、IP54防水、ANC有効時最大8時間のバッテリー寿命が含まれます。

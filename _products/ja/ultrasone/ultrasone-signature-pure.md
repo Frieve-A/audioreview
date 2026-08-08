@@ -5,6 +5,7 @@ target_name: "Ultrasone Signature Pure"
 company_id: ultrasone
 lang: ja
 ref: ultrasone-signature-pure
+audiodb_uid: adb-51db8d4c0180
 date: 2025-08-25
 rating: [2.8, 0.5, 0.6, 0.8, 0.5, 0.4]
 price: 25380

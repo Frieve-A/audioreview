@@ -5,6 +5,7 @@ target_name: "AIYIMA A07 Pro"
 company_id: aiyima
 lang: ja
 ref: aiyima-a07-pro
+audiodb_uid: adb-1833e6c50dfc
 date: 2025-08-15
 rating: [2.9, 0.6, 0.5, 1.0, 0.3, 0.5]
 price: 13999

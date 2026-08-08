@@ -5,6 +5,7 @@ target_name: "TRUTHEAR Hexa"
 company_id: truthear
 lang: en
 ref: truthear-hexa
+audiodb_uid: adb-20a4f3f26ccd
 date: 2026-02-18
 rating: [3.4, 0.7, 0.6, 0.7, 0.7, 0.7]
 price: 89.99

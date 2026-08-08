@@ -5,6 +5,7 @@ target_name: "Google Pixel Buds Pro 2"
 company_id: google
 lang: en
 ref: google-pixel-buds-pro-2
+audiodb_uid: adb-47e43cc97424
 date: 2025-10-17
 rating: [3.4, 0.5, 1.0, 0.4, 0.5, 1.0]
 price: 179

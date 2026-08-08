@@ -5,6 +5,7 @@ target_name: "RME ADI-2/4 Pro SE"
 company_id: rme
 lang: en
 ref: rme-adi-2-4-pro-se
+audiodb_uid: adb-e11a317e2873
 date: 2025-07-14
 rating: [4.5, 0.9, 0.8, 1.0, 0.8, 1.0]
 price: 2347

@@ -5,6 +5,7 @@ target_name: "TRN T-Ear Tips"
 company_id: trn
 lang: ja
 ref: trn-t-ear-tips
+audiodb_uid: adb-366e4312fabd
 date: 2025-08-01
 rating: [2.7, 0.5, 0.5, 0.3, 0.6, 0.8]
 price: 1500

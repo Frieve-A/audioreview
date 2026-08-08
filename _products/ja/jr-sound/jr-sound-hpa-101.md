@@ -5,6 +5,7 @@ target_name: "JR-SOUND HPA-101"
 company_id: jr-sound
 lang: ja
 ref: jr-sound-hpa-101
+audiodb_uid: adb-179558ad70b0
 date: 2026-05-21
 rating: [1.7, 0.5, 0.2, 0.3, 0.5, 0.2]
 price: 49500

@@ -5,6 +5,7 @@ target_name: "SMSL DP5-SE"
 company_id: smsl
 lang: ja
 ref: smsl-dp5-se
+audiodb_uid: adb-c75c529a735f
 date: 2025-08-28
 rating: [3.4, 0.7, 0.6, 1.0, 0.5, 0.6]
 price: 56870
@@ -12,7 +13,6 @@ summary: "ESS ES9039Q2M搭載のネットワークプレーヤー。バランス
 tags: [ネットワークストリーマー, DAC, デジタル音楽プレーヤー, ESS-DAC]
 permalink: /products/ja/smsl-dp5-se/
 ---
-
 ## 概要
 
 SMSL DP5-SEはESS ES9039Q2Mを採用したネットワークプレーヤー兼DACです。Wi-Fi/有線LANによるストリーミング、microSD/USB/NASからのローカル再生、Bluetooth入出力に対応し、RCA/XLRアナログ、AES/EBU、光/同軸、USBオーディオ出力、I²Sを装備。6.35 mmヘッドホン端子も備えます。USBオーディオ出力は最大32-bit/768 kHz・DSD512、内蔵再生は最大32-bit/384 kHz・DSD256に対応（メーカー/販売店公称）。[3][5]

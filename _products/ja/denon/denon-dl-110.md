@@ -5,6 +5,7 @@ target_name: "Denon DL-110"
 company_id: denon
 lang: ja
 ref: denon-dl-110
+audiodb_uid: adb-17d80e4a3d38
 date: 2025-07-12
 rating: [2.1, 0.2, 0.2, 0.6, 0.7, 0.4]
 price: 45000

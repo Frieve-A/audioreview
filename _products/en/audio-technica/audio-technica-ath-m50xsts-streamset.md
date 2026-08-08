@@ -5,6 +5,7 @@ target_name: "Audio-Technica ATH-M50xSTS StreamSet"
 company_id: audio-technica
 lang: en
 ref: audio-technica-ath-m50xsts-streamset
+audiodb_uid: adb-0b89ce6ee1c8
 date: 2025-09-05
 rating: [3.2, 0.6, 0.6, 0.7, 0.6, 0.7]
 price: 229

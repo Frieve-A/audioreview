@@ -5,6 +5,7 @@ target_name: "Noble Audio FoKus Rex5"
 company_id: noble-audio
 lang: ja
 ref: noble-audio-fokus-rex5
+audiodb_uid: adb-1698e79a5786
 date: 2026-04-24
 rating: [2.9, 0.5, 0.7, 0.4, 0.6, 0.7]
 price: 67350

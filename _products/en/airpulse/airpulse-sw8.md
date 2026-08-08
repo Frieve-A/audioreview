@@ -5,6 +5,7 @@ target_name: "Airpulse SW8"
 company_id: airpulse
 lang: en
 ref: airpulse-sw8
+audiodb_uid: adb-9110d45c6fc0
 date: 2025-08-12
 rating: [2.7, 0.5, 0.5, 0.6, 0.6, 0.5]
 price: 550
@@ -12,7 +13,6 @@ summary: "Compact 8-inch subwoofer designed by Phil Jones, offering a claimed 25
 tags: [Subwoofer, Active, Class D, 8 inch, Bass]
 permalink: /products/en/airpulse-sw8/
 ---
-
 ## Overview
 
 The Airpulse SW8 is an 8-inch active subwoofer designed by audio engineer Phil Jones, featuring a down-firing configuration with a built-in Class D amplifier. Manufacturer information claims a frequency response of 25Hz–160Hz and provides integration controls including a continuously adjustable low-pass (30Hz–160Hz) and phase (0°–180°), targeting compact bass reinforcement for small to medium rooms.

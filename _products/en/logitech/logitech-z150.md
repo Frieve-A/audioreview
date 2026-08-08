@@ -5,6 +5,7 @@ target_name: "Logitech Z150"
 company_id: logitech
 lang: en
 ref: logitech-z150
+audiodb_uid: adb-0f342eafd7fa
 date: 2025-09-01
 rating: [2.4, 0.3, 0.5, 0.7, 0.5, 0.4]
 price: 34.99
@@ -12,7 +13,6 @@ summary: "Budget desktop speakers with clear mid-range and simple I/O; manufactu
 tags: [Desktop Speakers, Budget Audio, Computer Speakers, Stereo]
 permalink: /products/en/logitech-z150/
 ---
-
 ## Overview
 
 The Logitech Z150 is a compact 2.0 near-field speaker set aimed at basic PC audio. Logitech lists 6W peak / 3W RMS output, dual 2″ full-range drivers, two 3.5 mm inputs, and a front headphone jack; the US store price at the time of writing is 34.99 USD and the warranty is one year [1]. Setup is straightforward with an external AC adapter per the quick start guide [2]. Historic product sheets and reseller specs report a 150 Hz–20 kHz bandwidth, which, if accurate, would confirm limited bass extension for music and gaming without a subwoofer [4].

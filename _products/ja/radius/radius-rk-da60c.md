@@ -5,6 +5,7 @@ target_name: "Radius RK-DA60C"
 company_id: radius
 lang: ja
 ref: radius-rk-da60c
+audiodb_uid: adb-6dd3095464bc
 date: 2025-08-28
 rating: [2.5, 0.7, 0.5, 0.5, 0.4, 0.4]
 price: 9130
@@ -12,7 +13,6 @@ summary: "CX31993チップ搭載、32bit/384kHz対応の超小型USB-C DACアン
 tags: [DAC, アンプ, ポータブル, USB-C, ハイレゾ, CX31993]
 permalink: /products/ja/radius-rk-da60c/
 ---
-
 ## 概要
 
 RK-DA60Cは重さ6gの超小型USB-Cドングル型DAC/アンプです。最大32bit/384kHzのPCM再生に対応し、スマートフォンを高音質プレーヤー化することを狙った設計です。左右各チャンネルにDACを1基ずつ搭載、G級ヘッドホンアンプを採用とメーカーが説明しています[1][6]。2021年発売でVGP 2022の「ヘッドホンアンプ（ポータブル・1万円未満）」部門を受賞しました[2]。

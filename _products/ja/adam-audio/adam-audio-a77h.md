@@ -5,6 +5,7 @@ target_name: "ADAM Audio A77H"
 company_id: adam-audio
 lang: ja
 ref: adam-audio-a77h
+audiodb_uid: adb-d83a65519e05
 date: 2025-08-25
 rating: [4.4, 0.7, 0.9, 1.0, 0.9, 0.9]
 price: 371800

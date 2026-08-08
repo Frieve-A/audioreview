@@ -5,6 +5,7 @@ target_name: "SMSL VMV D1se2"
 company_id: smsl
 lang: ja
 ref: smsl-vmv-d1se2
+audiodb_uid: adb-5b9a55a21c7b
 date: 2025-08-28
 rating: [3.9, 0.9, 0.9, 0.7, 0.5, 0.9]
 price: 110000
@@ -12,7 +13,6 @@ summary: "ES9039MSPRO搭載のハイエンドDAC。第三者計測で最上位�
 tags: [DAC, デスクトップ, ES9039MSPRO, MQA, MQA-CD, バランス, Bluetooth, I2S, XMOS XU-316]
 permalink: /products/ja/smsl-vmv-d1se2/
 ---
-
 ## 概要
 
 SMSL VMV D1se2は、ESSの**ES9039MSPRO**を核とするフラッグシップ級デスクトップDACです。初代D1seから**MQA-CD**デコードを追加し、USBは**XMOS XU-316**へ刷新。USB/光/同軸/I²S(HDMI)入力、XLR/RCAのバランス出力、**Bluetooth 5.0（LDAC/aptX-HD対応）**を備えます。独立第三者の計測で**SINAD 123 dB**が報告され、客観的性能は最上位クラスに位置します。 [1][2][3]

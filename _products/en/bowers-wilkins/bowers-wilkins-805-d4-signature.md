@@ -5,6 +5,7 @@ target_name: "Bowers & Wilkins 805 D4 Signature"
 company_id: bowers-wilkins
 lang: en
 ref: bowers-wilkins-805-d4-signature
+audiodb_uid: adb-a06dd34fdba5
 date: 2025-08-13
 rating: [3.9, 0.7, 0.8, 0.7, 0.9, 0.8]
 price: 14000

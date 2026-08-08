@@ -5,6 +5,7 @@ target_name: "EWA A106"
 company_id: ewa
 lang: ja
 ref: ewa-a106
+audiodb_uid: adb-d0d006de4646
 date: 2025-08-21
 rating: [2.8, 0.3, 0.4, 1.0, 0.6, 0.5]
 price: 2599
@@ -12,7 +13,6 @@ summary: "超小型かつ防水性を重視したBluetoothスピーカー。価�
 tags: [Bluetooth, スピーカー, ポータブル, ミニ, 防水]
 permalink: /products/ja/ewa-a106/
 ---
-
 ## 概要
 
 EWA A106は卵サイズの超小型Bluetoothスピーカーです。公式ページでは**3 W**ネオジムドライバーと下向き**パッシブラジエーター**、最小限のワンボタン操作、寸法**Φ1.89 in × H1.57 in**、*50%音量で最大8時間*の再生（いずれもメーカー記載）を示しています。同ページ内コピーは「A106 Pro」にも言及しており、Proの取扱説明書では**IP67**と**Bluetooth 5.0**が明記されています（A106/Proファミリーの仕様としてのメーカー情報）。[1][2]

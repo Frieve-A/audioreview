@@ -5,6 +5,7 @@ target_name: "SMSL D300"
 company_id: smsl
 lang: en
 ref: smsl-d300
+audiodb_uid: adb-76bf9bd41a92
 date: 2025-08-28
 rating: [3.0, 0.9, 0.4, 0.7, 0.4, 0.6]
 price: 399
@@ -12,7 +13,6 @@ summary: "Desktop DAC using ROHM's BD34301EKV with transparent measured performa
 tags: [DAC, Desktop, DSD, Bluetooth, Rohm, Discontinued]
 permalink: /products/en/smsl-d300/
 ---
-
 ## Overview
 
 The SMSL D300 is a desktop DAC built around ROHM's BD34301EKV. It supports PCM up to 768kHz, DSD512, balanced XLR and RCA outputs, and Bluetooth 5.0 with LDAC reception [1]. Multiple retailers list the D300 as discontinued/sold out, which limits new-unit availability despite ongoing documentation on the official site [3][4][1].

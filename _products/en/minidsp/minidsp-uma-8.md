@@ -5,6 +5,7 @@ target_name: "MiniDSP UMA-8 v2"
 company_id: minidsp
 lang: en
 ref: minidsp-uma-8
+audiodb_uid: adb-16dd02367499
 date: 2025-09-07
 rating: [2.9, 0.5, 0.4, 1.0, 0.3, 0.7]
 price: 105
@@ -12,7 +13,6 @@ summary: "Voice-focused USB microphone array with XMOS DSP processing and beamfo
 tags: [USB microphone array, Voice capture, DSP processing, Beamforming, XMOS XVF3000]
 permalink: /products/en/minidsp-uma-8/
 ---
-
 ## Overview
 
 The MiniDSP UMA-8 v2 is a USB microphone array designed primarily for voice capture applications. Built around the XMOS XVF3000 DSP platform, it features seven MEMS microphones arranged in a circular configuration with onboard processing for beamforming, acoustic echo cancellation, and noise suppression. The device serves voice-activated applications and software development scenarios requiring multichannel audio capture at 48kHz sample rate. At 90mm diameter and 20mm height, it provides a compact solution for voice processing applications, though its focus remains on speech rather than critical audio recording.

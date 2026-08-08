@@ -5,6 +5,7 @@ target_name: "miniDSP C-DSP 8x12 DL"
 company_id: minidsp
 lang: en
 ref: minidsp-c-dsp-8x12-dl
+audiodb_uid: adb-ae2a7a5dfed6
 date: 2025-09-07
 rating: [4.0, 0.8, 0.8, 1.0, 0.5, 0.9]
 price: 940
@@ -12,7 +13,6 @@ summary: "Flagship automotive DSP integrating Dirac Live room correction with ex
 tags: [DSP, Automotive, Dirac Live, Signal Processing, Car Audio, miniDSP]
 permalink: /products/en/minidsp-c-dsp-8x12-dl/
 ---
-
 ## Overview
 
 The miniDSP C-DSP 8x12 DL represents a breakthrough in automotive digital signal processing as the **first aftermarket car audio DSP to integrate Dirac Live room correction** (announced in 2019). This flagship processor combines a 400 MHz SHARC ADSP21489 floating-point processor with 32-bit AKM converters (AK4456 DAC, AK5556 ADC) to deliver exceptional measured performance in challenging automotive environments. The system provides 8 analog inputs, 2 digital inputs, and 12 RCA outputs with comprehensive DSP functionality including parametric EQ, compressors, time delays, and crossovers up to 48 dB/octave.

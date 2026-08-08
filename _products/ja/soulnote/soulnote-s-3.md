@@ -5,6 +5,7 @@ target_name: "Soulnote S-3 Reference"
 company_id: soulnote
 lang: ja
 ref: soulnote-s-3
+audiodb_uid: adb-151867074168
 date: 2025-08-28
 rating: [2.7, 0.7, 0.8, 0.5, 0.4, 0.3]
 price: 3750000

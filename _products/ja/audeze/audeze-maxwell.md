@@ -5,6 +5,7 @@ target_name: "Audeze Maxwell"
 company_id: audeze
 lang: ja
 ref: audeze-maxwell
+audiodb_uid: adb-cbf220512153
 date: 2025-09-13
 rating: [3.1, 0.6, 0.8, 0.5, 0.4, 0.8]
 price: 44400
@@ -12,7 +13,6 @@ summary: "90mm平面磁界型ドライバーを搭載し、高度なワイヤレ
 tags: [ゲーミングヘッドセット, 平面磁界型, ワイヤレス, Bluetooth]
 permalink: /products/ja/audeze-maxwell/
 ---
-
 ## 概要
 
 Audeze Maxwellは同社のゲーミングヘッドセット市場への参入製品で、90mm平面磁界型ドライバーに包括的なワイヤレス接続機能を組み合わせています。Uniforceボイスコイル、Fluxorマグネット、Fazorウェーブガイドなどの独自技術を採用し、LDAC対応Bluetooth 5.3、2.4GHzワイヤレス、USB-Cデジタル、3.5mmアナログなど複数の接続方法をサポートします。80時間以上のバッテリー寿命を提供し、通話品質向上のためのAI搭載FILTER騒音低減技術を搭載しています。

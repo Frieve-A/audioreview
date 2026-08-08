@@ -5,6 +5,7 @@ target_name: "CCA C12"
 company_id: cca
 lang: ja
 ref: cca-c12
+audiodb_uid: adb-ceafd01ce3bb
 date: 2025-08-20
 rating: [2.7, 0.6, 0.3, 0.5, 0.6, 0.7]
 price: 6080

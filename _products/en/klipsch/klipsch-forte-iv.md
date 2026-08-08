@@ -5,6 +5,7 @@ target_name: "Klipsch Forte IV"
 company_id: klipsch
 lang: en
 ref: klipsch-forte-iv
+audiodb_uid: adb-8c23cc166655
 date: 2025-09-18
 rating: [2.3, 0.2, 0.7, 0.3, 0.9, 0.2]
 price: 5499

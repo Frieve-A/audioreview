@@ -5,6 +5,7 @@ target_name: "Denon PMA-SX11"
 company_id: denon
 lang: en
 ref: denon-pma-sx11
+audiodb_uid: adb-5aa6c1a6b0ac
 date: 2025-08-05
 rating: [3.1, 0.8, 0.7, 0.3, 0.7, 0.6]
 price: 1700

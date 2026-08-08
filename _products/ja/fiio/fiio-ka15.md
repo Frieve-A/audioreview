@@ -5,6 +5,7 @@ target_name: "FiiO KA15"
 company_id: fiio
 lang: ja
 ref: fiio-ka15
+audiodb_uid: adb-a30af6c7c5ed
 date: 2025-08-14
 rating: [4.0, 0.7, 0.7, 1.0, 0.7, 0.9]
 price: 15000
@@ -12,7 +13,6 @@ summary: "デュアルCS43198 DAC、最大560mWバランス出力、10バンドP
 tags: [DAC, アンプ, ポータブル, USB, バランス]
 permalink: /products/ja/fiio-ka15/
 ---
-
 ## 概要
 
 FiiO KA15は、KA13とKA17の中間に位置するポータブルUSB DAC/アンプです（2024年発売）。Cirrus Logic製 **CS43198×2** を採用し、FiiOのドングルとして**初のカラーIPS液晶**（0.96インチ）を搭載します。最大 **768kHz/32bit PCM**、**DSD256** に対応し、**3.5mm単端**／**4.4mmバランス**出力、**3.5mm同軸SPDIF（共有）**、**10バンドPEQ**、アプリ/ウェブでの制御、UAC1.0（Switch/PS5）にも対応します。 [1][2]

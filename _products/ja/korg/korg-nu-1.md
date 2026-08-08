@@ -5,6 +5,7 @@ target_name: "KORG Nu 1"
 company_id: korg
 lang: ja
 ref: korg-nu-1
+audiodb_uid: adb-1f8e0383c6e1
 date: 2025-08-01
 rating: [3.2, 0.6, 0.7, 1.0, 0.4, 0.5]
 price: 30000
@@ -12,7 +13,6 @@ summary: "KORGが2018年に発売したNutube搭載の統合型DAC/ADC/プリア
 tags: [DAC, ADC, プリアンプ, フォノステージ, Nutube, 真空管, DSD, ハイレゾ]
 permalink: /products/ja/korg-nu-1/
 ---
-
 ## 概要
 
 KORG Nu 1は、シンセサイザーで著名なKORGが2018年に発売した統合型オーディオ機器です。DAC、ADC、プリアンプ、MM/MCフォノステージの全機能を1台に統合し、同社独自のNutube技術（固体素子による真空管風デバイス）を2基搭載しています。DSD 11.2MHz対応やバランス入出力など高級機の仕様を備えながら、現在は生産終了となっています。本機は特に「アナログレコードのデジタル化」用途に特化した製品として開発されました。

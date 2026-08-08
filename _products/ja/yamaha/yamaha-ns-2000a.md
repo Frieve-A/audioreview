@@ -5,6 +5,7 @@ target_name: "YAMAHA NS-2000A"
 company_id: yamaha
 lang: ja
 ref: yamaha-ns-2000a
+audiodb_uid: adb-9d3e87978475
 date: 2025-07-08
 rating: [3.8, 0.8, 0.8, 0.8, 0.8, 0.6]
 price: 396000

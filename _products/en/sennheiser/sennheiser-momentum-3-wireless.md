@@ -5,6 +5,7 @@ target_name: "Sennheiser Momentum 3 Wireless"
 company_id: sennheiser
 lang: en
 ref: sennheiser-momentum-3-wireless
+audiodb_uid: adb-fc5fbc577e49
 date: 2025-08-09
 rating: [3.2, 0.7, 0.6, 0.3, 0.8, 0.8]
 price: 300

@@ -5,6 +5,7 @@ target_name: "KEF Reference 1 Meta"
 company_id: kef
 lang: ja
 ref: kef-reference-1-meta
+audiodb_uid: adb-93f68b9183bf
 date: 2025-08-15
 rating: [3.5, 0.8, 0.7, 0.5, 0.8, 0.7]
 price: 1298000
@@ -12,7 +13,6 @@ summary: "12世代Uni-QとMATを搭載した3ウェイ同軸スタンドマウ�
 tags: [ブックシェルフスピーカー, 3ウェイ, 同軸, メタマテリアル, ハイエンド]
 permalink: /products/ja/kef-reference-1-meta/
 ---
-
 ## 概要
 
 Reference 1 Metaは、12世代Uni-Q同軸アレイとMAT（Metamaterial Absorption Technology）を搭載した3ウェイ・スタンドマウントです。25 mmツイーターを125 mmミッドに同軸配置し、165 mmウーファーを独立搭載します。公称仕様は**周波数応答（±3 dB）45 Hz–35 kHz**、**フリーフィールド（-6 dB）37/40 Hz–45 kHz（ロング/ショートポート）**、**感度85 dB（2.83 V/1 m）**です [2]。国内の参考価格は**1,298,000円（1ペア、税込）**で、米国では**9,999.98 USD（1ペア）**です [3][9]。

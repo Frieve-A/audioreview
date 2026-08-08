@@ -5,6 +5,7 @@ target_name: "fx-audio PGN2"
 company_id: fx-audio
 lang: ja
 ref: fx-audio-pgn2
+audiodb_uid: adb-621f1a50fd4a
 date: 2025-08-09
 rating: [2.5, 0.5, 0.4, 0.8, 0.4, 0.4]
 price: 4190

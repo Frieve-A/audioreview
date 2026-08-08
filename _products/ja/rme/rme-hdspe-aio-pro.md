@@ -5,6 +5,7 @@ target_name: "RME HDSPe AIO Pro"
 company_id: rme
 lang: ja
 ref: rme-hdspe-aio-pro
+audiodb_uid: adb-7fadf150ad50
 date: 2025-07-27
 rating: [4.0, 0.8, 0.7, 1.0, 0.8, 0.7]
 price: 99000
@@ -12,7 +13,6 @@ summary: "RME HDSPe AIO Proは、AK5572/AK4490コンバーターとSteadyClock F
 tags: [オーディオインターフェース, PCIe, プロオーディオ, RME, デジタルオーディオ]
 permalink: /products/ja/rme-hdspe-aio-pro/
 ---
-
 ## 概要
 
 RME HDSPe AIO Proは、ドイツRME社が開発したプロフェッショナル向けPCIeオーディオインターフェースです。同社の人気モデルHDSPe AIOの後継機として2020年に発表され、12入力/12出力の24チャンネル構成で24-bit/192kHz対応を実現しています。AD/DAコンバーターには、同社のリファレンスクラス製品ADI-2 Proシリーズで採用実績のある旭化成エレクトロニクス製AK5572とAK4490を搭載し、独自のジッター抑制技術「SteadyClock FS」を組み合わせることで高い変換精度を確保しています。

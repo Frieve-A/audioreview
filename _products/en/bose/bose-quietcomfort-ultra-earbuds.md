@@ -5,6 +5,7 @@ target_name: "Bose QuietComfort Ultra Earbuds"
 company_id: bose
 lang: en
 ref: bose-quietcomfort-ultra-earbuds
+audiodb_uid: adb-ea7779d92356
 date: 2025-07-06
 rating: [3.8, 0.8, 0.8, 0.8, 0.8, 0.6]
 price: 199

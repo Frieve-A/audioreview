@@ -5,6 +5,7 @@ target_name: "Audeze iSINE20"
 company_id: audeze
 lang: en
 ref: audeze-isine20
+audiodb_uid: adb-9fcc44205f6b
 date: 2025-09-23
 rating: [4.4, 0.7, 1.0, 1.0, 0.7, 1.0]
 price: 280

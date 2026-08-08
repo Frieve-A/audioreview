@@ -5,6 +5,7 @@ target_name: "Sennheiser IE 600"
 company_id: sennheiser
 lang: en
 ref: sennheiser-ie-600
+audiodb_uid: adb-41506ace7d91
 date: 2025-07-07
 rating: [3.1, 0.8, 0.9, 0.3, 0.7, 0.4]
 price: 699
@@ -12,7 +13,6 @@ summary: "Sennheiser's premium single dynamic driver IEM. Features 7mm TrueRespo
 tags: ["Dynamic driver", Earphones, Germany, "In-ear monitors", Premium]
 permalink: /products/en/sennheiser-ie-600/
 ---
-
 ## Overview
 
 The Sennheiser IE 600 represents the mid-range model in the company's premium IEM lineup. It features a 7mm TrueResponse dynamic driver housed in AMLOY-ZR01 special alloy 3D-printed enclosure. With specifications of THD <0.06%, 18Ω impedance, 118dB/Vrms sensitivity, and 4Hz-46.5kHz frequency range, it targets audiophile users. Hand-assembled in Germany with quality control measures and includes balanced 4.4mm cable, presenting itself as a premium product with appropriate premium aesthetics.

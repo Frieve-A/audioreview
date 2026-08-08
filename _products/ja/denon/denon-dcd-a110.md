@@ -5,6 +5,7 @@ target_name: "Denon DCD-A110"
 company_id: denon
 lang: ja
 ref: denon-dcd-a110
+audiodb_uid: adb-e3c852a3e498
 date: 2025-07-26
 rating: [2.8, 0.7, 0.7, 0.2, 0.8, 0.4]
 price: 227700

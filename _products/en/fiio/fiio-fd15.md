@@ -5,6 +5,7 @@ target_name: "FiiO FD15"
 company_id: fiio
 lang: en
 ref: fiio-fd15
+audiodb_uid: adb-b4c904447222
 date: 2025-09-18
 rating: [2.7, 0.3, 0.8, 0.1, 0.7, 0.8]
 price: 149

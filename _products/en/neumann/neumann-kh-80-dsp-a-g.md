@@ -5,6 +5,7 @@ target_name: "Neumann KH 80 DSP A G"
 company_id: neumann
 lang: en
 ref: neumann-kh-80-dsp-a-g
+audiodb_uid: adb-b52d7123dad7
 date: 2025-07-28
 rating: [4.1, 0.8, 0.9, 0.7, 0.8, 0.9]
 price: 549

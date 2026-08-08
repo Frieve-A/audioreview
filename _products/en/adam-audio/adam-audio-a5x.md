@@ -5,6 +5,7 @@ target_name: "ADAM Audio A5X"
 company_id: adam-audio
 lang: en
 ref: adam-audio-a5x
+audiodb_uid: adb-318a8bb28d3a
 date: 2025-07-31
 rating: [2.5, 0.6, 0.8, 0.2, 0.4, 0.5]
 price: 1419.98

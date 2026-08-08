@@ -5,6 +5,7 @@ target_name: "Loxjie D30 2024"
 company_id: loxjie
 lang: en
 ref: loxjie-d30-2024
+audiodb_uid: adb-dc1fe65844ae
 date: 2025-08-24
 rating: [4.2, 0.8, 0.7, 1.0, 0.8, 0.9]
 price: 170

@@ -5,6 +5,7 @@ target_name: "Sennheiser HD-505"
 company_id: sennheiser
 lang: ja
 ref: sennheiser-hd-505
+audiodb_uid: adb-4b60d74e55c2
 date: 2026-02-11
 rating: [2.9, 0.6, 0.6, 0.7, 0.5, 0.5]
 price: 42390

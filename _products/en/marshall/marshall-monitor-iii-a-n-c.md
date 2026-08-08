@@ -5,6 +5,7 @@ target_name: "Marshall Monitor III A.N.C."
 company_id: marshall
 lang: en
 ref: marshall-monitor-iii-a-n-c
+audiodb_uid: adb-887d787a1dc7
 date: 2026-01-06
 rating: [4.0, 0.5, 0.9, 1.0, 0.7, 0.9]
 price: 349.99

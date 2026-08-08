@@ -5,6 +5,7 @@ target_name: "Xiaomi Redmi Buds 6 Lite"
 company_id: xiaomi
 lang: en
 ref: xiaomi-redmi-buds-6-lite
+audiodb_uid: adb-95745f026d09
 date: 2025-12-14
 rating: [3.2, 0.5, 0.6, 1.0, 0.5, 0.6]
 price: 20
@@ -12,7 +13,6 @@ summary: "Budget-friendly true wireless earbuds with 40dB active noise cancellat
 tags: [Earbuds, TWS, ANC, Bluetooth, Budget]
 permalink: /products/en/xiaomi-redmi-buds-6-lite/
 ---
-
 ## Overview
 
 The Xiaomi Redmi Buds 6 Lite represents Xiaomi's entry-level true wireless stereo earbuds, positioned in the ultra-budget segment at approximately 20 USD [2]. Released in 2024, these earbuds feature 12.4mm titanium-diaphragm drivers [2], hybrid active noise cancellation rated up to 40dB [2], and an impressive 38-hour total battery life [1] with the charging case. The product targets cost-conscious consumers seeking essential wireless earbud functionality with active noise cancellation capabilities at an accessible price point.

@@ -5,6 +5,7 @@ target_name: "Onkyo TX-L50"
 company_id: onkyo
 lang: en
 ref: onkyo-tx-l50
+audiodb_uid: adb-103ee225e7c8
 date: 2025-08-04
 rating: [2.0, 0.2, 0.4, 0.7, 0.3, 0.4]
 price: 300
@@ -12,7 +13,6 @@ summary: "Ultra-slim AV receiver that prioritizes form over function. Exaggerate
 tags: [AV Receiver, Slim Design, Home Theater, Onkyo, 5.1 Channel]
 permalink: /products/en/onkyo-tx-l50/
 ---
-
 ## Overview
 
 The Onkyo TX-L50 is an ultra-slim AV receiver with a height of just 7cm and weighing 4kg. Released around 2016, this product features a compact design aimed at home theater construction in limited installation spaces. It claims 5.1 channel support with a maximum output of 80W, four HDMI inputs, Bluetooth/Wi-Fi connectivity, and Dolby Atmos/DTS:X support (via firmware update). However, the practical performance is severely limited due to physical constraints from the slim chassis and exaggerated specification claims.

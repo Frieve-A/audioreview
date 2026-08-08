@@ -5,6 +5,7 @@ target_name: "smsl SMSL PL150"
 company_id: smsl
 lang: ja
 ref: smsl-pl150
+audiodb_uid: adb-be91dcded09f
 date: 2026-02-25
 rating: [2.7, 0.6, 0.3, 1.0, 0.2, 0.6]
 price: 22350

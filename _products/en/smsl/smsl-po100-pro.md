@@ -5,6 +5,7 @@ target_name: "SMSL PO100 PRO"
 company_id: smsl
 lang: en
 ref: smsl-po100-pro
+audiodb_uid: adb-36ba752b1f74
 date: 2026-05-16
 rating: [3.2, 0.5, 0.4, 1.0, 0.5, 0.8]
 price: 69.99
@@ -12,7 +13,6 @@ summary: "Compact XMOS XU316 USB DDC at 69.99 USD with I²S/coaxial/optical outp
 tags: [DDC, USB-Interface, SPDIF, I2S, MQA, XMOS, SMSL]
 permalink: /products/en/smsl-po100-pro/
 ---
-
 ## Overview
 
 The PO100 PRO is a compact, USB-bus-powered Digital-to-Digital Converter (DDC) from SMSL. It accepts a USB Type-C audio input from a host (PC, smartphone, PS4/PS5, Nintendo Switch, TV) and outputs digital audio over I²S (HDMI-LVDS), coaxial S/PDIF, and optical Toslink for feeding an external DAC. The unit is built around the XMOS XU316 USB audio controller and supports PCM up to 32-bit/768 kHz and native DSD512 via I²S, with MQA decoding and a UAC1/UAC2 mode switch for console and mobile compatibility. Despite some retailer titles, the PO100 PRO has no analog output stage and is a digital interface only [1]. It was released in November 2022 and currently retails at 69.99 USD [1][2].

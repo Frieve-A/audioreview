@@ -5,6 +5,7 @@ target_name: "Beyerdynamic beyerdynamic DT 900 PRO X"
 company_id: beyerdynamic
 lang: en
 ref: beyerdynamic-dt-900-pro-x
+audiodb_uid: adb-4affab423fbb
 date: 2026-02-18
 rating: [2.8, 0.6, 0.6, 0.4, 0.7, 0.5]
 price: 300
@@ -12,7 +13,6 @@ summary: "Open-back professional studio headphones with STELLAR.45 driver techno
 tags: [Headphones, Open-back, Studio, Professional, Dynamic, Beyerdynamic]
 permalink: /products/en/beyerdynamic-dt-900-pro-x/
 ---
-
 ## Overview
 
 The DT 900 PRO X represents beyerdynamic's modern approach to professional studio headphones, launched in 2021 with the newly developed STELLAR.45 driver technology. Part of the Pro X series alongside the closed-back DT 700 PRO X, these open-back headphones feature 48-ohm impedance for compatibility across mobile devices and professional equipment. The headphones target audio professionals and enthusiasts with handcrafted German manufacturing and user-replaceable components for extended longevity.

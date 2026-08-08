@@ -5,6 +5,7 @@ target_name: "KEF Q100"
 company_id: kef
 lang: en
 ref: kef-q100
+audiodb_uid: adb-02c8a0a0a9bf
 date: 2025-09-20
 rating: [3.1, 0.7, 0.7, 0.3, 0.7, 0.7]
 price: 550
@@ -12,7 +13,6 @@ summary: "Discontinued bookshelf speaker featuring KEF's proprietary UniQ coaxia
 tags: [Bookshelf, Speakers, Coaxial, UniQ, KEF, Discontinued]
 permalink: /products/en/kef-q100/
 ---
-
 ## Overview
 
 The KEF Q100 is a discontinued 2-way bass reflex bookshelf speaker that was originally priced at 550 USD per pair. It features KEF's proprietary UniQ coaxial driver technology, mounting a 1-inch aluminum dome tweeter coaxially within a 5.25-inch aluminum cone woofer. This design aims to create a single point source for improved dispersion and time alignment. The Q100 represents the entry-level model in KEF's former Q series, which has since been replaced by newer generations. Despite its innovative driver configuration, the Q100 faces significant challenges in today's competitive bookshelf speaker market.

@@ -5,6 +5,7 @@ target_name: "Sony TA-F501"
 company_id: sony
 lang: ja
 ref: sony-ta-f501
+audiodb_uid: adb-6b8ff29e6d2a
 date: 2025-07-06
 rating: [1.7, 0.2, 0.5, 0.1, 0.6, 0.3]
 price: 37000

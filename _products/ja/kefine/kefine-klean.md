@@ -5,6 +5,7 @@ target_name: "Kefine Klean"
 company_id: kefine
 lang: ja
 ref: kefine-klean
+audiodb_uid: adb-c64d4739f8af
 date: 2025-08-28
 rating: [2.7, 0.5, 0.6, 0.5, 0.5, 0.6]
 price: 7199

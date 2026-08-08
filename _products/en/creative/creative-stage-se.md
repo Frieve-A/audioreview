@@ -5,6 +5,7 @@ target_name: "Creative Stage SE"
 company_id: creative
 lang: en
 ref: creative-stage-se
+audiodb_uid: adb-b740778e3113
 date: 2025-09-03
 rating: [2.8, 0.4, 0.4, 1.0, 0.4, 0.6]
 price: 67

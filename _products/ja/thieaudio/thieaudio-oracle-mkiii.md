@@ -5,6 +5,7 @@ target_name: "ThieAudio Oracle MKIII"
 company_id: thieaudio
 lang: ja
 ref: thieaudio-oracle-mkiii
+audiodb_uid: adb-ffaa94fb5fb3
 date: 2025-09-01
 rating: [3.0, 0.7, 0.8, 0.2, 0.6, 0.7]
 price: 83000

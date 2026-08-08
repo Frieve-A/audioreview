@@ -5,6 +5,7 @@ target_name: "TAD Micro Evolution One"
 company_id: tad
 lang: ja
 ref: tad-micro-evolution-one
+audiodb_uid: adb-c582e5e7676e
 date: 2025-09-14
 rating: [2.4, 0.6, 0.7, 0.1, 0.6, 0.4]
 price: 2249925
@@ -12,7 +13,6 @@ summary: "TADのコアキシャルCSTドライバー技術とMACCコンポジッ
 tags: [スピーカー, ブックシェルフ, 3ウェイ, コアキシャル, ハイエンド]
 permalink: /products/ja/tad-micro-evolution-one/
 ---
-
 ## 概要
 
 TAD Micro Evolution One (ME-1)は、Technical Audio Devicesが初めて発売するコンパクトブックシェルフスピーカーで、フラッグシップのEvolutionシリーズの技術を投入した製品です。1975年にパイオニアのプロオーディオ部門として設立されたTADは、数十年のドライバー開発経験をこの3ウェイスタンドマウント設計に注ぎ込んでいます。ME-1は、3.5インチマグネシウム中音域ドライバーと1インチベリリウムドームツイーターを組み合わせたTAD独自のCST（Coherent Source Transducer）コアキシャルドライバーと、6.5インチMACC（Multi-layered Aramid Composite Cone）ウーファーを搭載しています。この2,249,925円のスピーカーは、コンパクトなフォームファクターでハイエンドの性能提供を目指しています。

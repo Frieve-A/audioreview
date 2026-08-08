@@ -5,6 +5,7 @@ target_name: "Audio-Technica ATH-9000"
 company_id: audio-technica
 lang: en
 ref: audio-technica-ath-9000
+audiodb_uid: adb-2a0b9f4a75d9
 date: 2026-05-06
 rating: [1.8, 0.5, 0.2, 0.5, 0.1, 0.5]
 price: 175
@@ -12,7 +13,6 @@ summary: "A discontinued vintage electret condenser headphone from Audio-Technic
 tags: [Headphones, Vintage, Discontinued]
 permalink: /products/en/audio-technica-ath-9000/
 ---
-
 ## Overview
 
 The Audio-Technica ATH-9000 is a vintage electret condenser headphone produced in the late 1970s to mid-1980s and discontinued approximately in 1994. Originally retailed in Japan at 29,000 円 [1], the ATH-9000 was positioned in Audio-Technica's premium audiophile tier for its era. The system comprises two components: the headphone unit and an external adapter box containing a step-up transformer, which connects to the speaker output terminals of a conventional amplifier rather than a standard headphone jack. This architecture placed the product between conventional dynamic headphones and full electrostatic designs. As of 2026, the product is available only on the secondhand market. Aggregated listing indexes may show zero active for-sale offers at a given time, while archived sold entries span a wide price range; approximately 175 USD is used here as a practical planning price for complete sets [2]. No new stock exists and no official product page is accessible.

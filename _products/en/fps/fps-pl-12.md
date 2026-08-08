@@ -5,6 +5,7 @@ target_name: "FPS Pipeline Speaker PL-12"
 company_id: fps
 lang: en
 ref: fps-pl-12
+audiodb_uid: adb-745375f36626
 date: 2025-10-24
 rating: [2.9, 0.4, 0.7, 0.5, 0.8, 0.5]
 price: 2500

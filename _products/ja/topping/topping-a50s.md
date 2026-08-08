@@ -5,6 +5,7 @@ target_name: "TOPPING A50S"
 company_id: topping
 lang: ja
 ref: topping-a50s
+audiodb_uid: adb-acc20101dcdb
 date: 2025-10-31
 rating: [3.8, 0.9, 0.7, 1.0, 0.3, 0.9]
 price: 29850
@@ -12,7 +13,6 @@ summary: "NFCA技術により卓越した測定性能を実現するも、サポ
 tags: [ヘッドホンアンプ, NFCA, バランス出力, 生産終了]
 permalink: /products/ja/topping-a50s/
 ---
-
 ## 概要
 
 TOPPING A50Sは、同社のフラッグシップA90モデルから採用されたNFCA（Nested Feedback Composite Amplifier）技術を搭載する生産終了となったデスクトップヘッドホンアンプです。単線およびバランスヘッドホン出力とプリアンプ機能を提供するコストパフォーマンス重視のソリューションとして発売され、THD+N 0.00007%とダイナミックレンジ最大144dBという驚異的な測定性能を実現しました。現在は後継機種のA50 IIIモデルに置き換えられており、TOPPINGの継続的な性能向上による製品ライフサイクルの典型例を示しています。A50 IIIとの主な差異は信頼性評価で、A50 IIIが大幅に改善された0.9の高評価を獲得している点です。

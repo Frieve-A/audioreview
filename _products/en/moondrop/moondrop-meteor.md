@@ -5,6 +5,7 @@ target_name: "Moondrop Meteor"
 company_id: moondrop
 lang: en
 ref: moondrop-meteor
+audiodb_uid: adb-8f0ad9260f35
 date: 2025-08-01
 rating: [2.7, 0.7, 0.6, 0.1, 0.6, 0.7]
 price: 510

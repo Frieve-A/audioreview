@@ -5,6 +5,7 @@ target_name: "AKG K712 pro"
 company_id: akg
 lang: en
 ref: akg-k712-pro
+audiodb_uid: adb-9a63d92c3bfc
 date: 2026-03-14
 rating: [2.6, 0.3, 0.6, 0.3, 0.5, 0.9]
 price: 300

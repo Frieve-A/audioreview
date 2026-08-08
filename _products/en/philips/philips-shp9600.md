@@ -5,6 +5,7 @@ target_name: "Philips SHP9600"
 company_id: philips
 lang: en
 ref: philips-shp9600
+audiodb_uid: adb-07bfba2553c0
 date: 2025-09-24
 rating: [1.6, 0.2, 0.3, 0.4, 0.6, 0.1]
 price: 75
@@ -12,7 +13,6 @@ summary: "Open-back headphones with significant frequency response issues and hi
 tags: [Headphones, Open-back, Over-ear, Budget, Discontinued]
 permalink: /products/en/philips-shp9600/
 ---
-
 ## Overview
 
 The Philips SHP9600 is an open-back over-ear headphone featuring 50mm neodymium drivers. Originally positioned as a mid-range option for casual listening with an MSRP of 129.99 USD, the SHP9600 includes a detachable 3-meter cable with gold-plated connections and comes with both 3.5mm and 6.3mm adapters. Despite marketing claims of "perfectly tuned" drivers and "pristine high frequencies," third-party measurements reveal significant performance limitations that contradict these assertions. While the official Philips product page indicates discontinuation, the headphones remain available through third-party retailers and Amazon.

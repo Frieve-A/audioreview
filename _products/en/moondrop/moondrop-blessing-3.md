@@ -5,6 +5,7 @@ target_name: "Moondrop Blessing 3"
 company_id: moondrop
 lang: en
 ref: moondrop-blessing-3
+audiodb_uid: adb-8f6bc2d01ca1
 date: 2025-09-03
 rating: [2.8, 0.7, 0.6, 0.2, 0.5, 0.8]
 price: 359.99

@@ -5,6 +5,7 @@ target_name: "KZ Gale"
 company_id: kz
 lang: ja
 ref: kz-gale
+audiodb_uid: adb-c93ee798cf50
 date: 2025-10-11
 rating: [3.5, 0.5, 0.6, 1.0, 0.5, 0.9]
 price: 1738

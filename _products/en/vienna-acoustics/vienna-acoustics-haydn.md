@@ -5,6 +5,7 @@ target_name: "Vienna Acoustics Haydn"
 company_id: vienna-acoustics
 lang: en
 ref: vienna-acoustics-haydn
+audiodb_uid: adb-88179448481a
 date: 2025-08-04
 rating: [2.5, 0.6, 0.7, 0.2, 0.5, 0.5]
 price: 1500

@@ -5,6 +5,7 @@ target_name: "Sony WF-1000XM5"
 company_id: sony
 lang: en
 ref: sony-wf-1000xm5
+audiodb_uid: adb-f02ca4c2b57a
 date: 2025-12-08
 rating: [4.2, 0.8, 0.9, 1.0, 0.8, 0.7]
 price: 228
@@ -12,7 +13,6 @@ summary: "Features Integrated Processor V2 and HD Noise Canceling Processor QN2e
 tags: [Active noise cancelling, Bluetooth 5.3, Dynamic Driver X, Japan, LDAC, Sony, True wireless, Wireless charging]
 permalink: /products/en/sony-wf-1000xm5/
 ---
-
 ## Overview
 
 The Sony WF-1000XM5 represents Sony's flagship true wireless earbuds featuring advanced proprietary technology. Equipped with Integrated Processor V2 and dedicated HD Noise Canceling Processor QN2e, the 8.4mm Dynamic Driver X delivers significantly improved performance over previous generations. Third-party measurements confirm frequency response closely matching preference curves with notable bass emphasis between 30-300Hz and under-emphasis above 5kHz [1]. ANC performance achieves >30dB low-frequency attenuation and up to 50dB above 1kHz according to independent testing [1]. Advanced features include AI-based Deep Neural Network processing trained on 500+ million voice samples, LDAC codec support with 990 kbps bitrate, Bluetooth 5.3 with multipoint connectivity, IPX4 water resistance, and wireless charging capability. Battery life extends to 8-9 hours per charge with total 24-hour capacity including case [1].

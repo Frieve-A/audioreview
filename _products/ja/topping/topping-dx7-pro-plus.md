@@ -5,6 +5,7 @@ target_name: "Topping DX7 Pro+"
 company_id: topping
 lang: ja
 ref: topping-dx7-pro-plus
+audiodb_uid: adb-37ce109fd59f
 date: 2025-08-29
 rating: [3.7, 0.9, 0.7, 0.6, 0.7, 0.8]
 price: 94000
@@ -12,7 +13,6 @@ summary: "ES9038PROとNFCAアンプで透明性を達成する一体型DAC/ヘ�
 tags: [DAC, ヘッドホンアンプ, ES9038PRO, デスクトップオーディオ, Bluetooth]
 permalink: /products/ja/topping-dx7-pro-plus/
 ---
-
 ## 概要
 
 Topping DX7 Pro+は、フラッグシップESS ES9038PRO DACとTopping独自のNFCA（Nested-Feedback-Composite Amplifier）を搭載したデスクトップ一体型機です。元の価格は699米ドル（約94,000円）で、DAC／Bluetoothレシーバー／プリアンプ／ヘッドホンアンプを1台に統合します。USB、同軸、光、AES、I2S、Bluetooth（LDAC/aptX系）など接続性は広範です。2025年時点で新品流通は地域により在庫限りの状態が多く、入手性は限定的です。BluetoothコーデックはLDAC/AAC/SBCに加えaptX/aptX LL/aptX HD/aptX Adaptiveをサポートし、販売情報ではBluetooth 5.1対応が案内されています。[3][5]

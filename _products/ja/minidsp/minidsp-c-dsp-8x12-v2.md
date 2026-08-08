@@ -5,6 +5,7 @@ target_name: "miniDSP C-DSP 8x12 V2.0"
 company_id: minidsp
 lang: ja
 ref: minidsp-c-dsp-8x12-v2
+audiodb_uid: adb-ebc53f63b6be
 date: 2025-09-07
 rating: [3.5, 0.6, 0.8, 1.0, 0.4, 0.7]
 price: 78000
@@ -12,7 +13,6 @@ summary: "高性能AKMコンバーターと先進的な処理能力を備えた�
 tags: [DSP, カーオーディオ, 自動車用, デジタルシグナルプロセッサー, miniDSP, AKM]
 permalink: /products/ja/minidsp-c-dsp-8x12-v2/
 ---
-
 ## 概要
 
 miniDSP C-DSP 8x12 V2.0は、高級カーオーディオアプリケーション向けに設計された次世代デジタルシグナルプロセッサーです。miniDSPの確立されたDSPプラットフォーム技術を基盤とし、最大192kHzの内部サンプルレートに対応する400MHz SHARC浮動小数点プロセッサーを搭載しています。V2アップグレードでは、32ビットAKMコンバーター（AK4456 DAC、AK5556 ADC）を内蔵し、改善されたダイナミックレンジと低ノイズフロアを実現しています。コンパクトで自動車グレードの筐体に8入力12出力を配置し、パラメトリックEQ、最大48dB/オクターブのクロスオーバー、コンプレッサー、タイムアライメント、高度なマトリックスミキシング機能を含む包括的な信号処理をサポートしています。

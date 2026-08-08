@@ -5,6 +5,7 @@ target_name: "EarFun OpenJump"
 company_id: earfun
 lang: ja
 ref: earfun-openjump
+audiodb_uid: adb-9a02571345fa
 date: 2025-12-02
 rating: [3.8, 0.5, 0.8, 1.0, 0.5, 1.0]
 price: 11983
@@ -12,7 +13,6 @@ summary: "独自のBassSurge™ DSP技術、IPX7防水、LDACサポートを搭�
 tags: [イヤホン, オープンイヤー, ワイヤレス, LDAC, IPX7, 低音強化]
 permalink: /products/ja/earfun-openjump/
 ---
-
 ## 概要
 
 EarFun OpenJumpは、14.2mmウール複合ドライバーと独自のBassSurge™低音強化技術を搭載したオープンイヤー型ワイヤレスイヤホンです。2018年に工業デザイナーと音響エンジニアによって設立されたEarFunが開発し、成長するオープンイヤー市場をターゲットとし、ハイレゾ音源認証、LDACコーデックサポート、IPX7防水機能を備えています。主要機能として11時間のバッテリー持続（LDAC使用時8時間）、空間オーディオサポート、50ms未満の超低遅延、通話用の4つのビームフォーミングマイクと環境ノイズキャンセレーション機能を搭載しています。

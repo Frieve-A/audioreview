@@ -5,6 +5,7 @@ target_name: "Kinera Celest Rue"
 company_id: kinera
 lang: ja
 ref: kinera-celest-rue
+audiodb_uid: adb-ea9960035249
 date: 2026-05-21
 rating: [2.5, 0.5, 0.2, 1.0, 0.6, 0.2]
 price: 2300

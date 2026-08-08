@@ -5,6 +5,7 @@ target_name: "Sony MDR-Z7M2"
 company_id: sony
 lang: ja
 ref: sony-mdr-z7m2
+audiodb_uid: adb-2d76f0da2f9c
 date: 2025-08-20
 rating: [2.3, 0.5, 0.7, 0.2, 0.6, 0.3]
 price: 82500
@@ -12,7 +13,6 @@ summary: "70mmドライバー搭載の密閉型。暖かく落ち着いた音だ
 tags: [ヘッドホン, 密閉型, 有線, ハイレゾ]
 permalink: /products/ja/sony-mdr-z7m2/
 ---
-
 ## 概要
 
 MDR-Z7M2は初代MDR-Z7の後継となるソニーのプレミアム密閉型ヘッドホンです。アルミコートLCP振動板を用いた70 mmドライバー、フラグシップZ1R由来のフィボナッチパターングリル、4.4 mmバランスケーブルを備えます。公称インピーダンス56 Ω、感度98 dB/mW、周波数特性4 Hz–100 kHzで、マグネットはMDR-Z7比で約2倍の大型化が謳われています[3][4]。

@@ -5,6 +5,7 @@ target_name: "Marantz Cinema 50"
 company_id: marantz
 lang: ja
 ref: marantz-cinema-50
+audiodb_uid: adb-6afaf3c16535
 date: 2025-08-15
 rating: [3.7, 0.8, 0.6, 1.0, 0.7, 0.6]
 price: 286000
@@ -12,7 +13,6 @@ summary: "6系統の8K対応HDMI 2.1とAudyssey XT32を備える9.4ch AVレシ�
 tags: [AVレシーバー, ホームシアター, Dolby Atmos, 8K, HDMI]
 permalink: /products/ja/marantz-cinema-50/
 ---
-
 ## 概要
 
 Cinema 50は9.4ch／定格110WのAVレシーバーで、Dolby Atmos / DTS:X / Auro-3Dに対応します。6入力すべて8K対応のHDMI 2.1、8K/60Hz・4K/120Hzパススルー、Audyssey MultEQ XT32、HEOSストリーミング、オプションのDirac Liveに対応し、現行世代の機能を網羅します。［2］

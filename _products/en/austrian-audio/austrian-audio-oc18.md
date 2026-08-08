@@ -5,6 +5,7 @@ target_name: "Austrian Audio OC18"
 company_id: austrian-audio
 lang: en
 ref: austrian-audio-oc18
+audiodb_uid: adb-3d24d023bdc0
 date: 2026-01-02
 rating: [3.9, 0.7, 0.8, 0.9, 0.7, 0.8]
 price: 849
@@ -12,7 +13,6 @@ summary: "Fixed cardioid large diaphragm condenser microphone featuring patented
 tags: [Condenser Microphone, Fixed Cardioid, Austrian Audio, Ceramic Capsule, Professional Equipment]
 permalink: /products/en/austrian-audio-oc18/
 ---
-
 ## Overview
 
 The Austrian Audio OC18 is a fixed cardioid large diaphragm condenser microphone developed by the former AKG Vienna engineering team. It features Austrian Audio's patented CKR12 ceramic capsule technology—a single diaphragm version of their flagship capsule that modernizes the classic CK12 design. The microphone offers professional-grade specifications with maximum SPL of 148dB (158dB with pad), exceptionally low self-noise of 9dB-A, and comprehensive onboard controls including switchable high-pass filters and attenuation pads. Each unit is meticulously handcrafted and individually measured at Austrian Audio's Vienna headquarters.

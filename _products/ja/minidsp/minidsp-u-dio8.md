@@ -5,6 +5,7 @@ target_name: "MiniDSP U-DIO8"
 company_id: minidsp
 lang: ja
 ref: minidsp-u-dio8
+audiodb_uid: adb-b7ed345cbea6
 date: 2025-09-08
 rating: [2.8, 0.5, 0.4, 1.0, 0.3, 0.6]
 price: 52975
@@ -12,7 +13,6 @@ summary: "測定重視企業の設計思想にも関わらず、重大なジッ�
 tags: [USBオーディオインターフェース, デジタルコンバーター, AES/EBU, プロフェッショナルオーディオ, マルチチャンネル]
 permalink: /products/ja/minidsp-u-dio8/
 ---
-
 ## 概要
 
 MiniDSP U-DIO8は、デジタルI/O変換を必要とするプロフェッショナルマルチチャンネルアプリケーション向けに設計された8チャンネルUSB非同期デジタルオーディオインターフェースです。AES/EBU版とS/PDIF版が用意され、最大192kHz/24bitのサンプルレートに対応し、すべての入力に専用のサンプルレートコンバーターを搭載しています。161 x 108mmのコンパクトな筐体にXMOS 16コアプロセッシングを採用し、標準的なTASCAM DB-25接続により、ホームシアター、ライブサウンド、マスタリングアプリケーションを含むプロフェッショナルオーディオシステムへの統合が可能です。

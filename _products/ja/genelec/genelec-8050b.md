@@ -5,6 +5,7 @@ target_name: "Genelec 8050B"
 company_id: genelec
 lang: ja
 ref: genelec-8050b
+audiodb_uid: adb-a4883919d3ce
 date: 2025-08-11
 rating: [3.4, 0.8, 0.7, 0.2, 0.9, 0.8]
 price: 296250
@@ -12,7 +13,6 @@ summary: "優れた透明性を持つプレミアムプロフェッショナル�
 tags: [スタジオモニター, アクティブスピーカー, プロフェッショナルオーディオ, 8インチドライバー, バイアンプ]
 permalink: /products/ja/genelec-8050b/
 ---
-
 ## 概要
 
 Genelec 8050Bは8000シリーズのバイアンプ8インチ・プロフェッショナルスタジオモニターです。ウーファー150 W／ツイーター120 Wの独立アンプ、MDE（Minimum Diffraction Enclosure）とDCW（Directivity Control Waveguide）を採用します。メーカー仕様では周波数応答38 Hz–20 kHz（±2 dB）、最大ピークSPL 120 dB @ 1 mが示されています [3]。マスタリング、放送、ハイエンド制作など中立性と指向性制御が求められる用途に向きます。

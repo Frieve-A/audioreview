@@ -5,6 +5,7 @@ target_name: "DALI Ikon 5 MK2"
 company_id: dali
 lang: en
 ref: dali-ikon-5-mk2
+audiodb_uid: adb-a532fb5ea004
 date: 2025-08-23
 rating: [2.7, 0.5, 0.7, 0.5, 0.3, 0.7]
 price: 475

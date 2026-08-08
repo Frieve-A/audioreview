@@ -5,6 +5,7 @@ target_name: "Yamaha YST-SW500"
 company_id: yamaha
 lang: en
 ref: yamaha-yst-sw500
+audiodb_uid: adb-b6d6a491e2b8
 date: 2025-09-18
 rating: [2.8, 0.5, 0.5, 1.0, 0.3, 0.5]
 price: 100
@@ -12,7 +13,6 @@ summary: "Vintage 1993 active subwoofer with proprietary YST servo technology, o
 tags: [Subwoofer, Active, YST, Vintage, Discontinued]
 permalink: /products/en/yamaha-yst-sw500/
 ---
-
 ## Overview
 
  The Yamaha YST-SW500 is a vintage active subwoofer released in 1993, featuring Yamaha's proprietary Active Servo Technology (YST) [2]. This 10-inch powered subwoofer was originally priced at approximately 600 USD and represents an early implementation of active servo control for enhanced bass reproduction. The unit employs a 25cm cone woofer with 120W amplification and 38L internal volume, designed to reproduce frequencies down to 20Hz using Yamaha's patented impedance cancellation technology.

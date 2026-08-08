@@ -5,6 +5,7 @@ target_name: "Yamaha R-N600A"
 company_id: yamaha
 lang: en
 ref: yamaha-r-n600a
+audiodb_uid: adb-c2947197cd9b
 date: 2025-08-20
 rating: [2.7, 0.6, 0.5, 0.5, 0.6, 0.5]
 price: 770

@@ -5,6 +5,7 @@ target_name: "TEAC TN-280BT"
 company_id: teac
 lang: ja
 ref: teac-tn-280bt
+audiodb_uid: adb-af73c1725f9a
 date: 2025-08-25
 rating: [2.4, 0.2, 0.4, 1.0, 0.5, 0.3]
 price: 52870
@@ -12,7 +13,6 @@ summary: "Bluetoothと基本調整を備える入門機。測定性能は控え�
 tags: [ターンテーブル, Bluetooth, ベルトドライブ, フォノプリアンプ]
 permalink: /products/ja/teac-tn-280bt/
 ---
-
 ## 概要
 
 TEAC TN-280BTは、ワイヤレス出力とフォノEQ内蔵を求める初心者向けの手動ベルトドライブ・ターンテーブルです。30 cmアルミダイキャスト・プラッター、DCモーター、**アンチスケート＋調整可能カウンターウェイト**付きストレートアーム、**着脱式ヘッドシェル**、33⅓/45 RPMに対応。AT3600Lカートリッジ装着済みで、フォノEQはスイッチでオン／スルー切替。Bluetooth送信は**SBCコーデック**対応です。 [1][2]

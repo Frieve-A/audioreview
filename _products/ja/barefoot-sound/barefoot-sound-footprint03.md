@@ -5,6 +5,7 @@ target_name: "Barefoot Sound Footprint03"
 company_id: barefoot-sound
 lang: ja
 ref: barefoot-sound-footprint03
+audiodb_uid: adb-530789cbaad6
 date: 2025-10-27
 rating: [4.2, 0.6, 0.9, 1.0, 0.7, 1.0]
 price: 298125
@@ -12,7 +13,6 @@ summary: "独自のMEME音響エミュレーションとSPOC DSP技術を搭載�
 tags: [スタジオモニター, プロフェッショナルオーディオ, トライアンプ, DSP, アクティブスピーカー]
 permalink: /products/ja/barefoot-sound-footprint03/
 ---
-
 ## 概要
 
 Barefoot Sound Footprint03は、プロフェッショナルなレコーディングとミキシング用途向けに設計されたトライアンプ3ウェイアクティブスタジオモニターです。科学者・エンジニアのThomas Barefootが設立した同社は、プロフェッショナルオーディオ録音モニターを専門とし、2004年以来業界で地位を確立しています。Footprint03は合計260Wのアンプ構成で、ツイーター用60W、ミッドレンジ用100W、ウーファー用100Wの個別アンプを搭載しています。4つの異なる音響設定を可能にする独自のMEME（Multi-Emphasis Monitor Emulation）技術と、28ビット/96kHz DSP変換を行うSPOC（Spectrally Optimized Conversion）技術を組み込んでいます。オレゴン州ポートランドで組み立て・テストされるFootprint03は、先進的なデジタル信号処理と従来のモニター設計原理を組み合わせた同社のアプローチを体現しています。

@@ -5,6 +5,7 @@ target_name: "GRADO Signature S750"
 company_id: grado
 lang: ja
 ref: grado-signature-s750
+audiodb_uid: adb-610617b92c07
 date: 2026-05-19
 rating: [2.0, 0.5, 0.5, 0.1, 0.6, 0.3]
 price: 263000

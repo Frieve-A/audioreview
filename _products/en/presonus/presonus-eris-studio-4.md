@@ -5,6 +5,7 @@ target_name: "PreSonus Eris Studio 4"
 company_id: presonus
 lang: en
 ref: presonus-eris-studio-4
+audiodb_uid: adb-e9945f92a92f
 date: 2025-08-16
 rating: [3.3, 0.5, 0.5, 0.8, 0.7, 0.8]
 price: 146.99

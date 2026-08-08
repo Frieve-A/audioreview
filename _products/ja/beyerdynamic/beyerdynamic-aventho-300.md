@@ -5,6 +5,7 @@ target_name: "Beyerdynamic Aventho 300"
 company_id: beyerdynamic
 lang: ja
 ref: beyerdynamic-aventho-300
+audiodb_uid: adb-f1b0170a97cc
 date: 2025-08-29
 rating: [3.0, 0.3, 0.7, 0.7, 0.7, 0.6]
 price: 60000

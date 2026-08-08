@@ -5,6 +5,7 @@ target_name: "HiFiMAN Susvara"
 company_id: hifiman
 lang: en
 ref: hifiman-susvara
+audiodb_uid: adb-be7c693ca261
 date: 2025-08-24
 rating: [1.9, 0.4, 0.6, 0.0, 0.7, 0.2]
 price: 6000

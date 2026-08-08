@@ -5,6 +5,7 @@ target_name: "Fosi Audio K5 Pro"
 company_id: fosi-audio
 lang: en
 ref: fosi-audio-k5-pro
+audiodb_uid: adb-33d779efa3b5
 date: 2026-01-10
 rating: [3.4, 0.4, 0.5, 0.8, 0.8, 0.9]
 price: 79.99

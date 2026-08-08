@@ -5,6 +5,7 @@ target_name: "SMSL VMV T2"
 company_id: smsl
 lang: ja
 ref: smsl-vmv-t2
+audiodb_uid: adb-6eaa6a439d1d
 date: 2025-08-28
 rating: [2.7, 0.5, 0.6, 0.8, 0.5, 0.3]
 price: 159800
@@ -12,7 +13,6 @@ summary: "MQA-CD対応、デュアルAES/EBUやI2S、LDAC Bluetooth、10 MHzク�
 tags: [CDトランスポート, デジタルインターフェース, MQA, Bluetooth, クロック同期, SMSL, VMV]
 permalink: /products/ja/smsl-vmv-t2/
 ---
-
 ## 概要
 
 SMSL VMV T2は、CDトランスポートとデジタルインターフェース（USB入力、デュアルAES/EBU出力、I2S、同軸/光）を統合し、LDAC対応Bluetooth、MQA-CD、ワードクロック（44.1 kHz）入出力および10 MHz外部クロック入力に対応するディスク中心のデジタルハブです。USBは最大32bit/768 kHz、DSD512までをサポートします [1][2]。日本の流通価格は変動しますが、基準として米国SMSL公式ショップの価格は1068 USDです [3]。

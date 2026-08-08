@@ -5,6 +5,7 @@ target_name: "iFi audio GO bar"
 company_id: ifi-audio
 lang: en
 ref: ifi-audio-go-bar
+audiodb_uid: adb-f5f869b690ce
 date: 2026-04-13
 rating: [3.9, 0.8, 0.8, 1.0, 0.6, 0.7]
 price: 339
@@ -12,7 +13,6 @@ summary: "Exceptional measurement performance and comprehensive feature set esta
 tags: [dac, headphone-amplifier, portable, usb-c, balanced-output, dsd, mqa]
 permalink: /products/en/ifi-audio-go-bar/
 ---
-
 # iFi audio GO bar Product Review
 
 ## Overview

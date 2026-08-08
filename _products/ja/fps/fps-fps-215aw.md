@@ -5,6 +5,7 @@ target_name: "FPS FPS-215AW"
 company_id: fps
 lang: ja
 ref: fps-fps-215aw
+audiodb_uid: adb-a25708c1d6e9
 date: 2025-10-26
 rating: [3.3, 0.5, 0.6, 1.0, 0.7, 0.5]
 price: 5500
@@ -12,7 +13,6 @@ summary: "FPS独自のMCMAプレーナー技術を採用した超薄型2.1デス
 tags: [スピーカー, デスクトップ, サブウーファー, プレーナー, MCMA, フラットパネル, 2.1システム]
 permalink: /products/ja/fps-fps-215aw/
 ---
-
 ## 概要
 
 FPS FPS-215AWは、FPS独自のMCMA（Multi Cell Microtransducer Array）プレーナーリボン技術を採用したコンパクトな2.1デスクトップスピーカーシステムです[1][2]。システムはアンプ内蔵サブウーファー（FPS-215AW）とフラットパネルサテライトスピーカー（FPS-200）で構成され、設置スペースが限られたデスクトップ環境向けに設計されています[3]。FPSはMCMAプレーナーリボントランスデューサーの世界唯一のメーカーと主張し、複数国にわたって広範囲な特許保護を持っています[1]。製品は現在販売終了となっており、市場での入手可能性は限定的です。

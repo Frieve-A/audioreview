@@ -5,6 +5,7 @@ target_name: "FiiO KA13"
 company_id: fiio
 lang: ja
 ref: fiio-ka13
+audiodb_uid: adb-74af04608370
 date: 2025-09-12
 rating: [3.3, 0.8, 0.6, 1.0, 0.4, 0.5]
 price: 11846
@@ -12,7 +13,6 @@ summary: "デュアルCS43131搭載により透明レベルの測定性能を実
 tags: [DAC, アンプ, ポータブル, USB-C, バランス]
 permalink: /products/ja/fiio-ka13/
 ---
-
 ## 概要
 
 FiiO KA13は、デュアルCS43131 DACチップとデュアルSGM8262オペアンプを搭載したポータブルUSB DAC・ヘッドホンアンプです。3.5mmシングルエンドと4.4mmバランス出力を備え、最大550mWのバランス出力を実現します。32bit/384kHzまでのPCMおよびネイティブDSD256デコードに対応し、デスクトップモード切替、SPDIF出力機能、RGBサンプリング周波数表示などの実用的な機能を搭載しています。本体サイズは56.3×22×10.5mm、重量18.5g、USB-C接続でType-CとLightning変換ケーブルが付属します。

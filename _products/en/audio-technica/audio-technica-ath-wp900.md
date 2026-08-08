@@ -5,6 +5,7 @@ target_name: "Audio-Technica ATH-WP900"
 company_id: audio-technica
 lang: en
 ref: audio-technica-ath-wp900
+audiodb_uid: adb-f7e0020fea45
 date: 2025-10-27
 rating: [3.1, 0.5, 0.8, 0.2, 0.9, 0.7]
 price: 650
@@ -12,7 +13,6 @@ summary: "Premium wooden headphones with proprietary A2DC connector system, feat
 tags: [Headphones, Closed-back, Over-ear, Wood, Premium, Dynamic]
 permalink: /products/en/audio-technica-ath-wp900/
 ---
-
 ## Overview
 
 The Audio-Technica ATH-WP900 represents the company's premium portable headphone offering, featuring maple wood housing with flame-grain finish crafted in collaboration with Japanese guitar manufacturer Fujigen. Hand-assembled in Tokyo, these closed-back over-ear headphones utilize 53mm dynamic drivers with DLC (diamond-like carbon) coating and Audio-Technica's proprietary A2DC connector system. The ATH-WP900 targets audiophiles seeking premium craftsmanship and materials, positioning itself as a flagship portable headphone with claimed frequency response extending from 5Hz to 50kHz [1].

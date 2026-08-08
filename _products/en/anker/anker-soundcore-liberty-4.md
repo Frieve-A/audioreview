@@ -5,6 +5,7 @@ target_name: "Anker Soundcore Liberty 4"
 company_id: anker
 lang: en
 ref: anker-soundcore-liberty-4
+audiodb_uid: adb-ce1a33c35794
 date: 2025-07-19
 rating: [3.3, 0.5, 0.5, 1.0, 0.7, 0.6]
 price: 68
@@ -12,7 +13,6 @@ summary: "Standard wireless earbuds with cost-performance equivalent to same pri
 tags: [Wireless Earbuds, Bluetooth, ANC, Anker, True Wireless]
 permalink: /products/en/anker-soundcore-liberty-4/
 ---
-
 ## Overview
 
 The Anker Soundcore Liberty 4 is a core model in Anker's lineup of true wireless earbuds. It features dual dynamic drivers (9.2mm and 6mm), Bluetooth 5.3, LDAC support, and active noise cancellation functionality. Positioned as a cost-performance focused product leveraging the company's technical capabilities, it is designed as a feature-rich earbud for general consumers.

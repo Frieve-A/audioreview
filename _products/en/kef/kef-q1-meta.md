@@ -5,6 +5,7 @@ target_name: "KEF Q1 Meta"
 company_id: kef
 lang: en
 ref: kef-q1-meta
+audiodb_uid: adb-dc1860c73c3b
 date: 2025-08-11
 rating: [3.8, 0.6, 0.8, 0.7, 0.8, 0.9]
 price: 699.99
@@ -12,7 +13,6 @@ summary: "Entry-level bookshelf speaker featuring KEF's advanced Uni-Q and MAT t
 tags: [Bookshelf, Speakers, Uni-Q, MAT, Entry-level]
 permalink: /products/en/kef-q1-meta/
 ---
-
 ## Overview
 
 The KEF Q1 Meta represents the British manufacturer's entry-level bookshelf speaker in their 9th generation Q-Series, incorporating advanced technologies from higher-end models. Launched in 2024, this compact 2-way design features KEF's signature 12th generation Uni-Q driver array with a 5.25" aluminum cone mid/bass driver and 1" vented aluminum dome tweeter enhanced by Metamaterial Absorption Technology (MAT). The Q1 Meta aims to deliver high-fidelity sound with scientific precision at a regular price of 699.99 USD per pair.

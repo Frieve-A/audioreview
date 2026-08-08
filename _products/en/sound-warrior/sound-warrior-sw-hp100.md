@@ -5,6 +5,7 @@ target_name: "Sound Warrior SW-HP100"
 company_id: sound-warrior
 lang: en
 ref: sound-warrior-sw-hp100
+audiodb_uid: adb-cff91de3ee75
 date: 2025-08-15
 rating: [2.5, 0.5, 0.3, 0.8, 0.4, 0.5]
 price: 100
@@ -12,7 +13,6 @@ summary: "Japanese-made semi-open headphones with lab-verified, competent perfor
 tags: [Headphones, Semi-open, Japan, Studio, Monitoring]
 permalink: /products/en/sound-warrior-sw-hp100/
 ---
-
 ## Overview
 
 The Sound Warrior SW-HP100 is a semi-open dynamic headphone manufactured in Japan. Key specs include 40 mm drivers, 38 Ω impedance, 98 dB sensitivity (1 kHz/1 mW), 150 mW max input, and 220 g weight. It uses dual 2.5 mm mono earcup jacks with a detachable 3.5 mm cable and supports an optional balanced XLR cable [1]. Independent measurement-based reviews are available, enabling an objective assessment [2][3].

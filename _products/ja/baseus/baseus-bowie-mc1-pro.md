@@ -5,6 +5,7 @@ target_name: "Baseus Bowie MC1 Pro"
 company_id: baseus
 lang: ja
 ref: baseus-bowie-mc1-pro
+audiodb_uid: adb-3a6cd24dd416
 date: 2025-09-18
 rating: [3.5, 0.5, 0.7, 1.0, 0.5, 0.8]
 price: 10653
@@ -12,7 +13,6 @@ summary: "Hi-Res Audio認証とLDACサポートを特徴とするオープンイ
 tags: [イヤホン, オープンイヤー, LDAC, Bluetooth, 防水, ハイレゾ]
 permalink: /products/ja/baseus-bowie-mc1-pro/
 ---
-
 ## 概要
 
 Baseus Bowie MC1 Proは、LDACコーデックサポートとBluetooth 6.0接続を特徴とするHi-Res Wireless認証済みのオープンイヤー型クリップオンイヤホンです。1個あたりわずか5gの軽量設計で、記憶チタンワイヤーを使用したU-Ring CurveFit設計により安全な装着感を実現しています。3層複合振動板を持つトリマグネット・ダイナミックドライバー、SuperBass 2.0アルゴリズム、4重DSP処理によるHiFi 4音響アーキテクチャを採用しています。IP67防水機能、40時間の総バッテリー寿命、4マイクロフォンDNNシステムによるAI強化通話機能を提供します。

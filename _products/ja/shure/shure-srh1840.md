@@ -5,6 +5,7 @@ target_name: "Shure SRH1840"
 company_id: shure
 lang: ja
 ref: shure-srh1840
+audiodb_uid: adb-470a3408f018
 date: 2025-08-31
 rating: [2.8, 0.3, 0.6, 0.4, 0.8, 0.7]
 price: 77000
@@ -12,7 +13,6 @@ summary: "フラットな周波数特性を持つオープンバック型です�
 tags: [ヘッドホン, オープンバック, スタジオ, プロフェッショナル]
 permalink: /products/ja/shure-srh1840/
 ---
-
 ## 概要
 
 Shure SRH1840は、マスタリング／クリティカルリスニング向けのオープンバック型ヘッドホンです。個別にマッチングされた40 mmネオジムドライバー、アルミ／スチールの堅牢な筐体、着脱式MMCXケーブルを採用し、自然な音場とスタジオ向けの使い勝手を狙った設計です。

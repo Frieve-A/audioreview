@@ -5,6 +5,7 @@ target_name: "Topping D30Pro"
 company_id: topping
 lang: ja
 ref: topping-d30pro
+audiodb_uid: adb-a8a8aed3d367
 date: 2025-08-01
 rating: [3.5, 0.9, 0.7, 0.5, 0.6, 0.8]
 price: 59850
@@ -12,7 +13,6 @@ summary: "4基のCS43198チップを搭載したフルバランス設計のDAC�
 tags: [DAC, Topping, バランス出力, CS43198, 製品レビュー]
 permalink: /products/ja/topping-d30pro/
 ---
-
 ## 概要
 
 Topping D30ProはCirrus Logic社のCS43198チップを4基搭載したデスクトップDACです。2020年発売当時は4基構成による差動設計と399USDの価格設定で注目を集めました。XMOSのXU208 USB受信チップを採用し、DSD256やPCM 32bit/384kHzまでの高解像度音源に対応します。フルバランス設計によりXLR出力とRCA出力を両方搭載し、プリアンプ機能も内蔵しています。現在は廃番となっていますが、音響測定において透明レベルの性能を示した製品として評価されています。

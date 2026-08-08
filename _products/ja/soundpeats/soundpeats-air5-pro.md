@@ -5,6 +5,7 @@ target_name: "SoundPEATS Air5 Pro"
 company_id: soundpeats
 lang: ja
 ref: soundpeats-air5-pro
+audiodb_uid: adb-4a2ffeec3749
 date: 2025-08-17
 rating: [3.8, 0.6, 0.8, 1.0, 0.6, 0.8]
 price: 9980

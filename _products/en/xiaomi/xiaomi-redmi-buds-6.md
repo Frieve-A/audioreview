@@ -5,6 +5,7 @@ target_name: "Xiaomi Redmi Buds 6"
 company_id: xiaomi
 lang: en
 ref: xiaomi-redmi-buds-6
+audiodb_uid: adb-63c2f5f477c1
 date: 2025-12-18
 rating: [3.5, 0.5, 0.8, 1.0, 0.4, 0.8]
 price: 28

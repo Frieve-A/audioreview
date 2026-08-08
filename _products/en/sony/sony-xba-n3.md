@@ -5,6 +5,7 @@ target_name: "Sony XBA-N3"
 company_id: sony
 lang: en
 ref: sony-xba-n3
+audiodb_uid: adb-683123284ae7
 date: 2025-07-25
 rating: [2.1, 0.6, 0.5, 0.1, 0.6, 0.3]
 price: 267
@@ -12,7 +13,6 @@ summary: "Despite adopting a hybrid driver configuration, this product faces sig
 tags: [Earphones, Hybrid, Hi-Res, Sony]
 permalink: /products/en/sony-xba-n3/
 ---
-
 ## Overview
 
 The Sony XBA-N3 is a canal-type earphone featuring a hybrid configuration that combines a 9mm dynamic driver with a balanced armature driver. It adopts an LCP (Liquid Crystal Polymer) diaphragm and supports a wide frequency range of 3Hz to 40,000Hz, enabling Hi-Res Audio playback. The detachable cable design allows for replacement, and it has obtained 360 Reality Audio certification. While the initial market price was around 233 USD, it is currently distributed through the used market and imports at approximately 167-400 USD due to discontinued production.

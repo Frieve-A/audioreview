@@ -5,6 +5,7 @@ target_name: "Ultrasone Signature Pure"
 company_id: ultrasone
 lang: en
 ref: ultrasone-signature-pure
+audiodb_uid: adb-51db8d4c0180
 date: 2025-08-25
 rating: [2.8, 0.5, 0.6, 0.8, 0.5, 0.4]
 price: 169
@@ -12,7 +13,6 @@ summary: "Entry-level closed-back headphone in Ultrasone’s Signature line. Use
 tags: [Headphones, Closed-back, Dynamic, Studio]
 permalink: /products/en/ultrasone-signature-pure/
 ---
-
 ## Overview
 
 Ultrasone Signature Pure is a budget closed-back, wired headphone positioned beneath the brand’s studio-oriented Signature models. It features 50 mm dynamic drivers, Double Deflector Fins (DDF), and the company’s S-Logic 3 acoustic scheme. Street price is 169 USD. [5][4]

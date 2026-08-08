@@ -5,6 +5,7 @@ target_name: "HiFiMAN Ananda"
 company_id: hifiman
 lang: ja
 ref: hifiman-ananda
+audiodb_uid: adb-9ebeaea3354d
 date: 2025-09-02
 rating: [3.3, 0.5, 0.6, 0.6, 0.8, 0.8]
 price: 53280
@@ -12,7 +13,6 @@ summary: "軽量設計と適度な技術性能を持つオープンバック型�
 tags: [ヘッドホン, 平面磁界型, オープンバック, オーバーイヤー]
 permalink: /products/ja/hifiman-ananda/
 ---
-
 ## 概要
 
 HiFiMAN Anandaは、同社の平面磁界駆動ヘッドホンの中核となるオープンバック機です。質量は399g、周波数応答は8Hz–55kHzとされ、発売当初の999 USDから価格改定が進み、現在は一部の小売で新品が360 USD前後で流通し、競争の激しいミドルファイ帯に位置づけられます。

@@ -5,6 +5,7 @@ target_name: "KEF Blade Two Meta"
 company_id: kef
 lang: en
 ref: kef-blade-two-meta
+audiodb_uid: adb-79af673e29cb
 date: 2025-07-31
 rating: [3.1, 0.8, 0.9, 0.4, 0.5, 0.5]
 price: 28000

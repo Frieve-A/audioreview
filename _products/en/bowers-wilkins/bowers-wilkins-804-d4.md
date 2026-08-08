@@ -5,6 +5,7 @@ target_name: "Bowers & Wilkins 804 D4"
 company_id: bowers-wilkins
 lang: en
 ref: bowers-wilkins-804-d4
+audiodb_uid: adb-5b3e804ecdff
 date: 2025-08-20
 rating: [2.2, 0.4, 0.7, 0.1, 0.5, 0.5]
 price: 16000

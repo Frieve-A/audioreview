@@ -5,6 +5,7 @@ target_name: "Sennheiser MOMENTUM True Wireless 3"
 company_id: sennheiser
 lang: en
 ref: sennheiser-momentum-true-wireless-3
+audiodb_uid: adb-f7e2d19be461
 date: 2025-12-03
 rating: [3.4, 0.5, 0.8, 1.0, 0.4, 0.7]
 price: 249.95
@@ -12,7 +13,6 @@ summary: "Premium true wireless earbuds with TrueResponse driver technology and 
 tags: [Earbuds, True Wireless, Bluetooth, ANC, aptX Adaptive]
 permalink: /products/en/sennheiser-momentum-true-wireless-3/
 ---
-
 ## Overview
 
 The Sennheiser MOMENTUM True Wireless 3, released in April 2022 at 249.95 USD [1], represents Sennheiser's premium true wireless offering featuring proprietary TrueResponse driver technology [2]. This third-generation model incorporates 7mm dynamic drivers with triple-channel ventilation, Bluetooth 5.2 connectivity with aptX Adaptive codec support, and hybrid adaptive ANC. Independent testing shows 5 hours 33 minutes of single-charge playback with 22 hours total including case [1], IPX4 water resistance, and comprehensive app control including a 5-band equalizer. Built on Sennheiser's 80-year audio heritage and substantial R&D investment, these earbuds target discerning listeners seeking premium wireless audio performance.

@@ -5,6 +5,7 @@ target_name: "Acoustune RS Five Clear"
 company_id: acoustune
 lang: ja
 ref: acoustune-rs-five-clear
+audiodb_uid: adb-ed46b935d202
 date: 2025-08-16
 rating: [2.8, 0.5, 0.7, 0.4, 0.6, 0.6]
 price: 43800

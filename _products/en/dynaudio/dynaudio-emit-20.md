@@ -5,6 +5,7 @@ target_name: "Dynaudio Emit 20"
 company_id: dynaudio
 lang: en
 ref: dynaudio-emit-20
+audiodb_uid: adb-b1d114f03a6e
 date: 2025-10-28
 rating: [4.1, 0.6, 0.9, 0.8, 0.9, 0.9]
 price: 1049

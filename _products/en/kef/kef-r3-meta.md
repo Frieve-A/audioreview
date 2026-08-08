@@ -5,6 +5,7 @@ target_name: "KEF R3 Meta"
 company_id: kef
 lang: en
 ref: kef-r3-meta
+audiodb_uid: adb-134729e51ee4
 date: 2026-02-08
 rating: [4.7, 0.8, 1.0, 1.0, 0.9, 1.0]
 price: 2200

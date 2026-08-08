@@ -5,6 +5,7 @@ target_name: "miniDSP Flex Eight"
 company_id: minidsp
 lang: en
 ref: minidsp-flex-eight
+audiodb_uid: adb-287a670be564
 date: 2025-09-06
 rating: [3.6, 0.8, 0.7, 1.0, 0.3, 0.8]
 price: 549
@@ -12,7 +13,6 @@ summary: "8-channel DSP audio processor with excellent measured performance; no 
 tags: [DSP, Audio Processor, Crossover, Multi-channel, Digital Audio]
 permalink: /products/en/minidsp-flex-eight/
 ---
-
 ## Overview
 
 The miniDSP Flex Eight is a compact stereo-input, 8-channel output high-resolution audio processor launched in **August 2022**. Built around a 32-bit floating-point 400MHz Analog Devices SHARC DSP with multi-core XMOS USB audio processing, it targets active speaker systems and multi-subwoofer configurations. The device features flexible 2x8 signal routing, comprehensive DSP functionality including parametric EQ and crossovers, and multiple digital inputs including USB, S/PDIF, and Bluetooth with high-quality codecs.

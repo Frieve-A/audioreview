@@ -5,6 +5,7 @@ target_name: "Sony PlayStation Portable"
 company_id: sony
 lang: ja
 ref: sony-playstation-portable
+audiodb_uid: adb-a8b903237cde
 date: 2025-12-26
 rating: [2.7, 0.5, 0.5, 0.7, 0.7, 0.3]
 price: 13500

@@ -5,6 +5,7 @@ target_name: "CVJ Aria"
 company_id: cvj
 lang: en
 ref: cvj-aria
+audiodb_uid: adb-8080699de521
 date: 2025-07-28
 rating: [2.8, 0.5, 0.7, 0.4, 0.5, 0.7]
 price: 53

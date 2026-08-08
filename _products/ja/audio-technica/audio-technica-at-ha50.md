@@ -5,6 +5,7 @@ target_name: "Audio-Technica AT-HA50"
 company_id: audio-technica
 lang: ja
 ref: audio-technica-at-ha50
+audiodb_uid: adb-d49006306e2c
 date: 2025-10-21
 rating: [3.2, 0.5, 0.4, 1.0, 0.7, 0.6]
 price: 35000

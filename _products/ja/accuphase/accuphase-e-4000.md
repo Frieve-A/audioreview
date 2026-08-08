@@ -5,6 +5,7 @@ target_name: "Accuphase E-4000"
 company_id: accuphase
 lang: ja
 ref: accuphase-e-4000
+audiodb_uid: adb-31a0c7262234
 date: 2025-08-21
 rating: [3.3, 0.7, 0.8, 0.2, 0.8, 0.8]
 price: 2047500

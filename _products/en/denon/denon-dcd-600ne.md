@@ -5,6 +5,7 @@ target_name: "Denon DCD-600NE"
 company_id: denon
 lang: en
 ref: denon-dcd-600ne
+audiodb_uid: adb-a3627dfeaf9f
 date: 2025-08-23
 rating: [3.1, 0.6, 0.5, 0.8, 0.6, 0.6]
 price: 499
@@ -12,7 +13,6 @@ summary: "Entry-level CD player with AL32 processing and 32-bit DAC IC, but face
 tags: [CD Player, DAC, Digital Audio, Optical Output]
 permalink: /products/en/denon-dcd-600ne/
 ---
-
 ## Overview
 
 The Denon DCD-600NE is an entry-level CD player featuring Denon’s AL32 processing and a Burr-Brown/TI PCM5142 DAC IC (192 kHz/32-bit). Launched in 2019 as part of the NE series, it targets budget-conscious listeners seeking dedicated CD playback with a vibration-resistant chassis, Pure Direct mode, and both analog RCA and a single optical digital output. It supports audio CDs plus CD-R/RW discs with MP3/WMA files. [1][3]

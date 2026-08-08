@@ -5,6 +5,7 @@ target_name: "Pentaconn COREIR Al Alloy"
 company_id: pentaconn
 lang: ja
 ref: pentaconn-coreir-al-alloy
+audiodb_uid: adb-ed3d9f0ebf64
 date: 2025-08-19
 rating: [2.1, 0.3, 0.6, 0.3, 0.5, 0.4]
 price: 3850
@@ -12,7 +13,6 @@ summary: "アルミ合金コア搭載イヤーチップ。工作精度は良好�
 tags: [オーディオアクセサリ, 日本, アルミニウム, プレミアム, イヤーチップ]
 permalink: /products/ja/pentaconn-coreir-al-alloy/
 ---
-
 ## 概要
 
 COREIRの第2弾として、音導管内に黒アルマイト処理のアルミ合金コアを採用し、イヤホン側ノズルとの接触を防ぐカラークッション（CMYK配色）を備えます。S/MS/M/Lの4サイズで、対応ノズル径は4.5〜5.5 mm、1サイズ2ペアまたは2サイズ各1ペアの構成です。国内参考価格は3,850円、米国市場の代表価格は49 USDです。 [1][2]

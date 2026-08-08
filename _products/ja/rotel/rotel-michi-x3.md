@@ -5,6 +5,7 @@ target_name: "Rotel Michi X3"
 company_id: rotel
 lang: ja
 ref: rotel-michi-x3
+audiodb_uid: adb-8f3e8d855e98
 date: 2025-09-13
 rating: [3.7, 0.6, 0.6, 0.9, 1.0, 0.6]
 price: 578000

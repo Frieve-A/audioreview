@@ -5,6 +5,7 @@ target_name: "Yamaha R-N800A"
 company_id: yamaha
 lang: en
 ref: yamaha-r-n800a
+audiodb_uid: adb-54d9cd026bf4
 date: 2025-10-29
 rating: [4.0, 0.5, 0.9, 1.0, 0.7, 0.9]
 price: 1199.95

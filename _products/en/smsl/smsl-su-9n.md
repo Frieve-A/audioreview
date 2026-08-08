@@ -5,6 +5,7 @@ target_name: "SMSL SU-9N"
 company_id: smsl
 lang: en
 ref: smsl-su-9n
+audiodb_uid: adb-1b84422707a2
 date: 2025-08-28
 rating: [3.6, 0.9, 0.7, 0.6, 0.6, 0.8]
 price: 399
@@ -12,7 +13,6 @@ summary: "Premium ESS ES9038PRO DAC with excellent measured transparency; cost-p
 tags: [DAC, Desktop, Balanced, ESS, SMSL, USB, Bluetooth]
 permalink: /products/en/smsl-su-9n/
 ---
-
 ## Overview
 
 The SMSL SU-9N is a balanced desktop DAC using ESS’s ES9038PRO. Introduced in 2021 as a lower-cost variant of the SU-9, it drops MQA/UAT while retaining high performance, USB (XMOS), optical/coaxial inputs, Bluetooth (LDAC/aptX HD/AAC/SBC), and both XLR and RCA outputs. It supports PCM up to 768 kHz/32-bit and DSD512. [2][3]

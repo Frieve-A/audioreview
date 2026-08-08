@@ -5,6 +5,7 @@ target_name: "Baseus Bowie MC1 Pro"
 company_id: baseus
 lang: en
 ref: baseus-bowie-mc1-pro
+audiodb_uid: adb-3a6cd24dd416
 date: 2025-09-18
 rating: [3.5, 0.5, 0.7, 1.0, 0.5, 0.8]
 price: 69
@@ -12,7 +13,6 @@ summary: "Open-ear clip-on earbuds with Hi-Res Audio certification and LDAC supp
 tags: [Earbuds, Open-ear, LDAC, Bluetooth, Waterproof, Hi-Res]
 permalink: /products/en/baseus-bowie-mc1-pro/
 ---
-
 ## Overview
 
 The Baseus Bowie MC1 Pro are Hi-Res Wireless certified open-ear clip-on earbuds featuring LDAC codec support and Bluetooth 6.0 connectivity. Weighing just 5g per earbud, they employ a U-Ring CurveFit design with memory titanium wire for secure placement. The earbuds incorporate a Tri-Magnet Dynamic Driver with 3-layer composite diaphragm, SuperBass 2.0 algorithm, and HiFi 4 acoustic architecture with quadruple DSP processing. They offer IP67 waterproofing, 40-hour total battery life, and AI-powered call enhancement through a 4-microphone DNN system.

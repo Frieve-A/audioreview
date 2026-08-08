@@ -5,6 +5,7 @@ target_name: "Benchmark DAC3 HGC"
 company_id: benchmark
 lang: ja
 ref: benchmark-dac3hgc
+audiodb_uid: adb-c8e81e59a78c
 date: 2025-07-25
 rating: [2.9, 0.9, 0.6, 0.3, 0.8, 0.3]
 price: 398000
@@ -12,7 +13,6 @@ summary: "業界最高水準の測定性能を誇るプロ向けDAC・ヘッド�
 tags: [DAC, ヘッドホンアンプ, プリアンプ, ESS, プロオーディオ, 高価格]
 permalink: /products/ja/benchmark-dac3hgc/
 ---
-
 ## 概要
 
 Benchmark DAC3 HGCは、1978年に設立されたアメリカのBenchmark Media Systemsが開発するプロフェッショナル向けDAC・ヘッドホンアンプ・プリアンプ一体型製品です。ESS Technologies ES9028PRO DACチップを採用し、独自の4:1サミング技術により業界最高水準の測定性能を実現しています。放送業界での実績に基づく高い信頼性と、マスタリングスタジオやプロダクション現場での採用実績を持つ製品として位置づけられています。日本国内では正規代理店Emilai INCを通じて販売され、2年間の延長保証が提供されます。

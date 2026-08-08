@@ -5,6 +5,7 @@ target_name: "iBasso Audio DX260"
 company_id: ibasso-audio
 lang: ja
 ref: ibasso-audio-dx260
+audiodb_uid: adb-a15505855c2e
 date: 2025-11-19
 rating: [4.0, 0.8, 0.8, 1.0, 0.5, 0.9]
 price: 142350

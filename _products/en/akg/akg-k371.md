@@ -5,6 +5,7 @@ target_name: "AKG K371"
 company_id: akg
 lang: en
 ref: akg-k371
+audiodb_uid: adb-033c1f34e0b3
 date: 2026-03-15
 rating: [3.9, 0.7, 0.8, 1.0, 0.4, 1.0]
 price: 158
@@ -12,7 +13,6 @@ summary: "Professional studio headphones tuned to Harman target curve with compr
 tags: [Headphones, Studio, Professional, Closed-back, Over-ear]
 permalink: /products/en/akg-k371/
 ---
-
 ## Overview
 
 The AKG K371 represents AKG's commitment to scientifically-validated professional audio monitoring through measurement-based design principles. Released in August 2019, these over-ear closed-back headphones are engineered around Harman's Reference Response curve, derived from extensive psychoacoustic research involving 130 listeners across diverse demographics. The product bridges professional studio monitoring requirements with portable consumer applications through foldable design and detachable cable configuration. Current pricing positions the K371 at 158 USD, targeting the accessible professional headphone market segment with titanium-coated 50mm dynamic drivers and comprehensive international support infrastructure through Harman Professional Solutions.

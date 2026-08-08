@@ -5,6 +5,7 @@ target_name: "KEF XIO"
 company_id: kef
 lang: ja
 ref: kef-xio
+audiodb_uid: adb-e399be477a20
 date: 2025-09-12
 rating: [4.0, 0.6, 0.8, 1.0, 0.8, 0.8]
 price: 390000

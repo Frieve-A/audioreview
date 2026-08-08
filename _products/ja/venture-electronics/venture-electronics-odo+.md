@@ -5,6 +5,7 @@ target_name: "Venture Electronics Odo+"
 company_id: venture-electronics
 lang: ja
 ref: venture-electronics-odo+
+audiodb_uid: adb-9088dc8588cf
 date: 2026-05-27
 rating: [3.1, 0.7, 0.1, 1.0, 0.6, 0.7]
 price: 750

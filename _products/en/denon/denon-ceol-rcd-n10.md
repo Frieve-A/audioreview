@@ -5,6 +5,7 @@ target_name: "Denon CEOL RCD-N10"
 company_id: denon
 lang: en
 ref: denon-ceol-rcd-n10
+audiodb_uid: adb-c4808072b5b3
 date: 2026-05-10
 rating: [2.7, 0.4, 0.4, 1.0, 0.5, 0.4]
 price: 499
@@ -12,7 +13,6 @@ summary: "A 2018 compact all-in-one network CD receiver offering the lowest stab
 tags: [Network Receiver, CD Receiver, Compact System, Streaming, HEOS, Denon]
 permalink: /products/en/denon-ceol-rcd-n10/
 ---
-
 ## Overview
 
 The Denon CEOL RCD-N10 is a compact all-in-one stereo network CD receiver released in 2018, integrating a Class D amplifier (65W+65W at 4Ω), built-in CD player, FM/AM tuner, and HEOS-based multiroom streaming in a 280×305×108mm, 3.4kg chassis. It was the entry-level model in Denon's fourth CEOL generation, launched at approximately 499 USD and now archived — succeeded by the RCD-N11 (added DAB+) and RCD-N12 (added HDMI ARC, phono input, Roon Ready certification). As a discontinued product, availability is limited to remaining clearance and secondary market stock [1].

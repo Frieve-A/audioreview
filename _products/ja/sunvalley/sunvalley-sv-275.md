@@ -5,6 +5,7 @@ target_name: "Sunvalley SV-275"
 company_id: sunvalley
 lang: ja
 ref: sunvalley-sv-275
+audiodb_uid: adb-823eee45dd52
 date: 2025-07-25
 rating: [1.0, 0.1, 0.2, 0.1, 0.5, 0.1]
 price: 99000
@@ -12,7 +13,6 @@ summary: "KT88プッシュプル真空管アンプながらTHD10%の劣悪な測
 tags: [真空管アンプ, KT88, プッシュプル, パワーアンプ]
 permalink: /products/ja/sunvalley-sv-275/
 ---
-
 ## 概要
 
 Sunvalley SV-275は、オーディオキットで知られるSunvalleyが製造したKT88プッシュプル真空管パワーアンプです。38W+38W（8Ω、THD10%）の出力を持ち、12AX7×2、6BQ5×4、KT88×4の真空管構成を採用しています。周波数特性5Hz-125kHz（1W/8Ω/-3dB）、4/8/16Ωスピーカー対応で、寸法W430×H195×D270mm、重量18kgの設計です。中古品として99,000円で販売されており、キット完成品の実勢価格となっています。同社は2023年5月に全製品の販売業務を終了し、現在は製品サポートに特化しています。

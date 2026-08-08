@@ -5,6 +5,7 @@ target_name: "Denon AVR-X1800H"
 company_id: denon
 lang: ja
 ref: denon-avr-x1800h
+audiodb_uid: adb-9d69896a4b75
 date: 2025-08-02
 rating: [3.3, 0.7, 0.5, 0.9, 0.7, 0.5]
 price: 72600
@@ -12,7 +13,6 @@ summary: "7.2チャンネル対応のAVレシーバー。測定性能は良好�
 tags: [AVレシーバー, ホームシアター, 7.2チャンネル, Dolby Atmos, 8K対応]
 permalink: /products/ja/denon-avr-x1800h/
 ---
-
 ## 概要
 
 Denon AVR-X1800Hは、7.2チャンネル対応のAVレシーバーです。80W（8Ω、20Hz-20kHz、0.08% THD、2ch駆動）の出力をを持つディスクリート構成のパワーアンプを搭載し、8K Ultra HD、HDR10+、eARCといった最新の映像フォーマットをサポートします。32ビットD/Aコンバーターを搭載し、ハイレゾ音源にも対応。HEOSによるワイヤレスストリーミング機能や、Audyssey MultEQ XTによる室内音響補正機能も備え、現代のホームシアターの中核を担う十分な機能を備えています。

@@ -5,6 +5,7 @@ target_name: "Marshall Monitor III A.N.C."
 company_id: marshall
 lang: ja
 ref: marshall-monitor-iii-a-n-c
+audiodb_uid: adb-887d787a1dc7
 date: 2026-01-06
 rating: [4.0, 0.5, 0.9, 1.0, 0.7, 0.9]
 price: 52500
@@ -12,7 +13,6 @@ summary: "最先端のBluetooth LE Audio対応と高度な空間音響処理を�
 tags: [ヘッドホン, ワイヤレス, ノイズキャンセリング, Bluetooth, 空間音響, プレミアム]
 permalink: /products/ja/marshall-monitor-iii-a-n-c/
 ---
-
 ## 概要
 
 Marshall Monitor III A.N.Cは、2024年に発表されたMarshallの消費者向けヘッドホンラインナップの最新モデルで、アクティブノイズキャンセリング機能付きのオーバーイヤーワイヤレスヘッドホンです。32mmカスタムチューニングドライバーとBluetooth 5.3接続を搭載し、Dynamic Loudnessアルゴリズムと4つのルームサイズシミュレーション機能を備えたSoundstage空間音響技術などの高度なデジタル信号処理を特徴としています。将来のAuracastブロードキャスト音響共有に対応したBluetooth LE Audioの早期採用が注目され、Marshallの伝統的な音響工学と先進的な接続標準を組み合わせています。52,500円（349.99 USD）で販売され、ワイヤレス音響における高度な機能と将来対応技術を求めるプレミアム消費者をターゲットとしています。

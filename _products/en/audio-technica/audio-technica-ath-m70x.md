@@ -5,6 +5,7 @@ target_name: "Audio-Technica ATH-M70X"
 company_id: audio-technica
 lang: en
 ref: audio-technica-ath-m70x
+audiodb_uid: adb-b88d207344bb
 date: 2025-08-02
 rating: [2.4, 0.3, 0.5, 0.5, 0.6, 0.5]
 price: 235
@@ -12,7 +13,6 @@ summary: "Expensive monitor headphones claiming professional use but delivering 
 tags: [Monitor Headphones, Studio, Audio-Technica, Professional Equipment]
 permalink: /products/en/audio-technica-ath-m70x/
 ---
-
 ## Overview
 
 The Audio-Technica ATH-M70X is positioned as the flagship model of the company's M-series closed-back monitor headphones. Featuring 45mm large-aperture drivers, it claims a wide-band reproduction from 5Hz to 40kHz. While marketed heavily for professional use, its actual sound characteristics strongly exhibit consumer-oriented features. The market price is 235 USD, and it comes with three detachable cables and a hard case.

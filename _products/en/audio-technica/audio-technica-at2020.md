@@ -5,6 +5,7 @@ target_name: "Audio-Technica AT2020"
 company_id: audio-technica
 lang: en
 ref: audio-technica-at2020
+audiodb_uid: adb-9de5f1879a19
 date: 2025-11-14
 rating: [3.6, 0.6, 0.7, 0.9, 0.7, 0.7]
 price: 99
@@ -12,7 +13,6 @@ summary: "Entry-level condenser microphone offering professional XLR connectivit
 tags: [Microphones, Condenser, XLR, Studio, Recording, Budget]
 permalink: /products/en/audio-technica-at2020/
 ---
-
 ## Overview
 
 The Audio-Technica AT2020 is a fixed cardioid condenser microphone positioned as an entry-level professional recording solution. Featuring a 16mm electret capsule with permanently polarized design, the AT2020 targets home studio users and podcasters seeking XLR connectivity at accessible pricing. Audio-Technica has maintained this model as a budget-friendly gateway to their condenser microphone lineup, emphasizing practical functionality over premium specifications. The microphone incorporates the company's proprietary back-plate polarization technique and UniGuard RF interference protection, demonstrating technical heritage from higher-end products applied to cost-effective design.

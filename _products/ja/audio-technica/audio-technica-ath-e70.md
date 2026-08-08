@@ -5,6 +5,7 @@ target_name: "Audio-Technica ATH-E70"
 company_id: audio-technica
 lang: ja
 ref: audio-technica-ath-e70
+audiodb_uid: adb-51f41c0008fa
 date: 2025-09-20
 rating: [3.8, 0.8, 0.8, 0.5, 0.8, 0.9]
 price: 65000

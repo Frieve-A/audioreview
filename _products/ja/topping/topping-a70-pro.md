@@ -5,6 +5,7 @@ target_name: "Topping A70 Pro"
 company_id: topping
 lang: ja
 ref: topping-a70-pro
+audiodb_uid: adb-378feed9fa6c
 date: 2025-08-08
 rating: [3.5, 0.9, 0.8, 0.3, 0.7, 0.8]
 price: 74850
@@ -12,7 +13,6 @@ summary: "最大17W（16Ω、バランス）出力の高性能ヘッドホンア
 tags: [ヘッドホンアンプ, バランス駆動, ハイパワー]
 permalink: /products/ja/topping-a70-pro/
 ---
-
 ## 概要
 
 Topping A70 Proは2023年に発売されたヘッドホンアンプ（プリアンプ機能搭載）です。メーカー公称で、16Ω負荷時にバランス出力で最大17W×2の高出力と、ダイナミックレンジ（SNR）147dBを掲げています。T'ang-ku-la Module（3段フィードバック）やフルカラーディスプレイ、リレー式R2Rボリュームなどの機能を備えています。参考価格は499 USD（執筆時点、地域・時期により変動）です。

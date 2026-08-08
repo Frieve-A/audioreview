@@ -5,6 +5,7 @@ target_name: "Creative T60"
 company_id: creative
 lang: en
 ref: creative-t60
+audiodb_uid: adb-c3fd0c65db45
 date: 2025-09-03
 rating: [2.3, 0.5, 0.4, 0.3, 0.6, 0.5]
 price: 90
@@ -12,7 +13,6 @@ summary: "Compact desktop speakers with basic functionality but compromised audi
 tags: [Speakers, Desktop, 2.0, Bluetooth, USB-C]
 permalink: /products/en/creative-t60/
 ---
-
 ## Overview
 
 The Creative T60 is a compact 2.0 desktop speaker system featuring 30W RMS power through dual 2.75-inch full-range drivers. Marketed with Sound Blaster processing (Clear Dialog / Surround), it offers multiple connectivity options including **USB-C digital audio**, **Bluetooth 5.0**, and **3.5 mm** analog input, plus integrated **headset/mic passthrough**. While convenient for space-constrained desks and WFH setups, its audio performance is modest for music-first listening.

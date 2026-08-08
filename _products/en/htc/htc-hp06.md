@@ -5,6 +5,7 @@ target_name: "HTC HP06"
 company_id: htc
 lang: en
 ref: htc-hp06
+audiodb_uid: adb-181b47cbb9f4
 date: 2025-10-23
 rating: [3.5, 0.5, 0.7, 1.0, 0.7, 0.6]
 price: 20.43
@@ -12,7 +13,6 @@ summary: "Budget Bluetooth 6.0 wireless headphones with AI translation, ANC, and
 tags: [Headphones, Wireless, Bluetooth, ANC, AI, Translation]
 permalink: /products/en/htc-hp06/
 ---
-
 ## Overview
 
 The HTC HP06 represents HTC's entry into the modern wireless headphone market, combining traditional audio functionality with contemporary features like AI translation capabilities. Product specifications show conflicting information across sources regarding driver configuration, with some sources indicating 40mm drivers while others specify 10mm dynamic drivers. Design classification also varies between "open-ear" and "over-ear" configurations across different retailers [1][4]. The headphones feature active noise cancellation with claimed 50dB reduction, extended 26-hour battery life, and Bluetooth 6.0 connectivity with dual device pairing support and proprietary FlashLink 6.0 low latency technology. Available for 20.43 USD through wholesale channels, the HP06 targets budget-conscious users seeking wireless headphones with advanced connectivity and smart functionality integration.

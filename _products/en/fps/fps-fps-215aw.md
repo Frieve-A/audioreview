@@ -5,6 +5,7 @@ target_name: "FPS FPS-215AW"
 company_id: fps
 lang: en
 ref: fps-fps-215aw
+audiodb_uid: adb-a25708c1d6e9
 date: 2025-10-26
 rating: [3.3, 0.5, 0.6, 1.0, 0.7, 0.5]
 price: 42
@@ -12,7 +13,6 @@ summary: "Ultra-thin 2.1 desktop speaker system featuring FPS's proprietary MCMA
 tags: [Speakers, Desktop, Subwoofer, Planar, MCMA, Flat Panel, 2.1 System]
 permalink: /products/en/fps-fps-215aw/
 ---
-
 ## Overview
 
 The FPS FPS-215AW is a compact 2.1 desktop speaker system manufactured by FPS using their proprietary MCMA (Multi Cell Microtransducer Array) planar ribbon technology [1][2]. The system comprises an amplified subwoofer (FPS-215AW) and flat panel satellite speakers (FPS-200), designed for space-constrained desktop environments [3]. FPS claims to be the world's only manufacturer of MCMA planar ribbon transducers, with extensive patent protection across multiple countries [1]. The product appears to be discontinued with limited current market availability.

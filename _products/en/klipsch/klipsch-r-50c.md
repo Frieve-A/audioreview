@@ -5,6 +5,7 @@ target_name: "Klipsch R-50C"
 company_id: klipsch
 lang: en
 ref: klipsch-r-50c
+audiodb_uid: adb-2db08edab6a9
 date: 2025-07-29
 rating: [3.2, 0.5, 0.5, 0.8, 0.7, 0.7]
 price: 352

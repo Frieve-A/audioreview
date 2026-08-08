@@ -5,6 +5,7 @@ target_name: "Denon DHT-C210"
 company_id: denon
 lang: en
 ref: denon-dht-c210
+audiodb_uid: adb-6a36a7b8cbd0
 date: 2025-08-21
 rating: [2.5, 0.4, 0.4, 0.7, 0.5, 0.5]
 price: 299
@@ -12,7 +13,6 @@ summary: "All-in-one Dolby Atmos bar with dual built-in woofers and eARC. No pub
 tags: [Denon, Soundbar, Dolby Atmos, eARC, Bluetooth]
 permalink: /products/en/denon-dht-c210/
 ---
-
 ## Overview
 
 The DHT-C210 is an all-in-one Dolby Atmos soundbar with dual built-in woofers, HDMI eARC, optical input, and Bluetooth 5.0 (SBC). It decodes Dolby TrueHD/Atmos and measures 35.0 ~ 4.7 ~ 2.6 inches, making it easy to place in front of most TVsm1nm2n. Official US price is 299 USDm1n.

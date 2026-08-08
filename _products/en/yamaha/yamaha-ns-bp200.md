@@ -5,6 +5,7 @@ target_name: "Yamaha NS-BP200"
 company_id: yamaha
 lang: en
 ref: yamaha-ns-bp200
+audiodb_uid: adb-21f6a5b96edd
 date: 2025-08-03
 rating: [3.2, 0.6, 0.5, 1.0, 0.6, 0.5]
 price: 81

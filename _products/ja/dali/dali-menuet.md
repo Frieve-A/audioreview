@@ -5,6 +5,7 @@ target_name: "DALI Menuet"
 company_id: dali
 lang: ja
 ref: dali-menuet
+audiodb_uid: adb-b57a1e47a655
 date: 2025-08-07
 rating: [2.7, 0.4, 0.7, 0.2, 0.8, 0.6]
 price: 207900
@@ -12,7 +13,6 @@ summary: "DALIの小型ブックシェルフスピーカーMenuetは、デンマ
 tags: [ブックシェルフスピーカー, DALI, デンマーク, 2ウェイ]
 permalink: /products/ja/dali-menuet/
 ---
-
 ## 概要
 
 DALI Menuetは1983年設立のデンマークのオーディオメーカーDALI（Danish Audiophile Loudspeaker Industries）による小型ブックシェルフスピーカーです。同社は年間25万台のスピーカーを製造し70カ国に輸出する確立されたメーカーで、デンマークの工業デザイン哲学に基づく「エレガントで信頼性の高い製品」を標榜しています。Menuetは114.3mm木材繊維ウーファーと28mm軟質ドームツイーターによる2ウェイ設計で、特別仕様のSE版ではファイバーグラス製ボイスコイルフォーマーとムンドルフコンデンサを採用し、日本市場向けに開発された経緯があります。

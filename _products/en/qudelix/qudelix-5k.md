@@ -5,6 +5,7 @@ target_name: "Qudelix 5K"
 company_id: qudelix
 lang: en
 ref: qudelix-5k
+audiodb_uid: adb-caa32cfe239d
 date: 2025-09-30
 rating: [3.6, 0.8, 0.7, 1.0, 0.3, 0.8]
 price: 110

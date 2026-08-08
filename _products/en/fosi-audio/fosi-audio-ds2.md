@@ -5,6 +5,7 @@ target_name: "Fosi Audio DS2"
 company_id: fosi-audio
 lang: en
 ref: fosi-audio-ds2
+audiodb_uid: adb-9fc5baa05718
 date: 2025-07-08
 rating: [3.7, 0.8, 0.7, 0.5, 0.9, 0.8]
 price: 60

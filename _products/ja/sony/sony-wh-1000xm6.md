@@ -5,6 +5,7 @@ target_name: "Sony WH-1000XM6"
 company_id: sony
 lang: ja
 ref: sony-wh-1000xm6
+audiodb_uid: adb-23111684a11b
 date: 2025-12-08
 rating: [4.4, 0.7, 0.9, 1.0, 0.9, 0.9]
 price: 64000

@@ -5,6 +5,7 @@ target_name: "Genelec 8341A"
 company_id: genelec
 lang: en
 ref: genelec-8341a
+audiodb_uid: adb-d87bff2058b9
 date: 2025-07-30
 rating: [4.0, 0.8, 0.9, 0.5, 0.9, 0.9]
 price: 5251

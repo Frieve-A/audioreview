@@ -5,6 +5,7 @@ target_name: "Sennheiser HD 490 PRO"
 company_id: sennheiser
 lang: ja
 ref: sennheiser-hd-490-pro
+audiodb_uid: adb-f006505f0b9a
 date: 2026-01-29
 rating: [3.6, 0.7, 1.0, 0.3, 0.6, 1.0]
 price: 64350
@@ -12,7 +13,6 @@ summary: "独自技術とデュアルイヤーパッドシステムを備えた�
 tags: [headphones, studio, professional, open-back, sennheiser]
 permalink: /products/ja/sennheiser-hd-490-pro/
 ---
-
 ## 概要
 
 SennheiserのHD 490 PROは、ミキシング・マスタリングエンジニア向けの超高精度サウンド再生能力を持つフラッグシップ・プロフェッショナル・モニタリングヘッドホンです。2024年1月に429米ドルでリリースされたこのオープンバック型ダイナミックヘッドホンは、独自のオープンフレーム・アーキテクチャと、異なる音響特性を提供するデュアル切替式イヤーパッドシステム（ProducerベルベットパッドとMixingファブリックパッド）を特徴とし、重要なオーディオ作業に対応しています。複雑な現代の音楽制作におけるオーディオの死角を排除することを目的として設計され、130Ωインピーダンス設計により、従来の300Ωスタジオリファレンス機器と比較して駆動が容易でありながら、プロフェッショナルグレードの性能基準を維持しています。

@@ -5,6 +5,7 @@ target_name: "Loxjie A40"
 company_id: loxjie
 lang: en
 ref: loxjie-a40
+audiodb_uid: adb-587da28ea98a
 date: 2025-08-24
 rating: [3.3, 0.6, 0.6, 1.0, 0.4, 0.7]
 price: 255

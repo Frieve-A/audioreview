@@ -5,6 +5,7 @@ target_name: "SoundPEATS Space Pro"
 company_id: soundpeats
 lang: en
 ref: soundpeats-space-pro
+audiodb_uid: adb-d163a2551b70
 date: 2025-08-20
 rating: [3.0, 0.5, 0.3, 1.0, 0.5, 0.7]
 price: 79.99
@@ -12,7 +13,6 @@ summary: "Over-ear headphones with LDAC, 151-hour battery, and −47dB ANC targe
 tags: [Over-ear, Headphones, ANC, LDAC, Hi-Res, Wireless, Bluetooth]
 permalink: /products/en/soundpeats-space-pro/
 ---
-
 ## Overview
 
 SoundPEATS Space Pro is the brand’s higher-spec over-ear model featuring coaxial dual dynamic drivers (40mm + 10mm), LDAC, Bluetooth 5.4, and hybrid active noise cancellation rated at −47dB. It also advertises up to 151 hours of playback and supports three connection modes (Bluetooth, USB, AUX). These are manufacturer specifications. [1]

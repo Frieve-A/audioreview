@@ -5,6 +5,7 @@ target_name: "Buchardt Audio S400 MKII"
 company_id: buchardt-audio
 lang: en
 ref: buchardt-audio-s400-mkii
+audiodb_uid: adb-3d4fc1ee8775
 date: 2025-11-21
 rating: [4.0, 0.6, 0.8, 1.0, 0.8, 0.8]
 price: 2415

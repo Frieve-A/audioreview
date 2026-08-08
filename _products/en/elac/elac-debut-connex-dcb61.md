@@ -5,6 +5,7 @@ target_name: "ELAC Debut ConneX DCB61"
 company_id: elac
 lang: en
 ref: elac-debut-connex-dcb61
+audiodb_uid: adb-979775386bcd
 date: 2025-07-08
 rating: [3.4, 0.6, 0.6, 0.7, 0.7, 0.8]
 price: 899
@@ -12,7 +13,6 @@ summary: "ELAC Debut ConneX DCB61 is priced at USD 899 for active speakers, but 
 tags: ["Active speakers", Bluetooth, Desktop, ELAC]
 permalink: /products/en/elac-debut-connex-dcb61/
 ---
-
 ## Overview
 
 The ELAC Debut ConneX DCB61 is an active speaker system announced in 2025, featuring a 6.5-inch woofer and 1.9cm soft dome tweeter driven by 60W and 20W Class D amplifiers respectively. It offers versatile connectivity including HDMI ARC, Analog/Phono, Optical, USB, and Bluetooth inputs, with built-in Dolby Digital decoding for movie viewing. As the upper-tier model in the Debut ConneX series from established German manufacturer ELAC, it's priced at USD 899.

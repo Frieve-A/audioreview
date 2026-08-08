@@ -5,6 +5,7 @@ target_name: "miniDSP Harmony DSP 8x12"
 company_id: minidsp
 lang: ja
 ref: minidsp-harmony-dsp-8x12
+audiodb_uid: adb-78ee4a9305f9
 date: 2025-09-07
 rating: [3.7, 0.7, 0.7, 1.0, 0.5, 0.8]
 price: 157350
@@ -12,7 +13,6 @@ summary: "Dirac Liveを備える12ch統合DSPアンプ。公式仕様で透明�
 tags: [カーオーディオ, DSP, アンプ, Dirac Live, ルーム補正]
 permalink: /products/ja/minidsp-harmony-dsp-8x12/
 ---
-
 ## 概要
 
 miniDSP Harmony DSP 8x12は、カーオーディオ用途に特化した**12チャンネル統合DSPアンプ**です。**400 MHz SHARC（ADSP21489）**を搭載し、**Dirac Live**（8ch）による自動音場補正、**12×40 W/4Ω**（BTL）、**6×80 W/2Ω**（PBTL）出力、**USB 6ch**および**TOSLINK 2ch**入力を備えます。将来的な**A2B**拡張にも対応します[5]。本体はパッシブ冷却のアルミ筐体で、同社標準GUIで詳細なフィルタ設定やマトリクスミキシングが可能です[2][5]。

@@ -5,6 +5,7 @@ target_name: "FiiO BTR15"
 company_id: fiio
 lang: en
 ref: fiio-btr15
+audiodb_uid: adb-7bf7a8f2b4c3
 date: 2025-08-02
 rating: [4.1, 0.9, 0.8, 0.9, 0.7, 0.8]
 price: 109

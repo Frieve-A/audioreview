@@ -5,6 +5,7 @@ target_name: "Fostex T50RPmk4"
 company_id: fostex
 lang: en
 ref: fostex-t50rpmk4
+audiodb_uid: adb-c661660e604d
 date: 2025-08-14
 rating: [2.9, 0.4, 0.7, 0.4, 0.6, 0.8]
 price: 250

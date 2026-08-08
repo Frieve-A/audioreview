@@ -5,6 +5,7 @@ target_name: "Sforzato DST-Lynx"
 company_id: sforzato
 lang: ja
 ref: sforzato-dst-lynx
+audiodb_uid: adb-012d4a78d597
 date: 2025-08-13
 rating: [2.3, 0.5, 0.2, 1.0, 0.4, 0.2]
 price: 858000

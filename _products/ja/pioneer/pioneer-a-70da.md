@@ -5,6 +5,7 @@ target_name: "Pioneer A-70DA"
 company_id: pioneer
 lang: ja
 ref: pioneer-a-70da
+audiodb_uid: adb-94de09a30dcf
 date: 2025-08-12
 rating: [2.5, 0.6, 0.5, 0.2, 0.7, 0.5]
 price: 300000

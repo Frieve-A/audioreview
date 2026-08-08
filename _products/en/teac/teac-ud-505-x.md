@@ -5,6 +5,7 @@ target_name: "TEAC UD-505-X"
 company_id: teac
 lang: en
 ref: teac-ud-505-x
+audiodb_uid: adb-e97bc864d551
 date: 2025-08-03
 rating: [3.4, 0.9, 0.7, 0.3, 0.7, 0.8]
 price: 1043

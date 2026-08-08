@@ -5,6 +5,7 @@ target_name: "Shanling EC Zero T"
 company_id: shanling
 lang: en
 ref: shanling-ec-zero-t
+audiodb_uid: adb-e67381dc1999
 date: 2025-10-12
 rating: [2.6, 0.7, 0.6, 1.0, 0.2, 0.1]
 price: 589

@@ -5,6 +5,7 @@ target_name: "Onkyo C-705X"
 company_id: onkyo
 lang: ja
 ref: onkyo-c-705x
+audiodb_uid: adb-e50f7ac01e09
 date: 2025-09-27
 rating: [1.7, 0.6, 0.3, 0.2, 0.2, 0.4]
 price: 12800

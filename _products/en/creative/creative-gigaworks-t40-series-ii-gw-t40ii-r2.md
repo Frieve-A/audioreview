@@ -5,6 +5,7 @@ target_name: "Creative GigaWorks T40 Series II"
 company_id: creative
 lang: en
 ref: creative-gigaworks-t40-series-ii-gw-t40ii-r2
+audiodb_uid: adb-7efbfb6301fa
 date: 2025-09-03
 rating: [2.8, 0.4, 0.4, 1.0, 0.4, 0.6]
 price: 104

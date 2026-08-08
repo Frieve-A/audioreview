@@ -5,6 +5,7 @@ target_name: "Sony MDR-EX155"
 company_id: sony
 lang: en
 ref: sony-mdr-ex155
+audiodb_uid: adb-40a95a53f191
 date: 2025-12-13
 rating: [3.1, 0.5, 0.5, 1.0, 0.8, 0.3]
 price: 15
@@ -12,7 +13,6 @@ summary: "Budget in-ear headphones with standard technology and limited US marke
 tags: [Headphones, In-ear, Dynamic, Sony, Budget]
 permalink: /products/en/sony-mdr-ex155/
 ---
-
 ## Overview
 
 The Sony MDR-EX155 is a basic in-ear headphone featuring a 9mm dynamic driver with CCAW (Copper-Clad Aluminum Wire) voice coil and neodymium magnet. This is the base model without inline remote or microphone functionality, distinct from the MDR-EX155AP variant which includes hands-free calling features. Positioned as an entry-level option in Sony's EX series, it includes standard features such as multiple earbud sizes and a gold-plated connector. Available in multiple colors, this lightweight 3g design targets casual listeners seeking Sony brand recognition in the budget segment. Note that this base model has limited availability in the US market compared to the AP variant.

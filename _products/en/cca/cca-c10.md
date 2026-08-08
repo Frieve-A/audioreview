@@ -5,6 +5,7 @@ target_name: "CCA C10"
 company_id: cca
 lang: en
 ref: cca-c10
+audiodb_uid: adb-6bdbdbcbaa4a
 date: 2025-08-20
 rating: [2.7, 0.6, 0.5, 0.5, 0.5, 0.6]
 price: 38

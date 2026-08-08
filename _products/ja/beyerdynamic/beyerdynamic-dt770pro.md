@@ -5,6 +5,7 @@ target_name: "beyerdynamic DT770 PRO"
 company_id: beyerdynamic
 lang: ja
 ref: beyerdynamic-dt770pro
+audiodb_uid: adb-058e3108021b
 date: 2025-08-04
 rating: [2.6, 0.6, 0.6, 0.4, 0.5, 0.5]
 price: 29800
@@ -12,7 +13,6 @@ summary: "ドイツの老舗メーカーによる定番スタジオモニター�
 tags: [ヘッドホン, スタジオモニター, クローズドバック, beyerdynamic]
 permalink: /products/ja/beyerdynamic-dt770pro/
 ---
-
 ## 概要
 
 beyerdynamic DT770 PROは、1937年創業のドイツの老舗音響機器メーカーによるクローズドバック型スタジオモニターヘッドホンです。1980年代から続く長い歴史を持つDT770シリーズの現行モデルで、32Ω、80Ω、250Ωの3つのインピーダンス仕様を展開しています。プロフェッショナル用途を想定した堅牢な設計と、ベロア製イヤーパッドによる快適な装着感で知られています。スタジオ録音やモニタリング用途において、世界中で長年使用されてきた実績があります。

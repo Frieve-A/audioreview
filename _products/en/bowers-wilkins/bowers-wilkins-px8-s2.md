@@ -5,6 +5,7 @@ target_name: "Bowers & Wilkins Px8 S2"
 company_id: bowers-wilkins
 lang: en
 ref: bowers-wilkins-px8-s2
+audiodb_uid: adb-d9b5b638233e
 date: 2025-11-21
 rating: [2.7, 0.5, 0.8, 0.3, 0.5, 0.6]
 price: 799
@@ -12,7 +13,6 @@ summary: "Premium wireless headphones featuring custom Carbon Cone drivers and 2
 tags: [Headphones, Wireless, ANC, Premium, Carbon-Drivers]
 permalink: /products/en/bowers-wilkins-px8-s2/
 ---
-
 ## Overview
 
 The Bowers & Wilkins Px8 S2 represents the latest flagship wireless headphones from the renowned British audio manufacturer, featuring custom-designed 40mm Carbon Cone drive units combined with a high-performance 24-bit DSP. Priced at 799 USD, these over-ear headphones target premium audio enthusiasts seeking advanced wireless technology. The headphones incorporate Bluetooth 5.3 with aptX Lossless support, enabling true 24-bit wireless audio transmission. Key features include Active Noise Cancellation via eight microphones, 30-hour battery life, multipoint connectivity, and 5-band customizable EQ with TrueSound mode. Construction utilizes premium materials including Nappa leather and die-cast aluminum, with ergonomically tested design for extended comfort. The Px8 S2 builds upon Bowers & Wilkins' decades of acoustic engineering expertise developed at their Southwater Research & Engineering facility.

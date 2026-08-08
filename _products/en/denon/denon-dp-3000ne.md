@@ -5,6 +5,7 @@ target_name: "Denon DP-3000NE"
 company_id: denon
 lang: en
 ref: denon-dp-3000ne
+audiodb_uid: adb-6d2789bb9893
 date: 2025-07-27
 rating: [1.8, 0.3, 0.4, 0.3, 0.4, 0.4]
 price: 2499

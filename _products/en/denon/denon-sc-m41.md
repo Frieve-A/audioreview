@@ -5,6 +5,7 @@ target_name: "Denon SC-M41"
 company_id: denon
 lang: en
 ref: denon-sc-m41
+audiodb_uid: adb-650d037828b4
 date: 2026-02-18
 rating: [2.7, 0.5, 0.2, 1.0, 0.7, 0.3]
 price: 95

@@ -5,6 +5,7 @@ target_name: "KEF Q3 Meta"
 company_id: kef
 lang: ja
 ref: kef-q3-meta
+audiodb_uid: adb-fa2f296f79dc
 date: 2025-08-12
 rating: [2.9, 0.6, 0.6, 0.5, 0.6, 0.6]
 price: 134999
@@ -12,7 +13,6 @@ summary: "Meta技術を搭載したUni‑QドライバーのKEF Q3 Metaブック
 tags: [ブックシェルフスピーカー, Uni-Q, Meta技術, KEF]
 permalink: /products/ja/kef-q3-meta/
 ---
-
 ## 概要
 
 KEF Q3 Metaは、2024年にエントリーレベルのQシリーズに登場したモデルで、以前は上位機種にのみ搭載されていたメタマテリアル吸収技術（MAT）を採用しています。6.5インチ2ウェイブックシェルフスピーカーには、KEFの特徴的なUni‑Qドライバーアレイが搭載され、1インチアルミニウムドームツイーターが6.5インチアルミニウムコーンミッドレンジウーファーの中央に配置されています。公式USストアでの価格はペア899.99 USD [3] で、フラッグシップ由来の技術を取り入れたミッドレンジ市場向けモデルです。

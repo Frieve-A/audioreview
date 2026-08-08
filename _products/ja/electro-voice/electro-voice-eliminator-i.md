@@ -5,6 +5,7 @@ target_name: "Electro-Voice Eliminator i"
 company_id: electro-voice
 lang: ja
 ref: electro-voice-eliminator-i
+audiodb_uid: adb-9c145e29f0d3
 date: 2025-08-23
 rating: [2.5, 0.5, 0.4, 0.5, 0.6, 0.5]
 price: 135000
@@ -12,7 +13,6 @@ summary: "Eliminator iは、RMD（Ring-Mode Decoupling）を採用した15イン
 tags: [スピーカー, PA, ライブサウンド, プロオーディオ, 2ウェイ]
 permalink: /products/ja/electro-voice-eliminator-i/
 ---
-
 ## 概要
 
 Electro-Voice Eliminator iは、高出力ステージ用途向けの15インチ2ウェイ・パッシブPAスピーカーです。RMD（Ring-Mode Decoupling）により筐体の機械的リンギングを抑制し、定指向性ホーンは水平60°×垂直40°のカバレッジを提供します。主要なカタログ値は50 Hz–20 kHz（±3 dB）、長期平均350 W、感度99 dB（1 W/1 m）、公称8 Ωです [1][2]。小売情報では最大SPL（計算値）130 dB、クロスオーバーの「Power Tracking Protection」記載があります [3]。本シリーズは主要販売店で新品販売が終了しており、EVはアーカイブ資料のみを提供しています [1][3]。

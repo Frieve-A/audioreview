@@ -5,6 +5,7 @@ target_name: "SAEC SL-3030"
 company_id: saec
 lang: en
 ref: saec-sl-3030
+audiodb_uid: adb-588c6de46f32
 date: 2026-05-23
 rating: [0.7, 0.0, 0.2, 0.0, 0.4, 0.1]
 price: 105

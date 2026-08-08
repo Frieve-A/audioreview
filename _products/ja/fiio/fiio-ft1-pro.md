@@ -5,6 +5,7 @@ target_name: "FiiO FT1 Pro"
 company_id: fiio
 lang: ja
 ref: fiio-ft1-pro
+audiodb_uid: adb-c75646c736b1
 date: 2025-08-27
 rating: [3.1, 0.7, 0.7, 0.5, 0.5, 0.7]
 price: 35750
@@ -12,7 +13,6 @@ summary: "95×86mm自社開発の平面磁界ドライバーと1μm薄膜・サ�
 tags: [ヘッドホン, オープンバック, 平面磁界型, オーバーイヤー, スタジオ]
 permalink: /products/ja/fiio-ft1-pro/
 ---
-
 ## 概要
 
 FiiO FT1 Proは、同社初のオープンバック平面磁界型ヘッドホンです。95×86mmの大型ドライバー、1μm薄膜のPET振動板にサファイア+アルミの二層コーティング、20Ω/95dB/mW（112dB/Vrms）、本体質量約374gを公称します。付属品は3.5mm/4.4mmケーブルと収納バッグです。国内市場の代表的な実売価格は**35,750円**で、米国の市場価格は**199 USD**です。[1][2]

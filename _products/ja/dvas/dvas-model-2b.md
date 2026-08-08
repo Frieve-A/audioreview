@@ -5,6 +5,7 @@ target_name: "DVAS Model-2B"
 company_id: dvas
 lang: ja
 ref: dvas-model-2b
+audiodb_uid: adb-7571de26995d
 date: 2025-08-26
 rating: [1.7, 0.5, 0.4, 0.0, 0.5, 0.3]
 price: 1320000

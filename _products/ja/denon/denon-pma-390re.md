@@ -5,6 +5,7 @@ target_name: "Denon PMA-390RE"
 company_id: denon
 lang: ja
 ref: denon-pma-390re
+audiodb_uid: adb-927cdf47d8a5
 date: 2025-07-21
 rating: [3.6, 0.9, 0.6, 1.0, 0.6, 0.5]
 price: 20000

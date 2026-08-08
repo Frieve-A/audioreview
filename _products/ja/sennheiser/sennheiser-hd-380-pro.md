@@ -5,6 +5,7 @@ target_name: "Sennheiser HD 380 PRO"
 company_id: sennheiser
 lang: ja
 ref: sennheiser-hd-380-pro
+audiodb_uid: adb-e22db793c6bd
 date: 2025-09-12
 rating: [2.8, 0.6, 0.4, 1.0, 0.2, 0.6]
 price: 7500

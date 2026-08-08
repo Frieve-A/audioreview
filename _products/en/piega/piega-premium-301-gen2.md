@@ -5,6 +5,7 @@ target_name: "Piega Premium 301 Gen2"
 company_id: piega
 lang: en
 ref: piega-premium-301-gen2
+audiodb_uid: adb-6c80615dcbda
 date: 2025-08-20
 rating: [3.3, 0.5, 0.7, 0.6, 0.8, 0.7]
 price: 2725
@@ -12,7 +13,6 @@ summary: "Swiss-made compact two-way with a magnetostatic ribbon tweeter and alu
 tags: [Bookshelf, Ribbon Tweeter, Swiss Made, Aluminum, Premium]
 permalink: /products/en/piega-premium-301-gen2/
 ---
-
 ## Overview
 
 The Premium 301 Gen2 combines PIEGA’s new **RM 01-24** magnetostatic ribbon tweeter with a 140 mm FSD-M mid-woofer in a compact aluminum-extrusion cabinet. The design targets lower cabinet resonance and improved treble linearity/distortion through a revised magnet topology for the ribbon[1][2].

@@ -5,6 +5,7 @@ target_name: "Oilsky Oilsky M308"
 company_id: oilsky
 lang: en
 ref: oilsky-m308
+audiodb_uid: adb-89b60f8553b5
 date: 2026-02-16
 rating: [2.9, 0.5, 0.3, 1.0, 0.4, 0.7]
 price: 92.5

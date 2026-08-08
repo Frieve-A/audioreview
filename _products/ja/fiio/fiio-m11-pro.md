@@ -5,6 +5,7 @@ target_name: "FiiO M11 Pro"
 company_id: fiio
 lang: ja
 ref: fiio-m11-pro
+audiodb_uid: adb-02da930d68ba
 date: 2026-01-17
 rating: [4.1, 0.7, 0.9, 0.9, 0.7, 0.9]
 price: 102800

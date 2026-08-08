@@ -5,6 +5,7 @@ target_name: "MOONDROP HORIZON"
 company_id: moondrop
 lang: en
 ref: moondrop-horizon
+audiodb_uid: adb-803f3b5df220
 date: 2025-11-12
 rating: [3.4, 0.5, 0.8, 0.9, 0.5, 0.7]
 price: 159.99

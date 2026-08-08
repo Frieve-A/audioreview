@@ -5,6 +5,7 @@ target_name: "FiiO Q15"
 company_id: fiio
 lang: en
 ref: fiio-q15
+audiodb_uid: adb-dd714e8ff4b9
 date: 2025-08-11
 rating: [3.0, 0.7, 0.6, 0.7, 0.6, 0.4]
 price: 440

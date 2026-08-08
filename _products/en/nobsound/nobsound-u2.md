@@ -5,6 +5,7 @@ target_name: "Nobsound U2"
 company_id: nobsound
 lang: en
 ref: nobsound-u2
+audiodb_uid: adb-1b23cf9d2bd1
 date: 2025-12-19
 rating: [2.9, 0.5, 0.4, 0.7, 0.5, 0.8]
 price: 45
@@ -12,7 +13,6 @@ summary: "Budget USB to S/PDIF digital converter with XMOS XU208 chipset achievi
 tags: [Digital Interface, USB Converter, XMOS, S/PDIF, DSD, Budget Audio]
 permalink: /products/en/nobsound-u2/
 ---
-
 ## Overview
 
 The Nobsound U2 is a budget USB to S/PDIF digital converter manufactured by Douk Audio under the Nobsound brand. Established in 2013 in Shenzhen, China, the company focuses on affordable Hi-Fi audio equipment with the philosophy "make HiFi affordable." The U2 utilizes the XMOS XU208 chipset to convert USB audio signals to optical (TOSLINK) and coaxial (S/PDIF) outputs, supporting PCM formats up to 192kHz/24-bit and DSD64. This compact, USB-powered device targets users seeking to add digital outputs to computers or other USB audio sources for connection to external DACs or digital audio systems.

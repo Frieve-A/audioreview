@@ -5,6 +5,7 @@ target_name: "Audio-Technica ATH-4"
 company_id: audio-technica
 lang: ja
 ref: audio-technica-ath-4
+audiodb_uid: adb-522d1eb20cc8
 date: 2026-05-09
 rating: [2.2, 0.5, 0.3, 0.7, 0.3, 0.4]
 price: 11900

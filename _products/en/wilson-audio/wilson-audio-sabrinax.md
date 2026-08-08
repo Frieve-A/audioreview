@@ -5,6 +5,7 @@ target_name: "Wilson Audio SabrinaX"
 company_id: wilson-audio
 lang: en
 ref: wilson-audio-sabrinax
+audiodb_uid: adb-898b033a093b
 date: 2025-08-08
 rating: [3.5, 0.8, 0.8, 0.3, 0.8, 0.8]
 price: 18500

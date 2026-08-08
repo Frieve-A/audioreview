@@ -5,6 +5,7 @@ target_name: "Classic Pro CPH7000"
 company_id: classic-pro
 lang: ja
 ref: classic-pro-cph7000
+audiodb_uid: adb-61df49ad78a6
 date: 2025-08-29
 rating: [3.3, 0.6, 0.4, 1.0, 0.6, 0.7]
 price: 5980
@@ -12,7 +13,6 @@ summary: "ハーマンターゲット傾向の調律と実用的プロ機能を�
 tags: [ヘッドホン, モニター, スタジオ, 低価格, 密閉型]
 permalink: /products/ja/classic-pro-cph7000/
 ---
-
 ## 概要
 
 Classic Pro CPH7000は、Sound Houseの自社ブランド**Classic Pro**のクローズド型モニターヘッドホンです [5]。40 mmネオジム採用のダイナミックドライバーと片出しOFCケーブル、片耳モニターに便利な180°スイベルを備えます。レビュー日時点の実勢価格は**5,980円（40 USD）**です [2]。第三者の測定系ブログで、下中域～低域に一部差異を伴いつつHarman Target OEに概ね追従する傾向が報告されています [1]。

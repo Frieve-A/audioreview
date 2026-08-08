@@ -5,6 +5,7 @@ target_name: "Sonos Ace"
 company_id: sonos
 lang: ja
 ref: sonos-ace
+audiodb_uid: adb-b48880b62af5
 date: 2025-12-11
 rating: [2.6, 0.3, 0.6, 0.8, 0.4, 0.5]
 price: 43200
@@ -12,7 +13,6 @@ summary: "Sonosの初ヘッドホン製品。革新的なエコシステム統�
 tags: [Bluetooth, ヘッドホン, ノイズキャンセリング, オーバーイヤー, ワイヤレス, Dolby Atmos]
 permalink: /products/ja/sonos-ace/
 ---
-
 ## 概要
 
 Sonos Aceは2024年6月に発売されたSonosの初のヘッドホン製品です。ワイヤレスノイズキャンセリング対応のオーバーイヤーヘッドホンで、TV Audio SwapやTrueCinema技術などの独自のエコシステム統合機能を特徴としています。カスタム設計40mmダイナミックドライバーとノイズ制御用8マイクを搭載し、ANC有効時で最大30時間のバッテリー駆動時間を実現。aptX Lossless対応のBluetooth 5.4接続、Dolby Atmos空間オーディオ、動的ヘッドトラッキング機能を搭載しています。

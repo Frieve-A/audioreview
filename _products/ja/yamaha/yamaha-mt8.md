@@ -5,6 +5,7 @@ target_name: "Yamaha HPH-MT8"
 company_id: yamaha
 lang: ja
 ref: yamaha-mt8
+audiodb_uid: adb-1365b54c886b
 date: 2025-07-14
 rating: [3.0, 0.6, 0.6, 0.5, 0.7, 0.6]
 price: 24550

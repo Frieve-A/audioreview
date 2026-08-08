@@ -5,6 +5,7 @@ target_name: "AMATERAS 9000"
 company_id: amateras
 lang: en
 ref: amateras-9000
+audiodb_uid: adb-ab486900f597
 date: 2026-01-06
 rating: [3.0, 0.5, 0.6, 0.6, 0.8, 0.5]
 price: 243

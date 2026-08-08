@@ -5,6 +5,7 @@ target_name: "Denon PMA-900HNE"
 company_id: denon
 lang: ja
 ref: denon-pma-900hne
+audiodb_uid: adb-cecaad30d766
 date: 2025-08-04
 rating: [3.9, 0.7, 0.7, 1.0, 0.8, 0.7]
 price: 158000

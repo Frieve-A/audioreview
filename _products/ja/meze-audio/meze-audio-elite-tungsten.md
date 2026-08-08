@@ -5,6 +5,7 @@ target_name: "Meze Audio Elite Tungsten"
 company_id: meze-audio
 lang: ja
 ref: meze-audio-elite-tungsten
+audiodb_uid: adb-ea44ec90ab0b
 date: 2025-12-13
 rating: [3.0, 0.6, 1.0, 0.0, 0.9, 0.5]
 price: 600000
@@ -12,7 +13,6 @@ summary: "高度なRinaro Isodynamic Hybrid Array技術を搭載した最高級�
 tags: [ヘッドホン, オープンバック, 最高級, Meze Audio, Rinaro]
 permalink: /products/ja/meze-audio-elite-tungsten/
 ---
-
 ## 概要
 
 Meze Audio Elite Tungstenは、同社のフラッグシップ・オープンバックヘッドホンで、価格は600,000円です。Rinaro Isodynamicsとの共同開発により、MZ3SEドライバーを採用したIsodynamic Hybrid Array技術の特許を特徴としており、現在利用可能な最も洗練された音響技術の一つとして販売されています。CNC加工アルミニウムシャーシ、カーボンファイバーヘッドバンド、デュアルイヤーパッドオプションを組み合わせ、最高級のビルドクオリティと先進的な音響技術を求めるオーディオファイルをターゲットとしています。主要な評価課題は、同等機能を提供する圧倒的に安価な代替品に対する大幅な価格プレミアムを正当化することの困難さにあります。

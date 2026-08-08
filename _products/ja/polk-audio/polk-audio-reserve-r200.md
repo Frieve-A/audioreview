@@ -5,6 +5,7 @@ target_name: "Polk Audio Reserve R200"
 company_id: polk-audio
 lang: ja
 ref: polk-audio-reserve-r200
+audiodb_uid: adb-44300da0fb6a
 date: 2025-07-18
 rating: [3.6, 0.7, 0.6, 0.9, 0.8, 0.6]
 price: 104850
@@ -12,7 +13,6 @@ summary: "Polk Audio Reserve R200は、上位機種の優れたドライバー�
 tags: [ブックシェルフスピーカー, Polk Audio, Reserve, R200]
 permalink: /products/ja/polk-audio-reserve-r200/
 ---
-
 ## 概要
 
 Polk Audio Reserve R200は、同社の創立50周年を記念して発売されたReserveシリーズの主力ブックシェルフスピーカーです。同社の上位Legend Series製品と同じ独自ドライバー技術を採用しながら、簡素化されたキャビネット構造により価格を抑えた製品として位置付けられています。6.5インチTurbine Cone ウーファーと1インチPinnacle Ring Radiator ツイーターを搭載し、Hi-Res Audio認証、Dolby Atmos、IMAX Enhanced対応を謳っています。

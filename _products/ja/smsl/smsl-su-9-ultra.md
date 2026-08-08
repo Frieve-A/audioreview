@@ -5,6 +5,7 @@ target_name: "SMSL SU-9 Ultra"
 company_id: smsl
 lang: ja
 ref: smsl-su-9-ultra
+audiodb_uid: adb-6fbcde56d0f6
 date: 2025-08-28
 rating: [3.8, 0.8, 0.8, 0.7, 0.7, 0.8]
 price: 77000

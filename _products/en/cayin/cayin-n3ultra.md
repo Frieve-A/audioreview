@@ -5,6 +5,7 @@ target_name: "Cayin N3Ultra"
 company_id: cayin
 lang: en
 ref: cayin-n3ultra
+audiodb_uid: adb-96b5526b7d96
 date: 2025-11-30
 rating: [2.3, 0.7, 0.5, 0.6, 0.3, 0.2]
 price: 529

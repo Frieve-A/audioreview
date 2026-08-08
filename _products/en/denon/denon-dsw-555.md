@@ -5,6 +5,7 @@ target_name: "Denon DSW-555"
 company_id: denon
 lang: en
 ref: denon-dsw-555
+audiodb_uid: adb-9fdd64f10e69
 date: 2025-09-20
 rating: [2.0, 0.5, 0.4, 0.5, 0.3, 0.3]
 price: 400
@@ -12,7 +13,6 @@ summary: "Discontinued 2001 subwoofer with P.P.D.D dual driver technology lackin
 tags: [Subwoofer, Denon, Discontinued, Vintage]
 permalink: /products/en/denon-dsw-555/
 ---
-
 ## Overview
 
 The Denon DSW-555 is a discontinued active subwoofer released in May 2001, featuring dual 20cm cone woofers driven by Denon's proprietary P.P.D.D (Push-Pull Differential Drive) method. The unit incorporates an LF Direct circuit designed to eliminate phase distortion, variable crossover frequency from 50Hz to 200Hz, and an 18mm MDF bass-reflex enclosure. Originally priced at ¥50,000 (approximately 400 USD), this vintage model represents Denon's early 2000s approach to subwoofer design before the widespread adoption of digital signal processing and modern measurement-driven engineering.

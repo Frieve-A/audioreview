@@ -5,6 +5,7 @@ target_name: "Audio-Technica AT-OC9XEB"
 company_id: audio-technica
 lang: ja
 ref: audio-technica-at-oc9xeb
+audiodb_uid: adb-ee94bace7844
 date: 2025-07-12
 rating: [2.0, 0.2, 0.2, 0.7, 0.7, 0.2]
 price: 38000

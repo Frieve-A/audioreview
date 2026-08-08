@@ -5,6 +5,7 @@ target_name: "Soulnote S-3 Reference"
 company_id: soulnote
 lang: en
 ref: soulnote-s-3
+audiodb_uid: adb-151867074168
 date: 2025-08-28
 rating: [2.7, 0.7, 0.8, 0.5, 0.4, 0.3]
 price: 25000
@@ -12,7 +13,6 @@ summary: "A flagship SACD/CD player using four ES9038PRO DACs, a synchronized ul
 tags: [SACD Player, CD Player, ES9038PRO, High-end, Reference, soulnote]
 permalink: /products/en/soulnote-s-3/
 ---
-
 ## Overview
 
 The Soulnote S-3 Reference is the company’s statement Super Audio CD/CD player. It combines four ESS ES9038PRO DACs in a discrete no-feedback output stage, a transport synchronized to an ultra-low-jitter master clock, and unusually rich I/O: USB (×2), coaxial, AES/EBU, ZERO LINK, plus a 10 MHz external clock input. USB playback supports up to 768 kHz PCM and DSD512. These are manufacturer-published specifications and feature descriptions [1][2].

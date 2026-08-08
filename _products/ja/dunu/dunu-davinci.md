@@ -5,6 +5,7 @@ target_name: "DUNU DUNU DaVinci"
 company_id: dunu
 lang: ja
 ref: dunu-davinci
+audiodb_uid: adb-3de423bb1439
 date: 2026-02-18
 rating: [2.8, 0.6, 0.9, 0.1, 0.7, 0.5]
 price: 44685

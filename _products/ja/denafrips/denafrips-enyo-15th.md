@@ -5,6 +5,7 @@ target_name: "Denafrips Enyo 15th"
 company_id: denafrips
 lang: ja
 ref: denafrips-enyo-15th
+audiodb_uid: adb-d8e7e7b0d7aa
 date: 2025-08-10
 rating: [2.0, 0.5, 0.3, 0.3, 0.6, 0.3]
 price: 104850
@@ -12,7 +13,6 @@ summary: "独自アーキテクチャを持つエントリーレベルR2R DACで
 tags: [DAC, R2R, Denafrips, デジタル・アナログ・コンバーター, バランス]
 permalink: /products/ja/denafrips-enyo-15th/
 ---
-
 ## 概要
 
 Denafrips Enyo 15thは、同社のエントリーレベルR2Rラダー型DACで、独自のR2R + DSDアーキテクチャと24ビットR2R + 6ビットDSDの真のバランス実装を特徴とします。このシンガポール製DACは、USB入力でDSD1024およびPCM1536までの高解像度フォーマットをサポートし、R2Rトポロジーを求める予算重視のオーディオファイルをターゲットとしています。FEMTOクリスタルオシレーター、FPGA ベースのFIFOバッファ処理、UPOCCカッパーワイヤリングをアルマイト処理アルミニウムシャーシに搭載しています。

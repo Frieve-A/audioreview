@@ -5,6 +5,7 @@ target_name: "Audio-Technica ATH-M40x"
 company_id: audio-technica
 lang: en
 ref: audio-technica-ath-m40x
+audiodb_uid: adb-5fa3440fb484
 date: 2025-07-20
 rating: [2.7, 0.6, 0.4, 0.6, 0.6, 0.5]
 price: 94

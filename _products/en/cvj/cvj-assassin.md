@@ -5,6 +5,7 @@ target_name: "CVJ Assassin"
 company_id: cvj
 lang: en
 ref: cvj-assassin
+audiodb_uid: adb-88f487f69b73
 date: 2025-08-23
 rating: [3.4, 0.5, 0.5, 1.0, 0.6, 0.8]
 price: 59
@@ -12,7 +13,6 @@ summary: "A gaming-focused tri-hybrid IEM featuring a vibration driver unit alon
 tags: [CVJ, Gaming, Hybrid driver, Vibration, Earphones, In-ear monitors]
 permalink: /products/en/cvj-assassin/
 ---
-
 ## Overview
 
 The CVJ Assassin, released in 2024, is a specialized gaming in-ear monitor featuring a tri-hybrid driver configuration with a 10 mm dynamic driver, a balanced armature, and a dedicated vibration (haptic) driver. It targets gaming use with two tuning switches offering four modes: Music, Hi-Res Monitor, 3D Movie, and 3D Gaming. The set includes a detachable boom mic and three swappable plugs (3.5 mm, USB-C, USB-A) in the box.

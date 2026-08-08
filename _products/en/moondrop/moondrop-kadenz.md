@@ -5,6 +5,7 @@ target_name: "Moondrop Kadenz"
 company_id: moondrop
 lang: en
 ref: moondrop-kadenz
+audiodb_uid: adb-4941465fe735
 date: 2025-07-27
 rating: [3.6, 0.8, 0.7, 0.6, 0.7, 0.8]
 price: 180

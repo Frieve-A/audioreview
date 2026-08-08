@@ -5,6 +5,7 @@ target_name: "KZ AM16"
 company_id: kz
 lang: ja
 ref: kz-am16
+audiodb_uid: adb-370a76d4a181
 date: 2025-07-27
 rating: [2.8, 0.6, 0.5, 0.9, 0.4, 0.4]
 price: 9300

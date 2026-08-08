@@ -5,6 +5,7 @@ target_name: "THIEAUDIO Prestige"
 company_id: thieaudio
 lang: ja
 ref: thieaudio-prestige
+audiodb_uid: adb-4122df2a34b2
 date: 2025-08-14
 rating: [2.6, 0.6, 0.7, 0.1, 0.6, 0.6]
 price: 194850

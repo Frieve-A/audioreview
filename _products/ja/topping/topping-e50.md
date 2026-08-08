@@ -5,6 +5,7 @@ target_name: "Topping E50"
 company_id: topping
 lang: ja
 ref: topping-e50
+audiodb_uid: adb-22cbe806c456
 date: 2025-08-05
 rating: [3.8, 0.9, 0.7, 0.7, 0.7, 0.8]
 price: 40350
@@ -12,7 +13,6 @@ summary: "優秀な測定性能を持つエントリーレベルDAC、ただし�
 tags: [DAC, Topping, デスクトップ, USB, 高解像度]
 permalink: /products/ja/topping-e50/
 ---
-
 ## 概要
 
 Topping E50は269USDで販売される中級クラスのデスクトップDACです。ES9068AS DACチップを搭載し、32bit/768kHz PCMおよびDSD512までの高解像度フォーマットに対応します。MQAフルデコードにも対応し、USB、同軸、光デジタル入力を備えています。TRSバランス出力とRCAシングルエンド出力の両方を提供し、リモコンも付属します。Toppingは測定性能重視の設計思想で知られており、本製品も例外ではなく優秀な測定結果を実現しています。

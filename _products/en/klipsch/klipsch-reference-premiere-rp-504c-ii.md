@@ -5,6 +5,7 @@ target_name: "Klipsch Reference Premiere RP-504C II"
 company_id: klipsch
 lang: en
 ref: klipsch-reference-premiere-rp-504c-ii
+audiodb_uid: adb-624a0123f7ab
 date: 2025-11-18
 rating: [3.7, 0.5, 0.8, 0.5, 0.9, 1.0]
 price: 750

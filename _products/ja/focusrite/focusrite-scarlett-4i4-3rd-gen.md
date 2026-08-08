@@ -5,6 +5,7 @@ target_name: "Focusrite Scarlett 4i4 3rd Gen"
 company_id: focusrite
 lang: ja
 ref: focusrite-scarlett-4i4-3rd-gen
+audiodb_uid: adb-851e60a38aa9
 date: 2025-11-18
 rating: [3.9, 0.6, 0.8, 1.0, 0.6, 0.9]
 price: 26600
@@ -12,7 +13,6 @@ summary: "Airモード技術と包括的なI/Oを特徴とする4イン/4アウ�
 tags: [オーディオインターフェース, USBオーディオ, レコーディング, MIDI, Focusrite, Airテクノロジー]
 permalink: /products/ja/focusrite-scarlett-4i4-3rd-gen/
 ---
-
 ## 概要
 
 Focusrite Scarlett 4i4 3rd Genは、ホームスタジオレコーディングとコンテンツ制作向けに設計された4入力・4出力USB-Cオーディオインターフェースです。FocusriteのヘリテージISAプリアンプ技術をベースに、同社の伝説的コンソールプリアンプをエミュレートする独特のAirモードを特徴としています。24ビット/192kHz変換、包括的なMIDI I/O、Ableton Live LiteとPro Tools Intro+を含む堅実なソフトウェアバンドルを備え、複数の同時入力を必要とするミュージシャンやコンテンツクリエイター向けです。第3世代モデルは、Focusriteのクラシックスタジオコンソール設計から、アクセスしやすいデスクトップレコーディングソリューションへの進化を表しています。

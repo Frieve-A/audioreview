@@ -5,6 +5,7 @@ target_name: "Sennheiser Momentum 3 Wireless"
 company_id: sennheiser
 lang: ja
 ref: sennheiser-momentum-3-wireless
+audiodb_uid: adb-fc5fbc577e49
 date: 2025-08-09
 rating: [3.2, 0.7, 0.6, 0.3, 0.8, 0.8]
 price: 45000
@@ -12,7 +13,6 @@ summary: "42mmドライバーとノイズキャンセリングを搭載したワ
 tags: [ワイヤレスヘッドホン, ノイズキャンセリング, Bluetooth, オーバーイヤー]
 permalink: /products/ja/sennheiser-momentum-3-wireless/
 ---
-
 ## 概要
 
 Sennheiser Momentum 3 Wirelessは、ドイツの老舗オーディオメーカーSennheiserが2019年にリリースしたワイヤレスヘッドホンです。42mmの大型ドライバーを搭載し、アクティブノイズキャンセリング（ANC）機能を備えています。Bluetooth 5.0に対応し、aptXやaptX-LLなどの高音質コーデックをサポートします。本体重量は305gで、17時間の連続再生が可能です。真正レザーを使用した高級感のある外観と、有線接続にも対応する多用途性を特徴としています。

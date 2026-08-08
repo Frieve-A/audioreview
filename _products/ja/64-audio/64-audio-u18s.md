@@ -5,6 +5,7 @@ target_name: "64 Audio U18s"
 company_id: 64-audio
 lang: ja
 ref: 64-audio-u18s
+audiodb_uid: adb-c873a27542f8
 date: 2025-08-25
 rating: [3.1, 0.7, 0.9, 0.1, 0.8, 0.6]
 price: 449850

@@ -5,6 +5,7 @@ target_name: "Bose 501Z"
 company_id: bose
 lang: ja
 ref: bose-501z
+audiodb_uid: adb-f78eaae2a3b1
 date: 2025-08-03
 rating: [1.5, 0.2, 0.3, 0.2, 0.4, 0.4]
 price: 20000

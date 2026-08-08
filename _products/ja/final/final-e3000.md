@@ -5,6 +5,7 @@ target_name: "final E3000"
 company_id: final
 lang: ja
 ref: final-e3000
+audiodb_uid: adb-bf5d716162d7
 date: 2025-08-14
 rating: [2.7, 0.6, 0.4, 0.4, 0.7, 0.6]
 price: 8235

@@ -5,6 +5,7 @@ target_name: "Anker Soundcore V30i"
 company_id: anker
 lang: en
 ref: anker-soundcore-v30i
+audiodb_uid: adb-061ebef826c4
 date: 2025-09-02
 rating: [3.2, 0.3, 0.4, 1.0, 0.5, 1.0]
 price: 40
@@ -12,7 +13,6 @@ summary: "Open-ear headphones with 36-hour battery life and IPX5 water resistanc
 tags: [Open-ear, Wireless, Bluetooth, Sports, Budget]
 permalink: /products/en/anker-soundcore-v30i/
 ---
-
 ## Overview
 
 The Soundcore V30i represents Anker's entry into the affordable open-ear headphone market, positioned as a budget-friendly alternative to premium competitors like Bose Ultra Open Earbuds. Featuring 14.2mm bio-material drivers, 36-hour total battery life, and IPX5 water resistance, the V30i aims to deliver essential open-ear functionality at a fraction of premium pricing. The lightweight design with ergonomic ear hooks targets users seeking situational awareness during sports activities, commuting, or office work without the complete isolation of traditional in-ear designs.

@@ -5,6 +5,7 @@ target_name: "Bose SoundLink Micro 2nd Gen"
 company_id: bose
 lang: ja
 ref: bose-soundlink-micro-2nd-gen
+audiodb_uid: adb-4323180e4960
 date: 2026-06-07
 rating: [2.9, 0.4, 0.7, 0.6, 0.7, 0.5]
 price: 19900
@@ -12,7 +13,6 @@ summary: "IP67対応・BT 5.4・aptX Adaptive搭載の小型Bluetoothスピー�
 tags: [Bluetoothスピーカー, ポータブルスピーカー, Bose, IP67, aptX Adaptive]
 permalink: /products/ja/bose-soundlink-micro-2nd-gen/
 ---
-
 ## 概要
 
 Bose SoundLink Micro（第2世代）は、2025年8月に発売された超小型モノラルポータブルBluetoothスピーカーで、2017年発売の初代モデルから初めてのアップデートとなります。IP67防塵・防水規格、Bluetooth 5.4（aptX Adaptiveコーデック対応、Snapdragon Sound対応ソース機器が必要）、USB-C充電、取り外し可能なファブリックナイロンストラップ、Boseアプリ経由の3バンドイコライザーを搭載しています。出力はシングルドライバーとデュアルパッシブラジエーターによるモノラル構成です。現在の市場価格は19,900円（129 USD）です [1]。

@@ -5,6 +5,7 @@ target_name: "SMSL PL100"
 company_id: smsl
 lang: en
 ref: smsl-pl100
+audiodb_uid: adb-9d0ade25cb2d
 date: 2025-08-13
 rating: [3.4, 0.7, 0.5, 1.0, 0.5, 0.7]
 price: 105.99
@@ -12,7 +13,6 @@ summary: "Budget CD player with optical/coaxial digital outs and modest 3.5 mm h
 tags: [CD Player, DAC, Budget Audio, Digital Transport]
 permalink: /products/en/smsl-pl100/
 ---
-
 ## Overview
 
 Launched in 2024 at **105.99 USD**, the SMSL PL100 is a compact slot-loading CD player in an all-aluminum chassis with gold-plated connectors. It provides RCA analog out, optical and coaxial **digital outputs**, and a 3.5 mm headphone jack rated **60 mW @ 32 Ω** (manufacturer). Power is via **USB-C 5 V/2 A**, and the box includes the unit, USB cable, remote, manual, and warranty card—**no AC adapter is included** [1][2][3].

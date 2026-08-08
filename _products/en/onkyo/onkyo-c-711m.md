@@ -5,6 +5,7 @@ target_name: "Onkyo C-711M"
 company_id: onkyo
 lang: en
 ref: onkyo-c-711m
+audiodb_uid: adb-b25fc6c44973
 date: 2025-09-27
 rating: [2.9, 0.6, 0.4, 1.0, 0.4, 0.5]
 price: 80
@@ -12,7 +13,6 @@ summary: "A vintage 1993-1998 CD player with solid measured performance but outd
 tags: [CD Player, Digital Audio, Vintage Audio, Onkyo]
 permalink: /products/en/onkyo-c-711m/
 ---
-
 ## Overview
 
 The Onkyo C-711M is a mid-size CD player manufactured from 1993 to 1998, originally retailing for 39,000 Japanese yen. Part of Onkyo's INTEC275 series, this player features 1-bit Delta-Sigma D/A conversion with 8x oversampling at 352.8kHz. The unit includes both fixed and variable analog outputs plus optical digital output, housed in a compact 275×79×308mm chassis weighing 3.1kg. As a discontinued vintage product available only in the used market, it represents 1990s CD player technology with specifications that remain competitive by modern standards.

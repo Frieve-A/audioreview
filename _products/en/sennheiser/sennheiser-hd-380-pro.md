@@ -5,6 +5,7 @@ target_name: "Sennheiser HD 380 PRO"
 company_id: sennheiser
 lang: en
 ref: sennheiser-hd-380-pro
+audiodb_uid: adb-e22db793c6bd
 date: 2025-09-12
 rating: [2.8, 0.6, 0.4, 1.0, 0.2, 0.6]
 price: 49.99
@@ -12,7 +13,6 @@ summary: "Discontinued professional monitoring headphones with excellent passive
 tags: [Headphones, Professional, Monitoring, Closed-back, Discontinued]
 permalink: /products/en/sennheiser-hd-380-pro/
 ---
-
 ## Overview
 
 The Sennheiser HD 380 PRO was a professional monitoring headphone featuring closed-back circumaural design with up to 32dB ambient noise attenuation. Released as part of Sennheiser's professional monitor series, the headphones utilized E.A.R. (Ergonomic Acoustic Refinement) technology and Duofol diaphragms to reduce comb filter effects and distortion. However, the product has been discontinued and Sennheiser no longer provides repair services, making it available only through remaining stock and secondary markets at approximately 49.99 USD.

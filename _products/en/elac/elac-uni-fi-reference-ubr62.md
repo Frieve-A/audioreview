@@ -5,6 +5,7 @@ target_name: "ELAC Uni-Fi Reference UBR62"
 company_id: elac
 lang: en
 ref: elac-uni-fi-reference-ubr62
+audiodb_uid: adb-bece4a5e860b
 date: 2025-10-28
 rating: [2.6, 0.6, 0.6, 0.3, 0.6, 0.5]
 price: 999.98
@@ -12,7 +13,6 @@ summary: "3-way bookshelf speaker with concentric driver design by Andrew Jones,
 tags: [Speakers, Bookshelf, 3-Way, Concentric Driver, Andrew Jones]
 permalink: /products/en/elac-uni-fi-reference-ubr62/
 ---
-
 ## Overview
 
 The ELAC Uni-Fi Reference UBR62 is a 3-way bookshelf speaker featuring Andrew Jones's signature concentric driver design. The speaker combines a 1-inch soft dome tweeter integrated within a 4-inch aluminum midrange driver, paired with a 6.5-inch aluminum woofer. Key specifications include 41Hz-35kHz frequency response, 6Ω nominal impedance, 85 dB sensitivity, and 140W maximum power handling. The design incorporates cast chassis construction, compound curvature aluminum cones, dual flared slot ports, and full perimeter cabinet bracing. Andrew Jones, formerly of KEF and Pioneer, brings decades of engineering expertise to this Reference series implementation.

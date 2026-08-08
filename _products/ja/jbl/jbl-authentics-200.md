@@ -5,6 +5,7 @@ target_name: "JBL Authentics 200"
 company_id: jbl
 lang: ja
 ref: jbl-authentics-200
+audiodb_uid: adb-833b78dbc4f3
 date: 2025-10-15
 rating: [3.8, 0.5, 0.8, 1.0, 0.7, 0.8]
 price: 30000
@@ -12,7 +13,6 @@ summary: "JBLのクラシックなデザインと最新のDSP技術、デュア�
 tags: [スピーカー, スマートスピーカー, Wi-Fi, Bluetooth, 音声アシスタント, DSP, JBL]
 permalink: /products/ja/jbl-authentics-200/
 ---
-
 ## 概要
 
 JBL Authentics 200は、JBLの「ニューステージア」デザイン哲学を体現した製品で、L-100にインスパイアされたレトロな外観と現代的なスマートスピーカー機能を融合しています。デュアル音声アシスタント（Google AssistantとAmazon Alexa）、Wi-Fi 6接続、JBLのプロフェッショナルグレードDSP技術を特徴とし、ヴィンテージデザインの魅力と現代的なワイヤレス機能の両方を求めるユーザーをターゲットとしています。この製品は、HARMANの科学的測定アプローチを基盤としながら、JBLの象徴的な1970年代の遺産を想起させる視覚的デザイン要素を重視しています。

@@ -5,6 +5,7 @@ target_name: "Sennheiser HD 660S2"
 company_id: sennheiser
 lang: ja
 ref: sennheiser-hd-660s2
+audiodb_uid: adb-fdd296e44b7a
 date: 2025-07-21
 rating: [3.5, 0.7, 0.8, 0.3, 0.9, 0.8]
 price: 90000

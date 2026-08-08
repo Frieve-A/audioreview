@@ -5,6 +5,7 @@ target_name: "Prism Sound Lyra 2"
 company_id: prism-sound
 lang: en
 ref: prism-sound-lyra-2
+audiodb_uid: adb-ee779ee57b6e
 date: 2025-11-02
 rating: [3.8, 0.9, 0.9, 0.5, 0.9, 0.6]
 price: 3225

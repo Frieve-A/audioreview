@@ -5,6 +5,7 @@ target_name: "fx-audio D302J++"
 company_id: fx-audio
 lang: ja
 ref: fx-audio-d302j++
+audiodb_uid: adb-bd02842e90c7
 date: 2025-07-22
 rating: [2.6, 0.4, 0.4, 0.8, 0.5, 0.5]
 price: 12980

@@ -5,6 +5,7 @@ target_name: "JTR Captivator RS1"
 company_id: jtr
 lang: en
 ref: jtr-captivator-rs1
+audiodb_uid: adb-2057ce3ef92f
 date: 2025-08-07
 rating: [3.6, 0.8, 0.7, 0.6, 0.7, 0.8]
 price: 3699
@@ -12,7 +13,6 @@ summary: "JTR's sealed 18-inch subwoofer. Achieves excellent low-frequency repro
 tags: [Subwoofer, Sealed, JTR, Home Theater, 18-Inch]
 permalink: /products/en/jtr-captivator-rs1/
 ---
-
 ## Overview
 
 The JTR Captivator RS1 is a sealed subwoofer designed and manufactured by American acoustics company JTR Speakers. Equipped with an 18-inch driver and 2400W Class-D amplifier, it achieves output levels that exceed many flagship models from other manufacturers despite being the company's smallest model. JTR originally operated as a professional audio equipment manufacturer but has recently built a reputation for ultra-high-output subwoofers targeted at home theater enthusiasts. It features a Baltic birch plywood enclosure and low-distortion-focused design, claiming 16Hz-157Hz (±3dB) frequency response and room response capability below 10Hz.

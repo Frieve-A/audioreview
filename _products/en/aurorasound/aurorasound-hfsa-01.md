@@ -5,6 +5,7 @@ target_name: "Aurorasound HFSA-01"
 company_id: aurorasound
 lang: en
 ref: aurorasound-hfsa-01
+audiodb_uid: adb-342dfa42f253
 date: 2025-09-22
 rating: [1.5, 0.3, 0.4, 0.1, 0.5, 0.2]
 price: 3680
@@ -12,7 +13,6 @@ summary: "Tube integrated amplifier with solid-state preamp offering vintage aes
 tags: [Integrated amplifier, Vacuum tube, Japan, High-end, Analog]
 permalink: /products/en/aurorasound-hfsa-01/
 ---
-
 ## Overview
 
 The Aurorasound HFSA-01 is a hybrid integrated amplifier from Japanese manufacturer Aurorasound, founded in 2010 by former Texas Instruments Digital Audio Group director Shinobu Karaki. The HFSA-01 employs a reverse hybrid design using 10 Texas Instruments OPA604 FET op-amps for preamplification driving four Sovtek EL84 pentode tubes in ultralinear, Class AB push-pull configuration. Priced at 3,680 USD, it outputs a specified 14 watts per channel into 8Ω loads and includes built-in MM phono equalization, tone controls, and multiple input options. The hand-built amplifier targets enthusiasts seeking tube amplification with modern solid-state input staging.

@@ -5,6 +5,7 @@ target_name: "Panasonic SC-PMX900"
 company_id: panasonic
 lang: en
 ref: panasonic-sc-pmx900
+audiodb_uid: adb-ac77afbf0d79
 date: 2025-08-12
 rating: [3.3, 0.4, 0.7, 1.0, 0.6, 0.6]
 price: 280
@@ -12,7 +13,6 @@ summary: "Technics-tuned CD stereo system with Bluetooth, AirPlay 2/Chromecast b
 tags: [CD Player, Stereo System, Bluetooth, High-Resolution Audio, Technics, Digital Amplifier]
 permalink: /products/en/panasonic-sc-pmx900/
 ---
-
 ## Overview
 
 The Panasonic SC-PMX900-S is a CD stereo system with a "Tuned by Technics" specification. It employs a full digital amplifier and low-noise power design, and provides CD playback plus Bluetooth, AirPlay 2/Chromecast built-in, Wi‑Fi/LAN, USB‑B (PC input), and optical digital input. It supports DSD 2.8/5.6MHz and AIFF/FLAC/WAV up to 192kHz/24‑bit. The bundled speakers are rated at 120W (60W+60W, JEITA) maximum practical output [1][2].

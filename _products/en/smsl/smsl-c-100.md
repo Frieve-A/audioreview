@@ -5,6 +5,7 @@ target_name: "SMSL C-100"
 company_id: smsl
 lang: en
 ref: smsl-c-100
+audiodb_uid: adb-890e792c31f8
 date: 2025-07-31
 rating: [3.8, 0.8, 0.7, 1.0, 0.6, 0.7]
 price: 119
@@ -12,7 +13,6 @@ summary: "An entry-level DAC combining a compact design with high-resolution sup
 tags: [DAC, SMSL, AK4493S, USB, Bluetooth, MQA, Compact]
 permalink: /products/en/smsl-c-100/
 ---
-
 ## Overview
 
 The SMSL C-100 is an entry-level USB DAC released in 2023 by Chinese manufacturer SMSL Audio. SMSL, established in 2009, is known for providing high-quality DAC and amplifier products at affordable prices. The C-100 features an ultra-compact design of 77.5×95×32mm, incorporating an AKM AK4493S DAC chip and an XMOS XU-316 USB controller. It supports high-resolution formats up to 32bit/768kHz PCM and DSD512, while also providing Bluetooth 5.0 and MQA decoding capabilities. Positioned as a product aiming for genuine audio performance in a palm-sized form factor, it is currently sold for 119 USD.

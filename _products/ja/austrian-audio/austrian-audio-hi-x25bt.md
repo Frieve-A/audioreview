@@ -5,6 +5,7 @@ target_name: "Austrian Audio Hi-X25BT"
 company_id: austrian-audio
 lang: ja
 ref: austrian-audio-hi-x25bt
+audiodb_uid: adb-b6d4eca4b7b6
 date: 2025-08-30
 rating: [3.5, 0.6, 0.7, 0.8, 0.6, 0.8]
 price: 26880
@@ -12,7 +13,6 @@ summary: "What Hi-Fi Award 2024受賞のプロフェッショナル系ワイヤ�
 tags: [ヘッドホン, ワイヤレス, Bluetooth, プロフェッショナル, スタジオ, 密閉型]
 permalink: /products/ja/austrian-audio-hi-x25bt/
 ---
-
 ## 概要
 
 Austrian Audio Hi-X25BTは、同社のスタジオ系設計を携えた密閉型Bluetoothヘッドホンです。自社開発の44 mm Hi-Xドライバーはリングマグネット方式と銅クラッドアルミ（CCAW）ボイスコイルを採用し、接続はBluetooth 5.0（SBC）、USB-Cデジタル、3.5 mmアナログに対応します。ANCは非搭載ながら、What Hi-Fi? Awards 2024を受賞し、明瞭さが評価されています [1][6]。

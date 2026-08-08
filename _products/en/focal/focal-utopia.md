@@ -5,6 +5,7 @@ target_name: "Focal Utopia"
 company_id: focal
 lang: en
 ref: focal-utopia
+audiodb_uid: adb-a912931442f2
 date: 2025-10-16
 rating: [3.2, 0.7, 0.8, 0.4, 0.6, 0.7]
 price: 3999

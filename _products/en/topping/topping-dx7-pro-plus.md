@@ -5,6 +5,7 @@ target_name: "Topping DX7 Pro+"
 company_id: topping
 lang: en
 ref: topping-dx7-pro-plus
+audiodb_uid: adb-37ce109fd59f
 date: 2025-08-29
 rating: [3.7, 0.9, 0.7, 0.6, 0.7, 0.8]
 price: 699

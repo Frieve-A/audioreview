@@ -5,6 +5,7 @@ target_name: "Fostex PM0.3"
 company_id: fostex
 lang: en
 ref: fostex-pm0-3
+audiodb_uid: adb-aa8e7ce8d42a
 date: 2025-07-20
 rating: [2.3, 0.4, 0.3, 0.6, 0.6, 0.4]
 price: 140

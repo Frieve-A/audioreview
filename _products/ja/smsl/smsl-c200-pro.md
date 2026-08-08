@@ -5,6 +5,7 @@ target_name: "SMSL C200 Pro"
 company_id: smsl
 lang: ja
 ref: smsl-c200-pro
+audiodb_uid: adb-6b568743cece
 date: 2026-02-08
 rating: [4.1, 0.8, 0.7, 1.0, 0.6, 1.0]
 price: 29850
@@ -12,7 +13,6 @@ summary: "ESS ES9039Q2M DACチップ、XMOS XU-316 USBプロセッサを搭載�
 tags: [DAC, ヘッドホンアンプ, デスクトップ, Bluetooth]
 permalink: /products/ja/smsl-c200-pro/
 ---
-
 ## 概要
 
 SMSL C200 Proは、ESS ES9039Q2M DACチップとXMOS XU-316 USBプロセッサを搭載したデスクトップDAC兼ヘッドホンアンプです。価格は29,850円（199 USD）で、USB Type-C、光デジタル、同軸入力に加え、LDAC対応Bluetooth 5.1を提供します。出力オプションには4.4mmバランス、6.35mmアンバランスヘッドホン出力、TRSバランスライン出力、RCA出力があり、139×147.5×32mmのコンパクトな筐体に収められています。

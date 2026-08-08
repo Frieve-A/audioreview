@@ -5,6 +5,7 @@ target_name: "Marantz Link 10N"
 company_id: marantz
 lang: en
 ref: marantz-link-10n
+audiodb_uid: adb-0787521a81ad
 date: 2025-09-13
 rating: [2.8, 0.9, 0.6, 0.2, 0.7, 0.4]
 price: 14000

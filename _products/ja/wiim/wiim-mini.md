@@ -5,6 +5,7 @@ target_name: "WiiM Mini"
 company_id: wiim
 lang: ja
 ref: wiim-mini
+audiodb_uid: adb-830270b8adc2
 date: 2025-08-20
 rating: [3.4, 0.7, 0.6, 1.0, 0.6, 0.5]
 price: 13310
@@ -12,7 +13,6 @@ summary: "WiiM Miniは手のひらサイズの円形ストリーマーです。�
 tags: [ネットワークストリーマー, WiFi, AirPlay 2, Bluetooth, DAC, ストリーミング]
 permalink: /products/ja/wiim-mini/
 ---
-
 ## 概要
 
 WiiM Miniは手のひらサイズ（約2.7 × 2.7 × 0.9インチ）の円形ストリーマーで、光S/PDIFと3.5 mmアナログ入出力により既存オーディオへストリーミング機能を追加します。Wi-Fi経由で最大24ビット/192 kHz再生に対応し、AirPlay 2やSpotify Connect、アプリ操作を備えます。設計は最小限のタッチ操作とデュアルバンドWi-Fi/BTです。 [2][3][9]

@@ -5,6 +5,7 @@ target_name: "TEAC UD-701N"
 company_id: teac
 lang: ja
 ref: teac-ud-701n
+audiodb_uid: adb-8ad4a607039b
 date: 2025-08-01
 rating: [2.2, 0.8, 0.5, 0.1, 0.6, 0.2]
 price: 495000

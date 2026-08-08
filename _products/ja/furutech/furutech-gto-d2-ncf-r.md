@@ -5,6 +5,7 @@ target_name: "Furutech GTO-D2-NCF-R"
 company_id: furutech
 lang: ja
 ref: furutech-gto-d2-ncf-r
+audiodb_uid: adb-5e1b3f4c240d
 date: 2025-08-31
 rating: [0.7, 0.0, 0.4, 0.0, 0.3, 0.0]
 price: 122930

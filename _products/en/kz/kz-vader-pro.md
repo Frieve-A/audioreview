@@ -5,6 +5,7 @@ target_name: "KZ Vader Pro"
 company_id: kz
 lang: en
 ref: kz-vader-pro
+audiodb_uid: adb-8c9fdfd5a985
 date: 2025-09-15
 rating: [3.1, 0.5, 0.5, 0.7, 0.4, 1.0]
 price: 28.99

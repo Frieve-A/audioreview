@@ -5,6 +5,7 @@ target_name: "Sennheiser HD 800 S"
 company_id: sennheiser
 lang: ja
 ref: sennheiser-hd-800-s
+audiodb_uid: adb-c26555d38f12
 date: 2025-07-18
 rating: [2.8, 0.8, 0.7, 0.1, 0.6, 0.6]
 price: 269850

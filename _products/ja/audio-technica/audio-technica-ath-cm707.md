@@ -5,6 +5,7 @@ target_name: "Audio-Technica ATH-CM707"
 company_id: audio-technica
 lang: ja
 ref: audio-technica-ath-cm707
+audiodb_uid: adb-3d2b9c172d29
 date: 2025-09-04
 rating: [2.0, 0.5, 0.5, 0.2, 0.6, 0.2]
 price: 15500
@@ -12,7 +13,6 @@ summary: "15.4mmドライバー搭載の伝統的イヤホンだが、低音不�
 tags: [イヤホン, 有線, ダイナミック型, 伝統設計]
 permalink: /products/ja/audio-technica-ath-cm707/
 ---
-
 ## 概要
 
 Audio-Technica ATH-CM707は、2010年に「Earsuit」シリーズの一部として発売された伝統的なイヤホンで、廃盤となったCM700モデルの後継機です。新開発の15.4 mmダイナミックドライバーにダクト共鳴構造、アルミニウム合金ハウジングを組み合わせ、2010年代初期におけるAudio-Technicaのプレミアムイヤホン設計アプローチを体現する製品です。

@@ -5,6 +5,7 @@ target_name: "Grace Design m701"
 company_id: grace-design
 lang: ja
 ref: grace-design-m701
+audiodb_uid: adb-8e974b6d1e45
 date: 2026-04-04
 rating: [4.8, 0.9, 1.0, 1.0, 0.9, 1.0]
 price: 449250

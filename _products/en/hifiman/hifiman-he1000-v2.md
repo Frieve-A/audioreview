@@ -5,6 +5,7 @@ target_name: "HiFiMAN HE1000 V2"
 company_id: hifiman
 lang: en
 ref: hifiman-he1000-v2
+audiodb_uid: adb-a2cfcd88019c
 date: 2026-06-08
 rating: [2.3, 0.5, 0.8, 0.1, 0.6, 0.3]
 price: 1399
@@ -12,7 +13,6 @@ summary: "Genuine in-house planar magnetic engineering with multiple patents, bu
 tags: [Headphones, Open-back, Planar, HiFiMAN]
 permalink: /products/en/hifiman-he1000-v2/
 ---
-
 ## Overview
 
 The HiFiMAN HE1000 V2 is an open-back over-ear headphone currently priced at 1,399 USD, incorporating Stealth Magnet technology added in a production revision of the chassis originally launched in 2016 at 2,999 USD. HiFiMAN, founded in 2007 by Dr. Fang Bian, has been a central figure in commercializing planar magnetic transducer technology for the consumer headphone market. The current iteration represents a substantial price reduction from the original launch MSRP while incorporating driver-level upgrades through the Stealth Magnet revision. Manufacturer specifications list 35 Ohm impedance, 90 dB sensitivity, and 420g weight.

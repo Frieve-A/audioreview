@@ -5,6 +5,7 @@ target_name: "Pioneer TS-WX1210A"
 company_id: pioneer
 lang: en
 ref: pioneer-ts-wx1210a
+audiodb_uid: adb-ff97510e7608
 date: 2025-09-09
 rating: [2.9, 0.5, 0.6, 0.9, 0.5, 0.4]
 price: 192.60
@@ -12,7 +13,6 @@ summary: "12-inch sealed active subwoofer with 350W nominal power and 300W Class
 tags: [Subwoofer, Active speakers, Class D, America, Built-in Subwoofer]
 permalink: /products/en/pioneer-ts-wx1210a/
 ---
-
 ## Overview
 
 The Pioneer TS-WX1210A is a 12-inch sealed enclosure active subwoofer featuring a built-in 300W Class D amplifier paired with a high-sensitivity driver rated at 114 dB @ 1W/1m. Originally introduced in 2017, this unit targets the automotive market with its compact trapezoidal design optimized for under-seat installation. The subwoofer incorporates Pioneer's proprietary VCCS (Voice-Coil Cooling System) technology and offers user-adjustable controls including variable low-pass filter (50Hz-125Hz), phase control, and bass boost (0 to +12 dB at 40Hz-100Hz).

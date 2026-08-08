@@ -5,6 +5,7 @@ target_name: "ESI Amber i4"
 company_id: esi
 lang: en
 ref: esi-amber-i4
+audiodb_uid: adb-d66731d86db7
 date: 2025-10-06
 rating: [3.4, 0.6, 0.6, 1.0, 0.6, 0.6]
 price: 240
@@ -12,7 +13,6 @@ summary: "The ESI Amber i4 is a compact 4-in/4-out USB-C audio interface with du
 tags: [24bit/192kHz, 4in/4out, Audio interface, DTM, USB-C]
 permalink: /products/en/esi-amber-i4/
 ---
-
 ## Overview
 
 The Amber i4 is a **24-bit/192 kHz** USB-C desktop interface providing **4×4 analog I/O**, **two Class-A mic preamps**, **independent 48 V phantom power**, **two auto-detect bidirectional MIDI ports**, and **dual headphone monitoring via OUTPUT A/B selection** on the front panel [1][2]. Its **LCD** shows level meters and mode status, and the large **amber main encoder** controls the selected output bus. ESI’s **ADM (Advanced Direct Monitoring)** enables **latency-free hardware mixes** directly on the unit or from the **Amber i4 Control** app, with **virtual channels & loopback** for streaming/recording computer audio [1][2]. The unit is **USB class-compliant** (CoreAudio on macOS/iOS) and offers **EWDM ASIO** drivers for Windows (ASIO 2.0 / WDM / MME / DirectSound) [2]. The package includes **Bitwig Studio 8-Track**, **Steinberg WaveLab LE**, and **Cubasis LE** registration, plus both **USB-C↔C** and **USB-A↔C** cables in the box [2]. ESI publishes **115 dB(A) dynamic range** for D/A (and 115 dB(A) class for the converters overall) [1][2].

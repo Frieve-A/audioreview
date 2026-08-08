@@ -5,6 +5,7 @@ target_name: "KEF Q1 Meta"
 company_id: kef
 lang: ja
 ref: kef-q1-meta
+audiodb_uid: adb-dc1860c73c3b
 date: 2025-08-11
 rating: [3.8, 0.6, 0.8, 0.7, 0.8, 0.9]
 price: 104999

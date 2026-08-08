@@ -5,6 +5,7 @@ target_name: "Topping L50"
 company_id: topping
 lang: en
 ref: topping-l50
+audiodb_uid: adb-a9336249089d
 date: 2025-08-05
 rating: [4.2, 0.9, 0.7, 1.0, 0.7, 0.9]
 price: 169

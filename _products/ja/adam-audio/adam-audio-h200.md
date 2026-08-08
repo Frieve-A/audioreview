@@ -5,6 +5,7 @@ target_name: "Adam Audio H200"
 company_id: adam-audio
 lang: ja
 ref: adam-audio-h200
+audiodb_uid: adb-6c8e04d8e8cc
 date: 2025-08-20
 rating: [3.6, 0.7, 0.7, 1.0, 0.6, 0.6]
 price: 22500
@@ -12,7 +13,6 @@ summary: "PEEKダイアフラムと無償Headphone Utilityプラグイン（Pure
 tags: [ヘッドホン, スタジオモニター, 密閉型, プロフェッショナル]
 permalink: /products/ja/adam-audio-h200/
 ---
-
 ## 概要
 
 H200はAdam Audio初の完全社内設計ヘッドホンです。40 mm PEEKダイアフラムと特許出願中の内部エアフロー構造により、高い遮音とニュートラル志向のチューニングを両立します。**150 USD（約22,500円）**という価格でプロのレコーディングやミックス確認を想定し、Sonnoxと共同開発の**Headphone Utility**プラグイン（クロスフィード“Externalization”、*Pure/UNR*ボイシング、イヤーパッド切替EQ、ゲイン補償）を無償で提供します。

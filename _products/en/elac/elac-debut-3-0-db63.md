@@ -5,6 +5,7 @@ target_name: "ELAC Debut 3.0 DB63"
 company_id: elac
 lang: en
 ref: elac-debut-3-0-db63
+audiodb_uid: adb-dc29cfb73e49
 date: 2025-11-12
 rating: [3.5, 0.3, 0.7, 0.8, 0.9, 0.8]
 price: 450

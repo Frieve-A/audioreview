@@ -5,6 +5,7 @@ target_name: "DALI Sub E-12 F"
 company_id: dali
 lang: en
 ref: dali-sub-e-12-f
+audiodb_uid: adb-2c877a203afa
 date: 2025-10-29
 rating: [2.2, 0.5, 0.5, 0.1, 0.6, 0.5]
 price: 1600
@@ -12,7 +13,6 @@ summary: "A competently designed 12-inch powered subwoofer featuring aluminum co
 tags: [Subwoofer, DALI, Powered, Bass Reflex, Class D]
 permalink: /products/en/dali-sub-e-12-f/
 ---
-
 ## Overview
 
 The DALI Sub E-12 F is a powered 12-inch subwoofer featuring a polymer aluminum cone driver and 170W RMS Class D amplification. Established Danish manufacturer DALI brings their holistic design philosophy to this bass reflex subwoofer, incorporating auto standby functionality, adjustable crossover (40-120 Hz), and phase control. The unit measures 370 × 340 × 380 mm and weighs 14.7 kg, available in satin black and white finishes. DALI's heritage in speaker design spans decades, with the company emphasizing coherent driver integration and natural sound reproduction across their product lines.

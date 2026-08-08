@@ -5,6 +5,7 @@ target_name: "Benchmark LA4"
 company_id: benchmark
 lang: en
 ref: benchmark-la4
+audiodb_uid: adb-0ae8cefe78cd
 date: 2025-10-25
 rating: [1.2, 0.0, 0.1, 0.2, 0.8, 0.1]
 price: 2950
@@ -12,7 +13,6 @@ summary: "Line preamplifier sold at unreasonably high price of 2950 USD for basi
 tags: [Preamplifier, Line-amplifier, Analog, High-end, Transparency]
 permalink: /products/en/benchmark-la4/
 ---
-
 ## Overview
 
 The Benchmark LA4 is an all-analog line preamplifier designed for reference-quality audio systems, positioned between high-performance DACs and power amplifiers. Benchmark Media Systems, established as a professional audio manufacturer, has built reputation in broadcast and mastering applications before expanding into consumer high-end audio. The LA4 features fully-balanced signal paths with 256-step relay-switched volume control, offering 2 balanced and 2 unbalanced stereo inputs, multiple outputs including balanced mono sum, and touch screen control interface with optional IR remote.

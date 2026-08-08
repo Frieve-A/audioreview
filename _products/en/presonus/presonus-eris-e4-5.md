@@ -5,6 +5,7 @@ target_name: "PreSonus Eris E4.5"
 company_id: presonus
 lang: en
 ref: presonus-eris-e4-5
+audiodb_uid: adb-a1df04610544
 date: 2025-07-20
 rating: [3.1, 0.4, 0.6, 0.9, 0.6, 0.6]
 price: 133

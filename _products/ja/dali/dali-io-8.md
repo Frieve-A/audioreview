@@ -5,6 +5,7 @@ target_name: "DALI IO-8"
 company_id: dali
 lang: ja
 ref: dali-io-8
+audiodb_uid: adb-60588e1cb590
 date: 2025-12-13
 rating: [2.3, 0.5, 0.9, 0.1, 0.4, 0.4]
 price: 138000

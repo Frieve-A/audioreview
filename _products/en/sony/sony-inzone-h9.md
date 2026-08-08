@@ -5,6 +5,7 @@ target_name: "Sony INZONE H9"
 company_id: sony
 lang: en
 ref: sony-inzone-h9
+audiodb_uid: adb-dd3c8af53724
 date: 2025-08-29
 rating: [3.3, 0.5, 0.6, 1.0, 0.5, 0.7]
 price: 249

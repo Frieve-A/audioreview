@@ -5,6 +5,7 @@ target_name: "AIYIMA B07"
 company_id: aiyima
 lang: ja
 ref: aiyima-b07
+audiodb_uid: adb-2991b759764f
 date: 2025-07-22
 rating: [3.6, 0.6, 0.7, 1.0, 0.5, 0.8]
 price: 16350

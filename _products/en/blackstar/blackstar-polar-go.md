@@ -5,6 +5,7 @@ target_name: "Blackstar Polar Go"
 company_id: blackstar
 lang: en
 ref: blackstar-polar-go
+audiodb_uid: adb-bc0096cdb2e3
 date: 2025-09-12
 rating: [3.9, 0.7, 0.8, 1.0, 0.4, 1.0]
 price: 129

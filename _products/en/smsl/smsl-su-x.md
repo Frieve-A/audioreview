@@ -5,6 +5,7 @@ target_name: "SMSL SU-X"
 company_id: smsl
 lang: en
 ref: smsl-su-x
+audiodb_uid: adb-4e9e987816d1
 date: 2025-08-28
 rating: [3.2, 0.8, 0.8, 0.5, 0.5, 0.6]
 price: 999

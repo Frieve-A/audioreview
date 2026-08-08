@@ -5,6 +5,7 @@ target_name: "Questyle M12i"
 company_id: questyle
 lang: en
 ref: questyle-m12i
+audiodb_uid: adb-d3dd762ef9bf
 date: 2025-09-01
 rating: [2.7, 0.6, 0.5, 0.2, 0.7, 0.7]
 price: 149
@@ -12,7 +13,6 @@ summary: "Apple MFi-certified USB-C DAC dongle with ESS ES9281AC; solid transpar
 tags: [DAC, Portable, USB-C, Dongle, ES9281AC, MFi]
 permalink: /products/en/questyle-m12i/
 ---
-
 ## Overview
 
 The Questyle M12i is a second-generation USB-C DAC/amp dongle with Apple MFi certification and the ESS ES9281AC DAC. It supports up to PCM 768kHz/32-bit and DSD512 with automatic impedance/gain handling, and it targets users who want broad device compatibility in a compact stick-style DAC [1][3].

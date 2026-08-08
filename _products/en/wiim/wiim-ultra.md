@@ -5,6 +5,7 @@ target_name: "WiiM WiiM-Ultra"
 company_id: wiim
 lang: en
 ref: wiim-ultra
+audiodb_uid: adb-9e69e9e38b6c
 date: 2026-02-16
 rating: [3.8, 0.8, 0.5, 1.0, 0.5, 1.0]
 price: 329

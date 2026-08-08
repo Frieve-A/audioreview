@@ -5,6 +5,7 @@ target_name: "AIYIMA A07 Premium"
 company_id: aiyima
 lang: en
 ref: aiyima-a07-premium
+audiodb_uid: adb-6602a08f657f
 date: 2026-02-25
 rating: [3.1, 0.6, 0.2, 1.0, 0.4, 0.9]
 price: 60.99

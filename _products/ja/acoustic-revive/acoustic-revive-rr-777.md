@@ -5,6 +5,7 @@ target_name: "Acoustic Revive RR-777"
 company_id: acoustic-revive
 lang: ja
 ref: acoustic-revive-rr-777
+audiodb_uid: adb-275fcbf151a5
 date: 2025-08-25
 rating: [1.0, 0.1, 0.2, 0.1, 0.5, 0.1]
 price: 40540
@@ -12,7 +13,6 @@ summary: "7.83Hzのシューマン共振を発生するスタンドアロン機�
 tags: [調整用品, 電磁波, ジェネレーター, Acoustic-Revive, シューマン共振]
 permalink: /products/ja/acoustic-revive-rr-777/
 ---
-
 ## 概要
 
 Acoustic Revive RR-777は、7.83Hzのシューマン共振基本波を放射する超低周波パルス発生器です。AC電源で動作し、オーディオ機器と信号的に接続しません。メーカーは部屋全体の「場」への作用を訴求しており、従来のオーディオ測定項目の改善を直接示すものではありません[1]。

@@ -5,6 +5,7 @@ target_name: "iFi Audio ZEN DAC 3"
 company_id: ifi-audio
 lang: ja
 ref: ifi-audio-zen-dac-3
+audiodb_uid: adb-1eb8f47f3104
 date: 2025-12-08
 rating: [3.0, 0.7, 0.7, 0.6, 0.3, 0.7]
 price: 30000
@@ -12,7 +13,6 @@ summary: "16コアXMOSプロセッサ、Burr-Brown DACチップを搭載し、76
 tags: [DAC, ヘッドホンアンプ, デスクトップ, USB-C, バランス出力, MQA, DSD]
 permalink: /products/ja/ifi-audio-zen-dac-3/
 ---
-
 ## 概要
 
 iFi Audio ZEN DAC 3は、コンパクトなフォームファクターで高解像度オーディオ性能の実現を目指したデスクトップ用デジタル・アナログ変換器兼ヘッドホンアンプです。従来のZEN DACモデルの成功を基盤とし、この第3世代デバイスは16コアXMOSプロセッサと4チャンネルBurr-Brown DACチップを組み込み、768kHz PCM、DSD512、完全MQAデコードを含む幅広いフォーマット対応を実現しています。バランス4.4mmとシングルエンド6.3mmヘッドホン出力に加えRCAライン出力を備え、包括的な接続性と高解像度フォーマット対応を求めるオーディオファイルをターゲットとしています。AMRの子会社として2012年に設立されたiFi Audioは、ハイエンドオーディオ技術をよりアクセスしやすい価格帯で提供することで評価を築いています。

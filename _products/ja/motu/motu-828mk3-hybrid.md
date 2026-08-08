@@ -5,6 +5,7 @@ target_name: "MOTU 828mk3 Hybrid"
 company_id: motu
 lang: ja
 ref: motu-828mk3-hybrid
+audiodb_uid: adb-722d110dba9b
 date: 2025-09-20
 rating: [3.0, 0.5, 0.3, 1.0, 0.4, 0.8]
 price: 45000
@@ -12,7 +13,6 @@ summary: "包括的なI/O機能を持つ廃盤プロフェッショナルオー�
 tags: [オーディオインターフェース, FireWire, USB, ADAT, プロフェッショナル, 廃盤]
 permalink: /products/ja/motu-828mk3-hybrid/
 ---
-
 ## 概要
 
 MOTU 828mk3 Hybridは、FireWire/USB 2.0ハイブリッド接続で28入力30出力を提供する廃盤のプロフェッショナルオーディオインターフェースです。2010年代前半にリリースされ、24ビット/192kHz変換、CueMix FXリアルタイムDSPミキシング、16チャンネルADATとステレオS/PDIFを含む包括的なデジタルI/Oを特徴としていました。このインターフェースは、広範なI/O機能と低レイテンシー性能を必要とするプロフェッショナル録音用途向けに設計されました。1980年に設立されたMOTUは、プロフェッショナルオーディオインターフェースとデジタルオーディオワークステーションで認知された名前です。

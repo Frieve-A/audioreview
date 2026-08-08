@@ -5,6 +5,7 @@ target_name: "Focusrite Scarlett 2i2 4th Gen"
 company_id: focusrite
 lang: ja
 ref: focusrite-scarlett-2i2-4th-gen
+audiodb_uid: adb-6bc2b933804e
 date: 2025-08-23
 rating: [3.9, 0.8, 0.6, 0.8, 0.8, 0.9]
 price: 31000
@@ -12,7 +13,6 @@ summary: "中核の測定値が透明域に達し、使い勝手の改善が充�
 tags: [オーディオインターフェース, USB-C, レコーディング, ホームスタジオ, 2入力]
 permalink: /products/ja/focusrite-scarlett-2i2-4th-gen/
 ---
-
 ## 概要
 
 Focusrite Scarlett 2i2 第4世代は、ホームスタジオ向けの2イン/2アウトUSB-Cインターフェースです。Auto GainとClip Safe、改良されたAirモード、強化されたヘッドフォン出力を備え、24-bit/192 kHz変換と直感的な操作性を引き継いでいます [1]。

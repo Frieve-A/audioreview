@@ -5,6 +5,7 @@ target_name: "Yamaha JA-0506"
 company_id: yamaha
 lang: en
 ref: yamaha-ja-0506
+audiodb_uid: adb-42abeaad1c4a
 date: 2025-08-04
 rating: [1.0, 0.2, 0.2, 0.1, 0.2, 0.3]
 price: 150

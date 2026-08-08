@@ -5,6 +5,7 @@ target_name: "Brise Audio AKAGANE-HP"
 company_id: brise-audio
 lang: en
 ref: brise-audio-akagane-hp
+audiodb_uid: adb-de071a75077f
 date: 2025-12-19
 rating: [1.3, 0.0, 0.6, 0.0, 0.7, 0.0]
 price: 1200

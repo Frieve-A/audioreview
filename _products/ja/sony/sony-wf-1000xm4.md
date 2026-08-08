@@ -5,6 +5,7 @@ target_name: "Sony WF-1000XM4"
 company_id: sony
 lang: ja
 ref: sony-wf-1000xm4
+audiodb_uid: adb-ed7cc891c615
 date: 2025-07-22
 rating: [3.0, 0.5, 0.7, 0.5, 0.8, 0.5]
 price: 25000

@@ -5,6 +5,7 @@ target_name: "Yamaha YST-SW45"
 company_id: "yamaha"
 lang: "ja"
 ref: "yamaha-yst-sw45"
+audiodb_uid: adb-0be4e5c45839
 date: 2025-08-30
 rating: [2.4, 0.4, 0.4, 1.0, 0.2, 0.4]
 price: 6000

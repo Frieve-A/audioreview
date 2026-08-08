@@ -5,6 +5,7 @@ target_name: "Beyerdynamic T1 3rd Generation"
 company_id: beyerdynamic
 lang: en
 ref: beyerdynamic-t1-3rd-generation
+audiodb_uid: adb-ab315cd671b1
 date: 2025-09-09
 rating: [2.4, 0.4, 0.6, 0.3, 0.7, 0.4]
 price: 699

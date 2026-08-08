@@ -5,6 +5,7 @@ target_name: "Universal Audio Volt 2"
 company_id: universal-audio
 lang: ja
 ref: universal-audio-volt-2
+audiodb_uid: adb-4a1733992321
 date: 2025-09-12
 rating: [3.2, 0.8, 0.4, 1.0, 0.6, 0.4]
 price: 24950

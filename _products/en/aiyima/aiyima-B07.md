@@ -5,6 +5,7 @@ target_name: "AIYIMA B07"
 company_id: aiyima
 lang: en
 ref: aiyima-b07
+audiodb_uid: adb-2991b759764f
 date: 2025-07-22
 rating: [3.6, 0.6, 0.7, 1.0, 0.5, 0.8]
 price: 109
@@ -12,7 +13,6 @@ summary: "A 2.1-channel amplifier with a TPA3255 chip. Its measured output is si
 tags: [Class D Amplifier, TPA3255, 2.1 Channel, Subwoofer, Bluetooth]
 permalink: /products/en/aiyima-b07/
 ---
-
 ## Overview
 
 The AIYIMA B07 is a 2.1-channel Class D amplifier combining the Texas Instruments TPA3255 chip with a QCC3040 Bluetooth chip. It claims a rated output of 300W×2 (stereo) + 300W (subwoofer) and features Bluetooth 5.2 connectivity (supporting AAC, SBC, aptX, APTX-LL, APTX-HD). The unit includes independent subwoofer frequency adjustment (±4dB) and cutoff frequency adjustment (50-220Hz) functions, designed as a desktop-oriented compact amplifier supporting DC24-48V power input. It incorporates six NE5532 op-amps and provides bass and treble adjustment functionality.

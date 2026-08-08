@@ -5,6 +5,7 @@ target_name: "HiFiMAN HE1000se"
 company_id: hifiman
 lang: ja
 ref: hifiman-he1000se
+audiodb_uid: adb-6d432e09e856
 date: 2026-05-27
 rating: [2.3, 0.5, 0.7, 0.1, 0.5, 0.5]
 price: 211751

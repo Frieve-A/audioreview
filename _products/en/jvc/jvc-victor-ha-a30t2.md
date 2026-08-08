@@ -5,6 +5,7 @@ target_name: "JVC Victor HA-A30T2"
 company_id: jvc
 lang: en
 ref: jvc-victor-ha-a30t2
+audiodb_uid: adb-a67cbce6460a
 date: 2025-08-21
 rating: [2.4, 0.5, 0.3, 0.8, 0.4, 0.4]
 price: 79.95
@@ -12,7 +13,6 @@ summary: "JVC's smallest true wireless ANC earbuds with multipoint connectivity 
 tags: [True Wireless, Noise Cancelling, Bluetooth 5.3, Multipoint, IPX4]
 permalink: /products/en/jvc-victor-ha-a30t2/
 ---
-
 ## Overview
 
 The JVC Victor HA-A30T2 is a compact true wireless model with active noise cancelling (ANC), multipoint connectivity, Bluetooth 5.3 (Class 1), and a rated 27 hours of total battery life with the case (earbuds up to 11 hours). It carries an IPX4 water-resistance rating and is configurable via the Victor/JVC app. Supported codecs are SBC and AAC. As of August 2025, the JVC USA store lists the price at 79.95 USD. [1][2][3]

@@ -5,6 +5,7 @@ target_name: "FiiO K19"
 company_id: fiio
 lang: en
 ref: fiio-k19
+audiodb_uid: adb-bf9dfafc6d7b
 date: 2026-01-06
 rating: [3.9, 0.8, 0.7, 1.0, 0.6, 0.8]
 price: 1299.99

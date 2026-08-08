@@ -5,6 +5,7 @@ target_name: "コーラル Flat-6"
 company_id: coral
 lang: ja
 ref: coral-flat-6
+audiodb_uid: adb-56e30e242695
 date: 2025-09-04
 rating: [1.9, 0.3, 0.5, 0.6, 0.2, 0.3]
 price: 34350

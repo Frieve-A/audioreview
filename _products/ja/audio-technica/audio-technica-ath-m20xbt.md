@@ -5,6 +5,7 @@ target_name: "Audio-Technica ATH-M20xBT"
 company_id: audio-technica
 lang: ja
 ref: audio-technica-ath-m20xbt
+audiodb_uid: adb-42f0413aabd9
 date: 2025-07-20
 rating: [3.0, 0.6, 0.4, 0.8, 0.6, 0.6]
 price: 11757

@@ -5,6 +5,7 @@ target_name: "Barefoot Sound Footprint01"
 company_id: barefoot-sound
 lang: ja
 ref: barefoot-sound-footprint01
+audiodb_uid: adb-ec6d0912d419
 date: 2025-09-14
 rating: [2.9, 0.4, 0.6, 0.8, 0.6, 0.5]
 price: 662925
@@ -12,7 +13,6 @@ summary: "独自技術を搭載したハイエンドスタジオモニターで�
 tags: [スタジオモニター, アクティブスピーカー, プロオーディオ, DSP]
 permalink: /products/ja/barefoot-sound-footprint01/
 ---
-
 ## 概要
 
 Barefoot Sound Footprint01は、同社独自のDual-Force™対向サブウーファー技術とMulti-Emphasis Monitor Emulation™ (MEME) DSP処理を搭載した3ウェイアクティブスタジオモニターです。プロフェッショナルスタジオ用途向けに設計され、8インチペーパーコーン・サブウーファー2基、4インチアルミニウムコーン・ミッドレンジドライバー、1インチデュアルリング・ラジエーター・ツイーターを搭載しています。総出力650Wと先進的なDSPクロスオーバー技術により、Footprint01は重要なリスニング環境でのリファレンスモニタリングに対するBarefoot Soundのアプローチを体現しています。

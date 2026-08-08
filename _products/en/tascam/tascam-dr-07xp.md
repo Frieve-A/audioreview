@@ -5,6 +5,7 @@ target_name: "TASCAM DR-07XP"
 company_id: tascam
 lang: en
 ref: tascam-dr-07xp
+audiodb_uid: adb-193b6beb0378
 date: 2025-07-30
 rating: [3.6, 0.8, 0.7, 0.6, 0.7, 0.8]
 price: 174

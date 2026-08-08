@@ -5,6 +5,7 @@ target_name: "TAD Micro Evolution One"
 company_id: tad
 lang: en
 ref: tad-micro-evolution-one
+audiodb_uid: adb-c582e5e7676e
 date: 2025-09-14
 rating: [2.4, 0.6, 0.7, 0.1, 0.6, 0.4]
 price: 14995

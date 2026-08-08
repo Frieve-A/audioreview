@@ -5,6 +5,7 @@ target_name: "DUNU DN-242"
 company_id: dunu
 lang: ja
 ref: dunu-dn-242
+audiodb_uid: adb-729aa807e4ce
 date: 2026-03-17
 rating: [2.4, 0.5, 0.7, 0.1, 0.4, 0.7]
 price: 52470

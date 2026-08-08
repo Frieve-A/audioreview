@@ -5,6 +5,7 @@ target_name: "Kripton KX-5PX"
 company_id: kripton
 lang: en
 ref: kripton-kx-5px
+audiodb_uid: adb-02fcb7e44dc9
 date: 2025-10-26
 rating: [2.0, 0.5, 0.5, 0.1, 0.7, 0.2]
 price: 3730

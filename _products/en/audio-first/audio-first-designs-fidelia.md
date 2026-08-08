@@ -5,6 +5,7 @@ target_name: "Audio First Designs Fidelia"
 company_id: audio-first-designs
 lang: en
 ref: audio-first-designs-fidelia
+audiodb_uid: adb-82dc31fa05ab
 date: 2025-11-02
 rating: [3.4, 0.5, 0.9, 0.5, 0.7, 0.8]
 price: 1508
@@ -12,7 +13,6 @@ summary: "Premium DIY bookshelf speaker kit with exceptional technology and engi
 tags: [Speakers, DIY, Bookshelf, Premium, Waveguide, Ceramic]
 permalink: /products/en/audio-first-designs-fidelia/
 ---
-
 ## Overview
 
 The Audio First Designs Fidelia is a premium 2-way bass reflex DIY speaker kit designed by Harry Yeung, an experienced acoustics engineer with professional background at Celestion, Monitor Audio, and KEF. This compact bookshelf monitor features ceramic-aluminum drivers, an in-house developed waveguide providing 120° directivity, and an ultra-low crossover frequency of 1560Hz. The kit includes Finnish birch plywood cabinet panels, pre-assembled crossovers with high-quality components, and requires no soldering for assembly. Audio First Designs positions itself as "Engineering Acoustic Excellence" with a mission to achieve exceptional sound quality through world-class engineering and acoustic designs.

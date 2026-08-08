@@ -5,6 +5,7 @@ target_name: "Hi-Unit HSE-A2000NC"
 company_id: hi-unit
 lang: ja
 ref: hi-unit-hse-a2000nc
+audiodb_uid: adb-ceeb7f7c508e
 date: 2026-01-09
 rating: [3.3, 0.5, 0.6, 1.0, 0.6, 0.6]
 price: 3918
@@ -12,7 +13,6 @@ summary: "測定データが限られているものの、優れたコストパ�
 tags: [イヤホン, USB-C, アクティブノイズキャンセリング, グラフェン, 有線, ハイレゾ音源]
 permalink: /products/ja/hi-unit-hse-a2000nc/
 ---
-
 ## 概要
 
 Hi-Unit HSE-A2000NCは、アクティブノイズキャンセリングとハイレゾ音源認証を搭載したUSB Type-C接続の有線イヤホンです。好評を博したHSE-A2000の後継機として開発され、グラフェンコーティングを施したφ8mm高磁力ドライバーとフィードフォワード方式のANC技術を採用しています。現代的なUSB-C接続でリーズナブルなANC搭載有線イヤホンを求めるユーザーをターゲットとし、アルミニウム切削ボディ構造と複数サイズのイヤーピースを含む充実したアクセサリーパッケージを提供しています。

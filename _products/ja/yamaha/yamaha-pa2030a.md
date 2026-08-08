@@ -5,6 +5,7 @@ target_name: "Yamaha PA2030A"
 company_id: yamaha
 lang: ja
 ref: yamaha-pa2030a
+audiodb_uid: adb-62be9a698510
 date: 2025-08-13
 rating: [4.0, 0.6, 0.7, 1.0, 0.8, 0.9]
 price: 50850

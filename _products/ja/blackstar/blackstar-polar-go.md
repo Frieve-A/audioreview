@@ -5,6 +5,7 @@ target_name: "Blackstar Polar Go"
 company_id: blackstar
 lang: ja
 ref: blackstar-polar-go
+audiodb_uid: adb-bc0096cdb2e3
 date: 2025-09-12
 rating: [3.9, 0.7, 0.8, 1.0, 0.4, 1.0]
 price: 18645
@@ -12,7 +13,6 @@ summary: "ProCapture™ステレオマイク内蔵、高度なDSP処理、バッ
 tags: [オーディオインターフェース, ポータブル録音, USB-C, バッテリー駆動, 内蔵マイク, DSP処理]
 permalink: /products/ja/blackstar-polar-go/
 ---
-
 ## 概要
 
 Blackstar Polar Goは、ProCapture™ステレオマイクを内蔵したポータブルUSB-Cオーディオインターフェースで、重量135g、バッテリー駆動時間4-6時間を実現しています（情報源により差異あり）。このポケットサイズの製品は、プロフェッショナル仕様のオーディオインターフェース機能と統合マイク、高度なDSP処理、磁気式スマートフォンマウント対応を組み合わせ、モバイルコンテンツクリエーター、ミュージシャン、ポッドキャスターが求める、どこでもスタジオ品質の録音を可能にします。

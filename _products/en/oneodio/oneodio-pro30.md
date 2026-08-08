@@ -5,6 +5,7 @@ target_name: "OneOdio Pro30"
 company_id: oneodio
 lang: en
 ref: oneodio-pro30
+audiodb_uid: adb-db8f716ba86d
 date: 2025-07-29
 rating: [2.4, 0.3, 0.2, 1.0, 0.4, 0.5]
 price: 27
@@ -12,7 +13,6 @@ summary: "DJ/monitor headphones with 50mm drivers. While they offer basic featur
 tags: [Headphones, DJ, Monitor, Wired, 50mm Driver]
 permalink: /products/en/oneodio-pro30/
 ---
-
 ## Overview
 
 The OneOdio Pro30 is an over-ear DJ and monitoring headphone equipped with 50mm neodymium drivers. It claims specifications of 32Ω impedance, 110dB±3dB sensitivity, and a 20Hz-40kHz frequency response, and comes with detachable 3.5mm and 6.35mm cables. Featuring 90-degree rotating earcups, it supports single-ear monitoring for DJ mixing and studio applications. OneOdio is an audio brand based in Hong Kong, China, that focuses on developing cost-effective products.

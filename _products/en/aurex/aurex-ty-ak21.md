@@ -5,6 +5,7 @@ target_name: "Aurex TY-AK21"
 company_id: aurex
 lang: en
 ref: aurex-ty-ak21
+audiodb_uid: adb-a3ba46c4a6ce
 date: 2025-08-22
 rating: [2.8, 0.3, 0.4, 0.9, 0.6, 0.6]
 price: 279
@@ -12,7 +13,6 @@ summary: "Retro-styled portable radio cassette recorder with Bluetooth TX/RX and
 tags: [Portable, CD, Radio, Cassette, Bluetooth]
 permalink: /products/en/aurex-ty-ak21/
 ---
-
 ## Overview
 
 The Aurex TY-AK21 is a portable CD/radio/cassette unit that adds modern I/O: Bluetooth **receive and transmit** (TX/RX), SD/USB playback/record, and a vendor-promoted “upconvert to hi-res-like” mode. It uses a two-way bass-reflex speaker system with 6.4 cm woofers and 2 cm soft-dome tweeters, a digital amp rated **20 W + 20 W**, and Bluetooth 5.3. Media support includes CD-DA/MP3 plus FLAC/WAV up to 192 kHz/24-bit via USB/SD. FM (76–108 MHz) and AM are built in. These are manufacturer specs. [1][2]

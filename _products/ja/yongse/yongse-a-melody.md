@@ -5,6 +5,7 @@ target_name: "Yongse A-melody"
 company_id: yongse
 lang: ja
 ref: yongse-a-melody
+audiodb_uid: adb-c5bd569cf8ec
 date: 2026-01-02
 rating: [1.2, 0.0, 0.6, 0.1, 0.5, 0.0]
 price: 42000
@@ -12,7 +13,6 @@ summary: "科学的証拠のないAir-shield技術を謳う高価なイヤホン
 tags: [ケーブル, イヤホン, 銀, 銅, Air-shield]
 permalink: /products/ja/yongse-a-melody/
 ---
-
 ## 概要
 
 Yongse A-melodyは独自のAir-shield技術を特徴とする4芯イヤホンケーブルで、価格は280米ドル（約42,000円）です。銅銀合金導体（銀含有率4%）と純銀導体を組み合わせ、メーカーが外部ノイズブロッキングと信号経路最適化のためのエアー絶縁層を作り出すと主張するスパイラルワイヤーガイド構造を採用しています。0.78mm 2PinやMMCXターミネーション、4.4mmや2.5mmバランスプラグなど様々な接続オプションでクラウドファンディングを通じて提供される120cmケーブルで、ケーブル交換による音質改善を求めるオーディオファイルをターゲットとしています。

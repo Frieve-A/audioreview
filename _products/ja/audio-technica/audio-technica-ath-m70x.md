@@ -5,6 +5,7 @@ target_name: "Audio-Technica ATH-M70X"
 company_id: audio-technica
 lang: ja
 ref: audio-technica-ath-m70x
+audiodb_uid: adb-b88d207344bb
 date: 2025-08-02
 rating: [2.4, 0.3, 0.5, 0.5, 0.6, 0.5]
 price: 35200

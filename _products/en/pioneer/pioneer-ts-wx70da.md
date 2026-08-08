@@ -5,6 +5,7 @@ target_name: "Pioneer TS-WX70DA"
 company_id: pioneer
 lang: en
 ref: pioneer-ts-wx70da
+audiodb_uid: adb-492a615cff3c
 date: 2025-09-09
 rating: [2.3, 0.5, 0.3, 0.3, 0.8, 0.4]
 price: 354

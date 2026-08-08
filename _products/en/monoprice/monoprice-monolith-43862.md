@@ -5,6 +5,7 @@ target_name: "Monoprice Monolith 43862"
 company_id: monoprice
 lang: en
 ref: monoprice-monolith-43862
+audiodb_uid: adb-f5f9fca0855c
 date: 2025-10-31
 rating: [2.5, 0.6, 0.7, 0.3, 0.2, 0.7]
 price: 599
@@ -12,7 +13,6 @@ summary: "Desktop DAC/amplifier with THX AAA technology and ESS SABRE DAC, offer
 tags: [Headphone-amplifier, DAC, THX-AAA, ESS-SABRE, Desktop-audio]
 permalink: /products/en/monoprice-monolith-43862/
 ---
-
 ## Overview
 
 The Monoprice Monolith Desktop Balanced Headphone Amplifier and ESS SABRE DAC (Model 43862) represents the current iteration of Monoprice's THX-certified desktop audio solution. This model replaced the previous AKM-based version (model 24459) when Monoprice switched to ESS technology following AKM's factory incident. This desktop DAC/amplifier combination features dual THX AAA 788 amplifier modules, an ESS SABRE 9038Q2M DAC, MQA compatibility, and Dirac Virtuo spatial processing. The unit provides both balanced XLR and single-ended headphone outputs with comprehensive connectivity options including USB, optical, coaxial, XLR, and RCA inputs. At 599.99 USD, it positions itself as a mid-range desktop audio solution targeting audiophiles seeking THX-certified amplification with modern digital processing features.

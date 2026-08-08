@@ -5,6 +5,7 @@ target_name: "Astrotec Archimedes ATS-01"
 company_id: astrotec
 lang: ja
 ref: astrotec-archimedes-ats-01
+audiodb_uid: adb-71d794f26a4b
 date: 2025-09-03
 rating: [2.5, 0.4, 0.6, 0.2, 0.7, 0.6]
 price: 19890

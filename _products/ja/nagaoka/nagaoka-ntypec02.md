@@ -5,6 +5,7 @@ target_name: "Nagaoka NTYPEC02"
 company_id: nagaoka
 lang: ja
 ref: nagaoka-ntypec02
+audiodb_uid: adb-0682915931b9
 date: 2025-07-30
 rating: [3.3, 0.6, 0.5, 1.0, 0.5, 0.7]
 price: 3480

@@ -5,6 +5,7 @@ target_name: "Audio-Technica ATH-P100M"
 company_id: audio-technica
 lang: ja
 ref: audio-technica-ath-p100m
+audiodb_uid: adb-00c5d14eb5f2
 date: 2025-10-26
 rating: [3.5, 0.5, 0.4, 1.0, 0.8, 0.8]
 price: 4800
@@ -12,7 +13,6 @@ summary: "PC用リスニング向けに設計された基本仕様のバジェ�
 tags: [ヘッドホン, 開放型, ダイナミック, バジェット, PC-audio]
 permalink: /products/ja/audio-technica-ath-p100m/
 ---
-
 ## 概要
 
 Audio-Technica ATH-P100Mは、長時間のPCリスニングセッションを想定して設計された2008年リリースの開放型ダイナミックヘッドホンです。60グラムの軽量構造に30mmドライバーと32オームインピーダンスを備えたこのバジェット向けモデルは、アクセスしやすい価格で基本的な開放型機能を求めるユーザーをターゲットとしています。現在日本市場で約4,800円で入手可能なこの製品は、プレミアム機能や先進的な設計を用いることなく、基本的なヘッドホン機能を提供するAudio-Technicaのアプローチを表しています。

@@ -5,6 +5,7 @@ target_name: "Audio-Technica ATH-R50x"
 company_id: audio-technica
 lang: en
 ref: audio-technica-ath-r50x
+audiodb_uid: adb-99537ed3c239
 date: 2026-01-24
 rating: [3.2, 0.3, 0.5, 1.0, 0.5, 0.9]
 price: 159

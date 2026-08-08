@@ -5,6 +5,7 @@ target_name: "Pioneer SP-BS22-LR"
 company_id: pioneer
 lang: en
 ref: pioneer-sp-bs22-lr
+audiodb_uid: adb-a38814246240
 date: 2025-09-01
 rating: [3.9, 0.6, 0.8, 1.0, 0.7, 0.8]
 price: 130

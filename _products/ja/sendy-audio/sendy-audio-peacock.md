@@ -5,6 +5,7 @@ target_name: "Sendy Audio Peacock"
 company_id: sendy-audio
 lang: ja
 ref: sendy-audio-peacock
+audiodb_uid: adb-9b5eb67e2b94
 date: 2025-07-28
 rating: [2.0, 0.2, 0.6, 0.2, 0.5, 0.5]
 price: 220000

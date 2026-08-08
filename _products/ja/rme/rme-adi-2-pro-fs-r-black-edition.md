@@ -5,6 +5,7 @@ target_name: "RME ADI-2 Pro FS R Black Edition"
 company_id: rme
 lang: ja
 ref: rme-adi-2-pro-fs-r-black-edition
+audiodb_uid: adb-91aed32188e6
 date: 2025-11-12
 rating: [4.7, 0.9, 0.8, 1.0, 1.0, 1.0]
 price: 299700
@@ -12,7 +13,6 @@ summary: "優れた測定性能、先進的なDSP処理、デュアルヘッド�
 tags: [DAC, ADC, ヘッドホンアンプ, プロフェッショナルオーディオ, バランス, DSP, DSD, ハイレゾリューション]
 permalink: /products/ja/rme-adi-2-pro-fs-r-black-edition/
 ---
-
 ## 概要
 
 RME ADI-2 Pro FS R Black Editionは、プロフェッショナルおよびハイエンドコンシューマー用途向けに設計されたリファレンスクラスのAD/DAコンバーターです。このドイツ製エンジニアリング製品は、フェムト秒精度のジッタ抑制を実現するRME独自のSteadyClock FS技術と組み合わせたAK4493 DACおよびAK5574 ADCチップを特徴とします。本機は最大768 kHz PCMおよびDSD256（11.2 MHz）のサンプルレートをサポートし、バランスXLRおよびアンバランスTRS接続オプションを提供します。注目すべき機能には、チャンネルあたり1.5Wを出力するデュアルヘッドホン出力、5バンドパラメトリックEQ、内蔵スペクトラムアナライザー、包括的なDSPベースの信号処理機能が含まれます。プロフェッショナルオーディオインターフェースにおけるRMEの確立された評価と、測定可能な性能向上への注力により、この製品はハイエンドオーディオコンバーター市場における真剣なエンジニアリング成果として位置づけられています。

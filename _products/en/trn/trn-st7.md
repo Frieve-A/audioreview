@@ -5,6 +5,7 @@ target_name: "TRN ST7"
 company_id: trn
 lang: en
 ref: trn-st7
+audiodb_uid: adb-e43ce00bb398
 date: 2025-09-13
 rating: [2.3, 0.2, 0.5, 0.6, 0.5, 0.5]
 price: 29.99

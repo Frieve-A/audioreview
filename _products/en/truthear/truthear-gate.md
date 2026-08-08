@@ -5,6 +5,7 @@ target_name: "Truthear Gate"
 company_id: truthear
 lang: en
 ref: truthear-gate
+audiodb_uid: adb-958e522ed270
 date: 2025-08-20
 rating: [3.4, 0.7, 0.5, 0.9, 0.7, 0.6]
 price: 21.99
@@ -12,7 +13,6 @@ summary: "The Truthear Gate is an ultra-budget IEM featuring a 10mm dynamic driv
 tags: [10mm Dynamic, Budget IEM, Carbon LCP, China, In-Ear Monitors, Truthear, Ultra-budget]
 permalink: /products/en/truthear-gate/
 ---
-
 ## Overview
 
 The Truthear Gate is a 2024 ultra-budget IEM positioned as a successor to the discontinued Hola. It uses a 10mm dynamic driver with a Carbon LCP dome + ultra-thin PU diaphragm in a PC+ABS shell and a 0.78mm recessed 2-pin cable. Truthear emphasizes a measurement-led tuning with a light V-shaped balance. Official specs list 28Ω impedance and 122dB/Vrms sensitivity, with THD≤1% @1kHz (94dB). Truthear also claims <0.2% nonlinear distortion at 104dB SPL. [1]

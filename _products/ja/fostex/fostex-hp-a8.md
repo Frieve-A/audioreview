@@ -5,6 +5,7 @@ target_name: "Fostex HP-A8"
 company_id: fostex
 lang: ja
 ref: fostex-hp-a8
+audiodb_uid: adb-f70806e2709d
 date: 2025-08-05
 rating: [3.1, 0.7, 0.6, 0.8, 0.3, 0.7]
 price: 90000
@@ -12,7 +13,6 @@ summary: "32bit DAC搭載のヘッドホンアンプ。測定性能は優秀だ�
 tags: [ヘッドホンアンプ, DAC, 32bit, AK4399, ディスクリート, DSD]
 permalink: /products/ja/fostex-hp-a8/
 ---
-
 ## 概要
 
 Fostex HP-A8は、32bit AK4399 DACチップとディスクリートアナログ回路を採用したヘッドホンアンプです。2012年頃に発売され、当時としては先進的な32bit/192kHz対応やDSD再生機能を搭載していました。USB、光学、同軸、AES/EBUの各種デジタル入力に対応し、SDカードスロットによるDSDファイル直接再生も可能です。重量3.75kg、消費電力24Wの据え置き型として設計されています。現在は廃番となっており、中古市場でのみ入手可能です。

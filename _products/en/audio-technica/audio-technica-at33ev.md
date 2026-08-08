@@ -5,6 +5,7 @@ target_name: "Audio-Technica AT33EV"
 company_id: audio-technica
 lang: en
 ref: audio-technica-at33ev
+audiodb_uid: adb-30753c3213ad
 date: 2025-07-12
 rating: [2.0, 0.2, 0.3, 0.4, 0.8, 0.3]
 price: 383

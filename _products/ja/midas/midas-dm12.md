@@ -5,6 +5,7 @@ target_name: "Midas DM12"
 company_id: midas
 lang: ja
 ref: midas-dm12
+audiodb_uid: adb-8ffbe511dfc7
 date: 2025-08-24
 rating: [3.3, 0.7, 0.4, 1.0, 0.6, 0.6]
 price: 54800
@@ -12,7 +13,6 @@ summary: "12チャンネルデジタルミキサー。プロオーディオ向�
 tags: [デジタルミキサー, プロオーディオ, 12チャンネル, Midas]
 permalink: /products/ja/midas-dm12/
 ---
-
 ## 概要
 
 Midas DM12は、ライブとスタジオ用途を想定した12入力（モノ8、ステレオ2）のアナログミキサーです。モノチャンネルはMIDASマイクプリアンプと3バンドEQ（可変中域）を備え、AUXは2系統（pre/post切替）です。60 mmフェーダーと堅牢なシャーシを採用し、可搬性と基本操作性を重視した設計です[1]。

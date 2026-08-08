@@ -5,6 +5,7 @@ target_name: "DALI Kupid"
 company_id: dali
 lang: ja
 ref: dali-kupid
+audiodb_uid: adb-7c671f6080f6
 date: 2026-05-16
 rating: [2.4, 0.6, 0.4, 0.3, 0.8, 0.3]
 price: 90000

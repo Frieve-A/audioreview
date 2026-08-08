@@ -5,6 +5,7 @@ target_name: "UGREEN HiTune S3"
 company_id: ugreen
 lang: ja
 ref: ugreen-hitune-s3
+audiodb_uid: adb-e47c6cab26bd
 date: 2025-12-23
 rating: [3.2, 0.5, 0.5, 1.0, 0.5, 0.7]
 price: 3300
@@ -12,7 +13,6 @@ summary: "開放型ワイヤレスイヤホンとして標準的な現代機能�
 tags: [イヤホン, ワイヤレス, 開放型, ブルートゥース, スポーツ]
 permalink: /products/ja/ugreen-hitune-s3/
 ---
-
 ## 概要
 
 UGREEN HiTune S3（WS209）は、オーディオ視聴中の状況認識を重視するアクティブユーザー向けのエントリーレベル開放型ワイヤレスイヤホンです。本製品はBluetooth 5.4接続とEnvironmental Noise Cancellation（ENC）技術を搭載したクリップオン設計を特徴とします。イヤホン1つあたり5.3gの軽量構造とIPX5耐水性能により、HiTune S3は3,300円という価格設定で予算重視の開放型セグメントに位置しています。

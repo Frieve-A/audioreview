@@ -5,6 +5,7 @@ target_name: "Aful Performer8"
 company_id: aful
 lang: en
 ref: aful-performer8
+audiodb_uid: adb-5a63ad9e1bbc
 date: 2025-07-06
 rating: [3.7, 0.8, 0.8, 0.3, 0.8, 1.0]
 price: 369.99
@@ -12,7 +13,6 @@ summary: "A luxury hybrid IEM featuring 7BA+1DD driver configuration at USD 369.
 tags: [7BA+1DD, China, High-Resolution, "Hybrid technology", "In-ear monitors"]
 permalink: /products/en/aful-performer8/
 ---
-
 ## Overview
 
 The Aful Performer8 is a flagship IEM released in 2023 by Chinese audio manufacturer Aful. Featuring a sophisticated 8-driver configuration with seven balanced armature drivers and one 8mm dynamic driver, it aims to achieve both high resolution and natural tonality.

@@ -5,6 +5,7 @@ target_name: "Audio-Technica AT-LP120XBT-USB"
 company_id: audio-technica
 lang: ja
 ref: audio-technica-at-lp120xbt-usb
+audiodb_uid: adb-cc97a830360e
 date: 2025-12-02
 rating: [2.9, 0.2, 0.5, 1.0, 0.7, 0.5]
 price: 74850

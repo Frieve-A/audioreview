@@ -5,6 +5,7 @@ target_name: "Tago Studio Takasaki T3-02"
 company_id: tago-studio-takasaki
 lang: en
 ref: tago-studio-takasaki-t3-02
+audiodb_uid: adb-d750a2b09175
 date: 2025-12-05
 rating: [1.8, 0.5, 0.5, 0.1, 0.5, 0.2]
 price: 227

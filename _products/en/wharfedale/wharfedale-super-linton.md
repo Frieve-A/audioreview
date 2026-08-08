@@ -5,6 +5,7 @@ target_name: "Wharfedale Super Linton"
 company_id: wharfedale
 lang: en
 ref: wharfedale-super-linton
+audiodb_uid: adb-329ca37aa7a8
 date: 2025-12-02
 rating: [4.0, 0.6, 0.6, 1.0, 0.9, 0.9]
 price: 2499

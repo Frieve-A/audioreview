@@ -5,6 +5,7 @@ target_name: "Final E5000"
 company_id: final
 lang: ja
 ref: final-e5000
+audiodb_uid: adb-c359fa013207
 date: 2025-08-23
 rating: [1.8, 0.3, 0.5, 0.2, 0.4, 0.4]
 price: 32800

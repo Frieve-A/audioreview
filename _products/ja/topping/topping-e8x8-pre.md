@@ -5,6 +5,7 @@ target_name: "Topping E8x8 Pre"
 company_id: topping
 lang: ja
 ref: topping-e8x8-pre
+audiodb_uid: adb-e8376f708393
 date: 2025-07-19
 rating: [3.7, 0.8, 0.8, 1.0, 0.3, 0.8]
 price: 67350
@@ -12,7 +13,6 @@ summary: "8チャンネル録音に対応する優れた測定性能を驚異的
 tags: [オーディオインターフェース, 録音機器, マイクプリアンプ, USB-C, プロオーディオ]
 permalink: /products/ja/topping-e8x8-pre/
 ---
-
 ## 概要
 
 Topping E8x8 Preは、8つの超低ノイズマイクプリアンプを搭載したプロフェッショナル向けオーディオインターフェースです。中国のToppingは近年、測定性能に優れたDAC・アンプ製品で注目を集めており、このE8x8 Preは同社初の本格的なオーディオインターフェース製品として位置づけられます。EIN -130.5dBuの超低ノイズ設計と、ダイナミックレンジ127dB（ライン出力）、132dB（ヘッドホン出力）の仕様を謳い、プロの録音現場での使用を想定した設計となっています。

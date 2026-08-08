@@ -5,6 +5,7 @@ target_name: "KZ DECET"
 company_id: kz
 lang: ja
 ref: kz-decet
+audiodb_uid: adb-dc1f2a22711a
 date: 2025-07-27
 rating: [2.4, 0.5, 0.6, 0.4, 0.3, 0.6]
 price: 4750

@@ -5,6 +5,7 @@ target_name: "iBasso Audio DC04 Ultra"
 company_id: ibasso-audio
 lang: ja
 ref: ibasso-audio-dc04-ultra
+audiodb_uid: adb-4d3c1dd8131e
 date: 2026-02-27
 rating: [4.0, 0.8, 0.6, 1.0, 0.6, 1.0]
 price: 22384
@@ -12,7 +13,6 @@ summary: "デュアルCS43198 DACチップとFPGA処理を搭載したプレミ�
 tags: [USB DAC, ヘッドホンアンプ, ポータブルオーディオ, バランス出力, ハイレゾ, iBasso Audio, DACチップCS43198]
 permalink: /products/ja/ibasso-audio-dc04-ultra/
 ---
-
 ## 概要
 
 iBasso Audio DC04 Ultraは、独自のFPGAオーディオ処理機能を備えたデュアルCirrus Logic CS43198フラグシップDACチップを搭載したプレミアムポータブルUSB DAC/ヘッドホンアンプです。iBassoのフラッグシップドングルDACとして2025年にリリースされ、PCM 32ビット/768kHzおよびネイティブDSD512までの高解像度オーディオデコードと、980mWバランス出力を実現する強力なアンプを組み合わせています。このデバイスには0.96インチOLEDディスプレイ、10バンドパラメトリックEQ、ステンレススチール構造が搭載されており、22,384円で包括的なポータブルオーディオソリューションとして位置付けられています。

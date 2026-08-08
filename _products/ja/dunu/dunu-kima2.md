@@ -5,6 +5,7 @@ target_name: "DUNU Kima 2"
 company_id: dunu
 lang: ja
 ref: dunu-kima2
+audiodb_uid: adb-ece97f8a4367
 date: 2025-10-16
 rating: [2.7, 0.5, 0.8, 0.2, 0.6, 0.6]
 price: 17000

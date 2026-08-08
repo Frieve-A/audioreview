@@ -5,6 +5,7 @@ target_name: "CVJ Neko"
 company_id: cvj
 lang: en
 ref: cvj-neko
+audiodb_uid: adb-28aa7d6049ff
 date: 2025-09-15
 rating: [2.1, 0.5, 0.5, 0.2, 0.5, 0.4]
 price: 90

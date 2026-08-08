@@ -5,6 +5,7 @@ target_name: "iFi Audio ZEN CAN Signature 6XX"
 company_id: ifi-audio
 lang: en
 ref: ifi-audio-zen-can-signature-6xx
+audiodb_uid: adb-ec06a69d5c6b
 date: 2025-09-05
 rating: [3.3, 0.6, 0.7, 0.8, 0.6, 0.6]
 price: 249

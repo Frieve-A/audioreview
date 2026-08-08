@@ -5,6 +5,7 @@ target_name: "Onix Alpha Xi1"
 company_id: onix
 lang: en
 ref: onix-alpha-xi1
+audiodb_uid: adb-57798e944a2d
 date: 2025-07-30
 rating: [3.6, 0.8, 0.7, 0.7, 0.6, 0.8]
 price: 109

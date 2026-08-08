@@ -5,6 +5,7 @@ target_name: "Amulech AL-38432DS"
 company_id: amulech
 lang: ja
 ref: amulech-al-38432ds
+audiodb_uid: adb-53ca5efad5d5
 date: 2025-12-05
 rating: [3.2, 0.7, 0.5, 1.0, 0.2, 0.8]
 price: 20250

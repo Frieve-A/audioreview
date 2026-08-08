@@ -5,6 +5,7 @@ target_name: "Monitor Audio Platinum 100 3G"
 company_id: monitor-audio
 lang: en
 ref: monitor-audio-platinum-100-3g
+audiodb_uid: adb-d4af755bb139
 date: 2025-08-24
 rating: [3.0, 0.5, 0.8, 0.4, 0.7, 0.6]
 price: 6900

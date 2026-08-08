@@ -5,6 +5,7 @@ target_name: "Cayin Soul 170HA"
 company_id: cayin
 lang: en
 ref: cayin-soul-170ha
+audiodb_uid: adb-f0a523583891
 date: 2026-05-23
 rating: [1.3, 0.4, 0.4, 0.1, 0.3, 0.1]
 price: 7500

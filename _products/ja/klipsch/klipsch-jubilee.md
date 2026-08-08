@@ -5,6 +5,7 @@ target_name: "Klipsch Jubilee"
 company_id: klipsch
 lang: ja
 ref: klipsch-jubilee
+audiodb_uid: adb-bd9feb180168
 date: 2025-09-19
 rating: [4.1, 0.5, 0.8, 1.0, 0.9, 0.9]
 price: 2880000
@@ -12,7 +13,6 @@ summary: "Paul W. Klipschの最終プロジェクトとして、伝統的なホ�
 tags: [スピーカー, ホーンロード, DSP, 高効率, ヘリテージ]
 permalink: /products/ja/klipsch-jubilee/
 ---
-
 ## 概要
 
 Klipsch Jubileeは、創設者Paul W. Klipschの最終プロジェクトとして誕生した、フルホーンロード型2ウェイスピーカーです。特許取得済みのホーンロードベンテッド低音エンクロージャーと外部アクティブDSPクロスオーバーネットワークを搭載しています。高さ69インチ、重量408ポンドの巨大な筐体から105dB感度と18Hz-20kHz周波数特性を実現します。アーカンソー州ホープで製造され、ブックマッチ木材突板を使用して構築されたJubileeは、伝統的なホーンロード技術と現代的なDSP実装を組み合わせ、位相および時間遅延補正により、究極の効率と出力能力を求めるオーディオファイルをターゲットとしています。

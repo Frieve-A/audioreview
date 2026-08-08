@@ -5,6 +5,7 @@ target_name: "JBL EON One Compact"
 company_id: jbl
 lang: en
 ref: jbl-eon-one-compact
+audiodb_uid: adb-7d071d1c02f1
 date: 2025-12-05
 rating: [4.2, 0.5, 0.9, 1.0, 0.8, 1.0]
 price: 599

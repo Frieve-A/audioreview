@@ -5,6 +5,7 @@ target_name: "iBasso Audio DC04PRO"
 company_id: ibasso-audio
 lang: en
 ref: ibasso-audio-dc04pro
+audiodb_uid: adb-63198cd2a3a7
 date: 2025-09-30
 rating: [4.1, 0.8, 0.7, 1.0, 0.6, 1.0]
 price: 119

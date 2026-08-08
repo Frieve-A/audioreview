@@ -5,6 +5,7 @@ target_name: "MOONDROP Moondrop Chu II"
 company_id: moondrop
 lang: en
 ref: moondrop-chu-ii
+audiodb_uid: adb-b854f8818790
 date: 2026-02-16
 rating: [3.7, 0.6, 0.8, 1.0, 0.4, 0.9]
 price: 19.5

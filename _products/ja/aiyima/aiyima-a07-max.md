@@ -5,6 +5,7 @@ target_name: "AIYIMA A07 MAX"
 company_id: aiyima
 lang: ja
 ref: aiyima-a07-max
+audiodb_uid: adb-bf895dc12032
 date: 2025-07-22
 rating: [2.5, 0.6, 0.4, 0.8, 0.4, 0.3]
 price: 13950

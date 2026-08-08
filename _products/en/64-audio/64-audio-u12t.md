@@ -5,6 +5,7 @@ target_name: "64 Audio U12T"
 company_id: 64-audio
 lang: en
 ref: 64-audio-u12t
+audiodb_uid: adb-abf707253151
 date: 2025-08-25
 rating: [2.5, 0.6, 0.8, 0.1, 0.5, 0.5]
 price: 1999

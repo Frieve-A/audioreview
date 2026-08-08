@@ -5,6 +5,7 @@ target_name: "Sabaj A20D"
 company_id: sabaj
 lang: en
 ref: sabaj-a20d
+audiodb_uid: adb-e809d30bf479
 date: 2025-08-10
 rating: [4.0, 0.9, 0.8, 0.7, 0.6, 1.0]
 price: 420
@@ -12,7 +13,6 @@ summary: "Desktop DAC/headphone amplifier with AK4499EX chip achieving reference
 tags: [DAC, Headphone-Amplifier, Desktop, USB, Bluetooth, MQA, DSD]
 permalink: /products/en/sabaj-a20d/
 ---
-
 ## Overview
 
 The Sabaj A20D is a desktop DAC and headphone amplifier that has evolved through multiple generations, with the current 2023 version featuring AKM's flagship AK4499EX DAC chip paired with AK4191EQ. This all-in-one unit supports high-resolution formats up to PCM 32-bit/768kHz and native DSD512, includes comprehensive connectivity with USB-C, optical, coaxial, and Bluetooth 5.0, and provides both 4.4mm and 6.35mm headphone outputs alongside line outputs via RCA and XLR.

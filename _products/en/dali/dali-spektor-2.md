@@ -5,6 +5,7 @@ target_name: "DALI Spektor 2"
 company_id: dali
 lang: en
 ref: dali-spektor-2
+audiodb_uid: adb-6c1fbe48ac33
 date: 2025-08-07
 rating: [2.7, 0.5, 0.6, 0.3, 0.7, 0.6]
 price: 265

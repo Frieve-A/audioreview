@@ -5,6 +5,7 @@ target_name: "OneOdio Focus A6"
 company_id: oneodio
 lang: ja
 ref: oneodio-focus-a6
+audiodb_uid: adb-092ce09a7997
 date: 2025-11-26
 rating: [2.8, 0.5, 0.6, 0.7, 0.4, 0.6]
 price: 9800

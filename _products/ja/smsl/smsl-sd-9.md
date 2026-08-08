@@ -5,6 +5,7 @@ target_name: "SMSL SD-9"
 company_id: smsl
 lang: ja
 ref: smsl-sd-9
+audiodb_uid: adb-d45ba7407f4d
 date: 2025-08-28
 rating: [2.9, 0.5, 0.4, 1.0, 0.5, 0.5]
 price: 59800
@@ -12,7 +13,6 @@ summary: "I2SとAES/EBUを備える低価格ネットワークトランスポー
 tags: [ネットワークプレイヤー, ストリーミング, デジタルオーディオ, SMSL]
 permalink: /products/ja/smsl-sd-9/
 ---
-
 ## 概要
 
 SMSL SD-9は、ローカル/ネットワーク再生（DLNA/AirPlay）に対応するデジタルトランスポートです。I2S（HDMI）、AES/EBU、同軸、光、USBの各デジタル出力に加え、Bluetooth送受信やHiBy Linkアプリ操作に対応します。メーカー公称ではUSB/I2Sで32-bit/384kHzおよびDSD256、S/PDIFでDoP/D2Pに対応するなど、特にI2SとAES/EBUの併載は価格帯で珍しい特長です。 [2][3]

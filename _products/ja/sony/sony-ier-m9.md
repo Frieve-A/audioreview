@@ -5,6 +5,7 @@ target_name: "Sony IER-M9"
 company_id: sony
 lang: ja
 ref: sony-ier-m9
+audiodb_uid: adb-c59a0a403a4b
 date: 2025-08-07
 rating: [3.2, 0.7, 0.8, 0.3, 0.8, 0.6]
 price: 163900

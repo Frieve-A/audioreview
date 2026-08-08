@@ -5,6 +5,7 @@ target_name: "XUELIN iHiFi 990"
 company_id: xuelin
 lang: ja
 ref: xuelin-ihifi-990
+audiodb_uid: adb-fd1101151157
 date: 2026-02-28
 rating: [2.0, 0.6, 0.3, 0.6, 0.3, 0.2]
 price: 37975

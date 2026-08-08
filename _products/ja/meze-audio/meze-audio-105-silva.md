@@ -5,6 +5,7 @@ target_name: "Meze Audio 105 Silva"
 company_id: meze-audio
 lang: ja
 ref: meze-audio-105-silva
+audiodb_uid: adb-3e8801fddfba
 date: 2025-11-24
 rating: [3.1, 0.6, 0.8, 0.4, 0.7, 0.6]
 price: 74800
@@ -12,7 +13,6 @@ summary: "炭素繊維強化セルロース複合ドライバーとチタンコ�
 tags: [ヘッドホン, オープンバック, ダイナミック, Meze Audio, プレミアム]
 permalink: /products/ja/meze-audio-105-silva/
 ---
-
 ## 概要
 
 Meze Audio 105 Silvaは、炭素繊維強化セルロース複合ドームとPVD（物理蒸着）プロセスによるチタンコーティングを施した50mmダイナミックドライバーを搭載するオープンバック型ヘッドホンです。499ドル（約74,800円）の価格で、ウォルナット材のイヤーカップを採用し、統合型DAC/アンプ付きUSB-Cアダプターが付属しています。本製品は、プレミアム素材と現代のドライバー技術を組み合わせたMeze Audioのアプローチを表し、インピーダンス42Ω、感度112 dB/mWで中高級パーソナルオーディオ市場を対象としています。

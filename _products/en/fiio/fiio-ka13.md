@@ -5,6 +5,7 @@ target_name: "FiiO KA13"
 company_id: fiio
 lang: en
 ref: fiio-ka13
+audiodb_uid: adb-74af04608370
 date: 2025-09-12
 rating: [3.3, 0.8, 0.6, 1.0, 0.4, 0.5]
 price: 79.00

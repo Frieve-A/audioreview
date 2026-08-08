@@ -5,6 +5,7 @@ target_name: "Noble Audio FoKus Apollo"
 company_id: noble-audio
 lang: en
 ref: noble-audio-fokus-apollo
+audiodb_uid: adb-66bcb33e0644
 date: 2025-08-30
 rating: [3.3, 0.5, 0.9, 0.7, 0.7, 0.5]
 price: 649
@@ -12,7 +13,6 @@ summary: "Manufacturer-claimed world-first dynamic + planar hybrid wireless over
 tags: [America, Wireless, ANC, Planar magnetic, Hybrid drivers, Premium]
 permalink: /products/en/noble-audio-fokus-apollo/
 ---
-
 ## Overview
 
 FoKus Apollo is Noble’s first full-size wireless headphone, pairing a **40 mm dynamic** driver with a **14.5 mm planar magnetic** unit in a hybrid dual-driver array (claimed first of its kind). It supports **LDAC/aptX/aptX HD/AAC**, **Bluetooth 5.3** with multipoint, **hybrid ANC** using three microphones per side (up to **−35 dB** claimed), and delivers **up to 80 hours (ANC off) / 60 hours (ANC on)** of playtime. A detachable boom mic and extensive wired options (3.5 mm plus 4.4/6.3 mm adapters) are included. MSRP is **649 USD**.[1]

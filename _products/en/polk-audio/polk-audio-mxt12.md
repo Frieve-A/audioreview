@@ -5,6 +5,7 @@ target_name: "Polk Audio Monitor XT12"
 company_id: polk-audio
 lang: en
 ref: polk-audio-mxt12
+audiodb_uid: adb-6e23c06ed74d
 date: 2025-07-23
 rating: [2.4, 0.4, 0.3, 0.6, 0.6, 0.5]
 price: 299

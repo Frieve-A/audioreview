@@ -5,6 +5,7 @@ target_name: "Airpulse SW8"
 company_id: airpulse
 lang: ja
 ref: airpulse-sw8
+audiodb_uid: adb-9110d45c6fc0
 date: 2025-08-12
 rating: [2.7, 0.5, 0.5, 0.6, 0.6, 0.5]
 price: 82500

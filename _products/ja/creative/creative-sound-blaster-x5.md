@@ -5,6 +5,7 @@ target_name: "Creative Sound Blaster X5"
 company_id: creative
 lang: ja
 ref: creative-sound-blaster-x5
+audiodb_uid: adb-bd8215329eb4
 date: 2025-09-15
 rating: [3.1, 0.8, 0.6, 0.7, 0.4, 0.6]
 price: 45000
@@ -12,7 +13,6 @@ summary: "デュアルCS43198 DAC搭載の外付けUSB DAC/アンプ。優秀な
 tags: [DAC, ヘッドホンアンプ, USB Audio, ゲーミングオーディオ, DSP]
 permalink: /products/ja/creative-sound-blaster-x5/
 ---
-
 ## 概要
 
 Creative Sound Blaster X5は、デュアルCirrus Logic CS43198 DACとCreative独自のXampバイアンプ設計を採用した外付けUSB DAC/ヘッドホンアンプです。Creativeのフラッグシップ外付けオーディオソリューションとして発売され、ゲーミング愛好家とオーディオファイルの両方をターゲットとし、USB-C、光入出力、RCA接続、Bluetooth 5.0を含む包括的な接続オプションを提供します。32bit/384kHz PCMおよびDSD256までのハイレゾ音源に対応し、10バンドEQやScout Modeなどの競技ゲーミング向けDSP機能を搭載しています。

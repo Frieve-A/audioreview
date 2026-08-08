@@ -5,6 +5,7 @@ target_name: "Sonicake Sonic Cube II"
 company_id: sonicake
 lang: ja
 ref: sonicake-sonic-cube-ii
+audiodb_uid: adb-f5372b8844a7
 date: 2025-08-09
 rating: [2.2, 0.5, 0.3, 1.0, 0.2, 0.2]
 price: 8800
@@ -12,7 +13,6 @@ summary: "Sonicake Sonic Cube II（QAI-22）は8,800円（約69 USD）の2チャ
 tags: [オーディオインターフェース, USB接続, ファンタム電源, 2チャンネル, デジタルモデリング]
 permalink: /products/ja/sonicake-sonic-cube-ii/
 ---
-
 ## 概要
 
 Sonicake Sonic Cube II（QAI-22）は、2025年にリリースされた2チャンネルUSBオーディオインターフェースです。市場価格は8,800円（約69 USD）で、メーカー公称で24bit/48kHzサンプリング、+48Vファンタム電源、デジタルモデリング機能を備えます[1][2]。USB Type-C接続でWindows/Macに対応し、MIC 1はコンボ入力（最大入力ゲイン50dB）、LINE/INST 2は6.35mm TRS（ゲイン範囲-25dB〜+25dB）、重量320g、寸法143.5×95.8×43.5mmとされています[1][2]。一方で、第三者レビューでは16bit固定の報告もあり、仕様の解釈には注意が必要です[3]。

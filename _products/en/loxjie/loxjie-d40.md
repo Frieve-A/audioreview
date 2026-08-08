@@ -5,6 +5,7 @@ target_name: "Loxjie D40"
 company_id: loxjie
 lang: en
 ref: loxjie-d40
+audiodb_uid: adb-bd9dd9ff9885
 date: 2025-08-24
 rating: [3.6, 0.8, 0.6, 0.7, 0.7, 0.8]
 price: 430
@@ -12,7 +13,6 @@ summary: "Desktop DAC/headphone amplifier combo featuring dual ESS ES9068AS DAC 
 tags: [DAC, Headphone-Amplifier, Desktop, ESS-Sabre, MQA, Bluetooth, USB]
 permalink: /products/en/loxjie-d40/
 ---
-
 ## Overview
 
 The Loxjie D40 is a desktop DAC and headphone amplifier featuring dual ESS ES9068AS in a balanced topology with USB/coax/optical inputs and LDAC-capable Bluetooth. It supports PCM up to 32-bit/768kHz, DSD512, and full MQA decoding[4][5]. It targets users seeking a one-box solution for hi-res playback and headphone driving.

@@ -5,6 +5,7 @@ target_name: "HiFiMAN Ananda Unveiled"
 company_id: hifiman
 lang: ja
 ref: hifiman-ananda-unveiled
+audiodb_uid: adb-498996046fc3
 date: 2025-10-22
 rating: [3.5, 0.6, 0.8, 0.5, 0.7, 0.9]
 price: 82740
@@ -12,7 +13,6 @@ summary: "直接音響経路を実現する革新的な「Unveiled」デザイ�
 tags: [ヘッドホン, 平面磁界, オープンバック, HiFiMAN, NEOスーパーナノ, Unveiledデザイン]
 permalink: /products/ja/hifiman-ananda-unveiled/
 ---
-
 ## 概要
 
 HiFiMAN Ananda Unveiledは、オープンバック平面磁界ヘッドホンの革新的なアプローチを示しており、同社のNEOスーパーナノダイアフラムGen-2技術を搭載しています。特徴的な「Unveiled」デザインは従来のグリル構造を除去して直接音響経路を作り出し、HiFiMANの確立された平面磁界ラインアップにおける技術的進歩として位置づけられています。5Hz-55kHzの周波数応答と93dBの高い感度を持ち、先進的なドライバー技術による透明な音響再生を求めるオーディオファイルをターゲットとしています。

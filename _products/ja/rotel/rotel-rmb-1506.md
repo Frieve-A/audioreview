@@ -5,6 +5,7 @@ target_name: "Rotel RMB-1506"
 company_id: rotel
 lang: ja
 ref: rotel-rmb-1506
+audiodb_uid: adb-ed9f08b56d5c
 date: 2025-07-28
 rating: [3.4, 0.7, 0.5, 0.6, 1.0, 0.6]
 price: 94800

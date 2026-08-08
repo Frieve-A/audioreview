@@ -5,6 +5,7 @@ target_name: "AKG K612 Pro"
 company_id: akg
 lang: en
 ref: akg-k612-pro
+audiodb_uid: adb-2a5db760da5c
 date: 2026-03-15
 rating: [2.9, 0.7, 0.5, 0.6, 0.5, 0.6]
 price: 189
@@ -12,7 +13,6 @@ summary: "Professional reference studio headphones featuring Varimotion diaphrag
 tags: [Headphones, Studio, Professional, Open-back, Reference]
 permalink: /products/en/akg-k612-pro/
 ---
-
 ## Overview
 
 The AKG K612 Pro represents the company's entry-level professional reference monitoring headphones, launched in 2013 as part of AKG's studio lineup. These open-back over-ear headphones feature the company's patented Varimotion diaphragm technology and target professional monitoring applications. AKG, founded in 1947 by physicist Rudolf Görike and engineer Ernst Pless, has maintained a scientific approach to audio engineering. The K612 Pro shares core acoustic technology with higher-end models like the K701/K702 but employs cost-optimized construction including plastic housing and non-detachable cable. Currently priced at approximately 189 USD, the headphones compete in the professional monitoring segment against products from Sennheiser, Audio-Technica, and other established manufacturers.

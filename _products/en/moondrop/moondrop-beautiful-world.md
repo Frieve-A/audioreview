@@ -5,6 +5,7 @@ target_name: "MOONDROP Beautiful World"
 company_id: moondrop
 lang: en
 ref: moondrop-beautiful-world
+audiodb_uid: adb-c9c3577826c1
 date: 2025-09-11
 rating: [2.2, 0.4, 0.6, 0.2, 0.4, 0.6]
 price: 777

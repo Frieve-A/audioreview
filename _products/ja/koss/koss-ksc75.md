@@ -5,6 +5,7 @@ target_name: "Koss KSC75"
 company_id: koss
 lang: ja
 ref: koss-ksc75
+audiodb_uid: adb-ebe06082c59a
 date: 2025-08-16
 rating: [3.5, 0.5, 0.4, 1.0, 0.7, 0.9]
 price: 3680
@@ -12,7 +13,6 @@ summary: "チタンコーティング振動板による中域の透明度と開�
 tags: [クリップオン, オープンバック, 低価格, ポータブル, オンイヤー]
 permalink: /products/ja/koss-ksc75/
 ---
-
 ## 概要
 
 Koss KSC75は、オープンバック構造と**2 µmチタンコーティング振動板**を採用した軽量クリップオン型ヘッドホンです（公称 15–25,000 Hz／60Ω／101 dB、THD <0.2%）。外音取り込みや軽快な装着感を重視する用途に向きます［参考：公式製品ページ］。

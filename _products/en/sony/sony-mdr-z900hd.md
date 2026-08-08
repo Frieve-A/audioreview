@@ -5,6 +5,7 @@ target_name: "Sony MDR-Z900HD"
 company_id: sony
 lang: en
 ref: sony-mdr-z900hd
+audiodb_uid: adb-16cdec16b1a8
 date: 2025-10-28
 rating: [3.0, 0.7, 0.4, 0.8, 0.6, 0.5]
 price: 200

@@ -5,6 +5,7 @@ target_name: "Pioneer TS-WX010A"
 company_id: pioneer
 lang: en
 ref: pioneer-ts-wx010a
+audiodb_uid: adb-8a258d5b4714
 date: 2025-09-09
 rating: [2.2, 0.5, 0.4, 0.4, 0.4, 0.5]
 price: 340

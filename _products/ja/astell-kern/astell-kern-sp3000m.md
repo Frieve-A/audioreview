@@ -5,6 +5,7 @@ target_name: "Astell&Kern SP3000M"
 company_id: astell-kern
 lang: ja
 ref: astell-kern-sp3000m
+audiodb_uid: adb-b69d7251049c
 date: 2025-08-21
 rating: [2.7, 0.7, 0.8, 0.1, 0.7, 0.4]
 price: 359800

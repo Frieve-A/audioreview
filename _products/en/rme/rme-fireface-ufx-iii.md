@@ -5,6 +5,7 @@ target_name: "RME Fireface UFX III"
 company_id: rme
 lang: en
 ref: rme-fireface-ufx-iii
+audiodb_uid: adb-563ff7e90365
 date: 2025-08-14
 rating: [4.4, 0.9, 0.8, 1.0, 0.8, 0.9]
 price: 3199

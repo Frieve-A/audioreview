@@ -5,6 +5,7 @@ target_name: "McIntosh MC300"
 company_id: mcintosh
 lang: ja
 ref: mcintosh-mc300
+audiodb_uid: adb-eceec95c41ea
 date: 2025-08-31
 rating: [2.3, 0.5, 0.4, 0.3, 0.7, 0.4]
 price: 471750
@@ -12,7 +13,6 @@ summary: "1995〜1998年製のレガシーな300W×2パワーアンプ。客観�
 tags: [パワーアンプ, ソリッドステート, McIntosh, レガシー, 300W]
 permalink: /products/ja/mcintosh-mc300/
 ---
-
 ## 概要
 
 McIntosh MC300は1995年から1998年に製造されたソリッドステート・パワーアンプです。McIntoshのオートフォーマーにより2/4/8オームいずれでも定格300W×2を維持し、モノラル・ブリッジでは600Wを出力します。青色メーターや堅牢な筐体などブランドの意匠を備え、当時の実売は約4,000 USDでした。現在は中古流通が中心で、最新機種と比べると実用価値よりもヘリテージ性が前面に出る立ち位置です。 [1][2][9]

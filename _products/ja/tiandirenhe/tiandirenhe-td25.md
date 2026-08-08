@@ -5,6 +5,7 @@ target_name: "Tiandirenhe TD25"
 company_id: tiandirenhe
 lang: ja
 ref: tiandirenhe-td25
+audiodb_uid: adb-3958d80d5dea
 date: 2026-05-23
 rating: [2.1, 0.5, 0.1, 0.8, 0.4, 0.3]
 price: 4030

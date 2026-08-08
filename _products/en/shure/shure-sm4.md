@@ -5,6 +5,7 @@ target_name: "Shure SM4"
 company_id: shure
 lang: en
 ref: shure-sm4
+audiodb_uid: adb-b4f667ce451c
 date: 2025-11-14
 rating: [3.7, 0.6, 0.8, 0.7, 0.8, 0.8]
 price: 219
@@ -12,7 +13,6 @@ summary: "The SM4 is a large-diaphragm condenser microphone featuring patent-pen
 tags: [Condenser, Home Recording, Microphones, Shure, Studio]
 permalink: /products/en/shure-sm4/
 ---
-
 ## Overview
 
 The Shure SM4 is a large-diaphragm condenser microphone specifically engineered for home and studio recording applications. Featuring a 1-inch brass dual-diaphragm capsule and patent-pending RF interference shielding technology, it targets musicians, engineers, and creators who require professional recording capabilities. The microphone incorporates an internal pop filter, cardioid polar pattern, and operates with 48V phantom power through a 3-pin XLR connection.

@@ -5,6 +5,7 @@ target_name: "Audeze MM-500"
 company_id: audeze
 lang: ja
 ref: audeze-mm-500
+audiodb_uid: adb-6ed53fd4f60e
 date: 2025-10-26
 rating: [3.3, 0.4, 1.0, 0.2, 1.0, 0.7]
 price: 255000
@@ -12,7 +13,6 @@ summary: "最先端技術を搭載したプロ用平面磁界型ヘッドホン�
 tags: [ヘッドホン, 平面磁界型, プロフェッショナル, スタジオ, オープンバック]
 permalink: /products/ja/audeze-mm-500/
 ---
-
 ## 概要
 
 Audeze MM-500は、14回のグラミー賞受賞者であるManny Marroquinとのコラボレーションで設計されたプロフェッショナルスタジオモニタリングヘッドホンです。Audezeの独自技術である90mm平面磁界型ドライバーにFluxorマグネットアレイとUniforceDiaphragm技術を搭載し、プロフェッショナルなミキシングおよびマスタリングアプリケーションでの正確な音響再生を目指しています。重量495g、インピーダンス18オーム、感度100dB/1mWを持つMM-500は、AudezeのフラッグシップモデルであるLCDシリーズに比べて軽量で効率的な代替品としてポジショニングされており、プロフェッショナルグレードの性能基準を維持しています。

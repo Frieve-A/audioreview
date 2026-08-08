@@ -5,6 +5,7 @@ target_name: "Polk Audio Reserve R100"
 company_id: polk-audio
 lang: en
 ref: polk-audio-reserve-r100
+audiodb_uid: adb-171a9a69d12f
 date: 2025-07-31
 rating: [3.6, 0.6, 0.6, 1.0, 0.7, 0.7]
 price: 599

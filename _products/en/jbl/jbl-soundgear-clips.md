@@ -5,6 +5,7 @@ target_name: "JBL Soundgear Clips"
 company_id: jbl
 lang: en
 ref: jbl-soundgear-clips
+audiodb_uid: adb-989fb7ad216a
 date: 2025-11-24
 rating: [3.1, 0.5, 0.8, 0.7, 0.5, 0.6]
 price: 150
@@ -12,7 +13,6 @@ summary: "Open-ear true wireless earphones with proprietary JBL OpenSound techno
 tags: [JBL, Earphones, Open-ear, True wireless, Bluetooth]
 permalink: /products/en/jbl-soundgear-clips/
 ---
-
 ## Overview
 
 The JBL Soundgear Clips are true wireless open-ear earphones featuring JBL's proprietary OpenSound technology with SonicArc design for enhanced bass performance and minimal sound leakage. Released in August 2025 with official pricing of 129.99 EUR (approximately 150 USD at current exchange rates), they offer 8-hour battery life with 24 additional hours from the charging case, IP54 water resistance, and 4-microphone beamforming for calls. The clip-on design uses 11mm dynamic drivers with Adaptive Bass Boost algorithm and AI-trained environmental noise reduction. Founded in 1946, JBL brings over 75 years of audio engineering experience to this contemporary open-ear solution.

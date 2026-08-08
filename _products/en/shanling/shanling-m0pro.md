@@ -5,6 +5,7 @@ target_name: "Shanling M0 Pro"
 company_id: shanling
 lang: en
 ref: shanling-m0pro
+audiodb_uid: adb-0be94f13712f
 date: 2025-12-26
 rating: [3.9, 0.8, 0.6, 1.0, 0.7, 0.8]
 price: 129

@@ -5,6 +5,7 @@ target_name: "Moondrop Aria 2"
 company_id: moondrop
 lang: en
 ref: moondrop-aria-2
+audiodb_uid: adb-6bfd5ad9bf0a
 date: 2025-09-03
 rating: [2.4, 0.5, 0.6, 0.6, 0.4, 0.3]
 price: 89

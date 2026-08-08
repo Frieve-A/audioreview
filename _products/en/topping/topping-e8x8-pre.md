@@ -5,6 +5,7 @@ target_name: "Topping E8x8 Pre"
 company_id: topping
 lang: en
 ref: topping-e8x8-pre
+audiodb_uid: adb-e8376f708393
 date: 2025-07-19
 rating: [3.7, 0.8, 0.8, 1.0, 0.3, 0.8]
 price: 449

@@ -5,6 +5,7 @@ target_name: "Bowers & Wilkins 607 S3"
 company_id: bowers-wilkins
 lang: en
 ref: bowers-wilkins-607-s3
+audiodb_uid: adb-b2f53ed8d63a
 date: 2025-07-08
 rating: [3.5, 0.8, 0.7, 0.4, 0.8, 0.8]
 price: 750

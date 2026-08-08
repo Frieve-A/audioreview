@@ -5,6 +5,7 @@ target_name: "Moondrop Robin"
 company_id: moondrop
 lang: ja
 ref: moondrop-robin
+audiodb_uid: adb-59b88662c2c3
 date: 2025-08-21
 rating: [3.5, 0.5, 0.7, 1.0, 0.5, 0.8]
 price: 15210

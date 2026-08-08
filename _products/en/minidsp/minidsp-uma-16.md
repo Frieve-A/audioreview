@@ -5,6 +5,7 @@ target_name: "MiniDSP UMA-16"
 company_id: minidsp
 lang: en
 ref: minidsp-uma-16
+audiodb_uid: adb-09b18f5553f3
 date: 2025-09-08
 rating: [2.9, 0.2, 0.6, 1.0, 0.4, 0.7]
 price: 275
@@ -12,7 +13,6 @@ summary: "16-channel USB microphone array for beamforming development with poor 
 tags: [Microphone Array, USB Audio, MEMS, Beamforming, Development Tools]
 permalink: /products/en/minidsp-uma-16/
 ---
-
 ## Overview
 
 The MiniDSP UMA-16 v2 is a specialized 16-channel USB microphone array designed for beamforming algorithm development and acoustic camera applications. Featuring 16 Knowles SPH1668LM4H MEMS microphones arranged in a uniform rectangular array (URA), the device targets researchers and developers working on multichannel audio processing. The system includes an XMOS XCORE interface for PDM to PCM conversion and provides raw, unprocessed multichannel audio data through USB connectivity with ASIO driver support.

@@ -5,6 +5,7 @@ target_name: "miniDSP Flex HT"
 company_id: minidsp
 lang: en
 ref: minidsp-flex-ht
+audiodb_uid: adb-0404d86f4622
 date: 2025-09-07
 rating: [3.9, 0.9, 0.7, 1.0, 0.5, 0.8]
 price: 599
@@ -12,7 +13,6 @@ summary: "8-channel DSP processor with excellent measured performance; strong va
 tags: [DSP, Audio Processor, Home Theater, multichannel, eARC, HDMI]
 permalink: /products/en/minidsp-flex-ht/
 ---
-
 ## Overview
 
 The miniDSP Flex HT is an 8-channel input/output digital signal processor for home theater and multichannel applications. It provides HDMI eARC linear-PCM input, multichannel USB audio, and a full suite of DSP features including bass management, parametric EQ, crossovers, and flexible routing. Built on a 32-bit floating-point 400 MHz Analog Devices SHARC DSP, the Flex HT emphasizes **low noise and distortion** with **SNR 125 dB(A)** and **THD+N −111 dB (0.0003%)** as specified by the manufacturer. Priced at **599 USD**, it targets users needing transparent multichannel processing with optional Dirac Live integration.

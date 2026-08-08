@@ -5,6 +5,7 @@ target_name: "George Massenburg Labs GML 8200"
 company_id: george-massenburg-labs
 lang: ja
 ref: george-massenburg-labs-gml-8200
+audiodb_uid: adb-ef4c490a7695
 date: 2025-11-03
 rating: [3.5, 0.5, 0.8, 1.0, 0.8, 0.4]
 price: 1637745

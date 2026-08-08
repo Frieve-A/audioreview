@@ -5,6 +5,7 @@ target_name: "Audient iD44 MkII"
 company_id: audient
 lang: ja
 ref: audient-id44mkii
+audiodb_uid: adb-c4cec2f46e91
 date: 2025-12-30
 rating: [4.6, 0.8, 1.0, 1.0, 0.8, 1.0]
 price: 92000

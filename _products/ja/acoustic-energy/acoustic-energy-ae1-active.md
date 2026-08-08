@@ -5,6 +5,7 @@ target_name: "Acoustic Energy AE1 Active"
 company_id: acoustic-energy
 lang: ja
 ref: acoustic-energy-ae1-active
+audiodb_uid: adb-5c00357c2736
 date: 2025-08-21
 rating: [2.8, 0.6, 0.6, 0.3, 0.7, 0.6]
 price: 320000
@@ -12,7 +13,6 @@ summary: "セラミックコーンとアルミドームを採用したアクテ�
 tags: [アクティブ, モニター, イギリス, セラミック, バイアンプ]
 permalink: /products/ja/acoustic-energy-ae1-active/
 ---
-
 ## 概要
 
 AE1 Activeは2017年登場の2ウェイ・アクティブ小型スピーカーです。125 mmセラミック硬質アルマイト・アルミコーンと**25 mm**アルミドーム（WDTウェーブガイド）を採用し、各スピーカーは**50 W×2**のClass A/Bで完全バイアンプ駆動です。筐体は300×185×250 mm（H×W×D）、重量はペア18 kg。接続はアナログ専用でXLR/RCA、低域/高域±2 dBトリムとボリュームを備えます。仕上げはピアノブラック／ピアノホワイト／ピアノウォールナット。家庭用とスタジオの双方での使用を想定しています。 [1][2]

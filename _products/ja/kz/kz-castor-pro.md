@@ -5,6 +5,7 @@ target_name: "KZ Castor Pro"
 company_id: kz
 lang: ja
 ref: kz-castor-pro
+audiodb_uid: adb-3b9cdaad3d13
 date: 2025-08-17
 rating: [2.7, 0.5, 0.6, 0.7, 0.5, 0.4]
 price: 4500

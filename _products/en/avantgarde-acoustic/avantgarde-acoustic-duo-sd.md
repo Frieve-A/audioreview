@@ -5,6 +5,7 @@ target_name: "Avantgarde Acoustic Duo SD"
 company_id: avantgarde-acoustic
 lang: en
 ref: avantgarde-acoustic-duo-sd
+audiodb_uid: adb-a5404101770a
 date: 2025-10-20
 rating: [3.7, 0.7, 0.9, 0.3, 0.9, 0.9]
 price: 65350

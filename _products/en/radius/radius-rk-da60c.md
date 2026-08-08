@@ -5,6 +5,7 @@ target_name: "Radius RK-DA60C"
 company_id: radius
 lang: en
 ref: radius-rk-da60c
+audiodb_uid: adb-6dd3095464bc
 date: 2025-08-28
 rating: [2.5, 0.7, 0.5, 0.5, 0.4, 0.4]
 price: 59

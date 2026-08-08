@@ -5,6 +5,7 @@ target_name: "Tangzu FUDU VERSE 1"
 company_id: tangzu
 lang: ja
 ref: tangzu-fudu-verse-1
+audiodb_uid: adb-0642322b8ded
 date: 2025-11-24
 rating: [1.7, 0.4, 0.5, 0.2, 0.4, 0.2]
 price: 13500

@@ -5,6 +5,7 @@ target_name: "iFi Audio Zen One Signature"
 company_id: ifi-audio
 lang: en
 ref: ifi-audio-zen-one-signature
+audiodb_uid: adb-c5f6ef570ddb
 date: 2025-08-04
 rating: [2.9, 0.8, 0.6, 0.4, 0.5, 0.6]
 price: 349

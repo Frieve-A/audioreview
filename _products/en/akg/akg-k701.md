@@ -5,6 +5,7 @@ target_name: "AKG K701"
 company_id: akg
 lang: en
 ref: akg-k701
+audiodb_uid: adb-c1ef992db87f
 date: 2025-07-14
 rating: [2.5, 0.4, 0.6, 0.8, 0.3, 0.4]
 price: 140

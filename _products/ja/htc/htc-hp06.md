@@ -5,6 +5,7 @@ target_name: "HTC HP06"
 company_id: htc
 lang: ja
 ref: htc-hp06
+audiodb_uid: adb-181b47cbb9f4
 date: 2025-10-23
 rating: [3.5, 0.5, 0.7, 1.0, 0.7, 0.6]
 price: 3065

@@ -5,6 +5,7 @@ target_name: "Topping D90 III Discrete"
 company_id: topping
 lang: en
 ref: topping-d90-iii-discrete
+audiodb_uid: adb-6ca39ca074cf
 date: 2025-08-29
 rating: [3.4, 0.9, 0.8, 0.5, 0.6, 0.6]
 price: 999

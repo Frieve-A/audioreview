@@ -5,6 +5,7 @@ target_name: "ADAM Audio T8V"
 company_id: adam-audio
 lang: ja
 ref: adam-audio-t8v
+audiodb_uid: adb-814158196e9d
 date: 2025-08-09
 rating: [3.5, 0.7, 0.6, 0.8, 0.7, 0.7]
 price: 44850
@@ -12,7 +13,6 @@ summary: "ADAM Audio T8Vは8インチウーファーとU-ARTリボンツイー�
 tags: [StudioMonitor, Adam, NearfieldMonitor, RibbonTweeter, 8inch]
 permalink: /products/ja/adam-audio-t8v/
 ---
-
 ## 概要
 
 ADAM Audio T8Vは、ドイツのスタジオモニター専門メーカーであるADAM Audioが2020年にリリースした8インチアクティブニアフィールドモニターです。同社の上位機種で使用されているU-ARTアクセラレーテッドリボンツイーターを299 USDという手頃な価格帯で提供し、プロフェッショナルレベルの音響性能をホームスタジオやセミプロ環境に普及させることを目的として開発されました。8インチポリプロピレンウーファーと組み合わせることで、33Hz～25kHzの広帯域再生と最大SPL 118dB（ペア、1m）の高出力を実現しています。

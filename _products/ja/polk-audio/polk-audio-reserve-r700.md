@@ -5,6 +5,7 @@ target_name: "Polk Audio Reserve R700"
 company_id: polk-audio
 lang: ja
 ref: polk-audio-reserve-r700
+audiodb_uid: adb-167e2efd0510
 date: 2026-02-25
 rating: [4.3, 0.7, 0.8, 1.0, 0.8, 1.0]
 price: 358500

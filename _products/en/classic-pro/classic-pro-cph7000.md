@@ -5,6 +5,7 @@ target_name: "Classic Pro CPH7000"
 company_id: classic-pro
 lang: en
 ref: classic-pro-cph7000
+audiodb_uid: adb-61df49ad78a6
 date: 2025-08-29
 rating: [3.3, 0.6, 0.4, 1.0, 0.6, 0.7]
 price: 40
@@ -12,7 +13,6 @@ summary: "Budget closed-back monitor headphones tuned toward Harman Target with 
 tags: [Headphones, Monitor, Studio, Budget, Closed-back]
 permalink: /products/en/classic-pro-cph7000/
 ---
-
 ## Overview
 
 The Classic Pro CPH7000 is a closed-back monitor headphone sold under Sound House’s in-house **Classic Pro** brand [5]. It uses 40 mm neodymium dynamic drivers and a one-sided OFC cable, with 180° swivel cups for single-ear monitoring. As of the review date, the current market price is **40 USD** (Japan: **5,980円**) [2]. A measurement-oriented blog reports tuning broadly aligned with the Harman Target OE curve (with deviations mainly in lower mids to bass) [1], positioning the CPH7000 as an ultra-low-cost entry to measurement-guided studio monitoring.

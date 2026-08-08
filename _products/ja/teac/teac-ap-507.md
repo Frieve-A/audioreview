@@ -5,6 +5,7 @@ target_name: "TEAC AP-507"
 company_id: teac
 lang: ja
 ref: teac-ap-507
+audiodb_uid: adb-1fdd84578aa1
 date: 2025-09-05
 rating: [2.5, 0.7, 0.4, 0.4, 0.6, 0.4]
 price: 345370

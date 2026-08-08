@@ -5,6 +5,7 @@ target_name: "Sennheiser HD 800 S"
 company_id: sennheiser
 lang: en
 ref: sennheiser-hd-800-s
+audiodb_uid: adb-c26555d38f12
 date: 2025-07-18
 rating: [2.8, 0.8, 0.7, 0.1, 0.6, 0.6]
 price: 1799
@@ -12,7 +13,6 @@ summary: "The Sennheiser HD 800 S is a legendary open-back headphone with an inn
 tags: [Headphones, Open-back, Dynamic, Reference, High-end]
 permalink: /products/en/sennheiser-hd-800-s/
 ---
-
 ## Overview
 
 The Sennheiser HD 800 S is a flagship open-back headphone released by German audio manufacturer Sennheiser in 2015. It features a 56mm ring radiator dynamic driver and a high impedance design of 300Ω, requiring high-quality headphone amplifiers for optimal performance. With specifications including a weight of 330g and frequency response of 4-51,000Hz, it is positioned as a reference-grade product. As a product carrying the history and tradition of the Sennheiser brand, it has garnered attention from many audiophiles.

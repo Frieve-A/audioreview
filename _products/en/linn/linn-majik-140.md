@@ -5,6 +5,7 @@ target_name: "Linn Majik 140"
 company_id: linn
 lang: en
 ref: linn-majik-140
+audiodb_uid: adb-9989fa9afd53
 date: 2025-08-24
 rating: [2.5, 0.6, 0.5, 0.5, 0.7, 0.2]
 price: 2995

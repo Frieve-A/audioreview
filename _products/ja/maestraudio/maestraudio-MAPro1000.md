@@ -5,6 +5,7 @@ target_name: "Maestraudio MAPro1000"
 company_id: maestraudio
 lang: ja
 ref: maestraudio-mapro1000
+audiodb_uid: adb-4ea42aab1024
 date: 2026-01-07
 rating: [2.4, 0.5, 0.5, 0.4, 0.6, 0.4]
 price: 21900

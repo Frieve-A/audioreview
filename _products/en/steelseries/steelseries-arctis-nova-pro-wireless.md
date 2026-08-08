@@ -5,6 +5,7 @@ target_name: "SteelSeries Arctis Nova Pro Wireless"
 company_id: steelseries
 lang: en
 ref: steelseries-arctis-nova-pro-wireless
+audiodb_uid: adb-b805945b8d4f
 date: 2025-09-13
 rating: [3.6, 0.3, 0.7, 1.0, 0.6, 1.0]
 price: 349

@@ -5,6 +5,7 @@ target_name: "TOPPING L30 II"
 company_id: topping
 lang: en
 ref: topping-l30-ii
+audiodb_uid: adb-8d66d0202425
 date: 2025-10-31
 rating: [4.1, 0.9, 0.8, 1.0, 0.5, 0.9]
 price: 149

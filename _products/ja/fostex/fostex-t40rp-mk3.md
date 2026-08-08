@@ -5,6 +5,7 @@ target_name: "Fostex T40RP-MK3"
 company_id: fostex
 lang: ja
 ref: fostex-t40rp-mk3
+audiodb_uid: adb-1040a4026ebf
 date: 2025-09-26
 rating: [3.3, 0.8, 0.6, 0.6, 0.6, 0.7]
 price: 25600
@@ -12,7 +13,6 @@ summary: "独自のRP技術を採用したプロ仕様密閉型平面磁界ヘ�
 tags: [ヘッドホン, 平面磁界, 密閉型, プロフェッショナル, スタジオ]
 permalink: /products/ja/fostex-t40rp-mk3/
 ---
-
 ## 概要
 
 Fostex T40RP-MK3は、30年以上にわたって開発された独自のRegular Phase (RP) 技術を採用したプロ仕様密閉型平面磁界ヘッドホンの第3世代モデルです。銅箔エッチングポリイミドフィルムドライバーにネオジム磁石を組み合わせ、「Focused Bass」再生に重点を置いたプロスタジオモニタリング用途向けに設計されています。MK3アップデートでは、Fostexの業界における地位を確立したコアRP技術を維持しながら、ヘッドバンド設計とチューニングに微細な改良が施されています。

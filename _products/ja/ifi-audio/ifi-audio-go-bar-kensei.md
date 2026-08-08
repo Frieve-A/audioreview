@@ -5,6 +5,7 @@ target_name: "iFi Audio GO Bar Kensei"
 company_id: ifi-audio
 lang: ja
 ref: ifi-audio-go-bar-kensei
+audiodb_uid: adb-2aa570bda5ab
 date: 2025-10-18
 rating: [3.1, 0.7, 0.8, 0.3, 0.7, 0.6]
 price: 68000

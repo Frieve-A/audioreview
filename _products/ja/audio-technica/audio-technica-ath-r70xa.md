@@ -5,6 +5,7 @@ target_name: "Audio-Technica ATH-R70xa"
 company_id: audio-technica
 lang: ja
 ref: audio-technica-ath-r70xa
+audiodb_uid: adb-d2cd900f2308
 date: 2025-07-12
 rating: [3.6, 0.8, 0.7, 0.5, 0.8, 0.8]
 price: 52350

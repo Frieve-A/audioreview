@@ -5,6 +5,7 @@ target_name: "HUAWEI FreeBuds SE 4 ANC"
 company_id: huawei
 lang: ja
 ref: huawei-freebuds-se-4-anc
+audiodb_uid: adb-112e260ba5fb
 date: 2025-10-18
 rating: [3.0, 0.5, 0.7, 0.4, 0.8, 0.6]
 price: 12000

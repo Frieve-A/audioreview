@@ -5,6 +5,7 @@ target_name: "Fosi Audio ZD3"
 company_id: fosi-audio
 lang: ja
 ref: fosi-audio-zd3
+audiodb_uid: adb-551da910c053
 date: 2025-08-23
 rating: [3.7, 0.8, 0.6, 1.0, 0.5, 0.8]
 price: 25499

@@ -5,6 +5,7 @@ target_name: "Beat-Sonic TOON-X"
 company_id: beat-sonic
 lang: en
 ref: beat-sonic-toon-x
+audiodb_uid: adb-63833a862f6e
 date: 2025-07-30
 rating: [3.2, 0.8, 0.5, 0.4, 0.7, 0.8]
 price: 352

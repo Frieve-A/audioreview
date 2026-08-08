@@ -5,6 +5,7 @@ target_name: "YAMAHA TT-S303"
 company_id: yamaha
 lang: en
 ref: yamaha-tt-s303
+audiodb_uid: adb-468a1939ebef
 date: 2025-07-07
 rating: [1.5, 0.2, 0.5, 0.1, 0.5, 0.2]
 price: 332
@@ -12,7 +13,6 @@ summary: "A belt-drive turntable released in 2018. The measured wow and flutter 
 tags: [Japan, Belt-drive, Turntable, Analog, Record-player]
 permalink: /products/en/yamaha-tt-s303/
 ---
-
 ## Overview
 
 The YAMAHA TT-S303 is a belt-drive turntable released in 2018 with a suggested retail price of 433 USD (tax included). It features a cabinet made from high-density MDF material and a 30cm aluminum die-cast turntable with a straight tonearm. The design is characterized by an authentic appearance with gloss coating and includes a built-in phono equalizer amplifier. However, the basic performance specification of 0.20% wow and flutter is clearly inferior when viewed from modern high-fidelity reproduction standards.

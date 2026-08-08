@@ -5,6 +5,7 @@ target_name: "Truthear Nova"
 company_id: truthear
 lang: ja
 ref: truthear-nova
+audiodb_uid: adb-177a6c5c82d9
 date: 2025-09-02
 rating: [2.8, 0.7, 0.6, 0.4, 0.5, 0.6]
 price: 22350

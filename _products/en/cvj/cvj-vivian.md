@@ -5,6 +5,7 @@ target_name: "CVJ Vivian"
 company_id: cvj
 lang: en
 ref: cvj-vivian
+audiodb_uid: adb-d60d18c71375
 date: 2025-11-22
 rating: [2.6, 0.5, 0.2, 1.0, 0.5, 0.4]
 price: 18.81

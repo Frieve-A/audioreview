@@ -5,6 +5,7 @@ target_name: "Pioneer Private XDP-20"
 company_id: pioneer
 lang: en
 ref: pioneer-private-xdp-20
+audiodb_uid: adb-302a3af2eb4c
 date: 2025-09-24
 rating: [2.2, 0.7, 0.3, 0.8, 0.3, 0.1]
 price: 299.99

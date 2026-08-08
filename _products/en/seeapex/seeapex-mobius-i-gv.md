@@ -5,6 +5,7 @@ target_name: "SeeApex Mobius i GV"
 company_id: seeapex
 lang: en
 ref: seeapex-mobius-i-gv
+audiodb_uid: adb-19fcd9d05f11
 date: 2026-04-13
 rating: [1.6, 0.5, 0.6, 0.0, 0.4, 0.1]
 price: 8999.0

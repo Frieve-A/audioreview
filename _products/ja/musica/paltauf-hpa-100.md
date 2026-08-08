@@ -5,6 +5,7 @@ target_name: "Paltauf HPA-100"
 company_id: musica
 lang: ja
 ref: paltauf-hpa-100
+audiodb_uid: adb-41d0d9a09a9a
 date: 2025-11-21
 rating: [2.2, 0.5, 0.4, 0.8, 0.4, 0.1]
 price: 616000
@@ -12,7 +13,6 @@ summary: "オーストリアのブティック真空管/MOSFETハイブリッド
 tags: [ヘッドホンアンプ, 真空管ハイブリッド, ハイエンド, オーストリア]
 permalink: /products/ja/paltauf-hpa-100/
 ---
-
 ## 概要
 
 Paltauf HPA-100は、オーストリアのPaltauf & Stiegler GmbHが製造する真空管/MOSFETハイブリッドヘッドホンアンプです。価格は616,000円で、真空管による信号電圧増幅と相補ラテラルMOSFET出力段を組み合わせています。30年以上のオーディオ経験を持つWolfgang Paltaufが設立した同社は、測定ベース設計よりも手作り製法と主観的な「音楽的体験」を重視しています。HPA-100は複数のアナログ入力と様々なインピーダンス負荷にわたる高出力能力を提供します。

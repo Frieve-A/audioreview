@@ -5,6 +5,7 @@ target_name: "Sony IER-Z1R"
 company_id: sony
 lang: ja
 ref: sony-ier-z1r
+audiodb_uid: adb-8a986f966afa
 date: 2025-07-29
 rating: [2.3, 0.2, 0.8, 0.1, 0.8, 0.4]
 price: 226710

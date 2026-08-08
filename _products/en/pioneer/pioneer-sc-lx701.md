@@ -5,6 +5,7 @@ target_name: "Pioneer SC-LX701"
 company_id: pioneer
 lang: en
 ref: pioneer-sc-lx701
+audiodb_uid: adb-14d24a39ebcd
 date: 2025-08-13
 rating: [3.2, 0.5, 0.4, 1.0, 0.4, 0.9]
 price: 525
@@ -12,7 +13,6 @@ summary: "Discontinued 9.2-channel AV receiver from 2016 with ESS SABRE32 DAC an
 tags: [AV Receiver, Home Theater, Class D, Dolby Atmos, DTS:X, ESS, America, Discontinued]
 permalink: /products/en/pioneer-sc-lx701/
 ---
-
 ## Overview
 
 The Pioneer SC-LX701 is a 9.2-channel AV receiver released in 2016 featuring Direct Energy HD Class D amplification rated at 135W per channel into 8 ohms. The unit supports Dolby Atmos and DTS:X object-based audio formats and includes a 192kHz/32-bit ESS SABRE32 Ultra DAC (ES9016S). Originally positioned as a mid-to-high-end home theater receiver, the SC-LX701 has been discontinued and is now only available on the used market, where it competes against significantly more advanced modern alternatives.

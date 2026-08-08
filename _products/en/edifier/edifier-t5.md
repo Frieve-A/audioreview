@@ -5,6 +5,7 @@ target_name: "Edifier T5"
 company_id: edifier
 lang: en
 ref: edifier-t5
+audiodb_uid: adb-89d97e2287b9
 date: 2025-08-10
 rating: [2.3, 0.4, 0.3, 0.7, 0.4, 0.5]
 price: 199.99
@@ -12,7 +13,6 @@ summary: "Budget 8-inch powered subwoofer with 70W RMS output and 38-160Hz frequ
 tags: [Subwoofer, Powered, Budget, Home Audio]
 permalink: /products/en/edifier-t5/
 ---
-
 ## Overview
 
 The Edifier T5 is a budget-oriented 8-inch powered subwoofer featuring a 70W RMS amplifier and MDF cabinet construction. Released as an entry-level bass solution for desktop and small room applications, it targets users seeking affordable bass reinforcement for 2.1 speaker systems. The unit incorporates auto-standby functionality and RCA passthrough connectivity for integration with various Edifier speaker models.

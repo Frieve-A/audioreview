@@ -5,6 +5,7 @@ target_name: "Koss Porta Pro"
 company_id: koss
 lang: en
 ref: koss-porta-pro
+audiodb_uid: adb-dd424a28ccb6
 date: 2025-07-29
 rating: [2.9, 0.6, 0.3, 0.7, 0.7, 0.6]
 price: 50
@@ -12,7 +13,6 @@ summary: "An iconic open-back portable headphone from 1984. It offers a unique d
 tags: [Portable, Open-back, Headphones, Budget]
 permalink: /products/en/koss-porta-pro/
 ---
-
 ## Overview
 
 The Koss Porta Pro is a representative portable headphone from the company, launched in 1984. It has maintained its basic design for over 40 years and is known for its foldable, lightweight open-back construction and distinctive design. It features a 34mm dynamic driver with a frequency response of 15Hz-25kHz, an impedance of 60 ohms, and a sensitivity of 101dB/mW. It is sold for approximately 50 USD, making it an iconic presence as an open-back portable headphone.

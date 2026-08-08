@@ -5,6 +5,7 @@ target_name: "Topping D50s"
 company_id: topping
 lang: en
 ref: topping-d50s
+audiodb_uid: adb-f6aadc8b6372
 date: 2025-10-31
 rating: [3.6, 0.9, 0.6, 0.9, 0.3, 0.9]
 price: 250
@@ -12,7 +13,6 @@ summary: "Desktop DAC with dual ES9038Q2M chips delivering excellent measured pe
 tags: [DAC, Desktop, ESS, Bluetooth, USB, DSD, Hi-Res]
 permalink: /products/en/topping-d50s/
 ---
-
 ## Overview
 
 The Topping D50s is a compact desktop digital-to-analog converter featuring dual ESS ES9038Q2M DAC chips and comprehensive connectivity options. Introduced as an improved successor to the original D50, this unit maintains Topping's measurement-focused engineering approach while adding Bluetooth 5.0 connectivity and enhanced performance metrics. The D50s weighs 510 grams with a form factor described as resembling a "tiny version of Mac Mini," making it suitable for desktop audio setups. Topping has established itself since 2008 as a manufacturer focused on delivering measurable audio performance improvements at accessible price points.

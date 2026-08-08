@@ -5,6 +5,7 @@ target_name: "Sennheiser HDB 630"
 company_id: sennheiser
 lang: ja
 ref: sennheiser-hdb-630
+audiodb_uid: adb-aa030c8b3949
 date: 2025-11-21
 rating: [4.2, 0.5, 0.9, 1.0, 0.8, 1.0]
 price: 74000

@@ -5,6 +5,7 @@ target_name: "Fostex T60RP"
 company_id: fostex
 lang: en
 ref: fostex-t60rp
+audiodb_uid: adb-d7949f11834c
 date: 2025-09-26
 rating: [2.3, 0.2, 0.7, 0.3, 0.4, 0.7]
 price: 300

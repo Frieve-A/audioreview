@@ -5,6 +5,7 @@ target_name: "Hi-Unit HSE-AD03-pnk"
 company_id: hi-unit
 lang: ja
 ref: hi-unit-hse-ad03-pnk
+audiodb_uid: adb-483d3c974f81
 date: 2025-12-29
 rating: [2.7, 0.6, 0.4, 0.8, 0.6, 0.3]
 price: 5940
@@ -12,7 +13,6 @@ summary: "CX31993 DACとHT97220アンプを搭載したUSB Type-C 3.5mmDACアダ
 tags: [DAC, アダプター, USB-C, アンプ, Hi-Unit]
 permalink: /products/ja/hi-unit-hse-ad03-pnk/
 ---
-
 ## 概要
 
 Hi-Unit HSE-AD03-pnkは、CX31993 DACとHT97220アンプチップを搭載したUSB Type-C 3.5mmDACアダプターです。5,940円（現在の為替レートで40米ドル相当）の価格で、32bit/384kHz PCMデコードに対応し、メーカー公称性能として124dB S/N比、111dBダイナミックレンジ、0.0018% THDを実現しています。Type-A変換アダプターが付属し、スマートフォンやPCのオーディオ出力の音質改善を求めるユーザーをターゲットとしています。エール中野氏の監修により開発されました。

@@ -5,6 +5,7 @@ target_name: "AIYIMA 800X"
 company_id: aiyima
 lang: ja
 ref: aiyima-800x
+audiodb_uid: adb-fd2870ca2685
 date: 2026-02-24
 rating: [2.7, 0.5, 0.4, 0.6, 0.4, 0.8]
 price: 29400

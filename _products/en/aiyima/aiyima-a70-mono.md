@@ -5,6 +5,7 @@ target_name: "AIYIMA A70 Mono"
 company_id: aiyima
 lang: en
 ref: aiyima-a70-mono
+audiodb_uid: adb-ca84eca89a10
 date: 2025-08-15
 rating: [3.8, 0.8, 0.7, 0.9, 0.6, 0.8]
 price: 159.99
@@ -12,7 +13,6 @@ summary: "Monoblock Class D amplifier based on TPA3255 with PFFB. Adds subwoofer
 tags: [Class D Amplifier, TPA3255, Mono Amplifier, PFFB, Monoblock]
 permalink: /products/en/aiyima-a70-mono/
 ---
-
 ## Overview
 
 The AIYIMA A70 Mono is a monoblock Class D amplifier using Texas Instruments’ TPA3255 with Post Filter Feedback (PFFB). It provides balanced XLR and single-ended RCA inputs, a 12V trigger, and an active subwoofer output with an adjustable low-pass (40–200 Hz) plus a +6 dB RCA gain option. Rated power is 300 W into 4 Ω with a 48 V / 5 A supply[1].

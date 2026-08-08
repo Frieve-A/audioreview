@@ -5,6 +5,7 @@ target_name: "Shure Aonic 4"
 company_id: shure
 lang: en
 ref: shure-aonic-4
+audiodb_uid: adb-b086010bd18e
 date: 2025-07-29
 rating: [2.9, 0.6, 0.5, 0.4, 0.8, 0.6]
 price: 273

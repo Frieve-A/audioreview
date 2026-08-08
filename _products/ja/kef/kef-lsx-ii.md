@@ -5,6 +5,7 @@ target_name: "KEF LSX II"
 company_id: kef
 lang: ja
 ref: kef-lsx-ii
+audiodb_uid: adb-debca50d6857
 date: 2025-07-18
 rating: [4.0, 0.7, 0.8, 1.0, 0.8, 0.7]
 price: 205000
@@ -12,7 +13,6 @@ summary: "KEF LSX IIは、独自のUni-Q同軸ドライバーと多彩なスト�
 tags: [ワイヤレススピーカー, Uni-Qドライバー, ストリーミング対応, 同軸スピーカー]
 permalink: /products/ja/kef-lsx-ii/
 ---
-
 ## 概要
 
 KEF LSX IIは英国KEFが2022年に発売したワイヤレス・アクティブ・スピーカー・システムです。第11世代Uni-Qドライバーを搭載し、19mmアルミニウムドームツイーターと115mmマグネシウム/アルミニウム合金コーンの同軸配置を採用しています。Class D増幅により各チャンネルツイーター30W、ウーファー70Wの出力を実現し、24bit/384kHzまでのハイレゾストリーミング再生に対応しています。HDMI ARC、USB-C、光デジタル入力を備え、AirPlay 2、Google Chromecast、Bluetooth 4.2による無線接続が可能です。コンパクトなデスクトップ・ブックシェルフ設計で、デジタル信号処理による音質最適化機能を内蔵しています。

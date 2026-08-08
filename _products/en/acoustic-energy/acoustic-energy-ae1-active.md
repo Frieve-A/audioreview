@@ -5,6 +5,7 @@ target_name: "Acoustic Energy AE1 Active"
 company_id: acoustic-energy
 lang: en
 ref: acoustic-energy-ae1-active
+audiodb_uid: adb-5c00357c2736
 date: 2025-08-21
 rating: [2.8, 0.6, 0.6, 0.3, 0.7, 0.6]
 price: 1999

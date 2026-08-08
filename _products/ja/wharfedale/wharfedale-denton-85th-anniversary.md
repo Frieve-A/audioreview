@@ -5,6 +5,7 @@ target_name: "Wharfedale Denton 85th Anniversary"
 company_id: wharfedale
 lang: ja
 ref: wharfedale-denton-85th-anniversary
+audiodb_uid: adb-26998b7ca420
 date: 2025-10-28
 rating: [2.5, 0.5, 0.5, 0.7, 0.7, 0.1]
 price: 179700
@@ -12,7 +13,6 @@ summary: "測定性能の最適化よりも伝統的なブリティッシュサ�
 tags: [ブックシェルフスピーカー, パッシブスピーカー, ヘリテージデザイン, ケブラードライバー]
 permalink: /products/ja/wharfedale-denton-85th-anniversary/
 ---
-
 ## 概要
 
 Wharfedale Denton 85th Anniversaryは、同社の長いスピーカー設計史を記念するヘリテージエディションのブックシェルフスピーカーです。1932年にGilbert Briggsによって設立されたWharfedaleは、家庭用スピーカー設計の先駆者として、暖かさと音楽性を重視する「ブリティッシュサウンド」哲学を確立しました。この2ウェイバスレフ設計は、6.5インチ織ケブラーコーンウーファーと1インチソフトドームツイーターを手作業で仕上げられたキャビネットに搭載し、ウォルナット、レッドマホガニー、ブラックオークの仕上げで提供されます。アニバーサリーエディションは、現代的なキャビネット構造技術を取り入れながら、伝統的なデザイン要素を維持しています。

@@ -5,6 +5,7 @@ target_name: "FiiO QX13"
 company_id: fiio
 lang: ja
 ref: fiio-qx13
+audiodb_uid: adb-a7ead62369b8
 date: 2025-08-09
 rating: [4.1, 0.6, 0.9, 1.0, 0.7, 0.9]
 price: 32850

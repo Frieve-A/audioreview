@@ -5,6 +5,7 @@ target_name: "EPZ K5"
 lang: en
 company_id: epz
 ref: epz-k5
+audiodb_uid: adb-1b21f64390a7
 permalink: /products/en/epz-k5/
 date: 2025-08-19
 rating: [3.1, 0.5, 0.7, 0.7, 0.5, 0.7]

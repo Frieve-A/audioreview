@@ -5,6 +5,7 @@ target_name: "SMSL SU-10"
 company_id: smsl
 lang: en
 ref: smsl-su-10
+audiodb_uid: adb-dea2cae0a621
 date: 2025-08-28
 rating: [4.2, 0.9, 0.8, 1.0, 0.7, 0.8]
 price: 900
@@ -12,7 +13,6 @@ summary: "Premium dual ES9038PRO DAC achieving top-tier measured transparency wi
 tags: [DAC, ES9038PRO, MQA, DSD512, Bluetooth, LDAC]
 permalink: /products/en/smsl-su-10/
 ---
-
 ## Overview
 
 The SMSL SU-10 is a flagship desktop DAC built around dual ESS ES9038PRO converters with a 16-channel summing architecture, XMOS XU316 USB, and a fully regulated dual-linear power supply (separate rails for digital/analog). It supports PCM 32-bit/768 kHz, native DSD512, MQA/MQA-CD, and Bluetooth with LDAC. Connectivity includes USB, optical, coaxial, AES/EBU, I2S (HDMI), and BT. At 900 USD, it targets users seeking transparent, measurement-driven performance with modern I/O [1][2].

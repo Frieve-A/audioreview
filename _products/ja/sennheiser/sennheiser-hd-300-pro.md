@@ -5,6 +5,7 @@ target_name: "Sennheiser HD 300 Pro"
 company_id: sennheiser
 lang: ja
 ref: sennheiser-hd-300-pro
+audiodb_uid: adb-f611507f0850
 date: 2025-10-18
 rating: [2.9, 0.5, 0.4, 0.8, 0.7, 0.5]
 price: 31000

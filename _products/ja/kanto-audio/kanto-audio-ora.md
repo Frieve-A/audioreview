@@ -5,6 +5,7 @@ target_name: "Kanto Audio ORA"
 company_id: kanto-audio
 lang: ja
 ref: kanto-audio-ora
+audiodb_uid: adb-d2ec072c2a93
 date: 2025-08-24
 rating: [4.0, 0.8, 0.7, 1.0, 0.7, 0.8]
 price: 52500
@@ -12,7 +13,6 @@ summary: "リファレンス級の計測性能と現代的接続性を小型筐�
 tags: [デスクトップスピーカー, アクティブスピーカー, バイアンプ, USB-C, Bluetooth, リファレンスモニター]
 permalink: /products/ja/kanto-audio-ora/
 ---
-
 ## 概要
 
 Kanto Audio ORAは、コンピュータースピーカーと小型リファレンスモニターの中間に位置づけられる製品です。3.9" × 6.9" × 5.6"の小型筐体に、各チャンネルで0.75インチ・シルクドームツイーターと3インチ・ウーファーをバイアンプ駆動するClass-Dアンプを内蔵し、USB-C（最大24-bit/96 kHz）、Bluetooth 5.0、RCAアナログを備えます。サブウーファー接続時には100 Hzで自動ハイパス（24 dB/oct）が有効になり、デスクトップの近接設置でのヘッドルームを高めます[1][2][4]。

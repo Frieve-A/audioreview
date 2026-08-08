@@ -5,6 +5,7 @@ target_name: "Sony WH-1000XM4"
 company_id: sony
 lang: en
 ref: sony-wh-1000xm4
+audiodb_uid: adb-7f4b5cb11c7d
 date: 2025-08-14
 rating: [4.0, 0.8, 0.6, 1.0, 0.6, 1.0]
 price: 200
@@ -12,7 +13,6 @@ summary: "Mid-tier active noise cancelling headphones with a warm tuning and rel
 tags: [Consumer, Headphones, Noise cancelling, Over-ear, Wireless]
 permalink: /products/en/sony-wh-1000xm4/
 ---
-
 ## Overview
 
 The Sony WH-1000XM4 is Sony's 2020 premium wireless ANC over-ear. It uses the **HD Noise Cancelling Processor QN1** working with a Bluetooth Audio SoC (no "V1" integrated processor on this model) and supports Bluetooth 5.0 with **LDAC/AAC/SBC**. Sony's dual-noise-sensor system monitors audio and noise "over **700 times per second**," enabling effective real-time cancellation. Multipoint pairing and a foldable design round out the feature set. [1][3][4][7]

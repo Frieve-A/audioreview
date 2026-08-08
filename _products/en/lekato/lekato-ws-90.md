@@ -5,6 +5,7 @@ target_name: "LEKATO WS-90"
 company_id: lekato
 lang: en
 ref: lekato-ws-90
+audiodb_uid: adb-a4bbf263f5b5
 date: 2025-10-17
 rating: [3.0, 0.5, 0.6, 1.0, 0.3, 0.6]
 price: 59.99
@@ -12,7 +13,6 @@ summary: "Budget wireless guitar system with 5.8GHz technology offering competit
 tags: [Wireless, Guitar System, 5.8GHz, Budget, LEKATO]
 permalink: /products/en/lekato-ws-90/
 ---
-
 ## Overview
 
 The LEKATO WS-90 is a 5.8GHz wireless guitar system manufactured by LEKATO, a company founded in 2019 that focuses on musical instrument accessories. The WS-90 features 24-bit/48kHz audio quality, sub-5.6ms latency, 105dB dynamic range, and 8-hour battery life. As a wireless solution, it competes against established brands while offering modern 5.8GHz transmission technology that differentiates it from 2.4GHz competitors.

@@ -5,6 +5,7 @@ target_name: "final ZE500 for ASMR"
 company_id: final
 lang: ja
 ref: final-ze500-for-asmr
+audiodb_uid: adb-389bb3f91182
 date: 2025-08-23
 rating: [3.5, 0.5, 0.7, 1.0, 0.6, 0.7]
 price: 10800
@@ -12,7 +13,6 @@ summary: "ASMR の近接音声に特化した完全ワイヤレス。圧力緩�
 tags: [完全ワイヤレス, ASMR, 睡眠, Bluetooth, final Audio]
 permalink: /products/ja/final-ze500-for-asmr/
 ---
-
 ## 概要
 
 ZE500 for ASMRは、近接音声の再現と就寝時の長時間装着に最適化した特化型TWSです。耳道圧の上昇を抑える「ASMRポート」、タップ音/ガイダンス無効化を含むASMRモード、細かな音量調整（ボリュームステップ最適化）などを専用アプリで提供します。メーカー公称はBluetooth 5.4、SBC/AAC、IPX4、連続4.5時間（ケース込み18時間）。本体は片側約3 gです。価格は国際的な参考で 74 USD、国内実売は10,800円前後（本レビュー内のCP計算はUSD基準で統一）。[1][2][3]

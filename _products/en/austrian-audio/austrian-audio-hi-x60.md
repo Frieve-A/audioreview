@@ -5,6 +5,7 @@ target_name: "Austrian Audio Hi-X60"
 company_id: austrian-audio
 lang: en
 ref: austrian-audio-hi-x60
+audiodb_uid: adb-1e807717666e
 date: 2025-08-15
 rating: [3.0, 0.6, 0.8, 0.3, 0.7, 0.6]
 price: 399
@@ -12,7 +13,6 @@ summary: "Professional closed-back headphones from former AKG engineers featurin
 tags: [Headphones, Closed-back, Studio, Professional, Austrian Audio, Monitoring]
 permalink: /products/en/austrian-audio-hi-x60/
 ---
-
 ## Overview
 
 The Austrian Audio Hi-X60 is a closed-back studio monitor headphone developed by a Vienna team founded by ex-AKG engineers. It uses proprietary 44 mm high-excursion dynamic drivers with a ring-magnet motor and is assembled in Austria for professional tracking and monitoring.

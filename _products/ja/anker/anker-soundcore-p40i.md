@@ -5,6 +5,7 @@ target_name: "Anker Soundcore P40i"
 company_id: anker
 lang: ja
 ref: anker-soundcore-p40i
+audiodb_uid: adb-fc2f27f19c87
 date: 2025-07-09
 rating: [3.2, 0.5, 0.6, 0.9, 0.7, 0.5]
 price: 7990
@@ -12,7 +13,6 @@ summary: "7,990円の価格でマルチポイント、ノイズキャンセリ�
 tags: [Anker, Soundcore, P40i, ワイヤレスイヤホン, ノイズキャンセリング]
 permalink: /products/ja/anker-soundcore-p40i/
 ---
-
 ## 概要
 
 Anker Soundcore P40iは2024年4月9日に発売された完全ワイヤレスイヤホンで、発売時価格7,990円の価格帯でウルトラノイズキャンセリング 2.0、マルチポイント接続、ワイヤレス充電などの高機能を搭載している。11mmダイナミックドライバーを採用し、深みのある低音と迫力のサウンドを実現。IPX5防水、Bluetooth 5.3対応で、スマホスタンドにもなる充電ケースなど実用性を重視した設計が特徴。オフホワイト・ブラック・ネイビー・パープルの4色展開で、コストパフォーマンスを追求したSoundcoreブランドの代表的製品。

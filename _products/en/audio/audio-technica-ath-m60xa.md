@@ -5,6 +5,7 @@ target_name: "Audio-Technica ATH-M60xA"
 company_id: audio-technica
 lang: en
 ref: audio-technica-ath-m60xa
+audiodb_uid: adb-20ca323546f6
 date: 2025-07-20
 rating: [2.2, 0.6, 0.5, 0.4, 0.4, 0.3]
 price: 239
@@ -12,7 +13,6 @@ summary: "The ATH-M60xA features a 38Ω low-impedance design for portable device
 tags: [On-Ear Headphones, Professional Monitor, Audio-Technica, Studio Headphones]
 permalink: /products/en/audio-technica-ath-m60xa/
 ---
-
 ## Overview
 
 The Audio-Technica ATH-M60xA is an on-ear professional monitor headphone that uses the same 45mm large-aperture driver as the company's popular ATH-M50x. With a frequency response of 15Hz-28kHz and 38Ω low-impedance design, it prioritizes drivability from portable devices. The lightweight 218g body comes with three interchangeable cables, catering to a wide range of applications from studio work to mobile use. Audio-Technica, established in 1962, is a long-established audio equipment manufacturer with a rich history, and the M-series in particular has become an industry standard widely used across the professional audio field.

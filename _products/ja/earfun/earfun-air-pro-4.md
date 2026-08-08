@@ -5,6 +5,7 @@ target_name: "EarFun Air Pro 4"
 company_id: earfun
 lang: ja
 ref: earfun-air-pro-4
+audiodb_uid: adb-b0ca3cba28ec
 date: 2025-07-25
 rating: [3.7, 0.7, 0.8, 1.0, 0.4, 0.8]
 price: 9990

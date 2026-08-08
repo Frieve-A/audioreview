@@ -5,6 +5,7 @@ target_name: "Denon AH-D9200"
 company_id: denon
 lang: ja
 ref: denon-ah-d9200
+audiodb_uid: adb-12a4f71a36fe
 date: 2025-08-16
 rating: [1.9, 0.5, 0.6, 0.1, 0.5, 0.2]
 price: 182600
@@ -12,7 +13,6 @@ summary: "日本製竹材の密閉フラッグシップ。第三者の標準化�
 tags: [ヘッドホン, 密閉型, オーバーイヤー, ハイエンド, 竹材]
 permalink: /products/ja/denon-ah-d9200/
 ---
-
 ## 概要
 
 AH-D9200は日本製の竹材ハウジングと50 mm“FreeEdge”ダイナミックドライバーを採用したDenonの密閉型フラッグシップです。公称仕様は24 Ω、105 dB/mW、5 Hz–56 kHz、質量375 gです［1］。国内実売は182,600円、米国の代表的市場価格は1,799 USDです［7］［2］。

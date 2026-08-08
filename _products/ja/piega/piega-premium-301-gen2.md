@@ -5,6 +5,7 @@ target_name: "Piega Premium 301 Gen2"
 company_id: piega
 lang: ja
 ref: piega-premium-301-gen2
+audiodb_uid: adb-6c80615dcbda
 date: 2025-08-20
 rating: [3.3, 0.5, 0.7, 0.6, 0.8, 0.7]
 price: 605000
@@ -12,7 +13,6 @@ summary: "磁気静電型リボントゥイーターとアルミニウム筐体�
 tags: [ブックシェルフ, リボントゥイーター, スイス製, アルミニウム, プレミアム]
 permalink: /products/ja/piega-premium-301-gen2/
 ---
-
 ## 概要
 
 Premium 301 Gen2は、RM 01-24 磁気静電型リボントゥイーターと140mm FSD-Mミッドウーファーを搭載する2ウェイブックシェルフ型です。アルミ押出一体成形の筐体と新設計のリボンにより、高剛性化と歪み低減を狙った実装がなされています[1][2]。

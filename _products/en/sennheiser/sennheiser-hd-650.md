@@ -5,6 +5,7 @@ target_name: "Sennheiser HD 650"
 company_id: sennheiser
 lang: en
 ref: sennheiser-hd-650
+audiodb_uid: adb-8bb72a24e944
 date: 2025-08-23
 rating: [3.3, 0.7, 0.6, 0.3, 0.9, 0.8]
 price: 350
@@ -12,7 +13,6 @@ summary: "A benchmark open-back since 2003 with measurement-backed, stable perfo
 tags: [Headphones, Open-back, Reference, Classic, Germany]
 permalink: /products/en/sennheiser-hd-650/
 ---
-
 ## Overview
 
 The HD 650 is an open-back headphone with a 300-ohm load and modular construction. Official specs list 10Hz–41kHz bandwidth, 103dB (1V) sensitivity, and THD <0.05% at 1kHz/1V [1]. A representative US market price is 349.95 USD [4].

@@ -5,6 +5,7 @@ target_name: "Polk Audio Signature Elite ES15"
 company_id: polk-audio
 lang: en
 ref: polk-audio-signature-elite-es15
+audiodb_uid: adb-211640e00bd1
 date: 2025-07-18
 rating: [3.0, 0.5, 0.4, 0.9, 0.6, 0.6]
 price: 313

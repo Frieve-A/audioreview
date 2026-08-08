@@ -5,6 +5,7 @@ target_name: "Astell&Kern KANN ULTRA"
 company_id: astell-kern
 lang: en
 ref: astell-kern-kann-ultra
+audiodb_uid: adb-49db23eb8a71
 date: 2025-11-06
 rating: [2.2, 0.5, 0.8, 0.1, 0.2, 0.6]
 price: 1759

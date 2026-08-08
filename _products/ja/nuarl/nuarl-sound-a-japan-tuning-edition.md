@@ -5,6 +5,7 @@ target_name: "NUARL Sound:A Japan Tuning Edition"
 company_id: nuarl
 lang: ja
 ref: nuarl-sound-a-japan-tuning-edition
+audiodb_uid: adb-8e0980ad267c
 date: 2025-09-05
 rating: [2.4, 0.5, 0.7, 0.2, 0.4, 0.6]
 price: 15000
@@ -12,7 +13,6 @@ summary: "HDSS技術を搭載し日本向けの低音チューニングを施し
 tags: [イヤホン, ハイレゾ, 有線, HDSS, ダイナミック]
 permalink: /products/ja/nuarl-sound-a-japan-tuning-edition/
 ---
-
 ## 概要
 
 $$ \Large \text{3.2} $$

@@ -5,6 +5,7 @@ target_name: "iBasso Nunchaku"
 company_id: ibasso
 lang: en
 ref: ibasso-nunchaku
+audiodb_uid: adb-11f3e9a2cacc
 date: 2025-09-13
 rating: [2.9, 0.7, 0.7, 0.7, 0.4, 0.4]
 price: 299

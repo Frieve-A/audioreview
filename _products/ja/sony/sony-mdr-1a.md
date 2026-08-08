@@ -5,6 +5,7 @@ target_name: "Sony MDR-1A"
 company_id: sony
 lang: ja
 ref: sony-mdr-1a
+audiodb_uid: adb-513a34d257a0
 date: 2025-07-24
 rating: [3.0, 0.4, 0.6, 1.0, 0.6, 0.4]
 price: 11250

@@ -5,6 +5,7 @@ target_name: "SIMGOT EA500-LM"
 company_id: simgot
 lang: ja
 ref: simgot-ea500-lm
+audiodb_uid: adb-83b97759d4d1
 date: 2025-11-22
 rating: [3.4, 0.5, 0.7, 0.9, 0.5, 0.8]
 price: 13650

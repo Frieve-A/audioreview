@@ -5,6 +5,7 @@ target_name: "Polk Audio Reserve R500"
 company_id: polk-audio
 lang: en
 ref: polk-audio-reserve-r500
+audiodb_uid: adb-dfcd8703f205
 date: 2025-10-06
 rating: [3.3, 0.5, 0.7, 0.8, 0.6, 0.7]
 price: 1118

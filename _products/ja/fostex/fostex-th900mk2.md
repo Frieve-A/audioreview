@@ -5,6 +5,7 @@ target_name: "Fostex TH900MK2"
 company_id: fostex
 lang: ja
 ref: fostex-th900mk2
+audiodb_uid: adb-32a09a187b53
 date: 2025-07-25
 rating: [2.5, 0.4, 0.8, 0.2, 0.7, 0.4]
 price: 228800

@@ -5,6 +5,7 @@ target_name: "RME ADI-2/4 Pro SE"
 company_id: rme
 lang: ja
 ref: rme-adi-2-4-pro-se
+audiodb_uid: adb-e11a317e2873
 date: 2025-07-14
 rating: [4.5, 0.9, 0.8, 1.0, 0.8, 1.0]
 price: 352000
@@ -12,7 +13,6 @@ summary: "プロオーディオの最高峰を目指すRMEによる32bit/768kHz�
 tags: [RME, ADコンバーター, DACコンバーター, プロオーディオ, 768kHz, 32bit]
 permalink: /products/ja/rme-adi-2-4-pro-se/
 ---
-
 ## 概要
 
 RME ADI-2/4 Pro SEは、ドイツのプロオーディオ機器メーカーRME Audioが手がける最高級AD/DAコンバーターです。32bit/768kHz対応、最大123dBAのS/N比を誇る最新コンバーターチップを搭載し、2チャンネルのAD変換と4チャンネルのDA変換を1台で実現します。プロスタジオでのマスタリング作業からオーディオファイルの高音質デジタル変換まで、幅広い用途に対応する設計となっています。RMEは25年以上にわたりプロオーディオ界で高い評価を得ており、特に測定性能の高さと信頼性で知られています。

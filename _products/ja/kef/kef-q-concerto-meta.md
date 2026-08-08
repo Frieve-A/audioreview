@@ -5,6 +5,7 @@ target_name: "KEF Q Concerto Meta"
 company_id: kef
 lang: ja
 ref: kef-q-concerto-meta
+audiodb_uid: adb-9da739134fc6
 date: 2025-08-24
 rating: [3.9, 0.8, 0.8, 1.0, 0.7, 0.6]
 price: 192500
@@ -12,7 +13,6 @@ summary: "Meta技術とUni-Qドライバーを採用した3ウェイブックシ
 tags: [ブックシェルフスピーカー, 3ウェイ, Meta技術, Uni-Q, KEF]
 permalink: /products/ja/kef-q-concerto-meta/
 ---
-
 ## 概要
 
 KEF Q Concerto MetaはQシリーズ初の3ウェイブックシェルフで、国内の実勢はメーカー希望小売価格 **192,500円/ペア**（KEF Japan）。米国価格は **1399.99 USD/ペア**（KEF US）です。第12世代Uni-Q（19 mmベント型アルミツイーター＋100 mmミッドの同軸）に加え、165 mmハイブリッドアルミウーファーを備えます。1969年Concertoへのオマージュを保ちつつ、ドライバー背面の不要音を**99%**吸収するMATを搭載。寸法415 × 210 × 315 mm、重量9.5 kg、リアポート／Shadow Flare、仕上げはサテンブラック／サテンホワイト／ウォルナットです。 [6][7]

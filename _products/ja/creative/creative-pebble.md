@@ -5,6 +5,7 @@ target_name: "Creative Pebble"
 company_id: creative
 lang: ja
 ref: creative-pebble
+audiodb_uid: adb-093361630b71
 date: 2025-09-15
 rating: [2.4, 0.3, 0.3, 1.0, 0.5, 0.3]
 price: 3673
@@ -12,7 +13,6 @@ summary: "25 USDという低価格で購入できるUSB電源デスクトップ�
 tags: [Creative, デスクトップスピーカー, USB電源, 予算]
 permalink: /products/ja/creative-pebble/
 ---
-
 ## 概要
 
 Creative Pebbleは、25 USDという極めて低価格で提供されるUSB電源2.0デスクトップスピーカーです。合計4.4W RMSの出力、周波数特性100Hz–17kHz、SNR 86 dB（公称）を備え[1]、45度に角度調整されたカスタムチューンド・ファーフィールドドライバーソリューションを採用しています。単一のUSBケーブルで電源供給と音声伝送を行うシンプルな設計で、コンパクトなデスクトップ環境向けに最適化されています。球状の特徴的なデザインを持ち、パッシブラジエーターによる低域補強を行っています。プロフェッショナルオーディオ用途ではなく、基本的なコンピューター作業やカジュアルな音楽鑑賞を想定したエントリーレベル製品として位置づけられています。

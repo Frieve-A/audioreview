@@ -5,6 +5,7 @@ target_name: "Sony PlayStation Portable"
 company_id: sony
 lang: en
 ref: sony-playstation-portable
+audiodb_uid: adb-a8b903237cde
 date: 2025-12-26
 rating: [2.7, 0.5, 0.5, 0.7, 0.7, 0.3]
 price: 90
@@ -12,7 +13,6 @@ summary: "Sony's PSP, marketed as the '21st century Walkman,' featured a Wolfson
 tags: [Sony, PlayStation, PSP, Portable Audio Player, Gaming Console, Wolfson DAC]
 permalink: /products/en/sony-playstation-portable/
 ---
-
 ## Overview
 
 The Sony PlayStation Portable (PSP), launched in 2004, was officially marketed by Sony as the "21st century Walkman" [6]. Beyond its primary function as a handheld gaming console, Sony positioned it as a comprehensive multimedia entertainment system with significant audio capabilities. The device featured support for multiple audio codecs including MP3, ATRAC3plus, PCM, WMA, and AAC, built-in stereo speakers, and dedicated audio processing through a Wolfson WM8973G DAC. While ambitious in scope as a convergence device, the PSP's audio implementation reflected compromises inherent in its gaming-first design philosophy.

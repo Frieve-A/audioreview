@@ -5,6 +5,7 @@ target_name: "McIntosh C8"
 company_id: mcintosh
 lang: en
 ref: mcintosh-c8
+audiodb_uid: adb-e85a8ed307af
 date: 2025-08-28
 rating: [1.9, 0.3, 0.6, 0.2, 0.6, 0.2]
 price: 4500
@@ -12,7 +13,6 @@ summary: "Vacuum-tube preamplifier with MM/MC phono and optional DA2 digital mod
 tags: [Preamplifier, Vacuum Tube, Phono Stage, McIntosh]
 permalink: /products/en/mcintosh-c8/
 ---
-
 ## Overview
 
 The C8 is a two-channel vacuum-tube preamplifier using four 12AX7A tubes in protective cages. It offers five analog inputs (balanced XLR ×1, unbalanced RCA ×2, MM/MC phono ×2), three analog outputs (balanced ×1, unbalanced ×2 with one configurable as sub out), and a High Drive 6.35 mm headphone jack. The optional **DA2** module, installed by a dealer, adds USB/coax/optical/MCT/HDMI ARC digital inputs [1].

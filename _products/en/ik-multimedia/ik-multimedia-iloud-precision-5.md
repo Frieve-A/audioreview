@@ -5,6 +5,7 @@ target_name: "IK Multimedia iLoud Precision 5"
 company_id: ik-multimedia
 lang: en
 ref: ik-multimedia-iloud-precision-5
+audiodb_uid: adb-3d3fc44fd9cf
 date: 2025-08-03
 rating: [4.2, 0.8, 0.8, 1.0, 0.7, 0.9]
 price: 1170

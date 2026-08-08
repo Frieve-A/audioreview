@@ -5,6 +5,7 @@ target_name: "Genelec 9320A"
 company_id: genelec
 lang: ja
 ref: genelec-9320a
+audiodb_uid: adb-e3c84669dbb8
 date: 2026-06-01
 rating: [4.8, 0.8, 1.0, 1.0, 1.0, 1.0]
 price: 204000

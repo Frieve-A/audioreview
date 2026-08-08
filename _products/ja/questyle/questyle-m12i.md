@@ -5,6 +5,7 @@ target_name: "Questyle M12i"
 company_id: questyle
 lang: ja
 ref: questyle-m12i
+audiodb_uid: adb-d3dd762ef9bf
 date: 2025-09-01
 rating: [2.7, 0.6, 0.5, 0.2, 0.7, 0.7]
 price: 17900
@@ -12,7 +13,6 @@ summary: "Apple MFi認証のUSB-CドングルDAC（ES9281AC）。カタログ上
 tags: [DAC, ポータブル, USB-C, ドングル, ES9281AC, MFi]
 permalink: /products/ja/questyle-m12i/
 ---
-
 ## 概要
 
 Questyle M12iは、Apple MFi認証とESS ES9281AC DACを採用した第二世代のUSB-Cドングル型DAC/アンプです。最大PCM 768kHz/32ビットおよびDSD512に対応し、自動インピーダンス検出／ゲイン切替を備え、コンパクトさと広いデバイス互換性を志向しています[1][3]。

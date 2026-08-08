@@ -5,6 +5,7 @@ target_name: "DALI RUBIKORE 6"
 company_id: dali
 lang: en
 ref: dali-rubikore-6
+audiodb_uid: adb-4a4e938d3e35
 date: 2025-07-26
 rating: [3.3, 0.8, 0.7, 0.3, 0.7, 0.8]
 price: 3467

@@ -5,6 +5,7 @@ target_name: "Denon DCD-3000NE"
 company_id: denon
 lang: ja
 ref: denon-dcd-3000ne
+audiodb_uid: adb-7bc129120d80
 date: 2025-08-20
 rating: [3.9, 0.7, 0.8, 1.0, 0.7, 0.7]
 price: 396000
@@ -12,7 +13,6 @@ summary: "クアッドES9018K2M DAC、Ultra AL32 Processing、S.V.H.メカ採用
 tags: [CDプレーヤー, SACD, DAC, リファレンスシリーズ, プレミアムオーディオ]
 permalink: /products/ja/denon-dcd-3000ne/
 ---
-
 ## 概要
 
 DCD-3000NEはDenonリファレンスシリーズのSACD/CDプレーヤー最上位機です。ES9018K2Mを4基用いたQuad-DAC構成、Ultra AL32 Processing、堅牢なS.V.H.メカを採用し、SACD/CDに加えてデータディスク（DVD±R/RWは最大24bit/192kHz PCMとDSD 5.6MHz、CD-R/RWは最大24bit/48kHz）も再生できます。出力はRCA固定と光/同軸デジタル（入力は非搭載）です。外形434 × 138 × 405 mm、16.8 kg。国内実勢は約396,000円、米国価格は3,299 USDです。 [1][2][3][4]

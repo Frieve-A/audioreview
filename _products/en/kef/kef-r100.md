@@ -5,6 +5,7 @@ target_name: "KEF R100"
 company_id: kef
 lang: en
 ref: kef-r100
+audiodb_uid: adb-a3ce7a9a7ec2
 date: 2025-10-31
 rating: [3.5, 0.7, 0.7, 0.4, 0.9, 0.8]
 price: 1200

@@ -5,6 +5,7 @@ target_name: "iFi audio ZEN DAC Signature V2"
 company_id: ifi-audio
 lang: ja
 ref: ifi-audio-zen-dac-signature-v2
+audiodb_uid: adb-b798d4e49b7e
 date: 2025-09-15
 rating: [2.6, 0.8, 0.6, 0.4, 0.4, 0.4]
 price: 47450
@@ -12,7 +13,6 @@ summary: "ZEN DAC Signature V2はS/N比116dBとTHD 0.00015%という優秀な測
 tags: [DAC, デスクトップオーディオ, USBオーディオ, iFi Audio, バランス出力]
 permalink: /products/ja/ifi-audio-zen-dac-signature-v2/
 ---
-
 ## 概要
 
 iFi audio ZEN DAC Signature V2は、iFiのProシリーズにインスパイアされた真のディファレンシャル、デュアルモノ構成を特徴とするデスクトップ専用DACです。30万円のProシリーズから引き継がれたブティック級のコンポーネントと回路を採用し、16コアXMOSプロセッサ、Burr-Brown DAC、TDK、Panasonic、ELNAのプレミアム・キャパシタを搭載しています。32ビット/384kHz PCMおよびDSD256までの高解像度オーディオに対応し、完全なMQAデコードを内蔵、バランス4.4mmとアンバランスRCA出力を可変/固定モードで提供します。47,450円 (300 USD) で、アンプ機能を統合しないiFiのフラッグシップDAC専用ソリューションです。

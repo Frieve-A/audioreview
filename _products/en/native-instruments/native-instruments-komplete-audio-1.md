@@ -5,6 +5,7 @@ target_name: "Native Instruments Komplete Audio 1"
 company_id: native-instruments
 lang: en
 ref: native-instruments-komplete-audio-1
+audiodb_uid: adb-291828298576
 date: 2025-09-15
 rating: [3.0, 0.7, 0.4, 0.7, 0.6, 0.6]
 price: 154

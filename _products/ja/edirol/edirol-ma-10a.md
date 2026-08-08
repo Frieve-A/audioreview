@@ -5,6 +5,7 @@ target_name: "Edirol MA-10A"
 company_id: edirol
 lang: ja
 ref: edirol-ma-10a
+audiodb_uid: adb-eaef4c3db50a
 date: 2025-09-22
 rating: [2.6, 0.5, 0.4, 1.0, 0.3, 0.4]
 price: 10000
@@ -12,7 +13,6 @@ summary: "CRT時代の磁気シールド機能を備えた廃盤デスクトッ�
 tags: [デスクトップスピーカー, アクティブモニター, 廃盤, Edirol, Roland]
 permalink: /products/ja/edirol-ma-10a/
 ---
-
 ## 概要
 
 Edirol MA-10A Amplified Digital Micro-Monitorは、CRTモニターとの互換性が重要だった時代のデスクトップスタジオモニタリングに対する基本的なアプローチを示しています。この2ウェイバスレフレックス設計は、9.2cmウーファーと5cmツイーターの構成により、総出力20W（公式仕様によると1チャンネルあたり10W）を提供します。プロフェショナルなモニタリング機器として販売されていましたが、MA-10Aは高度な機能を持たない従来のアナログ増幅を採用しています。製品は廃盤となっており、現在はペアで約10,000円の中古市場でのみ入手可能です。

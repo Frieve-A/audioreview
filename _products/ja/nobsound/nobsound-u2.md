@@ -5,6 +5,7 @@ target_name: "Nobsound U2"
 company_id: nobsound
 lang: ja
 ref: nobsound-u2
+audiodb_uid: adb-1b23cf9d2bd1
 date: 2025-12-19
 rating: [2.9, 0.5, 0.4, 0.7, 0.5, 0.8]
 price: 6800
@@ -12,7 +13,6 @@ summary: "実証済みの技術により透明な性能を手頃な価格で実�
 tags: [デジタルインターフェース, USBコンバーター, XMOS, S/PDIF, DSD, 低価格オーディオ]
 permalink: /products/ja/nobsound-u2/
 ---
-
 ## 概要
 
 Nobsound U2は、NobroundブランドでDouk Audioが製造するUSB to S/PDIFデジタルコンバーターです。2013年に中国深センで設立された同社は、「HiFiを身近に」という理念のもと、手頃な価格のHi-Fiオーディオ機器に特化しています。U2はXMOS XU208チップセットを使用してUSBオーディオ信号を光デジタル（TOSLINK）および同軸（S/PDIF）出力に変換し、最大192kHz/24ビットのPCM形式およびDSD64に対応しています。このコンパクトでUSB電源駆動のデバイスは、コンピューターや他のUSBオーディオソースにデジタル出力を追加し、外部DACやデジタルオーディオシステムとの接続を求めるユーザーを対象としています。

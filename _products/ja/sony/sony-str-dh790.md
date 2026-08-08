@@ -5,6 +5,7 @@ target_name: "Sony STR-DH790"
 company_id: sony
 lang: ja
 ref: sony-str-dh790
+audiodb_uid: adb-87aba0643b41
 date: 2025-08-20
 rating: [3.4, 0.6, 0.5, 1.0, 0.6, 0.7]
 price: 56800
@@ -12,7 +13,6 @@ summary: "ドルビーアトモス/DTS:XとeARCに対応する7.2ch入門機。�
 tags: [AVレシーバー, ホームシアター, ドルビーアトモス, DTS:X, 7.2チャンネル]
 permalink: /products/ja/sony-str-dh790/
 ---
-
 ## 概要
 
 Sony STR-DH790は、エントリー向けの7.2チャンネルAVレシーバーです。ドルビーアトモス/DTS:X対応、4系統HDMI入力（4K/60p・HDR10/HLG/ドルビービジョンパススルー）、1系統HDMI出力（eARC/ARC対応）、Bluetooth受信（SBC/AAC）、自動音場補正DCACを搭載します。高さ約5.25インチの省スペース筐体で、ネットワーク再生や高度なルーム補正を必要としないユーザーに向きます [1][2][3][4][5]。

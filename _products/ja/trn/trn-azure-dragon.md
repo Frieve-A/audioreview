@@ -5,6 +5,7 @@ target_name: "TRN Azure Dragon"
 company_id: trn
 lang: ja
 ref: trn-azure-dragon
+audiodb_uid: adb-75c96b0a4f30
 date: 2025-11-24
 rating: [2.1, 0.5, 0.6, 0.1, 0.3, 0.6]
 price: 25000

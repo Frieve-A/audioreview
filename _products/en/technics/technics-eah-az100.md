@@ -5,6 +5,7 @@ target_name: "Technics EAH-AZ100"
 company_id: technics
 lang: en
 ref: technics-eah-az100
+audiodb_uid: adb-c57f704044b6
 date: 2025-12-11
 rating: [2.9, 0.4, 0.8, 0.3, 0.8, 0.6]
 price: 250
@@ -12,7 +13,6 @@ summary: "Premium true wireless earbuds featuring proprietary magnetic fluid dri
 tags: [Active noise cancelling, Hi-Res, Technics, Wireless earphones]
 permalink: /products/en/technics-eah-az100/
 ---
-
 ## Overview
 
 The Technics EAH-AZ100 represents the company's flagship true wireless earbuds announced in January 2025, celebrating Technics' 60th anniversary. Currently priced at 250 USD, these earbuds feature proprietary magnetic fluid driver technology derived from the acclaimed TZ700 wired in-ear monitors. Key specifications include 10mm magnetic fluid drivers, frequency response of 20Hz-40kHz, Bluetooth 5.3 connectivity with LDAC/AAC/SBC/LC3 codec support, and full adaptive digital hybrid noise cancellation. The product offers multipoint connection to 3 devices simultaneously, IPX4 water resistance, and spatial audio optimized for Dolby Atmos with head tracking functionality.

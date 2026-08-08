@@ -5,6 +5,7 @@ target_name: "Bose QuietComfort Earbuds (2024)"
 company_id: bose
 lang: en
 ref: bose-quietcomfort-earbuds-2024
+audiodb_uid: adb-20cc0405fdba
 date: 2025-07-26
 rating: [2.7, 0.6, 0.7, 0.4, 0.4, 0.6]
 price: 179

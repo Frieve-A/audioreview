@@ -5,6 +5,7 @@ target_name: "ELAC Vela BS 403"
 company_id: elac
 lang: en
 ref: elac-vela-bs-403
+audiodb_uid: adb-e12f6dda172b
 date: 2025-08-26
 rating: [2.9, 0.5, 0.7, 0.3, 0.7, 0.7]
 price: 1600
@@ -12,7 +13,6 @@ summary: "Close-out bookshelf speaker with JET 5 AMT tweeter and trapezoid cabin
 tags: [Bookshelf, Passive, Ribbon, Tweeter, Close-out]
 permalink: /products/en/elac-vela-bs-403/
 ---
-
 ## Overview
 
 The Vela BS 403 is a 2-way, bass-reflex passive bookshelf speaker featuring ELAC’s handmade JET 5 Air Motion Transformer tweeter and a 150 mm AS-XR woofer in a distinctive trapezoid enclosure with a down-firing port. Manufacturer specs list 41 Hz–50 kHz response (no tolerance given), 86 dB sensitivity (2.83 V/1 m) and 4 Ω nominal impedance [2]. The original BS 403 has since been superseded by the BS403.2 (“Vela 2.0”) with the JET 6 tweeter, and the BS 403 is sold as a close-out or appears on the used market [7][8].

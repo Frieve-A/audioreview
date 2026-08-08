@@ -5,6 +5,7 @@ target_name: "TRUTHEAR TRUTHEAR x Crinacle ZERO"
 company_id: truthear
 lang: ja
 ref: truthear-x-crinacle-zero
+audiodb_uid: adb-125fdc414ae8
 date: 2026-02-16
 rating: [3.1, 0.7, 0.5, 0.4, 0.5, 1.0]
 price: 8979

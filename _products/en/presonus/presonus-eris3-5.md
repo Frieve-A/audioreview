@@ -5,6 +5,7 @@ target_name: "PreSonus Eris3-5"
 company_id: presonus
 lang: en
 ref: presonus-eris3-5
+audiodb_uid: adb-a8fcc68c5bb6
 date: 2025-07-20
 rating: [2.7, 0.5, 0.6, 0.6, 0.5, 0.5]
 price: 130

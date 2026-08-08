@@ -5,6 +5,7 @@ target_name: "Grado SR-325x"
 company_id: grado
 lang: en
 ref: grado-sr-325x
+audiodb_uid: adb-b68acec69c03
 date: 2025-08-04
 rating: [3.0, 0.5, 0.6, 0.7, 0.7, 0.5]
 price: 295
@@ -12,7 +13,6 @@ summary: "Traditional open-back headphones from veteran American manufacturer Gr
 tags: [Headphones, Open-back, Grado, Made in USA]
 permalink: /products/en/grado-sr-325x/
 ---
-
 ## Overview
 
 The Grado SR-325x is an open-back headphone from Grado Labs, an American company founded in 1953 and based in Brooklyn. Positioned as an upper model in the company's Prestige series, it features aluminum housing and 4th generation X-series drivers. The headphones are characterized by traditional hand assembly and have received recognition including the What Hi-Fi? Awards 2024, earning appreciation from music enthusiasts. With specifications of 18-24,000Hz frequency response, 38-ohm impedance, and 99.8dB@1mW sensitivity, it offers a relatively easy-to-drive design.

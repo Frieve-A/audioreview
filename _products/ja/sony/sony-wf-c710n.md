@@ -5,6 +5,7 @@ target_name: "Sony WF-C710N"
 company_id: sony
 lang: ja
 ref: sony-wf-c710n
+audiodb_uid: adb-79d6c716ef3f
 date: 2025-07-14
 rating: [3.8, 0.7, 0.9, 0.7, 0.8, 0.7]
 price: 15600

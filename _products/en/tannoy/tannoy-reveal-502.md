@@ -5,6 +5,7 @@ target_name: "Tannoy Reveal 502"
 company_id: tannoy
 lang: en
 ref: tannoy-reveal-502
+audiodb_uid: adb-58d52c35716c
 date: 2025-09-22
 rating: [2.6, 0.4, 0.4, 1.0, 0.3, 0.5]
 price: 298

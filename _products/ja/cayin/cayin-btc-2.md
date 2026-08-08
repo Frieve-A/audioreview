@@ -5,6 +5,7 @@ target_name: "Cayin BTC-2"
 company_id: cayin
 lang: ja
 ref: cayin-btc-2
+audiodb_uid: adb-c595339b7c02
 date: 2025-12-29
 rating: [3.0, 0.8, 0.5, 0.8, 0.5, 0.4]
 price: 20850
@@ -12,7 +13,6 @@ summary: "ES9018K2Mチップを搭載したデスクトップBluetoothDAC/アン
 tags: [DAC, アンプ, Bluetooth, デスクトップ, バランス]
 permalink: /products/ja/cayin-btc-2/
 ---
-
 ## 概要
 
 Cayin BTC-2は、ワイヤレス接続とハイレゾ音声処理を組み合わせたデスクトップBluetoothDAC・ヘッドホンアンプです。ES9018K2M SABRE32 Reference DACとQualcomm QCC5125 Bluetooth SoCを中心に構築され、LDAC、aptX HD、その他のプレミアムコーデックをサポートしています。Bluetooth、S/PDIF、アナログライン入力などの複数入力オプションと共に、シングルエンドおよびバランス両方のヘッドホン出力を提供します。包括的な接続性と透明性能レベルを実現する測定仕様により、BTC-2は音響品質を犠牲にすることなくワイヤレスの柔軟性を求めるユーザーをターゲットとしています。

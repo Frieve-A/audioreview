@@ -5,6 +5,7 @@ target_name: "Focal Alpha 65 Evo"
 company_id: focal
 lang: en
 ref: focal-alpha-65-evo
+audiodb_uid: adb-7bcb907d2951
 date: 2025-08-23
 rating: [2.8, 0.7, 0.5, 0.6, 0.6, 0.4]
 price: 998

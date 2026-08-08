@@ -5,6 +5,7 @@ target_name: "Edifier R1850DB"
 company_id: edifier
 lang: ja
 ref: edifier-r1850db
+audiodb_uid: adb-df6c5356ac13
 date: 2025-09-02
 rating: [3.1, 0.5, 0.5, 0.7, 0.7, 0.7]
 price: 22064
@@ -12,7 +13,6 @@ summary: "前傾バッフルのリア・バスレフ2.0。光/同軸入力とBlu
 tags: [ブックシェルフ, アクティブ, Bluetooth, 光入力, 同軸入力, サブウーファー出力, デスクトップ, TV]
 permalink: /products/ja/edifier-r1850db/
 ---
-
 ## 概要
 
 R1850DBは、4インチ・ノメックス振動板ウーファーと0.75インチ・シルクドームツイーターを用いた前傾バッフルのアクティブ2.0です。アナログに加え**光/同軸**デジタル入力、Bluetooth、**サブウーファー出力**を搭載。公称は合計70 W RMS、周波数特性60 Hz–20 kHz、SNR ≥85 dB(A)、THD+N ≤0.5%です [1]。

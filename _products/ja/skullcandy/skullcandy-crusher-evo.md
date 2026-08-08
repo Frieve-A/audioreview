@@ -5,6 +5,7 @@ target_name: "Skullcandy Crusher Evo"
 company_id: skullcandy
 lang: ja
 ref: skullcandy-crusher-evo
+audiodb_uid: adb-3bf1ade893d8
 date: 2025-09-19
 rating: [2.9, 0.4, 0.7, 1.0, 0.2, 0.6]
 price: 27999
@@ -12,7 +13,6 @@ summary: "独自のハプティックフィードバック技術を搭載した�
 tags: [ヘッドホン, ワイヤレス, 低音, ハプティック, Bluetooth]
 permalink: /products/ja/skullcandy-crusher-evo/
 ---
-
 ## 概要
 
 Skullcandy Crusher Evoは、独自のCrusher Bassハプティックフィードバックシステムと、AudiodoによるPersonal Sound聴覚解析技術を搭載し、同社の低音強化型個人オーディオの特徴的なアプローチを体現する製品です。Crusher Wirelessの後継機種として発売されたこのオーバーイヤーヘッドホンは、従来の高忠実度再生よりも物理的に感じる低音体験を求める消費者をターゲットとしています。設計には、ハプティックフィードバック専用の低音ドライバーと組み合わせた40mmデュアルオーディオドライバーを採用し、左イヤーカップの物理スライダーで制御します。40時間のバッテリー寿命、Bluetooth 5.0接続、統合Tile検索技術により、測定ベースの性能よりも感覚体験を重視するライフスタイル指向のオーディオデバイスとして位置づけられています。注：本製品は2024年11月8日に販売終了となり、現在の市場可用性が制限されています。

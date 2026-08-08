@@ -5,6 +5,7 @@ target_name: "Genelec 8350A"
 company_id: genelec
 lang: en
 ref: genelec-8350a
+audiodb_uid: adb-e6ff745d0716
 date: 2025-08-12
 rating: [4.0, 0.8, 0.7, 0.7, 0.9, 0.9]
 price: 2595

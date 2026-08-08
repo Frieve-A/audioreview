@@ -5,6 +5,7 @@ target_name: "Marantz Stereo 70s"
 company_id: marantz
 lang: en
 ref: marantz-stereo-70s
+audiodb_uid: adb-76c76a9fe547
 date: 2026-01-06
 rating: [4.3, 0.7, 1.0, 1.0, 0.8, 0.8]
 price: 1200
@@ -12,7 +13,6 @@ summary: "2-channel stereo receiver combining 75W Class AB amplification with 8K
 tags: [Amplifiers, Stereo Receivers, HDMI, Streaming, HEOS]
 permalink: /products/en/marantz-stereo-70s/
 ---
-
 ## Overview
 
 The Marantz Stereo 70s is a 2-channel stereo receiver that merges traditional high-fidelity amplification with modern digital connectivity. Built around a Class AB amplifier delivering 75W per channel into 8 ohms, the unit incorporates Marantz's proprietary HDAM (High Dynamic Amplifier Module) technology alongside dual 32-bit/192kHz DACs. The receiver offers comprehensive HDMI connectivity with six inputs supporting 8K/60Hz and 4K/120Hz passthrough, integrated HEOS multi-room streaming platform, and extensive analog connectivity including moving magnet phono input. Designed in a slim 4-inch tall chassis, the Stereo 70s targets users seeking simplified two-channel audio with advanced video and streaming capabilities.

@@ -5,6 +5,7 @@ target_name: "Moondrop Space Travel 2 Ultra"
 company_id: moondrop
 lang: ja
 ref: moondrop-space-travel-2-ultra
+audiodb_uid: adb-150ffca7a5c6
 date: 2025-12-01
 rating: [3.9, 0.5, 0.8, 1.0, 0.6, 1.0]
 price: 6000

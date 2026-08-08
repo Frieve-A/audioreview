@@ -5,6 +5,7 @@ target_name: "Dan Clark Audio E3"
 company_id: dan-clark-audio
 lang: en
 ref: dan-clark-audio-e3
+audiodb_uid: adb-20b4202db7d6
 date: 2026-03-03
 rating: [4.0, 0.7, 0.9, 0.7, 0.7, 1.0]
 price: 1999.99

@@ -5,6 +5,7 @@ target_name: "DALI Menuet"
 company_id: dali
 lang: en
 ref: dali-menuet
+audiodb_uid: adb-b57a1e47a655
 date: 2025-08-07
 rating: [2.7, 0.4, 0.7, 0.2, 0.8, 0.6]
 price: 1386

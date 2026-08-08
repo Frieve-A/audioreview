@@ -5,6 +5,7 @@ target_name: "Audio-Technica ATH-909"
 company_id: audio-technica
 lang: ja
 ref: audio-technica-ath-909
+audiodb_uid: adb-beabf1989bb2
 date: 2026-05-03
 rating: [2.3, 0.5, 0.2, 0.8, 0.3, 0.5]
 price: 3800

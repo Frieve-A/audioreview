@@ -5,6 +5,7 @@ target_name: "QCY MeloBuds Pro"
 company_id: qcy
 lang: ja
 ref: qcy-melobuds-pro
+audiodb_uid: adb-a803e83c34bf
 date: 2025-07-15
 rating: [3.8, 0.7, 0.6, 1.0, 0.7, 0.8]
 price: 5700

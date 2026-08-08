@@ -5,6 +5,7 @@ target_name: "Samsung Music Frame"
 company_id: samsung
 lang: ja
 ref: samsung-music-frame
+audiodb_uid: adb-7a2bd72d5932
 date: 2025-11-24
 rating: [3.5, 0.3, 0.7, 1.0, 0.7, 0.8]
 price: 50399

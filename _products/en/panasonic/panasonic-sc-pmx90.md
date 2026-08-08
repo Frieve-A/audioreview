@@ -5,6 +5,7 @@ target_name: "Panasonic SC-PMX90"
 company_id: panasonic
 lang: en
 ref: panasonic-sc-pmx90
+audiodb_uid: adb-3bdaafefcfa1
 date: 2025-10-01
 rating: [3.1, 0.3, 0.7, 1.0, 0.5, 0.6]
 price: 286

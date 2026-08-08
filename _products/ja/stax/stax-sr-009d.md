@@ -5,6 +5,7 @@ target_name: "STAX SR-009D"
 company_id: stax
 lang: ja
 ref: stax-sr-009d
+audiodb_uid: adb-7c3e1d4eb5e3
 date: 2026-05-10
 rating: [1.6, 0.5, 0.5, 0.0, 0.4, 0.2]
 price: 419000

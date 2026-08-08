@@ -5,6 +5,7 @@ target_name: "Sansui AU-111 Vintage"
 company_id: sansui
 lang: ja
 ref: sansui-au-111-vintage
+audiodb_uid: adb-882abe853e33
 date: 2025-07-21
 rating: [1.1, 0.1, 0.3, 0.1, 0.3, 0.3]
 price: 300000
@@ -12,7 +13,6 @@ summary: "1965年発売のサンスイAU-111 Vintageは、THD 0.8%、S/N比70dB�
 tags: [真空管アンプ, プリメインアンプ, ビンテージ, サンスイ]
 permalink: /products/ja/sansui-au-111-vintage/
 ---
-
 ## 概要
 
 サンスイAU-111 Vintageは、1965年に発売された40W+40W出力の真空管プリメインアンプです。山水電気が黄金期に製造した最高級機として知られ、6L6GC管を4本使用したプッシュプル回路とサンスイ独自のSW-50出力トランスを搭載しています。1999年にAU-111 Vintageとして復刻され、現在も中古市場で高い人気を維持している日本を代表するビンテージオーディオ機器の一つです。

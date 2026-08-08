@@ -5,6 +5,7 @@ target_name: "dbx RTA-M"
 company_id: dbx
 lang: ja
 ref: dbx-rta-m
+audiodb_uid: adb-a15cb9409500
 date: 2025-07-18
 rating: [2.1, 0.6, 0.2, 0.4, 0.4, 0.5]
 price: 9555
@@ -12,7 +13,6 @@ summary: "dbx RTA-Mは特定のDriveRackシステム専用の測定マイクと�
 tags: [測定マイク, dbx, DriveRack, RTA, 音響測定]
 permalink: /products/ja/dbx-rta-m/
 ---
-
 ## 概要
 
 dbx RTA-Mは、同社のDriveRackシリーズ（PA、PX、PA+、PA2、260）専用に設計された測定用コンデンサーマイクロホンです。システムセットアップウィザードやオートEQウィザードと組み合わせることで、困難な音響環境での音質最適化を目的としています。20Hz-20kHzの全周波数をカバーするフラットな周波数特性を謳い、15-48Vファントム電源で動作します。クリップとケースが付属しており、特にピンクノイズを用いたリアルタイム解析とフィードバック除去に特化した設計となっています。

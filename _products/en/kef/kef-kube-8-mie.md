@@ -5,6 +5,7 @@ target_name: "KEF Kube 8 MIE"
 company_id: kef
 lang: en
 ref: kef-kube-8-mie
+audiodb_uid: adb-41f87617185f
 date: 2025-08-12
 rating: [3.3, 0.5, 0.6, 0.9, 0.6, 0.7]
 price: 699.99
@@ -12,7 +13,6 @@ summary: "Compact 8-inch sealed subwoofer with Music Integrity Engine technology
 tags: [Subwoofer, Sealed, Compact, DSP, KEF]
 permalink: /products/en/kef-kube-8-mie/
 ---
-
 ## Overview
 
 The KEF Kube 8 MIE is a compact sealed subwoofer featuring an 8-inch driver powered by a 300-watt Class D amplifier. Introduced in 2024 as part of KEF's expanded subwoofer lineup, it incorporates the company's Music Integrity Engine (MIE) technology with Intelligent Bass Extension (iBX) for dynamic bass optimization. The sealed design prioritizes accuracy over maximum output, making it suitable for smaller listening environments and stereo systems where precise bass reproduction is valued over room-shaking volume.

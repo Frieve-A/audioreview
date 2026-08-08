@@ -5,6 +5,7 @@ target_name: "SMSL VMV D2r"
 company_id: smsl
 lang: en
 ref: smsl-vmv-d2r
+audiodb_uid: adb-d03f3e87ae6f
 date: 2025-08-28
 rating: [3.2, 0.8, 0.6, 0.5, 0.7, 0.6]
 price: 999

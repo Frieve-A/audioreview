@@ -5,6 +5,7 @@ target_name: "KZ Zenith"
 company_id: kz
 lang: ja
 ref: kz-zenith
+audiodb_uid: adb-be57a0855feb
 date: 2025-07-27
 rating: [2.8, 0.6, 0.5, 0.7, 0.5, 0.5]
 price: 8250

@@ -5,6 +5,7 @@ target_name: "Lewitt LCT 540 S"
 company_id: lewitt
 lang: ja
 ref: lewitt-lct-540-s
+audiodb_uid: adb-dd63c72509fa
 date: 2025-10-05
 rating: [4.5, 0.8, 1.0, 1.0, 0.8, 0.9]
 price: 78000
@@ -12,7 +13,6 @@ summary: "Perfect Match Technologyを搭載した超低ノイズスタジオコ�
 tags: [コンデンサー, マイク, スタジオ, 低ノイズ, カーディオイド]
 permalink: /products/ja/lewitt-lct-540-s/
 ---
-
 ## 概要
 
 Lewitt LCT 540 Sは、超低ノイズ録音用途向けに設計された大型ダイアフラムコンデンサースタジオマイクです。2009年に設立されたオーストリアのメーカーLewittが開発したこのマイクは、3ミクロンの金スパッタリングマイラーダイアフラムを備えた1インチの外部分極カプセルとカーディオイド極性パターンを特長としています。Lewittの独自技術であるPerfect Match Technologyを搭載し、製造時に各ユニットの分極電圧を個別調整することで、全ユニット間での感度の一貫性を確保しています。48Vファンタム電源で動作し、切り替え可能なパッドオプション（-6dB、-12dB）とローカットフィルター（80Hz、160Hz）を搭載し、金メッキXLRコネクターを備えた亜鉛ダイカストボディに収納されています。

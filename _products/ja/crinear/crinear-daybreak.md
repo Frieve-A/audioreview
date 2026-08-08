@@ -5,6 +5,7 @@ target_name: "CrinEar Daybreak"
 company_id: crinear
 lang: ja
 ref: crinear-daybreak
+audiodb_uid: adb-e689816a679c
 date: 2025-09-20
 rating: [2.5, 0.5, 0.6, 0.1, 0.4, 0.9]
 price: 24999

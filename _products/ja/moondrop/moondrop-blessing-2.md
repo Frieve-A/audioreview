@@ -5,6 +5,7 @@ target_name: "Moondrop Blessing 2"
 company_id: moondrop
 lang: ja
 ref: moondrop-blessing-2
+audiodb_uid: adb-5bb77c793869
 date: 2025-07-06
 rating: [2.7, 0.8, 0.7, 0.2, 0.6, 0.4]
 price: 48000

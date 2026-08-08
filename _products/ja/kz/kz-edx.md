@@ -5,6 +5,7 @@ target_name: "KZ EDX"
 company_id: kz
 lang: ja
 ref: kz-edx
+audiodb_uid: adb-e194bcb2c9a3
 date: 2025-08-19
 rating: [2.3, 0.3, 0.4, 0.7, 0.5, 0.4]
 price: 1900

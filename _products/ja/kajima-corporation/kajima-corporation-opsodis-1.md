@@ -5,6 +5,7 @@ target_name: "鹿島建設 OPSODIS 1"
 company_id: kajima-corporation
 lang: ja
 ref: kajima-corporation-opsodis-1
+audiodb_uid: adb-010e7be07459
 date: 2025-12-01
 rating: [3.0, 0.5, 0.9, 0.5, 0.1, 1.0]
 price: 74800
@@ -12,7 +13,6 @@ summary: "大学研究機関との共同開発により生まれた先進的な3
 tags: [スピーカー, 3D音響, DSP, 空間音響, 大学研究, 鹿島建設]
 permalink: /products/ja/kajima-corporation-opsodis-1/
 ---
-
 ## 概要
 
 OPSODIS 1は、1840年創業の日本の建設大手である鹿島建設による意欲的なコンシューマーオーディオへの参入製品です。同社の豊富な音響建築技術を活かし、サウサンプトン大学音響振動研究所との共同開発により、独自のOptimal Source Distribution（OPSODIS）技術を採用した2チャンネルスピーカーシステムとなっています。高度なクロストーク除去技術により3D空間音響体験を提供し、高性能浮動小数点DSP処理による6チャンネルマルチアンプ構成を特徴とします。堅牢なアルミニウム筐体に収められ、サイズは382mm x 130mm x 80mm、重量2.3kgです。

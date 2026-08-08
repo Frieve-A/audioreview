@@ -5,6 +5,7 @@ target_name: "miniDSP SHD"
 company_id: minidsp
 lang: en
 ref: minidsp-shd
+audiodb_uid: adb-1d45367d8cd3
 date: 2025-09-07
 rating: [3.7, 0.9, 0.7, 1.0, 0.1, 1.0]
 price: 1299

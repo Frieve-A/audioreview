@@ -5,6 +5,7 @@ target_name: "Technics SB-C600"
 company_id: technics
 lang: en
 ref: technics-sb-c600
+audiodb_uid: adb-671da77b4316
 date: 2025-08-13
 rating: [2.7, 0.5, 0.6, 0.7, 0.5, 0.4]
 price: 1100
@@ -12,7 +13,6 @@ summary: "Coaxial bookshelf speakers with refined sound and strong bass performa
 tags: [Speakers, Bookshelf, Coaxial, Technics, Passive]
 permalink: /products/en/technics-sb-c600/
 ---
-
 ## Overview
 
 The Technics SB-C600 is a 2-way coaxial bookshelf speaker system featuring a 15cm aluminum cone woofer with integrated 25mm aluminum dome tweeter. Released in November 2021 as part of Technics' Premium C600 series, these speakers employ the company's Linear Phase Plug technology and Smooth Flow Diaphragm design. With a coaxial driver configuration reminiscent of KEF's approach, the SB-C600 targets the competitive 1000 USD bookshelf speaker market.

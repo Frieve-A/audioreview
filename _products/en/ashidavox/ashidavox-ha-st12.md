@@ -5,6 +5,7 @@ target_name: "ASHIDAVOX HA-ST12"
 company_id: ashidavox
 lang: en
 ref: ashidavox-ha-st12
+audiodb_uid: adb-e9052912fbcd
 date: 2025-11-18
 rating: [3.4, 0.5, 0.6, 0.9, 0.8, 0.6]
 price: 46

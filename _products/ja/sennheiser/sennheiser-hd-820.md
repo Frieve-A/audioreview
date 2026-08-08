@@ -5,6 +5,7 @@ target_name: "Sennheiser HD 820"
 company_id: sennheiser
 lang: ja
 ref: sennheiser-hd-820
+audiodb_uid: adb-acfa23acbe9d
 date: 2025-08-04
 rating: [2.9, 0.7, 0.8, 0.1, 0.7, 0.6]
 price: 319000
@@ -12,7 +13,6 @@ summary: "革新的なガラス反射技術を採用したフラッグシップ�
 tags: [ヘッドホン, 密閉型, ハイエンド, Sennheiser]
 permalink: /products/ja/sennheiser-hd-820/
 ---
-
 ## 概要
 
 Sennheiser HD 820は、同社が開発したRing Radiator技術とコーニング社製ゴリラガラスを組み合わせた革新的な密閉型ヘッドホンです。2018年に発売されたこのフラッグシップモデルは、従来の密閉型ヘッドホンの課題である音場の狭さを解決するため、ドライバー背面からの音響エネルギーを特殊な凹面ガラスで反射し、専用の吸音チャンバーへ導く独自設計を採用しています。300Ωのインピーダンスを持つ56mmリングラジエーター型ドライバーを搭載し、6Hz-48kHzの広帯域再生を実現しています。現在の日本市場価格は約319,000円です。

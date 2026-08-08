@@ -5,6 +5,7 @@ target_name: "Audio-Technica ATH-WP900"
 company_id: audio-technica
 lang: ja
 ref: audio-technica-ath-wp900
+audiodb_uid: adb-f7e0020fea45
 date: 2025-10-27
 rating: [3.1, 0.5, 0.8, 0.2, 0.9, 0.7]
 price: 96500
@@ -12,7 +13,6 @@ summary: "独自のA2DCコネクターシステムとDLCコーティングドラ
 tags: [ヘッドホン, 密閉型, オーバーイヤー, 木製, プレミアム, ダイナミック]
 permalink: /products/ja/audio-technica-ath-wp900/
 ---
-
 ## 概要
 
 Audio-Technica ATH-WP900は、同社のプレミアムポータブルヘッドホンとして位置づけられ、日本のギターメーカーであるフジゲンとのコラボレーションによる美しい杢目仕上げのメープル材ハウジングを特徴とします。東京での手組み組立により製造されるこの密閉型オーバーイヤーヘッドホンは、DLC（ダイヤモンドライクカーボン）コーティングを施した53mmダイナミックドライバーと、Audio-Technica独自のA2DCコネクターシステムを採用しています。ATH-WP900は、プレミアムな職人技と素材を求めるオーディオファイルをターゲットとし、5Hzから50kHzまでの周波数特性を謳うフラッグシップポータブルヘッドホンとして位置づけられています [1]。

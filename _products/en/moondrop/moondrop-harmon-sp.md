@@ -5,6 +5,7 @@ target_name: "MOONDROP Harmon-SP"
 company_id: moondrop
 lang: en
 ref: moondrop-harmon-sp
+audiodb_uid: adb-f574aec86473
 date: 2025-11-24
 rating: [3.7, 0.5, 0.9, 1.0, 0.4, 0.9]
 price: 319
@@ -12,7 +13,6 @@ summary: "Triple dynamic driver in-ear monitor featuring patented four-cavity cr
 tags: [Headphones, In-Ear-Monitors, Dynamic-Drivers, Triple-Driver, Moondrop, Premium]
 permalink: /products/en/moondrop-harmon-sp/
 ---
-
 ## Overview
 
 The MOONDROP Harmon-SP represents a collaboration variant between TAGO STUDIO and MOONDROP, distinct from the standard Harmon XTM-3DD with different specifications and tuning characteristics. This variant features an advanced triple dynamic driver configuration utilizing three 10mm dynamic drivers: one mid-high driver paired with MOONDROP's proprietary H.O.D.D.D.U.S. (Horizontally Opposed Dual Dynamic Driver System) bass module. Key specification differences from the standard Harmon include 7.5Ω impedance versus 19Ω, and 119dB/Vrms sensitivity versus 114dB/Vrms, while maintaining identical ≤0.1% THD performance and four-cavity crossover technology. Priced at 319 USD, the Harmon-SP targets the premium in-ear monitor market with claims of ultra-low distortion and extended frequency response capabilities.

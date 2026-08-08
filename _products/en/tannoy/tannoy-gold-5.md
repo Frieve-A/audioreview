@@ -5,6 +5,7 @@ target_name: "Tannoy Gold 5"
 company_id: tannoy
 lang: en
 ref: tannoy-gold-5
+audiodb_uid: adb-be698cac7bec
 date: 2025-07-21
 rating: [2.4, 0.4, 0.4, 0.6, 0.7, 0.3]
 price: 229

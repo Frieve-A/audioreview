@@ -5,6 +5,7 @@ target_name: "7Hz Crinacle Zero:2"
 company_id: 7hz
 lang: ja
 ref: 7hz-crinacle-zero-2
+audiodb_uid: adb-cae0664bcbde
 date: 2026-01-21
 rating: [3.5, 0.7, 0.3, 1.0, 0.6, 0.9]
 price: 3750
@@ -12,7 +13,6 @@ summary: "中国の7Hzとオーディオレビュアーのクリナクルによ�
 tags: [予算重視, 中国, コラボレーション, クリナクル, インイヤーモニター]
 permalink: /products/ja/7hz-crinacle-zero-2/
 ---
-
 ## 概要
 
 7Hz × Crinacle Zero:2は、中国のメーカー7Hzと測定重視のオーディオレビュアーであるクリナクルによる第二回目のコラボレーション製品です。このシングルダイナミックドライバーIEMは、初代Zeroをベースに低音域を強化（低域3dBゲイン増）しながらも、ニュートラルな中音域特性を維持しています。着脱式0.78mm 2pinケーブルとデュアルキャビティドライバー設計により、シングルキャビティ実装と比較して低音制御の改善とより広いサウンドステージを目指しています。

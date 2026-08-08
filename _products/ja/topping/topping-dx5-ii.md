@@ -5,6 +5,7 @@ target_name: "Topping DX5 II"
 company_id: topping
 lang: ja
 ref: topping-dx5-ii
+audiodb_uid: adb-cdb918611d0c
 date: 2026-01-31
 rating: [4.3, 0.9, 1.0, 1.0, 0.4, 1.0]
 price: 45000
@@ -12,7 +13,6 @@ summary: "デュアルES9039Q2M DACと独自のX-Hybridアンプ技術を搭載�
 tags: [デスクトップDAC, ヘッドホンアンプ, バランス出力, パラメトリックEQ, ブルートゥース]
 permalink: /products/ja/topping-dx5-ii/
 ---
-
 ## 概要
 
 Topping DX5 IIは、デュアルESS ES9039Q2M DACチップとToppingの独自X-Hybridアンプアーキテクチャを組み合わせた、デスクトップオーディオの大幅な進化を表しています。2025年6月にリリースされたこの299米ドルのデスクトップDAC/ヘッドホンアンプは、7600mWの出力パワー、10バンドパラメトリックイコライゼーション、LDAC対応Bluetooth 5.1を含む包括的な接続性を提供します。デバイスは2.0インチAurora UIディスプレイと、4.4mmバランス、4ピンXLRバランス、6.35mmシングルエンド接続を含む複数の出力オプションを特徴としています[1]。

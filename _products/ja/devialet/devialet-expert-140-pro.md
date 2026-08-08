@@ -5,6 +5,7 @@ target_name: "Devialet Expert 140 Pro"
 company_id: devialet
 lang: ja
 ref: devialet-expert-140-pro
+audiodb_uid: adb-a66a2696faa7
 date: 2025-09-02
 rating: [2.9, 0.6, 0.8, 0.4, 0.6, 0.5]
 price: 962874
@@ -12,7 +13,6 @@ summary: "独自のADHとSAMを備える洗練オールインワン機ですが�
 tags: [プリメインアンプ, DAC, ストリーマー, フォノステージ, ADH技術, SAM]
 permalink: /products/ja/devialet-expert-140-pro/
 ---
-
 ## 概要
 
 Expert 140 Proは、プリアンプ／パワーアンプ／DAC／ストリーマー／フォノステージを40 mm厚のアルミ筐体に統合したオールインワン機です。定格は6Ωで140W（8Ωで約105W）。ADH（Analog Digital Hybrid）増幅とSAM（Speaker Active Matching）を中核とし、USBはPCM 32-bit/192kHz（AIR／Roon Ready／UPnPは24-bit/192kHz）、DSD64（USB／同軸）に対応します。UPnP、Air／Devialet AIR、AirPlay、Spotify Connect、Roon Readyの配信に対応します。価格は6,490 USD（参考表示：962,874円）です。

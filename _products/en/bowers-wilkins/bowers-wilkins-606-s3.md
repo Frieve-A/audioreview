@@ -5,6 +5,7 @@ target_name: "Bowers & Wilkins 606 S3"
 company_id: bowers-wilkins
 lang: en
 ref: bowers-wilkins-606-s3
+audiodb_uid: adb-91f0ba5517ff
 date: 2025-10-18
 rating: [3.2, 0.5, 0.8, 0.3, 0.8, 0.8]
 price: 1100

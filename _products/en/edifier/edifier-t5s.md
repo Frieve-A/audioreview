@@ -5,6 +5,7 @@ target_name: "Edifier T5S"
 company_id: edifier
 lang: en
 ref: edifier-t5s
+audiodb_uid: adb-0ddfc16776b7
 date: 2026-02-24
 rating: [2.9, 0.5, 0.5, 1.0, 0.4, 0.5]
 price: 199.99

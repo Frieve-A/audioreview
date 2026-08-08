@@ -5,6 +5,7 @@ target_name: "Bowers & Wilkins PX7 S2e"
 company_id: bowers-wilkins
 lang: en
 ref: bowers-wilkins-px7-s2e
+audiodb_uid: adb-96241a8f122d
 date: 2025-07-29
 rating: [3.7, 0.6, 0.7, 0.9, 0.7, 0.8]
 price: 227

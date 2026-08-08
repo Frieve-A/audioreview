@@ -5,6 +5,7 @@ target_name: "FiiO JT3"
 company_id: fiio
 lang: en
 ref: fiio-jt3
+audiodb_uid: adb-1f1c44f114bf
 date: 2026-04-16
 rating: [3.6, 0.6, 0.5, 1.0, 0.6, 0.9]
 price: 70
@@ -12,7 +13,6 @@ summary: "Open-back dynamic headphones with PEK+PU composite diaphragm offering 
 tags: [headphones, open-back, dynamic, budget, audiophile]
 permalink: /products/en/fiio-jt3/
 ---
-
 ## Overview
 
 The FiiO JT3 represents the company's entry-level audiophile offering under the Jade Audio brand, featuring a 50mm dynamic driver system with proprietary PEK+PU composite diaphragm technology. Positioned at 70 USD, the open-back design incorporates N52 neodymium magnets, CCAW voice coil construction, and angled driver placement targeting budget-conscious audio enthusiasts. FiiO's established presence in portable audio extends to this over-ear implementation, emphasizing measured performance optimization over premium materials or extensive accessories to achieve accessible pricing in the competitive sub-100 USD headphone market.

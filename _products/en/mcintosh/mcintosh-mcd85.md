@@ -5,6 +5,7 @@ target_name: "McIntosh MCD85"
 company_id: mcintosh
 lang: en
 ref: mcintosh-mcd85
+audiodb_uid: adb-8f8e0ce4aa5d
 date: 2025-08-28
 rating: [2.9, 0.8, 0.5, 0.4, 0.6, 0.6]
 price: 4500
@@ -12,7 +13,6 @@ summary: "Premium SACD/CD player with transparent-level performance; cost-effect
 tags: [CD Player, SACD Player, DAC, McIntosh, USB DAC]
 permalink: /products/en/mcintosh-mcd85/
 ---
-
 ## Overview
 
 The McIntosh MCD85 is a current-production SACD/CD player released in February 2021. It combines traditional disc playback with a USB Audio input supporting up to DSD256 and DXD 384kHz, and uses a quad-balanced 8-channel 32-bit/192kHz DAC topology (four DAC channels per stereo channel) in a compact, retro-styled chassis with die-cast aluminum construction and direct LED backlighting [2][3].

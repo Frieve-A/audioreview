@@ -5,6 +5,7 @@ target_name: "Meze Audio 105 Silva"
 company_id: meze-audio
 lang: en
 ref: meze-audio-105-silva
+audiodb_uid: adb-3e8801fddfba
 date: 2025-11-24
 rating: [3.1, 0.6, 0.8, 0.4, 0.7, 0.6]
 price: 499
@@ -12,7 +13,6 @@ summary: "Open-back headphones featuring advanced carbon fiber-reinforced cellul
 tags: [Headphones, Open-back, Dynamic, Meze Audio, Premium]
 permalink: /products/en/meze-audio-105-silva/
 ---
-
 ## Overview
 
 The Meze Audio 105 Silva is an open-back headphone featuring 50mm dynamic drivers with carbon fiber-reinforced cellulose composite dome and titanium coating applied through Physical Vapor Deposition (PVD) process. Priced at 499 USD, the headphones incorporate walnut wood ear cups and include a USB-C adapter with integrated DAC/amplifier. The product represents Meze Audio's approach to combining premium materials with contemporary driver technology, targeting the mid-to-high-end personal audio market with impedance of 42Ω and sensitivity of 112 dB/mW.

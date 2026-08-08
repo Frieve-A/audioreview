@@ -5,6 +5,7 @@ target_name: "AKG P104"
 company_id: akg
 lang: ja
 ref: akg-p104
+audiodb_uid: adb-a33da4184304
 date: 2025-12-16
 rating: [2.2, 0.5, 0.5, 0.4, 0.5, 0.3]
 price: 15000
@@ -12,7 +13,6 @@ summary: "Mercedes-Benz後席エンターテイメントシステム専用に設
 tags: [ヘッドホン, ワイヤレス, 自動車用, Kleer, RF, Mercedes-Benz, 廃盤]
 permalink: /products/ja/akg-p104/
 ---
-
 ## 概要
 
 AKG P104は、2010年頃にAKG、Harman Becker Automotive Systems、Mercedes-Benzの共同開発により、Mercedes-Benz後席エンターテイメントシステム専用に設計されたワイヤレスヘッドホンです。本製品は2.4GHzでのKleer RF伝送を使用した初期の自動車用ワイヤレス音響技術の実装例であり、Mercedes SクラスおよびEクラスとのバンドル販売が行われていました。40mmドライバ、セミクローズド音響特性のスープラオーラル設計、3つのオーディオソース切り替え機能を特徴としていました。当時としては革新的でしたが、自動車業界が標準的なBluetooth実装へ移行するに伴い現在は廃盤となっています。

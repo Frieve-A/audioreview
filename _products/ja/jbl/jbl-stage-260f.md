@@ -5,6 +5,7 @@ target_name: "JBL Stage 260F"
 company_id: jbl
 lang: ja
 ref: jbl-stage-260f
+audiodb_uid: adb-ec780663064d
 date: 2025-08-13
 rating: [2.3, 0.5, 0.5, 0.4, 0.5, 0.4]
 price: 82493

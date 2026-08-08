@@ -5,6 +5,7 @@ target_name: "Pioneer M-25"
 company_id: pioneer
 lang: en
 ref: pioneer-m-25
+audiodb_uid: adb-9ac05193fe0b
 date: 2025-08-09
 rating: [2.1, 0.7, 0.3, 0.3, 0.4, 0.4]
 price: 667

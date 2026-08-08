@@ -5,6 +5,7 @@ target_name: "KEF R700"
 company_id: kef
 lang: en
 ref: kef-r700
+audiodb_uid: adb-a8893ada98aa
 date: 2026-05-15
 rating: [3.6, 0.7, 0.6, 0.5, 0.9, 0.9]
 price: 1550

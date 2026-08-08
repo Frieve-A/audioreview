@@ -5,6 +5,7 @@ target_name: "Bowers & Wilkins 607 S2 Anniversary Edition"
 company_id: bowers-wilkins
 lang: en
 ref: bowers-wilkins-607-s2-anniversary-edition
+audiodb_uid: adb-632ab5c02b2d
 date: 2025-09-17
 rating: [3.4, 0.7, 0.6, 0.9, 0.8, 0.4]
 price: 1480

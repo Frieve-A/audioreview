@@ -5,6 +5,7 @@ target_name: "Creative Sound Blaster G3"
 company_id: creative
 lang: ja
 ref: creative-sound-blaster-g3
+audiodb_uid: adb-3c9523a3aa7a
 date: 2025-09-02
 rating: [2.7, 0.2, 0.5, 0.9, 0.6, 0.5]
 price: 10300
@@ -12,7 +13,6 @@ summary: "測定性能に問題があり信頼性に課題のあるエントリ�
 tags: [USB DAC, ゲーミング, ポータブル, ヘッドホンアンプ]
 permalink: /products/ja/creative-sound-blaster-g3/
 ---
-
 ## 概要
 
 Creative Sound Blaster G3は、主にゲーミング用途向けに設計されたCreativeのエントリーレベル外付けUSB DACおよびヘッドホンアンプです。CreativeとしてUSB-C電源の初の外付けサウンドカードとしてリリースされ、ドライバー不要のプラグアンドプレイ機能でPlayStation 4/5、Nintendo Switch、PC、Macユーザーをターゲットとしています。24ビット/96kHzまでの音声再生・録音に対応し、最大300Ωのヘッドホンを駆動でき、オーディオとチャットのバランス調整のためのGameVoice Mix機能を搭載しています。追加機能として7.1サラウンド仮想化、各種音響処理エフェクト、Bluetooth経由のモバイルアプリ制御があります。

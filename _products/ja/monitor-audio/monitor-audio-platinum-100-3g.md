@@ -5,6 +5,7 @@ target_name: "Monitor Audio Platinum 100 3G"
 company_id: monitor-audio
 lang: ja
 ref: monitor-audio-platinum-100-3g
+audiodb_uid: adb-d4af755bb139
 date: 2025-08-24
 rating: [3.0, 0.5, 0.8, 0.4, 0.7, 0.6]
 price: 891000
@@ -12,7 +13,6 @@ summary: "MPD IIIツイーターとRDT IIIミッドバスを搭載した小型�
 tags: [ブックシェルフ, スピーカー, Monitor Audio, Platinum, MPD, RDT]
 permalink: /products/ja/monitor-audio-platinum-100-3g/
 ---
-
 ## 概要
 
 Platinum 100 3Gは、Monitor AudioのPlatinum Series 3Gに属する2ウェイブックシェルフです。MPD III高域トランスデューサーと6インチRDT IIIコーンを採用し、コンパクト筐体で高忠実度再生を狙う設計です [1]。

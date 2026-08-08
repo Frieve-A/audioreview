@@ -5,6 +5,7 @@ target_name: "Polk Audio Signature Elite ES50"
 company_id: polk-audio
 lang: en
 ref: polk-audio-signature-elite-es50
+audiodb_uid: adb-d4483d0323a8
 date: 2025-07-25
 rating: [2.7, 0.6, 0.5, 0.3, 0.7, 0.6]
 price: 500

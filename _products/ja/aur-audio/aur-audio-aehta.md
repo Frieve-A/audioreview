@@ -5,6 +5,7 @@ target_name: "AüR Audio Aehta"
 company_id: aur-audio
 lang: ja
 ref: aur-audio-aehta
+audiodb_uid: adb-a10bc9df1fe8
 date: 2025-08-21
 rating: [2.0, 0.4, 0.7, 0.1, 0.5, 0.3]
 price: 156000

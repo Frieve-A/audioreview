@@ -5,6 +5,7 @@ target_name: "Aune Audio XC1"
 company_id: aune-audio
 lang: en
 ref: aune-audio-xc1
+audiodb_uid: adb-228640c4b17d
 date: 2025-08-15
 rating: [3.0, 0.3, 0.7, 1.0, 0.6, 0.4]
 price: 299
@@ -12,7 +13,6 @@ summary: "A budget-friendly external 10 MHz OCXO clock with solid engineering; a
 tags: [Audio Clock, OCXO, External Clock, Digital Audio, Timing]
 permalink: /products/en/aune-audio-xc1/
 ---
-
 ## Overview
 
 The Aune XC1 is an external 10 MHz OCXO clock with four isolated, simultaneous outputs (two sine, two square). Key published specs include output power >7 dBm (50 Ω), rise time <2.75 ns, factory frequency accuracy <1 ppm, typical “audio stability” <10 ppt, and warm-up indicators (approx. 5 minutes basic / 60 minutes full) [1][2]. Street price is 299 USD [3].

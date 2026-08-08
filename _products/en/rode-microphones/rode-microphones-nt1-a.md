@@ -5,6 +5,7 @@ target_name: "RØDE NT1-A"
 company_id: rode-microphones
 lang: en
 ref: rode-microphones-nt1-a
+audiodb_uid: adb-c13e1fdab032
 date: 2025-10-09
 rating: [4.0, 0.8, 0.5, 1.0, 0.7, 1.0]
 price: 70
@@ -12,7 +13,6 @@ summary: "Large-diaphragm studio condenser microphone with exceptional 5dBA self
 tags: [Microphones, Studio, Professional, Recording, XLR, Condenser]
 permalink: /products/en/rode-microphones-nt1-a/
 ---
-
 ## Overview
 
 The RØDE NT1-A is a large-diaphragm studio condenser microphone that has established itself as a reliable choice for vocal recording and instrumental applications since its introduction. Featuring a 1-inch gold-sputtered capsule with cardioid polar pattern, the NT1-A delivers exceptional low self-noise performance at just 5dBA, placing it among the quietest studio microphones available. The microphone offers a frequency response spanning 20Hz-20kHz with relatively flat characteristics and subtle tonal coloration described as a mild "smile EQ" curve. Maximum SPL handling reaches 137dB, providing headroom for capturing loud sources. The NT1-A requires 24-48V phantom power and connects via standard XLR output. The complete package includes professional accessories: SM6 shock mount, removable pop shield, and premium XLR cable, making it a comprehensive recording solution.

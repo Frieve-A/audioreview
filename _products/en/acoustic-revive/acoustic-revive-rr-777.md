@@ -5,6 +5,7 @@ target_name: "Acoustic Revive RR-777"
 company_id: acoustic-revive
 lang: en
 ref: acoustic-revive-rr-777
+audiodb_uid: adb-275fcbf151a5
 date: 2025-08-25
 rating: [1.0, 0.1, 0.2, 0.1, 0.5, 0.1]
 price: 349
@@ -12,7 +13,6 @@ summary: "A 7.83 Hz Schumann-resonance generator positioned as an audio enhancer
 tags: [Tweaks, Electromagnetic, Generator, Acoustic-Revive, Schumann-Resonance]
 permalink: /products/en/acoustic-revive-rr-777/
 ---
-
 ## Overview
 
 The Acoustic Revive RR-777 is a standalone ultra-low-frequency pulse generator that emits the Schumann resonance fundamental at 7.83 Hz. It plugs into AC power and is not connected in the audio signal path. Marketing emphasizes room-wide “field” effects rather than changes in conventional audio measurements [1].

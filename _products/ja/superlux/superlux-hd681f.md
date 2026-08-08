@@ -5,6 +5,7 @@ target_name: "Superlux HD681F"
 company_id: superlux
 lang: ja
 ref: superlux-hd681f
+audiodb_uid: adb-0c3384f0c56d
 date: 2025-08-20
 rating: [3.4, 0.5, 0.5, 1.0, 0.6, 0.8]
 price: 3980
@@ -12,7 +13,6 @@ summary: "ポップスとボーカル再生を想定した「フロントロー�
 tags: [ヘッドホン, スタジオモニター, セミオープン, 低価格, ポップス]
 permalink: /products/ja/superlux-hd681f/
 ---
-
 ## 概要
 
 Superlux HD681Fは、50 mmネオジウム・ドライバーを搭載したセミオープン／サーカムラル型のモニターヘッドホンで、同シリーズ内でフラットかつボーカルを前景化する「フロントロー」志向のチューニングが特徴です[1]。公称値は32 Ω、感度98 dB SPL (1 mW)、再生帯域10–30,000 Hz、2.5 m片出しケーブルと変換アダプター同梱です[1][2]。

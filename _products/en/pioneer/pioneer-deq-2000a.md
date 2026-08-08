@@ -5,6 +5,7 @@ target_name: "Pioneer DEQ-2000A"
 company_id: pioneer
 lang: en
 ref: pioneer-deq-2000a
+audiodb_uid: adb-a050bb745f07
 date: 2026-02-11
 rating: [3.5, 0.5, 0.6, 1.0, 0.5, 0.9]
 price: 277

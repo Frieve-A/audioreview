@@ -5,6 +5,7 @@ target_name: "BLON x HBB Z300"
 company_id: blon
 lang: ja
 ref: blon-x-hbb-z300
+audiodb_uid: adb-7dab956e1ab6
 date: 2026-05-21
 rating: [1.6, 0.4, 0.2, 0.5, 0.3, 0.2]
 price: 5425
@@ -12,7 +13,6 @@ summary: "BLON x HBB Z300は35 USD（5,425円）のバジェットIEMで、強�
 tags: [インイヤーモニター, 有線, ダイナミックドライバー, バジェット, イヤホン]
 permalink: /products/ja/blon-x-hbb-z300/
 ---
-
 ## 概要
 
 BLON x HBB Z300は、中国のオーディオブランドBLONがコンテンツクリエイターのHBB（Hawaiian Bad Boy / Bad Guy Good Audio Reviews）と共同開発し、2023年4月に35 USDで発売されたコラボレーションIEMです。バジェットChi-Fiセグメントにおける複数のチューニングコラボを手がけるHBBにとって、Z300は11作目のコラボレーションと説明されています [3]。亜鉛合金製シェルにドラゴンパターンのフェイスプレートを採用した10mmシリコンダイアフラムのダイナミックドライバーを単基搭載し、到達可能な販売ページでは感度115dB、インピーダンス28ohm、0.78mm 2ピンコネクター、1.2m着脱式ケーブルが記載されています [1]。エントリーバジェット価格帯でバス重視のサウンドシグネチャーを求めるユーザーをターゲットとしています。

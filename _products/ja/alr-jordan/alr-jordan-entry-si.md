@@ -5,6 +5,7 @@ target_name: "ALR Jordan Entry Si"
 company_id: alr-jordan
 lang: ja
 ref: alr-jordan-entry-si
+audiodb_uid: adb-5319aca33672
 date: 2025-09-14
 rating: [2.0, 0.4, 0.4, 0.8, 0.1, 0.3]
 price: 17000
@@ -12,7 +13,6 @@ summary: "ドイツの廃業したメーカーによる伝統的メタルコー�
 tags: [スピーカー, ブックシェルフ, メタルコーン, 廃盤, ドイツ]
 permalink: /products/ja/alr-jordan-entry-si/
 ---
-
 ## 概要
 
 ALR Jordan Entry Siは、現在は存在しない旧西ドイツのメーカー ALR Jordanが開発したコンパクトなブックシェルフスピーカーです。2004年にリリースされ、オリジナルのツイーターが廃盤になった際にEntry Sの後継機として開発されました。Entry SiはALRテクノロジーとE.J.Jordanの研究開発を通じて開発された11.5cmメタルコーンウーファーと、2.5cmソフトドームツイーターを組み合わせています。元の会社は2000年に倒産し、ALR Acousticsとして復活したものの、最終的に2013年に清算され、現在は製造元サポートが一切利用できない廃盤製品となっています。

@@ -5,6 +5,7 @@ target_name: "Sony MDR-CD900ST"
 company_id: sony
 lang: ja
 ref: sony-mdr-cd900st
+audiodb_uid: adb-d212c6ee6155
 date: 2025-07-22
 rating: [2.5, 0.4, 0.4, 0.5, 0.8, 0.4]
 price: 15180

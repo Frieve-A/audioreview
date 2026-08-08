@@ -5,6 +5,7 @@ target_name: "Yamaha R-N800A"
 company_id: yamaha
 lang: ja
 ref: yamaha-r-n800a
+audiodb_uid: adb-54d9cd026bf4
 date: 2025-10-29
 rating: [4.0, 0.5, 0.9, 1.0, 0.7, 0.9]
 price: 179800
@@ -12,7 +13,6 @@ summary: "高性能USB DAC機能、YPAO室内音響補正、包括的接続性�
 tags: [ネットワークレシーバー, アンプ, ストリーミング, 室内音響補正, USB DAC]
 permalink: /products/ja/yamaha-r-n800a/
 ---
-
 ## 概要
 
 Yamaha R-N800Aは、従来のステレオアンプ機能と先進的なデジタル機能を融合したネットワークレシーバーです。8オーム負荷時100W + 100Wの出力を実現し、ヤマハ独自のYPAO室内音響補正システム、ネイティブDSD 11.2 MHzおよびPCM 384 kHz対応のESS SABRE ES9080Q DAC、Wi-Fi、イーサネット、AirPlay 2、Bluetooth接続を含む包括的なネットワークストリーミング機能を搭載しています。信号経路最適化のためのToP-ART技術と、信号干渉を最小限に抑えるピュアダイレクトモードを採用しています。

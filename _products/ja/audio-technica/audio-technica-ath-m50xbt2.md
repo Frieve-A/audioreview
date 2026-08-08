@@ -5,6 +5,7 @@ target_name: "Audio-Technica ATH-M50xBT2"
 company_id: audio-technica
 lang: ja
 ref: audio-technica-ath-m50xbt2
+audiodb_uid: adb-a198c64de81c
 date: 2025-12-08
 rating: [3.3, 0.4, 0.7, 0.5, 0.8, 0.9]
 price: 29800
@@ -12,7 +13,6 @@ summary: "ATH-M50xBT2は先進的なワイヤレス技術とアプリベース�
 tags: [ヘッドホン, Bluetooth, ワイヤレス, スタジオ, プロフェッショナル, LDAC, オーディオテクニカ]
 permalink: /products/ja/audio-technica-ath-m50xbt2/
 ---
-
 ## 概要
 
 Audio-Technica ATH-M50xBT2は、同社の高く評価されたワイヤレススタジオモニターヘッドホンの第2世代モデルです。2007年に導入されたATH-M50シリーズの遺産を受け継ぎ、この密閉型環耳式ヘッドホンは銅コーティングアルミニウムボイスコイルを採用した45mmネオジウムドライバーを搭載し、プロフェッショナルモニタリング用途向けに設計されています。ワイヤレス実装には専用ヘッドホンアンプ付きAK4331 32ビットDAC、LDACコーデック対応Bluetooth 5.0接続、A-T Connectアプリによる包括的なアプリベースカスタマイゼーション機能が組み込まれています。50時間以上のバッテリー持続時間とマルチポイントペアリング機能により、ATH-M50xBT2はワイヤレスモニタリングの柔軟性を求めるプロフェッショナルユーザーとスタジオクオリティの音声再生を求める一般消費者の両方をターゲットとしています。

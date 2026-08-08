@@ -5,6 +5,7 @@ target_name: "Zidoo UHD8000"
 company_id: zidoo
 lang: en
 ref: zidoo-uhd8000
+audiodb_uid: adb-768413c97054
 date: 2026-06-07
 rating: [3.4, 0.7, 0.7, 0.9, 0.6, 0.5]
 price: 1499

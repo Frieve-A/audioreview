@@ -5,6 +5,7 @@ target_name: "JBL Stage A130"
 company_id: jbl
 lang: ja
 ref: jbl-stage-a130
+audiodb_uid: adb-ed1400dfab54
 date: 2025-08-20
 rating: [2.7, 0.3, 0.6, 1.0, 0.6, 0.2]
 price: 26350
@@ -12,7 +13,6 @@ summary: "JBLのHDIウェーブガイドを採用するブックシェルフ。�
 tags: [ブックシェルフスピーカー, パッシブスピーカー, 2ウェイ, バジェットオーディオ]
 permalink: /products/ja/jbl-stage-a130/
 ---
-
 ## 概要
 
 JBL Stage A130は、JBLの**HDI（High-Definition Imaging）**ウェーブガイドを備えた1インチアルミドームツイーターと、5.25インチのポリセルロースウーファーを採用する2ウェイ受動型ブックシェルフです。公式仕様は55Hz～40kHz、感度86dB（2.83V/1m）、公称インピーダンス6Ω、クロスオーバー3.2kHz、リアバスレフとされています[3][4]。

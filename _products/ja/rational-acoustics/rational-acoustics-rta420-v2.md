@@ -5,6 +5,7 @@ target_name: "Rational Acoustics RTA-420"
 company_id: rational-acoustics
 lang: ja
 ref: rational-acoustics-rta420-v2
+audiodb_uid: adb-bbc2358f838d
 date: 2025-07-18
 rating: [2.8, 0.4, 0.5, 1.0, 0.5, 0.4]
 price: 13350
@@ -12,7 +13,6 @@ summary: "エントリークラスの測定用マイクロホンとして機能�
 tags: [測定マイク, 音響測定, Rational Acoustics, RTA-420]
 permalink: /products/ja/rational-acoustics-rta420-v2/
 ---
-
 ## 概要
 
 Rational Acoustics RTA-420は、音響測定用に設計された1/4インチ・バックエレクトレット・コンデンサーマイクロフォンです。同社のSmaart測定ソフトウェアとの親和性を重視した設計で、エントリーレベルユーザーや学生、セカンドリグ用途を想定した製品として位置付けられています。オムニディレクショナル（無指向性）パターンを持ち、20Hz-20kHzの周波数レンジをカバーし、Class 2の周波数応答許容差で製造されています。

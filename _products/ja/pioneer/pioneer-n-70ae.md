@@ -5,6 +5,7 @@ target_name: "Pioneer N-70AE"
 company_id: pioneer
 lang: ja
 ref: pioneer-n-70ae
+audiodb_uid: adb-2fdc79ac78b4
 date: 2025-08-09
 rating: [2.0, 0.5, 0.3, 0.3, 0.5, 0.4]
 price: 188000
@@ -12,7 +13,6 @@ summary: "デュアルESS SABRE32 Ultra DAC搭載のハイエンドネットワ�
 tags: [ネットワークプレーヤー, DAC, ストリーマー, ハイレゾ, DSD, パイオニア]
 permalink: /products/ja/pioneer-n-70ae/
 ---
-
 ## 概要
 
 パイオニア N-70AEは、デュアルESS SABRE32 Ultra ES9016S DACチップを搭載したネットワークオーディオプレーヤーです。ネットワーク再生は最大PCM 192kHz/24bit・DSD 11.2MHzに対応し、USB-DAC機能ではPCM 32bit/384kHz・DSD256に対応します。3つのシャーシ分離構造による電磁干渉対策を特徴とします。2017年発売のモデルで、現在は新品入手が難しく中古流通が中心です [1][2]。

@@ -5,6 +5,7 @@ target_name: "McIntosh MCD85"
 company_id: mcintosh
 lang: ja
 ref: mcintosh-mcd85
+audiodb_uid: adb-8f8e0ce4aa5d
 date: 2025-08-28
 rating: [2.9, 0.8, 0.5, 0.4, 0.6, 0.6]
 price: 675000
@@ -12,7 +13,6 @@ summary: "透明レベルの実測性能を備えるSACD/CDプレーヤー。最
 tags: [CDプレーヤー, SACDプレーヤー, DAC, McIntosh, USB DAC]
 permalink: /products/ja/mcintosh-mcd85/
 ---
-
 ## 概要
 
 MCD85は2021年2月発表の現行SACD/CDプレーヤーです。USBオーディオ入力はDSD256およびDXD 384kHzに対応し、8ch 32-bit/192kHz DACをクアッドバランス構成（各チャンネルに4ch割当て）で搭載します。鏡面仕上げのダイキャスト筐体と直視型LEDバックライトを採用したレトロデザインの一体型プレーヤーです[2][3]。

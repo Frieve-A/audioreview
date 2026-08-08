@@ -5,6 +5,7 @@ target_name: "Sennheiser Ambeo Soundbar Max"
 company_id: sennheiser
 lang: ja
 ref: sennheiser-ambeo-soundbar-max
+audiodb_uid: adb-aef0f9b63481
 date: 2025-08-29
 rating: [3.9, 0.8, 0.7, 0.8, 0.8, 0.8]
 price: 300000

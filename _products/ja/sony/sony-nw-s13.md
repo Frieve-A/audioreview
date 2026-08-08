@@ -5,6 +5,7 @@ target_name: "Sony NW-S13"
 company_id: sony
 lang: ja
 ref: sony-nw-s13
+audiodb_uid: adb-1c7d161a2254
 date: 2025-10-14
 rating: [2.5, 0.5, 0.6, 0.2, 0.8, 0.4]
 price: 29000
@@ -12,7 +13,6 @@ summary: "ソニー独自のオーディオ技術を搭載した2014年発売の
 tags: [デジタルオーディオプレーヤー, ウォークマン, Bluetooth, DSEE, ノイズキャンセリング]
 permalink: /products/ja/sony-nw-s13/
 ---
-
 ## 概要
 
 Sony NW-S13は、2014年11月に日本国内限定で発売された4GBのコンパクトデジタルオーディオプレーヤーで、ソニーのS10シリーズの一員です。このウォークマンは2.0インチTFTカラーディスプレイ（QVGA解像度）、aptXコーデック対応のBluetooth 2.1+EDR、ソニー独自のオーディオ強化技術であるDSEE（Digital Sound Enhancement Engine）とデジタルノイズキャンセリング機能を搭載しています。本体サイズは41.7 x 92.0 x 7.5 mm、重量50g、最大77時間の優れたバッテリー持続時間を実現しています。スマートフォン移行期におけるソニーの専用ポータブルオーディオアプローチの代表的な製品として、専用機器と汎用機器のポジショニングにおける興味深い事例です。

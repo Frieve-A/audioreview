@@ -5,6 +5,7 @@ target_name: "Pentaconn COREIR Mini"
 company_id: pentaconn
 lang: ja
 ref: pentaconn-coreir-mini
+audiodb_uid: adb-11612c7f15ee
 date: 2025-08-19
 rating: [2.3, 0.5, 0.4, 0.4, 0.5, 0.5]
 price: 2300
@@ -12,7 +13,6 @@ summary: "TWS充電ケースに配慮した短尺ステンレスコア採用の�
 tags: [イヤーチップ, メタルコア, TWS対応, ステンレススチール, IEMアクセサリー]
 permalink: /products/ja/pentaconn-coreir-mini/
 ---
-
 ## 概要
 
 Pentaconn COREIR Miniは、金属コア全長を従来比約87％に短縮してTWS充電ケースとの干渉を抑えつつ、金属コアの効果を維持することを目指した小型版です。自社調査ではTWSの約70％で使用可能とされ、ノズルとの衝突を防ぐクッションパーツも備えます [1][2]。Pentaconnは日本ディックスのコネクタブランドで、4.4 mm「Pentaconn」端子はJEITA RC-8141C準拠の規格として日本ディックスが開発しました [3]。

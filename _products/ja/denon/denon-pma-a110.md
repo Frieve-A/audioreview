@@ -5,6 +5,7 @@ target_name: "Denon PMA-A110"
 company_id: denon
 lang: ja
 ref: denon-pma-a110
+audiodb_uid: adb-15e344afcfb5
 date: 2025-07-27
 rating: [3.2, 0.6, 0.7, 0.5, 0.8, 0.6]
 price: 297000

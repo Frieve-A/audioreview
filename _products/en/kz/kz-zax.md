@@ -5,6 +5,7 @@ target_name: "KZ ZAX"
 company_id: kz
 lang: en
 ref: kz-zax
+audiodb_uid: adb-cb27b9ec01a1
 date: 2025-07-23
 rating: [2.4, 0.4, 0.5, 0.5, 0.5, 0.5]
 price: 40
@@ -12,7 +13,6 @@ summary: "The KZ ZAX adopts a 7BA+1DD hybrid configuration earphone, but faces c
 tags: [Earphones, Hybrid, KZ, In-Ear-Monitor]
 permalink: /products/en/kz-zax/
 ---
-
 ## Overview
 
 The KZ ZAX is a 7BA+1DD hybrid earphone developed by China's Knowledge Zenith. It features a 10mm dynamic driver and seven balanced armatures (30019×2, 50024×4, 30095×1), with an impedance of 24Ω and sensitivity of 113dB/mW. The housing design combines zinc alloy and acrylic resin, and a silver-plated cable is included. Positioned as the company's flagship model, it was developed aiming for a more balanced sound quality than previous KZ products.

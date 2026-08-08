@@ -5,6 +5,7 @@ target_name: "JVC SP-WS04BT"
 company_id: jvc
 lang: en
 ref: jvc-sp-ws04bt
+audiodb_uid: adb-9023d6497a77
 date: 2025-08-03
 rating: [2.4, 0.5, 0.4, 0.3, 0.7, 0.5]
 price: 137

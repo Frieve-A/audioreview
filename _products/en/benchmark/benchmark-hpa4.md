@@ -5,6 +5,7 @@ target_name: "Benchmark HPA4"
 company_id: benchmark
 lang: en
 ref: benchmark-hpa4
+audiodb_uid: adb-7adb7d65de08
 date: 2025-08-10
 rating: [3.4, 0.9, 0.8, 0.2, 0.8, 0.7]
 price: 3499

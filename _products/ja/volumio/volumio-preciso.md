@@ -5,6 +5,7 @@ target_name: "Volumio Preciso"
 company_id: volumio
 lang: ja
 ref: volumio-preciso
+audiodb_uid: adb-a83f7199a0cf
 date: 2025-08-22
 rating: [3.1, 0.8, 0.8, 0.3, 0.7, 0.5]
 price: 132000
@@ -12,7 +13,6 @@ summary: "ES9039Q2Mをデュアルモノで実装し、XLR出力やNOSモード�
 tags: [DAC, デュアルモノ, ハイレゾ, ESS, リニア電源, イタリア]
 permalink: /products/ja/volumio-preciso/
 ---
-
 ## 概要
 
 Volumio Precisoは、ESS ES9039Q2Mを2基用いた真のデュアルモノ構成のスタンドアロンDACです。XLR（4 Vrms）/RCA（2 Vrms）出力、PCM 768kHz/32ビットおよびDSD512対応、0.5 dB刻みで0.0〜−99.0 dBのハードウェアゲイン、NOSモードを備えます（いずれもメーカー公称）。米国直販は899 USD、国内実売は132,000円です。 [1][5] ES9039Q2M自体はDNR 130 dB、THD+N −120 dB（各チャンネル、データシート表記）です。 [2]

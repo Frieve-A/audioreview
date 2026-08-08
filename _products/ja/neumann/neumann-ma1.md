@@ -5,6 +5,7 @@ target_name: "Neumann MA1"
 company_id: neumann
 lang: ja
 ref: neumann-ma1
+audiodb_uid: adb-b1e9a149dd36
 date: 2025-07-17
 rating: [4.3, 0.8, 0.9, 1.0, 0.8, 0.8]
 price: 37350
@@ -12,7 +13,6 @@ summary: "Neumann MA1は、Fraunhofer IISとの共同開発によるDSPベース
 tags: [モニター補正, DSP, 測定マイク, ルーム補正, Neumann]
 permalink: /products/ja/neumann-ma1/
 ---
-
 ## 概要
 
 Neumann MA1は、2020年にNeumann社がFraunhofer IISとの共同開発により発表したDSPベースの自動モニター補正システムです。2023年11月にリリースされたv2.0アップデートにより、マルチチャンネル拡張機能が統合され、サラウンドおよびイマーシブオーディオアプリケーションに対応しています。KH 80 DSP、KH 120、KH 310、KH 420などのNeumann KHシリーズモニター、またはKH 750 DSPサブウーファーとの組み合わせで動作します。個別校正された測定マイクとアルゴリズムソフトウェアを組み合わせ、ハードウェアレベルでの周波数・位相特性補正を実現します。世界有数の音響信号処理研究機関であるFraunhofer IISとの協力により開発された先進的な校正アルゴリズムを採用し、振幅応答のみならず位相応答も最適化することで、最高水準の音調精度とインパルス再現性を提供します。

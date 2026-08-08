@@ -5,6 +5,7 @@ target_name: "Fosi Audio V3"
 company_id: fosi-audio
 lang: en
 ref: fosi-audio-v3
+audiodb_uid: adb-03ade27a792f
 date: 2026-01-24
 rating: [3.5, 0.7, 0.3, 1.0, 0.6, 0.9]
 price: 89.99

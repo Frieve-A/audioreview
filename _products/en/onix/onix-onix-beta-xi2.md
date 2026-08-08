@@ -5,6 +5,7 @@ target_name: "ONIX ONIX Beta XI2"
 company_id: onix
 lang: en
 ref: onix-onix-beta-xi2
+audiodb_uid: adb-f11260963a6f
 date: 2025-12-30
 rating: [1.6, 0.6, 0.4, 0.1, 0.3, 0.2]
 price: 349

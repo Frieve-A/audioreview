@@ -5,6 +5,7 @@ target_name: "Harman Kardon Onyx Studio 8"
 company_id: harman-kardon
 lang: en
 ref: harman-kardon-onyx-studio-8
+audiodb_uid: adb-883e22132cac
 date: 2025-08-16
 rating: [3.1, 0.6, 0.4, 1.0, 0.6, 0.5]
 price: 249

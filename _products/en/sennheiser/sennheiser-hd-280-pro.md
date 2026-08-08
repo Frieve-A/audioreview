@@ -5,6 +5,7 @@ target_name: "Sennheiser HD 280 Pro"
 company_id: sennheiser
 lang: en
 ref: sennheiser-hd-280-pro
+audiodb_uid: adb-8767fd131c19
 date: 2025-10-18
 rating: [3.7, 0.5, 0.7, 0.8, 0.9, 0.8]
 price: 99.95
@@ -12,7 +13,6 @@ summary: "Professional studio headphones offering excellent passive isolation an
 tags: [Headphones, Professional, Studio, Closed-back, Dynamic, Isolation]
 permalink: /products/en/sennheiser-hd-280-pro/
 ---
-
 ## Overview
 
 The Sennheiser HD 280 Pro is a professional closed-back studio headphone targeting recording engineers and content creators requiring reliable isolation and durability. Features 40mm dynamic drivers with neodymium magnets, user-replaceable components, and collapsible design. In continuous production since 2003, it established itself as a professional workhorse, though faces competition from modern alternatives offering superior measured performance.

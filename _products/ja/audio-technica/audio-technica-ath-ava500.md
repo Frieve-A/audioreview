@@ -5,6 +5,7 @@ target_name: "Audio-Technica ATH-AVA500"
 company_id: audio-technica
 lang: ja
 ref: audio-technica-ath-ava500
+audiodb_uid: adb-223abee79e99
 date: 2025-09-28
 rating: [2.8, 0.5, 0.4, 1.0, 0.5, 0.4]
 price: 6000
@@ -12,7 +13,6 @@ summary: "従来のダイナミックドライバー設計を採用したオー�
 tags: [ヘッドホン, オープンバック, ダイナミック, 有線]
 permalink: /products/ja/audio-technica-ath-ava500/
 ---
-
 ## 概要
 
 Audio-Technica ATH-AVA500は2015年6月に発売されたオープンバック型ダイナミックヘッドホンで、CCAW音声コイルを搭載した53mmネオジウムマグネットドライバーを特徴としています。エントリーレベルのオーディオファイル向けオプションとして位置付けられ、15-27,000Hz周波数応答、96dB/mW感度、35Ω インピーダンスという基本仕様を提供します。従来技術を使用していながらも、ホームリスニング用途向けの手頃な価格のオープンバック型ヘッドホン設計に対するオーディオテクニカの堅実なエンジニアリングアプローチを示しています。

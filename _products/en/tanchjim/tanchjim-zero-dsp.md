@@ -5,6 +5,7 @@ target_name: "TANCHJIM ZERO DSP"
 company_id: tanchjim
 lang: en
 ref: tanchjim-zero-dsp
+audiodb_uid: adb-5bb3e3601d33
 date: 2026-03-12
 rating: [4.0, 0.5, 0.8, 1.0, 0.7, 1.0]
 price: 15.99

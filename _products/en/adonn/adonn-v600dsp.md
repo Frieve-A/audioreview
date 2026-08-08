@@ -5,6 +5,7 @@ target_name: "ADONN v600dsp"
 company_id: adonn
 lang: en
 ref: adonn-v600dsp
+audiodb_uid: adb-c5284f5c40a1
 date: 2026-06-07
 rating: [2.9, 0.5, 0.3, 1.0, 0.6, 0.5]
 price: 241

@@ -5,6 +5,7 @@ target_name: "Shanling UA4"
 company_id: shanling
 lang: ja
 ref: shanling-ua4
+audiodb_uid: adb-3b1c943a6d4c
 date: 2025-08-05
 rating: [3.4, 0.8, 0.7, 0.7, 0.5, 0.7]
 price: 14900
@@ -12,7 +13,6 @@ summary: "ESS ES9069Q搭載の99USD小型ポータブルDAC/アンプ。優秀�
 tags: [ポータブルDAC, ヘッドホンアンプ, ESS, バランス出力, デュアル出力]
 permalink: /products/ja/shanling-ua4/
 ---
-
 ## 概要
 
 Shanling UA4は、ESS ES9069Q DACチップとデュアルRT6863アンプを搭載した99USDのポータブルDAC/アンプです。3.5mm単端出力と4.4mmバランス出力の両方を備え、OLEDディスプレイとハードウェアボタンによる操作を可能とします。32-bit/768kHz PCMおよびネイティブDSD512、MQA 16xデコードに対応し、小型軽量ながら最大227mW@32Ωの出力を実現します。中国のShanlingは長年にわたりデジタルオーディオ機器を手がけており、UA4は同社のエントリーレベルUSBドングルDAC製品ラインアップの一翼を担います。

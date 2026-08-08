@@ -5,6 +5,7 @@ target_name: "Kali Audio LP-8 V2"
 company_id: kali-audio
 lang: en
 ref: kali-audio-lp-8-v2
+audiodb_uid: adb-b26460a6a54d
 date: 2025-10-29
 rating: [3.6, 0.4, 0.8, 1.0, 0.5, 0.9]
 price: 249

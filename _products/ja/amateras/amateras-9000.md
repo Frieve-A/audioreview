@@ -5,6 +5,7 @@ target_name: "AMATERAS 9000"
 company_id: amateras
 lang: ja
 ref: amateras-9000
+audiodb_uid: adb-ab486900f597
 date: 2026-01-06
 rating: [3.0, 0.5, 0.6, 0.6, 0.8, 0.5]
 price: 29484
@@ -12,7 +13,6 @@ summary: "Sony MDR-CD900STを送付して改造するスタジオ向けヘッド
 tags: [ヘッドホン, スタジオモニター, 改造品, プロ仕様]
 permalink: /products/ja/amateras-9000/
 ---
-
 ## 概要
 
 AMATERAS 9000は、AMATERAS（東京）が提供するSony MDR-CD900STの送付改造サービスです。ユーザーが動作品のCD900STを発送し、工房で改造後に**約1週間**で返送されます。上位機の思想を踏襲しつつ「純粋リファレンス」を標榜し、空間表現や聴き取りやすさの向上を主張します。価格やサブスク、返品・保証などの購入条件は同社オンラインショップで提示されています。

@@ -5,6 +5,7 @@ target_name: "Genelec G Five"
 company_id: genelec
 lang: en
 ref: genelec-g-five
+audiodb_uid: adb-1a4510d85a63
 date: 2025-08-12
 rating: [2.9, 0.6, 0.6, 0.2, 0.8, 0.7]
 price: 1975

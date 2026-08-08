@@ -5,6 +5,7 @@ target_name: "Focal Hadenys"
 company_id: focal
 lang: ja
 ref: focal-hadenys
+audiodb_uid: adb-0f1ab4dc354a
 date: 2026-04-23
 rating: [3.1, 0.6, 0.8, 0.6, 0.7, 0.4]
 price: 81370
@@ -12,7 +13,6 @@ summary: "確立された技術を採用したAl/Mgドーム型ドライバー�
 tags: [オープンバック, ヘッドホン, フランス, Focal, Al-Mgドライバー]
 permalink: /products/ja/focal-hadenys/
 ---
-
 ## 概要
 
 Focal Hadenysは、フランスの製造業者による2024年のミドルティアオープンバック型ヘッドホン市場への参入製品です。2024年6月にクローズドバック型のAzurysと同時にリリースされたHadenysは、Focalが2016年のヘッドホンラインエントリー向けに開発した確立された40mm アルミニウム/マグネシウムM字型ドーム型ドライバーを採用しています。現在515 USD（81,370円）で販売されているHadenysは[1]、自然にインスパイアされたデザイン美学とFocalの特徴的なサウンドを求めるホームリスニング愛好家をターゲットとしています。軽量マグネシウムヨーク構造とフランス手工芸製造を特徴とし、Focalのラインアップにおいてエントリーレベルとハイエンドモデルの間に位置しています。

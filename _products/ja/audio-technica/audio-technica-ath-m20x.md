@@ -5,6 +5,7 @@ target_name: "Audio-Technica ATH-M20x"
 company_id: audio-technica
 lang: ja
 ref: audio-technica-ath-m20x
+audiodb_uid: adb-8907dfbe4c4a
 date: 2025-08-14
 rating: [2.0, 0.3, 0.2, 1.0, 0.3, 0.2]
 price: 8850
@@ -12,7 +13,6 @@ summary: "中域は素直寄りで、低域の伸びと受動遮音は弱めの�
 tags: [ヘッドホン, スタジオ, モニター, 予算, 密閉型]
 permalink: /products/ja/audio-technica-ath-m20x/
 ---
-
 ## 概要
 
 ATH-M20xはM-Seriesの入門機です。密閉オーバーイヤー／40 mmダイナミック（ネオジム・CCAW）／**3.0 m固定ケーブル**。公称は**47 Ω**、**96 dB**、**約190 g**（ケーブル除く）。価格重視で素直な中域を狙った設計です。

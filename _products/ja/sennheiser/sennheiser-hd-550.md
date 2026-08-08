@@ -5,6 +5,7 @@ target_name: "Sennheiser HD 550"
 company_id: sennheiser
 lang: ja
 ref: sennheiser-hd-550
+audiodb_uid: adb-109afb75f9e3
 date: 2025-09-21
 rating: [3.4, 0.5, 0.6, 1.0, 0.6, 0.7]
 price: 44995
@@ -12,7 +13,6 @@ summary: "カスタム38mmトランスデューサーとモジュラー設計を
 tags: [ヘッドホン, オープンバック, Sennheiser, モジュラー, Hi-Fi]
 permalink: /products/ja/sennheiser-hd-550/
 ---
-
 ## 概要
 
 Sennheiser HD 550は、同社の評価の高い500シリーズの最新モデルです。カスタム38mmトランスデューサーを搭載し、アイルランドのTullamoreにあるオーディオファイル向け製造施設で最終組み立てが行われています。シリーズ内のエントリーレベルとして位置づけられ、側圧の軽減と237gの超軽量構造により快適性を重視した設計です。完全オープンバック型でモジュラーケーブル・イヤーパッドシステムを採用し、詳細な音響再生と長時間リスニング時の快適性を求めるユーザーをターゲットとしています。主要仕様は150Ωインピーダンス、6Hz〜39.5kHzの周波数特性、0.2%未満のTHD仕様です。

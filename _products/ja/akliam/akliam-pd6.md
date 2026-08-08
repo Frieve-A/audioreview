@@ -5,6 +5,7 @@ target_name: "Akliam PD6"
 company_id: akliam
 lang: ja
 ref: akliam-pd6
+audiodb_uid: adb-4c702880e971
 date: 2025-07-28
 rating: [3.8, 0.8, 0.7, 1.0, 0.6, 0.7]
 price: 8800
@@ -12,7 +13,6 @@ summary: "ESS9039Q2M DAC搭載のポータブルDAC/アンプ。高性能DACチ�
 tags: [ポータブルDAC, USB DAC, ESS9039Q2M, バランス出力, ドングル型, OLED表示]
 permalink: /products/ja/akliam-pd6/
 ---
-
 ## 概要
 
 Akliam PD6は、ESS製ES9039Q2M DACチップと2基のRT6863オペアンプを搭載したポータブルUSB DAC/アンプです。重量23gの軽量設計ながら、3.5mmシングルエンドと4.4mmバランス出力の両方を備え、768kHz/32bit PCMとDSD512の高解像度音源に対応します。0.87インチOLED表示画面による設定変更、8種類のフィルター選択、100段階音量調整、ハイ/ローゲイン切り替えなど多彩な機能を搭載。ES9039Q2MチップのSNR 133dB、THD+N -123dB（公式仕様）の高性能を活かした設計で、実装による性能は製品により異なりますが高い音質ポテンシャルを持ちます。55 USD前後で販売されています。

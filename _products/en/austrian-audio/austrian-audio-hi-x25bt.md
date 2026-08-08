@@ -5,6 +5,7 @@ target_name: "Austrian Audio Hi-X25BT"
 company_id: austrian-audio
 lang: en
 ref: austrian-audio-hi-x25bt
+audiodb_uid: adb-b6d4eca4b7b6
 date: 2025-08-30
 rating: [3.5, 0.6, 0.7, 0.8, 0.6, 0.8]
 price: 179
@@ -12,7 +13,6 @@ summary: "What Hi-Fi Award 2024 winner delivering professional-grade wireless au
 tags: [Headphones, Wireless, Bluetooth, Professional, Studio, Closed-back]
 permalink: /products/en/austrian-audio-hi-x25bt/
 ---
-
 ## Overview
 
 The Austrian Audio Hi-X25BT is a closed-back, over-ear Bluetooth headphone that blends the company’s studio lineage with practical hybrid connectivity. Its proprietary 44 mm Hi-X dynamic drivers use an advanced ring magnet system and a copper-clad aluminum voice coil. Connectivity covers Bluetooth 5.0 (SBC codec), USB-C digital audio, and a 3.5 mm analog jack. The model earned a What Hi-Fi? Awards 2024 win in its class, noted for clarity despite the absence of ANC [1][3].

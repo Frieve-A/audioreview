@@ -5,6 +5,7 @@ target_name: "SMSL M300SE"
 company_id: smsl
 lang: en
 ref: smsl-m300se
+audiodb_uid: adb-a72a342590b2
 date: 2025-08-08
 rating: [3.7, 0.8, 0.7, 1.0, 0.5, 0.7]
 price: 225

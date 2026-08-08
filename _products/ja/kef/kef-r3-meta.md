@@ -5,6 +5,7 @@ target_name: "KEF R3 Meta"
 company_id: kef
 lang: ja
 ref: kef-r3-meta
+audiodb_uid: adb-134729e51ee4
 date: 2026-02-08
 rating: [4.7, 0.8, 1.0, 1.0, 0.9, 1.0]
 price: 330000
@@ -12,7 +13,6 @@ summary: "第12世代Uni-Q同軸ドライバーとメタマテリアル吸収技
 tags: [bookshelf-speaker, three-way, coaxial, passive]
 permalink: /products/ja/kef-r3-meta/
 ---
-
 ## 概要
 
 KEF R3 Metaは、第12世代Uni-Q同軸ドライバーアレイと独自のメタマテリアル吸収技術（MAT）を組み合わせたKEFのフラッグシップブックシェルフスピーカーです。このバスレフ型3ウェイ設計では、125mmアルミニウムコーン中域ドライバーの中心に配置された25mmアルミニウムドーム型ツイーターと、165mmハイブリッドアルミニウムベースドライバーを組み合わせています。MAT技術により、ツイーターからの不要な後方放射の99%を吸収し、ドーム型ツイーター設計の根本的な限界に対処しています。KEFは1988年の初代Uni-Q特許以来継続的な開発を続けており、R3 Metaは現在の最先端実装を表しています。

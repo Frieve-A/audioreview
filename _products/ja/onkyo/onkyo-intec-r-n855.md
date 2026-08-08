@@ -5,6 +5,7 @@ target_name: "Onkyo Intec R-N855"
 company_id: onkyo
 lang: ja
 ref: onkyo-intec-r-n855
+audiodb_uid: adb-9c2acbabdc7f
 date: 2025-08-04
 rating: [3.9, 0.7, 0.7, 1.0, 0.7, 0.8]
 price: 49800

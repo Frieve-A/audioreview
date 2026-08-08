@@ -5,6 +5,7 @@ target_name: "Creative Pebble"
 company_id: creative
 lang: en
 ref: creative-pebble
+audiodb_uid: adb-093361630b71
 date: 2025-09-15
 rating: [2.4, 0.3, 0.3, 1.0, 0.5, 0.3]
 price: 24.99

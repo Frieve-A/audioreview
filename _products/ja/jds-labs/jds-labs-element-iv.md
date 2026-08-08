@@ -5,6 +5,7 @@ target_name: "JDS Labs Element IV"
 company_id: jds-labs
 lang: ja
 ref: jds-labs-element-iv
+audiodb_uid: adb-3b1f8272b82b
 date: 2025-12-01
 rating: [4.2, 0.9, 0.8, 0.9, 0.8, 0.8]
 price: 82000
@@ -12,7 +13,6 @@ summary: "Core™パラメトリックEQ搭載のJDS Labsフラッグシップ D
 tags: [DAC, ヘッドホンアンプ, パラメトリックEQ, USBオーディオ, デスクトップオーディオ]
 permalink: /products/ja/jds-labs-element-iv/
 ---
-
 ## 概要
 
 JDS Labs Element IVは、革新的なCore™ウェブアプリケーションによる12バンドパラメトリックEQ機能を搭載した同社のフラッグシップ一体型DAC/ヘッドホンアンプです。このデスクトップユニットは32Ωで3.2Wの出力パワーを発揮し、測定性能では120dBのS/N比、最大118dBのSINAD、20-20kHz ±0.1dBの周波数特性を実現しています [1]。AKM 9018K2M DACと16コアXMOS XU316プロセッサを搭載し、USB-C接続経由で32bit/384kHz PCMおよびDSD64-128に対応 [2]。物理的構造にはディスクリート光学式エンコーダーボリュームコントロール、OLEDディスプレイを含み、Windows、macOS、Linux、Android、iOS、PS5、Nintendo Switchとの互換性を備えています。米国製造で価格は549米ドルです。

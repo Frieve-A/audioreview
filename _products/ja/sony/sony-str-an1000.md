@@ -5,6 +5,7 @@ target_name: "Sony STR-AN1000"
 company_id: sony
 lang: ja
 ref: sony-str-an1000
+audiodb_uid: adb-be09c6550fba
 date: 2025-07-09
 rating: [2.9, 0.6, 0.4, 0.7, 0.6, 0.6]
 price: 89700
@@ -12,7 +13,6 @@ summary: "Sony STR-AN1000は7.2チャンネルAVレシーバーで、8K/4K HDMI 
 tags: [AVレシーバー, 7.2チャンネル, Dolby Atmos, DTS:X, 8K対応, HDMI 2.1]
 permalink: /products/ja/sony-str-an1000/
 ---
-
 ## 概要
 
 Sony STR-AN1000は2023年に発売された7.2チャンネルAVレシーバーで、HDMI 2.1対応により8K/60Hz及び4K/120Hz映像パススルーを実現し、Dolby Atmos・DTS:X対応による3D音響処理、360 Reality Audio対応、Digital Cinema Auto Calibration IXによる自動音場補正機能を搭載する。900USD前後の価格帯で提供され、AVレシーバー市場への復帰を果たしたSonyの意欲的な製品として位置付けられる。

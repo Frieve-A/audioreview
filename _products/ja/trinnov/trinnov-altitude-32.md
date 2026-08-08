@@ -5,6 +5,7 @@ target_name: "Trinnov Altitude-32"
 company_id: trinnov
 lang: ja
 ref: trinnov-altitude-32
+audiodb_uid: adb-403e6937dce7
 date: 2025-08-07
 rating: [4.9, 0.9, 1.0, 1.0, 1.0, 1.0]
 price: 4350000

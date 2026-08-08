@@ -5,6 +5,7 @@ target_name: "Crown D-45"
 company_id: crown-amcron
 lang: en
 ref: crown-amcron-d-45
+audiodb_uid: adb-2925cf692d22
 date: 2025-08-23
 rating: [2.7, 0.6, 0.2, 0.8, 0.6, 0.5]
 price: 115

@@ -5,6 +5,7 @@ target_name: "Kiwi Ears Orchestra Lite"
 company_id: kiwi-ears
 lang: en
 ref: kiwi-ears-orchestra-lite
+audiodb_uid: adb-7179d80539d0
 date: 2025-08-21
 rating: [3.1, 0.6, 0.8, 0.4, 0.6, 0.7]
 price: 249

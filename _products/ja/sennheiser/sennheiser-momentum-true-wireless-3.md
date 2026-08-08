@@ -5,6 +5,7 @@ target_name: "Sennheiser MOMENTUM True Wireless 3"
 company_id: sennheiser
 lang: ja
 ref: sennheiser-momentum-true-wireless-3
+audiodb_uid: adb-f7e2d19be461
 date: 2025-12-03
 rating: [3.4, 0.5, 0.8, 1.0, 0.4, 0.7]
 price: 36950

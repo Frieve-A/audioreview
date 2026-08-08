@@ -5,6 +5,7 @@ target_name: "Denon AVR-X1700H"
 company_id: denon
 lang: ja
 ref: denon-avr-x1700h
+audiodb_uid: adb-b96beb0a0619
 date: 2025-08-04
 rating: [3.8, 0.6, 0.7, 1.0, 0.7, 0.8]
 price: 74850
@@ -12,7 +13,6 @@ summary: "7.2チャンネル対応でDolby Atmos機能を搭載したミドル�
 tags: [AVレシーバー, Dolby Atmos, 8K対応, ホームシアター]
 permalink: /products/ja/denon-avr-x1700h/
 ---
-
 ## 概要
 
 Denon AVR-X1700Hは2021年10月に発売された7.2チャンネルAVレシーバーです。80W（8Ω、20Hz-20kHz、THD 0.08%）の出力と8K/60Hz、4K/120Hz対応のHDMI機能を搭載し、Dolby AtmosやDTS:Xといった最新の立体音響フォーマットに対応しています。同価格帯の競合製品であるYamaha RX-V4AやMarantz NR1510が5.2チャンネル構成である中、7.2チャンネル対応という差別化を図った製品として位置づけされています。6つのHDMI入力のうち3つが8K対応であり、ゲーミングや最新映像コンテンツ再生にも配慮した設計となっています。

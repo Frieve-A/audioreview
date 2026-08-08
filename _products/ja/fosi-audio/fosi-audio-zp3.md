@@ -5,6 +5,7 @@ target_name: "Fosi Audio ZP3"
 company_id: fosi-audio
 lang: ja
 ref: fosi-audio-zp3
+audiodb_uid: adb-a59a788b83b1
 date: 2025-08-15
 rating: [3.8, 0.8, 0.5, 1.0, 0.7, 0.8]
 price: 27999
@@ -12,7 +13,6 @@ summary: "3系統入出力とHPFによる2.1統合、NJU72315のデジタル制�
 tags: [プリアンプ, バランス, XLR, トーンコントロール, ハイパスフィルター]
 permalink: /products/ja/fosi-audio-zp3/
 ---
-
 ## 概要
 
 Fosi Audio ZP3は、複数アナログ入力と2.1統合を求めるユーザー向けの小型バランス・プリアンプです。RCA1/RCA2/XLR入力とRCA/XLR/サブ出力（3入出力）、メイン出力用3段階ハイパス、専用サブ出力、L/Rバランスとトーンバイパス、入力別ボリュームメモリ、12Vトリガー入出力、IRリモコンを装備します。内部はNJR NJU72315のアナログ式デジタル制御ボリュームICを採用し、ELNAコンデンサや金メッキRCA端子を併用しています [1][2]。

@@ -5,6 +5,7 @@ target_name: "Fostex T500A Mk III"
 company_id: fostex
 lang: ja
 ref: fostex-t500a-mkiii
+audiodb_uid: adb-82ffa256f01b
 date: 2025-08-14
 rating: [2.0, 0.4, 0.6, 0.2, 0.4, 0.4]
 price: 378600

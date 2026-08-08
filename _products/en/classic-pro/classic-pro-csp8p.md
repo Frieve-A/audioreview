@@ -5,6 +5,7 @@ target_name: "Classic Pro CSP8P"
 company_id: classic-pro
 lang: en
 ref: classic-pro-csp8p
+audiodb_uid: adb-e2e2130cd7cd
 date: 2025-08-20
 rating: [1.9, 0.4, 0.2, 0.7, 0.3, 0.3]
 price: 200
@@ -12,7 +13,6 @@ summary: "Budget 8-inch powered PA speaker with limited power output and basic f
 tags: [PA Speaker, Powered Speaker, Live Sound, Budget Audio]
 permalink: /products/en/classic-pro-csp8p/
 ---
-
 ## Overview
 
 The Classic Pro CSP8P is an 8-inch powered PA speaker from Classic Pro, a Japan-based brand focused on budget live sound gear. It’s a 2-way active box with an 8" woofer and 1" HF driver, using internal amplification rated at 100W RMS (LF) + 50W RMS (HF). The polypropylene cabinet keeps weight down for mobile use and small installs where portability matters more than maximum output [3].

@@ -5,6 +5,7 @@ target_name: "1MORE SonoFlow Pro HQ51"
 company_id: 1more
 lang: ja
 ref: 1more-sonoflow-pro-hq51
+audiodb_uid: adb-3fa799feca34
 date: 2025-07-31
 rating: [3.6, 0.6, 0.7, 0.8, 0.7, 0.8]
 price: 12800

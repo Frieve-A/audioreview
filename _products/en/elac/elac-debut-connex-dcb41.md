@@ -5,6 +5,7 @@ target_name: "ELAC DEBUT ConneX DCB41"
 company_id: elac
 lang: en
 ref: elac-debut-connex-dcb41
+audiodb_uid: adb-003863d0f25b
 date: 2025-07-08
 rating: [4.2, 0.8, 0.8, 0.9, 0.8, 0.9]
 price: 595
@@ -12,7 +13,6 @@ summary: "ELAC's powered bookshelf speakers featuring 4.5-inch polypropylene woo
 tags: ["Active speakers", Bluetooth, ELAC, "HDMI ARC"]
 permalink: /products/en/elac-debut-connex-dcb41/
 ---
-
 ## Overview
 
 The ELAC DEBUT ConneX DCB41 represents a powered bookshelf speaker system developed by German acoustic manufacturer ELAC. Building upon the foundation of the company's Debut series technology, it incorporates comprehensive connectivity functions designed for contemporary digital audio sources. The 2-way configuration features a 4.5-inch polypropylene woofer and 0.75-inch soft dome tweeter, achieving 66Hz-25kHz frequency response. The integrated amplifier utilizes 2x50W Class D design, providing efficient drive capability. Extensive connectivity options including HDMI ARC, aptX Bluetooth, USB, optical digital, and phono inputs accommodate diverse sources from televisions, PCs, turntables, to smartphones. At USD 595, it provides an all-in-one solution that elegantly integrates traditional passive speaker plus amplifier combinations.

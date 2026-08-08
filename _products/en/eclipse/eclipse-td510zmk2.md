@@ -5,6 +5,7 @@ target_name: "Eclipse TD510ZMK2"
 company_id: eclipse
 lang: en
 ref: eclipse-td510zmk2
+audiodb_uid: adb-8e8d0b4e8b6a
 date: 2025-12-24
 rating: [1.5, 0.4, 0.6, 0.0, 0.3, 0.2]
 price: 2995
@@ -12,7 +13,6 @@ summary: "Floor-standing speaker with single 10cm full-range driver featuring pr
 tags: [Speakers, Floor-standing, Single-driver, Full-range, High-end]
 permalink: /products/en/eclipse-td510zmk2/
 ---
-
 ## Overview
 
 The Eclipse TD510ZMK2 represents a unique approach to loudspeaker design through its single 10cm fiberglass full-range driver and proprietary "Time Domain" philosophy. Developed by Eclipse (formerly Fujitsu Ten, now Denso Ten), this floor-standing speaker aims to achieve accurate sound reproduction by eliminating crossover networks and multi-driver integration issues. The TD510ZMK2 features an egg-shaped sealed cabinet, integrated stand design with three-point contact system, and claims superior transient response over traditional multi-driver designs. Priced at 5990 USD per pair, it targets audiophiles seeking coherent single-point-source reproduction despite inherent physical limitations of small full-range drivers.

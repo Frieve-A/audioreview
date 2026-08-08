@@ -5,6 +5,7 @@ target_name: "MOONDROP Moondrop Rays"
 company_id: moondrop
 lang: en
 ref: moondrop-rays
+audiodb_uid: adb-833086e1b9f1
 date: 2026-01-31
 rating: [3.6, 0.6, 0.9, 1.0, 0.4, 0.7]
 price: 99.99

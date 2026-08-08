@@ -5,6 +5,7 @@ target_name: "Hi-Unit HSE-AD03-pnk"
 company_id: hi-unit
 lang: en
 ref: hi-unit-hse-ad03-pnk
+audiodb_uid: adb-483d3c974f81
 date: 2025-12-29
 rating: [2.7, 0.6, 0.4, 0.8, 0.6, 0.3]
 price: 40

@@ -5,6 +5,7 @@ target_name: "Fostex CW200D"
 company_id: fostex
 lang: ja
 ref: fostex-cw200d
+audiodb_uid: adb-329a7ab75f22
 date: 2025-08-23
 rating: [2.3, 0.5, 0.3, 0.5, 0.5, 0.5]
 price: 82000
@@ -12,7 +13,6 @@ summary: "生産終了の8インチ密閉型アクティブサブウーファー
 tags: [サブウーファー, アクティブ, 密閉型, PWM, 音楽]
 permalink: /products/ja/fostex-cw200d/
 ---
-
 ## 概要
 
 Fostex CW200Dは、音楽用途を主眼にした密閉型のアクティブサブウーファーです。20 cm（8インチ）BKP/ケブラー振動板を150 W（JEITA、4 Ω）PWMアンプで駆動し、ライン入力に加えてBTL対応のバランス型ハイレベル入力と可変ローパス/位相を備えます。**生産終了**モデルで、現在はマーケットプレイスでの在庫販売が中心です。参考価格は **82,000円（732 USD）** 程度です [1][7]。

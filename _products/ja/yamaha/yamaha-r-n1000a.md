@@ -5,6 +5,7 @@ target_name: "Yamaha R-N1000A"
 company_id: yamaha
 lang: ja
 ref: yamaha-r-n1000a
+audiodb_uid: adb-519f66578fd9
 date: 2025-09-18
 rating: [4.3, 0.8, 0.8, 1.0, 0.7, 1.0]
 price: 269800
@@ -12,7 +13,6 @@ summary: "優れた測定音質性能、先進的なルーム補正機能、包�
 tags: [ネットワークレシーバー, プリメインアンプ, ストリーミング, ルーム補正, ESS DAC]
 permalink: /products/ja/yamaha-r-n1000a/
 ---
-
 ## 概要
 
 Yamaha R-N1000Aは、従来のハイファイアンプと現代的なストリーミング機能、さらに先進的なルーム音響補正を組み合わせた洗練されたネットワークレシーバーです。ヤマハの ToP-ART（Total Purity Audio Reproduction Technology）設計思想に基づいて構築され、ESS ES9080Q 384kHz/32bit DAC、YPAO R.S.C. 精密ルーム補正、HDMI ARCを含む包括的な接続性を特徴とします。8Ω負荷時に100W/chを出力し、主要メトリクスにおいて透明性のある音質基準を上回る測定性能を実現しています。

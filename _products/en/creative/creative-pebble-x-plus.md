@@ -5,6 +5,7 @@ target_name: "Creative Pebble X Plus"
 company_id: creative
 lang: en
 ref: creative-pebble-x-plus
+audiodb_uid: adb-92fe7b7594fc
 date: 2025-09-03
 rating: [3.2, 0.4, 0.6, 0.6, 0.8, 0.8]
 price: 129.99
@@ -12,7 +13,6 @@ summary: "2.1 USB-C desktop speaker system with RGB lighting; full output requir
 tags: [Desktop-speakers, Computer-speakers, 2.1-system, RGB-lighting, USB-C]
 permalink: /products/en/creative-pebble-x-plus/
 ---
-
 ## Overview
 
 The Creative Pebble X Plus is a 2.1 desktop speaker system featuring dual 2.75" full-range drivers in angled satellites and a 3.5" flat-cap subwoofer with dual passive radiators. Connectivity includes USB-C audio, Bluetooth, and 3.5 mm AUX with customizable RGB lighting. Rated output is 15 W RMS / 30 W peak from a PC’s USB-C, or 30 W RMS / 60 W peak with a separate 30 W+ USB-C PD adapter (not included) [1]. Pebble-family models support Bluetooth 5.3 [2].

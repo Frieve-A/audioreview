@@ -5,6 +5,7 @@ target_name: "Cambridge Audio Minx X201"
 company_id: cambridge
 lang: en
 ref: cambridge-audio-minx-x201
+audiodb_uid: adb-7dbc931e92f6
 date: 2025-07-20
 rating: [3.2, 0.5, 0.7, 1.0, 0.6, 0.4]
 price: 550
@@ -12,7 +13,6 @@ summary: "A compact subwoofer with class-leading output, boasting a maximum SPL 
 tags: [Subwoofer, Compact, DSP, Passive Radiator, High SPL]
 permalink: /products/en/cambridge-audio-minx-x201/
 ---
-
 ## Overview
 
 The Cambridge Audio Minx X201 is a compact 200W subwoofer featuring a 6.5-inch driver and two passive radiators. Incorporating DSP technology within a small 219×210×222mm enclosure, it is designed for bass reproduction in limited spaces. As part of Cambridge Audio's Minx series, this product is intended for use in desktop environments and small living rooms.

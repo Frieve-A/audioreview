@@ -5,6 +5,7 @@ target_name: "Fostex TH900MK2"
 company_id: fostex
 lang: en
 ref: fostex-th900mk2
+audiodb_uid: adb-32a09a187b53
 date: 2025-07-25
 rating: [2.5, 0.4, 0.8, 0.2, 0.7, 0.4]
 price: 1525
@@ -12,7 +13,6 @@ summary: "Premium closed-back headphones with significant V-shaped characteristi
 tags: [Headphones, Closed-back, Premium, Fostex, Dynamic]
 permalink: /products/en/fostex-th900mk2/
 ---
-
 ## Overview
 
 The Fostex TH900MK2 is a premium closed-back headphone created by Japanese audio manufacturer Fostex. It features a 50mm dynamic driver with proprietary BioDyna diaphragm technology and neodymium magnets with 1.5 Tesla magnetic flux density. The headphones showcase beautiful lacquered housing made from Japanese cherry wood, crafted using traditional artisan techniques. The low impedance design of 25 ohms enables easy driving from various devices, while claiming wide-band reproduction capability from 5Hz to 45kHz.

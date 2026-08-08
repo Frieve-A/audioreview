@@ -5,6 +5,7 @@ target_name: "Klipsch R-50M"
 company_id: klipsch
 lang: en
 ref: klipsch-r-50m
+audiodb_uid: adb-ceb98007ba67
 date: 2025-08-10
 rating: [2.5, 0.5, 0.5, 0.5, 0.5, 0.5]
 price: 199

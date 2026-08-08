@@ -5,6 +5,7 @@ target_name: "Neumann MA1"
 company_id: neumann
 lang: en
 ref: neumann-ma1
+audiodb_uid: adb-b1e9a149dd36
 date: 2025-07-17
 rating: [4.3, 0.8, 0.9, 1.0, 0.8, 0.8]
 price: 249

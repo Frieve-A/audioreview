@@ -5,6 +5,7 @@ target_name: "TANCHJIM ONE DSP"
 company_id: tanchjim
 lang: ja
 ref: tanchjim-one-dsp
+audiodb_uid: adb-ca9e17d064b8
 date: 2026-03-12
 rating: [3.9, 0.7, 0.8, 1.0, 0.6, 0.8]
 price: 4321

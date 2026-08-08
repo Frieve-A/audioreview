@@ -5,6 +5,7 @@ target_name: "ASHIDAVOX BNM-001"
 company_id: ashidavox
 lang: en
 ref: ashidavox-bnm-001
+audiodb_uid: adb-17f5e0abab09
 date: 2025-12-18
 rating: [3.1, 0.3, 0.5, 1.0, 0.6, 0.7]
 price: 51

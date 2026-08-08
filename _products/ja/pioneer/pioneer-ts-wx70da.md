@@ -5,6 +5,7 @@ target_name: "Pioneer TS-WX70DA"
 company_id: pioneer
 lang: ja
 ref: pioneer-ts-wx70da
+audiodb_uid: adb-492a615cff3c
 date: 2025-09-09
 rating: [2.3, 0.5, 0.3, 0.3, 0.8, 0.4]
 price: 52000
@@ -12,7 +13,6 @@ summary: "デュアル16cmドライバーとClass-Dアンプにより100W RMS出
 tags: [カーオーディオ, サブウーファー, アクティブスピーカー, Class-Dアンプ]
 permalink: /products/ja/pioneer-ts-wx70da/
 ---
-
 ## 概要
 
 Pioneer TS-WX70DAは、デュアル16cm IMPP膜ドライバーをバックロードホーンエンクロージャーに搭載した車載用アクティブサブウーファーです。コンパクトな筐体にClass-Dアンプを内蔵し100W RMS出力を実現、Digital Bass Control技術により2つのモード（クラシック向けのDEEP（20Hz-250Hz）とエレクトロニック音楽向けのDYNAMIC（40Hz-250Hz））を選択可能です。可変ローパスフィルター（50-125Hz）、有線リモートコントロール機能を搭載し、850 x 323 x 97mm、重量10.4kgでシート下設置に対応します。

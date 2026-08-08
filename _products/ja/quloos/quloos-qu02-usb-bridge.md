@@ -5,6 +5,7 @@ target_name: "Quloos QU02 USB Bridge"
 company_id: quloos
 lang: ja
 ref: quloos-qu02-usb-bridge
+audiodb_uid: adb-46eec41c01d5
 date: 2025-08-25
 rating: [3.3, 0.5, 0.6, 1.0, 0.5, 0.7]
 price: 62864
@@ -12,7 +13,6 @@ summary: "I2S/AES/同軸/光の全デジタル出力を備えたUSB DDC。ガル
 tags: [USB Bridge, Digital Interface, I2S, SPDIF, AES/EBU, DSD512]
 permalink: /products/ja/quloos-qu02-usb-bridge/
 ---
-
 ## 概要
 
 QU02はUSB入力をI2S（HDMI LVDS）、AES/EBU、同軸×2、光に変換するDDC（デジタル→デジタル）です。USB側のガルバニックアイソレーション、AmaneroベースのUSB受け、2基のAccusilicon AS338クロック、I2S極性/フラグ設定用DIPスイッチなど、PC・スマホ起点のデジタル系の安定化に主眼を置いた設計です[5]。国内実売は約62,864円（2025-08-25時点、Amazon）を確認しました[8]。

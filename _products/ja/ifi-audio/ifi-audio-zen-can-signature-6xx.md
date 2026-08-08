@@ -5,6 +5,7 @@ target_name: "iFi Audio ZEN CAN Signature 6XX"
 company_id: ifi-audio
 lang: ja
 ref: ifi-audio-zen-can-signature-6xx
+audiodb_uid: adb-ec06a69d5c6b
 date: 2025-09-05
 rating: [3.3, 0.6, 0.7, 0.8, 0.6, 0.6]
 price: 39800
@@ -12,7 +13,6 @@ summary: "HD 6XX専用最適化を特徴とするClass A ディスクリート�
 tags: [ヘッドホンアンプ, バランス, Class-A, デスクトップ, iFi-Audio]
 permalink: /products/ja/ifi-audio-zen-can-signature-6xx/
 ---
-
 ## 概要
 
 iFi Audio ZEN CAN Signature 6XXは、Sennheiser HD 6XXヘッドホンに特化して設計されたバランス・デスクトップ・ヘッドホンアンプです。iFiのフラッグシップPro iCANからのトリクルダウン技術によるClass Aディスクリート回路を採用し、HD 6XX専用のアナログ・チューニングであるActivEQを搭載しています。デュアルモノ・バランス設計により、シングルエンドとバランス接続の両方で十分な出力を提供します。

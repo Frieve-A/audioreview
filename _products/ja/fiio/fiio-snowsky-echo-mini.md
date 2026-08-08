@@ -5,6 +5,7 @@ target_name: "FiiO SNOWSKY Echo Mini"
 company_id: fiio
 lang: ja
 ref: fiio-snowsky-echo-mini
+audiodb_uid: adb-4d0570a690c2
 date: 2025-10-08
 rating: [3.6, 0.7, 0.6, 1.0, 0.5, 0.8]
 price: 7500

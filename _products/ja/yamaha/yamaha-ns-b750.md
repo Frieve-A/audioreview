@@ -5,6 +5,7 @@ target_name: "Yamaha NS-B750"
 company_id: yamaha
 lang: ja
 ref: yamaha-ns-b750
+audiodb_uid: adb-438b9fb50de8
 date: 2025-08-30
 rating: [1.8, 0.5, 0.4, 0.2, 0.4, 0.3]
 price: 155000
@@ -12,7 +13,6 @@ summary: "Yamaha NS-B750は販売終了の2ウェイブックシェルフで、�
 tags: [ブックシェルフ, 2ウェイ, バスレフ, ヤマハ]
 permalink: /products/ja/yamaha-ns-b750/
 ---
-
 ## 概要
 
 Yamaha NS-B750は、13 cmアドバンスドPMDコーンウーファーと3 cmアルミドームツイーターを4 kHzで分割する2ウェイ・バスレフ型ブックシェルフです。台形キャビネットで定在波低減を狙い、ピアノブラック仕上げを採用します。定格入力は30 W（最大120 W）です。 [2][3]

@@ -5,6 +5,7 @@ target_name: "Sennheiser HD-505"
 company_id: sennheiser
 lang: en
 ref: sennheiser-hd-505
+audiodb_uid: adb-4b60d74e55c2
 date: 2026-02-11
 rating: [2.9, 0.6, 0.6, 0.7, 0.5, 0.5]
 price: 279.95
@@ -12,7 +13,6 @@ summary: "Open-back over-ear headphones targeting emerging audiophiles with anal
 tags: [headphones, open-back, sennheiser, analytical, entry-level-audiophile]
 permalink: /products/en/sennheiser-hd-505/
 ---
-
 ## Overview
 
 The Sennheiser HD-505 positions itself as "the perfect way to start your journey into the audiophile listening experience" with a 279.95 USD price point. Built on the established HD 500 series chassis, it features custom 120-ohm transducers manufactured in Ireland, delivering 12 Hz to 38,500 Hz frequency response. The modular design allows tool-free cable and earpad swapping, targeting users stepping up from gaming headsets into analytical audio listening.

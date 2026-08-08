@@ -5,6 +5,7 @@ target_name: "Fosi Audio SK02"
 company_id: fosi-audio
 lang: ja
 ref: fosi-audio-sk02
+audiodb_uid: adb-5be2354e18f7
 date: 2025-09-20
 rating: [3.5, 0.8, 0.6, 1.0, 0.5, 0.6]
 price: 17980
@@ -12,7 +13,6 @@ summary: "ES9038Q2Mチップを搭載したデスクトップDAC/ヘッドホン
 tags: [DAC, ヘッドホンアンプ, デスクトップオーディオ, ES9038Q2M, USB-C, バランス出力]
 permalink: /products/ja/fosi-audio-sk02/
 ---
-
 ## 概要
 
 Fosi Audio SK02は、ESS SABRE ES9038Q2M DACチップとSGM8262オペアンプ構成を採用したデスクトップ型DAC兼ヘッドホンアンプです。このコンパクトなユニットは専用ヘッドホンアンプとアクティブスピーカー用プリアンプの両方の用途に対応し、USB-C入力を通じてPCM 32ビット/384kHzやDSD256といった高解像度フォーマットをサポートします。アルミニウムCNC加工筐体には3.5mmアンバランス出力と4.4mmバランス出力の両方を搭載し、ゲイン切り替えと入力選択コントロールを備えています。

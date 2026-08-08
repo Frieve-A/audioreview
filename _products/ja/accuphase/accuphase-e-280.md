@@ -5,6 +5,7 @@ target_name: "Accuphase E-280"
 company_id: accuphase
 lang: ja
 ref: accuphase-e-280
+audiodb_uid: adb-89fa20c41364
 date: 2025-08-25
 rating: [2.8, 0.7, 0.7, 0.2, 0.6, 0.6]
 price: 778000

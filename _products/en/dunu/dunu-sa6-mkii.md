@@ -5,6 +5,7 @@ target_name: "DUNU SA6 MKII"
 company_id: dunu
 lang: en
 ref: dunu-sa6-mkii
+audiodb_uid: adb-8ee7a30081b1
 date: 2025-10-17
 rating: [2.7, 0.5, 0.8, 0.0, 0.6, 0.8]
 price: 521

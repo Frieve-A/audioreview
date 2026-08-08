@@ -5,6 +5,7 @@ target_name: "Denon AVR-X4500H"
 company_id: denon
 lang: ja
 ref: denon-avr-x4500h
+audiodb_uid: adb-2c6637bcda2d
 date: 2025-07-27
 rating: [3.7, 0.8, 0.7, 1.0, 0.4, 0.8]
 price: 90000
@@ -12,7 +13,6 @@ summary: "2018年発売のパワフルな9.2チャンネルAVレシーバー。I
 tags: [AVレシーバー, Dolby Atmos, 9チャンネル, 4K対応, IMAX Enhanced, ルーム補正]
 permalink: /products/ja/denon-avr-x4500h/
 ---
-
 ## 概要
 
 Denon AVR-X4500Hは2018年にリリースされた9.2チャンネルAVレシーバーで、コンシューマー機で初めてIMAX Enhanced対応を実現した製品の一つとして注目されました。チャンネルあたり125Wの出力と11.2チャンネルプロセッシング能力により、5.2.4や7.2.2といった高度なDolby Atmos構成をサポートします。包括的な4K HDR対応、内蔵HEOSストリーミングプラットフォーム、Audyssey MultEQ XT32ルーム補正を搭載。後継機は登場していますが、現代のAVレシーバーの標準機能を確立した、現在でも有能な中上級機です。

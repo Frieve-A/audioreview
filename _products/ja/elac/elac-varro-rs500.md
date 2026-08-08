@@ -5,6 +5,7 @@ target_name: "ELAC Varro RS500"
 company_id: elac
 lang: ja
 ref: elac-varro-rs500
+audiodb_uid: adb-6f144c85b544
 date: 2025-08-12
 rating: [3.0, 0.5, 0.7, 0.4, 0.7, 0.7]
 price: 209850
@@ -12,7 +13,6 @@ summary: "アプリ制御とDSPを搭載した10インチ密閉型サブウー�
 tags: [サブウーファー, 密閉型, アプリ制御, DSP, ホームシアター, 音楽]
 permalink: /products/ja/elac-varro-rs500/
 ---
-
 ## 概要
 
 ELAC Varro RS500は、500W RMS（1,000Wピーク）のBASHアンプ、アルミサンドイッチコーンドライバー、自動ルームEQ機能付きスマートフォンアプリ制御を特徴とする10インチ密閉型サブウーファーです。ELACの新しいVarro Referenceシリーズの一部として、小中規模の部屋をターゲットとしています。メーカー/国内代理店資料では、室内周波数特性15–150Hz、最大出力108dB SPLが示されています[2]。このデザインは音楽とホームシアターの両方で正確で引き締まった低音を重視し、ELAC Sub Control 3.0アプリによる高度なDSP処理とワイヤレス接続オプションを組み込んでいます。

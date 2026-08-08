@@ -5,6 +5,7 @@ target_name: "Monoprice Monolith 43862"
 company_id: monoprice
 lang: ja
 ref: monoprice-monolith-43862
+audiodb_uid: adb-f5f9fca0855c
 date: 2025-10-31
 rating: [2.5, 0.6, 0.7, 0.3, 0.2, 0.7]
 price: 94000
@@ -12,7 +13,6 @@ summary: "THX AAA技術とESS SABREダックを搭載したデスクトップDAC
 tags: [ヘッドホンアンプ, DAC, THX-AAA, ESS-SABRE, デスクトップオーディオ]
 permalink: /products/ja/monoprice-monolith-43862/
 ---
-
 ## 概要
 
 Monoprice Monolith Desktop Balanced Headphone Amplifier and ESS SABRE DAC（モデル43862）は、MonopriceのTHX認定デスクトップオーディオソリューションの現行モデルです。このモデルは、AKMの工場事故を受けてMonopriceがESS技術に移行した際に、以前のAKMベースバージョン（モデル24459）に代わって発売されました。このデスクトップDAC/アンプコンビネーションは、デュアルTHX AAA 788アンプモジュール、ESS SABRE 9038Q2M DAC、MQA対応、Dirac Virtuo空間処理を特徴としています。本機はバランスXLRとシングルエンド・ヘッドホン出力の両方を提供し、USB、光デジタル、同軸、XLR、RCA入力を含む包括的な接続オプションを備えています。599.99 USD（約94,000円）で、THX認定アンプと現代的なデジタル処理機能を求めるオーディオファイルをターゲットとしたミッドレンジデスクトップオーディオソリューションとして位置づけられています。

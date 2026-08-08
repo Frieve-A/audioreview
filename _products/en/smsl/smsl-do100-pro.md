@@ -5,6 +5,7 @@ target_name: "SMSL DO100 Pro"
 company_id: smsl
 lang: en
 ref: smsl-do100-pro
+audiodb_uid: adb-070e091c037e
 date: 2026-02-23
 rating: [4.2, 0.9, 0.7, 1.0, 0.6, 1.0]
 price: 219

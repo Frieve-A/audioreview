@@ -5,6 +5,7 @@ target_name: "Audio-Technica ATH-M20x"
 company_id: audio-technica
 lang: en
 ref: audio-technica-ath-m20x
+audiodb_uid: adb-8907dfbe4c4a
 date: 2025-08-14
 rating: [2.0, 0.3, 0.2, 1.0, 0.3, 0.2]
 price: 59
@@ -12,7 +13,6 @@ summary: "Entry-level closed-back monitors with neutral-leaning mids, audible lo
 tags: [Headphones, Studio, Monitor, Budget, Closed-back]
 permalink: /products/en/audio-technica-ath-m20x/
 ---
-
 ## Overview
 
 The Audio-Technica ATH-M20x is the entry model of the M-Series: closed-back, over-ear, 40 mm dynamic drivers (neodymium, CCAW), fixed 3.0 m cable. Official specs list **47 Ω impedance**, **96 dB sensitivity**, and **~190 g** weight (w/o cable). It targets budget buyers needing straightforward tracking cans.

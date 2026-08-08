@@ -5,6 +5,7 @@ target_name: "Meze Audio Elite Tungsten"
 company_id: meze-audio
 lang: en
 ref: meze-audio-elite-tungsten
+audiodb_uid: adb-ea44ec90ab0b
 date: 2025-12-13
 rating: [3.0, 0.6, 1.0, 0.0, 0.9, 0.5]
 price: 4000
@@ -12,7 +13,6 @@ summary: "Premium open-back headphones featuring advanced Rinaro Isodynamic Hybr
 tags: [Headphones, Open-back, Premium, Meze Audio, Rinaro]
 permalink: /products/en/meze-audio-elite-tungsten/
 ---
-
 ## Overview
 
 The Meze Audio Elite Tungsten represents the company's flagship open-back headphones, priced at 4000 USD. Built in collaboration with Rinaro Isodynamics, the Elite Tungsten features the patented Isodynamic Hybrid Array technology with the MZ3SE driver, marketed as one of the most sophisticated acoustic technologies available. The headphones incorporate a CNC-machined aluminum chassis, carbon fiber headband, and dual earpad options, targeting audiophiles seeking premium build quality and advanced acoustic technology. The primary evaluation challenge lies in justifying the significant price premium over dramatically cheaper alternatives offering equivalent functionality.

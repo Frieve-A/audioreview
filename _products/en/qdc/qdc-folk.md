@@ -5,6 +5,7 @@ target_name: "QDC Folk"
 company_id: qdc
 lang: en
 ref: qdc-folk
+audiodb_uid: adb-91a478fe95e1
 date: 2025-12-01
 rating: [2.5, 0.5, 0.7, 0.4, 0.5, 0.4]
 price: 428

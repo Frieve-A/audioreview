@@ -5,6 +5,7 @@ target_name: "NUARL Inovator"
 company_id: nuarl
 lang: en
 ref: nuarl-inovator
+audiodb_uid: adb-4c8a26b99889
 date: 2025-12-16
 rating: [3.3, 0.5, 1.0, 0.1, 0.7, 1.0]
 price: 550
@@ -12,7 +13,6 @@ summary: "Premium true wireless earbuds featuring cutting-edge xMEMS technology 
 tags: [True Wireless Earbuds, LDAC, ANC, xMEMS, MEMS Speaker, Dual Driver, Premium]
 permalink: /products/en/nuarl-inovator/
 ---
-
 ## Overview
 
 The NUARL Inovator represents a technological tour de force in the true wireless earbuds category, incorporating cutting-edge xMEMS "Cowell" MEMS speaker technology alongside a proprietary "2x2 Sound Technology" dual DAC architecture. Released by MTI Corporation's NUARL brand in December 2024, this premium product features an 8mm LCP dynamic driver paired with an xMEMS tweeter, comprehensive Hi-Res codec support including LDAC and aptX Lossless, and hybrid active noise cancellation. The Inovator showcases NUARL's commitment to engineering excellence with aluminum alloy construction and advanced software integration through Audiodo Personal Sound customization.

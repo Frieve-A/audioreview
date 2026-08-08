@@ -5,6 +5,7 @@ target_name: "Pentaconn COREIR Brass"
 company_id: pentaconn
 lang: ja
 ref: pentaconn-coreir-brass
+audiodb_uid: adb-6bd2a3fdae27
 date: 2025-08-19
 rating: [2.0, 0.3, 0.6, 0.2, 0.5, 0.4]
 price: 3850

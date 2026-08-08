@@ -5,6 +5,7 @@ target_name: "Elgato Wave XLR"
 company_id: elgato
 lang: en
 ref: elgato-wave-xlr
+audiodb_uid: adb-3e8e317ce226
 date: 2025-12-02
 rating: [3.5, 0.5, 0.6, 1.0, 0.7, 0.7]
 price: 169

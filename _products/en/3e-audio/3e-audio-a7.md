@@ -5,6 +5,7 @@ target_name: "3e Audio A7"
 company_id: 3e-audio
 lang: en
 ref: 3e-audio-a7
+audiodb_uid: adb-f94c49c7516d
 date: 2025-08-25
 rating: [4.4, 0.9, 0.7, 1.0, 0.8, 1.0]
 price: 300

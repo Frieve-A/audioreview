@@ -5,6 +5,7 @@ target_name: "Audio-Technica ATH-M20xBT"
 company_id: audio-technica
 lang: en
 ref: audio-technica-ath-m20xbt
+audiodb_uid: adb-42f0413aabd9
 date: 2025-07-20
 rating: [3.0, 0.6, 0.4, 0.8, 0.6, 0.6]
 price: 78
@@ -12,7 +13,6 @@ summary: "An entry-level model combining monitor-style sound with wireless featu
 tags: [Headphones, Wireless, Bluetooth, Monitor, Audio-Technica]
 permalink: /products/en/audio-technica-ath-m20xbt/
 ---
-
 ## Overview
 
 The Audio-Technica ATH-M20xBT is an entry-level model that adds wireless functionality to the company's well-regarded M-series monitor headphones. It inherits the acoustic characteristics of the wired ATH-M20x while incorporating Bluetooth 5.0 connectivity and up to 60 hours of extended battery life. Designed to serve both professional and consumer applications, it features SBC/AAC codec support, low-latency mode, and dual wired/wireless connectivity options.

@@ -5,6 +5,7 @@ target_name: "miniDSP EARS"
 company_id: minidsp
 lang: en
 ref: minidsp-ears
+audiodb_uid: adb-51ec883f9224
 date: 2025-09-08
 rating: [3.4, 0.7, 0.4, 1.0, 0.4, 0.9]
 price: 179
@@ -12,7 +13,6 @@ summary: "USB-powered headphone measurement fixture offering calibrated dual-mic
 tags: [Measurement Equipment, USB Audio, Headphone Testing, Calibrated Microphones]
 permalink: /products/en/minidsp-ears/
 ---
-
 ## Overview
 
 The miniDSP EARS (Earphone Audio Response System) is a USB-powered headphone measurement fixture that brings basic measurement capability to the consumer market at 179 USD. Based on the same technology as miniDSP's UMIK-1 calibrated measurement microphone, it features dual microphone capsules mounted in a minimal dummy head with individual calibration files. While offering unprecedented accessibility for headphone measurement, it employs significant geometric compromises compared to professional standards, using straight cylindrical tubes rather than anatomically correct ear canal simulation.

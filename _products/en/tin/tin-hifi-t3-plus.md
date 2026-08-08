@@ -5,6 +5,7 @@ target_name: "TIN HiFi T3 Plus"
 company_id: tin
 lang: en
 ref: tin-hifi-t3-plus
+audiodb_uid: adb-881b976a53e2
 date: 2025-07-13
 rating: [3.0, 0.6, 0.7, 0.2, 0.7, 0.8]
 price: 69

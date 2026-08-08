@@ -5,6 +5,7 @@ target_name: "McIntosh MC275 VI"
 company_id: mcintosh
 lang: en
 ref: mcintosh-mc275-vi
+audiodb_uid: adb-0267eca19d51
 date: 2025-08-28
 rating: [1.7, 0.3, 0.6, 0.0, 0.6, 0.2]
 price: 7500

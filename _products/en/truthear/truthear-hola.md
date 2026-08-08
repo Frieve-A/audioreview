@@ -5,6 +5,7 @@ target_name: "Truthear HOLA"
 company_id: truthear
 lang: en
 ref: truthear-hola
+audiodb_uid: adb-1f481ca13b4f
 date: 2025-09-04
 rating: [3.1, 0.6, 0.4, 1.0, 0.5, 0.6]
 price: 19

@@ -5,6 +5,7 @@ target_name: "JBL JBL Bar 1000 MK2"
 company_id: jbl
 lang: en
 ref: jbl-bar-1000-mk2
+audiodb_uid: adb-8b4144ef3634
 date: 2026-01-28
 rating: [3.7, 0.5, 0.9, 0.9, 0.5, 0.9]
 price: 899.95
@@ -12,7 +13,6 @@ summary: "7.1.4 soundbar with innovative detachable wireless speakers, strong te
 tags: [soundbar, dolby-atmos, wireless-speakers, home-theater]
 permalink: /products/en/jbl-bar-1000-mk2/
 ---
-
 ## Overview
 
 The JBL Bar 1000 MK2 represents JBL's 2025 flagship soundbar featuring 7.1.4-channel Dolby Atmos configuration with detachable wireless surround speakers [1]. The system delivers 960W maximum power through a main soundbar, 10-inch wireless subwoofer, and battery-powered rear speakers offering 10-hour runtime. Key innovations include proprietary MultiBeam 3.0 beamforming technology and magnetic docking system for the detachable speakers. The design targets convenience over pure performance, competing in the premium soundbar market at 899.95 USD with unique installation flexibility through its wireless architecture.

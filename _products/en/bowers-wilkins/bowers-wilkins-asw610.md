@@ -5,6 +5,7 @@ target_name: "Bowers & Wilkins ASW610"
 company_id: bowers-wilkins
 lang: en
 ref: bowers-wilkins-asw610
+audiodb_uid: adb-db8660f26332
 date: 2025-08-26
 rating: [2.8, 0.5, 0.6, 0.5, 0.8, 0.4]
 price: 1000
@@ -12,7 +13,6 @@ summary: "A compact sealed 10-inch subwoofer with a 200W Class D amp and a rated
 tags: [Subwoofer, Sealed, Bowers & Wilkins, ASW Series]
 permalink: /products/en/bowers-wilkins-asw610/
 ---
-
 ## Overview
 
 Bowers & Wilkins ASW610 is a sealed (closed-box) powered subwoofer using a long-throw 250 mm (10-in) paper/aramid fiber cone and a 200 W Class-D amplifier. The manufacturer rates frequency response at ±3 dB: 27 Hz–40/140 Hz (adjustable), with a −6 dB range down to 20 Hz depending on bass-extension setting. Dimensions are 310×310×347 mm (H×W×D, without grille) and 12.5 kg. US list price is 1,000 USD. [1][2]

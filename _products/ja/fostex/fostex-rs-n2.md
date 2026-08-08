@@ -5,6 +5,7 @@ target_name: "Fostex RS-N2"
 company_id: fostex
 lang: ja
 ref: fostex-rs-n2
+audiodb_uid: adb-146a70e49204
 date: 2025-08-08
 rating: [3.5, 0.7, 0.4, 0.9, 0.8, 0.7]
 price: 300000

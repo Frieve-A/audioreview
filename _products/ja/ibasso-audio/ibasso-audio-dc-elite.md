@@ -5,6 +5,7 @@ target_name: "iBasso Audio DC-Elite"
 company_id: ibasso-audio
 lang: ja
 ref: ibasso-audio-dc-elite
+audiodb_uid: adb-063e8a291d17
 date: 2025-08-09
 rating: [2.9, 0.8, 0.7, 0.4, 0.5, 0.5]
 price: 73000
@@ -12,7 +13,6 @@ summary: "プレミアムDAC チップを採用したフラッグシップUSB DA
 tags: [DAC, ヘッドホンアンプ, ポータブル, ドングル, USB, iBasso Audio, ROHM BD34301EKV]
 permalink: /products/ja/ibasso-audio-dc-elite/
 ---
-
 ## 概要
 
 iBasso Audio DC-Eliteは、同社フラッグシップ級DAPの設計思想を小型化したUSB DAC/アンプドングルです。ROHM社のDACチップ「BD34301EKV」を採用し、3.5mm（SPDIF兼用）/4.4mmのデュアル出力、最大768kHz/32bit PCM・DSD512対応、24段ステップアッテネーターによる精密な音量調整といった仕様を備えます［1］［2］。

@@ -5,6 +5,7 @@ target_name: "AKG Q701"
 company_id: akg
 lang: en
 ref: akg-q701
+audiodb_uid: adb-0d8d210c838c
 date: 2025-09-16
 rating: [2.5, 0.3, 0.8, 0.1, 0.6, 0.7]
 price: 600
@@ -12,7 +13,6 @@ summary: "Open-back reference headphones with advanced driver technology but sig
 tags: [Headphones, Open-back, Studio, Reference, Discontinued]
 permalink: /products/en/akg-q701/
 ---
-
 ## Overview
 
 The AKG Q701 "Quincy Jones Signature" represents AKG's premium reference-class headphones featuring patented Varimotion diaphragm technology and flat-wire voice coils. Designed in collaboration with Austrian design firm Kiska, these open-back headphones incorporate genuine leather, metal arches, and 3D-form velvet ear pads. Each unit is individually tested and numbered, emphasizing AKG's commitment to quality control in this signature series.

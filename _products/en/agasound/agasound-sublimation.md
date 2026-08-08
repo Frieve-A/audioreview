@@ -5,6 +5,7 @@ target_name: "Agasound Sublimation"
 company_id: agasound
 lang: en
 ref: agasound-sublimation
+audiodb_uid: adb-4ddc2c8392cf
 date: 2025-09-18
 rating: [2.9, 0.5, 0.7, 0.2, 0.8, 0.7]
 price: 115

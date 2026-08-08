@@ -5,6 +5,7 @@ target_name: "SoundPEATS Air5 Pro"
 company_id: soundpeats
 lang: en
 ref: soundpeats-air5-pro
+audiodb_uid: adb-4a2ffeec3749
 date: 2025-08-17
 rating: [3.8, 0.6, 0.8, 1.0, 0.6, 0.8]
 price: 79
@@ -12,7 +13,6 @@ summary: "True wireless earbuds with adaptive ANC, aptX Lossless, and comprehens
 tags: [Wireless Earbuds, ANC, Bluetooth, aptX Lossless, LDAC, TWS]
 permalink: /products/en/soundpeats-air5-pro/
 ---
-
 ## Overview
 
 The SoundPEATS Air5 Pro is a true wireless earbud featuring adaptive ANC, 10 mm composite bio-diaphragm drivers, and Qualcomm QCC3091. It supports aptX Lossless, LDAC, LC3 (LE Audio) and multipoint over Bluetooth 5.4. Single-earbud weight is 4.8 g. Playtime is up to **7.5 hours per charge** and **37 hours total** with the case. Current US market price is **79 USD**. [1][2]

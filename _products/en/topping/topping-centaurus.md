@@ -5,6 +5,7 @@ target_name: "TOPPING Centaurus"
 company_id: topping
 lang: en
 ref: topping-centaurus
+audiodb_uid: adb-a3eb7b8fb9cb
 date: 2025-10-15
 rating: [2.9, 0.8, 0.6, 0.4, 0.7, 0.4]
 price: 999

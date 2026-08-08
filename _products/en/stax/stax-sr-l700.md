@@ -5,6 +5,7 @@ target_name: "STAX SR-L700MK2"
 company_id: stax
 lang: en
 ref: stax-sr-l700
+audiodb_uid: adb-459147b28031
 date: 2025-10-11
 rating: [2.8, 0.4, 1.0, 0.1, 0.7, 0.6]
 price: 2594

@@ -5,6 +5,7 @@ target_name: "Sennheiser HD 6XX"
 company_id: sennheiser
 lang: ja
 ref: sennheiser-hd-6xx
+audiodb_uid: adb-da5570029569
 date: 2025-08-20
 rating: [3.5, 0.6, 0.7, 0.5, 0.9, 0.8]
 price: 29800
@@ -12,7 +13,6 @@ summary: "HD 6XXは、HD 650系譜の音響設計をそのままに手頃な価�
 tags: [ヘッドホン, オープンバック型, リファレンス, コストパフォーマンス, ドイツ]
 permalink: /products/ja/sennheiser-hd-6xx/
 ---
-
 ## 概要
 
 Sennheiser HD 6XXは、Drop（旧Massdrop）とSennheiserの協業モデルで、HD 650の設計を踏襲したオープンバック型ダイナミックヘッドホンです。公称インピーダンスは300Ωで、分解・交換可能な構造やアイルランド製の表記など仕様情報が公開されています[2]。測定系サイトではHD 650の新品パッド装着時と非常に近い周波数特性が確認されています[1]。国内の代表的市場価格は約29,800円（199 USD）です[2]。

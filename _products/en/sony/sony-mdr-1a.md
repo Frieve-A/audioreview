@@ -5,6 +5,7 @@ target_name: "Sony MDR-1A"
 company_id: sony
 lang: en
 ref: sony-mdr-1a
+audiodb_uid: adb-513a34d257a0
 date: 2025-07-24
 rating: [3.0, 0.4, 0.6, 1.0, 0.6, 0.4]
 price: 75
@@ -12,7 +13,6 @@ summary: "The Sony MDR-1A is a discontinued closed-back headphone released in 20
 tags: [Headphones, Closed-back, Sony, Over-ear, V-shaped Sound]
 permalink: /products/en/sony-mdr-1a/
 ---
-
 ## Overview
 
 The Sony MDR-1A is a closed-back over-ear headphone released in 2014, which is now discontinued. It claimed a wide frequency response of 3Hz-100kHz and Hi-Res Audio support, featuring 40mm drivers with aluminum-coated liquid crystal polymer diaphragms. The design prioritized lightweight construction and comfort, originally selling for around 300 USD. It can occasionally be found for approximately 75 USD in some markets as clearance stock.

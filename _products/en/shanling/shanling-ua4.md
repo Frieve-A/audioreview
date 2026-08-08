@@ -5,6 +5,7 @@ target_name: "Shanling UA4"
 company_id: shanling
 lang: en
 ref: shanling-ua4
+audiodb_uid: adb-3b1c943a6d4c
 date: 2025-08-05
 rating: [3.4, 0.8, 0.7, 0.7, 0.5, 0.7]
 price: 99

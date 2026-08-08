@@ -5,6 +5,7 @@ target_name: "Gustard A18"
 company_id: gustard
 lang: en
 ref: gustard-a18
+audiodb_uid: adb-0907cd097e2f
 date: 2025-08-10
 rating: [3.6, 0.9, 0.5, 1.0, 0.6, 0.6]
 price: 560
@@ -12,7 +13,6 @@ summary: "AK4499-based balanced DAC with comprehensive connectivity and premium 
 tags: [DAC, Balanced, AK4499, Desktop, Bluetooth]
 permalink: /products/en/gustard-a18/
 ---
-
 ## Overview
 
 The Gustard A18 is a balanced desktop DAC featuring the flagship AK4499EQ chip from AKM. Released around 2020, it offers comprehensive connectivity including USB, coaxial, optical, I2S, AES, and Bluetooth 5.0 with support for high-resolution formats up to PCM 768kHz and DSD512. The unit features independent linear power supplies, four LME49860 dual op-amps, and both RCA and XLR outputs with unusually high output levels of 3V RCA and 6V XLR.

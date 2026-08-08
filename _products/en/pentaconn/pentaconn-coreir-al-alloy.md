@@ -5,6 +5,7 @@ target_name: "Pentaconn COREIR Al Alloy"
 company_id: pentaconn
 lang: en
 ref: pentaconn-coreir-al-alloy
+audiodb_uid: adb-ed3d9f0ebf64
 date: 2025-08-19
 rating: [2.1, 0.3, 0.6, 0.3, 0.5, 0.4]
 price: 49.00
@@ -12,7 +13,6 @@ summary: "Aluminum-alloy core eartips; solid build, unproven audible gains, and 
 tags: [Audio Accessories, Japan, Aluminum, Premium, Eartips]
 permalink: /products/en/pentaconn-coreir-al-alloy/
 ---
-
 ## Overview
 
 The second release in Pentaconn’s COREIR line adopts an aluminum-alloy core (black-anodized) inside the sound conduit, with colored silicone cushions to avoid metal–nozzle contact and ease size ID (S/MS/M/L). Compatibility is stated for 4.5–5.5 mm nozzles, sold as two pairs per size or mixed sets. Typical US market price is 49 USD per pack. [1][2]

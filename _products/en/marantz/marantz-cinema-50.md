@@ -5,6 +5,7 @@ target_name: "Marantz Cinema 50"
 company_id: marantz
 lang: en
 ref: marantz-cinema-50
+audiodb_uid: adb-6afaf3c16535
 date: 2025-08-15
 rating: [3.7, 0.8, 0.6, 1.0, 0.7, 0.6]
 price: 2800
@@ -12,7 +13,6 @@ summary: "9.4-channel AV receiver with 6x HDMI 2.1 and Audyssey XT32; measured t
 tags: [AV Receiver, Home Theater, Dolby Atmos, 8K, HDMI]
 permalink: /products/en/marantz-cinema-50/
 ---
-
 ## Overview
 
 The Marantz Cinema 50 is a 9.4-channel AV receiver rated at 110 W per channel and supporting comprehensive immersive formats (Dolby Atmos, DTS:X, Auro-3D). It provides six HDMI 2.1 inputs (all 8K-capable), 8K/60 Hz and 4K/120 Hz passthrough, Audyssey MultEQ XT32 room correction, optional Dirac Live, and HEOS multi-room streaming. These are current-generation features for mid/high-tier home theater. [2]

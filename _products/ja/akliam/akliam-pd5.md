@@ -5,6 +5,7 @@ target_name: "Akliam PD5"
 company_id: akliam
 lang: ja
 ref: akliam-pd5
+audiodb_uid: adb-9c6841f1eb58
 date: 2025-07-28
 rating: [3.7, 0.8, 0.7, 1.0, 0.6, 0.6]
 price: 10880
@@ -12,7 +13,6 @@ summary: "AK4493SEQ DAC搭載のポータブルDAC/アンプ。SNR 125dB、THD+N
 tags: [ポータブルDAC, USB DAC, AK4493SEQ, バランス出力, ドングル型]
 permalink: /products/ja/akliam-pd5/
 ---
-
 ## 概要
 
 Akliam PD5は、AKM製AK4493SEQ DACチップと2基のRT6863オペアンプを搭載したポータブルUSB DAC/アンプです。重量21gの軽量設計ながら、3.5mmシングルエンドと4.4mmバランス出力の両方を備え、768kHz/32bit PCMとDSD512の高解像度音源に対応します。6種類のフィルター選択、60段階音量調整、ハイ/ローゲイン切り替えなど多彩な機能を搭載。測定性能は4.4mmバランス出力でSNR 125dB、THD+N -115dB、出力電力255mW@32Ωを達成しています。68 USD前後で販売されています。

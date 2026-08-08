@@ -5,6 +5,7 @@ target_name: "QCY T13"
 company_id: qcy
 lang: en
 ref: qcy-t13
+audiodb_uid: adb-9e25de6c96d4
 date: 2025-12-18
 rating: [3.4, 0.5, 0.7, 1.0, 0.4, 0.8]
 price: 20.99
@@ -12,7 +13,6 @@ summary: "Budget true wireless earbuds with ENC noise cancellation and solid bat
 tags: [True Wireless, Earbuds, ENC, Bluetooth, Budget, QCY]
 permalink: /products/en/qcy-t13/
 ---
-
 ## Overview
 
 The QCY T13 represents QCY's approach to affordable true wireless audio technology. Released in June 2021, these earbuds feature 7.2mm dynamic drivers, Bluetooth 5.1 connectivity, and a 4-microphone Environmental Noise Cancellation (ENC) system for call clarity. With 8 hours of playback plus up to 40 additional hours from the charging case, IPX5 water resistance, and support for both AAC and SBC codecs, the T13 targets users seeking essential wireless earbud functionality at a budget price point. QCY, established as a major player in China's wireless audio market and part of the Xiaomi ecological chain since 2018, positions this model as an entry-level option with practical features rather than premium specifications.

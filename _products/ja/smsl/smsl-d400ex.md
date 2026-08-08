@@ -5,6 +5,7 @@ target_name: "SMSL D400EX"
 company_id: smsl
 lang: ja
 ref: smsl-d400ex
+audiodb_uid: adb-368b04f9f90e
 date: 2025-08-14
 rating: [3.9, 0.8, 0.7, 0.9, 0.7, 0.8]
 price: 144000
@@ -12,7 +13,6 @@ summary: "デュアルAK4499EX＋AK4191構成のプレミアムDAC。公称THD+N
 tags: [DAC, デスクトップDAC, ハイエンド, AKM, 中国, ハイレゾ]
 permalink: /products/ja/smsl-d400ex/
 ---
-
 ## 概要
 
 SMSL D400EXは、AKMのAK4499EXを左右独立（デュアルモノ）で2基、前段にAK4191 EQを組み合わせたフラッグシップ級のデスクトップDACです。USBはXMOS XU-316を採用し、PCMは最大32bit/768kHz、DSDはDSD512（ネイティブ）まで対応、**MQA/MQA-CD**デコードにも対応します。入出力は**USB・光・同軸・Bluetooth・I2S・AES/EBU**、出力はXLR/RCAを装備します[2][3]。  

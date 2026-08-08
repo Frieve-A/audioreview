@@ -5,6 +5,7 @@ target_name: "HEDD Audio Type 07 MK2"
 company_id: hedd-audio
 lang: ja
 ref: hedd-audio-type-07-mk2
+audiodb_uid: adb-469c93c4503b
 date: 2025-12-02
 rating: [4.1, 0.5, 0.9, 1.0, 0.8, 0.9]
 price: 254000
@@ -12,7 +13,6 @@ summary: "手作りAMTツイーター技術、包括的DSP機能、プロ仕様�
 tags: [スピーカー, スタジオモニター, アクティブスピーカー, AMT, DSP]
 permalink: /products/ja/hedd-audio-type-07-mk2/
 ---
-
 ## 概要
 
 HEDD Audio Type 07 MK2は、プロフェッショナル及びホームスタジオ環境向けに設計された2ウェイ・アクティブ・スタジオモニターです。7インチウーファーとHEDD独自の手作りAir Motion Transformer（AMT）ツイーターを組み合わせています。Klaus Heinz（元ADAM Audioの創設者）とその息子Frederik Knopによって2015年に設立されたHEDD Audioは、数十年の経験を通じて確立されたAMT技術の改良という遺産を継承しています。Type 07 MK2は32ビットSHARC DSP処理、アナログXLR及びデジタルAES/EBU入力とパススルー機能を含む包括的な接続性、高度なユーザーチューニング機能を搭載しています。ベルリンで製造され、各ユニットは個別にテストされており、このモニターは科学的測定ベースの開発アプローチを通じた精密な音響再生に対するHEDDのコミットメントを表しています。製品は単体で販売されており、米国市場価格はペアで1,690 USDです。

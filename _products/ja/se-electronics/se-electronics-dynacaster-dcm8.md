@@ -5,6 +5,7 @@ target_name: "sE Electronics DynaCaster DCM8"
 company_id: se-electronics
 lang: ja
 ref: se-electronics-dynacaster-dcm8
+audiodb_uid: adb-f1259a701de3
 date: 2025-09-12
 rating: [3.1, 0.5, 0.7, 0.8, 0.7, 0.4]
 price: 49800

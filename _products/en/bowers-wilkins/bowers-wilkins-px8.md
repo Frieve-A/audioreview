@@ -5,6 +5,7 @@ target_name: "Bowers & Wilkins PX8"
 company_id: bowers-wilkins
 lang: en
 ref: bowers-wilkins-px8
+audiodb_uid: adb-03ddd895d96e
 date: 2025-07-14
 rating: [2.9, 0.7, 0.8, 0.8, 0.3, 0.3]
 price: 389
@@ -12,7 +13,6 @@ summary: "A flagship wireless headphone featuring premium materials and propriet
 tags: [Headphones, Wireless, Noise Cancellation, Over-ear, Bluetooth, Premium]
 permalink: /products/en/bowers-wilkins-px8/
 ---
-
 ## Overview
 
 The Bowers & Wilkins PX8 is a flagship wireless headphone released in 2022 by the established British audio brand. It features 40mm carbon cone drivers with 24-bit DSP processing, incorporating premium materials including Nappa leather and aluminum construction. The design applies the company's decades of speaker technology expertise to headphones, promising high-quality audio reproduction through aptX Adaptive and Hi-Res Audio compatibility. With 30-hour battery life and advanced active noise cancellation, the 320g design aims to balance comfort with luxury appeal.

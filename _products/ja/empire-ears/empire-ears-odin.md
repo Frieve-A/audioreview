@@ -5,6 +5,7 @@ target_name: "Empire Ears Odin"
 company_id: empire-ears
 lang: ja
 ref: empire-ears-odin
+audiodb_uid: adb-fdcf8b875c45
 date: 2025-11-12
 rating: [2.9, 0.5, 1.0, 0.0, 0.6, 0.8]
 price: 509325

@@ -5,6 +5,7 @@ target_name: "Pioneer SE-700"
 company_id: pioneer
 lang: ja
 ref: pioneer-se-700
+audiodb_uid: adb-aaa6f350d144
 date: 2026-01-02
 rating: [1.0, 0.2, 0.4, 0.2, 0.0, 0.2]
 price: 31000

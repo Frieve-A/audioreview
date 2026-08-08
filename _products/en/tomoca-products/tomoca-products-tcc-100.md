@@ -5,6 +5,7 @@ target_name: "TOMOCA Products TCC-100"
 company_id: tomoca-products
 lang: en
 ref: tomoca-products-tcc-100
+audiodb_uid: adb-7d5395cd1880
 date: 2026-06-06
 rating: [2.8, 0.5, 0.3, 1.0, 0.7, 0.3]
 price: 281

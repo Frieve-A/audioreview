@@ -5,6 +5,7 @@ target_name: "DUNU Concept R"
 company_id: dunu
 lang: ja
 ref: dunu-concept-r
+audiodb_uid: adb-0c6cde080b2b
 date: 2025-10-11
 rating: [3.3, 0.7, 0.8, 0.8, 0.6, 0.4]
 price: 112500
@@ -12,7 +13,6 @@ summary: "192個の高精度マッチングレジスタを使用した R2R DAC �
 tags: [CDプレーヤー, ポータブルオーディオ, R2R DAC, DUNU]
 permalink: /products/ja/dunu-concept-r/
 ---
-
 ## 概要
 
 DUNU Concept R は、プレミアム R2R DAC 技術でポータブル CD プレーヤー市場の復活を目指した意欲的な製品です。重量 1.16kg のこの大型デバイスは、192個の高精度マッチングレジスタを使用した完全差動クアッドバランス R2R 実装を特徴としています。従来の CD 再生機能に加え、768kHz/32bit および DSD512 対応の USB DAC サポート、Bluetooth 5.3、3.5mm シングルエンドおよび 4.4mm バランス出力を含む複数の出力オプションなど、現代的な接続性を備えています。1994年設立で ODM/OEM 製造をルーツとする DUNU は、これをポータブルオーディオに適用されたディスクリートアナログ技術のフラッグシップ製品として位置づけています。

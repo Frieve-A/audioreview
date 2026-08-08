@@ -5,6 +5,7 @@ target_name: "Behringer PK108"
 company_id: behringer
 lang: ja
 ref: behringer-pk108
+audiodb_uid: adb-34804e5fb697
 date: 2025-08-20
 rating: [2.7, 0.4, 0.3, 1.0, 0.5, 0.5]
 price: 11000
@@ -12,7 +13,6 @@ summary: "超低価格帯の8インチ2ウェイ・パッシブPAスピーカー
 tags: [PAスピーカー, パッシブ, 低価格, ライブ音響, モニター]
 permalink: /products/ja/behringer-pk108/
 ---
-
 ## 概要
 
 Behringer PK108は、8インチ低域ドライバーと1インチコンプレッションドライバーを備えた2ウェイ・パッシブPAラウドスピーカーです。公称ピーク320–350W、感度96dB（1W/1m）、指向性は70°H×50°V、質量は約5.1kg（11.2lb）で可搬性を重視した設計です。端子は4ピンのスピーカーツイスト（speakON互換）×2（入力／リンク）で、35mmポールソケットを装備します。[1][2][3][4]

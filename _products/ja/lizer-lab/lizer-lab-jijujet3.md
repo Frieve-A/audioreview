@@ -5,6 +5,7 @@ target_name: "Lizer Lab JIJU-JET-3"
 company_id: lizer-lab
 lang: ja
 ref: lizer-lab-jijujet3
+audiodb_uid: adb-3638657ae686
 date: 2025-08-19
 rating: [2.7, 0.3, 0.7, 0.4, 0.5, 0.8]
 price: 4200
@@ -12,7 +13,6 @@ summary: "音場改善を目的とした独自の音響設計によるフェー�
 tags: [オーディオアクセサリ, 日本, ハイブリッド技術, プレミアム]
 permalink: /products/ja/lizer-lab-jijujet3/
 ---
-
 ## 概要
 
 JIJU-JET-3は、金属フェーズプラグとベントを一体化した日本製イヤーピースで、従来型で起こりがちな「頭内定位」低減を狙う設計です。対応はノズル径5.5 mm以上のIEMで、S/M/Lの各サイズが提供されています [1]。メーカーはJIJUシリーズを特許取得の構造として位置付けています [2]。

@@ -5,6 +5,7 @@ target_name: "Harmonic Empire LONG ZHONG DUI"
 company_id: harmonic-empire
 lang: en
 ref: harmonic-empire-long-zhong-dui
+audiodb_uid: adb-86d39214a8e0
 date: 2026-05-28
 rating: [2.4, 0.6, 0.2, 0.9, 0.5, 0.2]
 price: 9.9
@@ -12,7 +13,6 @@ summary: "Budget USB-C to 3.5mm DAC dongle using the KTMicro KT02F20 chip, with 
 tags: [DAC Dongle, USB-C, Portable DAC, Harmonic Empire]
 permalink: /products/en/harmonic-empire-long-zhong-dui/
 ---
-
 ## Overview
 
 The LONG ZHONG DUI (隆中对), named after the celebrated strategic counsel of the Three Kingdoms era, is a USB Type-C to 3.5mm DAC adapter from Harmonic Empire, a sub-brand of Tangzu Audio. Built around the KTMicro KT02F20 DAC chip, it supports PCM audio up to 24-bit/192kHz (claimed) and operates as a plug-and-play device requiring no driver installation on Android, iOS (USB-C), Windows, and macOS. The official price is 9.90 USD on the Tangzu website [1]. The product is distinguished primarily by gradient anodized metal housing and Three Kingdoms thematic branding in a compact 120mm non-detachable cable form factor.

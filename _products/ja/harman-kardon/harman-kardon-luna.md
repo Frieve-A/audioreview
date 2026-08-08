@@ -5,6 +5,7 @@ target_name: "Harman Kardon Luna"
 company_id: harman-kardon
 lang: ja
 ref: harman-kardon-luna
+audiodb_uid: adb-f3c4d6865543
 date: 2025-08-27
 rating: [3.1, 0.5, 0.5, 0.7, 0.7, 0.7]
 price: 18500
@@ -12,7 +13,6 @@ summary: "IP67と再生素材を備えるプレミアム設計のポータブル
 tags: ["Bluetoothスピーカー", "ポータブルオーディオ", "防水", "Harman Kardon"]
 permalink: /products/ja/harman-kardon-luna/
 ---
-
 ## 概要
 
 Harman Kardon Luna（2023年）は、48×90 mmウーファー＋20 mmツイーターの2ウェイ構成、合計40 W RMS、Bluetooth 5.3、最大12時間再生、IP67防塵防水を備えるコンパクトなプレミアムポータブルスピーカーです[1][2]。スピーカーグリルは100%再生ポリエステル糸、フレームは85%再生プラスチック、トップパネルは50%再生アルミを採用するなど、素材面のサステナビリティも特徴です[1]。充電は約2.5時間、バッテリーは17.28 Whです[2]。

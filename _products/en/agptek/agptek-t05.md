@@ -5,6 +5,7 @@ target_name: "AGPTEK T05"
 company_id: agptek
 lang: en
 ref: agptek-t05
+audiodb_uid: adb-2784ce9c33ca
 date: 2025-12-22
 rating: [2.8, 0.5, 0.4, 1.0, 0.3, 0.6]
 price: 50

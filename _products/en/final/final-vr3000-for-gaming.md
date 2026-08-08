@@ -5,6 +5,7 @@ target_name: "final VR3000 for Gaming"
 company_id: final
 lang: en
 ref: final-vr3000-for-gaming
+audiodb_uid: adb-c3490f9d0e4b
 date: 2025-09-02
 rating: [3.0, 0.5, 0.7, 0.5, 0.5, 0.8]
 price: 79.99

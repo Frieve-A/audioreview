@@ -5,6 +5,7 @@ target_name: "HiFiMAN Isvarna"
 company_id: hifiman
 lang: en
 ref: hifiman-isvarna
+audiodb_uid: adb-f032c09faa1b
 date: 2025-12-03
 rating: [2.9, 0.5, 0.8, 0.1, 0.7, 0.8]
 price: 2899

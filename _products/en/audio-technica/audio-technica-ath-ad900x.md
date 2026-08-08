@@ -5,6 +5,7 @@ target_name: "Audio-Technica ATH-AD900X"
 company_id: audio-technica
 lang: en
 ref: audio-technica-ath-ad900x
+audiodb_uid: adb-70fdf1f6b2f8
 date: 2025-12-07
 rating: [2.5, 0.3, 0.6, 0.6, 0.7, 0.3]
 price: 299.95
@@ -12,7 +13,6 @@ summary: "Open-back audiophile headphones featuring 53mm drivers with CCAW voice
 tags: [Headphones, Open-back, Audio-Technica, Audiophile, CCAW]
 permalink: /products/en/audio-technica-ath-ad900x/
 ---
-
 ## Overview
 
 The Audio-Technica ATH-AD900X is positioned as a high-fidelity open-back headphone for audiophile applications, featuring large 53mm drivers exclusively designed for this model. The headphones incorporate Audio-Technica's proprietary copper-clad aluminum-wire (CCAW) voice coil technology and rare-earth magnets, claiming an extended frequency response from 5Hz to 35kHz. With 3D Wing Support Housing for comfort and lightweight honeycomb aluminum construction, the ATH-AD900X represents Audio-Technica's established engineering approach in the premium headphone segment at approximately 299.95 USD.

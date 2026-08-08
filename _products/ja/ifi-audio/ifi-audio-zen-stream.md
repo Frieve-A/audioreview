@@ -5,6 +5,7 @@ target_name: "iFi Audio ZEN Stream"
 company_id: ifi-audio
 lang: ja
 ref: ifi-audio-zen-stream
+audiodb_uid: adb-3568ee5849b9
 date: 2025-08-27
 rating: [3.5, 0.7, 0.6, 0.8, 0.6, 0.8]
 price: 64500
@@ -12,7 +13,6 @@ summary: "高解像度対応かつ低ジッターのデジタルトランスポ�
 tags: [ネットワークストリーマー, デジタルトランスポート, WiFi, イーサネット, USB出力, SPDIF出力, Roon-Ready]
 permalink: /products/ja/ifi-audio-zen-stream/
 ---
-
 ## 概要
 
 iFi Audio ZEN Streamは399 USD（約64,500円）の専用ネットワークオーディオトランスポートです。**USB 3.0（Type-A）×2**と**同軸S/PDIF出力**により外部DACへデジタル伝送します。**PCM 32-bit/384 kHz**と**DSD256**までをWi-Fi／Ethernetの両方でサポートし、**Roon Ready**、**Spotify Connect**、**TIDAL Connect**、**AirPlay**、**DLNA/UPnP**、**NAA（HQPlayer）**に対応します [2]。 

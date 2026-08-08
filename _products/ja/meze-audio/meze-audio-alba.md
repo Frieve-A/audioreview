@@ -5,6 +5,7 @@ target_name: "Meze Audio Alba"
 company_id: meze-audio
 lang: ja
 ref: meze-audio-alba
+audiodb_uid: adb-c1da8968217c
 date: 2025-09-03
 rating: [3.2, 0.8, 0.3, 1.0, 0.6, 0.5]
 price: 26399

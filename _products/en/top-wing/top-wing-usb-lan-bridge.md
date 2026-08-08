@@ -5,6 +5,7 @@ target_name: "Top Wing USB-LAN Bridge"
 company_id: top-wing
 lang: en
 ref: top-wing-usb-lan-bridge
+audiodb_uid: adb-5f53723c08cb
 date: 2025-07-25
 rating: [2.2, 0.2, 0.6, 0.5, 0.6, 0.3]
 price: 293
@@ -12,7 +13,6 @@ summary: "A 293 USD USB 3.0 to SFP port converter claiming an audio-specific des
 tags: [USB-SFP Converter, Network Equipment, Audio Accessory, Media Converter]
 permalink: /products/en/top-wing-usb-lan-bridge/
 ---
-
 ## Overview
 
 The Top Wing USB-LAN Bridge (product name: OPT USB Bridge) is an audio-dedicated media converter that converts a USB 3.0 port to an SFP port. It aims to add an SFP port to a PC or music server via USB, enabling direct optical isolation without the signal conversion required by media converters with built-in LAN ports. It claims to improve noise immunity by employing MEMS clock technology, reinforcing the SFP module's power lane, and using a multilayer board design. The unit has a compact 120×80×28mm chassis, weighs 264g, operates with standard USB 3.0 drivers, and is priced at 293 USD (tax included) with a 12-month warranty. However, the claimed sound quality improvement from optical isolation in digital network equipment lacks a clear scientific basis.

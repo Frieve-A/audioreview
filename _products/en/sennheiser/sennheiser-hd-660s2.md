@@ -5,6 +5,7 @@ target_name: "Sennheiser HD 660S2"
 company_id: sennheiser
 lang: en
 ref: sennheiser-hd-660s2
+audiodb_uid: adb-fdd296e44b7a
 date: 2025-07-21
 rating: [3.5, 0.7, 0.8, 0.3, 0.9, 0.8]
 price: 600
@@ -12,7 +13,6 @@ summary: "Legitimate evolution of the HD 660S. While technical improvements are 
 tags: [Headphones, Open-Back, High-Impedance, Sennheiser]
 permalink: /products/en/sennheiser-hd-660s2/
 ---
-
 ## Overview
 
 The Sennheiser HD 660S2 is the successor to the HD 660S, released in 2023. It features a 38mm high-performance dynamic transducer combined with an ultra-lightweight aluminum voice coil, with impedance changed from 150Ω to 300Ω. The frequency response spans 8Hz to 41.5kHz, achieving THD below 0.04% at 1kHz. Weighing 260g, this product inherits the traditional acoustic design philosophy of Sennheiser's 6xx series while aiming for extended low-frequency response and improved high-frequency precision.

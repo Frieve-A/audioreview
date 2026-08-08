@@ -5,6 +5,7 @@ target_name: "Shure SE425"
 company_id: shure
 lang: en
 ref: shure-se425
+audiodb_uid: adb-f60ed994d01f
 date: 2025-07-23
 rating: [2.6, 0.6, 0.5, 0.2, 0.8, 0.5]
 price: 269

@@ -5,6 +5,7 @@ target_name: "Sony SS-CS5"
 company_id: sony
 lang: en
 ref: sony-ss-cs5
+audiodb_uid: adb-7818a432dd80
 date: 2025-07-25
 rating: [3.4, 0.4, 0.6, 1.0, 0.7, 0.7]
 price: 199

@@ -5,6 +5,7 @@ target_name: "Noble Audio FoKus Rex5"
 company_id: noble-audio
 lang: en
 ref: noble-audio-fokus-rex5
+audiodb_uid: adb-1698e79a5786
 date: 2026-04-24
 rating: [2.9, 0.5, 0.7, 0.4, 0.6, 0.7]
 price: 449
@@ -12,7 +13,6 @@ summary: "Flagship TWS with a five-driver hybrid, LDAC, on-earbud Audiodo storag
 tags: [True Wireless, In-Ear, ANC, LDAC, Hybrid Drivers, Premium, Audiodo]
 permalink: /products/en/noble-audio-fokus-rex5/
 ---
-
 ## Overview
 
 The Noble Audio FoKus Rex5 is a true wireless earphone priced at 449 USD on Noble’s product page, built around a hybrid five-driver per side (one 10 mm dynamic, one 6 mm planar, three balanced armatures), with published claims of 20 Hz–40 kHz frequency range, Bluetooth 5.4, multipoint, LDAC and aptX Adaptive, active noise cancellation and transparency, a wireless-charging metal case, and aluminum and acrylic housings [1]. Audiodo’s hearing personalization runs on the Qualcomm QCC3091 with the profile stored in the earbuds so playback can follow the listener across devices after setup [1][5]. Battery-related claims on the product page include up to about seven hours playback without ANC, about five hours with ANC, and additional case charges in the 18–25 hour range, plus a fast-charge claim (15 minutes to about two hours playback) [1]. In market terms the model competes in the premium TWS band where several brands offer ANC, high-resolution Bluetooth codecs, and app-based tuning or personalization [2][3].

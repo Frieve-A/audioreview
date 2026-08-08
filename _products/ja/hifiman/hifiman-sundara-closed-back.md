@@ -5,6 +5,7 @@ target_name: "HiFiMAN Sundara Closed-Back"
 company_id: hifiman
 lang: ja
 ref: hifiman-sundara-closed-back
+audiodb_uid: adb-ac3ee9c7b103
 date: 2025-09-17
 rating: [2.0, 0.5, 0.6, 0.2, 0.3, 0.4]
 price: 59980
@@ -12,7 +13,6 @@ summary: "独自のStealth MagnetsとNEO Supernano Diaphragm技術を搭載し�
 tags: [ヘッドホン, 平面磁界駆動, 密閉型, オーバーイヤー, HiFiMAN]
 permalink: /products/ja/hifiman-sundara-closed-back/
 ---
-
 ## 概要
 
 HiFiMAN Sundara Closed-Backは、同社独自のStealth Magnets設計とNEO Supernano Diaphragm技術を搭載した平面磁界駆動ヘッドホンです。人気の開放型Sundaraの密閉型バリエーションとして発売され、平面磁界駆動ドライバーの特性を維持しながらパッシブ遮音性を求めるユーザーをターゲットとしています。手作業で組み立てられたブナ材のイヤーカップ、デュアル3.5mmコネクター付き着脱式ケーブルを特徴とし、20Ωインピーダンス、98dB感度、6Hz-50kHz周波数応答範囲の仕様を持ちます。

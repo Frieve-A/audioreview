@@ -5,6 +5,7 @@ target_name: "Primare I22"
 company_id: primare
 lang: ja
 ref: primare-i22
+audiodb_uid: adb-c7d4d178bb39
 date: 2025-08-25
 rating: [2.2, 0.5, 0.6, 0.1, 0.5, 0.5]
 price: 270000

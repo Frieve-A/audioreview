@@ -5,6 +5,7 @@ target_name: "Harman Kardon Onyx Studio 8"
 company_id: harman-kardon
 lang: ja
 ref: harman-kardon-onyx-studio-8
+audiodb_uid: adb-883e22132cac
 date: 2025-08-16
 rating: [3.1, 0.6, 0.4, 1.0, 0.6, 0.5]
 price: 30200
@@ -12,7 +13,6 @@ summary: "サイズ比で低域の到達が優秀なバランス型Bluetoothス�
 tags: [Bluetoothスピーカー, ポータブルオーディオ, ワイヤレススピーカー]
 permalink: /products/ja/harman-kardon-onyx-studio-8/
 ---
-
 ## 概要
 
 Onyx Studio 8は円形バッフルとアルマイト処理のアルミハンドル一体のポータブルBluetoothスピーカーです。**120 mmウーファー×1＋20 mmツイーター×2、定格50 W RMS、重量約3.52 kg**。Bluetooth 5.2、最大8時間再生、自動チューニングを公称し、**IP等級の記載はありません**。

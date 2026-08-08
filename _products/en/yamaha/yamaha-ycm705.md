@@ -5,6 +5,7 @@ target_name: "Yamaha YCM705"
 company_id: yamaha
 lang: en
 ref: yamaha-ycm705
+audiodb_uid: adb-92da07461ac2
 date: 2025-07-23
 rating: [2.3, 0.6, 0.4, 0.2, 0.6, 0.5]
 price: 433
@@ -12,7 +13,6 @@ summary: "The YCM705, scheduled for release in August 2025, is a condenser micro
 tags: [Condenser Microphone, Yamaha, Streaming, Recording]
 permalink: /products/en/yamaha-ycm705/
 ---
-
 ## Overview
 
 The Yamaha YCM705 is a new condenser microphone announced on July 3, 2025, and scheduled for release in August of the same year, designed for streamers and musicians. It features a custom-designed condenser capsule combining two 1-inch large diaphragms, achieving high-sensitivity sound capture through gold-vapor-deposited diaphragms. It adopts a cardioid (unidirectional) pattern and is equipped with -10dB/-20dB pad switches and 80Hz/160Hz high-pass filters. The design incorporates a streamlined form inspired by Yamaha's wind instruments, and includes a shock mount, pop filter, and carrying case as accessories.

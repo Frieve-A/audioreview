@@ -5,6 +5,7 @@ target_name: "Spendor D9.2"
 company_id: spendor
 lang: ja
 ref: spendor-d9-2
+audiodb_uid: adb-64b28d9f162c
 date: 2025-08-20
 rating: [2.6, 0.5, 0.7, 0.2, 0.6, 0.6]
 price: 1749240

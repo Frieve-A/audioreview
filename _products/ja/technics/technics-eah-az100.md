@@ -5,6 +5,7 @@ target_name: "Technics EAH-AZ100"
 company_id: technics
 lang: ja
 ref: technics-eah-az100
+audiodb_uid: adb-c57f704044b6
 date: 2025-12-11
 rating: [2.9, 0.4, 0.8, 0.3, 0.8, 0.6]
 price: 37500

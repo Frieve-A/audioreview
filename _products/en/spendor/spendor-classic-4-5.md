@@ -5,6 +5,7 @@ target_name: "Spendor Classic 4/5"
 company_id: spendor
 lang: en
 ref: spendor-classic-4-5
+audiodb_uid: adb-8bffcebd8b9b
 date: 2025-10-12
 rating: [2.5, 0.5, 0.6, 0.3, 0.8, 0.3]
 price: 2999

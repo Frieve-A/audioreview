@@ -5,6 +5,7 @@ target_name: "AKG K371-BT"
 company_id: akg
 lang: en
 ref: akg-k371-bt
+audiodb_uid: adb-4c27309b9b60
 date: 2026-01-06
 rating: [3.9, 0.6, 0.8, 1.0, 0.5, 1.0]
 price: 179

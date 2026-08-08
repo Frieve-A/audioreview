@@ -5,6 +5,7 @@ target_name: "Pioneer PL-50L II"
 company_id: pioneer
 lang: en
 ref: pioneer-pl-50lii
+audiodb_uid: adb-1c1b9f240453
 date: 2025-08-28
 rating: [1.9, 0.3, 0.4, 0.6, 0.3, 0.3]
 price: 600
@@ -12,7 +13,6 @@ summary: "Quartz-locked, coreless direct-drive turntable from 1981. Beautifully 
 tags: [Turntable, Pioneer]
 permalink: /products/en/pioneer-pl-50lii/
 ---
-
 ## Overview
 
 Pioneer’s PL-50L II (released in 1981) is a quartz-locked, coreless direct-drive deck with an SH-rotor bearing system, heavy 31 cm platter, and an interchangeable twin-pipe tonearm concept (S-arm standard; straight carbon pipe optional). Manufacturer specs state wow & flutter 0.023 % WRMS (JIS) and signal-to-noise ratio 82 dB (DIN-B) / 65 dB (JIS) [1]. This review evaluates it strictly on measurable fidelity and present-day value based on current market evidence.

@@ -5,6 +5,7 @@ target_name: "Bowers & Wilkins 705 S3"
 company_id: bowers-wilkins
 lang: en
 ref: bowers-wilkins-705-s3
+audiodb_uid: adb-d0c6e7e4a7ea
 date: 2025-07-31
 rating: [3.1, 0.7, 0.7, 0.5, 0.4, 0.8]
 price: 3400

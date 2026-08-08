@@ -5,6 +5,7 @@ target_name: "IK Multimedia iLoud Precision MTM"
 company_id: ik-multimedia
 lang: ja
 ref: ik-multimedia-iloud-precision-mtm
+audiodb_uid: adb-04fea93ad9b8
 date: 2025-09-15
 rating: [3.6, 0.7, 0.7, 1.0, 0.4, 0.8]
 price: 299600
@@ -12,7 +13,6 @@ summary: "室内補正システムを搭載した先進的なMTMスタジオモ�
 tags: [スタジオモニター, MTM構成, 室内補正, DSP処理, アクティブモニター]
 permalink: /products/ja/ik-multimedia-iloud-precision-mtm/
 ---
-
 ## 概要
 
 IK Multimedia iLoud Precision MTM MKIIは、ニアフィールドスタジオモニタリングに対する洗練されたアプローチを表現しており、1.5インチツイーターを挟む2つの5インチドライバーによるD'Appolito MTM（ミッドレンジ-ツイーター-ミッドレンジ）構成を特徴としています。このアクティブモニターは、高度なDSP処理、内蔵ARC X室内補正、および例外的な周波数応答精度を主張しています。設計は、精密なモニタリングと室内音響補正が優先されるプロフェッショナルスタジオアプリケーションを対象としています。しかし、機能的に類似した代替品に対する大幅なコストプレミアムは、ほとんどのユーザーにとって実用的な価値提案に疑問を投げかけています。

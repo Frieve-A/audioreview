@@ -5,6 +5,7 @@ target_name: "Polk Audio Reserve R600"
 company_id: polk-audio
 lang: en
 ref: polk-audio-reserve-r600
+audiodb_uid: adb-763fa3335fb9
 date: 2025-07-29
 rating: [3.0, 0.6, 0.7, 0.4, 0.6, 0.7]
 price: 1698
@@ -12,7 +13,6 @@ summary: "The Polk Audio Reserve R600 is a mid-price floor-standing speaker with
 tags: [Polk Audio, Floor-Standing Speaker, Reserve Series, Hi-Res Compatible]
 permalink: /products/en/polk-audio-reserve-r600/
 ---
-
 ## Overview
 
 The Polk Audio Reserve R600 is a floor-standing speaker in the Reserve series launched in 2021 by Polk, a veteran American audio manufacturer. This 2-way design features a 1-inch Pinnacle Ring Radiator tweeter and dual 6.5-inch Turbine Cone woofers, achieving a frequency response of 43Hz-38kHz (-3dB). Boasting Hi-Res Audio certification, Dolby Atmos, and IMAX Enhanced support, the design targets low-distortion bass reproduction through Power Port 2.0 technology. As a product consolidating the company's technical expertise, it aims to deliver quality sound in the mid-price segment.

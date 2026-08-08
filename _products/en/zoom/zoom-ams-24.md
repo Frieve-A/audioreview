@@ -5,6 +5,7 @@ target_name: "Zoom AMS-24"
 company_id: zoom
 lang: en
 ref: zoom-ams-24
+audiodb_uid: adb-dd10d21cb1d3
 date: 2025-09-14
 rating: [2.8, 0.4, 0.4, 0.8, 0.6, 0.6]
 price: 119.99

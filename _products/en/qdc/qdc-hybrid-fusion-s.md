@@ -5,6 +5,7 @@ target_name: "QDC Hybrid Fusion-S"
 company_id: qdc
 lang: en
 ref: qdc-hybrid-fusion-s
+audiodb_uid: adb-d96b28f7b20e
 date: 2025-12-16
 rating: [2.2, 0.5, 0.8, 0.0, 0.3, 0.6]
 price: 800

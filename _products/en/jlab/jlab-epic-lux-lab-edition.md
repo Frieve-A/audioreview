@@ -5,6 +5,7 @@ target_name: "JLab Epic Lux Lab Edition"
 company_id: jlab
 lang: en
 ref: jlab-epic-lux-lab-edition
+audiodb_uid: adb-3ab99825dd41
 date: 2025-12-11
 rating: [3.6, 0.5, 0.8, 1.0, 0.6, 0.7]
 price: 199.99
@@ -12,7 +13,6 @@ summary: "JLab's flagship adaptive ANC headphones featuring 90+ hour battery lif
 tags: [Headphones, ANC, Wireless, Over-ear, Bluetooth, Spatial, LDAC]
 permalink: /products/en/jlab-epic-lux-lab-edition/
 ---
-
 ## Overview
 
 The JLab Epic Lux Lab Edition represents JLab's entry into the premium adaptive ANC headphone market, announced at CES 2025. These over-ear headphones feature JLab's first implementation of Adaptive Active Noise Cancellation, 32mm dynamic drivers, and head-tracked spatial audio technology. Priced at 199.99 USD, the Epic Lux Lab Edition offers distinctive features including 90+ hours battery life without ANC (60+ hours with ANC enabled), wireless charging capability, and LDAC high-resolution codec support [1][2]. The product represents JLab's most advanced headphone design to date, targeting users seeking extended battery performance and cutting-edge audio processing features.

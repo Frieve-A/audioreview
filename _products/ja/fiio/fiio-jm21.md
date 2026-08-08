@@ -5,6 +5,7 @@ target_name: "FiiO JM21"
 company_id: fiio
 lang: ja
 ref: fiio-jm21
+audiodb_uid: adb-fbac36a84d0f
 date: 2025-08-20
 rating: [3.6, 0.7, 0.7, 1.0, 0.6, 0.6]
 price: 29800

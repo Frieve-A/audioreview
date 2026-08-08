@@ -5,6 +5,7 @@ target_name: "Focusrite Scarlett 16i16"
 company_id: focusrite
 lang: ja
 ref: focusrite-scarlett-16i16
+audiodb_uid: adb-301bd6ddf5a6
 date: 2025-07-30
 rating: [4.2, 0.8, 0.8, 1.0, 0.8, 0.8]
 price: 64800

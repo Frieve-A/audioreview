@@ -5,6 +5,7 @@ target_name: "AVIOT WA-J1"
 company_id: aviot
 lang: en
 ref: aviot-wa-j1
+audiodb_uid: adb-12bcca4bdb40
 date: 2025-08-15
 rating: [2.6, 0.5, 0.7, 0.4, 0.5, 0.5]
 price: 255

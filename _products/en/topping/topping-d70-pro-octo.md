@@ -5,6 +5,7 @@ target_name: "Topping D70 Pro Octo"
 company_id: topping
 lang: en
 ref: topping-d70-pro-octo
+audiodb_uid: adb-f127e88d1ca4
 date: 2025-07-24
 rating: [4.0, 0.9, 0.8, 0.8, 0.7, 0.8]
 price: 599
@@ -12,7 +13,6 @@ summary: "High-end DAC featuring 8 CS43198 chips, achieving THD+N 0.00007% and S
 tags: [DAC, Topping, CS43198, PCM768kHz, DSD512, Bluetooth]
 permalink: /products/en/topping-d70-pro-octo/
 ---
-
 ## Overview
 
 The Topping D70 Pro Octo is a desktop DAC product equipped with 8 Cirrus Logic CS43198 DAC chips. Consolidating the company's technical expertise, it achieves high-resolution playback capability of PCM768kHz/32bit and DSD512 support, along with industry-leading measurement performance of THD+N 0.00007% and SNR 134dB. Featuring the XMOS XU316 USB processor, Bluetooth 5.1 with LDAC/aptX support, color display with FFT/VU visualization, and preamp functionality, it is positioned as a comprehensive DAC product that covers modern features.

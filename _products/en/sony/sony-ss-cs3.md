@@ -5,6 +5,7 @@ target_name: "Sony SS-CS3"
 company_id: sony
 lang: en
 ref: sony-ss-cs3
+audiodb_uid: adb-60317fe4a821
 date: 2025-08-16
 rating: [2.8, 0.3, 0.6, 0.6, 0.8, 0.5]
 price: 459.98

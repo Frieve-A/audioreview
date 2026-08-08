@@ -5,6 +5,7 @@ target_name: "ONKYO A-9150"
 company_id: onkyo
 lang: ja
 ref: onkyo-a-9150
+audiodb_uid: adb-287ea4316ba5
 date: 2025-08-24
 rating: [2.5, 0.6, 0.6, 0.6, 0.3, 0.4]
 price: 69800

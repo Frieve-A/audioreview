@@ -5,6 +5,7 @@ target_name: "Austrian Audio The Composer"
 company_id: austrian-audio
 lang: ja
 ref: austrian-audio-the-composer
+audiodb_uid: adb-0b514eb41483
 date: 2025-10-11
 rating: [2.6, 0.5, 0.6, 0.4, 0.6, 0.5]
 price: 359000
@@ -12,7 +13,6 @@ summary: "Hi-X技術とDLCダイアフラムコーティングを搭載したプ
 tags: [ヘッドホン, オープンバック, ダイナミックドライバー, リファレンス, Hi-X技術, Austrian Audio]
 permalink: /products/ja/austrian-audio-the-composer/
 ---
-
 ## 概要
 
 The Composerは、独自のHi-X技術とダイヤモンドライクカーボン（DLC）ダイアフラムコーティングを採用した49mmダイナミックドライバーを搭載するAustrian Audioのフラッグシップオープンバック型密閉型ヘッドホンです。累計350年以上のエンジニアリング経験を持つ元AKGスタッフが2017年に設立したAustrian Audioは、プロフェッショナルおよび高級コンシューマー市場をターゲットとしたプレミアムリファレンスヘッドホンとして本製品を位置づけています。設計には約1テスラの磁界強度を生成するリングマグネットシステム、デュアルエントリーバナナコネクター、3種類の高品質ケーブル（4ピンXLR、4.4mmバランス、3.5mmTRSとアダプター）が含まれています。

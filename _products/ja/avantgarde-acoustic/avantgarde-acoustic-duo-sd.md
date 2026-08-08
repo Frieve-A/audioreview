@@ -5,6 +5,7 @@ target_name: "Avantgarde Acoustic Duo SD"
 company_id: avantgarde-acoustic
 lang: ja
 ref: avantgarde-acoustic-duo-sd
+audiodb_uid: adb-a5404101770a
 date: 2025-10-20
 rating: [3.7, 0.7, 0.9, 0.3, 0.9, 0.9]
 price: 9867850
@@ -12,7 +13,6 @@ summary: "伝統的な音響原理と現代的なDSP技術を組み合わせた�
 tags: [スピーカー, ホーン, 高効率, DSP, アクティブ, ドイツ]
 permalink: /products/ja/avantgarde-acoustic-duo-sd/
 ---
-
 ## 概要
 
 Avantgarde Acoustic Duo SDは、同社フラッグシップホーンロード型スピーカーシステムの第3世代モデルで、30年以上にわたるドイツのホーンスピーカー技術の専門知識と先進的なデジタル信号処理を組み合わせています。中音域再生用の670mmスフェリカルウェーブホーン、28kHzまで対応する独自のXT3トゥイーター技術、そして包括的なDSP機能を備えた500WのG3-500アンプで駆動されるアクティブXB12サブウーファーを特徴としています。セミアクティブと完全アクティブのiTRON構成の両方で利用可能で、Duo SDは1991年から確立された伝統的な音響効率原理と、現代的なルーム補正およびデジタルクロスオーバー技術を統合しています。同システムは107dBを超える優れた感度定格を達成しながら、同社の1991年以来のホーンロード原理への取り組みを維持しています。

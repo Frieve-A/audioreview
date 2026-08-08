@@ -5,6 +5,7 @@ target_name: "Sony MDR-5760"
 company_id: sony
 lang: ja
 ref: sony-mdr-5760
+audiodb_uid: adb-ff8feb3dfd54
 date: 2025-11-30
 rating: [2.1, 0.5, 0.3, 0.9, 0.1, 0.3]
 price: 6800

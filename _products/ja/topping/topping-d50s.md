@@ -5,6 +5,7 @@ target_name: "Topping D50s"
 company_id: topping
 lang: ja
 ref: topping-d50s
+audiodb_uid: adb-f6aadc8b6372
 date: 2025-10-31
 rating: [3.6, 0.9, 0.6, 0.9, 0.3, 0.9]
 price: 37500
@@ -12,7 +13,6 @@ summary: "デュアルES9038Q2Mチップ搭載のデスクトップDAC。優秀�
 tags: [DAC, デスクトップ, ESS, Bluetooth, USB, DSD, ハイレゾ]
 permalink: /products/ja/topping-d50s/
 ---
-
 ## 概要
 
 Topping D50sは、デュアルESS ES9038Q2M DACチップと包括的な接続オプションを特徴とするコンパクトなデスクトップ型デジタル・アナログコンバーターです。オリジナルのD50の改良後継機として導入され、Toppingの測定重視のエンジニアリングアプローチを維持しながら、Bluetooth 5.0接続と強化された性能指標を追加しています。D50sの重量は510グラムで、「Mac Miniの小型版」のような形状と表現され、デスクトップオーディオセットアップに適しています。Toppingは2008年以来、アクセシブルな価格帯で測定可能なオーディオ性能向上を提供することに焦点を当てたメーカーとして確立されています。

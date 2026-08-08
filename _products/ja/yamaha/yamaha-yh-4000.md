@@ -5,6 +5,7 @@ target_name: "Yamaha YH-4000"
 company_id: yamaha
 lang: ja
 ref: yamaha-yh-4000
+audiodb_uid: adb-f5401e3478db
 date: 2025-11-10
 rating: [3.0, 0.5, 0.9, 0.2, 0.8, 0.6]
 price: 392850

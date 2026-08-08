@@ -5,6 +5,7 @@ target_name: "Sony SS-AR2"
 company_id: sony
 lang: ja
 ref: sony-ss-ar2
+audiodb_uid: adb-325ce8081c67
 date: 2025-08-07
 rating: [3.0, 0.7, 0.7, 0.1, 0.8, 0.7]
 price: 1460000

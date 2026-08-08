@@ -5,6 +5,7 @@ target_name: "NUARL Inovator"
 company_id: nuarl
 lang: ja
 ref: nuarl-inovator
+audiodb_uid: adb-4c8a26b99889
 date: 2025-12-16
 rating: [3.3, 0.5, 1.0, 0.1, 0.7, 1.0]
 price: 84700

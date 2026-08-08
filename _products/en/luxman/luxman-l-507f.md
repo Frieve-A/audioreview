@@ -5,6 +5,7 @@ target_name: "Luxman L-507f"
 company_id: luxman
 lang: en
 ref: luxman-l-507f
+audiodb_uid: adb-bc13c2187ac3
 date: 2025-12-19
 rating: [2.6, 0.6, 0.6, 0.3, 0.7, 0.4]
 price: 3000

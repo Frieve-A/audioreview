@@ -5,6 +5,7 @@ target_name: "iFi audio iFi Zen DAC V2"
 company_id: ifi-audio
 lang: en
 ref: ifi-audio-ifi-zen-dac-v2
+audiodb_uid: adb-6d345f42cb39
 date: 2026-05-16
 rating: [2.9, 0.6, 0.3, 0.9, 0.8, 0.3]
 price: 199
@@ -12,7 +13,6 @@ summary: "Entry-level desktop USB DAC and headphone amplifier with balanced 4.4 
 tags: [Dac, Headphone-amp, Usb-dac, Desktop, Ifi-audio, Mqa, Balanced-output]
 permalink: /products/en/ifi-audio-ifi-zen-dac-v2/
 ---
-
 ## Overview
 
 The iFi Zen DAC V2 is a half-width desktop USB DAC and headphone amplifier launched in May 2021 by iFi audio, a UK brand operating as part of Abbingdon Music Research (AMR) in Southport. It combines a Burr-Brown "True Native" DAC chip, a 16-core XMOS USB receiver, a full MQA decoder, balanced 4.4 mm and single-ended 6.3 mm headphone outputs, and 4.4 mm balanced plus RCA line outputs, all USB-bus-powered. Launch MSRP was 189 USD, last listed US retail 199 USD. The product is now officially superseded by the Zen DAC 3 (2024) and is listed as discontinued or out of stock at several major US dealers [1][5].

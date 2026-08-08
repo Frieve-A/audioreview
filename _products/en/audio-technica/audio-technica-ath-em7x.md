@@ -5,6 +5,7 @@ target_name: "Audio-Technica ATH-EM7x"
 company_id: audio-technica
 lang: en
 ref: audio-technica-ath-em7x
+audiodb_uid: adb-dfeb799d998b
 date: 2025-12-16
 rating: [2.9, 0.5, 0.6, 0.1, 0.8, 0.9]
 price: 149.99
@@ -12,7 +13,6 @@ summary: "Robust ear-clip headphones with premium aluminum construction and comp
 tags: [Headphones, Ear-clip, Dynamic, Neodymium, Wired, Portable]
 permalink: /products/en/audio-technica-ath-em7x/
 ---
-
 ## Overview
 
 The Audio-Technica ATH-EM7x represents a traditional approach to ear-clip headphone design, featuring a 28mm dynamic driver with neodymium magnets housed in an aluminum alloy construction. These lightweight (30g) headphones target users seeking secure fit during active use through their soft-touch rubber ear hangers and slide-fit mechanism. Available in Champagne Gold and Grey Metallic variants, the ATH-EM7x continues Audio-Technica's six-decade heritage in electro-acoustic design with straightforward engineering focused on mechanical reliability rather than cutting-edge innovation.

@@ -5,6 +5,7 @@ target_name: "Topping pre90"
 company_id: topping
 lang: ja
 ref: topping-pre90
+audiodb_uid: adb-afb164dd184b
 date: 2026-05-27
 rating: [3.4, 0.9, 0.6, 0.6, 0.5, 0.8]
 price: 89800
@@ -12,7 +13,6 @@ summary: "NFCAモジュールとリレー切替式ステップアッテネータ
 tags: [Preamplifier, Balanced, Solid-State, Topping, Analog]
 permalink: /products/ja/topping-pre90/
 ---
-
 ## 概要
 
 Topping Pre90は、広州拓品電子科技有限公司が2020年12月7日に発売した完全バランス構成のアナログラインプリアンプで、同社独自のNFCA(Nested Feedback Composite Amplifier)モジュールと、日本製リレーで切り替える抵抗ネットワーク式ステップアッテネーターを核に設計されています。Toppingは測定値重視のオーディオエレクトロニクスでブランドを築いてきており、Pre90はA90/D90/L70エコシステムの中でラインステージ専用機として位置づけられます。現在の市場価格は89,800円で、オプションのExt90入力拡張ユニットも用意されています [1]。

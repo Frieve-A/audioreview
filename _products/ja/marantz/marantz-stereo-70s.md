@@ -5,6 +5,7 @@ target_name: "Marantz Stereo 70s"
 company_id: marantz
 lang: ja
 ref: marantz-stereo-70s
+audiodb_uid: adb-76c76a9fe547
 date: 2026-01-06
 rating: [4.3, 0.7, 1.0, 1.0, 0.8, 0.8]
 price: 180000
@@ -12,7 +13,6 @@ summary: "75W Class AB アンプに8K HDMI機能とHEOSストリーミングプ�
 tags: [アンプ, ステレオレシーバー, HDMI, ストリーミング, HEOS]
 permalink: /products/ja/marantz-stereo-70s/
 ---
-
 ## 概要
 
 Marantz Stereo 70sは、従来の高音質アンプと最新のデジタル接続性を融合した2チャンネルステレオレシーバーです。8オーム時75Wのチャンネル出力を提供するClass ABアンプを中心に構築され、Marantz独自のHDAM（High Dynamic Amplifier Module）技術とデュアル32ビット/192kHz DACを搭載しています。8K/60Hzと4K/120Hzパススルーに対応した6系統のHDMI入力、統合HEOS マルチルームストリーミングプラットフォーム、MMフォノ入力を含む豊富なアナログ接続を提供します。高さ4インチのスリムシャーシに設計されており、高度なビデオおよびストリーミング機能を備えた簡素化された2チャンネルオーディオを求めるユーザーをターゲットとしています。

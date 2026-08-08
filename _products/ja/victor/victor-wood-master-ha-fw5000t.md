@@ -5,6 +5,7 @@ target_name: "Victor WOOD Master HA-FW5000T"
 company_id: victor
 lang: ja
 ref: victor-wood-master-ha-fw5000t
+audiodb_uid: adb-160322c97077
 date: 2026-04-20
 rating: [3.3, 0.5, 0.9, 1.0, 0.5, 0.4]
 price: 43500

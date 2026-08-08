@@ -5,6 +5,7 @@ target_name: "HiFiMAN EDITION XS"
 company_id: hifiman
 lang: en
 ref: hifiman-edition-xs
+audiodb_uid: adb-37f0f47fbae7
 date: 2025-08-10
 rating: [2.3, 0.7, 0.5, 0.4, 0.4, 0.3]
 price: 269

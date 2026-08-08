@@ -5,6 +5,7 @@ target_name: "Topping E70 Velvet"
 company_id: topping
 lang: ja
 ref: topping-e70-velvet
+audiodb_uid: adb-2570ccf5ac54
 date: 2025-08-01
 rating: [3.5, 0.9, 0.8, 0.4, 0.6, 0.8]
 price: 63000
@@ -12,7 +13,6 @@ summary: "AK4499EXチップ搭載の高性能DAC。測定性能は優秀です�
 tags: [DAC, Topping, AKM, デスクトップオーディオ, Bluetooth]
 permalink: /products/ja/topping-e70-velvet/
 ---
-
 ## 概要
 
 Topping E70 Velvetは、2022年にリリースされたAKMのフラッグシップDACチップ「AK4499EX」とコンパニオンチップ「AK4191」、そしてXMOS XU316を搭載したデスクトップDACです。標準モデルのE70が搭載するESS Sabre ES9028PROからAKMの最新チップセットに変更され、同社のVelvet Sound技術を採用した上位モデルとして位置づけられています。USB、同軸、光入力に加え、Bluetooth 5.1（LDAC/aptX対応）を備え、RCAアンバランス出力とXLRバランス出力の両方を提供します。付属のリモコンにより、固定レベルのDACモードまたは可変レベルのプリアンプモードで操作可能です。

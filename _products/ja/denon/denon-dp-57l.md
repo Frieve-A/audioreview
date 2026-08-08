@@ -5,6 +5,7 @@ target_name: "Denon DP-57L"
 company_id: denon
 lang: ja
 ref: denon-dp-57l
+audiodb_uid: adb-c502bd5cc473
 date: 2025-10-01
 rating: [2.3, 0.4, 0.2, 1.0, 0.1, 0.6]
 price: 88410

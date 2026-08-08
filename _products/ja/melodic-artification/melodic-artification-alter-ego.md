@@ -5,6 +5,7 @@ target_name: "Melodic Artification Alter Ego"
 company_id: melodic-artification
 lang: ja
 ref: melodic-artification-alter-ego
+audiodb_uid: adb-1c85710ea680
 date: 2026-01-07
 rating: [2.1, 0.5, 0.6, 0.0, 0.4, 0.6]
 price: 372000
@@ -12,7 +13,6 @@ summary: "Melodic Artification Alter Egoは、TC4チタン製シェルとオー�
 tags: [中国, "イヤホン", "トライブリッド", "チタン", "オープンバック", "ハイエンド"]
 permalink: /products/ja/melodic-artification-alter-ego/
 ---
-
 ## 概要
 
 Melodic Artification Alter Egoは、中国企業によるハイエンドトライブリッドIEM市場への旗艦製品です。親会社Timsokは2018年に設立され、Melodic Artificationブランドは2022年に深センで立ち上げられ、Eclipse モデルで最初の印象を残した後、このプレミアム製品を発売しました[1]。Alter EgoはSonion製コンポーネントを使用した洗練された1DD + 4BA + 4ESTドライバー構成を特徴とし、精密加工されたTC4チタン製シェルに収納されています[1]。独特のオープンバック設計は、IEMの携帯性を維持しながらヘッドホンのようなサウンドステージ特性を提供することを目的としています。バス調整用のチューニングスイッチとプレミアム素材を備えたAlter Egoは、2,499USDのフラッグシップ価格で最先端のトライブリッド技術を求めるオーディオファイルをターゲットとしています[1]。

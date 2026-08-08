@@ -5,6 +5,7 @@ target_name: "TOMOCA Products TCCT-100ST"
 company_id: tomoca-products
 lang: en
 ref: tomoca-products-tcct-100st
+audiodb_uid: adb-f96ca20f86da
 date: 2026-06-06
 rating: [2.7, 0.5, 0.3, 1.0, 0.6, 0.3]
 price: 612.55

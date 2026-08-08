@@ -5,6 +5,7 @@ target_name: "iBasso Audio DC04 Ultra"
 company_id: ibasso-audio
 lang: en
 ref: ibasso-audio-dc04-ultra
+audiodb_uid: adb-4d3c1dd8131e
 date: 2026-02-27
 rating: [4.0, 0.8, 0.6, 1.0, 0.6, 1.0]
 price: 149
@@ -12,7 +13,6 @@ summary: "Premium portable USB DAC/amplifier dongle featuring dual CS43198 DAC c
 tags: [USB DAC, Headphone Amplifier, Portable Audio, Balanced Output, High Resolution, iBasso Audio, DAC Chip CS43198]
 permalink: /products/en/ibasso-audio-dc04-ultra/
 ---
-
 ## Overview
 
 The iBasso Audio DC04 Ultra is a premium portable USB DAC/headphone amplifier featuring dual Cirrus Logic CS43198 flagship DAC chips with proprietary FPGA audio processing. Released in 2025 as iBasso's flagship dongle DAC, it combines high-resolution audio decoding up to PCM 32-bit/768kHz and native DSD512 with powerful amplification delivering 980mW balanced output. The device includes a 0.96-inch OLED display, 10-band parametric EQ, and stainless steel construction, positioning itself as a comprehensive portable audio solution at 149 USD.

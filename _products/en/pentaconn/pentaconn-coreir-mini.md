@@ -5,6 +5,7 @@ target_name: "Pentaconn COREIR Mini"
 company_id: pentaconn
 lang: en
 ref: pentaconn-coreir-mini
+audiodb_uid: adb-11612c7f15ee
 date: 2025-08-19
 rating: [2.3, 0.5, 0.4, 0.4, 0.5, 0.5]
 price: 24.99
@@ -12,7 +13,6 @@ summary: "TWS-friendly stainless-steel core eartips; unique form factor and soli
 tags: [Eartips, Metal Core, TWS Compatible, Stainless Steel, IEM Accessories]
 permalink: /products/en/pentaconn-coreir-mini/
 ---
-
 ## Overview
 
 Pentaconn’s COREIR Mini is the compact variant of its metal-core eartips engineered to fit true wireless charging cases. The Mini shortens the COREIR’s metal core to ~87% of the original and, per the maker’s survey, fits about 70% of TWS models while keeping the metal-core concept and adding a colored cushion to avoid nozzle contact [1][2]. Pentaconn is the connector brand of Nippon Dics; its 4.4 mm “Pentaconn” jack was developed by Nippon Dics and conforms to JEITA RC-8141C [3].

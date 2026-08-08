@@ -5,6 +5,7 @@ target_name: "TOPPING A50S"
 company_id: topping
 lang: en
 ref: topping-a50s
+audiodb_uid: adb-acc20101dcdb
 date: 2025-10-31
 rating: [3.8, 0.9, 0.7, 1.0, 0.3, 0.9]
 price: 199

@@ -5,6 +5,7 @@ target_name: "ASHIDAVOX EA-AS1-K"
 company_id: ashidavox
 lang: ja
 ref: ashidavox-ea-as1-k
+audiodb_uid: adb-c4031a24767d
 date: 2025-09-04
 rating: [2.7, 0.5, 0.6, 0.5, 0.7, 0.4]
 price: 5500

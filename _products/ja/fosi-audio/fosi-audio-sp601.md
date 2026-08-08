@@ -5,6 +5,7 @@ target_name: "Fosi Audio SP601"
 company_id: fosi-audio
 lang: ja
 ref: fosi-audio-sp601
+audiodb_uid: adb-2875670fa551
 date: 2025-08-21
 rating: [2.3, 0.4, 0.5, 0.6, 0.4, 0.4]
 price: 65000
@@ -12,7 +13,6 @@ summary: "6.5インチHybridConeウーファーと1.5インチ・シルクドー
 tags: [ブックシェルフスピーカー, パッシブ, 6.5インチ, HybridCone, シルクドームツイーター]
 permalink: /products/ja/fosi-audio-sp601/
 ---
-
 ## 概要
 
 SP601はFosi Audio初のHiFiパッシブ・ブックシェルフスピーカーです。メーカー情報では、紙＋アルミ外層の6.5インチHybridConeウーファーと1.5インチ・シルクドームツイーター、リアバスレフMDFキャビネット、周波数特性44Hz–20kHz、4Ω、85dB（2.83V/1m）を公称しています [2][3]。外部アンプが必須で、デスクトップ、ステレオ、ホームシアター用途を想定しています。

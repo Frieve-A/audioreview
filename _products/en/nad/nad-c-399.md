@@ -5,6 +5,7 @@ target_name: "NAD C-399"
 company_id: nad
 lang: en
 ref: nad-c-399
+audiodb_uid: adb-426dc95fa475
 date: 2025-10-29
 rating: [4.2, 0.8, 0.7, 1.0, 0.8, 0.9]
 price: 1999

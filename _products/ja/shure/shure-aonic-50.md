@@ -5,6 +5,7 @@ target_name: "Shure AONIC 50"
 company_id: shure
 lang: ja
 ref: shure-aonic-50
+audiodb_uid: adb-3d2d336ca239
 date: 2025-07-09
 rating: [2.8, 0.6, 0.4, 0.6, 0.7, 0.5]
 price: 47000
@@ -12,7 +13,6 @@ summary: "高品質な作りだが価格に見合わない性能のANCヘッド�
 tags: [ワイヤレスヘッドホン, ノイズキャンセリング, オーバーイヤー]
 permalink: /products/ja/shure-aonic-50/
 ---
-
 ## 概要
 
 Shure AONIC 50は、マイクロフォンで著名なShure社が満を持してリリースしたワイヤレスノイズキャンセリングヘッドホンです。1925年創業の老舗音響機器メーカーとして初のコンシューマー向けANCヘッドホン市場への本格参入となった製品で、50mm動的ドライバー、最大20時間（Gen2では45時間）のバッテリー駆動、aptX HD/LDAC対応など、プレミアム仕様を備えています。しかし、Bose・Sonyが圧倒的優位を築くANCヘッドホン市場において、後発メーカーとしての技術的・コスト的劣勢が顕著に現れた製品となっています。

@@ -5,6 +5,7 @@ target_name: "Marantz PM8006"
 company_id: marantz
 lang: ja
 ref: marantz-pm8006
+audiodb_uid: adb-82c93c8a4e0c
 date: 2025-08-11
 rating: [3.4, 0.6, 0.6, 0.8, 0.7, 0.7]
 price: 179850

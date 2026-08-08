@@ -5,6 +5,7 @@ target_name: "Sennheiser HD 490 PRO"
 company_id: sennheiser
 lang: en
 ref: sennheiser-hd-490-pro
+audiodb_uid: adb-f006505f0b9a
 date: 2026-01-29
 rating: [3.6, 0.7, 1.0, 0.3, 0.6, 1.0]
 price: 429
@@ -12,7 +13,6 @@ summary: "Professional studio headphones with proprietary technologies and dual 
 tags: [headphones, studio, professional, open-back, sennheiser]
 permalink: /products/en/sennheiser-hd-490-pro/
 ---
-
 ## Overview
 
 Sennheiser's HD 490 PRO represents their flagship professional monitoring headphone, targeting mixing and mastering engineers with ultra-precise sound reproduction capabilities. Released January 2024 at 429 USD, this open-back dynamic headphone features proprietary Open-frame Architecture and dual switchable ear pad system (Producer velour pads and Mixing fabric pads) providing distinct sound signatures for critical audio work. Designed to eliminate audio blind spots in complex modern productions, the 130Ω impedance design offers easier amplification compared to traditional 300Ω studio references while maintaining professional-grade performance standards.

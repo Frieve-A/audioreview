@@ -5,6 +5,7 @@ target_name: "Cambridge Audio CXA61"
 company_id: cambridge-audio
 lang: en
 ref: cambridge-audio-cxa61
+audiodb_uid: adb-ee0e82542447
 date: 2025-10-25
 rating: [2.6, 0.7, 0.5, 0.5, 0.3, 0.6]
 price: 430

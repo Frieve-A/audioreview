@@ -5,6 +5,7 @@ target_name: "ND Audio ND X12"
 company_id: nd-audio
 lang: en
 ref: nd-audio-nd-x12
+audiodb_uid: adb-d6efbd94619e
 date: 2025-10-12
 rating: [1.9, 0.5, 0.4, 0.4, 0.4, 0.2]
 price: 49.90

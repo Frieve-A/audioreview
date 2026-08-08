@@ -5,6 +5,7 @@ target_name: "CCA Hydro"
 company_id: cca
 lang: ja
 ref: cca-hydro
+audiodb_uid: adb-7da1a9290d68
 date: 2025-07-24
 rating: [2.8, 0.6, 0.7, 0.4, 0.5, 0.6]
 price: 15000

@@ -5,6 +5,7 @@ target_name: "Topping PA5 II"
 company_id: topping
 lang: ja
 ref: topping-pa5-ii
+audiodb_uid: adb-cfeb26ebdaf4
 date: 2025-08-20
 rating: [3.6, 0.8, 0.6, 1.0, 0.5, 0.7]
 price: 29900

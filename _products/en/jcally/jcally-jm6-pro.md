@@ -5,6 +5,7 @@ target_name: "JCally JM6 Pro"
 company_id: jcally
 lang: en
 ref: jcally-jm6-pro
+audiodb_uid: adb-cca76d325f20
 date: 2025-08-20
 rating: [3.0, 0.7, 0.6, 0.5, 0.5, 0.7]
 price: 17
@@ -12,7 +13,6 @@ summary: "Compact USB-C dongle using a CX31993 codec plus MAX97220 headphone amp
 tags: [DAC, Dongle, Portable, CX31993, MAX97220]
 permalink: /products/en/jcally-jm6-pro/
 ---
-
 ## Overview
 
 The JCally JM6 Pro is a USB-C to 3.5 mm DAC dongle that pairs a Conexant CX31993 USB audio codec with a Maxim MAX97220 headphone amplifier in a metal shell. It weighs about 6 g, measures ~110 mm, supports PCM up to 32-bit/384 kHz, and passes headset microphones (CTIA) through for calls. These are manufacturer-published specs. [1][2]

@@ -5,6 +5,7 @@ target_name: "Topping DX3 Pro+"
 company_id: topping
 lang: ja
 ref: topping-dx3-pro-plus
+audiodb_uid: adb-fcda829f33ee
 date: 2025-08-09
 rating: [3.8, 0.7, 0.7, 1.0, 0.6, 0.8]
 price: 29850
@@ -12,7 +13,6 @@ summary: "ES9038Q2M DAC搭載のデスクトップDAC・ヘッドホンアンプ
 tags: [DAC, ヘッドホンアンプ, デスクトップ, Bluetooth, LDAC, ESS]
 permalink: /products/ja/topping-dx3-pro-plus/
 ---
-
 ## 概要
 
 Topping DX3 Pro+は、ESS ES9038Q2M DACチップを搭載したデスクトップ型DAC・ヘッドホンアンプです。前モデルDX3 Proに対してTHD+Nを60%改善し、0.00015%の超低歪み性能を実現しています。1800mW@32Ωの高出力ヘッドホンアンプ、Bluetooth 5.0 LDAC対応、USB最大768kHz/DSD512対応など、199 USDの価格帯で包括的な機能を提供します。

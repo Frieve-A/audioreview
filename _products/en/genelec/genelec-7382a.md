@@ -5,6 +5,7 @@ target_name: "Genelec 7382a"
 company_id: genelec
 lang: en
 ref: genelec-7382a
+audiodb_uid: adb-750b5ac876db
 date: 2026-05-25
 rating: [4.3, 0.8, 0.7, 1, 0.9, 0.9]
 price: 16195

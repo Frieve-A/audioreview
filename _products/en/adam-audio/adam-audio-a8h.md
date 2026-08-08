@@ -5,6 +5,7 @@ target_name: "ADAM Audio A8H"
 company_id: adam-audio
 lang: en
 ref: adam-audio-a8h
+audiodb_uid: adb-02ddd5692aa9
 date: 2025-08-26
 rating: [4.0, 0.7, 0.9, 1.0, 0.7, 0.7]
 price: 3399.98

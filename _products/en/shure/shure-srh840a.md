@@ -5,6 +5,7 @@ target_name: "Shure SRH840A"
 company_id: shure
 lang: en
 ref: shure-srh840a
+audiodb_uid: adb-bc96209359ed
 date: 2025-07-30
 rating: [3.2, 0.6, 0.5, 0.7, 0.8, 0.6]
 price: 149
@@ -12,7 +13,6 @@ summary: "The Shure SRH840A is a closed-back monitor headphone that employs conv
 tags: [Headphones, Monitor, Closed-back, Studio]
 permalink: /products/en/shure-srh840a/
 ---
-
 ## Overview
 
 The Shure SRH840A is a closed-back headphone designed for professional studio monitoring applications. It features 40mm neodymium dynamic drivers with a stated frequency response of 5Hz to 25kHz. From the previous SRH840 model, improvements have been made for practical use, including reducing impedance from 44Ω to 38Ω and adjusting sensitivity from 102dB/mW to 97dB SPL/mW. The design incorporates a detachable cable system, emphasizing convenience for studio work. As a product from Shure, a veteran professional audio manufacturer, it maintains a certain level of recognition and reliability in the industry.

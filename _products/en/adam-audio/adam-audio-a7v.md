@@ -5,6 +5,7 @@ target_name: "Adam Audio A7V"
 company_id: adam-audio
 lang: en
 ref: adam-audio-a7v
+audiodb_uid: adb-69c7930d63d3
 date: 2025-08-26
 rating: [3.6, 0.7, 0.8, 1.0, 0.6, 0.5]
 price: 1799.98

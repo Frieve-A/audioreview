@@ -5,6 +5,7 @@ target_name: "Focal Diablo Utopia Evo"
 company_id: focal
 lang: en
 ref: focal-diablo-utopia-evo
+audiodb_uid: adb-ca259e784739
 date: 2025-08-26
 rating: [2.8, 0.6, 0.8, 0.1, 0.7, 0.6]
 price: 21000

@@ -5,6 +5,7 @@ target_name: "Harman Kardon Enchant 1100"
 company_id: harman-kardon
 lang: ja
 ref: harman-kardon-enchant-1100
+audiodb_uid: adb-95d28946a52d
 date: 2025-08-15
 rating: [3.6, 0.5, 0.7, 1.0, 0.6, 0.8]
 price: 129800
@@ -12,7 +13,6 @@ summary: "11ドライバー、Dolby Atmos/DTS:X、MultiBeamを備えたオール
 tags: [サウンドバー, Dolby Atmos, DTS:X, ワイヤレス, MultiBeam]
 permalink: /products/ja/harman-kardon-enchant-1100/
 ---
-
 ## 概要
 
 Harman Kardon Enchant 1100は、6つのレーストラック（55×90mm）フルレンジ/ウーファー、3つの1インチツイーター、2つの2.75インチアップファイアリングを含む合計11ドライバーを搭載した5.1.2chのオールインワンサウンドバーです。Dolby AtmosとDTS:X、独自のMultiBeamによりワンバーで立体音響を実現し、AirPlay／Chromecast built-in／Spotify Connect対応のストリーミング、Wi-Fi 6／Bluetooth 5.3、HDMI入力1＋HDMI eARC出力1、光デジタル入力を備えます[1]。国内は129,800円の直販価格で販売されています[7]。

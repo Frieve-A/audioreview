@@ -5,6 +5,7 @@ target_name: "TC Electronic LEVEL PILOT X"
 company_id: tc-electronic
 lang: ja
 ref: tc-electronic-level-pilot-x
+audiodb_uid: adb-90d208ab1bbd
 date: 2026-06-06
 rating: [2.6, 0.5, 0.3, 0.6, 0.6, 0.6]
 price: 7600

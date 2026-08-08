@@ -5,6 +5,7 @@ target_name: "FiiO BTR11"
 company_id: fiio
 lang: ja
 ref: fiio-btr11
+audiodb_uid: adb-96039abf293f
 date: 2025-10-29
 rating: [3.8, 0.6, 0.6, 1.0, 0.7, 0.9]
 price: 2989
@@ -12,7 +13,6 @@ summary: "LDACコーデック対応を含むBluetoothオーディオ機能を低
 tags: [Bluetooth, DAC, アンプ, LDAC, ポータブル, 低価格]
 permalink: /products/ja/fiio-btr11/
 ---
-
 ## 概要
 
 FiiO BTR11は、同価格帯で初めてLDACコーデックに対応した、ワイヤレスオーディオ分野における重要な製品です。わずか13グラムのコンパクトな筐体にBluetooth 5.3接続、内蔵DAC、ヘッドホンアンプを統合し、高価格製品を購入することなく高品質ワイヤレスオーディオを求める音楽愛好家をターゲットとしています。BES2700IHC BluetoothチップとHT97220アンプを核として構築され、45mW出力パワーを実現し、≥101dBのS/N比と<0.008%の全高調波歪みという測定仕様を達成しています。標準コーデック使用時に15時間のバッテリー寿命を持つBTR11は、高品質ワイヤレスオーディオへの新たなエントリーポイントを確立しています。

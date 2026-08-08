@@ -5,6 +5,7 @@ target_name: "Jabra Elite 10"
 company_id: jabra
 lang: ja
 ref: jabra-elite-10
+audiodb_uid: adb-6baa6e203aee
 date: 2025-07-09
 rating: [2.9, 0.6, 0.7, 0.4, 0.6, 0.6]
 price: 28500
@@ -12,7 +13,6 @@ summary: "Jabra Elite 10は10mmドライバーとLE Audio対応スマートケ�
 tags: [完全ワイヤレスイヤホン, アクティブノイズキャンセリング, Dolby Audio, 撤退製品]
 permalink: /products/ja/jabra-elite-10/
 ---
-
 ## 概要
 
 Jabra Elite 10は、デンマークのJabra社が開発した完全ワイヤレスイヤホンである。10mmドライバーを搭載し、世界初のLE Audio対応スマートケースを特徴とする。アクティブノイズキャンセリング機能やDolby Audio対応の空間音響技術を搭載している。IP57の防水・防塵性能を持ち、最大36時間の再生時間（ケース込み）を実現している。しかし、2024年にJabra社が消費者向けイヤホン事業からの撤退を発表したため、現在は在庫処分段階にある製品となっている。

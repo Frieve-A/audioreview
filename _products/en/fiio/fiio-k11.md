@@ -5,6 +5,7 @@ target_name: "FiiO K11"
 company_id: fiio
 lang: en
 ref: fiio-k11
+audiodb_uid: adb-d78f227c2291
 date: 2026-02-11
 rating: [3.6, 0.7, 0.6, 1.0, 0.6, 0.7]
 price: 129.99

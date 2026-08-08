@@ -5,6 +5,7 @@ target_name: "dbx DriveRack VENU360"
 company_id: dbx
 lang: ja
 ref: dbx-venu360
+audiodb_uid: adb-ddec09d8d1fa
 date: 2025-10-05
 rating: [2.7, 0.6, 0.5, 1.0, 0.1, 0.5]
 price: 160000
@@ -12,7 +13,6 @@ summary: "包括的なDSP機能を備えたプロ用ラウドスピーカー管�
 tags: [DSP, ラウドスピーカー管理, プロ用オーディオ, シグナルプロセッサー]
 permalink: /products/ja/dbx-venu360/
 ---
-
 ## 概要
 
 dbx DriveRack VENU360は、包括的なデジタル信号処理機能を備えた3入力6出力の完全なラウドスピーカー管理システムです。DriveRack 260の後継機として2015年にリリースされ、先進的なオーディオ処理機能と併せて、Android、iOS、Mac、Windowsプラットフォームによるモバイルデバイス制御を提供します。システムは32ビット内部浮動小数点処理による24ビット/96kHz変換をサポートし、フルレンジからカスタム6ウェイシステムまでの構成に対応しています。dbxは歴史的に、パイオニア的なBlackmerゲインセルやRMS検出器を含む精密なオーディオ測定と信号処理技術の革新で知られており、この製品をプロフェッショナル音響増幅用途向けに位置づけています。

@@ -5,6 +5,7 @@ target_name: "Genelec G Two"
 company_id: genelec
 lang: en
 ref: genelec-g-two
+audiodb_uid: adb-d6c6afe66574
 date: 2025-08-07
 rating: [2.9, 0.7, 0.6, 0.1, 0.8, 0.7]
 price: 880

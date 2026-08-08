@@ -5,6 +5,7 @@ target_name: "SVS SB17-Ultra R"
 company_id: svs
 lang: ja
 ref: svs-sb17-ultra-r
+audiodb_uid: adb-365ca2b08ff0
 date: 2025-08-06
 rating: [3.5, 0.8, 0.9, 0.6, 0.6, 0.6]
 price: 374850
@@ -12,7 +13,6 @@ summary: "SVSの最新フラッグシップ密閉型サブウーファー。17�
 tags: [サブウーファー, 密閉型, ホームシアター, SVS, 超低域再生]
 permalink: /products/ja/svs-sb17-ultra-r/
 ---
-
 ## 概要
 
 SVS SB17-Ultra-R サブウーファーは、2024年にリリースされたSVSの最新フラッグシップ密閉型サブウーファーです。従来の16-Ultraシリーズを置き換える17-Ultra R Evolutionシリーズの密閉型モデルとして、17インチの大型ドライバーにデュアル8インチボイスコイルを組み合わせ、2,800W RMSの強力なClass Dアンプにより15Hzまでの超低域再生を実現します。295MHz Analog Devices DSPによる高度な信号処理と、スマートフォンアプリでの詳細制御機能を搭載し、ホームシアターと音楽再生の両方において最高レベルの低音再生性能を目指して設計されています。30年間のSVSの設計ノウハウを結集した技術的野心作と位置付けられています。

@@ -5,6 +5,7 @@ target_name: "iBasso Audio D17 Atheris"
 company_id: ibasso-audio
 lang: en
 ref: ibasso-audio-d17-atheris
+audiodb_uid: adb-7107c39401f3
 date: 2025-12-23
 rating: [2.1, 0.6, 0.6, 0.1, 0.3, 0.5]
 price: 1999

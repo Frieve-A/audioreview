@@ -5,6 +5,7 @@ target_name: "JBL Soundgear Clips"
 company_id: jbl
 lang: ja
 ref: jbl-soundgear-clips
+audiodb_uid: adb-989fb7ad216a
 date: 2025-11-24
 rating: [3.1, 0.5, 0.8, 0.7, 0.5, 0.6]
 price: 19350
@@ -12,7 +13,6 @@ summary: "JBL独自のOpenSoundテクノロジーを搭載したオープンイ�
 tags: [JBL, イヤホン, オープンイヤー, 完全ワイヤレス, Bluetooth]
 permalink: /products/ja/jbl-soundgear-clips/
 ---
-
 ## 概要
 
 JBL Soundgear Clipsは、低音性能の強化と音漏れの最小化を実現するSonicArcデザインを採用したJBL独自のOpenSoundテクノロジーを特徴とする完全ワイヤレスオープンイヤー型イヤホンです。2025年8月に公式価格129.99ユーロ（現在の為替レートで約19,350円）でリリースされ、イヤホン単体で8時間、充電ケース込みで合計32時間のバッテリー寿命、IP54防水性能、通話用4マイクビームフォーミングを提供します。クリップオンデザインは11mmダイナミックドライバーにAdaptive Bass Boostアルゴリズムとトレーニング済み環境ノイズリダクションを搭載。1946年創立のJBLは75年以上のオーディオエンジニアリング経験をこの現代的なオープンイヤーソリューションに注ぎ込んでいます。

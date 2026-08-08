@@ -5,6 +5,7 @@ target_name: "M-Audio M-Track Solo"
 company_id: m-audio
 lang: ja
 ref: m-audio-m-track-solo
+audiodb_uid: adb-ab85369f00ab
 date: 2025-08-28
 rating: [3.2, 0.7, 0.4, 1.0, 0.5, 0.6]
 price: 8300

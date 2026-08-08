@@ -5,6 +5,7 @@ target_name: "Austrian Audio Full Score One"
 company_id: austrian-audio
 lang: en
 ref: austrian-audio-full-score-one
+audiodb_uid: adb-718959e00fba
 date: 2026-04-04
 rating: [3.5, 0.7, 1.0, 0.2, 0.7, 0.9]
 price: 1599
@@ -12,7 +13,6 @@ summary: "Headphone amplifier featuring proprietary True Transient Technology wi
 tags: [headphone-amplifier, austrian-audio, true-transient-technology, balanced-output]
 permalink: /products/en/austrian-audio-full-score-one/
 ---
-
 ## Overview
 
 Austrian Audio's Full Score One represents the company's debut headphone amplifier, developed by 22 former AKG engineers who remained in Vienna after AKG's closure [1]. Launched in March-April 2024, the amplifier features proprietary True Transient Technology (TTT) offering switchable 300V/µs slew rate and 2MHz bandwidth [1]. The device targets both professional studio applications and audiophile hi-fi use with multiple headphone outputs including two 6.35mm TRS jacks and one 4-pin XLR balanced connection [2]. Austrian Audio positions this as their flagship amplifier emphasizing engineering depth over marketing claims. Current retail price is 1,599 USD [1].

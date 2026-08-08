@@ -5,6 +5,7 @@ target_name: "EarFun Wave Pro"
 company_id: earfun
 lang: ja
 ref: earfun-wave-pro
+audiodb_uid: adb-ca79a9a6c75b
 date: 2025-07-24
 rating: [3.5, 0.7, 0.6, 1.0, 0.5, 0.7]
 price: 12000

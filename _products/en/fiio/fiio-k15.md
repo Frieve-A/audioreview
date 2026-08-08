@@ -5,6 +5,7 @@ target_name: "FiiO K15"
 company_id: fiio
 lang: en
 ref: fiio-k15
+audiodb_uid: adb-73e60d510d64
 date: 2025-12-02
 rating: [4.4, 0.7, 0.9, 1.0, 0.8, 1.0]
 price: 549

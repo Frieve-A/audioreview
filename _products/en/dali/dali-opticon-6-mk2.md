@@ -5,6 +5,7 @@ target_name: "DALI Opticon 6 MK2"
 company_id: dali
 lang: en
 ref: dali-opticon-6-mk2
+audiodb_uid: adb-30a5a583633f
 date: 2025-08-11
 rating: [2.5, 0.6, 0.5, 0.4, 0.5, 0.5]
 price: 1599

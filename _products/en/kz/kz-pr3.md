@@ -5,6 +5,7 @@ target_name: "KZ PR3"
 company_id: kz
 lang: en
 ref: kz-pr3
+audiodb_uid: adb-e143ecd693c7
 date: 2025-07-24
 rating: [2.5, 0.5, 0.6, 0.5, 0.5, 0.4]
 price: 49

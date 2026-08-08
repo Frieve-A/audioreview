@@ -5,6 +5,7 @@ target_name: "KEF CODA7"
 company_id: kef
 lang: ja
 ref: kef-coda7
+audiodb_uid: adb-09fc4582a3d1
 date: 2026-05-28
 rating: [2.9, 0.5, 0.3, 1.0, 0.3, 0.8]
 price: 18600

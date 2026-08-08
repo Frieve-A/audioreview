@@ -5,6 +5,7 @@ target_name: "Anker Soundcore Life Q30"
 company_id: anker
 lang: ja
 ref: anker-soundcore-life-q30
+audiodb_uid: adb-d34390f7f0b0
 date: 2025-09-30
 rating: [3.3, 0.3, 0.4, 1.0, 0.7, 0.9]
 price: 10999

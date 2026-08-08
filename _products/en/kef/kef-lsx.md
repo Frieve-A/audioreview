@@ -5,6 +5,7 @@ target_name: "KEF LSX"
 company_id: kef
 lang: en
 ref: kef-lsx
+audiodb_uid: adb-91883aeaa763
 date: 2025-07-08
 rating: [4.3, 0.9, 0.8, 1.0, 0.8, 0.8]
 price: 1099
@@ -12,7 +13,6 @@ summary: "A wireless active speaker released by KEF in 2018, now discontinued an
 tags: ["Active speakers", Desktop, KEF, Uni-Q, Wireless]
 permalink: /products/en/kef-lsx/
 ---
-
 ## Overview
 
 The KEF LSX is a wireless active speaker released by KEF in 2018. It features downsized technology from the company's acclaimed LS50, incorporating a 115mm (4.5-inch) magnesium-aluminum alloy cone and 19mm (0.75-inch) aluminum dome tweeter in a Uni-Q driver array designed as a compact desktop speaker. It supports Wi-Fi, Bluetooth 4.2 with aptX, and wired connections (RJ45 Ethernet, TosLink optical, 3.5mm analog), with operation possible through the dedicated "KEF Control" app. Each speaker features Class D amplifiers (30W for tweeter, 70W for woofer) in a bi-amp configuration. Originally priced at 1,099 USD, it targets the premium desktop audio market. Despite its compact size, it concentrates KEF's acoustic technology into a notable product.

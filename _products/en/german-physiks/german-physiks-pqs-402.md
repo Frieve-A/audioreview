@@ -5,6 +5,7 @@ target_name: "German Physiks PQS-402"
 company_id: german-physiks
 lang: en
 ref: german-physiks-pqs-402
+audiodb_uid: adb-156863a4d077
 date: 2025-08-26
 rating: [2.4, 0.5, 0.7, 0.1, 0.6, 0.5]
 price: 148753

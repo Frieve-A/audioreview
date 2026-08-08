@@ -5,6 +5,7 @@ target_name: "BQEYZ Lin"
 company_id: bqeyz
 lang: en
 ref: bqeyz-lin
+audiodb_uid: adb-62b7a87105c0
 date: 2025-08-09
 rating: [3.2, 0.5, 0.6, 1.0, 0.5, 0.6]
 price: 16

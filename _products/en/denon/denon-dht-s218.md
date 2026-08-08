@@ -5,6 +5,7 @@ target_name: "DENON DHT-S218"
 company_id: denon
 lang: en
 ref: denon-dht-s218
+audiodb_uid: adb-3b6db67cc845
 date: 2025-07-07
 rating: [3.2, 0.7, 0.7, 0.7, 0.8, 0.3]
 price: 187
@@ -12,7 +13,6 @@ summary: "The DENON DHT-S218 is a Dolby Atmos-enabled soundbar with built-in dua
 tags: [DENON, Soundbar, Dolby Atmos, Dual Subwoofer, Dolby TrueHD, Bluetooth LE Audio]
 permalink: /products/en/denon-dht-s218/
 ---
-
 ## Overview
 
 The DENON DHT-S218 is a Dolby Atmos-compatible soundbar released in 2024. It features a 3-way 6-speaker configuration consisting of 25mm tweeters×2, 90mm×45mm oval mid-range drivers×2, and 75mm subwoofers×2. It incorporates the same SoC (System on Chip) as the higher-end DHT-S517 model. Designed as a "high-quality soundbar" tuned by Denon's sound master, it includes Pure mode for music playback. It supports Bluetooth 5.3, LC3 (LE Audio), and lossless audio formats including Dolby TrueHD.

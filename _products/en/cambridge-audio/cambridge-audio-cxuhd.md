@@ -5,6 +5,7 @@ target_name: "Cambridge Audio CXUHD"
 company_id: cambridge-audio
 lang: en
 ref: cambridge-audio-cxuhd
+audiodb_uid: adb-a0fce42f576f
 date: 2025-10-19
 rating: [2.2, 0.5, 0.4, 0.5, 0.7, 0.1]
 price: 699
@@ -12,7 +13,6 @@ summary: "Discontinued universal 4K Blu-ray player functioning as digital transp
 tags: [Digital Transport, Blu-ray Player, 4K UHD, HDR, Cambridge Audio]
 permalink: /products/en/cambridge-audio-cxuhd/
 ---
-
 ## Overview
 
 The Cambridge Audio CXUHD is a discontinued universal 4K Blu-ray player that was designed as a pure digital transport with no analog outputs. Launched as an alternative to the Oppo UDP-203, it supported comprehensive disc formats including UHD Blu-ray, Blu-ray, DVD-Audio, SACD, and CD, alongside 4K video with HDR10 and Dolby Vision support. Built on the MediaTek MTK8591 processor platform, the CXUHD featured dual HDMI outputs, digital audio outputs, network connectivity, and extensive multimedia format support. Cambridge Audio positioned this player as a high-end digital source component by removing all internal DACs to maintain signal purity in the digital domain. Production has ended and firmware support has been discontinued, with the product now only available on the used market.

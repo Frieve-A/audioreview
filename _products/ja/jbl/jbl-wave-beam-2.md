@@ -5,6 +5,7 @@ target_name: "JBL Wave Beam 2"
 company_id: jbl
 lang: ja
 ref: jbl-wave-beam-2
+audiodb_uid: adb-4fb8ba2fc108
 date: 2025-08-08
 rating: [3.1, 0.5, 0.5, 1.0, 0.5, 0.6]
 price: 8030
@@ -12,7 +13,6 @@ summary: "エントリー価格ながらANCとマルチポイント、IP54を備
 tags: [完全ワイヤレス, ノイズキャンセリング, マルチポイント, JBL]
 permalink: /products/ja/jbl-wave-beam-2/
 ---
-
 ## 概要
 
 JBL Wave Beam 2は、8mmダイナミックドライバーを採用し、アクティブノイズキャンセリング（ANC）、外音取り込み（Ambient Aware/ TalkThru）、マルチポイント接続、Bluetooth 5.3に対応した完全ワイヤレスイヤホンです。イヤホン本体はIP54、ケースはIPX2の防塵防滴性能を備え、バッテリーはANCオフで最大約40時間（本体約10時間＋ケース約30時間）、ANCオンで最大約32時間（本体約8時間＋ケース約24時間）です。国内直販価格は8,030円で、エントリー帯ながら必要機能が過不足なく揃っています。

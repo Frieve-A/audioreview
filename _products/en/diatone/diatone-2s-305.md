@@ -5,6 +5,7 @@ target_name: "Diatone 2S-305"
 company_id: diatone
 lang: en
 ref: diatone-2s-305
+audiodb_uid: adb-7de15759c0ee
 date: 2025-09-13
 rating: [1.4, 0.5, 0.2, 0.1, 0.2, 0.4]
 price: 4500

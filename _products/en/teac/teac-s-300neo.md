@@ -5,6 +5,7 @@ target_name: "TEAC S-300NEO"
 company_id: teac
 lang: en
 ref: teac-s-300neo
+audiodb_uid: adb-49d9a53b14f4
 date: 2025-10-01
 rating: [2.0, 0.5, 0.3, 0.1, 0.4, 0.7]
 price: 765
@@ -12,7 +13,6 @@ summary: "Discontinued 2-way bookshelf speaker lacking measurement validation wi
 tags: [Speakers, 2-Way, Bookshelf, Discontinued, TEAC]
 permalink: /products/en/teac-s-300neo/
 ---
-
 ## Overview
 
 The TEAC S-300NEO is a discontinued 2-way bookshelf speaker system that employed a bass reflex enclosure. Featuring a 13cm cone woofer and 2.5cm soft dome tweeter, the system was designed around TEAC's philosophy of faithful sound reproduction. The speaker offered 6-ohm impedance, 86 dB/W/m sensitivity, and claimed frequency response of 55Hz to 33,000Hz. Originally marketed as a compact solution for accurate audio reproduction, the S-300NEO included magnetic shielding, gold-plated bi-wire terminals, and bass reflex rear porting with TEAC's air-dump center pole system.

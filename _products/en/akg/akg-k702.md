@@ -5,6 +5,7 @@ target_name: "AKG K702"
 company_id: akg
 lang: en
 ref: akg-k702
+audiodb_uid: adb-de697c46d00d
 date: 2025-08-05
 rating: [3.6, 0.6, 0.6, 0.9, 0.7, 0.8]
 price: 120
@@ -12,7 +13,6 @@ summary: "Classic open-back reference headphones from Austrian audio giant AKG. 
 tags: [Headphones, Open-back, Reference, Pro Audio, AKG]
 permalink: /products/en/akg-k702/
 ---
-
 ## Overview
 
 The AKG K702 is an open-back reference headphone from Austrian audio manufacturer AKG, a prestigious company founded in 1947 with a long-standing reputation in professional audio. Positioned as the successor to the K701, this model incorporates practical improvements such as a detachable cable system. With its wide frequency response of 10Hz-39.8kHz and 62Ω impedance, it is designed for diverse applications ranging from studio monitoring to audiophile listening. The combination of Varimotion diaphragm and flat-wire voice coil embodies AKG's traditional acoustic design philosophy.

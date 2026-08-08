@@ -5,6 +5,7 @@ target_name: "Logicool Z313"
 company_id: logicool
 lang: ja
 ref: logitech-z313
+audiodb_uid: adb-e0eb29fa94ee
 date: 2025-08-21
 rating: [2.1, 0.3, 0.4, 0.7, 0.4, 0.3]
 price: 10319
@@ -12,7 +13,6 @@ summary: "強い低高域ブーストと中域ディップを伴うチューニ�
 tags: [スピーカー, デスクトップ, 2.1システム, 予算]
 permalink: /products/ja/logitech-z313/
 ---
-
 ## 概要
 
 Logicool Z313はエントリー向け2.1 PCスピーカー（サテライト2基＋サブウーファー、25 W RMS）です。日本の実売例は**7,480円**（参考：Amazon.co.jp）ですが、本稿では後述の**CP計算をUSDで統一**するため、米国市場価格 **69.99 USD**（≈ **10,319円**、ECB基準 2025-08-20換算）も併記します。独立測定では大きな音質上の偏りが確認され、以下の通り厳格に評価します。 [5][2][6]

@@ -5,6 +5,7 @@ target_name: "Classic Pro CPE4000"
 company_id: classic-pro
 lang: en
 ref: classic-pro-cpe4000
+audiodb_uid: adb-5be2f2ff8645
 date: 2025-09-03
 rating: [2.4, 0.5, 0.3, 0.6, 0.5, 0.5]
 price: 33
@@ -12,7 +13,6 @@ summary: "Budget in-ear monitor with basic performance but limited technical inn
 tags: [In-ear monitors, Dynamic driver, Stage monitoring, Budget IEMs]
 permalink: /products/en/classic-pro-cpe4000/
 ---
-
 ## Overview
 
 The Classic Pro CPE4000 is a wired in-ear monitor from Sound House’s house brand using a 10 mm dynamic driver. Current market price is **33 USD** (Japan domestic price **4,980円**) with key catalog specs of 22 Ω impedance, 113 dB±3 dB sensitivity, and 20 Hz–20 kHz frequency response, per the official product page [1].

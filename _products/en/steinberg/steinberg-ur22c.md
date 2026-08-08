@@ -5,6 +5,7 @@ target_name: "Steinberg UR22C"
 company_id: steinberg
 lang: en
 ref: steinberg-ur22c
+audiodb_uid: adb-22cf4cc2a371
 date: 2025-10-06
 rating: [3.9, 0.6, 0.7, 1.0, 0.8, 0.8]
 price: 157
@@ -12,7 +13,6 @@ summary: "USB 3.0 audio interface supporting 32bit/192kHz. Features D-PRE Class 
 tags: [32bit, Audio interface, Cubase, DSP, USB-C]
 permalink: /products/en/steinberg-ur22c/
 ---
-
 ## Overview
 
 The Steinberg UR22C is a 2-in/2-out USB 3.0 audio interface developed by Steinberg. It supports 32-bit/192kHz recording and playback and features D-PRE Class A mic preamps developed with Yamaha[1][2]. Key traits include low-latency performance via USB Type-C, built-in DSP effects (REV-X reverb, channel strip, guitar amp) for true zero-latency monitoring[2], and iPad Pro compatibility. Bundled Cubase AI leverages Steinberg’s VST know-how to provide an integrated workflow.

@@ -5,6 +5,7 @@ target_name: "Focal Clear MG"
 company_id: focal
 lang: en
 ref: focal-clear-mg
+audiodb_uid: adb-e0bb1c7206ed
 date: 2025-09-15
 rating: [2.8, 0.5, 0.7, 0.2, 0.4, 1.0]
 price: 1490
@@ -12,7 +13,6 @@ summary: "Premium open-back headphones with magnesium dome technology offering a
 tags: [Headphones, Open-back, Magnesium, Premium, High-end]
 permalink: /products/en/focal-clear-mg/
 ---
-
 ## Overview
 
 The Focal Clear MG represents Focal's advancement in headphone driver technology, featuring proprietary magnesium 'M'-shaped dome drivers developed over four years of research. These open-back headphones target audiophiles seeking premium sound reproduction with French engineering heritage. The Clear MG utilizes 40mm magnesium dome drivers with enhanced lightness, rigidity, and damping compared to traditional aluminum-magnesium alloys, paired with solid aluminum construction and premium materials including leather headband and microfiber earpads.

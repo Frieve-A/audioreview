@@ -5,6 +5,7 @@ target_name: "Creative Pebble SE"
 company_id: creative
 lang: ja
 ref: creative-pebble-se
+audiodb_uid: adb-f421eab8271b
 date: 2025-09-03
 rating: [2.0, 0.3, 0.4, 0.4, 0.5, 0.4]
 price: 3700
@@ -12,7 +13,6 @@ summary: "約25 USDのUSB-C給電RGBデスクトップスピーカー。最大4.
 tags: [予算重視, Creative, デスクトップスピーカー, USB-C, RGB照明]
 permalink: /products/ja/creative-pebble-se/
 ---
-
 ## 概要
 
 Creative Pebble SEは約25 USDのUSB-C給電2.0デスクトップスピーカーで、RGB照明とモダンな接続性を追加したPebbleシリーズの派生モデルです。2インチのフルレンジドライバーを45度に傾けて配置し、内蔵パッシブラジエーターで低域を補強、最大4.4W RMSの総合出力を実現します [1][2]。7種類のRGBプリセットを備え、機能性と美観を両立します。

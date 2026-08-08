@@ -5,6 +5,7 @@ target_name: "Bose QuietComfort Earbuds (2024)"
 company_id: bose
 lang: ja
 ref: bose-quietcomfort-earbuds-2024
+audiodb_uid: adb-20cc0405fdba
 date: 2025-07-26
 rating: [2.7, 0.6, 0.7, 0.4, 0.4, 0.6]
 price: 26400
@@ -12,7 +13,6 @@ summary: "優秀なANC性能と長い再生時間を実現した一方、音質�
 tags: [完全ワイヤレスイヤホン, アクティブノイズキャンセリング, Bluetooth]
 permalink: /products/ja/bose-quietcomfort-earbuds-2024/
 ---
-
 ## 概要
 
 Bose QuietComfort Earbuds (2024)は、2024年10月10日にリリースされた完全ワイヤレスイヤホンです。価格は26,400円で、Boseのイヤホンラインナップの中では、より手頃な価格帯の選択肢として位置づけられています。Bluetooth 5.3接続、IPX4防水性能を備え、イヤホン単体で8.5時間、ケースとの併用で最大31.5時間という長いバッテリー持続時間を実現しています。Boseの強みであるアクティブノイズキャンセリング機能も搭載しています。

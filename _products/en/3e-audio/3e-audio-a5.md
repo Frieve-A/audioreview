@@ -5,6 +5,7 @@ target_name: "3e Audio A5"
 company_id: 3e-audio
 lang: en
 ref: 3e-audio-a5
+audiodb_uid: adb-c999f48886f5
 date: 2025-08-25
 rating: [3.8, 0.8, 0.6, 1.0, 0.5, 0.9]
 price: 240

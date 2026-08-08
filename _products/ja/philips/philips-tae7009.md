@@ -5,6 +5,7 @@ target_name: "Philips TAE7009"
 company_id: philips
 lang: ja
 ref: philips-tae7009
+audiodb_uid: adb-a575c5bd466a
 date: 2025-08-28
 rating: [3.0, 0.5, 0.5, 0.5, 0.7, 0.8]
 price: 6590

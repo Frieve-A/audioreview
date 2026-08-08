@@ -5,6 +5,7 @@ target_name: "beyerdynamic DT 700 PRO X"
 company_id: beyerdynamic
 lang: ja
 ref: beyerdynamic-dt-700-pro-x
+audiodb_uid: adb-d9ba593cc9f4
 date: 2025-08-15
 rating: [3.7, 0.7, 0.8, 0.8, 0.7, 0.7]
 price: 35850
@@ -12,7 +13,6 @@ summary: "STELLAR.45ドライバー技術を搭載した密閉型スタジオヘ
 tags: [密閉型, スタジオ, プロフェッショナル, モニタリング, ベロア]
 permalink: /products/ja/beyerdynamic-dt-700-pro-x/
 ---
-
 ## 概要
 
 beyerdynamic DT 700 PRO Xは、新開発の**STELLAR.45**ドライバーを採用した密閉型スタジオモニターヘッドホンです。開放型のDT 900 PRO Xと共にPRO Xシリーズとして投入され、48Ω設計と着脱式**3ピンmini-XLR**ケーブル、交換可能なベロアイヤーパッドなど、現場での使い勝手と保守性を重視しています[1]。メーカー公式の製品ページでも48Ω設計や交換部品の供給が明記されています[8][9]。

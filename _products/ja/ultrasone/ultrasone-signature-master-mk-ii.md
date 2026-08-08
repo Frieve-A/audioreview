@@ -5,6 +5,7 @@ target_name: "Ultrasone Signature Master MK II"
 company_id: ultrasone
 lang: ja
 ref: ultrasone-signature-master-mk-ii
+audiodb_uid: adb-52662561aa97
 date: 2025-08-08
 rating: [2.0, 0.5, 0.7, 0.1, 0.5, 0.2]
 price: 115000
@@ -12,7 +13,6 @@ summary: "測定データの開示が限定的で、コストパフォーマン�
 tags: [ヘッドホン, スタジオモニター, プロフェッショナル]
 permalink: /products/ja/ultrasone-signature-master-mk-ii/
 ---
-
 ## 概要
 
 Ultrasone Signature Master MK IIは、ドイツのUltrasoneが展開するSignatureシリーズの最上位モデルです。40mmチタンコートドライバーを搭載し、独自のS-Logic3テクノロジーとULEテクノロジーを組み合わせたスタジオ向けヘッドホンとして位置づけられています。前モデルから快適性とバランス接続対応を改良し、699ユーロという価格で提供されています。マスタリング・ミキシング用途を想定した設計となっています。

@@ -5,6 +5,7 @@ target_name: "miniDSP Flex HT"
 company_id: minidsp
 lang: ja
 ref: minidsp-flex-ht
+audiodb_uid: adb-0404d86f4622
 date: 2025-09-07
 rating: [3.9, 0.9, 0.7, 1.0, 0.5, 0.8]
 price: 89850
@@ -12,7 +13,6 @@ summary: "優れた測定性能を示す8チャンネルDSP。機能・測定性
 tags: [DSP, オーディオプロセッサー, ホームシアター, マルチチャンネル, eARC, HDMI]
 permalink: /products/ja/minidsp-flex-ht/
 ---
-
 ## 概要
 
 miniDSP Flex HTはホームシアター/マルチチャンネル用途向けの8ch入出力DSPです。**HDMI eARCのリニアPCM入力**、マルチチャンネルUSBオーディオ、S/PDIF/光デジタル（ステレオ）入力を備え、ベース管理・PEQ・クロスオーバー・柔軟なルーティングなどの機能を搭載します。32bit浮動小数点/400 MHzのSHARC DSPを採用し、メーカー公称で**SNR 125 dB(A)**、**THD+N −111 dB (0.0003%)**を達成します。価格は**599 USD**で、オプションのDirac Liveにも対応します。

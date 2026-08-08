@@ -5,6 +5,7 @@ target_name: "Kali Audio SM-5"
 company_id: kali-audio
 lang: en
 ref: kali-audio-sm-5
+audiodb_uid: adb-cedbf3221ee4
 date: 2025-10-27
 rating: [2.7, 0.7, 0.6, 0.3, 0.3, 0.8]
 price: 1699

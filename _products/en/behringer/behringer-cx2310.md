@@ -5,6 +5,7 @@ target_name: "Behringer CX2310"
 company_id: behringer
 lang: en
 ref: behringer-cx2310
+audiodb_uid: adb-6656e32f29b1
 date: 2025-08-22
 rating: [3.2, 0.5, 0.5, 1.0, 0.6, 0.6]
 price: 119

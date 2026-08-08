@@ -5,6 +5,7 @@ target_name: "Neumann NDH-30"
 company_id: neumann
 lang: en
 ref: neumann-ndh-30
+audiodb_uid: adb-e2b2161266fd
 date: 2026-02-02
 rating: [4.2, 0.7, 0.8, 1.0, 0.7, 1.0]
 price: 649

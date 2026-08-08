@@ -5,6 +5,7 @@ target_name: "KEF Kube 15 MIE"
 company_id: kef
 lang: ja
 ref: kef-kube-15-mie
+audiodb_uid: adb-bc994cbe4343
 date: 2025-07-30
 rating: [3.0, 0.6, 0.5, 0.8, 0.6, 0.5]
 price: 234000

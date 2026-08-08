@@ -5,6 +5,7 @@ target_name: "HiFiMan HE400se"
 company_id: hifiman
 lang: ja
 ref: hifiman-he400se
+audiodb_uid: adb-92655a3862ba
 date: 2026-01-21
 rating: [3.7, 0.7, 0.6, 1.0, 0.4, 1.0]
 price: 16000
@@ -12,7 +13,6 @@ summary: "Stealth Magnet技術を搭載したオープンバック型平面磁�
 tags: [ヘッドホン, 平面磁界駆動, オープンバック, バジェット, hifiman]
 permalink: /products/ja/hifiman-he400se/
 ---
-
 ## 概要
 
 HiFiMan HE400seは、フラグシップモデルから派生したStealth Magnet技術を採用した、同社のエントリーレベル平面磁界駆動ヘッドホンです[1]。2020-2021年にリリースされ、2022年にStealth Magnets版が発表されました。これらのオープンバック型ヘッドホンは、コスト削減のためネオジムではなくフェライト磁石を使用した80mm平面磁界駆動ドライバーを搭載しています。2005年にファン・ビアン博士によって設立されたHiFiManは、専用のR&Dセンターを運営し、中国で自社製造を行っています。HE400seは109米ドルという価格設定で、平面磁界駆動技術の民主化を図るHiFiManの戦略の一環として位置づけられています。

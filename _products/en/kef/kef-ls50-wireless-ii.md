@@ -5,6 +5,7 @@ target_name: "KEF LS50 Wireless II"
 company_id: kef
 lang: en
 ref: kef-ls50-wireless-ii
+audiodb_uid: adb-cdf2ce695552
 date: 2025-09-13
 rating: [2.6, 0.4, 0.8, 0.3, 0.3, 0.8]
 price: 2999.99

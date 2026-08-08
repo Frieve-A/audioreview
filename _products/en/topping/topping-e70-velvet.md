@@ -5,6 +5,7 @@ target_name: "Topping E70 Velvet"
 company_id: topping
 lang: en
 ref: topping-e70-velvet
+audiodb_uid: adb-2570ccf5ac54
 date: 2025-08-01
 rating: [3.5, 0.9, 0.8, 0.4, 0.6, 0.8]
 price: 450

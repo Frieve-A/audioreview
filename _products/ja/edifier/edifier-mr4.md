@@ -5,6 +5,7 @@ target_name: "Edifier MR4"
 company_id: edifier
 lang: ja
 ref: edifier-mr4
+audiodb_uid: adb-eff15ada915a
 date: 2025-07-11
 rating: [3.3, 0.4, 0.6, 1.0, 0.7, 0.6]
 price: 16980

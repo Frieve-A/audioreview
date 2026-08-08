@@ -5,6 +5,7 @@ target_name: "FiiO BTR15"
 company_id: fiio
 lang: ja
 ref: fiio-btr15
+audiodb_uid: adb-7bf7a8f2b4c3
 date: 2025-08-02
 rating: [4.1, 0.9, 0.8, 0.9, 0.7, 0.8]
 price: 15490
@@ -12,7 +13,6 @@ summary: "透明レベルの測定性能を持つBluetooth DAC/アンプ。同�
 tags: [Bluetooth, DAC, アンプ, ポータブル, FiiO]
 permalink: /products/ja/fiio-btr15/
 ---
-
 ## 概要
 
 FiiO BTR15は、Bluetooth 5.1に対応したポータブルDAC/ヘッドホンアンプです。デュアルES9219MQチップを搭載し、LDAC、aptX HD、aptX Adaptiveなどの高品質コーデックに対応。3.5mmシングルエンド出力と4.4mmバランス出力を備え、最大340mW（32Ω、バランス接続時）の出力を提供します。同社のBTR5の後継機として、より洗練されたデザインと改良された技術仕様を持ちます。FiiOは中国に拠点を置くポータブルオーディオ機器メーカーであり、長年にわたり多様な製品ラインナップを展開しています。

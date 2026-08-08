@@ -5,6 +5,7 @@ target_name: "Edifier S880DB MKII"
 company_id: edifier
 lang: ja
 ref: edifier-s880db-mkii
+audiodb_uid: adb-bfaf0790274f
 date: 2025-09-19
 rating: [3.0, 0.5, 0.6, 0.9, 0.5, 0.5]
 price: 60000
@@ -12,7 +13,6 @@ summary: "ハイレゾ音源認証を取得した包括的な接続性を持つ�
 tags: [アクティブスピーカー, ブックシェルフ, ハイレゾ音源, Bluetooth, LDAC]
 permalink: /products/ja/edifier-s880db-mkii/
 ---
-
 ## 概要
 
 Edifier S880DB MKIIは、オリジナルのS880DBからの包括的なアップグレードモデルで、コンパクトなブックシェルフスピーカー形式を維持しながら、強化されたドライバー、改良されたデジタル処理、現代的な接続オプションを特徴としています。この2.0アクティブHi-Fiスピーカーシステムは、25mmボイスコイルを持つ1.25インチチタンドームツイーター（1インチから改良）、再設計された3.75インチアルミニウム合金中低音ドライバーを搭載し、88W RMS総出力パワーを提供します。システムは24bit/96kHzアナログ処理と最大24bit/192kHzデジタル解像度でハイレゾ音源認証をサポートし、USB-C、光デジタル、同軸、デュアルRCA入力、LDACコーデック対応Bluetooth 5.3を含む包括的な接続性を提供しています。

@@ -5,6 +5,7 @@ target_name: "miniDSP UMIK-1"
 company_id: minidsp
 lang: ja
 ref: minidsp-umik-1
+audiodb_uid: adb-936140087842
 date: 2025-07-18
 rating: [4.1, 0.8, 0.7, 1.0, 0.8, 0.8]
 price: 13000
@@ -12,7 +13,6 @@ summary: "miniDSP UMIK-1は、個別の校正ファイルが付属する高精�
 tags: [測定マイク, USBマイク, miniDSP, 音響測定, 校正ファイル]
 permalink: /products/ja/minidsp-umik-1/
 ---
-
 ## 概要
 
 miniDSP UMIK-1は、音響測定専用に設計された全指向性USBコンデンサーマイクロフォンです。2010年代初頭から販売されており、Room EQ Wizard（REW）やDirac Liveなどの測定ソフトウェアとの統合により、ホームオーディオ愛好家から測定専門家まで幅広いユーザーに採用されています。個別校正ファイルの提供と、プラグアンドプレイ対応により、音響測定のエントリーレベルからミドルクラスまでの需要を満たす製品として確立されています。

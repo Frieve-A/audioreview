@@ -5,6 +5,7 @@ target_name: "KBEAR TC12pro"
 company_id: kbear
 lang: ja
 ref: kbear-tc12pro
+audiodb_uid: adb-29ec4005d476
 date: 2025-12-21
 rating: [3.1, 0.7, 0.5, 0.5, 0.6, 0.8]
 price: 1970
@@ -12,7 +13,6 @@ summary: "ALC5686チップを使用したUSB Type-Cから3.5mmへのDACアダプ
 tags: [DAC, USB-C, ヘッドホンアンプ, ポータブルオーディオ, デジタルオーディオ]
 permalink: /products/ja/kbear-tc12pro/
 ---
-
 ## 概要
 
 KBEAR TC12proは、RealtekのALC5686チップを採用したUSB Type-Cから3.5mmへのDACアダプタで、高解像度デジタルオーディオ変換を実現します。32bit/384kHzオーディオフォーマットに対応し、8芯銀メッキケーブルを採用したコンパクトなドングルとして、専用ヘッドホン出力を持たないモバイルデバイスやコンピューターからより良い音質を求めるユーザーをターゲットとしています。2014年に深圳凌音科技有限公司によって設立されたKBEARは、この製品を手頃な価格の高忠実度オーディオアクセサリーラインアップの一部として位置づけています。

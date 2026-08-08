@@ -5,6 +5,7 @@ target_name: "Frieve EffeTune"
 company_id: frieve
 lang: en
 ref: frieve-effetune
+audiodb_uid: adb-2671acf92e53
 date: 2025-08-11
 rating: [3.7, 0.6, 0.7, 1.0, 0.6, 0.8]
 price: 0
@@ -12,7 +13,6 @@ summary: "Free, open-source real-time audio effect processor with multi-platform
 tags: [Software, DSP, Free, OpenSource, RealTime]
 permalink: /products/en/frieve-effetune/
 ---
-
 ## Overview
 
 Frieve EffeTune is a free, open-source real-time audio effect processor developed by Frieve-A for audio enthusiasts seeking to enhance their music listening experience. Available as both a web application and desktop software for Windows, macOS, and Linux, EffeTune transforms your computer into a powerful audio effects processor that sits between your audio source and speakers or amplifier. The software emphasizes a scientific approach with the philosophy "No audiophile myths, just pure science" and includes built-in frequency response measurement tools for room correction.

@@ -5,6 +5,7 @@ target_name: "CVJ KUMO"
 company_id: cvj
 lang: en
 ref: cvj-kumo
+audiodb_uid: adb-9bee1544e65e
 date: 2025-08-23
 rating: [2.4, 0.5, 0.7, 0.1, 0.6, 0.5]
 price: 199

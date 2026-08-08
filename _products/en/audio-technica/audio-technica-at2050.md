@@ -5,6 +5,7 @@ target_name: "Audio-Technica AT2050"
 company_id: audio-technica
 lang: en
 ref: audio-technica-at2050
+audiodb_uid: adb-07d5b0b61c7c
 date: 2025-10-14
 rating: [3.1, 0.6, 0.4, 0.6, 0.8, 0.7]
 price: 166

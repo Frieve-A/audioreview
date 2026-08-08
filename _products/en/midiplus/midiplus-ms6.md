@@ -5,6 +5,7 @@ target_name: "Midiplus MS6"
 company_id: midiplus
 lang: en
 ref: midiplus-ms6
+audiodb_uid: adb-bc5279220e09
 date: 2025-09-21
 rating: [3.0, 0.4, 0.4, 1.0, 0.6, 0.6]
 price: 298

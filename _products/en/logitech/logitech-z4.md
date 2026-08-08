@@ -5,6 +5,7 @@ target_name: "Logitech Z4"
 company_id: logitech
 lang: en
 ref: logitech-z4
+audiodb_uid: adb-bdc3826ad999
 date: 2025-10-21
 rating: [3.1, 0.5, 0.4, 1.0, 0.8, 0.4]
 price: 100
@@ -12,7 +13,6 @@ summary: "Discontinued 2.1 speaker system with standard technology and limited m
 tags: [Speakers, Desktop, 2.1 System, Discontinued]
 permalink: /products/en/logitech-z4/
 ---
-
 ## Overview
 
 The Logitech Z4 is a discontinued 2.1 PC speaker system (two satellites + subwoofer, 40W RMS) originally released around 2005-2010 with an MSRP of approximately **100 USD**. The system is no longer manufactured and is only available through secondhand markets like eBay. Each satellite contains three drivers (two 2-inch pressure drivers and one 2-inch dome driver), while the subwoofer houses an 8-inch pressure driver with a perfect cube design.

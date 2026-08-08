@@ -5,6 +5,7 @@ target_name: "KEF KC62"
 company_id: kef
 lang: en
 ref: kef-kc62
+audiodb_uid: adb-4f60cdf63213
 date: 2025-07-18
 rating: [3.7, 0.8, 0.9, 0.4, 0.7, 0.9]
 price: 1452
@@ -12,7 +13,6 @@ summary: "KEF KC62 is a subwoofer that achieves deep bass reproduction in an ult
 tags: [Subwoofer, KEF, Uni-Core, Compact, Premium]
 permalink: /products/en/kef-kc62/
 ---
-
 ## Overview
 
 KEF KC62 is an ultra-compact subwoofer featuring proprietary Uni-Core technology. By integrating two 6.5-inch drivers into a single magnetic system, it achieves a 2/3 reduction in enclosure size while delivering 1000W RMS of high output power. Measurement data shows excellent low-frequency reproduction capability of 15Hz-100Hz (±4dB), enabling deep bass reproduction that exceeds expectations from its compact size. This represents a technical achievement where KEF's accumulated expertise has enabled high performance within the physical constraints of an ultra-compact enclosure.

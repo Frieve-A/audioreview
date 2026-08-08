@@ -5,6 +5,7 @@ target_name: "Shanling EC Zero T"
 company_id: shanling
 lang: ja
 ref: shanling-ec-zero-t
+audiodb_uid: adb-e67381dc1999
 date: 2025-10-12
 rating: [2.6, 0.7, 0.6, 1.0, 0.2, 0.1]
 price: 88350
@@ -12,7 +13,6 @@ summary: "R2RDACとデュアルJAN6418真空管を搭載したポータブルCD�
 tags: [ポータブル, CDプレイヤー, ヘッドホンアンプ, R2R DAC, 真空管, USB DAC, Bluetooth]
 permalink: /products/ja/shanling-ec-zero-t/
 ---
-
 ## 概要
 
 Shanling EC Zero Tは、R2R DAC技術とデュアルJAN6418真空管を組み合わせた、ヴィンテージ調の音響特性を重視するオーディオファイル向けのポータブルCDプレイヤーです。192個の精密抵抗を使用したShanling独自の24ビットR2R DAC、TPA6120ヘッドホンアンプ、768kHz/32bitまでのUSB DAC機能とDSD512対応、包括的な接続機能を備え、ポータブル形式で「真空管の温かみ」を提供することを目指しています。589 USDの価格で、最大8時間の再生が可能な5500mAhバッテリーを搭載し、プレミアムポータブルオーディオセグメントに位置付けられています。

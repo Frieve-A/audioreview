@@ -5,6 +5,7 @@ target_name: "Audio-Technica ATH-R30X"
 company_id: audio-technica
 lang: ja
 ref: audio-technica-ath-r30x
+audiodb_uid: adb-e21eca0007d9
 date: 2025-07-12
 rating: [2.4, 0.4, 0.5, 0.4, 0.6, 0.5]
 price: 14850

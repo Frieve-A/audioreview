@@ -5,6 +5,7 @@ target_name: "Audio-Technica ATH-5"
 company_id: audio-technica
 lang: en
 ref: audio-technica-ath-5
+audiodb_uid: adb-76f302f1ecf1
 date: 2026-05-09
 rating: [2.1, 0.5, 0.3, 0.5, 0.4, 0.4]
 price: 100
@@ -12,7 +13,6 @@ summary: "A 1977 vintage passive over-ear headphone discontinued for approximate
 tags: [Headphones, Vintage, Over-ear, Wired]
 permalink: /products/en/audio-technica-ath-5/
 ---
-
 ## Overview
 
 The Audio-Technica ATH-5 is a wired over-ear dynamic headphone released in 1977 as part of Audio-Technica's second-generation ATH lineup, introduced to mark the company's 15th anniversary [1]. Produced in Japan alongside the ATH-3 and ATH-4, it was the top dynamic model of that generation. The product has been discontinued for approximately 50 years; Audio-Technica's official product page no longer exists, and the headphone is available exclusively through secondary markets.

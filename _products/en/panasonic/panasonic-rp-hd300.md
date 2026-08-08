@@ -5,6 +5,7 @@ target_name: "Panasonic RP-HD300"
 company_id: panasonic
 lang: en
 ref: panasonic-rp-hd300
+audiodb_uid: adb-e004874f7d12
 date: 2026-01-02
 rating: [3.6, 0.5, 0.6, 1.0, 0.7, 0.8]
 price: 90

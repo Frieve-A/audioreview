@@ -5,6 +5,7 @@ target_name: "Tempotec Sonata BHD Pro"
 company_id: tempotec
 lang: ja
 ref: tempotec-sonata-bhd-pro
+audiodb_uid: adb-75deb61d65e9
 date: 2025-08-25
 rating: [3.4, 0.8, 0.6, 0.7, 0.6, 0.7]
 price: 10500
@@ -12,7 +13,6 @@ summary: "デュアルCS43131と4.4 mm/3.5 mm両出力を備えるUSB-Cドング
 tags: [DAC, アンプ, ポータブル, USB-C, バランス出力, ハイレゾ音源]
 permalink: /products/ja/tempotec-sonata-bhd-pro/
 ---
-
 ## 概要
 
 Tempotec Sonata BHD Proは、Cirrus Logic CS43131を2基搭載し、**4.4 mmバランス**と**3.5 mmシングルエンド**の両出力を備えるUSB-CドングルDAC/アンプです。PCM 32-bit/384 kHz、DSD256、（メーカー公称）最大8×MQAレンダリングに対応し、ポータブル環境でデスクトップ級の透明性を狙った設計です。

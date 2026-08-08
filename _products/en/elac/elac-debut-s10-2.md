@@ -5,6 +5,7 @@ target_name: "ELAC Debut S10.2"
 company_id: elac
 lang: en
 ref: elac-debut-s10-2
+audiodb_uid: adb-b76e48884c3d
 date: 2025-08-20
 rating: [2.3, 0.5, 0.4, 0.6, 0.4, 0.4]
 price: 329
@@ -12,7 +13,6 @@ summary: "Budget subwoofer with adequate performance for casual listeners but li
 tags: [Subwoofer, Budget, Home Theater, ELAC, Debut Series]
 permalink: /products/en/elac-debut-s10-2/
 ---
-
 ## Overview
 
 The ELAC Debut S10.2 is a 10-inch powered subwoofer from ELAC’s entry-level Debut 2.0 series, designed by Andrew Jones. It uses a custom high-excursion doped-paper woofer, a bass-reflex enclosure with dual-flared port, and a BASH-tracking amplifier rated at 100 W RMS / 200 W peak. Manufacturer specifications list frequency response at 35–150 Hz and analog controls for crossover and phase [1][2].

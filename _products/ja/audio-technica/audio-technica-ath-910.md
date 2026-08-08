@@ -5,6 +5,7 @@ target_name: "Audio-Technica ATH-910"
 company_id: audio-technica
 lang: ja
 ref: audio-technica-ath-910
+audiodb_uid: adb-c21c463eb400
 date: 2026-05-06
 rating: [1.6, 0.5, 0.1, 0.5, 0.3, 0.2]
 price: 6200

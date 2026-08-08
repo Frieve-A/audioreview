@@ -5,6 +5,7 @@ target_name: "JBL Stage A120"
 company_id: jbl
 lang: en
 ref: jbl-stage-a120
+audiodb_uid: adb-db7fb5e7cfe1
 date: 2025-12-02
 rating: [3.7, 0.3, 0.8, 1.0, 0.9, 0.7]
 price: 200
@@ -12,7 +13,6 @@ summary: "2-way bookshelf speakers featuring HDI waveguide technology, deliverin
 tags: [Speakers, Bookshelf, HDI, Waveguide, JBL]
 permalink: /products/en/jbl-stage-a120/
 ---
-
 ## Overview
 
 The JBL Stage A120 are 2-way passive bass reflex bookshelf speakers featuring JBL's proprietary HDI (High Definition Imaging) waveguide technology derived from professional monitor development. Each speaker incorporates a 1-inch aluminum dome tweeter and 4.5-inch polycellulose woofer in a ported enclosure. Priced at 200 USD per pair, these speakers target the entry-level market while offering technology heritage from JBL's professional audio division.

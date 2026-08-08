@@ -5,6 +5,7 @@ target_name: "JBL Authentics 200"
 company_id: jbl
 lang: en
 ref: jbl-authentics-200
+audiodb_uid: adb-833b78dbc4f3
 date: 2025-10-15
 rating: [3.8, 0.5, 0.8, 1.0, 0.7, 0.8]
 price: 200
@@ -12,7 +13,6 @@ summary: "Retro-styled smart speaker combining JBL's classic aesthetic with mode
 tags: [Speakers, Smart Speakers, Wi-Fi, Bluetooth, Voice Assistant, DSP, JBL]
 permalink: /products/en/jbl-authentics-200/
 ---
-
 ## Overview
 
 The JBL Authentics 200 represents JBL's "newstalgia" design philosophy, combining retro L-100-inspired aesthetics with contemporary smart speaker functionality. Featuring dual voice assistants (Google Assistant and Amazon Alexa), Wi-Fi 6 connectivity, and JBL's professional-grade DSP technology, this speaker targets users seeking both vintage design appeal and modern wireless capabilities. The product builds on HARMAN's scientific measurement approach while emphasizing visual design elements that recall JBL's iconic 1970s heritage.

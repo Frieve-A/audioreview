@@ -5,6 +5,7 @@ target_name: "Sony STR-DH790"
 company_id: sony
 lang: en
 ref: sony-str-dh790
+audiodb_uid: adb-87aba0643b41
 date: 2025-08-20
 rating: [3.4, 0.6, 0.5, 1.0, 0.6, 0.7]
 price: 498
@@ -12,7 +13,6 @@ summary: "Affordable 7.2-channel AV receiver with Dolby Atmos/DTS:X, eARC, and s
 tags: [AV Receiver, Home Theater, Dolby Atmos, DTS:X, 7.2 Channel]
 permalink: /products/en/sony-str-dh790/
 ---
-
 ## Overview
 
 The Sony STR-DH790 is a 7.2-channel AV receiver for entry-level home theater systems. Introduced in 2018, it supports Dolby Atmos and DTS:X, has four HDMI inputs (4K/60p with HDR10/HLG/Dolby Vision pass-through), one HDMI output with eARC/ARC, Bluetooth audio reception (SBC/AAC), and Sony’s Digital Cinema Auto Calibration (DCAC). Compact 5.25-inch height makes it easy to rack, and it targets users who do not need network streaming or advanced room correction [1][2][3][4][5].

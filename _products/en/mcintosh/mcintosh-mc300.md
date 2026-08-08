@@ -5,6 +5,7 @@ target_name: "McIntosh MC300"
 company_id: mcintosh
 lang: en
 ref: mcintosh-mc300
+audiodb_uid: adb-eceec95c41ea
 date: 2025-08-31
 rating: [2.3, 0.5, 0.4, 0.3, 0.7, 0.4]
 price: 3150

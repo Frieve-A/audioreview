@@ -5,6 +5,7 @@ target_name: "HiBy R6 Pro II 2025"
 company_id: hiby
 lang: ja
 ref: hiby-r6-pro-ii-2025
+audiodb_uid: adb-00d4c936d32d
 date: 2025-11-24
 rating: [3.5, 0.5, 0.8, 0.5, 0.8, 0.9]
 price: 105000

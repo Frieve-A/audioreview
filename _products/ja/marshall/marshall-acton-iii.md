@@ -5,6 +5,7 @@ target_name: "Marshall Acton III"
 company_id: marshall
 lang: ja
 ref: marshall-acton-iii
+audiodb_uid: adb-5331fa3a56bd
 date: 2025-10-15
 rating: [2.6, 0.5, 0.6, 0.5, 0.6, 0.4]
 price: 44800
@@ -12,7 +13,6 @@ summary: "測定性能の最適化よりも伝統的な美学を重視したBlue
 tags: [Bluetoothスピーカー, ホームオーディオ, Marshall, DSP, ルーム補正]
 permalink: /products/ja/marshall-acton-iii/
 ---
-
 ## 概要
 
 2022年にリリースされたMarshall Acton IIIは、レザレット仕上げと真鍮製コントロールノブを備えたヴィンテージステージアンプスタイルを通じて、同社の象徴的なアンプの伝統を強調するコンシューマー向けBluetoothスピーカーです。4インチ30Wウーファーと2基の3/4インチ15Wツイーターを搭載した2.1システム構成で、総出力60Wを実現しています。主な接続機能にはSBCコーデックのみをサポートするBluetooth 5.2と3.5mmアナログ入力が含まれます。注目すべき技術的特徴として、音量レベルに基づく自動EQ調整のダイナミックラウドネス、スマートフォンアプリによるルーム補正のプレースメント補正があります。10.24 x 6.69 x 5.91インチのコンパクトな寸法と2.85kgの重量により、家庭環境でのデスクトップや本棚への設置に適したポジショニングとなっています。

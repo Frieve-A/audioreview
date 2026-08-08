@@ -5,6 +5,7 @@ target_name: "Kali Audio WS-6.2"
 company_id: kali-audio
 lang: en
 ref: kali-audio-ws-6-2
+audiodb_uid: adb-75a1fc77f4a6
 date: 2025-09-01
 rating: [3.5, 0.7, 0.7, 0.8, 0.5, 0.8]
 price: 599

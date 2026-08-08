@@ -5,6 +5,7 @@ target_name: "Sony WF-1000XM5"
 company_id: sony
 lang: ja
 ref: sony-wf-1000xm5
+audiodb_uid: adb-f02ca4c2b57a
 date: 2025-12-08
 rating: [4.2, 0.8, 0.9, 1.0, 0.8, 0.7]
 price: 35400

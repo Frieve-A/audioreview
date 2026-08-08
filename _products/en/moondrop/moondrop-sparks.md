@@ -5,6 +5,7 @@ target_name: "MOONDROP Sparks"
 company_id: moondrop
 lang: en
 ref: moondrop-sparks
+audiodb_uid: adb-2778d0d78ec8
 date: 2026-03-03
 rating: [3.5, 0.5, 0.8, 0.7, 0.6, 0.9]
 price: 90
@@ -12,7 +13,6 @@ summary: "MOONDROP's debut TWS earphones featuring VDSF tuning and beryllium-coa
 tags: [TWS, Bluetooth, Earphones, MOONDROP, aptX Adaptive]
 permalink: /products/en/moondrop-sparks/
 ---
-
 ## Overview
 
 The MOONDROP Sparks represent the company's first entry into the true wireless stereo market, launched in 2021 as "Accurate Performance, Wireless Experience." As MOONDROP's debut TWS offering, the Sparks established the foundation for their wireless portfolio expansion. The earphones incorporate the company's signature VDSF (Virtual Diffuse Sound Field) tuning methodology developed through HRTF research, combined with 6mm beryllium-coated dynamic drivers and proprietary HEMC magnetic circuit technology. Positioned at 90 USD, the Sparks target audiophiles seeking measurement-based tuning in wireless format, emphasizing fidelity over features like active noise cancellation.

@@ -5,6 +5,7 @@ target_name: "Audio-Technica ATH-2"
 company_id: audio-technica
 lang: ja
 ref: audio-technica-ath-2
+audiodb_uid: adb-0971f754d50b
 date: 2026-05-06
 rating: [2.0, 0.5, 0.2, 0.7, 0.3, 0.3]
 price: 5800

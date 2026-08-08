@@ -5,6 +5,7 @@ target_name: "TRN Whaleshark"
 company_id: trn
 lang: ja
 ref: trn-whaleshark
+audiodb_uid: adb-9772a22fe893
 date: 2026-03-16
 rating: [2.6, 0.5, 0.7, 0.2, 0.5, 0.7]
 price: 19990

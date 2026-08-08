@@ -5,6 +5,7 @@ target_name: "KEF KC92"
 company_id: kef
 lang: ja
 ref: kef-kc92
+audiodb_uid: adb-8ddef250a7e7
 date: 2025-08-12
 rating: [2.8, 0.5, 0.7, 0.5, 0.8, 0.3]
 price: 352000

@@ -5,6 +5,7 @@ target_name: "HIFIMAN Audivina LE"
 company_id: hifiman
 lang: en
 ref: hifiman-audivina-le
+audiodb_uid: adb-9acf4df8d168
 date: 2025-10-18
 rating: [3.2, 0.5, 0.9, 0.3, 0.8, 0.7]
 price: 399

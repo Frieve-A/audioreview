@@ -5,6 +5,7 @@ target_name: "Audiotrak Glass BlackII+"
 company_id: audiotrak
 lang: en
 ref: audiotrak-glass-blackii-plus
+audiodb_uid: adb-67aeccfeada6
 date: 2025-09-06
 rating: [1.3, 0.1, 0.4, 0.2, 0.4, 0.2]
 price: 55

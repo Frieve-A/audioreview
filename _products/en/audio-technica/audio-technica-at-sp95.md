@@ -5,6 +5,7 @@ target_name: "Audio-Technica AT-SP95"
 company_id: audio-technica
 lang: en
 ref: audio-technica-at-sp95
+audiodb_uid: adb-1ecb5a24263e
 date: 2025-09-01
 rating: [2.4, 0.3, 0.4, 0.9, 0.5, 0.3]
 price: 34

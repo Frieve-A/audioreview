@@ -5,6 +5,7 @@ target_name: "Roseselsa Aurora Ultra"
 company_id: roseselsa
 lang: ja
 ref: roseselsa-aurora-ultra
+audiodb_uid: adb-af77146c828e
 date: 2025-09-02
 rating: [3.2, 0.7, 0.6, 1.0, 0.6, 0.3]
 price: 5950

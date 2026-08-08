@@ -5,6 +5,7 @@ target_name: "Denon DCD-600NE"
 company_id: denon
 lang: ja
 ref: denon-dcd-600ne
+audiodb_uid: adb-a3627dfeaf9f
 date: 2025-08-23
 rating: [3.1, 0.6, 0.5, 0.8, 0.6, 0.6]
 price: 43780
@@ -12,7 +13,6 @@ summary: "AL32処理と32ビットDAC ICを搭載するエントリーレベルC
 tags: [CDプレーヤー, DAC, デジタルオーディオ, 光デジタル出力]
 permalink: /products/ja/denon-dcd-600ne/
 ---
-
 ## 概要
 
 Denon DCD-600NEは、Denon独自のAL32処理とBurr-Brown/TI PCM5142（192 kHz/32ビット）DAC ICを採用したエントリーレベルのCDプレーヤーです。2019年発売のNEシリーズに属し、振動対策シャーシ、Pure Direct、アナログRCA出力と光デジタル出力（1系統）を備え、音楽CDに加えてMP3/WMAを収録したCD-R/RWの再生に対応します。 [1][5]

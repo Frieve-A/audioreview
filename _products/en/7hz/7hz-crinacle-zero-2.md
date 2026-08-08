@@ -5,6 +5,7 @@ target_name: "7Hz Crinacle Zero:2"
 company_id: 7hz
 lang: en
 ref: 7hz-crinacle-zero-2
+audiodb_uid: adb-cae0664bcbde
 date: 2026-01-21
 rating: [3.5, 0.7, 0.3, 1.0, 0.6, 0.9]
 price: 25
@@ -12,7 +13,6 @@ summary: "An ultra-budget IEM collaboration between 7Hz and audio reviewer Crina
 tags: [Budget, China, Collaboration, Crinacle, In-ear monitors]
 permalink: /products/en/7hz-crinacle-zero-2/
 ---
-
 ## Overview
 
 The 7Hz × Crinacle Zero:2 represents the second collaboration between Chinese manufacturer 7Hz and measurement-focused audio reviewer Crinacle. This single dynamic driver IEM builds upon the original Zero with enhanced bass response (+3dB low-end gain) while maintaining neutral midrange characteristics. Features include detachable 0.78mm 2-pin cable and dual-cavity driver design targeting improved bass control and wider soundstage compared to single-cavity implementations.

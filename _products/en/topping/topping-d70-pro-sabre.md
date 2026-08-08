@@ -5,6 +5,7 @@ target_name: "Topping D70 Pro Sabre"
 company_id: topping
 lang: en
 ref: topping-d70-pro-sabre
+audiodb_uid: adb-ece117a4aea5
 date: 2025-08-17
 rating: [3.5, 0.9, 0.7, 0.4, 0.6, 0.9]
 price: 699
@@ -12,7 +13,6 @@ summary: "High-performance DAC with transparent sound quality using flagship ES9
 tags: [DAC, Desktop, ESS, Bluetooth, Balanced]
 permalink: /products/en/topping-d70-pro-sabre/
 ---
-
 ## Overview
 
 The Topping D70 Pro Sabre is a premium desktop DAC using ESS’s flagship ES9039SPRO in an 8-channel configuration (four channels paralleled per side). Released in **2023**, it offers USB, optical, coaxial, AES, and Bluetooth 5.1 (LDAC/aptX Adaptive/aptX HD/AAC/SBC) connectivity [2]. The full-color **Aurora UI** shows playback info plus FFT/VU views, and the unit supports **seven** PCM filter options (F-1 to F-7) and “Sound mode” voicings (Off/Valve/Transistor) [2]. Output can be set to standard 2.1 V/4.2 V or boosted **2.5 V (RCA) / 5.0 V (XLR)** for wider compatibility [3].

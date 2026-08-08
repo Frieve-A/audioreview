@@ -5,6 +5,7 @@ target_name: "QCY MeloBuds N70"
 company_id: qcy
 lang: ja
 ref: qcy-melobuds-n70
+audiodb_uid: adb-7527cbd3f451
 date: 2025-09-09
 rating: [3.2, 0.6, 0.8, 0.8, 0.5, 0.5]
 price: 9000

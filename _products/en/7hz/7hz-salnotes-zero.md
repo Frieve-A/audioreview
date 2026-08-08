@@ -5,6 +5,7 @@ target_name: "7HZ 7Hz Salnotes Zero"
 company_id: 7hz
 lang: en
 ref: 7hz-salnotes-zero
+audiodb_uid: adb-07a4cb8ab1e3
 date: 2026-01-23
 rating: [3.3, 0.7, 0.3, 0.8, 0.5, 1.0]
 price: 20.99

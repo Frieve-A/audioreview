@@ -5,6 +5,7 @@ target_name: "LEKATO WS-60"
 company_id: lekato
 lang: en
 ref: lekato-ws-60
+audiodb_uid: adb-20f88f1009b2
 date: 2025-10-17
 rating: [3.4, 0.6, 0.6, 1.0, 0.3, 0.9]
 price: 50
@@ -12,7 +13,6 @@ summary: "Digital wireless guitar system with 24-bit/48kHz transmission and comp
 tags: [Wireless, Guitar, Transmission, LEKATO, Digital]
 permalink: /products/en/lekato-ws-60/
 ---
-
 ## Overview
 
 The LEKATO WS-60 is a 2.4GHz wireless guitar transmission system offering 24-bit/48kHz stereo lossless digital transmission with 6-channel support. LEKATO, founded in 2019, positions itself as an R&D-oriented company focused on affordable professional musical instrument accessories. The WS-60 features >105dB dynamic range, 20-20kHz frequency response (+1dB/-3dB), and <12ms latency with 100+ foot range and 4-5 hour battery life. The system includes multiple plug compatibility options (1/8" stereo, 1/4" stereo, 1/4" mono) targeting guitar and bass applications.

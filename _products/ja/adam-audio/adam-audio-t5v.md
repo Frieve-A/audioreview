@@ -5,6 +5,7 @@ target_name: "ADAM Audio T5V"
 company_id: adam-audio
 lang: ja
 ref: adam-audio-t5v
+audiodb_uid: adb-7abf84e9897b
 date: 2025-08-20
 rating: [3.9, 0.5, 0.8, 1.0, 0.8, 0.8]
 price: 63000

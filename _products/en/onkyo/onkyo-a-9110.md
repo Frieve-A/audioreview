@@ -5,6 +5,7 @@ target_name: "Onkyo A-9110"
 company_id: onkyo
 lang: en
 ref: onkyo-a-9110
+audiodb_uid: adb-038d1cb6f32c
 date: 2025-08-24
 rating: [2.4, 0.3, 0.4, 0.7, 0.6, 0.4]
 price: 299

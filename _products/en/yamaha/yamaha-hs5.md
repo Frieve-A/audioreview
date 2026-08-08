@@ -5,6 +5,7 @@ target_name: "YAMAHA HS5"
 company_id: yamaha
 lang: en
 ref: yamaha-hs5
+audiodb_uid: adb-3e8d03c15763
 date: 2026-02-25
 rating: [3.3, 0.5, 0.7, 0.7, 0.5, 0.9]
 price: 199.99

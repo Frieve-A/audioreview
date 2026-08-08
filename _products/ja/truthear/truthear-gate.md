@@ -5,6 +5,7 @@ target_name: "Truthear Gate"
 company_id: truthear
 lang: ja
 ref: truthear-gate
+audiodb_uid: adb-958e522ed270
 date: 2025-08-20
 rating: [3.4, 0.7, 0.5, 0.9, 0.7, 0.6]
 price: 3000
@@ -12,7 +13,6 @@ summary: "Truthear Gateは、カーボンLCP/PU振動板を採用した10mmダ�
 tags: [10mmダイナミック, 低価格IEM, カーボンLCP, 中国, インイヤーモニター, Truthear, 超低価格]
 permalink: /products/ja/truthear-gate/
 ---
-
 ## 概要
 
 Truthear Gateは2024年登場の超低価格IEMで、廃盤となったHolaの後継的ポジションです。カーボンLCPドーム＋超薄PUの10mmダイナミックドライバー、PC+ABSシェル、0.78mmリセス2ピンケーブルを採用し、測定重視の軽いV字バランスを標榜します。公称は28Ω、122dB/Vrms、THD≤1% @1kHz（94dB）。さらに104dB SPLで非線形歪み<0.2%という記載があります。 [1]

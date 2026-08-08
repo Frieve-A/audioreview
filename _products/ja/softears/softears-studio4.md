@@ -5,6 +5,7 @@ target_name: "Softears Studio4"
 company_id: softears
 lang: ja
 ref: softears-studio4
+audiodb_uid: adb-7b2c7f64cfc3
 date: 2026-05-31
 rating: [1.8, 0.6, 0.2, 0.0, 0.4, 0.6]
 price: 67350

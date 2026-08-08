@@ -5,6 +5,7 @@ target_name: "BQEYZ Lin"
 company_id: bqeyz
 lang: ja
 ref: bqeyz-lin
+audiodb_uid: adb-62b7a87105c0
 date: 2025-08-09
 rating: [3.2, 0.5, 0.6, 1.0, 0.5, 0.6]
 price: 2399
@@ -12,7 +13,6 @@ summary: "Conexant CX31993チップを採用したUSB-C DAC/アンプアダプ�
 tags: [DAC, アンプ, ドングル, ポータブル, USB-C]
 permalink: /products/ja/bqeyz-lin/
 ---
-
 ## 概要
 
 BQEYZ LinはUSB-C接続のDAC/アンプアダプターです。Conexant CX31993チップを採用し、最大32bit/384kHz PCMに対応、3.5mmと4.4mmの出力端子を備えます。中国のBQEYZが開発したポータブルオーディオ製品で、スマートフォンやPCでの高音質再生を狙ったコンパクト設計です。

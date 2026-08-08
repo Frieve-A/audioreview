@@ -5,6 +5,7 @@ target_name: "Crown Amcron DC-300A Series II"
 company_id: crown
 lang: en
 ref: crown-amcron-dc-300a-seriesii
+audiodb_uid: adb-2024f845f5f9
 date: 2025-07-21
 rating: [2.5, 0.9, 0.4, 0.3, 0.5, 0.4]
 price: 350

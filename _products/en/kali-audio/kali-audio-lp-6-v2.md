@@ -5,6 +5,7 @@ target_name: "Kali Audio LP-6 V2"
 company_id: kali-audio
 lang: en
 ref: kali-audio-lp-6-v2
+audiodb_uid: adb-9e2691d4b45f
 date: 2025-09-21
 rating: [2.9, 0.4, 0.6, 1.0, 0.4, 0.5]
 price: 249

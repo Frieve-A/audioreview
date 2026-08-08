@@ -5,6 +5,7 @@ target_name: "Audio-Technica AT-703"
 company_id: audio-technica
 lang: en
 ref: audio-technica-at-703
+audiodb_uid: adb-e65dc8c10d03
 date: 2026-05-01
 rating: [1.2, 0.5, 0.1, 0.3, 0.1, 0.2]
 price: 78
@@ -12,7 +13,6 @@ summary: "1974 vintage open-back dynamic headphone with no third-party measureme
 tags: [Headphones, Vintage, Open-Back, Discontinued]
 permalink: /products/en/audio-technica-at-703/
 ---
-
 ## Overview
 
 The Audio-Technica AT-703 is the flagship of Audio-Technica's AT-700 series, the company's inaugural headphone lineup introduced in 1974. Marketed as "Our finest dynamic headphone," it employs an open-back dynamic driver design described by the manufacturer as a "bi-polar radiation pattern" intended to eliminate sealed acoustic cavity resonances. Originally priced at 69.95 USD and made in Japan, the AT-703 has been discontinued for approximately five decades and is currently available only on the used market, with North American asking prices ranging from approximately 25 to 80 USD for tested-working units [5].

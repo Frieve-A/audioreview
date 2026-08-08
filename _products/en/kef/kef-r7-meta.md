@@ -5,6 +5,7 @@ target_name: "KEF KEF R7 Meta"
 company_id: kef
 lang: en
 ref: kef-r7-meta
+audiodb_uid: adb-c78b7f1c6ba4
 date: 2026-02-13
 rating: [4.3, 0.6, 0.9, 1.0, 0.9, 0.9]
 price: 4999.98

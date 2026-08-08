@@ -5,6 +5,7 @@ target_name: "ThieAudio Hype 2"
 company_id: thieaudio
 lang: en
 ref: thieaudio-hype-2
+audiodb_uid: adb-e21feb488451
 date: 2025-09-01
 rating: [1.6, 0.3, 0.6, 0.1, 0.3, 0.3]
 price: 299

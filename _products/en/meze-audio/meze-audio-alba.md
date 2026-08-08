@@ -5,6 +5,7 @@ target_name: "Meze Audio Alba"
 company_id: meze-audio
 lang: en
 ref: meze-audio-alba
+audiodb_uid: adb-c1da8968217c
 date: 2025-09-03
 rating: [3.2, 0.8, 0.3, 1.0, 0.6, 0.5]
 price: 159
@@ -12,7 +13,6 @@ summary: "Entry-level audiophile IEM with excellent measured performance and cla
 tags: [In-ear monitors, Dynamic driver, Entry-level, Audiophile, Detachable cable]
 permalink: /products/en/meze-audio-alba/
 ---
-
 ## Overview
 
 The Meze Audio Alba is the Romanian company’s most accessible IEM at 159 USD. It uses a single 10.8 mm dynamic driver in a zinc-alloy + anodized-aluminum shell, ships with a 2-pin detachable cable, four sizes of silicone tips, a carry case, and a custom 3.5 mm-to-USB-C adapter with a built-in DAC/amp for modern device compatibility. [1]

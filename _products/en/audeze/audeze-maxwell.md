@@ -5,6 +5,7 @@ target_name: "Audeze Maxwell"
 company_id: audeze
 lang: en
 ref: audeze-maxwell
+audiodb_uid: adb-cbf220512153
 date: 2025-09-13
 rating: [3.1, 0.6, 0.8, 0.5, 0.4, 0.8]
 price: 299

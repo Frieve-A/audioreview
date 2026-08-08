@@ -5,6 +5,7 @@ target_name: "Anker Soundcore Life Q35"
 company_id: anker
 lang: ja
 ref: anker-soundcore-life-q35
+audiodb_uid: adb-b5e10e832d44
 date: 2025-09-30
 rating: [3.6, 0.5, 0.6, 1.0, 0.6, 0.9]
 price: 19500

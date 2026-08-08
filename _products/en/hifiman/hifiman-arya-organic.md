@@ -5,6 +5,7 @@ target_name: "HiFiMAN Arya Organic"
 company_id: hifiman
 lang: en
 ref: hifiman-arya-organic
+audiodb_uid: adb-adbc08fdba3b
 date: 2025-08-20
 rating: [3.7, 0.8, 0.7, 0.9, 0.6, 0.7]
 price: 979

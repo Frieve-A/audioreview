@@ -5,6 +5,7 @@ target_name: "SMSL VMV D2r"
 company_id: smsl
 lang: ja
 ref: smsl-vmv-d2r
+audiodb_uid: adb-d03f3e87ae6f
 date: 2025-08-28
 rating: [3.2, 0.8, 0.6, 0.5, 0.7, 0.6]
 price: 156840
@@ -12,7 +13,6 @@ summary: "独自のRohmチップを搭載したフラッグシップDAC。プレ
 tags: [DAC, デスクトップ, バランス, MQA, DSD, Bluetooth, フラッグシップ]
 permalink: /products/ja/smsl-vmv-d2r/
 ---
-
 ## 概要
 
 SMSL VMV D2rは、同社のプレミアムVMVブランドにおけるフラッグシップデスクトップDACで、価格は156,840円（999 USD）です。この完全バランス型ステレオDACは、一般的なESSやAKMの実装とは異なり、MUS-ICシリーズのRohm BD34301EKV DACチップを採用します。USB、光、同軸、I2S、AES、Bluetooth 5.1（LDAC対応）などの接続に対応し、PCM 768kHz、DSD512、MQAおよびMQA-CDのデコードに対応します[1][2]。

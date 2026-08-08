@@ -5,6 +5,7 @@ target_name: "Luxman D-03R"
 company_id: luxman
 lang: ja
 ref: luxman-d-03r
+audiodb_uid: adb-3222ba16ce65
 date: 2025-08-10
 rating: [2.8, 0.5, 0.7, 0.4, 0.8, 0.4]
 price: 523650

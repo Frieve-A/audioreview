@@ -5,6 +5,7 @@ target_name: "qdc FRONTIER"
 company_id: qdc
 lang: ja
 ref: qdc-frontier
+audiodb_uid: adb-58975115d2d3
 date: 2025-07-29
 rating: [2.8, 0.5, 0.8, 0.5, 0.3, 0.7]
 price: 18000

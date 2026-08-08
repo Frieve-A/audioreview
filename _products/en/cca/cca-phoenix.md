@@ -5,6 +5,7 @@ target_name: "CCA Phoenix"
 company_id: cca
 lang: en
 ref: cca-phoenix
+audiodb_uid: adb-ea6209c5cf8e
 date: 2026-03-09
 rating: [3.4, 0.5, 0.6, 1.0, 0.4, 0.9]
 price: 29.0

@@ -5,6 +5,7 @@ target_name: "Yamaha NS-SW050"
 company_id: yamaha
 lang: en
 ref: yamaha-ns-sw050
+audiodb_uid: adb-6e3bc79697f2
 date: 2025-08-14
 rating: [2.4, 0.5, 0.4, 0.6, 0.5, 0.4]
 price: 199
@@ -12,7 +13,6 @@ summary: "An entry-level 8-inch powered subwoofer with Advanced YST II and Twist
 tags: [Subwoofer, Yamaha, Home Theater, Compact, Budget]
 permalink: /products/en/yamaha-ns-sw050/
 ---
-
 ## Overview
 
 The Yamaha NS-SW050 is an 8-inch powered subwoofer featuring Advanced YST II and a Twisted Flare Port. It is specified at **28–200 Hz** with **50 W continuous output** (Yamaha lists **100 Hz, 5 Ω, 10% THD** conditions) and **100 W peak-equivalent**［**1**］. The feature set (YST II / Twisted Flare Port) is documented on Yamaha’s official overview page［**2**］. A representative US market price is **199.95 USD**［**3**］.

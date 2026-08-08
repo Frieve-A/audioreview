@@ -5,6 +5,7 @@ target_name: "Genelec 8351B"
 company_id: genelec
 lang: en
 ref: genelec-8351b
+audiodb_uid: adb-3ff0b50f18ca
 date: 2025-08-01
 rating: [4.0, 0.8, 0.9, 0.5, 0.9, 0.9]
 price: 4267

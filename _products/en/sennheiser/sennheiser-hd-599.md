@@ -5,6 +5,7 @@ target_name: "Sennheiser HD 599"
 company_id: sennheiser
 lang: en
 ref: sennheiser-hd-599
+audiodb_uid: adb-a5e2c26cea81
 date: 2025-08-02
 rating: [2.5, 0.6, 0.5, 0.4, 0.6, 0.4]
 price: 195
@@ -12,7 +13,6 @@ summary: "Open-back headphones featuring warm sound signature, but faces challen
 tags: [Headphones, Open-back, Over-ear, Sennheiser]
 permalink: /products/en/sennheiser-hd-599/
 ---
-
 ## Overview
 
 The Sennheiser HD 599 represents a cornerstone of the company's traditional open-back headphone lineup. Since its 2016 launch, it has gained popularity among users from beginners to intermediates with its warm sound signature and relatively manageable 50-ohm impedance. The product boasts craftsmanship from its German and Irish heritage, featuring detachable cables and E.A.R. technology for an expansive soundfield. However, from the perspective of measurement data and price competitiveness, its position in today's market must be evaluated critically.

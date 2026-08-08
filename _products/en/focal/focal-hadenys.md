@@ -5,6 +5,7 @@ target_name: "Focal Hadenys"
 company_id: focal
 lang: en
 ref: focal-hadenys
+audiodb_uid: adb-0f1ab4dc354a
 date: 2026-04-23
 rating: [3.1, 0.6, 0.8, 0.6, 0.7, 0.4]
 price: 515

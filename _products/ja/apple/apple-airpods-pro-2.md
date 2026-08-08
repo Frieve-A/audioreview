@@ -5,6 +5,7 @@ target_name: "Apple AirPods Pro 2"
 company_id: apple
 lang: ja
 ref: apple-airpods-pro-2
+audiodb_uid: adb-d2388da65edb
 date: 2025-07-08
 rating: [3.1, 0.6, 0.7, 0.6, 0.6, 0.6]
 price: 37500
@@ -12,7 +13,6 @@ summary: "Apple AirPods Pro 2は優れたANCと使いやすさを持つが、同
 tags: [Apple, H2チップ, アクティブノイズキャンセリング, アダプティブEQ, ワイヤレスイヤホン]
 permalink: /products/ja/apple-airpods-pro-2/
 ---
-
 ## 概要
 
 Apple AirPods Pro 2は2022年に発売されたAppleのフラッグシップワイヤレスイヤホンで、H2チップを搭載し前世代比2倍のアクティブノイズキャンセレーション性能を実現している。カスタムドライバーとアンプにより低歪み再生を可能とし、アダプティブEQによりリアルタイムで音質調整を行う。価格は250USD（約40,000円）に設定されている。

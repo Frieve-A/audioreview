@@ -5,6 +5,7 @@ target_name: "Volumio Preciso"
 company_id: volumio
 lang: en
 ref: volumio-preciso
+audiodb_uid: adb-a83f7199a0cf
 date: 2025-08-22
 rating: [3.1, 0.8, 0.8, 0.3, 0.7, 0.5]
 price: 899

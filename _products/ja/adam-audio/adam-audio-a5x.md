@@ -5,6 +5,7 @@ target_name: "ADAM Audio A5X"
 company_id: adam-audio
 lang: ja
 ref: adam-audio-a5x
+audiodb_uid: adb-318a8bb28d3a
 date: 2025-07-31
 rating: [2.5, 0.6, 0.8, 0.2, 0.4, 0.5]
 price: 213000
@@ -12,7 +13,6 @@ summary: "X-ARTツイーターを搭載した5.5インチニアフィールド�
 tags: [スタジオモニター, ニアフィールド, X-ARTツイーター, 廃番製品]
 permalink: /products/ja/adam-audio-a5x/
 ---
-
 ## 概要
 
 ADAM Audio A5Xは、同社の特徴的なX-ARTフォールドリボンツイーターと5.5インチウーファーを組み合わせた2ウェイアクティブニアフィールドモニターです。50Wアンプをツイーターとウーファーにそれぞれ搭載し、最大110dB SPLの出力を実現します。カーボンファイバー/ローハセル/グラスファイバー複合素材のドライバーを採用し、動的特性の向上を図っています。しかし現在は廃番製品となっており、新規購入は困難な状況となっています。

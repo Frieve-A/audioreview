@@ -5,6 +5,7 @@ target_name: "Benchmark DAC3"
 company_id: benchmark
 lang: ja
 ref: benchmark-dac3
+audiodb_uid: adb-0f388fa06ba4
 date: 2025-08-10
 rating: [4.2, 0.9, 0.8, 0.9, 0.7, 0.9]
 price: 329250

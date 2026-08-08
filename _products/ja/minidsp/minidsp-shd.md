@@ -5,6 +5,7 @@ target_name: "miniDSP SHD"
 company_id: minidsp
 lang: ja
 ref: minidsp-shd
+audiodb_uid: adb-1d45367d8cd3
 date: 2025-09-07
 rating: [3.7, 0.9, 0.7, 1.0, 0.1, 1.0]
 price: 194000
@@ -12,7 +13,6 @@ summary: "Dirac Liveルーム補正を搭載したDSPベースのネットワー
 tags: [ストリーマー, DAC, DSP, ルーム補正, Dirac-Live, Roon-Ready]
 permalink: /products/ja/minidsp-shd/
 ---
-
 ## 概要
 
 miniDSP SHD（"Streaming High Definition"）は、ストリーミング、DAC、プリアンプ、ルーム補正機能を単一ユニットに統合した包括的なDSPベースのネットワークオーディオプロセッサーです。Dirac Live 3.xルーム補正、Roon Ready認証、広範なDSP処理能力を特徴とし、測定主導の音質最適化を求めるユーザーをターゲットとしています。1299 USDで、セパレート機器への手頃な代替として位置づけられ、世界クラスの測定性能を提供します。

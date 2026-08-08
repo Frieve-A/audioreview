@@ -5,6 +5,7 @@ target_name: "HiBy R1"
 company_id: hiby
 lang: en
 ref: hiby-r1
+audiodb_uid: adb-b5c5723cb936
 date: 2025-08-04
 rating: [2.8, 0.8, 0.5, 0.3, 0.6, 0.6]
 price: 112

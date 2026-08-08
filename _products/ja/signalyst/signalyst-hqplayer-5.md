@@ -5,6 +5,7 @@ target_name: "Signalyst HQPlayer 5 Desktop"
 company_id: signalyst
 lang: ja
 ref: signalyst-hqplayer-5
+audiodb_uid: adb-993e5f7a528f
 date: 2025-10-17
 rating: [4.0, 0.5, 0.8, 1.0, 0.7, 1.0]
 price: 44200
@@ -12,7 +13,6 @@ summary: "71のアルゴリズムとGPUアクセラレーションを搭載し�
 tags: [Software, DSP, Upsampling, DSD, PCM, Real-time, CUDA]
 permalink: /products/ja/signalyst-hqplayer-5/
 ---
-
 ## 概要
 
 HQPlayer 5 Desktopは、Signalystが開発したリアルタイムアップサンプリング、ダウンサンプリング、フォーマット変換に特化した高度なデジタルオーディオ処理ソフトウェアです[1]。25年以上の開発歴史を持つJussi Laakoによって設立された同社の第5世代オーディオ処理技術であり、ハイエンドオーディオ再生を対象としています[2]。CDDA、FLAC、WavPack、DSDIFF、DSF、RIFF、AIFF、MP3、リアルタイムオーディオ入力を含む幅広いフォーマット互換性を備え、8ビット32kHzから32ビット1.536MHz PCMおよび包括的なDSDサポートまでの処理能力を有します[1]。

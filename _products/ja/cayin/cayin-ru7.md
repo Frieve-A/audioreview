@@ -5,6 +5,7 @@ target_name: "Cayin RU7"
 company_id: cayin
 lang: ja
 ref: cayin-ru7
+audiodb_uid: adb-1c40be5c6a68
 date: 2025-09-03
 rating: [2.4, 0.6, 0.7, 0.3, 0.5, 0.3]
 price: 43350
@@ -12,7 +13,6 @@ summary: "ドングル型としては世界初となる1ビット・ディスク
 tags: [DAC, ヘッドホンアンプ, ポータブル, USB, DSD]
 permalink: /products/ja/cayin-ru7/
 ---
-
 ## 概要
 
 Cayin RU7は、世界初のドングル型1ビット・ディスクリートレジスタDAC技術を採用したUSB DAC/ヘッドホンアンプドングルです。価格は289 USD相当で、RU6の経験を活かしたRシリーズの最新製品です。128個の高精度薄膜抵抗器による完全バランスのディスクリート構成を採用し、PCMは32ビット/384kHz、ネイティブDSDはDSD256までサポートします。サイズは66×24×12 mm、重量は**25 g**です。革新的な一方で、より強力かつ安価な代替製品との競争が厳しい状況です。

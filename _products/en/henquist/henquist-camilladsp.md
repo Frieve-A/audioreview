@@ -5,6 +5,7 @@ target_name: "Henrik Enquist CamillaDSP"
 company_id: henquist
 lang: en
 ref: henquist-camilladsp
+audiodb_uid: adb-1b64e7b15265
 date: 2025-10-11
 rating: [4.1, 0.8, 0.7, 1.0, 0.7, 0.9]
 price: 0

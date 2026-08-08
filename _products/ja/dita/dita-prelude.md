@@ -5,6 +5,7 @@ target_name: "DITA Prelude"
 company_id: dita
 lang: ja
 ref: dita-prelude
+audiodb_uid: adb-f755f3756442
 date: 2025-10-16
 rating: [2.1, 0.5, 0.6, 0.3, 0.4, 0.3]
 price: 23500

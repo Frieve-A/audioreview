@@ -5,6 +5,7 @@ target_name: "Revel F328Be"
 company_id: revel
 lang: en
 ref: revel-f328be
+audiodb_uid: adb-fa2a0257bf27
 date: 2025-11-01
 rating: [4.6, 0.8, 1.0, 1.0, 0.8, 1.0]
 price: 19600

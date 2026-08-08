@@ -5,6 +5,7 @@ target_name: "HEDD Audio Type 07 MK2"
 company_id: hedd-audio
 lang: en
 ref: hedd-audio-type-07-mk2
+audiodb_uid: adb-469c93c4503b
 date: 2025-12-02
 rating: [4.1, 0.5, 0.9, 1.0, 0.8, 0.9]
 price: 1690
@@ -12,7 +13,6 @@ summary: "Active studio monitor with hand-built AMT tweeter technology, comprehe
 tags: [Speakers, Studio-Monitor, Active-Speaker, AMT, DSP]
 permalink: /products/en/hedd-audio-type-07-mk2/
 ---
-
 ## Overview
 
 The HEDD Audio Type 07 MK2 is a 2-way active studio monitor designed for professional and home studio environments, featuring a 7-inch woofer paired with HEDD's signature hand-built Air Motion Transformer (AMT) tweeter. Founded in 2015 by Klaus Heinz (former ADAM Audio founder) and his son Frederik Knop, HEDD Audio continues the legacy of AMT technology refinement established over decades of experience. The Type 07 MK2 incorporates 32-bit SHARC DSP processing, comprehensive connectivity including both analog XLR and digital AES/EBU inputs with pass-through, and advanced user tuning capabilities. Manufactured in Berlin with each unit individually tested, the monitor represents HEDD's commitment to precision audio reproduction through scientific measurement-based development approaches. The product is sold as individual single units, with US market pricing at 1,690 USD per pair.

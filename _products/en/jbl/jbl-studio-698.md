@@ -5,6 +5,7 @@ target_name: "JBL Studio 698"
 company_id: jbl
 lang: en
 ref: jbl-studio-698
+audiodb_uid: adb-0ace3ad30b92
 date: 2025-08-27
 rating: [3.5, 0.6, 0.6, 1.0, 0.7, 0.6]
 price: 1998

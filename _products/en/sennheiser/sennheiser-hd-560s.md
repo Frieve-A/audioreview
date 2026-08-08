@@ -5,6 +5,7 @@ target_name: "Sennheiser Sennheiser HD 560S"
 company_id: sennheiser
 lang: en
 ref: sennheiser-hd-560s
+audiodb_uid: adb-9987c65e2302
 date: 2026-02-02
 rating: [4.0, 0.7, 0.7, 1.0, 0.7, 0.9]
 price: 199.99

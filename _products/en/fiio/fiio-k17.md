@@ -5,6 +5,7 @@ target_name: "FiiO K17"
 company_id: fiio
 lang: en
 ref: fiio-k17
+audiodb_uid: adb-19f102a8f57a
 date: 2026-02-16
 rating: [4.2, 0.8, 0.9, 1.0, 0.6, 0.9]
 price: 949
@@ -12,7 +13,6 @@ summary: "Desktop DAC/headphone amplifier with flagship AKM chips and discrete a
 tags: [desktop, dac, headphone-amplifier, balanced-output, parametric-eq]
 permalink: /products/en/fiio-k17/
 ---
-
 ## Overview
 
 The FiiO K17 represents the company's flagship desktop DAC and headphone amplifier, positioning itself as the successor to the popular K9 Pro. Featuring dual AK4499EX DACs with AK4191 digital filter, discrete Class AB amplification delivering 4000mW+4000mW balanced output, and comprehensive connectivity including streaming capabilities. The unit integrates 31-band parametric EQ processing and a 3.93-inch touchscreen interface, targeting audiophiles seeking an all-in-one desktop solution. At 949 USD, the K17 enters the premium desktop audio market with advanced streaming capabilities, network connectivity, and FiiO's most sophisticated desktop implementation to date. The device builds upon the company's established reputation in portable and desktop audio solutions.

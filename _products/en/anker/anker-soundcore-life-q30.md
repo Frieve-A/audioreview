@@ -5,6 +5,7 @@ target_name: "Anker Soundcore Life Q30"
 company_id: anker
 lang: en
 ref: anker-soundcore-life-q30
+audiodb_uid: adb-d34390f7f0b0
 date: 2025-09-30
 rating: [3.3, 0.3, 0.4, 1.0, 0.7, 0.9]
 price: 79.99
@@ -12,7 +13,6 @@ summary: "Budget wireless ANC headphones with good cost-performance, rational de
 tags: [Headphones, ANC, Wireless, Budget, Consumer]
 permalink: /products/en/anker-soundcore-life-q30/
 ---
-
 ## Overview
 
 The Anker Soundcore Life Q30 represents a consumer-focused approach to wireless active noise cancelling headphones, positioned in the budget segment at 79.99 USD. Featuring hybrid ANC technology with three customizable modes, 40-hour battery life with ANC enabled (60-hour without ANC), and Hi-Res Audio certification, the Q30 targets users seeking comprehensive functionality at an accessible price point. The product incorporates Bluetooth 5.0 connectivity, multipoint pairing, extensive EQ customization through the Soundcore app, and both wired and wireless operation modes.

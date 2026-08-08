@@ -5,6 +5,7 @@ target_name: "ZiSin Vermilion Flame"
 company_id: zisin
 lang: ja
 ref: zisin-vermilion-flame
+audiodb_uid: adb-3842fdab5652
 date: 2026-06-08
 rating: [1.4, 0.5, 0.1, 0.2, 0.4, 0.2]
 price: 15900

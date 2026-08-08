@@ -5,6 +5,7 @@ target_name: "Edifier S880DB MKII"
 company_id: edifier
 lang: en
 ref: edifier-s880db-mkii
+audiodb_uid: adb-bfaf0790274f
 date: 2025-09-19
 rating: [3.0, 0.5, 0.6, 0.9, 0.5, 0.5]
 price: 399.99

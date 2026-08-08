@@ -5,6 +5,7 @@ target_name: "MiniDSP MCHStreamer Kit"
 company_id: minidsp
 lang: en
 ref: minidsp-mchstreamer-kit
+audiodb_uid: adb-b910d7c4b729
 date: 2025-09-08
 rating: [3.6, 0.6, 0.9, 0.7, 0.4, 1.0]
 price: 105

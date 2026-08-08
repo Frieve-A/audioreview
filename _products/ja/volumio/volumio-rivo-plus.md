@@ -5,6 +5,7 @@ target_name: "Volumio Rivo+"
 company_id: volumio
 lang: ja
 ref: volumio-rivo-plus
+audiodb_uid: adb-265e2ee6b9be
 date: 2025-11-26
 rating: [2.0, 0.0, 0.7, 0.3, 0.7, 0.3]
 price: 209850
@@ -12,7 +13,6 @@ summary: "専用ASICやMEMSクロックなど高度なハードウェア機能�
 tags: [デジタルトランスポート, ネットワークストリーマー, Roon Ready, USB Audio, AES/EBU, S/PDIF, I2S]
 permalink: /products/ja/volumio-rivo-plus/
 ---
-
 ## 概要
 
 Volumio Rivo+は、Amlogic S905D3クアッドコアプロセッサ、2GB DDR4 RAM、USB DAC（768kHz/32bit、DSD256）、S/PDIF、AES/EBU、HDMI経由のI2Sを含む複数の高解像度デジタル出力を備えたプレミアムネットワークミュージックストリーマーおよびデジタルトランスポートです。デバイスにはデジタル出力生成用の専用ASIC回路、高品質MEMSクロック、Spotify Connect、TIDAL Connect、Qobuzを含む主要ストリーミングプラットフォームのサポートが含まれています。ユニットは包括的なアプリサポートとマルチルーム機能を備えたVolumo OSを実行します。[1][2]

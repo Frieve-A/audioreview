@@ -5,6 +5,7 @@ target_name: "Marantz M-CR612"
 company_id: marantz
 lang: en
 ref: marantz-m-cr612
+audiodb_uid: adb-dd028bc53880
 date: 2025-10-06
 rating: [3.5, 0.4, 0.7, 1.0, 0.8, 0.6]
 price: 650

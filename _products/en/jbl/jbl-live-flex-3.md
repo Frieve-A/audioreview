@@ -5,6 +5,7 @@ target_name: "JBL Live Flex 3"
 company_id: jbl
 lang: en
 ref: jbl-live-flex-3
+audiodb_uid: adb-bdfa444428de
 date: 2025-11-06
 rating: [2.3, 0.5, 0.6, 0.3, 0.6, 0.3]
 price: 169
@@ -12,7 +13,6 @@ summary: "True wireless earbuds with adaptive noise cancellation and innovative 
 tags: [Earbuds, True Wireless, Noise Cancellation, JBL, Bluetooth]
 permalink: /products/en/jbl-live-flex-3/
 ---
-
 ## Overview
 
 The JBL Live Flex 3 represents JBL's latest entry in the premium true wireless earbuds market, featuring adaptive noise cancellation and a distinctive 1.45-inch LED touchscreen case for direct control of volume, EQ, and noise cancellation modes. Launched in January 2024, these earbuds target consumers seeking comprehensive wireless audio solutions with extended battery life and advanced connectivity features. The product incorporates 12mm dynamic drivers, six-microphone array for wind noise reduction, and supports contemporary technologies including Bluetooth 5.3 with multi-point connectivity, spatial audio, and wireless charging. With IP54 water resistance and claimed 50-hour total battery life, the Live Flex 3 positions itself as a feature-rich option in the competitive TWS market.

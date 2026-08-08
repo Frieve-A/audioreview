@@ -5,6 +5,7 @@ target_name: "Lynx Studio Technology Mesa"
 company_id: lynx-studio-technology
 lang: en
 ref: lynx-studio-technology-mesa
+audiodb_uid: adb-848a58cf092a
 date: 2025-09-14
 rating: [3.1, 0.7, 0.8, 0.5, 0.4, 0.7]
 price: 2500

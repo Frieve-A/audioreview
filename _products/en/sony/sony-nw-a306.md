@@ -5,6 +5,7 @@ target_name: "Sony NW-A306"
 company_id: sony
 lang: en
 ref: sony-nw-a306
+audiodb_uid: adb-fb33d9f5cca3
 date: 2025-08-04
 rating: [2.6, 0.4, 0.5, 0.8, 0.4, 0.5]
 price: 240

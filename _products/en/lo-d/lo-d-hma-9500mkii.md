@@ -5,6 +5,7 @@ target_name: "Lo-D HMA-9500mkII"
 company_id: lo-d
 lang: en
 ref: lo-d-hma-9500mkii
+audiodb_uid: adb-7f7586788162
 date: 2025-07-21
 rating: [0.8, 0.2, 0.2, 0.2, 0.1, 0.1]
 price: 733

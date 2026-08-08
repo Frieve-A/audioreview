@@ -5,6 +5,7 @@ target_name: "Yamaha NS-SW500"
 company_id: yamaha
 lang: en
 ref: yamaha-ns-sw500
+audiodb_uid: adb-037808ac1373
 date: 2025-08-11
 rating: [2.4, 0.5, 0.4, 0.8, 0.4, 0.3]
 price: 550
@@ -12,7 +13,6 @@ summary: "10-inch A-YST II subwoofer with 250W power and 20Hz extension, but fac
 tags: [Subwoofer, Home Theater, Yamaha, A-YST II, Bass]
 permalink: /products/en/yamaha-ns-sw500/
 ---
-
 ## Overview
 
 The Yamaha NS-SW500 is a 10-inch powered subwoofer featuring the company's Advanced YST II (Yamaha Active Servo Technology) system. Released as part of Yamaha's NS-500 series, it delivers 250 watts of dynamic power and claims frequency response down to 20Hz. The front-firing design incorporates a cellulose pulp cone reinforced with carbon fiber and wood fiber, paired with Yamaha's Linear Port technology for reduced port noise [1].

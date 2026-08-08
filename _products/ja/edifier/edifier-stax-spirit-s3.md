@@ -5,6 +5,7 @@ target_name: "Edifier STAX Spirit S3"
 company_id: edifier
 lang: ja
 ref: edifier-stax-spirit-s3
+audiodb_uid: adb-e93887307a98
 date: 2025-09-06
 rating: [3.7, 0.7, 0.8, 0.8, 0.4, 1.0]
 price: 56799
@@ -12,7 +13,6 @@ summary: "ワイヤレス平面磁界型として測定で裏づけられた低�
 tags: [ヘッドホン, ワイヤレス, 平面磁界型, Bluetooth, オーバーイヤー]
 permalink: /products/ja/edifier-stax-spirit-s3/
 ---
-
 ## 概要
 
 89×70 mm平面磁界型ドライバー（EqualMass™）とSnapdragon Sound対応Bluetooth 5.2（マルチポイント）を採用します。定格駆動は80時間、質量329 g、定格周波数特性20 Hz–40 kHzです。

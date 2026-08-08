@@ -5,6 +5,7 @@ target_name: "Klipsch Heresy IV"
 company_id: klipsch
 lang: en
 ref: klipsch-heresy-iv
+audiodb_uid: adb-b22e1e3315ca
 date: 2025-09-18
 rating: [2.4, 0.3, 0.4, 0.6, 0.8, 0.3]
 price: 3198

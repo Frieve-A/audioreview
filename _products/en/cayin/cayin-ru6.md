@@ -5,6 +5,7 @@ target_name: "Cayin RU6"
 company_id: cayin
 lang: en
 ref: cayin-ru6
+audiodb_uid: adb-d7253caebd9a
 date: 2025-08-20
 rating: [2.0, 0.3, 0.7, 0.3, 0.5, 0.2]
 price: 249

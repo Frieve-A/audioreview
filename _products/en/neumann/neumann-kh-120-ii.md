@@ -5,6 +5,7 @@ target_name: "Neumann KH 120 II"
 company_id: neumann
 lang: en
 ref: neumann-kh-120-ii
+audiodb_uid: adb-fcc3d6740b7e
 date: 2025-07-28
 rating: [3.6, 0.6, 0.7, 0.7, 0.8, 0.8]
 price: 990
@@ -12,7 +13,6 @@ summary: "DSP-equipped nearfield monitor. Measurement performance is at industry
 tags: [Speakers, Monitor Speakers, DSP, Nearfield, Pro Audio]
 permalink: /products/en/neumann-kh-120-ii/
 ---
-
 ## Overview
 
 The Neumann KH 120 II is a DSP-equipped active nearfield monitor speaker developed by Neumann, the venerable German audio manufacturer. It features a 5.25-inch woofer and 1-inch tweeter in a bi-amplified configuration with a total output of 245W (145W woofer, 100W tweeter). With a frequency response of 44Hz-21kHz (±3dB) and maximum SPL capability of 116.8dB, it incorporates a DSP-controlled high-precision crossover and Mathematically Modelled Dispersion (MMD) waveguide technology. Designed for professional studio use, it also offers optional room correction functionality using the MA 1 measurement microphone system.

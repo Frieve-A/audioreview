@@ -5,6 +5,7 @@ target_name: "nwm ONE MBH001"
 company_id: nwm
 lang: en
 ref: nwm-one-mbh001
+audiodb_uid: adb-71b791f116b4
 date: 2025-09-12
 rating: [3.3, 0.5, 0.7, 1.0, 0.5, 0.6]
 price: 299
@@ -12,7 +13,6 @@ summary: "Open-ear headphones featuring NTT's proprietary PSZ sound leakage redu
 tags: [Open-ear, Wireless, Bluetooth, PSZ, NTT]
 permalink: /products/en/nwm-one-mbh001/
 ---
-
 ## Overview
 
 The nwm ONE MBH001 represents NTT sonority's entry into consumer audio with proprietary Personalized Sound Zone (PSZ) technology. This open-ear wireless headphone features a dual-driver system combining a 12mm tweeter and 35mm woofer, designed to minimize sound leakage through phase cancellation principles. Priced at 299 USD, the product leverages NTT's 50+ years of telecommunications and acoustic research to deliver what the company claims is superior sound containment compared to traditional open-ear designs. The headphones support Bluetooth 5.3 with multipoint connectivity, 20-hour battery life, and contemporary codec support including LC3 and LE Audio standards.

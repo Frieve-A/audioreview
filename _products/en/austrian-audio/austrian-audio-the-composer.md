@@ -5,6 +5,7 @@ target_name: "Austrian Audio The Composer"
 company_id: austrian-audio
 lang: en
 ref: austrian-audio-the-composer
+audiodb_uid: adb-0b514eb41483
 date: 2025-10-11
 rating: [2.6, 0.5, 0.6, 0.4, 0.6, 0.5]
 price: 2699

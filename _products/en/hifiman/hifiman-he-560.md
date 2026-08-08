@@ -5,6 +5,7 @@ target_name: "HiFiMAN HE-560"
 company_id: hifiman
 lang: en
 ref: hifiman-he-560
+audiodb_uid: adb-7660b520925a
 date: 2025-09-25
 rating: [1.8, 0.5, 0.4, 0.3, 0.3, 0.3]
 price: 229

@@ -5,6 +5,7 @@ target_name: "Xiaomi Sound Outdoor"
 company_id: xiaomi
 lang: en
 ref: xiaomi-sound-outdoor
+audiodb_uid: adb-fa0bc053d3eb
 date: 2026-06-07
 rating: [3.3, 0.5, 0.5, 1.0, 0.6, 0.7]
 price: 65

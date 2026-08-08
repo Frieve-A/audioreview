@@ -5,6 +5,7 @@ target_name: "Quloos QU02 USB Bridge"
 company_id: quloos
 lang: en
 ref: quloos-qu02-usb-bridge
+audiodb_uid: adb-46eec41c01d5
 date: 2025-08-25
 rating: [3.3, 0.5, 0.6, 1.0, 0.5, 0.7]
 price: 389.99
@@ -12,7 +13,6 @@ summary: "USB DDC with I2S (HDMI), AES/EBU, dual coaxial, and optical outputs. I
 tags: [USB Bridge, Digital Interface, I2S, SPDIF, AES/EBU, DSD512]
 permalink: /products/en/quloos-qu02-usb-bridge/
 ---
-
 ## Overview
 
 The QU02 converts USB to I2S (HDMI LVDS), AES/EBU, dual coaxial, and optical. It implements galvanic isolation on the USB side, an Amanero USB interface, dual Accusilicon AS338 oscillators, and DIP switches for I2S flag/polarity to maximize DAC compatibility[5]. Typical market price used for this review is 389.99 USD (non-sale list)[3].

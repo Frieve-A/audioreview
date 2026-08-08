@@ -5,6 +5,7 @@ target_name: "Zidoo UHD8000"
 company_id: zidoo
 lang: ja
 ref: zidoo-uhd8000
+audiodb_uid: adb-768413c97054
 date: 2026-06-07
 rating: [3.4, 0.7, 0.7, 0.9, 0.6, 0.5]
 price: 232345
@@ -12,7 +13,6 @@ summary: "8K HDR対応メディアプレーヤーにオーディオファイル�
 tags: [ネットワークストリーマー, DAC, メディアプレーヤー, 8K, Zidoo]
 permalink: /products/ja/zidoo-uhd8000/
 ---
-
 ## 概要
 
 Zidoo UHD8000は、深圳Zidoo Technologyが2024年に発売したフラッグシップモデルです。8K HDRメディア再生、ESS ES9069Q DACセクション（バランスXLR出力）、3.5インチSATA HDDベイ×2、Wi-Fi 6、ギガビットイーサネット、SACD ISO/DSD512対応、PCM 768kHz/32bitデコード、Roon Ready/Tidal Connect/Spotify Connectストリーミングを430mmラックフォーマットのアルミシャーシ1台に統合しています。価格は232,345円（1,499 USD）です [1][4]。

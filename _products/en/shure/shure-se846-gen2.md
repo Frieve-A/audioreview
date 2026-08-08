@@ -5,6 +5,7 @@ target_name: "Shure SE846 Gen2"
 company_id: shure
 lang: en
 ref: shure-se846-gen2
+audiodb_uid: adb-fc47f427bec2
 date: 2025-07-24
 rating: [3.3, 0.6, 0.8, 0.3, 0.9, 0.7]
 price: 899

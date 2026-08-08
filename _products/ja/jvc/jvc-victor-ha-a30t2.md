@@ -5,6 +5,7 @@ target_name: "JVC Victor HA-A30T2"
 company_id: jvc
 lang: ja
 ref: jvc-victor-ha-a30t2
+audiodb_uid: adb-a67cbce6460a
 date: 2025-08-21
 rating: [2.4, 0.5, 0.3, 0.8, 0.4, 0.4]
 price: 9900
@@ -12,7 +13,6 @@ summary: "JVCの最小サイズとされる完全ワイヤレスANC。マルチ�
 tags: [完全ワイヤレス, ノイズキャンセリング, Bluetooth 5.3, マルチポイント, IPX4]
 permalink: /products/ja/jvc-victor-ha-a30t2/
 ---
-
 ## 概要
 
 JVC Victor HA-A30T2は、アクティブノイズキャンセリング（ANC）とマルチポイント接続を備えたコンパクトな完全ワイヤレスです。Bluetooth 5.3（Class 1）、6 mmドライバー、最大27時間（イヤホン最大11時間＋ケース）の総再生時間、IPX4の防滴、アプリによるキー割り当て・サウンドモード設定に対応します。国内公式価格は9,900円です。コーデックはSBC/AACのみが公表されています。 [1][2][3]

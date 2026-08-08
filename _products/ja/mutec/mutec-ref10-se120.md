@@ -5,6 +5,7 @@ target_name: "Mutec REF10 SE120"
 company_id: mutec
 lang: ja
 ref: mutec-ref10-se120
+audiodb_uid: adb-1cb6eb73750f
 date: 2025-08-20
 rating: [3.2, 0.5, 0.8, 1.0, 0.7, 0.2]
 price: 748000
@@ -12,7 +13,6 @@ summary: "8系統ガルバニック絶縁出力とサブHz最適化電源を備�
 tags: [Reference Clock, Master Clock, Digital Audio, 10MHz, OCXO, Professional Audio]
 permalink: /products/ja/mutec-ref10-se120/
 ---
-
 ## 概要
 
 REF10 SE120は、特別選別OCXOとサブHz最適化の電源アーキテクチャを採用したMutecの最上位10 MHzリファレンスクロックです。メーカー公称で1 Hzオフセットにおける位相ノイズ < −120 dBc/Hz、BNC出力はガルバニック絶縁の8系統（50 Ω×2、75 Ω×6）を装備し、競合の正弦波方式に対してロック精度向上を狙った**方形波**出力を採用しています [1][2][3]。

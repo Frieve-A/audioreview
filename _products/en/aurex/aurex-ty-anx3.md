@@ -5,6 +5,7 @@ target_name: "Aurex TY-ANX3"
 company_id: aurex
 lang: en
 ref: aurex-ty-anx3
+audiodb_uid: adb-345e5aeed2a8
 date: 2025-09-02
 rating: [3.3, 0.3, 0.6, 1.0, 0.7, 0.7]
 price: 98
@@ -12,7 +13,6 @@ summary: "Vertical CD radio with Bluetooth TX/RX, SD/USB recording (MP3 only), a
 tags: [CD Radio, Bluetooth, Recording, Language Learning]
 permalink: /products/en/aurex-ty-anx3/
 ---
-
 ## Overview
 The Aurex TY-ANX3 is a slim vertical CD radio that integrates CD/AM/FM, Bluetooth **transmit & receive**, SD/USB, and study-friendly features. Playback supports FLAC/WAV (up to 96 kHz/24-bit), while **recording to SD/USB is MP3 only (up to 192 kbps)**. Bluetooth is **v5.3 with A2DP/AVRCP**, and A-B repeat plus 0.5–1.5× (11 steps) speed control are included[1]. Release date: **October 18, 2024**[2]. Current market price hovers around **98 USD**[3].
 

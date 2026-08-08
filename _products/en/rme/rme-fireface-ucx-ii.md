@@ -5,6 +5,7 @@ target_name: "RME Fireface UCX II"
 company_id: rme
 lang: en
 ref: rme-fireface-ucx-ii
+audiodb_uid: adb-064a104fe399
 date: 2025-08-25
 rating: [4.2, 0.8, 0.9, 0.6, 0.9, 1.0]
 price: 1259

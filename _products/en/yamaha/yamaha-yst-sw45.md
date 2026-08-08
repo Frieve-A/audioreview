@@ -5,6 +5,7 @@ target_name: "Yamaha YST-SW45"
 company_id: "yamaha"
 lang: "en"
 ref: "yamaha-yst-sw45"
+audiodb_uid: adb-0be4e5c45839
 date: 2025-08-30
 rating: [2.4, 0.4, 0.4, 1.0, 0.2, 0.4]
 price: 75
@@ -12,7 +13,6 @@ summary: "An old 8-inch Yamaha sub now only found used. Official specs list 30�
 tags: [Subwoofer, Yamaha, Discontinued, YST, 8-inch]
 permalink: /products/en/yamaha-yst-sw45/
 ---
-
 ## Overview
 
 A compact 8-inch powered subwoofer from decades ago, the YST-SW45 survives on the used market. Yamaha’s Advanced YST with ANIC is the headline technology. Official specs are modest, and there are no credible current bench tests. At very low used prices it can make sense as a “first bass” add-on for small rooms; otherwise, newer budget subs are safer choices.

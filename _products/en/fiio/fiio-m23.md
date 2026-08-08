@@ -5,6 +5,7 @@ target_name: "FiiO M23"
 company_id: fiio
 lang: en
 ref: fiio-m23
+audiodb_uid: adb-e96714e3a02c
 date: 2025-08-20
 rating: [3.4, 0.8, 0.7, 0.6, 0.7, 0.6]
 price: 720

@@ -5,6 +5,7 @@ target_name: "Sennheiser HD 25"
 company_id: sennheiser
 lang: ja
 ref: sennheiser-hd-25
+audiodb_uid: adb-e9853c9e47e4
 date: 2026-04-28
 rating: [2.7, 0.3, 0.3, 0.7, 0.8, 0.6]
 price: 22490

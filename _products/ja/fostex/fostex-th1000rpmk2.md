@@ -5,6 +5,7 @@ target_name: "Fostex TH1000RPmk2"
 company_id: fostex
 lang: ja
 ref: fostex-th1000rpmk2
+audiodb_uid: adb-cec557a0657a
 date: 2025-11-11
 rating: [2.3, 0.5, 0.6, 0.4, 0.6, 0.2]
 price: 315000

@@ -5,6 +5,7 @@ target_name: "Philips TAT1209"
 company_id: philips
 lang: en
 ref: philips-tat1209
+audiodb_uid: adb-7ffbfdd2315f
 date: 2025-12-18
 rating: [2.5, 0.5, 0.4, 0.2, 0.8, 0.6]
 price: 51
@@ -12,7 +13,6 @@ summary: "Budget true wireless earbuds with Bluetooth 5.3 and contemporary featu
 tags: [Earphones, True Wireless, Budget, Bluetooth]
 permalink: /products/en/philips-tat1209/
 ---
-
 ## Overview
 
 The Philips TAT1209BK/00 represents the company's entry-level true wireless earbud offering, featuring contemporary Bluetooth 5.3 connectivity and comprehensive basic functionality for budget-conscious consumers. The product incorporates 10mm dynamic drivers, IPX4 water resistance, and 18 hours total battery life through a combination of 6-hour earbud capacity plus 12 additional hours from the charging case. Notable features include AI Clear Call noise reduction for voice calls, dynamic bass boost functionality, low-latency game mode, and touch-based controls with voice assistant compatibility. The earbuds support SBC audio codec and provide USB-C charging with fast charging capability delivering 1 hour of playback from 15 minutes charging time.

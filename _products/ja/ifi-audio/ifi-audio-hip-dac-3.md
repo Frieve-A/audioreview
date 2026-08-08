@@ -5,6 +5,7 @@ target_name: "iFi Audio Hip DAC 3"
 company_id: ifi-audio
 lang: ja
 ref: ifi-audio-hip-dac-3
+audiodb_uid: adb-42d8ef5a5f79
 date: 2025-08-15
 rating: [2.5, 0.5, 0.4, 0.4, 0.7, 0.5]
 price: 35200
@@ -12,7 +13,6 @@ summary: "有線特化のポータブルDAC/アンプ。測定値は平均的で
 tags: [DAC, アンプ, ポータブル, USB-C, バランス, MQA]
 permalink: /products/ja/ifi-audio-hip-dac-3/
 ---
-
 ## 概要
 
 iFi Audio Hip DAC 3は、敏感なIEM向けのiEMatch追加やUSB-Cデュアル端子化などを行った第3世代のポータブルDAC/アンプです。国内の代表的な実売価格は35,200円（Amazon）[3]で、PCM 384kHz/DSD256までに対応し、3.5mmシングルエンドと4.4mmバランス出力を備えます[1][2]。バッテリーは2,200mAhで、公称は約8時間（製品ページでは「最大12時間」との表記）です[1][2]。

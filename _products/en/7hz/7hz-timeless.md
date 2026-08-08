@@ -5,6 +5,7 @@ target_name: "7Hz Timeless"
 company_id: 7hz
 lang: en
 ref: 7hz-timeless
+audiodb_uid: adb-f3f8bd771eac
 date: 2025-07-06
 rating: [3.1, 0.8, 0.8, 0.3, 0.6, 0.6]
 price: 200
@@ -12,7 +13,6 @@ summary: "The 7Hz Timeless was a revolutionary 14.2mm planar magnetic IEM that s
 tags: [China, "In-ear monitors", Legacy-Product, Low-Distortion, "Planar magnetic", Revolutionary-Product]
 permalink: /products/en/7hz-timeless/
 ---
-
 ## Overview
 
 The 7Hz Timeless, released in 2021, was a landmark product that revolutionized the planar IEM market. Featuring a 14.2mm planar magnetic driver, it became the world's first practical planar IEM at the competitive price of USD220, taking the market by storm. With its 2mm ultra-thin diaphragm, 14.8Ω impedance, and 104dB sensitivity, it employs CNC aluminum housing and MMCX cable, supporting various terminations including 3.5mm, 2.5mm, and 4.4mm. The characteristic planar high-speed response and low distortion properties deliver excellent clarity and technical performance.

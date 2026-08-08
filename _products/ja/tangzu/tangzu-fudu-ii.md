@@ -5,6 +5,7 @@ target_name: "TANGZU FUDU II"
 company_id: tangzu
 lang: ja
 ref: tangzu-fudu-ii
+audiodb_uid: adb-9d1fa7473478
 date: 2025-11-24
 rating: [2.3, 0.5, 0.8, 0.2, 0.4, 0.4]
 price: 14700
@@ -12,7 +13,6 @@ summary: "競争的な価格帯で独自のQ-IAO Liteクロスオーバー技術
 tags: [ヘッドホン, イヤホン, ハイブリッド, TANGZU]
 permalink: /products/ja/tangzu-fudu-ii/
 ---
-
 ## 概要
 
 TANGZU FUDU IIは、1基のチタンダイアフラムダイナミックドライバーと2基のカスタムバランスアーマチュアユニットを搭載したハイブリッド型イヤホンです。99ドル（約14,700円）の価格で、TANGZUの上位システムから派生した独自のQ-IAO Liteクロスオーバー技術を採用しています。エボニー木材フェースプレート付きCNC加工真鍮筐体を特徴とし、中国の美学と現代のオーディオ技術を組み合わせたTANGZUの設計思想を表現しています。主なメーカー仕様として、1kHzにおける114.5dB感度、18Ωインピーダンス、20Hz-20kHz周波数範囲、0.78mm 2ピンケーブルインターフェースが挙げられます。

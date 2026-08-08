@@ -5,6 +5,7 @@ target_name: "ELAC Debut ConneX DCB61"
 company_id: elac
 lang: ja
 ref: elac-debut-connex-dcb61
+audiodb_uid: adb-979775386bcd
 date: 2025-07-08
 rating: [3.4, 0.6, 0.6, 0.7, 0.7, 0.8]
 price: 134850
@@ -12,7 +13,6 @@ summary: "ELAC Debut ConneX DCB61は899USDのアクティブスピーカーだ�
 tags: [アクティブスピーカー, デスクトップ, Bluetooth, ELAC]
 permalink: /products/ja/elac-debut-connex-dcb61/
 ---
-
 ## 概要
 
 ELAC Debut ConneX DCB61は、2025年に発表されたアクティブスピーカーシステムで、6.5インチウーファーと1.9cmソフトドーム・ツイーターを搭載し、それぞれ60Wおよび20WのクラスDアンプで駆動する。HDMI ARC、アナログ/フォノ、オプティカル、USB、Bluetoothなど多様な入力端子を備え、内蔵Dolby Digitalデコーディングにより映画鑑賞にも対応する。ドイツの老舗メーカーELACが手がけるDebut ConneXシリーズの上位モデルとして、899USDという価格設定で発売された。

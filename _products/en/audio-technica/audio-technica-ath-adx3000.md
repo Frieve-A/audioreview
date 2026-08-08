@@ -5,6 +5,7 @@ target_name: "Audio-Technica ATH-ADX3000"
 company_id: audio-technica
 lang: en
 ref: audio-technica-ath-adx3000
+audiodb_uid: adb-01f9a41dfac4
 date: 2025-09-03
 rating: [2.8, 0.6, 0.7, 0.3, 0.6, 0.6]
 price: 999
@@ -12,7 +13,6 @@ summary: "Open-back headphones offering flagship-level Core Mount Technology at 
 tags: [Open-back, Dynamic, Audiophile, High-end, Japan]
 permalink: /products/en/audio-technica-ath-adx3000/
 ---
-
 ## Overview
 
 The Audio-Technica ATH-ADX3000 represents the company's effort to democratize flagship-level open-back headphone technology. Based on the acclaimed ATH-ADX5000 design but priced at approximately half the cost, these headphones feature 58mm tungsten-coated drivers with Core Mount Technology and consumer-friendly 50-ohm impedance. Hand-assembled at Audio-Technica's Tokyo facility, the ATH-ADX3000 aims to deliver natural, uncolored sound reproduction through advanced driver positioning and lightweight construction at 257 grams.

@@ -5,6 +5,7 @@ target_name: "Moondrop ULTRASONIC"
 company_id: moondrop
 lang: ja
 ref: moondrop-ultrasonic
+audiodb_uid: adb-74f2de35c660
 date: 2025-08-07
 rating: [3.8, 0.7, 0.8, 0.9, 0.7, 0.7]
 price: 9900

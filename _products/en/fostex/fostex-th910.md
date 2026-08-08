@@ -5,6 +5,7 @@ target_name: "Fostex TH910"
 company_id: fostex
 lang: en
 ref: fostex-th910
+audiodb_uid: adb-6bef4f8f1c71
 date: 2025-12-05
 rating: [2.2, 0.5, 0.7, 0.0, 0.7, 0.3]
 price: 2799
@@ -12,7 +13,6 @@ summary: "Closed-back headphones featuring traditional Japanese craftsmanship an
 tags: [Headphones, Closed-back, Premium, Fostex]
 permalink: /products/en/fostex-th910/
 ---
-
 ## Overview
 
 The Fostex TH910 is a closed-back over-ear headphone released in early September 2025, succeeding the TH900 series. It features newly developed 50mm elements with improved edge design intended to deliver more stable amplitude characteristics. The construction combines lightweight magnesium alloy structural components with hard maple wood housing finished in traditional Japanese lacquer featuring a unique "foil ground pattern" using silver foil. Technical specifications include 25Ω impedance, 100 dB/mW sensitivity, and extended frequency response from 12.5Hz to 45kHz. At approximately 385g, the TH910 incorporates new ear pad design with two-layer memory foam and sheepskin materials for the headband and head pad.

@@ -5,6 +5,7 @@ target_name: "RME ADI-2 DAC FS"
 company_id: rme
 lang: ja
 ref: rme-adi-2-dac-fs
+audiodb_uid: adb-87da4efa6637
 date: 2025-07-30
 rating: [3.8, 0.9, 0.8, 0.4, 0.9, 0.8]
 price: 158400
@@ -12,7 +13,6 @@ summary: "優秀な測定性能と豊富な機能を持つプロ仕様DACだが�
 tags: [DAC, ヘッドホンアンプ, RME, プロオーディオ, ESS, ハイレゾ, DSD]
 permalink: /products/ja/rme-adi-2-dac-fs/
 ---
-
 ## 概要
 
 RME ADI-2 DAC FSは、ドイツの老舗プロオーディオメーカーRMEが開発したハイエンドDAC・ヘッドホンアンプ複合機です。ESS ES9028Q2M DACチップをベースにRME独自の回路設計を施し、768kHz PCMとDSD256対応、5バンドパラメトリックEQやクロスフィード機能など、プロ仕様の充実した機能を搭載しています。2020年のAKM工場火災以降はESS版に完全移行していますが、音質的な差異は僅少とされています。現在の日本市場価格は158,400円です。

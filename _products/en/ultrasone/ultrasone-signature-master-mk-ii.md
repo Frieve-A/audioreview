@@ -5,6 +5,7 @@ target_name: "Ultrasone Signature Master MK II"
 company_id: ultrasone
 lang: en
 ref: ultrasone-signature-master-mk-ii
+audiodb_uid: adb-52662561aa97
 date: 2025-08-08
 rating: [2.0, 0.5, 0.7, 0.1, 0.5, 0.2]
 price: 775

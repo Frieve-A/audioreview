@@ -5,6 +5,7 @@ target_name: "Pioneer TS-WH500A"
 company_id: pioneer
 lang: en
 ref: pioneer-ts-wh500a
+audiodb_uid: adb-d7802d2c700f
 date: 2025-09-09
 rating: [3.2, 0.5, 0.7, 0.8, 0.4, 0.8]
 price: 246
@@ -12,7 +13,6 @@ summary: "Compact HVT subwoofer with innovative space-saving design and above-av
 tags: [Pioneer, Subwoofer, HVT, Compact, Car Audio, Under-seat]
 permalink: /products/en/pioneer-ts-wh500a/
 ---
-
 ## Overview
 
 The Pioneer TS-WH500A is a compact powered subwoofer featuring proprietary HVT (Horizontal Vertical Transforming) technology designed for space-constrained automotive installations. Measuring just 60mm in height, this sealed active subwoofer incorporates dual 7"×4" oval drivers with surface area equivalent to an 8.25" conventional subwoofer. The unit delivers 50W RMS power with 150W peak output through its built-in Class D amplifier, targeting under-seat installation applications where traditional subwoofers cannot fit.

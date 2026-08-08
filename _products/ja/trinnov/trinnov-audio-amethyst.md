@@ -5,6 +5,7 @@ target_name: "Trinnov Audio Amethyst"
 company_id: trinnov-audio
 lang: ja
 ref: trinnov-audio-amethyst
+audiodb_uid: adb-87b32295a986
 date: 2025-07-14
 rating: [2.7, 0.7, 0.9, 0.1, 0.7, 0.3]
 price: 1500000
@@ -12,7 +13,6 @@ summary: "Trinnov Audio Amethystは高度なルームコレクション技術を
 tags: [ハイエンド, プリアンプ, ルームコレクション, ストリーマー, DAC]
 permalink: /products/ja/trinnov-audio-amethyst/
 ---
-
 ## 概要
 
 Trinnov Audio Amethystは、フランスのTrinnov Audioが開発したフラッグシップステレオプリアンプです。24bit/192kHz DAC、ネットワークレンダラー、高度なスピーカー/ルーム最適化システム「Trinnov Optimizer」を単一シャーシに統合した製品として位置づけられています。同社の15年にわたるプロフェッショナルオーディオ分野での経験を活かし、約2000のスタジオと約10000の高性能インストレーションで使用されている技術を民生用に応用しました。64ビット浮動小数点処理により320dB以上の分解能を実現し、デジタルボリュームコントロールでの信号損失を排除したと謳われています。

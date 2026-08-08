@@ -5,6 +5,7 @@ target_name: "WiiM Pro"
 company_id: wiim
 lang: en
 ref: wiim-pro
+audiodb_uid: adb-2c99484ba66a
 date: 2025-08-22
 rating: [3.4, 0.7, 0.5, 1.0, 0.5, 0.7]
 price: 149

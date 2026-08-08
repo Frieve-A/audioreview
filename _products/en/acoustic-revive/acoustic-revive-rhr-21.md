@@ -5,6 +5,7 @@ target_name: "Acoustic Revive RHR-21"
 company_id: acoustic-revive
 lang: en
 ref: acoustic-revive-rhr-21
+audiodb_uid: adb-af2393932f12
 date: 2025-08-25
 rating: [1.5, 0.1, 0.3, 0.2, 0.6, 0.3]
 price: 1500
@@ -12,7 +13,6 @@ summary: "Passive Helmholtz-type room device with manufacturer utility model cla
 tags: [Acoustic Treatment, Room Tuning, Passive Device, Helmholtz Resonator]
 permalink: /products/en/acoustic-revive-rhr-21/
 ---
-
 ## Overview
 
 The Acoustic Revive RHR-21 is a small passive “Acoustic Resolution Exciter” intended to improve room acoustics via Helmholtz resonance. Official specs list a cylinder of Ø51 mm × 164 mm and 876 g, with a utility model claim (2023-003995) and a list price cited at 1,499–1,500 USD per unit [3][4]. It requires no power and is positioned to mitigate standing waves by placement in corners or near speakers [3].

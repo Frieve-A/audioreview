@@ -5,6 +5,7 @@ target_name: "YAMAHA NS-460"
 company_id: yamaha
 lang: en
 ref: yamaha-ns-460
+audiodb_uid: adb-d1363066ade5
 date: 2025-07-21
 rating: [1.6, 0.3, 0.2, 0.5, 0.2, 0.4]
 price: 147
@@ -12,7 +13,6 @@ summary: "A 2-way bass reflex speaker released in the early 1980s featuring a 20
 tags: [Yamaha, Vintage, NS-460, 2-Way, Bass-Reflex]
 permalink: /products/en/yamaha-ns-460/
 ---
-
 ## Overview
 
 The YAMAHA NS-460 is a 2-way bass reflex bookshelf speaker released around 1981. It features a 20cm cone woofer with spruce cone and a 5cm radial tweeter for high frequencies. The tweeter utilized an innovative radial design with a 25μm acoustic titanium center dome and surrounding cone paper arranged in a roll configuration, representing advanced technology for its era. The enclosure featured a black pecan finish, providing a premium appearance for its price range. Stereo Sound magazine praised it as "a masterpiece that appeals to general audiences while satisfying audiophile ears."

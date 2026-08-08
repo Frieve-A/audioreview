@@ -5,6 +5,7 @@ target_name: "Klipsch Jubilee"
 company_id: klipsch
 lang: en
 ref: klipsch-jubilee
+audiodb_uid: adb-bd9feb180168
 date: 2025-09-19
 rating: [4.1, 0.5, 0.8, 1.0, 0.9, 0.9]
 price: 17500
@@ -12,7 +13,6 @@ summary: "Paul W. Klipsch's final project combining heritage horn-loading with m
 tags: [Speakers, Horn-Loaded, DSP, High-Efficiency, Heritage]
 permalink: /products/en/klipsch-jubilee/
 ---
-
 ## Overview
 
 The Klipsch Jubilee represents founder Paul W. Klipsch's final project - a fully horn-loaded two-way loudspeaker incorporating patented horn-loaded vented low frequency enclosure and external active DSP crossover network. Standing 69 inches tall and weighing 408 pounds each, these massive speakers deliver 105dB sensitivity with 18Hz-20kHz frequency response. Built in Hope, Arkansas using book-matched wood veneers, the Jubilee combines heritage horn-loading technology with contemporary DSP implementation for phase and time delay correction, targeting audiophiles seeking ultimate efficiency and output capability.

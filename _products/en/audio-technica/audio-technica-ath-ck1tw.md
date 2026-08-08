@@ -5,6 +5,7 @@ target_name: "Audio-Technica ATH-CK1TW"
 company_id: audio-technica
 lang: en
 ref: audio-technica-ath-ck1tw
+audiodb_uid: adb-1040ffcb0685
 date: 2025-12-01
 rating: [3.2, 0.5, 0.5, 0.8, 0.8, 0.6]
 price: 40
@@ -12,7 +13,6 @@ summary: "Budget true wireless earbuds with reliable Audio-Technica support but 
 tags: [True Wireless, Earbuds, Bluetooth, Budget, IPX5, IPX7]
 permalink: /products/en/audio-technica-ath-ck1tw/
 ---
-
 ## Overview
 
 The Audio-Technica ATH-CK1TW represents the company's entry into the budget true wireless earbuds market, launched in October 2021. Audio-Technica, established in 1962 with a history spanning six decades of transducer technology development, brings its traditional expertise to this competitive category. The ATH-CK1TW features 4.9mm dynamic drivers, Bluetooth 5.1 connectivity, IPX5/7 water resistance, and 21 hours of total battery life. While carrying the heritage of a respected audio manufacturer known for precision cartridges, microphones, and headphones, this product faces intense competition in the rapidly evolving true wireless segment where specifications and features advance quickly.

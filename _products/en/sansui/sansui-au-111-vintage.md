@@ -5,6 +5,7 @@ target_name: "Sansui AU-111 Vintage"
 company_id: sansui
 lang: en
 ref: sansui-au-111-vintage
+audiodb_uid: adb-882abe853e33
 date: 2025-07-21
 rating: [1.1, 0.1, 0.3, 0.1, 0.3, 0.3]
 price: 2000

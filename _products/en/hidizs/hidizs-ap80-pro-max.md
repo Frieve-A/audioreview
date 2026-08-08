@@ -5,6 +5,7 @@ target_name: "Hidizs AP80 Pro Max"
 company_id: hidizs
 lang: en
 ref: hidizs-ap80-pro-max
+audiodb_uid: adb-7f8bd05097ca
 date: 2025-12-03
 rating: [3.2, 0.7, 0.7, 1.0, 0.6, 0.2]
 price: 159

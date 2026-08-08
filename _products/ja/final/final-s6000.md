@@ -5,6 +5,7 @@ target_name: "final S6000"
 company_id: final
 lang: ja
 ref: final-s6000
+audiodb_uid: adb-8f8e55a62a83
 date: 2026-05-28
 rating: [2.6, 0.5, 0.5, 0.5, 0.8, 0.3]
 price: 93000

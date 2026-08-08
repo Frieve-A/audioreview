@@ -5,6 +5,7 @@ target_name: "EarFun Tune Pro"
 company_id: earfun
 lang: ja
 ref: earfun-tune-pro
+audiodb_uid: adb-0ef598d2894d
 date: 2025-07-22
 rating: [2.6, 0.3, 0.4, 1.0, 0.4, 0.5]
 price: 8990

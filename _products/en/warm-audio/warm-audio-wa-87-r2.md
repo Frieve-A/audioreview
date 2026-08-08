@@ -5,6 +5,7 @@ target_name: "Warm Audio WA-87 R2"
 company_id: warm-audio
 lang: en
 ref: warm-audio-wa-87-r2
+audiodb_uid: adb-9f46db3952ab
 date: 2025-11-05
 rating: [1.9, 0.3, 0.4, 0.2, 0.8, 0.2]
 price: 699

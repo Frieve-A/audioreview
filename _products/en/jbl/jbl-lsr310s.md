@@ -5,6 +5,7 @@ target_name: "JBL LSR310S"
 company_id: jbl
 lang: en
 ref: jbl-lsr310s
+audiodb_uid: adb-5855024d637f
 date: 2025-07-23
 rating: [3.8, 0.5, 0.7, 1.0, 0.8, 0.8]
 price: 265
@@ -12,7 +13,6 @@ summary: "JBL studio subwoofer featuring a 200W Class D amplifier and a 10-inch 
 tags: [Studio Subwoofer, JBL, Monitor Speaker, Nearfield]
 permalink: /products/en/jbl-lsr310s/
 ---
-
 ## Overview
 
 The JBL LSR310S is a studio subwoofer belonging to JBL's professional LSR series. It combines a 200W Class D amplifier with a 10-inch custom driver, and its down-firing design achieves a nominal low-frequency extension down to 27Hz. The XLF (Extended Low Frequency) setting also accommodates the ultra-low frequency tuning used in dance clubs. It is designed to build an accurate monitoring environment and is intended for seamless integration, especially with JBL's LSR monitor series.

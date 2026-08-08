@@ -5,6 +5,7 @@ target_name: "Creative Pebble X Plus"
 company_id: creative
 lang: ja
 ref: creative-pebble-x-plus
+audiodb_uid: adb-92fe7b7594fc
 date: 2025-09-03
 rating: [3.2, 0.4, 0.6, 0.6, 0.8, 0.8]
 price: 19500
@@ -12,7 +13,6 @@ summary: "RGB照明付きの2.1 USB-Cデスクトップスピーカー。フル�
 tags: [デスクトップスピーカー, コンピュータースピーカー, 2.1システム, RGB照明, USB-C]
 permalink: /products/ja/creative-pebble-x-plus/
 ---
-
 ## 概要
 
 Creative Pebble X Plusは、角度付きサテライトに2.75インチのフルレンジドライバー、3.5インチ・フラットキャップのサブウーファー（デュアルパッシブラジエーター）を備えた2.1デスクトップスピーカーです。USB-Cオーディオ、Bluetooth、3.5 mm AUXに対応し、RGB照明をカスタマイズできます。出力はPCのUSB-C接続で15 W RMS / 30 Wピーク、別売りの30 W以上USB-C PDアダプター使用時に30 W RMS / 60 Wピークです［1］。PebbleファミリーはBluetooth 5.3に対応します［2］。

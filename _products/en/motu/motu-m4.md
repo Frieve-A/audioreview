@@ -5,6 +5,7 @@ target_name: "MOTU M4"
 company_id: motu
 lang: en
 ref: motu-m4
+audiodb_uid: adb-896dac0d522c
 date: 2025-08-11
 rating: [4.1, 0.8, 0.8, 1.0, 0.6, 0.9]
 price: 270

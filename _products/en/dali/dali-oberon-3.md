@@ -5,6 +5,7 @@ target_name: "DALI OBERON 3"
 company_id: dali
 lang: en
 ref: dali-oberon-3
+audiodb_uid: adb-281ba91f4319
 date: 2025-07-08
 rating: [3.0, 0.7, 0.7, 0.3, 0.6, 0.7]
 price: 899
@@ -12,7 +13,6 @@ summary: "Entry-level bookshelf speakers from Danish manufacturer DALI. Features
 tags: ["Bookshelf speakers", DALI, Denmark, "SMC Technology", "Wood Fiber"]
 permalink: /products/en/dali-oberon-3/
 ---
-
 ## Overview
 
 The DALI OBERON 3 represents an entry-level bookshelf speaker developed by the veteran Danish speaker manufacturer DALI. The company's OBERON series aims to deliver upper-tier technologies at accessible prices, with the OBERON 3 serving as a core model in this lineup. Equipped with a 7-inch wood fiber structure woofer and 29mm soft dome tweeter, it achieves a 47Hz-26kHz frequency response. SMC (Soft Magnetic Composite) technology enables significant reduction in mechanical distortion. The compact 350×201×310mm cabinet utilizes high-density MDF construction and offers four finish options. With 6Ω/87dB specifications, it accommodates pairing with a wide range of amplifiers.

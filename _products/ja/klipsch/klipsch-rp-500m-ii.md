@@ -5,6 +5,7 @@ target_name: "Klipsch RP-500M II"
 company_id: klipsch
 lang: ja
 ref: klipsch-rp-500m-ii
+audiodb_uid: adb-454f313249f9
 date: 2025-07-09
 rating: [2.3, 0.3, 0.6, 0.4, 0.6, 0.4]
 price: 90915
@@ -12,7 +13,6 @@ summary: "Klipsch RP-500M IIは、5.25インチウーファーと1インチチ�
 tags: [ブックシェルフスピーカー, 2ウェイ, ホーンツイーター, 5.25インチウーファー, 高感度]
 permalink: /products/ja/klipsch-rp-500m-ii/
 ---
-
 ## 概要
 
 Klipsch RP-500M IIは2022年に発売されたReference Premiere第二世代の2ウェイブックシェルフスピーカーで、1インチチタニウムLTSベンテッドツイーターとより大型化されたHybrid Tractrixホーン、5.25インチCerametallic コーンウーファーを搭載し、70%大型化されたボイスコイルによる制御性・速度・精度の向上を実現している。実売価格439-499USD（ペア）で提供され、従来モデルからの改良により中音域の明瞭度と精度を向上させた製品として位置付けられる。

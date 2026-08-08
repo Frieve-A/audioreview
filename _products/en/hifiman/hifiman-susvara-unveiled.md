@@ -5,6 +5,7 @@ target_name: "HIFIMAN Susvara Unveiled"
 company_id: hifiman
 lang: en
 ref: hifiman-susvara-unveiled
+audiodb_uid: adb-2f80d8ea43ca
 date: 2025-12-03
 rating: [2.4, 0.5, 0.9, 0.0, 0.6, 0.4]
 price: 8000
@@ -12,7 +13,6 @@ summary: "Flagship planar magnetic headphones with innovative unveiled design an
 tags: [headphones, planar-magnetic, hifiman, flagship, open-back, unveiled]
 permalink: /products/en/hifiman-susvara-unveiled/
 ---
-
 ## Overview
 
 The HIFIMAN Susvara Unveiled represents the latest evolution of the company's flagship planar magnetic headphone line, introducing a revolutionary "unveiled" design that removes traditional protective grilles to minimize sound wave reflections. Released in 2024 at USD 8,000, this premium model features an 80mm planar magnetic driver with 1µm nano-thickness diaphragm, Stealth Magnet technology, and silver conductor materials. Compared to the original Susvara, the Unveiled model offers reduced impedance (45Ω vs 60Ω), increased sensitivity (86 dB/mW vs 83 dB/mW), and 20g weight reduction to 430g. The fully open-back design exposes bare drivers protected only by included Magnetic Veils when not in use, representing Dr. Fang Bian's commitment to pursuing acoustic transparency through innovative engineering approaches.

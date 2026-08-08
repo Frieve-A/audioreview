@@ -5,6 +5,7 @@ target_name: "KEF Q150"
 company_id: kef
 lang: en
 ref: kef-q150
+audiodb_uid: adb-2cc648922359
 date: 2025-07-18
 rating: [3.8, 0.7, 0.7, 0.8, 0.8, 0.8]
 price: 430

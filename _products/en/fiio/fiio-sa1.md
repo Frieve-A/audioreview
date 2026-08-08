@@ -5,6 +5,7 @@ target_name: "FiiO SA1"
 company_id: fiio
 lang: en
 ref: fiio-sa1
+audiodb_uid: adb-9048aafc735c
 date: 2025-09-21
 rating: [3.0, 0.5, 0.6, 1.0, 0.4, 0.5]
 price: 199

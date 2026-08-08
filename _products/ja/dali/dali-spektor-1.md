@@ -5,6 +5,7 @@ target_name: "DALI Spektor 1"
 company_id: dali
 lang: ja
 ref: dali-spektor-1
+audiodb_uid: adb-a5f86873b447
 date: 2025-08-07
 rating: [3.2, 0.7, 0.5, 0.9, 0.6, 0.5]
 price: 58800

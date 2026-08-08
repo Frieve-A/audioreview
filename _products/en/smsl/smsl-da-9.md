@@ -5,6 +5,7 @@ target_name: "SMSL DA-9"
 company_id: smsl
 lang: en
 ref: smsl-da-9
+audiodb_uid: adb-cab952bc21d4
 date: 2025-08-01
 rating: [3.3, 0.8, 0.7, 0.6, 0.6, 0.6]
 price: 250

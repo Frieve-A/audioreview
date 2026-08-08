@@ -5,6 +5,7 @@ target_name: "FiiO M3 Pro"
 company_id: fiio
 lang: en
 ref: fiio-m3-pro
+audiodb_uid: adb-7d331535fb13
 date: 2026-01-27
 rating: [3.9, 0.7, 0.5, 0.9, 0.8, 1.0]
 price: 80

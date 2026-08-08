@@ -5,6 +5,7 @@ target_name: "Anker Soundcore Motion+"
 company_id: anker
 lang: en
 ref: anker-soundcore-motion+
+audiodb_uid: adb-8cac857921f4
 date: 2025-09-20
 rating: [3.2, 0.3, 0.6, 1.0, 0.7, 0.6]
 price: 100
@@ -12,7 +13,6 @@ summary: "Portable Bluetooth speaker offering excellent cost-performance with 30
 tags: [Speakers, Portable, Bluetooth, Hi-Res, Waterproof, DSP]
 permalink: /products/en/anker-soundcore-motion+/
 ---
-
 ## Overview
 
 The Anker Soundcore Motion+ is a portable Bluetooth speaker designed to deliver Hi-Res Audio performance with comprehensive connectivity features. Equipped with dual ultra-high frequency tweeters extending to 40kHz, neodymium woofers, and passive radiators, the Motion+ provides 30W of total output power. The speaker incorporates Qualcomm aptX codec support, advanced DSP processing, and Anker's proprietary BassUp technology for real-time bass enhancement. With IPX7 waterproof rating and 12-hour battery life, the Motion+ targets users seeking portable audio solutions with premium features at accessible pricing.

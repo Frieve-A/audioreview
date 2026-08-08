@@ -5,6 +5,7 @@ target_name: "TRN EMX"
 company_id: trn
 lang: en
 ref: trn-emx
+audiodb_uid: adb-2c222d41cdd1
 date: 2026-05-23
 rating: [2.5, 0.5, 0.2, 1.0, 0.5, 0.3]
 price: 39.8
@@ -12,7 +13,6 @@ summary: "A flathead earbud using conventional dynamic driver technology with no
 tags: [Earphones, Earbud, Budget, Open-Back]
 permalink: /products/en/trn-emx/
 ---
-
 ## Overview
 
 The TRN EMX is TRN's flagship flathead earbud, released September 2022 at 39.80 USD [1][2]. It uses a 14.2mm dynamic driver with a beryllium-coated diaphragm in a five-axis CNC-machined aluminum alloy shell. The included EZ-Swap modular cable provides 3.5mm SE, 2.5mm balanced, and 4.4mm balanced termination options, all in the box [1]. TRN (Dongguan Zuodu Acoustic Technology Co., Ltd.) is a Chinese audio manufacturer producing IEMs and earphones across the budget-to-mid-range segment. The EMX targets listeners who specifically prefer the open, non-sealing flat-head earbud form factor.

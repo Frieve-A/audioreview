@@ -5,6 +5,7 @@ target_name: "Apple AirPods Max"
 company_id: apple
 lang: ja
 ref: apple-airpods-max
+audiodb_uid: adb-572448b1de82
 date: 2025-12-08
 rating: [2.6, 0.4, 0.8, 0.5, 0.5, 0.4]
 price: 84800

@@ -5,6 +5,7 @@ target_name: "Pioneer SC-LX59"
 company_id: pioneer
 lang: ja
 ref: pioneer-sc-lx59
+audiodb_uid: adb-6ae152285ce1
 date: 2025-07-24
 rating: [1.8, 0.2, 0.3, 1.0, 0.1, 0.2]
 price: 61800

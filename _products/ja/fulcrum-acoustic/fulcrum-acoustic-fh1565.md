@@ -5,6 +5,7 @@ target_name: "Fulcrum Acoustic FH1565"
 company_id: fulcrum-acoustic
 lang: ja
 ref: fulcrum-acoustic-fh1565
+audiodb_uid: adb-f3aa397dddc8
 date: 2025-08-13
 rating: [3.2, 0.5, 0.6, 0.8, 0.6, 0.7]
 price: 525000
@@ -12,7 +13,6 @@ summary: "60° x 45°のカバレッジパターンを持つプロフェッシ�
 tags: [Professional Audio, Coaxial Speakers, Horn Loaded, Installation, DSP]
 permalink: /products/ja/fulcrum-acoustic-fh1565/
 ---
-
 ## 概要
 
 Fulcrum Acoustic FH1565は、プロフェッショナル設備用途向けの2ウェイ高感度同軸ホーンスピーカーです。3.5インチVCの15インチウーファーと4インチダイアフラムのコンプレッションドライバーを組み合わせ、60° x 45°の定義済みカバレッジで、400 Hz未満までのパターンコントロールと54 Hz–20 kHzの動作範囲（メーカー仕様）を示します [1][2]。コンパクトな台形エンクロージャーは垂直・水平アレイに対応し、礼拝所、スポーツ施設、劇場、ナイトクラブなどの設備に適します。最適化には外部DSPが必須です（メーカー）[2]。

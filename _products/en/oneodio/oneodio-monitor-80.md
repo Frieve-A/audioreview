@@ -5,6 +5,7 @@ target_name: "OneOdio Monitor 80"
 company_id: oneodio
 lang: en
 ref: oneodio-monitor-80
+audiodb_uid: adb-6318b8084288
 date: 2026-01-09
 rating: [2.3, 0.5, 0.3, 1.0, 0.2, 0.3]
 price: 99.99
@@ -12,7 +13,6 @@ summary: "Open-back monitoring headphones with 40mm neodymium drivers, represent
 tags: [Headphones, Open-back, Monitoring, Professional, Wired]
 permalink: /products/en/oneodio-monitor-80/
 ---
-
 ## Overview
 
 OneOdio Monitor 80 represents the company's entry into professional monitoring headphones, featuring an open-back design with 40mm neodymium drivers [1]. Marketed for studio applications, the headphones include dual detachable cables and claim professional-grade audio reproduction [1]. At 99.99 USD, the Monitor 80 targets budget-conscious professionals and enthusiasts seeking monitoring capabilities without premium pricing [1].

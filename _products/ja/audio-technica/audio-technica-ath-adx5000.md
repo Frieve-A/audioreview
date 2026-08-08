@@ -5,6 +5,7 @@ target_name: "Audio-Technica ATH-ADX5000"
 company_id: audio-technica
 lang: ja
 ref: audio-technica-ath-adx5000
+audiodb_uid: adb-606be6470651
 date: 2025-07-26
 rating: [2.5, 0.4, 0.8, 0.1, 0.7, 0.5]
 price: 208500

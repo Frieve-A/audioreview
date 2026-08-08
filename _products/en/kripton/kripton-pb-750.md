@@ -5,6 +5,7 @@ target_name: "Kripton PB-750"
 company_id: kripton
 lang: en
 ref: kripton-pb-750
+audiodb_uid: adb-35636ee08660
 date: 2025-08-31
 rating: [1.5, 0.2, 0.4, 0.2, 0.4, 0.3]
 price: 550
@@ -12,7 +13,6 @@ summary: "High-priced 8-outlet audio power conditioner with 3-circuit filtering,
 tags: [Power conditioner, Audio accessory, Power filtering, Surge protection]
 permalink: /products/en/kripton-pb-750/
 ---
-
 ## Overview
 
 The Kripton PB-750 is an 8-outlet audio power conditioner featuring three separate filtered circuits for different equipment types: Digital (2 outlets for PCs, DACs, NAS), Low Power (4 outlets for preamps, CD players), and High Power (2 outlets for power amplifiers). Released in October 2023, this Japan-made unit inherits design ideas from Kripton’s higher-end PB-HR3000 and employs a rhodium-plated AC inlet and OFC internal wiring. The manufacturer claims -40dB filtering at 100kHz/10MHz [1]. The PB-750 won the Grand Prix at the Audio Accessory Excellence Awards 2024 [2].

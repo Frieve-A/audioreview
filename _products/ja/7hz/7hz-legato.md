@@ -5,6 +5,7 @@ target_name: "7Hz Legato"
 company_id: 7hz
 lang: ja
 ref: 7hz-legato
+audiodb_uid: adb-bd8b788efb26
 date: 2026-04-04
 rating: [1.8, 0.4, 0.3, 0.2, 0.4, 0.5]
 price: 16350

@@ -5,6 +5,7 @@ target_name: "IK Multimedia iLoud MTM MKII"
 company_id: ik-multimedia
 lang: ja
 ref: ik-multimedia-iloud-mtm-mkii
+audiodb_uid: adb-9665b782fa61
 date: 2025-07-31
 rating: [3.7, 0.7, 0.7, 0.9, 0.5, 0.9]
 price: 120000
@@ -12,7 +13,6 @@ summary: "コンパクトサイズに先進的なARC自動校正システムを�
 tags: [スタジオモニター, アクティブスピーカー, ルーム補正, MTM, コンパクト]
 permalink: /products/ja/ik-multimedia-iloud-mtm-mkii/
 ---
-
 ## 概要
 
 IK Multimedia iLoud MTM MKIIは、先進的なARC（Automatic Room Correction）システムを内蔵したコンパクトなアクティブスタジオモニターです。MTM（Midwoofer-Tweeter-Midwoofer）構成により2基の3.5インチウーファーと1基の1インチツイーターを搭載し、100WのClass-Dバイアンプシステムで駆動されます。従来モデルからDSPの処理能力を2倍に向上させ、より効率的なドライバーを採用することで、小型ながら本格的なスタジオモニタリング性能を実現しています。付属のARC測定マイクロフォンによる4点測定でルーム音響特性を自動補正し、X-MONITORソフトウェアによる他社有名モニターのエミュレーション機能も搭載しています。

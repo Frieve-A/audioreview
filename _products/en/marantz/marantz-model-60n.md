@@ -5,6 +5,7 @@ target_name: "Marantz Model-60n"
 company_id: marantz
 lang: en
 ref: marantz-model-60n
+audiodb_uid: adb-e0cf5ff15d94
 date: 2025-08-04
 rating: [4.0, 0.7, 0.7, 1.0, 0.8, 0.8]
 price: 1190

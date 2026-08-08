@@ -5,6 +5,7 @@ target_name: "AKG K872"
 company_id: akg
 lang: en
 ref: akg-k872
+audiodb_uid: adb-5f891da487d5
 date: 2025-09-16
 rating: [2.3, 0.5, 0.6, 0.1, 0.7, 0.4]
 price: 999
@@ -12,7 +13,6 @@ summary: "Professional closed-back headphones with extended frequency response a
 tags: [Headphones, Professional, Studio, Closed-back, Reference]
 permalink: /products/en/akg-k872/
 ---
-
 ## Overview
 
 The AKG K872 represents the culmination of nearly 70 years of Austrian expertise in professional audio transducer design. Positioned as master reference closed-back headphones for critical listening applications including mastering, the K872 features custom 53mm drivers with 1.5 Tesla magnet systems and proprietary two-layer copper-covered aluminum voice coils. Building upon AKG's established professional headphone heritage, these headphones target demanding studio environments where isolation and accuracy are paramount. The K872 delivers extended frequency response from 5Hz to 54kHz with high sensitivity and low distortion specifications, representing AKG's flagship closed-back offering for professional audio applications.

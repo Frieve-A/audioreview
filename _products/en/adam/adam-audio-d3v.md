@@ -5,6 +5,7 @@ target_name: "adam Adam Audio D3V"
 company_id: adam
 lang: en
 ref: adam-audio-d3v
+audiodb_uid: adb-a19e559cc36c
 date: 2026-02-16
 rating: [4.2, 0.7, 0.8, 1.0, 0.7, 1.0]
 price: 349.99

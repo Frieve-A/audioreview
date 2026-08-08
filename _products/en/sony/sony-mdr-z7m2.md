@@ -5,6 +5,7 @@ target_name: "Sony MDR-Z7M2"
 company_id: sony
 lang: en
 ref: sony-mdr-z7m2
+audiodb_uid: adb-2d76f0da2f9c
 date: 2025-08-20
 rating: [2.3, 0.5, 0.7, 0.2, 0.6, 0.3]
 price: 550

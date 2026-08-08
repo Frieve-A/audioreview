@@ -5,6 +5,7 @@ target_name: "Denafrips Ares 15th"
 company_id: denafrips
 lang: en
 ref: denafrips-ares-15th
+audiodb_uid: adb-068ffa212153
 date: 2025-08-10
 rating: [2.0, 0.6, 0.3, 0.2, 0.7, 0.2]
 price: 1199
@@ -12,7 +13,6 @@ summary: "R2R DAC with proprietary architecture offering analog flavor but limit
 tags: [DAC, R2R, Denafrips, Digital-to-Analog-Converter, Balanced]
 permalink: /products/en/denafrips-ares-15th/
 ---
-
 ## Overview
 
 The Denafrips Ares 15th is the anniversary edition of the company's entry-level R2R ladder DAC, featuring proprietary R2R + DSD architecture with true balanced 24-bit R2R + 6-bit DSD implementation. Released in late 2024, this Singapore-manufactured DAC represents an evolution from the previous Ares II with improved build quality, additional I2S input, and refined circuitry. The unit supports high-resolution formats up to DSD1024 and PCM1536 via USB, targeting audiophiles seeking R2R topology at the sub-1200 USD price point.

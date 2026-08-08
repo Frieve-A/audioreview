@@ -5,6 +5,7 @@ target_name: "Apple EarPods USB-C"
 company_id: apple
 lang: ja
 ref: apple-earpods-usb-c
+audiodb_uid: adb-ed9c465a8768
 date: 2025-07-19
 rating: [1.4, 0.3, 0.2, 0.4, 0.3, 0.2]
 price: 2780

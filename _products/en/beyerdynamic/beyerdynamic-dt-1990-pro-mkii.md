@@ -5,6 +5,7 @@ target_name: "beyerdynamic DT 1990 PRO MKII"
 company_id: beyerdynamic
 lang: en
 ref: beyerdynamic-dt-1990-pro-mkii
+audiodb_uid: adb-756d2aaa9ae9
 date: 2025-09-02
 rating: [3.7, 0.8, 0.8, 0.6, 0.7, 0.8]
 price: 699
@@ -12,7 +13,6 @@ summary: "Professional open-back studio headphones with TESLA.45 driver technolo
 tags: [Headphones, Open-back, Studio, Professional, TESLA, beyerdynamic]
 permalink: /products/en/beyerdynamic-dt-1990-pro-mkii/
 ---
-
 ## Overview
 
 The beyerdynamic DT 1990 PRO MKII is the second generation of the acclaimed DT 1990 PRO studio headphone. Launched in late 2024, this premium open-back model introduces the TESLA.45 driver and a reduced nominal impedance (30 Ω), targeting critical production work—mixing, mastering, and detailed editing—while maintaining German build quality [4].

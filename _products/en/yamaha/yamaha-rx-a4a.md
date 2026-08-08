@@ -5,6 +5,7 @@ target_name: "Yamaha RX-A4A"
 company_id: yamaha
 lang: en
 ref: yamaha-rx-a4a
+audiodb_uid: adb-cac8189a3669
 date: 2025-07-27
 rating: [3.5, 0.8, 0.7, 0.5, 0.8, 0.7]
 price: 917
@@ -12,7 +13,6 @@ summary: "7.2ch AV receiver featuring ESS SABRE DAC. Excellent measurement perfo
 tags: [AV Receiver, Dolby Atmos, 8K Support, HDMI 2.1]
 permalink: /products/en/yamaha-rx-a4a/
 ---
-
 ## Overview
 
 The Yamaha RX-A4A is a 7.2-channel AV receiver from the AVENTAGE series. It features an ESS SABRE ES9007S Premier Audio DAC and is equipped with 7 inputs and 3 outputs of 8K/4K120Hz compatible HDMI 2.1 terminals. It delivers 110W per channel (8Ω, 20Hz-20kHz, 2-channel driven, 0.06% THD) and supports Dolby Atmos and DTS:X. The unit incorporates 64-bit high-precision processing with Qualcomm QCS407 and automatic sound field correction via YPAO R.S.C., while also enabling multi-room playback through MusicCast compatibility.

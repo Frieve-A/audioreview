@@ -5,6 +5,7 @@ target_name: "Harbeth Super HL5 Plus XD"
 company_id: harbeth
 lang: ja
 ref: harbeth-super-hl5-plus-xd
+audiodb_uid: adb-a275577dcb7c
 date: 2025-08-13
 rating: [2.5, 0.5, 0.5, 0.3, 0.8, 0.4]
 price: 1210000
@@ -12,7 +13,6 @@ summary: "伝統的なBBC設計思想を持つ大型モニタースピーカー�
 tags: [Monitor, Bookshelf, BBC, Passive, Traditional]
 permalink: /products/ja/harbeth-super-hl5-plus-xd/
 ---
-
 ## 概要
 
 Harbeth Super HL5 Plus XDは、数十年にわたるBBC研究の伝統を体現した同社のフラッグシップモニタースピーカーです。この3ウェイ設計は、200mm RADIAL2ポリマー複合コーン型ベース/ミッドドライバー、25mmフェロフルイド冷却アルミニウムツイーター、20mmアルミニウムドームスーパーツイーターを搭載します。キャビネット寸法は635 × 322 × 300 mm、重量は1台あたり15.8 kgです。BBC流儀の損失パネル型エンクロージャーで、制振を織り込んだ設計です[1]。

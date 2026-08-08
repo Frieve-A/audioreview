@@ -5,6 +5,7 @@ target_name: "Moondrop Dawn Pro"
 company_id: moondrop
 lang: en
 ref: moondrop-dawn-pro
+audiodb_uid: adb-19a7e6b33e6f
 date: 2025-09-03
 rating: [3.8, 0.8, 0.6, 1.0, 0.7, 0.7]
 price: 59.99
@@ -12,7 +13,6 @@ summary: "Portable USB DAC/AMP with dual CS43131 chips delivering excellent meas
 tags: [DAC, Portable, USB-C, Balanced, Dongle]
 permalink: /products/en/moondrop-dawn-pro/
 ---
-
 ## Overview
 
 The Moondrop Dawn Pro is a compact portable USB DAC/amplifier featuring dual Cirrus Logic CS43131 DAC chips in a CNC-machined aluminum housing. Measuring 42×22.45×12.39 mm and weighing 13 g, it provides both 3.5 mm single-ended and 4.4 mm balanced outputs. The device supports PCM up to 32-bit/384 kHz and DSD256 formats, targeting users seeking transparent audio reproduction in a portable form factor [1].

@@ -5,6 +5,7 @@ target_name: "Audio-Technica AT-703"
 company_id: audio-technica
 lang: ja
 ref: audio-technica-at-703
+audiodb_uid: adb-e65dc8c10d03
 date: 2026-05-01
 rating: [1.2, 0.5, 0.1, 0.3, 0.1, 0.2]
 price: 12090

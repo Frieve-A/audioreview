@@ -5,6 +5,7 @@ target_name: "FiiO K9 AKM"
 company_id: fiio
 lang: ja
 ref: fiio-k9-akm
+audiodb_uid: adb-b3d9ac9f0a75
 date: 2025-08-02
 rating: [3.0, 0.8, 0.7, 0.3, 0.5, 0.7]
 price: 118800
@@ -12,7 +13,6 @@ summary: "旭化成のフラッグシップDACチップAK4499EXを搭載した�
 tags: [DAC, ヘッドホンアンプ, デスクトップオーディオ, AKM, THX]
 permalink: /products/ja/fiio-k9-akm/
 ---
-
 ## 概要
 
 FiiO K9 AKMは、中国のFiiOが製造するデスクトップDAC・ヘッドホンアンプです。従来のK9に搭載されていたESS製DACチップに代わり、旭化成のフラッグシップDACチップAK4191+AK4499EXコンボを採用した製品です。THX AAA 788+デュアルモジュールによるヘッドホンアンプ部を搭載し、バランス接続時に32Ω負荷で2000mW、300Ω負荷で780mWの出力を実現します。768kHz/32bit PCMおよびDSD512対応、Bluetooth接続にも対応した多機能なオールインワン製品として位置づけられています。

@@ -5,6 +5,7 @@ target_name: "iBasso Jr. Gelato"
 company_id: ibasso
 lang: ja
 ref: ibasso-jr-gelato
+audiodb_uid: adb-3bfcf1c12646
 date: 2025-08-20
 rating: [3.0, 0.6, 0.4, 1.0, 0.5, 0.5]
 price: 3700

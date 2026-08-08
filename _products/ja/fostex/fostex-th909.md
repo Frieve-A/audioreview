@@ -5,6 +5,7 @@ target_name: "Fostex TH909"
 company_id: fostex
 lang: ja
 ref: fostex-th909
+audiodb_uid: adb-55243cec98c5
 date: 2025-07-27
 rating: [2.8, 0.7, 0.8, 0.2, 0.5, 0.6]
 price: 287100

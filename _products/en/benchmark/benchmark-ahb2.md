@@ -5,6 +5,7 @@ target_name: "Benchmark AHB2"
 company_id: benchmark
 lang: en
 ref: benchmark-ahb2
+audiodb_uid: adb-f05450f52860
 date: 2025-08-09
 rating: [3.5, 1.0, 0.9, 0.4, 0.6, 0.6]
 price: 3499

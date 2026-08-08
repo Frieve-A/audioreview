@@ -5,6 +5,7 @@ target_name: "MOONDROP Chu II DSP"
 company_id: moondrop
 lang: ja
 ref: moondrop-chu-ii-dsp
+audiodb_uid: adb-cb12a93aa02e
 date: 2026-05-23
 rating: [3.0, 0.6, 0.4, 0.6, 0.6, 0.8]
 price: 3580

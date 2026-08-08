@@ -5,6 +5,7 @@ target_name: "Bowers & Wilkins DB3D"
 company_id: bowers-wilkins
 lang: en
 ref: bowers-wilkins-db3d
+audiodb_uid: adb-52fb40598fe1
 date: 2025-08-12
 rating: [4.3, 0.7, 0.8, 1.0, 0.9, 0.9]
 price: 4200
@@ -12,7 +13,6 @@ summary: "Premium compact subwoofer with dual 8-inch Aerofoil drivers and 1000W 
 tags: [Subwoofer, Sealed, Compact, Premium, Dual-Driver, DSP]
 permalink: /products/en/bowers-wilkins-db3d/
 ---
-
 ## Overview
 
 The Bowers & Wilkins DB3D is a premium compact subwoofer featuring dual 8-inch Aerofoil cone drivers in an opposing configuration within a sealed cabinet. Priced at 4,200 USD, it represents the entry point to B&W's flagship DB series, targeting audiophiles seeking high-end aesthetics and build quality in a space-constrained form factor. The DB3D incorporates sophisticated DSP processing, app-based control via Bluetooth, and B&W's signature Aerofoil driver technology derived from their high-end loudspeaker designs.

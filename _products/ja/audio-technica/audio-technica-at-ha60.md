@@ -5,6 +5,7 @@ target_name: "Audio-Technica AT-HA60"
 company_id: audio-technica
 lang: ja
 ref: audio-technica-at-ha60
+audiodb_uid: adb-7dab5e75c798
 date: 2025-10-21
 rating: [3.3, 0.5, 0.6, 1.0, 0.6, 0.6]
 price: 58350
@@ -12,7 +13,6 @@ summary: "5系統のヘッドホン出力とDAC内蔵を特徴とするプロフ
 tags: [ヘッドホンアンプ, DAC, プロ音響, マルチチャンネル, 廃盤]
 permalink: /products/ja/audio-technica-at-ha60/
 ---
-
 ## 概要
 
 Audio-Technica AT-HA60は、DAC機能を内蔵したプロフェッショナルヘッドホンアンプで、2002年に発売され、当初の価格は58,350円でした。5系統の独立したヘッドホン出力を備え、標準プラグとミニプラグの両方に対応しており、レコーディング作業やプロフェッショナルモニタリング用途に適しています。48kHzまでのサンプリングレートに対応する24ビットDAC内蔵は、当時のヘッドホンアンプとしては比較的先進的でした。現在は廃盤となっており、中古市場でのみ入手可能です。

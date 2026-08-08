@@ -5,6 +5,7 @@ target_name: "Loxjie A30"
 company_id: loxjie
 lang: en
 ref: loxjie-a30
+audiodb_uid: adb-83a7f32ca217
 date: 2025-08-24
 rating: [3.4, 0.6, 0.6, 1.0, 0.6, 0.6]
 price: 169.99

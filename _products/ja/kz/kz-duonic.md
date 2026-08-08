@@ -5,6 +5,7 @@ target_name: "KZ Duonic"
 company_id: kz
 lang: ja
 ref: kz-duonic
+audiodb_uid: adb-82d55a764650
 date: 2026-03-16
 rating: [3.2, 0.5, 0.5, 0.9, 0.5, 0.8]
 price: 3040

@@ -5,6 +5,7 @@ target_name: "MOONDROP Golden Ages 2"
 company_id: moondrop
 lang: ja
 ref: moondrop-golden-ages-2
+audiodb_uid: adb-6c4db16365be
 date: 2025-12-24
 rating: [4.2, 0.7, 1.0, 1.0, 0.5, 1.0]
 price: 10799

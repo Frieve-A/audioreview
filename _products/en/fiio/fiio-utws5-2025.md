@@ -5,6 +5,7 @@ target_name: "FiiO UTWS5 2025"
 company_id: fiio
 lang: en
 ref: fiio-utws5-2025
+audiodb_uid: adb-0f87e68aa9ec
 date: 2025-08-17
 rating: [3.7, 0.7, 0.7, 1.0, 0.5, 0.8]
 price: 175

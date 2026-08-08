@@ -5,6 +5,7 @@ target_name: "Campfire Audio Andromeda"
 company_id: campfire-audio
 lang: en
 ref: campfire-audio-andromeda
+audiodb_uid: adb-2b1623ef9590
 date: 2025-08-23
 rating: [2.2, 0.5, 0.5, 0.1, 0.6, 0.5]
 price: 1399
@@ -12,7 +13,6 @@ summary: "Five-BA IEM (including dual-diaphragm treble BAs) with excellent build
 tags: [Balanced armature, In-ear monitors, Premium, Five Driver]
 permalink: /products/en/campfire-audio-andromeda/
 ---
-
 ## Overview
 
 The current Andromeda “Emerald Sea” uses five balanced armatures (with dual-diaphragm BAs in the highs), a precision-machined aluminum shell, MMCX connectors, and includes three cables (2.5/3.5/4.4 mm). Official US price is **1,399 USD**. [1]

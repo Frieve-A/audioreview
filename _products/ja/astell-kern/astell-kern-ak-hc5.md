@@ -5,6 +5,7 @@ target_name: "Astell&Kern AK HC5"
 company_id: astell-kern
 lang: ja
 ref: astell-kern-ak-hc5
+audiodb_uid: adb-4c65c2efe8d1
 date: 2026-05-21
 rating: [2.5, 0.8, 0.4, 0.4, 0.6, 0.3]
 price: 73000

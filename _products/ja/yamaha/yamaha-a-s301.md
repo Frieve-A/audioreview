@@ -5,6 +5,7 @@ target_name: "Yamaha A-S301"
 company_id: yamaha
 lang: ja
 ref: yamaha-a-s301
+audiodb_uid: adb-6ecbe9c722b2
 date: 2025-09-02
 rating: [2.7, 0.6, 0.5, 0.3, 0.7, 0.6]
 price: 45000
@@ -12,7 +13,6 @@ summary: "許容できる測定値を持つ伝統的なプリメインアンプ�
 tags: [プリメインアンプ, アナログ, DAC, フォノ]
 permalink: /products/ja/yamaha-a-s301/
 ---
-
 ## 概要
 
 Yamaha A-S301は、ToP-ART回路設計を特徴とする60Wプリメインアンプで、光/同軸入力対応の内蔵DAC、MMフォノステージを搭載しています。YamahaのNatural Soundシリーズの一部としてリリースされ、基本的なデジタル接続性を備えたアナログスタイルの操作を求める従来のハイファイ愛好家をターゲットとしています。アンプにはピュアダイレクトモード、連続可変ラウドネス制御、サブウーファー接続機能付きデュアルスピーカー出力が含まれています。

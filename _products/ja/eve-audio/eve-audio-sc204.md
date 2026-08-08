@@ -5,6 +5,7 @@ target_name: "EVE Audio SC204"
 company_id: eve-audio
 lang: ja
 ref: eve-audio-sc204
+audiodb_uid: adb-b02801a59daa
 date: 2025-07-30
 rating: [3.4, 0.7, 0.8, 0.5, 0.6, 0.8]
 price: 105000
@@ -12,7 +13,6 @@ summary: "ドイツEVE Audioによる4インチアクティブスタジオモニ
 tags: [スタジオモニター, アクティブスピーカー, ニアフィールドモニター, デスクトップモニター]
 permalink: /products/ja/eve-audio-sc204/
 ---
-
 ## 概要
 
 EVE Audio SC204は、ドイツのEVE Audio社が製造する4インチ2ウェイアクティブスタジオモニターです。同社は元Adam Audioの技術者らにより設立され、Air Motion Transformer（AMT）技術の専門メーカーとして知られています。SC204は50W（LF）+ 50W（HF）のbi-amped Class-Dアンプを搭載し、4インチSilverConeウーファーと独自開発のAMT RS1ツイーターの2ウェイ構成を採用しています。24Bit/192kHz Burr-Brown ADコンバーターを内蔵し、DSPベースのクロスオーバーと音響調整機能を提供します。コンパクトなデスクトップ環境や小規模なホームスタジオでの使用を主な目的として設計されており、64Hz-21kHz（-3dB）の周波数特性と96dB SPLの最大出力を実現しています。

@@ -5,6 +5,7 @@ target_name: "Apple AirPods Pro 2"
 company_id: apple
 lang: en
 ref: apple-airpods-pro-2
+audiodb_uid: adb-d2388da65edb
 date: 2025-07-08
 rating: [3.1, 0.6, 0.7, 0.6, 0.6, 0.6]
 price: 250

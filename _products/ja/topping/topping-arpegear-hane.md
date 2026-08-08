@@ -5,6 +5,7 @@ target_name: "Topping ArpegEar Hane"
 company_id: topping
 lang: ja
 ref: topping-arpegear-hane
+audiodb_uid: adb-abd6438d42c7
 date: 2025-07-06
 rating: [2.9, 0.7, 0.6, 0.5, 0.6, 0.5]
 price: 19350
@@ -12,7 +13,6 @@ summary: "Toppingが新ブランドArpegEarとしてリリースした初のIEM�
 tags: [ArpegEar, インイヤーモニター, ダイナミックドライバー, 中国, 調整可能]
 permalink: /products/ja/topping-arpegear-hane/
 ---
-
 ## 概要
 
 Topping ArpegEar Haneは、DACで有名なToppingが新ブランドArpegEarとして2024年にリリースした初のIEMです。129米ドルの価格でDLC（ダイヤモンドライクカーボン）コーティングを施した10mmダイナミックドライバーを搭載しています。最大の特徴は4つのDIPスイッチによる16通りの音質調整機能です。80Ω±15%のインピーダンス、115dB/Vrmsの感度、5Hz-35kHzの周波数応答を持ちます。筐体には光沢のある黒色樹脂と青い羽根模様のフェイスプレートが採用されています。

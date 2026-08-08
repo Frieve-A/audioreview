@@ -5,6 +5,7 @@ target_name: "Klipsch R-50C"
 company_id: klipsch
 lang: ja
 ref: klipsch-r-50c
+audiodb_uid: adb-2db08edab6a9
 date: 2025-07-29
 rating: [3.2, 0.5, 0.5, 0.8, 0.7, 0.7]
 price: 52800
@@ -12,7 +13,6 @@ summary: "Klipsch R-50Cは、Tractrixホーン技術による高い感度が特�
 tags: [センターチャンネル, ホームシアター, ホーン型, 中価格帯]
 permalink: /products/ja/klipsch-r-50c/
 ---
-
 ## 概要
 
 Klipsch R-50Cは、アメリカのオーディオメーカーKlipschが手がけるReferenceシリーズのセンターチャンネルスピーカーです。同社の代名詞であるTractrixホーン技術を1インチツイーターに採用し、2つの5.25インチスパンカッパーTCPウーファーと組み合わせた2ウェイ構成となっています。公称仕様は周波数特性90Hz-21kHz、許容入力100W（RMS）、感度96dBです。この高い感度により、AVレシーバー内蔵の比較的小出力なアンプでも十分な音量を得やすい設計です。クロスオーバー周波数は1650Hzに設定され、対話音声の再生に特化しています。

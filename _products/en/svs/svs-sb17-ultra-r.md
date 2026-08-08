@@ -5,6 +5,7 @@ target_name: "SVS SB17-Ultra R"
 company_id: svs
 lang: en
 ref: svs-sb17-ultra-r
+audiodb_uid: adb-365ca2b08ff0
 date: 2025-08-06
 rating: [3.5, 0.8, 0.9, 0.6, 0.6, 0.6]
 price: 2499
@@ -12,7 +13,6 @@ summary: "SVS's latest flagship sealed subwoofer featuring a 17-inch driver and 
 tags: [Subwoofer, Sealed Design, Home Theater, SVS, Ultra-Low Frequency]
 permalink: /products/en/svs-sb17-ultra-r/
 ---
-
 ## Overview
 
 The SVS SB17-Ultra-R subwoofer is SVS's latest flagship sealed subwoofer released in 2024. As the sealed model in the 17-Ultra R Evolution series replacing the previous 16-Ultra series, it combines a large 17-inch driver with dual 8-inch voice coils and a powerful 2,800W RMS Class D amplifier to achieve ultra-low frequency reproduction down to 15Hz. Featuring advanced signal processing with a 295MHz Analog Devices DSP and detailed smartphone app control, it is designed to deliver the highest level of bass reproduction performance for both home theater and music playback. This product is positioned as a technically ambitious work that consolidates SVS's 30 years of design expertise.

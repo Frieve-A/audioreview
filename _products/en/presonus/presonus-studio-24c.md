@@ -5,6 +5,7 @@ target_name: "PreSonus Studio 24c"
 company_id: presonus
 lang: en
 ref: presonus-studio-24c
+audiodb_uid: adb-de3135c39853
 date: 2025-11-05
 rating: [3.3, 0.7, 0.7, 1.0, 0.2, 0.7]
 price: 105

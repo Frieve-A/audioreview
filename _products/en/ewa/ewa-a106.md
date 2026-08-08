@@ -5,6 +5,7 @@ target_name: "EWA A106"
 company_id: ewa
 lang: en
 ref: ewa-a106
+audiodb_uid: adb-d0d006de4646
 date: 2025-08-21
 rating: [2.8, 0.3, 0.4, 1.0, 0.6, 0.5]
 price: 23.99

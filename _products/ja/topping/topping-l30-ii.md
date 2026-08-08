@@ -5,6 +5,7 @@ target_name: "TOPPING L30 II"
 company_id: topping
 lang: ja
 ref: topping-l30-ii
+audiodb_uid: adb-8d66d0202425
 date: 2025-10-31
 rating: [4.1, 0.9, 0.8, 1.0, 0.5, 0.9]
 price: 19766
@@ -12,7 +13,6 @@ summary: "世界最高クラスの歪みとノイズ特性を実現した卓越�
 tags: [ヘッドホン, アンプ, NFCA, ハイファイ]
 permalink: /products/ja/topping-l30-ii/
 ---
-
 ## 概要
 
 TOPPING L30 IIは、同社が再設計したNFCA（Nested Feedback Composite Amplifier）モジュールを搭載した専用ヘッドホンアンプです。19,766円 [1] という価格で、幅広いヘッドホンインピーダンスに対して透明な増幅を求めるユーザーをターゲットとしています。L30 IIは3つのゲイン設定（-14dB、0dB、16.5dB）を提供し、超低歪み特性を保ちながら最大3.5Wの実質的な出力を実現しています。初代L30を基盤として、この第2世代モデルは以前の設計上の制限に対処しつつ、TOPPINGの測定重視のエンジニアリングアプローチを継承しています。

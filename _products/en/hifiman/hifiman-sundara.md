@@ -5,6 +5,7 @@ target_name: "HiFiMAN SUNDARA"
 company_id: hifiman
 lang: en
 ref: hifiman-sundara
+audiodb_uid: adb-e693bede428d
 date: 2026-01-21
 rating: [3.2, 0.7, 0.8, 0.4, 0.3, 1.0]
 price: 279
@@ -12,7 +13,6 @@ summary: "Open-back planar magnetic headphones with NEO Supernano diaphragm tech
 tags: [headphones, open-back, planar-magnetic, hifiman]
 permalink: /products/en/hifiman-sundara/
 ---
-
 ## Overview
 
 The HiFiMAN SUNDARA represents the company's entry-level planar magnetic technology, utilizing proprietary NEO Supernano diaphragm less than one micrometer thick. Released in 2017 with 2020 revisions, it features open-back design, 32-37Ω impedance, and 6Hz-75kHz frequency response. Originally priced at 499 USD, current pricing stands at 279 USD while maintaining core performance specifications through measurement-focused development approach.

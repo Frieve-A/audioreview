@@ -5,6 +5,7 @@ target_name: "Sony NW-WM1AM2"
 company_id: sony
 lang: en
 ref: sony-nw-wm1am2
+audiodb_uid: adb-bbae13902d2e
 date: 2025-08-04
 rating: [3.0, 0.7, 0.7, 0.3, 0.8, 0.5]
 price: 1030

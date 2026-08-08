@@ -5,6 +5,7 @@ target_name: "PreSonus Eris Pro 6"
 company_id: presonus
 lang: ja
 ref: presonus-eris-pro-6
+audiodb_uid: adb-5959478429b5
 date: 2025-10-27
 rating: [3.0, 0.6, 0.8, 0.5, 0.3, 0.8]
 price: 60000
@@ -12,7 +13,6 @@ summary: "革新的なドライバー設計を採用した6.5インチ同軸ス�
 tags: [スタジオモニター, 同軸ドライバー, アクティブスピーカー, PreSonus, プロオーディオ]
 permalink: /products/ja/presonus-eris-pro-6/
 ---
-
 ## 概要
 
 PreSonus Eris Pro 6は、ステレオミックス環境およびDolby Atmosイマーシブルーム向けに設計された6.5インチアクティブ同軸スタジオモニターです。6.5インチウーブンコンポジットウーファー内に1.25インチ超軽量シルクドームツイーターを組み込んだユニークな同軸ドライバー構成により、ステレオイメージング向上のための単一音響ポイントソースの実現を目指しています。140WのクラスABバイアンプ設計（75W低域、65W高域）と35Hzから20kHzまでの周波数範囲を持ち、Low Cut、Mid、High EQ調整、さらに部屋適応のための3段階Acoustic Spaceチューニングなどの音響調整コントロールを備えて、プロフェッショナルスタジオモニター市場でのポジショニングを図っています。

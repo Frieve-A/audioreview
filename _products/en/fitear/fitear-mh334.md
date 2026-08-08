@@ -5,6 +5,7 @@ target_name: "FitEar MH334"
 company_id: fitear
 lang: en
 ref: fitear-mh334
+audiodb_uid: adb-682000bdaff3
 date: 2025-08-13
 rating: [3.4, 0.7, 0.6, 0.6, 0.7, 0.8]
 price: 1800

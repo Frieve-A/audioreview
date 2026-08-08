@@ -5,6 +5,7 @@ target_name: "Kiwi Ears x HBB Punch"
 company_id: kiwi-ears
 lang: en
 ref: kiwi-ears-x-hbb-punch
+audiodb_uid: adb-9b39ee54bc7e
 date: 2025-09-19
 rating: [2.3, 0.6, 0.6, 0.0, 0.6, 0.5]
 price: 449

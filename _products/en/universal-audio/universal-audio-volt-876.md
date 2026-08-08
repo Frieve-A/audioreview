@@ -5,6 +5,7 @@ target_name: "Universal Audio Volt 876"
 company_id: universal-audio
 lang: en
 ref: universal-audio-volt-876
+audiodb_uid: adb-f8d73c316ab9
 date: 2025-12-13
 rating: [3.9, 0.9, 0.7, 1.0, 0.6, 0.7]
 price: 999

@@ -5,6 +5,7 @@ target_name: "Softears Twilight"
 company_id: softears
 lang: ja
 ref: softears-twilight
+audiodb_uid: adb-ecbd144d0ab6
 date: 2026-05-31
 rating: [1.9, 0.7, 0.4, 0.1, 0.5, 0.2]
 price: 139500

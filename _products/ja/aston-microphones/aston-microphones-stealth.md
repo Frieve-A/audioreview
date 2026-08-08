@@ -5,6 +5,7 @@ target_name: "Aston Microphones Stealth"
 company_id: aston-microphones
 lang: ja
 ref: aston-microphones-stealth
+audiodb_uid: adb-5a42bde34c4d
 date: 2025-11-13
 rating: [3.9, 0.6, 0.7, 1.0, 0.7, 0.9]
 price: 54900

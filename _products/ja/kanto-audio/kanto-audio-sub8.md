@@ -5,6 +5,7 @@ target_name: "Kanto Audio SUB8"
 company_id: kanto-audio
 lang: ja
 ref: kanto-audio-sub8
+audiodb_uid: adb-501200d7ce7c
 date: 2025-08-28
 rating: [2.7, 0.7, 0.5, 0.5, 0.6, 0.4]
 price: 49699
@@ -12,7 +13,6 @@ summary: "第三者測定で裏付けられた堅実な性能と小型キュー�
 tags: [サブウーファー, パワード, 密閉型, デスクトップ, ニアフィールド]
 permalink: /products/ja/kanto-audio-sub8/
 ---
-
 ## 概要
 
 SUB8は8インチ紙コーン＋クラスD（150 W RMS/300 Wピーク）を搭載する密閉型サブです。**35–175 Hz**、筐体**11″ × 11″ × 11.9″（28 × 28 × 30.3 cm）**、重量**8.3 kg**、ローパス**40–120 Hz**可変と**0/180°**位相を備え、**349.99 USD**で販売されています[2]。

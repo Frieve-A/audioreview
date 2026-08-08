@@ -5,6 +5,7 @@ target_name: "KBEAR PT01 Phoenix"
 company_id: kbear
 lang: en
 ref: kbear-pt01-phoenix
+audiodb_uid: adb-287a63925f8a
 date: 2026-05-21
 rating: [2.3, 0.5, 0.2, 0.8, 0.6, 0.2]
 price: 17.99

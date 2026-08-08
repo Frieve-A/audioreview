@@ -5,6 +5,7 @@ target_name: "SMSL SD-9"
 company_id: smsl
 lang: en
 ref: smsl-sd-9
+audiodb_uid: adb-d45ba7407f4d
 date: 2025-08-28
 rating: [2.9, 0.5, 0.4, 1.0, 0.5, 0.5]
 price: 344

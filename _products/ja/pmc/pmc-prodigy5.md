@@ -5,6 +5,7 @@ target_name: "PMC Prodigy5"
 company_id: pmc
 lang: ja
 ref: pmc-prodigy5
+audiodb_uid: adb-6205017b3285
 date: 2025-08-10
 rating: [3.1, 0.6, 0.7, 0.8, 0.5, 0.5]
 price: 440000

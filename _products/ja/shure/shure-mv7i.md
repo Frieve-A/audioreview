@@ -5,6 +5,7 @@ target_name: "Shure MV7i Smart Microphone & Interface"
 company_id: shure
 lang: ja
 ref: shure-mv7i
+audiodb_uid: adb-449385243b0b
 date: 2025-12-30
 rating: [4.4, 0.5, 1.0, 1.0, 0.9, 1.0]
 price: 49900

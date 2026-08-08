@@ -5,6 +5,7 @@ target_name: "I-O Data Soundgenic Plus"
 company_id: io-data
 lang: ja
 ref: io-data-soundgenicplus
+audiodb_uid: adb-46f8863e8bcf
 date: 2025-12-18
 rating: [2.5, 0.5, 0.6, 0.6, 0.5, 0.3]
 price: 53130
@@ -12,7 +13,6 @@ summary: "包括的フォーマットサポートでデジタルトランスポ�
 tags: ["ミュージックサーバー", "デジタルトランスポート", "ネットワークオーディオ", "DLNA", "USB DAC"]
 permalink: /products/ja/io-data-soundgenicplus/
 ---
-
 ## 概要
 
 I-O Data Soundgenic Plusは、高解像度オーディオ再生のためのデジタルトランスポートおよびメディアサーバーとして設計されたネットワークオーディオサーバーです [1]。HDL-RA2H（2TB HDD）、HDL-RA4TBU（4TB HDD）、HDL-RAS2TU（2TB SSD）を含む特定のモデルで利用可能で、このデバイスはオーディオアプリケーション専用に設計された専用NASソリューションとして機能します [2]。Soundgenic Plusは外部DACにUSB経由でデジタルオーディオデータを出力し、最大768kHz/32ビットのPCMフォーマットと最大22.5MHzのDSDをサポートします [1]。主要機能には、CDリッピング機能、Twonky Server 7/8を使用したDLNA/UPnPメディアサーバー機能、fidata Music Appによる制御が含まれます [1]。メーカー仕様ではストリーミングサービスサポートが記載されていますが、ユーザーレポートではSpotifyやTidalなどの人気サービスでの制限があることが示されています [4]。ファンレス設計は、プレミアムfidataブランド子会社で開発されたI-O Dataのオーディオ重視のエンジニアリングアプローチを採用しています。

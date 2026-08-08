@@ -5,6 +5,7 @@ target_name: "Behringer ECM8000"
 company_id: behringer
 lang: ja
 ref: behringer-ecm8000
+audiodb_uid: adb-035760ba3192
 date: 2025-07-18
 rating: [2.9, 0.4, 0.4, 1.0, 0.6, 0.5]
 price: 3580
@@ -12,7 +13,6 @@ summary: "測定用マイクとして開発されたBehringer ECM8000は、20Hz�
 tags: [測定マイク, コンデンサーマイク, Behringer, 音響測定, ファンタム電源]
 permalink: /products/ja/behringer-ecm8000/
 ---
-
 ## 概要
 
 Behringer ECM8000は、ドイツの音響機器メーカーBehringerが開発した測定用コンデンサーマイクロホンです。1989年設立のBehringerは、プロオーディオ機器を手頃な価格で提供することで知られており、ECM8000も同社の低価格戦略の一環として開発されました。この製品は、音響測定やルームアコースティクス分析を目的とした専用設計で、20Hz-20kHzの周波数範囲でのフラット特性を謳っています。XLR端子を採用し、+15V～+48Vのファンタム電源で動作します。真の無指向性パターンを持ち、室内音響測定用途に特化した設計となっています。

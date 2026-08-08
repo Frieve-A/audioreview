@@ -5,6 +5,7 @@ target_name: "Topping E2x2 OTG"
 company_id: topping
 lang: ja
 ref: topping-e2x2-otg
+audiodb_uid: adb-5918e7b7e9a6
 date: 2025-10-06
 rating: [3.9, 0.9, 0.8, 1.0, 0.4, 0.8]
 price: 35820
@@ -12,7 +13,6 @@ summary: "Topping E2x2 OTGは、透明性重視の測定性能とNFCA-LEヘッ�
 tags: [オーディオインターフェース, DAC, ヘッドホンアンプ, USB, OTG, S/PDIF]
 permalink: /products/ja/topping-e2x2-otg/
 ---
-
 ## 概要
 
 **E2x2 OTG**（2024年）は、測定データに裏付けられた設計と実用機能を重視した**2×2** USBインターフェースです。**48Vファンタム電源**、最大**192kHz/24bit**、**ゼロレイテンシーのハードウェアモニタリング**と**独立ミキサー**、**OTG（スマホ直結）**によるモバイル連携、さらに同価格帯では珍しい**光S/PDIF出力**を装備します。ヘッドホン段は**NFCA-LE**により低インピーダンスかつ高出力駆動を狙った設計です。公式ストアでの価格は**199 USD**です。 [1][2]

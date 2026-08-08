@@ -5,6 +5,7 @@ target_name: "Talomen W50x"
 company_id: talomen
 lang: ja
 ref: talomen-w50x
+audiodb_uid: adb-9790c6952474
 date: 2026-05-23
 rating: [2.5, 0.5, 0.0, 1.0, 0.6, 0.4]
 price: 6200

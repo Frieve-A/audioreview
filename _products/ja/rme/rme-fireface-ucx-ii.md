@@ -5,6 +5,7 @@ target_name: "RME Fireface UCX II"
 company_id: rme
 lang: ja
 ref: rme-fireface-ucx-ii
+audiodb_uid: adb-064a104fe399
 date: 2025-08-25
 rating: [4.2, 0.8, 0.9, 0.6, 0.9, 1.0]
 price: 198000
@@ -12,7 +13,6 @@ summary: "20イン/20アウトのUSBインターフェース。ASR実測のSINAD
 tags: [オーディオインターフェース, プロオーディオ, USBオーディオ, レコーディング機器, RME]
 permalink: /products/ja/rme-fireface-ucx-ii/
 ---
-
 ## 概要
 
 Fireface UCX IIは、ハーフラック筐体に20イン/20アウト（計40 ch）を収めたUSBインターフェースです。2基のマイクプリ、AES/EBU、ADAT、S/PDIF、ワードクロック、MIDI、**DCカップリング出力**、TotalMix FX、**DURec単体録音**、クラスコンプライアントに対応し、最大192 kHzまで使用できます。ドライバーはRME自社開発です。 [1][2]

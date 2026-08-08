@@ -5,6 +5,7 @@ target_name: "Yamaha NS-10M"
 company_id: yamaha
 lang: en
 ref: yamaha-ns-10m
+audiodb_uid: adb-af0db72cbb92
 date: 2025-07-23
 rating: [2.0, 0.3, 0.6, 0.5, 0.2, 0.4]
 price: 200
@@ -12,7 +13,6 @@ summary: "Legendary studio monitor released in 1978. Over 20 years since discont
 tags: [Speakers, Monitor Speakers, Nearfield Monitors, Studio Equipment, Vintage, Discontinued]
 permalink: /products/en/yamaha-ns-10m/
 ---
-
 ## Overview
 
 The Yamaha NS-10M is a legendary nearfield monitor speaker released in 1978. Originally designed as a home audio "bookshelf" speaker, its distinctive sound was embraced by many engineers, leading to its widespread adoption in studios where it became an industry-standard monitor. Production ceased in 2001 after the supply of the specific wood pulp essential for its woofer cones was discontinued. Over 200,000 pairs were sold, and it received a Technical Grammy Award in 2007 for its impact. However, by 2025's technological standards, it is a product that is significantly inferior in terms of frequency response and technical specifications.

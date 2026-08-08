@@ -5,6 +5,7 @@ target_name: "Audio-Technica AT2035"
 company_id: audio-technica
 lang: en
 ref: audio-technica-at2035
+audiodb_uid: adb-3e07c4979ba4
 date: 2025-12-29
 rating: [3.4, 0.7, 0.5, 1.0, 0.7, 0.5]
 price: 169
@@ -12,7 +13,6 @@ summary: "Mid-range cardioid condenser microphone featuring back-electret design
 tags: [Microphones, Condenser, XLR, Studio, Recording, Back-electret]
 permalink: /products/en/audio-technica-at2035/
 ---
-
 ## Overview
 
 The Audio-Technica AT2035 is a fixed cardioid condenser microphone introduced in 2008, utilizing Audio-Technica's proprietary back-electret capsule technology. Featuring a 2-micron PPS (Polyphenylene Sulfide) diaphragm with gold coating and 26mm capsule diameter, the AT2035 targets professional recording applications requiring flexible input handling capabilities. The microphone incorporates switchable 80Hz high-pass filter and -10dB pad functionality, allowing adaptation to various source requirements from quiet vocals to loud instruments. Audio-Technica positioned this model as a step-up from their entry-level offerings, emphasizing their back-electret specialization rarely implemented by other manufacturers. The included custom shock mount and storage pouch demonstrate professional positioning within their condenser microphone lineup.

@@ -5,6 +5,7 @@ target_name: "Grado SR-225x"
 company_id: grado
 lang: en
 ref: grado-sr-225x
+audiodb_uid: adb-bea3effdedda
 date: 2025-08-04
 rating: [2.3, 0.4, 0.5, 0.4, 0.6, 0.4]
 price: 225
@@ -12,7 +13,6 @@ summary: "This open-back headphone employs traditional handcrafted methods but u
 tags: [Headphones, Open-back, Grado, Mid-range]
 permalink: /products/en/grado-sr-225x/
 ---
-
 ## Overview
 
 The Grado SR-225x is a mid-range model in the Prestige X series, handcrafted in Brooklyn, New York. It features 44mm fourth-generation X Drivers and is priced at 225 USD. Founded in 1953, the company is known for its unique acoustic traits and artisanal production. The open-back design provides a spacious soundstage, and its 38-ohm impedance allows driving by portable devices.

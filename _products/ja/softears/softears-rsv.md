@@ -5,6 +5,7 @@ target_name: "Softears RSV"
 company_id: softears
 lang: ja
 ref: softears-rsv
+audiodb_uid: adb-6b40c7a334dd
 date: 2026-05-31
 rating: [2.4, 0.7, 0.5, 0.1, 0.5, 0.6]
 price: 109350

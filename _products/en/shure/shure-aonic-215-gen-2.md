@@ -5,6 +5,7 @@ target_name: "Shure AONIC 215 Gen 2"
 company_id: shure
 lang: en
 ref: shure-aonic-215-gen-2
+audiodb_uid: adb-33942cd75ac6
 date: 2025-12-01
 rating: [4.1, 0.5, 0.9, 1.0, 0.8, 0.9]
 price: 229
@@ -12,7 +13,6 @@ summary: "Modular true wireless earphones with exceptional passive isolation and
 tags: [True Wireless, Earphones, MMCX, Sound Isolation, Bluetooth, Modular]
 permalink: /products/en/shure-aonic-215-gen-2/
 ---
-
 ## Overview
 
 The Shure AONIC 215 Gen 2 represents a unique approach to true wireless earphones through its modular MMCX connection system. Building on Shure's professional audio heritage, these earphones combine the SE215 dynamic drivers with the RMCE-TW2 wireless adapters, enabling conversion between wired and wireless use. The product features Bluetooth 5.0 connectivity with premium codec support (aptX, AAC, SBC), 8-hour battery life extending to 32 hours with the charging case, and IPX4 water resistance. Most notably, the earphones achieve over 45dB passive noise isolation, exceeding the manufacturer's 37dB specification and representing exceptional performance in this category.

@@ -5,6 +5,7 @@ target_name: "Onkyo TX-L50"
 company_id: onkyo
 lang: ja
 ref: onkyo-tx-l50
+audiodb_uid: adb-103ee225e7c8
 date: 2025-08-04
 rating: [2.0, 0.2, 0.4, 0.7, 0.3, 0.4]
 price: 45000

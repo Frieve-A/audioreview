@@ -5,6 +5,7 @@ target_name: "KEF Coda W"
 company_id: kef
 lang: ja
 ref: kef-coda-w
+audiodb_uid: adb-788606c58804
 date: 2025-12-11
 rating: [4.0, 0.5, 1.0, 0.8, 0.7, 1.0]
 price: 130000
@@ -12,7 +13,6 @@ summary: "第12世代Uni-Qドライバーアレイを搭載した2ウェイア�
 tags: [アクティブスピーカー, ブックシェルフスピーカー, Bluetooth, HDMI ARC, フォノプリアンプ, Uni-Q]
 permalink: /products/ja/kef-coda-w/
 ---
-
 ## 概要
 
 KEF Coda Wは、第12世代Uni-Q同軸ドライバーを搭載し、130mmマグネシウム/アルミニウムウーファーと25mmアルミニウムツイーターを組み合わせ、スピーカーあたり100WのクラスDアンプリフィケーション（ウーファー70W + ツイーター30W）により、システム合計200Wのパワーを提供します。ペア価格130,000円で、HDMI ARC、Bluetooth 5.4（aptX Lossless対応）、USB-C 24bit/192kHz、内蔵MMフォノプリアンプなどの接続性を備えています。Music Integrity Engine DSPによりクロスオーバー最適化とひずみ軽減を提供し、一般消費者向けに設計されています。

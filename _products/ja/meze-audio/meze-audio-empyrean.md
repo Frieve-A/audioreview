@@ -5,6 +5,7 @@ target_name: "Meze Audio Empyrean"
 company_id: meze-audio
 lang: ja
 ref: meze-audio-empyrean
+audiodb_uid: adb-a3eb3cdfc666
 date: 2025-08-24
 rating: [2.9, 0.6, 0.7, 0.1, 0.8, 0.7]
 price: 450000

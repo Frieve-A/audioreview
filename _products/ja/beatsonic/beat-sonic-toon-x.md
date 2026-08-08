@@ -5,6 +5,7 @@ target_name: "Beat-Sonic TOON-X"
 company_id: beat-sonic
 lang: ja
 ref: beat-sonic-toon-x
+audiodb_uid: adb-63833a862f6e
 date: 2025-07-30
 rating: [3.2, 0.8, 0.5, 0.4, 0.7, 0.8]
 price: 52800
@@ -12,7 +13,6 @@ summary: "車載純正オーディオシステムの音質向上を目的とし�
 tags: [DSP, カーオーディオ, アンプ, Plug and Play]
 permalink: /products/ja/beat-sonic-toon-x/
 ---
-
 ## 概要
 
 Beat-Sonic TOON-Xは、1991年設立の日本の老舗カーオーディオメーカーであるビートソニックが開発した、車載純正オーディオシステム向けの4チャンネルDSP内蔵アンプです。「Totally Optimized ONgaku（完全に最適化された音楽）」の頭文字を取ったTOONシリーズの最新モデルで、複雑な配線作業を必要としないプラグアンドプレイ設計により、純正オーディオシステムの音質を劇的に向上させることを目的としています。トヨタを中心とした国内外の主要自動車メーカーとの強固な関係を基盤とした車種別専用設計が特徴です。

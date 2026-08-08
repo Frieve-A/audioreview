@@ -5,6 +5,7 @@ target_name: "Creative T60"
 company_id: creative
 lang: ja
 ref: creative-t60
+audiodb_uid: adb-c3fd0c65db45
 date: 2025-09-03
 rating: [2.3, 0.5, 0.4, 0.3, 0.6, 0.5]
 price: 13500
@@ -12,7 +13,6 @@ summary: "コンパクトで多彩な接続を備える一方、音質面では�
 tags: [スピーカー, デスクトップ, 2.0, Bluetooth, USB-C]
 permalink: /products/ja/creative-t60/
 ---
-
 ## 概要
 
 Creative T60は、デュアル2.75インチ・フルレンジドライバーによる30W RMSの**2.0**デスクトップスピーカーです。**USB-Cデジタル入力**、**Bluetooth 5.0**、**3.5mm**アナログ入力、**ヘッドセット／マイク・パススルー**を備え、Sound Blasterの**Clear Dialog／Surround**などの処理を搭載します。省スペースの在宅環境で扱いやすい一方、音楽鑑賞を主目的とした場合の絶対的な音質は控えめです。

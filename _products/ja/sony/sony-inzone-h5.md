@@ -5,6 +5,7 @@ target_name: "Sony INZONE H5"
 company_id: sony
 lang: ja
 ref: sony-inzone-h5
+audiodb_uid: adb-9fcc1ff1df02
 date: 2025-08-29
 rating: [3.4, 0.5, 0.8, 0.7, 0.7, 0.7]
 price: 19932
@@ -12,7 +13,6 @@ summary: "360立体音響（Windows）と軽量・低側圧設計を備えるミ
 tags: [ゲーミング, ヘッドホン, ワイヤレス, ソニー, プレイステーション]
 permalink: /products/ja/sony-inzone-h5/
 ---
-
 ## 概要
 
 INZONE H5はSonyのゲーミングラインにおける中核モデルで、PCとPS5に向けて低レイテンシの2.4GHzワイヤレス（USB-Aドングル）と3.5mm有線を備えます（Bluetoothは非搭載）。公称バッテリーは最長28時間で、第三者計測では30時間超の連続再生が確認されています。Windows版INZONE HubによりEQや「360立体音響 for Gaming」が利用でき、PS5ではコンソール側のTempest 3Dを用います。約260gの軽量さで快適性も重視しています。 [1][2][3][4]

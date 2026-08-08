@@ -5,6 +5,7 @@ target_name: "SMSL VMV D3"
 company_id: smsl
 lang: ja
 ref: smsl-vmv-d3
+audiodb_uid: adb-effca0094db2
 date: 2025-08-28
 rating: [2.6, 0.8, 0.6, 0.4, 0.6, 0.2]
 price: 525000
@@ -12,7 +13,6 @@ summary: "SINAD 98dBで可聴域の透明性は満たす一方、I2Sと10MHz外�
 tags: [DAC, R-2R, PCM1704, ハイエンド, SMSL]
 permalink: /products/ja/smsl-vmv-d3/
 ---
-
 ## 概要
 
 SMSL VMV D3は、廃番となったBurr-Brown PCM1704U-Jを各チャンネル2基ずつ計4基用いたフルバランスR-2R DACです。ヴィンテージDACコアに、XMOS XU216、超低位相ノイズ発振器×2、SM5847、TI OPA1612×7などの現代的な周辺回路を組み合わせ、USB-B、I2S（HDMI）、光/同軸、AES/EBU、**外部クロック入力**まで備えます。筐体はCNCアルミで電源部を分離しています。 [2]

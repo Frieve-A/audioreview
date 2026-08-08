@@ -5,6 +5,7 @@ target_name: "SMSL D-6S"
 company_id: smsl
 lang: ja
 ref: smsl-d-6s
+audiodb_uid: adb-4c24fc1558e6
 date: 2025-12-21
 rating: [3.8, 0.9, 0.8, 1.0, 0.2, 0.9]
 price: 29900
@@ -12,7 +13,6 @@ summary: "最新世代ES9039Q2MチップによるハイパフォーマンスDAC�
 tags: [DAC, デスクトップオーディオ, ESS, Bluetooth, MQA, ハイレゾ]
 permalink: /products/ja/smsl-d-6s/
 ---
-
 ## 概要
 
 SMSL D-6Sは、最新世代のESS ES9039Q2M DACチップと高性能XMOS XU316 USBプロセッサを組み合わせた現代的なデスクトップDACです。この中国製ユニットは、32ビット/768kHzまでのPCM、ネイティブDSD512対応、複数入力でのフルMQAアンフォールディングを含む包括的なデジタルオーディオデコード機能を提供します。D-6Sは、高品質コーデック対応のBluetooth 5.1など現代的な接続機能を搭載し、多様なオーディオシステム統合シナリオに適用可能です。SMSLのエンジニアリングアプローチは、現代的コンポーネント選択と合理的回路実装を通じた測定性能達成を重視しています。

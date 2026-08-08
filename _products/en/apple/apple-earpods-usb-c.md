@@ -5,6 +5,7 @@ target_name: "Apple EarPods USB-C"
 company_id: apple
 lang: en
 ref: apple-earpods-usb-c
+audiodb_uid: adb-ed9c465a8768
 date: 2025-07-19
 rating: [1.4, 0.3, 0.2, 0.4, 0.3, 0.2]
 price: 19
@@ -12,7 +13,6 @@ summary: "Apple's wired earphones USB-C version. Measurement results show 12dB b
 tags: [Apple, Earphones, USB-C, Wired, Entry-level]
 permalink: /products/en/apple-earpods-usb-c/
 ---
-
 ## Overview
 
 The Apple EarPods USB-C is Apple's wired earphone released in 2024. It features a USB-C connector instead of the previous Lightning connection, making it compatible with the latest iPhones and many Android devices. The product adopts an open-air design with a distinctive shape that does not include ear tips. With basic specifications including 109dB sensitivity, 23Ω impedance, and a frequency range of 5Hz-21kHz, it incorporates remote control functions and a built-in microphone. While designed with emphasis on compatibility within the Apple ecosystem, it faces numerous constraints in terms of acoustic performance.

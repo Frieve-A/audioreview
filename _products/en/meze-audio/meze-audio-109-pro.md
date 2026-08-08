@@ -5,6 +5,7 @@ target_name: "Meze Audio 109 PRO"
 company_id: meze-audio
 lang: en
 ref: meze-audio-109-pro
+audiodb_uid: adb-a251705e6738
 date: 2025-12-21
 rating: [2.4, 0.3, 0.7, 0.2, 0.6, 0.6]
 price: 799

@@ -5,6 +5,7 @@ target_name: "EPOS ES-14N"
 company_id: epos
 lang: en
 ref: epos-es-14n
+audiodb_uid: adb-8ea6eba5c5b7
 date: 2025-11-18
 rating: [3.5, 0.7, 0.8, 0.5, 0.7, 0.8]
 price: 4700

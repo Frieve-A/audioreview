@@ -5,6 +5,7 @@ target_name: "Quad 44"
 company_id: quad
 lang: ja
 ref: quad-44
+audiodb_uid: adb-7beb1ebb98f9
 date: 2025-07-21
 rating: [2.9, 0.6, 0.6, 0.5, 0.7, 0.5]
 price: 82500

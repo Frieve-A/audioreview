@@ -5,6 +5,7 @@ target_name: "Monitor Audio Gold Signature GS20"
 company_id: monitor-audio
 lang: en
 ref: monitor-audio-gold-signature-gs20
+audiodb_uid: adb-7ec5c35e2eae
 date: 2025-08-24
 rating: [2.1, 0.7, 0.6, 0.7, 0.1, 0.0]
 price: 3000

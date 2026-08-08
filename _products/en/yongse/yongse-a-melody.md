@@ -5,6 +5,7 @@ target_name: "Yongse A-melody"
 company_id: yongse
 lang: en
 ref: yongse-a-melody
+audiodb_uid: adb-c5bd569cf8ec
 date: 2026-01-02
 rating: [1.2, 0.0, 0.6, 0.1, 0.5, 0.0]
 price: 280

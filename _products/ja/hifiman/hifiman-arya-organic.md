@@ -5,6 +5,7 @@ target_name: "HiFiMAN Arya Organic"
 company_id: hifiman
 lang: ja
 ref: hifiman-arya-organic
+audiodb_uid: adb-adbc08fdba3b
 date: 2025-08-20
 rating: [3.7, 0.8, 0.7, 0.9, 0.6, 0.7]
 price: 166014
@@ -12,7 +13,6 @@ summary: "16Ω/94dBの公式仕様と第三者測定に裏付けられた性能�
 tags: [ヘッドホン, 平面磁界型, オープンバック, HiFiMAN, ハイエンド]
 permalink: /products/ja/hifiman-arya-organic/
 ---
-
 ## 概要
 
 HiFiMAN Arya Organicは、ナノメートル厚ダイアフラムと「ステルス磁石」を採用し、インピーダンスを16オームに最適化した第4世代モデルです。公式仕様は感度94 dB、周波数帯域8 Hz–65 kHzです[1]。2025年8月時点で米国主要小売にて979 USDで継続的に販売されています[3]。日本国内の実売最安例は**166,014円**（価格.com、2025-08-19時点）です[10]。

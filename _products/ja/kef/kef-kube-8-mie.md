@@ -5,6 +5,7 @@ target_name: "KEF Kube 8 MIE"
 company_id: kef
 lang: ja
 ref: kef-kube-8-mie
+audiodb_uid: adb-41f87617185f
 date: 2025-08-12
 rating: [3.3, 0.5, 0.6, 0.9, 0.6, 0.7]
 price: 104999
@@ -12,7 +13,6 @@ summary: "Music Integrity Engine技術を搭載したコンパクトな8イン�
 tags: [サブウーファー, 密閉型, コンパクト, DSP, KEF]
 permalink: /products/ja/kef-kube-8-mie/
 ---
-
 ## 概要
 
 KEF Kube 8 MIEは、300WクラスDアンプで駆動される8インチドライバーを搭載したコンパクト密閉型サブウーファーです。2024年にKEFの拡張されたサブウーファーラインナップの一部として導入され、動的低音最適化のためのIntelligent Bass Extension (iBX)を含むMusic Integrity Engine (MIE)技術を組み込んでいます。密閉設計は最大出力よりも正確性を優先し、室内を揺るがすボリュームよりも精密な低音再生が求められる小空間でのリスニング環境やステレオシステムに適しています。

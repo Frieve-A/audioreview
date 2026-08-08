@@ -5,6 +5,7 @@ target_name: "HIFIMAN Goldenwave SERENADE Jr"
 company_id: hifiman
 lang: en
 ref: hifiman-serenade-jr
+audiodb_uid: adb-3c8588c6ba23
 date: 2025-10-23
 rating: [3.5, 0.6, 0.8, 1.0, 0.6, 0.5]
 price: 649

@@ -5,6 +5,7 @@ target_name: "Sennheiser HD 620S"
 company_id: sennheiser
 lang: ja
 ref: sennheiser-hd-620s
+audiodb_uid: adb-9d758574288b
 date: 2025-09-03
 rating: [3.0, 0.6, 0.6, 0.5, 0.6, 0.7]
 price: 49800

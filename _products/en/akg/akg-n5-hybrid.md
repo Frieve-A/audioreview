@@ -5,6 +5,7 @@ target_name: "AKG N5 Hybrid"
 company_id: akg
 lang: en
 ref: akg-n5-hybrid
+audiodb_uid: adb-c8f5bd90e383
 date: 2025-07-20
 rating: [3.5, 0.7, 0.8, 0.8, 0.6, 0.6]
 price: 191

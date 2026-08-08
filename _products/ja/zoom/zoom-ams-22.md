@@ -5,6 +5,7 @@ target_name: "Zoom AMS-22"
 company_id: zoom
 lang: ja
 ref: zoom-ams-22
+audiodb_uid: adb-298e501721e4
 date: 2025-08-25
 rating: [2.9, 0.5, 0.5, 1.0, 0.4, 0.5]
 price: 12999
@@ -12,7 +13,6 @@ summary: "超小型で基本機能に徹した入門用オーディオインタ�
 tags: [オーディオインターフェース, 録音, 配信, USB-C, 予算]
 permalink: /products/ja/zoom-ams-22/
 ---
-
 ## 概要
 
 Zoom AMS-22は、エントリー向けの録音・配信用2イン2アウトUSB-Cオーディオインターフェースです。24ビット/96 kHz変換、ファンタム電源付きXLR/TRSマイク/Hi-Zコンボ入力×1、**専用ステレオ3.5 mmライン入力**、ヘッドホン/モニター出力を備えます。価格は12,999円（79.99 USD）で、ソロの楽器/ボーカル録音や簡易配信に適した超小型モデルです。

@@ -5,6 +5,7 @@ target_name: "Hisenior Mega5EST"
 company_id: hisenior
 lang: en
 ref: hisenior-mega5est
+audiodb_uid: adb-23b3f49a79a5
 date: 2025-09-02
 rating: [3.2, 0.7, 0.7, 0.3, 0.6, 0.9]
 price: 549

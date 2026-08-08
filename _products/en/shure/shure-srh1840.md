@@ -5,6 +5,7 @@ target_name: "Shure SRH1840"
 company_id: shure
 lang: en
 ref: shure-srh1840
+audiodb_uid: adb-470a3408f018
 date: 2025-08-31
 rating: [2.8, 0.3, 0.6, 0.4, 0.8, 0.7]
 price: 549
@@ -12,7 +13,6 @@ summary: "Open-back studio headphones with flat frequency response but documente
 tags: [Headphones, Open-back, Studio, Professional]
 permalink: /products/en/shure-srh1840/
 ---
-
 ## Overview
 
 The Shure SRH1840 are professional open-back headphones featuring individually matched 40 mm neodymium drivers for mastering and critical listening. Their open-back design targets natural sound with wide stereo imaging. Aircraft-grade aluminum, steel driver frames, and detachable MMCX cables round out a studio-durable build.

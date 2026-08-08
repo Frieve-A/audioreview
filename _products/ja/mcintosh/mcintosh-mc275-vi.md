@@ -5,6 +5,7 @@ target_name: "McIntosh MC275 VI"
 company_id: mcintosh
 lang: ja
 ref: mcintosh-mc275-vi
+audiodb_uid: adb-0267eca19d51
 date: 2025-08-28
 rating: [1.7, 0.3, 0.6, 0.0, 0.6, 0.2]
 price: 1540000
@@ -12,7 +13,6 @@ summary: "2×75Wの真空管パワーアンプ。トランス結合としては�
 tags: [真空管, ステレオ, パワーアンプ]
 permalink: /products/ja/mcintosh-mc275-vi/
 ---
-
 ## 概要
 
 MC275 VIは4/8/16Ωで各75W（モノラル並列150W）の真空管パワーアンプです。自社のUnity Coupled出力トランス、Sentry Monitor保護回路、鏡面シャーシなどを継承します。メーカー仕様はTHD 0.5%、S/N 105dB（定格時）、ダンピングファクター>22。第三者測定では広帯域と比較的低い出力インピーダンスが確認されるものの、透明性基準には達しない指標が複数あります [1][2]。

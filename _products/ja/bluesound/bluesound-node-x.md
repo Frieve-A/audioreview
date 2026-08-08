@@ -5,6 +5,7 @@ target_name: "Bluesound NODE X"
 company_id: bluesound
 lang: ja
 ref: bluesound-node-x
+audiodb_uid: adb-1b0cb54a2419
 date: 2025-07-08
 rating: [3.6, 0.7, 0.7, 0.7, 0.8, 0.7]
 price: 105000
@@ -12,7 +13,6 @@ summary: "Bluesound10周年記念限定モデル。ESS Sabre ES9028Q2M DAC、THX
 tags: [BluOS, DAC, THX, ネットワークストリーマー, 限定版]
 permalink: /products/ja/bluesound-node-x/
 ---
-
 ## 概要
 
 Bluesound NODE Xは2023年発売の同社10周年記念限定版ストリーミングDAC。通常のNODE（549USD）から200USD高い749USD（約10.5万円）で販売された。シルバー仕上げが特徴で、ESS Sabre ES9028Q2M DAC、THX AAAヘッドホンアンプ、6.35mmヘッドホン出力、リモコンを追加搭載。BluOS 3.20.20、24bit/192kHz対応、MQA対応、DSD再生対応など基本機能は通常版と同等。HDMI eARC、AirPlay 2、双方向Bluetooth aptX HD、Tidal/Spotify Connect対応。マルチルーム機能により最大64台の同期再生が可能。限定生産のため現在は販売終了。Bluesound伝統のマルチルーム体験に加え、ヘッドホン駆動力を強化した上位機種として位置づけられる。

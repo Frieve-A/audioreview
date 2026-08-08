@@ -5,6 +5,7 @@ target_name: "Shure SM7dB"
 company_id: shure
 lang: en
 ref: shure-sm7db
+audiodb_uid: adb-4c06a658458e
 date: 2025-08-02
 rating: [3.8, 0.7, 0.8, 0.6, 0.9, 0.8]
 price: 499

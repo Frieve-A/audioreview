@@ -5,6 +5,7 @@ target_name: "Genelec 8010A"
 company_id: genelec
 lang: ja
 ref: genelec-8010a
+audiodb_uid: adb-c7aceaced3f5
 date: 2025-08-24
 rating: [2.9, 0.3, 0.8, 0.4, 0.8, 0.6]
 price: 46200
@@ -12,7 +13,6 @@ summary: "低域・出力に明確な限界がある超小型モニター。造�
 tags: [スタジオモニター, アクティブモニター, ニアフィールドモニター, デスクトップモニター]
 permalink: /products/ja/genelec-8010a/
 ---
-
 ## 概要
 
 Genelec 8010Aは、デスクトップ等の制約空間に最適化された3インチ級のバイアンプ・アクティブ・スタジオモニターです。アルミ・ダイカスト筐体にDirectivity Control Waveguide（DCW）を備え、25 W×2のClass-Dアンプで3インチ・ウーファーと0.75インチ・メタルドーム・ツイーターを駆動します。背面には簡易なルーム補正スイッチを搭載します[1][2]。

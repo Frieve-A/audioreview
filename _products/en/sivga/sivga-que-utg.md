@@ -5,6 +5,7 @@ target_name: "SIVGA Que UTG"
 company_id: sivga
 lang: en
 ref: sivga-que-utg
+audiodb_uid: adb-0506e929fd11
 date: 2025-07-25
 rating: [2.3, 0.6, 0.7, 0.2, 0.4, 0.4]
 price: 107
@@ -12,7 +13,6 @@ summary: "Revolutionary IEM featuring world's first Ultra-Thin Glass (UTG) diaph
 tags: [SIVGA, Earphones, In-Ear Monitors, Glass Diaphragm, UTG, Dynamic]
 permalink: /products/en/sivga-que-utg/
 ---
-
 ## Overview
 
 The SIVGA Que UTG is a canal-type earphone released in May 2025 by SIVGA (Dongguan Siweige Electronic Technology Co., Ltd.), a Chinese manufacturer. It features the world's first Ultra-Thin Glass (UTG) diaphragm in a 10mm dynamic driver, utilizing innovative glass diaphragm technology from Japan's NEG Corporation. The design combines a green sandalwood faceplate with a zinc alloy shell for a premium appearance, and offers easy drivability with 32Ω impedance and 103dB sensitivity. It includes modular cables with 3.5mm/4.4mm connectors and a 0.78mm 2pin interface, marketed at 107 USD. This ambitious model aims for differentiation through a V-shaped sound signature and world-first technology.

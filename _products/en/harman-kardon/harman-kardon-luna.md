@@ -5,6 +5,7 @@ target_name: "Harman Kardon Luna"
 company_id: harman-kardon
 lang: en
 ref: harman-kardon-luna
+audiodb_uid: adb-f3c4d6865543
 date: 2025-08-27
 rating: [3.1, 0.5, 0.5, 0.7, 0.7, 0.7]
 price: 145

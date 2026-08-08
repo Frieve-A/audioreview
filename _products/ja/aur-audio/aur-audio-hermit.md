@@ -5,6 +5,7 @@ target_name: "AüR Audio Hermit"
 company_id: aur-audio
 lang: ja
 ref: aur-audio-hermit
+audiodb_uid: adb-b9bcd4a0ad6d
 date: 2025-08-21
 rating: [1.7, 0.5, 0.4, 0.0, 0.5, 0.3]
 price: 170700

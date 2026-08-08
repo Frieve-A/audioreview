@@ -5,6 +5,7 @@ target_name: "TEAC AX-505"
 company_id: teac
 lang: ja
 ref: teac-ax-505
+audiodb_uid: adb-0de389198430
 date: 2025-08-05
 rating: [3.3, 0.6, 0.5, 1.0, 0.4, 0.8]
 price: 140000

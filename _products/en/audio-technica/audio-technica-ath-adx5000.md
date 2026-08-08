@@ -5,6 +5,7 @@ target_name: "Audio-Technica ATH-ADX5000"
 company_id: audio-technica
 lang: en
 ref: audio-technica-ath-adx5000
+audiodb_uid: adb-606be6470651
 date: 2025-07-26
 rating: [2.5, 0.4, 0.8, 0.1, 0.7, 0.5]
 price: 1390
@@ -12,7 +13,6 @@ summary: "Flagship open-back headphones with advanced technology, but suffers fr
 tags: [Headphones, Open-Back, Dynamic, Flagship, Audio-Technica]
 permalink: /products/en/audio-technica-ath-adx5000/
 ---
-
 ## Overview
 
 The Audio-Technica ATH-ADX5000 is the company's flagship open-back headphones. It features a 58mm tungsten-coated diaphragm, permendur magnetic circuit, and proprietary Core Mount Technology, with hand-assembled production in Japan. The lightweight 270g magnesium chassis aims to improve wearing comfort. Released in 2017, it represents the technical pinnacle of Audio-Technica's open-back headphone lineup. The price is 1390 USD.

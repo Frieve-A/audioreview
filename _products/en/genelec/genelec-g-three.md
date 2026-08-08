@@ -5,6 +5,7 @@ target_name: "Genelec G Three"
 company_id: genelec
 lang: en
 ref: genelec-g-three
+audiodb_uid: adb-e1f242d38002
 date: 2025-07-24
 rating: [3.4, 0.8, 0.7, 0.2, 0.9, 0.8]
 price: 1305

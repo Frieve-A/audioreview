@@ -5,6 +5,7 @@ target_name: "SMSL A50 Pro"
 company_id: smsl
 lang: en
 ref: smsl-a50-pro
+audiodb_uid: adb-a775086a52a2
 date: 2025-08-01
 rating: [3.6, 0.8, 0.5, 1.0, 0.5, 0.8]
 price: 87

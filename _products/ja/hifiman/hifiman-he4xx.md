@@ -5,6 +5,7 @@ target_name: "HIFIMAN HE4XX"
 company_id: hifiman
 lang: ja
 ref: hifiman-he4xx
+audiodb_uid: adb-d6895c65a923
 date: 2025-09-19
 rating: [2.9, 0.5, 0.5, 0.9, 0.3, 0.7]
 price: 25400
@@ -12,7 +13,6 @@ summary: "Drop とのコラボレーションによる平面磁界型ヘッド�
 tags: [ヘッドホン, 平面磁界型, オープンバック, Dropコラボ, オーバーイヤー]
 permalink: /products/ja/hifiman-he4xx/
 ---
-
 ## 概要
 
 HIFIMAN HE4XXは、Drop（旧Massdrop）とHIFIMANによる協力製品で、一般消費者が手の届く価格で平面磁界ドライバー技術を提供しています。2017年にHE400iの改良版として発売されたHE4XXは、35オームインピーダンス、93dB感度、20Hz～35kHzの周波数特性を備えています。スプリングスチール製ヘッドバンド構造と合成レザーパッドを採用したオープンバック設計で、200ドル以下で平面磁界性能を求めるオーディオファイルを対象としています。HIFIMANの公式ウェブサイトでは製造中止となっていますが [7]、2025年現在もDropや主要小売店での入手が可能です [4]。

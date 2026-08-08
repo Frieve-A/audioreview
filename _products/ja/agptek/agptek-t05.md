@@ -5,6 +5,7 @@ target_name: "AGPTEK T05"
 company_id: agptek
 lang: ja
 ref: agptek-t05
+audiodb_uid: adb-2784ce9c33ca
 date: 2025-12-22
 rating: [2.8, 0.5, 0.4, 1.0, 0.3, 0.6]
 price: 6900
@@ -12,7 +13,6 @@ summary: "Android搭載のWiFi対応MP4プレーヤーで、ストリーミン�
 tags: [デジタルオーディオプレーヤー, Android, WiFi, Bluetooth, タッチスクリーン, ストリーミング, 低価格]
 permalink: /products/ja/agptek-t05/
 ---
-
 ## 概要
 
 AGPTEK T05は、WiFi機能を搭載したデジタルオーディオプレーヤーで、Android 6.0オペレーティングシステム、4インチHDタッチスクリーン（480×960解像度）、SpotifyやYouTubeを含むストリーミングアプリに対応しています。この機器は、従来のポータブル音楽再生機能に加え、WiFiとBluetooth 4.0による現代的な接続機能を組み合わせています。T05（ここでレビューする8GBモデル）は、8GBの内蔵ストレージとRAM 1GBを搭載し、microSDカードで32GBまで拡張可能です。FLACを含む複数の音声形式に対応し、3.5mmヘッドフォン出力に加えて内蔵スピーカーも備えています。Androidベースにより、音楽再生以外にも動画ストリーミング、FMラジオ、音声録音、電子書籍リーダー機能などのアプリケーションへのアクセスが可能です。

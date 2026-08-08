@@ -5,6 +5,7 @@ target_name: "MOONDROP Cosmo"
 company_id: moondrop
 lang: en
 ref: moondrop-cosmo
+audiodb_uid: adb-7a502f887193
 date: 2025-08-24
 rating: [2.6, 0.6, 0.7, 0.3, 0.4, 0.6]
 price: 899

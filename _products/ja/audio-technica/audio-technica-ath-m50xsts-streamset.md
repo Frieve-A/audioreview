@@ -5,6 +5,7 @@ target_name: "Audio-Technica ATH-M50xSTS StreamSet"
 company_id: audio-technica
 lang: ja
 ref: audio-technica-ath-m50xsts-streamset
+audiodb_uid: adb-0b89ce6ee1c8
 date: 2025-09-05
 rating: [3.2, 0.6, 0.6, 0.7, 0.6, 0.7]
 price: 34500
@@ -12,7 +13,6 @@ summary: "ATH-M50xドライバーと20シリーズマイク技術を融合した
 tags: [ストリーミング, ゲーミング, プロ仕様, USB, XLR, マイクロホン]
 permalink: /products/ja/audio-technica-ath-m50xsts-streamset/
 ---
-
 ## 概要
 
 ATH-M50xSTS StreamSetは、Audio-Technicaが2024年に発売した初のプロ仕様ストリーミングヘッドセットです。伝説的なATH-M50xスタジオヘッドホンの45mmドライバーと、同社の実績ある20シリーズマイク技術を組み合わせた製品です。24ビット/96kHz A/Dコンバーター内蔵のUSBタイプと、プロオーディオインターフェース用のXLRタイプの2種類で展開され、スタジオグレードの音響性能を求めるコンテンツクリエイターを対象としています。標準的なM50x用イヤーパッドと通気性の良いメッシュ・レザーレットイヤーパッドが付属し、カーディオイド指向性パターンのフリップ式ミュートブームマイクを備えています。

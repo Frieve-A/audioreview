@@ -5,6 +5,7 @@ target_name: "Bose QuietComfort Ultra Earbuds"
 company_id: bose
 lang: ja
 ref: bose-quietcomfort-ultra-earbuds
+audiodb_uid: adb-ea7779d92356
 date: 2025-07-06
 rating: [3.8, 0.8, 0.8, 0.8, 0.8, 0.6]
 price: 28880
@@ -12,7 +13,6 @@ summary: "CustomTune技術とImmersive Audio機能を搭載し、業界最高ク
 tags: [ANC最高峰, CustomTune, "Immersive Audio", アメリカ, 完全ワイヤレスイヤホン]
 permalink: /products/ja/bose-quietcomfort-ultra-earbuds/
 ---
-
 ## 概要
 
 Bose QuietComfort Ultra Earbudsは、Boseの最新フラッグシップ完全ワイヤレスイヤホンです。独自のCustomTune技術により個人の耳の形状を分析し、音質とノイズキャンセリングを自動調整。Immersive Audio技術による立体音響体験、Snapdragon Sound認証、Qualcomm aptX Adaptive対応など最先端技術を搭載しています。ANC性能は業界最高水準で、400Hz以下で最大34dB、1kHz以上で最大39dBの減衰を実現。重量わずか7.1gの軽量設計ながら、IPX4防水、マルチポイント接続、最大6時間のバッテリー持続など実用性も高水準です。

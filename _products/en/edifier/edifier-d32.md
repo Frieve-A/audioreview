@@ -5,6 +5,7 @@ target_name: "Edifier D32"
 company_id: edifier
 lang: en
 ref: edifier-d32
+audiodb_uid: adb-d020a977338e
 date: 2025-10-15
 rating: [3.7, 0.5, 0.7, 1.0, 0.7, 0.8]
 price: 199.99

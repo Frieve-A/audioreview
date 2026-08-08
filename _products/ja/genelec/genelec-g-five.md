@@ -5,6 +5,7 @@ target_name: "Genelec G Five"
 company_id: genelec
 lang: ja
 ref: genelec-g-five
+audiodb_uid: adb-1a4510d85a63
 date: 2025-08-12
 rating: [2.9, 0.6, 0.6, 0.2, 0.8, 0.7]
 price: 242000
@@ -12,7 +13,6 @@ summary: "合理的な設計思想と堅実な仕様だが、同等機能の8イ
 tags: [スタジオモニター, アクティブスピーカー, プロオーディオ, ニアフィールドモニター]
 permalink: /products/ja/genelec-g-five/
 ---
-
 ## 概要
 
 Genelec G Fiveはコンシューマー向けGシリーズのフラッグシップで、プロ用モニターのふるまいをホーム用途に持ち込むことを狙います。8インチウーファーと1インチツイーターのバイアンプ（計270W、Class AB）構成、ダイキャストアルミ筐体、Minimum Diffraction EnclosureとDCWウェーブガイドにより、平坦な応答と制御された放射を目指します。大出力と中大型空間でのニュートラルな再生を重視した設計です。

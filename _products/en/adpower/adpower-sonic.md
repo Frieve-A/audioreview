@@ -5,6 +5,7 @@ target_name: "adpower sonic"
 company_id: adpower
 lang: en
 ref: adpower-sonic
+audiodb_uid: adb-1cd38bc5025c
 date: 2025-08-02
 rating: [1.1, 0.1, 0.2, 0.2, 0.5, 0.1]
 price: 47
@@ -12,7 +13,6 @@ summary: "An audio equipment sheet claiming static electricity removal that lack
 tags: [Audio Accessories, Static Electricity Removal, EMI Shielding]
 permalink: /products/en/adpower-sonic/
 ---
-
 ## Overview
 
 AdPower Sonic is an audio equipment sheet said to apply static electricity removal technology from the automotive AdPower series. Marketed for sound quality improvement by attaching it to speaker ports and baffle surfaces, it is a thin sheet (from 16×32×0.5mm to 36×98×0.5mm) sold at 47 USD for the M size and 67 USD for the L size. The product claims audio improvement through static electricity removal, but no scientific verification data or measurement results are provided.

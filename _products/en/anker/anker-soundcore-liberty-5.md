@@ -5,6 +5,7 @@ target_name: "Anker Soundcore Liberty 5"
 company_id: anker
 lang: en
 ref: anker-soundcore-liberty-5
+audiodb_uid: adb-f8c56cad0dcf
 date: 2025-07-19
 rating: [2.6, 0.4, 0.6, 0.3, 0.7, 0.6]
 price: 129.99

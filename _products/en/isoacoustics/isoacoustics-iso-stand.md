@@ -5,6 +5,7 @@ target_name: "IsoAcoustics ISO-155"
 company_id: isoacoustics
 lang: en
 ref: isoacoustics-iso-stand
+audiodb_uid: adb-d59b4a2756d9
 date: 2025-12-21
 rating: [3.6, 0.5, 0.7, 1.0, 0.7, 0.7]
 price: 119.99

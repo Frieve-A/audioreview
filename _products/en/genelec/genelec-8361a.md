@@ -5,6 +5,7 @@ target_name: "Genelec 8361A"
 company_id: genelec
 lang: en
 ref: genelec-8361a
+audiodb_uid: adb-9081c66bd283
 date: 2026-03-15
 rating: [4.5, 0.8, 1.0, 1.0, 0.7, 1.0]
 price: 5450

@@ -5,6 +5,7 @@ target_name: "Questyle Sigma"
 company_id: questyle
 lang: ja
 ref: questyle-sigma
+audiodb_uid: adb-9660e44ab681
 date: 2025-11-13
 rating: [3.1, 0.8, 0.8, 0.3, 0.5, 0.7]
 price: 89040
@@ -12,7 +13,6 @@ summary: "独自のカレントモードアンプ技術と優秀な測定仕様�
 tags: [DAC, ヘッドホンアンプ, ポータブルオーディオ, ハイレゾ, Bluetooth]
 permalink: /products/ja/questyle-sigma/
 ---
-
 ## 概要
 
 Questyle Sigmaは、同社の特許技術であるカレントモードアンプ（CMA）テクノロジーを搭載したポータブルDAC・ヘッドホンアンプです。89,040円の価格設定で、ポータブルフォームファクターでデスクトップレベルの性能を求めるオーディオファイルをターゲットとしています。単一のAKM AK4493 DACチップを搭載し、PCM 768kHz/32bitおよびDSD512までの包括的なフォーマット対応に加え、LDACやaptXを含む高品質コーデック対応のBluetooth 5.4接続を備えています。CNC削り出しアルミニウムシャーシには3.5mmシングルエンドと4.4mmバランス出力、充電とデータ機能を分離したデュアルUSB-Cポートを配置し、120dB SNRと0.0002% THD+Nを含むプロフェッショナルレベルの測定性能を謳っています。

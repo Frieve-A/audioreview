@@ -5,6 +5,7 @@ target_name: "Samson SR850"
 company_id: samson
 lang: en
 ref: samson-sr850
+audiodb_uid: adb-441059885d9c
 date: 2025-11-07
 rating: [2.6, 0.5, 0.3, 0.6, 0.6, 0.6]
 price: 39
@@ -12,7 +13,6 @@ summary: "Budget semi-open headphones with conventional design and OEM manufactu
 tags: [Headphones, Semi-Open, Studio, Budget, OEM]
 permalink: /products/en/samson-sr850/
 ---
-
 ## Overview
 
 The Samson SR850 Semi-Open Studio Headphones represent a conventional approach to budget audio equipment, utilizing OEM manufacturing to deliver basic headphone functionality at accessible pricing. Manufactured by Superlux and sharing drivers with the HD668B model, these headphones feature 50mm dynamic drivers with neodymium magnets in a semi-open design. While marketed for studio applications, the SR850 serves primarily as an entry-level option for general music listening. The product demonstrates Samson's strategy of leveraging established OEM partnerships to offer audio equipment at competitive prices, though this approach limits technological differentiation and innovation.

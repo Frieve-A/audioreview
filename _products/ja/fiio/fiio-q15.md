@@ -5,6 +5,7 @@ target_name: "FiiO Q15"
 company_id: fiio
 lang: ja
 ref: fiio-q15
+audiodb_uid: adb-dd714e8ff4b9
 date: 2025-08-11
 rating: [3.0, 0.7, 0.6, 0.7, 0.6, 0.4]
 price: 69800
@@ -12,7 +13,6 @@ summary: "AK4191+AK4499EX DAC組み合わせによる1600mWバランス出力を
 tags: [ポータブル, DAC, アンプ, Bluetooth, LDAC, バランス, AKM]
 permalink: /products/ja/fiio-q15/
 ---
-
 ## 概要
 
 FiiO Q15は、AKMのフラッグシップAK4191+AK4499EX DAC組み合わせを採用したポータブルDAC/ヘッドホンアンプです。約399ドル（約300,000円）の価格設定で、USB DAC、LDAC対応Bluetooth 5.1、同軸入力を含む包括的な接続性を提供し、768kHz/32bit PCMおよびDSD512までの高解像度フォーマットに対応します。デュアル3.5mmおよび4.4mmヘッドホン出力による1600mWバランス出力、パラメトリックEQ機能、デスクトップモード動作を備えています。XMOS XU316、TI Cortex M4、Qualcomm QCC5125チップによるトリプル処理コア構成で、Q15は広範なフォーマット対応と現代的な接続オプションを備えたデスクトップグレードのポータブルソリューションとして位置づけられています。

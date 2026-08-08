@@ -5,6 +5,7 @@ target_name: "Sennheiser HD 25"
 company_id: sennheiser
 lang: en
 ref: sennheiser-hd-25
+audiodb_uid: adb-e9853c9e47e4
 date: 2026-04-28
 rating: [2.7, 0.3, 0.3, 0.7, 0.8, 0.6]
 price: 149.95
@@ -12,7 +13,6 @@ summary: "Professional monitoring headphones with mixed technical performance, e
 tags: [Headphones, Professional, Monitoring, Closed-back, On-ear, Dynamic]
 permalink: /products/en/sennheiser-hd-25/
 ---
-
 ## Overview
 
 The Sennheiser HD 25 are professional closed-back on-ear monitoring headphones originally developed in 1988 for broadcasting applications. Positioned as an industry standard for DJs, broadcast engineers, and audio professionals, these headphones feature a distinctive split headband design, rotating earcups for single-ear monitoring, and modular construction with replaceable components. The HD 25 maintains a 30-year track record in professional environments, from British Airways Concorde flights to modern DJ booths and broadcast facilities. Current retail pricing stands at 149.95 USD across major vendors, targeting the professional monitoring segment with emphasis on durability and noise isolation for loud environments.

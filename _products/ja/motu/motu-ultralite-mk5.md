@@ -5,6 +5,7 @@ target_name: "MOTU UltraLite-mk5"
 company_id: motu
 lang: ja
 ref: motu-ultralite-mk5
+audiodb_uid: adb-58eb73a72ad5
 date: 2025-08-10
 rating: [4.5, 0.9, 0.8, 1.0, 0.9, 0.9]
 price: 104993
@@ -12,7 +13,6 @@ summary: "ESS Sabre32 DACを搭載し、マスタリング品質の125dBダイ�
 tags: [オーディオインターフェース, USB-C, ESS Sabre, プロフェッショナル録音, マルチチャンネル]
 permalink: /products/ja/motu-ultralite-mk5/
 ---
-
 ## 概要
 
 MOTU UltraLite-mk5は、MOTUのコンパクトオーディオインターフェースシリーズの第5世代製品で、18入力・22出力の合計40同時チャンネルをポータブルなハーフラック筐体に収めています。ESS TechnologyのリファレンスグレードES9026PRO SABRE DACを核として設計され、125dBダイナミックレンジ、-114dB THD+N、USB-C接続での2.4msという低レイテンシーを実現したプロフェッショナルグレード変換器です。オンボードDSP処理、光ADATを含む包括的I/O、Mac・PC・iOSプラットフォーム対応を特徴としています。

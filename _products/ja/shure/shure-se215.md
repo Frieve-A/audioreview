@@ -5,6 +5,7 @@ target_name: "Shure SE215"
 company_id: shure
 lang: ja
 ref: shure-se215
+audiodb_uid: adb-b40683e6acf1
 date: 2025-08-14
 rating: [2.7, 0.3, 0.4, 0.9, 0.6, 0.5]
 price: 16350

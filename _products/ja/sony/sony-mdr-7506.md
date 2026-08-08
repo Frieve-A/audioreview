@@ -5,6 +5,7 @@ target_name: "Sony MDR-7506"
 company_id: sony
 lang: ja
 ref: sony-mdr-7506
+audiodb_uid: adb-74f449b39f31
 date: 2025-07-23
 rating: [2.7, 0.3, 0.4, 1.0, 0.8, 0.2]
 price: 14999

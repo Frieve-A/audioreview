@@ -5,6 +5,7 @@ target_name: "Beyerdynamic DT 770 Pro X"
 company_id: beyerdynamic
 lang: en
 ref: beyerdynamic-dt-770-pro-x
+audiodb_uid: adb-746264f65df6
 date: 2025-09-03
 rating: [3.3, 0.5, 0.7, 0.5, 0.8, 0.8]
 price: 199
@@ -12,7 +13,6 @@ summary: "Professional closed-back studio headphones featuring modern STELLAR.45
 tags: [Headphones, Studio, Closed-back, Professional, Monitoring]
 permalink: /products/en/beyerdynamic-dt-770-pro-x/
 ---
-
 ## Overview
 
 The Beyerdynamic DT 770 Pro X represents a modern evolution of the legendary DT 770 Pro series, originally developed as a limited edition for Beyerdynamic's 100th anniversary in 2024 but now available as a regular production model. Featuring the advanced STELLAR.45 dynamic driver system with 48-ohm impedance, these German-manufactured closed-back headphones target professional studio monitoring and mobile applications. The design incorporates detachable mini-XLR connectivity and maintains the characteristic DT 770 sound signature with enhanced bass and treble response.

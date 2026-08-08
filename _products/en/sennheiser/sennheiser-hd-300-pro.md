@@ -5,6 +5,7 @@ target_name: "Sennheiser HD 300 Pro"
 company_id: sennheiser
 lang: en
 ref: sennheiser-hd-300-pro
+audiodb_uid: adb-f611507f0850
 date: 2025-10-18
 rating: [2.9, 0.5, 0.4, 0.8, 0.7, 0.5]
 price: 200
@@ -12,7 +13,6 @@ summary: "Professional closed-back studio headphones with adequate performance a
 tags: [Headphones, Studio, Professional, Closed-back, Dynamic]
 permalink: /products/en/sennheiser-hd-300-pro/
 ---
-
 ## Overview
 
 The Sennheiser HD 300 Pro represents the company's entry into the professional studio monitoring market segment. Launched as a closed-back over-ear headphone designed specifically for professional audio work including editing, mixing, and studio environments, it features dynamic drivers with circumaural viscoelastic earpads for extended wearing sessions. The headphone emphasizes neutral, high-resolution sound reproduction with superior ambient noise attenuation capabilities. Weighing 548g total (297g without cable), it incorporates exchangeable cables and durable construction materials targeting professional use cases where reliability and consistent performance are essential.

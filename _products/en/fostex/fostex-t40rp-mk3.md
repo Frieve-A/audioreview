@@ -5,6 +5,7 @@ target_name: "Fostex T40RP-MK3"
 company_id: fostex
 lang: en
 ref: fostex-t40rp-mk3
+audiodb_uid: adb-1040a4026ebf
 date: 2025-09-26
 rating: [3.3, 0.8, 0.6, 0.6, 0.6, 0.7]
 price: 160

@@ -5,6 +5,7 @@ target_name: "PreSonus Eris3-5"
 company_id: presonus
 lang: ja
 ref: presonus-eris3-5
+audiodb_uid: adb-a8fcc68c5bb6
 date: 2025-07-20
 rating: [2.7, 0.5, 0.6, 0.6, 0.5, 0.5]
 price: 19300
@@ -12,7 +13,6 @@ summary: "PreSonus Eris3-5は、コンパクトな3.5インチスタジオモニ
 tags: [スタジオモニター, 3.5インチ, パワードスピーカー, PreSonus]
 permalink: /products/ja/presonus-eris3-5/
 ---
-
 ## 概要
 
 PreSonus Eris3-5は、同社のエントリーレベル・スタジオモニターシリーズの最小モデルです。3.5インチのケブラー製ウーファーと1インチシルクドーム・ツイーターを搭載し、25W RMSのClass ABアンプを内蔵しています。デスクトップでの使用を想定した小型設計で、周波数応答は80Hz-20kHzを謳っています。低価格帯の入門用モニターとして位置づけられ、ホームスタジオや小規模な制作環境での使用を想定した製品です。

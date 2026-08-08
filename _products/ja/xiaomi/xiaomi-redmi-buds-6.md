@@ -5,6 +5,7 @@ target_name: "Xiaomi Redmi Buds 6"
 company_id: xiaomi
 lang: ja
 ref: xiaomi-redmi-buds-6
+audiodb_uid: adb-63c2f5f477c1
 date: 2025-12-18
 rating: [3.5, 0.5, 0.8, 1.0, 0.4, 0.8]
 price: 4480
@@ -12,7 +13,6 @@ summary: "先進的な技術実装と競争力のある価格設定を持つワ�
 tags: [イヤホン, ワイヤレス, アクティブノイズキャンセリング, Bluetooth]
 permalink: /products/ja/xiaomi-redmi-buds-6/
 ---
-
 ## 概要
 
 Xiaomi Redmi Buds 6（モデルM2429E1）は、先進的な音響工学を特徴とする競争力のあるワイヤレスイヤホンに対するXiaomiのアプローチを表しています。これらのイヤホンは、最大49dBのアクティブノイズキャンセレーション、Bluetooth 5.4接続、充電1回あたり10時間のバッテリー寿命を提供します。ナイトブラック、クラウドホワイト、コーラルグリーンで展開されており、自社開発のHRTFアルゴリズムとAI搭載ノイズキャンセレーションを含む先進的な技術機能を備えたミッドレンジ市場セグメントをターゲットとしています。

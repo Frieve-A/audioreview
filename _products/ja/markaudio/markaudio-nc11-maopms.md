@@ -5,6 +5,7 @@ target_name: "MarkAudio NC11-MAOPMS"
 company_id: markaudio
 lang: ja
 ref: markaudio-nc11-maopms
+audiodb_uid: adb-bee8d03e60ef
 date: 2025-08-05
 rating: [2.6, 0.5, 0.7, 0.2, 0.6, 0.6]
 price: 348000

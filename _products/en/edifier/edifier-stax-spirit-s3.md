@@ -5,6 +5,7 @@ target_name: "Edifier STAX Spirit S3"
 company_id: edifier
 lang: en
 ref: edifier-stax-spirit-s3
+audiodb_uid: adb-e93887307a98
 date: 2025-09-06
 rating: [3.7, 0.7, 0.8, 0.8, 0.4, 1.0]
 price: 379.99

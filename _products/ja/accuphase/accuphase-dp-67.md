@@ -5,6 +5,7 @@ target_name: "Accuphase DP-67"
 company_id: accuphase
 lang: ja
 ref: accuphase-dp-67
+audiodb_uid: adb-7226bbe1babc
 date: 2025-08-08
 rating: [2.5, 0.8, 0.6, 0.3, 0.3, 0.5]
 price: 248000

@@ -5,6 +5,7 @@ target_name: "Aurender A1000"
 company_id: aurender
 lang: ja
 ref: aurender-a1000
+audiodb_uid: adb-98ec8d093760
 date: 2025-08-21
 rating: [2.4, 0.5, 0.7, 0.1, 0.7, 0.4]
 price: 599500
@@ -12,7 +13,6 @@ summary: "AKM 4490REQデュアルモノDAC搭載のネットワークストリ�
 tags: [ネットワークストリーマー, DAC, プリアンプ, AKM 4490, ハイレゾオーディオ, ミュージックサーバー]
 permalink: /products/ja/aurender-a1000/
 ---
-
 ## 概要
 
 Aurender A1000は、ネットワークミュージックサーバー/ストリーマー、DAC、プリアンプを一体化したモデルです。デュアルモノAKM 4490REQ DAC、PCM 32-bit/768 kHzおよびDSD512（アナログ出力）対応、120 GB NVMeキャッシュ、ユーザー増設用2.5インチベイ、USB Type-B/同軸/光のデジタル入力、USB/同軸のデジタル出力、テレビ音声入力用HDMI ARC、aptX-HD対応Bluetooth、6.9インチカラーLCDを備えます。国内実勢価格は**599,500円（3,850 USD）**が確認できます。 [1][2][7][8]

@@ -5,6 +5,7 @@ target_name: "final E2000"
 company_id: final
 lang: en
 ref: final-e2000
+audiodb_uid: adb-8c86baae41ff
 date: 2025-08-14
 rating: [2.8, 0.6, 0.4, 0.5, 0.6, 0.7]
 price: 44

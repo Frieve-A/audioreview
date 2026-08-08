@@ -5,6 +5,7 @@ target_name: "Ultimate Ears UE 6 Pro"
 company_id: ultimate-ears
 lang: en
 ref: ultimate-ears-ue-6-pro
+audiodb_uid: adb-0dc16f545cfe
 date: 2026-01-09
 rating: [3.7, 0.5, 0.6, 1.0, 0.8, 0.8]
 price: 699
@@ -12,7 +13,6 @@ summary: "Custom in-ear monitors with hybrid 3-driver design offering solid buil
 tags: [Headphones, In-Ear-Monitors, Custom-IEM, Hybrid-Drivers, Professional, Ultimate-Ears]
 permalink: /products/en/ultimate-ears-ue-6-pro/
 ---
-
 ## Overview
 
 The Ultimate Ears UE 6 Pro is a custom-fit in-ear monitor featuring a hybrid 3-driver configuration with two 6mm neodymium dynamic drivers and one TrueTone balanced armature driver arranged in a 3-way crossover design. Starting at 699 USD for standard finishes, with premium finishes reaching 799 USD, the UE 6 Pro targets professional musicians and audio engineers who require custom-fitted monitors with robust isolation and reliable performance. The hybrid design combines the low-frequency power of dynamic drivers with the detailed high-frequency response of balanced armature technology, utilizing a triple bore sound channel system to maintain frequency separation until reaching the eardrum.

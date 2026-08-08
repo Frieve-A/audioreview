@@ -5,6 +5,7 @@ target_name: "Lizer Lab JIJU-JET-3"
 company_id: lizer-lab
 lang: en
 ref: lizer-lab-jijujet3
+audiodb_uid: adb-3638657ae686
 date: 2025-08-19
 rating: [2.7, 0.3, 0.7, 0.4, 0.5, 0.8]
 price: 28
@@ -12,7 +13,6 @@ summary: "Innovative phase-plug ear tips with unique acoustic design targeting s
 tags: [Audio Accessories, Japan, Hybrid technology, Premium]
 permalink: /products/en/lizer-lab-jijujet3/
 ---
-
 ## Overview
 
 Lizer Lab JIJU-JET-3 is a Japan-made ear tip that integrates a metal phase plug and a vented structure with the stated aim of mitigating “in-head localization.” It targets IEMs with sound-nozzle diameters of 5.5 mm or larger and comes in S/M/L sizes [1]. The manufacturer positions the JIJU series as a patented approach to creating a more frontal image versus conventional ear tips [2].

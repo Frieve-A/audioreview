@@ -5,6 +5,7 @@ target_name: "Yamaha RX-V385"
 company_id: yamaha
 lang: en
 ref: yamaha-rx-v385
+audiodb_uid: adb-d5be7c28cc11
 date: 2025-09-02
 rating: [3.0, 0.5, 0.5, 1.0, 0.5, 0.5]
 price: 399.95

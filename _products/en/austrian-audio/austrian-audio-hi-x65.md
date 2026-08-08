@@ -5,6 +5,7 @@ target_name: "Austrian Audio Hi-X65"
 company_id: austrian-audio
 lang: en
 ref: austrian-audio-hi-x65
+audiodb_uid: adb-fe913a3e0b77
 date: 2025-08-15
 rating: [3.7, 0.6, 0.7, 0.9, 0.7, 0.8]
 price: 314.33
@@ -12,7 +13,6 @@ summary: "Open-back studio headphones with solid measured performance; cost-perf
 tags: [Headphones, Open-back, Studio, Professional, Dynamic]
 permalink: /products/en/austrian-audio-hi-x65/
 ---
-
 ## Overview
 
 The Austrian Audio Hi-X65 are open-back professional headphones designed for mixing and mastering. Founded by former AKG engineers, Austrian Audio brings measurement-first engineering with a proprietary 44 mm dynamic driver and ring-magnet motor. The design prioritizes low distortion, practical 25 Ω impedance, and robust metal hinges and headband.

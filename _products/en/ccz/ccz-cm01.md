@@ -5,6 +5,7 @@ target_name: "CCZ CM01"
 company_id: ccz
 lang: en
 ref: ccz-cm01
+audiodb_uid: adb-141fc74f26a2
 date: 2025-12-21
 rating: [3.3, 0.7, 0.5, 0.7, 0.6, 0.8]
 price: 18.99

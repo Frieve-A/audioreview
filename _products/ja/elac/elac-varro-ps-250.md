@@ -5,6 +5,7 @@ target_name: "Elac Varro PS-250"
 company_id: elac
 lang: ja
 ref: elac-varro-ps-250
+audiodb_uid: adb-3fc788f09f4a
 date: 2025-08-12
 rating: [3.6, 0.6, 0.7, 0.9, 0.7, 0.7]
 price: 105000
@@ -12,7 +13,6 @@ summary: "アプリ制御とAuto EQを備えるプレミアムシリーズの10�
 tags: [サブウーファー, アクティブ, BASH, アプリ制御, Auto EQ]
 permalink: /products/ja/elac-varro-ps-250/
 ---
-
 ## 概要
 
 Elac Varro PS-250は、ElacのプレミアムVarroシリーズのエントリーレベルモデルとして位置づけられる10インチパワードサブウーファーです。250ワットRMS BASH アンプが、大型の2.0インチボイスコイルを備えた処理済みペーパーコーンウーファーを駆動します。Bluetoothアプリ制御と16の内部パラメトリックEQによる自動ルーム補正など、モダンな利便性を備えています。一般的にハイエンドモデルに見られる高度なデジタル処理機能を提供する一方で、確立されたサブウーファー専門メーカーとの激しい競争下にある価格帯で競合しています。

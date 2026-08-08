@@ -5,6 +5,7 @@ target_name: "iFi audio NEO Stream"
 company_id: ifi-audio
 lang: ja
 ref: ifi-audio-neo-stream
+audiodb_uid: adb-7cdaa8619965
 date: 2026-05-19
 rating: [3.0, 0.7, 0.5, 0.7, 0.5, 0.6]
 price: 201345

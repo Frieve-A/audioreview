@@ -5,6 +5,7 @@ target_name: "Tanchjim Ola"
 company_id: tanchjim
 lang: ja
 ref: tanchjim-ola
+audiodb_uid: adb-fda80feca3a5
 date: 2025-09-19
 rating: [3.6, 0.6, 0.8, 1.0, 0.4, 0.8]
 price: 5983

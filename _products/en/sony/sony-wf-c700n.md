@@ -5,6 +5,7 @@ target_name: "Sony WF-C700N"
 company_id: sony
 lang: en
 ref: sony-wf-c700n
+audiodb_uid: adb-d9c92f0bd456
 date: 2025-08-29
 rating: [2.8, 0.4, 0.6, 0.8, 0.6, 0.4]
 price: 118

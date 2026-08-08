@@ -5,6 +5,7 @@ target_name: "AFUL Cantor"
 company_id: aful
 lang: ja
 ref: aful-cantor
+audiodb_uid: adb-f742223b7590
 date: 2025-07-30
 rating: [3.2, 0.7, 0.8, 0.3, 0.6, 0.8]
 price: 119850

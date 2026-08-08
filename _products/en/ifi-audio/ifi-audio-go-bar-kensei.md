@@ -5,6 +5,7 @@ target_name: "iFi Audio GO Bar Kensei"
 company_id: ifi-audio
 lang: en
 ref: ifi-audio-go-bar-kensei
+audiodb_uid: adb-2aa570bda5ab
 date: 2025-10-18
 rating: [3.1, 0.7, 0.8, 0.3, 0.7, 0.6]
 price: 449
@@ -12,7 +13,6 @@ summary: "Premium portable USB DAC/amplifier with Japanese stainless steel const
 tags: [portable-dac, headphone-amplifier, usb-dac, dongle-dac]
 permalink: /products/en/ifi-audio-go-bar-kensei/
 ---
-
 ## Overview
 
 The iFi Audio GO Bar Kensei represents the flagship model in iFi's portable DAC/amplifier lineup, featuring premium Japanese stainless steel construction and the company's proprietary K2HD upsampling technology. This USB-C powered device delivers substantial power output of 477mW into 32Ω loads via its 4.4mm balanced connection, utilizing a 16-core XMOS processor paired with Cirrus Logic CS43198 DAC implementation. The Kensei incorporates multiple DSP features including iEMatch sensitivity matching, XBass+ enhancement, XSpace soundstage processing, and four selectable digital filters, supporting high-resolution formats up to 384kHz/32-bit PCM and DSD256 with full MQA decoding capability.

@@ -5,6 +5,7 @@ target_name: "adam Adam Audio D3V"
 company_id: adam
 lang: ja
 ref: adam-audio-d3v
+audiodb_uid: adb-a19e559cc36c
 date: 2026-02-16
 rating: [4.2, 0.7, 0.8, 1.0, 0.7, 1.0]
 price: 58099
@@ -12,7 +13,6 @@ summary: "ADAM Audioの独自D-ARTツイーター技術を搭載し、USB-C接�
 tags: [アクティブモニター, デスクトップスピーカー, AMTツイーター, スタジオモニター, USB-C]
 permalink: /products/ja/adam-audio-d3v/
 ---
-
 ## 概要
 
 ADAM Audio D3Vは、同社のコンパクトデスクトップモニタリング分野への参入を代表する製品であり、25年間のAMTツイーター技術の専門知識をデスクトップ対応パッケージにもたらします。これらのアクティブモニターは独自のD-ARTツイーター、USB-Cデジタル接続、DSPルーム補正機能を240Wアンプシステムに搭載し、空間制約のある環境で正確なモニタリングを必要とするプロデューサーやコンテンツクリエイターを対象としています。

@@ -5,6 +5,7 @@ target_name: "FiiO JD10/JD10 Type-C"
 company_id: fiio
 lang: ja
 ref: jd10-type-c
+audiodb_uid: adb-52fb30a6537f
 date: 2026-05-27
 rating: [2.9, 0.4, 0.4, 1.0, 0.5, 0.6]
 price: 2250

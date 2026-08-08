@@ -5,6 +5,7 @@ target_name: "Rupert Neve Designs RNDI"
 company_id: rupert-neve-designs
 lang: ja
 ref: rupert-neve-designs-rndi
+audiodb_uid: adb-7deedadacee6
 date: 2025-07-21
 rating: [2.9, 0.7, 0.7, 0.1, 0.8, 0.6]
 price: 38500

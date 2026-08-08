@@ -5,6 +5,7 @@ target_name: "Kiwi Ears Orchestra Lite"
 company_id: kiwi-ears
 lang: ja
 ref: kiwi-ears-orchestra-lite
+audiodb_uid: adb-7179d80539d0
 date: 2025-08-21
 rating: [3.1, 0.6, 0.8, 0.4, 0.6, 0.7]
 price: 37000
@@ -12,7 +13,6 @@ summary: "8BA構成のハンドメイドIEM。公称仕様は16Ω・感度112dB�
 tags: [8BA, Kiwi Ears, インイヤーモニター, ハンドメイド, バランスドアーマチュア]
 permalink: /products/ja/kiwi-ears-orchestra-lite/
 ---
-
 ## 概要
 
 Kiwi Ears Orchestra Liteは、8基のバランスドアーマチュア（BA）ドライバーを搭載する有線インイヤーモニター（IEM）です。カスタムBA×2（高域）・カスタムBA×4（中域）・Knowles×2（低域）の3ウェイ構成を採用し、インピーダンス16Ω、感度112dB（SPL/mW）を公称します[1]。第三者の周波数特性測定では、中域を軸にした自然寄りのチューニングが確認できます[2]。国内の実勢価格は37,000円前後（海外参考価格249 USD）です[1][3]。

@@ -5,6 +5,7 @@ target_name: "Superlux HD681"
 company_id: superlux
 lang: en
 ref: superlux-hd681
+audiodb_uid: adb-e7744339dbea
 date: 2025-07-23
 rating: [3.0, 0.6, 0.5, 0.8, 0.5, 0.6]
 price: 27
@@ -12,7 +13,6 @@ summary: "A semi-open monitor headphone that meets basic performance but has fla
 tags: [Headphones, Monitor, Semi-open, Entry-level]
 permalink: /products/en/superlux-hd681/
 ---
-
 ## Overview
 
 The Superlux HD681 is a semi-open professional monitor headphone from the Taiwanese manufacturer Superlux. Positioned as an entry-level product, it features a 50mm neodymium driver, 32Ω impedance, 98dB SPL, and a claimed frequency range of 10-30,000Hz. While its price point under 27 USD in the Japanese market is appealing, a technical review reveals significant issues, particularly in its treble response, and its overall competitive advantages are limited.

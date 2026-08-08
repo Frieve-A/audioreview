@@ -5,6 +5,7 @@ target_name: "Onkyo DHT-9HD"
 company_id: onkyo
 lang: ja
 ref: onkyo-dht-9hd
+audiodb_uid: adb-15961400127d
 date: 2025-09-18
 rating: [2.3, 0.5, 0.3, 1.0, 0.1, 0.4]
 price: 24000

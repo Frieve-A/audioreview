@@ -5,6 +5,7 @@ target_name: "OKCSC ADC8"
 company_id: okcsc
 lang: en
 ref: okcsc-adc8
+audiodb_uid: adb-0a9e83c5a182
 date: 2025-11-07
 rating: [3.1, 0.5, 0.3, 1.0, 0.6, 0.7]
 price: 20
@@ -12,7 +13,6 @@ summary: "Adjustable impedance adapter providing 0-100Ω variable control for he
 tags: [Cables, Impedance Adapter, Bass Adjustment, Budget]
 permalink: /products/en/okcsc-adc8/
 ---
-
 ## Overview
 
 The OKCSC ADC8 is an adjustable impedance adapter cable featuring 0-100Ω variable impedance control designed for headphone and earphone frequency response modification. Available in multiple connector configurations (3.5mm, 4.4mm, 2.5mm, Type-C), the product uses 8-core OFC construction and targets bass frequency adjustment applications. While the brand OKCSC operates primarily in the budget audio accessories market with limited established reputation, the ADC8 represents a functionally sound implementation of impedance loading technology for audio enthusiasts seeking cost-effective frequency response tuning options.

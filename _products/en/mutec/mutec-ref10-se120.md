@@ -5,6 +5,7 @@ target_name: "Mutec REF10 SE120"
 company_id: mutec
 lang: en
 ref: mutec-ref10-se120
+audiodb_uid: adb-1cb6eb73750f
 date: 2025-08-20
 rating: [3.2, 0.5, 0.8, 1.0, 0.7, 0.2]
 price: 5499

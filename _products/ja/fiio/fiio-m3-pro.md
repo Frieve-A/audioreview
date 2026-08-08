@@ -5,6 +5,7 @@ target_name: "FiiO M3 Pro"
 company_id: fiio
 lang: ja
 ref: fiio-m3-pro
+audiodb_uid: adb-7d331535fb13
 date: 2026-01-27
 rating: [3.9, 0.7, 0.5, 0.9, 0.8, 1.0]
 price: 12000
@@ -12,7 +13,6 @@ summary: "ES9218P DACチップ（ESS社のES9218P）、3.5インチタッチス�
 tags: [デジタルオーディオプレーヤー, ESS DAC, ハイレゾ, USB DAC, ポータブルオーディオ]
 permalink: /products/ja/fiio-m3-pro/
 ---
-
 ## 概要
 
 FiiO M3 Proは、エントリーレベルのM3Kから仕様と機能を向上させた、ポータブルハイレゾデジタルオーディオプレーヤーの洗練された進化版です。このコンパクトなDAPは、384kHz/32-bit PCMとDSD128ネイティブデコーディングに対応するプロフェッショナルグレードのES9218P DACチップ（ESS社のES9218P）を搭載し、3.5インチIPSタッチスクリーンインターフェースと組み合わせています。USB DAC機能、microSDによる最大2TBまでのストレージ拡張、包括的なフォーマットサポートなど実用的な機能を備えています。FiiOは、M3 Proを高品質ポータブルオーディオへの手頃なゲートウェイとして位置づけ、アクセシブルな価格で測定可能な性能向上を実現する「Born for Music」哲学を維持しています。

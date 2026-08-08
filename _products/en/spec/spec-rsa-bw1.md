@@ -5,6 +5,7 @@ target_name: "SPEC RSA-BW1"
 company_id: spec
 lang: en
 ref: spec-rsa-bw1
+audiodb_uid: adb-67915e06c18f
 date: 2025-07-26
 rating: [1.9, 0.4, 0.6, 0.0, 0.5, 0.4]
 price: 3630

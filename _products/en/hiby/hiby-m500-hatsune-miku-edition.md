@@ -5,6 +5,7 @@ target_name: "HiBy M500 Hatsune Miku Edition"
 company_id: hiby
 lang: en
 ref: hiby-m500-hatsune-miku-edition
+audiodb_uid: adb-c2b2dcf29d5e
 date: 2026-06-08
 rating: [3.2, 0.7, 0.6, 0.6, 0.6, 0.7]
 price: 319

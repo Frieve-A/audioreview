@@ -5,6 +5,7 @@ target_name: "Ascend Acoustics Sierra-1 V2"
 company_id: ascend-acoustics
 lang: en
 ref: ascend-acoustics-sierra-1-v2
+audiodb_uid: adb-61e762dc4e84
 date: 2025-08-20
 rating: [4.1, 0.8, 0.7, 0.9, 0.8, 0.9]
 price: 998

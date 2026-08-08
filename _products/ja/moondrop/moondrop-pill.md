@@ -5,6 +5,7 @@ target_name: "Moondrop PILL"
 company_id: moondrop
 lang: ja
 ref: moondrop-pill
+audiodb_uid: adb-09a79ca75b5c
 date: 2025-11-18
 rating: [4.0, 0.5, 0.8, 1.0, 0.8, 0.9]
 price: 7499
@@ -12,7 +13,6 @@ summary: "AI強化されたイヤークリップ型イヤホン。Bluetooth 6.0�
 tags: [イヤークリップ, ワイヤレス, Bluetooth 6.0, AI ENC, Moondrop, オープンイヤー]
 permalink: /products/ja/moondrop-pill/
 ---
-
 ## 概要
 
 Moondrop PILLは、イヤークリップデザインによるオープンイヤーリスニングの革新的なアプローチを提供し、先進的なワイヤレステクノロジーとMoondropの確立された音響技術を組み合わせています[1]。圧縮繊維振動板を備えた13mm超高効率ダイナミックドライバーを搭載し、Bluetooth 6.0接続、NPUハードウェアレベルAI環境ノイズキャンセリング、パラメトリックイコライザー機能付き第2世代インタラクティブDSPなどの最先端技術を統合しています[1][2]。7,499円において、このイヤークリップデザインは音質を犠牲にすることなく状況認識を求めるアクティブユーザーをターゲットとし、SoundPEATS Pop ClipやQCY Crossky C30などの既存オプションと競合しながら、大幅に高度な機能統合を提供します[3]。

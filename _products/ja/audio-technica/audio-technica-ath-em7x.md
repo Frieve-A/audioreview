@@ -5,6 +5,7 @@ target_name: "Audio-Technica ATH-EM7x"
 company_id: audio-technica
 lang: ja
 ref: audio-technica-ath-em7x
+audiodb_uid: adb-dfeb799d998b
 date: 2025-12-16
 rating: [2.9, 0.5, 0.6, 0.1, 0.8, 0.9]
 price: 23399
@@ -12,7 +13,6 @@ summary: "プレミアムなアルミニウム構造と包括的なサポート�
 tags: [ヘッドホン, イヤークリップ, ダイナミック, ネオジム, 有線, ポータブル]
 permalink: /products/ja/audio-technica-ath-em7x/
 ---
-
 ## 概要
 
 Audio-Technica ATH-EM7xは、ネオジム磁石を搭載した28mmダイナミックドライバーをアルミニウム合金構造に収めた、伝統的なイヤークリップヘッドホンです。軽量30gの本製品は、ソフトタッチラバーイヤーハンガーとスライドフィット機構により、アクティブな使用時に安定した装着感を求めるユーザーを対象としています。シャンパンゴールドとグレーメタリックの2色展開で、Audio-Technicaの60年にわたる電気音響設計の伝統を受け継ぎ、最先端の革新よりも機械的信頼性に重点を置いた堅実なエンジニアリングが特徴です。

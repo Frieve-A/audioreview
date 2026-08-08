@@ -5,6 +5,7 @@ target_name: "Sony STR-AN1000"
 company_id: sony
 lang: en
 ref: sony-str-an1000
+audiodb_uid: adb-be09c6550fba
 date: 2025-07-09
 rating: [2.9, 0.6, 0.4, 0.7, 0.6, 0.6]
 price: 598
@@ -12,7 +13,6 @@ summary: "The Sony STR-AN1000 is a 7.2-channel AV receiver offering basic functi
 tags: [AV Receiver, 7.2 Channel, Dolby Atmos, DTS:X, 8K Support, HDMI 2.1]
 permalink: /products/en/sony-str-an1000/
 ---
-
 ## Overview
 
 The Sony STR-AN1000 is a 7.2-channel AV receiver released in 2023, featuring HDMI 2.1 support for 8K/60Hz and 4K/120Hz video passthrough, Dolby Atmos and DTS:X compatibility for 3D audio processing, 360 Reality Audio support, and Digital Cinema Auto Calibration IX for automatic room correction. Priced around 598 USD, it represents Sony's ambitious return to the AV receiver market after an extended absence.

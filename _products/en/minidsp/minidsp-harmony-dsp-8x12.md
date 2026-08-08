@@ -5,6 +5,7 @@ target_name: "miniDSP Harmony DSP 8x12"
 company_id: minidsp
 lang: en
 ref: minidsp-harmony-dsp-8x12
+audiodb_uid: adb-78ee4a9305f9
 date: 2025-09-07
 rating: [3.7, 0.7, 0.7, 1.0, 0.5, 0.8]
 price: 1049

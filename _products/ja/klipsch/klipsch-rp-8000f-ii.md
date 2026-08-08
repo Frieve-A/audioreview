@@ -5,6 +5,7 @@ target_name: "Klipsch RP-8000F-II"
 company_id: klipsch
 lang: ja
 ref: klipsch-rp-8000f-ii
+audiodb_uid: adb-76371ad842ec
 date: 2025-08-24
 rating: [3.2, 0.6, 0.6, 0.7, 0.7, 0.6]
 price: 138600

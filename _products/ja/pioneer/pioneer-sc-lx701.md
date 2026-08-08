@@ -5,6 +5,7 @@ target_name: "Pioneer SC-LX701"
 company_id: pioneer
 lang: ja
 ref: pioneer-sc-lx701
+audiodb_uid: adb-14d24a39ebcd
 date: 2025-08-13
 rating: [3.2, 0.5, 0.4, 1.0, 0.4, 0.9]
 price: 67500

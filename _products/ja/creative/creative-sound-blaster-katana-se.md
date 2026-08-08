@@ -5,6 +5,7 @@ target_name: "Creative Sound Blaster Katana SE"
 company_id: creative
 lang: ja
 ref: creative-sound-blaster-katana-se
+audiodb_uid: adb-8d47281e653a
 date: 2025-09-03
 rating: [2.8, 0.5, 0.6, 0.4, 0.4, 0.9]
 price: 44990
@@ -12,7 +13,6 @@ summary: "独自DSP技術とスペース効率を重視した設計によるゲ�
 tags: [サウンドバー, ゲーミング, DSP, バーチャルサラウンド, Creative]
 permalink: /products/ja/creative-sound-blaster-katana-se/
 ---
-
 ## 概要
 
 Creative Sound Blaster Katana SEは、独自のマルチコアDSPとバイアンプ設計を組み合わせ、別体サブウーファーなしで部屋全体に響く音を実現するゲーミング特化サウンドバーです。Super X-Fi、5.1バーチャルサラウンド処理、ゲーム向け音響拡張を備え、PC/コンソール/モバイルなど複数プラットフォームに対応します。

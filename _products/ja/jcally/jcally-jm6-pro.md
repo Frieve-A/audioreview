@@ -5,6 +5,7 @@ target_name: "JCally JM6 Pro"
 company_id: jcally
 lang: ja
 ref: jcally-jm6-pro
+audiodb_uid: adb-cca76d325f20
 date: 2025-08-20
 rating: [3.0, 0.7, 0.6, 0.5, 0.5, 0.7]
 price: 2600
@@ -12,7 +13,6 @@ summary: "CX31993コーデック＋MAX97220アンプ構成のUSB-Cドングル�
 tags: [DAC, ドングル, ポータブル, CX31993, MAX97220]
 permalink: /products/ja/jcally-jm6-pro/
 ---
-
 ## 概要
 
 JCally JM6 Proは、Conexant CX31993 USBオーディオ・コーデックとMaxim MAX97220ヘッドホンアンプを組み合わせたUSB-C to 3.5 mm DACドングルです。重量は約6 g、全長は約110 mmで、32-bit/384 kHzまでのPCMに対応し、CTIA規格のマイク付きヘッドセットも使用可能です。これらはメーカー公開仕様です。 [1][2]

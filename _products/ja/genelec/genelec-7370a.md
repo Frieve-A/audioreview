@@ -5,6 +5,7 @@ target_name: "Genelec 7370A"
 company_id: genelec
 lang: ja
 ref: genelec-7370a
+audiodb_uid: adb-fb1414033121
 date: 2025-08-20
 rating: [3.6, 0.5, 0.8, 0.5, 0.9, 0.9]
 price: 1246000
@@ -12,7 +13,6 @@ summary: "先進的なGLMルームキャリブレーションとLSE筐体を備�
 tags: [サブウーファー, スタジオモニター, アクティブ, SAM, プロフェッショナル]
 permalink: /products/ja/genelec-7370a/
 ---
-
 ## 概要
 
 Genelec 7370Aは、Laminar Spiral Enclosure（LSE）とSmart Active Monitoring（SAM）を統合した12インチのプロ向けアクティブ・サブウーファーです。GLMソフトウェアにより周波数・レベル・ディレイ・クロスオーバー位相を自動最適化し、ステレオからマルチチャンネルまで正確な低域管理を実現します[1]。**本レビューはスピーカー製品の取り扱い統一のため、ペア価格（2台分）で記載しています。**

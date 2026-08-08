@@ -5,6 +5,7 @@ target_name: "KZ EDX Lite"
 company_id: kz
 lang: ja
 ref: kz-edx-lite
+audiodb_uid: adb-450b11a290b9
 date: 2025-08-08
 rating: [2.2, 0.4, 0.4, 0.7, 0.4, 0.3]
 price: 1500

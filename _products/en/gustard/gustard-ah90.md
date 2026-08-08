@@ -5,6 +5,7 @@ target_name: "Gustard AH90"
 company_id: gustard
 lang: en
 ref: gustard-ah90
+audiodb_uid: adb-6a3b310bbde7
 date: 2025-08-10
 rating: [3.6, 0.5, 0.7, 1.0, 0.6, 0.8]
 price: 599

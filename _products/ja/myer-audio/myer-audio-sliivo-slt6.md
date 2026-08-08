@@ -5,6 +5,7 @@ target_name: "MYER-AUDIO SLIIVO SLT6"
 company_id: myer-audio
 lang: ja
 ref: myer-audio-sliivo-slt6
+audiodb_uid: adb-c0b2f2e6a7f0
 date: 2025-10-27
 rating: [1.7, 0.5, 0.3, 0.0, 0.6, 0.3]
 price: 57470

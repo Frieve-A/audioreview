@@ -5,6 +5,7 @@ target_name: "Brise Audio TSURANAGI-V2"
 company_id: brise-audio
 lang: ja
 ref: brise-audio-tsuranagi-v2
+audiodb_uid: adb-c7df7cf943ac
 date: 2025-12-02
 rating: [2.3, 0.6, 0.7, 0.1, 0.5, 0.4]
 price: 408000

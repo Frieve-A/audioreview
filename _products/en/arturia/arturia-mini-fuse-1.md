@@ -5,6 +5,7 @@ target_name: "Arturia MiniFuse 1"
 company_id: arturia
 lang: en
 ref: arturia-mini-fuse-1
+audiodb_uid: adb-48c38eb8108c
 date: 2025-10-07
 rating: [3.9, 0.8, 0.6, 1.0, 0.8, 0.7]
 price: 149

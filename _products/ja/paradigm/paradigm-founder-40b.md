@@ -5,6 +5,7 @@ target_name: "Paradigm Founder 40B"
 company_id: paradigm
 lang: ja
 ref: paradigm-founder-40b
+audiodb_uid: adb-14cb99b6766c
 date: 2025-08-21
 rating: [2.8, 0.7, 0.6, 0.7, 0.4, 0.4]
 price: 495000
@@ -12,7 +13,6 @@ summary: "高品質な造りの高級ブックシェルフですが、測定上�
 tags: [ブックシェルフスピーカー, 2ウェイ, パッシブ, カナダ製]
 permalink: /products/ja/paradigm-founder-40b/
 ---
-
 ## 概要
 
 Paradigm Founder 40Bは、6インチAL-MAGウーファーと1インチAL-MACセラミックドームツイーターを採用した2ウェイブックシェルフです。ART（Active Ridge Technology）サラウンドとAdvanced Shock Mountにより機械的分離と歪み低減を狙い、設計・製造はカナダ国内で行われています。

@@ -5,6 +5,7 @@ target_name: "Klipsch R-40M"
 company_id: klipsch
 lang: ja
 ref: klipsch-r-40m
+audiodb_uid: adb-6c2c5322edf2
 date: 2025-07-30
 rating: [2.0, 0.4, 0.5, 0.3, 0.5, 0.3]
 price: 41140

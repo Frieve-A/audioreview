@@ -5,6 +5,7 @@ target_name: "Topping DX1"
 company_id: topping
 lang: en
 ref: topping-dx1
+audiodb_uid: adb-9989fd14b1a1
 date: 2026-02-26
 rating: [3.7, 0.8, 0.6, 1.0, 0.6, 0.7]
 price: 99

@@ -5,6 +5,7 @@ target_name: "Genelec 8320A"
 company_id: genelec
 lang: en
 ref: genelec-8320a
+audiodb_uid: adb-a2e90880464c
 date: 2025-08-03
 rating: [3.4, 0.7, 0.8, 0.3, 0.8, 0.8]
 price: 800

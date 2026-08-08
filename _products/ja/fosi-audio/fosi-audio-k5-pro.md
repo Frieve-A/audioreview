@@ -5,6 +5,7 @@ target_name: "Fosi Audio K5 Pro"
 company_id: fosi-audio
 lang: ja
 ref: fosi-audio-k5-pro
+audiodb_uid: adb-33d779efa3b5
 date: 2026-01-10
 rating: [3.4, 0.4, 0.5, 0.8, 0.8, 0.9]
 price: 12800
@@ -12,7 +13,6 @@ summary: "ベース・トレブルコントロール付きゲーミング向けD
 tags: [DAC, ヘッドホンアンプ, ゲーミング, USB-C, 光デジタル, 同軸]
 permalink: /products/ja/fosi-audio-k5-pro/
 ---
-
 ## 概要
 
 Fosi Audio K5 Proは、「2-in-1 USB Type C インターフェース充電ポート兼オーディオ入力」デバイスとして設計されたコンパクトなゲーミング向けDAC/ヘッドホンアンプです。USB-C、光デジタル、同軸入力など複数の接続オプションを備え、ベース・トレブルコントロール付きのヘッドホン増幅とライン出力機能を提供します。Texas Instruments NE5532オペアンプとCS4398 DACチップを堅牢なアルミ筐体に搭載し、24ヶ月保証付きでゲーミングや一般的なオーディオ用途向けの手頃なソリューションとして位置づけられています。

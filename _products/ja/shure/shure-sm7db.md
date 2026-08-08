@@ -5,6 +5,7 @@ target_name: "Shure SM7dB"
 company_id: shure
 lang: ja
 ref: shure-sm7db
+audiodb_uid: adb-4c06a658458e
 date: 2025-08-02
 rating: [3.8, 0.7, 0.8, 0.6, 0.9, 0.8]
 price: 69300
@@ -12,7 +13,6 @@ summary: "アクティブプリアンプ内蔵により利便性を向上させ�
 tags: [マイクロホン, ダイナミック, プリアンプ内蔵, 配信, ポッドキャスト, Shure]
 permalink: /products/ja/shure-sm7db/
 ---
-
 ## 概要
 
 Shure SM7dBは、業界標準として定評のあるSM7シリーズに最大28dBのアクティブプリアンプを内蔵した2023年発売の最新モデルです。従来のSM7Bの音響特性を維持しながら、Cloud Microphones社のライセンス技術を基にしたShure独自設計のプリアンプを搭載し、外部ブースターを不要にすることでセットアップの簡素化を実現しています。50Hz-20kHzの広帯域特性と単一指向性パターンにより、ポッドキャスト、配信、レコーディング用途において安定した音質を提供します。

@@ -5,6 +5,7 @@ target_name: "Behringer PK108"
 company_id: behringer
 lang: en
 ref: behringer-pk108
+audiodb_uid: adb-34804e5fb697
 date: 2025-08-20
 rating: [2.7, 0.4, 0.3, 1.0, 0.5, 0.5]
 price: 70.90
@@ -12,7 +13,6 @@ summary: "Ultra-budget 8\" passive PA loudspeaker. Manufacturer specs indicate l
 tags: [PA Speaker, Passive, Budget, Live Sound, Monitor]
 permalink: /products/en/behringer-pk108/
 ---
-
 ## Overview
 
 The Behringer PK108 is a compact 2-way passive PA loudspeaker with an 8-inch LF driver and 1-inch compression driver. It’s rated at 320–350 W peak, sensitivity 96 dB (1 W/1 m), with 70°H × 50°V coverage, and weighs about 11.2 lb (5.1 kg). Connectivity is via **two 4-pin speaker twist (speakON-style) jacks** (input/link), plus a 35 mm pole socket for mounting. [1][2][3][4]

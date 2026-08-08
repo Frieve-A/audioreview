@@ -5,6 +5,7 @@ target_name: "Audio-Technica ATH-ADX3000"
 company_id: audio-technica
 lang: ja
 ref: audio-technica-ath-adx3000
+audiodb_uid: adb-01f9a41dfac4
 date: 2025-09-03
 rating: [2.8, 0.6, 0.7, 0.3, 0.6, 0.6]
 price: 134865
@@ -12,7 +13,6 @@ summary: "ADX5000の半額でフラッグシップレベルのCore Mount Technol
 tags: [オープンバック, ダイナミック, オーディオファイル, ハイエンド, 日本]
 permalink: /products/ja/audio-technica-ath-adx3000/
 ---
-
 ## 概要
 
 Audio-Technica ATH-ADX3000は、同社がフラッグシップレベルのオープンバック型ヘッドフォン技術を民主化する取り組みを表している製品です。高評価を受けたATH-ADX5000の設計をベースとしながら価格を約半分に抑え、58mmタングステンコーティング振膜とCore Mount Technology、消費者向けの50Ω低インピーダンス設計を特徴としています。Audio-Technicaの東京工場での手作り組み立てにより、257gの軽量構造で先進的な振膜配置技術を通じて自然で無着色の音響再生を目指しています。

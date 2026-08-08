@@ -5,6 +5,7 @@ target_name: "KBear KB02"
 company_id: kbear
 lang: en
 ref: kbear-kb02
+audiodb_uid: adb-ca14f9b67128
 date: 2025-07-24
 rating: [2.5, 0.4, 0.6, 0.3, 0.6, 0.6]
 price: 40

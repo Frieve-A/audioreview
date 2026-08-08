@@ -5,6 +5,7 @@ target_name: "Polk Audio Monitor XT60"
 company_id: polk
 lang: en
 ref: polk-audio-monitor-xt60
+audiodb_uid: adb-1cb9ab3a9609
 date: 2025-07-19
 rating: [2.9, 0.5, 0.6, 0.9, 0.4, 0.5]
 price: 199
@@ -12,7 +13,6 @@ summary: "Monitor XT60 has questionable scientific validity due to low 86dB sens
 tags: [Floor Standing Speaker, Polk Audio, Hi-Res Compatible]
 permalink: /products/en/polk-audio-monitor-xt60/
 ---
-
 ## Overview
 
 The Polk Audio Monitor XT60 is an entry-level floor standing speaker from the company. It features a 6.5-inch Dynamic Balance woofer, 1-inch Terylene dome tweeter, and two 6.5-inch passive radiators, claiming wide-band reproduction from 38Hz-40kHz with Hi-Res certification. The design targets modern surround environments with support for Dolby Atmos, DTS:X, and Auro 3D formats. Founded in 1876, Polk is an American speaker manufacturer with a long history, known for product development in accessible price ranges.

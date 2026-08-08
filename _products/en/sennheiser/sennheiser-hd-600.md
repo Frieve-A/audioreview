@@ -5,6 +5,7 @@ target_name: "Sennheiser HD 600"
 company_id: sennheiser
 lang: en
 ref: sennheiser-hd-600
+audiodb_uid: adb-a457ae14cc07
 date: 2025-08-05
 rating: [3.5, 0.8, 0.6, 0.5, 0.8, 0.8]
 price: 325
@@ -12,7 +13,6 @@ summary: "Reference headphones released in 1997. Excellent measured performance,
 tags: [Open-Back, High-Impedance, Headphones, Reference]
 permalink: /products/en/sennheiser-hd-600/
 ---
-
 ## Overview
 
 The Sennheiser HD 600 is an open-back dynamic headphone released in 1997 that has been used as a reference in the professional audio industry for many years. With its high impedance design of 300Ω and excellent measured performance, it has been recognized as an acoustically superior design for over a quarter-century. It continues to be beloved by many studios and engineers today, and its design philosophy aimed at neutral and accurate sound reproduction maintains its value across generations.

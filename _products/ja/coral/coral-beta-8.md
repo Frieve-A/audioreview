@@ -5,6 +5,7 @@ target_name: "Coral Beta-8"
 company_id: coral
 lang: ja
 ref: coral-beta-8
+audiodb_uid: adb-e059f8de5e81
 date: 2025-09-05
 rating: [2.0, 0.5, 0.3, 1.0, 0.0, 0.2]
 price: 12000

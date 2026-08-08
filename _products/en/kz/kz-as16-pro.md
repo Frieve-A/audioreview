@@ -5,6 +5,7 @@ target_name: "KZ AS16 Pro"
 company_id: kz
 lang: en
 ref: kz-as16-pro
+audiodb_uid: adb-b25c8467f589
 date: 2025-09-12
 rating: [2.2, 0.5, 0.5, 0.2, 0.4, 0.6]
 price: 54

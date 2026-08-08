@@ -5,6 +5,7 @@ target_name: "Lotoo PAW GT2"
 company_id: lotoo
 lang: en
 ref: lotoo-paw-gt2
+audiodb_uid: adb-5ef8c13357d0
 date: 2026-05-16
 rating: [2.4, 0.8, 0.7, 0.3, 0.4, 0.2]
 price: 3200

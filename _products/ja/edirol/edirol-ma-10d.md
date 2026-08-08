@@ -5,6 +5,7 @@ target_name: "Edirol MA-10D"
 company_id: edirol
 lang: ja
 ref: edirol-ma-10d
+audiodb_uid: adb-0638d4103bbd
 date: 2025-09-22
 rating: [2.7, 0.5, 0.4, 0.9, 0.3, 0.6]
 price: 46000

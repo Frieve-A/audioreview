@@ -5,6 +5,7 @@ target_name: "Austrian Audio Hi-X15"
 company_id: austrian-audio
 lang: ja
 ref: austrian-audio-hi-x15
+audiodb_uid: adb-85bfa3161dab
 date: 2025-08-13
 rating: [3.1, 0.5, 0.6, 0.9, 0.5, 0.6]
 price: 14850

@@ -5,6 +5,7 @@ target_name: "Creative T100"
 company_id: creative
 lang: ja
 ref: creative-t100
+audiodb_uid: adb-31681af8ed52
 date: 2025-09-02
 rating: [2.6, 0.4, 0.5, 0.6, 0.6, 0.5]
 price: 12000
@@ -12,7 +13,6 @@ summary: "40W RMS出力、BasXPort技術、Bluetooth 5.0を含む多彩な接続
 tags: [スピーカー, デスクトップ, Bluetooth, 予算重視]
 permalink: /products/ja/creative-t100/
 ---
-
 ## 概要
 
 Creative T100は、コンピューターやノートパソコン用に設計されたコンパクトな2.0デスクトップスピーカーシステムです。2019年にリリースされたこのスピーカーは、2.75インチのフルレンジドライバー、低音域増強のためのBasXPort技術、Bluetooth 5.0、光デジタル、AUX、USB入力を含む多彩な接続オプションを特徴としています。40W RMS出力と80Wピーク出力により、手頃な価格で音楽、映画、ゲーム用途に高品質な音響を提供することを目的としています。

@@ -5,6 +5,7 @@ target_name: "OneOdio Pro30"
 company_id: oneodio
 lang: ja
 ref: oneodio-pro30
+audiodb_uid: adb-db8f716ba86d
 date: 2025-07-29
 rating: [2.4, 0.3, 0.2, 1.0, 0.4, 0.5]
 price: 4000

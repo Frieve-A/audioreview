@@ -5,6 +5,7 @@ target_name: "Sennheiser IE-900"
 company_id: sennheiser
 lang: ja
 ref: sennheiser-ie-900
+audiodb_uid: adb-d9522e872dbe
 date: 2025-08-07
 rating: [3.1, 0.8, 0.7, 0.3, 0.6, 0.7]
 price: 149900

@@ -5,6 +5,7 @@ target_name: "Beyerdynamic beyerdynamic DT 900 PRO X"
 company_id: beyerdynamic
 lang: ja
 ref: beyerdynamic-dt-900-pro-x
+audiodb_uid: adb-4affab423fbb
 date: 2026-02-18
 rating: [2.8, 0.6, 0.6, 0.4, 0.7, 0.5]
 price: 45000

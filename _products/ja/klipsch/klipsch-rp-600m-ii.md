@@ -5,6 +5,7 @@ target_name: "Klipsch RP-600M II"
 company_id: klipsch
 lang: ja
 ref: klipsch-rp-600m-ii
+audiodb_uid: adb-76543f2c4952
 date: 2025-07-09
 rating: [2.2, 0.4, 0.6, 0.3, 0.6, 0.3]
 price: 113800
@@ -12,7 +13,6 @@ summary: "Klipsch RP-600M IIは、6.5インチウーファーと1インチホー
 tags: [ブックシェルフスピーカー, 2ウェイ, ホーンツイーター, 6.5インチウーファー, 高感度]
 permalink: /products/ja/klipsch-rp-600m-ii/
 ---
-
 ## 概要
 
 Klipsch RP-600M IIは2022年に発売されたReference Premiere第二世代の2ウェイブックシェルフスピーカーで、従来モデルの6.75インチ角に拡大されたconical-tractrix高周波ホーン（従来5.75インチ角から18%拡大）と、70%大型化されたボイスコイルを持つ6.5インチCerametallicウーファー、Faradayリングとアルミニウムショートリングによる歪み低減設計を採用している。649USD（ペア）の価格で提供され、従来モデルの音響的課題を改善した製品として位置付けられる。

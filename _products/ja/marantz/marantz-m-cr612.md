@@ -5,6 +5,7 @@ target_name: "Marantz M-CR612"
 company_id: marantz
 lang: ja
 ref: marantz-m-cr612
+audiodb_uid: adb-dd028bc53880
 date: 2025-10-06
 rating: [3.5, 0.4, 0.7, 1.0, 0.8, 0.6]
 price: 70000
@@ -12,7 +13,6 @@ summary: "HEOSを備えるコンパクトなネットワークCDレシーバー�
 tags: [ネットワークオーディオ, ストリーミング, CDプレーヤー, アンプ, HEOS]
 permalink: /products/ja/marantz-m-cr612/
 ---
-
 ## 概要
 
 M-CR612は、**CDプレーヤー＋ネットワーク再生＋アンプ**を1台に統合したコンパクト機です。HEOSマルチルーム、AirPlay 2、インターネットラジオ、Spotify Connect、Bluetooth再生に対応し、**光デジタル×2、アナログ入出力、サブウーファープリアウト、リアUSB-A、有線/無線LAN、スピーカーA/B**を備えます。CDは音楽CDおよび**DATA CD（MP3/WMA）**に対応します [1][2]。定格は**50 W×2（6 Ω、1 kHz、THD+N 0.7%）**、周波数特性は**10 Hz–40 kHz（±3 dB）**です [1]。米国の公式価格は執筆時点で**650 USD**です [2]。

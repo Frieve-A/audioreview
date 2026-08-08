@@ -5,6 +5,7 @@ target_name: "Denon DSW-555"
 company_id: denon
 lang: ja
 ref: denon-dsw-555
+audiodb_uid: adb-9fdd64f10e69
 date: 2025-09-20
 rating: [2.0, 0.5, 0.4, 0.5, 0.3, 0.3]
 price: 50000

@@ -5,6 +5,7 @@ target_name: "Piega Coax 411"
 company_id: piega
 lang: en
 ref: piega-coax-411
+audiodb_uid: adb-7aadfb4b63e5
 date: 2025-08-06
 rating: [2.5, 0.7, 0.8, 0.1, 0.4, 0.5]
 price: 9995

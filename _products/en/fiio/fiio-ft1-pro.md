@@ -5,6 +5,7 @@ target_name: "FiiO FT1 Pro"
 company_id: fiio
 lang: en
 ref: fiio-ft1-pro
+audiodb_uid: adb-c75646c736b1
 date: 2025-08-27
 rating: [3.1, 0.7, 0.7, 0.5, 0.5, 0.7]
 price: 199
@@ -12,7 +13,6 @@ summary: "Open-back planar headphone with a 95×86mm in-house planar driver, 1µ
 tags: [Headphones, Open-back, Planar-magnetic, Over-ear, Studio]
 permalink: /products/en/fiio-ft1-pro/
 ---
-
 ## Overview
 
 FiiO’s FT1 Pro is an open-back planar headphone using a **95×86mm** in-house driver and a **1µm** PET diaphragm with **sapphire+aluminum dual coating**. Specs: **20Ω / 95 dB/mW (112 dB/Vrms)**, **~374 g**, dual 3.5mm TS connectors. It ships with 3.5mm and 4.4mm cables and a carry bag. US street price at review time is **199 USD**. [1][2]

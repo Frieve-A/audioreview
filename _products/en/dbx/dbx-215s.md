@@ -5,6 +5,7 @@ target_name: "dbx 215s"
 company_id: dbx
 lang: en
 ref: dbx-215s
+audiodb_uid: adb-a16fb144b887
 date: 2025-12-16
 rating: [3.9, 0.7, 0.6, 1.0, 0.8, 0.8]
 price: 270

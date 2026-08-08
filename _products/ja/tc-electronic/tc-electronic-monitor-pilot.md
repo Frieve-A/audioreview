@@ -5,6 +5,7 @@ target_name: "TC Electronic MONITOR PILOT"
 company_id: tc-electronic
 lang: ja
 ref: tc-electronic-monitor-pilot
+audiodb_uid: adb-248811d6c2c4
 date: 2026-06-06
 rating: [3.3, 0.7, 0.3, 1.0, 0.8, 0.5]
 price: 13000
@@ -12,7 +13,6 @@ summary: "3系統ステレオバランスXLR出力とアクティブVCAボリュ
 tags: [モニターコントローラー, スタジオ, アナログ]
 permalink: /products/ja/tc-electronic-monitor-pilot/
 ---
-
 ## 概要
 
 TC Electronic MONITOR PILOTは2022年5月に発売されたデスクトップ型アナログモニターコントローラーで、単一のオーディオインターフェース出力から最大3組のステレオスタジオモニターを切り替えることができます。最大の特徴は分離型フォームファクターにあり、全XLRコネクターと各出力のトリムポテンショメーターを搭載したI/Oメインユニットは視界外に設置し、重みのあるロータリーボリュームノブと3つのモニター選択ボタンを備えた有線デスクトップリモートを手元に置く設計となっています。コンピューターやソフトウェアを介さずにマルチモニター切り替えを必要とするホームスタジオおよびプロジェクトスタジオのユーザーをターゲットとしています [1][4]。

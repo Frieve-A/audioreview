@@ -5,6 +5,7 @@ target_name: "Beyerdynamic DT 770 Pro X"
 company_id: beyerdynamic
 lang: ja
 ref: beyerdynamic-dt-770-pro-x
+audiodb_uid: adb-746264f65df6
 date: 2025-09-03
 rating: [3.3, 0.5, 0.7, 0.5, 0.8, 0.8]
 price: 29700
@@ -12,7 +13,6 @@ summary: "現代的なSTELLAR.45ドライバーを搭載したプロフェッシ
 tags: [ヘッドホン, スタジオ, 密閉型, プロフェッショナル, モニタリング]
 permalink: /products/ja/beyerdynamic-dt-770-pro-x/
 ---
-
 ## 概要
 
 Beyerdynamic DT 770 Pro Xは、伝説的なDT 770 Proシリーズの現代的な進化版で、2024年のBeyerdynamic創立100周年記念限定エディションとして開発されましたが、現在は通常生産モデルとして入手可能です。48オームインピーダンスの先進的なSTELLAR.45ダイナミックドライバーシステムを搭載し、プロフェッショナルなスタジオモニタリングやモバイルアプリケーションをターゲットとしたドイツ製密閉型ヘッドホンです。着脱式ミニXLR接続を採用し、低音と高音レスポンスを強化したDT 770特有のサウンドシグネチャーを維持しています。

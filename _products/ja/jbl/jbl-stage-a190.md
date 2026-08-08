@@ -5,6 +5,7 @@ target_name: "JBL Stage A190"
 company_id: jbl
 lang: ja
 ref: jbl-stage-a190
+audiodb_uid: adb-68f5499dd546
 date: 2025-08-13
 rating: [2.8, 0.5, 0.6, 0.6, 0.6, 0.5]
 price: 75000

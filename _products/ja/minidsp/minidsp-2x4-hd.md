@@ -5,6 +5,7 @@ target_name: "miniDSP 2x4 HD"
 company_id: minidsp
 lang: ja
 ref: minidsp-2x4-hd
+audiodb_uid: adb-7d8b37d3c49a
 date: 2025-09-06
 rating: [3.5, 0.7, 0.6, 1.0, 0.4, 0.8]
 price: 30000
@@ -12,7 +13,6 @@ summary: "計測重視のエコシステムを備えたコンパクトなUSB DAC
 tags: [DSP, デジタル信号処理, アクティブクロスオーバー, ルーム補正, USB DAC, miniDSP]
 permalink: /products/ja/minidsp-2x4-hd/
 ---
-
 ## 概要
 
 miniDSP 2x4 HDは2016年に登場したコンパクトなデジタル信号プロセッサーです。400 MHzのAnalog Devices SHARC ADSP21489を採用し、2入力4出力構成で内部96 kHz処理・24ビットのAKMコンバーターを用いたPEQ／クロスオーバー／ディレイ／ルーム補正ワークフローを提供します。**最大192 kHzのUSBオーディオ入力**とTOSLINK光入力、アナログRCA入出力を備え、ホーム／デスクトップ／車載など幅広い用途に適しています。

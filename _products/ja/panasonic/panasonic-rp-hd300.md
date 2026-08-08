@@ -5,6 +5,7 @@ target_name: "Panasonic RP-HD300"
 company_id: panasonic
 lang: ja
 ref: panasonic-rp-hd300
+audiodb_uid: adb-e004874f7d12
 date: 2026-01-02
 rating: [3.6, 0.5, 0.6, 1.0, 0.7, 0.8]
 price: 13500
@@ -12,7 +13,6 @@ summary: "独自のMLFダイアフラム技術を採用したハイレゾ対応�
 tags: [ヘッドホン, 密閉型, ハイレゾ, ダイナミック]
 permalink: /products/ja/panasonic-rp-hd300/
 ---
-
 ## 概要
 
 Panasonic RP-HD300は、独自のMulti Layer Film (MLF)ダイアフラムと密閉型設計を特徴とする、同社のハイレゾ音源対応ヘッドホン市場への参入モデルです。「Fascinating High Resolution」のコンセプトでHDシリーズの一部として発売され、拡張周波数応答再生を求めるリスナーをターゲットとしています。RP-HD300は40mmダイナミックドライバー、着脱可能ケーブル、軽量200g構造を特徴としています。このモデルは特定の販売店で入手可能性を維持し、革新的なダイアフラム技術と人間工学的設計最適化によるハイレゾ音源再生へのPanasonicの注力を表しています。

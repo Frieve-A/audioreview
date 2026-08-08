@@ -5,6 +5,7 @@ target_name: "Loxjie D60"
 company_id: loxjie
 lang: ja
 ref: loxjie-d60
+audiodb_uid: adb-5811723f663f
 date: 2025-08-17
 rating: [3.5, 0.7, 0.8, 0.7, 0.5, 0.8]
 price: 62000
@@ -12,7 +13,6 @@ summary: "ES9039MSPRO搭載のDAC・ヘッドホンアンプ。高出力と豊�
 tags: [DAC, ヘッドホンアンプ, ES9039MSPRO, MQA, Bluetooth, バランス出力]
 permalink: /products/ja/loxjie-d60/
 ---
-
 ## 概要
 
 Loxjie D60は、ESS TechnologyのES9039MSPRO DACを採用したデスクトップ用DAC・ヘッドホンアンプです。32ビット/768 kHzまでのPCM、DSD512に対応し、**MQAデコードを内蔵**（小売ページでは**MQA-CD**対応も言及）します。ヘッドホン出力は**6.35 mm（SE）／4.4 mm（BAL）／4ピンXLR（BAL）**の3系統、加えて豊富なデジタル入力とXLR/RCAライン出力を備え、オールインワンなデスクトップ環境を狙います。 [1][2][3]

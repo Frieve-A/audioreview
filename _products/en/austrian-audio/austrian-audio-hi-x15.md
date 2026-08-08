@@ -5,6 +5,7 @@ target_name: "Austrian Audio Hi-X15"
 company_id: austrian-audio
 lang: en
 ref: austrian-audio-hi-x15
+audiodb_uid: adb-85bfa3161dab
 date: 2025-08-13
 rating: [3.1, 0.5, 0.6, 0.9, 0.5, 0.6]
 price: 99
@@ -12,7 +13,6 @@ summary: "Entry-level closed-back studio headphones using a 44mm Hi-X driver. Ma
 tags: [Headphones, Closed-back, Studio monitoring, Austrian Audio, Hi-X]
 permalink: /products/en/austrian-audio-hi-x15/
 ---
-
 ## Overview
 
 Austrian Audio’s Hi-X15 is the entry point to the company’s Hi-X series, carrying the same 44 mm Hi-X (High Excursion) dynamic driver concept used in higher tiers. Official pricing is 99 USD and the model targets studio monitoring and general critical listening at a budget level [1]. As of August 13, 2025, publicly available independent measurements (full-band frequency response curves, THD vs SPL) specific to Hi-X15 are limited; this review therefore treats manufacturer specifications as provisional evidence and contrasts them with measured data from competing models where appropriate [1][2].

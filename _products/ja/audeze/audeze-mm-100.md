@@ -5,6 +5,7 @@ target_name: "Audeze MM-100"
 company_id: audeze
 lang: ja
 ref: audeze-mm-100
+audiodb_uid: adb-bed6a5dca932
 date: 2025-09-03
 rating: [3.4, 0.5, 0.9, 0.5, 0.7, 0.8]
 price: 57900
@@ -12,7 +13,6 @@ summary: "アクセシブルな価格でFluxor/Fazorなどの先進技術を採�
 tags: [ヘッドホン, 平面磁界型, プロフェッショナル, オープンバック]
 permalink: /products/ja/audeze-mm-100/
 ---
-
 ## 概要
 
 Audeze MM-100は、同社の平面磁界ドライバー技術を399 USD相当の価格帯に導入したプロフェッショナル向けオープンバックヘッドホンです。グラミー賞受賞エンジニア／プロデューサーのManny Marroquinとのコラボレーションで開発され、特許のFluxorマグネットアレイとFazor位相管理を採用し、南カリフォルニアの工場で手作業による組み立てとテストが行われます。高度な技術実装にもかかわらず、MM-100は競争の激しいミッドファイ市場への参入機として位置づけられます。

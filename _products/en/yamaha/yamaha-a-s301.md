@@ -5,6 +5,7 @@ target_name: "Yamaha A-S301"
 company_id: yamaha
 lang: en
 ref: yamaha-a-s301
+audiodb_uid: adb-6ecbe9c722b2
 date: 2025-09-02
 rating: [2.7, 0.6, 0.5, 0.3, 0.7, 0.6]
 price: 380
@@ -12,7 +13,6 @@ summary: "Traditional integrated amplifier with acceptable measurements but poor
 tags: [Integrated-amplifier, Analog, DAC, Phono]
 permalink: /products/en/yamaha-a-s301/
 ---
-
 ## Overview
 
 The Yamaha A-S301 is a 60-watt integrated amplifier featuring ToP-ART circuit design, built-in DAC with optical/coaxial inputs, and MM phono stage. Released as part of Yamaha's Natural Sound series, it targets traditional hi-fi enthusiasts seeking analog-style operation with basic digital connectivity. The amplifier includes Pure Direct mode, continuously variable loudness control, and dual speaker outputs with subwoofer connectivity.

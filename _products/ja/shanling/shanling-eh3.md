@@ -5,6 +5,7 @@ target_name: "Shanling EH3"
 company_id: shanling
 lang: ja
 ref: shanling-eh3
+audiodb_uid: adb-447c89e71637
 date: 2025-08-16
 rating: [3.3, 0.7, 0.8, 0.4, 0.6, 0.8]
 price: 123800
@@ -12,7 +13,6 @@ summary: "フラッグシップES9039PRO搭載の高性能デスクトップDAC/
 tags: [デスクトップ, DAC, アンプ, ストリーミング, バランス, ES9039PRO]
 permalink: /products/ja/shanling-eh3/
 ---
-
 ## 概要
 
 Shanling EH3は、ESS ES9039PRO 8ch DACとフルバランス増幅段を採用した据え置き一体型DAC/ヘッドホンアンプです。Wi-Fi（DLNA/AirPlay 1）およびBluetooth受信（LDAC/aptX HD/aptX/AAC/SBC）に対応し、USB/同軸/光/I²S入力、RCAアナログ入力、プリアウト（XLR/RCA）も備えます。ヘッドホン出力はシングルエンド（3.5/6.35mm）とバランス（4.4mm/4pin XLR）を装備し、バランス時32Ωで最大5.3W出力、PCM 32bit/768kHzとDSD512までサポートします [1]。

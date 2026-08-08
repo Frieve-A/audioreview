@@ -5,6 +5,7 @@ target_name: "Acoustic Elegance SBP15"
 company_id: acoustic-elegance
 lang: ja
 ref: acoustic-elegance-sbp15
+audiodb_uid: adb-9e3f949ae33f
 date: 2025-07-20
 rating: [3.8, 0.9, 0.8, 1.0, 0.4, 0.7]
 price: 63750
@@ -12,7 +13,6 @@ summary: "Acoustic Elegance SBP15は革新的なFull Copper Faraday SleeveとLam
 tags: [サブウーファー, 15インチ, ホームシアター, 密閉型, 高級]
 permalink: /products/ja/acoustic-elegance-sbp15/
 ---
-
 ## 概要
 
 Acoustic Elegance SBP15は、同社独自のFull Copper Faraday Sleeve（FCFS）技術とLambda Motor設計を採用した15インチサブウーファーです。Fs 21.3Hz、Qts 0.43、Xmax 14mm（片振幅）、500W連続定格という仕様を持ち、密閉型エンクロージャー向けに最適化されています。FCFSにより極めて低い歪率を実現し、Lambda Motorによる低インダクタンス設計で500Hz以上まで明瞭な再生を可能にしています。アメリカ・ウィスコンシン州で一人の職人による手作り製造という独特な生産体制により、一般的な大量生産品では実現困難な技術仕様を持つ製品です。

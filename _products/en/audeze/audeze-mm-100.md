@@ -5,6 +5,7 @@ target_name: "Audeze MM-100"
 company_id: audeze
 lang: en
 ref: audeze-mm-100
+audiodb_uid: adb-bed6a5dca932
 date: 2025-09-03
 rating: [3.4, 0.5, 0.9, 0.5, 0.7, 0.8]
 price: 399
@@ -12,7 +13,6 @@ summary: "Professional planar magnetic headphones with advanced Fluxor/Fazor tec
 tags: [Headphones, Planar-Magnetic, Professional, Open-Back]
 permalink: /products/en/audeze-mm-100/
 ---
-
 ## Overview
 
 The Audeze MM-100 is a professional-grade open-back headphone that brings the company's planar magnetic driver technology to a more accessible 399 USD price point. Developed in collaboration with Grammy award-winning engineer/producer Manny Marroquin, the MM-100 employs 90mm planar magnetic transducers featuring Audeze’s patented Fluxor magnet arrays and Fazor phase management, with hand-assembly and testing performed at Audeze's Southern California facility. Despite its advanced technical implementation, the MM-100 represents Audeze's entry into the competitive mid-fi market segment.

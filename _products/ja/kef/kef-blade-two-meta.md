@@ -5,6 +5,7 @@ target_name: "KEF Blade Two Meta"
 company_id: kef
 lang: ja
 ref: kef-blade-two-meta
+audiodb_uid: adb-79af673e29cb
 date: 2025-07-31
 rating: [3.1, 0.8, 0.9, 0.4, 0.5, 0.5]
 price: 4200000
@@ -12,7 +13,6 @@ summary: "KEF Blade Two Metaは技術的に高度な設計を持つフラッグ�
 tags: [フロアスタンディングスピーカー, Uni-Q, メタマテリアル, ハイエンド]
 permalink: /products/ja/kef-blade-two-meta/
 ---
-
 ## 概要
 
 KEF Blade Two Metaは、英国の老舗オーディオメーカーKEFが開発したフラッグシップフロアスタンディングスピーカーです。彫刻的で独特なキャビネットに第12世代Uni-Qドライバーと新開発のメタマテリアル吸収技術（MAT）を搭載し、4基の165mm低域ドライバーによる強力な低音再生能力を持ちます。1961年創業のKEFは技術革新で知られ、同軸ドライバーのパイオニアとして業界で高い評価を得てきました。

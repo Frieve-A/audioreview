@@ -5,6 +5,7 @@ target_name: "Audio-Technica AT-SP3X"
 company_id: audio-technica
 lang: en
 ref: audio-technica-at-sp3x
+audiodb_uid: adb-2876e4b78a9f
 date: 2025-07-23
 rating: [2.5, 0.4, 0.3, 0.7, 0.6, 0.5]
 price: 198
@@ -12,7 +13,6 @@ summary: "A compact powered bookshelf speaker with some challenges in scientific
 tags: [Powered Speaker, Bookshelf, Bluetooth, Audio-Technica, Desktop]
 permalink: /products/en/audio-technica-at-sp3x/
 ---
-
 ## Overview
 
 The Audio-Technica AT-SP3X is a compact powered bookshelf speaker developed with an emphasis on compatibility with the company's analog products. It features a 76mm woofer and a 27mm tweeter, with a 30W amplifier output and DSP tuning for sound adjustment. The speaker supports both wired RCA input and Bluetooth 5.3 connectivity, with multipoint capability allowing simultaneous connection of two Bluetooth devices. With compact dimensions of 125×200×136mm, it is positioned as a product intended for desktop and turntable applications.

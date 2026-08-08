@@ -5,6 +5,7 @@ target_name: "Luxman D-07X"
 company_id: luxman
 lang: ja
 ref: luxman-d-07x
+audiodb_uid: adb-590d78ec2b95
 date: 2025-12-05
 rating: [2.6, 0.8, 0.7, 0.1, 0.7, 0.3]
 price: 1540000

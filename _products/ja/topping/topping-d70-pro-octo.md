@@ -5,6 +5,7 @@ target_name: "Topping D70 Pro Octo"
 company_id: topping
 lang: ja
 ref: topping-d70-pro-octo
+audiodb_uid: adb-f127e88d1ca4
 date: 2025-07-24
 rating: [4.0, 0.9, 0.8, 0.8, 0.7, 0.8]
 price: 89850
@@ -12,7 +13,6 @@ summary: "8基のCS43198チップを搭載し、THD+N 0.00007%、SNR 134dBの測
 tags: [DAC, Topping, CS43198, PCM768kHz, DSD512, Bluetooth]
 permalink: /products/ja/topping-d70-pro-octo/
 ---
-
 ## 概要
 
 Topping D70 Pro Octoは、8基のCirrus Logic CS43198 DACチップを搭載したデスクトップDAC製品です。同社の技術力を結集し、PCM768kHz/32bit、DSD512対応の高解像度再生能力と、THD+N 0.00007%、SNR 134dBという業界最高水準の測定性能を実現しています。XMOS XU316 USBプロセッサーを採用し、Bluetooth 5.1によるLDAC/aptX対応、カラーディスプレイによるFFT/VU表示機能、プリアンプ機能など、現代的な機能を網羅した総合的なDAC製品として位置づけられます。

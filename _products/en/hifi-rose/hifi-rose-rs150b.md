@@ -5,6 +5,7 @@ target_name: "HiFi Rose RS150B"
 company_id: hifi-rose
 lang: en
 ref: hifi-rose-rs150b
+audiodb_uid: adb-ecaffc20a7cf
 date: 2025-08-27
 rating: [3.0, 0.9, 1.0, 0.2, 0.5, 0.4]
 price: 4995

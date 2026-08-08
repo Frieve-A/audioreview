@@ -5,6 +5,7 @@ target_name: "Nothing Ear (a)"
 company_id: nothing
 lang: en
 ref: nothing-ear-a
+audiodb_uid: adb-c92e5d58d6f5
 date: 2025-08-21
 rating: [3.4, 0.7, 0.5, 1.0, 0.5, 0.7]
 price: 99
@@ -12,7 +13,6 @@ summary: "Value-oriented true wireless earbuds with LDAC, ANC, and 42.5-hour tot
 tags: [Earbuds, TWS, ANC, Bluetooth, Hi-Res, Value]
 permalink: /products/en/nothing-ear-a/
 ---
-
 ## Overview
 
 Nothing Ear (a) is the company’s budget-minded TWS launched in April 2024 at 99 USD. It retains the transparent design while focusing on core utility: Hi-Res Audio (LDAC), active noise cancelling (manufacturer claim up to 45 dB), multipoint, and a rated 42.5-hour total battery life. The earbuds are IP54-rated (case IPX2). These features are confirmed by official specs and third-party lab testing. [1][2]

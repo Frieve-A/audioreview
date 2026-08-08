@@ -5,6 +5,7 @@ target_name: "Campfire Audio Clara"
 company_id: campfire-audio
 lang: ja
 ref: campfire-audio-clara
+audiodb_uid: adb-cea1bd7c2b94
 date: 2026-01-24
 rating: [2.2, 0.5, 0.7, 0.0, 0.8, 0.2]
 price: 299700

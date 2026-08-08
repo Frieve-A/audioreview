@@ -5,6 +5,7 @@ target_name: "YAMAHA NS-SW500"
 company_id: yamaha
 lang: ja
 ref: yamaha-ns-sw500
+audiodb_uid: adb-037808ac1373
 date: 2025-08-11
 rating: [2.4, 0.5, 0.4, 0.8, 0.4, 0.3]
 price: 82500
@@ -12,7 +13,6 @@ summary: "Advanced YST II搭載の10インチサブウーファー（250W、20Hz
 tags: [サブウーファー, ホームシアター, ヤマハ, A-YST II, 低音]
 permalink: /products/ja/yamaha-ns-sw500/
 ---
-
 ## 概要
 
 ヤマハNS-SW500は、同社のAdvanced YST II（ヤマハ・アクティブ・サーボ・テクノロジー）システムを搭載した10インチパワードサブウーファーです。ヤマハのNS-500シリーズの一部としてリリースされ、250Wのダイナミックパワーと20Hzまでの周波数レスポンスを謳っています。フロント・ファイアリング設計で、カーボンファイバーと木質繊維で強化されたセルロースパルプ・コーンを採用し、ポートノイズを低減するLinear Portテクノロジーを搭載しています［1］。

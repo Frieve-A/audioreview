@@ -5,6 +5,7 @@ target_name: "Technics SL-1200MK7"
 company_id: technics
 lang: en
 ref: technics-sl-1200mk7
+audiodb_uid: adb-6645a51160ea
 date: 2025-07-09
 rating: [2.6, 0.6, 0.5, 0.4, 0.6, 0.5]
 price: 999
@@ -12,7 +13,6 @@ summary: "Modern SL-1200 designed for DJs, but significantly inferior in cost-pe
 tags: [Turntable, DJ, Analog, Direct-drive]
 permalink: /products/en/technics-sl-1200mk7/
 ---
-
 ## Overview
 
 The Technics SL-1200MK7 is a DJ-oriented direct-drive turntable announced in 2019. As a modern version of the legendary SL-1200 series, it features a newly designed coreless direct-drive motor and incorporates contemporary features such as reverse playback capability and detachable cables. The 9.6kg aluminum die-cast chassis achieves weight reduction compared to previous models. While targeting the DJ market, it is also designed for home music listening applications.

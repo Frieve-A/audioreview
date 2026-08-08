@@ -5,6 +5,7 @@ target_name: "Neumann MT-48"
 company_id: neumann
 lang: en
 ref: neumann-mt-48
+audiodb_uid: adb-34783401c7d0
 date: 2025-08-14
 rating: [3.7, 0.8, 0.9, 0.5, 0.7, 0.8]
 price: 1850

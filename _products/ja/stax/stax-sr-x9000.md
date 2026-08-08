@@ -5,6 +5,7 @@ target_name: "STAX SR-X9000"
 company_id: stax
 lang: ja
 ref: stax-sr-x9000
+audiodb_uid: adb-77cff0bad33f
 date: 2025-07-19
 rating: [2.8, 0.8, 0.9, 0.1, 0.5, 0.5]
 price: 693000

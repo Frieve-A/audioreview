@@ -5,6 +5,7 @@ target_name: "Pioneer TS-WX1210A"
 company_id: pioneer
 lang: ja
 ref: pioneer-ts-wx1210a
+audiodb_uid: adb-ff97510e7608
 date: 2025-09-09
 rating: [2.9, 0.5, 0.6, 0.9, 0.5, 0.4]
 price: 28800

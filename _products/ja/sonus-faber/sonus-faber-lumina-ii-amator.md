@@ -5,6 +5,7 @@ target_name: "Sonus faber Lumina II Amator"
 company_id: sonus-faber
 lang: ja
 ref: sonus-faber-lumina-ii-amator
+audiodb_uid: adb-388015198cf1
 date: 2025-07-08
 rating: [1.8, 0.4, 0.4, 0.3, 0.5, 0.2]
 price: 272800
@@ -12,7 +13,6 @@ summary: "北イタリアの伝統的な手工芸技術と現代的なドライ�
 tags: [イタリア, スピーカー, ハイエンド, ブックシェルフスピーカー, 手工芸]
 permalink: /products/ja/sonus-faber-lumina-ii-amator/
 ---
-
 ## 概要
 
 Sonus faber Lumina II Amatorは、北イタリア・ヴィチェンツァの工房で手作業により組み立てられる2ウェイブックシェルフ型スピーカーです。2024年3月に発売され、上位モデル「Homage Collection」の技術を継承しながら、より手頃な価格帯での提供を目指しています。150mmのナチュラル・ファブリックコーン型ウーファーと28mmのDAD™（Damped Apex Dome）シルクソフトドーム型ツイーターを搭載し、55Hz～24kHzの周波数特性を持ちます。4Ω負荷、86dB/2.83V/mの能率で、272,800円（税込、ペア価格）で販売されています。

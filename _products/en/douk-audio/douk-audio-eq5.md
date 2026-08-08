@@ -5,6 +5,7 @@ target_name: "Douk Audio EQ5"
 company_id: douk-audio
 lang: en
 ref: douk-audio-eq5
+audiodb_uid: adb-1d4e2444a5fb
 date: 2025-10-19
 rating: [3.2, 0.5, 0.4, 1.0, 0.6, 0.7]
 price: 49.99

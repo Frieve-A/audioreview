@@ -5,6 +5,7 @@ target_name: "Yamaha YH-4000"
 company_id: yamaha
 lang: en
 ref: yamaha-yh-4000
+audiodb_uid: adb-f5401e3478db
 date: 2025-11-10
 rating: [3.0, 0.5, 0.9, 0.2, 0.8, 0.6]
 price: 2499
@@ -12,7 +13,6 @@ summary: "Premium open-back headphones with Yamaha's proprietary Orthodynamic pl
 tags: [Headphones, Open-back, Planar-magnetic, Premium, Yamaha]
 permalink: /products/en/yamaha-yh-4000/
 ---
-
 ## Overview
 
 The Yamaha YH-4000 represents the company's premium open-back headphone offering, inspired by their flagship YH-5000SE model. Featuring Yamaha's proprietary Orthodynamic planar magnetic drivers, the YH-4000 incorporates advanced materials including a magnesium body frame, aerospace-inspired triaxial woven mesh, and ultra-thin diaphragms with double-sided voice coils. Hand-assembled in Yamaha's Kakegawa factory, these headphones embody the company's "True Sound" philosophy, targeting audiophiles seeking high-end audio reproduction. At 320 grams and priced at 2,499 USD, the YH-4000 enters the competitive premium headphone market with significant technological sophistication.

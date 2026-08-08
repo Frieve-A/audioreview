@@ -5,6 +5,7 @@ target_name: "Sony MDR-1AM2"
 company_id: sony
 lang: ja
 ref: sony-mdr-1am2
+audiodb_uid: adb-a42741f68c83
 date: 2025-07-31
 rating: [2.9, 0.5, 0.7, 0.5, 0.6, 0.6]
 price: 36950

@@ -5,6 +5,7 @@ target_name: "TRN TRN Black Pearl"
 company_id: trn
 lang: ja
 ref: trn-black-pearl
+audiodb_uid: adb-e8abc425bdfb
 date: 2026-01-24
 rating: [3.5, 0.8, 0.3, 1.0, 0.7, 0.7]
 price: 5549

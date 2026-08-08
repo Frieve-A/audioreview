@@ -5,6 +5,7 @@ target_name: "Bose QuietComfort Ultra Headphones"
 company_id: bose
 lang: en
 ref: bose-quietcomfort-ultra-headphones
+audiodb_uid: adb-1ba12db0489e
 date: 2025-07-06
 rating: [3.6, 0.8, 0.7, 0.6, 0.8, 0.7]
 price: 270

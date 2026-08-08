@@ -5,6 +5,7 @@ target_name: "Pioneer VM-50"
 company_id: pioneer
 lang: ja
 ref: pioneer-vm-50
+audiodb_uid: adb-00e1e57824a7
 date: 2025-09-21
 rating: [2.7, 0.3, 0.4, 1.0, 0.4, 0.6]
 price: 25000

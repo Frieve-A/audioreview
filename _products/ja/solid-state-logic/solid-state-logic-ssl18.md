@@ -5,6 +5,7 @@ target_name: "Solid State Logic SSL18"
 company_id: solid-state-logic
 lang: ja
 ref: solid-state-logic-ssl18
+audiodb_uid: adb-c1ca06668030
 date: 2025-07-22
 rating: [3.7, 0.8, 0.8, 0.5, 0.8, 0.8]
 price: 179850

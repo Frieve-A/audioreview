@@ -5,6 +5,7 @@ target_name: "AIYIMA AIYIMA A80"
 company_id: aiyima
 lang: en
 ref: aiyima-a80
+audiodb_uid: adb-1ed8d7a05f4f
 date: 2026-02-13
 rating: [3.3, 0.7, 0.3, 1.0, 0.4, 0.9]
 price: 199.99

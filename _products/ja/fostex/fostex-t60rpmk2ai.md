@@ -5,6 +5,7 @@ target_name: "Fostex T60RPmk2ai"
 company_id: fostex
 lang: ja
 ref: fostex-t60rpmk2ai
+audiodb_uid: adb-e0de06cfc205
 date: 2025-11-11
 rating: [3.5, 0.5, 0.8, 0.6, 0.8, 0.8]
 price: 90000

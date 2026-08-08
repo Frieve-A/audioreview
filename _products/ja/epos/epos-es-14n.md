@@ -5,6 +5,7 @@ target_name: "EPOS ES-14N"
 company_id: epos
 lang: ja
 ref: epos-es-14n
+audiodb_uid: adb-8ea6eba5c5b7
 date: 2025-11-18
 rating: [3.5, 0.7, 0.8, 0.5, 0.7, 0.8]
 price: 880000
@@ -12,7 +13,6 @@ summary: "世界クラスの測定性能を目指すプレミアムスタンド�
 tags: [スピーカー, スタンドマウント, パッシブ, ハイエンド, モニター]
 permalink: /products/ja/epos-es-14n/
 ---
-
 ## 概要
 
 EPOS ES-14Nは、Fink TeamがEPOSブランドを獲得した後、Karl-Heinz Fink氏によるクラシックES14モニターの完全な設計一新を表しています。1980年代初頭に設立され、Munich High End 2022で再始動したこの2ウェイポート型スタンドマウントスピーカーは、優れた測定性能を達成しています。設計者Karl-Heinz Fink氏が提供したベンダー測定データに基づき、Audio Science Reviewフォーラムでの議論では、ES-14Nがspinorma.orgデータベースのスピーカー中で6.5（イコライゼーション使用時7.4）のSpinorma preference scoreを示すとされていますが、これらの主張の第三者による検証は未実施です。このスピーカーは7インチのマイカ充填ポリプロピレン中低音ドライバーと28mmセラミックコーティング アルミニウムドームツイーターを特徴とし、特殊制振材を使った二重層MDFキャビネットに収納されています。

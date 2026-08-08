@@ -5,6 +5,7 @@ target_name: "TRN TE Pro"
 company_id: trn
 lang: en
 ref: trn-te-pro
+audiodb_uid: adb-5b00ea765f79
 date: 2025-08-29
 rating: [3.4, 0.8, 0.6, 0.8, 0.5, 0.7]
 price: 95.99

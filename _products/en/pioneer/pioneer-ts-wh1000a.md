@@ -5,6 +5,7 @@ target_name: "Pioneer TS-WH1000A"
 company_id: pioneer
 lang: en
 ref: pioneer-ts-wh1000a
+audiodb_uid: adb-6158e5401b69
 date: 2025-09-09
 rating: [3.3, 0.5, 0.9, 0.3, 0.8, 0.8]
 price: 500
@@ -12,7 +13,6 @@ summary: "Pioneer's HVT-equipped ultra-slim subwoofer delivers innovative space-
 tags: [Subwoofer, Car Audio, Under Seat, HVT, Powered]
 permalink: /products/en/pioneer-ts-wh1000a/
 ---
-
 ## Overview
 
 Pioneer TS-WH1000A is an ultra-slim powered subwoofer designed for under-seat automotive installation, featuring the company's proprietary HVT (Horizontal Vertical Transforming) technology. This 200W subwoofer utilizes dual 21cm × 8cm diaphragms in a unique horizontal magnet configuration, achieving conventional subwoofer performance in just 4.5cm height. The system includes built-in amplification, dual input options (RCA/speaker level), remote control, and covers 20Hz-200Hz frequency range with adjustable low-pass filtering.

@@ -5,6 +5,7 @@ target_name: "FiiO JT7"
 company_id: fiio
 lang: en
 ref: fiio-jt7
+audiodb_uid: adb-51fb3fc941d9
 date: 2026-01-12
 rating: [3.9, 0.6, 0.9, 0.9, 0.5, 1.0]
 price: 119.99

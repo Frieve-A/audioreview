@@ -5,6 +5,7 @@ target_name: "Denon DHT-C210"
 company_id: denon
 lang: ja
 ref: denon-dht-c210
+audiodb_uid: adb-6a36a7b8cbd0
 date: 2025-08-21
 rating: [2.5, 0.4, 0.4, 0.7, 0.5, 0.5]
 price: 23800

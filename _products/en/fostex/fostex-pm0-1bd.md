@@ -5,6 +5,7 @@ target_name: "Fostex PM0.1BD"
 company_id: fostex
 lang: en
 ref: fostex-pm0-1bd
+audiodb_uid: adb-e85b7d6b17b4
 date: 2025-08-20
 rating: [2.4, 0.5, 0.4, 0.5, 0.7, 0.3]
 price: 249.99
@@ -12,7 +13,6 @@ summary: "Ultra-compact active desktop monitor with a 3\" full-range driver, 15W
 tags: [Desktop Monitor, Bluetooth, Full-Range Driver, Compact Speaker, Active Monitor]
 permalink: /products/en/fostex-pm0-1bd/
 ---
-
 ## Overview
 
 The PM0.1BD is an ultra-compact active speaker featuring a 3-inch full-range driver and a 15W+15W Class-D amplifier. It supports Bluetooth 5.0 (SBC) and analog AUX inputs and began shipping in June 2024 for personal/desktop scenarios [1][7][2].

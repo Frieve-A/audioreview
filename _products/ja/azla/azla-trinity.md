@@ -5,6 +5,7 @@ target_name: "AZLA Trinity"
 company_id: azla
 lang: ja
 ref: azla-trinity
+audiodb_uid: adb-fa52b6a6f517
 date: 2025-08-08
 rating: [2.9, 0.5, 0.4, 1.0, 0.5, 0.5]
 price: 2200

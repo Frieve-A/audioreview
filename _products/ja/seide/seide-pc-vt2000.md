@@ -5,6 +5,7 @@ target_name: "Seide PC-VT2000"
 company_id: seide
 lang: ja
 ref: seide-pc-vt2000
+audiodb_uid: adb-cc42baef7053
 date: 2025-11-15
 rating: [1.2, 0.5, 0.2, 0.2, 0.1, 0.2]
 price: 75800

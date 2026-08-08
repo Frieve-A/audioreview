@@ -5,6 +5,7 @@ target_name: "AIYIMA AIYIMA T20"
 company_id: aiyima
 lang: en
 ref: aiyima-t20
+audiodb_uid: adb-bdc09be879cf
 date: 2026-01-23
 rating: [3.3, 0.7, 0.3, 1.0, 0.7, 0.6]
 price: 179.99
@@ -12,7 +13,6 @@ summary: "Fully balanced tube preamp featuring ECC83 tubes with 180V operation, 
 tags: [preamplifier, tube, balanced, XLR, RCA]
 permalink: /products/en/aiyima-t20/
 ---
-
 ## Overview
 
 The AIYIMA T20 is a fully balanced tube preamplifier featuring dual ECC83 (12AX7) tubes operating at 180V, combined with TI LME49720 and OPA1612 op-amps. Released as part of AIYIMA's 10th anniversary lineup, it provides balanced XLR and unbalanced RCA inputs/outputs with digital volume control and remote functionality [1].

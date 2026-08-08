@@ -5,6 +5,7 @@ target_name: "intime 脂 (KOTTERI) ALTERNATIVE -コッテリ オルタナ-"
 company_id: intime
 lang: en
 ref: intime-kotteri-alternative
+audiodb_uid: adb-1025e4463b7f
 date: 2026-05-25
 rating: [2.2, 0.5, 0.4, 0.3, 0.5, 0.5]
 price: 75.38

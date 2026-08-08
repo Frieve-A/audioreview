@@ -5,6 +5,7 @@ target_name: "Prism Sound Lyra 2"
 company_id: prism-sound
 lang: ja
 ref: prism-sound-lyra-2
+audiodb_uid: adb-ee779ee57b6e
 date: 2025-11-02
 rating: [3.8, 0.9, 0.9, 0.5, 0.9, 0.6]
 price: 484000
@@ -12,7 +13,6 @@ summary: "世界最高水準の測定性能を持つプロフェショナル2入
 tags: [オーディオインターフェース, プロフェッショナルオーディオ, USB, Prism Sound, レコーディング機器]
 permalink: /products/ja/prism-sound-lyra-2/
 ---
-
 ## 概要
 
 Prism Sound Lyra 2は、スタジオレコーディング用途を対象とした高級プロフェッショナルUSBオーディオインターフェースです。実績のあるOrpheusアーキテクチャをベースに、2系統のアナログ入力と4系統の出力を備え、包括的なデジタルI/O機能を提供します。本機はPrism Sound独自のCleverCloxデュアルデジタル位相ロックループ回路とARM Cortexベースの処理によるDSPミキシング機能を搭載しています。最大192kHz、24ビットレコーディングに対応し、妥協のない変換品質を求めるプロフェッショナルオーディオ用途向けのプレミアムソリューションとして位置づけられています。

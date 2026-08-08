@@ -5,6 +5,7 @@ target_name: "Yamaha NS-10M"
 company_id: yamaha
 lang: ja
 ref: yamaha-ns-10m
+audiodb_uid: adb-af0db72cbb92
 date: 2025-07-23
 rating: [2.0, 0.3, 0.6, 0.5, 0.2, 0.4]
 price: 30000

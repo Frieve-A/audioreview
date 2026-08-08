@@ -5,6 +5,7 @@ target_name: "Denon AVR-X1700H"
 company_id: denon
 lang: en
 ref: denon-avr-x1700h
+audiodb_uid: adb-b96beb0a0619
 date: 2025-08-04
 rating: [3.8, 0.6, 0.7, 1.0, 0.7, 0.8]
 price: 499
@@ -12,7 +13,6 @@ summary: "Mid-range AV receiver with 7.2 channel support and Dolby Atmos functio
 tags: [AV Receiver, Dolby Atmos, 8K Support, Home Theater]
 permalink: /products/en/denon-avr-x1700h/
 ---
-
 ## Overview
 
 The Denon AVR-X1700H is a 7.2 channel AV receiver released in October 2021. It features 80W output (8Ω, 20Hz-20kHz, THD 0.08%) and HDMI functionality supporting 8K/60Hz and 4K/120Hz, compatible with the latest surround sound formats including Dolby Atmos and DTS:X. While competing products in the same price range such as the Yamaha RX-V4A and Marantz NR1510 offer 5.2 channel configurations, this product differentiates itself with 7.2 channel support. Three of its six HDMI inputs support 8K, making it suitable for gaming and latest video content playback applications.

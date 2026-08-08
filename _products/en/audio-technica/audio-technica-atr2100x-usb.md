@@ -5,6 +5,7 @@ target_name: "Audio-Technica ATR2100x-USB"
 company_id: audio-technica
 lang: en
 ref: audio-technica-atr2100x-usb
+audiodb_uid: adb-456ec5fe9b82
 date: 2025-10-14
 rating: [3.5, 0.5, 0.7, 0.8, 0.9, 0.6]
 price: 79

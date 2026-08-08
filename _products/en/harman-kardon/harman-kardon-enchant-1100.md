@@ -5,6 +5,7 @@ target_name: "Harman Kardon Enchant 1100"
 company_id: harman-kardon
 lang: en
 ref: harman-kardon-enchant-1100
+audiodb_uid: adb-95d28946a52d
 date: 2025-08-15
 rating: [3.6, 0.5, 0.7, 1.0, 0.6, 0.8]
 price: 999
@@ -12,7 +13,6 @@ summary: "An 11-driver Dolby Atmos/DTS:X all-in-one soundbar with MultiBeam. At 
 tags: [Soundbar, Dolby Atmos, DTS:X, Wireless, MultiBeam]
 permalink: /products/en/harman-kardon-enchant-1100/
 ---
-
 ## Overview
 
 The Harman Kardon Enchant 1100 is a 5.1.2-channel all-in-one soundbar with eleven drivers: six 55×90 mm racetracks, three 1-inch tweeters, and two 2.75-inch up-firing units. It supports Dolby Atmos and DTS:X, and adds Harman’s MultiBeam room calibration. Connectivity includes Wi-Fi 6 with AirPlay/Chromecast/Spotify Connect, Bluetooth 5.3, one HDMI input, one HDMI eARC output, plus optical input and Dolby Vision/HDR10 passthrough[1].

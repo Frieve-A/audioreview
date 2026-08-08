@@ -5,6 +5,7 @@ target_name: "Sony TA-F5000"
 company_id: sony
 lang: ja
 ref: sony-ta-f5000
+audiodb_uid: adb-6acafa70311f
 date: 2025-08-29
 rating: [2.7, 0.6, 0.6, 0.8, 0.3, 0.4]
 price: 87532

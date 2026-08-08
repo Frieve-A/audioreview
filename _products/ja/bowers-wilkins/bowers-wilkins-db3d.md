@@ -5,6 +5,7 @@ target_name: "Bowers & Wilkins DB3D"
 company_id: bowers-wilkins
 lang: ja
 ref: bowers-wilkins-db3d
+audiodb_uid: adb-52fb40598fe1
 date: 2025-08-12
 rating: [4.3, 0.7, 0.8, 1.0, 0.9, 0.9]
 price: 630000
@@ -12,7 +13,6 @@ summary: "デュアル8インチAerofoilドライバーと1000Wアンプを搭�
 tags: [サブウーファー, 密閉型, コンパクト, プレミアム, デュアルドライバー, DSP]
 permalink: /products/ja/bowers-wilkins-db3d/
 ---
-
 ## 概要
 
 Bowers & Wilkins DB3Dは、密閉キャビネット内に対向配置されたデュアル8インチAerofoilコーンドライバーを搭載したプレミアムコンパクトサブウーファーです。価格は4,200 USD（地域公式表記）で、B&WのフラッグシップDBシリーズへのエントリーポイントとして位置づけられ、スペースが限られた環境でハイエンドな美観とビルドクオリティを求めるオーディオファイルをターゲットとしています。DB3DはBluetooth経由のアプリベース制御、洗練されたDSP処理、そしてB&Wのハイエンドラウドスピーカー設計から継承されたAerofoilドライバー技術を組み込んでいます。

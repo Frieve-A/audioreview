@@ -5,6 +5,7 @@ target_name: "ThieAudio Monarch MKIII"
 company_id: thieaudio
 lang: en
 ref: thieaudio-monarch-mkiii
+audiodb_uid: adb-4510b6b06f49
 date: 2025-08-20
 rating: [3.0, 0.8, 0.8, 0.1, 0.5, 0.8]
 price: 999

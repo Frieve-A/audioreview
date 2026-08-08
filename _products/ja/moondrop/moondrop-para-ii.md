@@ -5,6 +5,7 @@ target_name: "Moondrop Para II"
 company_id: moondrop
 lang: ja
 ref: moondrop-para-ii
+audiodb_uid: adb-9ca82a5f2e88
 date: 2025-09-01
 rating: [3.1, 0.4, 0.8, 0.5, 0.6, 0.8]
 price: 73500

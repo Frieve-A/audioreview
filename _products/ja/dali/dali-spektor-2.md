@@ -5,6 +5,7 @@ target_name: "DALI Spektor 2"
 company_id: dali
 lang: ja
 ref: dali-spektor-2
+audiodb_uid: adb-6c1fbe48ac33
 date: 2025-08-07
 rating: [2.7, 0.5, 0.6, 0.3, 0.7, 0.6]
 price: 39800
@@ -12,7 +13,6 @@ summary: "DALIの入門クラスブックシェルフスピーカー。ウッド
 tags: [ブックシェルフスピーカー, DALI, パッシブスピーカー, 2ウェイ]
 permalink: /products/ja/dali-spektor-2/
 ---
-
 ## 概要
 
 DALI Spektor 2は、デンマークの老舗スピーカーメーカーDALIが展開する入門クラスのブックシェルフスピーカーです。5.25インチのウッドファイバーコーンウーファーと1インチソフトドームツイーターを搭載した2ウェイバスレフ設計で、54Hz-26kHzの周波数特性を謳います。同社の上位機種で培われた技術を低価格帯に応用し、What Hi-Fi誌で2020年度のアワードを受賞するなど、海外では評価を得ている製品です。コンパクトながら4.2kgの重量を持つキャビネットと、DALIらしい自然な音色を目指した設計が特徴となっています。

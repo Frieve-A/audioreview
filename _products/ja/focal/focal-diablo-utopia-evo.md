@@ -5,6 +5,7 @@ target_name: "Focal Diablo Utopia Evo"
 company_id: focal
 lang: ja
 ref: focal-diablo-utopia-evo
+audiodb_uid: adb-ca259e784739
 date: 2025-08-26
 rating: [2.8, 0.6, 0.8, 0.1, 0.7, 0.6]
 price: 3150000
@@ -12,7 +13,6 @@ summary: "Focal最上位系の小型2ウェイ。Power Flowerモーターと“W
 tags: [スピーカー, ブックシェルフ, パッシブ, ハイエンド, ベリリウム]
 permalink: /products/ja/focal-diablo-utopia-evo/
 ---
-
 ## 概要
 
 Diablo Utopia EvoはUtopia III Evoラインの2ウェイ・バスレフ型ブックシェルフです。6.5インチ“W”サンドイッチ振動板のミッドウーファーにPower Flower多層フェライト磁気回路、ツイーターは純ベリリウムのIAL2インバーテッド・ドームを採用し、周波数特性は44 Hz–40 kHz（±3 dB）、感度89 dB、公称8 Ω（最小4 Ω）、推奨アンプ出力25–200 Wと公表されています [1]。米国での代表的な実売はペアで21,000 USDです [2]。

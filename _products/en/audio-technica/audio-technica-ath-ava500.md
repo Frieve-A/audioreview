@@ -5,6 +5,7 @@ target_name: "Audio-Technica ATH-AVA500"
 company_id: audio-technica
 lang: en
 ref: audio-technica-ath-ava500
+audiodb_uid: adb-223abee79e99
 date: 2025-09-28
 rating: [2.8, 0.5, 0.4, 1.0, 0.5, 0.4]
 price: 40
@@ -12,7 +13,6 @@ summary: "Open-back headphones with conventional dynamic driver design offering 
 tags: [Headphones, Open-back, Dynamic, Wired]
 permalink: /products/en/audio-technica-ath-ava500/
 ---
-
 ## Overview
 
 The Audio-Technica ATH-AVA500 is an open-back dynamic headphone released in June 2015, featuring 53mm neodymium magnet drivers with CCAW voice coils. Positioned as an entry-level audiophile option, it offers basic specifications including 15-27,000 Hz frequency response, 96 dB/mW sensitivity, and 35Ω impedance. Despite using conventional technologies, the product demonstrates Audio-Technica's competent engineering approach to affordable open-back headphone design for home listening applications.

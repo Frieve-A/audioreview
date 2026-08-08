@@ -5,6 +5,7 @@ target_name: "Anker Soundcore Liberty 4"
 company_id: anker
 lang: ja
 ref: anker-soundcore-liberty-4
+audiodb_uid: adb-ce1a33c35794
 date: 2025-07-19
 rating: [3.3, 0.5, 0.5, 1.0, 0.7, 0.6]
 price: 10250

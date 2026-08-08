@@ -5,6 +5,7 @@ target_name: "Dayton Audio SUB-1200"
 company_id: dayton-audio
 lang: en
 ref: dayton-audio-sub-1200
+audiodb_uid: adb-ff6dc2ba6c39
 date: 2025-08-20
 rating: [2.9, 0.4, 0.3, 1.0, 0.5, 0.7]
 price: 199.98
@@ -12,7 +13,6 @@ summary: "An ultra-affordable 12-inch ported subwoofer with basic controls and a
 tags: [Subwoofer, Powered, Dayton Audio, 12-inch]
 permalink: /products/en/dayton-audio-sub-1200/
 ---
-
 ## Overview
 
 Dayton Audio's SUB-1200 is a 12-inch, ported, powered subwoofer aimed at cost-conscious home theater users. It features a front-firing long-throw 12-inch driver, a downward-firing flared port, variable low-pass (40?140 Hz), 0/180 phase switch, auto on/off, line-level and speaker-level I/O, and a compact vinyl-wrapped MDF cabinet. Manufacturer specifications list 25?140 Hz frequency response and 80 W RMS amplifier power, with dimensions of 16-3/4" 16-3/16" 17-3/4". [1][2][3]

@@ -5,6 +5,7 @@ target_name: "Panasonic SC-GNW30"
 company_id: panasonic
 lang: en
 ref: panasonic-sc-gnw30
+audiodb_uid: adb-c32f53049b0f
 date: 2025-08-20
 rating: [3.2, 0.5, 0.6, 1.0, 0.5, 0.6]
 price: 280
@@ -12,7 +13,6 @@ summary: "Gaming neck speaker with 4-speaker “4ch real surround,” HDMI input
 tags: [Gaming, Neck Speaker, Wearable Audio, Wireless, HDMI, Bluetooth, Surround Sound]
 permalink: /products/en/panasonic-sc-gnw30/
 ---
-
 ## Overview
 
 The SC-GNW30 is Panasonic’s flagship SOUNDSLAYER wearable gaming speaker released in mid-June 2025. It combines four 38 mm drivers in a neckband form factor with an HDMI input that accepts up to 5.1-channel sources and renders “4ch real surround,” plus Bluetooth and a proprietary low-latency 2.4 GHz link. Weight is listed at 403 g for the neck unit and about 100 g for the transmitter. Configuration and EQ are available via the multi-platform SOUNDSLAYER Engine app. [1][2][3][5]

@@ -5,6 +5,7 @@ target_name: "Sony MDR-NC100D"
 company_id: sony
 lang: ja
 ref: sony-mdr-nc100d
+audiodb_uid: adb-21fab238fd32
 date: 2025-10-22
 rating: [3.8, 0.5, 0.8, 1.0, 0.6, 0.9]
 price: 20800

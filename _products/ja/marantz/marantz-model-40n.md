@@ -5,6 +5,7 @@ target_name: "Marantz Model 40n"
 company_id: marantz
 lang: ja
 ref: marantz-model-40n
+audiodb_uid: adb-31fe19ba01b0
 date: 2025-08-04
 rating: [2.9, 0.5, 0.7, 0.3, 0.8, 0.6]
 price: 304800
@@ -12,7 +13,6 @@ summary: "HEOS搭載のネットワークプリメインアンプ。測定性能
 tags: [プリメインアンプ, ネットワークオーディオ, HEOS, ストリーミング, HDMI ARC]
 permalink: /products/ja/marantz-model-40n/
 ---
-
 ## 概要
 
 Marantz Model 40nは、70W×2（8Ω）出力のネットワーク対応プリメインアンプです。HEOS Built-inによるストリーミング機能、HDMI ARC対応、ESS Sabre32 DAC搭載、MM/MCフォノ入力を備えた統合型システムとして設計されています。日本製の堅牢な筐体に、Marantz独自のHDAM（Hyper Dynamic Amplifier Module）を搭載し、従来のClass A/B増幅回路とデジタル音源処理の融合を図った製品です。重量16.7kgの重厚な作りと、特徴的なポートホール付きデザインにより、同社の伝統的な美学を現代的な機能性と組み合わせています。

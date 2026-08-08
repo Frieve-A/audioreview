@@ -5,6 +5,7 @@ target_name: "Cayin RU6"
 company_id: cayin
 lang: ja
 ref: cayin-ru6
+audiodb_uid: adb-d7253caebd9a
 date: 2025-08-20
 rating: [2.0, 0.3, 0.7, 0.3, 0.5, 0.2]
 price: 32000
@@ -12,7 +13,6 @@ summary: "ディスクリート R-2R 初のドングル型 DAC。独特の歪み
 tags: [DAC, ドングル, USB, R-2R, ポータブル, ヘッドホンアンプ]
 permalink: /products/ja/cayin-ru6/
 ---
-
 ## 概要
 
 Cayin RU6 は、ドングル型として初めてディスクリート 24-bit R-2R ラダーを実装したポータブル DAC/AMP です。2021年末に 249 USD で発売され、チャンネル当たり 48 個（合計 96 個）の超精密低 TCR 薄膜抵抗を用いたラダー構成、3.5mm/4.4mm 出力、PCM 384kHz・DSD 対応、OS/NOS のデュアルモード、リレー式の抵抗アレイ・ボリュームなどを備えます [3]。DSD 再生は内部で高サンプルレート PCM に変換されます [1]。

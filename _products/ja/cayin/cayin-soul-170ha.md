@@ -5,6 +5,7 @@ target_name: "Cayin Soul 170HA"
 company_id: cayin
 lang: ja
 ref: cayin-soul-170ha
+audiodb_uid: adb-f0a523583891
 date: 2026-05-23
 rating: [1.3, 0.4, 0.4, 0.1, 0.3, 0.1]
 price: 1125000
@@ -12,7 +13,6 @@ summary: "Cayinのフラッグシップヘッドホンアンプおよびスピ�
 tags: [ヘッドホンアンプ, インテグレーテッドアンプ, 真空管, Cayin]
 permalink: /products/ja/cayin-soul-170ha/
 ---
-
 ## 概要
 
 Cayin Soul 170HAは、世界最大の真空管アンプOEM/ODMメーカーである珠海スパーク電子設備有限公司（Zhuhai Spark Electronic Equipment Co., Ltd.）のコンシューマーブランドCayinのフラッグシップヘッドホン・スピーカーアンプです。2024年5月のミュンヘン・ハイエンドショーでデビューし、2024年8月に商業発売されました。米国小売価格は7,500 USD（約1,125,000円）です [1][2]。メインアンプ本体と外付け電源ユニットの2筐体構成で総重量は約40.5 kgに達し、Tung-Sol KT170真空管をシングルエンドClass A・トランス結合トポロジーに採用し、ヘッドホン出力とスピーカー出力の両方を備えています。

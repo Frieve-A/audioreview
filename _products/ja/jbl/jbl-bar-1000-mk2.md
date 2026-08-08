@@ -5,6 +5,7 @@ target_name: "JBL JBL Bar 1000 MK2"
 company_id: jbl
 lang: ja
 ref: jbl-bar-1000-mk2
+audiodb_uid: adb-8b4144ef3634
 date: 2026-01-28
 rating: [3.7, 0.5, 0.9, 0.9, 0.5, 0.9]
 price: 135000
@@ -12,7 +13,6 @@ summary: "着脱式ワイヤレススピーカーを搭載した革新的な7.1.
 tags: [soundbar, dolby-atmos, wireless-speakers, home-theater]
 permalink: /products/ja/jbl-bar-1000-mk2/
 ---
-
 ## 概要
 
 JBL Bar 1000 MK2は、JBLの2025年フラグシップサウンドバーで、着脱式ワイヤレスサラウンドスピーカーを特徴とする7.1.4チャンネルDolby Atmos構成を採用しています[1]。このシステムは、メインサウンドバー、10インチワイヤレスサブウーファー、10時間の動作時間を提供するバッテリー駆動リアスピーカーを通じて960Wの最大出力を実現します。主な革新技術には、独自のMultiBeam 3.0ビームフォーミング技術と着脱式スピーカー用磁気ドッキングシステムがあります。設計は純粋な性能よりも利便性を重視しており、ワイヤレス構成による独特の設置柔軟性により899.95ドルでプレミアムサウンドバー市場で競合しています。

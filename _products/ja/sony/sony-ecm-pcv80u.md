@@ -5,6 +5,7 @@ target_name: "Sony ECM-PCV80U"
 company_id: sony
 lang: ja
 ref: sony-ecm-pcv80u
+audiodb_uid: adb-8ff10f3e7c85
 date: 2025-11-14
 rating: [3.5, 0.3, 0.8, 0.8, 0.7, 0.9]
 price: 4000

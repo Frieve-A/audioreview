@@ -5,6 +5,7 @@ target_name: "Questyle Sigma"
 company_id: questyle
 lang: en
 ref: questyle-sigma
+audiodb_uid: adb-9660e44ab681
 date: 2025-11-13
 rating: [3.1, 0.8, 0.8, 0.3, 0.5, 0.7]
 price: 599

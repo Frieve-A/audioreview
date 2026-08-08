@@ -5,6 +5,7 @@ target_name: "FiiO SNOWSKY RETRO NANO"
 company_id: fiio
 lang: ja
 ref: fiio-snowsky-retro-nano
+audiodb_uid: adb-acb8fcfcddd7
 date: 2025-07-29
 rating: [3.7, 0.8, 0.6, 1.0, 0.5, 0.8]
 price: 10000
@@ -12,7 +13,6 @@ summary: "レトロなデザインと最新技術を融合させたコンパク�
 tags: [FiiO, SNOWSKY, Bluetooth, DAC, アンプ, ポータブル, レトロ, バランス接続]
 permalink: /products/ja/fiio-snowsky-retro-nano/
 ---
-
 ## 概要
 
 SNOWSKY RETRO NANOは、FiiOの新サブブランド「SNOWSKY」による初回製品として登場したポータブルBluetooth DAC/ヘッドホンアンプです。重量28.3gの超軽量設計でありながら、デュアルCS43131 DACチップとQualcomm QCC5125 Bluetooth 5.1チップセットを搭載。LDAC、aptX Adaptive等の高品質コーデックに対応し、さらに3.5mmシングルエンド出力と**4.4mmバランス出力**の両方を備えています。ヴィンテージテープレコーダーを模したレトロデザインと、交換可能な350mAhバッテリーが特徴で、価格は実売10,000円前後と高いコストパフォーマンスを誇ります。

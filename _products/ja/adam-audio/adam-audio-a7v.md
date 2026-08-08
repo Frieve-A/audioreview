@@ -5,6 +5,7 @@ target_name: "Adam Audio A7V"
 company_id: adam-audio
 lang: ja
 ref: adam-audio-a7v
+audiodb_uid: adb-69c7930d63d3
 date: 2025-08-26
 rating: [3.6, 0.7, 0.8, 1.0, 0.6, 0.5]
 price: 228800
@@ -12,7 +13,6 @@ summary: "第三者測定で妥当な特性を示し、A Control経由でSoundID
 tags: [スタジオモニター, アクティブスピーカー, ニアフィールド, DSP, プロオーディオ]
 permalink: /products/ja/adam-audio-a7v/
 ---
-
 ## 概要
 
 A7VはA7Xの後継となる7インチ・アクティブニアフィールドモニターです。MLMウーファーと手作りX-ARTツイーター（回転可能HPSウェーブガイド）を組み合わせ、DSPベースのボイシング／PEQ／ディレイに加え、**SoundID ReferenceのプロファイルをA Control経由でスピーカー内に保存**できます。増幅はウーファー90 W RMS（PWM）＋ツイーター15 W RMS（Class A/B）。メーカー仕様は44 Hz–41 kHz（−3 dB）、1 mで最大ピーク105 dBです。 [1][2][3]

@@ -5,6 +5,7 @@ target_name: "Sony MDR-NC100D"
 company_id: sony
 lang: en
 ref: sony-mdr-nc100d
+audiodb_uid: adb-21fab238fd32
 date: 2025-10-22
 rating: [3.8, 0.5, 0.8, 1.0, 0.6, 0.9]
 price: 140
@@ -12,7 +13,6 @@ summary: "Sony's early digital noise cancelling earphones featuring AI adaptive 
 tags: [Sony, Earphones, Noise Cancelling, Digital Audio, S-Master, AI]
 permalink: /products/en/sony-mdr-nc100d/
 ---
-
 ## Overview
 
 The Sony MDR-NC100D represents Sony's pioneering effort in digital noise cancellation technology, featuring the company's proprietary S-Master digital amplification and AI-powered adaptive noise cancellation. Released as part of Sony's early digital ANC lineup, these wired in-ear headphones incorporate a 13.5mm dynamic driver with claimed noise reduction of up to 98.2% through digital signal processing. The product demonstrates Sony's technical innovation in bringing digital noise cancellation to consumer audio, though market dynamics have since shifted significantly toward wireless alternatives with superior performance metrics.

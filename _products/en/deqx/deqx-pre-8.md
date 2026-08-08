@@ -5,6 +5,7 @@ target_name: "DEQX Pre-8"
 company_id: deqx
 lang: en
 ref: deqx-pre-8
+audiodb_uid: adb-e241e2fcc011
 date: 2025-10-13
 rating: [3.5, 0.7, 0.9, 0.2, 0.8, 0.9]
 price: 5960

@@ -5,6 +5,7 @@ target_name: "IK Multimedia AXE I/O ONE"
 company_id: ik-multimedia
 lang: ja
 ref: ik-multimedia-axe-i-o-one
+audiodb_uid: adb-0e1b6b969769
 date: 2025-12-30
 rating: [4.0, 0.7, 0.7, 1.0, 0.7, 0.9]
 price: 19799
@@ -12,7 +13,6 @@ summary: "独自のZ-TONEバリアブルインピーダンス制御機能とJFET
 tags: [オーディオインターフェース, USB, ギター録音, バリアブルインピーダンス, クラスAプリアンプ]
 permalink: /products/ja/ik-multimedia-axe-i-o-one/
 ---
-
 ## 概要
 
 IK Multimedia AXE I/O ONEは、ギタリストとベーシストのために特別に設計されたコンパクトなUSB-Cオーディオインターフェースです。この1入力/3出力デバイスは、IK独自のZ-TONEバリアブルインピーダンス制御技術を搭載し、1MΩから2.2kΩまで連続調整することでピックアップインタラクションを最適化できます。クラスAディスクリート差動マイクプリアンプ、異なる音色特性を実現するJFET/PUREプリアンプモードセレクター搭載で、USB-Cバスパワーのみで動作します。24ビット/192kHz変換対応、全入出力で108dBのダイナミックレンジを実現し、携帯性に優れた筐体でプロフェッショナルな録音品質とギター専用機能を求めるミュージシャンをターゲットとしています。

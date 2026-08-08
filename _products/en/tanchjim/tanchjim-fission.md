@@ -5,6 +5,7 @@ target_name: "TANCHJIM Fission"
 company_id: tanchjim
 lang: en
 ref: tanchjim-fission
+audiodb_uid: adb-5d1677906b49
 date: 2026-02-21
 rating: [3.8, 0.5, 0.9, 1.0, 0.5, 0.9]
 price: 129.99

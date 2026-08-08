@@ -5,6 +5,7 @@ target_name: "Anker Soundcore Life Q35"
 company_id: anker
 lang: en
 ref: anker-soundcore-life-q35
+audiodb_uid: adb-b5e10e832d44
 date: 2025-09-30
 rating: [3.6, 0.5, 0.6, 1.0, 0.6, 0.9]
 price: 130
@@ -12,7 +13,6 @@ summary: "Wireless headphones with LDAC support and ANC, delivering moderate val
 tags: [Headphones, ANC, LDAC, Bluetooth]
 permalink: /products/en/anker-soundcore-life-q35/
 ---
-
 ## Overview
 
 The Anker Soundcore Life Q35 represents Anker's approach to delivering modern wireless headphone features in the mid-range segment. Launched as an upgrade to the Q30 model, these over-ear headphones incorporate LDAC codec support, active noise cancellation, and extensive battery life. The product targets consumers seeking contemporary wireless audio technology at mainstream pricing. Anker positions the Life Q35 as Hi-Res Audio certified headphones with 40mm silk-diaphragm drivers and multi-mode noise cancellation system.

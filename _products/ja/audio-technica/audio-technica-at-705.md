@@ -5,6 +5,7 @@ target_name: "Audio-Technica AT-705"
 company_id: audio-technica
 lang: ja
 ref: audio-technica-at-705
+audiodb_uid: adb-70a0d318e359
 date: 2026-05-03
 rating: [2.3, 0.4, 0.2, 1.0, 0.1, 0.6]
 price: 10500

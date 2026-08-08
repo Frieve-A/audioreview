@@ -5,6 +5,7 @@ target_name: "JBL L52 Classic"
 company_id: jbl
 lang: en
 ref: jbl-l52-classic
+audiodb_uid: adb-f4d1d5a503b2
 date: 2025-07-31
 rating: [2.1, 0.3, 0.4, 0.3, 0.7, 0.4]
 price: 653

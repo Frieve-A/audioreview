@@ -5,6 +5,7 @@ target_name: "Fosi Audio ZP3"
 company_id: fosi-audio
 lang: en
 ref: fosi-audio-zp3
+audiodb_uid: adb-a59a788b83b1
 date: 2025-08-15
 rating: [3.8, 0.8, 0.5, 1.0, 0.7, 0.8]
 price: 200
@@ -12,7 +13,6 @@ summary: "Balanced preamplifier with 3× analog inputs/outputs, HPF-based 2.1 ba
 tags: [Preamplifier, Balanced, XLR, Tone Control, High-Pass Filter]
 permalink: /products/en/fosi-audio-zp3/
 ---
-
 ## Overview
 
 The Fosi Audio ZP3 is a compact balanced preamplifier at 200 USD that targets users who need multiple analog sources and 2.1 integration. It provides RCA1/RCA2/XLR inputs and RCA/XLR/Sub outputs (3-in/3-out), three-stage high-pass filtering for the main outputs, a dedicated sub out, L/R balance and tone bypass, per-input volume memory, 12V trigger in/out, and an IR remote. Internally it uses an NJR NJU72315 digitally controlled analog volume IC with ELNA capacitors and gold-plated RCA jacks [1][2].

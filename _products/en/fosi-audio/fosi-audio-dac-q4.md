@@ -5,6 +5,7 @@ target_name: "Fosi Audio DAC-Q4"
 company_id: fosi-audio
 lang: en
 ref: fosi-audio-dac-q4
+audiodb_uid: adb-18cb0a40014d
 date: 2025-09-26
 rating: [2.7, 0.5, 0.4, 0.9, 0.6, 0.3]
 price: 80
@@ -12,7 +13,6 @@ summary: "Entry-level desktop DAC/headphone amplifier combo with standard featur
 tags: [DAC, Headphone-Amplifier, Desktop, USB, Optical, Coaxial]
 permalink: /products/en/fosi-audio-dac-q4/
 ---
-
 ## Overview
 
 The Fosi Audio DAC-Q4 is an entry-level desktop DAC and headphone amplifier combo designed for PC and desktop applications. It features USB, optical, and coaxial inputs with both RCA and 3.5mm headphone outputs. The unit supports headphone impedances from 16Ω to 200Ω and includes bass and treble tone controls with ±6dB adjustment range. Built around standard chipsets with conflicting information regarding the DAC implementation - sources indicate either PCM5100 or MS8412/MS8416 DAC chips paired with MAX97220 headphone amplifier, it targets users seeking basic audio enhancement for computer setups. The compact metal enclosure design aims to provide electromagnetic interference shielding while maintaining a small desktop footprint.

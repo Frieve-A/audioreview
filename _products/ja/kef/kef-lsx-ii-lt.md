@@ -5,6 +5,7 @@ target_name: "KEF LSX II LT"
 company_id: kef
 lang: ja
 ref: kef-lsx-ii-lt
+audiodb_uid: adb-13362a8e52b4
 date: 2025-09-02
 rating: [3.6, 0.6, 0.7, 0.7, 0.8, 0.8]
 price: 135000

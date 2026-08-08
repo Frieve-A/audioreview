@@ -5,6 +5,7 @@ target_name: "KZ ZST X"
 company_id: kz
 lang: en
 ref: kz-zst-x
+audiodb_uid: adb-89b82c1fa9b4
 date: 2025-09-23
 rating: [2.8, 0.5, 0.5, 1.0, 0.4, 0.4]
 price: 20

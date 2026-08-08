@@ -5,6 +5,7 @@ target_name: "Creative Pebble X"
 company_id: creative
 lang: ja
 ref: creative-pebble-x
+audiodb_uid: adb-dec4cfe46275
 date: 2025-09-03
 rating: [3.4, 0.5, 0.6, 0.9, 0.7, 0.7]
 price: 13500
@@ -12,7 +13,6 @@ summary: "RGBライティングと多彩な接続オプションを備えた2.0�
 tags: [デスクトップスピーカー, USB-C, Bluetooth, RGBライティング, Creative]
 permalink: /products/ja/creative-pebble-x/
 ---
-
 ## 概要
 
 Creative Pebble Xは、2.75インチフルレンジドライバー、カスタマイズ可能なRGBライティング、Bluetooth 5.3、USB-Cオーディオ、3.5mm AUX入力を備える2.0デスクトップスピーカーです。低音拡張のためのパッシブラジエーターを採用。出力は**PCのUSB-C接続で最大15W RMS / 30Wピーク**、**約30Wクラス（15V/2A相当）のUSB Power Deliveryアダプター使用時は最大30W RMS / 60Wピーク**です[1][2]。45度傾斜設計によりリスニング位置へ音を向け、PCアプリのAcoustic Engineで各種DSP機能を利用できます。

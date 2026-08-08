@@ -5,6 +5,7 @@ target_name: "FiiO KA17"
 company_id: fiio
 lang: ja
 ref: fiio-ka17
+audiodb_uid: adb-a2e81269fa7d
 date: 2026-02-18
 rating: [4.1, 0.8, 0.8, 1.0, 0.5, 1.0]
 price: 19999

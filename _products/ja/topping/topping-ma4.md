@@ -5,6 +5,7 @@ target_name: "TOPPING MA4"
 company_id: topping
 lang: ja
 ref: topping-ma4
+audiodb_uid: adb-7dcf622f446d
 date: 2025-10-24
 rating: [2.8, 0.5, 0.4, 0.7, 0.5, 0.7]
 price: 70000

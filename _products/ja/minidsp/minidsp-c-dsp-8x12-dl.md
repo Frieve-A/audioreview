@@ -5,6 +5,7 @@ target_name: "miniDSP C-DSP 8x12 DL"
 company_id: minidsp
 lang: ja
 ref: minidsp-c-dsp-8x12-dl
+audiodb_uid: adb-ae2a7a5dfed6
 date: 2025-09-07
 rating: [4.0, 0.8, 0.8, 1.0, 0.5, 0.9]
 price: 133200
@@ -12,7 +13,6 @@ summary: "Dirac Liveルーム補正技術を統合した自動車用フラッグ
 tags: [DSP, 自動車用, Dirac Live, 信号処理, カーオーディオ, miniDSP]
 permalink: /products/ja/minidsp-c-dsp-8x12-dl/
 ---
-
 ## 概要
 
 miniDSP C-DSP 8x12 DLは、**アフターマーケットとして初めてDirac Liveを統合**（2019年発表）した自動車用DSPです。400MHzのSHARC ADSP21489浮動小数点プロセッサと32ビットAKMコンバータ（AK4456 DAC／AK5556 ADC）を採用し、厳しい車室内で高い測定性能を発揮します。8系統のアナログ入力、2系統のデジタル入力、12系統のRCA出力に加え、パラメトリックEQ、コンプレッサ、ディレイ、最大48 dB/octのクロスオーバーなど充実したDSP機能を備えます。

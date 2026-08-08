@@ -5,6 +5,7 @@ target_name: "Bowers & Wilkins 607 S2 Anniversary Edition"
 company_id: bowers-wilkins
 lang: ja
 ref: bowers-wilkins-607-s2-anniversary-edition
+audiodb_uid: adb-632ab5c02b2d
 date: 2025-09-17
 rating: [3.4, 0.7, 0.6, 0.9, 0.8, 0.4]
 price: 220000
@@ -12,7 +13,6 @@ summary: "優秀な歪み性能と透明レベルの測定値を持つプレミ�
 tags: [ブックシェルフスピーカー, パッシブスピーカー, 2wayデザイン, Continuum コーン, Flowport]
 permalink: /products/ja/bowers-wilkins-607-s2-anniversary-edition/
 ---
-
 ## 概要
 
 Bowers & Wilkins 607 S2 Anniversary Edition は、B&W の 600 シリーズラインナップにおけるエントリーレベルのスタンドマウント型スピーカーです。この従来型の2wayパッシブブックシェルフスピーカーは、フラッグシップ 800 シリーズ Diamond から受け継いだ 5インチ Continuum コーンベース・ミッドレンジドライバーと、25mm アルミニウムドームツイーターを組み合わせています。主要技術として、背面発射型バスレフ設計の Flowport と、700 シリーズ Signature と同じ改良された Mundorf バイパスコンデンサが採用されています。220,000円（1,480 USD）というペア価格で、コンパクトな形状で B&W の特徴的なサウンドを求めるオーディオファイルをターゲットにしています。

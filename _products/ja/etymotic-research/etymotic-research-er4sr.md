@@ -5,6 +5,7 @@ target_name: "Etymotic Research-ER4SR"
 company_id: etymotic-research
 lang: ja
 ref: etymotic-research-er4sr
+audiodb_uid: adb-b8b3bbad23ca
 date: 2025-07-07
 rating: [4.2, 1.0, 0.9, 0.6, 0.8, 0.9]
 price: 52000
@@ -12,7 +13,6 @@ summary: "1991年の初代ER4から続く伝統のシングルBA構成を貫く�
 tags: [シングルBA, リファレンス, 高遮音性, スタジオモニター, アメリカ]
 permalink: /products/ja/etymotic-research-er4sr/
 ---
-
 ## 概要
 
 Etymotic Research ER4SRは、1991年に世界初のハイファイ・イヤホンとして登場したER4シリーズの最新モデルです。「SR」はStudio Referenceの略で、録音スタジオでの使用を想定した、極めてフラットな周波数特性を持つモデルとして設計されています。シングルバランスドアーマチュアドライバーを採用し、20Hz-16kHzの周波数特性、98-104dBの高感度、45Ωのインピーダンスという仕様を持ちます。最大の特徴は35-42dBという業界最高水準の遮音性能で、これは深い挿入位置と専用のトリプルフランジイヤーチップによって実現されています。左右のドライバーは100Hz-10kHzの帯域で±1dB以内にマッチングされており、測定精度への強いこだわりが見られます。

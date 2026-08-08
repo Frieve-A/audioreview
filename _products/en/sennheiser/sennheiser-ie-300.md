@@ -5,6 +5,7 @@ target_name: "Sennheiser IE 300"
 company_id: sennheiser
 lang: en
 ref: sennheiser-ie-300
+audiodb_uid: adb-c65c3e61d43c
 date: 2026-05-10
 rating: [1.8, 0.4, 0.4, 0.1, 0.5, 0.4]
 price: 299.95

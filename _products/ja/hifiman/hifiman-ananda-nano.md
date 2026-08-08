@@ -5,6 +5,7 @@ target_name: "HiFiMAN Ananda Nano"
 company_id: hifiman
 lang: ja
 ref: hifiman-ananda-nano
+audiodb_uid: adb-b21d249f0d81
 date: 2025-09-02
 rating: [2.6, 0.3, 0.6, 0.5, 0.7, 0.5]
 price: 79980

@@ -5,6 +5,7 @@ target_name: "Neumann KH 420 G"
 company_id: neumann
 lang: en
 ref: neumann-kh-420-g
+audiodb_uid: adb-b48ad4ea7863
 date: 2025-07-28
 rating: [4.1, 0.7, 0.7, 1.0, 0.8, 0.9]
 price: 5250

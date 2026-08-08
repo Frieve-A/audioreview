@@ -5,6 +5,7 @@ target_name: "ESI Amber i2"
 company_id: esi
 lang: ja
 ref: esi-amber-i2
+audiodb_uid: adb-c387f188da5b
 date: 2025-09-14
 rating: [3.3, 0.5, 0.6, 0.9, 0.6, 0.7]
 price: 26550
@@ -12,7 +13,6 @@ summary: "ESI Amber i2は、クラスAプリアンプ、115dBダイナミック�
 tags: [オーディオインターフェース, USB-C, レコーディング, ESI, 2x2]
 permalink: /products/ja/esi-amber-i2/
 ---
-
 ## 概要
 
 ESI Amber i2は、ミュージシャン、プロデューサー、コンテンツクリエイター向けに設計された24ビット/192kHz USB-Cオーディオインターフェースです。2入力2出力構成で、クラスAマイクプリアンプ、Hi-Zギター入力、ESI独自のAdvanced Direct Monitoring（ADM）システムを搭載しています。本機は115dBのダイナミックレンジとMIDI I/Oを含む包括的な接続オプションを謳い、予算を重視するプロフェッショナル市場をターゲットとしています。メタル構造とコンパクトなフォームファクターにより、スタジオとモバイルレコーディングの両方のアプリケーションに適しています。

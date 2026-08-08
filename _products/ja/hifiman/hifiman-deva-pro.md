@@ -5,6 +5,7 @@ target_name: "HIFIMAN Deva Pro"
 company_id: hifiman
 lang: ja
 ref: hifiman-deva-pro
+audiodb_uid: adb-4591a3d08bd7
 date: 2025-09-25
 rating: [2.8, 0.6, 0.6, 0.3, 0.4, 0.9]
 price: 46900
@@ -12,7 +13,6 @@ summary: "Stealth Magnet技術とBlueMini R2Rモジュールによる無線対�
 tags: [ヘッドホン, 平面磁界駆動, ワイヤレス, オープンバック, HIFIMAN]
 permalink: /products/ja/hifiman-deva-pro/
 ---
-
 ## 概要
 
 HIFIMAN Deva Proは、同社独自のStealth Magnet技術を搭載したオープンバック型密閉回りタイプの平面磁界駆動型ヘッドホンです。有線と無線の両方の構成で利用可能であり、無線版にはカスタムHIMALAYA DACを搭載したBlueMini R2R Bluetoothアダプタが含まれています。20Hz-20kHzの周波数応答、18Ωインピーダンス、93.5dB感度という仕様により、Deva Proは現代的な接続機能を備えた中級クラスの平面磁界駆動型ヘッドホンとして位置づけられています。

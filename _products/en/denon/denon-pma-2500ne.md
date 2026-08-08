@@ -5,6 +5,7 @@ target_name: "Denon PMA-2500NE"
 company_id: denon
 lang: en
 ref: denon-pma-2500ne
+audiodb_uid: adb-35bf249c75c0
 date: 2025-08-05
 rating: [2.9, 0.3, 0.6, 0.8, 0.6, 0.6]
 price: 1400

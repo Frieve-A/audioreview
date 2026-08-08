@@ -5,6 +5,7 @@ target_name: "FiiO SA1"
 company_id: fiio
 lang: ja
 ref: fiio-sa1
+audiodb_uid: adb-9048aafc735c
 date: 2025-09-21
 rating: [3.0, 0.5, 0.6, 1.0, 0.4, 0.5]
 price: 29800
@@ -12,7 +13,6 @@ summary: "アクセシブルな価格で31バンドパラメトリックEQと包
 tags: [デスクトップスピーカー, アクティブスピーカー, Bluetooth, USB DAC, パラメトリックEQ]
 permalink: /products/ja/fiio-sa1/
 ---
-
 ## 概要
 
 FiiO SA1は2025年に発売されたアクティブデスクトップスピーカーペアで、包括的な接続性オプションと高度なデジタル信号処理機能を特徴としています。各スピーカーには90mmウッドファイバーウーファーと20mmアルミニウムマグネシウム合金ドームツイーターを搭載し、それぞれ20Wと5Wの専用アンプで駆動されます。SA1はRCA/PHONO、AUX、USB Type-C、同軸、光、LDACコーデック対応Bluetooth 5.4といった豊富な入力オプションと、モバイルアプリで制御可能な31バンドパラメトリックイコライザーにより差別化を図っています。

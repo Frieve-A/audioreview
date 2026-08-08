@@ -5,6 +5,7 @@ target_name: "Creative Sound Blaster X5"
 company_id: creative
 lang: en
 ref: creative-sound-blaster-x5
+audiodb_uid: adb-bd8215329eb4
 date: 2025-09-15
 rating: [3.1, 0.8, 0.6, 0.7, 0.4, 0.6]
 price: 299

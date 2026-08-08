@@ -5,6 +5,7 @@ target_name: "Onkyo C-711M"
 company_id: onkyo
 lang: ja
 ref: onkyo-c-711m
+audiodb_uid: adb-b25fc6c44973
 date: 2025-09-27
 rating: [2.9, 0.6, 0.4, 1.0, 0.4, 0.5]
 price: 12000

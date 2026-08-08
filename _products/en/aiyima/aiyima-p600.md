@@ -5,6 +5,7 @@ target_name: "AIYIMA P600"
 company_id: aiyima
 lang: en
 ref: aiyima-p600
+audiodb_uid: adb-163de18c37ea
 date: 2025-11-26
 rating: [2.8, 0.5, 0.4, 0.5, 0.5, 0.9]
 price: 315.99

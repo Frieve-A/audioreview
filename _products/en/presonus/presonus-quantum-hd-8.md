@@ -5,6 +5,7 @@ target_name: "PreSonus Quantum HD 8"
 company_id: presonus
 lang: en
 ref: presonus-quantum-hd-8
+audiodb_uid: adb-5c8c2e43ec32
 date: 2025-07-21
 rating: [3.7, 0.8, 0.7, 0.7, 0.7, 0.8]
 price: 1018

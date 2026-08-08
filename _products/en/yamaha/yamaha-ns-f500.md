@@ -5,6 +5,7 @@ target_name: "Yamaha NS-F500"
 company_id: yamaha
 lang: en
 ref: yamaha-ns-f500
+audiodb_uid: adb-80bbbd5bc39a
 date: 2025-08-16
 rating: [2.5, 0.5, 0.5, 0.5, 0.5, 0.5]
 price: 600

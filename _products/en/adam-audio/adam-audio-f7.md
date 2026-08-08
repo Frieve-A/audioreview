@@ -5,6 +5,7 @@ target_name: "ADAM Audio F7"
 company_id: adam-audio
 lang: en
 ref: adam-audio-f7
+audiodb_uid: adb-0654471f0bb1
 date: 2025-12-29
 rating: [3.5, 0.5, 0.9, 0.4, 0.8, 0.9]
 price: 357

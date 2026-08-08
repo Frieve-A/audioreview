@@ -5,6 +5,7 @@ target_name: "IK Multimedia iLoud Micro Monitor"
 company_id: ik-multimedia
 lang: ja
 ref: ik-multimedia-iloud-micro-monitor
+audiodb_uid: adb-33957b15f2d7
 date: 2025-10-29
 rating: [2.7, 0.4, 0.6, 0.3, 0.6, 0.8]
 price: 52500
@@ -12,7 +13,6 @@ summary: "55Hzまでの低域延伸を実現した超コンパクトスタジオ
 tags: [スピーカー, アクティブモニター, Bluetooth, ポータブル, DSP, スタジオモニター]
 permalink: /products/ja/ik-multimedia-iloud-micro-monitor/
 ---
-
 ## 概要
 
 IK Multimedia iLoud Micro Monitorは、コンパクトアクティブモニター設計における重要な成果で、超ポータブル形状で本格的なリファレンス品質のサウンドを実現しています。世界最小のスタジオリファレンスモニターとして宣伝されるこの50W RMS バイアンプスピーカーシステムは、3インチ複合材ウーファーと3/4インチシルクドームツイーターを低共振成型エンクロージャーに組み合わせています[1]。1996年にイタリアのモデナで設立されたIK Multimediaは、コンピューターアルゴリズムによるアナログ回路エミュレーションに焦点を当て、その後ハードウェア製品に拡大する前に、DSP技術のパイオニアとしての地位を確立しました[2]。iLoud Micro Monitorは、ポータブルプロフェッショナルモニタリングソリューションに対する需要の高まりに応えながら、同社のデジタル信号処理における技術的専門知識を実証しています。

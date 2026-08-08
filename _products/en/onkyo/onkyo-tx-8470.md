@@ -5,6 +5,7 @@ target_name: "Onkyo TX-8470"
 company_id: onkyo
 lang: en
 ref: onkyo-tx-8470
+audiodb_uid: adb-aa1c354c87e1
 date: 2026-02-24
 rating: [3.1, 0.5, 0.8, 1.0, 0.3, 0.5]
 price: 799

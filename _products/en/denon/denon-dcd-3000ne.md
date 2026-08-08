@@ -5,6 +5,7 @@ target_name: "Denon DCD-3000NE"
 company_id: denon
 lang: en
 ref: denon-dcd-3000ne
+audiodb_uid: adb-7bc129120d80
 date: 2025-08-20
 rating: [3.9, 0.7, 0.8, 1.0, 0.7, 0.7]
 price: 3299

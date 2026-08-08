@@ -5,6 +5,7 @@ target_name: "Yamaha HS8S"
 company_id: yamaha
 lang: en
 ref: yamaha-hs8s
+audiodb_uid: adb-c52fa1d469d2
 date: 2025-08-15
 rating: [3.1, 0.5, 0.4, 0.8, 0.7, 0.7]
 price: 499

@@ -5,6 +5,7 @@ target_name: "Pioneer SC-LX59"
 company_id: pioneer
 lang: en
 ref: pioneer-sc-lx59
+audiodb_uid: adb-6ae152285ce1
 date: 2025-07-24
 rating: [1.8, 0.2, 0.3, 1.0, 0.1, 0.2]
 price: 412
@@ -12,7 +13,6 @@ summary: "A 9.2-channel AV receiver from 2015. With a lack of objective audio da
 tags: [AV Receiver, Pioneer, Dolby Atmos, DTS-X, Home Theater, Used, Discontinued]
 permalink: /products/en/pioneer-sc-lx59/
 ---
-
 ## Overview
 
 The Pioneer SC-LX59 is a 9.2-channel AV receiver released in October 2015. Originally priced at 1967 USD (excluding tax), it featured a 190W×9-channel "Direct Energy HD" amplifier and an ESS SABRE32 Ultra digital-to-analog converter. It was positioned as a middle-class product with advanced features for its time, including Dolby Atmos support (with DTS:X available via an update) and 4K/60p pass-through functionality. It is now discontinued, and manufacturer support is no longer available.

@@ -5,6 +5,7 @@ target_name: "Niimbus US 5 Pro"
 company_id: niimbus
 lang: en
 ref: niimbus-us5-pro
+audiodb_uid: adb-0fadd8a64c0d
 date: 2025-12-13
 rating: [3.2, 0.8, 0.8, 0.0, 0.9, 0.7]
 price: 6971

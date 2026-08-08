@@ -5,6 +5,7 @@ target_name: "Sonore ultraRendu Plus"
 company_id: sonore
 lang: ja
 ref: sonore-ultrarendu-plus
+audiodb_uid: adb-d8f71230b618
 date: 2025-08-11
 rating: [2.6, 0.4, 0.3, 1.0, 0.6, 0.3]
 price: 134850

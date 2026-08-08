@@ -5,6 +5,7 @@ target_name: "Paradigm Monitor SE Atom"
 company_id: paradigm
 lang: en
 ref: paradigm-monitor-se-atom
+audiodb_uid: adb-348e597a401a
 date: 2025-08-09
 rating: [3.1, 0.5, 0.5, 1.0, 0.6, 0.5]
 price: 299

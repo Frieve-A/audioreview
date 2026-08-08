@@ -5,6 +5,7 @@ target_name: "Midas DM12"
 company_id: midas
 lang: en
 ref: midas-dm12
+audiodb_uid: adb-8ffbe511dfc7
 date: 2025-08-24
 rating: [3.3, 0.7, 0.4, 1.0, 0.6, 0.6]
 price: 233

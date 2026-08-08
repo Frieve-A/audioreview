@@ -5,6 +5,7 @@ target_name: "iBasso Audio DC04PRO"
 company_id: ibasso-audio
 lang: ja
 ref: ibasso-audio-dc04pro
+audiodb_uid: adb-63198cd2a3a7
 date: 2025-09-30
 rating: [4.1, 0.8, 0.7, 1.0, 0.6, 1.0]
 price: 18000
@@ -12,7 +13,6 @@ summary: "デュアルCS43131 DAC搭載のハイパフォーマンスUSB DAC/ヘ
 tags: [USB DAC, ヘッドホンアンプ, ポータブルオーディオ, バランス出力, ハイレゾ音源]
 permalink: /products/ja/ibasso-audio-dc04pro/
 ---
-
 ## 概要
 
 iBasso DC04PROは、デュアルCS43131フラッグシップDACとデュアルRT6863オペアンプを4-way完全バランス構成で搭載したプレミアムUSB DAC/ヘッドホンアンプドングルです。この21グラムのコンパクトなデバイスは、最大32ビット/384kHz PCMおよびネイティブDSD256のハイレゾ音源に対応し、3.5mm単エンド出力と4.4mmバランス出力の両方を独立した100ステップ音量制御で提供します。自社開発のFPGA信号処理アルゴリズム、ジッター低減のためのKDSフェムト秒オシレーター、強化ガラスパネルを備えたCNC削り出しアルミニウム構造など、先進技術を取り入れています。

@@ -5,6 +5,7 @@ target_name: "HIDIZS MS1-GALAXY"
 company_id: hidizs
 lang: en
 ref: hidizs-ms1-galaxy
+audiodb_uid: adb-38c43c96921c
 date: 2026-06-07
 rating: [2.6, 0.5, 0.2, 0.8, 0.6, 0.5]
 price: 25.99

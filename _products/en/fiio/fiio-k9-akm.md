@@ -5,6 +5,7 @@ target_name: "FiiO K9 AKM"
 company_id: fiio
 lang: en
 ref: fiio-k9-akm
+audiodb_uid: adb-b3d9ac9f0a75
 date: 2025-08-02
 rating: [3.0, 0.8, 0.7, 0.3, 0.5, 0.7]
 price: 792

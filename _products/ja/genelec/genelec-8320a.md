@@ -5,6 +5,7 @@ target_name: "Genelec 8320A"
 company_id: genelec
 lang: ja
 ref: genelec-8320a
+audiodb_uid: adb-a2e90880464c
 date: 2025-08-03
 rating: [3.4, 0.7, 0.8, 0.3, 0.8, 0.8]
 price: 120000
@@ -12,7 +13,6 @@ summary: "4インチSAMスタジオモニターとして先進的な技術を持
 tags: [スタジオモニター, アクティブスピーカー, ニアフィールド, SAM, Genelec]
 permalink: /products/ja/genelec-8320a/
 ---
-
 ## 概要
 
 Genelec 8320Aは、1978年創業のフィンランドのプロオーディオメーカーであるGenelecが製造する4インチ2ウェイアクティブスタジオモニターです。Smart Active Monitor（SAM）技術を搭載し、GLM（Genelec Loudspeaker Manager）ソフトウェアによる自動キャリブレーション機能を備えています。55Hz-23kHz（±1.5dB）の周波数特性を持ち、4インチウーファーと3/4インチメタルドームツイーターを各50Wのクラス-Dアンプで駆動します。アルミダイキャスト筐体とDirectivity Control Waveguideにより、最小限の回折とリフレクションを実現しています。

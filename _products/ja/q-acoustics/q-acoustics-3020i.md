@@ -5,6 +5,7 @@ target_name: "Q Acoustics 3020i"
 company_id: q-acoustics
 lang: ja
 ref: q-acoustics-3020i
+audiodb_uid: adb-a8cb7d1be469
 date: 2025-10-08
 rating: [3.6, 0.7, 0.7, 0.5, 0.8, 0.9]
 price: 67350

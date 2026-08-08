@@ -5,6 +5,7 @@ target_name: "Topping DX9"
 company_id: topping
 lang: ja
 ref: topping-dx9
+audiodb_uid: adb-4b607e561974
 date: 2025-08-29
 rating: [3.9, 0.9, 0.8, 1.0, 0.7, 0.5]
 price: 199410
@@ -12,7 +13,6 @@ summary: "AK4499EQ採用の限定フラグシップDAC/ヘッドホンアンプ�
 tags: [DAC, ヘッドホンアンプ, AK4499EQ, デスクトップオーディオ, フラグシップ]
 permalink: /products/ja/topping-dx9/
 ---
-
 ## 概要
 
 DX9はAKM AK4499EQを中核とするTOPPINGの15周年記念限定DAC/ヘッドホンアンプです。Aurora UIの2インチカラー画面×2と6モジュール離散NFCA増幅を備え、メーカー公称はダイナミックレンジ132 dB・THD+N <0.00007%（ライン出力）。ヘッドホンは32 Ωで7080 mW×2（バランス）。AES/USB/光×2/同軸×2/I²SとLDAC対応Bluetooth、独立ライン/プリアウトを装備します。 [1][2][7]

@@ -5,6 +5,7 @@ target_name: "SMSL D-6S"
 company_id: smsl
 lang: en
 ref: smsl-d-6s
+audiodb_uid: adb-4c24fc1558e6
 date: 2025-12-21
 rating: [3.8, 0.9, 0.8, 1.0, 0.2, 0.9]
 price: 199

@@ -5,6 +5,7 @@ target_name: "Shanling CD80II"
 company_id: shanling
 lang: ja
 ref: shanling-cd80ii
+audiodb_uid: adb-d3eb6cfc9ce4
 date: 2025-11-30
 rating: [3.6, 0.8, 0.6, 1.0, 0.4, 0.8]
 price: 50000
@@ -12,7 +13,6 @@ summary: "統合USB DAC・ヘッドホンアンプを搭載したデスクトッ
 tags: [CDプレーヤー, DAC, ヘッドホンアンプ, デスクトップオーディオ, ハイレゾ, Bluetooth]
 permalink: /products/ja/shanling-cd80ii/
 ---
-
 ## 概要
 
 Shanling CD80IIは、CDトランスポート、USB DAC、ヘッドホンアンプを一体化したコンパクトなデスクトップオールインワンCDプレーヤーです。オリジナルCD80の現代的進化版として、アップグレードされたCirrus Logic CS43198 DACチップ、デュアルSGM8262アンプチップを特徴とし、384kHz/32-bit PCMおよびDSD256までのハイレゾオーディオに対応します。32Ωにおいてシングルエンド（3.5mm）で215mW、バランス（4.4mm）で850mWの充分な出力を提供する両ヘッドホン出力を装備しています。ユニボディアルミニウム合金シャーシとHD850トランスポートメカニズムで構築され、Bluetooth 5.0 LDAC対応およびUSB DAC機能を含む現代的な接続性を持つ、包括的なデスクトップオーディオソリューションを求めるユーザーをターゲットとしています。

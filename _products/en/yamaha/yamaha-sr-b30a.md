@@ -5,6 +5,7 @@ target_name: "YAMAHA SR-B30A"
 company_id: yamaha
 lang: en
 ref: yamaha-sr-b30a
+audiodb_uid: adb-43c98656a2ce
 date: 2025-07-07
 rating: [3.7, 0.8, 0.7, 1.0, 0.8, 0.4]
 price: 163

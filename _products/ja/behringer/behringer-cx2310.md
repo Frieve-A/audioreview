@@ -5,6 +5,7 @@ target_name: "Behringer CX2310"
 company_id: behringer
 lang: ja
 ref: behringer-cx2310
+audiodb_uid: adb-6656e32f29b1
 date: 2025-08-22
 rating: [3.2, 0.5, 0.5, 1.0, 0.6, 0.6]
 price: 17731
@@ -12,7 +13,6 @@ summary: "基本的な機能と24dB/オクターブのLinkwitz–Rileyフィル�
 tags: [クロスオーバー, アナログ, プロフェッショナルオーディオ, Linkwitz–Riley, 信号処理]
 permalink: /products/ja/behringer-cx2310/
 ---
-
 ## 概要
 
 Behringer Super-X Pro CX2310 V2は、24dB/オクターブのLinkwitz–Rileyフィルターを特徴とするステレオ2ウェイ／モノ3ウェイのアクティブ・アナログクロスオーバーです。XLR入出力、サブウーファー独立出力、25Hzローカット、世界対応電源（V2）を備えます。価格は17,731円（119 USD）で、バイアンプやトライアンプ構成の基本的な信号分割を低コストで実現したいユーザーを主対象とします。

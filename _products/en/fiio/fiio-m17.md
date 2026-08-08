@@ -5,6 +5,7 @@ target_name: "FiiO M17"
 company_id: fiio
 lang: en
 ref: fiio-m17
+audiodb_uid: adb-e9c38f1129ef
 date: 2026-01-17
 rating: [4.0, 0.7, 0.8, 1.0, 0.6, 0.9]
 price: 1799
@@ -12,7 +13,6 @@ summary: "Flagship portable digital audio player featuring desktop-grade dual ES
 tags: [Digital Audio Player, High-End, THX, ES9038PRO, Portable, Desktop-Class]
 permalink: /products/en/fiio-m17/
 ---
-
 ## Overview
 
 The FiiO M17 represents the pinnacle of portable digital audio player engineering, combining desktop-caliber internals with portable functionality. This flagship device features dual ES9038PRO DAC chips—the same desktop-grade, 8-channel implementations found in high-end stationary equipment—paired with THX's exclusive AAA-788+ amplification technology adapted specifically for portable use. With up to 3W output power per channel and comprehensive format support extending to 384kHz/32-bit PCM and DSD256 for local playback (768kHz/32-bit PCM and DSD512 via USB DAC), the M17 targets serious audiophiles requiring uncompromised performance in a portable package. The device incorporates cutting-edge components including NDK femtosecond crystal oscillators, ultra-low noise LT3045 LDO regulators, and a massive 9200mAh battery with dual power supply architecture.

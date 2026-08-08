@@ -5,6 +5,7 @@ target_name: "MiniDSP MCHStreamer Kit"
 company_id: minidsp
 lang: ja
 ref: minidsp-mchstreamer-kit
+audiodb_uid: adb-b910d7c4b729
 date: 2025-09-08
 rating: [3.6, 0.6, 0.9, 0.7, 0.4, 1.0]
 price: 16800
@@ -12,7 +13,6 @@ summary: "優れた測定性能と洗練されたマルチフォーマット対�
 tags: [USBオーディオインターフェース, XMOS, マルチチャンネル, 開発キット, オーディオインターフェース]
 permalink: /products/ja/minidsp-mchstreamer-kit/
 ---
-
 ## 概要
 
 MiniDSP MCHStreamer Kitは、OEM/DIY統合および研究アプリケーション向けに設計されたコンパクトな40x62mm PCBベースUSBオーディオインターフェースです。XMOS xCORE-200プロセッサーを中心に構築され、ネイティブ32bit/384kHzサポートで24入力/24出力チャンネルを提供します。本製品はminiDSPの独自ファームウェアパッケージを通じて、TOSLINK、ADAT、S/PDIF、I2S、TDM、DSD、PDMを含む複数のデジタルフォーマットをサポートし、オーディオアプリケーション向けの包括的な開発ツールとなっています。

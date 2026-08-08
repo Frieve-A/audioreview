@@ -5,6 +5,7 @@ target_name: "Noble Audio FoKus Apollo"
 company_id: noble-audio
 lang: ja
 ref: noble-audio-fokus-apollo
+audiodb_uid: adb-66bcb33e0644
 date: 2025-08-30
 rating: [3.3, 0.5, 0.9, 0.7, 0.7, 0.5]
 price: 95600

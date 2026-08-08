@@ -5,6 +5,7 @@ target_name: "Creative Pebble X"
 company_id: creative
 lang: en
 ref: creative-pebble-x
+audiodb_uid: adb-dec4cfe46275
 date: 2025-09-03
 rating: [3.4, 0.5, 0.6, 0.9, 0.7, 0.7]
 price: 89.99
@@ -12,7 +13,6 @@ summary: "2.0 desktop speakers with RGB lighting and versatile connectivity opti
 tags: [Desktop Speakers, USB-C, Bluetooth, RGB Lighting, Creative]
 permalink: /products/en/creative-pebble-x/
 ---
-
 ## Overview
 
 The Creative Pebble X is a 2.0 desktop speaker system featuring 2.75-inch full-range drivers, customizable RGB lighting, and multiple connectivity options including Bluetooth 5.3, USB-C audio, and 3.5mm AUX input. Positioned as an upgrade from Creative's popular Pebble series, it incorporates passive radiators for enhanced bass response. Output is **up to 15W RMS / 30W peak** via PC USB-C, and **up to 30W RMS / 60W peak** when powered by a compatible **USB Power Delivery adapter (approx. 30W class, 15V/2A)** [1][2]. The speakers feature a 45-degree elevated design for improved audio projection and include Creative's proprietary Acoustic Engine processing technologies accessible through their PC application.

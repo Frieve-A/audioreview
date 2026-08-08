@@ -5,6 +5,7 @@ target_name: "Lewitt LCT 540 S"
 company_id: lewitt
 lang: en
 ref: lewitt-lct-540-s
+audiodb_uid: adb-dd63c72509fa
 date: 2025-10-05
 rating: [4.5, 0.8, 1.0, 1.0, 0.8, 0.9]
 price: 619

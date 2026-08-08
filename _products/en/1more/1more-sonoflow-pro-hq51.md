@@ -5,6 +5,7 @@ target_name: "1MORE SonoFlow Pro HQ51"
 company_id: 1more
 lang: en
 ref: 1more-sonoflow-pro-hq51
+audiodb_uid: adb-3fa799feca34
 date: 2025-07-31
 rating: [3.6, 0.6, 0.7, 0.8, 0.7, 0.8]
 price: 85
@@ -12,7 +13,6 @@ summary: "Wireless headphones achieving high-transparency sound quality through 
 tags: [Headphones, Wireless, ANC, LDAC, Hi-Res]
 permalink: /products/en/1more-sonoflow-pro-hq51/
 ---
-
 ## Overview
 
 The 1MORE SonoFlow Pro HQ51 is a wireless ANC headphone released by Chinese company 1MORE in 2024. Equipped with DLC (Diamond-Like Carbon) composite drivers and LDAC support for hi-res audio playback, this product aims for professional sound quality at an affordable price of 85 USD. The QuietMax dual-feed ANC technology achieves noise reduction of 42dB or more, while offering extended playback times of 100 hours with ANC off and 65 hours with ANC on.

@@ -5,6 +5,7 @@ target_name: "Onkyo TX-8250"
 company_id: onkyo
 lang: ja
 ref: onkyo-tx-8250
+audiodb_uid: adb-ccb44ea4b321
 date: 2025-08-24
 rating: [3.1, 0.6, 0.4, 1.0, 0.4, 0.7]
 price: 64700

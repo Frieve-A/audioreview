@@ -5,6 +5,7 @@ target_name: "PreSonus Eris Pro 6"
 company_id: presonus
 lang: en
 ref: presonus-eris-pro-6
+audiodb_uid: adb-5959478429b5
 date: 2025-10-27
 rating: [3.0, 0.6, 0.8, 0.5, 0.3, 0.8]
 price: 399.99

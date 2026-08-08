@@ -5,6 +5,7 @@ target_name: "Wharfedale Denton 85th Anniversary"
 company_id: wharfedale
 lang: en
 ref: wharfedale-denton-85th-anniversary
+audiodb_uid: adb-26998b7ca420
 date: 2025-10-28
 rating: [2.5, 0.5, 0.5, 0.7, 0.7, 0.1]
 price: 1199

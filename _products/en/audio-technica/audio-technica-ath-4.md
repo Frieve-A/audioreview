@@ -5,6 +5,7 @@ target_name: "Audio-Technica ATH-4"
 company_id: audio-technica
 lang: en
 ref: audio-technica-ath-4
+audiodb_uid: adb-522d1eb20cc8
 date: 2026-05-09
 rating: [2.2, 0.5, 0.3, 0.7, 0.3, 0.4]
 price: 76
@@ -12,7 +13,6 @@ summary: "A vintage 1977 dynamic headphone with no surviving technical documenta
 tags: [Headphones, Vintage, Dynamic, Discontinued, Audio-Technica]
 permalink: /products/en/audio-technica-ath-4/
 ---
-
 ## Overview
 
 The Audio-Technica ATH-4 is a dynamic headphone released in 1977 as part of Audio-Technica's second-generation ATH series — alongside the ATH-3 and ATH-5 — to mark the company's 15th anniversary [1]. Manufactured in Japan, it represents an early chapter in Audio-Technica's expansion from phonograph cartridge manufacturing into personal headphone development. The product has been fully discontinued for decades, is absent from Audio-Technica's current product pages, and appears only occasionally as a collectible on secondary markets. A reliable original 1977 list price could not be confirmed from accessible official or archival sources; the price basis used here is a sold boxed secondary-market ATH-4 listing at 56.38 GBP, converted to 76 USD for this English review [2].

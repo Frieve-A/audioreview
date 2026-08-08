@@ -5,6 +5,7 @@ target_name: "Edifier HECATE G1000 II"
 company_id: edifier
 lang: ja
 ref: edifier-hecate-g1000ii
+audiodb_uid: adb-d9fc6c707553
 date: 2026-03-07
 rating: [3.3, 0.5, 0.8, 1.0, 0.5, 0.5]
 price: 12603

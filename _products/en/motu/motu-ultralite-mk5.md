@@ -5,6 +5,7 @@ target_name: "MOTU UltraLite-mk5"
 company_id: motu
 lang: en
 ref: motu-ultralite-mk5
+audiodb_uid: adb-58eb73a72ad5
 date: 2025-08-10
 rating: [4.5, 0.9, 0.8, 1.0, 0.9, 0.9]
 price: 700

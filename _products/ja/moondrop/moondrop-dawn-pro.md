@@ -5,6 +5,7 @@ target_name: "Moondrop Dawn Pro"
 company_id: moondrop
 lang: ja
 ref: moondrop-dawn-pro
+audiodb_uid: adb-19a7e6b33e6f
 date: 2025-09-03
 rating: [3.8, 0.8, 0.6, 1.0, 0.7, 0.7]
 price: 9000
@@ -12,7 +13,6 @@ summary: "デュアルCS43131搭載のポータブルUSB DAC/AMP。測定性能�
 tags: [DAC, ポータブル, USB-C, バランス, ドングル]
 permalink: /products/ja/moondrop-dawn-pro/
 ---
-
 ## 概要
 
 Moondrop Dawn Proは、CNC加工アルミニウム筐体にデュアルCirrus Logic CS43131 DACチップを搭載したコンパクトなポータブルUSB DAC/アンプです。42×22.45×12.39 mm、重量13 gのボディに3.5 mmシングルエンドと4.4 mmバランス出力を備え、PCM 32-bit/384 kHzとDSD256に対応します。透明性重視の再生を志向するユーザーを対象としています [1]。

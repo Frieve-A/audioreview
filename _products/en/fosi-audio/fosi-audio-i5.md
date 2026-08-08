@@ -5,6 +5,7 @@ target_name: "Fosi Audio i5"
 company_id: fosi-audio
 lang: en
 ref: fosi-audio-i5
+audiodb_uid: adb-fb170491d0d7
 date: 2025-09-20
 rating: [2.3, 0.5, 0.6, 0.2, 0.6, 0.4]
 price: 549.99
@@ -12,7 +13,6 @@ summary: "Open-back planar magnetic headphones with 97mm driver featuring advanc
 tags: [Headphones, Planar-Magnetic, Open-Back, Premium-Materials]
 permalink: /products/en/fosi-audio-i5/
 ---
-
 ## Overview
 
 The Fosi Audio i5 represents the company's debut venture into headphones, featuring open-back planar magnetic technology with a 97mm ultra-large diaphragm. Developed over one year with advanced targeted sputtering technology, the i5 incorporates premium materials including handcrafted walnut wood chambers and CNC-milled aluminum frame. With 28Ω impedance and 98dB/mW sensitivity, these headphones target audiophiles seeking planar magnetic sound reproduction with all-day comfort design.

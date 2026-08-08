@@ -5,6 +5,7 @@ target_name: "final ZE500 for ASMR"
 company_id: final
 lang: en
 ref: final-ze500-for-asmr
+audiodb_uid: adb-389bb3f91182
 date: 2025-08-23
 rating: [3.5, 0.5, 0.7, 1.0, 0.6, 0.7]
 price: 74
@@ -12,7 +13,6 @@ summary: "Specialized true wireless earbuds designed for ASMR with a pressure-re
 tags: [True Wireless, ASMR, Sleep, Bluetooth, Final Audio]
 permalink: /products/en/final-ze500-for-asmr/
 ---
-
 ## Overview
 
 The final ZE500 for ASMR is a purpose-built true wireless set tuned for close-proximity voices and extended bedtime listening. Key features include the pressure-relieving "ASMR Port," sleep/one-ear modes, and fine-grained volume-step control via the Final Connect app. Manufacturer specs list Bluetooth 5.4, SBC/AAC codec support, IPX4, and 4.5 hours per charge (18 hours with case). Each earbud is about 3 g. Street pricing around 74 USD has been reported at launch. [1][2][3]

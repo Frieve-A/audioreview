@@ -5,6 +5,7 @@ target_name: "Denon CEOL RCD-N10"
 company_id: denon
 lang: ja
 ref: denon-ceol-rcd-n10
+audiodb_uid: adb-c4808072b5b3
 date: 2026-05-10
 rating: [2.7, 0.4, 0.4, 1.0, 0.5, 0.4]
 price: 72000

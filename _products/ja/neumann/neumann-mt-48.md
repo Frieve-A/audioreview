@@ -5,6 +5,7 @@ target_name: "Neumann MT-48"
 company_id: neumann
 lang: ja
 ref: neumann-mt-48
+audiodb_uid: adb-34783401c7d0
 date: 2025-08-14
 rating: [3.7, 0.8, 0.9, 0.5, 0.7, 0.8]
 price: 277500
@@ -12,7 +13,6 @@ summary: "Neumann初のオーディオインターフェースはMerging Technol
 tags: [オーディオインターフェース, USB-C, プロフェッショナル音響, スタジオ機器, コンバージョン]
 permalink: /products/ja/neumann-mt-48/
 ---
-
 ## 概要
 
 Neumann MT-48は、Merging Technologiesと共同開発された同社初のオーディオインターフェースです。デスクトップ型の12入力/16出力USB-C機で、**136 dB-A**のADダイナミックレンジ、包括的なDSP処理、タッチスクリーン操作、RAVENNA/AES67によるAoIPを備えます。Neumannのマイクやモニターと整合する透明志向の設計が特徴です。 [1]

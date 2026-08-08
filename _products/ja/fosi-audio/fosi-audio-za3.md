@@ -5,6 +5,7 @@ target_name: "Fosi Audio Fosi Audio ZA3"
 company_id: fosi-audio
 lang: ja
 ref: fosi-audio-za3
+audiodb_uid: adb-f1e026d428b4
 date: 2026-02-21
 rating: [3.7, 0.7, 0.6, 1.0, 0.8, 0.6]
 price: 20125

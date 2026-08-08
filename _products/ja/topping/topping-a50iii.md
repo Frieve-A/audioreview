@@ -5,6 +5,7 @@ target_name: "Topping A50III"
 company_id: topping
 lang: ja
 ref: topping-a50iii
+audiodb_uid: adb-c6f62dab7222
 date: 2026-02-11
 rating: [4.0, 0.9, 0.7, 1.0, 0.5, 0.9]
 price: 30845

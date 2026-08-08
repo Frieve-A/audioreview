@@ -5,6 +5,7 @@ target_name: "Qudelix 5K"
 company_id: qudelix
 lang: ja
 ref: qudelix-5k
+audiodb_uid: adb-caa32cfe239d
 date: 2025-09-30
 rating: [3.6, 0.8, 0.7, 1.0, 0.3, 0.8]
 price: 16500
@@ -12,7 +13,6 @@ summary: "優れた測定性能と包括的なDSP機能を持つ先進的なBlue
 tags: [Bluetooth DAC, ヘッドホンアンプ, LDAC, ポータブルオーディオ]
 permalink: /products/ja/qudelix-5k/
 ---
-
 ## 概要
 
 Qudelix-5Kは、韓国のオーディオエンジニアリング企業Qudelixが開発したポータブルBluetoothDAC/ヘッドホンアンプです。包括的なワイヤレスオーディオソリューションとして展開され、LDAC、aptX Adaptive、aptX HDに対応する先進的なBluetooth接続と、デュアルES9219C DACを組み合わせ、最大240mWのバランス出力による強力なアンプを搭載しています。5Kは20バンドパラメトリックEQ、クロスフィード、独自のQX-Overデジタルクロスオーバー技術を含む豊富なDSP機能を備えており、25gの重量でコンパクトな形状を維持しています。

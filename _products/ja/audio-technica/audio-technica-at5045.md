@@ -5,6 +5,7 @@ target_name: "Audio-Technica AT5045"
 company_id: audio-technica
 lang: ja
 ref: audio-technica-at5045
+audiodb_uid: adb-c9a5ea9f41e9
 date: 2025-11-18
 rating: [3.9, 0.8, 0.8, 0.6, 0.9, 0.8]
 price: 212000

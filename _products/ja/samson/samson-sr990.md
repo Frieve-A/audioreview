@@ -5,6 +5,7 @@ target_name: "SAMSON SR990"
 company_id: samson
 lang: ja
 ref: samson-sr990
+audiodb_uid: adb-fd12be08d1ca
 date: 2026-05-23
 rating: [2.2, 0.5, 0.1, 0.6, 0.5, 0.5]
 price: 15000

@@ -5,6 +5,7 @@ target_name: "STAX SR-X9000"
 company_id: stax
 lang: en
 ref: stax-sr-x9000
+audiodb_uid: adb-77cff0bad33f
 date: 2025-07-19
 rating: [2.8, 0.8, 0.9, 0.1, 0.5, 0.5]
 price: 4620
@@ -12,7 +13,6 @@ summary: "STAX's new flagship, the SR-X9000, boasts a high level of technology w
 tags: [Electrostatic Headphones, Flagship, Open-back, STAX, Japan]
 permalink: /products/en/stax-sr-x9000/
 ---
-
 ## Overview
 
 The STAX SR-X9000 is a new flagship model announced in 2022 by STAX, a Japanese electrostatic headphone specialist manufacturer. It adopts the newly developed MLER-3 (Multi-Layer-Elect-Rods) 4-layer fixed electrode technology and features an ultra-thin engineering film diaphragm that is 20% larger than the previous SR-009S. It employs a push-pull electrostatic driver with 5-42,000Hz frequency response, 145kΩ impedance, and 580V DC bias voltage, weighing 432g. The market price is 4620 USD (dedicated amplifier sold separately), and the manufacturing period requires approximately 8 months.

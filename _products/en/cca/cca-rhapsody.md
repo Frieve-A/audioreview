@@ -5,6 +5,7 @@ target_name: "CCA Rhapsody"
 company_id: cca
 lang: en
 ref: cca-rhapsody
+audiodb_uid: adb-24312daba004
 date: 2025-07-27
 rating: [3.2, 0.3, 0.7, 1.0, 0.6, 0.6]
 price: 45
@@ -12,7 +13,6 @@ summary: "A 6-driver IEM with a 2DD+4BA setup and a 4-stage tuning switch. It ac
 tags: [Hybrid IEM, Six-Driver, Tuning Switch, Budget IEM, CCA]
 permalink: /products/en/cca-rhapsody/
 ---
-
 ## Overview
 
 The CCA Rhapsody is a 6-driver hybrid in-ear monitor (IEM) that combines two 8mm dynamic drivers (DD) and four 31736 balanced armature (BA) drivers. Its standout feature is a 4-stage frequency adjustment switch, allowing users to physically customize the sound. Utilizing a 3D-printed cavity design and a silver-plated copper cable, it implements a complex technical configuration, typically seen in higher-end models, at a price of around 45 USD. CCA is known as the sister brand of KZ, a Chinese audio manufacturer with over a decade of experience, and is recognized for its high cost-performance products.

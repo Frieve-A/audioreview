@@ -5,6 +5,7 @@ target_name: "Sony WF-C710N"
 company_id: sony
 lang: en
 ref: sony-wf-c710n
+audiodb_uid: adb-79d6c716ef3f
 date: 2025-07-14
 rating: [3.8, 0.7, 0.9, 0.7, 0.8, 0.7]
 price: 120
@@ -12,7 +13,6 @@ summary: "A mid-range ANC earphone that delivers excellent noise cancellation pe
 tags: [Sony, Earphones, ANC, Noise Cancelling, Wireless, Bluetooth]
 permalink: /products/en/sony-wf-c710n/
 ---
-
 ## Overview
 
 The Sony WF-C710N is a mid-range active noise cancelling (ANC) true wireless earphone available around 120 USD. It features improved dual noise sensor technology from the previous WF-C700N model, 5mm drivers, and battery performance that achieves up to 30 hours of continuous use. With IPX4 water resistance, touch control, and multipoint connection functionality, it targets users who seek ANC features while keeping budget constraints in mind.

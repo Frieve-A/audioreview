@@ -5,6 +5,7 @@ target_name: "Audio-Technica ATH-R30X"
 company_id: audio-technica
 lang: en
 ref: audio-technica-ath-r30x
+audiodb_uid: adb-e21eca0007d9
 date: 2025-07-12
 rating: [2.4, 0.4, 0.5, 0.4, 0.6, 0.5]
 price: 100
@@ -12,7 +13,6 @@ summary: "The ATH-R30X offers an entry point to open-back design at 100 USD, but
 tags: [Headphones, Open-back, Studio, Reference, Entry-level]
 permalink: /products/en/audio-technica-ath-r30x/
 ---
-
 ## Overview
 
 The ATH-R30X is the most affordable model in Audio-Technica's R-series launched in 2025, featuring open-back design at 100 USD for reference headphones. Equipped with 40mm drivers, it offers a frequency range of 15Hz-25kHz with 36Ω low impedance design that allows operation without dedicated amplifiers. The lightweight 210g construction combined with velour ear pads considers long-term usage comfort. Audio-Technica positions this product as "the gateway to the open-back world," developed as an entry model for budget-conscious users.

@@ -5,6 +5,7 @@ target_name: "UGREEN HiTune Max5c"
 company_id: ugreen
 lang: ja
 ref: ugreen-hitune-max5c
+audiodb_uid: adb-0c51b3507788
 date: 2025-12-05
 rating: [3.6, 0.3, 0.8, 1.0, 0.5, 1.0]
 price: 6000

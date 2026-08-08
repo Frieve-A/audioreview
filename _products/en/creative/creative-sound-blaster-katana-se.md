@@ -5,6 +5,7 @@ target_name: "Creative Sound Blaster Katana SE"
 company_id: creative
 lang: en
 ref: creative-sound-blaster-katana-se
+audiodb_uid: adb-8d47281e653a
 date: 2025-09-03
 rating: [2.8, 0.5, 0.6, 0.4, 0.4, 0.9]
 price: 299.99

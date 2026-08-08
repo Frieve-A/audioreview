@@ -5,6 +5,7 @@ target_name: "Audio-Technica ATN3600L"
 company_id: audio-technica
 lang: en
 ref: audio-technica-atn3600l
+audiodb_uid: adb-378ce7587a2d
 date: 2025-09-05
 rating: [2.3, 0.3, 0.2, 0.8, 0.6, 0.4]
 price: 26

@@ -5,6 +5,7 @@ target_name: "Sony MDR-Z1000"
 company_id: sony
 lang: ja
 ref: sony-mdr-z1000
+audiodb_uid: adb-7316293be50a
 date: 2025-07-08
 rating: [3.2, 0.8, 0.7, 0.3, 0.7, 0.7]
 price: 82350

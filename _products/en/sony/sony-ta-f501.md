@@ -5,6 +5,7 @@ target_name: "Sony TA-F501"
 company_id: sony
 lang: en
 ref: sony-ta-f501
+audiodb_uid: adb-6b8ff29e6d2a
 date: 2025-07-06
 rating: [1.7, 0.2, 0.5, 0.1, 0.6, 0.3]
 price: 247
@@ -12,7 +13,6 @@ summary: "A full digital amplifier from Sony's System501 series released in 2007
 tags: [Discontinued, "Full Digital", "Integrated amplifier", "S-Master Pro", Sony]
 permalink: /products/en/sony-ta-f501/
 ---
-
 ## Overview
 
 The Sony TA-F501 is a full digital integrated amplifier from the System501 series released in spring 2007. It was designed with the concept of "adult component system" and featured the advanced 32-bit S-Master Pro technology for its time. The amplifier has a rated output of 50W/6Ω and practical maximum output of 75W+75W/6Ω, with a unique 6Ω-only design specification. It covers a frequency response range of 10Hz to 40kHz and provides 3 analog inputs and 4 digital inputs. The manufacturer's suggested retail price was ¥89,000 excluding tax, but production has been discontinued, with current used market prices averaging around ¥37,000.

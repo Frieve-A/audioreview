@@ -5,6 +5,7 @@ target_name: "Sennheiser HDV 820"
 company_id: sennheiser
 lang: ja
 ref: sennheiser-hdv-820
+audiodb_uid: adb-78d4747570ca
 date: 2025-08-10
 rating: [2.1, 0.3, 0.7, 0.2, 0.6, 0.3]
 price: 412500
@@ -12,7 +13,6 @@ summary: "プレミアムポジショニングと価格設定に矛盾する測�
 tags: [DAC, ヘッドホンアンプ, ESS-SABRE32, バランス, デスクトップオーディオ]
 permalink: /products/ja/sennheiser-hdv-820/
 ---
-
 ## 概要
 
 Sennheiser HDV 820は、32ビット/384kHz PCMおよびDSD256再生をサポートするESS SABRE32 DACを搭載したプレミアムデスクトップDACおよびヘッドホンアンプです。参考市場価格は2,749.95 USD（B&H実売）で、バランスXLR出力と複数のヘッドホン出力オプションを含む包括的な接続性を提供します。このユニットは全体を通して対称バランス回路を採用し、洗練されたドイツのエンジニアリング血統により高インピーダンスヘッドホンユーザーをターゲットにしています。

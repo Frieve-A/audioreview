@@ -5,6 +5,7 @@ target_name: "Bose QuietComfort Ultra Headphones"
 company_id: bose
 lang: ja
 ref: bose-quietcomfort-ultra-headphones
+audiodb_uid: adb-1ba12db0489e
 date: 2025-07-06
 rating: [3.6, 0.8, 0.7, 0.6, 0.8, 0.7]
 price: 39000
@@ -12,7 +13,6 @@ summary: "Boseの最新フラグシップノイズキャンセリングヘッド
 tags: [Bose, ノイズキャンセリング, ワイヤレスヘッドホン, 空間オーディオ, フラグシップ]
 permalink: /products/ja/bose-quietcomfort-ultra-headphones/
 ---
-
 ## 概要
 
 Bose QuietComfort Ultra Headphonesは、2023年10月に発売されたBoseのフラグシップワイヤレスノイズキャンセリングヘッドホンです。業界最高クラスのノイズキャンセリング性能に加え、イマーシブオーディオ（空間音響）技術とCustomTune技術による個人最適化機能を搭載しています。重量約250g、最大24時間のバッテリー持続時間、aptX Adaptive対応による高音質再生を実現。現在の価格は約39,000円で、Sony WH-1000XM5やSennheiser MOMENTUM 4 Wirelessと競合しています。折りたたみ機能により携帯性も確保され、総合性能で他社フラグシップを上回る完成度を誇ります。

@@ -5,6 +5,7 @@ target_name: "Behringer ECM8000"
 company_id: behringer
 lang: en
 ref: behringer-ecm8000
+audiodb_uid: adb-035760ba3192
 date: 2025-07-18
 rating: [2.9, 0.4, 0.4, 1.0, 0.6, 0.5]
 price: 30
@@ -12,7 +13,6 @@ summary: "The Behringer ECM8000 is a budget-friendly measurement microphone that
 tags: [Measurement Microphone, Condenser Microphone, Behringer, Acoustic Measurement, Phantom Power]
 permalink: /products/en/behringer-ecm8000/
 ---
-
 ## Overview
 
 The Behringer ECM8000 is a measurement condenser microphone developed by German audio equipment manufacturer Behringer. Founded in 1989, Behringer is known for providing professional audio equipment at affordable prices, and the ECM8000 was developed as part of the company's low-cost strategy. This product features specialized design for acoustic measurement and room acoustics analysis, claiming flat frequency response across the 20Hz-20kHz range. It uses an XLR connector and operates on +15V to +48V phantom power. The microphone has a true omnidirectional pattern and is specifically designed for indoor acoustic measurement applications.

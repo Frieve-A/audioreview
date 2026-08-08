@@ -5,6 +5,7 @@ target_name: "Shanling M1 Plus"
 company_id: shanling
 lang: en
 ref: shanling-m1-plus
+audiodb_uid: adb-8eea09be17c5
 date: 2025-10-24
 rating: [3.6, 0.7, 0.7, 1.0, 0.3, 0.9]
 price: 209

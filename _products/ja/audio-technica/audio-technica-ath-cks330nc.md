@@ -5,6 +5,7 @@ target_name: "Audio-Technica ATH-CKS330NC"
 company_id: audio-technica
 lang: ja
 ref: audio-technica-ath-cks330nc
+audiodb_uid: adb-435ca7e00480
 date: 2026-01-24
 rating: [3.2, 0.5, 0.7, 1.0, 0.5, 0.5]
 price: 5100

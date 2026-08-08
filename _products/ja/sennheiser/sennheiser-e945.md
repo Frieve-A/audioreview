@@ -5,6 +5,7 @@ target_name: "Sennheiser e945"
 company_id: sennheiser
 lang: ja
 ref: sennheiser-e945
+audiodb_uid: adb-3b77e59e64ac
 date: 2025-09-10
 rating: [3.0, 0.1, 0.6, 0.9, 0.8, 0.6]
 price: 16980

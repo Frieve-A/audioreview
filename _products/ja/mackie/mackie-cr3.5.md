@@ -5,6 +5,7 @@ target_name: "Mackie CR3.5"
 company_id: mackie
 lang: ja
 ref: mackie-cr3.5
+audiodb_uid: adb-fff6bbc85b61
 date: 2025-08-07
 rating: [3.2, 0.4, 0.4, 1.0, 0.7, 0.7]
 price: 15180

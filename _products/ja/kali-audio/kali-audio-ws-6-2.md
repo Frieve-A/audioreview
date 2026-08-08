@@ -5,6 +5,7 @@ target_name: "Kali Audio WS-6.2"
 company_id: kali-audio
 lang: ja
 ref: kali-audio-ws-6-2
+audiodb_uid: adb-75a1fc77f4a6
 date: 2025-09-01
 rating: [3.5, 0.7, 0.7, 0.8, 0.5, 0.8]
 price: 92000
@@ -12,7 +13,6 @@ summary: "デュアル6.5インチの水平対向ドライバー、低ノイズ�
 tags: [サブウーファー, スタジオモニター, アクティブスピーカー, Kali Audio]
 permalink: /products/ja/kali-audio-ws-6-2/
 ---
-
 ## 概要
 
 WS-6.2は、水平対向配置の6.5インチ高ストロークウーファー×2（振幅15 mm p-p）、クラスD 400 W連続／1000 Wピーク、**前面ポート**を採用したコンパクトなパワードサブウーファーです。公称周波数レンジは31.5–180 Hz（±3 dB）、拡張は27–200 Hz（-10 dB）、最大出力は1 mピーク120 dB。バランスXLR/TRS、RCA、80 Hz HPF出力、極性反転、フットスイッチ対応を備えます（いずれもメーカー公表値）。[1][2]

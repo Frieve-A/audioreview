@@ -5,6 +5,7 @@ target_name: "Onkyo D-412EX"
 company_id: onkyo
 lang: ja
 ref: onkyo-d-412ex
+audiodb_uid: adb-a2affcab5b04
 date: 2025-08-05
 rating: [2.7, 0.5, 0.6, 0.5, 0.6, 0.5]
 price: 80000

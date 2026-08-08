@@ -5,6 +5,7 @@ target_name: "Audio-Technica AT-SP3X"
 company_id: audio-technica
 lang: ja
 ref: audio-technica-at-sp3x
+audiodb_uid: adb-2876e4b78a9f
 date: 2025-07-23
 rating: [2.5, 0.4, 0.3, 0.7, 0.6, 0.5]
 price: 29700

@@ -5,6 +5,7 @@ target_name: "Denon DSW-37"
 company_id: denon
 lang: en
 ref: denon-dsw-37
+audiodb_uid: adb-b5eb71a5a4d3
 date: 2025-08-26
 rating: [2.8, 0.5, 0.4, 0.9, 0.5, 0.5]
 price: 200
@@ -12,7 +13,6 @@ summary: "A discontinued compact powered subwoofer with basic performance oversh
 tags: [Subwoofer, Powered, Compact, Discontinued]
 permalink: /products/en/denon-dsw-37/
 ---
-
 ## Overview
 
 The Denon DSW-37 is a compact, bass-reflex powered subwoofer released as part of Denon’s 17/37 series systems. Manufacturer-facing materials and retailer catalogs indicate a 16 cm (≈8-inch) cone driver and a stated playback frequency range of 20–400 Hz (manufacturer spec) [3][4]. It provides basic controls—variable low-pass crossover, phase switch (0°/180°), and auto-standby—and line-level RCA inputs [1]. Denon’s bundle sheet for the 17/37 set lists the DSW-37 dimensions as about 216 (W) × 300 (H) × 400 (D) mm and weight ≈5.5 kg [2]. As a discontinued model now found primarily on secondary markets, it lacks modern conveniences found on current subwoofers.

@@ -5,6 +5,7 @@ target_name: "Fosi Audio DS2"
 company_id: fosi-audio
 lang: ja
 ref: fosi-audio-ds2
+audiodb_uid: adb-9fc5baa05718
 date: 2025-07-08
 rating: [3.7, 0.8, 0.7, 0.5, 0.9, 0.8]
 price: 9000
@@ -12,7 +13,6 @@ summary: "デュアルCS43131搭載のポータブルUSB DAC/アンプ。優秀�
 tags: [USB DAC, ポータブルアンプ, CS43131, バランス出力]
 permalink: /products/ja/fosi-audio-ds2/
 ---
-
 ## 概要
 
 Fosi Audio DS2は、Cirrus Logic社製CS43131 DACチップをデュアル搭載したポータブルUSB DAC/アンプです。2024年版では従来のESS社製チップから変更され、3.5mmシングルエンドと4.4mmバランス出力を搭載し、最大384kHz/32bit PCM、DSD256に対応しています。CNC加工による金属製ボディと60段階の独立ボリューム調整機能を備え、59.99米ドルの価格帯でポータブルオーディオ市場に参入しています。

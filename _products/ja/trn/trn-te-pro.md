@@ -5,6 +5,7 @@ target_name: "TRN TE Pro"
 company_id: trn
 lang: ja
 ref: trn-te-pro
+audiodb_uid: adb-5b00ea765f79
 date: 2025-08-29
 rating: [3.4, 0.8, 0.6, 0.8, 0.5, 0.7]
 price: 13200
@@ -12,7 +13,6 @@ summary: "デュアルCS43198、OLED表示、3.5 mm/4.4 mm出力、3.5 mm同軸S
 tags: [DAC, アンプ, ポータブル, CS43198, デュアルDAC, USB, バランス]
 permalink: /products/ja/trn-te-pro/
 ---
-
 ## 概要
 
 TRN TE Pro は **CS43198×2**のUSB DAC/AMPで、**OLED表示**、**3.5 mm（SE）/4.4 mm（BAL）**出力に加え、**3.5 mm端子からの同軸S/PDIF出力（メニューで切替）**に対応します。最大 **PCM 32-bit/768 kHz**・**DSD256**に対応します。2025年8月29日時点の代表的な海外価格は **95.99 USD** です。 [1][2]

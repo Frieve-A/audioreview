@@ -5,6 +5,7 @@ target_name: "SMSL SH-6"
 company_id: smsl
 lang: en
 ref: smsl-sh-6
+audiodb_uid: adb-b7b004df8ed1
 date: 2025-08-10
 rating: [3.5, 0.8, 0.6, 1.0, 0.5, 0.6]
 price: 119.99

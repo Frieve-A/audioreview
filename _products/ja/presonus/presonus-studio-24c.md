@@ -5,6 +5,7 @@ target_name: "PreSonus Studio 24c"
 company_id: presonus
 lang: ja
 ref: presonus-studio-24c
+audiodb_uid: adb-de3135c39853
 date: 2025-11-05
 rating: [3.3, 0.7, 0.7, 1.0, 0.2, 0.7]
 price: 15120
@@ -12,7 +13,6 @@ summary: "XMAX-Lプリアンプを搭載した2x2 USB-Cオーディオインタ�
 tags: [オーディオインターフェース, USB, レコーディング, MIDI, PreSonus]
 permalink: /products/ja/presonus-studio-24c/
 ---
-
 ## 概要
 
 PreSonus Studio 24cは、ホームレコーディングや小規模スタジオアプリケーション向けに設計された2x2 USB-Cオーディオインターフェースです。2つのXMAX-Lマイクプリアンプ、24ビット/192kHz変換、MIDI接続を含む包括的なI/Oを特徴とし、コンパクトなフォーマットでプロフェッショナルなレコーディング機能を求めるミュージシャンやプロデューサーをターゲットとしています。このインターフェースにはStudio One Artistソフトウェアがバンドルされており、WindowsとMacの両プラットフォームをサポートしています。PreSonusは、測定重視の設計哲学を維持しながら、オーディオインターフェースエコシステムへの手頃なエントリーポイントとしてこれを位置付けています。

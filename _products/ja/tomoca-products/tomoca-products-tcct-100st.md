@@ -5,6 +5,7 @@ target_name: "TOMOCA Products TCCT-100ST"
 company_id: tomoca-products
 lang: ja
 ref: tomoca-products-tcct-100st
+audiodb_uid: adb-f96ca20f86da
 date: 2026-06-06
 rating: [2.7, 0.5, 0.3, 1.0, 0.6, 0.3]
 price: 93033
@@ -12,7 +13,6 @@ summary: "放送・スタジオ用途向けのプロフェッショナルパッ�
 tags: [プロフェッショナルオーディオ, フェーダー, アッテネーター, トランスフォーマー, バランスXLR, スタジオ, 放送]
 permalink: /products/ja/tomoca-products-tcct-100st/
 ---
-
 ## 概要
 
 TOMOCA Products TCCT-100STは、東京に拠点を置くプロ放送・PA機器メーカー、トモカ電気株式会社が製造するプロフェッショナル用パッシブステレオフェーダーボックスです。100mmストロークのフェーダーによる連続可変レベル減衰を実現し、入力・出力段にNEUTRIK NTL1 1:1オーディオトランスフォーマーを計4基搭載することで、ソースと接続先の間にガルバニックアイソレーションを提供します。NEUTRIK NC3ハイエンドシリーズのバランスXLR接続と10kΩバランスインピーダンスにより、プロフェッショナルラインレベルの信号系統に対応します。本機は完全パッシブ設計で電源不要、最大入力レベルは+19 dBu、フェーダー全開時の挿入損失は約2.2 dBです[1]。現在の国内販売価格は税込93,033円です[2]。

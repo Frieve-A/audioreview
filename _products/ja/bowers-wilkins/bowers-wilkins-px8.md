@@ -5,6 +5,7 @@ target_name: "Bowers & Wilkins PX8"
 company_id: bowers-wilkins
 lang: ja
 ref: bowers-wilkins-px8
+audiodb_uid: adb-03ddd895d96e
 date: 2025-07-14
 rating: [2.9, 0.7, 0.8, 0.8, 0.3, 0.3]
 price: 60000

@@ -5,6 +5,7 @@ target_name: "Austrian Audio Hi-X60"
 company_id: austrian-audio
 lang: ja
 ref: austrian-audio-hi-x60
+audiodb_uid: adb-1e807717666e
 date: 2025-08-15
 rating: [3.0, 0.6, 0.8, 0.3, 0.7, 0.6]
 price: 58890
@@ -12,7 +13,6 @@ summary: "元AKG系エンジニアによるリングマグネット搭載の密�
 tags: [ヘッドホン, 密閉型, スタジオ, プロフェッショナル, Austrian Audio, モニタリング]
 permalink: /products/ja/austrian-audio-hi-x60/
 ---
-
 ## 概要
 
 Austrian Audio Hi-X60は、ウィーンの元AKGエンジニア陣が手掛けた密閉型スタジオモニターヘッドホンです。独自の44 mmハイエクスカーション・ドライバーとリングマグネット方式を採用し、プロ用途を想定してオーストリアで組み立てられています。

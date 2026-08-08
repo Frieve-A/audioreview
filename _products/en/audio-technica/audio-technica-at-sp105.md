@@ -5,6 +5,7 @@ target_name: "Audio-Technica AT-SP105"
 company_id: audio-technica
 lang: en
 ref: audio-technica-at-sp105
+audiodb_uid: adb-0cd79a75beee
 date: 2025-10-19
 rating: [3.5, 0.4, 0.6, 1.0, 0.7, 0.8]
 price: 89
@@ -12,7 +13,6 @@ summary: "USB-powered desktop speakers with DSP amplifier and bass control funct
 tags: [Speakers, Desktop, USB, Active, DSP]
 permalink: /products/en/audio-technica-at-sp105/
 ---
-
 ## Overview
 
 The Audio-Technica AT-SP105 active speakers represent a desktop audio solution designed for computer and multimedia applications. Launched by the established Japanese audio manufacturer, these USB-powered speakers feature 6W total output power distributed across dual 3W channels with 58-70mm drivers. The speakers incorporate digital USB connectivity alongside traditional 3.5mm analog input, powered entirely through USB connection without requiring external power adapters. Key features include a built-in DSP amplifier, adjustable bass control via front-mounted knob, and integrated headphone output functionality. The compact black design targets users seeking plug-and-play desktop audio with enhanced connectivity options compared to basic computer speakers.

@@ -5,6 +5,7 @@ target_name: "TRN Conch"
 company_id: trn
 lang: en
 ref: trn-conch
+audiodb_uid: adb-79028e9be9fc
 date: 2025-07-25
 rating: [3.4, 0.4, 0.7, 1.0, 0.5, 0.8]
 price: 30

@@ -5,6 +5,7 @@ target_name: "Beyerdynamic TYGR 300 R"
 company_id: beyerdynamic
 lang: en
 ref: beyerdynamic-tygr-300-r
+audiodb_uid: adb-aab125205628
 date: 2025-08-26
 rating: [3.1, 0.6, 0.6, 0.3, 0.8, 0.8]
 price: 229
@@ -12,7 +13,6 @@ summary: "Gaming-focused open-back headphone (32-ohm) made in Germany with an ac
 tags: [Gaming, Open-back, Beyerdynamic, Headphones, 32-ohm]
 permalink: /products/en/beyerdynamic-tygr-300-r/
 ---
-
 ## Overview
 
 The Beyerdynamic TYGR 300 R is an open-back, wired gaming headphone built in Germany. It uses a 32-ohm system for easy drive and applies a specially developed **acoustic fleece**—an adaptation of the DT 990 PRO’s frequency-response concept, optimized for gaming spatial cues [1][7]. Technical data include 5–35,000 Hz bandwidth, nominal SPL 96 dB, and 290 g weight without cable [1].

@@ -5,6 +5,7 @@ target_name: "Sony TC-R6"
 company_id: sony
 lang: ja
 ref: sony-tc-r6
+audiodb_uid: adb-c58d702f202a
 date: 2025-10-13
 rating: [2.1, 0.1, 0.4, 1.0, 0.0, 0.6]
 price: 215250

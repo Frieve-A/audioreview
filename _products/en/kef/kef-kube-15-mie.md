@@ -5,6 +5,7 @@ target_name: "KEF Kube 15 MIE"
 company_id: kef
 lang: en
 ref: kef-kube-15-mie
+audiodb_uid: adb-bc994cbe4343
 date: 2025-07-30
 rating: [3.0, 0.6, 0.5, 0.8, 0.6, 0.5]
 price: 1499
@@ -12,7 +13,6 @@ summary: "KEF's 15-inch subwoofer, the Kube 15 MIE, features a 300W Class D ampl
 tags: [Subwoofer, KEF, Class D, Sealed, DSP]
 permalink: /products/en/kef-kube-15-mie/
 ---
-
 ## Overview
 
 The KEF Kube 15 MIE is a 15-inch sealed subwoofer announced by British speaker manufacturer KEF in 2024. It is equipped with a 300W RMS Class D amplifier and the company's proprietary Music Integrity Engine (MIE) DSP, achieving a frequency response of 20Hz-140Hz (±3dB) and a maximum SPL of 116dB. Housed in a 27.5kg sealed cabinet, KEF claims it delivers "precise, punchy, neutral, and 'fast' bass." The product features a 15-inch front-firing driver, multiple connectivity options, and three room position EQ presets, designed for music and movie playback in large rooms.

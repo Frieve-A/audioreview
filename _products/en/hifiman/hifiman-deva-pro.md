@@ -5,6 +5,7 @@ target_name: "HIFIMAN Deva Pro"
 company_id: hifiman
 lang: en
 ref: hifiman-deva-pro
+audiodb_uid: adb-4591a3d08bd7
 date: 2025-09-25
 rating: [2.8, 0.6, 0.6, 0.3, 0.4, 0.9]
 price: 329

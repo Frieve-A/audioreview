@@ -5,6 +5,7 @@ target_name: "Edifier HECATE G1000 II"
 company_id: edifier
 lang: en
 ref: edifier-hecate-g1000ii
+audiodb_uid: adb-d9fc6c707553
 date: 2026-03-07
 rating: [3.3, 0.5, 0.8, 1.0, 0.5, 0.5]
 price: 79.99
@@ -12,7 +13,6 @@ summary: "Compact desktop gaming speakers with multi-connectivity and RGB lighti
 tags: [Speakers, Gaming, Desktop, RGB, Bluetooth, USB]
 permalink: /products/en/edifier-hecate-g1000ii/
 ---
-
 ## Overview
 
 The Edifier HECATE G1000 II represents a compact desktop gaming speaker solution targeting users with limited desk space and budgets under 80 dollars. At 9.2cm width, these active 2.0 speakers feature a distinctive mech-cyber aesthetic with 2.5-inch full-range drivers enhanced by a 16-core magnetic circuit system and racetrack-shaped bass reflex ports. The speakers offer comprehensive connectivity including Bluetooth 5.4, USB-C, USB-A, and 3.5mm AUX inputs, along with three EQ presets and nine RGB lighting effects. Currently priced at 79.99 dollars through official channels, the G1000 II positions itself as a successor to the original G1000 with upgraded connectivity and refined audio tuning while maintaining the desktop-friendly design philosophy.

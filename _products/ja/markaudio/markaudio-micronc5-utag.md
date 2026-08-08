@@ -5,6 +5,7 @@ target_name: "MarkAudio MicroNC5 Utag"
 company_id: markaudio
 lang: ja
 ref: markaudio-micronc5-utag
+audiodb_uid: adb-5216148b09f5
 date: 2025-08-24
 rating: [2.5, 0.6, 0.8, 0.5, 0.4, 0.2]
 price: 90000
@@ -12,7 +13,6 @@ summary: "UTAG超薄板ガラス振動板を採用する世界初クラスのコ
 tags: [ブックシェルフスピーカー, フルレンジ, ガラス振動板, プレミアムオーディオ, UTAG技術]
 permalink: /products/ja/markaudio-micronc5-utag/
 ---
-
 ## 概要
 
 MicroNC5 Utagは、NEGのDinorex UTG（100µm級の化学強化ガラス）をGAITが成形しMarkAudioが組み立てるAlpair 5Gユニットを搭載した、受動型ブックシェルフ・ペアです [1]。材料工学的な新規性は高いものの、シングル8 cmドライバーの物理的制約から低域の絶対量は限られ、総合性能はシステム設計全体（周波数応答、歪、最大音圧）の検証に依存します。

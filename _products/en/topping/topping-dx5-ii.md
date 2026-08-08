@@ -5,6 +5,7 @@ target_name: "Topping DX5 II"
 company_id: topping
 lang: en
 ref: topping-dx5-ii
+audiodb_uid: adb-cdb918611d0c
 date: 2026-01-31
 rating: [4.3, 0.9, 1.0, 1.0, 0.4, 1.0]
 price: 299
@@ -12,7 +13,6 @@ summary: "Desktop DAC/amplifier combo featuring dual ES9039Q2M DACs and propriet
 tags: [desktop-dac, headphone-amplifier, balanced-output, parametric-eq, bluetooth]
 permalink: /products/en/topping-dx5-ii/
 ---
-
 ## Overview
 
 The Topping DX5 II represents a significant evolution in desktop audio, combining dual ESS ES9039Q2M DAC chips with Topping's proprietary X-Hybrid amplification architecture. Released in June 2025, this 299 USD desktop DAC/headphone amplifier delivers 7600mW output power, 10-band parametric equalization, and comprehensive connectivity including Bluetooth 5.1 with LDAC support. The device features a 2.0-inch Aurora UI display and multiple output options including 4.4mm balanced, 4-pin XLR balanced, and 6.35mm single-ended connections [1].

@@ -5,6 +5,7 @@ target_name: "Skullcandy Crusher Evo"
 company_id: skullcandy
 lang: en
 ref: skullcandy-crusher-evo
+audiodb_uid: adb-3bf1ade893d8
 date: 2025-09-19
 rating: [2.9, 0.4, 0.7, 1.0, 0.2, 0.6]
 price: 189.95
@@ -12,7 +13,6 @@ summary: "Bass-focused wireless headphones with unique haptic feedback technolog
 tags: [Headphones, Wireless, Bass, Haptic, Bluetooth]
 permalink: /products/en/skullcandy-crusher-evo/
 ---
-
 ## Overview
 
 The Skullcandy Crusher Evo represents the company's signature approach to bass-enhanced personal audio, featuring their proprietary Crusher Bass haptic feedback system alongside Personal Sound hearing analysis technology by Audiodo. Launched as the successor to the Crusher Wireless, these over-ear headphones target consumers seeking physically felt bass sensation rather than traditional high-fidelity reproduction. The design incorporates dual 40mm audio drivers supplemented by dedicated bass drivers for haptic feedback, controlled via a physical slider on the left earcup. With 40-hour battery life, Bluetooth 5.0 connectivity, and integrated Tile finding technology, the Crusher Evo positions itself as a lifestyle-oriented audio device emphasizing sensory experience over measurement-based performance. Note: This product was discontinued as of November 8, 2024, limiting current market availability.

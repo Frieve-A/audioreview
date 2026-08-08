@@ -5,6 +5,7 @@ target_name: "Pioneer PL-50LII"
 company_id: pioneer
 lang: ja
 ref: pioneer-pl-50lii
+audiodb_uid: adb-1c1b9f240453
 date: 2025-08-28
 rating: [1.9, 0.3, 0.4, 0.6, 0.3, 0.3]
 price: 90000

@@ -5,6 +5,7 @@ target_name: "Koss Porta Pro"
 company_id: koss
 lang: ja
 ref: koss-porta-pro
+audiodb_uid: adb-dd424a28ccb6
 date: 2025-07-29
 rating: [2.9, 0.6, 0.3, 0.7, 0.7, 0.6]
 price: 7500

@@ -5,6 +5,7 @@ target_name: "SMSL SU-10"
 company_id: smsl
 lang: ja
 ref: smsl-su-10
+audiodb_uid: adb-dea2cae0a621
 date: 2025-08-28
 rating: [4.2, 0.9, 0.8, 1.0, 0.7, 0.8]
 price: 132300
@@ -12,7 +13,6 @@ summary: "デュアルES9038PROとデュアルリニア電源により、測定�
 tags: [DAC, ES9038PRO, MQA, DSD512, Bluetooth, LDAC]
 permalink: /products/ja/smsl-su-10/
 ---
-
 ## 概要
 
 SMSL SU-10は、デュアルESS ES9038PROの16チャンネル合成、XMOS XU316 USB、デジタル/アナログ独立のリニア電源を採用した据置型DACです。PCM 32bit/768 kHz、DSD512、MQA/MQA-CDに対応し、USB／光／同軸／AES/EBU／I2S（HDMI）／Bluetooth（LDAC）を備えます。測定志向で現代的な接続性を求めるユーザー向けのモデルです [1][2]。

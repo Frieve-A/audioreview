@@ -5,6 +5,7 @@ target_name: "DUNU DN 142"
 company_id: dunu
 lang: ja
 ref: dunu-dn-142
+audiodb_uid: adb-b5dcbe890c81
 date: 2026-05-19
 rating: [1.9, 0.5, 0.7, 0.1, 0.4, 0.2]
 price: 38750

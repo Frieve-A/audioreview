@@ -5,6 +5,7 @@ target_name: "Focal Alpha 50 Evo"
 company_id: focal
 lang: en
 ref: focal-alpha-50-evo
+audiodb_uid: adb-174601ba3c07
 date: 2025-08-16
 rating: [2.6, 0.5, 0.7, 0.4, 0.5, 0.5]
 price: 758

@@ -5,6 +5,7 @@ target_name: "Tangzu Wan'er S.G Studio Edition"
 company_id: tangzu
 lang: en
 ref: tangzu-wan-er-s-g-studio-edition
+audiodb_uid: adb-b2c62c984083
 date: 2025-08-12
 rating: [2.9, 0.5, 0.5, 0.9, 0.4, 0.6]
 price: 21

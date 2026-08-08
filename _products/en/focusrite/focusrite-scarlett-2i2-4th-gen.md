@@ -5,6 +5,7 @@ target_name: "Focusrite Scarlett 2i2 4th Gen"
 company_id: focusrite
 lang: en
 ref: focusrite-scarlett-2i2-4th-gen
+audiodb_uid: adb-6bc2b933804e
 date: 2025-08-23
 rating: [3.9, 0.8, 0.6, 0.8, 0.8, 0.9]
 price: 199

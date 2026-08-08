@@ -5,6 +5,7 @@ target_name: "MiniDSP UMA-16"
 company_id: minidsp
 lang: ja
 ref: minidsp-uma-16
+audiodb_uid: adb-09b18f5553f3
 date: 2025-09-08
 rating: [2.9, 0.2, 0.6, 1.0, 0.4, 0.7]
 price: 36300
@@ -12,7 +13,6 @@ summary: "ビームフォーミング開発向け16チャンネルUSBマイク�
 tags: [マイクロフォンアレイ, USBオーディオ, MEMS, ビームフォーミング, 開発ツール]
 permalink: /products/ja/minidsp-uma-16/
 ---
-
 ## 概要
 
 MiniDSP UMA-16 v2は、ビームフォーミングアルゴリズム開発とアコースティックカメラ用途向けに設計された特殊な16チャンネルUSBマイクロフォンアレイです。16個のKnowles SPH1668LM4H MEMSマイクロフォンを均一な矩形配列（URA）に配置し、マルチチャンネル音声処理を研究する研究者や開発者をターゲットとしています。システムにはPDMからPCMへの変換用のXMOS XCOREインターフェースが含まれ、ASIOドライバサポートを備えたUSB接続を通じて未処理のマルチチャンネル音声データを提供します。

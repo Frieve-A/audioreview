@@ -5,6 +5,7 @@ target_name: "DUNU Concept R"
 company_id: dunu
 lang: en
 ref: dunu-concept-r
+audiodb_uid: adb-0c6cde080b2b
 date: 2025-10-11
 rating: [3.3, 0.7, 0.8, 0.8, 0.6, 0.4]
 price: 749.99

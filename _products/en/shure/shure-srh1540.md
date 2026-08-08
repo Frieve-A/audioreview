@@ -5,6 +5,7 @@ target_name: "Shure SRH1540"
 company_id: shure
 lang: en
 ref: shure-srh1540
+audiodb_uid: adb-81ed8650a86d
 date: 2025-08-31
 rating: [2.8, 0.6, 0.6, 0.3, 0.7, 0.6]
 price: 549
@@ -12,7 +13,6 @@ summary: "Premium closed-back with very flat mid–treble response and excellent
 tags: [Headphones, Closed-back, Studio, Professional, Monitoring]
 permalink: /products/en/shure-srh1540/
 ---
-
 ## Overview
 
 The SRH1540 is Shure’s premium closed-back studio headphone. It uses 40 mm neodymium dynamic drivers, aluminum-alloy yokes with carbon-fiber end caps, and plush Alcantara ear pads for comfort and isolation. It targets engineers and creators who want isolation without giving up a generally neutral presentation.

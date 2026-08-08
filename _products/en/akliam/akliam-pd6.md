@@ -5,6 +5,7 @@ target_name: "Akliam PD6"
 company_id: akliam
 lang: en
 ref: akliam-pd6
+audiodb_uid: adb-4c702880e971
 date: 2025-07-28
 rating: [3.8, 0.8, 0.7, 1.0, 0.6, 0.7]
 price: 55

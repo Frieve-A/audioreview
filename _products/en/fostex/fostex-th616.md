@@ -5,6 +5,7 @@ target_name: "Fostex TH616"
 company_id: fostex
 lang: en
 ref: fostex-th616
+audiodb_uid: adb-30dc7fa3be94
 date: 2026-01-07
 rating: [2.5, 0.3, 0.8, 0.3, 0.7, 0.4]
 price: 899

@@ -5,6 +5,7 @@ target_name: "Tannoy Turnberry GR"
 company_id: tannoy
 lang: ja
 ref: tannoy-turnberry-gr
+audiodb_uid: adb-b8e6c0d02483
 date: 2025-07-08
 rating: [3.1, 0.7, 0.8, 0.4, 0.6, 0.6]
 price: 1298000

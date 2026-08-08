@@ -5,6 +5,7 @@ target_name: "IK Multimedia iLoud Micro Monitor"
 company_id: ik-multimedia
 lang: en
 ref: ik-multimedia-iloud-micro-monitor
+audiodb_uid: adb-33957b15f2d7
 date: 2025-10-29
 rating: [2.7, 0.4, 0.6, 0.3, 0.6, 0.8]
 price: 350

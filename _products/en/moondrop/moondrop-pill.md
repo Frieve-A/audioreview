@@ -5,6 +5,7 @@ target_name: "Moondrop PILL"
 company_id: moondrop
 lang: en
 ref: moondrop-pill
+audiodb_uid: adb-09a79ca75b5c
 date: 2025-11-18
 rating: [4.0, 0.5, 0.8, 1.0, 0.8, 0.9]
 price: 49.99
@@ -12,7 +13,6 @@ summary: "AI-enhanced ear-clip earbuds featuring Bluetooth 6.0, NPU-powered nois
 tags: [Ear-clip, Wireless, Bluetooth 6.0, AI ENC, Moondrop, Open-ear]
 permalink: /products/en/moondrop-pill/
 ---
-
 ## Overview
 
 The Moondrop PILL represents an innovative approach to open-ear listening through its ear-clip design, combining advanced wireless technology with Moondrop's established acoustic expertise [1]. Featuring a 13mm ultra-high efficiency dynamic driver with compressed fiber diaphragm, the PILL incorporates cutting-edge technologies including Bluetooth 6.0 connectivity, NPU hardware-level AI Environmental Noise Cancellation, and 2nd generation interactive DSP with parametric equalizer capabilities [1][2]. At 49.99 USD, this ear-clip design targets active users seeking situational awareness without sacrificing audio quality, competing against established options like SoundPEATS Pop Clip and QCY Crossky C30 while offering significantly more advanced feature integration [3].

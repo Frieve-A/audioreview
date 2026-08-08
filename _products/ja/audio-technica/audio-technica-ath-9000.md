@@ -5,6 +5,7 @@ target_name: "Audio-Technica ATH-9000"
 company_id: audio-technica
 lang: ja
 ref: audio-technica-ath-9000
+audiodb_uid: adb-2a0b9f4a75d9
 date: 2026-05-06
 rating: [1.8, 0.5, 0.2, 0.5, 0.1, 0.5]
 price: 27000

@@ -5,6 +5,7 @@ target_name: "Fostex TH910"
 company_id: fostex
 lang: ja
 ref: fostex-th910
+audiodb_uid: adb-6bef4f8f1c71
 date: 2025-12-05
 rating: [2.2, 0.5, 0.7, 0.0, 0.7, 0.3]
 price: 413600

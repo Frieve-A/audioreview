@@ -5,6 +5,7 @@ target_name: "Audio-Technica ATH-909"
 company_id: audio-technica
 lang: en
 ref: audio-technica-ath-909
+audiodb_uid: adb-beabf1989bb2
 date: 2026-05-03
 rating: [2.3, 0.5, 0.2, 0.8, 0.3, 0.5]
 price: 25
@@ -12,7 +13,6 @@ summary: "A 1987 vintage open-back headphone with no third-party measurements, f
 tags: [Headphones, Open-back, Wired, Vintage]
 permalink: /products/en/audio-technica-ath-909/
 ---
-
 ## Overview
 
 The Audio-Technica ATH-909 is a discontinued open-back over-ear headphone manufactured in Japan, released circa 1987. It features a 44mm dynamic driver with a 600-ohm high-impedance design, targeted at home and studio listening of the era. The product has been out of production for over 35 years and is available exclusively on the used/secondary market; no official product page exists on the Audio-Technica website. Audio-Technica is a Japanese manufacturer founded in 1962, established across turntable cartridges, headphones, and microphones.

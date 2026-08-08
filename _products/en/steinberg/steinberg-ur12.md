@@ -5,6 +5,7 @@ target_name: "Steinberg UR12"
 company_id: steinberg
 lang: en
 ref: steinberg-ur12
+audiodb_uid: adb-7c913e766384
 date: 2025-09-02
 rating: [3.3, 0.5, 0.5, 0.9, 0.7, 0.7]
 price: 99.90

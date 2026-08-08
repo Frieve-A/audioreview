@@ -5,6 +5,7 @@ target_name: "Questyle QCC Dongle Pro Lossless Bluetooth トランスミッタ�
 company_id: questyle
 lang: ja
 ref: questyle-qcc-dongle-pro
+audiodb_uid: adb-b066bc0bbb17
 date: 2025-12-02
 rating: [3.6, 0.5, 0.7, 1.0, 0.6, 0.8]
 price: 10764
@@ -12,7 +13,6 @@ summary: "aptX LosslessやLDACを含む包括的なコーデックサポート�
 tags: [Bluetooth, トランスミッター, アダプター, USB-C, LDAC, aptX, Questyle]
 permalink: /products/ja/questyle-qcc-dongle-pro/
 ---
-
 ## 概要
 
 Questyle QCC Dongle Pro Lossless Bluetoothトランスミッターは、同社のワイヤレスオーディオ伝送市場への参入製品です。Qualcomm QCC3086チップとBluetooth 5.4技術を搭載し、USB-C電源で動作するこのデバイスは、aptX LosslessやLDACを含む包括的なオーディオコーデックに対応し、LDAC使用時は最大990kbpsでの伝送が可能です。AppleのMFiプログラムで認証された世界初のロスレスBluetoothトランスミッターとして差別化を図り、ゲーム機やコンピューターなどの様々なソースデバイスから高品質なワイヤレスオーディオ伝送を求めるユーザーをターゲットとしています。

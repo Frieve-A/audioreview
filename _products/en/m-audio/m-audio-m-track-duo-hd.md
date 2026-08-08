@@ -5,6 +5,7 @@ target_name: "M-Audio M-Track Duo HD"
 company_id: m-audio
 lang: en
 ref: m-audio-m-track-duo-hd
+audiodb_uid: adb-e23017a69136
 date: 2025-09-14
 rating: [3.0, 0.5, 0.5, 0.9, 0.5, 0.6]
 price: 99

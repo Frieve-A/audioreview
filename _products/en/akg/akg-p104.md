@@ -5,6 +5,7 @@ target_name: "AKG P104"
 company_id: akg
 lang: en
 ref: akg-p104
+audiodb_uid: adb-a33da4184304
 date: 2025-12-16
 rating: [2.2, 0.5, 0.5, 0.4, 0.5, 0.3]
 price: 100
@@ -12,7 +13,6 @@ summary: "Discontinued automotive wireless headphones using proprietary Kleer RF
 tags: [Headphones, Wireless, Automotive, Kleer, RF, Mercedes-Benz, Discontinued]
 permalink: /products/en/akg-p104/
 ---
-
 ## Overview
 
 The AKG P104 is a wireless headphone designed specifically for Mercedes-Benz rear seat entertainment systems, developed around 2010 in partnership between AKG, Harman Becker Automotive Systems, and Mercedes-Benz. This product represents an early implementation of automotive wireless audio technology using Kleer RF transmission at 2.4GHz. Originally bundled with Mercedes S-Class and E-Class models, the P104 featured 40mm drivers, supra-aural design with semi-closed acoustical characteristics, and the ability to switch between three audio sources. While innovative for its time period, the product has since been discontinued as the automotive industry moved toward standard Bluetooth implementations.

@@ -5,6 +5,7 @@ target_name: "Bowers & Wilkins PX7 S3"
 company_id: bowers-wilkins
 lang: en
 ref: bowers-wilkins-px7-s3
+audiodb_uid: adb-8821a35e85c6
 date: 2025-07-22
 rating: [3.1, 0.6, 0.6, 0.9, 0.5, 0.5]
 price: 372

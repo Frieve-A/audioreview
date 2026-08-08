@@ -5,6 +5,7 @@ target_name: "RME ADI-2 Pro FS R Black Edition"
 company_id: rme
 lang: en
 ref: rme-adi-2-pro-fs-r-black-edition
+audiodb_uid: adb-91aed32188e6
 date: 2025-11-12
 rating: [4.7, 0.9, 0.8, 1.0, 1.0, 1.0]
 price: 1999

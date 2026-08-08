@@ -5,6 +5,7 @@ target_name: "Onkyo DHT-9HD"
 company_id: onkyo
 lang: en
 ref: onkyo-dht-9hd
+audiodb_uid: adb-15961400127d
 date: 2025-09-18
 rating: [2.3, 0.5, 0.3, 1.0, 0.1, 0.4]
 price: 180
@@ -12,7 +13,6 @@ summary: "2008-era 5.1ch home theater system with built-in amplification, now di
 tags: [Speakers, Home Theater, 5.1ch, Subwoofer, Discontinued, Onkyo]
 permalink: /products/en/onkyo-dht-9hd/
 ---
-
 ## Overview
 
 The Onkyo DHT-9HD is a discontinued 5.1-channel system architecture in which the subwoofer enclosure integrates the power amplifier for all channels. Launched around April 2008, the subwoofer houses a 5.1ch power amp that drives external satellites (30W×5ch for front/center/surround) and its own woofer (60W), figures published under JEITA conditions [1][2]. The electronics support HDMI 1.3a switching and decoding of Dolby TrueHD and DTS-HD Master Audio, plus Onkyo features such as Theater-Dimensional and Audyssey 2EQ auto setup for basic room adaptation [1]. The concept targets compact, rack-integrated setups (AV GATE series) where a single powered subwoofer acts as the system hub while external speakers handle mid/high output [1][2]. Manufacturer support has ended.

@@ -5,6 +5,7 @@ target_name: "Devialet Astra"
 company_id: devialet
 lang: ja
 ref: devialet-astra
+audiodb_uid: adb-92de03b0fbbb
 date: 2025-08-13
 rating: [3.2, 0.6, 0.8, 0.3, 0.9, 0.6]
 price: 3000000

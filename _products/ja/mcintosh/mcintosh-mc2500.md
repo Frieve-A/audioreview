@@ -5,6 +5,7 @@ target_name: "McIntosh MC2500"
 company_id: mcintosh
 lang: ja
 ref: mcintosh-mc2500
+audiodb_uid: adb-411c62817724
 date: 2025-08-31
 rating: [2.1, 0.5, 0.3, 0.7, 0.4, 0.2]
 price: 525000

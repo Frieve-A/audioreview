@@ -5,6 +5,7 @@ target_name: "KOJO Technology Crystal E-G"
 company_id: kojo-technology
 lang: en
 ref: kojo-technology-crystal-e-g
+audiodb_uid: adb-207d504740a3
 date: 2025-11-21
 rating: [1.1, 0.0, 0.3, 0.4, 0.4, 0.0]
 price: 699
@@ -12,7 +13,6 @@ summary: "High-priced ground box making unsubstantiated audio improvement claims
 tags: [Ground Box, Audio Accessory, KOJO Technology, Virtual Earth, Grounding, Passive Device]
 permalink: /products/en/kojo-technology-crystal-e-g/
 ---
-
 ## Overview
 
 The KOJO Technology Crystal E-G is a passive grounding device that claims to improve audio quality through an 8-layer dissimilar metal structure. Positioned as a premium "virtual earth" solution, the device weighs approximately 830g and measures 80×35×111mm. KOJO Technology, established in 1990, transitioned from semiconductor manufacturing to audio accessories. The Crystal E-G represents their flagship grounding product, featuring stainless steel, brass, and copper plates separated by 0.5mm air gaps. The company claims this configuration provides 68 times more grounding surface area than their previous Crystal E model, though this specification lacks independent verification.

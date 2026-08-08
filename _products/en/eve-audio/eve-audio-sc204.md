@@ -5,6 +5,7 @@ target_name: "EVE Audio SC204"
 company_id: eve-audio
 lang: en
 ref: eve-audio-sc204
+audiodb_uid: adb-b02801a59daa
 date: 2025-07-30
 rating: [3.4, 0.7, 0.8, 0.5, 0.6, 0.8]
 price: 698

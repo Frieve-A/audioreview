@@ -5,6 +5,7 @@ target_name: "Sennheiser Ambeo Soundbar Max"
 company_id: sennheiser
 lang: en
 ref: sennheiser-ambeo-soundbar-max
+audiodb_uid: adb-aef0f9b63481
 date: 2025-08-29
 rating: [3.9, 0.8, 0.7, 0.8, 0.8, 0.8]
 price: 2000
@@ -12,7 +13,6 @@ summary: "Premium single-bar Dolby Atmos solution with a 13-driver system and AM
 tags: [Soundbar, Dolby Atmos, DTS:X, Single-Bar, Premium, 5.1.4]
 permalink: /products/en/sennheiser-ambeo-soundbar-max/
 ---
-
 ## Overview
 
 The AMBEO Soundbar | Max is Sennheiser's flagship single-bar approach to home theater audio. Originally launched in 2019 and substantially upgraded in 2025 via AMBEO OS2, it integrates thirteen drivers—six 4-inch woofers, five 1-inch tweeters, and two 3.5-inch up-firing units—aiming for a 5.1.4-like presentation without external speakers. It's a physically large unit (1265 mm wide; 18.5 kg) targeting users who want near-full theater impact with minimal boxes and wiring[1][3].

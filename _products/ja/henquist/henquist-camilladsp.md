@@ -5,6 +5,7 @@ target_name: "Henrik Enquist CamillaDSP"
 company_id: henquist
 lang: ja
 ref: henquist-camilladsp
+audiodb_uid: adb-1b64e7b15265
 date: 2025-10-11
 rating: [4.1, 0.8, 0.7, 1.0, 0.7, 0.9]
 price: 0
@@ -12,7 +13,6 @@ summary: "プロ級のルーム補正とクロスオーバー機能を提供す�
 tags: [DSP, ルーム補正, クロスオーバー, オープンソース, ソフトウェア, オーディオ処理]
 permalink: /products/ja/henquist-camilladsp/
 ---
-
 ## 概要
 
 CamillaDSPは、アクティブクロスオーバーやルーム補正などの用途向けにHenrik Enquistが開発した柔軟なクロスプラットフォームオーディオ処理エンジンです。Rustプログラミング言語で書かれたこのオープンソースソフトウェアは、Linux、Windows、macOSプラットフォーム全体でFIRとIIRフィルタリング機能の両方を提供します。ソフトウェアは3スレッドアーキテクチャを採用し、キャプチャ、処理、再生機能を分離して安定したリアルタイムオーディオ処理を保証します。GPL-3.0ライセンスの下で提供される無料ソフトウェアとして、CamillaDSPはコスト障壁を排除しながら、数百ドルする商用ソリューションに匹敵するプロ級DSP機能を提供します。

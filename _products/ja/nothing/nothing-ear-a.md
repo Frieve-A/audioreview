@@ -5,6 +5,7 @@ target_name: "Nothing Ear (a)"
 company_id: nothing
 lang: ja
 ref: nothing-ear-a
+audiodb_uid: adb-c92e5d58d6f5
 date: 2025-08-21
 rating: [3.4, 0.7, 0.5, 1.0, 0.5, 0.7]
 price: 14850

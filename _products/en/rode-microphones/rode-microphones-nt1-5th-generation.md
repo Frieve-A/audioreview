@@ -5,6 +5,7 @@ target_name: "RØDE NT1 5th Generation"
 company_id: rode-microphones
 lang: en
 ref: rode-microphones-nt1-5th-generation
+audiodb_uid: adb-016b8837678b
 date: 2025-10-09
 rating: [4.4, 0.9, 0.8, 1.0, 0.7, 1.0]
 price: 249
@@ -12,7 +13,6 @@ summary: "World's first studio microphone with dual XLR/USB connectivity and 32-
 tags: [Microphones, Studio, Condenser, USB, XLR, 32-bit Float, Digital Interface]
 permalink: /products/en/rode-microphones-nt1-5th-generation/
 ---
-
 ## Overview
 
 The RØDE NT1 5th Generation represents a groundbreaking advancement in studio condenser microphone design, featuring the world's first studio microphone with both XLR and USB connectivity via RØDE's patent-pending Dual Connect output technology, and the world's first microphone with 32-bit float digital output capability. This large-diaphragm condenser microphone achieves exceptional measured performance with 4dBA self-noise—among the quietest studio condensers available—and maximum SPL handling capabilities. The microphone enables seamless switching between analog XLR output and digital USB operation. When connected via USB, it provides "unclippable" 32-bit float recording with built-in professional audio interface featuring Revolution Preamp, 192kHz A/D conversion, and APHEX digital signal processing. The package includes professional accessories: SM6 shock mount, magnetic pop filter, premium XLR cable with Neutrik connectors, and USB-C cable.

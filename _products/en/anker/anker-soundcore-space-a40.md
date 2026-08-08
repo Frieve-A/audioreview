@@ -5,6 +5,7 @@ target_name: "Anker Soundcore Space A40"
 company_id: anker
 lang: en
 ref: anker-soundcore-space-a40
+audiodb_uid: adb-21e43f7b5614
 date: 2025-07-31
 rating: [3.5, 0.7, 0.6, 0.9, 0.7, 0.6]
 price: 60
@@ -12,7 +13,6 @@ summary: "True wireless earbuds currently selling for 60 USD. Features LDAC supp
 tags: [Anker, Soundcore, Space A40, Wireless Earbuds, Noise Cancelling, LDAC, ANC]
 permalink: /products/en/anker-soundcore-space-a40/
 ---
-
 ## Overview
 
 The Anker Soundcore Space A40 is a true wireless earbud released in September 2022. Currently priced at 60 USD, it offers LDAC support, adaptive ANC with up to 98% noise reduction, and a playback time of up to 50 hours. It features 10mm dual-layer dynamic drivers, Bluetooth 5.2 with multipoint connectivity, and IPX4 water resistance. With wireless charging capability, it weighs just 5g per earbud and 58g including the case in a lightweight design. Frequently selected by professional review sites as one of the best buys in the under-100 USD earbud category, it is evaluated as a well-balanced product for its features and price.

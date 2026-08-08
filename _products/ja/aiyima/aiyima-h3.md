@@ -5,6 +5,7 @@ target_name: "AIYIMA H3"
 company_id: aiyima
 lang: ja
 ref: aiyima-h3
+audiodb_uid: adb-0b5eaf2889f8
 date: 2025-10-26
 rating: [3.2, 0.5, 0.5, 1.0, 0.4, 0.8]
 price: 4500

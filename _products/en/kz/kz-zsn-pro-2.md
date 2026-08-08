@@ -5,6 +5,7 @@ target_name: "KZ ZSN Pro 2"
 company_id: kz
 lang: en
 ref: kz-zsn-pro-2
+audiodb_uid: adb-c8f6540fd009
 date: 2025-07-25
 rating: [2.8, 0.3, 0.7, 1.0, 0.5, 0.3]
 price: 19

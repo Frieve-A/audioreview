@@ -5,6 +5,7 @@ target_name: "DELA S100"
 company_id: dela
 lang: en
 ref: dela-s100
+audiodb_uid: adb-6fc3c5d08a9c
 date: 2025-08-26
 rating: [1.4, 0.0, 0.7, 0.0, 0.7, 0.0]
 price: 3395
@@ -12,7 +13,6 @@ summary: "DELA’s current S100/2 ‘audiophile’ network switch adds SFP slots
 tags: [Network Switch, Ethernet, Digital Audio, Audiophile, Japan]
 permalink: /products/en/dela-s100/
 ---
-
 ## Overview
 
 The latest shipping version of this product is the **S100/2**. It uses two 100 Mb RJ45 ports “for best audio quality,” six 1 Gb RJ45 ports for high-traffic devices, **two SFP** cages for optical links, and a **1.5 MB buffer**. The design emphasizes a revised power board with a bank of “audio-grade capacitors” and a rigid steel chassis. These are marketed as creating an “ideal low-noise environment” for networked audio. [1]

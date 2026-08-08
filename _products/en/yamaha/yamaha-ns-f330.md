@@ -5,6 +5,7 @@ target_name: "Yamaha NS-F330"
 company_id: yamaha
 lang: en
 ref: yamaha-ns-f330
+audiodb_uid: adb-ec8afddf74e3
 date: 2025-08-13
 rating: [2.2, 0.4, 0.4, 0.4, 0.4, 0.6]
 price: 1200

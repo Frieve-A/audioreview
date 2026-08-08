@@ -5,6 +5,7 @@ target_name: "Focal Shape 40"
 company_id: focal
 lang: en
 ref: focal-shape-40
+audiodb_uid: adb-4f058cd8d36d
 date: 2025-08-23
 rating: [2.1, 0.5, 0.6, 0.3, 0.4, 0.3]
 price: 1098

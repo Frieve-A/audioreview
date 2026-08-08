@@ -5,6 +5,7 @@ target_name: "FiiO Q7"
 company_id: fiio
 lang: en
 ref: fiio-q7
+audiodb_uid: adb-8dc39b597634
 date: 2025-08-11
 rating: [3.9, 0.8, 0.9, 0.7, 0.8, 0.7]
 price: 600

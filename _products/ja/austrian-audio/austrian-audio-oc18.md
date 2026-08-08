@@ -5,6 +5,7 @@ target_name: "Austrian Audio OC18"
 company_id: austrian-audio
 lang: ja
 ref: austrian-audio-oc18
+audiodb_uid: adb-3d24d023bdc0
 date: 2026-01-02
 rating: [3.9, 0.7, 0.8, 0.9, 0.7, 0.8]
 price: 127350
@@ -12,7 +13,6 @@ summary: "特許取得済みCKR12セラミックカプセル技術を搭載し�
 tags: [コンデンサーマイクロフォン, 固定カーディオイド, Austrian Audio, セラミックカプセル, プロ機材]
 permalink: /products/ja/austrian-audio-oc18/
 ---
-
 ## 概要
 
 Austrian Audio OC18は、元AKG Viennaのエンジニアリングチームが開発した固定カーディオイド大口径コンデンサーマイクロフォンです。同社の特許技術であるCKR12セラミックカプセル技術を搭載しており、これは伝説的なCK12デザインを現代化した単一ダイアフラム版フラッグシップカプセルです。最大音圧レベル148dB（パッド使用時158dB）、極めて低い自己雑音9dB-A、ハイパスフィルターや減衰パッドを含む包括的なオンボード制御機能を備えたプロ仕様の性能を提供します。各製品は、Austrian AudioのVienna本社で丁寧に手作りされ、個別に測定されています。

@@ -5,6 +5,7 @@ target_name: "MAONO PS22 Lite"
 company_id: maono
 lang: ja
 ref: maono-ps22-lite
+audiodb_uid: adb-e3d0afcdcb80
 date: 2025-10-15
 rating: [3.7, 0.6, 0.7, 1.0, 0.7, 0.7]
 price: 10500
@@ -12,7 +13,6 @@ summary: "コストパフォーマンスに優れた24ビット/192kHz USB オ�
 tags: [オーディオインターフェース, USB-C, レコーディング, コンテンツ制作, 配信]
 permalink: /products/ja/maono-ps22-lite/
 ---
-
 ## 概要
 
 MAONO PS22 Liteは、コンテンツクリエイターとホームスタジオ用途向けに設計された2チャンネルUSBオーディオインターフェースです。価格は10,500円で、USB-C接続による24ビット/192kHzレコーディング機能を提供します。XLR/TRSコンボ入力とインストゥルメント入力、+48Vファンタム電源、最大56dBのマイクプリアンプゲインを搭載しています。MAONOは、Routing Centerアプリケーションによるソフトウェア統合により、バーチャルチャンネルとループバック機能を提供し、ストリーミングとコンテンツ制作ワークフローに対応した成長するインターネットオーディオ市場をターゲットとしています。

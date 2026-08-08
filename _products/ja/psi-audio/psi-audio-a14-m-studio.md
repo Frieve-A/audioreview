@@ -5,6 +5,7 @@ target_name: "PSI Audio A14-M Studio"
 company_id: psi-audio
 lang: ja
 ref: psi-audio-a14-m-studio
+audiodb_uid: adb-04f5e0fdb5a9
 date: 2025-12-02
 rating: [3.3, 0.4, 0.9, 0.4, 1.0, 0.6]
 price: 311000
@@ -12,7 +13,6 @@ summary: "スイス製造の2ウェイアクティブスタジオモニターで
 tags: [スタジオモニター, アクティブスピーカー, プロオーディオ, スイス工学, アナログ設計]
 permalink: /products/ja/psi-audio-a14-m-studio/
 ---
-
 ## 概要
 
 PSI Audio A14-M Studioは、スイスのRelec SA社が製造するコンパクトな2ウェイアクティブスタジオモニターです。1977年以来、PSI Audioは業務用電気音響ソリューションに特化し、純粋にアナログ設計と個別キャリブレーションを重視するプレミアムメーカーとして位置付けられています。A14-M Studioは5.5インチのベースドライバーと1インチの手作りツイーターを重量5.5kgのコンパクトキャビネットに搭載し、70W + 30W Class-Gアンプで駆動されます。このモニターはAdaptive Output Impedance（AOI）、Compensated Phase Response（CPR）、Acoustic Load Guide（ALG）システムなどの独自技術を組み込んでいます。各ユニットは個別キャリブレーションされたQC測定チャートとともに出荷され、精度と一貫性が優先されるプロスタジオ用途を対象としています。

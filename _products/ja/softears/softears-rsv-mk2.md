@@ -5,6 +5,7 @@ target_name: "Softears RSV MK2"
 company_id: softears
 lang: ja
 ref: softears-rsv-mk2
+audiodb_uid: adb-2dc06b5daab8
 date: 2026-05-31
 rating: [2.4, 0.5, 0.7, 0.1, 0.5, 0.6]
 price: 108000

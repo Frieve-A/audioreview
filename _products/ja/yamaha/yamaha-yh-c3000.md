@@ -5,6 +5,7 @@ target_name: "Yamaha YH-C3000"
 company_id: yamaha
 lang: ja
 ref: yamaha-yh-c3000
+audiodb_uid: adb-d586b3fe0574
 date: 2026-01-02
 rating: [2.8, 0.5, 0.9, 0.1, 0.7, 0.6]
 price: 255300

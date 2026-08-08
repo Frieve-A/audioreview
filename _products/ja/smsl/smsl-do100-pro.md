@@ -5,6 +5,7 @@ target_name: "SMSL DO100 Pro"
 company_id: smsl
 lang: ja
 ref: smsl-do100-pro
+audiodb_uid: adb-070e091c037e
 date: 2026-02-23
 rating: [4.2, 0.9, 0.7, 1.0, 0.6, 1.0]
 price: 33960
@@ -12,7 +13,6 @@ summary: "デュアルESS ES9039Q2Mチップを搭載し、世界クラスの測
 tags: [DAC, デスクトップオーディオ, バランス出力, ESS, SMSL, Bluetooth, HDMI ARC]
 permalink: /products/ja/smsl-do100-pro/
 ---
-
 ## 概要
 
 SMSL DO100 Proは、デュアルESS ES9039Q2Mチップと高度なオーディオ処理機能を備えた高忠実度バランス型デスクトップDACです。2024年4月にオリジナルDO100の進化版として発売され、第3世代XMOS XU-316処理とQualcomm QCC5125 Bluetooth 5.1を含む最先端コンポーネントを組み込んでいます。本機は、USB-C、光、同軸、HDMI ARC、Bluetoothの各入力とRCAおよびXLR出力を備えた包括的な接続性により、手頃な価格でオーディオファイル向けの性能を求めるユーザーを対象としています。219米ドル（33,960円）という価格で、美的妥協なしにプレミアムな測定性能を提供する予算に優しいソリューションとしてポジショニングされています。

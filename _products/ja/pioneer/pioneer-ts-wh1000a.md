@@ -5,6 +5,7 @@ target_name: "Pioneer TS-WH1000A"
 company_id: pioneer
 lang: ja
 ref: pioneer-ts-wh1000a
+audiodb_uid: adb-6158e5401b69
 date: 2025-09-09
 rating: [3.3, 0.5, 0.9, 0.3, 0.8, 0.8]
 price: 78000
@@ -12,7 +13,6 @@ summary: "HVT技術を搭載したパイオニアの超薄型サブウーファ�
 tags: [サブウーファー, カーオーディオ, シート下設置, HVT, パワードサブウーファー]
 permalink: /products/ja/pioneer-ts-wh1000a/
 ---
-
 ## 概要
 
 Pioneer TS-WH1000Aは、同社独自のHVT（Horizontal Vertical Transforming）技術を特徴とする車載用シート下設置型の超薄型パワードサブウーファーです。この200Wサブウーファーは、独自の水平磁気回路配置による21cm×8cmデュアルダイアフラムを採用し、わずか4.5cmの高さで従来のサブウーファーと同等の性能を実現しています。システムには内蔵アンプ、デュアル入力オプション（RCA/スピーカーレベル）、リモコンが含まれ、20Hz-200Hzの周波数範囲を調整可能なローパスフィルターでカバーします。

@@ -5,6 +5,7 @@ target_name: "Zoom UAC-232"
 company_id: zoom
 lang: en
 ref: zoom-uac-232
+audiodb_uid: adb-0cb476e0fbbd
 date: 2025-10-06
 rating: [4.3, 0.8, 0.9, 1.0, 0.7, 0.9]
 price: 199
@@ -12,7 +13,6 @@ summary: "World's first dedicated 32-bit float audio interface. Independent meas
 tags: [32-bit Float, Audio interface, Recording Equipment, USB-C, Zoom]
 permalink: /products/en/zoom-uac-232/
 ---
-
 ## Overview
 
 The Zoom UAC-232, released in February 2023, is the world's first audio interface dedicated to 32-bit float recording [1]. It targets creators who want to eliminate clipping and reduce gain-staging stress in mobile and desktop setups. The compact, bus-powered 2-in/2-out USB-C interface offers two XLR/TRS combo inputs with +48 V phantom power, a high-power headphone output, balanced TRS line outs, and MIDI I/O. Its low-noise preamps derive from Zoom’s F-series design language, while the dual-ADC front end enables true 32-bit float capture for wide real-world dynamics [1][2].

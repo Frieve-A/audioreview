@@ -5,6 +5,7 @@ target_name: "Kali Audio IN-5"
 company_id: kali-audio
 lang: en
 ref: kali-audio-in-5
+audiodb_uid: adb-b585b3d13019
 date: 2025-09-25
 rating: [2.5, 0.3, 0.6, 0.4, 0.4, 0.8]
 price: 898

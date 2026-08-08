@@ -5,6 +5,7 @@ target_name: "FiiO M21"
 company_id: fiio
 lang: en
 ref: fiio-m21
+audiodb_uid: adb-2b8f8a894538
 date: 2025-08-07
 rating: [3.6, 0.8, 0.7, 0.6, 0.8, 0.7]
 price: 329

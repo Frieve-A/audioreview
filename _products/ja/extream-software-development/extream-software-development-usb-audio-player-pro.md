@@ -5,6 +5,7 @@ target_name: "eXtream Software Development USB Audio Player PRO"
 company_id: extream-software-development
 lang: ja
 ref: extream-software-development-usb-audio-player-pro
+audiodb_uid: adb-25ee74d16797
 date: 2025-09-17
 rating: [3.6, 0.6, 0.7, 1.0, 0.6, 0.7]
 price: 1199
@@ -12,7 +13,6 @@ summary: "Androidシステムの制限を回避するカスタムUSBドライバ
 tags: [Android, オーディオプレイヤー, USB DAC, ハイレゾ音源, DSD, モバイルオーディオ, ソフトウェア]
 permalink: /products/ja/extream-software-development-usb-audio-player-pro/
 ---
-
 ## 概要
 
 USB Audio Player PROは、モバイルオーディオソフトウェア開発を専門とするオランダ拠点のeXtream Software Developmentが開発したAndroid音楽プレイヤーアプリケーションです。このアプリはカスタムUSBオーディオドライバーを通じてAndroidオーディオシステムを完全に迂回し、32ビット/384kHzまでの再生とネイティブDSDサポートを可能にすることで、Androidの歴史的なオーディオ制限に対処しています。AndroidにUSBオーディオサポートが不足していた時代に開発されたアプリですが、優れたパフォーマンスとより広範なDAC互換性により、現代のAndroidバージョンでも依然として価値があります。アプリの価格は1199円で、WAV、FLAC、MQA、DSD、SACD ISOファイルを含む包括的なオーディオフォーマットをサポートし、ビットパーフェクト再生機能を提供します。

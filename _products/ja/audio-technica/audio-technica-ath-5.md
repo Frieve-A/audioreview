@@ -5,6 +5,7 @@ target_name: "Audio-Technica ATH-5"
 company_id: audio-technica
 lang: ja
 ref: audio-technica-ath-5
+audiodb_uid: adb-76f302f1ecf1
 date: 2026-05-09
 rating: [2.1, 0.5, 0.3, 0.5, 0.4, 0.4]
 price: 15500

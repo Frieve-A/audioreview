@@ -5,6 +5,7 @@ target_name: "Acoustune HS2000MX SHO MKII"
 company_id: acoustune
 lang: ja
 ref: acoustune-hs2000mx-sho-mkii
+audiodb_uid: adb-6e4b70401295
 date: 2026-06-07
 rating: [1.6, 0.3, 0.7, 0.0, 0.4, 0.2]
 price: 250000

@@ -5,6 +5,7 @@ target_name: "Tribit StormBox Flow"
 company_id: tribit
 lang: ja
 ref: tribit-stormbox-flow
+audiodb_uid: adb-0eae4bbeb440
 date: 2026-06-07
 rating: [3.4, 0.5, 0.4, 1.0, 0.7, 0.8]
 price: 11980
@@ -12,7 +13,6 @@ summary: "IP67保護、25W出力、30時間バッテリーを備えたコスト�
 tags: [Bluetoothスピーカー, ポータブルスピーカー, 防水, アウトドアオーディオ, Tribit]
 permalink: /products/ja/tribit-stormbox-flow/
 ---
-
 ## 概要
 
 Tribit（Thousandshores Inc.、カリフォルニア州ニューアーク、2017年設立）はコストパフォーマンスを重視したオーディオブランドです。StormBox Flowは2023年10月に発売され [1]、Tribitのポータブルスピーカーラインナップの中間帯に位置し、IP67耐久性・長時間バッテリー・アプリ制御DSPチューニングをコンパクトな形状で求めるアウトドアユーザーを対象としています。4800mAhのバッテリーにより25Wの出力と最大30時間の再生時間（XBassオフ、60%音量）を実現し、XBass® DSPベースブーストおよびTributのコンパニオンアプリからアクセスできる9バンドカスタムイコライザーを搭載しています。現在の代表的な市場価格は11,980円です [1][2]。

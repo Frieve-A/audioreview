@@ -5,6 +5,7 @@ target_name: "Dayton Audio IMM-6C"
 company_id: dayton-audio
 lang: ja
 ref: dayton-audio-imm-6c
+audiodb_uid: adb-053a640df579
 date: 2025-08-11
 rating: [3.3, 0.4, 0.6, 1.0, 0.5, 0.8]
 price: 6747
@@ -12,7 +13,6 @@ summary: "実験室レベルの校正を例外的な低価格で提供するUSB-
 tags: [測定マイクロフォン, USB-C, 校正済み, Dayton Audio, モバイル対応]
 permalink: /products/ja/dayton-audio-imm-6c/
 ---
-
 ## 概要
 
 Dayton Audio IMM-6Cは、現代のモバイル機器やコンピュータに最適化されたUSB-C接続を特徴とする、手頃な価格の校正済み測定マイクロフォンの最新進化形です。初代IMM-6の成功を基盤に、デジタル音声処理のためのCM6542 ADC/DACを統合し、個別の実験室標準校正を維持しています。45ドル未満という価格で、プロフェッショナルな代替品のプレミアム価格を必要とせずに測定グレードの精度を求めるユーザーをターゲットとしています。

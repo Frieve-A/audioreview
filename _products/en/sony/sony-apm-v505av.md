@@ -5,6 +5,7 @@ target_name: "Sony APM-V505AV"
 company_id: sony
 lang: en
 ref: sony-apm-v505av
+audiodb_uid: adb-26505d385f62
 date: 2025-08-29
 rating: [2.7, 0.5, 0.4, 1.0, 0.3, 0.5]
 price: 59

@@ -5,6 +5,7 @@ target_name: "Luxman D-10X"
 company_id: luxman
 lang: ja
 ref: luxman-d-10x
+audiodb_uid: adb-1cd61855bf10
 date: 2025-12-05
 rating: [3.2, 0.8, 0.8, 0.2, 0.8, 0.6]
 price: 2450000

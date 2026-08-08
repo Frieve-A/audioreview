@@ -5,6 +5,7 @@ target_name: "Atoll MS-120"
 company_id: atoll
 lang: en
 ref: atoll-ms-120
+audiodb_uid: adb-8998a15215fb
 date: 2025-08-12
 rating: [2.9, 0.9, 0.7, 0.1, 0.6, 0.6]
 price: 1599

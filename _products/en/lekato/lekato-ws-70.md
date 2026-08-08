@@ -5,6 +5,7 @@ target_name: "LEKATO WS-70"
 company_id: lekato
 lang: en
 ref: lekato-ws-70
+audiodb_uid: adb-ce8354a5f47f
 date: 2025-10-17
 rating: [2.7, 0.4, 0.5, 1.0, 0.2, 0.6]
 price: 39.99
@@ -12,7 +13,6 @@ summary: "UHF wireless guitar system offering 70 channels and competitive pricin
 tags: [Wireless Guitar System, UHF Technology, Audio Transmission, Guitar Accessories, Musical Instruments]
 permalink: /products/en/lekato-ws-70/
 ---
-
 ## Overview
 
 The LEKATO WS-70 is a UHF wireless guitar system featuring 70-channel operation designed for electric guitars, bass guitars, electric-acoustic guitars, and electric instruments with pickups. Operating in the professional 550-600MHz UHF band, the system targets musicians seeking wireless freedom with anti-interference capabilities. LEKATO, founded in 2019 as an R&D-oriented company, positions the WS-70 as part of their wireless instrument ecosystem with emphasis on advanced UHF technology and ultra-short delay transmission. The system includes auto-scan functionality for optimal frequency selection and claims original sound transmission with less than 3ms latency across a 25-40 meter transmission range.

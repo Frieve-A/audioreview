@@ -5,6 +5,7 @@ target_name: "intime KOTTERI ALTERNATIVE"
 company_id: intime
 lang: ja
 ref: intime-kotteri-alternative
+audiodb_uid: adb-1025e4463b7f
 date: 2026-05-25
 rating: [2.2, 0.5, 0.4, 0.3, 0.5, 0.5]
 price: 12000

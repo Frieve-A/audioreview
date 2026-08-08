@@ -5,6 +5,7 @@ target_name: "Shure SM58"
 company_id: shure
 lang: en
 ref: shure-sm58
+audiodb_uid: adb-d2a7107db1eb
 date: 2025-08-04
 rating: [2.3, 0.4, 0.3, 0.2, 0.9, 0.5]
 price: 109
@@ -12,7 +13,6 @@ summary: "Industry standard vocal microphone since 1966, but shows limited perfo
 tags: [Dynamic Microphone, Vocal, Live, Shure]
 permalink: /products/en/shure-sm58/
 ---
-
 ## Overview
 
 The Shure SM58 has been the industry standard for live vocal microphones since its release in 1966. This cardioid dynamic microphone features a 50Hz-15kHz frequency response. It incorporates a pneumatic shock-mount system to reduce handling noise and includes a built-in pop filter. Known for exceptional durability, it is used in live venues and concert halls worldwide.

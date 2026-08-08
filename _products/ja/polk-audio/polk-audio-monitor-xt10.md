@@ -5,6 +5,7 @@ target_name: "Polk Audio Monitor XT10"
 company_id: polk-audio
 lang: ja
 ref: polk-audio-monitor-xt10
+audiodb_uid: adb-07ebd4d6b109
 date: 2025-08-24
 rating: [2.4, 0.3, 0.4, 0.7, 0.6, 0.4]
 price: 44700
@@ -12,7 +13,6 @@ summary: "10インチのコンパクトなパワードサブ。約30Hzより上�
 tags: [サブウーファー, ホームシアター, パワード, 低音, 10インチ]
 permalink: /products/ja/polk-audio-monitor-xt10/
 ---
-
 ## 概要
 
 Monitor XT10は、ダウンファイヤリングの10インチドライバーとポートを採用したMDF筐体のパワードサブウーファーです。可変ローパス（40–160 Hz）、極性切替、LFE/ライン入力を備えます。メーカー資料では**「24 Hzまでの低域」**および **アンプ50 W RMS／100 Wピーク**が示されています [2][5]（一部の小売仕様では**40–160 Hz**の帯域表記も見られます [6]）。

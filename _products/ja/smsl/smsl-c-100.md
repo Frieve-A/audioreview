@@ -5,6 +5,7 @@ target_name: "SMSL C-100"
 company_id: smsl
 lang: ja
 ref: smsl-c-100
+audiodb_uid: adb-890e792c31f8
 date: 2025-07-31
 rating: [3.8, 0.8, 0.7, 1.0, 0.6, 0.7]
 price: 17850
@@ -12,7 +13,6 @@ summary: "コンパクト設計と高解像度対応を両立したエントリ�
 tags: [DAC, SMSL, AK4493S, USB, Bluetooth, MQA, コンパクト]
 permalink: /products/ja/smsl-c-100/
 ---
-
 ## 概要
 
 SMSL C-100は、中国のSMSL Audioが2023年に発売したエントリーレベルのUSB DACです。SMSLは2009年設立の音響機器メーカーで、高品質なDAC・アンプ製品を手頃な価格で提供することで知られています。C-100は77.5×95×32mmの超コンパクト設計に、AKM AK4493S DACチップとXMOS XU-316 USBコントローラーを搭載。32bit/768kHz PCMおよびDSD512の高解像度フォーマットに対応し、Bluetooth 5.0、MQAデコード機能も備えています。手のひらサイズでありながら本格的なオーディオ性能を目指した製品として位置づけられ、現在119 USDで販売されています。

@@ -5,6 +5,7 @@ target_name: "JBL 306P MkII"
 company_id: jbl
 lang: en
 ref: jbl-306p-mkii
+audiodb_uid: adb-bc24d2504a2f
 date: 2025-07-23
 rating: [2.6, 0.4, 0.6, 0.4, 0.7, 0.5]
 price: 467

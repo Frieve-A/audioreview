@@ -5,6 +5,7 @@ target_name: "TEAC HA-507"
 company_id: teac
 lang: en
 ref: teac-ha-507
+audiodb_uid: adb-8e702ba1e6ed
 date: 2025-09-04
 rating: [2.4, 0.7, 0.6, 0.2, 0.6, 0.3]
 price: 1999

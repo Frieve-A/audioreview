@@ -5,6 +5,7 @@ target_name: "Kanto Audio ORA"
 company_id: kanto-audio
 lang: en
 ref: kanto-audio-ora
+audiodb_uid: adb-d2ec072c2a93
 date: 2025-08-24
 rating: [4.0, 0.8, 0.7, 1.0, 0.7, 0.8]
 price: 350

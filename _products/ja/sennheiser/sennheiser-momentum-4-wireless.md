@@ -5,6 +5,7 @@ target_name: "Sennheiser MOMENTUM 4 Wireless"
 company_id: sennheiser
 lang: ja
 ref: sennheiser-momentum-4-wireless
+audiodb_uid: adb-47950cdcbc12
 date: 2025-08-09
 rating: [3.9, 0.7, 0.7, 1.0, 0.8, 0.7]
 price: 56300
@@ -12,7 +13,6 @@ summary: "最大60時間バッテリーのANCワイヤレス。現行の同等�
 tags: [ワイヤレスヘッドホン, ノイズキャンセリング, オーバーイヤー, Bluetooth]
 permalink: /products/ja/sennheiser-momentum-4-wireless/
 ---
-
 ## 概要
 
 Sennheiser MOMENTUM 4 Wirelessは、ワイヤレスノイズキャンセリング（ANC）対応のオーバーイヤー型ヘッドホンです。最大60時間のバッテリーライフ、42mmダイナミックドライバー、公称6Hz–22kHzの再生周波数帯域、Bluetooth 5.2および主要コーデック（SBC/AAC/aptX/aptX Adaptive）対応を特徴とします［1］。2022年発売。

@@ -5,6 +5,7 @@ target_name: "JBL 306P MkII"
 company_id: jbl
 lang: ja
 ref: jbl-306p-mkii
+audiodb_uid: adb-bc24d2504a2f
 date: 2025-07-23
 rating: [2.6, 0.4, 0.6, 0.4, 0.7, 0.5]
 price: 70000
@@ -12,7 +13,6 @@ summary: "JBL 306P MkIIは6.5インチ2ウェイアクティブスタジオモ�
 tags: [スタジオモニター, JBL, アクティブスピーカー, 2ウェイ, ニアフィールド]
 permalink: /products/ja/jbl-306p-mkii/
 ---
-
 ## 概要
 
 JBL 306P MkIIは、2018年に発売された6.5インチ2ウェイアクティブスタジオモニターです。JBLの3シリーズの一部として、プロオーディオ業界で長年培った技術を活用し、手頃な価格でスタジオ品質の音響監視を提供することを目標としています。112W（低域56W、高域56W）のクラスDアンプを内蔵し、Image Control Waveguideとneodymium tweeterdriverによる音響設計が特徴です。業界での評価は初心者向けモニターとして一定の評価を得ており、コストパフォーマンス重視のホームスタジオ向け製品として位置づけられています。

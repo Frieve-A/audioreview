@@ -5,6 +5,7 @@ target_name: "procable 超越重鉄タップ"
 company_id: procable
 lang: en
 ref: procable-chouetsu-juutetsu-tap
+audiodb_uid: adb-a0c7fc42a024
 date: 2025-07-26
 rating: [1.2, 0.2, 0.3, 0.1, 0.5, 0.1]
 price: 125

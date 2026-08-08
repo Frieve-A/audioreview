@@ -5,6 +5,7 @@ target_name: "Marantz Model 50"
 company_id: marantz
 lang: en
 ref: marantz-model-50
+audiodb_uid: adb-4bb1e9827ba8
 date: 2025-07-28
 rating: [2.7, 0.7, 0.5, 0.2, 0.8, 0.5]
 price: 1317

@@ -5,6 +5,7 @@ target_name: "Paradigm Founder 40B"
 company_id: paradigm
 lang: en
 ref: paradigm-founder-40b
+audiodb_uid: adb-14cb99b6766c
 date: 2025-08-21
 rating: [2.8, 0.7, 0.6, 0.7, 0.4, 0.4]
 price: 2400

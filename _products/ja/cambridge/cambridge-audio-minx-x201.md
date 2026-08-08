@@ -5,6 +5,7 @@ target_name: "Cambridge Audio Minx X201"
 company_id: cambridge
 lang: ja
 ref: cambridge-audio-minx-x201
+audiodb_uid: adb-7dbc931e92f6
 date: 2025-07-20
 rating: [3.2, 0.5, 0.7, 1.0, 0.6, 0.4]
 price: 60000
@@ -12,7 +13,6 @@ summary: "最大105dBの音圧を誇る、クラス最高レベルの出力を�
 tags: [サブウーファー, コンパクト, DSP, パッシブラジエーター, 高SPL]
 permalink: /products/ja/cambridge-audio-minx-x201/
 ---
-
 ## 概要
 
 Cambridge Audio Minx X201は、6.5インチドライバーと2つのパッシブラジエーターを搭載した200Wのコンパクトサブウーファーです。219×210×222mmの小型筐体にDSP技術を組み込み、限られたスペースでの低音再生を目的として設計されています。同社のMinxシリーズの一部として、デスクトップや小型リビングルームでの使用を想定した製品です。

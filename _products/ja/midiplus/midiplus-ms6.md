@@ -5,6 +5,7 @@ target_name: "Midiplus MS6"
 company_id: midiplus
 lang: ja
 ref: midiplus-ms6
+audiodb_uid: adb-bc5279220e09
 date: 2025-09-21
 rating: [3.0, 0.4, 0.4, 1.0, 0.6, 0.6]
 price: 44700
@@ -12,7 +13,6 @@ summary: "プロ仕様の接続に対応した予算重視の6インチアクテ
 tags: [スタジオモニター, アクティブスピーカー, プロオーディオ, バジェットオーディオ]
 permalink: /products/ja/midiplus-ms6/
 ---
-
 ## 概要
 
 Midiplus MS6は、親会社であるTahorng Wood Musical Instrument Companyを通じて1994年から続く歴史を持つ台湾メーカー、Midiplusが製造する6インチアクティブスタジオモニターです。65WクラスABアンプ、複数の入力接続オプション（XLR、TRS、RCA）、基本的な3バンドEQコントロールを備え、エントリーレベルのプロモニタリング用途をターゲットとしています。ペア298USDという価格設定で、プロ仕様スタジオモニター市場における予算重視のオプションとして位置づけられています。

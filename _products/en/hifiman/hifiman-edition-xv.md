@@ -5,6 +5,7 @@ target_name: "HiFiMAN Edition XV"
 company_id: hifiman
 lang: en
 ref: hifiman-edition-xv
+audiodb_uid: adb-8a33a500cb7d
 date: 2025-12-03
 rating: [2.5, 0.5, 0.7, 0.3, 0.2, 0.8]
 price: 399

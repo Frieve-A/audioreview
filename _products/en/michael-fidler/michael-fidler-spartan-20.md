@@ -5,6 +5,7 @@ target_name: "Michael Fidler Spartan-20"
 company_id: michael-fidler
 lang: en
 ref: michael-fidler-spartan-20
+audiodb_uid: adb-3663ae497f96
 date: 2025-08-28
 rating: [2.9, 0.3, 0.6, 1.0, 0.6, 0.4]
 price: 670

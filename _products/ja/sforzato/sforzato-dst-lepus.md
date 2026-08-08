@@ -5,6 +5,7 @@ target_name: "Sforzato DST-LEPUS"
 company_id: sforzato
 lang: ja
 ref: sforzato-dst-lepus
+audiodb_uid: adb-6d787081ed2d
 date: 2025-08-13
 rating: [2.5, 0.5, 0.7, 0.3, 0.7, 0.3]
 price: 418000

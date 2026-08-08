@@ -5,6 +5,7 @@ target_name: "Sony MDR-MV1"
 company_id: sony
 lang: ja
 ref: sony-mdr-mv1
+audiodb_uid: adb-d6149227341b
 date: 2026-02-08
 rating: [3.6, 0.3, 0.9, 1.0, 0.4, 1.0]
 price: 59850

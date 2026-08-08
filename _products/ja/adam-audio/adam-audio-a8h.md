@@ -5,6 +5,7 @@ target_name: "ADAM Audio A8H"
 company_id: adam-audio
 lang: ja
 ref: adam-audio-a8h
+audiodb_uid: adb-02ddd5692aa9
 date: 2025-08-26
 rating: [4.0, 0.7, 0.9, 1.0, 0.7, 0.7]
 price: 429000
@@ -12,7 +13,6 @@ summary: "3ウェイ構成とDSPを備えたAシリーズ中核モニターの�
 tags: [スタジオモニター, アクティブスピーカー, DSP, ルーム補正, 3ウェイ]
 permalink: /products/ja/adam-audio-a8h/
 ---
-
 ## 概要
 
 A8Hは、8インチウーファー／3.5インチミッド／X-ARTツイーターを搭載した3ウェイのDSP内蔵アクティブ・モニターです。回転可能なHPSウェーブガイド、Ethernet経由のA Control、ボイシング選択、Sonarworksベースのルーム補正対応など、実用機能を広く備えます。メーカー公称の周波数特性は34 Hz–41 kHz（-3 dB）で、ミドル〜やや広めのルームを想定した設計です［1］［2］。

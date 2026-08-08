@@ -5,6 +5,7 @@ target_name: "HiFiMAN EF400"
 company_id: hifiman
 lang: en
 ref: hifiman-ef400
+audiodb_uid: adb-8292185bf6cb
 date: 2025-09-12
 rating: [2.1, 0.5, 0.4, 0.3, 0.4, 0.5]
 price: 529

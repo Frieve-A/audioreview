@@ -5,6 +5,7 @@ target_name: "RØDE NT1 5th Generation"
 company_id: rode-microphones
 lang: ja
 ref: rode-microphones-nt1-5th-generation
+audiodb_uid: adb-016b8837678b
 date: 2025-10-09
 rating: [4.4, 0.9, 0.8, 1.0, 0.7, 1.0]
 price: 37000

@@ -5,6 +5,7 @@ target_name: "QCY MeloBuds N50"
 company_id: qcy
 lang: ja
 ref: qcy-melobuds-n50
+audiodb_uid: adb-3521bd361a55
 date: 2025-10-18
 rating: [3.4, 0.5, 0.6, 1.0, 0.4, 0.9]
 price: 4050

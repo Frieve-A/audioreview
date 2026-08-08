@@ -5,6 +5,7 @@ target_name: "Coral Flat-8"
 company_id: coral
 lang: en
 ref: coral-flat-8
+audiodb_uid: adb-1f01546b7852
 date: 2025-09-04
 rating: [1.3, 0.5, 0.3, 0.3, 0.0, 0.2]
 price: 380

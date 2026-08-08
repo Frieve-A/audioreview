@@ -5,6 +5,7 @@ target_name: "Onkyo Intec R-N855"
 company_id: onkyo
 lang: en
 ref: onkyo-intec-r-n855
+audiodb_uid: adb-9c2acbabdc7f
 date: 2025-08-04
 rating: [3.9, 0.7, 0.7, 1.0, 0.7, 0.8]
 price: 498
@@ -12,7 +13,6 @@ summary: "Network stereo receiver with excellent measured performance and good c
 tags: [Network Receiver, Stereo Amplifier, High-Resolution Audio, Streaming, Onkyo]
 permalink: /products/en/onkyo-intec-r-n855/
 ---
-
 ## Overview
 
 The Onkyo Intec R-N855 is a network-capable stereo receiver from the company's INTEC series. It features 70W×2 (4Ω) output power and incorporates an AK4490 DAC supporting 768kHz/32bit processing and DSD 11.2MHz playback capabilities. The unit provides diverse network functions including Wi-Fi, Bluetooth, Chromecast built-in, and AirPlay support. It also includes built-in FM/DAB+ tuners, offering comprehensive coverage from traditional audio sources to streaming services. As a product that packs multiple functions into a compact chassis, it represents the company's approach to the network audio market.

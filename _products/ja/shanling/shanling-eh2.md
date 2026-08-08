@@ -5,6 +5,7 @@ target_name: "Shanling EH2"
 company_id: shanling
 lang: ja
 ref: shanling-eh2
+audiodb_uid: adb-99ce53b92f70
 date: 2025-08-16
 rating: [2.9, 0.6, 0.6, 0.8, 0.7, 0.2]
 price: 63360
@@ -12,7 +13,6 @@ summary: "接続性と出力に優れたR2R DAC/AMP。値ごろ感はあるも�
 tags: [DAC, アンプ, デスクトップ, R2R, バランス]
 permalink: /products/ja/shanling-eh2/
 ---
-
 ## 概要
 
 Shanling EH2は、自社開発の24ビットR2R DACとBD139/BD140トランジスタ出力段を採用したコンパクトなデスクトップDAC/ヘッドホンアンプです。公称で4.35 W（32 Ω・4.4 mmバランス）、シングルエンド1.28 W、Bluetooth 5.2（QCC5125／LDAC・aptX Adaptive対応）、USB-C/同軸/光入力、RCAおよび4.4 mmのライン／プリ出力を備えます。サイズは156 × 150 × 36.5 mm、重量713 g。OS/NOS切替も搭載します。 [1][2]

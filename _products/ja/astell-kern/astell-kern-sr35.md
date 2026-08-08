@@ -5,6 +5,7 @@ target_name: "Astell&Kern SR35"
 company_id: astell-kern
 lang: ja
 ref: astell-kern-sr35
+audiodb_uid: adb-f3f76ebb780e
 date: 2025-11-21
 rating: [3.2, 0.8, 0.6, 1.0, 0.2, 0.6]
 price: 119000

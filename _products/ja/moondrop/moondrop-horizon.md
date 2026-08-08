@@ -5,6 +5,7 @@ target_name: "MOONDROP HORIZON"
 company_id: moondrop
 lang: ja
 ref: moondrop-horizon
+audiodb_uid: adb-803f3b5df220
 date: 2025-11-12
 rating: [3.4, 0.5, 0.8, 0.9, 0.5, 0.7]
 price: 25000
@@ -12,7 +13,6 @@ summary: "ULTダイナミックドライバー技術、チタンコーティン�
 tags: [ヘッドホン, オーバーイヤー, オープンバック, ダイナミックドライバー, MOONDROP]
 permalink: /products/ja/moondrop-horizon/
 ---
-
 ## 概要
 
 MOONDROP HORIZONは、同社が新たに開発したULT（Ultra Low Distortion）ダイナミックドライバー技術を搭載した50mmオープンバック型オーバーイヤーヘッドホンです。価格25,000円で、チタンコーティングPENドームと二重層液体シリカゲル・サスペンション複合振動板を採用し、FEA最適化デュアル内外複合磁気回路により1.85Tのピーク磁束密度を実現しています。交換可能な3.5mmと4.4mmケーブルコネクターを備え、重量は約350gです。MOONDROPは本製品を、VDSF目標カーブによる測定ベースチューニング手法を採用したプロフェッショナルグレードヘッドホンとして位置づけています。

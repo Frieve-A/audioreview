@@ -5,6 +5,7 @@ target_name: "Sonicake Sonic Cube II"
 company_id: sonicake
 lang: en
 ref: sonicake-sonic-cube-ii
+audiodb_uid: adb-f5372b8844a7
 date: 2025-08-09
 rating: [2.2, 0.5, 0.3, 1.0, 0.2, 0.2]
 price: 69

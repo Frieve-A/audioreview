@@ -5,6 +5,7 @@ target_name: "Kiwi Ears Ardor"
 company_id: kiwi-ears
 lang: ja
 ref: kiwi-ears-ardor
+audiodb_uid: adb-9e0c0defb640
 date: 2025-10-29
 rating: [3.6, 0.4, 0.8, 1.0, 0.5, 0.9]
 price: 13200

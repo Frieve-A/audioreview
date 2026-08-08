@@ -5,6 +5,7 @@ target_name: "Polk Audio Monitor XT10"
 company_id: polk-audio
 lang: en
 ref: polk-audio-monitor-xt10
+audiodb_uid: adb-07ebd4d6b109
 date: 2025-08-24
 rating: [2.4, 0.3, 0.4, 0.7, 0.6, 0.4]
 price: 269
@@ -12,7 +13,6 @@ summary: "Compact 10-inch powered subwoofer; adequate output above ~30 Hz but li
 tags: [Subwoofer, Home Theater, Powered, Bass, 10-inch]
 permalink: /products/en/polk-audio-monitor-xt10/
 ---
-
 ## Overview
 
 The Polk Audio Monitor XT10 is a compact powered subwoofer with a down-firing 10-inch driver in a ported enclosure. It offers a variable low-pass (40–160 Hz), phase/polarity control, and LFE/line-in. Manufacturer literature lists **“bass response down to 24 Hz”** and a **Class D amplifier rated 50 W RMS / 100 W peak** [2][5]. (Some retailer spec sheets list **40–160 Hz** as the frequency range, reflecting a more conservative spec for usable passband [6].)

@@ -5,6 +5,7 @@ target_name: "beyerdynamic DT 1990 PRO MKII"
 company_id: beyerdynamic
 lang: ja
 ref: beyerdynamic-dt-1990-pro-mkii
+audiodb_uid: adb-756d2aaa9ae9
 date: 2025-09-02
 rating: [3.7, 0.8, 0.8, 0.6, 0.7, 0.8]
 price: 89890
@@ -12,7 +13,6 @@ summary: "TESLA.45ドライバーを採用したプロ向け開放型スタジ�
 tags: [ヘッドホン, 開放型, スタジオ, プロフェッショナル, TESLA, beyerdynamic]
 permalink: /products/ja/beyerdynamic-dt-1990-pro-mkii/
 ---
-
 ## 概要
 
 DT 1990 PRO MKIIは、評価の高いDT 1990 PROの第二世代です。2024年後半に登場し、TESLA.45ドライバーと**30Ω**への低インピーダンス化で、ミキシング／マスタリングなどのクリティカル用途に合わせた改良が行われています。組立はドイツ、パッド2種・ストレート／カールの2本ケーブル・ハードケースが付属します [4]。

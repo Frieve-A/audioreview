@@ -5,6 +5,7 @@ target_name: "MOTU M6"
 company_id: motu
 lang: ja
 ref: motu-m6
+audiodb_uid: adb-9b62c17a690e
 date: 2025-08-11
 rating: [4.2, 0.8, 0.7, 1.0, 0.8, 0.9]
 price: 74800
@@ -12,7 +13,6 @@ summary: "ESS Sabre32 DAC搭載、120 dBダイナミックレンジ、超低レ�
 tags: [オーディオインターフェース, USB-C, レコーディング, スタジオ]
 permalink: /products/ja/motu-m6/
 ---
-
 ## 概要
 
 MOTU M6は2022年に発売された6入力/4出力のUSB-Cオーディオインターフェースで、Mac、Windows、iOSプラットフォームに対応します。4つのXLR/TRSコンボ入力を搭載し、個別のプリアンプゲインとファンタム電源を備えており、さらに2つの1/4インチアナログ入力を追加で搭載しています。M6は包括的なメータリング機能を提供するフルカラーLCDディスプレイ、ESS Sabre32 UltraDAC技術、そして96kHzでの2.5ms往復という業界最高クラスの超低レイテンシー性能で際立っています。

@@ -5,6 +5,7 @@ target_name: "IK Multimedia iLoud Sub"
 company_id: ik-multimedia
 lang: ja
 ref: ik-multimedia-iloud-sub
+audiodb_uid: adb-0e4dbc25c4fc
 date: 2026-05-03
 rating: [4.1, 0.5, 0.9, 1.0, 0.7, 1.0]
 price: 95892

@@ -5,6 +5,7 @@ target_name: "AIYIMA S400"
 company_id: aiyima
 lang: en
 ref: aiyima-s400
+audiodb_uid: adb-d9c690d7bae8
 date: 2025-09-16
 rating: [2.7, 0.4, 0.3, 1.0, 0.3, 0.7]
 price: 119.99

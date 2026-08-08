@@ -5,6 +5,7 @@ target_name: "SMSL AO200MKII"
 company_id: smsl
 lang: en
 ref: smsl-ao200mkii
+audiodb_uid: adb-b0dc306128ea
 date: 2025-08-14
 rating: [3.7, 0.7, 0.6, 1.0, 0.6, 0.8]
 price: 249

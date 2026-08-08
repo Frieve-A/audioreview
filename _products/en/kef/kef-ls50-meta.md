@@ -5,6 +5,7 @@ target_name: "KEF LS50 Meta"
 company_id: kef
 lang: en
 ref: kef-ls50-meta
+audiodb_uid: adb-edc90df90625
 date: 2026-02-25
 rating: [3.7, 0.5, 0.9, 1.0, 0.7, 0.6]
 price: 1599.99

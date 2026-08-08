@@ -5,6 +5,7 @@ target_name: "Sony ECM-XM1"
 company_id: sony
 lang: en
 ref: sony-ecm-xm1
+audiodb_uid: adb-1e07f97ef8d7
 date: 2025-11-18
 rating: [3.0, 0.4, 0.4, 1.0, 0.6, 0.6]
 price: 130
@@ -12,7 +13,6 @@ summary: "Professional shotgun microphone with supercardioid pattern for video p
 tags: [Microphones, Japan, Professional, Recording]
 permalink: /products/en/sony-ecm-xm1/
 ---
-
 ## Overview
 
 The Sony ECM-XM1 is a shotgun microphone originally designed as a stock microphone for Sony professional camcorders like the HVR-Z7U. This electret condenser microphone features a supercardioid polar pattern and is primarily intended for video production applications including event video, indie film, TV, documentary, and courtroom use. At 2.3 ounces, it offers an ultra-lightweight design suitable for boom operation and onboard camera mounting. The ECM-XM1 represents an improvement over Sony's previous ECM-NV1 model with a more compact form factor while maintaining similar functionality for professional video applications.

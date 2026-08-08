@@ -5,6 +5,7 @@ target_name: "Creative Pebble V3"
 company_id: creative
 lang: ja
 ref: creative-pebble-v3
+audiodb_uid: adb-686e731653b4
 date: 2025-08-21
 rating: [2.8, 0.3, 0.4, 1.0, 0.5, 0.6]
 price: 5480
@@ -12,7 +13,6 @@ summary: "USB-CデジタルオーディオとBluetooth 5.0（SBC）を備えた�
 tags: [デスクトップスピーカー, USB-C, Bluetooth, 低価格, コンピュータースピーカー]
 permalink: /products/ja/creative-pebble-v3/
 ---
-
 ## 概要
 
 Creative Pebble V3 SP-PBLV3-BKは、コンパクトな2.0構成のPebbleシリーズ最新モデルです。USB-Cバスパワーによる**USBオーディオ入力**と**Bluetooth 5.0**を追加し、2.25インチのフルレンジ・ドライバーと45度上向きの指向設計を継承しています。国内実売は約5,480円で、ノートPCやモニター内蔵スピーカーからの実用的なアップグレード用途を想定しています [1][2][7].

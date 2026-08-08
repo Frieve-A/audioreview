@@ -5,6 +5,7 @@ target_name: "Lotoo PAW5000"
 company_id: lotoo
 lang: ja
 ref: lotoo-paw5000
+audiodb_uid: adb-ef5075359cc6
 date: 2026-01-02
 rating: [3.6, 0.7, 0.7, 0.9, 0.5, 0.8]
 price: 30000

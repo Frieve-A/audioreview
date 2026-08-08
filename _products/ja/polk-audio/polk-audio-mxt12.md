@@ -5,6 +5,7 @@ target_name: "Polk Audio Monitor XT12"
 company_id: polk-audio
 lang: ja
 ref: polk-audio-mxt12
+audiodb_uid: adb-6e23c06ed74d
 date: 2025-07-23
 rating: [2.4, 0.4, 0.3, 0.6, 0.6, 0.5]
 price: 47840
@@ -12,7 +13,6 @@ summary: "Polk Audio Monitor XT12は、12インチドライバーを搭載した
 tags: [サブウーファー, ホームシアター, Polk Audio, 12インチ, Class A/B]
 permalink: /products/ja/polk-audio-mxt12/
 ---
-
 ## 概要
 
 Polk Audio Monitor XT12は、アメリカの老舗オーディオメーカーPolkが開発した12インチパワードサブウーファーです。Dynamic Balancedウーファーと100Wピーク（50W RMS）のClass A/Bアンプを搭載し、公称24Hz-160Hzの周波数特性でホームシアターシステムの低音再生を担います。可変ローパスフィルター（80-160Hz）、位相制御、音量調整機能を備え、Dolby AtmosやDTS:X対応のAVレシーバーとの組み合わせに最適化されています。

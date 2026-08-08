@@ -5,6 +5,7 @@ target_name: "iFi Audio Zen One Signature"
 company_id: ifi-audio
 lang: ja
 ref: ifi-audio-zen-one-signature
+audiodb_uid: adb-c5f6ef570ddb
 date: 2025-08-04
 rating: [2.9, 0.8, 0.6, 0.4, 0.5, 0.6]
 price: 52350
@@ -12,7 +13,6 @@ summary: "多彩な接続性を持つDAC。測定性能は透明レベルを達�
 tags: [DAC, Bluetooth, MQA, バランス出力]
 permalink: /products/ja/ifi-audio-zen-one-signature/
 ---
-
 ## 概要
 
 iFi Audio Zen One Signatureは、USB、Bluetooth 5.1、光デジタル、同軸デジタル入力を備えた多機能DACです。Burr-Brown製DACチップによる「True Native」設計を採用し、PCM 32bit/384kHz、DSD256、MQAデコードに対応します。16コアXMOSプロセッサにより高精度なデジタル処理を実現し、4.4mmバランス出力とRCAアンバランス出力を装備します。Bluetooth接続では複数のコーデックをサポートし、スマートフォンから高品質オーディオシステムまで幅広い機器との接続が可能です。349USD価格で多彩な接続性と実用性を重視した設計となっています。

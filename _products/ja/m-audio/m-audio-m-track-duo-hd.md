@@ -5,6 +5,7 @@ target_name: "M-Audio M-Track Duo HD"
 company_id: m-audio
 lang: ja
 ref: m-audio-m-track-duo-hd
+audiodb_uid: adb-e23017a69136
 date: 2025-09-14
 rating: [3.0, 0.5, 0.5, 0.9, 0.5, 0.6]
 price: 14830
@@ -12,7 +13,6 @@ summary: "24-bit/192kHzに対応したエントリーレベルの2イン2アウ�
 tags: [オーディオインターフェース, USB-C, レコーディング, M-Audio]
 permalink: /products/ja/m-audio-m-track-duo-hd/
 ---
-
 ## 概要
 
 M-Audio M-Track Duo HDは、ホームレコーディング愛好家やコンテンツクリエイター向けに設計されたコンパクトな2イン2アウトUSB-Cオーディオインターフェースです。24-bit/192kHzの解像度で動作し、55dBのゲインを提供するM-AudioのCrystalプリアンプを搭載したデュアルXLR/TRSコンボ入力、切り替え可能な+48Vファンタム電源、ゼロレイテンシーモニタリングを特徴とします。インターフェースはUSB-Cバスパワーを通じてMac、PC、iOS、Androidデバイスをサポートし、1,200米ドル相当の包括的ソフトウェアバンドルが付属します。サイズは2.1" x 7.5" x 4.4"、重量0.80ポンドで、頑丈なエンクロージャーはモバイルレコーディング用途での携帯性と耐久性を考慮した設計となっています。

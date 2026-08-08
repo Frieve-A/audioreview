@@ -5,6 +5,7 @@ target_name: "ifi-audio NEO iDSD2"
 company_id: ifi-audio
 lang: en
 ref: ifi-audio-neo-idsd2
+audiodb_uid: adb-4b6ce8d1a95d
 date: 2026-01-06
 rating: [3.2, 0.7, 0.7, 0.3, 0.8, 0.7]
 price: 899

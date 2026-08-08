@@ -5,6 +5,7 @@ target_name: "Behringer UMC202HD"
 company_id: behringer
 lang: en
 ref: behringer-umc202hd
+audiodb_uid: adb-84e91b0acbc4
 date: 2025-09-01
 rating: [2.7, 0.3, 0.4, 1.0, 0.5, 0.5]
 price: 58

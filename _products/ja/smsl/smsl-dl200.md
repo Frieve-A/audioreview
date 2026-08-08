@@ -5,6 +5,7 @@ target_name: "SMSL DL200"
 company_id: smsl
 lang: ja
 ref: smsl-dl200
+audiodb_uid: adb-135257e6939d
 date: 2025-08-12
 rating: [3.8, 0.6, 0.8, 1.0, 0.6, 0.8]
 price: 28500
@@ -12,7 +13,6 @@ summary: "ES9039Q2M搭載のデスクトップDAC/ヘッドホンアンプ。仕
 tags: [DAC, ヘッドホンアンプ, ESS, デスクトップオーディオ, MQA, Bluetooth]
 permalink: /products/ja/smsl-dl200/
 ---
-
 ## 概要
 
 SMSL DL200は2023年後期に発表されたデスクトップDAC兼ヘッドホンアンプで、フラグシップES9039Q2M DACチップと包括的な接続オプションを特徴としています。高度なデジタルオーディオ処理と強力なヘッドホン増幅を組み合わせ、PCM 32ビット/768kHzおよびDSD512までの高解像度フォーマットをサポートします。メーカー公称仕様[1]ではTHD+N 0.00006%（ライン）、SNRは最大130dBとされ、アクセスしやすい価格帯でSMSLの測定重視のエンジニアリングを体現します。

@@ -1,10 +1,11 @@
---- 
+---
 layout: product
 title: "NUARL Sound:A Japan Tuning Edition Product Review"
 target_name: "NUARL Sound:A Japan Tuning Edition"
 company_id: nuarl
 lang: en
 ref: nuarl-sound-a-japan-tuning-edition
+audiodb_uid: adb-8e0980ad267c
 date: 2025-09-05
 rating: [2.4, 0.5, 0.7, 0.2, 0.4, 0.6]
 price: 100
@@ -12,7 +13,6 @@ summary: "Hi-Res wired earphones with HDSS technology and Japan-specific bass tu
 tags: [Earphones, Hi-Res, Wired, HDSS, Dynamic]
 permalink: /products/en/nuarl-sound-a-japan-tuning-edition/
 ---
-
 ## Overview
 
 $$ \Large \text{3.2} $$

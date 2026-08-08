@@ -5,6 +5,7 @@ target_name: "Shure SM35-TQG"
 company_id: shure
 lang: ja
 ref: shure-sm35-tqg
+audiodb_uid: adb-16226c3f7808
 date: 2025-08-30
 rating: [3.3, 0.6, 0.5, 1.0, 0.6, 0.6]
 price: 13900
@@ -12,7 +13,6 @@ summary: "ShureのSM35-TQGは、ボーカル/MC用途に最適化されたカー
 tags: [マイク, ヘッドセット, コンデンサー, ワイヤレス, プロ用途, Shure]
 permalink: /products/ja/shure-sm35-tqg/
 ---
-
 ## 概要
 
 SM35-TQGはShureのヘッドセット型カーディオイド・コンデンサーマイクで、TQG（TA4F）端子を採用し、Shureワイヤレス送信機に直接接続できます。XLR直結は純正の**RPM400TQG**（TQG→XLRの有線プリアンプ、ファンタム必須）により可能です。周波数特性40 Hz–20 kHz、等価入力雑音34.8 dB SPL（A）、S/N 59.2 dB、ダイナミックレンジ116.5 dB、最大音圧151.3 dB（いずれもメーカー測定、RPM400併用条件明示）で、歌唱やスピーチの近接使用に適します。風防はスナップ式が2個付属し、交換アクセサリRK378も用意されています[1]。

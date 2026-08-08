@@ -5,6 +5,7 @@ target_name: "JBL Summit Ama"
 company_id: jbl
 lang: en
 ref: jbl-summit-ama
+audiodb_uid: adb-27b40d256d54
 date: 2025-10-11
 rating: [3.2, 0.5, 0.7, 0.5, 0.9, 0.6]
 price: 19995

@@ -5,6 +5,7 @@ target_name: "FiiO Fiio K7"
 company_id: fiio
 lang: en
 ref: fiio-k7
+audiodb_uid: adb-3eb4848ae6e9
 date: 2026-01-31
 rating: [3.9, 0.8, 0.6, 1.0, 0.6, 0.9]
 price: 219

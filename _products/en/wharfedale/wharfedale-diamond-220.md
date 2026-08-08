@@ -5,6 +5,7 @@ target_name: "Wharfedale Diamond 220"
 company_id: wharfedale
 lang: en
 ref: wharfedale-diamond-220
+audiodb_uid: adb-c4ee34b9d581
 date: 2025-08-02
 rating: [3.0, 0.5, 0.5, 1.0, 0.5, 0.5]
 price: 274

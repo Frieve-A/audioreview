@@ -5,6 +5,7 @@ target_name: "IK Multimedia AXE I/O ONE"
 company_id: ik-multimedia
 lang: en
 ref: ik-multimedia-axe-i-o-one
+audiodb_uid: adb-0e1b6b969769
 date: 2025-12-30
 rating: [4.0, 0.7, 0.7, 1.0, 0.7, 0.9]
 price: 129.99

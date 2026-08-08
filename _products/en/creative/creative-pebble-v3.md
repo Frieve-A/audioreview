@@ -5,6 +5,7 @@ target_name: "Creative Pebble V3"
 company_id: creative
 lang: en
 ref: creative-pebble-v3
+audiodb_uid: adb-686e731653b4
 date: 2025-08-21
 rating: [2.8, 0.3, 0.4, 1.0, 0.5, 0.6]
 price: 43
@@ -12,7 +13,6 @@ summary: "Budget USB-C desktop speakers with Bluetooth 5.0 (SBC), 8W RMS power a
 tags: [Desktop speakers, USB-C, Bluetooth, Budget, Computer speakers]
 permalink: /products/en/creative-pebble-v3/
 ---
-
 ## Overview
 
 The Creative Pebble V3 SP-PBLV3-BK is the newest entry in Creative’s compact 2.0 desktop line. It adds USB-C digital audio (bus-powered) and Bluetooth 5.0 while keeping the familiar 2.25-inch full-range drivers and 45-degree upward firing baffles in a small, spherical form factor. Positioned around 43 USD, it targets users wanting a clean one-cable desktop hookup and casual wireless listening over built-in laptop or monitor speakers [1][3][4].

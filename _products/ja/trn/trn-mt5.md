@@ -5,6 +5,7 @@ target_name: "TRN MT5"
 company_id: trn
 lang: ja
 ref: trn-mt5
+audiodb_uid: adb-5938fdc93d58
 date: 2025-08-25
 rating: [2.5, 0.5, 0.4, 0.8, 0.4, 0.4]
 price: 4500

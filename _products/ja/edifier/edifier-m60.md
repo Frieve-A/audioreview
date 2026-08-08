@@ -5,6 +5,7 @@ target_name: "Edifier M60"
 company_id: edifier
 lang: ja
 ref: edifier-m60
+audiodb_uid: adb-af9a05832392
 date: 2025-07-11
 rating: [2.5, 0.3, 0.4, 1.0, 0.4, 0.4]
 price: 25000
@@ -12,7 +13,6 @@ summary: "66W出力でLDAC対応のコンパクトデスクトップスピーカ
 tags: [デスクトップスピーカー, Bluetooth, LDAC, ハイレゾ, アクティブスピーカー]
 permalink: /products/ja/edifier-m60/
 ---
-
 ## 概要
 
 Edifier M60は2024年に発売されたコンパクトなデスクトップスピーカーで、66W（高音域15W×2、中低音域18W×2）の出力を持つ。1インチシルクドームツイーターと3インチアルミ製ミッドバス・ドライバーを搭載し、Bluetooth 5.3のLDACコーデック対応、24bit/96kHzの高解像度処理、Texas Instruments製クラスDアンプを採用している。USB-C、AUX入力に対応し、専用アプリ「Edifier ConneX」でのカスタマイズも可能。VGP2025金賞・コスパ大賞を受賞し、市場で注目を集めている。

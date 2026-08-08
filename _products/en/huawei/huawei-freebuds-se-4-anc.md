@@ -5,6 +5,7 @@ target_name: "HUAWEI FreeBuds SE 4 ANC"
 company_id: huawei
 lang: en
 ref: huawei-freebuds-se-4-anc
+audiodb_uid: adb-112e260ba5fb
 date: 2025-10-18
 rating: [3.0, 0.5, 0.7, 0.4, 0.8, 0.6]
 price: 79
@@ -12,7 +13,6 @@ summary: "HUAWEI's first SE series earbuds with ANC offer competitive features b
 tags: [Headphones, Earphones, ANC, True Wireless, Bluetooth]
 permalink: /products/en/huawei-freebuds-se-4-anc/
 ---
-
 ## Overview
 
 The HUAWEI FreeBuds SE 4 ANC marks the first entry in HUAWEI's SE lineup to feature active noise cancellation. These true wireless earbuds target the mid-range market with 24dB ANC performance, 50-hour total battery life with charging case, and IP54 water resistance. Equipped with 10mm dynamic drivers and Bluetooth 5.4 connectivity, they support SBC, AAC, and mSBC codecs. Key features include four ANC modes (Ultra, General, Cozy, Dynamic), 7-hour battery life with ANC enabled, and HUAWEI AI Life app integration for customization.

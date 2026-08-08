@@ -5,6 +5,7 @@ target_name: "Klipsch R-15M"
 company_id: klipsch
 lang: en
 ref: klipsch-r-15m
+audiodb_uid: adb-551e8b14d4ee
 date: 2025-08-28
 rating: [3.3, 0.6, 0.4, 1.0, 0.7, 0.6]
 price: 199

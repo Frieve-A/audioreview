@@ -4,6 +4,7 @@ target_name: "FiiO BTR13"
 company_id: fiio
 lang: en
 ref: fiio-btr13
+audiodb_uid: adb-81c4b40e3081
 date: 2025-08-09
 layout: product
 rating: [3.5, 0.5, 0.6, 1.0, 0.7, 0.7]

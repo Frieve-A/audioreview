@@ -5,6 +5,7 @@ target_name: "Neutron HiFi Neutron Music Player"
 company_id: neutron-hifi
 lang: ja
 ref: neutron-hifi-neutron-music-player
+audiodb_uid: adb-cd88d945adf0
 date: 2025-09-17
 rating: [3.4, 0.5, 0.7, 0.9, 0.6, 0.7]
 price: 1400
@@ -12,7 +13,6 @@ summary: "包括的なフォーマット対応、洗練されたDSP機能、プ�
 tags: [音楽プレーヤー, ソフトウェア, ハイレゾオーディオ, DSP, クロスプラットフォーム]
 permalink: /products/ja/neutron-hifi-neutron-music-player/
 ---
-
 ## 概要
 
 Neutron Music Playerは、Neutron HiFi（Neutron Code Limited）が開発した独自の32/64ビットオーディオエンジンを特徴とする高度な音楽プレーヤーソフトウェアです。DSDを含む包括的なオーディオフォーマットに対応し、洗練されたDSPエフェクト機能を提供し、Android、iOS、Windows、macOS、Linuxにわたるクロスプラットフォーム互換性を実現しています。Neutron HiFiは2011年からプロフェッショナルオーディオソフトウェアを開発しており、高解像度デジタルオーディオ処理分野で15年以上の経験を持ちます。同社はオペレーティングシステムの制限をバイパスするプラットフォーム独立のオーディオエンジンによってオーディオファイルグレードのソリューションを提供することをポジショニングしています。

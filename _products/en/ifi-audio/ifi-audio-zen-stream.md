@@ -5,6 +5,7 @@ target_name: "iFi Audio ZEN Stream"
 company_id: ifi-audio
 lang: en
 ref: ifi-audio-zen-stream
+audiodb_uid: adb-3568ee5849b9
 date: 2025-08-27
 rating: [3.5, 0.7, 0.6, 0.8, 0.6, 0.8]
 price: 399
@@ -12,7 +13,6 @@ summary: "Network audio streamer with hi-res support and excellent measured jitt
 tags: [Network-streamer, Digital-transport, WiFi, Ethernet, USB-output, SPDIF-output, Roon-Ready]
 permalink: /products/en/ifi-audio-zen-stream/
 ---
-
 ## Overview
 
 The iFi Audio ZEN Stream is a dedicated network audio transport priced at 399 USD. It bridges streaming services and local network sources to an external DAC via **two USB 3.0 (Type-A) ports** and a **coaxial S/PDIF output**. It supports up to **PCM 32-bit/384 kHz** and **DSD256** over both Wi-Fi and Ethernet. Protocol support includes **Roon Ready**, **Spotify Connect**, **TIDAL Connect**, **AirPlay**, **DLNA/UPnP**, and an **NAA (HQPlayer) mode** [2]. 

@@ -5,6 +5,7 @@ target_name: "Creative Stage SE"
 company_id: creative
 lang: ja
 ref: creative-stage-se
+audiodb_uid: adb-b740778e3113
 date: 2025-09-03
 rating: [2.8, 0.4, 0.4, 1.0, 0.4, 0.6]
 price: 10000
@@ -12,7 +13,6 @@ summary: "48Wピーク出力、Bluetooth 5.3、Sound Blasterオーディオ処�
 tags: [サウンドバー, デスクトップオーディオ, Bluetooth, USBオーディオ, Sound Blaster]
 permalink: /products/ja/creative-stage-se/
 ---
-
 ## 概要
 
 Creative Stage SEは、デスクトップオーディオの向上を目的として設計されたコンパクトなモニター下設置型サウンドバーです。48Wピーク出力とBluetooth 5.3、USBデジタルオーディオによるデュアル接続機能を搭載しています。410 x 108 x 68 mmのサイズで、レーストラック型ドライバーとパッシブラジエーターを組み合わせ、CreativeのSound Blasterオーディオ処理技術（Clear DialogやSurroundモード）を統合しています。約67 USD（10,000円）の価格で、内蔵モニタースピーカーや基本的なデスクトップオーディオセットアップからのアップグレードを求めるユーザーをターゲットとしています。

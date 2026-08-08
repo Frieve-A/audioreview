@@ -5,6 +5,7 @@ target_name: "Tannoy Glenair 15"
 company_id: tannoy
 lang: ja
 ref: tannoy-glenair-15
+audiodb_uid: adb-f1d1b1d6a695
 date: 2025-12-30
 rating: [3.0, 0.5, 0.8, 0.3, 0.7, 0.7]
 price: 1500000

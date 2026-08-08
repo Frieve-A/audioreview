@@ -5,6 +5,7 @@ target_name: "HiBy R6 Pro II 2025"
 company_id: hiby
 lang: en
 ref: hiby-r6-pro-ii-2025
+audiodb_uid: adb-00d4c936d32d
 date: 2025-11-24
 rating: [3.5, 0.5, 0.8, 0.5, 0.8, 0.9]
 price: 699
@@ -12,7 +13,6 @@ summary: "Android-based DAP featuring dual CS4308P DACs with femtosecond oscilla
 tags: [Android, CS4308P, Class A, DAP, Digital audio player, Portable, Dual-DAC, Snapdragon]
 permalink: /products/en/hiby-r6-pro-ii-2025/
 ---
-
 ## Overview
 
 The HiBy R6 Pro II 2025 is a portable digital audio player featuring dual Cirrus Logic CS4308P DAC chips and Android 12 operating system. Priced at 699 USD, this device targets audiophiles seeking high-performance portable audio with comprehensive functionality including switchable Class A/AB amplification modes, 632mW balanced output power, and extensive format support up to DSD512 and PCM 32-bit/768kHz. Built on a Qualcomm Snapdragon 665 processor with 6GB RAM and 128GB storage, the device incorporates dual NDK femtosecond crystal oscillators for low-jitter operation and offers comprehensive connectivity through 3.5mm single-ended, 4.4mm balanced outputs, Bluetooth 5.0, WiFi, and USB DAC functionality on a 5.9-inch 1080p touchscreen interface.

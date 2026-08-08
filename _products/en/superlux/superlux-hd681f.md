@@ -5,6 +5,7 @@ target_name: "Superlux HD681F"
 company_id: superlux
 lang: en
 ref: superlux-hd681f
+audiodb_uid: adb-0c3384f0c56d
 date: 2025-08-20
 rating: [3.4, 0.5, 0.5, 1.0, 0.6, 0.8]
 price: 28

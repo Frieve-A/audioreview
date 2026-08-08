@@ -5,6 +5,7 @@ target_name: "iFi Audio xDSD Gryphon"
 company_id: ifi-audio
 lang: en
 ref: ifi-audio-xdsd-gryphon
+audiodb_uid: adb-c6ee7479ae50
 date: 2025-08-24
 rating: [3.5, 0.7, 0.8, 0.5, 0.7, 0.8]
 price: 599

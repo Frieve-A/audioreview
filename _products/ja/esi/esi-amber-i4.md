@@ -5,6 +5,7 @@ target_name: "ESI Amber i4"
 company_id: esi
 lang: ja
 ref: esi-amber-i4
+audiodb_uid: adb-d66731d86db7
 date: 2025-10-06
 rating: [3.4, 0.6, 0.6, 1.0, 0.6, 0.6]
 price: 38000
@@ -12,7 +13,6 @@ summary: "ESI Amber i4は、デュアルClass-Aマイクプリ、ADMによるゼ
 tags: [オーディオインターフェース, USB-C, 24bit/192kHz, 4in/4out, DTM]
 permalink: /products/ja/esi-amber-i4/
 ---
-
 ## 概要
 
 Amber i4は**24bit/192kHz**対応のデスクトップ型**4入力4出力**インターフェースで、**Class-Aマイクプリアンプ×2**、**独立48V**、**双方向（Auto-detect）MIDIポート×2**、**OUTPUT A/B切替によるデュアル出力系統**、**LCD**、**大型エンコーダ**を装備します [1][2]。ESI独自の**ADM（Advanced Direct Monitoring）**により、**完全ゼロレイテンシーのハードウェアミックス**を本体または**Amber i4 Control**アプリから構築でき、**仮想チャンネルとループバック**で配信・画面録画用途にも対応します [1][2]。**USBクラスコンプライアント**（macOS/iOSはCoreAudio）、Windowsは**EWDM ASIO**ドライバ（ASIO 2.0 / WDM / MME / DirectSound）を提供。**Bitwig Studio 8-Track / Steinberg WaveLab LE / Cubasis LE**のレジストレーションが付属し、**USB-C↔C**／**USB-A↔C**ケーブル同梱です [2]。メーカーは**115 dB(A)ダイナミックレンジ**を公表しています [1][2]。

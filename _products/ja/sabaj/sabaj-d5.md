@@ -5,6 +5,7 @@ target_name: "Sabaj D5"
 company_id: sabaj
 lang: ja
 ref: sabaj-d5
+audiodb_uid: adb-74f06c7a035d
 date: 2025-08-10
 rating: [3.3, 0.9, 0.6, 0.5, 0.5, 0.8]
 price: 70500
@@ -12,7 +13,6 @@ summary: "ES9038PROチップ搭載デスクトップDAC/アンプ。優秀な測
 tags: [DAC, ヘッドホンアンプ, デスクトップ, ES9038PRO, バランス]
 permalink: /products/ja/sabaj-d5/
 ---
-
 ## 概要
 
 Sabaj D5は、ESS TechnologyのフラッグシップES9038PRO DACチップを搭載したデスクトップDAC兼ヘッドホンアンプです。32ビット/768kHz PCMおよびDSD512までのハイレゾに対応し、32Ωで最大1.912Wのバランス出力を含むシングルエンド/バランス出力を備えます。デジタル入力はUSB・光・同軸・I2S（HDMI）、ライン出力はXLR/RCA、ヘッドホン出力は4ピンXLR（バランス）/6.35mmです。リモコン付属で、透明な再生を狙ったデスクトップ用途に位置づけられます。

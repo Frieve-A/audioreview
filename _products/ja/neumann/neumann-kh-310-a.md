@@ -5,6 +5,7 @@ target_name: "Neumann KH 310 A"
 company_id: neumann
 lang: ja
 ref: neumann-kh-310-a
+audiodb_uid: adb-7f315eb412e2
 date: 2025-07-28
 rating: [4.1, 0.9, 0.8, 0.7, 0.8, 0.9]
 price: 375000

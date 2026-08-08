@@ -5,6 +5,7 @@ target_name: "FiiO M27"
 company_id: fiio
 lang: ja
 ref: fiio-m27
+audiodb_uid: adb-60a57aea38d6
 date: 2026-02-28
 rating: [2.8, 0.7, 0.6, 0.1, 0.4, 1.0]
 price: 280800
@@ -12,7 +13,6 @@ summary: "FiiOのフラッグシップポータブルDAPは、デスクトップ
 tags: [Digital Audio Player, DAP, Portable Audio, High-Resolution Audio, Flagship]
 permalink: /products/ja/fiio-m27/
 ---
-
 ## 概要
 
 FiiO M27は、FiiOの2025年フラッグシップデジタルオーディオプレーヤーで、M17の「ポータブルデスクトップユニット」設計思想を受け継ぐ「リファレンスグレードポータブルスマートHiFi音楽プレーヤー」として位置づけられています。4年間の開発期間を経て、ポータブルな形状でデスクトップグレードのオーディオ性能を求める本格的なオーディオファイルをターゲットとしています。デュアルES9039SPROデコーダーチップ、Qualcomm QCS6490プロセッサー、8GB RAM、256GB内蔵ストレージとデュアルmicroSDスロット、そして卓越した5W/chバランス駆動力を特徴としています。1799米ドル（280,800円）という価格でFiiOのプレミアム層に位置し、M21や予算重視のM25を上回り、同社のポータブルプレーヤーセグメントにおいて「2025年の王者」と明示的に説明されています。

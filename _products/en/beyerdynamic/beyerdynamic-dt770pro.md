@@ -5,6 +5,7 @@ target_name: "beyerdynamic DT770 PRO"
 company_id: beyerdynamic
 lang: en
 ref: beyerdynamic-dt770pro
+audiodb_uid: adb-058e3108021b
 date: 2025-08-04
 rating: [2.6, 0.6, 0.6, 0.4, 0.5, 0.5]
 price: 199

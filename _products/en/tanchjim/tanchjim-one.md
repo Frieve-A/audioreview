@@ -5,6 +5,7 @@ target_name: "TANCHJIM ONE"
 company_id: tanchjim
 lang: en
 ref: tanchjim-one
+audiodb_uid: adb-cd31b49978be
 date: 2026-03-12
 rating: [3.8, 0.7, 0.7, 0.8, 0.6, 1.0]
 price: 27.99

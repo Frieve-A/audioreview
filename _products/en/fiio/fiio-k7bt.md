@@ -5,6 +5,7 @@ target_name: "Fiio K7BT"
 company_id: fiio
 lang: en
 ref: fiio-k7bt
+audiodb_uid: adb-f117e8c21b2c
 date: 2025-07-09
 rating: [3.8, 0.8, 0.8, 0.6, 0.9, 0.7]
 price: 278
@@ -12,7 +13,6 @@ summary: "Desktop DAC/amp combo adding Bluetooth functionality to K7, but questi
 tags: [Bluetooth, "DAC/Amp combo", "Desktop DAC", Fiio, "Headphone amplifier"]
 permalink: /products/en/fiio-k7bt/
 ---
-
 ## Overview
 
 The Fiio K7BT is a product that adds Bluetooth functionality to the popular desktop DAC/headphone amplifier K7. Like the K7, it features dual AK4493SEQ DAC chips and dual THX AAA 788+ amplifiers, with the addition of high-quality wireless functionality through the QCC5124 Bluetooth chip. It supports high-resolution Bluetooth codecs including LDAC, aptX HD, and aptX Adaptive, with detailed control available through the FiiO Control app. While it achieves wireless connectivity via Bluetooth 5.1 in addition to the K7's excellent wired performance, the practicality of Bluetooth functionality for desktop use requires consideration.

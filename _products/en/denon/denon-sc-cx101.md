@@ -5,6 +5,7 @@ target_name: "Denon SC-CX101"
 company_id: denon
 lang: en
 ref: denon-sc-cx101
+audiodb_uid: adb-4c5fbed5381e
 date: 2025-07-21
 rating: [2.5, 0.3, 0.7, 0.8, 0.4, 0.3]
 price: 133
@@ -12,7 +13,6 @@ summary: "The Denon SC-CX101 is a compact 2-way bass-reflex bookshelf speaker. C
 tags: [Speakers, Bookshelf, Compact, 2-Way]
 permalink: /products/en/denon-sc-cx101/
 ---
-
 ## Overview
 
 The Denon SC-CX101 is a compact 2-way bass-reflex bookshelf speaker. It features a 12cm cone-type bass/mid unit and a 2.5cm soft dome tweeter, claiming a frequency response of 45Hz to 40kHz. The speaker incorporates Denon's technologies including DDL (DENON Double Layer) cone and bi-wiring compatibility, but is now a discontinued product. The actual selling price can be found in the used market for approximately 133 USD.

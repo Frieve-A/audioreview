@@ -5,6 +5,7 @@ target_name: "KZ KZ PRX"
 company_id: kz
 lang: ja
 ref: kz-prx
+audiodb_uid: adb-dbce45a5cfcf
 date: 2026-02-24
 rating: [2.3, 0.5, 0.4, 0.4, 0.5, 0.5]
 price: 8100

@@ -5,6 +5,7 @@ target_name: "Aune Audio XC1"
 company_id: aune-audio
 lang: ja
 ref: aune-audio-xc1
+audiodb_uid: adb-228640c4b17d
 date: 2025-08-15
 rating: [3.0, 0.3, 0.7, 1.0, 0.6, 0.4]
 price: 44700
@@ -12,7 +13,6 @@ summary: "エントリー級価格でプロ用途相当の10MHz基準信号を�
 tags: [音楽クロック, OCXO, 外部クロック, デジタル音楽, タイミング]
 permalink: /products/ja/aune-audio-xc1/
 ---
-
 ## 概要
 
 Aune Audio XC1は、10MHzのOCXO（恒温槽制御水晶発振器）を用いた外部クロックです。4系統の絶縁出力（正弦波×2／方形波×2）が同時動作し、出力は>7 dBm（50Ω）、立上り時間<2.75 ns、工場出荷時の周波数精度<1 ppm、オーディオ・スタビリティ（typ）<10 ppt、ウォームアップは目安5分／完全安定60分とされています [1][2]。直販価格は299 USD（国内流通例は44,700円）です [3]。

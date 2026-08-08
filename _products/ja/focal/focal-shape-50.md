@@ -5,6 +5,7 @@ target_name: "Focal Shape 50"
 company_id: focal
 lang: ja
 ref: focal-shape-50
+audiodb_uid: adb-467f1112092e
 date: 2025-07-21
 rating: [2.2, 0.4, 0.6, 0.2, 0.5, 0.5]
 price: 88000
@@ -12,7 +13,6 @@ summary: "Focal Shape 50は5インチスタジオモニターとして独自技�
 tags: [スタジオモニター, アクティブ, フランス]
 permalink: /products/ja/focal-shape-50/
 ---
-
 ## 概要
 
 Focal Shape 50は、フランスの老舗スピーカーメーカーFocalが開発した5インチアクティブニアフィールドスタジオモニターです。TMD（Tuned Mass Damper）サラウンド技術、N.I.C.（Neutral Inductance Circuit）技術、フラックスサンドイッチコーン構造などの独自技術を投入し、スタジオグレードの音質を目指した製品として位置づけられています。85W総出力（ウーファー60W + ツイーター25W）のClass-ABアンプを内蔵し、50Hz-35kHz（±3dB）の周波数特性と106dB SPLの最大出力を謳っています。

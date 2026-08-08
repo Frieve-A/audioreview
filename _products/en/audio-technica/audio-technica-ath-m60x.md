@@ -5,6 +5,7 @@ target_name: "Audio-Technica ATH-M60X"
 company_id: audio-technica
 lang: en
 ref: audio-technica-ath-m60x
+audiodb_uid: adb-59d0c492f9f6
 date: 2025-08-02
 rating: [2.6, 0.3, 0.5, 0.7, 0.7, 0.4]
 price: 169
@@ -12,7 +13,6 @@ summary: "The ATH-M60X is an on-ear professional monitor headphone featuring the
 tags: [Headphones, On-ear, Monitor, Audio-Technica]
 permalink: /products/en/audio-technica-ath-m60x/
 ---
-
 ## Overview
 
 The Audio-Technica ATH-M60X is an on-ear professional monitor headphone that incorporates the same 45mm large-aperture driver as the popular ATH-M50X model. It features rare earth magnets and copper-clad aluminum wire voice coils, with specifications including a 15Hz-28kHz frequency range, 102dB/mW sensitivity, 38Ω impedance, and 218g weight. While the ATH-M50X uses an over-ear design, the ATH-M60X adopts a more portable on-ear configuration intended for use outside the studio environment. The package includes detachable cables, conversion plug adapters, and a carrying pouch, providing the basic equipment necessary for professional applications.

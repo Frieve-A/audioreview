@@ -5,6 +5,7 @@ target_name: "Edifier MR5"
 company_id: edifier
 lang: en
 ref: edifier-mr5
+audiodb_uid: adb-6f68c5756712
 date: 2026-03-14
 rating: [3.5, 0.7, 0.7, 1.0, 0.6, 0.5]
 price: 349.99

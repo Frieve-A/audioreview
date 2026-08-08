@@ -5,6 +5,7 @@ target_name: "dbx RTA-M"
 company_id: dbx
 lang: en
 ref: dbx-rta-m
+audiodb_uid: adb-a15cb9409500
 date: 2025-07-18
 rating: [2.1, 0.6, 0.2, 0.4, 0.4, 0.5]
 price: 65
@@ -12,7 +13,6 @@ summary: "The dbx RTA-M is designed as a measurement microphone exclusively for 
 tags: [Measurement Microphone, dbx, DriveRack, RTA, Audio Measurement]
 permalink: /products/en/dbx-rta-m/
 ---
-
 ## Overview
 
 The dbx RTA-M is a measurement condenser microphone designed exclusively for the company's DriveRack series (PA, PX, PA+, PA2, 260). It aims to optimize sound quality in challenging acoustic environments when combined with system setup wizards and auto-EQ wizards. The microphone claims flat frequency response covering the full 20Hz-20kHz range and operates on 15-48V phantom power. It includes a clip and case, with a design specifically focused on real-time analysis using pink noise and feedback elimination.

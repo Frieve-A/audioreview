@@ -5,6 +5,7 @@ target_name: "Edifier M60"
 company_id: edifier
 lang: en
 ref: edifier-m60
+audiodb_uid: adb-af9a05832392
 date: 2025-07-11
 rating: [2.5, 0.3, 0.4, 1.0, 0.4, 0.4]
 price: 167

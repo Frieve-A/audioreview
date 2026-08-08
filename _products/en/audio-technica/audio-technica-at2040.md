@@ -5,6 +5,7 @@ target_name: "Audio-Technica AT2040"
 company_id: audio-technica
 lang: en
 ref: audio-technica-at2040
+audiodb_uid: adb-372dd02623de
 date: 2025-11-05
 rating: [3.6, 0.5, 0.6, 1.0, 0.8, 0.7]
 price: 99
@@ -12,7 +13,6 @@ summary: "Hypercardioid dynamic podcast microphone based on BP40 design, offerin
 tags: [Microphones, Dynamic, Podcast, Hypercardioid, Audio-Technica]
 permalink: /products/en/audio-technica-at2040/
 ---
-
 ## Overview
 
 The Audio-Technica AT2040 is a hypercardioid dynamic podcast microphone introduced in July 2021, designed as a more accessible alternative to the company's acclaimed BP40 broadcast microphone [5]. The AT2040 targets podcasters and content creators seeking professional-grade directional pickup characteristics without the premium price of broadcast equipment. The microphone features integrated shock mount technology, multistage windscreen design, and all-metal construction inherited from Audio-Technica's broadcast microphone lineage [5]. As a derivative product of the BP40, the AT2040 represents the company's effort to democratize professional broadcast sound quality for emerging content creation markets.

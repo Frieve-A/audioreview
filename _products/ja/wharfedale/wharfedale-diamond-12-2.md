@@ -5,6 +5,7 @@ target_name: "Wharfedale Diamond 12.2"
 company_id: wharfedale
 lang: ja
 ref: wharfedale-diamond-12-2
+audiodb_uid: adb-85f91475e368
 date: 2025-10-28
 rating: [3.1, 0.5, 0.6, 0.5, 0.8, 0.7]
 price: 98000
@@ -12,7 +13,6 @@ summary: "Klarityマイカ配合ポリプロピレンコーン技術と5年保�
 tags: [ブックシェルフ, スピーカー, パッシブ, 2ウェイ, Wharfedale]
 permalink: /products/ja/wharfedale-diamond-12-2/
 ---
-
 ## 概要
 
 Wharfedale Diamond 12.2は、長年続いているDiamondシリーズの継続的な進化を表し、独自のKlarityマイカ配合ポリプロピレンコーン技術を伝統的な2ウェイブックシェルフ設計に組み込んでいます。6.5インチウーファーと1インチテキスタイルドームツイーターを組み合わせ、数十年にわたるラウドスピーカー開発で確立された測定重視のエンジニアリング原則を維持しながら、ブランドの特徴である「ブリティッシュウォームサウンド」の提供を目指しています。Wharfedaleの歴史には1970年代のスピーカー解析用レーザー干渉計の先駆的導入が含まれ、科学的検証とコストパフォーマンスを重視する測定志向のメーカーとしての地位を確立しています。

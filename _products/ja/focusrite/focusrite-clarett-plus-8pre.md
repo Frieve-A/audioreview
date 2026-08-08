@@ -5,6 +5,7 @@ target_name: "Focusrite Clarett+ 8Pre"
 company_id: focusrite
 lang: ja
 ref: focusrite-clarett-plus-8pre
+audiodb_uid: adb-9640970e08c1
 date: 2025-09-17
 rating: [4.2, 0.9, 0.8, 1.0, 0.7, 0.8]
 price: 151000
@@ -12,7 +13,6 @@ summary: "優秀な測定性能を実現するUSB-Cオーディオインター�
 tags: [オーディオインターフェース, USB-C, スタジオ機器, レコーディング]
 permalink: /products/ja/focusrite-clarett-plus-8pre/
 ---
-
 ## 概要
 
 Focusrite Clarett+ 8Preは、独自のAirサーキットを搭載した8つのClarett+マイクプリアンプを備えた18イン/20アウトのUSB-Cオーディオインターフェースです。Focusriteのプロフェッショナルインターフェースラインナップの一部として、改良されたコンバーターと性能仕様を持つアップデートされた世代を代表します。プロフェッショナルスタジオやホームレコーディングセットアップにおいて、高品質なプリアンプとコンバージョンを備えた複数の同時入力チャンネルを必要とする用途を対象としています。

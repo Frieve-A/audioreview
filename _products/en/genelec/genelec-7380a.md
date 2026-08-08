@@ -5,6 +5,7 @@ target_name: "Genelec 7380a"
 company_id: genelec
 lang: en
 ref: genelec-7380a
+audiodb_uid: adb-e5b1db04075b
 date: 2026-05-25
 rating: [4.3, 0.7, 0.8, 1.0, 0.9, 0.9]
 price: 6395

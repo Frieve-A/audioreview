@@ -5,6 +5,7 @@ target_name: "64 Audio U4s"
 company_id: 64-audio
 lang: ja
 ref: 64-audio-u4s
+audiodb_uid: adb-487fe4859a16
 date: 2025-12-03
 rating: [2.5, 0.4, 0.8, 0.1, 0.6, 0.6]
 price: 140000
@@ -12,7 +13,6 @@ summary: "独自のtia技術とAPEXモジュールを搭載した4ドライバ�
 tags: [インイヤーモニター, ハイブリッドドライバー, プレミアムオーディオ, tia技術]
 permalink: /products/ja/64-audio-u4s/
 ---
-
 ## 概要
 
 64 Audio U4sは、同社独自のtia（Tubeless In-Ear Audio）高周波ドライバーを搭載した4ドライバーハイブリッド構成のプレミアムユニバーサルインイヤーモニターです。140,000円の価格設定で、3つのバランスドアーマチュアドライバーと低周波用の1つのダイナミックドライバーが組み合わされています。U4sには64 Audioのシグネチャー技術として、ソースインピーダンス補正用のLID（Linear Impedance Design）と10-20dBのユーザー制御可能な遮音レベルを提供するAPEX（Air Pressure Exchange）モジュールが搭載されています。このハイブリッド設計は、高度なドライバー技術とカスタマイズ可能な音響性能を求めるオーディオファイルをターゲットとしています。

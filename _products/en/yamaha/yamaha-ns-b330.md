@@ -5,6 +5,7 @@ target_name: "Yamaha NS-B330"
 company_id: yamaha
 lang: en
 ref: yamaha-ns-b330
+audiodb_uid: adb-b91c421638b1
 date: 2025-08-16
 rating: [2.5, 0.5, 0.3, 0.7, 0.6, 0.4]
 price: 350

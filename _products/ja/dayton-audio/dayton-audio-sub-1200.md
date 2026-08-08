@@ -5,6 +5,7 @@ target_name: "Dayton Audio SUB-1200"
 company_id: dayton-audio
 lang: ja
 ref: dayton-audio-sub-1200
+audiodb_uid: adb-ff6dc2ba6c39
 date: 2025-08-20
 rating: [2.9, 0.4, 0.3, 1.0, 0.5, 0.7]
 price: 29800
@@ -12,7 +13,6 @@ summary: "12インチの低価格アクティブ・サブウーファー。前�
 tags: [サブウーファー, アクティブ, Dayton Audio, 12インチ]
 permalink: /products/ja/dayton-audio-sub-1200/
 ---
-
 ## 概要
 
 Dayton Audio SUB-1200 は、コスト重視のホームシアター向け12インチ・ポート型サブウーファーです。長ストローク12インチ（前面発音）、下面フレアド・ポート、可変ローパス（40–140 Hz）、位相0/180°、オートオン/オフ、ライン/スピーカーレベル入出力を装備し、樹脂化粧のMDFキャビネットに収められています。メーカー公称は周波数特性25–140 Hz、アンプ出力80 W RMS、外形は16-3/4" × 16-3/16" × 17-3/4" です。 [1][2][3]

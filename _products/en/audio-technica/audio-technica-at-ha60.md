@@ -5,6 +5,7 @@ target_name: "Audio-Technica AT-HA60"
 company_id: audio-technica
 lang: en
 ref: audio-technica-at-ha60
+audiodb_uid: adb-7dab5e75c798
 date: 2025-10-21
 rating: [3.3, 0.5, 0.6, 1.0, 0.6, 0.6]
 price: 389

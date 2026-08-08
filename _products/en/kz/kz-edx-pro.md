@@ -5,6 +5,7 @@ target_name: "KZ EDX Pro"
 company_id: kz
 lang: en
 ref: kz-edx-pro
+audiodb_uid: adb-23290aa867f1
 date: 2025-08-18
 rating: [3.1, 0.6, 0.3, 1.0, 0.5, 0.7]
 price: 18

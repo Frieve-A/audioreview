@@ -5,6 +5,7 @@ target_name: "Yamaha RX-A4A"
 company_id: yamaha
 lang: ja
 ref: yamaha-rx-a4a
+audiodb_uid: adb-cac8189a3669
 date: 2025-07-27
 rating: [3.5, 0.8, 0.7, 0.5, 0.8, 0.7]
 price: 137500
@@ -12,7 +13,6 @@ summary: "ESS SABRE DACを搭載した7.2ch AVレシーバー。優秀な測定�
 tags: [AVレシーバー, Dolby Atmos, 8K対応, HDMI 2.1]
 permalink: /products/ja/yamaha-rx-a4a/
 ---
-
 ## 概要
 
 Yamaha RX-A4AはAVENTAGEシリーズに属する7.2チャンネルAVレシーバーです。ESS SABRE ES9007S Premier Audio DACを搭載し、8K/4K120Hz対応HDMI 2.1端子を7入力3出力装備しています。110W×7チャンネル（8Ω、20Hz-20kHz、2チャンネル駆動時、THD 0.06%）の出力を持ち、Dolby AtmosおよびDTS:Xに対応します。Qualcomm QCS407による64ビット高精度処理とYPAO R.S.C.による自動音場補正機能を備えており、MusicCast対応によるマルチルーム再生も可能です。

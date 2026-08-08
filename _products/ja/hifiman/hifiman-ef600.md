@@ -5,6 +5,7 @@ target_name: "HiFiMan EF600"
 company_id: hifiman
 lang: ja
 ref: hifiman-ef600
+audiodb_uid: adb-1950e20f89b1
 date: 2025-09-03
 rating: [2.8, 0.5, 0.6, 0.8, 0.5, 0.4]
 price: 85800

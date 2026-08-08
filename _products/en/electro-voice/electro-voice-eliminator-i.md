@@ -5,6 +5,7 @@ target_name: "Electro-Voice Eliminator i"
 company_id: electro-voice
 lang: en
 ref: electro-voice-eliminator-i
+audiodb_uid: adb-9c145e29f0d3
 date: 2025-08-23
 rating: [2.5, 0.5, 0.4, 0.5, 0.6, 0.5]
 price: 899

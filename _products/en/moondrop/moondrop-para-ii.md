@@ -5,6 +5,7 @@ target_name: "Moondrop Para II"
 company_id: moondrop
 lang: en
 ref: moondrop-para-ii
+audiodb_uid: adb-9ca82a5f2e88
 date: 2025-09-01
 rating: [3.1, 0.4, 0.8, 0.5, 0.6, 0.8]
 price: 499
@@ -12,7 +13,6 @@ summary: "Advanced planar magnetic headphones with cutting-edge driver technolog
 tags: [Headphones, Planar-magnetic, Over-ear, Open-back]
 permalink: /products/en/moondrop-para-ii/
 ---
-
 ## Overview
 
 Moondrop’s Para II is a second-generation full-size open-back planar magnetic headphone built around a 100 mm diaphragm and the company’s FDT (Full Drive Tech) motor. The design adds an N55 magnet array optimized via FEA, a 1.2 μm ultra-thin diaphragm, and a secondary diaphragm stress-balance structure in a lighter stainless-steel chassis. Priced at 499 USD, it targets the mid-tier planar segment with a “scientific tuning” approach and easy-drive specs (9 Ω, high sensitivity) [2][5].

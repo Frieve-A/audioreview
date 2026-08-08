@@ -5,6 +5,7 @@ target_name: "Fostex PM0.1BD"
 company_id: fostex
 lang: ja
 ref: fostex-pm0-1bd
+audiodb_uid: adb-e85b7d6b17b4
 date: 2025-08-20
 rating: [2.4, 0.5, 0.4, 0.5, 0.7, 0.3]
 price: 22770
@@ -12,7 +13,6 @@ summary: "3インチ・フルレンジと15W+15WのClass-Dを採用し、Bluetoo
 tags: [デスクトップモニター, Bluetooth, フルレンジドライバー, コンパクトスピーカー, アクティブモニター]
 permalink: /products/ja/fostex-pm0-1bd/
 ---
-
 ## 概要
 
 Fostex PM0.1BDは、3インチのフルレンジ単一ドライバーと15W+15WのClass-Dアンプを備える超小型アクティブスピーカーです。Bluetooth 5.0（SBC）とAUXの切替入力に対応し、デスクトップ/パーソナル用途を主眼としたモデルとして2024年6月に出荷開始されました [1][2][3]。

@@ -5,6 +5,7 @@ target_name: "ADAM Audio T5V"
 company_id: adam-audio
 lang: en
 ref: adam-audio-t5v
+audiodb_uid: adb-7abf84e9897b
 date: 2025-08-20
 rating: [3.9, 0.5, 0.8, 1.0, 0.8, 0.8]
 price: 479.98
@@ -12,7 +13,6 @@ summary: "A compact 5-inch nearfield monitor with U-ART ribbon tweeter and HPS w
 tags: [Studio monitors, Nearfield, U-ART, Bi-amp, Class D, DSP, 2-Way, Professional]
 permalink: /products/en/adam-audio-t5v/
 ---
-
 ## Overview
 
 The ADAM Audio T5V is a 2-way active nearfield monitor featuring the company’s U-ART accelerated ribbon tweeter in an HPS waveguide and a 5-inch polypropylene woofer. It uses Class-D bi-amplification (50 W LF / 20 W HF) with DSP-controlled crossover/EQ, specifies 45 Hz–25 kHz (-6 dB) bandwidth, and a **maximum 106 dB SPL per pair at 1 m** [2]. The T-Series approach focuses on pragmatic DSP crossover and controlled directivity in a compact, affordable package [3].

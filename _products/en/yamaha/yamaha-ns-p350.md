@@ -5,6 +5,7 @@ target_name: "Yamaha NS-P350"
 company_id: yamaha
 lang: en
 ref: yamaha-ns-p350
+audiodb_uid: adb-274dcae696ea
 date: 2025-12-16
 rating: [3.9, 0.5, 0.8, 1.0, 0.7, 0.9]
 price: 380
@@ -12,7 +13,6 @@ summary: "3-speaker home theater package with center and surround speakers featu
 tags: [Speakers, Home Theater, Surround Sound, Center Channel, PMD Technology]
 permalink: /products/en/yamaha-ns-p350/
 ---
-
 ## Overview
 
 The Yamaha NS-P350 is a 3-speaker home theater package consisting of one center channel speaker (NS-PC350) and two surround speakers (NS-PB350) designed to complement the NS-F350 for complete surround sound systems. Developed as surround back and center speakers for 5-channel setups, the package features Yamaha's proprietary PMD (Polymer-Injected Mica Diaphragm) cone technology and aluminum dome tweeters across all channels. The center speaker employs dual 5-inch PMD cone woofers with acoustic suspension design, while the surround speakers use single 5-inch PMD woofers in bass-reflex enclosures. Both speaker types incorporate 1-inch aluminum dome tweeters with black anodized processing and CCAW voice coils for extended frequency response up to 45 kHz. The system represents Yamaha's contemporary approach to affordable home theater audio with established acoustic technologies.

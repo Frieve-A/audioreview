@@ -5,6 +5,7 @@ target_name: "SMSL DP5-SE"
 company_id: smsl
 lang: en
 ref: smsl-dp5-se
+audiodb_uid: adb-c75c529a735f
 date: 2025-08-28
 rating: [3.4, 0.7, 0.6, 1.0, 0.5, 0.6]
 price: 379
@@ -12,7 +13,6 @@ summary: "Network music streamer with ESS ES9039Q2M DAC, balanced outputs, I²S/
 tags: [Network-streamer, DAC, Digital-music-player, ESS-DAC]
 permalink: /products/en/smsl-dp5-se/
 ---
-
 ## Overview
 
 The SMSL DP5-SE is a network music player/DAC released in 2024 using ESS’s ES9039Q2M. It offers Wi-Fi/Ethernet streaming, local playback (microSD/USB/NAS), Bluetooth in/out, and wide connectivity: RCA/XLR analog outs, AES/EBU, optical/coaxial, USB audio out, I²S, plus a 6.35 mm headphone jack. USB audio out supports up to 32-bit/768 kHz PCM and DSD512; built-in playback supports up to 32-bit/384 kHz and DSD256 (manufacturer/retailer). [3][5]

@@ -5,6 +5,7 @@ target_name: "FiiO JA11"
 company_id: fiio
 lang: en
 ref: fiio-ja11
+audiodb_uid: adb-4e8589741824
 date: 2025-12-02
 rating: [3.9, 0.7, 0.7, 1.0, 0.7, 0.8]
 price: 15

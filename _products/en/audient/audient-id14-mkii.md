@@ -5,6 +5,7 @@ target_name: "Audient iD14 MkII"
 company_id: audient
 lang: en
 ref: audient-id14-mkii
+audiodb_uid: adb-67d31ae2a69d
 date: 2025-08-12
 rating: [4.0, 0.8, 0.7, 1.0, 0.7, 0.8]
 price: 399.99

@@ -5,6 +5,7 @@ target_name: "KZ Libra X"
 company_id: kz
 lang: ja
 ref: kz-libra-x
+audiodb_uid: adb-4094503c20a0
 date: 2025-08-01
 rating: [2.5, 0.5, 0.4, 0.5, 0.6, 0.5]
 price: 2300

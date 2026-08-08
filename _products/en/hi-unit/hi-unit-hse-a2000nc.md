@@ -5,6 +5,7 @@ target_name: "Hi-Unit HSE-A2000NC"
 company_id: hi-unit
 lang: en
 ref: hi-unit-hse-a2000nc
+audiodb_uid: adb-ceeb7f7c508e
 date: 2026-01-09
 rating: [3.3, 0.5, 0.6, 1.0, 0.6, 0.6]
 price: 25

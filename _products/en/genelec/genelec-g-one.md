@@ -5,6 +5,7 @@ target_name: "Genelec G-One"
 company_id: genelec
 lang: en
 ref: genelec-g-one
+audiodb_uid: adb-c2330f65cb7f
 date: 2025-08-16
 rating: [3.9, 0.6, 0.7, 1.0, 0.8, 0.8]
 price: 395
@@ -12,7 +13,6 @@ summary: "Ultra-compact active monitor with proven pro-grade design. Excellent m
 tags: [Active, Monitor, Bookshelf, Desktop, Nearfield]
 permalink: /products/en/genelec-g-one/
 ---
-
 ## Overview
 
 The Genelec G-One is the smallest home-audio model derived from Genelec’s pro 8000 series. It shares the **same enclosure concept (die-cast aluminium MDE), driver sizes (76 mm woofer / 19 mm metal-dome), amplifier ratings (25 W + 25 W Class-D), published frequency accuracy (±2.5 dB, 74 Hz–20 kHz)** and **short-term max SPL (96 dB)** with the pro **8010A**, indicating **effectively equivalent acoustics**. The primary user-facing difference is **RCA input on G-One vs XLR on 8010A**[1][2].

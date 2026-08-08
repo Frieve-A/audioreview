@@ -5,6 +5,7 @@ target_name: "MOTU M4"
 company_id: motu
 lang: ja
 ref: motu-m4
+audiodb_uid: adb-896dac0d522c
 date: 2025-08-11
 rating: [4.1, 0.8, 0.8, 1.0, 0.6, 0.9]
 price: 40493
@@ -12,7 +13,6 @@ summary: "ESS Sabre32 Ultra DAC、包括的LCDメータリング、超低レイ�
 tags: [オーディオインターフェース, USB-C, ESS Sabre, レコーディング, MIDI]
 permalink: /products/ja/motu-m4/
 ---
-
 ## 概要
 
 MOTU M4は、エントリーレベルのプロフェッショナル市場向けに位置付けられた4入力4出力のUSB-Cオーディオインターフェースです。MOTUのMシリーズの一部として発売され、ESS Sabre32 Ultra DAC技術を採用し、メーカー測定でメイン出力のダイナミックレンジ120 dB、24ビット/192 kHzを実現しています[2]。全入出力のレベルを可視化するフルカラーLCD、96 kHz/32サンプル時に2.5 msのラウンドトリップレイテンシー（メーカー測定）[2]、マイク入力EIN -129 dBu（メーカー）[2] を備え、300ドル未満の価格帯で測定重視の解を提示します。

@@ -5,6 +5,7 @@ target_name: "Oilsky M501 Pro"
 company_id: oilsky
 lang: en
 ref: oilsky-m501-pro
+audiodb_uid: adb-d53561017dc1
 date: 2025-11-30
 rating: [2.2, 0.5, 0.3, 1.0, 0.2, 0.2]
 price: 67.49

@@ -5,6 +5,7 @@ target_name: "KEF Q350"
 company_id: kef
 lang: en
 ref: kef-q350
+audiodb_uid: adb-7770d48b93b5
 date: 2025-07-18
 rating: [3.8, 0.7, 0.7, 0.8, 0.8, 0.8]
 price: 450

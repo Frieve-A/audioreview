@@ -5,6 +5,7 @@ target_name: "64 Audio Nio"
 company_id: 64-audio
 lang: ja
 ref: 64-audio-nio
+audiodb_uid: adb-b0be4829ebe2
 date: 2025-08-25
 rating: [2.8, 0.5, 0.8, 0.1, 0.7, 0.7]
 price: 250195

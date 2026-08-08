@@ -5,6 +5,7 @@ target_name: "Audio-Technica ATH-CK2000Ti"
 company_id: audio-technica
 lang: ja
 ref: audio-technica-ath-ck2000ti
+audiodb_uid: adb-1e8ee6f03e85
 date: 2026-06-01
 rating: [1.7, 0.4, 0.6, 0.1, 0.5, 0.1]
 price: 80000

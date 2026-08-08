@@ -5,6 +5,7 @@ target_name: "Fyne Audio F303"
 company_id: fyne-audio
 lang: ja
 ref: fyne-audio-f303
+audiodb_uid: adb-779d0bc62e98
 date: 2025-08-24
 rating: [3.5, 0.5, 0.7, 1.0, 0.5, 0.8]
 price: 127875

@@ -5,6 +5,7 @@ target_name: "Classic Pro CP4HM II"
 company_id: classic-pro
 lang: ja
 ref: classic-pro-cp4hm-ii
+audiodb_uid: adb-82a52ccacb05
 date: 2025-12-02
 rating: [2.6, 0.5, 0.2, 0.8, 0.5, 0.6]
 price: 3280
@@ -12,7 +13,6 @@ summary: "予算重視の価格帯で基本機能を提供するコンパクト4
 tags: [アンプ, ヘッドホンアンプ, Classic Pro, サウンドハウス, バジェットオーディオ]
 permalink: /products/ja/classic-pro-cp4hm-ii/
 ---
-
 ## 概要
 
 Classic Pro CP4HM IIは、サウンドハウスがClassic Proブランドで製造するコンパクト4チャンネルステレオヘッドホンアンプです。寸法は10.4 cm × 5.9 cm × 4.6 cm、重量約197gで、単一のステレオ入力から4つのヘッドホン出力に個別ボリューム制御を提供します。アンプは32Ω負荷時に50mWの出力電力を供給し、標準6.3mm接続を通じて最大+15 dBuまでの入力を受け入れます。Classic Proは本製品を、プロフェッショナルおよびセミプロフェッショナルオーディオ用途での基本的なヘッドホン分配ニーズに対応する予算重視のソリューションとして位置づけています。

@@ -5,6 +5,7 @@ target_name: "IK Multimedia iLoud Precision 5"
 company_id: ik-multimedia
 lang: ja
 ref: ik-multimedia-iloud-precision-5
+audiodb_uid: adb-3d3fc44fd9cf
 date: 2025-08-03
 rating: [4.2, 0.8, 0.8, 1.0, 0.7, 0.9]
 price: 176000
@@ -12,7 +13,6 @@ summary: "先進的なDSP制御と自動音場補正機能を統合し、同等�
 tags: [スタジオモニター, アクティブスピーカー, 室内補正, DSP, リニアフェーズ, プロオーディオ]
 permalink: /products/ja/ik-multimedia-iloud-precision-5/
 ---
-
 ## 概要
 
 IK Multimedia iLoud Precisionは、イタリアのプロオーディオメーカーが開発したアクティブスタジオモニターシリーズです。1996年設立のIK Multimediaは、AmpliTubeやT-RackSなどのソフトウェアで知られますが、本機ではそのDSP技術をハードウェアに投入しています。シリーズは5インチ、6.5インチ、MTMの3モデルを展開。96kHzで動作する内蔵DSPがリニアフェーズ特性を実現し、付属マイクによる独自のARC技術が室内音響を自動で補正します。イタリアでの手作業による製造と個体ごとの校正により、±0.5dBという厳密な個体間一致性を保証しています。

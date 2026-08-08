@@ -5,6 +5,7 @@ target_name: "Onix Alpha Xi1"
 company_id: onix
 lang: ja
 ref: onix-alpha-xi1
+audiodb_uid: adb-57798e944a2d
 date: 2025-07-30
 rating: [3.6, 0.8, 0.7, 0.7, 0.6, 0.8]
 price: 16350
@@ -12,7 +13,6 @@ summary: "デュアルCS43198 DACチップを搭載したコンパクトなポ�
 tags: [ポータブルDAC, ヘッドホンアンプ, CS43198, バランス出力, Onix]
 permalink: /products/ja/onix-alpha-xi1/
 ---
-
 ## 概要
 
 Onix Alpha Xi1は、英国のOnixとShanlingのコラボレーションにより開発されたポータブルUSB DAC/ヘッドホンアンプです。デュアルCirrus Logic CS43198 DACチップとデュアルSGM8262ヘッドホンアンプを搭載し、完全バランス構成を採用しています。64×32×14mmのコンパクトサイズに38gの軽量ボディながら、32ビット/768kHzのPCMやDSD256に対応し、4.4mmバランス出力で500mW@32Ω、3.5mm出力で180mW@32Ωの出力を実現します。109米ドルという価格帯で高品質な音響性能を提供する製品として位置づけられています。

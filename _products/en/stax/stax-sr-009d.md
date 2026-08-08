@@ -5,6 +5,7 @@ target_name: "STAX SR-009D"
 company_id: stax
 lang: en
 ref: stax-sr-009d
+audiodb_uid: adb-7c3e1d4eb5e3
 date: 2026-05-10
 rating: [1.6, 0.5, 0.5, 0.0, 0.4, 0.2]
 price: 2890
@@ -12,7 +13,6 @@ summary: "The SR-009D revives the SR-009 lineage at 2,890 USD using 2011-generat
 tags: [Headphones, Electrostatic, Open-back, STAX]
 permalink: /products/en/stax-sr-009d/
 ---
-
 ## Overview
 
 The STAX SR-009D is an open-back electrostatic earspeaker released in December 2025, priced at 2,890 USD. STAX, founded in 1938 and credited with producing the world's first consumer electrostatic headphone, positions the SR-009D as a more accessible re-entry into its 009-series lineage. The model retains the original MLER (Multi-Layer Electrode) electrode technology alongside targeted usability updates: a detachable cable, 10-step click headband adjustment, injection-molded housing, and genuine sheepskin leather earpads. Like all STAX earspeakers, a dedicated electrostatic amplifier with 580V DC Pro Bias is required for operation and is not included [1].

@@ -5,6 +5,7 @@ target_name: "Grado SR-225x"
 company_id: grado
 lang: ja
 ref: grado-sr-225x
+audiodb_uid: adb-bea3effdedda
 date: 2025-08-04
 rating: [2.3, 0.4, 0.5, 0.4, 0.6, 0.4]
 price: 33000
@@ -12,7 +13,6 @@ summary: "伝統的な手作り製法のオープンバック型ヘッドホン�
 tags: [ヘッドホン, オープンバック, Grado, 中価格帯]
 permalink: /products/ja/grado-sr-225x/
 ---
-
 ## 概要
 
 Grado SR-225xは、ニューヨーク・ブルックリンで手作りされるPrestige Xシリーズのミドルレンジモデルです。44mmの第4世代X Driversを搭載し、225USD（約33,000円）で販売されています。同社は1953年から続く老舗メーカーとして、独特な音響特性と手工芸的製造で知られています。オープンバック設計により空間的な音場を実現し、38オームの低インピーダンスでポータブル機器駆動が可能です。

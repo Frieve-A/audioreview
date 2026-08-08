@@ -5,6 +5,7 @@ target_name: "Bowers & Wilkins Px8 S2"
 company_id: bowers-wilkins
 lang: ja
 ref: bowers-wilkins-px8-s2
+audiodb_uid: adb-d9b5b638233e
 date: 2025-11-21
 rating: [2.7, 0.5, 0.8, 0.3, 0.5, 0.6]
 price: 131670

@@ -5,6 +5,7 @@ target_name: "Austrian Audio Hi-X65"
 company_id: austrian-audio
 lang: ja
 ref: austrian-audio-hi-x65
+audiodb_uid: adb-fe913a3e0b77
 date: 2025-08-15
 rating: [3.7, 0.6, 0.7, 0.9, 0.7, 0.8]
 price: 55000
@@ -12,7 +13,6 @@ summary: "測定に裏付けられた堅実なオープンバック型。中立�
 tags: [ヘッドホン, オープンバック, スタジオ, プロフェッショナル, ダイナミック]
 permalink: /products/ja/austrian-audio-hi-x65/
 ---
-
 ## 概要
 
 Austrian Audio Hi-X65は、ミキシング/マスタリング用途を想定したオープンバック型プロフェッショナルヘッドホンです。44 mmダイナミックドライバーとリングマグネット機構、25 Ωの実用的な設計、金属ヒンジ/ヘッドバンドの堅牢構造を備えます。

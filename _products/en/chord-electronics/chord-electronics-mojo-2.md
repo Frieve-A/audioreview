@@ -5,6 +5,7 @@ target_name: "Chord Electronics Mojo 2"
 company_id: chord-electronics
 lang: en
 ref: chord-electronics-mojo-2
+audiodb_uid: adb-e8851635d9aa
 date: 2025-09-01
 rating: [3.7, 0.8, 0.9, 0.5, 0.6, 0.9]
 price: 650
@@ -12,7 +13,6 @@ summary: "Advanced FPGA-based portable DAC with bit-perfect UHD DSP and class-le
 tags: [Portable-DAC, Headphone-Amplifier, FPGA, High-Resolution-Audio, British-Audio]
 permalink: /products/en/chord-electronics-mojo-2/
 ---
-
 ## Overview
 
 The Chord Electronics Mojo 2 launched in **2022** as the successor to the original Mojo. It keeps Chord’s proprietary FPGA DAC with a **40,960-tap WTA filter**, adds a **bit-perfect “UHD DSP”** tone system with crossfeed, and introduces an improved power system including **Intelligent Desktop Mode** for battery-friendly 24/7 use. [2][3][8]

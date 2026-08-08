@@ -5,6 +5,7 @@ target_name: "Topping EX5"
 company_id: topping
 lang: en
 ref: topping-ex5
+audiodb_uid: adb-1d4bb6b2b8fc
 date: 2025-08-15
 rating: [3.6, 0.8, 0.6, 0.6, 0.8, 0.8]
 price: 350

@@ -5,6 +5,7 @@ target_name: "Kinera Celest IgniteX Beast"
 company_id: kinera
 lang: ja
 ref: kinera-celest-ignitex-beast
+audiodb_uid: adb-ba2ec77829b1
 date: 2025-08-19
 rating: [2.4, 0.5, 0.6, 0.5, 0.5, 0.3]
 price: 7500

@@ -5,6 +5,7 @@ target_name: "Fostex CW200D"
 company_id: fostex
 lang: en
 ref: fostex-cw200d
+audiodb_uid: adb-329a7ab75f22
 date: 2025-08-23
 rating: [2.3, 0.5, 0.3, 0.5, 0.5, 0.5]
 price: 732
@@ -12,7 +13,6 @@ summary: "Discontinued sealed 8-inch subwoofer with 150W amplifier and modest ma
 tags: [Subwoofer, Active, Sealed, PWM, Music]
 permalink: /products/en/fostex-cw200d/
 ---
-
 ## Overview
 
 The Fostex CW200D is a sealed, music-focused active subwoofer using a 20 cm (8-inch) BKP/Kevlar cone driven by a 150 W (JEITA, 4 Ω) PWM amp in a compact 13.1 kg enclosure. It provides line-level inputs plus a balanced high-level (BTL-safe) input and adjustable low-pass/phase. The model is **discontinued** and current availability is limited to remaining inventory through marketplace sellers [1].

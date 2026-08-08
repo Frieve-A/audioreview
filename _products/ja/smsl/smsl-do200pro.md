@@ -5,6 +5,7 @@ target_name: "SMSL DO200Pro"
 company_id: smsl
 lang: ja
 ref: smsl-do200pro
+audiodb_uid: adb-7e75780ff979
 date: 2025-08-05
 rating: [3.6, 0.9, 0.9, 0.5, 0.5, 0.8]
 price: 59850
@@ -12,7 +13,6 @@ summary: "12基のCS43131 DACチップを搭載したSMSL DO200Proは、優れ�
 tags: [DAC, プリアンプ, 据え置き, バランス出力, Bluetooth, HDMI ARC]
 permalink: /products/ja/smsl-do200pro/
 ---
-
 ## 概要
 
 SMSL DO200Proは、中国のオーディオメーカーSMSLが開発したデスクトップDAC兼プリアンプです。本機の最大の特徴は、12基のCirrus Logic CS43131 DACチップを搭載した独自のマルチDAC構成にあります。XMOS XU-316 USBインターフェースと5基のOPA1612オペアンプを組み合わせ、XLR出力で134dB、RCA出力で128dBのダイナミックレンジを実現しています。USB-C、光デジタル、同軸デジタル、HDMI ARC、Bluetooth 5.1と多彩な入力を装備し、プロ仕様の5.2Vrmsバランス出力とコンシューマー向け2.5VrmsのRCA出力を備える汎用性の高い設計となっています。399USDの価格帯でプリアンプ機能付きDAC市場における注目すべき製品です。

@@ -5,6 +5,7 @@ target_name: "Audio-Technica ATH-AVC500"
 company_id: audio-technica
 lang: en
 ref: audio-technica-ath-avc500
+audiodb_uid: adb-40ca380f5db7
 date: 2025-09-28
 rating: [2.7, 0.5, 0.5, 0.5, 0.6, 0.6]
 price: 117
@@ -12,7 +13,6 @@ summary: "Affordable closed-back headphones with 53mm drivers and anti-vibration
 tags: [Headphones, Closed-back, Dynamic, Wired, Home Audio]
 permalink: /products/en/audio-technica-ath-avc500/
 ---
-
 ## Overview
 
 The Audio-Technica ATH-AVC500 represents the company's approach to affordable hi-fi headphones for home audio systems. Released as part of Audio-Technica's consumer headphone lineup, these closed-back dynamic headphones feature 53mm CCAW (Copper-Clad Aluminum Wire) bobbin-wound voice coil drivers housed in anti-vibration aluminum enclosures. The design emphasizes traditional headphone engineering with bass-reflex ports for enhanced low-frequency response, self-adjusting headband mechanisms, and foldable construction for portability. Audio-Technica has positioned this model as an accessible entry point into their hi-fi headphone range, targeting users seeking quality audio reproduction for home listening without premium pricing.

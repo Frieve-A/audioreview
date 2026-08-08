@@ -5,6 +5,7 @@ target_name: "Topping PA7 Plus"
 company_id: topping
 lang: en
 ref: topping-pa7-plus
+audiodb_uid: adb-bd79af6e4ce2
 date: 2025-09-02
 rating: [3.6, 0.8, 0.6, 0.6, 0.7, 0.9]
 price: 549

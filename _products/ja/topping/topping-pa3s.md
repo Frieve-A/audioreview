@@ -5,6 +5,7 @@ target_name: "Topping PA3s"
 company_id: topping
 lang: ja
 ref: topping-pa3s
+audiodb_uid: adb-2c9d8ad5f16e
 date: 2025-08-12
 rating: [3.9, 0.8, 0.7, 1.0, 0.6, 0.8]
 price: 22350

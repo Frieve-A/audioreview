@@ -5,6 +5,7 @@ target_name: "Sony NW-S313"
 company_id: sony
 lang: ja
 ref: sony-nw-s313
+audiodb_uid: adb-61596b2127f0
 date: 2025-10-14
 rating: [2.3, 0.5, 0.4, 0.2, 0.8, 0.4]
 price: 14999

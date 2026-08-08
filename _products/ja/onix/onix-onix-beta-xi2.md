@@ -5,6 +5,7 @@ target_name: "ONIX ONIX Beta XI2"
 company_id: onix
 lang: ja
 ref: onix-onix-beta-xi2
+audiodb_uid: adb-f11260963a6f
 date: 2025-12-30
 rating: [1.6, 0.6, 0.4, 0.1, 0.3, 0.2]
 price: 55000
@@ -12,7 +13,6 @@ summary: "デュアルCS43198 DAC搭載でチューブ/トランジスタ出力�
 tags: [DAC, アンプ, ポータブル, USB, 真空管, CS43198, バランス, ハイレゾ]
 permalink: /products/ja/onix-onix-beta-xi2/
 ---
-
 ## 概要
 
 ONIX Beta XI2は、デュアルCircus Logic CS43198 DACチップとチューブ・トランジスタ出力段切り替え機能を搭載したポータブルUSB DAC/アンプです。ONIXブランドでShanlingが製造する本機は349米ドル（約55000円）で、3.5mmシングルエンド出力と4.4mmバランス出力を装備し、デュアルJAN6418ミニチュア管、TI OPA1662オペアンプ、BUF634Aバッファを搭載しています。32bit/768kHz PCMおよびDSD512まで対応し、0.87インチOLEDディスプレイ、5つのデジタルフィルタオプション、ゲイン制御設定を備えています。

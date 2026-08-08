@@ -5,6 +5,7 @@ target_name: "EarFun Air Pro 4i"
 company_id: earfun
 lang: en
 ref: earfun-air-pro-4i
+audiodb_uid: adb-430ed21aed5c
 date: 2025-10-16
 rating: [3.1, 0.5, 0.6, 0.9, 0.5, 0.6]
 price: 53
@@ -12,7 +13,6 @@ summary: "Budget-oriented true wireless earbuds with claimed 50dB ANC and LDAC s
 tags: [Earphones, True Wireless, ANC, LDAC, Budget]
 permalink: /products/en/earfun-air-pro-4i/
 ---
-
 ## Overview
 
 The EarFun Air Pro 4i (model TW230) represents the company's approach to delivering high-functionality wireless earbuds at accessible pricing, primarily available in Asian markets including Japan. Featuring 11mm titanium-coated composite drivers, claimed 50dB active noise cancellation through QuietSmart 3.0 technology, and LDAC high-resolution codec support, these earbuds target budget-conscious consumers seeking advanced features. With 9.5 hours single-charge battery life (6.5 hours with LDAC), 40 hours total with charging case, IP55 water resistance, and multipoint connectivity, the Air Pro 4i competes within the budget true wireless segment. The product incorporates Qualcomm's QCC3091 chipset with Bluetooth 5.4 connectivity and supports multiple audio codecs including aptX Lossless.

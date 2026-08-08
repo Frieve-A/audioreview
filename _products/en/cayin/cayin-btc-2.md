@@ -5,6 +5,7 @@ target_name: "Cayin BTC-2"
 company_id: cayin
 lang: en
 ref: cayin-btc-2
+audiodb_uid: adb-c595339b7c02
 date: 2025-12-29
 rating: [3.0, 0.8, 0.5, 0.8, 0.5, 0.4]
 price: 139

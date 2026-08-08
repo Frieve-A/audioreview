@@ -5,6 +5,7 @@ target_name: "Sonus faber Lumina II Amator"
 company_id: sonus-faber
 lang: en
 ref: sonus-faber-lumina-ii-amator
+audiodb_uid: adb-388015198cf1
 date: 2025-07-08
 rating: [1.8, 0.4, 0.4, 0.3, 0.5, 0.2]
 price: 1888

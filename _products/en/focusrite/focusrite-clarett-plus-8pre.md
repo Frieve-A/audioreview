@@ -5,6 +5,7 @@ target_name: "Focusrite Clarett+ 8Pre"
 company_id: focusrite
 lang: en
 ref: focusrite-clarett-plus-8pre
+audiodb_uid: adb-9640970e08c1
 date: 2025-09-17
 rating: [4.2, 0.9, 0.8, 1.0, 0.7, 0.8]
 price: 999.99

@@ -5,6 +5,7 @@ target_name: "Behringer UMC202HD"
 company_id: behringer
 lang: ja
 ref: behringer-umc202hd
+audiodb_uid: adb-84e91b0acbc4
 date: 2025-09-01
 rating: [2.7, 0.3, 0.4, 1.0, 0.5, 0.5]
 price: 11800
@@ -12,7 +13,6 @@ summary: "Midas設計プリアンプと24bit/192 kHz対応を備えた超低価�
 tags: [オーディオインターフェース, USB, レコーディング, エントリー, ホームスタジオ]
 permalink: /products/ja/behringer-umc202hd/
 ---
-
 ## 概要
 
 Behringer UMC202HDは、2系統のXLR/TRSコンボ入力（Midas設計プリアンプ、ファンタム対応）と24bit/192 kHzコンバーターを備えたUSB 2.0バスパワーの2入出力インターフェースです。シンプルな直結モニター機能と付属ソフトで、歌や弾き語り、配信などの入門用途を低コストでカバーします。 [1]

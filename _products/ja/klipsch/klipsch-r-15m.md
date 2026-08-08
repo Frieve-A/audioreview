@@ -5,6 +5,7 @@ target_name: "Klipsch R-15M"
 company_id: klipsch
 lang: ja
 ref: klipsch-r-15m
+audiodb_uid: adb-551e8b14d4ee
 date: 2025-08-28
 rating: [3.3, 0.6, 0.4, 1.0, 0.7, 0.6]
 price: 29800
@@ -12,7 +13,6 @@ summary: "高感度ホーンと制御された指向性を備える小型パッ�
 tags: [ブックシェルフスピーカー, ホーンロード, レファレンスシリーズ, 予算オーディオ]
 permalink: /products/ja/klipsch-r-15m/
 ---
-
 ## 概要
 
 R-15MはKlipsch Referenceシリーズの小型パッシブ書棚型で、1インチのアルミ圧縮型ツイーターを90°×90°のTractrixホーンに載せ、5.25インチの銅色IMGウーファーとMDFエンクロージャを組み合わせた構成です。メーカー公称は62 Hz–24 kHz（±3 dB）、感度94 dB（2.83 V/1 m）、クロス1.8 kHz。2014年発売、当初MSRPは249 USDでした。高感度・小型・容易な駆動を求めるユーザー向けの設計です。 [2][3]

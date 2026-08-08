@@ -5,6 +5,7 @@ target_name: "Apple AirPods 4"
 company_id: apple
 lang: en
 ref: apple-airpods-4
+audiodb_uid: adb-fad5df470ec9
 date: 2025-07-12
 rating: [3.9, 0.6, 0.7, 1.0, 0.8, 0.8]
 price: 169

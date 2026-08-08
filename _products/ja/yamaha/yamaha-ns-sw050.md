@@ -5,6 +5,7 @@ target_name: "Yamaha NS-SW050"
 company_id: yamaha
 lang: ja
 ref: yamaha-ns-sw050
+audiodb_uid: adb-6e3bc79697f2
 date: 2025-08-14
 rating: [2.4, 0.5, 0.4, 0.6, 0.5, 0.4]
 price: 30000

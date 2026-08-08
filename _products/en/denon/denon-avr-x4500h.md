@@ -5,6 +5,7 @@ target_name: "Denon AVR-X4500H"
 company_id: denon
 lang: en
 ref: denon-avr-x4500h
+audiodb_uid: adb-2c6637bcda2d
 date: 2025-07-27
 rating: [3.7, 0.8, 0.7, 1.0, 0.4, 0.8]
 price: 600

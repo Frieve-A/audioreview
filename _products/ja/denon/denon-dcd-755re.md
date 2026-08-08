@@ -5,6 +5,7 @@ target_name: "Denon DCD-755RE"
 company_id: denon
 lang: ja
 ref: denon-dcd-755re
+audiodb_uid: adb-59f90a6d6463
 date: 2025-07-21
 rating: [2.2, 0.3, 0.4, 0.8, 0.5, 0.2]
 price: 26000

@@ -5,6 +5,7 @@ target_name: "Marantz Model 40n"
 company_id: marantz
 lang: en
 ref: marantz-model-40n
+audiodb_uid: adb-31fe19ba01b0
 date: 2025-08-04
 rating: [2.9, 0.5, 0.7, 0.3, 0.8, 0.6]
 price: 2499

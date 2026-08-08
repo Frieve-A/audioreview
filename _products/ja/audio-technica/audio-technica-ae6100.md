@@ -5,6 +5,7 @@ target_name: "Audio-Technica AE6100"
 company_id: audio-technica
 lang: ja
 ref: audio-technica-ae6100
+audiodb_uid: adb-60ee46526754
 date: 2025-09-11
 rating: [3.6, 0.5, 0.6, 1.0, 0.7, 0.8]
 price: 26700

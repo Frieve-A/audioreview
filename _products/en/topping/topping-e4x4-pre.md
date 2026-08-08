@@ -5,6 +5,7 @@ target_name: "Topping E4x4 Pre"
 company_id: topping
 lang: en
 ref: topping-e4x4-pre
+audiodb_uid: adb-f7a4c358384c
 date: 2025-10-06
 rating: [2.7, 0.8, 0.5, 0.8, 0.3, 0.3]
 price: 266

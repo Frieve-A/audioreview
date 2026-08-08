@@ -5,6 +5,7 @@ target_name: "TEAC TN-280BT"
 company_id: teac
 lang: en
 ref: teac-tn-280bt
+audiodb_uid: adb-af73c1725f9a
 date: 2025-08-25
 rating: [2.4, 0.2, 0.4, 1.0, 0.5, 0.3]
 price: 349

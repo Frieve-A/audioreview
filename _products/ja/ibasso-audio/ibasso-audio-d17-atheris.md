@@ -5,6 +5,7 @@ target_name: "iBasso Audio D17 Atheris"
 company_id: ibasso-audio
 lang: ja
 ref: ibasso-audio-d17-atheris
+audiodb_uid: adb-7107c39401f3
 date: 2025-12-23
 rating: [2.1, 0.6, 0.6, 0.1, 0.3, 0.5]
 price: 299000
@@ -12,7 +13,6 @@ summary: "デュアルディスクリートR2Rと1ビットDAC構成を特徴と
 tags: [ポータブルDAC, ヘッドホンアンプ, R2R DAC, 真空管, ハイレゾオーディオ]
 permalink: /products/ja/ibasso-audio-d17-atheris/
 ---
-
 ## 概要
 
 iBasso Audio D17 Atherisは、R2Rと1ビット実装を組み合わせたデュアルディスクリートDAC構成を特徴とするプレミアムポータブルDAC/ヘッドホンアンプです。2006年設立のiBassoは、測定主導のポータブルオーディオ機器開発で評価を築いています。D17 Atherisは、284個の高精度抵抗器（0.01%許容範囲）を使用した同社独自のFPGA-Master 3.0技術、デュアルNuTube 6P1真空管アンプ機能、PCM 768kHzおよびDSD512までの包括的なハイレゾフォーマットサポートを搭載しています。このフラッグシップポータブルユニットは、ポータブル形式でのプレミアムディスクリートDAC実装を求めるオーディオファイルをターゲットとしています。

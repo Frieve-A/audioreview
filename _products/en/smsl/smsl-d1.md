@@ -5,6 +5,7 @@ target_name: "SMSL D1"
 company_id: smsl
 lang: en
 ref: smsl-d1
+audiodb_uid: adb-11fdc08d155c
 date: 2025-08-11
 rating: [3.3, 0.5, 0.5, 1.0, 0.5, 0.8]
 price: 80

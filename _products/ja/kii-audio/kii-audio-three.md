@@ -5,6 +5,7 @@ target_name: "Kii Audio Three"
 company_id: kii-audio
 lang: ja
 ref: kii-audio-three
+audiodb_uid: adb-5929668a7749
 date: 2025-09-23
 rating: [3.9, 0.7, 0.8, 1.0, 0.7, 0.7]
 price: 1290000

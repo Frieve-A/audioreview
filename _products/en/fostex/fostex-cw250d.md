@@ -5,6 +5,7 @@ target_name: "Fostex CW250D"
 company_id: fostex
 lang: en
 ref: fostex-cw250d
+audiodb_uid: adb-f959ddd99e8b
 date: 2025-08-23
 rating: [2.5, 0.5, 0.7, 0.5, 0.4, 0.4]
 price: 680
@@ -12,7 +13,6 @@ summary: "Fostex’s discontinued CW250D is a 300W sealed active subwoofer with 
 tags: [Subwoofer, Active, Sealed, MFB, Discontinued]
 permalink: /products/en/fostex-cw250d/
 ---
-
 ## Overview
 
 The CW250D is a sealed active subwoofer with a 25 cm (10-inch) driver and a 300 W (JEITA/4 Ω) amplifier, positioned by Fostex as a “music-dedicated add-on subwoofer.” Manufacturer documentation cites a maximum output of 106 dB at 60 Hz (all-space), low-pass adjustment from 40–140 Hz, phase switch, and cabinet/baffle construction aimed at resonance control; production has ended. [2][3][4][5]

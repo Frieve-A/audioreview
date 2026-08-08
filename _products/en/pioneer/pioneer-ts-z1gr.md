@@ -5,6 +5,7 @@ target_name: "Pioneer TS-Z1GR"
 company_id: pioneer
 lang: en
 ref: pioneer-ts-z1gr
+audiodb_uid: adb-8e8762559bf8
 date: 2025-09-08
 rating: [2.8, 0.5, 0.8, 0.1, 0.6, 0.8]
 price: 5133
@@ -12,7 +13,6 @@ summary: "High-end 3-way car audio component system featuring TAD technology and
 tags: [Car Audio, 3-Way, Beryllium, Component Speakers, TAD Technology]
 permalink: /products/en/pioneer-ts-z1gr/
 ---
-
 ## Overview
 
 The Pioneer TS-Z1GR represents Pioneer's flagship car audio speaker system, incorporating technology from their professional TAD division. Priced at 5,133 USD, this 3-way separate speaker system features a 170mm woofer, 73mm midrange, and 26mm beryllium tweeter integrated into a proprietary CST (Coherent Source Transducer) driver. The system incorporates TAD's professional audio expertise with claims of frequency response from 29Hz to 90kHz, positioning it as a premium offering in the automotive audio market.

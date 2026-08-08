@@ -5,6 +5,7 @@ target_name: "iBasso Audio DC07PRO"
 company_id: ibasso
 lang: en
 ref: ibasso-dc07pro
+audiodb_uid: adb-7d46de6256e1
 date: 2025-07-08
 rating: [4.2, 0.9, 0.8, 0.7, 0.9, 0.9]
 price: 199
@@ -12,7 +13,6 @@ summary: "Portable DAC/amp with quad CS43131 chips. Highest-level measurement pe
 tags: [Portable DAC, CS43131, FPGA, USB-C, High Output]
 permalink: /products/en/ibasso-dc07pro/
 ---
-
 ## Overview
 
 The iBasso Audio DC07PRO is a portable DAC/amp combining four Cirrus Logic CS43131 DAC chips with iBasso's proprietary FPGA technology. Supporting PCM 768kHz/32bit and DSD512, it features a 0.96-inch OLED display, ALPS encoder, and three-stage gain adjustment. Boasting measured specifications of 134dB SNR and THD+N 0.000098%, it positions itself as a high-performance device in the portable audio market at USD 199.

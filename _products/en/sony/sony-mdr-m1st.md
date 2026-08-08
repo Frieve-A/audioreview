@@ -5,6 +5,7 @@ target_name: "Sony MDR-M1ST"
 company_id: sony
 lang: en
 ref: sony-mdr-m1st
+audiodb_uid: adb-5fa1a6c10a4e
 date: 2025-09-13
 rating: [3.2, 0.5, 0.6, 1.0, 0.4, 0.7]
 price: 252

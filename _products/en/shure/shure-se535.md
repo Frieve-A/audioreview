@@ -5,6 +5,7 @@ target_name: "Shure SE535"
 company_id: shure
 lang: en
 ref: shure-se535
+audiodb_uid: adb-e526c94c56a1
 date: 2025-08-04
 rating: [2.1, 0.3, 0.4, 0.3, 0.8, 0.3]
 price: 449

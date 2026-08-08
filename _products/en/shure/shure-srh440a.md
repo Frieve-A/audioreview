@@ -5,6 +5,7 @@ target_name: "Shure SRH440A"
 company_id: shure
 lang: en
 ref: shure-srh440a
+audiodb_uid: adb-5e8574482c14
 date: 2025-08-15
 rating: [3.5, 0.6, 0.4, 1.0, 0.7, 0.8]
 price: 109
@@ -12,7 +13,6 @@ summary: "Professional studio headphones updated in 2022 with detachable locking
 tags: [Headphones, Studio, Monitoring, Closed-back, Professional]
 permalink: /products/en/shure-srh440a/
 ---
-
 ## Overview
 
 The SRH440A is Shure’s 2022 refresh of its entry studio monitor headphone. It’s a closed-back, circumaural model with 40 mm dynamic neodymium drivers, a detachable 3 m locking (2.5 mm bayonet) straight cable, and a fold-flat mechanism. Shure positions it for podcasting, home recording, and editing/mixing, with a neutral, uncolored tuning focus. [2][3]

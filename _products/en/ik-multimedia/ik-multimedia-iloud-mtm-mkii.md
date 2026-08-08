@@ -5,6 +5,7 @@ target_name: "IK Multimedia iLoud MTM MKII"
 company_id: ik-multimedia
 lang: en
 ref: ik-multimedia-iloud-mtm-mkii
+audiodb_uid: adb-9665b782fa61
 date: 2025-07-31
 rating: [3.7, 0.7, 0.7, 0.9, 0.5, 0.9]
 price: 799

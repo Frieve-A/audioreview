@@ -5,6 +5,7 @@ target_name: "Top Wing USB-LAN Bridge"
 company_id: top-wing
 lang: ja
 ref: top-wing-usb-lan-bridge
+audiodb_uid: adb-5f53723c08cb
 date: 2025-07-25
 rating: [2.2, 0.2, 0.6, 0.5, 0.6, 0.3]
 price: 44000
@@ -12,7 +13,6 @@ summary: "USB3.0からSFPポートへの変換を行うオーディオ専用設�
 tags: [USB-SFPコンバーター, ネットワーク機器, オーディオアクセサリ, メディアコンバーター]
 permalink: /products/ja/top-wing-usb-lan-bridge/
 ---
-
 ## 概要
 
 Top Wing USB-LAN Bridge（製品名：OPT USB Bridge）は、USB3.0ポートからSFPポートへの変換を行うオーディオ専用メディアコンバーターです。PCや音楽サーバーにUSB経由でSFPポートを追加し、LANポート付きメディアコンバーターで必要となる信号変換を経ずに、直接的な光アイソレーションを可能にすることを目的としています。MEMSクロック技術の採用やSFPモジュール電源レーンの強化、多層基板設計によりノイズ耐性の向上を図ったと主張しています。本体は120×80×28mmのコンパクトな筐体で重量264g、標準USB3.0ドライバーで動作し、12ヶ月保証付きで44,000円（税込）という価格設定です。しかし、デジタルネットワーク機器における光アイソレーションの音質向上効果については、科学的な根拠が明確ではありません。

@@ -5,6 +5,7 @@ target_name: "Kiwi Ears Ardor"
 company_id: kiwi-ears
 lang: en
 ref: kiwi-ears-ardor
+audiodb_uid: adb-9e0c0defb640
 date: 2025-10-29
 rating: [3.6, 0.4, 0.8, 1.0, 0.5, 0.9]
 price: 99
@@ -12,7 +13,6 @@ summary: "Bluetooth over-ear headphones with coaxial dual drivers, hybrid ANC ac
 tags: [Headphones, Bluetooth, ANC, Wireless, Coaxial Drivers, Kiwi Ears]
 permalink: /products/en/kiwi-ears-ardor/
 ---
-
 ## Overview
 
 The Kiwi Ears Ardor represents a compelling entry in the competitive Bluetooth over-ear headphone market, featuring coaxial dual dynamic drivers (40mm + 10mm) and hybrid active noise cancellation. Launched by the Chinese audio company founded in 2021, this product demonstrates technical sophistication with Bluetooth 5.4 connectivity, USB-C DAC/amplifier support up to 24-bit/96kHz, and remarkable battery performance extending up to 140 hours without ANC. The design follows Harman Over-Ear 2018 target tuning through physical acoustic engineering rather than DSP manipulation, reflecting the company's measurement-focused development philosophy.

@@ -5,6 +5,7 @@ target_name: "nMode X PM7 MKII"
 company_id: nmode
 lang: en
 ref: nmode-x-pm7mkii
+audiodb_uid: adb-1a8cceaadee8
 date: 2025-09-02
 rating: [1.9, 0.5, 0.6, 0.2, 0.4, 0.2]
 price: 1920

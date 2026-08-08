@@ -5,6 +5,7 @@ target_name: "KBEAR TC12pro"
 company_id: kbear
 lang: en
 ref: kbear-tc12pro
+audiodb_uid: adb-29ec4005d476
 date: 2025-12-02
 rating: [3.1, 0.7, 0.5, 0.5, 0.6, 0.8]
 price: 13.14
@@ -12,7 +13,6 @@ summary: "USB Type-C to 3.5mm DAC adapter using ALC5686 chip with 32bit/384kHz s
 tags: [DAC, USB-C, Headphone Amplifier, Portable Audio, Digital Audio]
 permalink: /products/en/kbear-tc12pro/
 ---
-
 ## Overview
 
 The KBEAR TC12pro is a USB Type-C to 3.5mm DAC adapter that employs Realtek's ALC5686 chip to deliver high-resolution digital audio conversion. Supporting 32bit/384kHz audio formats, this compact dongle features an 8-strand silver-plated cable and targets users seeking improved audio quality from mobile devices and computers lacking dedicated headphone outputs. KBEAR, established in 2014 by Shenzhen Lingyin Technology Co., Ltd., positions this product within their affordable high-fidelity audio accessory lineup.

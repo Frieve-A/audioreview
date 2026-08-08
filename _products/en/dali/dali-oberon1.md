@@ -5,6 +5,7 @@ target_name: "DALI Oberon 1"
 company_id: dali
 lang: en
 ref: dali-oberon1
+audiodb_uid: adb-f314a188aca6
 date: 2025-08-07
 rating: [3.1, 0.6, 0.7, 0.5, 0.6, 0.7]
 price: 750

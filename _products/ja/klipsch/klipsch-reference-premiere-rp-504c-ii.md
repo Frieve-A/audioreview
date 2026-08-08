@@ -5,6 +5,7 @@ target_name: "Klipsch Reference Premiere RP-504C II"
 company_id: klipsch
 lang: ja
 ref: klipsch-reference-premiere-rp-504c-ii
+audiodb_uid: adb-624a0123f7ab
 date: 2025-11-18
 rating: [3.7, 0.5, 0.8, 0.5, 0.9, 1.0]
 price: 111750
@@ -12,7 +13,6 @@ summary: "高音域が強調された周波数応答と競争力のある価格�
 tags: [スピーカー, センターチャンネル, ホーン, パッシブ, ホームシアター]
 permalink: /products/ja/klipsch-reference-premiere-rp-504c-ii/
 ---
-
 ## 概要
 
 Klipsch Reference Premiere RP-504C IIは、4基の5.25インチCerametallic ウーファーと、リニアトラベルサスペンション チタニウムダイアフラム ツイーターを搭載した90° × 90°シリコンコンポジットハイブリッド Tractrix ホーンを新設計した、同社の最新センターチャンネルスピーカーです。2022年ホームシアターレビュー編集者賞を受賞したこのスピーカーは、創設者ポール・W・クリプシュが確立した80年にわたるホーン型設計の伝統を継承しています。RP-504C IIは、更新された磁気着脱式グリル、先進的なキャビネットブレーシング、現代のホームシアターアプリケーション向けのオーディオファイルグレードバインディングポストを特徴としています。

@@ -5,6 +5,7 @@ target_name: "Acoustic Revive Power Sensual-MD-K"
 company_id: acoustic-revive
 lang: en
 ref: acoustic-revive-power-sensual-md-k
+audiodb_uid: adb-e466e905090f
 date: 2025-11-03
 rating: [0.9, 0.0, 0.5, 0.0, 0.4, 0.0]
 price: 2498
@@ -12,7 +13,6 @@ summary: "High-end power cable from Acoustic Revive incorporating MD-K unit tech
 tags: [Power Cable, Acoustic Revive, MD-K Unit, PC Triple C]
 permalink: /products/en/acoustic-revive-power-sensual-md-k/
 ---
-
 ## Overview
 
 The Acoustic Revive Power Sensual-MD-K is a high-end power cable manufactured by Acoustic Revive, a Japanese audio accessory company. The cable incorporates the proprietary Degawa-style MD-K unit technology (Patent #31710024) and features PC Triple C 5.6sq extra-thick conductors. The product claims to improve audio performance through negative ion generation, far-infrared emission, and electromagnetic field management. At 2 meters in length with Furutech NCF connectors, this cable represents Acoustic Revive's premium approach to power delivery for audio systems.

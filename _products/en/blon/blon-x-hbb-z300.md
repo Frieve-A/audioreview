@@ -5,6 +5,7 @@ target_name: "BLON x HBB Z300"
 company_id: blon
 lang: en
 ref: blon-x-hbb-z300
+audiodb_uid: adb-7dab956e1ab6
 date: 2026-05-21
 rating: [1.6, 0.4, 0.2, 0.5, 0.3, 0.2]
 price: 35

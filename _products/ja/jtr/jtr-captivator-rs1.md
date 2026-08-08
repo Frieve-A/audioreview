@@ -5,6 +5,7 @@ target_name: "JTR Captivator RS1"
 company_id: jtr
 lang: ja
 ref: jtr-captivator-rs1
+audiodb_uid: adb-2057ce3ef92f
 date: 2025-08-07
 rating: [3.6, 0.8, 0.7, 0.6, 0.7, 0.8]
 price: 554850
@@ -12,7 +13,6 @@ summary: "JTRの密閉型18インチサブウーファー。2400Wアンプと低
 tags: [サブウーファー, 密閉型, JTR, ホームシアター, 18インチ]
 permalink: /products/ja/jtr-captivator-rs1/
 ---
-
 ## 概要
 
 JTR Captivator RS1は、アメリカの音響メーカーJTR Speakersが設計・製造する密閉型サブウーファーです。18インチドライバーと2400W Class-Dアンプを搭載し、同社の最小モデルでありながら多くの他社フラッグシップモデルを上回る出力を実現します。JTRは元々プロ音響機器メーカーとして活動していましたが、近年はホームシアター愛好家向けの超高出力サブウーファーで名声を築いています。バルト海産バーチプライウッド製のエンクロージャーと、低歪率を重視した設計が特徴的で、16Hz-157Hz（±3dB）の周波数特性と室内10Hz以下の低域再生能力を謳います。

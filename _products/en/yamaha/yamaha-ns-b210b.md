@@ -5,6 +5,7 @@ target_name: "Yamaha NS-B210B"
 company_id: yamaha
 lang: en
 ref: yamaha-ns-b210b
+audiodb_uid: adb-e1370b167925
 date: 2025-10-19
 rating: [2.9, 0.5, 0.4, 1.0, 0.6, 0.4]
 price: 75

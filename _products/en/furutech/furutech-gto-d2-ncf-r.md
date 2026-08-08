@@ -5,6 +5,7 @@ target_name: "Furutech GTO-D2-NCF-R"
 company_id: furutech
 lang: en
 ref: furutech-gto-d2-ncf-r
+audiodb_uid: adb-5e1b3f4c240d
 date: 2025-08-31
 rating: [0.7, 0.0, 0.4, 0.0, 0.3, 0.0]
 price: 900
@@ -12,7 +13,6 @@ summary: "High-end power distributor with premium build quality but no measurabl
 tags: [Audio Accessories, Japan, High-end, Premium]
 permalink: /products/en/furutech-gto-d2-ncf-r/
 ---
-
 ## Overview
 
 The Furutech GTO-D2-NCF-R is a premium, **unfiltered** power distributor manufactured by Tokyo-based Furutech Co. Ltd. (est. 1988). It uses two **rhodium-plated, non-magnetic phosphor bronze duplex receptacles** (4 outlets total), incorporates the company's NCF (Nano Crystal² Formula) material, a GC-303 EMI absorber, a CNC-machined aluminum chassis, FI-06 NCF(R) IEC inlet, and 106-D Plus NCF outlet covers. Dimensions are 283.4 × 108.5 × 77 mm; net weight is 2.1 kg [1]. Current market pricing used for this review is **900 USD**, derived from Japanese retail pricing[2].

@@ -5,6 +5,7 @@ target_name: "Yamaha MSP3A"
 company_id: yamaha
 lang: en
 ref: yamaha-msp3a
+audiodb_uid: adb-56385fa3f38a
 date: 2025-10-26
 rating: [3.7, 0.5, 0.6, 0.9, 0.7, 1.0]
 price: 351.98

@@ -5,6 +5,7 @@ target_name: "Beyerdynamic DT 880 PRO"
 company_id: beyerdynamic
 lang: ja
 ref: beyerdynamic-dt-880-pro
+audiodb_uid: adb-0c36ae00e0d1
 date: 2025-09-17
 rating: [2.3, 0.5, 0.6, 0.2, 0.7, 0.3]
 price: 25500
@@ -12,7 +13,6 @@ summary: "特徴的な高域強調と堅牢な作りを持つセミオープン�
 tags: [ヘッドホン, スタジオモニタリング, セミオープン, ダイナミック型, プロオーディオ]
 permalink: /products/ja/beyerdynamic-dt-880-pro/
 ---
-
 ## 概要
 
 Beyerdynamic DT 880 PROは、インピーダンス250オームのセミオープン型スタジオヘッドホンで、ミキシングやマスタリング用途での中性的リファレンスモニターとして位置づけられています。ドイツでの手作業による製造で交換可能なコンポーネントを採用し、0.6テスラの磁束密度を持つ同社のテスラテクノロジーを搭載しています。DT 880 PROは何十年にもわたり基本設計を維持し続けており、ビルドクオリティとメンテナンス性を重視したBeyerdynamicの伝統的なスタジオモニタリングアプローチを体現しています。

@@ -5,6 +5,7 @@ target_name: "JBL Wave Beam 2"
 company_id: jbl
 lang: en
 ref: jbl-wave-beam-2
+audiodb_uid: adb-4fb8ba2fc108
 date: 2025-08-08
 rating: [3.1, 0.5, 0.5, 1.0, 0.5, 0.6]
 price: 54
@@ -12,7 +13,6 @@ summary: "Entry-priced true wireless earbuds with ANC, multipoint, and IP54; str
 tags: [True Wireless, Noise Cancelling, Multipoint, JBL]
 permalink: /products/en/jbl-wave-beam-2/
 ---
-
 ## Overview
 
 The JBL Wave Beam 2 are true wireless earbuds with 8 mm dynamic drivers, active noise cancelling (ANC), Ambient Aware/TalkThru transparency, multipoint connection, and Bluetooth 5.3. The earbuds carry IP54 dust/water resistance while the case is IPX2. Battery life is up to about 40 hours with ANC off (10h earbuds + 30h case) and up to about 32 hours with ANC on (8h + 24h). In Japan, the direct price is 54 USD, offering essential features at an entry price.

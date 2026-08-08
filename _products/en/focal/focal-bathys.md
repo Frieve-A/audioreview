@@ -5,6 +5,7 @@ target_name: "Focal Bathys"
 company_id: focal
 lang: en
 ref: focal-bathys
+audiodb_uid: adb-354c22f43c7d
 date: 2025-08-20
 rating: [3.0, 0.7, 0.4, 0.5, 0.7, 0.7]
 price: 849

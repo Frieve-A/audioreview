@@ -5,6 +5,7 @@ target_name: "Topping DX5"
 company_id: topping
 lang: ja
 ref: topping-dx5
+audiodb_uid: adb-ec753cc37ae6
 date: 2025-08-16
 rating: [3.7, 0.9, 0.8, 0.5, 0.7, 0.8]
 price: 67350
@@ -12,7 +13,6 @@ summary: "卓越した測定性能を示すハイパフォーマンスDAC/ヘッ
 tags: [DAC, ヘッドホンアンプ, デスクトップオーディオ, ESS, USBオーディオ]
 permalink: /products/ja/topping-dx5/
 ---
-
 ## 概要
 
 Topping DX5は、デュアルESS ES9068AS DACとNFCA系ヘッドホンアンプを一体化したデスクトップDAC/ヘッドホンアンプです。USB・光・同軸入力、背面のバランス/アンバランスライン出力、前面のヘッドホン出力など実用的な入出力を備え、卓上サイズで実験室レベルの測定性能を求めるユーザーを狙っています。なお本機の後継としてDX5 II（299 USD）が登場していますが、本レビューはオリジナルDX5を対象としています[8][9]。

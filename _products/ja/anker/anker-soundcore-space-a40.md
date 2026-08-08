@@ -5,6 +5,7 @@ target_name: "Anker Soundcore Space A40"
 company_id: anker
 lang: ja
 ref: anker-soundcore-space-a40
+audiodb_uid: adb-21e43f7b5614
 date: 2025-07-31
 rating: [3.5, 0.7, 0.6, 0.9, 0.7, 0.6]
 price: 8990

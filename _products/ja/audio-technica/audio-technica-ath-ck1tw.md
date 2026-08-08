@@ -5,6 +5,7 @@ target_name: "Audio-Technica ATH-CK1TW"
 company_id: audio-technica
 lang: ja
 ref: audio-technica-ath-ck1tw
+audiodb_uid: adb-1040ffcb0685
 date: 2025-12-01
 rating: [3.2, 0.5, 0.5, 0.8, 0.8, 0.6]
 price: 6000

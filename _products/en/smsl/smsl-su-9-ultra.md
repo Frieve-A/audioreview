@@ -5,6 +5,7 @@ target_name: "SMSL SU-9 Ultra"
 company_id: smsl
 lang: en
 ref: smsl-su-9-ultra
+audiodb_uid: adb-6fbcde56d0f6
 date: 2025-08-28
 rating: [3.8, 0.8, 0.8, 0.7, 0.7, 0.8]
 price: 499
@@ -12,7 +13,6 @@ summary: "Balanced desktop DAC with AKM AK4191+AK4499EX, XMOS XU-316, CK-03 cloc
 tags: [DAC, Desktop, MQA, Bluetooth, AKM, High-Resolution]
 permalink: /products/en/smsl-su-9-ultra/
 ---
-
 ## Overview
 
 SU-9 Ultra is a balanced desktop DAC built around AKM’s AK4191 + AK4499EX with XMOS XU-316. It offers USB/optical/coaxial inputs, balanced XLR and single-ended RCA outputs, LDAC-capable Bluetooth, and MQA/MQA-CD decoding over both USB and S/PDIF. It supports PCM up to 32-bit/768kHz and DSD512, positioning it among today’s transparent DACs in practical use [1][6].

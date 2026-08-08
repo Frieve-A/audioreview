@@ -5,6 +5,7 @@ target_name: "MOTU 828mk3 Hybrid"
 company_id: motu
 lang: en
 ref: motu-828mk3-hybrid
+audiodb_uid: adb-722d110dba9b
 date: 2025-09-20
 rating: [3.0, 0.5, 0.3, 1.0, 0.4, 0.8]
 price: 300

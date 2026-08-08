@@ -5,6 +5,7 @@ target_name: "Sony TC-R6"
 company_id: sony
 lang: en
 ref: sony-tc-r6
+audiodb_uid: adb-c58d702f202a
 date: 2025-10-13
 rating: [2.1, 0.1, 0.4, 1.0, 0.0, 0.6]
 price: 1500
@@ -12,7 +13,6 @@ summary: "1977 Japanese open reel tape deck with closed-loop dual capstan drive 
 tags: [Tape Deck, Open Reel, Vintage Audio, Sony, Analog Recording]
 permalink: /products/en/sony-tc-r6/
 ---
-
 ## Overview
 
 The Sony TC-R6 is a quarter-track stereo open reel tape deck manufactured in Japan from 1977 to 1981, categorized as mid-high fidelity consumer equipment [1][2]. Originally priced at ¥198,000 (approximately 1,000 USD in 1977), this 58.5-pound unit features a closed-loop dual capstan drive system with three motors and ferrite heads [1]. The TC-R6 operates at dual speeds of 3¾ and 7½ ips with maximum 10½-inch reel capacity [2]. Notable for its three-head configuration allowing simultaneous recording and playback monitoring, the unit includes logic control and optional RM-30 remote control [3]. Despite Sony's engineering reputation, the TC-R6 represents analog tape technology limitations when compared to modern digital recording standards.

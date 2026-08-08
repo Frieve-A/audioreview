@@ -5,6 +5,7 @@ target_name: "Sony NW-A105"
 company_id: sony
 lang: en
 ref: sony-nw-a105
+audiodb_uid: adb-154a885fd113
 date: 2025-10-14
 rating: [3.4, 0.5, 0.8, 1.0, 0.4, 0.7]
 price: 120

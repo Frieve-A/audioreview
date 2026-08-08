@@ -5,6 +5,7 @@ target_name: "FX-Audio TUBE-P01J"
 company_id: fx-audio
 lang: en
 ref: fx-audio-tube-p01j
+audiodb_uid: adb-a624fb2672ec
 date: 2025-08-26
 rating: [2.1, 0.3, 0.3, 0.8, 0.5, 0.2]
 price: 223

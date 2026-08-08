@@ -5,6 +5,7 @@ target_name: "Classic Pro CSP8P"
 company_id: classic-pro
 lang: ja
 ref: classic-pro-csp8p
+audiodb_uid: adb-e2e2130cd7cd
 date: 2025-08-20
 rating: [1.9, 0.4, 0.2, 0.7, 0.3, 0.3]
 price: 27800
@@ -12,7 +13,6 @@ summary: "150W出力の8インチパワードPAスピーカー、限定的な出
 tags: [PAスピーカー, パワードスピーカー, ライブサウンド, バジェットオーディオ]
 permalink: /products/ja/classic-pro-csp8p/
 ---
-
 ## 概要
 
 Classic Pro CSP8Pは、日本発の予算重視ブランドClassic Proによる8インチのパワードPAスピーカーです。8インチウーファーと1インチドライバーを搭載した2ウェイ構成で、内蔵アンプは100W RMS（LF）＋50W RMS（HF）です。ポリプロピレン製の軽量キャビネットにより、持ち運びや小規模設置を主眼にした設計となっています[3]。

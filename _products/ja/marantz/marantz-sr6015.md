@@ -5,6 +5,7 @@ target_name: "Marantz SR6015"
 company_id: marantz
 lang: ja
 ref: marantz-sr6015
+audiodb_uid: adb-bb426e3ab7eb
 date: 2025-10-25
 rating: [3.6, 0.7, 0.7, 1.0, 0.6, 0.6]
 price: 195000

@@ -5,6 +5,7 @@ target_name: "KEF Q Concerto Meta"
 company_id: kef
 lang: en
 ref: kef-q-concerto-meta
+audiodb_uid: adb-9da739134fc6
 date: 2025-08-24
 rating: [3.9, 0.8, 0.8, 1.0, 0.7, 0.6]
 price: 1399.99

@@ -5,6 +5,7 @@ target_name: "Topping B200"
 company_id: topping
 lang: ja
 ref: topping-b200
+audiodb_uid: adb-4b69fd0579ac
 date: 2025-07-19
 rating: [3.2, 0.9, 0.8, 0.3, 0.4, 0.8]
 price: 186888

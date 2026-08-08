@@ -5,6 +5,7 @@ target_name: "Topping EX5"
 company_id: topping
 lang: ja
 ref: topping-ex5
+audiodb_uid: adb-1d4bb6b2b8fc
 date: 2025-08-15
 rating: [3.6, 0.8, 0.6, 0.6, 0.8, 0.8]
 price: 52500
@@ -12,7 +13,6 @@ summary: "デュアルES9038Q2MとNFCAアンプを搭載したDAC/ヘッドホ�
 tags: [DAC, ヘッドホンアンプ, デスクトップオーディオ, Bluetooth, MQA, ハイレゾオーディオ]
 permalink: /products/ja/topping-ex5/
 ---
-
 ## 概要
 
 Topping EX5は、デュアルES9038Q2M DACチップとToppingのNFCAアンプ回路を採用したデスクトップ用DAC/ヘッドホンアンプ一体型です。LDAC対応Bluetooth 5.0、USB/同軸/光入力、RCAおよびXLRのライン出力、前面の6.35mmと4ピンXLRヘッドホン端子を備え、PCM 768kHz/32bitとDSD512、MQAフルデコードに対応します[2][3]。

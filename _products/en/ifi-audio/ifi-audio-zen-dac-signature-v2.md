@@ -5,6 +5,7 @@ target_name: "iFi audio ZEN DAC Signature V2"
 company_id: ifi-audio
 lang: en
 ref: ifi-audio-zen-dac-signature-v2
+audiodb_uid: adb-b798d4e49b7e
 date: 2025-09-15
 rating: [2.6, 0.8, 0.6, 0.4, 0.4, 0.4]
 price: 300

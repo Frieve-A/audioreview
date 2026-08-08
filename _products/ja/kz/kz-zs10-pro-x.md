@@ -5,6 +5,7 @@ target_name: "KZ ZS10 Pro X"
 company_id: kz
 lang: ja
 ref: kz-zs10-pro-x
+audiodb_uid: adb-6a445f814802
 date: 2025-09-14
 rating: [2.8, 0.5, 0.5, 0.6, 0.4, 0.8]
 price: 5280

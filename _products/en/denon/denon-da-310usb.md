@@ -5,6 +5,7 @@ target_name: "Denon DA-310USB"
 company_id: denon
 lang: en
 ref: denon-da-310usb
+audiodb_uid: adb-7c3a878498c4
 date: 2025-09-06
 rating: [3.0, 0.7, 0.4, 0.9, 0.4, 0.6]
 price: 180

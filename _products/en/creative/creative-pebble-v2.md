@@ -5,6 +5,7 @@ target_name: "Creative Pebble V2"
 company_id: creative
 lang: en
 ref: creative-pebble-v2
+audiodb_uid: adb-bf11534332fa
 date: 2025-08-21
 rating: [2.6, 0.3, 0.3, 1.0, 0.5, 0.5]
 price: 33
@@ -12,7 +13,6 @@ summary: "Budget USB-C desktop speakers with basic catalog specs (8W RMS, 100–
 tags: [Desktop speakers, USB-C, Budget audio, Computer speakers]
 permalink: /products/en/creative-pebble-v2/
 ---
-
 ## Overview
 
 The Creative Pebble V2 is a compact 2.0 USB-powered desktop speaker set with USB-C power input (Type-A adapter included), 2-inch full-range drivers angled at 45°, and passive radiators. Creative lists total output up to 8W RMS (16W peak), frequency response 100–17,000 Hz (no tolerance stated), and SNR 75 dB [1][2][3]. As of August 20, 2025, the Creative US store lists the price at 32.99 USD (denominator rounded to 33 USD in this review) [1].

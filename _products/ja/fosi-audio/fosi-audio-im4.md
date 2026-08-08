@@ -5,6 +5,7 @@ target_name: "Fosi Audio IM4"
 company_id: fosi-audio
 lang: ja
 ref: fosi-audio-im4
+audiodb_uid: adb-27ddb9453104
 date: 2025-12-30
 rating: [3.6, 0.5, 0.7, 1.0, 0.6, 0.8]
 price: 15000

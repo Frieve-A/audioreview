@@ -5,6 +5,7 @@ target_name: "Genelec 7370A"
 company_id: genelec
 lang: en
 ref: genelec-7370a
+audiodb_uid: adb-fb1414033121
 date: 2025-08-20
 rating: [3.6, 0.5, 0.8, 0.5, 0.9, 0.9]
 price: 8100

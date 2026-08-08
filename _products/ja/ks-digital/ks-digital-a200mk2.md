@@ -5,6 +5,7 @@ target_name: "KS Digital A200MK2"
 company_id: ks-digital
 lang: ja
 ref: ks-digital-a200mk2
+audiodb_uid: adb-8fb3be351c6d
 date: 2025-10-14
 rating: [4.1, 0.7, 0.8, 1.0, 0.7, 0.9]
 price: 378500
@@ -12,7 +13,6 @@ summary: "独自のFIRTEC FPGA処理と個別ドライバー補正を備えた�
 tags: [スタジオモニター, アクティブスピーカー, 3ウェイ, FPGA処理, プロオーディオ, KS Digital]
 permalink: /products/ja/ks-digital-a200mk2/
 ---
-
 ## 概要
 
 KS Digital A200MK2は、独自のFIRTEC FPGA処理技術を搭載したドイツ製アクティブ3ウェイニアフィールドスタジオモニターです。このプロ用モニターは10インチウーファー、3インチミッドレンジドライバー、アルミニウムウェーブガイド付き1インチファブリックツイーターを搭載し、28Hz-22kHzの周波数レスポンスと116dB連続SPL出力を実現しています。25年以上のスタジオモニター開発経験を持つKS Digitalの技術力を示す製品で、個別ドライバーインパルスレスポンス測定をオンボードDSPに保存し、精密な音響補正を行います。192kHzサンプルレートまでサポートするアナログXLRとデジタルAES3入力を備え、測定に基づく音響精度を要求するプロフェッショナルスタジオ用途をターゲットとしています。

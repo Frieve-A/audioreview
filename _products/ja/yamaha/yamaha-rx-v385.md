@@ -5,6 +5,7 @@ target_name: "Yamaha RX-V385"
 company_id: yamaha
 lang: ja
 ref: yamaha-rx-v385
+audiodb_uid: adb-d5be7c28cc11
 date: 2025-09-02
 rating: [3.0, 0.5, 0.5, 1.0, 0.5, 0.5]
 price: 40050
@@ -12,7 +13,6 @@ summary: "5.1chのエントリーAVレシーバー。定格70W/8Ω（20Hz–20kH
 tags: [AVレシーバー, 5.1ch, 4K, HDR, Bluetooth, ホームシアター, エントリー]
 permalink: /products/ja/yamaha-rx-v385/
 ---
-
 ## 概要
 
 Yamaha RX-V385は2018年発売の5.1ch AVレシーバーです。定格出力は70W/8Ω（20Hz–20kHz、0.09% THD、2ch駆動）で、4K/60p（4:4:4）やHDR10・Dolby Vision・HLGのパススルー、YPAO自動音場補正、Bluetooth再生に対応します。公式の製品ページではeARCの説明があり、対応ファームウェアが提供されています（詳細は参考情報）[1][2]。

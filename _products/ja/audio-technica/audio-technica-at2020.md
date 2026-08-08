@@ -5,6 +5,7 @@ target_name: "Audio-Technica AT2020"
 company_id: audio-technica
 lang: ja
 ref: audio-technica-at2020
+audiodb_uid: adb-9de5f1879a19
 date: 2025-11-14
 rating: [3.6, 0.6, 0.7, 0.9, 0.7, 0.7]
 price: 14850

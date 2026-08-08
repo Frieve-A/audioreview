@@ -5,6 +5,7 @@ target_name: "THIEAUDIO Monarch MKIV"
 company_id: thieaudio
 lang: en
 ref: thieaudio-monarch-mkiv
+audiodb_uid: adb-2b8331161d1d
 date: 2025-09-21
 rating: [3.2, 0.6, 0.9, 0.1, 0.6, 1.0]
 price: 1299

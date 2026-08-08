@@ -5,6 +5,7 @@ target_name: "Eclipse TD508MK4"
 company_id: eclipse
 lang: ja
 ref: eclipse-td508mk4
+audiodb_uid: adb-21af6a315757
 date: 2025-08-02
 rating: [2.8, 0.5, 0.7, 0.4, 0.7, 0.5]
 price: 134640

@@ -5,6 +5,7 @@ target_name: "JBL Bar 300 MK2"
 company_id: jbl
 lang: en
 ref: jbl-bar-300-mk2
+audiodb_uid: adb-1ac6207271bb
 date: 2026-03-22
 rating: [4.0, 0.5, 1.0, 1.0, 0.5, 1.0]
 price: 450

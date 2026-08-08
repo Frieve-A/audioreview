@@ -5,6 +5,7 @@ target_name: "Sony XBA-N3"
 company_id: sony
 lang: ja
 ref: sony-xba-n3
+audiodb_uid: adb-683123284ae7
 date: 2025-07-25
 rating: [2.1, 0.6, 0.5, 0.1, 0.6, 0.3]
 price: 40000

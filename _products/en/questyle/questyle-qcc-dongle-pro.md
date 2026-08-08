@@ -5,6 +5,7 @@ target_name: "Questyle QCC Dongle Pro"
 company_id: questyle
 lang: en
 ref: questyle-qcc-dongle-pro
+audiodb_uid: adb-b066bc0bbb17
 date: 2025-12-02
 rating: [3.6, 0.5, 0.7, 1.0, 0.6, 0.8]
 price: 69
@@ -12,7 +13,6 @@ summary: "MFi-certified Bluetooth transmitter with comprehensive codec support i
 tags: [Bluetooth, Transmitter, Adapter, aptX, LDAC, iOS, MFi]
 permalink: /products/en/questyle-qcc-dongle-pro/
 ---
-
 ## Overview
 
 The Questyle QCC Dongle Pro is a Bluetooth 5.4 audio transmitter designed to address iOS device limitations in wireless audio codec support. This USB-C dongle achieves industry-first MFi certification for lossless Bluetooth transmission, enabling iOS users to access aptX Lossless and LDAC codecs beyond the standard AAC limitation. The device supports comprehensive codec compatibility including aptX Adaptive, aptX HD, and standard aptX, while maintaining universal system compatibility across Windows, Linux, Android, HarmonyOS, macOS, and iOS platforms. Weighing 57 grams with compact dimensions, the QCC Dongle Pro leverages Qualcomm Snapdragon Sound technology to deliver professional-grade wireless audio transmission capabilities.

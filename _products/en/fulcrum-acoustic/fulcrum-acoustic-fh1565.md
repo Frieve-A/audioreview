@@ -5,6 +5,7 @@ target_name: "Fulcrum Acoustic FH1565"
 company_id: fulcrum-acoustic
 lang: en
 ref: fulcrum-acoustic-fh1565
+audiodb_uid: adb-f3aa397dddc8
 date: 2025-08-13
 rating: [3.2, 0.5, 0.6, 0.8, 0.6, 0.7]
 price: 3500

@@ -5,6 +5,7 @@ target_name: "iFi Audio ZEN DAC 3"
 company_id: ifi-audio
 lang: en
 ref: ifi-audio-zen-dac-3
+audiodb_uid: adb-1eb8f47f3104
 date: 2025-12-08
 rating: [3.0, 0.7, 0.7, 0.6, 0.3, 0.7]
 price: 199
@@ -12,7 +13,6 @@ summary: "Desktop DAC/headphone amplifier featuring 16-core XMOS processor, Burr
 tags: [DAC, Headphone-Amplifier, Desktop, USB-C, Balanced-Output, MQA, DSD]
 permalink: /products/en/ifi-audio-zen-dac-3/
 ---
-
 ## Overview
 
 The iFi Audio ZEN DAC 3 is a desktop digital-to-analog converter and headphone amplifier designed to deliver high-resolution audio performance in a compact form factor. Building on the success of previous ZEN DAC models, this third-generation device incorporates a 16-core XMOS processor and four-channel Burr-Brown DAC chip to support extensive format compatibility including 768kHz PCM, DSD512, and full MQA decoding. The unit features both balanced 4.4mm and single-ended 6.3mm headphone outputs alongside RCA line outputs, targeting audiophiles seeking comprehensive connectivity and high-resolution format support. Established in 2012 as a subsidiary of AMR, iFi Audio has built a reputation for bringing high-end audio technology to more accessible price points.

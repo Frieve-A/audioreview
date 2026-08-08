@@ -5,6 +5,7 @@ target_name: "JDS Labs Element IV"
 company_id: jds-labs
 lang: en
 ref: jds-labs-element-iv
+audiodb_uid: adb-3b1f8272b82b
 date: 2025-12-01
 rating: [4.2, 0.9, 0.8, 0.9, 0.8, 0.8]
 price: 549

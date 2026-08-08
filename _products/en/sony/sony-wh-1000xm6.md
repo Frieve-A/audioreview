@@ -5,6 +5,7 @@ target_name: "Sony WH-1000XM6"
 company_id: sony
 lang: en
 ref: sony-wh-1000xm6
+audiodb_uid: adb-23111684a11b
 date: 2025-12-08
 rating: [4.4, 0.7, 0.9, 1.0, 0.9, 0.9]
 price: 449
@@ -12,7 +13,6 @@ summary: "Sony's flagship wireless noise-canceling headphones featuring advanced
 tags: [Headphones, "Active noise cancelling", Bluetooth, Wireless]
 permalink: /products/en/sony-wh-1000xm6/
 ---
-
 ## Overview
 
 The Sony WH-1000XM6, announced May 15, 2025, represents Sony's latest flagship wireless noise-canceling headphones. After removing the folding mechanism in the WH-1000XM5, Sony reintroduces foldable design with enhanced structural integrity through a new metal hinge component. The headphones feature the advanced HD Noise Canceling Processor QN3, operating seven times faster than its predecessor, coordinating 12 strategically positioned microphones for improved noise reduction. Priced at 449 USD, the WH-1000XM6 incorporates cutting-edge connectivity including Bluetooth 5.3 with Auracast compatibility and comprehensive codec support.

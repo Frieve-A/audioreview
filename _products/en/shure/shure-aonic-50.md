@@ -5,6 +5,7 @@ target_name: "Shure AONIC 50"
 company_id: shure
 lang: en
 ref: shure-aonic-50
+audiodb_uid: adb-3d2d336ca239
 date: 2025-07-09
 rating: [2.8, 0.6, 0.4, 0.6, 0.7, 0.5]
 price: 313
@@ -12,7 +13,6 @@ summary: "High build quality but performance doesn't justify premium pricing"
 tags: ["Active noise cancelling", Over-ear, "Wireless headphones"]
 permalink: /products/en/shure-aonic-50/
 ---
-
 ## Overview
 
 The Shure AONIC 50 represents the renowned microphone manufacturer's ambitious entry into the consumer wireless noise-cancelling headphone market. As the first major ANC headphone release from the venerable 1925-founded audio equipment maker, it features premium specifications including 50mm dynamic drivers, up to 20 hours battery life (45 hours in Gen2), and support for aptX HD/LDAC codecs. However, in the ANC headphone market dominated by Bose and Sony, this late-entry product clearly demonstrates the technological and cost disadvantages faced by newcomer manufacturers.

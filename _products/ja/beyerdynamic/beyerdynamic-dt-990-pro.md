@@ -5,6 +5,7 @@ target_name: "Beyerdynamic DT 990 PRO"
 company_id: beyerdynamic
 lang: ja
 ref: beyerdynamic-dt-990-pro
+audiodb_uid: adb-e697842725b0
 date: 2025-09-03
 rating: [2.6, 0.4, 0.4, 0.8, 0.6, 0.4]
 price: 27000

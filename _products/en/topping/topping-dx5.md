@@ -5,6 +5,7 @@ target_name: "Topping DX5"
 company_id: topping
 lang: en
 ref: topping-dx5
+audiodb_uid: adb-ec753cc37ae6
 date: 2025-08-16
 rating: [3.7, 0.9, 0.8, 0.5, 0.7, 0.8]
 price: 449

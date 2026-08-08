@@ -5,6 +5,7 @@ target_name: "LEKATO WS-80"
 company_id: lekato
 lang: en
 ref: lekato-ws-80
+audiodb_uid: adb-593b0476be73
 date: 2025-10-17
 rating: [3.0, 0.6, 0.5, 1.0, 0.1, 0.8]
 price: 39.99
@@ -12,7 +13,6 @@ summary: "Budget wireless guitar system with adequate audio performance but conc
 tags: [Wireless Guitar System, Audio Transmission, Guitar Accessories, Budget Audio, Musical Instruments]
 permalink: /products/en/lekato-ws-80/
 ---
-
 ## Overview
 
 The LEKATO WS-80 is a 2.4GHz digital wireless guitar system designed for electric guitars, bass, and other electronic instruments. Launched by LEKATO, a company founded in 2019 and focused on musical instrument accessories, the WS-80 targets budget-conscious musicians seeking wireless freedom. The system features uncompressed digital transmission with 4-channel operation, 220° rotatable plugs, and up to 8 hours of battery life. LEKATO positions itself as an R&D-oriented company with over 500,000 wireless systems sold, though the WS-80 represents their entry-level offering in the competitive wireless guitar market.

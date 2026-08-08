@@ -5,6 +5,7 @@ target_name: "Edifier W820NB Plus"
 company_id: edifier
 lang: en
 ref: edifier-w820nb-plus
+audiodb_uid: adb-024a9aafd74b
 date: 2025-11-06
 rating: [3.7, 0.5, 0.7, 1.0, 0.7, 0.8]
 price: 79.99
@@ -12,7 +13,6 @@ summary: "Budget-friendly wireless ANC headphones with Hi-Res Audio certificatio
 tags: [Headphones, ANC, Wireless, Budget, LDAC, Hi-Res]
 permalink: /products/en/edifier-w820nb-plus/
 ---
-
 ## Overview
 
 The Edifier W820NB Plus is a wireless over-ear noise cancelling headphone positioned in the competitive under-100 USD market segment. Featuring Hi-Res Audio certification, 40mm titanium composite diaphragm drivers, and hybrid active noise cancellation up to -43dB, the product targets budget-conscious consumers seeking premium features. The headphone supports Bluetooth 5.2 connectivity with LDAC codec, offers extended 33-hour battery life with ANC enabled, and weighs 238g. Priced at 79.99 USD, it competes directly with established budget ANC offerings while providing contemporary features like app-based customization and gaming mode with 0.08s latency.

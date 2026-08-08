@@ -5,6 +5,7 @@ target_name: "Behringer XM8500"
 company_id: behringer
 lang: ja
 ref: behringer-xm8500
+audiodb_uid: adb-a64edfeef0e4
 date: 2025-09-13
 rating: [2.2, 0.1, 0.4, 0.7, 0.4, 0.6]
 price: 2900
@@ -12,7 +13,6 @@ summary: "競争力のある価格と基本機能を持つバジェット向け�
 tags: [マイク, ダイナミック, ボーカル, バジェット, カーディオイド]
 permalink: /products/ja/behringer-xm8500/
 ---
-
 ## 概要
 
 Behringer XM8500は、カーディオイド集音パターンとムービングコイル設計を特徴とする予算志向のダイナミックボーカルマイクです。BehringerのUltravoiceシリーズの一部として、Shure SM58のような高級マイクの手頃な代替品を求めるホームレコーディング愛好家やライブパフォーマーをターゲットとしています。XM8500は2段階ポップフィルター、統合ショックマウントシステム、スチールウィンドスクリーンを備えた頑丈な金属構造を採用しています。50Hz-15kHzの周波数特性と-70dBの感度を持ち、アクセシブルな価格で基本的なプロフェッショナル機能を提供するというBehringerのアプローチを表現しています。

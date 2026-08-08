@@ -5,6 +5,7 @@ target_name: "Samsung Galaxy Buds3 Pro"
 company_id: samsung
 lang: en
 ref: samsung-galaxy-buds3-pro
+audiodb_uid: adb-076cab4dbac1
 date: 2025-09-04
 rating: [3.2, 0.6, 1.0, 0.4, 0.2, 1.0]
 price: 249
@@ -12,7 +13,6 @@ summary: "Premium wireless earbuds featuring industry-first planar magnetic twee
 tags: [Wireless, Earbuds, ANC, Planar-magnetic, Bluetooth, High-resolution]
 permalink: /products/en/samsung-galaxy-buds3-pro/
 ---
-
 ## Overview
 
 Samsung Galaxy Buds3 Pro represent a significant technological advancement in wireless earbuds, introducing the industry's first planar magnetic tweeter implementation combined with a 10.5mm dynamic woofer in a dual-amplifier architecture. Supporting high-resolution 24-bit/96kHz audio through proprietary Samsung Seamless Codec, these earbuds target premium users seeking cutting-edge audio technology within the Samsung ecosystem. The product demonstrates Samsung's commitment to pushing wireless audio boundaries through collaboration with subsidiary HARMAN and AKG expertise.

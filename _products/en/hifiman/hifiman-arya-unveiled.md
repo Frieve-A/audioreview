@@ -5,6 +5,7 @@ target_name: "HiFiMAN Arya Unveiled"
 company_id: hifiman
 lang: en
 ref: hifiman-arya-unveiled
+audiodb_uid: adb-90575e02909a
 date: 2025-12-03
 rating: [3.0, 0.5, 0.7, 0.1, 0.8, 0.9]
 price: 1449

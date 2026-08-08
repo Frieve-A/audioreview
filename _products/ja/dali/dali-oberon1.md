@@ -5,6 +5,7 @@ target_name: "DALI Oberon 1"
 company_id: dali
 lang: ja
 ref: dali-oberon1
+audiodb_uid: adb-f314a188aca6
 date: 2025-08-07
 rating: [3.1, 0.6, 0.7, 0.5, 0.6, 0.7]
 price: 110250
@@ -12,7 +13,6 @@ summary: "エントリークラスの枠を超えたソリッドな音質を提�
 tags: [ブックシェルフスピーカー, パッシブスピーカー, 2ウェイ, DALI, デンマーク]
 permalink: /products/ja/dali-oberon1/
 ---
-
 ## 概要
 
 DALI Oberon 1は、デンマークの老舗スピーカーメーカーDALIが手がけるエントリーレベルのコンパクトブックシェルフスピーカーです。5.25インチのウッドファイバーコーン・ウーハーと29mmソフトドーム・ツイーターを搭載した2ウェイ・バスレフ設計により、51Hz-26kHzの再生帯域を実現しています。SMC（Soft Magnetic Composite）技術による歪み低減や、広指向性設計など、上位モデル由来の技術が投入されています。

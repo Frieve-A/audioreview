@@ -5,6 +5,7 @@ target_name: "Campfire Audio Andromeda"
 company_id: campfire-audio
 lang: ja
 ref: campfire-audio-andromeda
+audiodb_uid: adb-2b1623ef9590
 date: 2025-08-23
 rating: [2.2, 0.5, 0.5, 0.1, 0.6, 0.5]
 price: 184900
@@ -12,7 +13,6 @@ summary: "5基のBA（デュアル・ダイアフラム高域BA含む）を搭�
 tags: [バランスドアーマチュア, インイヤーモニター, プレミアム, 5ドライバー]
 permalink: /products/ja/campfire-audio-andromeda/
 ---
-
 ## 概要
 
 Campfire Audio Andromeda（現行“Emerald Sea”）は、デュアル・ダイアフラムBAを含む5基のBAドライバーを採用した有線IEMです。精密加工アルミ筐体とMMCXコネクター、着脱式ケーブル（2.5/3.5/4.4mmの3本）が付属します。公式価格は1,399 USD、国内実売はおおむね184,900円前後です（参考価格、2025年8月時点）。[1][6]

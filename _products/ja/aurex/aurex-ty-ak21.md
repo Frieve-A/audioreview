@@ -5,6 +5,7 @@ target_name: "Aurex TY-AK21"
 company_id: aurex
 lang: ja
 ref: aurex-ty-ak21
+audiodb_uid: adb-a3ba46c4a6ce
 date: 2025-08-22
 rating: [2.8, 0.3, 0.4, 0.9, 0.6, 0.6]
 price: 27980
@@ -12,7 +13,6 @@ summary: "Bluetooth送受信と“ハイレゾ相当アップコンバート”�
 tags: [ポータブル, CD, ラジオ, カセット, Bluetooth]
 permalink: /products/ja/aurex-ty-ak21/
 ---
-
 ## 概要
 
 Aurex TY-AK21は、CD／カセット／AM・FMに**Bluetooth送受信（TX/RX）**やSD／USB再生・録音を加えた多機能ラジカセです。6.4 cmウーファー＋2 cmソフトドームツイーターの2ウェイ、実用最大出力**20W+20W**のデジタルアンプ、Bluetooth 5.3を採用し、USB/SDではFLAC／WAVの**192 kHz/24-bit**再生にも対応します。メーカーが「ハイレゾ相当のアップコンバート」をうたっています。以上はメーカー公表仕様です。 [1][2]

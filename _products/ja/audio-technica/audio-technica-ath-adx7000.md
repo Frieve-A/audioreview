@@ -5,6 +5,7 @@ target_name: "Audio-Technica ATH-ADX7000"
 company_id: audio-technica
 lang: ja
 ref: audio-technica-ath-adx7000
+audiodb_uid: adb-8994c35e723a
 date: 2025-12-05
 rating: [2.5, 0.4, 0.8, 0.0, 0.8, 0.5]
 price: 700000
@@ -12,7 +13,6 @@ summary: "HXDT精密ドライバー技術を採用した最高級オープンエ
 tags: [ヘッドホン, オープンバック, ダイナミック, プレミアム, オーディオテクニカ, HXDT]
 permalink: /products/ja/audio-technica-ath-adx7000/
 ---
-
 ## 概要
 
 Audio-Technica ATH-ADX7000は、同社のフラッグシップオープンエア型ダイナミックヘッドホンとして、2025年10月に発売されました。東京都町田市にあるオーディオテクニカの工場で手作りされ、60年以上にわたるトランスデューサー技術の蓄積を独自のHXDT（High-Concentricity X Dynamic Transducer）技術で表現しています。58mmドライバーは±0.02mmの精密な位置合わせ公差を実現し、従来の設計と比較して約10倍の精度を誇ります。軽量なマグネシウム合金フレームとアルミニウムハニカムパンチングハウジングで構成され、デュアルケーブルセットと交換可能なイヤーパッドが付属します。70万円という価格で、リファレンスグレードの競合製品と肩を並べる超高級セグメントに位置付けられています。

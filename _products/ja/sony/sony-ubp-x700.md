@@ -5,6 +5,7 @@ target_name: "Sony UBP-X700"
 company_id: sony
 lang: ja
 ref: sony-ubp-x700
+audiodb_uid: adb-f7b9d4b4f147
 date: 2025-09-02
 rating: [3.7, 0.5, 0.7, 1.0, 0.8, 0.7]
 price: 51700
@@ -12,7 +13,6 @@ summary: "Dolby Vision/HDR10、デュアルHDMI（音声専用含む）、同軸
 tags: [4Kブルーレイ, SACD, デジタルトランスポート, Dolby Vision, デュアルHDMI]
 permalink: /products/ja/sony-ubp-x700/
 ---
-
 ## 概要
 
 UBP-X700は**2018年**に登場したコンパクトな4K Ultra HDブルーレイプレーヤーで、UHD BD/BD/DVD/CDに加え**SACD**に対応します。**Dolby Vision/HDR10**、**HDMI×2（うち1系統は音声専用）**、**同軸S/PDIF**、有線/無線LANと主要アプリを備え、AVRやテレビとの接続自由度が高いモデルです。サイズは**W320×H45×D217 mm**、重量**約1.4 kg**です。 [1][5][7][8]

@@ -5,6 +5,7 @@ target_name: "Lynx Studio Technology Mesa"
 company_id: lynx-studio-technology
 lang: ja
 ref: lynx-studio-technology-mesa
+audiodb_uid: adb-848a58cf092a
 date: 2025-09-14
 rating: [3.1, 0.7, 0.8, 0.5, 0.4, 0.7]
 price: 375000
@@ -12,7 +13,6 @@ summary: "優秀な測定仕様と有望な技術的特徴を持つ高性能Thun
 tags: [オーディオインターフェース, Thunderbolt 3, デスクトップ, プロフェッショナルオーディオ, ADC, DAC]
 permalink: /products/ja/lynx-studio-technology-mesa/
 ---
-
 ## 概要
 
 Lynx Studio Technology Mesaは、プロフェッショナルグレードのアナログ/デジタルコンバーターとしても機能するデスクトップ型Thunderbolt 3オーディオインターフェースです。2025年NAMM展で発表され2025年春に発売予定で、同社の高評価Aurora(n)コンバーターエンジンとSynchroLock 2™クロッキング技術を搭載しています。Mesaは14入力14出力、4系統のXLR/TRSコンボ入力、デュアルヘッドホン出力、フラッグシップHilo 2と同一の静電容量式タッチスクリーンインターフェースを提供します。注目すべき機能として、スタンドアローンMicroSD録音機能とADAT光、S/PDIFコアキシャルI/Oを含む包括的なデジタル接続性があります。

@@ -5,6 +5,7 @@ target_name: "FiiO K9 Pro ESS"
 company_id: fiio
 lang: ja
 ref: fiio-k9-pro-ess
+audiodb_uid: adb-b2c97171ac86
 date: 2025-12-02
 rating: [3.7, 0.8, 0.8, 0.6, 0.6, 0.9]
 price: 127170

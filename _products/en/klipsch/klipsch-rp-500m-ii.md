@@ -5,6 +5,7 @@ target_name: "Klipsch RP-500M II"
 company_id: klipsch
 lang: en
 ref: klipsch-rp-500m-ii
+audiodb_uid: adb-454f313249f9
 date: 2025-07-09
 rating: [2.3, 0.3, 0.6, 0.4, 0.6, 0.4]
 price: 606

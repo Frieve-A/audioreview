@@ -5,6 +5,7 @@ target_name: "Denon AVR-X2800H"
 company_id: denon
 lang: ja
 ref: denon-avr-x2800h
+audiodb_uid: adb-82576b27f20f
 date: 2025-08-04
 rating: [3.5, 0.6, 0.7, 0.7, 0.8, 0.7]
 price: 85000
@@ -12,7 +13,6 @@ summary: "95W×7chのクラスAB離散アンプを搭載したミドルクラス
 tags: [AVレシーバー, Dolby Atmos, 8K対応, ホームシアター, 7.2ch]
 permalink: /products/ja/denon-avr-x2800h/
 ---
-
 ## 概要
 
 Denon AVR-X2800Hは2022年発売の7.2chミドルクラスAVレシーバーです。95W×7chのクラスAB離散パワーアンプを搭載し、Dolby Atmos、DTS:X、8K Ultra HD対応など現代のホームシアターに求められる機能を包括的に搭載しています。独自のAL32プロセッシング技術による高解像度音声処理とAudyssey MultEQ XT自動音場補正により、中級者から上級者まで満足できる音響性能を実現している製品です。HEOS内蔵によりストリーミング対応も万全で、総合的なAVシステムの中核となる設計が施されています。

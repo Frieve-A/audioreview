@@ -5,6 +5,7 @@ target_name: "Sony MDR-MV1"
 company_id: sony
 lang: en
 ref: sony-mdr-mv1
+audiodb_uid: adb-d6149227341b
 date: 2026-02-08
 rating: [3.6, 0.3, 0.9, 1.0, 0.4, 1.0]
 price: 399
@@ -12,7 +13,6 @@ summary: "Open-back studio monitor headphones designed for spatial audio product
 tags: [headphones, open-back, studio-monitor, spatial-audio, sony]
 permalink: /products/en/sony-mdr-mv1/
 ---
-
 ## Overview
 
 The Sony MDR-MV1 are open-back reference monitor headphones released in April 2023, specifically designed for professional spatial audio production. Developed through collaboration between Sony's Headphone Engineering team and Sony Music Studios, these headphones target modern immersive audio creation with 360 Virtual Mixing Environment (360VME) integration. Key specifications include 40mm dynamic drivers, 5Hz-80kHz frequency response, 24Ω impedance, and 223g lightweight construction. At 399 USD, they position against professional studio monitors while introducing spatial audio capabilities to the traditional monitoring segment.

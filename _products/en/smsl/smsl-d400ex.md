@@ -5,6 +5,7 @@ target_name: "SMSL D400EX"
 company_id: smsl
 lang: en
 ref: smsl-d400ex
+audiodb_uid: adb-368b04f9f90e
 date: 2025-08-14
 rating: [3.9, 0.8, 0.7, 0.9, 0.7, 0.8]
 price: 959.99
@@ -12,7 +13,6 @@ summary: "Dual AK4499EX + AK4191 flagship DAC with published 0.00006% THD+N and 
 tags: [DAC, Desktop DAC, High-end, AKM, China, Hi-Res]
 permalink: /products/en/smsl-d400ex/
 ---
-
 ## Overview
 
 The SMSL D400EX is a flagship desktop DAC using **dual AK4499EX** in true dual-mono with an **AK4191** modulator front-end. USB input is **XMOS XU-316**. It supports PCM up to **32-bit/768 kHz**, native **DSD512**, and **MQA/MQA-CD** decoding. Inputs include **USB, Optical, Coaxial, Bluetooth, I2S, and AES/EBU**; outputs are balanced XLR and single-ended RCA[2][3].  

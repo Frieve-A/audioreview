@@ -5,6 +5,7 @@ target_name: "Fostex GS103A-VB"
 company_id: fostex
 lang: en
 ref: fostex-gs103a-vb
+audiodb_uid: adb-3576121979ff
 date: 2025-08-24
 rating: [2.5, 0.5, 0.7, 0.4, 0.5, 0.4]
 price: 888

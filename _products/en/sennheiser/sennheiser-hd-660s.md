@@ -5,6 +5,7 @@ target_name: "Sennheiser HD 660S"
 company_id: sennheiser
 lang: en
 ref: sennheiser-hd-660s
+audiodb_uid: adb-84d6282b3685
 date: 2025-08-02
 rating: [3.6, 0.8, 0.7, 0.5, 0.7, 0.9]
 price: 500
@@ -12,7 +13,6 @@ summary: "The HD 660S is an open-back headphone with a 150-ohm design and a meas
 tags: [Headphones, Open-back, Sennheiser, Audiophile]
 permalink: /products/en/sennheiser-hd-660s/
 ---
-
 ## Overview
 
 The Sennheiser HD 660S is an open-back dynamic headphone that continues the legacy of the HD 600 series. With its 150-ohm impedance and improved transducers, it is designed to be easier to drive with smartphones and DAPs (Digital Audio Players) than its predecessors. It features excellent distortion characteristics with a THD+N of less than 0.04% and a wide frequency response of 10 Hz to 41 kHz. It has now been replaced by its successor, the HD 660S2, making new units limited in the market.

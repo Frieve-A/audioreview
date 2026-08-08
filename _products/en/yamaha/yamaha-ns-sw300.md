@@ -5,6 +5,7 @@ target_name: "Yamaha NS-SW300"
 company_id: yamaha
 lang: en
 ref: yamaha-ns-sw300
+audiodb_uid: adb-b5eb380dd5ac
 date: 2025-08-16
 rating: [2.8, 0.5, 0.5, 0.7, 0.5, 0.6]
 price: 499.95
@@ -12,7 +13,6 @@ summary: "Compact 10-inch subwoofer with Advanced YST II; credible third-party d
 tags: [Subwoofer, Active, Yamaha, Home Audio]
 permalink: /products/en/yamaha-ns-sw300/
 ---
-
 ## Overview
 
 The Yamaha NS-SW300 is a front-firing 10-inch (25 cm) powered subwoofer using a PWM digital-drive high-efficiency (Class D) amplifier with a dual-feedback circuit. It features Yamaha’s Twisted Flare Port and Advanced YST II. Dimensions are approximately 13-3/4″ × 14-3/8″ × 16-1/2″ and weight is 39.7 lb. The official frequency response is 20–160 Hz, standby power is 0.3 W[1][2][3].

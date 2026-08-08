@@ -5,6 +5,7 @@ target_name: "RME Babyface Pro FS"
 company_id: rme
 lang: en
 ref: rme-babyface-pro-fs
+audiodb_uid: adb-d7cc558fcdcb
 date: 2025-08-10
 rating: [4.1, 0.8, 0.9, 0.7, 0.9, 0.8]
 price: 880

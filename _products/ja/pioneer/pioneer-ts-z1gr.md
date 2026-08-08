@@ -5,6 +5,7 @@ target_name: "Pioneer TS-Z1GR"
 company_id: pioneer
 lang: ja
 ref: pioneer-ts-z1gr
+audiodb_uid: adb-8e8762559bf8
 date: 2025-09-08
 rating: [2.8, 0.5, 0.8, 0.1, 0.6, 0.8]
 price: 770000
@@ -12,7 +13,6 @@ summary: "TADテクノロジーとベリリウムツィーターを搭載した�
 tags: [車載用オーディオ, 3WAY, ベリリウム, コンポーネントスピーカー, TADテクノロジー]
 permalink: /products/ja/pioneer-ts-z1gr/
 ---
-
 ## 概要
 
 Pioneer TS-Z1GRは、プロフェッショナル向けTAD部門のテクノロジーを取り入れたPioneerのフラッグシップ車載用スピーカーシステムです。770,000円（5,203ドル）という価格で、170mmウーハー、73mmミッドレンジ、26mmベリリウムツィーターを独自のCST（Coherent Source Transducer）ドライバーに統合した3WAYセパレートスピーカーシステムです。TADのプロフェッショナルオーディオの専門知識を取り入れ、29Hzから90kHzの周波数応答を謳い、車載用オーディオ市場におけるプレミアム製品として位置付けられています。

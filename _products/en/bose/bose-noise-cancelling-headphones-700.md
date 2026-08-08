@@ -5,6 +5,7 @@ target_name: "Bose Noise Cancelling Headphones 700"
 company_id: bose
 lang: en
 ref: bose-noise-cancelling-headphones-700
+audiodb_uid: adb-88a1f361d434
 date: 2025-11-19
 rating: [1.9, 0.6, 0.4, 0.2, 0.1, 0.6]
 price: 379
@@ -12,7 +13,6 @@ summary: "ANC headphones with patented TriPort technology and 8-microphone beamf
 tags: [Headphones, ANC, Bluetooth, DSP, TriPort]
 permalink: /products/en/bose-noise-cancelling-headphones-700/
 ---
-
 ## Overview
 
 The Bose Noise Cancelling Headphones 700, released May 29, 2019, represent Bose's flagship ANC headphones featuring proprietary TriPort acoustic technology and an 8-microphone beamforming system. The product incorporates 11 levels of adjustable noise cancellation, Bluetooth 5.0 connectivity with SBC/AAC codec support, and 21-hour battery life. Notable design elements include touch-sensitive controls, voice assistant integration, and a metal headband construction with 90-degree rotating ear cups. The product was discontinued in October 2024, marking the end of this particular model line in favor of newer iterations.

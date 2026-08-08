@@ -5,6 +5,7 @@ target_name: "Sony MDR-EX1000"
 company_id: sony
 lang: ja
 ref: sony-mdr-ex1000
+audiodb_uid: adb-d0abefd861ef
 date: 2025-07-22
 rating: [2.1, 0.4, 0.8, 0.4, 0.3, 0.2]
 price: 18800

@@ -5,6 +5,7 @@ target_name: "Volumio Rivo+"
 company_id: volumio
 lang: en
 ref: volumio-rivo-plus
+audiodb_uid: adb-265e2ee6b9be
 date: 2025-11-26
 rating: [2.0, 0.0, 0.7, 0.3, 0.7, 0.3]
 price: 1399

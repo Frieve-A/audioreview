@@ -5,6 +5,7 @@ target_name: "TEAC AP-505"
 company_id: teac
 lang: en
 ref: teac-ap-505
+audiodb_uid: adb-36cae1918102
 date: 2025-08-15
 rating: [2.9, 0.6, 0.6, 0.5, 0.5, 0.7]
 price: 1999

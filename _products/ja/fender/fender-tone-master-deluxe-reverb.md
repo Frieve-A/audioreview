@@ -5,6 +5,7 @@ target_name: "Fender Tone Master Deluxe Reverb"
 company_id: fender
 lang: ja
 ref: fender-tone-master-deluxe-reverb
+audiodb_uid: adb-8dc06732d12b
 date: 2025-08-26
 rating: [2.5, 0.5, 0.7, 0.3, 0.4, 0.6]
 price: 125800
@@ -12,7 +13,6 @@ summary: "1965年Deluxe Reverbの特性を独自DSPで再現し、軽量・減�
 tags: [ギターアンプ, コンボアンプ, デジタルモデリング, Fender, 100W]
 permalink: /products/ja/fender-tone-master-deluxe-reverb/
 ---
-
 ## 概要
 
 Fender Tone Master Deluxe Reverbは、1965年Deluxe Reverbの回路と22W出力特性を大規模DSPで忠実にエミュレートした100Wデジタル・コンボです [3]。パイン材キャビネットとJensen N-12Kネオジウム搭載で軽量化し、背面の6段階（22W〜0.2W相当）出力減衰、XLRラインアウト（IRキャビネットシミュレーション）、USBファーム更新、付属カバー/フットスイッチなど、現代の録音・ライブ要件を満たします [3][4]。

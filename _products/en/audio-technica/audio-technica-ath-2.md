@@ -5,6 +5,7 @@ target_name: "Audio-Technica ATH-2"
 company_id: audio-technica
 lang: en
 ref: audio-technica-ath-2
+audiodb_uid: adb-0971f754d50b
 date: 2026-05-06
 rating: [2.0, 0.5, 0.2, 0.7, 0.3, 0.3]
 price: 40
@@ -12,7 +13,6 @@ summary: "A discontinued 1970s orthodynamic headphone with no evaluable third-pa
 tags: [Headphones, Vintage, Open-back, On-ear, Discontinued, Orthodynamic]
 permalink: /products/en/audio-technica-ath-2/
 ---
-
 ## Overview
 
 The Audio-Technica ATH-2 is a vintage open-back supraaural (on-ear) headphone produced by Audio-Technica from the late 1970s to mid-1980s, employing what the company marketed as "Planar-wave Dynamic" technology — a proprietary name for isodynamic (orthodynamic/planar magnetic) driver design. Originally sold at approximately 95 DM in Germany [1], the ATH-2 is fully discontinued with no current official product page on the Audio-Technica website. It features a brown plastic headband with chrome accents, brown metal cups, supraaural ear pads, and a 2.5m cable with a 6.3mm plug. The ATH-2 is available only on the used market, with prices typically ranging from 40 USD to 100 USD depending on condition [3].

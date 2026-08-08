@@ -5,6 +5,7 @@ target_name: "ELAC DEBUT ConneX DCB41"
 company_id: elac
 lang: ja
 ref: elac-debut-connex-dcb41
+audiodb_uid: adb-003863d0f25b
 date: 2025-07-08
 rating: [4.2, 0.8, 0.8, 0.9, 0.8, 0.9]
 price: 89250
@@ -12,7 +13,6 @@ summary: "ELACのパワードブックシェルフスピーカー。4.5インチ
 tags: [ELAC, パワードスピーカー, アクティブスピーカー, HDMI ARC, Bluetooth]
 permalink: /products/ja/elac-debut-connex-dcb41/
 ---
-
 ## 概要
 
 ELAC DEBUT ConneX DCB41は、ドイツの音響メーカーELACが開発したパワードブックシェルフスピーカーです。同社のDebutシリーズの技術を基盤に、現代のデジタル音源に対応した包括的な接続機能を搭載しています。4.5インチポリプロピレンウーファーと0.75インチソフトドームツイーターの2ウェイ構成で、66Hz-25kHzの周波数特性を実現。内蔵アンプは2x50WのクラスD設計を採用し、効率的な駆動を提供します。HDMI ARC、aptX Bluetooth、USB、光デジタル、フォノ入力を含む豊富な接続オプションにより、テレビ、PC、レコードプレーヤー、スマートフォンなど幅広い音源に対応。595ドルという価格帯で、従来のパッシブスピーカー＋アンプの組み合わせを簡潔に統合したオールインワンソリューションを提供します。

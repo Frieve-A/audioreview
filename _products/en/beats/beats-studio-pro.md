@@ -5,6 +5,7 @@ target_name: "Beats Studio Pro"
 company_id: beats
 lang: en
 ref: beats-studio-pro
+audiodb_uid: adb-6f2e29070221
 date: 2025-09-04
 rating: [3.9, 0.6, 0.9, 0.8, 0.7, 0.9]
 price: 249

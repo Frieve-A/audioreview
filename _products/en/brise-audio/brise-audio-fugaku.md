@@ -5,6 +5,7 @@ target_name: "Brise Audio Fugaku"
 company_id: brise-audio
 lang: en
 ref: brise-audio-fugaku
+audiodb_uid: adb-ee485e521081
 date: 2025-12-26
 rating: [2.5, 0.5, 1.0, 0.0, 0.3, 0.7]
 price: 16999

@@ -5,6 +5,7 @@ target_name: "MiniDSP DDRC-24"
 company_id: minidsp
 lang: ja
 ref: minidsp-ddrc-24
+audiodb_uid: adb-20ebcf4e5dbe
 date: 2025-09-07
 rating: [3.3, 0.5, 0.6, 1.0, 0.4, 0.8]
 price: 67500
@@ -12,7 +13,6 @@ summary: "Dirac Liveルームコレクションを統合したコンパクトな
 tags: [DSP, ルームコレクション, DAC, Dirac Live, オーディオプロセッサー]
 permalink: /products/ja/minidsp-ddrc-24/
 ---
-
 ## 概要
 
 MiniDSP DDRC-24は、Dirac Liveルームコレクションを統合したコンパクトなステレオDSPプロセッサーです。メーカーは世界最小のDirac Live対応ハードウェアと謳っており、400 MHz SHARC ADSP-21489浮動小数点DSPを中核に、USB DAC機能、2×4チャンネルDSP処理、自動ルームコレクションを小型筐体にまとめています。アナログRCA、USB、光入力を備え、4系統のアナログ出力でサブウーファー統合やアクティブスピーカー構成をサポートします。

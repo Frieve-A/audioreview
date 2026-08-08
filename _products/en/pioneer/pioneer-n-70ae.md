@@ -5,6 +5,7 @@ target_name: "Pioneer N-70AE"
 company_id: pioneer
 lang: en
 ref: pioneer-n-70ae
+audiodb_uid: adb-2fdc79ac78b4
 date: 2025-08-09
 rating: [2.0, 0.5, 0.3, 0.3, 0.5, 0.4]
 price: 1253

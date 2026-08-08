@@ -5,6 +5,7 @@ target_name: "KEF R11 Meta"
 company_id: kef
 lang: ja
 ref: kef-r11-meta
+audiodb_uid: adb-b2405a3ae83c
 date: 2025-07-29
 rating: [4.2, 0.8, 0.8, 1.0, 0.8, 0.8]
 price: 1045000

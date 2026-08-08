@@ -5,6 +5,7 @@ target_name: "miniDSP Flex HTx"
 company_id: minidsp
 lang: ja
 ref: minidsp-flex-htx
+audiodb_uid: adb-02e95e7e9cd2
 date: 2025-09-07
 rating: [4.0, 0.9, 0.7, 1.0, 0.4, 1.0]
 price: 149800
@@ -12,7 +13,6 @@ summary: "eARCのLPCM入力、バランス/アンバランスI/O、APX測定で�
 tags: [DSP, オーディオプロセッサー, ホームシアター, マルチチャンネル, ルーム補正]
 permalink: /products/ja/minidsp-flex-htx/
 ---
-
 ## 概要
 
 miniDSP Flex HTxはホームシアター/マルチチャンネル用途向け8入力/8出力のハイレゾDSPプロセッサーです。32bit浮動小数点 400 MHz SHARC（ADSP-21489）を搭載し、**HDMI eARC（LPCM最大8ch）**、USB、アナログ入力を備えます。ベースマネジメント、PEQ、クロスオーバー、ディレイ/ゲイン、**Dirac Live（8ch・オプション）**に対応し、1U筐体にOLED表示と12Vトリガーを統合しています[1][2]。

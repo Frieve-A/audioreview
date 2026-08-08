@@ -5,6 +5,7 @@ target_name: "Neumann KH 150"
 company_id: neumann
 lang: ja
 ref: neumann-kh-150
+audiodb_uid: adb-0553799b136c
 date: 2026-02-25
 rating: [4.7, 0.8, 1.0, 1.0, 0.9, 1.0]
 price: 511200
@@ -12,7 +13,6 @@ summary: "クリティカルなモニタリング用途において、卓越し�
 tags: [スタジオモニター, アクティブスピーカー, プロオーディオ, DSP, ニアフィールドモニター]
 permalink: /products/ja/neumann-kh-150/
 ---
-
 ## 概要
 
 Neumann KH 150は2022年9月にリリースされたDSP搭載バイアンプ方式のスタジオモニターで、Neumannのプロフェッショナルモニター製品ライン内ではKH 120とKH 310の間に位置づけられています。プロフェッショナルオーディオ分野でのNeumannの数十年の経験をベースに構築されたこのモニターは、特許出願中のクラスDアンプ技術、独自のMathematically Modelled Dispersion（MMD）ウェーブガイド、高度なDSP処理を組み込んでいます。2ウェイ設計には、カスタムの6.5インチウーファーと1インチツィーターが採用され、それぞれ145Wと100Wのアンプで駆動され、39 Hzから21 kHzまでの周波数特性を実現しています。

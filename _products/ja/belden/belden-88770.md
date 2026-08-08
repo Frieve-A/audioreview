@@ -5,6 +5,7 @@ target_name: "Belden 88770"
 company_id: belden
 lang: ja
 ref: belden-88770
+audiodb_uid: adb-bd4a4f677a29
 date: 2025-08-22
 rating: [2.4, 0.5, 0.4, 0.5, 0.6, 0.4]
 price: 772
@@ -12,7 +13,6 @@ summary: "3芯18 AWG（19×30）FEP絶縁・FEPジャケット、全面Beldfoil�
 tags: [ケーブル, オーディオケーブル, Belden, FEP, シールド, 3芯]
 permalink: /products/ja/belden-88770/
 ---
-
 ## 概要
 
 Belden 88770は、より線めっき銅18 AWG（19×30）の3芯にFEP絶縁・FEPジャケット、全面Beldfoil®シールド（100%カバレージ）および20 AWGドレンを備えた**CMPプラナム**対応の電子・制御・計装用多芯ケーブルです。代表仕様は300V耐圧、動作温度範囲−70 °C〜+200 °C、導体色はブラック／ホワイト／レッドです。非プラナムの等価品は8770（PE/PVC構成、CM）です。[1][2][6][7]

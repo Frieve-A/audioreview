@@ -5,6 +5,7 @@ target_name: "MarkAudio MicroNC5 Utag"
 company_id: markaudio
 lang: en
 ref: markaudio-micronc5-utag
+audiodb_uid: adb-5216148b09f5
 date: 2025-08-24
 rating: [2.5, 0.6, 0.8, 0.5, 0.4, 0.2]
 price: 600

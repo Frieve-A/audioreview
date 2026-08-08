@@ -5,6 +5,7 @@ target_name: "Lafitear LM1"
 company_id: lafitear
 lang: ja
 ref: lafitear-lm1
+audiodb_uid: adb-9f6552ed68fc
 date: 2025-11-22
 rating: [3.4, 0.5, 0.7, 0.7, 0.6, 0.9]
 price: 2310

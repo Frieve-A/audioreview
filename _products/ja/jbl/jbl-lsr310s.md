@@ -5,6 +5,7 @@ target_name: "JBL LSR310S"
 company_id: jbl
 lang: ja
 ref: jbl-lsr310s
+audiodb_uid: adb-5855024d637f
 date: 2025-07-23
 rating: [3.8, 0.5, 0.7, 1.0, 0.8, 0.8]
 price: 39800
@@ -12,7 +13,6 @@ summary: "200W Class Dアンプと10インチドライバーを搭載したJBL�
 tags: [スタジオサブウーファー, JBL, モニタースピーカー, ニアフィールド]
 permalink: /products/ja/jbl-lsr310s/
 ---
-
 ## 概要
 
 JBL LSR310Sは、JBLのプロフェッショナル向けLSRシリーズに属するスタジオサブウーファーです。200W Class Dアンプと10インチカスタムドライバーを組み合わせ、下向き発射設計により公称27Hzまでの低域拡張を実現しています。XLF（Extended Low Frequency）設定により、ダンスクラブ向けの超低域チューニングにも対応します。スタジオモニターとしての正確なモニタリング環境の構築を目的とした製品で、特にJBLのLSRモニターシリーズとの統合を想定しています。

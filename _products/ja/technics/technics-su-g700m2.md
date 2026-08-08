@@ -5,6 +5,7 @@ target_name: "Technics SU-G700M2"
 company_id: technics
 lang: ja
 ref: technics-su-g700m2
+audiodb_uid: adb-70124a5e8f76
 date: 2025-07-27
 rating: [3.0, 0.3, 0.8, 0.3, 0.8, 0.8]
 price: 404850

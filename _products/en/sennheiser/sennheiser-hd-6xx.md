@@ -5,6 +5,7 @@ target_name: "Sennheiser HD 6XX"
 company_id: sennheiser
 lang: en
 ref: sennheiser-hd-6xx
+audiodb_uid: adb-da5570029569
 date: 2025-08-20
 rating: [3.5, 0.6, 0.7, 0.5, 0.9, 0.8]
 price: 199
@@ -12,7 +13,6 @@ summary: "The HD 6XX brings the HD 650 lineage to a more accessible price. Multi
 tags: [Headphones, Open-back, Reference, Value, Germany]
 permalink: /products/en/sennheiser-hd-6xx/
 ---
-
 ## Overview
 
 The Sennheiser HD 6XX is a Drop (formerly Massdrop) collaboration model that carries over the HD650’s open-back dynamic design. It’s specified at 300 Ω and uses a fully serviceable construction with Ireland manufacturing indicated on the product page[2]. Independent labs report that, with fresh pads, the HD 650 and HD 6XX measure very similarly[1]. Typical street pricing in the US is 199 USD[2].

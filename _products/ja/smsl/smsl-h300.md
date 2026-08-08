@@ -5,6 +5,7 @@ target_name: "SMSL H300"
 company_id: smsl
 lang: ja
 ref: smsl-h300
+audiodb_uid: adb-e20376d7bfe2
 date: 2025-10-15
 rating: [3.9, 0.8, 0.8, 0.9, 0.4, 1.0]
 price: 44300
@@ -12,7 +13,6 @@ summary: "優れた測定性能と良好なコストパフォーマンスを持�
 tags: [ヘッドホンアンプ, バランス, 高出力, プリアンプ]
 permalink: /products/ja/smsl-h300/
 ---
-
 ## 概要
 
 SMSL H300は、64個の低ノイズオペアンプを並列構成で搭載した完全バランス設計のヘッドホンアンプ兼プリアンプです。2009年に設立されたSMSL（Foshan ShuangMuSanLin Technology Co., Ltd.）が製造するこのコンパクトなデスクトップアンプは、チャンネルあたり最大10Wの出力と超低歪み仕様を実現しています。H300は独自の精密リニアフィードバック回路（PLFC）と包括的な保護システムを組み込み、中級ヘッドホンアンプ市場において高性能ソリューションとしての地位を確立しています。

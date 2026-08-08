@@ -5,6 +5,7 @@ target_name: "Klipsch Cornwall IV"
 company_id: klipsch
 lang: ja
 ref: klipsch-cornwall-iv
+audiodb_uid: adb-a7684f7568ba
 date: 2025-09-18
 rating: [2.5, 0.5, 0.5, 0.3, 0.9, 0.3]
 price: 1094900

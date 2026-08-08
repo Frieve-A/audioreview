@@ -5,6 +5,7 @@ target_name: "Harbeth Super HL5 Plus XD"
 company_id: harbeth
 lang: en
 ref: harbeth-super-hl5-plus-xd
+audiodb_uid: adb-a275577dcb7c
 date: 2025-08-13
 rating: [2.5, 0.5, 0.5, 0.3, 0.8, 0.4]
 price: 7790
@@ -12,7 +13,6 @@ summary: "Large monitor speakers with traditional BBC design philosophy, offerin
 tags: [Monitor, Bookshelf, BBC, Passive, Traditional]
 permalink: /products/en/harbeth-super-hl5-plus-xd/
 ---
-
 ## Overview
 
 The Harbeth Super HL5 Plus XD represents the company's flagship monitor speaker, embodying decades of BBC research tradition. This three-way design features a 200mm RADIAL2 polymeric composite-cone bass/mid driver, 25mm ferrofluid-cooled aluminum tweeter, and 20mm aluminum dome super tweeter. The cabinet measures 635 × 322 × 300 mm and each speaker weighs 15.8 kg. The construction follows established BBC-inspired lossy-panel principles with specifically damped enclosure behavior [1].

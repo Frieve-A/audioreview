@@ -5,6 +5,7 @@ target_name: "KZ ZAX"
 company_id: kz
 lang: ja
 ref: kz-zax
+audiodb_uid: adb-cb27b9ec01a1
 date: 2025-07-23
 rating: [2.4, 0.4, 0.5, 0.5, 0.5, 0.5]
 price: 6000

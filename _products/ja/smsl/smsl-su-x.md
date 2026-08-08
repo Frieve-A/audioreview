@@ -5,6 +5,7 @@ target_name: "SMSL SU-X"
 company_id: smsl
 lang: ja
 ref: smsl-su-x
+audiodb_uid: adb-4e9e987816d1
 date: 2025-08-28
 rating: [3.2, 0.8, 0.8, 0.5, 0.5, 0.6]
 price: 134800
@@ -12,7 +13,6 @@ summary: "デュアルES9039MSPROを搭載し、USB/光/同軸/AES/I2SやLDAC対
 tags: [DAC, デスクトップオーディオ, ESS, ハイレゾ, MQA, Bluetooth]
 permalink: /products/ja/smsl-su-x/
 ---
-
 ## 概要
 
 **SMSL SU-X**は**2024年**に登場したバランス出力対応のフラッグシップDACです。**ESS ES9039MSPRO×2**（8chモノ構成）と**XMOS XU-316**を採用し、**USB/光/同軸/AES/EBU/I2S**入力、**Bluetooth（Qualcomm、LDAC 24bit/96 kHz＋aptX/HD、AAC、SBC）**、XLR/RCA出力を備えます。メーカーは**THD+N 0.00004%（-128 dB）**、**CK-03**クロック処理、**第2PLL**、**デジタル/アナログ独立リニア電源**をうたっています[1]。本機はSH-Xアンプと重ねて使うスタック構成も想定されています。

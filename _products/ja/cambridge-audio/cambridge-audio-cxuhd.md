@@ -5,6 +5,7 @@ target_name: "Cambridge Audio CXUHD"
 company_id: cambridge-audio
 lang: ja
 ref: cambridge-audio-cxuhd
+audiodb_uid: adb-a0fce42f576f
 date: 2025-10-19
 rating: [2.2, 0.5, 0.4, 0.5, 0.7, 0.1]
 price: 34950
@@ -12,7 +13,6 @@ summary: "アナログ出力なしのデジタルトランスポート機能を�
 tags: [Digital Transport, Blu-ray Player, 4K UHD, HDR, Cambridge Audio]
 permalink: /products/ja/cambridge-audio-cxuhd/
 ---
-
 ## 概要
 
 Cambridge Audio CXUHDは、アナログ出力を一切持たない純粋なデジタルトランスポートとして設計された、生産終了済みのユニバーサル4K Blu-rayプレーヤーです。Oppo UDP-203の代替製品として発売され、UHD Blu-ray、Blu-ray、DVD-Audio、SACD、CDの包括的なディスクフォーマットに加え、HDR10およびDolby Vision対応の4K映像再生をサポートしていました。MediaTek MTK8591プロセッサプラットフォームを採用し、デュアルHDMI出力、デジタル音声出力、ネットワーク接続、豊富なマルチメディアフォーマット対応を備えています。Cambridge Audioは内蔵DACを一切除去することで、デジタル領域での信号純度を維持する高級デジタルソースコンポーネントとして位置づけていました。現在は生産終了、ファームウェアサポートも終了しており、中古市場でのみ入手可能です。

@@ -5,6 +5,7 @@ target_name: "Polk Audio Reserve R200"
 company_id: polk-audio
 lang: en
 ref: polk-audio-reserve-r200
+audiodb_uid: adb-44300da0fb6a
 date: 2025-07-18
 rating: [3.6, 0.7, 0.6, 0.9, 0.8, 0.6]
 price: 699

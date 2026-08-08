@@ -5,6 +5,7 @@ target_name: "Douk Audio EQ5"
 company_id: douk-audio
 lang: ja
 ref: douk-audio-eq5
+audiodb_uid: adb-1d4e2444a5fb
 date: 2025-10-19
 rating: [3.2, 0.5, 0.4, 1.0, 0.6, 0.7]
 price: 7500
@@ -12,7 +13,6 @@ summary: "Bluetooth接続対応の5バンドイコライザーシリーズ。手
 tags: [イコライザー, オーディオ処理, Bluetooth, アナログオーディオ, プリアンプ, ホームオーディオ]
 permalink: /products/ja/douk-audio-eq5/
 ---
-
 ## 概要
 
 Douk Audio EQ5シリーズは、基本モデルのEQ5、BluetoothとVUメーター付きのEQ5 PRO、類似機能だがEQ周波数帯域が異なるEQ5-TONEの3つの5バンドイコライザーモデルで構成されています。これらのコンパクトなアナログイコライザーは、基本的なトーンコントロール機能を求める予算重視のオーディオ愛好家をターゲットとしています。7,500円で販売されるEQ5は、5バンドEQ機能、RCAと3.5mm接続を含む基本的なI/Oオプションを備えたシリーズの基本モデルです。

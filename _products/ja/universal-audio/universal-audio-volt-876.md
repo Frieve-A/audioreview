@@ -5,6 +5,7 @@ target_name: "Universal Audio Volt 876"
 company_id: universal-audio
 lang: ja
 ref: universal-audio-volt-876
+audiodb_uid: adb-f8d73c316ab9
 date: 2025-12-13
 rating: [3.9, 0.9, 0.7, 1.0, 0.6, 0.7]
 price: 150000
@@ -12,7 +13,6 @@ summary: "ビンテージアナログプリアンプとコンプレッサー回�
 tags: [オーディオインターフェース, レコーディング, プリアンプ, Universal Audio, USB, コンプレッサー]
 permalink: /products/ja/universal-audio-volt-876/
 ---
-
 ## 概要
 
 Universal Audio Volt 876は、プロフェッショナル録音アプリケーション向けに設計された8チャンネルUSBオーディオインターフェースで、32ビット/192kHz A/D・D/A変換を特徴としています。このインターフェースは、UAの610チューブコンソールにインスピレーションを得た8系統のアナログビンテージプリアンプと8系統のオンボード1176スタイルアナログコンプレッサー回路を搭載しています。合計24入力・28出力を備え、ADAT、S/PDIF、MIDI I/Oを含む包括的な接続性を提供します。1958年に設立され1999年に再建されたUniversal Audioは、クラシックアナログ録音機器の忠実な再現と現代デジタル録音ツールの開発における評判を維持しています。

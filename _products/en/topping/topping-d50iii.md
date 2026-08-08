@@ -5,6 +5,7 @@ target_name: "Topping D50III"
 company_id: topping
 lang: en
 ref: topping-d50iii
+audiodb_uid: adb-cfb664a722bf
 date: 2025-07-08
 rating: [4.0, 0.9, 0.8, 0.6, 0.9, 0.8]
 price: 229
@@ -12,7 +13,6 @@ summary: "Desktop DAC with dual ES9039Q2M chips. Measurement performance at high
 tags: [Desktop DAC, ES9039Q2M, Bluetooth, PEQ, Preamp Function]
 permalink: /products/en/topping-d50iii/
 ---
-
 ## Overview
 
 The Topping D50III is a desktop DAC and preamp featuring dual ES9039Q2M DAC chips. It supports PCM 768kHz/32bit and DSD512, with diverse functionality including Bluetooth 5.1 (LDAC support), 10-band parametric EQ, preamp mode, and remote control. Boasting measured specifications of 132dB SNR and THD+N 0.00006%, it enters the desktop audio market at USD 229.

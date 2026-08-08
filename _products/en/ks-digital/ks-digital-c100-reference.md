@@ -5,6 +5,7 @@ target_name: "KS Digital C100 Reference"
 company_id: ks-digital
 lang: en
 ref: ks-digital-c100-reference
+audiodb_uid: adb-c7a208fec81c
 date: 2025-10-14
 rating: [4.2, 0.7, 0.8, 1.0, 0.8, 0.9]
 price: 2350

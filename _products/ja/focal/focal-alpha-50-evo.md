@@ -5,6 +5,7 @@ target_name: "Focal Alpha 50 Evo"
 company_id: focal
 lang: ja
 ref: focal-alpha-50-evo
+audiodb_uid: adb-174601ba3c07
 date: 2025-08-16
 rating: [2.6, 0.5, 0.7, 0.4, 0.5, 0.5]
 price: 92400
@@ -12,7 +13,6 @@ summary: "スレートファイバー振動板と前面ラミナーポートを�
 tags: [スタジオモニター, パワードスピーカー, ニアフィールドモニター, クラスDアンプ, スレートファイバー]
 permalink: /products/ja/focal-alpha-50-evo/
 ---
-
 ## 概要
 
 Focal Alpha 50 Evoは、Focal独自のSlatefiber（スレートファイバー）コーンとアルミ逆ドーム型ツイーターを採用した5インチ・ニアフィールドモニターです。定格はクラスDバイアンプ合計60W（LF 35W + HF 25W）、周波数特性は45Hz–22kHz（±3dB）、最大SPLは1mで101dB（ピーク）です。前面ラミナーポート、着脱式金属グリル、XLR/TRS/RCA入力、LFシェルフ±6dB・HFシェルフ±3dB、**オートスタンバイ（約15分）**など実用装備を備えます［1][2]。

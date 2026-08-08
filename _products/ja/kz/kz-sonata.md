@@ -5,6 +5,7 @@ target_name: "KZ Sonata"
 company_id: kz
 lang: ja
 ref: kz-sonata
+audiodb_uid: adb-145f7998fa64
 date: 2025-08-14
 rating: [2.2, 0.5, 0.5, 0.5, 0.4, 0.3]
 price: 22499

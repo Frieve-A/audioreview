@@ -5,6 +5,7 @@ target_name: "Edifier QS30"
 company_id: edifier
 lang: en
 ref: edifier-qs30
+audiodb_uid: adb-165c98af8999
 date: 2025-09-01
 rating: [2.7, 0.3, 0.5, 0.7, 0.7, 0.5]
 price: 63
@@ -12,7 +13,6 @@ summary: "Compact under-monitor soundbar with USB/BT and RGB; limited bandwidth 
 tags: [Desktop speakers, USB powered, RGB lighting, Soundbar, Computer speakers]
 permalink: /products/en/edifier-qs30/
 ---
-
 ## Overview
 
 The QS30 is a compact under-monitor soundbar supporting USB audio and Bluetooth 5.4. It uses dual 2" full-range drivers (5W RMS total) with independent cavities and bass-reflex ports, includes a built-in microphone, RGB lighting via TempoAbyss, and app control through Edifier ConneX/TempoHub for EQ, lighting, and firmware updates［1][2］.

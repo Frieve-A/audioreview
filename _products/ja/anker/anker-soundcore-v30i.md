@@ -5,6 +5,7 @@ target_name: "Anker Soundcore V30i"
 company_id: anker
 lang: ja
 ref: anker-soundcore-v30i
+audiodb_uid: adb-061ebef826c4
 date: 2025-09-02
 rating: [3.2, 0.3, 0.4, 1.0, 0.5, 1.0]
 price: 6000
@@ -12,7 +13,6 @@ summary: "36時間のバッテリー寿命とIPX5防水性能を備えたオー�
 tags: [オープンイヤー, ワイヤレス, Bluetooth, スポーツ, 予算]
 permalink: /products/ja/anker-soundcore-v30i/
 ---
-
 ## 概要
 
 Soundcore V30iは、Ankerが手頃な価格のオープンイヤーヘッドフォン市場に参入した製品で、Bose Ultra Open Earbudsなどのプレミアム競合製品に対する予算重視の代替品として位置づけられています。14.2mmバイオマテリアルドライバー、総計36時間のバッテリー寿命、IPX5防水性能を特徴とし、プレミアム価格の一部でオープンイヤーの基本機能を提供することを目指しています。人間工学的なイヤーフックを備えた軽量設計により、従来のインイヤー設計の完全な遮音を避けながら、スポーツ活動、通勤、オフィスワーク中の周囲環境認識を求めるユーザーをターゲットとしています。

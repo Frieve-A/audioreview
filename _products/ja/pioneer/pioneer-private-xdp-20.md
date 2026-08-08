@@ -5,6 +5,7 @@ target_name: "Pioneer Private XDP-20"
 company_id: pioneer
 lang: ja
 ref: pioneer-private-xdp-20
+audiodb_uid: adb-302a3af2eb4c
 date: 2025-09-24
 rating: [2.2, 0.7, 0.3, 0.8, 0.3, 0.1]
 price: 44999
@@ -12,7 +13,6 @@ summary: "デュアルESS ES9018C2M DACを搭載したポータブルDAP。生�
 tags: [デジタルオーディオプレーヤー, ポータブル, ESS, DSD, MQA, Bluetooth, Wi-Fi]
 permalink: /products/ja/pioneer-private-xdp-20/
 ---
-
 ## 概要
 
 Pioneer Private XDP-20は2018年のCESで発表された（2017年12月に日本先行発売）ポータブル高解像度デジタルオーディオプレーヤーで、デュアルESS ES9018C2M DACとデュアルESS ES9601Kアンプを搭載しています。当初299.99ドル（日本では44,999円）で販売され、DSD 5.6MHzまでの対応、MQAデコード、バランス・アンバランス両出力を備えてプレミアムポータブルオーディオ市場を狙いました。XDP-20は2.4インチ静電容量式タッチスクリーン、16GB内蔵ストレージ、デュアルmicroSDスロット、Wi-Fi接続、Bluetooth対応を搭載。Pioneerは技術的により厳密なTADプロフェッショナル部門とは別に、コンシューマオーディオラインナップの一部として位置付けました。

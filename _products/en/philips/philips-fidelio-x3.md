@@ -5,6 +5,7 @@ target_name: "Philips Fidelio X3"
 company_id: philips
 lang: en
 ref: philips-fidelio-x3
+audiodb_uid: adb-a0e94973d219
 date: 2025-09-23
 rating: [1.7, 0.2, 0.5, 0.2, 0.4, 0.4]
 price: 149.99
@@ -12,7 +13,6 @@ summary: "Open-back headphones with angled drivers and premium materials, but hi
 tags: [Headphones, Open-back, Dynamic, Wired]
 permalink: /products/en/philips-fidelio-x3/
 ---
-
 ## Overview
 
 The Philips Fidelio X3 represents the company's audiophile-oriented open-back headphone offering, positioned as an upgrade to the popular X2 series. These headphones feature 50mm neodymium drivers with a distinctive 15-degree angled configuration, multi-layer polymer diaphragms with damping gel, and premium materials including Scottish leather and Kvadrat fabric. The X3 targets audio enthusiasts seeking natural, spacious sound reproduction through its open-back design. Philips, a global technology conglomerate with substantial R&D investment and extensive patent portfolio, brings significant engineering resources to this consumer audio product.

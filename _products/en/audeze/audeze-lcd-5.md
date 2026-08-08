@@ -5,6 +5,7 @@ target_name: "Audeze LCD-5"
 company_id: audeze
 lang: en
 ref: audeze-lcd-5
+audiodb_uid: adb-22050670b2a9
 date: 2025-09-05
 rating: [2.6, 0.4, 0.7, 0.1, 0.6, 0.8]
 price: 4500

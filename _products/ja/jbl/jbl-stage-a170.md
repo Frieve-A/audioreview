@@ -5,6 +5,7 @@ target_name: "JBL Stage A170"
 company_id: jbl
 lang: ja
 ref: jbl-stage-a170
+audiodb_uid: adb-b7f2e75fbed5
 date: 2025-08-13
 rating: [3.3, 0.6, 0.4, 0.9, 0.8, 0.6]
 price: 74999

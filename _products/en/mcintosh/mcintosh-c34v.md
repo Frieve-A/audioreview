@@ -5,6 +5,7 @@ target_name: "McIntosh C34V"
 company_id: mcintosh
 lang: en
 ref: mcintosh-c34v
+audiodb_uid: adb-39412786866d
 date: 2025-08-31
 rating: [1.6, 0.6, 0.2, 0.3, 0.3, 0.2]
 price: 1800

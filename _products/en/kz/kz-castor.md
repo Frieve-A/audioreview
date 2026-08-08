@@ -5,6 +5,7 @@ target_name: "KZ KZ Castor"
 company_id: kz
 lang: en
 ref: kz-castor
+audiodb_uid: adb-df6de78fee21
 date: 2026-02-11
 rating: [3.0, 0.4, 0.6, 1.0, 0.3, 0.7]
 price: 15.99

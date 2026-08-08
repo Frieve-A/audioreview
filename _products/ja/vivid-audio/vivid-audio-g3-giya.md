@@ -5,6 +5,7 @@ target_name: "Vivid Audio G3 Giya"
 company_id: vivid-audio
 lang: ja
 ref: vivid-audio-g3-giya
+audiodb_uid: adb-62de63bca452
 date: 2025-09-03
 rating: [3.4, 0.7, 0.8, 0.3, 0.7, 0.9]
 price: 6400000

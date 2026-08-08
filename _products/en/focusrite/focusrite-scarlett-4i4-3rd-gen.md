@@ -5,6 +5,7 @@ target_name: "Focusrite Scarlett 4i4 3rd Gen"
 company_id: focusrite
 lang: en
 ref: focusrite-scarlett-4i4-3rd-gen
+audiodb_uid: adb-851e60a38aa9
 date: 2025-11-18
 rating: [3.9, 0.6, 0.8, 1.0, 0.6, 0.9]
 price: 177

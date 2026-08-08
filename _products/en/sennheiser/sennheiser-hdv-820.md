@@ -5,6 +5,7 @@ target_name: "Sennheiser HDV 820"
 company_id: sennheiser
 lang: en
 ref: sennheiser-hdv-820
+audiodb_uid: adb-78d4747570ca
 date: 2025-08-10
 rating: [2.1, 0.3, 0.7, 0.2, 0.6, 0.3]
 price: 2750
@@ -12,7 +13,6 @@ summary: "High-end DAC/headphone amplifier with concerning measurement issues th
 tags: [DAC, Headphone-amplifier, ESS-SABRE32, Balanced, Desktop-audio]
 permalink: /products/en/sennheiser-hdv-820/
 ---
-
 ## Overview
 
 The Sennheiser HDV 820 is a premium desktop DAC and headphone amplifier featuring an ESS SABRE32 DAC with support for 32-bit/384kHz PCM and DSD256 playback. Positioned as a reference-grade amplifier at USD 2,749.95 (current B&H pricing), it offers comprehensive connectivity including balanced XLR outputs and multiple headphone output options. The unit employs symmetrical balanced circuitry throughout and targets high-impedance headphone users with its sophisticated German engineering pedigree.

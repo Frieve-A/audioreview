@@ -5,6 +5,7 @@ target_name: "Altec 612C"
 company_id: altec
 lang: en
 ref: altec-612c
+audiodb_uid: adb-e8e822fb79ea
 date: 2025-07-26
 rating: [1.5, 0.2, 0.3, 0.2, 0.3, 0.5]
 price: 2200

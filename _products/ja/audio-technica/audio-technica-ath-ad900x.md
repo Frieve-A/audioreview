@@ -5,6 +5,7 @@ target_name: "Audio-Technica ATH-AD900X"
 company_id: audio-technica
 lang: ja
 ref: audio-technica-ath-ad900x
+audiodb_uid: adb-70fdf1f6b2f8
 date: 2025-12-07
 rating: [2.5, 0.3, 0.6, 0.6, 0.7, 0.3]
 price: 44740

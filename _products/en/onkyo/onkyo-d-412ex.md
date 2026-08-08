@@ -5,6 +5,7 @@ target_name: "Onkyo D-412EX"
 company_id: onkyo
 lang: en
 ref: onkyo-d-412ex
+audiodb_uid: adb-a2affcab5b04
 date: 2025-08-05
 rating: [2.7, 0.5, 0.6, 0.5, 0.6, 0.5]
 price: 533
@@ -12,7 +13,6 @@ summary: "A 2-way bookshelf speaker featuring A-OMF diaphragm technology. Suppor
 tags: [Bookshelf, Passive, 2-Way, Bi-wiring, Onkyo]
 permalink: /products/en/onkyo-d-412ex/
 ---
-
 ## Overview
 
 The Onkyo D-412EX is a 2-way bookshelf speaker featuring A-OMF diaphragm and aluminum equalizer technologies. With 4-ohm impedance, 200W maximum input power, and 85dB/W/m sensitivity, it claims a frequency response of 37Hz-100kHz. The speaker features bi-wiring compatible terminals, front bass reflex design, and piano-finished top panel with veneer-finished side panels, reflecting the technical expertise of the established Japanese audio manufacturer Onkyo.

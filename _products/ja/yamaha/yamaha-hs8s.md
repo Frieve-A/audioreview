@@ -5,6 +5,7 @@ target_name: "Yamaha HS8S"
 company_id: yamaha
 lang: ja
 ref: yamaha-hs8s
+audiodb_uid: adb-c52fa1d469d2
 date: 2025-08-15
 rating: [3.1, 0.5, 0.4, 0.8, 0.7, 0.7]
 price: 51500
@@ -12,7 +13,6 @@ summary: "22Hzまでの低域拡張と150Wアンプを備えた従来型8イン�
 tags: [サブウーファー, スタジオモニター, アクティブスピーカー, パワード]
 permalink: /products/ja/yamaha-hs8s/
 ---
-
 ## 概要
 
 Yamaha HS8Sは、HSシリーズモニター向けに設計された8インチのパワード・スタジオサブウーファーです。2013年から同社のプロオーディオ製品に位置づけられ、MDFキャビネットのバスレフ構造を採用し、周波数応答は22Hzまで拡張とされています。150Wの専用アンプ、80–120Hzの可変クロスオーバー、XLR/TRS入出力など、スタジオ統合に必要な基礎機能を備えます。[1][2]

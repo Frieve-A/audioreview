@@ -5,6 +5,7 @@ target_name: "Behringer XM8500"
 company_id: behringer
 lang: en
 ref: behringer-xm8500
+audiodb_uid: adb-a64edfeef0e4
 date: 2025-09-13
 rating: [2.2, 0.1, 0.4, 0.7, 0.4, 0.6]
 price: 20

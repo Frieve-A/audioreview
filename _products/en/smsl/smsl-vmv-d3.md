@@ -5,6 +5,7 @@ target_name: "SMSL VMV D3"
 company_id: smsl
 lang: en
 ref: smsl-vmv-d3
+audiodb_uid: adb-effca0094db2
 date: 2025-08-28
 rating: [2.6, 0.8, 0.6, 0.4, 0.6, 0.2]
 price: 3499

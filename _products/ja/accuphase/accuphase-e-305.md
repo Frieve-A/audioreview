@@ -5,6 +5,7 @@ target_name: "Accuphase E-305"
 company_id: accuphase
 lang: ja
 ref: accuphase-e-305
+audiodb_uid: adb-758bfc50d960
 date: 2025-08-21
 rating: [2.5, 0.7, 0.4, 0.5, 0.5, 0.4]
 price: 368000

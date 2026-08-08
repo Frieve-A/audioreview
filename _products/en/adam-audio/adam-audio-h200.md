@@ -5,6 +5,7 @@ target_name: "Adam Audio H200"
 company_id: adam-audio
 lang: en
 ref: adam-audio-h200
+audiodb_uid: adb-6c8e04d8e8cc
 date: 2025-08-20
 rating: [3.6, 0.7, 0.7, 1.0, 0.6, 0.6]
 price: 150
@@ -12,7 +13,6 @@ summary: "Professional closed-back studio headphones with PEEK diaphragms and a 
 tags: [Headphones, Studio-monitor, Closed-back, Professional]
 permalink: /products/en/adam-audio-h200/
 ---
-
 ## Overview
 
 The Adam Audio H200 is the company's first fully in-house headphone design. These closed-back, circumaural headphones use 40 mm PEEK diaphragm drivers and a patent-pending internal airflow structure aimed at combining strong passive isolation with a neutral tuning. At **USD 150**, the H200 targets professional tracking and mix-checking while undercutting much of the field on price. A notable bonus is the included **Headphone Utility** plug-in (developed with Sonnox), which adds crossfeed ("Externalization"), two voicings (Pure / UNR), an earpad selector EQ, and gain compensation.

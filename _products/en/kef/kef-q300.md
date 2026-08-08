@@ -5,6 +5,7 @@ target_name: "KEF Q300"
 company_id: kef
 lang: en
 ref: kef-q300
+audiodb_uid: adb-192b146bdffe
 date: 2025-08-03
 rating: [3.3, 0.4, 0.6, 1.0, 0.6, 0.7]
 price: 155

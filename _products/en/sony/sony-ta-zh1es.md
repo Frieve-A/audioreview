@@ -5,6 +5,7 @@ target_name: "Sony TA-ZH1ES"
 company_id: sony
 lang: en
 ref: sony-ta-zh1es
+audiodb_uid: adb-d0b01d4e8c3c
 date: 2025-08-13
 rating: [2.4, 0.7, 0.7, 0.2, 0.6, 0.2]
 price: 1249

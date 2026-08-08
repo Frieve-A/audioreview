@@ -5,6 +5,7 @@ target_name: "miniDSP EARS"
 company_id: minidsp
 lang: ja
 ref: minidsp-ears
+audiodb_uid: adb-51ec883f9224
 date: 2025-09-08
 rating: [3.4, 0.7, 0.4, 1.0, 0.4, 0.9]
 price: 26800
@@ -12,7 +13,6 @@ summary: "前例のない価格でキャリブレーション済みデュアル�
 tags: [測定機器, USBオーディオ, ヘッドホンテスト, キャリブレーションマイク]
 permalink: /products/ja/minidsp-ears/
 ---
-
 ## 概要
 
 miniDSP EARS（Earphone Audio Response System）は、179 USD（26,800円）でコンシューマー市場に基本的な測定機能をもたらすUSB給電ヘッドホン測定フィクスチャーです。miniDSPのUMIK-1キャリブレーション測定マイクと同じ技術をベースとし、個別キャリブレーションファイルを持つミニマルなダミーヘッドに搭載されたデュアルマイクロフォンカプセルを特徴としています。ヘッドホン測定において前例のないアクセシビリティを提供する一方で、解剖学的に正確な耳道シミュレーションではなく、ストレートな円筒形チューブを使用するなど、プロフェッショナル基準と比較して重要な幾何学的妥協を採用しています。

@@ -5,6 +5,7 @@ target_name: "Accuphase E-3000"
 company_id: accuphase
 lang: en
 ref: accuphase-e-3000
+audiodb_uid: adb-df73ea29c97f
 date: 2025-10-15
 rating: [3.0, 0.7, 0.8, 0.1, 1.0, 0.4]
 price: 8950

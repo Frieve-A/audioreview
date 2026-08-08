@@ -5,6 +5,7 @@ target_name: "Yamaha A-S801"
 company_id: yamaha
 lang: en
 ref: yamaha-a-s801
+audiodb_uid: adb-0bee455fabb9
 date: 2025-08-05
 rating: [3.9, 0.7, 0.7, 1.0, 0.5, 1.0]
 price: 1000

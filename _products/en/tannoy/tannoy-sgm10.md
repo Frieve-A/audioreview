@@ -5,6 +5,7 @@ target_name: "Tannoy SGM10"
 company_id: tannoy
 lang: en
 ref: tannoy-sgm10
+audiodb_uid: adb-27739cf2ffe6
 date: 2025-08-01
 rating: [3.1, 0.6, 0.7, 0.1, 0.8, 0.9]
 price: 3667

@@ -5,6 +5,7 @@ target_name: "TOPPING G5"
 company_id: topping
 lang: en
 ref: topping-g5
+audiodb_uid: adb-9b6e2068fb09
 date: 2025-11-26
 rating: [3.6, 0.7, 0.7, 1.0, 0.3, 0.9]
 price: 254

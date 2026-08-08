@@ -5,6 +5,7 @@ target_name: "SAMSON SR990"
 company_id: samson
 lang: en
 ref: samson-sr990
+audiodb_uid: adb-fd12be08d1ca
 date: 2026-05-23
 rating: [2.2, 0.5, 0.1, 0.6, 0.5, 0.5]
 price: 99.99
@@ -12,7 +13,6 @@ summary: "Entry-level closed-back passive studio monitoring headphone with conve
 tags: [Headphones, Closed-back, Over-ear, Studio, Wired, Passive]
 permalink: /products/en/samson-sr990/
 ---
-
 ## Overview
 
 The SAMSON SR990 is a closed-back, over-ear passive dynamic studio reference headphone released around 2020, positioned by Samson Technologies for home studio monitoring, mixing, and personal listening. It uses a 50 mm neodymium dynamic driver with a 32 Ω impedance and 95 dB SPL @ 1 kHz / 1 mW sensitivity, terminated in a fixed 2.5 m single-sided cable with a 3.5 mm gold-plated plug and a screw-on 6.3 mm adapter. The package bundles a velour pad set and a protein-leather pad set, a wide self-adjusting headband, and a 2-year US warranty [1][2]. Samson is a long-running mass-market pro-audio brand whose SR-series sits in the sub-100 USD studio-headphone segment alongside Audio-Technica's M-series and AKG's K-series.

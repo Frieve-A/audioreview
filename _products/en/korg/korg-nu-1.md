@@ -5,6 +5,7 @@ target_name: "KORG Nu 1"
 company_id: korg
 lang: en
 ref: korg-nu-1
+audiodb_uid: adb-1f8e0383c6e1
 date: 2025-08-01
 rating: [3.2, 0.6, 0.7, 1.0, 0.4, 0.5]
 price: 200

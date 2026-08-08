@@ -5,6 +5,7 @@ target_name: "Polk Audio Signature Elite ES15"
 company_id: polk-audio
 lang: ja
 ref: polk-audio-signature-elite-es15
+audiodb_uid: adb-211640e00bd1
 date: 2025-07-18
 rating: [3.0, 0.5, 0.4, 0.9, 0.6, 0.6]
 price: 47000
@@ -12,7 +13,6 @@ summary: "Polk Audio Signature Elite ES15は、価格帯に応じた標準的な
 tags: [パッシブスピーカー, ブックシェルフ, ハイレゾ認証, 2ウェイ]
 permalink: /products/ja/polk-audio-signature-elite-es15/
 ---
-
 ## 概要
 
 Polk Audio Signature Elite ES15は、同社のSignature Eliteシリーズのコンパクトなブックシェルフスピーカーです。1インチのテリレンドームツイーター、5.25インチのマイカ強化ポリプロピレンウーファーを搭載しています。Hi-Res Audio認証を取得し、Dolby AtmosやDTS:Xにも対応。Polk独自のPower Port技術により、コンパクトながら深みのある低音再生を目指しています。

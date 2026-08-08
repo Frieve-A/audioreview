@@ -5,6 +5,7 @@ target_name: "HID-Labs DETECT"
 company_id: hid-labs
 lang: en
 ref: hid-labs-detect
+audiodb_uid: adb-a94447175028
 date: 2026-01-02
 rating: [2.9, 0.5, 0.7, 0.6, 0.5, 0.6]
 price: 172

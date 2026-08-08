@@ -5,6 +5,7 @@ target_name: "FiiO BTR17"
 company_id: fiio
 lang: en
 ref: fiio-btr17
+audiodb_uid: adb-1cbdb6d948da
 date: 2026-02-13
 rating: [3.7, 0.7, 0.8, 1.0, 0.2, 1.0]
 price: 199.99

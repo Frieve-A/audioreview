@@ -5,6 +5,7 @@ target_name: "Simgot EA1000"
 company_id: simgot
 lang: en
 ref: simgot-ea1000
+audiodb_uid: adb-9ca62881b563
 date: 2025-11-19
 rating: [2.5, 0.5, 0.6, 0.3, 0.4, 0.7]
 price: 224.99

@@ -5,6 +5,7 @@ target_name: "ELAC Debut S10.2"
 company_id: elac
 lang: ja
 ref: elac-debut-s10-2
+audiodb_uid: adb-b76e48884c3d
 date: 2025-08-20
 rating: [2.3, 0.5, 0.4, 0.6, 0.4, 0.4]
 price: 54780
@@ -12,7 +13,6 @@ summary: "カジュアル用途には十分な低域補完を行いますが、�
 tags: [サブウーファー, 予算重視, ホームシアター, ELAC, Debutシリーズ]
 permalink: /products/ja/elac-debut-s10-2/
 ---
-
 ## 概要
 
 ELAC Debut S10.2はDebut 2.0シリーズの10インチ・パワードサブウーファーで、アンドリュー・ジョーンズ設計です。カスタム高エクスカーション処理紙ウーファー、デュアルフレアードポートのバスレフ筐体、BASHトラッキング方式アンプ（100 W RMS／200 Wピーク）を採用し、周波数応答は35–150 Hz（いずれもメーカー公称）です。クロスオーバーと位相はアナログ制御です[1][2]。

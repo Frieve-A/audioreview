@@ -5,6 +5,7 @@ target_name: "Panasonic SC-GNW30"
 company_id: panasonic
 lang: ja
 ref: panasonic-sc-gnw30
+audiodb_uid: adb-c32f53049b0f
 date: 2025-08-20
 rating: [3.2, 0.5, 0.6, 1.0, 0.5, 0.6]
 price: 39600
@@ -12,7 +13,6 @@ summary: "4スピーカーによる「4ch リアルサラウンド」、HDMI入�
 tags: [ゲーミング, ネックスピーカー, ウェアラブルオーディオ, ワイヤレス, HDMI, Bluetooth, サラウンドサウンド]
 permalink: /products/ja/panasonic-sc-gnw30/
 ---
-
 ## 概要
 
 SC-GNW30は、2025年6月中旬に発売されたSOUNDSLAYERシリーズのフラッグシップ・ネックスピーカーです。4基の38 mmドライバーを内蔵し、最大5.1chのHDMI入力を受けて4chリアルサラウンドとして再生します。Bluetoothと独自2.4 GHz低遅延リンクの二系統を備え、重量は本体約403 g、送信機約100 gです。設定・EQはマルチプラットフォーム対応のSOUNDSLAYER Engineアプリから行えます。 [1][2][3][5]

@@ -5,6 +5,7 @@ target_name: "TOPPING Centaurus"
 company_id: topping
 lang: ja
 ref: topping-centaurus
+audiodb_uid: adb-a3eb7b8fb9cb
 date: 2025-10-15
 rating: [2.9, 0.8, 0.6, 0.4, 0.7, 0.4]
 price: 133000
@@ -12,7 +13,6 @@ summary: "優秀な測定性能を持つR2R DACだが、価値提案と設計思
 tags: [DAC, R2R, デスクトップオーディオ, バランス出力, Bluetooth, ハイレゾ]
 permalink: /products/ja/topping-centaurus/
 ---
-
 ## 概要
 
 TOPPING Centaurusは、同社の従来のデルタシグマDAC手法から大きく逸脱し、HOLO Audioとの提携により開発されたフルバランス8チャンネルR2R（抵抗ラダー）アーキテクチャを特徴とする製品です。133,000円で販売されるこのデスクトップDACは、PCM最大768kHz/32ビットおよびDSD512をサポートし、高品質コーデック対応のBluetooth 5.1接続機能、タッチスクリーンインターフェース付きの包括的なAurora UIを搭載しています。XLRおよびRCA出力と電圧レベル調整機能、10バンドパラメトリックEQ、プリアンプ機能を備えています。測定性能の優秀性に対するTOPPINGのこだわりを維持しながらも、Centaurusは同ブランドの従来の科学的アプローチとは対照的な主観的R2Rマーケティング主張を導入しています。

@@ -5,6 +5,7 @@ target_name: "Fosi Audio ZH3"
 company_id: fosi-audio
 lang: en
 ref: fosi-audio-zh3
+audiodb_uid: adb-755fae1e6fbc
 date: 2026-02-02
 rating: [3.5, 0.9, 0.4, 1.0, 0.3, 0.9]
 price: 199.99

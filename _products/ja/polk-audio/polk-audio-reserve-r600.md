@@ -5,6 +5,7 @@ target_name: "Polk Audio Reserve R600"
 company_id: polk-audio
 lang: ja
 ref: polk-audio-reserve-r600
+audiodb_uid: adb-763fa3335fb9
 date: 2025-07-29
 rating: [3.0, 0.6, 0.7, 0.4, 0.6, 0.7]
 price: 254700

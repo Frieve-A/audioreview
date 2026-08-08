@@ -5,6 +5,7 @@ target_name: "Grado SR-325x"
 company_id: grado
 lang: ja
 ref: grado-sr-325x
+audiodb_uid: adb-b68acec69c03
 date: 2025-08-04
 rating: [3.0, 0.5, 0.6, 0.7, 0.7, 0.5]
 price: 47729

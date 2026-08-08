@@ -5,6 +5,7 @@ target_name: "Victor WOOD Master HA-FW5000T"
 company_id: victor
 lang: en
 ref: victor-wood-master-ha-fw5000t
+audiodb_uid: adb-160322c97077
 date: 2026-04-20
 rating: [3.3, 0.5, 0.9, 1.0, 0.5, 0.4]
 price: 290
@@ -12,7 +13,6 @@ summary: "Victor's flagship true wireless earphones featuring industry-first hyb
 tags: [true-wireless, earphones, anc, ldac, wood-driver, flagship]
 permalink: /products/en/victor-wood-master-ha-fw5000t/
 ---
-
 ## Overview
 
 The Victor WOOD Master HA-FW5000T represents Victor's flagship entry in the true wireless earphone market, featuring an industry-first Hybrid WOOD Driver that combines wood pulp with African rosewood fragments [1]. Released in November 2025, this premium offering targets audiophiles seeking high-resolution wireless audio with emphasis on natural wood acoustics. The product incorporates Victor's decades of wood driver research dating back to 2008, combined with modern features including LDAC codec support, advanced noise cancellation, and proprietary K2 upscaling technology. Priced at approximately 290 USD, the HA-FW5000T competes in the premium true wireless segment with its unique wood-based acoustic approach and comprehensive feature set including 31.5-hour total battery life, IP55 resistance rating, and multipoint connectivity [1].

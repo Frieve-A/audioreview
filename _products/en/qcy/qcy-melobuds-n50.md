@@ -5,6 +5,7 @@ target_name: "QCY MeloBuds N50"
 company_id: qcy
 lang: en
 ref: qcy-melobuds-n50
+audiodb_uid: adb-3521bd361a55
 date: 2025-10-18
 rating: [3.4, 0.5, 0.6, 1.0, 0.4, 0.9]
 price: 26.99
@@ -12,7 +13,6 @@ summary: "Budget ANC wireless earbuds with contemporary features but limited mea
 tags: [Wireless Earbuds, ANC, Budget Audio, Bluetooth 5.4, QCY]
 permalink: /products/en/qcy-melobuds-n50/
 ---
-
 ## Overview
 
 QCY MeloBuds N50 represents QCY's entry into the competitive budget ANC wireless earbuds market. Founded in 2009 with over 16 years of industry experience, QCY positions itself as a technology-focused brand serving millions of users globally [1]. The MeloBuds N50 features 12mm bio-diaphragm dynamic drivers, claims up to 45dB active noise cancellation, and includes contemporary connectivity features like Bluetooth 5.4 and multipoint connection [1][2]. At approximately 27 USD, it competes directly with other budget ANC options while offering comprehensive app support and environmental noise cancellation for calls [1][2][4].

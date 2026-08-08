@@ -5,6 +5,7 @@ target_name: "Focal Alpha 80 Evo"
 company_id: focal
 lang: en
 ref: focal-alpha-80-evo
+audiodb_uid: adb-eb7de821a4bf
 date: 2025-08-23
 rating: [2.9, 0.5, 0.6, 0.4, 0.7, 0.7]
 price: 1258

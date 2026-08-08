@@ -5,6 +5,7 @@ target_name: "FiiO BTR11"
 company_id: fiio
 lang: en
 ref: fiio-btr11
+audiodb_uid: adb-96039abf293f
 date: 2025-10-29
 rating: [3.8, 0.6, 0.6, 1.0, 0.7, 0.9]
 price: 19.99

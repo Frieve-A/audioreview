@@ -5,6 +5,7 @@ target_name: "Topping DX3 Pro+"
 company_id: topping
 lang: en
 ref: topping-dx3-pro-plus
+audiodb_uid: adb-fcda829f33ee
 date: 2025-08-09
 rating: [3.8, 0.7, 0.7, 1.0, 0.6, 0.8]
 price: 199

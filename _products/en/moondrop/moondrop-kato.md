@@ -5,6 +5,7 @@ target_name: "Moondrop Kato"
 company_id: moondrop
 lang: en
 ref: moondrop-kato
+audiodb_uid: adb-518ad85061a0
 date: 2025-08-01
 rating: [2.9, 0.7, 0.6, 0.4, 0.6, 0.6]
 price: 189

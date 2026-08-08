@@ -5,6 +5,7 @@ target_name: "miniDSP 2x4 HD"
 company_id: minidsp
 lang: en
 ref: minidsp-2x4-hd
+audiodb_uid: adb-7d8b37d3c49a
 date: 2025-09-06
 rating: [3.5, 0.7, 0.6, 1.0, 0.4, 0.8]
 price: 225

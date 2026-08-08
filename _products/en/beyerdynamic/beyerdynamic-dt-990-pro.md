@@ -5,6 +5,7 @@ target_name: "Beyerdynamic DT 990 PRO"
 company_id: beyerdynamic
 lang: en
 ref: beyerdynamic-dt-990-pro
+audiodb_uid: adb-e697842725b0
 date: 2025-09-03
 rating: [2.6, 0.4, 0.4, 0.8, 0.6, 0.4]
 price: 180
@@ -12,7 +13,6 @@ summary: "German-built open-back studio headphones with a bright-leaning sound a
 tags: [Open-back, Studio, Monitoring, Headphones, Professional]
 permalink: /products/en/beyerdynamic-dt-990-pro/
 ---
-
 ## Overview
 
 The Beyerdynamic DT 990 PRO is a long-established open-back studio headphone handcrafted in Germany. Available in 80Ω and 250Ω, it targets mixing and mastering with a single-sided coiled cable and serviceable parts on the 250Ω model.

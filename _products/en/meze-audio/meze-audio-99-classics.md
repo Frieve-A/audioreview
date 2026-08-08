@@ -5,6 +5,7 @@ target_name: "Meze Audio 99 Classics"
 company_id: meze-audio
 lang: en
 ref: meze-audio-99-classics
+audiodb_uid: adb-d21cceed7c58
 date: 2025-09-29
 rating: [2.7, 0.7, 0.4, 0.3, 0.6, 0.7]
 price: 309
@@ -12,7 +13,6 @@ summary: "Romanian-crafted closed-back headphones with handmade walnut wood cons
 tags: [Headphones, Closed-back, Dynamic, Wood, Premium]
 permalink: /products/en/meze-audio-99-classics/
 ---
-
 ## Overview
 
 The Meze Audio 99 Classics represent Romanian manufacturer Meze Audio's approach to premium headphone design, combining traditional craftsmanship with modern acoustic engineering. Founded in 2011 by industrial designer Antonio Meze, the company emphasizes artisanal construction with each walnut wood earcup undergoing a 45-day hand-finishing process. The 99 Classics feature 40mm dynamic drivers with neodymium magnets in a closed-back design, targeting audiophiles seeking both aesthetic appeal and acoustic performance. At 309 USD, these headphones position themselves in the premium segment while maintaining relatively accessible pricing compared to high-end offerings.

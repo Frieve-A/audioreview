@@ -5,6 +5,7 @@ target_name: "Polk Audio Monitor XT20"
 company_id: polk
 lang: ja
 ref: polk-audio-monitor-xt20
+audiodb_uid: adb-47d75316279a
 date: 2026-02-24
 rating: [4.1, 0.7, 0.5, 1.0, 0.9, 1.0]
 price: 37500

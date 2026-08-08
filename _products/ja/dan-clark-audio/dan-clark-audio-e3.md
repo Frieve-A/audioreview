@@ -5,6 +5,7 @@ target_name: "Dan Clark Audio E3"
 company_id: dan-clark-audio
 lang: ja
 ref: dan-clark-audio-e3
+audiodb_uid: adb-20b4202db7d6
 date: 2026-03-03
 rating: [4.0, 0.7, 0.9, 0.7, 0.7, 1.0]
 price: 312000
@@ -12,7 +13,6 @@ summary: "独自のAMTSメタマテリアルチューニングと第5世代V-pla
 tags: [ヘッドホン, 平面磁界, 密閉型, Dan Clark Audio, AMTS]
 permalink: /products/ja/dan-clark-audio-e3/
 ---
-
 ## 概要
 
 Dan Clark Audio E3は、1999.99米ドル（約312,000円）で最先端のAMTS（音響メタマテリアルチューニングシステム）技術を導入し、エントリーレベルとフラッグシップモデルの間に戦略的に配置された製品です。2023年12月にリリースされたE3は、第5世代V-planarドライバー、デュアルモードバスポート、Gorilla Glass 3カップ仕上げを含むプレミアムマテリアルを組み合わせています。2012年に設立されたDan Clark Audioは、独自技術をカバーする広範な特許ポートフォリオを持つ革新的な平面磁界ヘッドホン設計で評判を確立しています。

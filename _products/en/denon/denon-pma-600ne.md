@@ -5,6 +5,7 @@ target_name: "Denon PMA-600NE"
 company_id: denon
 lang: en
 ref: denon-pma-600ne
+audiodb_uid: adb-ee1932a1b1fb
 date: 2025-08-16
 rating: [2.6, 0.5, 0.5, 0.5, 0.7, 0.4]
 price: 599

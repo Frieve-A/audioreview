@@ -5,6 +5,7 @@ target_name: "ooopusX Op.24"
 company_id: ooopusx
 lang: en
 ref: ooopusx-op-24
+audiodb_uid: adb-cf9824ad5c21
 date: 2026-01-06
 rating: [3.3, 0.4, 0.9, 1.0, 0.5, 0.5]
 price: 49.99
@@ -12,7 +13,6 @@ summary: "Innovative entry-level hybrid IEM featuring dual-mode tuning dial and 
 tags: [Earphones, Hybrid-Driver, Tunable, Budget, In-Ear-Monitor, Carbon-Fiber, Dynamic-Driver, Balanced-Armature]
 permalink: /products/en/ooopusx-op-24/
 ---
-
 ## Overview
 
 The ooopusX Op.24 represents the inaugural product from newcomer ooopusX, introducing a fresh approach to in-ear monitor design with its distinctive dual-mode tuning system. This hybrid IEM combines 2 dynamic drivers with 4 balanced armatures, featuring a silicone composite carbon fiber dome diaphragm and an innovative tuning dial that replaces traditional DIP switches. At 49.99 USD, the Op.24 positions itself in the competitive budget hybrid segment while offering unique technological implementations that distinguish it from established competitors.

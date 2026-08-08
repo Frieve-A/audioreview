@@ -5,6 +5,7 @@ target_name: "iFi Audio Hip DAC 3"
 company_id: ifi-audio
 lang: en
 ref: ifi-audio-hip-dac-3
+audiodb_uid: adb-42d8ef5a5f79
 date: 2025-08-15
 rating: [2.5, 0.5, 0.4, 0.4, 0.7, 0.5]
 price: 199

@@ -5,6 +5,7 @@ target_name: "KEF LSX II"
 company_id: kef
 lang: en
 ref: kef-lsx-ii
+audiodb_uid: adb-debca50d6857
 date: 2025-07-18
 rating: [4.0, 0.7, 0.8, 1.0, 0.8, 0.7]
 price: 1400
@@ -12,7 +13,6 @@ summary: "The KEF LSX II is a unique compact wireless speaker in its price range
 tags: [Wireless Speaker, Uni-Q Driver, Streaming Capable, Coaxial Speaker]
 permalink: /products/en/kef-lsx-ii/
 ---
-
 ## Overview
 
 The KEF LSX II is a wireless active speaker system released by British manufacturer KEF in 2022. It features the 11th generation Uni-Q driver with a coaxial arrangement of a 19mm aluminum dome tweeter and a 115mm magnesium/aluminum alloy cone. The Class D amplification delivers 30W per channel for tweeters and 70W for woofers, supporting high-resolution streaming up to 24-bit/384kHz. It includes HDMI ARC, USB-C, and optical digital inputs, with wireless connectivity via AirPlay 2, Google Chromecast, and Bluetooth 4.2. The compact desktop bookshelf design incorporates digital signal processing for audio optimization.

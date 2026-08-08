@@ -5,6 +5,7 @@ target_name: "Classic Pro CP4HM II"
 company_id: classic-pro
 lang: en
 ref: classic-pro-cp4hm-ii
+audiodb_uid: adb-82a52ccacb05
 date: 2025-12-02
 rating: [2.6, 0.5, 0.2, 0.8, 0.5, 0.6]
 price: 21

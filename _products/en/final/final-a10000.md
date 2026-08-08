@@ -5,6 +5,7 @@ target_name: "final A10000"
 company_id: final
 lang: en
 ref: final-a10000
+audiodb_uid: adb-5ac9ca05985e
 date: 2025-08-23
 rating: [3.2, 0.6, 0.9, 0.1, 0.8, 0.8]
 price: 3000

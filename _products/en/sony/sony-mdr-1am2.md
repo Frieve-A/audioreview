@@ -5,6 +5,7 @@ target_name: "Sony MDR-1AM2"
 company_id: sony
 lang: en
 ref: sony-mdr-1am2
+audiodb_uid: adb-a42741f68c83
 date: 2025-07-31
 rating: [2.9, 0.5, 0.7, 0.5, 0.6, 0.6]
 price: 246
@@ -12,7 +13,6 @@ summary: "Lightweight Hi-Res certified headphones with ALCP diaphragm technology
 tags: [Headphones, Hi-Res, Closed-back, Balanced Connection]
 permalink: /products/en/sony-mdr-1am2/
 ---
-
 ## Overview
 
 The Sony MDR-1AM2 is a Hi-Res Audio certified closed-back headphone released in 2018. It features 40mm ALCP (Aluminum Coated Liquid Crystal Polymer) diaphragms, achieving a nominal wide frequency response of 3Hz-100kHz. Characterized by a lightweight design of 187g and a comfortable fit, it includes both a standard 3.5mm cable and a 4.4mm balanced cable. As part of Sony's Hi-Res Audio product lineup, it adopts a consumer-oriented V-shaped sound signature.

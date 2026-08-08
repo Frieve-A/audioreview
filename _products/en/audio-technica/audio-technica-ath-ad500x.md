@@ -5,6 +5,7 @@ target_name: "Audio-Technica ATH-AD500X"
 company_id: audio-technica
 lang: en
 ref: audio-technica-ath-ad500x
+audiodb_uid: adb-6261eda5d41a
 date: 2025-12-14
 rating: [2.6, 0.5, 0.4, 0.9, 0.5, 0.3]
 price: 85

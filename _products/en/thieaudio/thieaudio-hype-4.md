@@ -5,6 +5,7 @@ target_name: "ThieAudio Hype 4"
 company_id: thieaudio
 lang: en
 ref: thieaudio-hype-4
+audiodb_uid: adb-98e43da9d9cc
 date: 2025-09-01
 rating: [2.8, 0.7, 0.7, 0.2, 0.5, 0.7]
 price: 399

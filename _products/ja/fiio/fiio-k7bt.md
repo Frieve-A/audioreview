@@ -5,6 +5,7 @@ target_name: "Fiio K7BT"
 company_id: fiio
 lang: ja
 ref: fiio-k7bt
+audiodb_uid: adb-f117e8c21b2c
 date: 2025-07-09
 rating: [3.8, 0.8, 0.8, 0.6, 0.9, 0.7]
 price: 36800

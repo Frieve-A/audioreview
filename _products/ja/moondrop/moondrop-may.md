@@ -5,6 +5,7 @@ target_name: "Moondrop May"
 company_id: moondrop
 lang: ja
 ref: moondrop-may
+audiodb_uid: adb-0c22e3fe6972
 date: 2025-09-16
 rating: [3.6, 0.7, 1.0, 0.4, 0.5, 1.0]
 price: 10400

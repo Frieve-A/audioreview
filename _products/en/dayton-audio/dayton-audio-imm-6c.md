@@ -5,6 +5,7 @@ target_name: "Dayton Audio IMM-6C"
 company_id: dayton-audio
 lang: en
 ref: dayton-audio-imm-6c
+audiodb_uid: adb-053a640df579
 date: 2025-08-11
 rating: [3.3, 0.4, 0.6, 1.0, 0.5, 0.8]
 price: 44.98
@@ -12,7 +13,6 @@ summary: "USB-C calibrated measurement microphone offering laboratory-grade cali
 tags: [Measurement Microphone, USB-C, Calibrated, Dayton Audio, Mobile Compatible]
 permalink: /products/en/dayton-audio-imm-6c/
 ---
-
 ## Overview
 
 The Dayton Audio IMM-6C represents the latest evolution in affordable calibrated measurement microphones, featuring USB-C connectivity optimized for modern mobile devices and computers. Building upon the success of the original IMM-6, this model integrates a CM6542 ADC/DAC for digital audio processing while maintaining individual laboratory-standard calibration. At under 45 USD, it targets users seeking measurement-grade accuracy without the premium pricing of professional alternatives.

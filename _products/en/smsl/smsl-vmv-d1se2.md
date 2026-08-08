@@ -5,6 +5,7 @@ target_name: "SMSL VMV D1se2"
 company_id: smsl
 lang: en
 ref: smsl-vmv-d1se2
+audiodb_uid: adb-5b9a55a21c7b
 date: 2025-08-28
 rating: [3.9, 0.9, 0.9, 0.7, 0.5, 0.9]
 price: 720
@@ -12,7 +13,6 @@ summary: "High-performance desktop DAC featuring ES9039MSPRO, verified top-tier 
 tags: [DAC, Desktop, ES9039MSPRO, MQA, MQA-CD, Balanced, Bluetooth, I2S, XMOS XU-316]
 permalink: /products/en/smsl-vmv-d1se2/
 ---
-
 ## Overview
 
 The SMSL VMV D1se2 is a flagship desktop DAC built around ESS’s ES9039MSPRO. Compared to the original D1se, it adds MQA-CD decoding and updates the USB interface to XMOS XU-316. Connectivity includes USB, optical, coaxial, I²S (HDMI), and balanced XLR/RCA outputs, plus Bluetooth 5.0 with LDAC/aptX-HD. Independent measurements confirm top-tier objective performance (SINAD 123 dB, Audio Science Review list, May 2023) alongside comprehensive format support. [1][2][3]

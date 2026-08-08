@@ -5,6 +5,7 @@ target_name: "Audio-Technica AT-HA2"
 company_id: audio-technica
 lang: ja
 ref: audio-technica-at-ha2
+audiodb_uid: adb-a22c82750f35
 date: 2025-11-10
 rating: [2.6, 0.3, 0.1, 1.0, 0.7, 0.5]
 price: 7500

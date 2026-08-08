@@ -5,6 +5,7 @@ target_name: "Audio-Technica ATH-HL7BT"
 company_id: audio-technica
 lang: en
 ref: audio-technica-ath-hl7bt
+audiodb_uid: adb-62a9e921d32b
 date: 2025-07-20
 rating: [2.8, 0.4, 0.6, 1.0, 0.4, 0.4]
 price: 100

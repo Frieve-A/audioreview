@@ -5,6 +5,7 @@ target_name: "UGREEN HiTune S3"
 company_id: ugreen
 lang: en
 ref: ugreen-hitune-s3
+audiodb_uid: adb-e47c6cab26bd
 date: 2025-12-23
 rating: [3.2, 0.5, 0.5, 1.0, 0.5, 0.7]
 price: 22
@@ -12,7 +13,6 @@ summary: "Open-ear wireless earbuds offering competitive cost-performance with s
 tags: [Earbuds, Wireless, Open-ear, Bluetooth, Sports]
 permalink: /products/en/ugreen-hitune-s3/
 ---
-
 ## Overview
 
 The UGREEN HiTune S3 (WS209) represents an entry-level open-ear wireless earbud targeting active users seeking situational awareness during audio consumption. The product features a clip-on design with Bluetooth 5.4 connectivity, and Environmental Noise Cancellation (ENC) technology. With a lightweight 5.3g per earbud construction and IPX5 water resistance rating, the HiTune S3 positions itself in the budget open-ear segment at 22 USD pricing.

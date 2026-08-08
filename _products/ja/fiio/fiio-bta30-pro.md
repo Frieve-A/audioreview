@@ -5,6 +5,7 @@ target_name: "FiiO BTA30 Pro"
 company_id: fiio
 lang: ja
 ref: fiio-bta30-pro
+audiodb_uid: adb-ac6443b35f33
 date: 2026-05-15
 rating: [3.4, 0.8, 0.4, 1.0, 0.4, 0.8]
 price: 19800
@@ -12,7 +13,6 @@ summary: "LDAC TX+RX、384kHz/DSD256対応のUSB DAC、光・同軸デジタル�
 tags: [Bluetooth, DAC, Transceiver, FiiO, LDAC]
 permalink: /products/ja/fiio-bta30-pro/
 ---
-
 ## 概要
 
 FiiO BTA30 Proは、2021年10月に初代BTA30の後継機として発売されたデスクトップ型のBluetoothトランシーバー兼USB DACです。Bluetoothレシーバー(RX)、Bluetoothトランスミッター(TX)、単体USB DACという3つの動作モードを、120 × 55 × 25.8 mmのアルミ筐体に統合しており、価格は129.99 USDです [1][4]。FiiOは2007年設立、広州を拠点とするメーカーで、ハードウェア・ファームウェア・工業デザイン・音響を担当する300名超の自社研究開発体制を持つと公表されています [1]。本機の中核は、Qualcomm CSR8675 Bluetooth 5.0 SoC、ESS ES9038Q2M DAC、XMOS XU208 USBコントローラー、CT7302EL DSPの4つのライセンスICで構成されています。主な特徴として、双方向LDAC対応、USB PCM 384kHz/32-bitおよびネイティブDSD256対応、光・同軸デジタル入力、RCAアナログ出力を備えています。Pro世代では、AKMの供給制約を受けて初代BTA30のAK4490 DACが置き換えられ、旧モデルにはなかったLDAC送信機能が新たに追加されました。

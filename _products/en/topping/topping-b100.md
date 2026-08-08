@@ -5,6 +5,7 @@ target_name: "Topping B100"
 company_id: topping
 lang: en
 ref: topping-b100
+audiodb_uid: adb-e7912c3ce061
 date: 2025-07-19
 rating: [3.1, 0.8, 0.8, 0.4, 0.3, 0.8]
 price: 598

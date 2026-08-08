@@ -5,6 +5,7 @@ target_name: "Linn Majik DSM"
 company_id: linn
 lang: en
 ref: linn-majik-dsm
+audiodb_uid: adb-d590d5888b08
 date: 2025-12-02
 rating: [3.1, 0.5, 0.8, 0.3, 0.8, 0.7]
 price: 5950

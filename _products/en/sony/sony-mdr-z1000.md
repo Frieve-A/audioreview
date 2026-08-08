@@ -5,6 +5,7 @@ target_name: "Sony MDR-Z1000"
 company_id: sony
 lang: en
 ref: sony-mdr-z1000
+audiodb_uid: adb-7316293be50a
 date: 2025-07-08
 rating: [3.2, 0.8, 0.7, 0.3, 0.7, 0.7]
 price: 549
@@ -12,7 +13,6 @@ summary: "A closed-back monitor headphone released by Sony in 2008. Features 50m
 tags: [Sony, Headphones, Monitor, Professional, Closed-back]
 permalink: /products/en/sony-mdr-z1000/
 ---
-
 ## Overview
 
 The Sony MDR-Z1000 is a closed-back monitor headphone released by Sony in 2008. It features 50mm liquid crystal polymer film diaphragms and is designed for professional audio applications. The closed-back design ensures sound isolation, making it suitable for studio monitoring work. The lightweight magnesium alloy housing reduces vibrations and enables extended use. While currently discontinued, it was originally priced at approximately 549 USD. Understanding its positioning as Sony's professional-grade headphone of that era is essential for proper evaluation, especially when considering current used market pricing and technological advancements.

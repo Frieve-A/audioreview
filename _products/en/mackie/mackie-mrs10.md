@@ -5,6 +5,7 @@ target_name: "Mackie MRS10"
 company_id: mackie
 lang: en
 ref: mackie-mrs10
+audiodb_uid: adb-17b0999a58d6
 date: 2025-09-20
 rating: [2.7, 0.6, 0.4, 0.9, 0.6, 0.2]
 price: 450

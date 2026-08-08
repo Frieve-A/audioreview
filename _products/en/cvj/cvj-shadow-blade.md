@@ -5,6 +5,7 @@ target_name: "CVJ Shadow Blade"
 company_id: cvj
 lang: en
 ref: cvj-shadow-blade
+audiodb_uid: adb-f5bf4ecd1bd6
 date: 2025-08-23
 rating: [2.6, 0.5, 0.4, 0.7, 0.5, 0.5]
 price: 79

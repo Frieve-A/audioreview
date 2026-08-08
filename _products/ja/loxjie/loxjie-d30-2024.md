@@ -5,6 +5,7 @@ target_name: "Loxjie D30 2024"
 company_id: loxjie
 lang: ja
 ref: loxjie-d30-2024
+audiodb_uid: adb-dc1fe65844ae
 date: 2025-08-24
 rating: [4.2, 0.8, 0.7, 1.0, 0.8, 0.9]
 price: 24000
@@ -12,7 +13,6 @@ summary: "ES9039Q2M採用、MQAフルデコードとLDAC対応Bluetoothを備え
 tags: [DAC, ヘッドホンアンプ, デスクトップオーディオ, ESS-Sabre, MQA, Bluetooth, USBオーディオ, ハイレゾ]
 permalink: /products/ja/loxjie-d30-2024/
 ---
-
 ## 概要
 
 2024年版D30は、USB/光/同軸入力とBluetooth 5.1を備えたコンパクトなDAC/ヘッドホンアンプです。ESS **ES9039Q2M**＋XMOS **XU-316**を採用し、PCM 32-bit/768 kHz・DSD512に対応、**MQAフルデコード**（S/PDIFのMQA-CD含む）を実装します。Bluetoothは**QCC5125**で**LDAC/aptX HD**（AAC/SBC含む）対応。**2.5 Vrms**のプリアウトや**7種類のPCMデジタルフィルター**も備えます [1][2]。

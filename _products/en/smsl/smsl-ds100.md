@@ -5,6 +5,7 @@ target_name: "SMSL DS100"
 company_id: smsl
 lang: en
 ref: smsl-ds100
+audiodb_uid: adb-c26ad082c4aa
 date: 2025-08-21
 rating: [2.8, 0.6, 0.4, 0.9, 0.5, 0.4]
 price: 89

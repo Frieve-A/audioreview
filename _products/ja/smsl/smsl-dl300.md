@@ -5,6 +5,7 @@ target_name: "SMSL DL300"
 company_id: smsl
 lang: ja
 ref: smsl-dl300
+audiodb_uid: adb-040fbb27db46
 date: 2025-08-28
 rating: [3.7, 0.9, 0.8, 0.7, 0.6, 0.7]
 price: 59800
@@ -12,7 +13,6 @@ summary: "AK4499EX採用のデスクトップDAC・ヘッドホンアンプ。�
 tags: [DAC, ヘッドホンアンプ, AKM, Bluetooth, MQA]
 permalink: /products/ja/smsl-dl300/
 ---
-
 ## 概要
 
 DL300は、AKMのAK4191とフラグシップAK4499EXをデュアル構成で採用したデスクトップ型DAC・ヘッドホンアンプです。PCM 32ビット/768kHz、ネイティブDSD512、MQA/MQA-CDデコード、Bluetooth 5.1（LDAC/aptX HD対応）、USB/光/同軸/I²S入力、6.35mmと4.4mmのヘッドホン出力、XLR/RCAライン出力（5 Vrms/2.5 Vrms）を備えます[1][2]。

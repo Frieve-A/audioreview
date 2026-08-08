@@ -5,6 +5,7 @@ target_name: "HiBy R6 III 2025"
 company_id: hiby
 lang: ja
 ref: hiby-r6-iii-2025
+audiodb_uid: adb-3864defdbab0
 date: 2025-10-24
 rating: [4.0, 0.9, 0.7, 1.0, 0.6, 0.8]
 price: 52740

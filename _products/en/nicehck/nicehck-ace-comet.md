@@ -5,6 +5,7 @@ target_name: "NICEHCK AceComet"
 company_id: nicehck
 lang: en
 ref: nicehck-ace-comet
+audiodb_uid: adb-8617e3311987
 date: 2025-10-27
 rating: [1.1, 0.0, 0.3, 0.2, 0.6, 0.0]
 price: 99.50

@@ -5,6 +5,7 @@ target_name: "SMSL D400ES"
 company_id: smsl
 lang: ja
 ref: smsl-d400es
+audiodb_uid: adb-458bb3b9ed51
 date: 2025-08-14
 rating: [4.2, 0.9, 0.8, 0.9, 0.6, 1.0]
 price: 82500
@@ -12,7 +13,6 @@ summary: "ESS ES9039MSPRO搭載の高性能DAC。ASR/L7Audiolabで上位クラ�
 tags: [DAC, デジタルアナログコンバーター, ESS-Sabre, MQA, Bluetooth, デスクトップオーディオ]
 permalink: /products/ja/smsl-d400es/
 ---
-
 ## 概要
 
 SMSL D400ESは、ESSの最新世代フラッグシップDAC「ES9039MSPRO」を採用するデスクトップDACです。USB、光、同軸、AES/EBU、I2S、Bluetooth 5.xに対応し、**PCM 32bit/768kHz**と**DSD512**、**フルMQA（MQA-CD含む）**をサポートします[1]。USBは**XMOS XU316**、アナログ段は**11×OPA1612**を用いた**8chパラレル回路**、**CK-03**超低ジッタークロックを搭載します[1][6]。発売は2022年。現在の米国価格は**549.99 USD（公式ショップ）**です[2]。Audio Science Reviewでは**“flawless state of the art”**と評され、実測で上位クラスの透明性能が確認されています[3][4]。

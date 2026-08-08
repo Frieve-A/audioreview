@@ -5,6 +5,7 @@ target_name: "Marshall Acton III"
 company_id: marshall
 lang: en
 ref: marshall-acton-iii
+audiodb_uid: adb-5331fa3a56bd
 date: 2025-10-15
 rating: [2.6, 0.5, 0.6, 0.5, 0.6, 0.4]
 price: 280

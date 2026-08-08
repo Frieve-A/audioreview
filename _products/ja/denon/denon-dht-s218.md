@@ -5,6 +5,7 @@ target_name: "DENON DHT-S218"
 company_id: denon
 lang: ja
 ref: denon-dht-s218
+audiodb_uid: adb-3b6db67cc845
 date: 2025-07-07
 rating: [3.2, 0.7, 0.7, 0.7, 0.8, 0.3]
 price: 27979

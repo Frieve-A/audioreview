@@ -5,6 +5,7 @@ target_name: "Avantgarde Acoustic UNO SD"
 company_id: avantgarde-acoustic
 lang: en
 ref: avantgarde-acoustic-uno-sd
+audiodb_uid: adb-d630e75041d0
 date: 2025-10-20
 rating: [3.4, 0.7, 0.8, 0.7, 0.8, 0.4]
 price: 48800

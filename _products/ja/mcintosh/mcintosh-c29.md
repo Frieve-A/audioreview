@@ -5,6 +5,7 @@ target_name: "McIntosh C29"
 company_id: mcintosh
 lang: ja
 ref: mcintosh-c29
+audiodb_uid: adb-28fb6c6a0d86
 date: 2025-08-31
 rating: [2.4, 0.6, 0.5, 0.3, 0.5, 0.5]
 price: 360000
@@ -12,7 +13,6 @@ summary: "1978〜1985年製のソリッドステート・プリアンプ。周�
 tags: [Vintage, Preamplifier, Solid-state, McIntosh]
 permalink: /products/ja/mcintosh-c29/
 ---
-
 ## 概要
 
 McIntosh C29は1978〜1985年に製造されたソリッドステレオ・プリアンプです。ガラス製フロントパネルのイルミネーションを備え（出力メーターはありません）、32段の精密ボリューム、デュアル・フォノ入力など入出力が充実しています。歴史的意義は大きい一方で、測定性能は現代のトップ機と比べると設計年代相応です。

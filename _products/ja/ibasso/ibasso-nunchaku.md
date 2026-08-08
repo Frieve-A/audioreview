@@ -5,6 +5,7 @@ target_name: "iBasso Nunchaku"
 company_id: ibasso
 lang: ja
 ref: ibasso-nunchaku
+audiodb_uid: adb-11f3e9a2cacc
 date: 2025-09-13
 rating: [2.9, 0.7, 0.7, 0.7, 0.4, 0.4]
 price: 45000
@@ -12,7 +13,6 @@ summary: "デュアルCS43198 DACと切り替え式真空管/ソリッドステ�
 tags: [DAC, アンプ, ポータブル, 真空管, ヘッドホン]
 permalink: /products/ja/ibasso-nunchaku/
 ---
-
 ## 概要
 
 iBasso Nunchakuは2024年に発売されたポータブルDAC/アンプで、デュアルCirrus Logic CS43198 DACチップと真空管とソリッドステートアンプを組み合わせたユニークなデュアルモードアーキテクチャを特徴とします。価格は45,000円で、最大525mWの出力パワーを提供し、専用22.5Vアノード電源を持つデュアルRaytheon JAN6418真空管を搭載しています。本体は65×34.6×15mmのサイズで重量50g、ポータブル真空管サウンド特性を求めるオーディオファイルをターゲットとしています。

@@ -5,6 +5,7 @@ target_name: "Fosi Audio V3 Mono"
 company_id: fosi-audio
 lang: ja
 ref: fosi-audio-v3-mono
+audiodb_uid: adb-72ee27e4be67
 date: 2025-07-23
 rating: [3.3, 0.8, 0.7, 0.5, 0.6, 0.7]
 price: 25000

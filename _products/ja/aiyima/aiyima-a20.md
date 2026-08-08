@@ -5,6 +5,7 @@ target_name: "AIYIMA A20"
 company_id: aiyima
 lang: ja
 ref: aiyima-a20
+audiodb_uid: adb-1cbded4f1768
 date: 2025-11-18
 rating: [3.5, 0.7, 0.6, 1.0, 0.3, 0.9]
 price: 30500

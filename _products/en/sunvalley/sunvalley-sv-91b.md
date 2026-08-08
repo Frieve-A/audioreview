@@ -5,6 +5,7 @@ target_name: "Sunvalley SV-91B"
 company_id: sunvalley
 lang: en
 ref: sunvalley-sv-91b
+audiodb_uid: adb-8be3a12d540c
 date: 2025-08-13
 rating: [1.4, 0.3, 0.4, 0.0, 0.5, 0.2]
 price: 2442
@@ -12,7 +13,6 @@ summary: "Premium 300B single-ended tube amplifier with exceptional build qualit
 tags: [Tube-amplifier, Single-ended, 300B, High-end, Premium]
 permalink: /products/en/sunvalley-sv-91b/
 ---
-
 ## Overview
 
 The Sunvalley SV-91B is a premium 300B single-ended tube amplifier that has served as the company's flagship reference amplifier since 2003. Manufactured by Sunvalley Audio (Japan), this hand-wired amplifier features high-quality Hashimoto transformers and a tube complement including WE310A driver tubes, 300B power tubes, and 274B rectifier tubes. The amplifier is notable for its control and clarity characteristics; the company cites magazine listening reports that it drove B&W 800 series despite being a single-ended design [1]. Official pricing on the manufacturer site is listed as ¥366,300–¥779,240 (tax-in), depending on kit/assembled and tube options [1].

@@ -5,6 +5,7 @@ target_name: "ELAC Debut Reference DBR62"
 company_id: elac
 lang: ja
 ref: elac-debut-reference-dbr62
+audiodb_uid: adb-d4c9de433d0e
 date: 2025-08-04
 rating: [3.8, 0.8, 0.7, 0.7, 0.8, 0.8]
 price: 72000
@@ -12,7 +13,6 @@ summary: "Andrew Jones設計による6.5インチ2ウェイブックシェルフ
 tags: [ブックシェルフスピーカー, ELAC, Andrew Jones, 2ウェイ, アラミド繊維]
 permalink: /products/ja/elac-debut-reference-dbr62/
 ---
-
 ## 概要
 
 ELAC Debut Reference DBR62は、著名なスピーカー設計者Andrew Jonesが手がけた6.5インチ2ウェイブックシェルフスピーカーです。アラミド繊維コーンウーファーとシルクドームツイーターを組み合わせ、44Hz-35kHzの広帯域再生を実現しています。キャストアルミニウムシャーシや補強ブレーシングなど、オリジナルのDebutシリーズから大幅な改良が施されており、測定性能の向上と共振の抑制が図られています。ELACの中級価格帯における技術的な到達点を示す製品として位置づけられます。

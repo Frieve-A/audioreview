@@ -5,6 +5,7 @@ target_name: "Sennheiser HD 820"
 company_id: sennheiser
 lang: en
 ref: sennheiser-hd-820
+audiodb_uid: adb-acfa23acbe9d
 date: 2025-08-04
 rating: [2.9, 0.7, 0.8, 0.1, 0.7, 0.6]
 price: 2200
@@ -12,7 +13,6 @@ summary: "A flagship closed-back headphone featuring innovative glass reflection
 tags: [Headphones, Closed-back, High-end, Sennheiser]
 permalink: /products/en/sennheiser-hd-820/
 ---
-
 ## Overview
 
 The Sennheiser HD 820 is an innovative closed-back headphone that combines the company's Ring Radiator technology with Corning Gorilla Glass. Released in 2018, this flagship model addresses the traditional limitation of closed-back headphones—narrow soundstage—by using a unique design that reflects acoustic energy from the driver's rear through a specially shaped concave glass surface into dedicated absorption chambers. It features a 56mm ring radiator driver with 300Ω impedance, achieving a wide frequency response of 6Hz-48kHz. The current US market price is approximately 2,200 USD.

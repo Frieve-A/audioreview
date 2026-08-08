@@ -5,6 +5,7 @@ target_name: "Paltauf HPA-100"
 company_id: paltauf
 lang: en
 ref: paltauf-hpa-100
+audiodb_uid: adb-41d0d9a09a9a
 date: 2025-11-21
 rating: [2.2, 0.5, 0.4, 0.8, 0.4, 0.1]
 price: 4384

@@ -5,6 +5,7 @@ target_name: "Topping D90 III Sabre"
 company_id: topping
 lang: ja
 ref: topping-d90-iii-sabre
+audiodb_uid: adb-5c134cc20d0b
 date: 2025-08-29
 rating: [3.7, 0.9, 0.7, 0.5, 0.8, 0.8]
 price: 134820
@@ -12,7 +13,6 @@ summary: "デュアルES9039SPROと充実した入出力により測定上は最
 tags: [DAC, デスクトップ, ESS Sabre, Bluetooth, ハイレゾ]
 permalink: /products/ja/topping-d90-iii-sabre/
 ---
-
 ## 概要
 
 $$ \Large \text{3.7} $$

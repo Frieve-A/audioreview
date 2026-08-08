@@ -5,6 +5,7 @@ target_name: "Edifier R1700BT"
 company_id: edifier
 lang: en
 ref: edifier-r1700bt
+audiodb_uid: adb-b9e33aa01fdb
 date: 2025-08-31
 rating: [2.8, 0.4, 0.6, 0.9, 0.6, 0.3]
 price: 219.99

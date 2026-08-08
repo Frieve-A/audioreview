@@ -5,6 +5,7 @@ target_name: "Bose QuietComfort 3"
 company_id: bose
 lang: en
 ref: bose-quietcomfort-3
+audiodb_uid: adb-9c652103bc88
 date: 2025-09-28
 rating: [1.3, 0.2, 0.2, 0.2, 0.3, 0.4]
 price: 349

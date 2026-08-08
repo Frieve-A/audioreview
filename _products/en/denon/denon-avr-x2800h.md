@@ -5,6 +5,7 @@ target_name: "Denon AVR-X2800H"
 company_id: denon
 lang: en
 ref: denon-avr-x2800h
+audiodb_uid: adb-82576b27f20f
 date: 2025-08-04
 rating: [3.5, 0.6, 0.7, 0.7, 0.8, 0.7]
 price: 567
@@ -12,7 +13,6 @@ summary: "Mid-class AV receiver featuring 95W×7ch Class AB discrete amplifier. 
 tags: [AV Receiver, Dolby Atmos, 8K Support, Home Theater, 7.2ch]
 permalink: /products/en/denon-avr-x2800h/
 ---
-
 ## Overview
 
 The Denon AVR-X2800H is a 7.2ch mid-class AV receiver released in 2022. It features a 95W×7ch Class AB discrete power amplifier and comprehensively incorporates functions demanded by modern home theaters, including Dolby Atmos, DTS:X, and 8K Ultra HD support. The product achieves acoustic performance that satisfies intermediate to advanced users through proprietary AL32 processing technology for high-resolution audio processing and Audyssey MultEQ XT automatic room correction. With built-in HEOS providing comprehensive streaming support, it is designed to serve as the core of a comprehensive AV system.

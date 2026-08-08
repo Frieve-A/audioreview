@@ -5,6 +5,7 @@ target_name: "Rupert Neve Designs Newton Channel"
 company_id: rupert-neve-designs
 lang: en
 ref: rupert-neve-designs-newton-channel
+audiodb_uid: adb-d0736cf3e4e9
 date: 2025-07-20
 rating: [3.2, 0.8, 0.8, 0.2, 0.7, 0.7]
 price: 1999

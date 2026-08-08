@@ -5,6 +5,7 @@ target_name: "Bose ProFlight Series 2"
 company_id: bose
 lang: ja
 ref: bose-proflight-series-2
+audiodb_uid: adb-00bb4784ad3c
 date: 2025-10-03
 rating: [4.1, 0.5, 0.9, 0.8, 0.9, 1.0]
 price: 164850

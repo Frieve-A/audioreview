@@ -5,6 +5,7 @@ target_name: "Electro-Voice RE20"
 company_id: electro-voice
 lang: en
 ref: electro-voice-re20
+audiodb_uid: adb-afc91a8bf6b1
 date: 2025-10-09
 rating: [2.7, 0.5, 0.4, 0.4, 0.8, 0.6]
 price: 449
@@ -12,7 +13,6 @@ summary: "Classic broadcast dynamic microphone with Variable-D technology for pr
 tags: ["Dynamic Microphone", "Broadcast", "Variable-D", "Professional", "Cardioid"]
 permalink: /products/en/electro-voice-re20/
 ---
-
 ## Overview
 
 The Electro-Voice RE20 is a professional dynamic broadcast microphone that has been an industry standard in radio stations and recording studios for decades. Featuring Variable-D technology to minimize proximity effect [2], the RE20 offers consistent frequency response regardless of distance from the sound source. This cardioid microphone extends from 45 Hz to 18,000 Hz with professional-grade construction including internal shock mounting and humbucking coil for electromagnetic interference rejection [1]. As a classic choice for voice applications, the RE20 commands premium pricing at 449 USD in the current market [1].

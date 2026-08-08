@@ -5,6 +5,7 @@ target_name: "JBL Stage A130"
 company_id: jbl
 lang: en
 ref: jbl-stage-a130
+audiodb_uid: adb-ed1400dfab54
 date: 2025-08-20
 rating: [2.7, 0.3, 0.6, 1.0, 0.6, 0.2]
 price: 179

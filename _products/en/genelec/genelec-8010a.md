@@ -5,6 +5,7 @@ target_name: "Genelec 8010A"
 company_id: genelec
 lang: en
 ref: genelec-8010a
+audiodb_uid: adb-c7aceaced3f5
 date: 2025-08-24
 rating: [2.9, 0.3, 0.8, 0.4, 0.8, 0.6]
 price: 395

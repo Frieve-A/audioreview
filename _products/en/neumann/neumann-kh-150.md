@@ -5,6 +5,7 @@ target_name: "Neumann KH 150"
 company_id: neumann
 lang: en
 ref: neumann-kh-150
+audiodb_uid: adb-0553799b136c
 date: 2026-02-25
 rating: [4.7, 0.8, 1.0, 1.0, 0.9, 1.0]
 price: 3398

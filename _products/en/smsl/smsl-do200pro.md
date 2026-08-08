@@ -5,6 +5,7 @@ target_name: "SMSL DO200Pro"
 company_id: smsl
 lang: en
 ref: smsl-do200pro
+audiodb_uid: adb-7e75780ff979
 date: 2025-08-05
 rating: [3.6, 0.9, 0.9, 0.5, 0.5, 0.8]
 price: 399

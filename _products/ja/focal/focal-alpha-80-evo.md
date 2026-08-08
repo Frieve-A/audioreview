@@ -5,6 +5,7 @@ target_name: "Focal Alpha 80 Evo"
 company_id: focal
 lang: ja
 ref: focal-alpha-80-evo
+audiodb_uid: adb-eb7de821a4bf
 date: 2025-08-23
 rating: [2.9, 0.5, 0.6, 0.4, 0.7, 0.7]
 price: 136400
@@ -12,7 +13,6 @@ summary: "8インチ級の中核モデル。仕様は堅実で使い勝手も良
 tags: [スタジオモニター, アクティブスピーカー, Focal]
 permalink: /products/ja/focal-alpha-80-evo/
 ---
-
 ## 概要
 
 Alpha 80 Evo は Focal Alpha Evo ラインの 8インチ／2ウェイ・バイアンプ機です。1インチのアルミ反転ドーム・ツイーターと 8インチ Slatefiber コーン・ウーファー、前面ラミナーポート、**XLR／TRS／RCA の3入力**（同時接続可）、自動スタンバイ（無効化可）、Low/High シェルビングを搭載します。公称は **38 Hz–22 kHz（±3 dB）**、**最大 106 dB peak @1 m** です。 [1][2]

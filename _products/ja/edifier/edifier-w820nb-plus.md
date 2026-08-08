@@ -5,6 +5,7 @@ target_name: "Edifier W820NB Plus"
 company_id: edifier
 lang: ja
 ref: edifier-w820nb-plus
+audiodb_uid: adb-024a9aafd74b
 date: 2025-11-06
 rating: [3.7, 0.5, 0.7, 1.0, 0.7, 0.8]
 price: 11999

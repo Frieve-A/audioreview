@@ -5,6 +5,7 @@ target_name: "SMSL DL300"
 company_id: smsl
 lang: en
 ref: smsl-dl300
+audiodb_uid: adb-040fbb27db46
 date: 2025-08-28
 rating: [3.7, 0.9, 0.8, 0.7, 0.6, 0.7]
 price: 449

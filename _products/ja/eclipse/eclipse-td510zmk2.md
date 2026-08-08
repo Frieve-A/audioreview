@@ -5,6 +5,7 @@ target_name: "Eclipse TD510ZMK2"
 company_id: eclipse
 lang: ja
 ref: eclipse-td510zmk2
+audiodb_uid: adb-8e8d0b4e8b6a
 date: 2025-12-24
 rating: [1.5, 0.4, 0.6, 0.0, 0.3, 0.2]
 price: 449250

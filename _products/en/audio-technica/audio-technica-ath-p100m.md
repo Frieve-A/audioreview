@@ -5,6 +5,7 @@ target_name: "Audio-Technica ATH-P100M"
 company_id: audio-technica
 lang: en
 ref: audio-technica-ath-p100m
+audiodb_uid: adb-00c5d14eb5f2
 date: 2025-10-26
 rating: [3.5, 0.5, 0.4, 1.0, 0.8, 0.8]
 price: 32
@@ -12,7 +13,6 @@ summary: "Budget open-back headphones designed for PC listening with basic speci
 tags: [Headphones, Open-back, Dynamic, Budget, PC-audio]
 permalink: /products/en/audio-technica-ath-p100m/
 ---
-
 ## Overview
 
 The Audio-Technica ATH-P100M is an open-back dynamic headphone released in 2008, specifically designed for extended PC listening sessions. Featuring a lightweight 60-gram construction with 30mm drivers and 32-ohm impedance, this budget-oriented model targets users seeking basic open-back functionality at an accessible price point. Currently available in the US market for approximately 32 USD, the product represents Audio-Technica's approach to providing fundamental headphone functionality without premium features or advanced engineering.

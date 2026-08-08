@@ -5,6 +5,7 @@ target_name: "Shanling M0s"
 company_id: shanling
 lang: en
 ref: shanling-m0s
+audiodb_uid: adb-832dd5306d3d
 date: 2025-12-02
 rating: [3.3, 0.7, 0.5, 1.0, 0.4, 0.7]
 price: 99

@@ -5,6 +5,7 @@ target_name: "Audio-Technica ATH-M60X"
 company_id: audio-technica
 lang: ja
 ref: audio-technica-ath-m60x
+audiodb_uid: adb-59d0c492f9f6
 date: 2025-08-02
 rating: [2.6, 0.3, 0.5, 0.7, 0.7, 0.4]
 price: 25300

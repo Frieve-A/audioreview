@@ -5,6 +5,7 @@ target_name: "Dynaudio Emit 20"
 company_id: dynaudio
 lang: ja
 ref: dynaudio-emit-20
+audiodb_uid: adb-b1d114f03a6e
 date: 2025-10-28
 rating: [4.1, 0.6, 0.9, 0.8, 0.9, 0.9]
 price: 147000
@@ -12,7 +13,6 @@ summary: "MSPコーンとCerotarツィーター技術を特徴とするデンマ
 tags: [ブックシェルフスピーカー, 2ウェイ, MSPコーン, Cerotarツィーター, Hexis技術, デンマーク]
 permalink: /products/ja/dynaudio-emit-20/
 ---
-
 ## 概要
 
 Dynaudio Emit 20は、デンマークメーカーのエントリーレベルブックシェルフスピーカーで、上位Evokeシリーズ由来の技術を搭載しています。この2ウェイバスレフ設計は、18cm MSP（マグネシウムシリケートポリマー）ウーファーと、Hexisインナードーム技術搭載の28mm Cerotarソフトドームツィーターを特徴としています。37 x 20.5 x 21.1 cmのサイズ、10.32 kgの重量で、53Hz-25kHzの周波数特性、86 dBの能率、6Ωのインピーダンスを実現しています。DynaudioのSkanderborgファクトリーでのドライバー設計・製造の完全垂直統合により、品質管理の優位性と独自技術の実装を可能にしています。

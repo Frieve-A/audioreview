@@ -5,6 +5,7 @@ target_name: "Astell&Kern SR35"
 company_id: astell-kern
 lang: en
 ref: astell-kern-sr35
+audiodb_uid: adb-f3f76ebb780e
 date: 2025-11-21
 rating: [3.2, 0.8, 0.6, 1.0, 0.2, 0.6]
 price: 799
@@ -12,7 +13,6 @@ summary: "High-performance DAP with excellent measured specifications and compet
 tags: [DAP, Digital-Audio-Player, Portable, Roon-Ready, MQA, CS43198, Quad-DAC]
 permalink: /products/en/astell-kern-sr35/
 ---
-
 ## Overview
 
 The Astell&Kern A&norma SR35 represents the company's mid-range digital audio player offering, positioned at 799 USD with premium connectivity features including Roon Ready certification and MQA Full Decoder support. Building on Astell&Kern's established reputation in the portable high-resolution audio market, the SR35 implements a quad Cirrus Logic CS43198 DAC configuration with the company's proprietary TERATON ALPHA technology and New Generation AMP circuitry. The device features comprehensive format support up to PCM 384kHz/32-bit and DSD256, dual-band WiFi connectivity, Bluetooth 5.0 with high-quality codecs, and a 3.6-inch HD touchscreen interface.

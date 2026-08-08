@@ -5,6 +5,7 @@ target_name: "Electro-Voice TX1152"
 company_id: electro-voice
 lang: en
 ref: electro-voice-tx1152
+audiodb_uid: adb-6afebf03261d
 date: 2025-07-25
 rating: [3.2, 0.6, 0.7, 0.6, 0.7, 0.6]
 price: 1342

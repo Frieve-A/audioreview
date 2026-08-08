@@ -5,6 +5,7 @@ target_name: "Yamaha HS7"
 company_id: yamaha
 lang: en
 ref: yamaha-hs7
+audiodb_uid: adb-5bd85c6e0b8a
 date: 2026-01-16
 rating: [3.0, 0.4, 0.6, 0.9, 0.3, 0.8]
 price: 524.98

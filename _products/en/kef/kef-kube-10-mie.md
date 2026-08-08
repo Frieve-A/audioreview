@@ -5,6 +5,7 @@ target_name: "KEF Kube 10 MIE"
 company_id: kef
 lang: en
 ref: kef-kube-10-mie
+audiodb_uid: adb-09a566e5e9ae
 date: 2025-08-12
 rating: [2.8, 0.5, 0.6, 0.3, 0.7, 0.7]
 price: 1099

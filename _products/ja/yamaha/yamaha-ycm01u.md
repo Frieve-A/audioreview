@@ -5,6 +5,7 @@ target_name: "Yamaha YCM01U"
 company_id: yamaha
 lang: ja
 ref: yamaha-ycm01u
+audiodb_uid: adb-a66c1f17d280
 date: 2025-10-16
 rating: [3.2, 0.5, 0.6, 0.9, 0.7, 0.5]
 price: 22499

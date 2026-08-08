@@ -5,6 +5,7 @@ target_name: "Creative T100"
 company_id: creative
 lang: en
 ref: creative-t100
+audiodb_uid: adb-31681af8ed52
 date: 2025-09-02
 rating: [2.6, 0.4, 0.5, 0.6, 0.6, 0.5]
 price: 80
@@ -12,7 +13,6 @@ summary: "Compact 2.0 desktop speakers with 40W RMS power, BasXPort technology, 
 tags: [Speakers, Desktop, Bluetooth, Budget]
 permalink: /products/en/creative-t100/
 ---
-
 ## Overview
 
 The Creative T100 is a compact 2.0 desktop speaker system designed for computer and laptop use. Released in 2019, these speakers feature 2.75-inch full-range drivers, BasXPort technology for enhanced bass response, and multiple connectivity options including Bluetooth 5.0, optical, AUX, and USB inputs. With 40W RMS power output and 80W peak power, the T100 aims to provide quality audio for music, movies, and gaming applications at an accessible price point.

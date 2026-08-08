@@ -5,6 +5,7 @@ target_name: "Denon SC-CX101"
 company_id: denon
 lang: ja
 ref: denon-sc-cx101
+audiodb_uid: adb-4c5fbed5381e
 date: 2025-07-21
 rating: [2.5, 0.3, 0.7, 0.8, 0.4, 0.3]
 price: 20000
@@ -12,7 +13,6 @@ summary: "Denon SC-CX101は、2ウェイ・バスレフ型のコンパクトブ�
 tags: [スピーカー, ブックシェルフ, コンパクト, 2ウェイ]
 permalink: /products/ja/denon-sc-cx101/
 ---
-
 ## 概要
 
 Denon SC-CX101は、2ウェイ・バスレフ型のコンパクトブックシェルフスピーカーです。12cmコーン型ベースミッド・ユニットと2.5cmソフトドーム・ツィーターを搭載し、45Hz～40kHzの周波数特性を謳っています。DDL（DENON Double Layer）コーンやバイワイヤリング対応など、同社の技術を投入していますが、生産終了製品となっています。実売価格は中古市場で約2万円程度で見つけることができます。

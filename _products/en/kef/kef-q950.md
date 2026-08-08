@@ -5,6 +5,7 @@ target_name: "KEF Q950"
 company_id: kef
 lang: en
 ref: kef-q950
+audiodb_uid: adb-f63fcfcbe404
 date: 2025-07-18
 rating: [3.9, 0.8, 0.8, 0.7, 0.8, 0.8]
 price: 800

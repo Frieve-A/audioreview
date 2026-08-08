@@ -5,6 +5,7 @@ target_name: "Umbrella Company The Fader Control"
 company_id: umbrella-company
 lang: en
 ref: umbrella-company-the-fader-control
+audiodb_uid: adb-46ec317dcef9
 date: 2026-06-01
 rating: [3.2, 0.6, 0.4, 1.0, 0.7, 0.5]
 price: 568

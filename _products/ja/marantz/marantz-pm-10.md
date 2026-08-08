@@ -5,6 +5,7 @@ target_name: "Marantz PM-10"
 company_id: marantz
 lang: ja
 ref: marantz-pm-10
+audiodb_uid: adb-edb2178165a4
 date: 2025-07-26
 rating: [3.0, 0.8, 0.6, 0.3, 0.7, 0.6]
 price: 1200000

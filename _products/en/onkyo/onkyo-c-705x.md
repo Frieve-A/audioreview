@@ -5,6 +5,7 @@ target_name: "Onkyo C-705X"
 company_id: onkyo
 lang: en
 ref: onkyo-c-705x
+audiodb_uid: adb-e50f7ac01e09
 date: 2025-09-27
 rating: [1.7, 0.6, 0.3, 0.2, 0.2, 0.4]
 price: 85
@@ -12,7 +13,6 @@ summary: "Vintage CD player with basic functionality, competitive used market pr
 tags: [CD Player, Onkyo, Vintage Audio, INTEC Series]
 permalink: /products/en/onkyo-c-705x/
 ---
-
 ## Overview
 
 The Onkyo C-705X is a vintage CD player from Onkyo's INTEC series, featuring a 1-bit D/A converter with 8x oversampling and Cross Interleave Reed Solomon error correction. Manufactured with dimensions of 205 x 91 x 275mm and weighing 2.2kg, the silver-finished unit provides basic CD playbook functionality including CD-R/RW compatibility, optical digital output, and remote control support. As a discontinued model now primarily available in the used market, it represents conventional mid-1990s CD player technology without significant technical innovations.

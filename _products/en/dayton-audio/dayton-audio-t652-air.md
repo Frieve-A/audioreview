@@ -5,6 +5,7 @@ target_name: "Dayton Audio T652-AIR"
 company_id: dayton-audio
 lang: en
 ref: dayton-audio-t652-air
+audiodb_uid: adb-26c94eaf2ace
 date: 2025-07-23
 rating: [3.7, 0.6, 0.8, 1.0, 0.6, 0.7]
 price: 125

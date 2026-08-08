@@ -5,6 +5,7 @@ target_name: "AudioQuest Brave Heart"
 company_id: audioquest
 lang: en
 ref: audioquest-brave-heart
+audiodb_uid: adb-78357f563799
 date: 2025-09-12
 rating: [1.2, 0.0, 0.4, 0.0, 0.7, 0.1]
 price: 4990

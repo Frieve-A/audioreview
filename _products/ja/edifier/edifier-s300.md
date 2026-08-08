@@ -5,6 +5,7 @@ target_name: "Edifier S300"
 company_id: edifier
 lang: ja
 ref: edifier-s300
+audiodb_uid: adb-a3b597eaed2b
 date: 2026-02-26
 rating: [3.1, 0.5, 0.5, 1.0, 0.6, 0.5]
 price: 45980

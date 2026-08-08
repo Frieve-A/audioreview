@@ -5,6 +5,7 @@ target_name: "Tribit StormBox Flow"
 company_id: tribit
 lang: en
 ref: tribit-stormbox-flow
+audiodb_uid: adb-0eae4bbeb440
 date: 2026-06-07
 rating: [3.4, 0.5, 0.4, 1.0, 0.7, 0.8]
 price: 79.99

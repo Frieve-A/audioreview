@@ -5,6 +5,7 @@ target_name: "Neumann KH 420 G"
 company_id: neumann
 lang: ja
 ref: neumann-kh-420-g
+audiodb_uid: adb-b48ad4ea7863
 date: 2025-07-28
 rating: [4.1, 0.7, 0.7, 1.0, 0.8, 0.9]
 price: 787500
@@ -12,7 +13,6 @@ summary: "優れた測定性能と科学的設計アプローチを持つプロ�
 tags: [スタジオモニター, アクティブスピーカー, ミッドフィールド, 3ウェイ, プロフェッショナル]
 permalink: /products/ja/neumann-kh-420-g/
 ---
-
 ## 概要
 
 Neumann KH 420 Gは、26Hz-22kHzの周波数特性と122.4dB SPLの最大音圧レベルを持つ3ウェイトリアンプ方式のアクティブミッドフィールドスタジオモニターです。新設計の250mm長ストロークベースドライバー、75mmミッドレンジドーム、25mmツイーターを搭載し、ピーク時総出力610W（RMS: ベース295W、ミッドレンジ130W、ツイーター130W）のクラスABアンプで駆動されます。前モデルO410と比較して、中音域と低音域の高調波歪みを約5dB、中音域の相互変調歪みを5-10dB改善しています。Mathematically Modeled Dispersion（MMD）ウェーブガイド技術とLRIM素材を使用したコンピューターモデル化されたシャーシにより、定在波共振を排除し相互変調歪みを抑制しています。

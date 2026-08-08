@@ -5,6 +5,7 @@ target_name: "Polk Audio Reserve R100"
 company_id: polk-audio
 lang: ja
 ref: polk-audio-reserve-r100
+audiodb_uid: adb-171a9a69d12f
 date: 2025-07-31
 rating: [3.6, 0.6, 0.6, 1.0, 0.7, 0.7]
 price: 62000
@@ -12,7 +13,6 @@ summary: "58Hz-50kHzの周波数特性を持つコンパクトブックシェル
 tags: [ブックシェルフスピーカー, 2ウェイ, Hi-Res対応, Polk Audio, Reserve]
 permalink: /products/ja/polk-audio-reserve-r100/
 ---
-
 ## 概要
 
 Polk Audio Reserve R100は、同社のReserveシリーズに属するコンパクトブックシェルフスピーカーです。1インチPinnacle Ring Radiatorツイーターと5.25インチTurbine Coneウーファーを搭載した2ウェイ設計で、58Hz-50kHzの周波数特性を実現しています。Hi-Res認証を取得し、30-200Wの推奨入力電力、86dBの感度、8オーム（最小3.6オーム）のインピーダンスを持ちます。X-Port with Eigentone Filter技術により従来のスピーカー歪みを抑制するとされており、ホームシアターからオーディオ用途まで幅広い使用を想定した製品です。

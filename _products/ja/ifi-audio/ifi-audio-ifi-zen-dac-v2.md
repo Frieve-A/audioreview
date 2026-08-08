@@ -5,6 +5,7 @@ target_name: "iFi audio iFi Zen DAC V2"
 company_id: ifi-audio
 lang: ja
 ref: ifi-audio-ifi-zen-dac-v2
+audiodb_uid: adb-6d345f42cb39
 date: 2026-05-16
 rating: [2.9, 0.6, 0.3, 0.9, 0.8, 0.3]
 price: 29800

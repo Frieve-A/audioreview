@@ -5,6 +5,7 @@ target_name: "DEQX Pre-4"
 company_id: deqx
 lang: en
 ref: deqx-pre-4
+audiodb_uid: adb-e051577dad5c
 date: 2025-10-13
 rating: [3.5, 0.7, 1.0, 0.1, 0.9, 0.8]
 price: 17560

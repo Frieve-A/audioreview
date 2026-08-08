@@ -5,6 +5,7 @@ target_name: "Lafitear LF3 Pro"
 company_id: lafitear
 lang: en
 ref: lafitear-lf3-pro
+audiodb_uid: adb-baf016bd7901
 date: 2025-11-22
 rating: [2.6, 0.5, 0.3, 0.7, 0.4, 0.7]
 price: 28.72

@@ -5,6 +5,7 @@ target_name: "Acoustic Revive Power Sensual-MD-K"
 company_id: acoustic-revive
 lang: ja
 ref: acoustic-revive-power-sensual-md-k
+audiodb_uid: adb-e466e905090f
 date: 2025-11-03
 rating: [0.9, 0.0, 0.5, 0.0, 0.4, 0.0]
 price: 374700
@@ -12,7 +13,6 @@ summary: "MD-Kユニット技術を搭載したAcoustic Reviveのハイエンド
 tags: [電源ケーブル, Acoustic Revive, MD-Kユニット, PC Triple C]
 permalink: /products/ja/acoustic-revive-power-sensual-md-k/
 ---
-
 ## 概要
 
 Acoustic Revive Power Sensual-MD-Kは、日本のオーディオアクセサリーメーカーであるAcoustic Reviveが製造するハイエンド電源ケーブルです。独自の出川式MD-Kユニット技術（特許第31710024号）を搭載し、PC Triple C 5.6sq極太導体を特徴としています。マイナスイオン生成、遠赤外線放射、電磁界管理を通じてオーディオパフォーマンスの向上を謳っています。長さ2メートル、Furutech NCFコネクター採用で、Acoustic Reviveのオーディオシステム向けプレミアム電源供給アプローチを体現した製品です。

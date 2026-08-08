@@ -5,6 +5,7 @@ target_name: "NAGAOKA MP-100"
 company_id: nagaoka
 lang: en
 ref: nagaoka-mp-100
+audiodb_uid: adb-39ed7ff814a4
 date: 2025-07-10
 rating: [2.0, 0.3, 0.4, 0.5, 0.6, 0.2]
 price: 150

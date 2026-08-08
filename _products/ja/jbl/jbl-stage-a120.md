@@ -5,6 +5,7 @@ target_name: "JBL Stage A120"
 company_id: jbl
 lang: ja
 ref: jbl-stage-a120
+audiodb_uid: adb-db7fb5e7cfe1
 date: 2025-12-02
 rating: [3.7, 0.3, 0.8, 1.0, 0.9, 0.7]
 price: 30000
@@ -12,7 +13,6 @@ summary: "HDIウェーブガイド技術を特徴とする2ウェイブックシ
 tags: [スピーカー, ブックシェルフ, HDI, ウェーブガイド, JBL]
 permalink: /products/ja/jbl-stage-a120/
 ---
-
 ## 概要
 
 JBL Stage A120は、JBL独自のHDI（High Definition Imaging）ウェーブガイド技術を搭載した2ウェイパッシブバスレフ型ブックシェルフスピーカーです。プロフェッショナルモニター開発から生まれた技術を採用し、1インチアルミニウムドーム型ツイーターと4.5インチポリセルロース製ウーファーをポート付きエンクロージャーに搭載しています。ペア価格30,000円でエントリーレベル市場をターゲットとしながら、JBLプロオーディオ部門の技術的遺産を提供します。

@@ -5,6 +5,7 @@ target_name: "MADOO Typ930"
 company_id: madoo
 lang: ja
 ref: madoo-typ930
+audiodb_uid: adb-74385b217193
 date: 2026-01-07
 rating: [2.3, 0.5, 0.8, 0.0, 0.6, 0.4]
 price: 360000

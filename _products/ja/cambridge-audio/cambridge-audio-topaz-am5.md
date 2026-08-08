@@ -5,6 +5,7 @@ target_name: "Cambridge Audio Topaz AM5"
 company_id: cambridge-audio
 lang: ja
 ref: cambridge-audio-topaz-am5
+audiodb_uid: adb-aec6ba1d6e9b
 date: 2025-08-09
 rating: [2.5, 0.5, 0.4, 1.0, 0.4, 0.2]
 price: 16875

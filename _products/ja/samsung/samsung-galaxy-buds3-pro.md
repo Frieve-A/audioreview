@@ -5,6 +5,7 @@ target_name: "Samsung Galaxy Buds3 Pro"
 company_id: samsung
 lang: ja
 ref: samsung-galaxy-buds3-pro
+audiodb_uid: adb-076cab4dbac1
 date: 2025-09-04
 rating: [3.2, 0.6, 1.0, 0.4, 0.2, 1.0]
 price: 37000

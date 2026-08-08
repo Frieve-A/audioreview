@@ -5,6 +5,7 @@ target_name: "Trinnov Audio Amethyst"
 company_id: trinnov-audio
 lang: en
 ref: trinnov-audio-amethyst
+audiodb_uid: adb-87b32295a986
 date: 2025-07-14
 rating: [2.7, 0.7, 0.9, 0.1, 0.7, 0.3]
 price: 10000

@@ -5,6 +5,7 @@ target_name: "Edifier QS30"
 company_id: edifier
 lang: ja
 ref: edifier-qs30
+audiodb_uid: adb-165c98af8999
 date: 2025-09-01
 rating: [2.7, 0.3, 0.5, 0.7, 0.7, 0.5]
 price: 9990
@@ -12,7 +13,6 @@ summary: "RGB照明とUSB/BTを備える省スペース一体型サウンドバ�
 tags: [デスクトップスピーカー, USB給電, RGB照明, サウンドバー, コンピュータースピーカー]
 permalink: /products/ja/edifier-qs30/
 ---
-
 ## 概要
 
 Edifier QS30は、USBオーディオとBluetooth 5.4に対応するコンパクトなアンダーモニター型サウンドバーです。2インチ・フルレンジ×2（合計5W RMS）、独立キャビティとバスレフ構造、TempoAbyssによるライティング、内蔵マイク、そしてConneX/TempoHubアプリでのEQ・照明・FW更新に対応します［1][2]。

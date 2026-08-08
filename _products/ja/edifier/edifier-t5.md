@@ -5,6 +5,7 @@ target_name: "Edifier T5"
 company_id: edifier
 lang: ja
 ref: edifier-t5
+audiodb_uid: adb-89d97e2287b9
 date: 2025-08-10
 rating: [2.3, 0.4, 0.3, 0.7, 0.4, 0.5]
 price: 30000
@@ -12,7 +13,6 @@ summary: "70W RMS出力と38-160Hz周波数応答を持つ予算重視の8イン
 tags: [サブウーファー, パワード, 予算, ホームオーディオ]
 permalink: /products/ja/edifier-t5/
 ---
-
 ## 概要
 
 Edifier T5は、70W RMSアンプと8インチドライバーを搭載した予算重視のパワードサブウーファーです。デスクトップおよび小部屋での使用を想定したエントリーレベルの低音ソリューションとして、2.1スピーカーシステム用の手頃な低音補強を求めるユーザーをターゲットとしています。オートスタンバイ機能とRCAパススルー接続により、各種Edifierスピーカーモデルとの統合を実現しています。

@@ -5,6 +5,7 @@ target_name: "SteelSeries Arctis Nova Pro Wireless"
 company_id: steelseries
 lang: ja
 ref: steelseries-arctis-nova-pro-wireless
+audiodb_uid: adb-b805945b8d4f
 date: 2025-09-13
 rating: [3.6, 0.3, 0.7, 1.0, 0.6, 1.0]
 price: 53900
@@ -12,7 +13,6 @@ summary: "アクティブノイズキャンセリングとデュアルホット�
 tags: [ゲーミングヘッドセット, ワイヤレス, アクティブノイズキャンセリング, 多機種対応, プレミアム]
 permalink: /products/ja/steelseries-arctis-nova-pro-wireless/
 ---
-
 ## 概要
 
 SteelSeries Arctis Nova Pro Wirelessは、同社初のアクティブノイズキャンセリングシステムと革新的なデュアルホットスワップバッテリーを搭載したフラッグシップゲーミングヘッドセットです。2.4GHzワイヤレスとBluetoothの同時接続に対応した多機種対応ヘッドセットとして、PC、PlayStation、Xbox、Switch、モバイルデバイス間でのシームレスな切り替えを必要とするゲーマーをターゲットとしています。40mmカスタムデュアルダイアフラムドライバー、24ビット/96kHzまでのハイレゾ音源認証、高度な音声処理を行うSteelSeries Sonarソフトウェアとの連携機能を特徴としています。MSRP 349.99ドル、現在の市場価格は275-290ドル程度で、プロフェッショナルグレードの機能と品質を持つプレミアムゲーミングオーディオソリューションとして位置づけられています。

@@ -5,6 +5,7 @@ target_name: "Gustard AH90"
 company_id: gustard
 lang: ja
 ref: gustard-ah90
+audiodb_uid: adb-6a3b310bbde7
 date: 2025-08-10
 rating: [3.6, 0.5, 0.7, 1.0, 0.6, 0.8]
 price: 89850
@@ -12,7 +13,6 @@ summary: "AK4499EXフラッグシップチップと包括的な接続性を599�
 tags: [DAC, ヘッドホンアンプ, ネットワークストリーマー, デスクトップオーディオ, AK4499EX]
 permalink: /products/ja/gustard-ah90/
 ---
-
 ## 概要
 
 Gustard AH90（Audalyticブランド）は、AKMのフラッグシップAK4499EX DACチップとAK4191モジュレーターを搭載したコンパクトなネットワークストリーミングDACおよびヘッドホンアンプです。599ドルで、768kHz/DSD512までの高解像度デジタルデコーディング、Roon Bridgeサポート付きネットワークストリーミング機能、1Wバランスヘッドホンアンプを単一のデスクトップユニットに組み合わせています。このデバイスは、メインストリームフラッグシップDAC アーキテクチャを使用したGustardの統合ストリーミング市場への参入を表しています。

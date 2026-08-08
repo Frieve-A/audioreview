@@ -5,6 +5,7 @@ target_name: "SVS SVS SB-1000 Pro"
 company_id: svs
 lang: en
 ref: svs-sb-1000-pro
+audiodb_uid: adb-4c4df48a5c55
 date: 2026-02-11
 rating: [3.8, 0.6, 0.7, 1.0, 0.7, 0.8]
 price: 599

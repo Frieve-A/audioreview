@@ -5,6 +5,7 @@ target_name: "Polk Audio Signature Elite ES20"
 company_id: polk-audio
 lang: ja
 ref: polk-audio-signature-elite-es20
+audiodb_uid: adb-13982f4f6e7d
 date: 2025-07-18
 rating: [3.1, 0.5, 0.4, 1.0, 0.6, 0.6]
 price: 38484
@@ -12,7 +13,6 @@ summary: "Polk Audio Signature Elite ES20は価格帯に応じた標準的な測
 tags: [パッシブスピーカー, ブックシェルフ, ハイレゾ認証, 2ウェイ]
 permalink: /products/ja/polk-audio-signature-elite-es20/
 ---
-
 ## 概要
 
 Polk Audio Signature Elite ES20は、1インチTeryleneDomeツイーターと6.5インチMica強化ポリプロピレンウーファーを搭載した2ウェイパッシブブックシェルフスピーカーです。38,484円（ペア）で販売されており、ハイレゾ認証を取得し、Dolby AtmosやDTS:Xにも対応しています。Power Port技術により低音域の強化を図っていますが、基本的な測定性能において現在の技術水準に達していません。

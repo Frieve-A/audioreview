@@ -5,6 +5,7 @@ target_name: "Sony WH-1000XM5"
 company_id: sony
 lang: en
 ref: sony-wh-1000xm5
+audiodb_uid: adb-b5a02be1915f
 date: 2025-07-06
 rating: [3.4, 0.7, 0.8, 0.6, 0.8, 0.5]
 price: 240

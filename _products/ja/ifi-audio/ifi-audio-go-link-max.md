@@ -5,6 +5,7 @@ target_name: "iFi Audio GO Link Max"
 company_id: ifi-audio
 lang: ja
 ref: ifi-audio-go-link-max
+audiodb_uid: adb-992a81cf0915
 date: 2025-08-24
 rating: [3.2, 0.7, 0.6, 0.9, 0.5, 0.5]
 price: 13896
@@ -12,7 +13,6 @@ summary: "デュアルESS ES9219と3.5/4.4mm両出力を備える小型USB-Cド�
 tags: [DAC, ドングル, ポータブル, USB-C, バランス, iFi Audio]
 permalink: /products/ja/ifi-audio-go-link-max/
 ---
-
 ## 概要
 
 iFi Audio GO Link MaxはデュアルESS ES9219を用いたUSB-CドングルDACで、**3.5mm（S-Balanced）と4.4mmバランス**の両出力を搭載します。質量14.5g・150×15×10mm、出力は**241 mW @ 32Ω（バランス）／100 mW @ 32Ω（SE）**、SNRは**130/125 dBA**、THD+Nは**≤0.0016%（バランス）／≤0.0015%（SE）**、PCM 384 kHz／DSD256対応、セパレーション**>118 dB**です。メーカー資料ではDREにより**+6 dB**のダイナミックレンジ向上を謳います [1][2]。

@@ -5,6 +5,7 @@ target_name: "TRN Jaws"
 company_id: trn
 lang: ja
 ref: trn-jaws
+audiodb_uid: adb-3c87a350e314
 date: 2025-08-15
 rating: [2.4, 0.5, 0.6, 0.3, 0.6, 0.4]
 price: 18550

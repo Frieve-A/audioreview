@@ -5,6 +5,7 @@ target_name: "Topping L50"
 company_id: topping
 lang: ja
 ref: topping-l50
+audiodb_uid: adb-a9336249089d
 date: 2025-08-05
 rating: [4.2, 0.9, 0.7, 1.0, 0.7, 0.9]
 price: 25350
@@ -12,7 +13,6 @@ summary: "SINAD 125dBの優秀な測定性能を持つヘッドホンアンプ�
 tags: [ヘッドホンアンプ, デスクトップオーディオ, NFCA, 高SINAD]
 permalink: /products/ja/topping-l50/
 ---
-
 ## 概要
 
 Topping L50は中国のオーディオメーカーToppingが開発したデスクトップ型ヘッドホンアンプです。同社独自のNFCA（Nested Feedback Composite Amplifier）回路を採用し、THD+N 0.00006%、SINAD 125dB、ダイナミックレンジ145dBという優秀な測定性能を実現しています。Audio Science Reviewでも高い評価を受け、16Ω負荷で最大3500mW、300Ω負荷で540mWの出力能力を持ち、感度の高いIEMから駆動困難なフルサイズヘッドホンまで幅広く対応可能です。3段階のゲイン設定とUSB-Cファームウェア更新機能を備えた現代的な設計となっています。

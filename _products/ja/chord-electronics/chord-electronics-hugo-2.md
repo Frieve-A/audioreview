@@ -5,6 +5,7 @@ target_name: "Chord Electronics Hugo 2"
 company_id: chord-electronics
 lang: ja
 ref: chord-electronics-hugo-2
+audiodb_uid: adb-16aa9fb0612f
 date: 2025-07-29
 rating: [2.9, 0.8, 0.7, 0.1, 0.8, 0.5]
 price: 350000
@@ -12,7 +13,6 @@ summary: "独自のFPGAを搭載したポータブルDAC/ヘッドホンアン�
 tags: [DAC, ヘッドホンアンプ, ポータブル, FPGA]
 permalink: /products/ja/chord-electronics-hugo-2/
 ---
-
 ## 概要
 
 Chord Electronics Hugo 2は2017年に発売された英国製のポータブルDAC/ヘッドホンアンプです。同社独自のFPGA技術により49,152タップのデジタルフィルタを搭載し、当時としては先進的な処理能力を実現しました。ポータブル設計でありながらデスクトップレベルの音質を追求した意欲的な製品として位置づけられています。発売から7年以上が経過した現在でも現行製品として販売されていますが、その評価は現在の技術水準と市場環境の中で冷静に判断されるべきです。

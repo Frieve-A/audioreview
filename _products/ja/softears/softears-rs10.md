@@ -5,6 +5,7 @@ target_name: "Softears RS10"
 company_id: softears
 lang: ja
 ref: softears-rs10
+audiodb_uid: adb-028617321b32
 date: 2026-05-31
 rating: [3.4, 0.8, 0.4, 1.0, 0.5, 0.7]
 price: 325000

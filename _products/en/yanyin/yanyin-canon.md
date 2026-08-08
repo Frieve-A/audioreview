@@ -5,6 +5,7 @@ target_name: "Yanyin Canon"
 company_id: yanyin
 lang: en
 ref: yanyin-canon
+audiodb_uid: adb-100a1e73e257
 date: 2025-10-04
 rating: [2.8, 0.6, 0.7, 0.1, 0.6, 0.8]
 price: 349

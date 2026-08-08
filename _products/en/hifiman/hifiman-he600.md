@@ -5,6 +5,7 @@ target_name: "HIFIMAN HE600"
 company_id: hifiman
 lang: en
 ref: hifiman-he600
+audiodb_uid: adb-11184528cd0b
 date: 2025-12-03
 rating: [2.5, 0.6, 0.7, 0.2, 0.7, 0.3]
 price: 799

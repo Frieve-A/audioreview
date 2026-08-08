@@ -5,6 +5,7 @@ target_name: "ADAM Audio T7V"
 company_id: adam-audio
 lang: en
 ref: adam-audio-t7v
+audiodb_uid: adb-39168f22f27d
 date: 2025-09-13
 rating: [3.6, 0.5, 0.7, 1.0, 0.8, 0.6]
 price: 250

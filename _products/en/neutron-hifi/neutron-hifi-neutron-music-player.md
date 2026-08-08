@@ -5,6 +5,7 @@ target_name: "Neutron HiFi Neutron Music Player"
 company_id: neutron-hifi
 lang: en
 ref: neutron-hifi-neutron-music-player
+audiodb_uid: adb-cd88d945adf0
 date: 2025-09-17
 rating: [3.4, 0.5, 0.7, 0.9, 0.6, 0.7]
 price: 8.99

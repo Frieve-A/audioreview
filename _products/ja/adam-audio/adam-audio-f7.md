@@ -5,6 +5,7 @@ target_name: "ADAM Audio F7"
 company_id: adam-audio
 lang: ja
 ref: adam-audio-f7
+audiodb_uid: adb-0654471f0bb1
 date: 2025-12-29
 rating: [3.5, 0.5, 0.9, 0.4, 0.8, 0.9]
 price: 53550
@@ -12,7 +13,6 @@ summary: "独自のX-ARTツイーター技術とドイツの手作りエンジ�
 tags: [アクティブモニター, スタジオモニター, ニアフィールド, X-ART, ADAM Audio, プロオーディオ]
 permalink: /products/ja/adam-audio-f7/
 ---
-
 ## 概要
 
 ADAM Audio F7は、同社独自のX-ART（eXtended Accelerated Ribbon Technology）ツイーターを搭載した7インチニアフィールドアクティブスタジオモニターです。1999年にベルリンで「オーディオ再生の標準を明確かつ聞き取れる形で向上させる」という使命のもとに設立されたADAM Audioは、プレミアムモニター製造メーカーとしての地位を確立しています。F7にはベルリンで製造された手作りのX-ARTツイーターが搭載され、7インチのグラスファイバー/ペーパーコーンウーファーと組み合わせたフロントポート設計となっています。このモニターはバイアンプ構成のクラスA/B増幅でウーファーに60W RMS、ツイーターに40W RMSを提供し、44Hzから50kHzの周波数応答と1メートルでペア最大SPL 109dBを実現します。

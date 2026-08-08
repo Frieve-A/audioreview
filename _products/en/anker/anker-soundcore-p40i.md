@@ -5,6 +5,7 @@ target_name: "Anker Soundcore P40i"
 company_id: anker
 lang: en
 ref: anker-soundcore-p40i
+audiodb_uid: adb-fc2f27f19c87
 date: 2025-07-09
 rating: [3.2, 0.5, 0.6, 0.9, 0.7, 0.5]
 price: 53

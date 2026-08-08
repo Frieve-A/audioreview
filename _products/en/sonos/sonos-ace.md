@@ -5,6 +5,7 @@ target_name: "Sonos Ace"
 company_id: sonos
 lang: en
 ref: sonos-ace
+audiodb_uid: adb-b48880b62af5
 date: 2025-12-11
 rating: [2.6, 0.3, 0.6, 0.8, 0.4, 0.5]
 price: 349
@@ -12,7 +13,6 @@ summary: "Sonos's inaugural headphone product featuring innovative ecosystem int
 tags: [Bluetooth, Headphones, Noise cancelling, Over-ear, Wireless, Dolby Atmos]
 permalink: /products/en/sonos-ace/
 ---
-
 ## Overview
 
 The Sonos Ace represents Sonos's first foray into the headphone market, launched in June 2024. This wireless noise-cancelling over-ear headphone integrates unique ecosystem features including TV Audio Swap and TrueCinema technology. Equipped with custom-designed 40mm dynamic drivers and 8 microphones for noise control, it offers up to 30 hours of battery life with ANC enabled. The product features Bluetooth 5.4 connectivity with aptX Lossless support, Dolby Atmos spatial audio, and dynamic head tracking functionality.

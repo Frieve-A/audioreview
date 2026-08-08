@@ -5,6 +5,7 @@ target_name: "Final VR3000-Wireless"
 company_id: final
 lang: en
 ref: final-vr3000-wireless
+audiodb_uid: adb-0fc9ebfdeca0
 date: 2025-09-02
 rating: [3.2, 0.5, 0.6, 1.0, 0.5, 0.6]
 price: 129
@@ -12,7 +13,6 @@ summary: "Gaming-focused wireless earbuds with proprietary F-Core drivers and ul
 tags: [Gaming, Wireless, Earbuds, ANC, Low-latency]
 permalink: /products/en/final-vr3000-wireless/
 ---
-
 ## Overview
 
 The Final VR3000-Wireless represents Final Audio's entry into the competitive wireless gaming earbuds market. Launched on April 15, 2025 at 129 USD, these earbuds build upon the acclaimed wired VR3000 with the addition of wireless connectivity, hybrid ANC, and ultra-low latency features. The earbuds feature larger 10mm F-Core VR drivers compared to the 6mm drivers in the wired version, housed in brass enclosures for reduced magnetic interference. The package includes a 2.4GHz USB-C transmitter for low-latency gaming connections and supports both wireless gaming and Bluetooth connectivity for mobile use.

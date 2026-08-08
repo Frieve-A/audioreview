@@ -5,6 +5,7 @@ target_name: "Sound Warrior SWD-DA15"
 company_id: sound-warrior
 lang: en
 ref: sound-warrior-swd-da15
+audiodb_uid: adb-195fb501398e
 date: 2025-11-21
 rating: [2.6, 0.5, 0.6, 0.4, 0.6, 0.5]
 price: 430

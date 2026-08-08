@@ -5,6 +5,7 @@ target_name: "MiniDSP DDRC-24"
 company_id: minidsp
 lang: en
 ref: minidsp-ddrc-24
+audiodb_uid: adb-20ebcf4e5dbe
 date: 2025-09-07
 rating: [3.3, 0.5, 0.6, 1.0, 0.4, 0.8]
 price: 449

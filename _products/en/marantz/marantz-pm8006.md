@@ -5,6 +5,7 @@ target_name: "Marantz PM8006"
 company_id: marantz
 lang: en
 ref: marantz-pm8006
+audiodb_uid: adb-82c93c8a4e0c
 date: 2025-08-11
 rating: [3.4, 0.6, 0.6, 0.8, 0.7, 0.7]
 price: 1199
@@ -12,7 +13,6 @@ summary: "70W/ch integrated amplifier with clear, documented specs; competitive 
 tags: [Integrated amplifier, Marantz, HDAM, Current feedback]
 permalink: /products/en/marantz-pm8006/
 ---
-
 ## Overview
 
 The Marantz PM8006 is a stereo integrated amplifier rated at 70 W × 2 into 8 Ω and 100 W × 2 into 4 Ω. It belongs to Marantz's 8000 series and employs the company's HDAM-SA3 discrete current-feedback circuits and a toroidal power transformer. Official documentation provides full specifications including THD, S/N, bandwidth, damping factor, and input sensitivities; no credible third-party bench test data was identified at this time [1][3].

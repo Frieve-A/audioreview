@@ -5,6 +5,7 @@ target_name: "hifiman Svanar wireless"
 company_id: hifiman
 lang: ja
 ref: hifiman-svanar-wireless
+audiodb_uid: adb-b77c0e42f814
 date: 2025-10-07
 rating: [2.6, 0.4, 0.7, 0.7, 0.6, 0.2]
 price: 29850

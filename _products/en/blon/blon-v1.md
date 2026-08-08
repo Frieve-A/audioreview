@@ -5,6 +5,7 @@ target_name: "BLON V1"
 company_id: blon
 lang: en
 ref: blon-v1
+audiodb_uid: adb-08f6ae142dc5
 date: 2025-08-13
 rating: [3.6, 0.5, 0.8, 1.0, 0.6, 0.7]
 price: 41

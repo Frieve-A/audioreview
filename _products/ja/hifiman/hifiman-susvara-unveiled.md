@@ -5,6 +5,7 @@ target_name: "HIFIMAN Susvara Unveiled"
 company_id: hifiman
 lang: ja
 ref: hifiman-susvara-unveiled
+audiodb_uid: adb-2f80d8ea43ca
 date: 2025-12-03
 rating: [2.4, 0.5, 0.9, 0.0, 0.6, 0.4]
 price: 1200000
@@ -12,7 +13,6 @@ summary: "革新的なアンベイルドデザインとナノ厚ダイアフラ�
 tags: [ヘッドホン, 平面磁界, hifiman, フラッグシップ, オープンバック, アンベイルド]
 permalink: /products/ja/hifiman-susvara-unveiled/
 ---
-
 ## 概要
 
 HIFIMAN Susvara Unveiledは、同社フラッグシップ平面磁界ヘッドホンラインの最新進化モデルで、従来の保護グリルを取り除いて音波反射を最小限に抑える革新的な「アンベイルド」デザインを導入しています。2024年に120万円で発売されたこのプレミアムモデルは、1μmナノ厚ダイアフラム、ステルスマグネット技術、銀導体材料を採用した80mm平面磁界ドライバーを特徴としています。従来のSusvaraと比較して、Unveiledモデルではインピーダンス低減（45Ω vs 60Ω）、感度向上（86 dB/mW vs 83 dB/mW）、20g軽量化（430g）を実現。完全オープンバック設計により裸のドライバーが露出し、使用しない時は付属のMagnetic Veilsでのみ保護される構造は、Dr. Fang Bianの革新的エンジニアリングアプローチによる音響透明性追求を体現しています。

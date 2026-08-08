@@ -5,6 +5,7 @@ target_name: "Classic Pro CPE4000"
 company_id: classic-pro
 lang: ja
 ref: classic-pro-cpe4000
+audiodb_uid: adb-5be2f2ff8645
 date: 2025-09-03
 rating: [2.4, 0.5, 0.3, 0.6, 0.5, 0.5]
 price: 4980
@@ -12,7 +13,6 @@ summary: "基本的な性能を持つ低価格イヤーモニターだが、技�
 tags: [インイヤーモニター, ダイナミック型ドライバー, ステージモニタリング, 低価格IEM]
 permalink: /products/ja/classic-pro-cpe4000/
 ---
-
 ## 概要
 
 Classic Pro CPE4000は、サウンドハウスのハウスブランドによる有線インイヤーモニターで、10 mmダイナミック型ドライバーを採用しています。国内実売価格は**4,980円**で、22 Ω、113 dB±3 dB、20 Hz–20 kHzというカタログ仕様が公式ページで公開されています[1]。

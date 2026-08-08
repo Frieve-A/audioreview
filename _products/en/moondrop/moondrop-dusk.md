@@ -5,6 +5,7 @@ target_name: "MOONDROP DUSK"
 company_id: moondrop
 lang: en
 ref: moondrop-dusk
+audiodb_uid: adb-22993151930b
 date: 2025-10-17
 rating: [2.6, 0.4, 0.9, 0.1, 0.3, 0.9]
 price: 399

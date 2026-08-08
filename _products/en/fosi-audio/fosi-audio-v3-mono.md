@@ -5,6 +5,7 @@ target_name: "Fosi Audio V3 Mono"
 company_id: fosi-audio
 lang: en
 ref: fosi-audio-v3-mono
+audiodb_uid: adb-72ee27e4be67
 date: 2025-07-23
 rating: [3.3, 0.8, 0.7, 0.5, 0.6, 0.7]
 price: 169
@@ -12,7 +13,6 @@ summary: "A Class D monoblock with TPA3255 and PFFB technology, offering excelle
 tags: [Monoblock Amplifier, Class D, TPA3255, PFFB]
 permalink: /products/en/fosi-audio-v3-mono/
 ---
-
 ## Overview
 
 The Fosi Audio V3 Mono is a Class D monoblock power amplifier featuring Texas Instruments' TPA3255 chip. With a 240W@4Ω output capability, it adopts the company's first PFFB (Post-Filter Feedback) technology to address the load dependency issues common in traditional Class D amplifiers. It features XLR/TRS balanced inputs and RCA inputs, with swappable op-amp design capabilities. As a pure power amplifier, it requires two units for stereo reproduction and a separate preamplifier.

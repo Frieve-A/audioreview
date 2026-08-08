@@ -5,6 +5,7 @@ target_name: "Revel F35"
 company_id: revel
 lang: en
 ref: revel-f35
+audiodb_uid: adb-b73992ffdfe9
 date: 2025-11-01
 rating: [4.6, 0.7, 1.0, 0.9, 1.0, 1.0]
 price: 616

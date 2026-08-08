@@ -5,6 +5,7 @@ target_name: "Polk Audio TSi100"
 company_id: polk-audio
 lang: en
 ref: polk-audio-tsi100
+audiodb_uid: adb-3cd57224595b
 date: 2025-12-23
 rating: [3.3, 0.5, 0.7, 0.7, 0.6, 0.8]
 price: 135
@@ -12,7 +13,6 @@ summary: "Discontinued 2-way bookshelf speaker featuring proprietary Dynamic Bal
 tags: [Bookshelf-speakers, Passive-speakers, Discontinued, Dynamic-balance]
 permalink: /products/en/polk-audio-tsi100/
 ---
-
 ## Overview
 
 The Polk Audio TSi100 represents a 2-way passive bookshelf speaker from Polk's archived TSi series, featuring the company's proprietary Dynamic Balance technology developed through collaboration with Johns Hopkins University [1]. This speaker incorporates a 5.25" bi-laminate organic fiber cone woofer paired with a 1" silk dome tweeter, crossed over at 2,500 Hz using a 2nd order filter [2]. Built with extensively braced MDF construction and 3/4-inch baffles, the TSi100 was positioned as an affordable entry point to Polk's scientific driver optimization approach. The product is currently discontinued and only available through used markets, with dimensions of 11" H × 7" W × 10.25" D and weighing 10 pounds per speaker [1].

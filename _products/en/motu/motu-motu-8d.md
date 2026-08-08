@@ -5,6 +5,7 @@ target_name: "MOTU MOTU 8D"
 company_id: motu
 lang: en
 ref: motu-motu-8d
+audiodb_uid: adb-c12abb8ab780
 date: 2026-05-25
 rating: [3.7, 0.7, 0.6, 1, 0.7, 0.7]
 price: 595
@@ -12,7 +13,6 @@ summary: "Digital audio interface and routing hub with AES3, S/PDIF, USB, AVB-TS
 tags: [Audio-Interface, AVB, AES3, DSP, Digital-Routing, Headphone-Output]
 permalink: /products/en/motu-motu-8d/
 ---
-
 ## Overview
 
 The MOTU 8D is a compact digital audio interface and routing hub built around AES3, S/PDIF, USB, and AVB-TSN connectivity. It combines sample-rate conversion, a 48-input DSP mixer, browser control, matrix routing, and an assignable headphone output in a half-rack design. MOTU still documents it as part of its AVB lineup [1][2].

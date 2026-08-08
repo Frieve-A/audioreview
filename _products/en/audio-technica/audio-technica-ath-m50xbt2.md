@@ -5,6 +5,7 @@ target_name: "Audio-Technica ATH-M50xBT2"
 company_id: audio-technica
 lang: en
 ref: audio-technica-ath-m50xbt2
+audiodb_uid: adb-a198c64de81c
 date: 2025-12-08
 rating: [3.3, 0.4, 0.7, 0.5, 0.8, 0.9]
 price: 199
@@ -12,7 +13,6 @@ summary: "The ATH-M50xBT2 delivers advanced wireless technology and app-based cu
 tags: [Headphones, Bluetooth, Wireless, Studio, Professional, LDAC, Audio-Technica]
 permalink: /products/en/audio-technica-ath-m50xbt2/
 ---
-
 ## Overview
 
 The Audio-Technica ATH-M50xBT2 represents the second generation of the company's critically acclaimed wireless studio monitoring headphones. Building on the legacy of the ATH-M50 series introduced in 2007, these closed-back circumaural headphones feature 45mm neodymium drivers with copper-coated aluminum voice coils, designed for professional monitoring applications. The wireless implementation incorporates an AK4331 32-bit DAC with dedicated headphone amplifier, Bluetooth 5.0 connectivity with LDAC codec support, and comprehensive app-based customization through the A-T Connect application. With 50+ hour battery life and multipoint pairing capability, the ATH-M50xBT2 targets both professional users requiring wireless monitoring flexibility and consumers seeking studio-quality audio reproduction.

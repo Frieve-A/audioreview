@@ -5,6 +5,7 @@ target_name: "EarFun Air Pro 4i"
 company_id: earfun
 lang: ja
 ref: earfun-air-pro-4i
+audiodb_uid: adb-430ed21aed5c
 date: 2025-10-16
 rating: [3.1, 0.5, 0.6, 0.9, 0.5, 0.6]
 price: 7600

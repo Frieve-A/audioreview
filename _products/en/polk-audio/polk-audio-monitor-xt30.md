@@ -5,6 +5,7 @@ target_name: "Polk Audio Monitor XT30"
 company_id: polk-audio
 lang: en
 ref: polk-audio-monitor-xt30
+audiodb_uid: adb-7977348eae80
 date: 2025-08-19
 rating: [3.3, 0.5, 0.4, 1.0, 0.7, 0.7]
 price: 135

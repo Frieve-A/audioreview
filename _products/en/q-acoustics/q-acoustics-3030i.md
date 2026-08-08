@@ -5,6 +5,7 @@ target_name: "Q Acoustics 3030i"
 company_id: q-acoustics
 lang: en
 ref: q-acoustics-3030i
+audiodb_uid: adb-6ca190878276
 date: 2026-03-15
 rating: [4.1, 0.7, 0.7, 1.0, 0.8, 0.9]
 price: 399
@@ -12,7 +13,6 @@ summary: "Discontinued bookshelf speaker with solid engineering, excellent cost-
 tags: [Speakers, Bookshelf, Passive, Q Acoustics, Discontinued]
 permalink: /products/en/q-acoustics-3030i/
 ---
-
 ## Overview
 
 The Q Acoustics 3030i is a 2-way passive bookshelf speaker featuring a 165mm bass driver and 22mm tweeter in a reflex enclosure. Released in February 2020 as the largest model in the 3000i series, it was designed to deliver substantial bass performance from a compact cabinet. The speaker incorporates Q Acoustics' proprietary P2P bracing technology and tweeter isolation system. Originally priced at 399 USD, the 3030i was discontinued in August 2024 and replaced by the 3030c in the newer 3000c series. Q Acoustics, founded in 2006, has established itself as a multi-award winning brand focusing on measurement-based loudspeaker design.

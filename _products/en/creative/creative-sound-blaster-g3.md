@@ -5,6 +5,7 @@ target_name: "Creative Sound Blaster G3"
 company_id: creative
 lang: en
 ref: creative-sound-blaster-g3
+audiodb_uid: adb-3c9523a3aa7a
 date: 2025-09-02
 rating: [2.7, 0.2, 0.5, 0.9, 0.6, 0.5]
 price: 69

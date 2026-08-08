@@ -5,6 +5,7 @@ target_name: "Rational Acoustics RTA-420"
 company_id: rational-acoustics
 lang: en
 ref: rational-acoustics-rta420-v2
+audiodb_uid: adb-bbc2358f838d
 date: 2025-07-18
 rating: [2.8, 0.4, 0.5, 1.0, 0.5, 0.4]
 price: 83
@@ -12,7 +13,6 @@ summary: "The Rational Acoustics RTA-420 is a measurement microphone known for i
 tags: [Measurement Microphone, Acoustic Measurement, Rational Acoustics, RTA-420]
 permalink: /products/en/rational-acoustics-rta420-v2/
 ---
-
 ## Overview
 
 The Rational Acoustics RTA-420 is a 1/4-inch back-electret condenser microphone designed for acoustic measurement applications. Engineered with emphasis on compatibility with the company's Smaart measurement software, it is positioned as a product for entry-level users, students, and secondary rig applications. It features an omnidirectional pattern, covers a frequency range of 20Hz-20kHz, and is manufactured with Class 2 frequency response tolerance.

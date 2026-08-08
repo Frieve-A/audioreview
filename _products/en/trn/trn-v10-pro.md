@@ -5,6 +5,7 @@ target_name: "TRN V10 Pro"
 company_id: trn
 lang: en
 ref: trn-v10-pro
+audiodb_uid: adb-433874598ad0
 date: 2025-08-01
 rating: [2.7, 0.5, 0.4, 0.9, 0.2, 0.7]
 price: 16
@@ -12,7 +13,6 @@ summary: "A multi-driver IEM with a 2DD+2BA setup. It offers excellent cost-perf
 tags: [Earphones, Hybrid Drivers, Chinese IEM, TRN, 2DD+2BA]
 permalink: /products/en/trn-v10-pro/
 ---
-
 ## Overview
 
 The TRN V10 Pro is a hybrid earphone developed by Chinese audio manufacturer TRN, featuring a 2DD+2BA configuration. It incorporates a 10mm beryllium-coated dynamic driver, a 6mm titanium-coated dynamic driver, and two 30095 high-frequency balanced armature drivers. In the Japanese market, it is sold for 16 USD, achieving a rare 4-driver configuration at this price point. With specifications of 20Hz-20kHz frequency response, 112dB sensitivity, and 22Ω impedance, it adopts V-shaped acoustic tuning.

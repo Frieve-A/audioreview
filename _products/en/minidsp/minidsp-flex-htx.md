@@ -5,6 +5,7 @@ target_name: "miniDSP Flex HTx"
 company_id: minidsp
 lang: en
 ref: minidsp-flex-htx
+audiodb_uid: adb-02e95e7e9cd2
 date: 2025-09-07
 rating: [4.0, 0.9, 0.7, 1.0, 0.4, 1.0]
 price: 949

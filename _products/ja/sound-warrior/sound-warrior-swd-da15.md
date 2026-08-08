@@ -5,6 +5,7 @@ target_name: "Sound Warrior SWD-DA15"
 company_id: sound-warrior
 lang: ja
 ref: sound-warrior-swd-da15
+audiodb_uid: adb-195fb501398e
 date: 2025-11-21
 rating: [2.6, 0.5, 0.6, 0.4, 0.6, 0.5]
 price: 60000
@@ -12,7 +13,6 @@ summary: "ES9018K2M チップを搭載した日本製設計のUSB DACで、デ�
 tags: [USB DAC, ヘッドホンアンプ, デスクトップオーディオ, ES9018K2M, Sound Warrior]
 permalink: /products/ja/sound-warrior-swd-da15/
 ---
-
 ## 概要
 
 Sound Warrior SWD-DA15は、Sound WarriorブランドでSHIROSHITAが設計・製造する日本製のUSB DACおよびヘッドホンアンプです。1923年に長野県で設立された同社は、精密製造と「Made in Japan」品質基準を重視しています。SWD-DA15は、384kHz/32bit PCMおよび最大11.2MHz DSDを含む包括的なフォーマットサポートを持つESS Technology ES9018K2M DACチップを搭載しています。本機は複数のデジタル入力（USB、同軸、光学）を提供し、独自の「Bulk Pet」USB技術とサンプリングレート変換機能をコンパクトなデスクトップ形状に組み込んでいます。

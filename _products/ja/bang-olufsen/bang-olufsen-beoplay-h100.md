@@ -5,6 +5,7 @@ target_name: "Bang & Olufsen Beoplay H100"
 company_id: bang-olufsen
 lang: ja
 ref: bang-olufsen-beoplay-h100
+audiodb_uid: adb-5da8ce7e270c
 date: 2026-01-18
 rating: [2.9, 0.5, 0.9, 0.1, 0.8, 0.6]
 price: 259000

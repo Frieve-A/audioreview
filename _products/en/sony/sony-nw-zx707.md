@@ -5,6 +5,7 @@ target_name: "Sony NW-ZX707"
 company_id: sony
 lang: en
 ref: sony-nw-zx707
+audiodb_uid: adb-da22845dd85d
 date: 2025-08-01
 rating: [2.9, 0.6, 0.6, 0.5, 0.7, 0.5]
 price: 899
@@ -12,7 +13,6 @@ summary: "An Android-based premium DAP with respectable performance, but signifi
 tags: [DAP, Android, Hi-Res, Portable, Sony]
 permalink: /products/en/sony-nw-zx707/
 ---
-
 ## Overview
 
 The Sony NW-ZX707 is positioned as a premium model in Sony's Walkman series, featuring an Android-based digital audio player architecture. With a large 5-inch display and Android 12 implementation, it delivers greater functionality than traditional DAPs. The device incorporates Sony's S-Master HX digital amplifier, supporting PCM playback up to 384kHz/32-bit and DSD playback up to 11.2MHz. The 4.4mm balanced output delivers up to 230mW, accommodating high-impedance headphones. However, the pricing of approximately 899 USD requires careful consideration when compared to alternative options that provide equivalent functionality.

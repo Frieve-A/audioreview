@@ -5,6 +5,7 @@ target_name: "Kajima Corporation OPSODIS 1"
 company_id: kajima-corporation
 lang: en
 ref: kajima-corporation-opsodis-1
+audiodb_uid: adb-010e7be07459
 date: 2025-12-01
 rating: [3.0, 0.5, 0.9, 0.5, 0.1, 1.0]
 price: 499

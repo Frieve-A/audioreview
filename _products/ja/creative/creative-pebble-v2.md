@@ -5,6 +5,7 @@ target_name: "Creative Pebble V2"
 company_id: creative
 lang: ja
 ref: creative-pebble-v2
+audiodb_uid: adb-bf11534332fa
 date: 2025-08-21
 rating: [2.6, 0.3, 0.3, 1.0, 0.5, 0.5]
 price: 3680
@@ -12,7 +13,6 @@ summary: "USB-C給電の小型2.0スピーカー。カタログ上は8W RMS、�
 tags: [デスクトップスピーカー, USB-C, 予算オーディオ, コンピュータスピーカー]
 permalink: /products/ja/creative-pebble-v2/
 ---
-
 ## 概要
 
 Creative Pebble V2 は、USB-C給電（Type-A変換付属）、45°上向き配置の2インチ・フルレンジ、パッシブラジエーターを備える2.0アクティブ・デスクトップスピーカーです。メーカー公表値は総合8W RMS（ピーク16W）、周波数特性100–17,000 Hz（許容差表記なし）、SNR 75 dBです[1][2][3]。2025年8月20日現在、国内直販価格は**3,680円**です（本レビューの分母価格）[1]。

@@ -5,6 +5,7 @@ target_name: "Marantz MODEL M1"
 company_id: marantz
 lang: en
 ref: marantz-model-m1
+audiodb_uid: adb-d6847ff7f453
 date: 2025-07-08
 rating: [3.4, 0.6, 0.8, 0.6, 0.8, 0.6]
 price: 858

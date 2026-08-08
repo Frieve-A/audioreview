@@ -5,6 +5,7 @@ target_name: "Sennheiser HD 620S"
 company_id: sennheiser
 lang: en
 ref: sennheiser-hd-620s
+audiodb_uid: adb-9d758574288b
 date: 2025-09-03
 rating: [3.0, 0.6, 0.6, 0.5, 0.6, 0.7]
 price: 349.95
@@ -12,7 +13,6 @@ summary: "Closed-back audiophile headphone with angled transducer design for spa
 tags: [Headphones, Closed-back, Audiophile, Sennheiser, Dynamic]
 permalink: /products/en/sennheiser-hd-620s/
 ---
-
 ## Overview
 
 The HD 620S is Sennheiser's May 2024 closed-back audiophile headphone that merges DNA from the HD 600 and 500 series. Featuring reference-grade 42mm angled transducers with 38mm diaphragms and ultra-light 150-ohm aluminum voice coils manufactured at Sennheiser's Tullamore, Ireland facility, the HD 620S attempts to replicate open-back spatial imaging in a closed design. The angled baffle design encourages air movement to model open-back transducer behavior while maintaining isolation, targeting audio enthusiasts seeking distraction-free listening without compromising natural sound character.

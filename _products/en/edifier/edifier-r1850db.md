@@ -5,6 +5,7 @@ target_name: "Edifier R1850DB"
 company_id: edifier
 lang: en
 ref: edifier-r1850db
+audiodb_uid: adb-df6c5356ac13
 date: 2025-09-02
 rating: [3.1, 0.5, 0.5, 0.7, 0.7, 0.7]
 price: 269.99
@@ -12,7 +13,6 @@ summary: "Angled, rear-ported powered 2.0 with optical/coaxial digital inputs, B
 tags: [Bookshelf, Powered, Bluetooth, Optical, Coaxial, Sub-Out, Desktop, TV]
 permalink: /products/en/edifier-r1850db/
 ---
-
 ## Overview
 
 The R1850DB is a compact, angled-baffle, rear-ported powered 2.0 speaker system using a 4-inch mid-bass (Nomex) and 0.75-inch silk-dome tweeter. It integrates analog line-in, optical and coaxial digital inputs, Bluetooth, and a dedicated subwoofer output. Official specs list 70 W RMS total power, frequency response 60 Hz–20 kHz, SNR ≥85 dB(A), and THD+N ≤0.5% [1].

@@ -5,6 +5,7 @@ target_name: "KS Digital C100 Reference"
 company_id: ks-digital
 lang: ja
 ref: ks-digital-c100-reference
+audiodb_uid: adb-c7a208fec81c
 date: 2025-10-14
 rating: [4.2, 0.7, 0.8, 1.0, 0.8, 0.9]
 price: 349020
@@ -12,7 +13,6 @@ summary: "FIRTEC DSP技術により個体校正と測定ベース最適化を行
 tags: [スタジオモニター, 同軸, プロフェッショナル音響, DSP, ドイツ工学]
 permalink: /products/ja/ks-digital-c100-reference/
 ---
-
 ## 概要
 
 KS Digital C100 Referenceは、10インチウーファー/ミッドレンジドライバーと1インチコンプレッションツイーターを70°コニカルホーンに組み合わせた、プロフェッショナル2ウェイ同軸アクティブ・スタジオモニターです。1991年設立のドイツ企業KS Digitalが製造し、ザールブリュッケンで手作業組立を行い、独自のFIRTEC DSP技術による個体測定と校正を実施しています。高度なFIRフィルタリング、パラメトリックEQ機能を搭載し、アナログXLRとデジタルAES3入力の両方に対応し、24ビット/192kHz変換をサポートします。プロフェッショナル・ミキシング、レコーディング、放送、イマーシブ・オーディオ環境向けに設計され、C100 Referenceは測定重視のアプローチでスタジオモニタリングの高級市場に位置づけられています。

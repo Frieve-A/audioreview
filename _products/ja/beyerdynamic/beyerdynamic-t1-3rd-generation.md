@@ -5,6 +5,7 @@ target_name: "Beyerdynamic T1 3rd Generation"
 company_id: beyerdynamic
 lang: ja
 ref: beyerdynamic-t1-3rd-generation
+audiodb_uid: adb-ab315cd671b1
 date: 2025-09-09
 rating: [2.4, 0.4, 0.6, 0.3, 0.7, 0.4]
 price: 91740
@@ -12,7 +13,6 @@ summary: "テスラテクノロジーを搭載したドイツ製オープンバ�
 tags: [ヘッドホン, オープンバック, テスラ, ドイツ, ハイエンド]
 permalink: /products/ja/beyerdynamic-t1-3rd-generation/
 ---
-
 ## 概要
 
 Beyerdynamic T1 3rd Generationは、ドイツの老舗メーカーが手がけるフラッグシップ・オープンバック型ヘッドホンの最新モデルです。1テスラを超える磁束密度を実現する独自のテスラドライバー技術を搭載し、ドイツのハイルブロンで手作業により製造されています。PEEKポリマー振動板、OCC 7N銅ケーブル、ブラッシュドアルミニウム筐体などの高級素材を採用しています。第3世代では600オームから32オームへと大幅なインピーダンス低減を実現し、モバイル機器との互換性を向上させながら、生産工程で個別測定・ペアマッチングされるテスラトランスデューサーを維持しています。

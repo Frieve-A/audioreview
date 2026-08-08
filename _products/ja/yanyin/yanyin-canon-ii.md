@@ -5,6 +5,7 @@ target_name: "Yanyin Canon II"
 company_id: yanyin
 lang: ja
 ref: yanyin-canon-ii
+audiodb_uid: adb-16eabab1161b
 date: 2025-10-04
 rating: [2.4, 0.5, 0.7, 0.3, 0.3, 0.6]
 price: 57400

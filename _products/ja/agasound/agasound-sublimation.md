@@ -5,6 +5,7 @@ target_name: "Agasound Sublimation"
 company_id: agasound
 lang: ja
 ref: agasound-sublimation
+audiodb_uid: adb-4ddc2c8392cf
 date: 2025-09-18
 rating: [2.9, 0.5, 0.7, 0.2, 0.8, 0.7]
 price: 11490
@@ -12,7 +13,6 @@ summary: "セラミックコーティング技術を採用した品質の高いI
 tags: [インイヤーモニター, ダイナミックドライバー, セラミックコーティング, アルミニウム構造]
 permalink: /products/ja/agasound-sublimation/
 ---
-
 ## 概要
 
 Agasound Sublimationは、セラミックコーティングダイアフラム技術を採用した10mmダイナミックドライバーを搭載するインイヤーモニターです。中国広東省の広州阿迦声音科技有限公司により製造され、金属ハウジング構造による精密製造を重視した設計となっています。11,490円（115 USD）の価格で中級IEM市場をターゲットとし、セラミックコーティング技術による高調波歪みの低減を謳っています。

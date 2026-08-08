@@ -5,6 +5,7 @@ target_name: "Pioneer DJ HDJ-X7"
 company_id: pioneer-dj
 lang: en
 ref: pioneer-dj-hdj-x7
+audiodb_uid: adb-745cd7fa718d
 date: 2025-12-05
 rating: [3.2, 0.5, 0.5, 0.7, 0.9, 0.6]
 price: 239

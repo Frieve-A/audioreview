@@ -5,6 +5,7 @@ target_name: "Shure SM35-TQG"
 company_id: shure
 lang: en
 ref: shure-sm35-tqg
+audiodb_uid: adb-16226c3f7808
 date: 2025-08-30
 rating: [3.3, 0.6, 0.5, 1.0, 0.6, 0.6]
 price: 109

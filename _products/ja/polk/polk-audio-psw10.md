@@ -5,6 +5,7 @@ target_name: "Polk Audio PSW10"
 company_id: polk
 lang: ja
 ref: polk-audio-psw10
+audiodb_uid: adb-ba8b7b511c28
 date: 2025-07-19
 rating: [2.4, 0.3, 0.4, 0.7, 0.7, 0.3]
 price: 32000

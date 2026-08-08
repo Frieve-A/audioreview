@@ -5,6 +5,7 @@ target_name: "PreSonus Eris Studio 4"
 company_id: presonus
 lang: ja
 ref: presonus-eris-studio-4
+audiodb_uid: adb-e9945f92a92f
 date: 2025-08-16
 rating: [3.3, 0.5, 0.5, 0.8, 0.7, 0.8]
 price: 22000
@@ -12,7 +13,6 @@ summary: "EBMウェーブガイドを搭載した小型スタジオモニター�
 tags: [スタジオモニター, ニアフィールド, アクティブ, バイアンプ, EBMウェーブガイド]
 permalink: /products/ja/presonus-eris-studio-4/
 ---
-
 ## 概要
 
 PreSonus Eris Studio 4は4.5インチのアクティブ・ニアフィールドモニターです。EBM（楕円境界モデル）ウェーブガイドによる120°×60°の指向性、クラスAB 50Wバイアンプ（25W+25W）、前面バスポート、音響調整機能を備え、仕様は55Hz–20kHz、クロスオーバー2.7kHz、ピークSPLはUSページで100dB@1m、一方でJPページでは99dB@1mの表記（クロス2.7kHzも確認）となっています[1][4]。

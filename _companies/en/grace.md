@@ -7,7 +7,7 @@ lang: en
 ref: grace
 date: 2026-07-04
 rating: [3.6, 0.9, 0.7, 0.7, 1.0, 0.3]
-summary: "US professional audio manufacturer with 30-year track record delivering reference-class measured performance and industry-exceptional support, but premium pricing substantially exceeds comparable-performing alternatives and design philosophy prioritizes listening-led craftsmanship over measurement-driven engineering."
+summary: "US professional audio manufacturer with a 30-year track record, strong measured performance, and long transferable warranties, but premium pricing substantially exceeds comparable-performing alternatives and design philosophy prioritizes listening-led craftsmanship over measurement-driven engineering."
 tags: [Audio interface, DAC, Headphone amplifier, Microphone Preamplifier, Monitor Controller, Professional]
 permalink: /companies/en/grace/
 ---
@@ -21,9 +21,9 @@ $$ \Large \text{0.9} $$
 
 Four representative products are evaluated across the lineup. Third-party Audio Precision measurements via Sound on Sound are available for m900 and m108; the m101 and m905 rely on manufacturer specifications with a conservative evaluation applied accordingly.
 
-**m900 (DAC/Headphone Amplifier):** Third-party measurements show THD of 0.0003% at 1kHz, dynamic range of 117.5 dB A-weighted (AES17), and IMD with all 32-tone artifacts below −100 dBu [2]. Performance places this unit among the top-measured desktop DAC/headphone amplifier combinations in independent testing.
+**m900 (DAC/Headphone Amplifier):** Third-party measurements show THD of 0.0003% at 1kHz, dynamic range of 117.5 dB A-weighted (AES17), and IMD with all 32-tone artifacts below −100 dBu [2]. These independent results show strong desktop DAC/headphone amplifier performance.
 
-**m905 (Stereo Monitor Controller + DAC):** Manufacturer-specified THD+N of less than 0.0008% (1kHz, +20dBu output), dynamic range of 118 dB A-weighted, and crosstalk below −100 dB at 1kHz [1]. These manufacturer specifications indicate excellent distortion and noise performance consistent with the product's professional positioning.
+**m905 (Stereo Monitor Controller + DAC):** Manufacturer-specified analog THD+N is less than 0.0008% (1kHz, +20dBu output), analog dynamic range is 118 dB over 20Hz-22kHz and 121 dB A-weighted, and crosstalk is below −100 dB at 1kHz [1]. These manufacturer specifications indicate excellent distortion and noise performance consistent with the product's professional positioning.
 
 **m108 (8-Channel Mic Preamp + ADC):** Third-party measurements show THD+N of 0.003% at 60dB gain, ADC dynamic range of 120.5 dB A-weighted (AES17) at 14dB gain, and crosstalk of −131 dB at 10kHz between adjacent channels [3].
 
@@ -37,7 +37,7 @@ $$ \Large \text{0.7} $$
 
 Grace Design's entire product line is fully in-house designed and manufactured — a meaningful distinction in a market where OEM sourcing is common. Thirty years of continuous development has produced verifiable technical expertise: the m108's ADC dynamic range of 120.5 dB A-weighted and EIN of −127.3 dBu at 150Ω source are exemplary even against specialized professional converters [3].
 
-No confirmed patents are held. The core transimpedance (current feedback) circuit topology used across all mic preamp products is a known engineering approach common throughout the professional audio industry and does not represent proprietary technology. The s-Lock PLL clocking system (4th generation, deployed in the m908, m905, and m108) and GraceNet browser-based control are proprietary implementations representing appropriate contemporary engineering, though neither has attracted confirmed licensing interest from competitors. The m701 modular audio interface (NAMM 2025) entered a market already established by Merging Technologies and Antelope Audio, making it a catch-up entry rather than an industry-leading development. Technology integration reaches the appropriate digital/circuit/software combination tier — covering Dante/Ravenna/AES67/ST2110, DSP room correction, and browser-based remote control — without advancing to AI or cloud-native approaches.
+No confirmed patents are held. The core transimpedance (current feedback) circuit topology used across all mic preamp products is a known engineering approach common throughout the professional audio industry and does not represent proprietary technology. The s-Lock PLL clocking system (4th generation, deployed in the m908, m905, and m108) and GraceNet browser-based control are proprietary implementations representing appropriate contemporary engineering, though neither has attracted confirmed licensing interest from competitors. The m701 modular audio interface (NAMM 2025) entered a market already established by Merging Technologies and Antelope Audio, making it a catch-up entry rather than an industry-leading development. Technology integration reaches the appropriate digital/circuit/software combination tier, covering Dante/Ravenna/AES67/ST2110, DSP room correction, and browser-based remote control without advancing to AI or cloud-native approaches.
 
 Development pace is incremental rather than stagnant: mk2 versions of mic preamps demonstrate measured improvements over predecessors, and the m908 represents a significant functional step with immersive format support, 64-bit fixed-point DSP room correction, and Sonarworks SoundID Reference integration. Fully in-house design and deep implementation expertise accumulated over three decades distinguish the company in a market where OEM sourcing is prevalent.
 
@@ -73,7 +73,7 @@ CP = 1.0
 
 **m905 (Stereo Monitor Controller + DAC) — 4,194 USD | Weight: 0.30**
 
-No cheaper professional stereo monitor controller with integrated DAC and manufacturer-specified dynamic range of 118 dB A-weighted, A/B/C multi-speaker switching with remote, headphone monitoring, and digital inputs was identified. The Dangerous Music Monitor SR (approximately 900–1,000 USD) was evaluated and found to have substantially lower measured dynamic range; it did not qualify. No lower-cost alternative with confirmed equivalent-or-better measured performance and equivalent functions was found.
+No cheaper professional stereo monitor controller with integrated DAC, manufacturer-specified analog dynamic range of 118 dB over 20Hz-22kHz, A/B/C multi-speaker switching with remote, headphone monitoring, and digital inputs was identified. The checked lower-priced candidates did not meet the same documented function-and-performance set, so no lower-cost alternative with confirmed equivalent-or-better measured performance and equivalent functions was found.
 
 CP = 1.0
 
@@ -86,8 +86,8 @@ Comparison target: Audient ASP880 — 1,799.99 USD [5]
 The ASP880 provides 8-channel XLR mic inputs with phantom power, Hi-Z DI inputs on channels 1–2, AES3 and ADAT digital outputs up to 96kHz, and a gain range covering standard professional use. Measured performance (both tested by Sound on Sound via Audio Precision [3][5]):
 
 - THD+N: ASP880 at 0.003% (ADC, 1kHz) and below 0.001% (preamp section) vs m108 at 0.003% at 60dB gain — ASP880 equivalent-or-better
-- Dynamic Range (A-weighted, AES17): ASP880 116.5 dB vs m108 120.5 dB — ASP880 provisionally equivalent for standard 48/96kHz workflows; PROVISIONAL
-- Crosstalk: m108 −131 dB at 10kHz adjacent channels [3]; ASP880 third-party crosstalk not available in reviewed measurements — PROVISIONAL
+- Dynamic Range (A-weighted, AES17): ASP880 116.5 dB vs m108 120.5 dB — treated as sufficient for standard 48/96kHz workflows
+- Crosstalk: m108 −131 dB at 10kHz adjacent channels [3]; ASP880 third-party crosstalk was not available in the reviewed measurements, so this comparison remains limited
 
 Note: The ASP880 supports up to 96kHz ADC output; the m108 supports 192kHz. This represents a functional gap for 192kHz workflows; this comparison applies to standard 48/96kHz professional use.
 
@@ -105,7 +105,7 @@ $$ \Large \text{1.0} $$
 
 Analog-only products (m101, m201mk2, m801mk2, and all Spacebar systems) carry a transferable 20-year EON limited warranty — far exceeding any comparable commitment in the professional audio industry. Digital and hybrid products (m900, m905, m908, m108, m701) carry a transferable 5-year limited warranty, well above the industry norm. Both warranties are fully transferable to subsequent owners.
 
-Service history extends to units manufactured 30 years ago: the company explicitly services and maintains documentation for all products back to the 1995 model 801, including owner's manuals, firmware packages, and technical bulletins [1]. This support duration vastly exceeds typical 5–10 year windows. A distributor network covering 30+ countries provides manufacturer-backed support globally. Active firmware development is well-documented: the m908 received versions 1.0.9 through 2.2.3 — including SD card endurance improvements and a life monitoring utility — and the m701 received firmware v1.2.1 doubling Dante/Ravenna channel capacity to 64 each.
+Service history extends to units manufactured 30 years ago: the company explicitly services and maintains documentation for all products back to the 1995 model 801, including owner's manuals, firmware packages, and technical bulletins [1]. This support duration exceeds common 5–10 year windows. A distributor network covering 30+ countries provides manufacturer-backed support globally. The support documents page lists current manuals, firmware updates, drivers, software, discontinued-product documents, and general documents across the catalog [1].
 
 The company's 30-year production record with installations at the Grammy Awards, New York Metropolitan Opera, and Tanglewood Music Center shows long-term operational reliability. No product recalls or systemic failures are documented. The sole documented issue — premature SD card wear in early m908 units (serial numbers 908000400 and below, shipped through December 2022) — was proactively identified and resolved at no cost to affected owners through a combined firmware update and free hardware replacement program.
 
@@ -113,9 +113,9 @@ The company's 30-year production record with installations at the Grammy Awards,
 
 $$ \Large \text{0.3} $$
 
-Grace Design's design philosophy is grounded in listening-led craftsmanship rather than measurement-driven engineering. Product descriptions use language such as "natural, musical and detailed," "effortlessly transparent and musical," and characterize the transimpedance topology as producing a result "like high-quality tube designs" [1]. These are subjective characterizations not verifiable through controlled testing, and the tube-sound comparison constitutes an inaudibility claim.
+Grace Design's design philosophy is grounded in listening-led craftsmanship rather than measurement-driven engineering. Product descriptions use language such as "natural, musical and detailed," "effortlessly transparent and musical," and characterize the transimpedance topology as producing a result "like high-quality tube designs" [1]. These are subjective characterizations not verifiable through controlled testing, and the tube-sound comparison constitutes an audible sonic-character claim.
 
-A significant portion of the price premium is attributable to US manufacturing, small-batch production, and component craftsmanship rather than to measured audio performance improvements: the Topping DX3 Pro+ (199 USD) provides equivalent-or-better measured dynamic range and THD versus the m900 (727 USD), and the Audient ASP880 (1,799.99 USD) provides provisionally equivalent measured performance to the m108 (3,501 USD). The premium does not correspond to commensurate improvements in measured performance for these products.
+A significant portion of the price premium is attributable to US manufacturing, small-batch production, and component craftsmanship rather than to measured audio performance improvements: the Topping DX3 Pro+ (199 USD) provides equivalent-or-better measured dynamic range and THD versus the m900 (727 USD), and the Audient ASP880 (1,799.99 USD) provides comparable measured performance to the m108 (3,501 USD) within the limited 48/96kHz comparison described above. The premium does not correspond to commensurate improvements in measured performance for these products.
 
 Development is explicitly described as "steady, methodical" — no new product categories emerged for decades until the m701 (2025), which arrived in a market already established by competing modular interface platforms. This conservative trajectory warrants a downward adjustment.
 
@@ -129,7 +129,7 @@ Grace Design products are best suited to professional buyers with specific funct
 
 ## References
 
-[1] Grace Design — Official Website — https://gracedesign.com/ — accessed 2026-07-01
+[1] Grace Design — Official product, warranty, and support pages — https://gracedesign.com/products/microphone-preamplifiers/m101/ ; https://gracedesign.com/products/monitor-controllers/m905/ ; https://gracedesign.com/register-your-product/ ; https://gracedesign.com/support-documents/ — accessed 2026-07-05 — manufacturer specifications, warranty terms, manuals/firmware support
 [2] Sound on Sound — Grace Design m900 Review — https://www.soundonsound.com/reviews/grace-design-m900 — accessed 2026-07-01 — Audio Precision test conditions
 [3] Sound on Sound — Grace Design m108 Review — https://www.soundonsound.com/reviews/grace-design-m108 — accessed 2026-07-01 — Audio Precision test conditions
 [4] Audio Science Review — Topping DX3 Pro+ Review — https://www.audiosciencereview.com/forum/index.php?threads/topping-dx3-pro-review-dac-headphone-amp.27148/ — accessed 2026-07-01

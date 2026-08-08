@@ -5,6 +5,7 @@ target_name: "German Physiks PQS-402"
 company_id: german-physiks
 lang: ja
 ref: german-physiks-pqs-402
+audiodb_uid: adb-156863a4d077
 date: 2025-08-26
 rating: [2.4, 0.5, 0.7, 0.1, 0.6, 0.5]
 price: 22400000
@@ -12,7 +13,6 @@ summary: "2基のカーボンファイバー製DDDドライバー（215Hz–24kH
 tags: [スピーカー, 無指向性, German Physiks, DDDドライバー, ハイエンド]
 permalink: /products/ja/german-physiks-pqs-402/
 ---
-
 ## 概要
 
 PQS-402は、215Hz–24kHzを担当するカーボンファイバー製DDDドライバーを2基、2つの10インチウーファーと4つの8インチ・パッシブラジエーターから成る低域システムを組み合わせた2ウェイ無指向性スピーカーです。最大出力118dB、推奨設置空間は30–150平方メートル、重量は1本165kgです。DDDは0.15mm厚のカーボンコーンを手作業で組み立てる広帯域ドライバーで、キャビネットは共振低減のためのモジュラー構造を採用します。 [1] 仕様値として周波数特性25Hz–24kHz、感度88.4dB（1W/1m）が示されています。 [2]

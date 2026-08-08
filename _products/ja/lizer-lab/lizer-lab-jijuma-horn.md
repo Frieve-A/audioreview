@@ -5,6 +5,7 @@ target_name: "Lizer Lab JIJUMA-HORN"
 company_id: lizer-lab
 lang: ja
 ref: lizer-lab-jijuma-horn
+audiodb_uid: adb-0b487560535d
 date: 2025-08-19
 rating: [2.3, 0.3, 0.7, 0.3, 0.5, 0.5]
 price: 5960

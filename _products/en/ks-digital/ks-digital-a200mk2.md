@@ -5,6 +5,7 @@ target_name: "KS Digital A200MK2"
 company_id: ks-digital
 lang: en
 ref: ks-digital-a200mk2
+audiodb_uid: adb-8fb3be351c6d
 date: 2025-10-14
 rating: [4.1, 0.7, 0.8, 1.0, 0.7, 0.9]
 price: 2535

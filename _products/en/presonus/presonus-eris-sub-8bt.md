@@ -5,6 +5,7 @@ target_name: "PreSonus Eris Sub 8BT"
 company_id: presonus
 lang: en
 ref: presonus-eris-sub-8bt
+audiodb_uid: adb-a814a449dffa
 date: 2025-10-14
 rating: [3.4, 0.5, 0.6, 1.0, 0.5, 0.8]
 price: 209.99

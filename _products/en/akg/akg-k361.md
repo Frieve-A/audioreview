@@ -5,6 +5,7 @@ target_name: "AKG K361"
 company_id: akg
 lang: en
 ref: akg-k361
+audiodb_uid: adb-816c66faa490
 date: 2025-09-21
 rating: [3.1, 0.5, 0.4, 1.0, 0.4, 0.8]
 price: 95
@@ -12,7 +13,6 @@ summary: "Affordable studio headphones with Harman curve tuning and neutral tona
 tags: [Headphones, Studio, Closed-back, Monitor, Professional]
 permalink: /products/en/akg-k361/
 ---
-
 ## Overview
 
 The AKG K361 is a closed-back studio monitoring headphone featuring 50mm dynamic drivers and neutral tonal balance tuned to the Harman curve. At 219 grams, these foldable headphones target professional audio applications with a frequency response of 15Hz-28kHz and 32-ohm impedance (manufacturer specification). Part of AKG's Reference Response series, the K361 aims to provide accurate monitoring capabilities for mixing and editing decisions in studio environments while maintaining affordability in the sub-150 USD market segment.

@@ -5,6 +5,7 @@ target_name: "MYER Audio SLIIVO SLA3"
 company_id: myer-audio
 lang: en
 ref: myer-audio-sliivo-sla3
+audiodb_uid: adb-92755a044cc5
 date: 2025-10-27
 rating: [1.8, 0.5, 0.4, 0.2, 0.5, 0.2]
 price: 88.39

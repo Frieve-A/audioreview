@@ -5,6 +5,7 @@ target_name: "Audio-Technica ATH-M50x"
 company_id: audio-technica
 lang: ja
 ref: audio-technica-ath-m50x
+audiodb_uid: adb-649797fdca50
 date: 2026-02-26
 rating: [3.0, 0.6, 0.4, 0.7, 0.3, 1.0]
 price: 22350

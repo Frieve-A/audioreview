@@ -5,6 +5,7 @@ target_name: "ADAM Audio T8V"
 company_id: adam-audio
 lang: en
 ref: adam-audio-t8v
+audiodb_uid: adb-814158196e9d
 date: 2025-08-09
 rating: [3.5, 0.7, 0.6, 0.8, 0.7, 0.7]
 price: 299
@@ -12,7 +13,6 @@ summary: "The ADAM Audio T8V features an 8-inch woofer and U-ART ribbon tweeter,
 tags: [StudioMonitor, Adam, NearfieldMonitor, RibbonTweeter, 8inch]
 permalink: /products/en/adam-audio-t8v/
 ---
-
 ## Overview
 
 The ADAM Audio T8V is an 8-inch active nearfield monitor released in 2020 by German studio monitor specialist ADAM Audio. Developed to bring the U-ART Accelerated Ribbon Tweeter technology used in the company's higher-end models to an accessible 299 USD price point, it aims to democratize professional-level acoustic performance for home studios and semi-professional environments. Combined with an 8-inch polypropylene woofer, it achieves wide-band reproduction of 33Hz-25kHz and maximum SPL of 118dB (pair, 1m) per manufacturer specification.

@@ -5,6 +5,7 @@ target_name: "Aurex TY-ANX3"
 company_id: aurex
 lang: ja
 ref: aurex-ty-anx3
+audiodb_uid: adb-345e5aeed2a8
 date: 2025-09-02
 rating: [3.3, 0.3, 0.6, 1.0, 0.7, 0.7]
 price: 13727
@@ -12,7 +13,6 @@ summary: "Bluetooth送受信、SD/USB録音、語学学習機能を搭載した�
 tags: [CDラジオ, Bluetooth, 録音, 語学学習]
 permalink: /products/ja/aurex-ty-anx3/
 ---
-
 ## 概要
 Aurex TY-ANX3は、縦置きスリム筐体にCD/AM/FM、Bluetooth送受信、SD/USB対応をまとめた多機能CDラジオです。再生はFLAC/WAV（最大96kHz/24bit）にも対応し、録音はSD/USBへMP3（～192kbps）で行えます。BluetoothはVer.5.3（A2DP/AVRCP）で送受信に対応し、A-Bリピートや0.5～1.5倍（11段階）の速度調整も搭載します[1]。発売は2024年10月18日[2]。直近の実売は最安13,727円程度です[3]。
 

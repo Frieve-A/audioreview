@@ -5,6 +5,7 @@ target_name: "iBasso Jr. KLEE"
 company_id: ibasso
 lang: ja
 ref: ibasso-jr-klee
+audiodb_uid: adb-b8cb152c3528
 date: 2025-07-28
 rating: [3.1, 0.6, 0.7, 0.4, 0.7, 0.7]
 price: 12375

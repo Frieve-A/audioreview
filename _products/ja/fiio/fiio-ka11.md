@@ -5,6 +5,7 @@ target_name: "FiiO KA11"
 company_id: fiio
 lang: ja
 ref: fiio-ka11
+audiodb_uid: adb-2b4e353170d1
 date: 2025-09-18
 rating: [3.7, 0.7, 0.6, 1.0, 0.7, 0.7]
 price: 4350
@@ -12,7 +13,6 @@ summary: "手頃な価格でハイレゾ対応を実現したUSB DAC/アンプ�
 tags: [DAC, ヘッドホンアンプ, ポータブルオーディオ, USBドングル, FiiO]
 permalink: /products/ja/fiio-ka11/
 ---
-
 ## 概要
 
 $$ \Large \text{3.1} $$

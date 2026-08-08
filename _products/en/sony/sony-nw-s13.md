@@ -5,6 +5,7 @@ target_name: "Sony NW-S13"
 company_id: sony
 lang: en
 ref: sony-nw-s13
+audiodb_uid: adb-1c7d161a2254
 date: 2025-10-14
 rating: [2.5, 0.5, 0.6, 0.2, 0.8, 0.4]
 price: 195

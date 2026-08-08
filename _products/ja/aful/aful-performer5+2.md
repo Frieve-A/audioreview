@@ -5,6 +5,7 @@ target_name: "AFUL Performer5+2"
 company_id: aful
 lang: ja
 ref: aful-performer5+2
+audiodb_uid: adb-5a0501861a83
 date: 2025-08-16
 rating: [3.2, 0.7, 0.8, 0.4, 0.5, 0.8]
 price: 35152

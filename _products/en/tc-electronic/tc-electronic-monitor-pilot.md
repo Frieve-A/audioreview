@@ -5,6 +5,7 @@ target_name: "TC Electronic MONITOR PILOT"
 company_id: tc-electronic
 lang: en
 ref: tc-electronic-monitor-pilot
+audiodb_uid: adb-248811d6c2c4
 date: 2026-06-06
 rating: [3.3, 0.7, 0.3, 1.0, 0.8, 0.5]
 price: 87
@@ -12,7 +13,6 @@ summary: "Budget analog monitor controller providing 3 stereo balanced XLR outpu
 tags: [Monitor Controller, Studio, Analog]
 permalink: /products/en/tc-electronic-monitor-pilot/
 ---
-
 ## Overview
 
 The TC Electronic MONITOR PILOT is a desktop analog monitor controller released in May 2022, designed to switch between up to three stereo studio monitor pairs from a single audio interface output. Its defining design choice is a split form factor: the I/O main unit — housing all XLR connectors and per-output trim potentiometers — mounts out of view, while a wired desktop remote with a weighted rotary volume knob and three monitor selection buttons sits on the work surface. The product targets home and project studio users who need multi-monitor switching without software or computer involvement [1][4].

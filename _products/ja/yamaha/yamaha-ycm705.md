@@ -5,6 +5,7 @@ target_name: "Yamaha YCM705"
 company_id: yamaha
 lang: ja
 ref: yamaha-ycm705
+audiodb_uid: adb-92da07461ac2
 date: 2025-07-23
 rating: [2.3, 0.6, 0.4, 0.2, 0.6, 0.5]
 price: 65000

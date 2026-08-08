@@ -5,6 +5,7 @@ target_name: "Denon AVR-X3800H"
 company_id: denon
 lang: ja
 ref: denon-avr-x3800h
+audiodb_uid: adb-224e4018a68e
 date: 2025-07-27
 rating: [3.8, 0.7, 0.7, 0.9, 0.7, 0.8]
 price: 254850
@@ -12,7 +13,6 @@ summary: "9.4chの本格的なAtmos対応を約165,000円で実現する合理�
 tags: [AVレシーバー, Dolby Atmos, 9チャンネル, 8K対応, ルーム補正]
 permalink: /products/ja/denon-avr-x3800h/
 ---
-
 ## 概要
 
 Denon AVR-X3800Hは2022年に発表された9.4チャンネルAVレシーバーです。AVC-X3700Hの実質的な後継機として、8K/60Hz対応、Dolby Atmos、DTS:X、IMAX Enhanced、Auro 3Dといった包括的なサラウンドフォーマットをサポートします。9チャンネルのアンプを内蔵しつつ11.4チャンネルのプロセッシングに対応しており、本機単体で5.4.4などの構成が可能なほか、外部パワーアンプを追加すれば7.4.4といった、より多チャンネルのスピーカー配置も可能な拡張性を持ちます。Denonの伝統的な高音質設計と現代的なネットワーク機能を融合した、ミドルクラスのホームシアター向けAVレシーバーです。

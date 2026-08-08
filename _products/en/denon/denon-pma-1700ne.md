@@ -5,6 +5,7 @@ target_name: "Denon PMA-1700NE"
 company_id: denon
 lang: en
 ref: denon-pma-1700ne
+audiodb_uid: adb-1811e4e9abc6
 date: 2025-08-05
 rating: [3.4, 0.8, 0.7, 0.4, 0.7, 0.8]
 price: 980

@@ -5,6 +5,7 @@ target_name: "ALR Jordan Entry Si"
 company_id: alr-jordan
 lang: en
 ref: alr-jordan-entry-si
+audiodb_uid: adb-5319aca33672
 date: 2025-09-14
 rating: [2.0, 0.4, 0.4, 0.8, 0.1, 0.3]
 price: 130

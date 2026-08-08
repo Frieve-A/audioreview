@@ -5,6 +5,7 @@ target_name: "Denon DA-310USB"
 company_id: denon
 lang: ja
 ref: denon-da-310usb
+audiodb_uid: adb-7c3a878498c4
 date: 2025-09-06
 rating: [3.0, 0.7, 0.4, 0.9, 0.4, 0.6]
 price: 26900
@@ -12,7 +13,6 @@ summary: "強力な測定性能。適切な比較対象に是正後、コスト�
 tags: [DAC, ヘッドホンアンプ, USB, DSD, PCM, デジタルオーディオ]
 permalink: /products/ja/denon-da-310usb/
 ---
-
 ## 概要
 
 Denon DA-310USBは、USB経由でDSD 11.2MHzおよびPCM 384kHz/32bit入力に対応するUSB DAC/ヘッドホンアンプです。2016年頃にリリースされ、Qualcomm DDFAフルデジタルヘッドホンアンプ技術とDenonのAdvanced AL32 Processing PlusをDAC部に採用しています。USB、光デジタル2系統、同軸デジタル1系統（192kHz/24bit PCMまで対応）の複数入力に加え、RCAライン出力とヘッドホン用3段階ゲイン設定を提供します。物理的な構造は180W x 65H x 180D mmで重量1.5kgです。

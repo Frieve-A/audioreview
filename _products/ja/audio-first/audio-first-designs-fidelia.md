@@ -5,6 +5,7 @@ target_name: "Audio First Designs Fidelia"
 company_id: audio-first-designs
 lang: ja
 ref: audio-first-designs-fidelia
+audiodb_uid: adb-82dc31fa05ab
 date: 2025-11-02
 rating: [3.4, 0.5, 0.9, 0.5, 0.7, 0.8]
 price: 228000
@@ -12,7 +13,6 @@ summary: "プロプライエタリなウェーブガイド設計とセラミッ�
 tags: [スピーカー, DIY, ブックシェルフ, プレミアム, ウェーブガイド, セラミック]
 permalink: /products/ja/audio-first-designs-fidelia/
 ---
-
 ## 概要
 
 Audio First Designs Fideliaは、Celestion、Monitor Audio、KEFでの専門的経歴を持つ経験豊富な音響エンジニアであるHarry Yeung氏が設計したプレミアム2ウェイバスレフ型DIYスピーカーキットです。このコンパクトなブックシェルフモニターは、セラミック・アルミニウムドライバー、120°の指向性を提供する社内開発ウェーブガイド、1560Hzという超低クロスオーバー周波数を特徴としています。キットには、フィンランド産バーチ合板キャビネットパネル、高品質コンポーネントによる組み立て済みクロスオーバー回路が含まれ、組み立てにはハンダ付けが不要です。Audio First Designsは「音響的な卓越性の工学」を掲げ、世界レベルの工学と音響設計を通じて卓越した音質を実現するという使命を持っています。

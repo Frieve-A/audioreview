@@ -5,6 +5,7 @@ target_name: "Audio-Technica AT-SP95"
 company_id: audio-technica
 lang: ja
 ref: audio-technica-at-sp95
+audiodb_uid: adb-1ecb5a24263e
 date: 2025-09-01
 rating: [2.4, 0.3, 0.4, 0.9, 0.5, 0.3]
 price: 4950
@@ -12,7 +13,6 @@ summary: "前面ヘッドホン端子の利便性は良好です。5 cmユニッ
 tags: [デスクトップスピーカー, USB電源, アクティブスピーカー]
 permalink: /products/ja/audio-technica-at-sp95/
 ---
-
 ## 概要
 
 Audio-Technica AT-SP95は、52 mmフルレンジ・ドライバーと内蔵アナログアンプを搭載したUSB電源の2.0chデスクトップスピーカーです。入力は3.5 mmアナログで、USBから給電します。前面ボリュームつまみとヘッドホン出力切替機能を備え、PCまわりの省スペース用途を想定したモデルです。

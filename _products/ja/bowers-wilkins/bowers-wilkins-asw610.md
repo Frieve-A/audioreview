@@ -5,6 +5,7 @@ target_name: "Bowers & Wilkins ASW610"
 company_id: bowers-wilkins
 lang: ja
 ref: bowers-wilkins-asw610
+audiodb_uid: adb-db8660f26332
 date: 2025-08-26
 rating: [2.8, 0.5, 0.6, 0.5, 0.8, 0.4]
 price: 150000
@@ -12,7 +13,6 @@ summary: "密閉型10インチ／200WクラスD。公称±3 dBは27–140 Hzで�
 tags: [サブウーファー, 密閉型, Bowers & Wilkins, ASWシリーズ]
 permalink: /products/ja/bowers-wilkins-asw610/
 ---
-
 ## 概要
 
 ASW610は、**密閉（クローズド）型**エンクロージャーに**250 mm（10インチ）ロングスロードライバー**と**200 WクラスD**アンプを組み合わせた小型パワードサブウーファーです。メーカー公称の**周波数レスポンス（±3 dB）**は**27 Hz–40/140 Hz**（可変）、**−6 dBで20 Hz**まで拡張設定が可能です。外形310×310×347 mm／12.5 kg。米国直販価格は**1,000 USD**です。国内実売は9〜10万円台の例が確認できます。 [1][2][8]

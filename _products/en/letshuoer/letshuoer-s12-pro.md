@@ -5,6 +5,7 @@ target_name: "Letshuoer S12 Pro"
 company_id: letshuoer
 lang: en
 ref: letshuoer-s12-pro
+audiodb_uid: adb-3e25b83fb123
 date: 2025-09-01
 rating: [2.4, 0.5, 0.6, 0.4, 0.5, 0.4]
 price: 169

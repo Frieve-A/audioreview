@@ -5,6 +5,7 @@ target_name: "Genelec G-One"
 company_id: genelec
 lang: ja
 ref: genelec-g-one
+audiodb_uid: adb-c2330f65cb7f
 date: 2025-08-16
 rating: [3.9, 0.6, 0.7, 1.0, 0.8, 0.8]
 price: 39600
@@ -12,7 +13,6 @@ summary: "プロ系設計を受け継ぐ超小型アクティブモニター。�
 tags: [アクティブ, モニター, ブックシェルフ, デスクトップ, ニアフィールド]
 permalink: /products/ja/genelec-g-one/
 ---
-
 ## 概要
 
 Genelec G-Oneは、プロ用8000シリーズの設計を家庭用途に最適化した最小クラスのアクティブスピーカーです。筐体（MDEダイカスト・アルミ）、ドライバー口径（76 mmウーファー/19 mmメタルドーム）、アンプ定格（低高各25 W Class-D）、公称周波数精度（74 Hz–20 kHz ±2.5 dB）や短期最大SPL（96 dB）といった公開スペックは、プロ用の8010Aと整合しており、**実質的に同等の音響パフォーマンス**が期待できます。主な違いは**入力端子がRCA（G-One）/XLR（8010A）**である点です[1][2]。

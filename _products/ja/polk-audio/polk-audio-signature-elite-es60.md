@@ -5,6 +5,7 @@ target_name: "Polk Audio Signature Elite ES60"
 company_id: polk-audio
 lang: ja
 ref: polk-audio-signature-elite-es60
+audiodb_uid: adb-a7859a95e8d0
 date: 2025-08-02
 rating: [2.7, 0.4, 0.6, 0.7, 0.5, 0.5]
 price: 135000

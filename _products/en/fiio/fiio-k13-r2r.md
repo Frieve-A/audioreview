@@ -5,6 +5,7 @@ target_name: "FiiO K13 R2R"
 company_id: fiio
 lang: en
 ref: fiio-k13-r2r
+audiodb_uid: adb-37ee67ff9cc5
 date: 2025-12-03
 rating: [2.9, 0.6, 0.7, 0.9, 0.5, 0.2]
 price: 319.99

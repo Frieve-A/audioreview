@@ -5,6 +5,7 @@ target_name: "McIntosh C8"
 company_id: mcintosh
 lang: ja
 ref: mcintosh-c8
+audiodb_uid: adb-e85a8ed307af
 date: 2025-08-28
 rating: [1.9, 0.3, 0.6, 0.2, 0.6, 0.2]
 price: 990000
@@ -12,7 +13,6 @@ summary: "MM/MCフォノを内蔵する真空管プリアンプ。質感と意�
 tags: [プリアンプ, 真空管, フォノステージ, McIntosh]
 permalink: /products/ja/mcintosh-c8/
 ---
-
 ## 概要
 
 C8は4本の12AX7Aを用いた2ch真空管プリアンプです。入力はXLR×1／RCA×2／MM・MC各1、出力はXLR×1／RCA×2（1系統はサブ出力設定可）、6.35 mmヘッドホン端子を備えます。販売店施工の**DA2**モジュール追加でUSB／同軸／光／MCT／HDMI ARCなどのデジタル入力が拡張されます [1]。

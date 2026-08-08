@@ -5,6 +5,7 @@ target_name: "CVJ Assassin"
 company_id: cvj
 lang: ja
 ref: cvj-assassin
+audiodb_uid: adb-88f487f69b73
 date: 2025-08-23
 rating: [3.4, 0.5, 0.5, 1.0, 0.6, 0.8]
 price: 8900
@@ -12,7 +13,6 @@ summary: "振動ドライバーをダイナミック＋BAと組み合わせた�
 tags: [CVJ, ゲーミング, ハイブリッドドライバー, 振動, イヤホン, インイヤーモニター]
 permalink: /products/ja/cvj-assassin/
 ---
-
 ## 概要
 
 CVJ Assassin（2024年）は、10 mmダイナミック＋BA＋振動（ハプティック）ドライバーのトリハイブリッド構成で、Music／Hi-Res Monitor／3D Movie／3D Gamingの**4モード**をデュアルスイッチで切替可能です。**着脱式ブームマイク**と**3.5 mm／USB-C／USB-A**の**3種プラグ**が同梱され、ゲーム用途を前提としたパッケージです。

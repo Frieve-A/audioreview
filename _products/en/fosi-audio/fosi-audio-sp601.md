@@ -5,6 +5,7 @@ target_name: "Fosi Audio SP601"
 company_id: fosi-audio
 lang: en
 ref: fosi-audio-sp601
+audiodb_uid: adb-2875670fa551
 date: 2025-08-21
 rating: [2.3, 0.4, 0.5, 0.6, 0.4, 0.4]
 price: 399

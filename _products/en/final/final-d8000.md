@@ -5,6 +5,7 @@ target_name: "Final D8000"
 company_id: final
 lang: en
 ref: final-d8000
+audiodb_uid: adb-350d6323b06a
 date: 2026-05-23
 rating: [1.7, 0.4, 0.6, 0.0, 0.2, 0.5]
 price: 3799

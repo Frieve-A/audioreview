@@ -5,6 +5,7 @@ target_name: "Audio Technica ATH-R70xa"
 company_id: audio-technica
 lang: en
 ref: audio-technica-ath-r70xa
+audiodb_uid: adb-d2cd900f2308
 date: 2025-07-12
 rating: [3.6, 0.8, 0.7, 0.5, 0.8, 0.8]
 price: 349
@@ -12,7 +13,6 @@ summary: "The ATH-R70xa is a professional open-back reference headphone featurin
 tags: [Headphones, Open-back, Reference, Professional, High-impedance]
 permalink: /products/en/audio-technica-ath-r70xa/
 ---
-
 ## Overview
 
 Audio Technica's ATH-R70xa is an open-back reference headphone handcrafted at the company's Tokyo Machida factory. Announced at NAMM 2025 in January, this product features a 45mm large-diameter driver with a 470Ω high-impedance design, aimed at high-precision audio reproduction for professional applications. As an improvement over its predecessor ATH-R70x, weight reduction (199g) has been achieved, showing consideration for extended studio monitoring use. The product targets professional studio monitoring applications requiring accurate sound reproduction.

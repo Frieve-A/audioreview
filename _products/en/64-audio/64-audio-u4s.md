@@ -5,6 +5,7 @@ target_name: "64 Audio U4s"
 company_id: 64-audio
 lang: en
 ref: 64-audio-u4s
+audiodb_uid: adb-487fe4859a16
 date: 2025-12-03
 rating: [2.5, 0.4, 0.8, 0.1, 0.6, 0.6]
 price: 1099

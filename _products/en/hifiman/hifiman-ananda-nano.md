@@ -5,6 +5,7 @@ target_name: "HiFiMAN Ananda Nano"
 company_id: hifiman
 lang: en
 ref: hifiman-ananda-nano
+audiodb_uid: adb-b21d249f0d81
 date: 2025-09-02
 rating: [2.6, 0.3, 0.6, 0.5, 0.7, 0.5]
 price: 499
@@ -12,7 +13,6 @@ summary: "Planar magnetic headphone with nanometer thickness diaphragm technolog
 tags: [Headphones, Open-back, Planar-magnetic, Low-impedance]
 permalink: /products/en/hifiman-ananda-nano/
 ---
-
 ## Overview
 
 The HiFiMAN Ananda Nano is the third iteration of the Ananda line, incorporating a nanometer-thickness diaphragm and stealth magnets. This open-back planar magnetic headphone weighs 419.6g, has 14Ω impedance and 94dB sensitivity, and lists frequency response at 5Hz–55kHz (manufacturer specs) [2]. MSRP is 499 USD.

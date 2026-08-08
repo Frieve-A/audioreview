@@ -5,6 +5,7 @@ target_name: "Aful Performer8"
 company_id: aful
 lang: ja
 ref: aful-performer8
+audiodb_uid: adb-5a63ad9e1bbc
 date: 2025-07-06
 rating: [3.7, 0.8, 0.8, 0.3, 0.8, 1.0]
 price: 55500
@@ -12,7 +13,6 @@ summary: "7BA+1DDという贅沢なドライバー構成を採用した369ドル
 tags: [7BA+1DD, インイヤーモニター, ハイブリッド構成, 中国, 高解像度]
 permalink: /products/ja/aful-performer8/
 ---
-
 ## 概要
 
 Aful Performer8は、中国のオーディオメーカーAfulが2023年に発売したフラッグシップIEMです。7個のバランスドアーマチュアドライバーと1個の8mmダイナミックドライバーを搭載した計8ドライバー構成により、高解像度と自然な音色の両立を目指しています。

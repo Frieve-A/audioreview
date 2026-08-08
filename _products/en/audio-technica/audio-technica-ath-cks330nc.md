@@ -5,6 +5,7 @@ target_name: "Audio-Technica ATH-CKS330NC"
 company_id: audio-technica
 lang: en
 ref: audio-technica-ath-cks330nc
+audiodb_uid: adb-435ca7e00480
 date: 2026-01-24
 rating: [3.2, 0.5, 0.7, 1.0, 0.5, 0.5]
 price: 34
@@ -12,7 +13,6 @@ summary: "USB-C wired earphones with feedforward ANC and SOLID BASS technology, 
 tags: [earphones, in-ear, anc, usb-c, wired, audio-technica, solid-bass]
 permalink: /products/en/audio-technica-ath-cks330nc/
 ---
-
 ## Overview
 
 The ATH-CKS330NC represents Audio-Technica's approach to wired active noise cancellation through USB Type-C connectivity. Released in 2024 as an evolution of the ATH-CKS330C base model, it adds feedforward ANC functionality while maintaining the established SOLID BASS series foundation. The product targets users requiring wired connectivity for gaming and video applications where audio synchronization is critical. Technical specifications include 7.5mm drivers with 5-30kHz frequency response, 105dB/mW sensitivity, and built-in 96kHz/24-bit DAC support through USB-C connection.

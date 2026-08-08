@@ -5,6 +5,7 @@ target_name: "Trinnov Audio Nova"
 company_id: trinnov
 lang: en
 ref: trinnov-audio-nova
+audiodb_uid: adb-c788af25d301
 date: 2025-07-14
 rating: [3.7, 0.9, 0.9, 0.3, 0.8, 0.8]
 price: 3490

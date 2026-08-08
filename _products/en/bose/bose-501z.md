@@ -5,6 +5,7 @@ target_name: "Bose 501Z"
 company_id: bose
 lang: en
 ref: bose-501z
+audiodb_uid: adb-f78eaae2a3b1
 date: 2025-08-03
 rating: [1.5, 0.2, 0.3, 0.2, 0.4, 0.4]
 price: 133
@@ -12,7 +13,6 @@ summary: "Acoustimass satellite speaker system released in 1988. Significantly i
 tags: [Satellite Speaker, Subwoofer, Vintage, Acoustimass]
 permalink: /products/en/bose-501z/
 ---
-
 ## Overview
 
 The Bose 501Z is an Acoustimass satellite speaker system released in 1988. It gained attention as a product adopting Bose's early Acoustimass technology. The configuration combining compact satellite speakers with an independent bass module was innovative for its time, but when evaluated by current acoustic measurement standards, significant technical limitations become apparent. It is designed with 100W power handling, 4-ohm specifications, and frequency response of 30Hz-20kHz nominal.

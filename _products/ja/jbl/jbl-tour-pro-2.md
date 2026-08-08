@@ -5,6 +5,7 @@ target_name: "JBL Tour Pro 2"
 company_id: jbl
 lang: ja
 ref: jbl-tour-pro-2
+audiodb_uid: adb-041dc199e047
 date: 2025-07-09
 rating: [2.9, 0.3, 0.5, 0.8, 0.7, 0.6]
 price: 37500
@@ -12,7 +13,6 @@ summary: "タッチスクリーン付きケースが特徴的な完全ワイヤ�
 tags: [JBL, アクティブノイズキャンセリング, スマートケース, タッチスクリーン, 完全ワイヤレスイヤホン]
 permalink: /products/ja/jbl-tour-pro-2/
 ---
-
 ## 概要
 
 JBL Tour Pro 2 は、2023年春に発売された完全ワイヤレスイヤホンです。最大の特徴は1.45インチタッチスクリーンディスプレイを搭載したスマートケースで、スマートフォンアプリを使用することなく、イヤホンの設定変更や音楽再生制御が可能です。10mmダイナミックドライバーとTrue Adaptive Noise Cancelling技術を搭載し、約250米ドルの価格帯で市場に投入されました。JBLブランドとして完全ワイヤレスイヤホン市場でのプレミアムポジションを確立しようとした製品です。

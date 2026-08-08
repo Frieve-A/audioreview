@@ -5,6 +5,7 @@ target_name: "Marantz PM5005"
 company_id: marantz
 lang: ja
 ref: marantz-pm5005
+audiodb_uid: adb-26131e9e8084
 date: 2025-08-16
 rating: [3.0, 0.7, 0.5, 0.8, 0.4, 0.6]
 price: 35750

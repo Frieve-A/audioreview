@@ -5,6 +5,7 @@ target_name: "miniDSP Flex"
 company_id: minidsp
 lang: en
 ref: minidsp-flex
+audiodb_uid: adb-1ae9b4bf83a9
 date: 2025-09-06
 rating: [3.0, 0.8, 0.6, 0.4, 0.4, 0.8]
 price: 570

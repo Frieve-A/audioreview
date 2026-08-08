@@ -5,6 +5,7 @@ target_name: "DALI IO-8"
 company_id: dali
 lang: en
 ref: dali-io-8
+audiodb_uid: adb-60588e1cb590
 date: 2025-12-13
 rating: [2.3, 0.5, 0.9, 0.1, 0.4, 0.4]
 price: 899
@@ -12,7 +13,6 @@ summary: "Premium wireless headphones with proprietary SMC technology and paper 
 tags: [Headphones, Wireless, ANC, Bluetooth, DALI]
 permalink: /products/en/dali-io-8/
 ---
-
 ## Overview
 
 The DALI IO-8 represents the Danish company's entry into the premium wireless headphone market, priced at 899 USD. These over-ear headphones incorporate technologies derived from DALI's loudspeaker heritage, including proprietary paper and wood fiber driver materials and SMC (Soft Magnetic Compound) magnetic systems. The IO-8 features 50mm drivers, active noise cancellation, aptX Adaptive codec support, and up to 35 hours battery life. DALI positions these headphones as "true Hi-Fi speakers for your head," emphasizing their acoustic design principles transferred from full-size loudspeaker development.

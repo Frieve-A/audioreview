@@ -5,6 +5,7 @@ target_name: "Bose SoundLink Micro 2nd Gen"
 company_id: bose
 lang: en
 ref: bose-soundlink-micro-2nd-gen
+audiodb_uid: adb-4323180e4960
 date: 2026-06-07
 rating: [2.9, 0.4, 0.7, 0.6, 0.7, 0.5]
 price: 129

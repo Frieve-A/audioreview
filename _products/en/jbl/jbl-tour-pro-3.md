@@ -5,6 +5,7 @@ target_name: "JBL TOUR PRO 3"
 company_id: jbl
 lang: en
 ref: jbl-tour-pro-3
+audiodb_uid: adb-a1d98f8ade19
 date: 2025-07-06
 rating: [3.2, 0.6, 0.8, 0.5, 0.5, 0.8]
 price: 280

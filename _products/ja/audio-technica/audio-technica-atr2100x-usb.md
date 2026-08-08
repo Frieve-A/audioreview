@@ -5,6 +5,7 @@ target_name: "Audio-Technica ATR2100x-USB"
 company_id: audio-technica
 lang: ja
 ref: audio-technica-atr2100x-usb
+audiodb_uid: adb-456ec5fe9b82
 date: 2025-10-14
 rating: [3.5, 0.5, 0.7, 0.8, 0.9, 0.6]
 price: 12000
@@ -12,7 +13,6 @@ summary: "USB/XLRデュアル接続対応の多用途ダイナミックマイク
 tags: [マイク, ダイナミック, USB, XLR, コンテンツ制作, ポッドキャスト]
 permalink: /products/ja/audio-technica-atr2100x-usb/
 ---
-
 ## 概要
 
 ATR2100x-USBは、ポッドキャストやストリーミング、ナレーション用に設計されたオーディオテクニカの多用途コンテンツ制作マイクです。このハンドヘルド型ダイナミックマイクは、コンピュータ直接接続用のUSB-Cデジタル出力と、プロフェッショナルオーディオインターフェース用のXLRアナログ出力の両方を搭載しています。24ビット/192kHzアナログデジタルコンバーター、単一指向性極性パターン、レベル調整付き内蔵ヘッドフォンモニタリング機能によるゼロレイテンシ直接モニタリングを備えています。デュアルUSBケーブル（USB-C to USB-CとUSB-C to USB-A）、XLRケーブル、折りたたみ脚付きの頑丈なデスクトップスタンドが付属しています。

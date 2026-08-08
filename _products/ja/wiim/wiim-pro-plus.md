@@ -5,6 +5,7 @@ target_name: "WiiM Pro Plus"
 company_id: wiim
 lang: ja
 ref: wiim-pro-plus
+audiodb_uid: adb-f4b929a557ea
 date: 2026-03-15
 rating: [3.9, 0.9, 0.6, 1.0, 0.6, 0.8]
 price: 32827

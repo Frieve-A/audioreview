@@ -5,6 +5,7 @@ target_name: "miniDSP PocketADC"
 company_id: minidsp
 lang: en
 ref: minidsp-pocketadc
+audiodb_uid: adb-b6ef68bbd17e
 date: 2025-09-08
 rating: [3.8, 0.9, 0.7, 1.0, 0.4, 0.8]
 price: 49

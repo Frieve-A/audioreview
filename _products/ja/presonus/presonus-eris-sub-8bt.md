@@ -5,6 +5,7 @@ target_name: "PreSonus Eris Sub 8BT"
 company_id: presonus
 lang: ja
 ref: presonus-eris-sub-8bt
+audiodb_uid: adb-a814a449dffa
 date: 2025-10-14
 rating: [3.4, 0.5, 0.6, 1.0, 0.5, 0.8]
 price: 30980
@@ -12,7 +13,6 @@ summary: "8インチパワードBluetoothスタジオサブウーファーで、
 tags: [サブウーファー, スタジオモニター, Bluetooth, PreSonus, パワード]
 permalink: /products/ja/presonus-eris-sub-8bt/
 ---
-
 ## 概要
 
 PreSonus Eris Sub 8BTは、8インチパワードBluetoothスタジオサブウーファーで、オーディオモニタリングセットアップに低域拡張を提供することを目的として設計されています。8インチコンポジット低域ドライバーとBluetooth 5.0ワイヤレス接続を備えたフロントポート設計で、バランス・アンバランス入出力を含む複数の接続オプションを提供し、スタジオモニタリングシステムへの柔軟な統合が可能です。このサブウーファーは、Class ABアンプを通じて50W RMSを供給し、周波数応答30 Hz〜200 Hz、最大SPL 100 dB（1メートル時）を実現します[1]。コントロールには可変ゲイン、ローパスフィルター、極性反転、ハイパスフィルターが含まれ、シームレスな2.1システム構成を可能にします。

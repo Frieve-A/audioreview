@@ -5,6 +5,7 @@ target_name: "Sony UBP-X700"
 company_id: sony
 lang: en
 ref: sony-ubp-x700
+audiodb_uid: adb-f7b9d4b4f147
 date: 2025-09-02
 rating: [3.7, 0.5, 0.7, 1.0, 0.8, 0.7]
 price: 259
@@ -12,7 +13,6 @@ summary: "Compact 4K UHD Blu-ray transport with Dolby Vision/HDR10, dual HDMI (o
 tags: [4K Blu-ray, SACD, Digital Transport, Dolby Vision, Dual HDMI]
 permalink: /products/en/sony-ubp-x700/
 ---
-
 ## Overview
 
 Sony’s UBP-X700 is a compact 4K Ultra HD Blu-ray player introduced in **2018** with support for UHD BD, BD, DVD, CD, and **SACD**, plus Dolby Vision/HDR10 and essential streaming apps. It offers **two HDMI outputs** (one audio-only) and a **coaxial S/PDIF** output, making it a flexible digital transport for AVRs and TVs. Key dimensions are **W320 × H45 × D217 mm**, weight **~1.4 kg**. [1][5][7]

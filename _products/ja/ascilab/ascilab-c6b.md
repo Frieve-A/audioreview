@@ -5,6 +5,7 @@ target_name: "AsciLab C6B"
 company_id: ascilab
 lang: ja
 ref: ascilab-c6b
+audiodb_uid: adb-a77b7de05162
 date: 2025-07-29
 rating: [3.8, 0.8, 0.7, 0.9, 0.5, 0.9]
 price: 165000
@@ -12,7 +13,6 @@ summary: "測定主導の設計思想により業界最高水準の音響性能�
 tags: [ブックシェルフスピーカー, AsciLab, 測定主導設計, ウェーブガイド, 低歪率]
 permalink: /products/ja/ascilab-c6b/
 ---
-
 ## 概要
 
 AsciLab C6Bは、Acoustic Science Laboratory社が開発した2ウェイブックシェルフスピーカーです。同社は測定技術を重視するアプローチで知られ、Klippel NFS（近接場スキャナー）技術を用いた精密な設計・測定を行っています。C6Bは6インチアルミニウム・セラミック複合ウーファー、1インチアルミニウム・セラミックドームツイーター、5×8インチパッシブラジエーターを搭載し、1.1kHzという低めのクロスオーバー周波数を採用しています。専用ウェーブガイド設計と極めて低い歪率により、価格は1ペア約1100USD（約16万円）で販売されています。

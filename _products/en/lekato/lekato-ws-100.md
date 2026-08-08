@@ -5,6 +5,7 @@ target_name: "LEKATO WS-100"
 company_id: lekato
 lang: en
 ref: lekato-ws-100
+audiodb_uid: adb-8c8e572ccb0a
 date: 2025-10-17
 rating: [2.5, 0.5, 0.3, 0.8, 0.3, 0.6]
 price: 49.99
@@ -12,7 +13,6 @@ summary: "2.4GHz wireless guitar system with charging case featuring claimed 24-
 tags: [Wireless, Guitar, System, LEKATO, 2.4GHz, Charging-Case]
 permalink: /products/en/lekato-ws-100/
 ---
-
 ## Overview
 
 The LEKATO WS-100 represents an approach to wireless guitar transmission, targeting musicians seeking basic wireless functionality with portable charging convenience. This 2.4GHz system features a transmitter-receiver pair with included charging case, claiming 24-bit 48kHz audio transmission and sub-7ms latency performance. The design emphasizes accessibility with dual plug compatibility (6.35mm/3.5mm), 190-degree rotatable connectors, and automatic channel pairing functionality. With 4-channel simultaneous operation capability and approximately 6-hour battery life per charge, the WS-100 positions itself as a wireless solution for electric guitars, bass, keyboards, and electronic instruments requiring basic cable replacement functionality.

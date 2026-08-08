@@ -5,6 +5,7 @@ target_name: "Bose Noise Cancelling Headphones 700"
 company_id: bose
 lang: ja
 ref: bose-noise-cancelling-headphones-700
+audiodb_uid: adb-88a1f361d434
 date: 2025-11-19
 rating: [1.9, 0.6, 0.4, 0.2, 0.1, 0.6]
 price: 57000

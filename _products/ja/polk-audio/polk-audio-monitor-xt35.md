@@ -5,6 +5,7 @@ target_name: "Polk Audio Monitor XT35"
 company_id: polk-audio
 lang: ja
 ref: polk-audio-monitor-xt35
+audiodb_uid: adb-b4a066fb7580
 date: 2025-08-20
 rating: [2.6, 0.5, 0.3, 1.0, 0.4, 0.4]
 price: 32800
@@ -12,7 +13,6 @@ summary: "超薄型で設置性に優れるセンター。絶対性能は中庸�
 tags: [センタースピーカー, ホームシアター, Dolby Atmos, DTS:X, ハイレゾ音源]
 permalink: /products/ja/polk-audio-monitor-xt35/
 ---
-
 ## 概要
 
 Polk Audio Monitor XT35は、TV下の限られたスペースに収まる**薄型**センタースピーカーです。1インチのテリレンドームツイーターと3インチウーファー4基を前面ポートのエンクロージャーに搭載し、画面を遮らずにセリフ明瞭度を狙った設計です [2]。

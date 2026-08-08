@@ -5,6 +5,7 @@ target_name: "SMSL DO400"
 company_id: smsl
 lang: ja
 ref: smsl-do400
+audiodb_uid: adb-64937a7c10f6
 date: 2026-04-29
 rating: [3.3, 0.8, 0.3, 1.0, 0.4, 0.8]
 price: 75000

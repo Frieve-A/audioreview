@@ -5,6 +5,7 @@ target_name: "JBL 4344 MKII"
 company_id: jbl
 lang: en
 ref: jbl-4344mkii
+audiodb_uid: adb-d5d135459690
 date: 2025-09-05
 rating: [2.5, 0.4, 0.6, 0.7, 0.3, 0.5]
 price: 15000

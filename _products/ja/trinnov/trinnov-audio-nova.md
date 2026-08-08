@@ -5,6 +5,7 @@ target_name: "Trinnov Audio Nova"
 company_id: trinnov
 lang: ja
 ref: trinnov-audio-nova
+audiodb_uid: adb-c788af25d301
 date: 2025-07-14
 rating: [3.7, 0.9, 0.9, 0.3, 0.8, 0.8]
 price: 523500
@@ -12,7 +13,6 @@ summary: "ルームコレクション技術のパイオニアによる高性能�
 tags: [ルームコレクション, プリアンプ, プロセッサー, Dirac Live, 音響補正]
 permalink: /products/ja/trinnov-audio-nova/
 ---
-
 ## 概要
 
 Trinnov Audio Novaは、2003年からルームコレクション技術の研究を続けるTrinnov Audioが開発した1Uラックマウント型のルーム・モニター最適化プロセッサーです。同社の高級機種で培われた技術を、より手頃な価格帯に落とし込んだ製品として2024年に発表されました。独自の3Dマイクロフォンを使用した空間測定技術と、周波数特性だけでなく位相・群遅延・インパルス応答まで補正する包括的な最適化機能を特徴とします。従来のLinuxベースから完全にARM プロセッサーに刷新され、コンパクトな筐体に高度な処理能力を収めています。

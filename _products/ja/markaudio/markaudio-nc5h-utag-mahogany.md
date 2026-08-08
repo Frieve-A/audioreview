@@ -5,6 +5,7 @@ target_name: "MarkAudio NC5H UTAG Mahogany"
 company_id: markaudio
 lang: ja
 ref: markaudio-nc5h-utag-mahogany
+audiodb_uid: adb-21d8e63f82c2
 date: 2025-09-22
 rating: [2.3, 0.5, 0.7, 0.1, 0.6, 0.4]
 price: 137940
@@ -12,7 +13,6 @@ summary: "世界初のUTAGガラス振動板技術と40kHzまでの周波数拡�
 tags: [スピーカー, フルレンジ, ブックシェルフ, UTAG, ガラス振動板, プレミアム]
 permalink: /products/ja/markaudio-nc5h-utag-mahogany/
 ---
-
 ## 概要
 
 MarkAudio NC5H UTAG Mahoganyは、世界初のUTAG（Ultra Thin Acoustic Glass）製振動板を採用したフルレンジドライバーを搭載するブックシェルフスピーカーです。わずか10ペア限定の信州職人による手作り製品で、最先端のガラス振動板技術と高級マホガニー無垢材構造を組み合わせています。折り畳みスマートフォン向けに開発されたNEG社のDinorex UTG（100µm超薄型化学強化ガラス）をオーディオ用途に応用しています。53Hz～40kHzの周波数拡張と異なる長さのデュアルバスレフポートを持ち、革新的素材と職人技を求めるオーディオファイルをターゲットとしています。

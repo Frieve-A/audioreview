@@ -5,6 +5,7 @@ target_name: "miniDSP UMIK-1"
 company_id: minidsp
 lang: en
 ref: minidsp-umik-1
+audiodb_uid: adb-936140087842
 date: 2025-07-18
 rating: [4.1, 0.8, 0.7, 1.0, 0.8, 0.8]
 price: 87
@@ -12,7 +13,6 @@ summary: "A USB measurement microphone with individual calibration files that ha
 tags: [Measurement Microphone, USB, Calibration, REW, Dirac]
 permalink: /products/en/minidsp-umik-1/
 ---
-
 ## Overview
 
 The miniDSP UMIK-1 is an omnidirectional USB condenser microphone designed specifically for acoustic measurement. Available since the early 2010s, it has been adopted by a wide range of users from home audio enthusiasts to measurement professionals through integration with measurement software such as Room EQ Wizard (REW) and Dirac Live. With individual calibration file provision and plug-and-play compatibility, it has established itself as a product that meets entry-level to mid-class demands in acoustic measurement.

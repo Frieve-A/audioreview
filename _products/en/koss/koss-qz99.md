@@ -5,6 +5,7 @@ target_name: "Koss QZ-99"
 company_id: koss
 lang: en
 ref: koss-qz99
+audiodb_uid: adb-4fdc7fb51613
 date: 2025-09-29
 rating: [3.1, 0.5, 0.4, 1.0, 0.8, 0.4]
 price: 46
@@ -12,7 +13,6 @@ summary: "Professional-oriented closed-back headphones with passive noise isolat
 tags: [Headphones, Closed-back, Professional, Passive Noise Isolation, Koss]
 permalink: /products/en/koss-qz99/
 ---
-
 ## Overview
 
 The Koss QZ-99 is a professional-oriented closed-back headphone designed for racing radio scanner and metal detector applications. Originally launched in the early 2000s, it features passive noise isolation through closed Pneumalite™ ear cushions and incorporates neodymium magnet drivers. The headphones include practical features like volume control on the ear cup and a stereo/mono switch, targeting users who need reliable audio monitoring in noisy environments. While Koss pioneered stereophone technology in 1958, the QZ-99 represents their traditional approach to professional monitoring rather than high-fidelity audio reproduction.

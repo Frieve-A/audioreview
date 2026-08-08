@@ -5,6 +5,7 @@ target_name: "OLLO Audio X1"
 company_id: ollo-audio
 lang: en
 ref: ollo-audio-x1
+audiodb_uid: adb-f305f009b754
 date: 2025-09-06
 rating: [4.0, 0.8, 1.0, 0.2, 1.0, 1.0]
 price: 539
@@ -12,7 +13,6 @@ summary: "Professional studio headphones with individual AI calibration and prem
 tags: [Headphones, Studio, Monitoring, Professional, Semi-open]
 permalink: /products/en/ollo-audio-x1/
 ---
-
 ## Overview
 
 $$ \Large \text{4.0} $$

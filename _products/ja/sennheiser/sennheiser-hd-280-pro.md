@@ -5,6 +5,7 @@ target_name: "Sennheiser HD 280 Pro"
 company_id: sennheiser
 lang: ja
 ref: sennheiser-hd-280-pro
+audiodb_uid: adb-8767fd131c19
 date: 2025-10-18
 rating: [3.7, 0.5, 0.7, 0.8, 0.9, 0.8]
 price: 15000

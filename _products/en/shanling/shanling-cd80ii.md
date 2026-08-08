@@ -5,6 +5,7 @@ target_name: "Shanling CD80II"
 company_id: shanling
 lang: en
 ref: shanling-cd80ii
+audiodb_uid: adb-d3eb6cfc9ce4
 date: 2025-11-30
 rating: [3.6, 0.8, 0.6, 1.0, 0.4, 0.8]
 price: 359

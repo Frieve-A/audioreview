@@ -5,6 +5,7 @@ target_name: "Moondrop Robin"
 company_id: moondrop
 lang: en
 ref: moondrop-robin
+audiodb_uid: adb-59b88662c2c3
 date: 2025-08-21
 rating: [3.5, 0.5, 0.7, 1.0, 0.5, 0.8]
 price: 99.00
@@ -12,7 +13,6 @@ summary: "Hybrid dual-driver TWS earbuds with ANC and LDAC support, featuring we
 tags: [TWS, Earbuds, ANC, Hybrid Driver, Gaming Collaboration]
 permalink: /products/en/moondrop-robin/
 ---
-
 ## Overview
 
 The Moondrop Robin is a Honkai: Star Rail collaboration TWS earbud using a hybrid dual-driver architecture (10 mm TiN ceramic-dome dynamic + 6 mm planar treble unit). It supports LDAC and LC3 over Bluetooth 5.4, provides ANC with a transparency mode, wireless charging, and a rated 9 hours (earbuds, AAC) + 30 hours (case) battery life [1]. It launched in late 2024 (Japan retail release on December 27, 2024) [3]. As of today, the current US price is 99.00 USD on the official store [2]. There is no official IP rating; Amazon lists gNot Water Resistanth for this model [4].

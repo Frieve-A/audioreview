@@ -5,6 +5,7 @@ target_name: "Antelope Audio Amari"
 company_id: antelope-audio
 lang: en
 ref: antelope-audio-amari
+audiodb_uid: adb-5e57450b4404
 date: 2025-07-13
 rating: [2.6, 0.9, 0.7, 0.0, 0.5, 0.5]
 price: 3000

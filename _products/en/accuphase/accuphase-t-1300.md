@@ -5,6 +5,7 @@ target_name: "Accuphase T-1300"
 company_id: accuphase
 lang: en
 ref: accuphase-t-1300
+audiodb_uid: adb-7bdf9d41fca7
 date: 2026-01-07
 rating: [4.0, 0.4, 0.8, 1.0, 0.9, 0.9]
 price: 8975

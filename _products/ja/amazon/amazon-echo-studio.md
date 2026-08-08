@@ -5,6 +5,7 @@ target_name: "Amazon Echo Studio"
 company_id: amazon
 lang: ja
 ref: amazon-echo-studio
+audiodb_uid: adb-8e523a41ef2a
 date: 2025-08-20
 rating: [4.1, 0.6, 0.8, 1.0, 0.8, 0.9]
 price: 29980
@@ -12,7 +13,6 @@ summary: "空間オーディオ処理と部屋適応機能を搭載したスマ�
 tags: [スマートスピーカー, 空間オーディオ, Dolby Atmos, ワイヤレス, Amazon]
 permalink: /products/ja/amazon-echo-studio/
 ---
-
 ## 概要
 
 Echo Studioは2019年に発売され、2022年に空間オーディオ処理と部屋適応の**OTAアップデート**が提供されました。筐体は円筒形で**高さ8.1インチ、直径6.9インチ、重量7.7ポンド**です。**Dolby Atmos**と**Sony 360 Reality Audio**に対応する5ドライバー構成に加え、**Zigbee内蔵スマートホームハブ**とAlexaを備え、価格を抑えつつ機能面で充実しています。 [2][3][4][5]

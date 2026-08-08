@@ -5,6 +5,7 @@ target_name: "iBasso Audio DC-Elite"
 company_id: ibasso-audio
 lang: en
 ref: ibasso-audio-dc-elite
+audiodb_uid: adb-063e8a291d17
 date: 2025-08-09
 rating: [2.9, 0.8, 0.7, 0.4, 0.5, 0.5]
 price: 449

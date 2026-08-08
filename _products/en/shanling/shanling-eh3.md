@@ -5,6 +5,7 @@ target_name: "Shanling EH3"
 company_id: shanling
 lang: en
 ref: shanling-eh3
+audiodb_uid: adb-447c89e71637
 date: 2025-08-16
 rating: [3.3, 0.7, 0.8, 0.4, 0.6, 0.8]
 price: 889

@@ -5,6 +5,7 @@ target_name: "Genelec 8350A"
 company_id: genelec
 lang: ja
 ref: genelec-8350a
+audiodb_uid: adb-e6ff745d0716
 date: 2025-08-12
 rating: [4.0, 0.8, 0.7, 0.7, 0.9, 0.9]
 price: 389250
@@ -12,7 +13,6 @@ summary: "優秀な工学設計とSAM/GLMを備えるプロ用モニター。DSP
 tags: [スタジオモニター, アクティブモニター, SAMテクノロジー, プロオーディオ, 8インチ]
 permalink: /products/ja/genelec-8350a/
 ---
-
 ## 概要
 
 Genelec 8350Aは、Smart Active Monitor（SAM）テクノロジーを搭載したアクティブ・バイアンプ駆動スタジオモニターです。Genelecのプロフェッショナルラインアップの一部として、200W Class Dアンプで駆動される8インチウーファーと、150W Class Dアンプで駆動される1インチメタルドームツイーターを組み込んでいます。最大SPL 112dB、周波数特性33Hz〜22kHz（-6dB）を実現します。SAMテクノロジーにより、GLMソフトウェアを通じてルーム最適化のための自動音響キャリブレーションが可能です。

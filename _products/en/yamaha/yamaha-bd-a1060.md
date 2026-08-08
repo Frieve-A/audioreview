@@ -5,6 +5,7 @@ target_name: "Yamaha BD-A1060"
 company_id: yamaha
 lang: en
 ref: yamaha-bd-a1060
+audiodb_uid: adb-bf7d8d0ace0f
 date: 2025-09-03
 rating: [3.1, 0.6, 0.7, 0.6, 0.6, 0.6]
 price: 350
@@ -12,7 +13,6 @@ summary: "Universal Blu-ray player with robust build quality and comprehensive f
 tags: [Blu-ray Player, Universal Player, SACD, DVD-Audio, Digital Player, Home Theater]
 permalink: /products/en/yamaha-bd-a1060/
 ---
-
 ## Overview
 
 The Yamaha BD-A1060 is a universal Blu-ray player aimed at listeners who prioritize audio quality. As part of Yamaha’s AVENTAGE series, it combines video playback with audio-centric features such as balanced XLR outputs, 32-bit DACs, and Pure Direct modes. It supports a wide range of formats including SACD and high-resolution files up to DSD 5.6 MHz.

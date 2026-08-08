@@ -5,6 +5,7 @@ target_name: "Loxjie D60"
 company_id: loxjie
 lang: en
 ref: loxjie-d60
+audiodb_uid: adb-5811723f663f
 date: 2025-08-17
 rating: [3.5, 0.7, 0.8, 0.7, 0.5, 0.8]
 price: 399
@@ -12,7 +13,6 @@ summary: "ES9039MSPRO-based DAC/headphone amplifier with high power output and c
 tags: [DAC, Headphone amplifier, ES9039MSPRO, MQA, Bluetooth, Balanced output]
 permalink: /products/en/loxjie-d60/
 ---
-
 ## Overview
 
 The Loxjie D60 is a desktop DAC and headphone amplifier built around ESS Technology’s ES9039MSPRO DAC. It supports PCM up to 32-bit/768 kHz, DSD512, and includes built-in MQA decoding (retailer notes MQA-CD as well). It provides three headphone outputs (6.35 mm single-ended, 4.4 mm balanced, and 4-pin XLR balanced) plus extensive digital inputs and balanced/unbalanced line outputs, targeting users who want an all-in-one desktop solution. [1][2][3]

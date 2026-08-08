@@ -5,6 +5,7 @@ target_name: "MADOO TYP622"
 company_id: madoo
 lang: en
 ref: madoo-typ622
+audiodb_uid: adb-a7270b686c3a
 date: 2025-08-20
 rating: [2.3, 0.3, 0.7, 0.2, 0.5, 0.6]
 price: 899

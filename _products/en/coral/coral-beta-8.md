@@ -5,6 +5,7 @@ target_name: "Coral Beta-8"
 company_id: coral
 lang: en
 ref: coral-beta-8
+audiodb_uid: adb-e059f8de5e81
 date: 2025-09-05
 rating: [2.0, 0.5, 0.3, 1.0, 0.0, 0.2]
 price: 77
@@ -12,7 +13,6 @@ summary: "Vintage 8-inch full-range driver offering exceptional cost-performance
 tags: [Full-range, Speaker Driver, Vintage, Coral, 8-inch]
 permalink: /products/en/coral-beta-8/
 ---
-
 ## Overview
 
 The Coral Beta-8 represents a notable piece of audio history as an 8-inch double cone full-range speaker driver manufactured by Coral Audio Corporation during the 1970s-80s. The company, based in Tokyo, ceased operations in the mid-1980s but left behind a legacy of well-regarded speaker components. The Beta-8 features a pulp diaphragm reinforced with chemical fibers, copper-coated aluminum voice coil, and Coral’s unique “skybar” edge with a star-shaped diffuser/phase element to improve directivity. Two production versions existed: the early 1970s model rated at 16W and the later 1980s version handling 35W, both maintaining 8Ω impedance. 

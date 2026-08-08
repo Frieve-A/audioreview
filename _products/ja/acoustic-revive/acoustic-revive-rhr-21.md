@@ -5,6 +5,7 @@ target_name: "Acoustic Revive RHR-21"
 company_id: acoustic-revive
 lang: ja
 ref: acoustic-revive-rhr-21
+audiodb_uid: adb-af2393932f12
 date: 2025-08-25
 rating: [1.5, 0.1, 0.3, 0.2, 0.6, 0.3]
 price: 162800
@@ -12,7 +13,6 @@ summary: "実測根拠が公開されていない小型パッシブ共鳴器。�
 tags: [音響処理, ルームチューニング, パッシブデバイス, ヘルムホルツ共鳴器]
 permalink: /products/ja/acoustic-revive-rhr-21/
 ---
-
 ## 概要
 
 Acoustic Revive RHR-21は、ヘルムホルツ共鳴の応用によって定在波を抑えることを狙う小型のパッシブ音響デバイスです。公称は**直径51 mm×高さ164 mm／876 g**で、実用新案（2023-003995）に言及があります[3]。国内の実勢価格は**162,800円（税込）**前後、海外では**1,499–1,500 USD**で案内されています[3][4]。

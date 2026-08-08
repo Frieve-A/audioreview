@@ -5,6 +5,7 @@ target_name: "Moondrop Illustrious"
 company_id: moondrop
 lang: ja
 ref: moondrop-illustrious
+audiodb_uid: adb-4e8e19957c67
 date: 2025-08-28
 rating: [2.7, 0.7, 0.7, 0.1, 0.6, 0.6]
 price: 140000

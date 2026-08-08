@@ -5,6 +5,7 @@ target_name: "KEF LS60 Wireless"
 company_id: kef
 lang: ja
 ref: kef-ls60-wireless
+audiodb_uid: adb-6038fe78b652
 date: 2025-07-18
 rating: [3.3, 0.8, 0.9, 0.6, 0.6, 0.4]
 price: 792000

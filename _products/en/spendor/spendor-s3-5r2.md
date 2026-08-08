@@ -5,6 +5,7 @@ target_name: "Spendor S3/5R2"
 company_id: spendor
 lang: en
 ref: spendor-s3-5r2
+audiodb_uid: adb-2bdfbc33279c
 date: 2025-10-12
 rating: [2.7, 0.5, 0.6, 0.7, 0.7, 0.2]
 price: 750

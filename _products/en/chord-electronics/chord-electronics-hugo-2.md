@@ -5,6 +5,7 @@ target_name: "Chord Electronics Hugo 2"
 company_id: chord-electronics
 lang: en
 ref: chord-electronics-hugo-2
+audiodb_uid: adb-16aa9fb0612f
 date: 2025-07-29
 rating: [2.9, 0.8, 0.7, 0.1, 0.8, 0.5]
 price: 2175

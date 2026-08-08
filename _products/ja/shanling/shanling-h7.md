@@ -5,6 +5,7 @@ target_name: "Shanling H7"
 company_id: shanling
 lang: ja
 ref: shanling-h7
+audiodb_uid: adb-9a39fb7ebbfa
 date: 2026-06-08
 rating: [3.2, 0.7, 0.6, 0.8, 0.6, 0.5]
 price: 128500

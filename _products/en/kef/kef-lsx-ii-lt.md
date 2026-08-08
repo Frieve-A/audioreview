@@ -5,6 +5,7 @@ target_name: "KEF LSX II LT"
 company_id: kef
 lang: en
 ref: kef-lsx-ii-lt
+audiodb_uid: adb-13362a8e52b4
 date: 2025-09-02
 rating: [3.6, 0.6, 0.7, 0.7, 0.8, 0.8]
 price: 999
@@ -12,7 +13,6 @@ summary: "Compact wireless speakers with KEF's Uni-Q driver technology, offering
 tags: [Wireless, Active, Bookshelf, Bluetooth, WiFi]
 permalink: /products/en/kef-lsx-ii-lt/
 ---
-
 ## Overview
 
 The KEF LSX II LT is a streamlined variant of KEF’s LSX II wireless stereo system, aiming to retain the core acoustic performance while trimming non-essentials to hit a 999 USD price. Each speaker uses KEF’s 11th-gen Uni-Q coaxial array (19 mm aluminum dome tweeter concentrically mounted in a 115 mm magnesium/aluminum mid-bass) in a compact, bi-amped design.

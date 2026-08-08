@@ -5,6 +5,7 @@ target_name: "Q Acoustics 3050"
 company_id: q-acoustics
 lang: ja
 ref: q-acoustics-3050
+audiodb_uid: adb-2985ed794b93
 date: 2025-10-31
 rating: [3.9, 0.7, 0.7, 1.0, 0.6, 0.9]
 price: 82000

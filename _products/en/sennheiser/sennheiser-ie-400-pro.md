@@ -5,6 +5,7 @@ target_name: "Sennheiser IE 400 PRO"
 company_id: sennheiser
 lang: en
 ref: sennheiser-ie-400-pro
+audiodb_uid: adb-6e71ad67a0b3
 date: 2025-08-02
 rating: [3.0, 0.6, 0.6, 0.4, 0.8, 0.6]
 price: 488

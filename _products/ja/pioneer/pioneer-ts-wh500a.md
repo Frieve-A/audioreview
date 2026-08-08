@@ -5,6 +5,7 @@ target_name: "Pioneer TS-WH500A"
 company_id: pioneer
 lang: ja
 ref: pioneer-ts-wh500a
+audiodb_uid: adb-d7802d2c700f
 date: 2025-09-09
 rating: [3.2, 0.5, 0.7, 0.8, 0.4, 0.8]
 price: 37000

@@ -5,6 +5,7 @@ target_name: "Adam Audio S2X"
 company_id: adam-audio
 lang: en
 ref: adam-audio-s2x
+audiodb_uid: adb-1eaf36bd4164
 date: 2025-12-05
 rating: [3.5, 0.4, 0.6, 1.0, 0.8, 0.7]
 price: 2000

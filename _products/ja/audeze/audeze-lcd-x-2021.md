@@ -5,6 +5,7 @@ target_name: "Audeze LCD-X 2021"
 company_id: audeze
 lang: ja
 ref: audeze-lcd-x-2021
+audiodb_uid: adb-cbc7acd14649
 date: 2025-09-15
 rating: [2.8, 0.6, 0.7, 0.2, 0.6, 0.7]
 price: 178650
@@ -12,7 +13,6 @@ summary: "2021年改良版では周波数応答の改善を達成したプロ仕
 tags: [ヘッドホン, 平面磁界型, オープンバック, プロフェッショナル, オーディオ]
 permalink: /products/ja/audeze-lcd-x-2021/
 ---
-
 ## 概要
 
 Audeze LCD-X 2021は、オーディオプロフェッショナル向けのニュートラルなサウンド再生を目指すAudezeのフラッグシップリファレンスヘッドホンの洗練された改良版です。このCreator Packageバリアントは、Ultra-Thin Uniforceダイアフラム、Fazorウェーブガイド、Fluxorマグネットなどの独自技術を組み込んだ106mmの平面磁界型ドライバーを特徴としています。2021年改良版では、初代LCD-Xに存在していた重要な周波数応答の問題が解決され、一貫性と性能が向上しました。重量612グラム、インピーダンス20オーム、感度103dB/1mWという仕様で、精度と正確性を求めるプロスタジオアプリケーション向けに設計されています。

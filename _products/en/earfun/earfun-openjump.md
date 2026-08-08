@@ -5,6 +5,7 @@ target_name: "EarFun OpenJump"
 company_id: earfun
 lang: en
 ref: earfun-openjump
+audiodb_uid: adb-9a02571345fa
 date: 2025-12-02
 rating: [3.8, 0.5, 0.8, 1.0, 0.5, 1.0]
 price: 79.99
@@ -12,7 +13,6 @@ summary: "Open-ear wireless earbuds featuring proprietary BassSurge™ DSP techn
 tags: [Earbuds, Open-ear, Wireless, LDAC, IPX7, Bass Enhancement]
 permalink: /products/en/earfun-openjump/
 ---
-
 ## Overview
 
 The EarFun OpenJump is an open-ear wireless earbud featuring 14.2mm wool composite drivers and proprietary BassSurge™ bass enhancement technology. Released by EarFun, a company founded in 2018 by industrial designers and acoustic engineers, this product targets the growing open-ear segment with Hi-Res Audio certification, LDAC codec support, and IPX7 waterproofing. Key features include 11-hour battery life (8 hours with LDAC), spatial audio support, ultra-low latency under 50ms, and 4 beamforming microphones with Environmental Noise Cancellation for calls.

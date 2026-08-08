@@ -5,6 +5,7 @@ target_name: "Shanling M5 Ultra"
 company_id: shanling
 lang: en
 ref: shanling-m5-ultra
+audiodb_uid: adb-5e87a00d56ee
 date: 2025-08-29
 rating: [2.4, 0.5, 0.6, 0.4, 0.6, 0.3]
 price: 589

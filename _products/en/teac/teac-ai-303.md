@@ -5,6 +5,7 @@ target_name: "TEAC AI-303"
 company_id: teac
 lang: en
 ref: teac-ai-303
+audiodb_uid: adb-3d09ec983deb
 date: 2025-08-05
 rating: [3.3, 0.7, 0.8, 0.4, 0.7, 0.7]
 price: 799

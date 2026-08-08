@@ -5,6 +5,7 @@ target_name: "Moondrop Para"
 company_id: moondrop
 lang: ja
 ref: moondrop-para
+audiodb_uid: adb-21f8c53912f2
 date: 2025-07-28
 rating: [2.7, 0.5, 0.7, 0.4, 0.6, 0.5]
 price: 45000

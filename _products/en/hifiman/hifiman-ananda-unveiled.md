@@ -5,6 +5,7 @@ target_name: "HiFiMAN Ananda Unveiled"
 company_id: hifiman
 lang: en
 ref: hifiman-ananda-unveiled
+audiodb_uid: adb-498996046fc3
 date: 2025-10-22
 rating: [3.5, 0.6, 0.8, 0.5, 0.7, 0.9]
 price: 549

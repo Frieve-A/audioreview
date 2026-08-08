@@ -5,6 +5,7 @@ target_name: "iFi audio GO bar"
 company_id: ifi-audio
 lang: ja
 ref: ifi-audio-go-bar
+audiodb_uid: adb-f5f869b690ce
 date: 2026-04-13
 rating: [3.9, 0.8, 0.8, 1.0, 0.6, 0.7]
 price: 50850

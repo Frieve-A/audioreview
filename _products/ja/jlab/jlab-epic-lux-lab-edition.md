@@ -5,6 +5,7 @@ target_name: "JLab Epic Lux Lab Edition"
 company_id: jlab
 lang: ja
 ref: jlab-epic-lux-lab-edition
+audiodb_uid: adb-3ab99825dd41
 date: 2025-12-11
 rating: [3.6, 0.5, 0.8, 1.0, 0.6, 0.7]
 price: 29900

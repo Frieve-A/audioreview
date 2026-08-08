@@ -5,6 +5,7 @@ target_name: "Edifier ES20"
 company_id: edifier
 lang: ja
 ref: edifier-es20
+audiodb_uid: adb-c917aaf10ad6
 date: 2025-08-02
 rating: [3.1, 0.5, 0.6, 0.6, 0.7, 0.7]
 price: 13500
@@ -12,7 +13,6 @@ summary: "スタイリッシュなレトロデザインとIP67防水性能を持
 tags: [ポータブルスピーカー, Bluetooth, 防水, Edifier]
 permalink: /products/ja/edifier-es20/
 ---
-
 ## 概要
 
 Edifier ES20は、レトロな革調のデザインと環境光システムが特徴的なポータブルBluetoothスピーカーです。IP67規格の防水・防塵性能を備え、アウトドアでの使用に適しています。Φ43mmフルレンジドライバーとΦ55mmパッシブラジエーターを搭載し、6W RMSの出力を実現。Bluetooth 5.3接続に対応し、326gの軽量ボディで最大15時間の連続再生が可能です。

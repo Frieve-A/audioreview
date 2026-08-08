@@ -5,6 +5,7 @@ target_name: "Sabaj A30A"
 company_id: sabaj
 lang: ja
 ref: sabaj-a30a
+audiodb_uid: adb-00d61849eda0
 date: 2025-08-10
 rating: [2.1, 0.5, 0.5, 0.3, 0.6, 0.2]
 price: 67500

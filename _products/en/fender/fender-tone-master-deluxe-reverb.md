@@ -5,6 +5,7 @@ target_name: "Fender Tone Master Deluxe Reverb"
 company_id: fender
 lang: en
 ref: fender-tone-master-deluxe-reverb
+audiodb_uid: adb-8dc06732d12b
 date: 2025-08-26
 rating: [2.5, 0.5, 0.7, 0.3, 0.4, 0.6]
 price: 1314.99
@@ -12,7 +13,6 @@ summary: "A DSP-driven re-creation of the 1965 Deluxe Reverb that adds modern co
 tags: [Guitar Amp, Combo Amp, Digital Modeling, Fender, 100W]
 permalink: /products/en/fender-tone-master-deluxe-reverb/
 ---
-
 ## Overview
 
 The Tone Master Deluxe Reverb models the circuitry and 22-watt output behavior of the original 1965 Deluxe Reverb using high-power DSP and a 100-watt digital power amp [3]. It adds a lightweight pine cabinet, a Jensen N-12K neodymium speaker, a six-position output attenuator down to 0.2W-equivalent, an XLR DI with IR cabinet sims, USB firmware updates, and an included cover/footswitch, aiming at consistent stage/recording workflows [3][4].

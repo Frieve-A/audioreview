@@ -5,6 +5,7 @@ target_name: "McIntosh C29"
 company_id: mcintosh
 lang: en
 ref: mcintosh-c29
+audiodb_uid: adb-28fb6c6a0d86
 date: 2025-08-31
 rating: [2.4, 0.6, 0.5, 0.3, 0.5, 0.5]
 price: 2400
@@ -12,7 +13,6 @@ summary: "Vintage 1978–1985 solid-state preamplifier; close to transparency on
 tags: [Vintage, Preamplifier, Solid-state, McIntosh]
 permalink: /products/en/mcintosh-c29/
 ---
-
 ## Overview
 
 The McIntosh C29 is a solid-state stereo preamplifier manufactured from 1978 to 1985. It features the brand’s classic glass faceplate with illuminated nomenclature (no output meters), a precision 32-step volume attenuator, extensive I/O including dual phono inputs, and McIntosh’s robust construction. While historically important, its measured performance reflects late-1970s analog design limits when compared with today’s state-of-the-art preamps.

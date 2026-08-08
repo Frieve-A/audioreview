@@ -5,6 +5,7 @@ target_name: "Adam Audio S2X"
 company_id: adam-audio
 lang: ja
 ref: adam-audio-s2x
+audiodb_uid: adb-1eaf36bd4164
 date: 2025-12-05
 rating: [3.5, 0.4, 0.6, 1.0, 0.8, 0.7]
 price: 300000
@@ -12,7 +13,6 @@ summary: "50kHzまでの高域拡張と限定的な科学的検証を持つ、�
 tags: [スピーカー, スタジオモニター, ニアフィールドモニター, プロオーディオ, 高域拡張]
 permalink: /products/ja/adam-audio-s2x/
 ---
-
 ## 概要
 
 Adam Audio S2Xは、小中規模のコントロールルーム向けに設計されたニアフィールドスタジオモニターで、50kHzまでの高域拡張とプロフェッショナル増幅機能を特徴とします。この製品は現在生産終了となり、S2Vモデルに引き継がれており、Adam Audioの初期世代プロフェッショナルモニタリングソリューションを代表しています。S2Xは総増幅出力300W（250W + 50W）と35Hzから50kHzまでの周波数特性により、精密なモニタリング機能を求めるプロオーディオアプリケーションをターゲットとしています。

@@ -5,6 +5,7 @@ target_name: "Fostex CW250D"
 company_id: fostex
 lang: ja
 ref: fostex-cw250d
+audiodb_uid: adb-f959ddd99e8b
 date: 2025-08-23
 rating: [2.5, 0.5, 0.7, 0.5, 0.4, 0.4]
 price: 102000
@@ -12,7 +13,6 @@ summary: "FostexのCW250DはMFB（Motional Feedback）を搭載した300Wの密�
 tags: [サブウーファー, アクティブ, シールド型, MFB, 生産終了]
 permalink: /products/ja/fostex-cw250d/
 ---
-
 ## 概要
 
 CW250Dは25cmウーハーと300W（JEITA/4Ω）アンプを搭載した密閉型サブウーファーで、「音楽専用アドオン」を掲げたモデルです。最大出力音圧106dB/60Hz（全空間、床置き+6dB）、ローパス40〜140Hz、位相切替、共振抑制を狙ったバッフル/筐体構造などを公称します。生産は終了しています。 [2][3][4][5]

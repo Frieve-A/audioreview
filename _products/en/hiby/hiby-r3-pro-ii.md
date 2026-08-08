@@ -5,6 +5,7 @@ target_name: "HiBy R3Pro II"
 company_id: hiby
 lang: en
 ref: hiby-r3-pro-ii
+audiodb_uid: adb-9acba878bb1e
 date: 2025-11-24
 rating: [3.1, 0.5, 0.4, 1.0, 0.5, 0.7]
 price: 199

@@ -5,6 +5,7 @@ target_name: "RME HDSPe AIO Pro"
 company_id: rme
 lang: en
 ref: rme-hdspe-aio-pro
+audiodb_uid: adb-7fadf150ad50
 date: 2025-07-27
 rating: [4.0, 0.8, 0.7, 1.0, 0.8, 0.7]
 price: 660

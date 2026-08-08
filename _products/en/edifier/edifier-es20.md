@@ -5,6 +5,7 @@ target_name: "Edifier ES20"
 company_id: edifier
 lang: en
 ref: edifier-es20
+audiodb_uid: adb-c917aaf10ad6
 date: 2025-08-02
 rating: [3.1, 0.5, 0.6, 0.6, 0.7, 0.7]
 price: 89.99

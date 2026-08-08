@@ -5,6 +5,7 @@ target_name: "Pioneer SE-500"
 company_id: pioneer
 lang: en
 ref: pioneer-se-500
+audiodb_uid: adb-565be12761fa
 date: 2026-01-02
 rating: [1.6, 0.5, 0.4, 0.1, 0.0, 0.6]
 price: 59
@@ -12,7 +13,6 @@ summary: "Historic 1975 piezoelectric headphones showcasing innovative PVDF tech
 tags: [Headphones, Vintage, Pioneer, Piezoelectric, PVDF]
 permalink: /products/en/pioneer-se-500/
 ---
-
 ## Overview
 
 The Pioneer SE-500 represents a remarkable chapter in audio engineering history, introduced in 1975 as part of Pioneer's groundbreaking exploration of piezoelectric transducer technology [1]. Developed by Masahiko Tamura and his team at Pioneer's Acoustical Engineering Research Laboratory, these headphones were among the world's first to feature high-polymer molecular elements utilizing 7 µm PVDF (Polyvinylidene Fluoride) piezoelectric film [2]. Manufactured from 1975 to 1978, the SE-500 embodied Pioneer's philosophy of "Move the Heart and Touch the Soul" through revolutionary technology that eliminated traditional voice coil and magnet structures in favor of direct electrical-to-acoustic conversion through film elongation and contraction. While representing genuine technological innovation and earning recognition as pioneering audio equipment, the SE-500's ambitious design ultimately proved challenging to implement successfully in practical applications.

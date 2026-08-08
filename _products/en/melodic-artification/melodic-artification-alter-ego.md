@@ -5,6 +5,7 @@ target_name: "Melodic Artification Alter Ego"
 company_id: melodic-artification
 lang: en
 ref: melodic-artification-alter-ego
+audiodb_uid: adb-1c85710ea680
 date: 2026-01-07
 rating: [2.1, 0.5, 0.6, 0.0, 0.4, 0.6]
 price: 2499
@@ -12,7 +13,6 @@ summary: "The Melodic Artification Alter Ego is a flagship IEM featuring TC4 tit
 tags: [China, "In-ear monitors", "Tribrid", "Titanium", "Open-back", "High-end"]
 permalink: /products/en/melodic-artification-alter-ego/
 ---
-
 ## Overview
 
 The Melodic Artification Alter Ego represents the Chinese company's flagship entry into the high-end tribrid IEM market. While parent company Timsok was established in 2018, the Melodic Artification brand was launched in 2022 in Shenzhen, with their initial mark made with the Eclipse model before launching this premium offering [1]. The Alter Ego features a sophisticated 1DD + 4BA + 4EST driver configuration utilizing Sonion components, housed in a precision-machined TC4 titanium shell [1]. The unique open-back design aims to deliver headphone-like soundstage characteristics while maintaining IEM portability. With its tuning switch for bass adjustment and premium materials, the Alter Ego targets audiophiles seeking cutting-edge tribrid technology at the flagship price point of USD2,499 [1].

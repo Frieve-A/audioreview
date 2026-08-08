@@ -5,6 +5,7 @@ target_name: "Sony MDR-5760"
 company_id: sony
 lang: en
 ref: sony-mdr-5760
+audiodb_uid: adb-ff8feb3dfd54
 date: 2025-11-30
 rating: [2.1, 0.5, 0.3, 0.9, 0.1, 0.3]
 price: 45
@@ -12,7 +13,6 @@ summary: "Discontinued vintage airline headphones with specialized dual-prong co
 tags: [Headphones, Noise Cancelling, Vintage, Aviation, Discontinued]
 permalink: /products/en/sony-mdr-5760/
 ---
-
 ## Overview
 
 The Sony MDR-5760 is a discontinued vintage noise-cancelling headphone model specifically manufactured for Japan Airlines (JAL). This B2B aviation product features active noise cancellation powered by AAA batteries and uses dual-prong airline connectors, making it primarily suitable for in-flight use without adapters. As a vintage airline-specific product, it represents analog noise cancellation technology from an earlier era without modern digital integration or standard connectivity options.

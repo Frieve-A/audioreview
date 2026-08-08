@@ -5,6 +5,7 @@ target_name: "Kali Audio LP-UNF"
 company_id: kali-audio
 lang: en
 ref: kali-audio-lp-unf
+audiodb_uid: adb-c07510e2719e
 date: 2025-10-30
 rating: [3.2, 0.3, 0.8, 1.0, 0.4, 0.7]
 price: 349

@@ -5,6 +5,7 @@ target_name: "Polk Audio Monitor XT20"
 company_id: polk
 lang: en
 ref: polk-audio-monitor-xt20
+audiodb_uid: adb-47d75316279a
 date: 2026-02-24
 rating: [4.1, 0.7, 0.5, 1.0, 0.9, 1.0]
 price: 249
@@ -12,7 +13,6 @@ summary: "Hi-Res certified bookshelf speakers with Dynamic Balance technology de
 tags: [Speakers, Bookshelf, Hi-Res, Dynamic Balance, Entry-level]
 permalink: /products/en/polk-audio-monitor-xt20/
 ---
-
 ## Overview
 
 The Monitor XT20 represents Polk Audio's entry-level Hi-Res certified bookshelf speakers, launched in August 2021 as part of the Monitor XT series. Featuring 6.5" bi-laminate Dynamic Balance woofers and 1" Terylene dome tweeters, the XT20 targets budget-conscious audiophiles seeking Hi-Res Audio certification. Priced at 249 USD per pair, it positions itself in the affordable segment while leveraging Polk's 50-year heritage in loudspeaker engineering.

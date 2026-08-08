@@ -5,6 +5,7 @@ target_name: "ELAC Varro RS500"
 company_id: elac
 lang: en
 ref: elac-varro-rs500
+audiodb_uid: adb-6f144c85b544
 date: 2025-08-12
 rating: [3.0, 0.5, 0.7, 0.4, 0.7, 0.7]
 price: 1399
@@ -12,7 +13,6 @@ summary: "10-inch sealed subwoofer with app control and DSP offering competent p
 tags: [Subwoofer, Sealed, App Control, DSP, Home Theater, Music]
 permalink: /products/en/elac-varro-rs500/
 ---
-
 ## Overview
 
 The ELAC Varro RS500 is a 10-inch sealed subwoofer featuring a 500W RMS (1,000W peak) BASH amplifier, aluminum sandwich cone driver, and smartphone app control with automatic room EQ. Part of ELAC's newer Varro Reference series, it targets small to medium-sized rooms. Manufacturer/distributor documentation lists in-room frequency response of 15–150 Hz and maximum output of 108 dB SPL [2]. The design emphasizes accurate, tight bass for both music and home theater applications, incorporating advanced DSP processing and wireless connectivity options through the ELAC Sub Control 3.0 app.

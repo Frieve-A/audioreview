@@ -5,6 +5,7 @@ target_name: "MOTU M2"
 company_id: motu
 lang: en
 ref: motu-m2
+audiodb_uid: adb-06e99835b14a
 date: 2025-10-06
 rating: [3.6, 0.8, 0.6, 0.8, 0.8, 0.6]
 price: 199.95
@@ -12,7 +13,6 @@ summary: "2-in/2-out USB-C interface using ESS Sabre32 Ultra. Third-party tests 
 tags: ["Audio interface", USB-C, "ESS Sabre32", 2in2out, DTM]
 permalink: /products/en/motu-m2/
 ---
-
 ## Overview
 
 The MOTU M2 is a compact 2-in/2-out USB-C audio interface introduced in 2019. It became notable for measured output performance unusual at its price, thanks in part to an ESS Sabre32 Ultra DAC. It adds a color display for clear input/output metering and offers loopback for streaming/recording workflows.

@@ -5,6 +5,7 @@ target_name: "KEF Reference 8B"
 company_id: kef
 lang: ja
 ref: kef-reference-8b
+audiodb_uid: adb-04abdb769012
 date: 2026-01-06
 rating: [3.2, 0.6, 0.7, 0.3, 0.8, 0.8]
 price: 1125000

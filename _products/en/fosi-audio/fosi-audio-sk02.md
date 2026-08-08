@@ -5,6 +5,7 @@ target_name: "Fosi Audio SK02"
 company_id: fosi-audio
 lang: en
 ref: fosi-audio-sk02
+audiodb_uid: adb-5be2354e18f7
 date: 2025-09-20
 rating: [3.5, 0.8, 0.6, 1.0, 0.5, 0.6]
 price: 119.99

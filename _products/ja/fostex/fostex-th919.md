@@ -5,6 +5,7 @@ target_name: "Fostex TH919"
 company_id: fostex
 lang: ja
 ref: fostex-th919
+audiodb_uid: adb-990a3237a995
 date: 2025-12-03
 rating: [2.7, 0.5, 0.8, 0.0, 0.8, 0.6]
 price: 516600

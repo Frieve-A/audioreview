@@ -5,6 +5,7 @@ target_name: "HiFiMan Serenade"
 company_id: hifiman
 lang: en
 ref: hifiman-serenade
+audiodb_uid: adb-61f4ff9d4421
 date: 2025-07-27
 rating: [3.7, 0.9, 0.8, 0.6, 0.6, 0.8]
 price: 1149

@@ -5,6 +5,7 @@ target_name: "IK Multimedia iLoud MTM"
 company_id: ik-multimedia
 lang: ja
 ref: ik-multimedia-iloud-mtm
+audiodb_uid: adb-a7c2279105b4
 date: 2025-08-10
 rating: [3.4, 0.6, 0.7, 1.0, 0.6, 0.5]
 price: 105000

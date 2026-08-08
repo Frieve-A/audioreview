@@ -5,6 +5,7 @@ target_name: "Creative GigaWorks T40 Series II"
 company_id: creative
 lang: ja
 ref: creative-gigaworks-t40-series-ii-gw-t40ii-r2
+audiodb_uid: adb-7efbfb6301fa
 date: 2025-09-03
 rating: [2.8, 0.4, 0.4, 1.0, 0.4, 0.6]
 price: 14300
@@ -12,7 +13,6 @@ summary: "MTM構成とBasXPort技術を採用したデスクトップスピー�
 tags: [デスクトップスピーカー, アクティブスピーカー, MTM構成, BasXPort技術]
 permalink: /products/ja/creative-gigaworks-t40-series-ii-gw-t40ii-r2/
 ---
-
 ## 概要
 
 Creative GigaWorks T40 Series II（GW-T40II-R2）は、Creative Technologyが3ドライバーのミッドレンジ–ツイーター–ミッドレンジ（MTM）構成と独自のBasXPort低域強化技術でデスクトップオーディオにアプローチした2.0アクティブスピーカーです。**各エンクロージャーに2.5インチ（約63.5mm）ウーブングラスファイバーミッドレンジ×2と1インチ・シルクドームツイーター×1を搭載**し、合計32W RMSを出力します。外付けサブウーファーなしでフルレンジ再生を狙い、ノートPCやモニタ内蔵より一段上のデスクトップ再生を求めるユーザーを対象とします。

@@ -5,6 +5,7 @@ target_name: "Kali Audio LP-6 V2"
 company_id: kali-audio
 lang: ja
 ref: kali-audio-lp-6-v2
+audiodb_uid: adb-9e2691d4b45f
 date: 2025-09-21
 rating: [2.9, 0.4, 0.6, 1.0, 0.4, 0.5]
 price: 37100
@@ -12,7 +13,6 @@ summary: "測定重視の6.5インチパワードスタジオモニターでDSP�
 tags: [スタジオモニター, パワードスピーカー, プロフェッショナルオーディオ, ニアフィールドモニター, DSP]
 permalink: /products/ja/kali-audio-lp-6-v2/
 ---
-
 ## 概要
 
 Kali Audio LP-6 V2は、Project Lone Pineスタジオモニターシリーズの第二世代モデルで、6.5インチ最適化ペーパーウーファーと1インチテキスタイルドームツイーターを組み合わせています。2018年に元JBLエンジニアによって設立されたKali Audioは、音響設計への科学的アプローチを重視する測定重視の企業として位置づけられています。LP-6 V2は初代モデルから大幅な改良が施され、セルフノイズ12dB削減、DSP処理の強化、Class-Dバイアンプ駆動による総出力80Wのアンプリフィケーションプラットフォームのアップグレードが実現されています。

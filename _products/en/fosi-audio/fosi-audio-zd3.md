@@ -5,6 +5,7 @@ target_name: "Fosi Audio ZD3"
 company_id: fosi-audio
 lang: en
 ref: fosi-audio-zd3
+audiodb_uid: adb-551da910c053
 date: 2025-08-23
 rating: [3.7, 0.8, 0.6, 1.0, 0.5, 0.8]
 price: 179.99
@@ -12,7 +13,6 @@ summary: "Fully balanced desktop DAC with HDMI ARC, Bluetooth, XLR/RCA outs, and
 tags: [DAC, Desktop, Balanced, XLR, HDMI-ARC, Op-amp]
 permalink: /products/en/fosi-audio-zd3/
 ---
-
 ## Overview
 
 The Fosi Audio ZD3 is a fully balanced desktop DAC built around ESS's ES9039Q2M and XMOS XU316. It offers unusually complete connectivity for the price—USB, HDMI ARC (CEC), optical, coaxial, and Bluetooth (SBC/AAC/aptX/aptX HD)—plus balanced XLR and RCA outputs and a DIP8 swappable op-amp stage. Output levels are 5 Vrms (XLR) and 2.5 Vrms (RCA), with published SNR ≥126 dB and THD+N <0.00008% [2][3].

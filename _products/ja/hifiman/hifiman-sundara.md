@@ -5,6 +5,7 @@ target_name: "HiFiMAN SUNDARA"
 company_id: hifiman
 lang: ja
 ref: hifiman-sundara
+audiodb_uid: adb-e693bede428d
 date: 2026-01-21
 rating: [3.2, 0.7, 0.8, 0.4, 0.3, 1.0]
 price: 41850

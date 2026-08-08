@@ -5,6 +5,7 @@ target_name: "Marshall kilburn3"
 company_id: marshall
 lang: en
 ref: marshall-kilburn3
+audiodb_uid: adb-879dbbf9cacd
 date: 2026-06-07
 rating: [3.1, 0.5, 0.6, 1.0, 0.6, 0.4]
 price: 349.99

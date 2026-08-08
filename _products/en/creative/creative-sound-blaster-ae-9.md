@@ -5,6 +5,7 @@ target_name: "Creative Sound Blaster AE-9"
 company_id: creative
 lang: en
 ref: creative-sound-blaster-ae-9
+audiodb_uid: adb-680097db15dc
 date: 2025-08-09
 rating: [3.1, 0.6, 0.8, 0.4, 0.5, 0.8]
 price: 293

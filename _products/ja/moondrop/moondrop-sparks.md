@@ -5,6 +5,7 @@ target_name: "MOONDROP Sparks"
 company_id: moondrop
 lang: ja
 ref: moondrop-sparks
+audiodb_uid: adb-2778d0d78ec8
 date: 2026-03-03
 rating: [3.5, 0.5, 0.8, 0.7, 0.6, 0.9]
 price: 14040

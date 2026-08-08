@@ -5,6 +5,7 @@ target_name: "SoundPEATS Space Pro"
 company_id: soundpeats
 lang: ja
 ref: soundpeats-space-pro
+audiodb_uid: adb-d163a2551b70
 date: 2025-08-20
 rating: [3.0, 0.5, 0.3, 1.0, 0.5, 0.7]
 price: 9980

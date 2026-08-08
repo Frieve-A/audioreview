@@ -5,6 +5,7 @@ target_name: "Audio-Technica ATN3600L"
 company_id: audio-technica
 lang: ja
 ref: audio-technica-atn3600l
+audiodb_uid: adb-378ce7587a2d
 date: 2025-09-05
 rating: [2.3, 0.3, 0.2, 0.8, 0.6, 0.4]
 price: 2900
@@ -12,7 +13,6 @@ summary: "測定性能には課題がある一方、同等以上の測定性能�
 tags: [針, フォノ, カートリッジ, 交換品, コニカル]
 permalink: /products/ja/audio-technica-atn3600l/
 ---
-
 ## 概要
 
 ATN3600Lは、Audio-TechnicaのAT3600Lフォノカートリッジ用の交換針で、カーボンファイバー強化プラスチック製カンチレバーに0.6 milのコニカル接着ダイヤモンドチップを採用しています。50年以上の市場実績と数百万本の販売実績を持つこの針は、Audio-Technicaのエントリーレベルアナログ再生アプローチを代表する製品です。設計は手頃な価格とAT3600Lカートリッジシステムとの互換性を重視し、カジュアルなビニール聴取のための基本機能を維持しています。

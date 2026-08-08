@@ -5,6 +5,7 @@ target_name: "HIFIMAN HE4XX"
 company_id: hifiman
 lang: en
 ref: hifiman-he4xx
+audiodb_uid: adb-d6895c65a923
 date: 2025-09-19
 rating: [2.9, 0.5, 0.5, 0.9, 0.3, 0.7]
 price: 169

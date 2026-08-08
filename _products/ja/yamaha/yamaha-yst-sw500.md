@@ -5,6 +5,7 @@ target_name: "Yamaha YST-SW500"
 company_id: yamaha
 lang: ja
 ref: yamaha-yst-sw500
+audiodb_uid: adb-b6d6a491e2b8
 date: 2025-09-18
 rating: [2.8, 0.5, 0.5, 1.0, 0.3, 0.5]
 price: 14900

@@ -5,6 +5,7 @@ target_name: "FiR Audio Project K"
 company_id: fir-audio
 lang: ja
 ref: fir-audio-project-k
+audiodb_uid: adb-f2b458f0d3e9
 date: 2026-06-08
 rating: [2.3, 0.5, 0.9, 0.0, 0.5, 0.4]
 price: 434000

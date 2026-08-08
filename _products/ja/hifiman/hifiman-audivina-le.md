@@ -5,6 +5,7 @@ target_name: "HIFIMAN Audivina LE"
 company_id: hifiman
 lang: ja
 ref: hifiman-audivina-le
+audiodb_uid: adb-9acf4df8d168
 date: 2025-10-18
 rating: [3.2, 0.5, 0.9, 0.3, 0.8, 0.7]
 price: 52720
@@ -12,7 +13,6 @@ summary: "HIFIMANのStealth MagnetsとNEO Supernano Diaphragm技術を搭載し�
 tags: [ヘッドホン, 平面磁界駆動, 密閉型, HIFIMAN, スタジオ]
 permalink: /products/ja/hifiman-audivina-le/
 ---
-
 ## 概要
 
 HIFIMAN Audivina LEは、同社の最新技術であるStealth MagnetsとNEO Supernano Diaphragm技術を搭載した密閉型平面磁界駆動ヘッドホンです。52,720円のスタジオヘッドホンとして位置付けられ、コンサートホール音響学にインスパイアされた音響チャンバー設計により、密閉型特有の制約に対処することを目指しています。1.5m 3.5mmシングルエンド、3m XLRバランス、3m 6.35mmシングルエンドケーブルを付属し、ポータブルからプロ用アンプまで幅広い互換性を提供します。

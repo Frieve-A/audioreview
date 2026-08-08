@@ -5,6 +5,7 @@ target_name: "SMSL C200 Pro"
 company_id: smsl
 lang: en
 ref: smsl-c200-pro
+audiodb_uid: adb-6b568743cece
 date: 2026-02-08
 rating: [4.1, 0.8, 0.7, 1.0, 0.6, 1.0]
 price: 199
@@ -12,7 +13,6 @@ summary: "Desktop DAC/headphone amplifier with ESS ES9039Q2M DAC chip, XMOS XU-3
 tags: [DAC, Headphone amplifier, Desktop, Bluetooth, USB]
 permalink: /products/en/smsl-c200-pro/
 ---
-
 ## Overview
 
 The SMSL C200 Pro is a desktop DAC and headphone amplifier featuring ESS ES9039Q2M DAC chip and XMOS XU-316 USB processor. Priced at 199 USD, it provides USB Type-C, optical, coaxial inputs plus Bluetooth 5.1 with LDAC. Output options include 4.4mm balanced, 6.35mm unbalanced headphone, TRS balanced line, and RCA outputs in a compact 139×147.5×32mm form factor.

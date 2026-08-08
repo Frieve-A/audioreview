@@ -5,6 +5,7 @@ target_name: "Yamaha NS-SW300"
 company_id: yamaha
 lang: ja
 ref: yamaha-ns-sw300
+audiodb_uid: adb-b5eb380dd5ac
 date: 2025-08-16
 rating: [2.8, 0.5, 0.5, 0.7, 0.5, 0.6]
 price: 51360

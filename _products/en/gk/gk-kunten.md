@@ -5,6 +5,7 @@ target_name: "GK KUNTEN"
 company_id: gk
 lang: en
 ref: gk-kunten
+audiodb_uid: adb-09bced07fb9b
 date: 2026-05-23
 rating: [2.9, 0.4, 0.3, 1.0, 0.5, 0.7]
 price: 15

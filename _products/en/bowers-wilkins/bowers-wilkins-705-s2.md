@@ -5,6 +5,7 @@ target_name: "Bowers & Wilkins 705 S2"
 company_id: bowers-wilkins
 lang: en
 ref: bowers-wilkins-705-s2
+audiodb_uid: adb-ac92a0208920
 date: 2025-10-18
 rating: [3.6, 0.7, 0.8, 0.6, 0.7, 0.8]
 price: 2500

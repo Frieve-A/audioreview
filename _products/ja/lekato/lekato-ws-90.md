@@ -5,6 +5,7 @@ target_name: "LEKATO WS-90"
 company_id: lekato
 lang: ja
 ref: lekato-ws-90
+audiodb_uid: adb-a4bbf263f5b5
 date: 2025-10-17
 rating: [3.0, 0.5, 0.6, 1.0, 0.3, 0.6]
 price: 7497
@@ -12,7 +13,6 @@ summary: "5.8GHz技術を採用したワイヤレスギターシステムで、�
 tags: [ワイヤレス, ギターシステム, 5.8GHz, LEKATO]
 permalink: /products/ja/lekato-ws-90/
 ---
-
 ## 概要
 
 LEKATO WS-90は、2019年に設立された楽器アクセサリーに特化したLEKATOが製造する5.8GHzワイヤレスギターシステムです。24ビット/48kHzオーディオ品質、5.6ms未満のレイテンシ、105dBダイナミックレンジ、8時間のバッテリー寿命を特徴としています。ワイヤレスソリューションとして、確立されたブランドとの競合するセグメントで、2.4GHz競合製品と差別化を図る最新の5.8GHz伝送技術を提供しています。

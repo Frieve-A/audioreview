@@ -5,6 +5,7 @@ target_name: "SMSL DL200"
 company_id: smsl
 lang: en
 ref: smsl-dl200
+audiodb_uid: adb-135257e6939d
 date: 2025-08-12
 rating: [3.8, 0.6, 0.8, 1.0, 0.6, 0.8]
 price: 189.99

@@ -5,6 +5,7 @@ target_name: "FiiO FT1"
 company_id: fiio
 lang: en
 ref: fiio-ft1
+audiodb_uid: adb-38c71af96f60
 date: 2025-08-20
 rating: [3.5, 0.7, 0.6, 0.8, 0.8, 0.6]
 price: 149
@@ -12,7 +13,6 @@ summary: "Closed-back headphones with 60mm dynamic driver offering warm sound si
 tags: [Headphones, Closed-back, Dynamic, Over-ear, Studio]
 permalink: /products/en/fiio-ft1/
 ---
-
 ## Overview
 
 The FiiO FT1 is the company’s first closed-back over-ear headphone, pairing a 60 mm dynamic driver with solid wood ear cups (North American walnut or beech). List price at review time is 149 USD. FiiO specifies a nanowood-fiber composite diaphragm with a W-shaped suspension to increase effective radiating area and a low-impedance 32 Ω motor designed for easy drive. Accessories include both 3.5 mm and 4.4 mm cables plus a carrying case. [1][2]

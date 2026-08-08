@@ -5,6 +5,7 @@ target_name: "Sony INZONE H5"
 company_id: sony
 lang: en
 ref: sony-inzone-h5
+audiodb_uid: adb-9fcc1ff1df02
 date: 2025-08-29
 rating: [3.4, 0.5, 0.8, 0.7, 0.7, 0.7]
 price: 149
@@ -12,7 +13,6 @@ summary: "Mid-range wireless gaming headset featuring 360 Spatial Sound technolo
 tags: [Gaming, Headphones, Wireless, Sony, PlayStation]
 permalink: /products/en/sony-inzone-h5/
 ---
-
 ## Overview
 
 The Sony INZONE H5 is the mid-tier model in Sony’s gaming lineup (between H3 and H7/H9). Released in late 2023, it targets PC and PS5 with low-latency 2.4GHz wireless via a USB-A dongle and optional 3.5mm analog, while omitting Bluetooth. Sony quotes up to 28 hours of battery life; independent testing reports well over 30 hours. Windows-only INZONE Hub software enables EQ and 360 Spatial Sound for Gaming; on PS5 you rely on the console’s Tempest 3D. At ~260g, comfort is a priority. [1][2][3][4]

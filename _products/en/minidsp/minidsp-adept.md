@@ -5,6 +5,7 @@ target_name: "miniDSP ADept"
 company_id: minidsp
 lang: en
 ref: minidsp-adept
+audiodb_uid: adb-51bc624f297a
 date: 2025-09-08
 rating: [3.4, 0.7, 0.6, 1.0, 0.4, 0.7]
 price: 299
@@ -12,7 +13,6 @@ summary: "High-performance ADC with integrated phono preamp featuring ESS ES9842
 tags: [ADC, Phono Preamp, DSP, High Resolution Audio, Analog to Digital]
 permalink: /products/en/minidsp-adept/
 ---
-
 ## Overview
 
 The miniDSP ADept is a compact audiophile analog-to-digital converter that combines ADC functionality with a built-in phono preamplifier and DSP-based equalization. Based on the ESS ES9842 Pro conversion chip and XMOS interface, it supports up to 32-bit/192kHz conversion with multiple output formats including USB-C, S/PDIF, and TOSLINK. The device serves dual purposes as both a high-resolution line-level ADC and specialized phono preamp for MM/MC cartridges, featuring digital RIAA equalization alongside vintage curves like Decca and Columbia. This represents miniDSP's approach to democratizing high-end audio through measurement-focused, cost-effective products that integrate multiple functions in a single compact unit [1][2][3].

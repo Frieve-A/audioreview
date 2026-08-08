@@ -5,6 +5,7 @@ target_name: "miniDSP Flex"
 company_id: minidsp
 lang: ja
 ref: minidsp-flex
+audiodb_uid: adb-1ae9b4bf83a9
 date: 2025-09-06
 rating: [3.0, 0.8, 0.6, 0.4, 0.4, 0.8]
 price: 89070
@@ -12,7 +13,6 @@ summary: "世界最高クラスの測定性能を持つコンパクトな2x4 DSP
 tags: [デジタル信号プロセッサー, DSP, ルーム補正, オーディオプロセッサー, クロスオーバー]
 permalink: /products/ja/minidsp-flex/
 ---
-
 ## 概要
 
 miniDSP Flexは、32ビット浮動小数点400MHz Analog Devices SHARC DSPを搭載したコンパクトな2入力4出力デジタルオーディオプロセッサーです。miniDSPの第3世代プロセッサーとして、強力な浮動小数点処理能力を維持しながらI/Oアーキテクチャを再設計しました。RCAアンバランス、TRSバランス、デジタルI/Oバリアント等の複数構成で提供され、USB Audio、S/PDIF、光デジタル、Bluetooth（LDAC/aptX）入力を含む包括的な接続性を備えています。OLEDフロントパネルディスプレイ、ボリューム制御、IRリモート機能、オプションのDirac Liveルーム補正アップグレードを特徴とします。

@@ -5,6 +5,7 @@ target_name: "SMSL PO100-AK"
 company_id: smsl
 lang: en
 ref: smsl-po100-ak
+audiodb_uid: adb-008328d60c62
 date: 2025-09-06
 rating: [1.7, 0.3, 0.4, 0.2, 0.2, 0.6]
 price: 90
@@ -12,7 +13,6 @@ summary: "Budget USB DAC with excellent THD+N performance but severely compromis
 tags: [DAC, USB, Portable, AK4493S, XMOS]
 permalink: /products/en/smsl-po100-ak/
 ---
-
 ## Overview
 
 The SMSL PO100-AK is a compact USB Digital Interface DAC launched in 2022 at 89.99 USD, featuring the AK4493S DAC chip and XMOS XU316 USB interface. This portable unit supports high-resolution PCM up to 32bit/768kHz, native DSD and DoP decoding, plus MQA support, targeting budget-conscious users seeking digital conversion capabilities. While SMSL has established itself as a measurement-focused manufacturer in the Chinese audio market, the PO100-AK represents both the potential and pitfalls of aggressive price optimization in DAC design.

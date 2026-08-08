@@ -5,6 +5,7 @@ target_name: "TRN White Tiger"
 company_id: trn
 lang: en
 ref: trn-white-tiger
+audiodb_uid: adb-9e07bc90ddcb
 date: 2025-11-24
 rating: [3.3, 0.4, 0.7, 1.0, 0.2, 1.0]
 price: 56

@@ -5,6 +5,7 @@ target_name: "TRN Shell"
 company_id: trn
 lang: en
 ref: trn-shell
+audiodb_uid: adb-77fec4740824
 date: 2025-07-25
 rating: [2.7, 0.4, 0.6, 0.3, 0.7, 0.7]
 price: 60

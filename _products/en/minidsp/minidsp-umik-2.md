@@ -5,6 +5,7 @@ target_name: "MiniDSP UMIK-2"
 company_id: minidsp
 lang: en
 ref: minidsp-umik-2
+audiodb_uid: adb-d7f21b846069
 date: 2025-07-18
 rating: [3.3, 0.6, 0.7, 1.0, 0.5, 0.5]
 price: 195
@@ -12,7 +13,6 @@ summary: "USB measurement microphone featuring large capsule for low noise desig
 tags: [Measurement Microphone, USB, Calibration, Acoustic Measurement]
 permalink: /products/en/minidsp-umik-2/
 ---
-
 ## Overview
 
 The MiniDSP UMIK-2 is a measurement microphone that has been significantly improved from the previous generation UMIK-1. It features a 1/2-inch (12.7mm) large capsule and 32-bit ADC, supporting sampling rates up to 192kHz and providing individual calibration files, designed to enhance measurement accuracy. With USB-C connectivity and compatibility with REW and Dirac Live, it has gained recognition in the acoustic measurement field.

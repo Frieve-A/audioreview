@@ -5,6 +5,7 @@ target_name: "TAGO STUDIO TAKASAKI T3-01"
 company_id: tago-studio-takasaki
 lang: ja
 ref: tago-studio-takasaki-t3-01
+audiodb_uid: adb-db0d78baa4b9
 date: 2025-08-13
 rating: [2.3, 0.5, 0.6, 0.3, 0.5, 0.4]
 price: 69300

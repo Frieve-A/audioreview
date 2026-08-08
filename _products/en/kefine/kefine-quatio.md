@@ -5,6 +5,7 @@ target_name: "Kefine Quatio"
 company_id: kefine
 lang: en
 ref: kefine-quatio
+audiodb_uid: adb-046c7d1ee121
 date: 2025-09-18
 rating: [2.3, 0.5, 0.6, 0.2, 0.4, 0.6]
 price: 130

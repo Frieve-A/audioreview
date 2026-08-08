@@ -5,6 +5,7 @@ target_name: "Elgato Wave XLR"
 company_id: elgato
 lang: ja
 ref: elgato-wave-xlr
+audiodb_uid: adb-3e8e317ce226
 date: 2025-12-02
 rating: [3.5, 0.5, 0.6, 1.0, 0.7, 0.7]
 price: 25000
@@ -12,7 +13,6 @@ summary: "独自のClipguardアンチディストーション技術と75dBゲイ
 tags: [オーディオインターフェース, USB, マイクプリアンプ, ストリーミング機器, USB-C]
 permalink: /products/ja/elgato-wave-xlr/
 ---
-
 ## 概要
 
 Elgato Wave XLRは、コンテンツクリエイター、ストリーマー、ポッドキャスター向けに特化して設計されたコンパクトなUSB-Cオーディオインターフェースです。ストリーミング機器で知られるCorsairの一部門であるElgatoから発売され、独自のClipguardアンチディストーション技術を搭載し、Wave Linkミキシングソフトウェアエコシステムと直接連携します。最大75dBのゲインを提供し、Shure SM7Bのような要求の厳しいダイナミックマイクロフォンを追加のゲインブースターなしで駆動できます。単一のXLR入力、USB-C接続、多機能コントロールダイヤルを備え、合理的で使いやすいパッケージでプロフェッショナルなオーディオ品質を求めるユーザーをターゲットにしています。

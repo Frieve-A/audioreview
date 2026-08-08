@@ -5,6 +5,7 @@ target_name: "Neumann KH 80 DSP A G"
 company_id: neumann
 lang: ja
 ref: neumann-kh-80-dsp-a-g
+audiodb_uid: adb-b52d7123dad7
 date: 2025-07-28
 rating: [4.1, 0.8, 0.9, 0.7, 0.8, 0.9]
 price: 82350
@@ -12,7 +13,6 @@ summary: "DSP制御により高精度な音響特性を実現した4インチニ
 tags: [スタジオモニター, DSP, ニアフィールド, ドイツ製, プロオーディオ]
 permalink: /products/ja/neumann-kh-80-dsp-a-g/
 ---
-
 ## 概要
 
 Neumann KH 80 DSP A Gは、著名なマイクロフォンメーカーであるNeumannが製造する4インチ2ウェイアクティブニアフィールドモニターです。120Wと70WのクラスDアンプによるバイアンプ駆動に加え、DSP制御による精密な音響補正機能を搭載しています。57Hz-21kHz（±3dB）の周波数特性と108.8dB SPLの最大出力により、コンパクトながら本格的なスタジオモニタリングを実現します。ネットワーク接続によるiPadアプリ制御で、8バンドパラメトリックEQによる部屋の音響補正が可能です。

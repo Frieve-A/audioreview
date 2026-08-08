@@ -5,6 +5,7 @@ target_name: "Grace Design m900"
 company_id: grace-design
 lang: ja
 ref: grace-design-m900
+audiodb_uid: adb-48e155ade4ca
 date: 2026-05-21
 rating: [3.2, 0.8, 0.5, 0.4, 0.8, 0.7]
 price: 109000

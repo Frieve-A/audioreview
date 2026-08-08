@@ -5,6 +5,7 @@ target_name: "Bowers & Wilkins Matrix 801 Series 3"
 company_id: bowers-wilkins
 lang: en
 ref: bowers-wilkins-matrix-801-series-3
+audiodb_uid: adb-c37029ce87c9
 date: 2025-08-20
 rating: [2.9, 0.6, 0.7, 0.6, 0.5, 0.5]
 price: 1800

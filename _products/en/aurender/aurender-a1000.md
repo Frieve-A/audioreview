@@ -5,6 +5,7 @@ target_name: "Aurender A1000"
 company_id: aurender
 lang: en
 ref: aurender-a1000
+audiodb_uid: adb-98ec8d093760
 date: 2025-08-21
 rating: [2.4, 0.5, 0.7, 0.1, 0.7, 0.4]
 price: 3850

@@ -5,6 +5,7 @@ target_name: "HiFiMAN Susvara"
 company_id: hifiman
 lang: ja
 ref: hifiman-susvara
+audiodb_uid: adb-be7c693ca261
 date: 2025-08-24
 rating: [1.9, 0.4, 0.6, 0.0, 0.7, 0.2]
 price: 900000
@@ -12,7 +13,6 @@ summary: "極低感度かつ多数の共振が測定で確認された平面磁�
 tags: [ヘッドホン, 平面磁界, オープンバック, 高インピーダンス, フラッグシップ]
 permalink: /products/ja/hifiman-susvara/
 ---
-
 ## 概要
 
 HiFiMAN Susvaraは6,000 USD（約900,000円）の元フラッグシップ平面磁界ヘッドホンで、現在はSusvara Unveiledが上位機種です。オープンバック構造にステルスマグネットとナノメートル厚ダイアフラムを採用。デュアル3.5 mm着脱式で1/4"・4ピンXLRに対応します。質量約450 g、インピーダンス60 Ωに加え感度が極めて低く、実用音量には高出力アンプが必要です。

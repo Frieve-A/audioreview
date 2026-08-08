@@ -5,6 +5,7 @@ target_name: "Accuphase E-305"
 company_id: accuphase
 lang: en
 ref: accuphase-e-305
+audiodb_uid: adb-758bfc50d960
 date: 2025-08-21
 rating: [2.5, 0.7, 0.4, 0.5, 0.5, 0.4]
 price: 2300
@@ -12,7 +13,6 @@ summary: "Vintage 1987 integrated amplifier delivering 130W with built-in MM/MC 
 tags: [Accuphase, Class AB, Vintage, Integrated amplifier, Japan]
 permalink: /products/en/accuphase-e-305/
 ---
-
 ## Overview
 
 The Accuphase E-305 is a vintage integrated amplifier released in December 1987 for ¥270,000. It delivers 130W×2 (8Ω) via a 3-parallel push-pull output stage with six output devices, includes MM/MC phono input and tone controls, and is available only on the used market today.

@@ -5,6 +5,7 @@ target_name: "Sennheiser IE 200"
 company_id: sennheiser
 lang: en
 ref: sennheiser-ie-200
+audiodb_uid: adb-03d3612ccda4
 date: 2025-09-04
 rating: [3.2, 0.6, 0.6, 0.5, 0.7, 0.8]
 price: 150

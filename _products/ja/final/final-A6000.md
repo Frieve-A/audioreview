@@ -5,6 +5,7 @@ target_name: "final A6000"
 company_id: final
 lang: ja
 ref: final-a6000
+audiodb_uid: adb-2f4ab8f22a48
 date: 2025-07-26
 rating: [2.9, 0.7, 0.8, 0.3, 0.6, 0.5]
 price: 54442

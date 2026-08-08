@@ -5,6 +5,7 @@ target_name: "Denafrips Ares II"
 company_id: denafrips
 lang: en
 ref: denafrips-ares-ii
+audiodb_uid: adb-4bd9942e6e9b
 date: 2025-08-10
 rating: [2.2, 0.4, 0.6, 0.2, 0.7, 0.3]
 price: 700

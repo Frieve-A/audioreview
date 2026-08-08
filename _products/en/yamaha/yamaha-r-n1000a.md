@@ -5,6 +5,7 @@ target_name: "Yamaha R-N1000A"
 company_id: yamaha
 lang: en
 ref: yamaha-r-n1000a
+audiodb_uid: adb-519f66578fd9
 date: 2025-09-18
 rating: [4.3, 0.8, 0.8, 1.0, 0.7, 1.0]
 price: 1800

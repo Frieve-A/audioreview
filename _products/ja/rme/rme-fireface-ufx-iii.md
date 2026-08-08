@@ -5,6 +5,7 @@ target_name: "RME Fireface UFX III"
 company_id: rme
 lang: ja
 ref: rme-fireface-ufx-iii
+audiodb_uid: adb-563ff7e90365
 date: 2025-08-14
 rating: [4.4, 0.9, 0.8, 1.0, 0.8, 0.9]
 price: 517000
@@ -12,7 +13,6 @@ summary: "マスタリンググレードの測定性能、MADI/ADAT/アナログ
 tags: [オーディオインターフェース, USB 3.0, MADI, プロレコーディング, コンバータ, RME]
 permalink: /products/ja/rme-fireface-ufx-iii/
 ---
-
 ## 概要
 
 RME Fireface UFX IIIは、UFX+のI/Oアーキテクチャを継承しつつAD/DAとアナログ部を刷新した現行フラッグシップです。MADI 64ch・ADAT・AES・アナログを合計した94入力/94出力（計188ch）、4基の高性能マイクプリ、TotalMix FX、DURec（スタンドアロンUSB録音）を搭載し、プロスタジオやマスタリング、放送設備に適した拡張性と堅牢性を提供します。[1]

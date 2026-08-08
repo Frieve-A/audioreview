@@ -5,6 +5,7 @@ target_name: "Grado SR-80x"
 company_id: grado
 lang: en
 ref: grado-sr-80x
+audiodb_uid: adb-b234d02e752f
 date: 2025-08-04
 rating: [3.1, 0.4, 0.6, 0.6, 0.8, 0.7]
 price: 125

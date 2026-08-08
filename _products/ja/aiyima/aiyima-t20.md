@@ -5,6 +5,7 @@ target_name: "AIYIMA AIYIMA T20"
 company_id: aiyima
 lang: ja
 ref: aiyima-t20
+audiodb_uid: adb-bdc09be879cf
 date: 2026-01-23
 rating: [3.3, 0.7, 0.3, 1.0, 0.7, 0.6]
 price: 27000
@@ -12,7 +13,6 @@ summary: "ECC83管を180V動作で採用した完全バランス管プリアン�
 tags: [プリアンプ, 管, バランス, XLR, RCA]
 permalink: /products/ja/aiyima-t20/
 ---
-
 ## 概要
 
 AIYIMA T20は、180Vで動作する2本のECC83（12AX7）管とTI LME49720およびOPA1612オペアンプを組み合わせた完全バランス管プリアンプです。AIYIMAの10周年記念ラインアップの一部として発売され、バランスXLRおよびアンバランスRCA入出力、デジタル音量制御、リモコン機能を提供します[1]。

@@ -5,6 +5,7 @@ target_name: "Topping D50III"
 company_id: topping
 lang: ja
 ref: topping-d50iii
+audiodb_uid: adb-cfb664a722bf
 date: 2025-07-08
 rating: [4.0, 0.9, 0.8, 0.6, 0.9, 0.8]
 price: 34350
@@ -12,7 +13,6 @@ summary: "デュアルES9039Q2M搭載のデスクトップDAC。測定性能は�
 tags: [Bluetooth, ES9039Q2M, PEQ, デスクトップDAC, プリアンプ機能]
 permalink: /products/ja/topping-d50iii/
 ---
-
 ## 概要
 
 Topping D50IIIは、デュアルES9039Q2M DACチップを搭載したデスクトップDAC兼プリアンプです。PCM 768kHz/32bit、DSD512に対応し、Bluetooth 5.1（LDAC対応）、10バンドパラメトリックEQ、プリアンプモード、リモート制御など多彩な機能を備えています。132dBのSNR、THD+N 0.00006%という測定値を誇り、229米ドルの価格でデスクトップオーディオ市場に投入されています。

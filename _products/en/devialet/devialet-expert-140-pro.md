@@ -5,6 +5,7 @@ target_name: "Devialet Expert 140 Pro"
 company_id: devialet
 lang: en
 ref: devialet-expert-140-pro
+audiodb_uid: adb-a66a2696faa7
 date: 2025-09-02
 rating: [2.9, 0.6, 0.8, 0.4, 0.6, 0.5]
 price: 6490

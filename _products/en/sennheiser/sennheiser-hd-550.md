@@ -5,6 +5,7 @@ target_name: "Sennheiser HD 550"
 company_id: sennheiser
 lang: en
 ref: sennheiser-hd-550
+audiodb_uid: adb-109afb75f9e3
 date: 2025-09-21
 rating: [3.4, 0.5, 0.6, 1.0, 0.6, 0.7]
 price: 299.95
@@ -12,7 +13,6 @@ summary: "Open-back headphones featuring custom 38mm transducers, modular design
 tags: [Headphones, Open-back, Sennheiser, Modular, Hi-Fi]
 permalink: /products/en/sennheiser-hd-550/
 ---
-
 ## Overview
 
 The Sennheiser HD 550 represents the latest addition to Sennheiser's acclaimed 500 series, featuring custom 38mm transducers with final assembly at the company's audiophile production facility in Tullamore, Ireland. Positioned as an entry-level option within the series, the HD 550 emphasizes comfort through reduced clamping force and ultra-lightweight construction at 237 grams. The headphones feature a fully open-back design with modular cable and earpad systems, targeting users seeking detailed audio reproduction with extended listening comfort. Key specifications include 150Ω impedance, frequency response from 6 Hz to 39.5 kHz, and THD specified below 0.2%.

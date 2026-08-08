@@ -5,6 +5,7 @@ target_name: "Tanchjim Zero"
 company_id: tanchjim
 lang: ja
 ref: tanchjim-zero
+audiodb_uid: adb-1f64595fa33d
 date: 2025-07-25
 rating: [3.6, 0.6, 0.7, 1.0, 0.6, 0.7]
 price: 2250

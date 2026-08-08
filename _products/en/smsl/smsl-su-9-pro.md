@@ -5,6 +5,7 @@ target_name: "SMSL SU-9 Pro"
 company_id: smsl
 lang: en
 ref: smsl-su-9-pro
+audiodb_uid: adb-27b32ad85182
 date: 2025-08-18
 rating: [3.9, 0.9, 0.8, 0.9, 0.4, 0.9]
 price: 499
@@ -12,7 +13,6 @@ summary: "ES9039MS Pro–based DAC delivering instrument-grade measurements with
 tags: [DAC, Desktop, ES9039MS Pro, MQA, Bluetooth, LDAC]
 permalink: /products/en/smsl-su-9-pro/
 ---
-
 ## Overview
 
 The SMSL SU-9 Pro is a compact balanced desktop DAC built around ESS’s ES9039MS Pro D/A converter. It adds third-generation XMOS XU-316 USB processing, up to eleven OPA1612A op-amps in the analog stage, and full high-res support (PCM up to 768kHz/32-bit, DSD512). Notably, **both USB and S/PDIF inputs support MQA and MQA-CD decoding**, and Bluetooth 5.0 includes LDAC/aptX HD. [1]

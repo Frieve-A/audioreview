@@ -5,6 +5,7 @@ target_name: "Nothing Ear"
 company_id: nothing
 lang: ja
 ref: nothing-nothing-ear
+audiodb_uid: adb-a99d41058a6d
 date: 2025-08-04
 rating: [3.4, 0.6, 0.7, 1.0, 0.5, 0.6]
 price: 22350
@@ -12,7 +13,6 @@ summary: "Nothing Earは最大45dBの優秀なANC性能、高度なパラメト�
 tags: [完全ワイヤレスイヤホン, Nothing, アクティブノイズキャンセリング]
 permalink: /products/ja/nothing-nothing-ear/
 ---
-
 ## 概要
 
 Nothing Earは、OnePlusの共同設立者であるCarl Peiが立ち上げたNothing社の第4世代完全ワイヤレスイヤホンです。透明なデザインケースと11mmセラミックダイアフラムドライバーを特徴とし、LDACやLHDCなどの高品質コーデック対応、アクティブノイズキャンセリング機能を搭載しています。Nothing Xアプリを通じた独自のパーソナルサウンドプロファイル機能や、詳細な調整が可能なアドバンスドイコライザー（パラメトリックEQ）などのソフトウェア機能も注目点です。

@@ -5,6 +5,7 @@ target_name: "Denon PMA-S1"
 company_id: denon
 lang: ja
 ref: denon-pma-s1
+audiodb_uid: adb-a1b9b48a7ab6
 date: 2025-08-08
 rating: [2.8, 0.7, 0.6, 0.5, 0.5, 0.5]
 price: 180000

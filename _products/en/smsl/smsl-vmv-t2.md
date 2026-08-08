@@ -5,6 +5,7 @@ target_name: "SMSL VMV T2"
 company_id: smsl
 lang: en
 ref: smsl-vmv-t2
+audiodb_uid: adb-6eaa6a439d1d
 date: 2025-08-28
 rating: [2.7, 0.5, 0.6, 0.8, 0.5, 0.3]
 price: 1068
@@ -12,7 +13,6 @@ summary: "Multi-function CD transport/USB–DDC with MQA-CD, dual AES/EBU, I2S, 
 tags: [CD Transport, Digital Interface, MQA, Bluetooth, Clock Sync, SMSL, VMV]
 permalink: /products/en/smsl-vmv-t2/
 ---
-
 ## Overview
 
 The SMSL VMV T2 is a disc-centric digital hub that combines a CD transport with a full digital interface (USB in, dual AES/EBU out, I2S, coaxial/optical) and LDAC Bluetooth. It implements the P.A.S.S. (Precision Access Servo System), supports MQA-CD, offers word-clock I/O (44.1 kHz) and 10 MHz external clock input, and runs high-rate USB up to 32-bit/768 kHz and DSD512 [1][2]. U.S. street pricing centers on 1,068 USD at SMSL’s official shop [3].

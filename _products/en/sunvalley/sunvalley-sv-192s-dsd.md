@@ -5,6 +5,7 @@ target_name: "Sun Valley SV-192S-DSD"
 company_id: sunvalley
 lang: en
 ref: sunvalley-sv-192s-dsd
+audiodb_uid: adb-aa89e68d7b9c
 date: 2025-08-13
 rating: [1.7, 0.4, 0.3, 0.1, 0.5, 0.4]
 price: 1550
@@ -12,7 +13,6 @@ summary: "2008-era Japanese DAC featuring Burr-Brown DSD1796 chip with vacuum tu
 tags: [DAC, Digital-to-Analog Converter, Vacuum Tube, High-Resolution Audio, Upsampling]
 permalink: /products/en/sunvalley-sv-192s-dsd/
 ---
-
 ## Overview
 
 The Sun Valley SV-192S-DSD is a Japanese-manufactured digital-to-analog converter released in 2008, featuring the Burr-Brown DSD1796 DAC chip with a vacuum tube buffer stage using dual 12AU7/ECC82 tubes. Marketed as a high-resolution audio converter capable of handling up to 24-bit/192kHz signals, it includes both DAC and digital-to-digital upsampling functionality. The unit represents early attempts at ultra-high-resolution digital audio processing, targeting audiophile markets with its hybrid tube-semiconductor design philosophy.

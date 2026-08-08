@@ -5,6 +5,7 @@ target_name: "FiiO SNOWSKY RETRO NANO"
 company_id: fiio
 lang: en
 ref: fiio-snowsky-retro-nano
+audiodb_uid: adb-acb8fcfcddd7
 date: 2025-07-29
 rating: [3.7, 0.8, 0.6, 1.0, 0.5, 0.8]
 price: 67

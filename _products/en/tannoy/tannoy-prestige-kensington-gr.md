@@ -5,6 +5,7 @@ target_name: "Tannoy Prestige Kensington GR"
 company_id: tannoy
 lang: en
 ref: tannoy-prestige-kensington-gr
+audiodb_uid: adb-0daa5dcfa16b
 date: 2026-06-01
 rating: [2.2, 0.5, 0.4, 0.3, 0.9, 0.1]
 price: 19790

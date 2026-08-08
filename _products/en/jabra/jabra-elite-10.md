@@ -5,6 +5,7 @@ target_name: "Jabra Elite 10"
 company_id: jabra
 lang: en
 ref: jabra-elite-10
+audiodb_uid: adb-6baa6e203aee
 date: 2025-07-09
 rating: [2.9, 0.6, 0.7, 0.4, 0.6, 0.6]
 price: 190

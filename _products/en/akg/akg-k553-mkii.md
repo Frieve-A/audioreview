@@ -5,6 +5,7 @@ target_name: "AKG K553 MKII"
 company_id: akg
 lang: en
 ref: akg-k553-mkii
+audiodb_uid: adb-68aa55576050
 date: 2025-09-12
 rating: [2.4, 0.5, 0.4, 0.5, 0.3, 0.7]
 price: 210

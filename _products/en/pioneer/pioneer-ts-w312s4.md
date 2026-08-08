@@ -5,6 +5,7 @@ target_name: "Pioneer TS-W312S4"
 company_id: pioneer
 lang: en
 ref: pioneer-ts-w312s4
+audiodb_uid: adb-59669a26a31d
 date: 2025-09-09
 rating: [3.1, 0.5, 0.5, 1.0, 0.6, 0.5]
 price: 79.50
@@ -12,7 +13,6 @@ summary: "Mid-range car subwoofer with decent construction and optimal cost-perf
 tags: [Car Audio, Subwoofer, Champion Series, 12-inch, Single Voice Coil]
 permalink: /products/en/pioneer-ts-w312s4/
 ---
-
 ## Overview
 
 The Pioneer TS-W312S4 is a 12-inch single voice coil car subwoofer from Pioneer's Champion Series. Featuring 500W RMS power handling, IMPP composite cone construction with honeycomb design, and a 90oz double stacked magnet, this subwoofer targets the mid-range car audio market. The TS-W312S4 incorporates Pioneer's traditional engineering approach with dual-layer hybrid surround and steel basket construction, positioning itself as a mainstream option for automotive bass reinforcement applications.

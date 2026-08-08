@@ -5,6 +5,7 @@ target_name: "Pioneer Exclusive M-5"
 company_id: pioneer
 lang: ja
 ref: pioneer-exclusive-m-5
+audiodb_uid: adb-53c2d61cbe43
 date: 2025-08-20
 rating: [1.8, 0.5, 0.4, 0.4, 0.2, 0.3]
 price: 277500

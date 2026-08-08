@@ -5,6 +5,7 @@ target_name: "KOJO Technology Crystal E-G"
 company_id: kojo-technology
 lang: ja
 ref: kojo-technology-crystal-e-g
+audiodb_uid: adb-207d504740a3
 date: 2025-11-21
 rating: [1.1, 0.0, 0.3, 0.4, 0.4, 0.0]
 price: 104772
@@ -12,7 +13,6 @@ summary: "科学的根拠の乏しい音質改善を謳う高価格グランド�
 tags: [グランドボックス, オーディオアクセサリー, KOJO Technology, バーチャルアース, グラウンディング, パッシブデバイス]
 permalink: /products/ja/kojo-technology-crystal-e-g/
 ---
-
 ## 概要
 
 KOJO Technology Crystal E-Gは、8層の異種金属構造により音質向上を謳うパッシブグラウンディングデバイスです。プレミアム「バーチャルアース」ソリューションとして位置づけられ、重量約830g、サイズ80×35×111mmを測ります。1990年設立のKOJO Technologyは、半導体製造からオーディオアクセサリーへと事業転換しました。Crystal E-Gは同社のフラッグシップグラウンディング製品で、0.5mm間隔のエアギャップで分離されたステンレス鋼、真鍮、銅プレートを特徴とします。同社は、この構成により従来のCrystal Eモデルの68倍のグラウンディング表面積を提供すると主張していますが、この仕様には独立した検証がありません。

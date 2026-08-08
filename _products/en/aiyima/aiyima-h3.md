@@ -5,6 +5,7 @@ target_name: "AIYIMA H3"
 company_id: aiyima
 lang: en
 ref: aiyima-h3
+audiodb_uid: adb-0b5eaf2889f8
 date: 2025-10-26
 rating: [3.2, 0.5, 0.5, 1.0, 0.4, 0.8]
 price: 30
@@ -12,7 +13,6 @@ summary: "Limited-availability USB DAC dongle featuring ES9039Q2M chip with cost
 tags: [USB-DAC, Headphone-Amplifier, Dongle, Portable, Budget]
 permalink: /products/en/aiyima-h3/
 ---
-
 ## Overview
 
 The AIYIMA H3 is a compact USB DAC dongle headphone amplifier featuring the ES9039Q2M DAC chip and CT7601 CR USB receiver. Measuring 53mm×20mm×12.5mm and weighing 15.5g, this portable device offers both 3.5mm single-ended and 4.4mm balanced outputs with independent volume control and memory function. Supporting PCM up to 32bit/768kHz and DSD512, the H3 targeted budget-conscious users seeking high-resolution audio capability in an ultra-portable form factor. However, availability appears limited with the product not listed on AIYIMA's official website and reports of promotional clearance pricing affecting long-term procurement viability.

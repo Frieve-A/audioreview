@@ -5,6 +5,7 @@ target_name: "Creative Sound Blaster AE-9"
 company_id: creative
 lang: ja
 ref: creative-sound-blaster-ae-9
+audiodb_uid: adb-680097db15dc
 date: 2025-08-09
 rating: [3.1, 0.6, 0.8, 0.4, 0.5, 0.8]
 price: 44000
@@ -12,7 +13,6 @@ summary: "ESS SABRE 9038系DAC搭載のPCIe内蔵サウンドカード。仕様�
 tags: [サウンドカード, DAC, ヘッドホンアンプ, PCIe, Creative, ESS Sabre, ゲーミング]
 permalink: /products/ja/creative-sound-blaster-ae-9/
 ---
-
 ## 概要
 
 Creative Sound Blaster AE-9は、同社フラッグシップのPCIe接続型内蔵サウンドカードです。ESS Sabre 9038 DACを搭載し、32bit/384kHzのハイレゾ再生に対応します。離散型Xampヘッドホンアンプ、ファンタム電源対応XLRマイク入力を装備し、ゲーミングとオーディオファイル両方の需要に対応する設計となっています。

@@ -5,6 +5,7 @@ target_name: "SIMGOT EA500"
 company_id: simgot
 lang: en
 ref: simgot-ea500
+audiodb_uid: adb-9e53f8b6fca0
 date: 2025-07-07
 rating: [2.7, 0.7, 0.6, 0.4, 0.6, 0.4]
 price: 79
@@ -12,7 +13,6 @@ summary: "Single-driver IEM featuring 10mm DLC dynamic driver at 79USD price poi
 tags: [79USD, China, DLC, "Dynamic driver", "In-ear monitors"]
 permalink: /products/en/simgot-ea500/
 ---
-
 ## Overview
 
 The SIMGOT EA500 is a single-driver IEM featuring a 4th generation 10mm DLC (Diamond-Like Carbon) dual-magnetic circuit and dual-cavity driver. Priced at 79USD, it employs a dual-magnetic circuit system with N52 grade magnets to achieve powerful magnetic flux and low distortion. The CNC-machined mirror-finished aluminum shell includes red and black interchangeable nozzles enabling selection between Harman 2016 curve tuning and SIMGOT's proprietary tuning characteristics. With 16Ω impedance and 123dB sensitivity in high-efficiency design, it drives easily from portable devices and features a detachable 0.78mm 2-pin cable system.

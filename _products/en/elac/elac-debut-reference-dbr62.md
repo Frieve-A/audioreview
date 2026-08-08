@@ -5,6 +5,7 @@ target_name: "ELAC Debut Reference DBR62"
 company_id: elac
 lang: en
 ref: elac-debut-reference-dbr62
+audiodb_uid: adb-d4c9de433d0e
 date: 2025-08-04
 rating: [3.8, 0.8, 0.7, 0.7, 0.8, 0.8]
 price: 480

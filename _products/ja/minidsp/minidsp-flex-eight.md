@@ -5,6 +5,7 @@ target_name: "miniDSP Flex Eight"
 company_id: minidsp
 lang: ja
 ref: minidsp-flex-eight
+audiodb_uid: adb-287a670be564
 date: 2025-09-06
 rating: [3.6, 0.8, 0.7, 1.0, 0.3, 0.8]
 price: 84000
@@ -12,7 +13,6 @@ summary: "優れた測定性能を持つ8チャンネルDSP。8出力かつ同�
 tags: [DSP, オーディオプロセッサー, クロスオーバー, マルチチャンネル, デジタルオーディオ]
 permalink: /products/ja/minidsp-flex-eight/
 ---
-
 ## 概要
 
 miniDSP Flex Eightは**2022年8月11日に発表**されたコンパクトなステレオ入力・8チャンネル出力のハイレゾオーディオプロセッサーです。32ビット浮動小数点400MHz Analog Devices SHARC DSPとマルチコアXMOS USBオーディオ処理を搭載し、アクティブスピーカーシステムとマルチサブウーファー構成を対象としています。柔軟な2x8信号ルーティング、パラメトリックEQとクロスオーバーを含む包括的なDSP機能、USB・S/PDIF・Bluetoothなど複数のデジタル入力を高品質コーデックで提供します。

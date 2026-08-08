@@ -5,6 +5,7 @@ target_name: "Edirol MA-10A"
 company_id: edirol
 lang: en
 ref: edirol-ma-10a
+audiodb_uid: adb-eaef4c3db50a
 date: 2025-09-22
 rating: [2.6, 0.5, 0.4, 1.0, 0.3, 0.4]
 price: 80
@@ -12,7 +13,6 @@ summary: "Discontinued desktop monitor with basic analog design, limited by abse
 tags: [Desktop speaker, Active monitor, Discontinued, Edirol, Roland]
 permalink: /products/en/edirol-ma-10a/
 ---
-
 ## Overview
 
 The Edirol MA-10A Amplified Digital Micro-Monitor represents a basic approach to desktop studio monitoring from the era when magnetic shielding for CRT compatibility was still relevant. This 2-way bass reflex design delivers 20W total power (10W per channel according to official specifications) through a 9.2cm woofer and 5cm tweeter configuration. While marketed as professional monitoring equipment, the MA-10A employs conventional analog amplification without advanced features. The product has been discontinued, remaining available only through used markets at approximately 80 USD for a pair.

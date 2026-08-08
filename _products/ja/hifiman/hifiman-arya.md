@@ -5,6 +5,7 @@ target_name: "HiFiMan Arya"
 company_id: hifiman
 lang: ja
 ref: hifiman-arya
+audiodb_uid: adb-0663608ee3f8
 date: 2025-09-13
 rating: [2.3, 0.7, 0.4, 0.4, 0.3, 0.5]
 price: 99000
@@ -12,7 +13,6 @@ summary: "ステルスマグネット技術とナノメートル振動板を搭�
 tags: [ヘッドホン, 平面磁界型, オープンバック, HiFiMan, オーディオファイル]
 permalink: /products/ja/hifiman-arya/
 ---
-
 ## 概要
 
 HiFiMan Arya Stealth Magnet Versionは、独自のステルスマグネット技術とナノメートル厚振動板を搭載したHiFiManのミッドレンジ平面磁界型ヘッドホンの第3世代です。元の発売価格は1,599ドルでしたが、現在の599ドル（日本価格約99,000円）へと大幅な価格削減を行い市場競争力を獲得しています。オーディオファイルとスタジオプロフェッショナルを対象とし、HiFiMan特有のサウンド特性を持つオープンバック平面磁界型再生を提供します。

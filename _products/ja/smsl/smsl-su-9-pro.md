@@ -5,6 +5,7 @@ target_name: "SMSL SU-9 Pro"
 company_id: smsl
 lang: ja
 ref: smsl-su-9-pro
+audiodb_uid: adb-27b32ad85182
 date: 2025-08-18
 rating: [3.9, 0.9, 0.8, 0.9, 0.4, 0.9]
 price: 75000
@@ -12,7 +13,6 @@ summary: "ES9039MS Proを採用し、計測器級の性能と包括的なフォ�
 tags: [DAC, デスクトップ, ES9039MS Pro, MQA, Bluetooth, LDAC]
 permalink: /products/ja/smsl-su-9-pro/
 ---
-
 ## 概要
 
 SMSL SU-9 ProはESS **ES9039MS Pro** DACを中核とするバランス出力対応のデスクトップDACです。第3世代XMOS XU-316 USB処理、最大11個のOPA1612A、PCM 768kHz/32ビットおよびDSD512に対応。**USBとS/PDIFの両方でMQA/MQA-CDをサポート**し、Bluetooth 5.0（LDAC/aptX HD）やリモコン操作にも対応します。 [1]

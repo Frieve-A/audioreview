@@ -5,6 +5,7 @@ target_name: "Audeze MM-500"
 company_id: audeze
 lang: en
 ref: audeze-mm-500
+audiodb_uid: adb-6ed53fd4f60e
 date: 2025-10-26
 rating: [3.3, 0.4, 1.0, 0.2, 1.0, 0.7]
 price: 1699

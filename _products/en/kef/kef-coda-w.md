@@ -5,6 +5,7 @@ target_name: "KEF Coda W"
 company_id: kef
 lang: en
 ref: kef-coda-w
+audiodb_uid: adb-788606c58804
 date: 2025-12-11
 rating: [4.0, 0.5, 1.0, 0.8, 0.7, 1.0]
 price: 999

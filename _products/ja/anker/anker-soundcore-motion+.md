@@ -5,6 +5,7 @@ target_name: "Anker Soundcore Motion+"
 company_id: anker
 lang: ja
 ref: anker-soundcore-motion+
+audiodb_uid: adb-8cac857921f4
 date: 2025-09-20
 rating: [3.2, 0.3, 0.6, 1.0, 0.7, 0.6]
 price: 14000
@@ -12,7 +13,6 @@ summary: "30W出力、ハイレゾ音源対応、充実した機能を備えた�
 tags: [スピーカー, ポータブル, Bluetooth, ハイレゾ, 防水, DSP]
 permalink: /products/ja/anker-soundcore-motion+/
 ---
-
 ## 概要
 
 Anker Soundcore Motion+は、ハイレゾ音源再生性能と包括的な接続機能を提供する携帯型Bluetoothスピーカーです。40kHzまで対応するデュアル超高域ツイーターと、ネオジム磁石採用ウーファー、パッシブラジエーターを搭載し、総出力30Wを実現しています。Qualcomm aptXコーデック対応、先進DSP処理、リアルタイム低音強化技術BassUpを内蔵。IPX7防水対応、12時間連続再生により、手頃な価格でプレミアム機能を求めるユーザーを対象とした携帯音響ソリューションです。

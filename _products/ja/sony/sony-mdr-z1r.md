@@ -5,6 +5,7 @@ target_name: "Sony MDR-Z1R"
 company_id: sony
 lang: ja
 ref: sony-mdr-z1r
+audiodb_uid: adb-3743967a49a4
 date: 2025-10-01
 rating: [1.5, 0.2, 0.6, 0.1, 0.4, 0.2]
 price: 232499

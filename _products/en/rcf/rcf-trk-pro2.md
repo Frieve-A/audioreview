@@ -5,6 +5,7 @@ target_name: "RCF TRK PRO2"
 company_id: rcf
 lang: en
 ref: rcf-trk-pro2
+audiodb_uid: adb-3903a9059319
 date: 2025-12-30
 rating: [4.1, 0.7, 0.7, 1.0, 0.9, 0.8]
 price: 249

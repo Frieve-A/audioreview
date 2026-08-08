@@ -5,6 +5,7 @@ target_name: "SMSL M300SE"
 company_id: smsl
 lang: ja
 ref: smsl-m300se
+audiodb_uid: adb-a72a342590b2
 date: 2025-08-08
 rating: [3.7, 0.8, 0.7, 1.0, 0.5, 0.7]
 price: 33800
@@ -12,7 +13,6 @@ summary: "SMSL M300SEはデュアルCS43131 DACチップ、バランス出力、
 tags: [DAC, ヘッドホンアンプ, バランス出力, MQA, デスクトップオーディオ]
 permalink: /products/ja/smsl-m300se/
 ---
-
 ## 概要
 
  SMSL M300SEは、デュアルCirrus Logic CS43131 DACチップを搭載したデスクトップ型DAC/ヘッドホンアンプです。6.35mm単端と4.4mmバランスヘッドホン出力、XLRバランスライン出力、MQA対応、Bluetooth 5.0接続などの機能を提供します。第3世代XMOS XU-316 USBレシーバーを採用し、PCM 32bit/768kHz、DSD512まで対応しています。SMSLは中国のオーディオメーカーとして、コストパフォーマンスに優れた製品を多数リリースしており、M300SEもその系譜に位置します。

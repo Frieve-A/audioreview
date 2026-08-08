@@ -5,6 +5,7 @@ target_name: "MiniDSP UMIK-2"
 company_id: minidsp
 lang: ja
 ref: minidsp-umik-2
+audiodb_uid: adb-d7f21b846069
 date: 2025-07-18
 rating: [3.3, 0.6, 0.7, 1.0, 0.5, 0.5]
 price: 29250
@@ -12,7 +13,6 @@ summary: "大型カプセルによる低ノイズ設計が特徴的なUSB測定�
 tags: [測定マイク, USB, 校正, 音響測定]
 permalink: /products/ja/minidsp-umik-2/
 ---
-
 ## 概要
 
 MiniDSP UMIK-2は、前世代UMIK-1から大幅に改良された測定用マイクロフォンです。1/2インチ（12.7mm）の大型カプセルと32ビットADCを採用し、192kHzまでのサンプリングレート、個別校正ファイルの提供など、測定精度向上を目指した設計となっています。USB-C接続でREWやDirac Liveとの互換性を持ち、音響測定分野では一定の認知度を得ています。

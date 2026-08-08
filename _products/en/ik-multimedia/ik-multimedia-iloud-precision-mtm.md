@@ -5,6 +5,7 @@ target_name: "IK Multimedia iLoud Precision MTM"
 company_id: ik-multimedia
 lang: en
 ref: ik-multimedia-iloud-precision-mtm
+audiodb_uid: adb-04fea93ad9b8
 date: 2025-09-15
 rating: [3.6, 0.7, 0.7, 1.0, 0.4, 0.8]
 price: 1999.98

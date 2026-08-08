@@ -5,6 +5,7 @@ target_name: "Apogee Boom"
 company_id: apogee
 lang: en
 ref: apogee-boom
+audiodb_uid: adb-d7cc102ba168
 date: 2025-10-12
 rating: [4.7, 0.9, 1.0, 1.0, 0.8, 1.0]
 price: 299

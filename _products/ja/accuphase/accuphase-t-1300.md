@@ -5,6 +5,7 @@ target_name: "Accuphase T-1300"
 company_id: accuphase
 lang: ja
 ref: accuphase-t-1300
+audiodb_uid: adb-7bdf9d41fca7
 date: 2026-01-07
 rating: [4.0, 0.4, 0.8, 1.0, 0.9, 0.9]
 price: 1347500
@@ -12,7 +13,6 @@ summary: "先進的なDSPテクノロジーとハイエンドRF設計を採用�
 tags: [チューナー, FM, ステレオ, DDS, DSP, ハイエンド]
 permalink: /products/ja/accuphase-t-1300/
 ---
-
 ## 概要
 
 Accuphase T-1300は、この著名な日本メーカーによる50年以上に及ぶFMチューナー開発の集大成を表しています。T-1200の後継機として2025年にリリースされたこのDDS FMステレオチューナーは、洗練されたデジタル信号処理と伝統的なRF回路の専門技術を融合しています。T-1300は、ダブルチューニングRFフロントエンド、高精度DDSローカルオシレーター、可変帯域幅IF フィルタリング、マルチパス軽減、デジタルFM復調を実装する先進的なDSPテクノロジーを特徴としています。Accupahseはプレミアム構造と技術革新の評判を維持していますが、T-1300はDAB/DAB+機能を持たずFMスペクトラムでのみ動作し、アナログFM受信への集中したアプローチを表しています。

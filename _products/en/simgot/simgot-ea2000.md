@@ -5,6 +5,7 @@ target_name: "SIMGOT EA2000"
 company_id: simgot
 lang: en
 ref: simgot-ea2000
+audiodb_uid: adb-1c20f7b42597
 date: 2025-11-22
 rating: [2.8, 0.5, 0.7, 0.3, 0.5, 0.8]
 price: 319.99

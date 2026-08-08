@@ -5,6 +5,7 @@ target_name: "ZiiGaat Arcanis"
 company_id: ziigaat
 lang: en
 ref: ziigaat-arcanis
+audiodb_uid: adb-b21090780b45
 date: 2025-08-25
 rating: [2.9, 0.7, 0.8, 0.1, 0.6, 0.7]
 price: 359.1

@@ -5,6 +5,7 @@ target_name: "KZ Pisces"
 company_id: kz
 lang: ja
 ref: kz-pisces
+audiodb_uid: adb-3c0ad3d734a3
 date: 2025-12-05
 rating: [2.9, 0.5, 0.6, 0.8, 0.4, 0.6]
 price: 4450

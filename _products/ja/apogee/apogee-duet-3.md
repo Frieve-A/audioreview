@@ -5,6 +5,7 @@ target_name: "Apogee Duet 3"
 company_id: apogee
 lang: ja
 ref: apogee-duet-3
+audiodb_uid: adb-f1a558eb7511
 date: 2025-12-30
 rating: [4.0, 0.8, 0.8, 1.0, 0.6, 0.8]
 price: 97350
@@ -12,7 +13,6 @@ summary: "ハードウェアDSPと独自のゼロオームヘッドホンアン�
 tags: [オーディオインターフェース, USB-C, DSP, ヘッドホンアンプ, レコーディング, Apogee]
 permalink: /products/ja/apogee-duet-3/
 ---
-
 ## 概要
 
 Apogee Duet 3は、ハードウェアDSP処理とApogee独自の「ゼロオーム」ヘッドホンアンプ技術を搭載したコンパクトな2入力/4出力USB Type-Cオーディオインターフェースです。XLR/6.3mmコンボ入力を最大65dBのマイクプリアンプゲインと組み合わせ、内蔵のSymphony ECSチャンネルストリップ処理を備え、ミニマルなガラスとアルミニウムデザインを採用しています。プロフェッショナルレコーディングアプリケーション向けのポータブルソリューションとして位置づけられるDuet 3は、プロフェッショナルオーディオ変換技術における同社の確立された評判に基づいて構築された、Apogeeのコンパクトインターフェースラインナップにおける最新の製品です。

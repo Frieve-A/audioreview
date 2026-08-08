@@ -5,6 +5,7 @@ target_name: "JBL HDI-3800"
 company_id: jbl
 lang: ja
 ref: jbl-hdi-3800
+audiodb_uid: adb-216d272ca6c2
 date: 2025-07-30
 rating: [3.3, 0.7, 0.8, 0.4, 0.6, 0.8]
 price: 660000

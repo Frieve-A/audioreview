@@ -5,6 +5,7 @@ target_name: "JBL Tour Pro 2"
 company_id: jbl
 lang: en
 ref: jbl-tour-pro-2
+audiodb_uid: adb-041dc199e047
 date: 2025-07-09
 rating: [2.9, 0.3, 0.5, 0.8, 0.7, 0.6]
 price: 250
@@ -12,7 +13,6 @@ summary: "True wireless earbuds featuring a distinctive touchscreen case. ANC pe
 tags: ["Active noise cancelling", JBL, "Smart Case", Touchscreen, "True wireless earbuds"]
 permalink: /products/en/jbl-tour-pro-2/
 ---
-
 ## Overview
 
 The JBL Tour Pro 2 is a true wireless earbuds model released in spring 2023. Its most distinctive feature is the smart case equipped with a 1.45-inch touchscreen display, enabling setting changes and music playback control without using smartphone apps. Featuring 10mm dynamic drivers and True Adaptive Noise Cancelling technology, it entered the market at approximately USD 250 USD price point. This product represents JBL's attempt to establish a premium position in the true wireless earbuds market.

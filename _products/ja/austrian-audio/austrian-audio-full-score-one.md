@@ -5,6 +5,7 @@ target_name: "Austrian Audio Full Score One"
 company_id: austrian-audio
 lang: ja
 ref: austrian-audio-full-score-one
+audiodb_uid: adb-718959e00fba
 date: 2026-04-04
 rating: [3.5, 0.7, 1.0, 0.2, 0.7, 0.9]
 price: 239850
@@ -12,7 +13,6 @@ summary: "独自のTrue Transient Technologyを搭載し、優秀な測定仕様
 tags: [headphone-amplifier, austrian-audio, true-transient-technology, balanced-output]
 permalink: /products/ja/austrian-audio-full-score-one/
 ---
-
 ## 概要
 
 Austrian AudioのFull Score Oneは、AKG閉鎖後もウィーンに残った元AKGエンジニア22名によって開発された同社初のヘッドフォンアンプです [1]。2024年3-4月に発売されたこのアンプは、切り替え可能な300V/µsスルーレートと2MHz帯域幅を提供する独自のTrue Transient Technology（TTT）を特徴としています [1]。プロフェッショナルスタジオ用途とオーディオファイル向けHi-Fi用途の両方を対象とし、2つの6.35mm TRSジャックと1つの4ピンXLRバランス接続を含む複数のヘッドフォン出力を備えています [2]。Austrian Audioはこの製品をマーケティングよりもエンジニアリングの深さを重視したフラッグシップアンプとして位置付けています。現在の小売価格は1,599 USDです [1]。

@@ -5,6 +5,7 @@ target_name: "Neumann KH 120 II"
 company_id: neumann
 lang: ja
 ref: neumann-kh-120-ii
+audiodb_uid: adb-fcc3d6740b7e
 date: 2025-07-28
 rating: [3.6, 0.6, 0.7, 0.7, 0.8, 0.8]
 price: 148500
@@ -12,7 +13,6 @@ summary: "DSP搭載のニアフィールドモニター。測定性能は業界�
 tags: [スピーカー, モニタースピーカー, DSP, ニアフィールド, プロオーディオ]
 permalink: /products/ja/neumann-kh-120-ii/
 ---
-
 ## 概要
 
 Neumann KH 120 IIは、ドイツの老舗オーディオメーカーNeumannが開発したDSP搭載のアクティブニアフィールドモニタースピーカーです。5.25インチウーファーと1インチツイーターを搭載し、バイアンプ構成で合計245W（ウーファー145W、ツイーター100W）の出力を持ちます。44Hz-21kHz（±3dB）の周波数特性と最大116.8dB SPLの出力能力を備え、DSPによる高精度なクロスオーバーとMathematically Modelled Dispersion（MMD）ウェーブガイド技術を採用しています。プロフェッショナルスタジオでの使用を想定した設計となっており、オプションのMA 1測定マイクを使用したルーム補正機能も利用可能です。

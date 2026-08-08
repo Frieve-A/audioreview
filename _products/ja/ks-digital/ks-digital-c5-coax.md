@@ -5,6 +5,7 @@ target_name: "KS Digital C5 Coax"
 company_id: ks-digital
 lang: ja
 ref: ks-digital-c5-coax
+audiodb_uid: adb-4f201a61b1e8
 date: 2025-08-20
 rating: [2.8, 0.6, 0.7, 0.4, 0.6, 0.5]
 price: 341700

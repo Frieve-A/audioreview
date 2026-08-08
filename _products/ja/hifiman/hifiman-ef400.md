@@ -5,6 +5,7 @@ target_name: "HiFiMAN EF400"
 company_id: hifiman
 lang: ja
 ref: hifiman-ef400
+audiodb_uid: adb-8292185bf6cb
 date: 2025-09-12
 rating: [2.1, 0.5, 0.4, 0.3, 0.4, 0.5]
 price: 79800
@@ -12,7 +13,6 @@ summary: "独自のHIMALAYA技術を搭載したデスクトップR2R DAC/アン
 tags: [DAC, アンプ, デスクトップ, R2R, バランス, USB]
 permalink: /products/ja/hifiman-ef400/
 ---
-
 ## 概要
 
 HiFiMAN EF400は、同社独自のHIMALAYA R2R DAC技術を搭載したデスクトップDAC/アンプコンビネーションです。HiFiMaNのデスクトップオーディオラインアップにおけるミドルクラスソリューションとして導入され、デュアルHIMALAYA DACモジュールを差動構成で組み込み、24ビット/768kHzまでのPCM信号をサポートしています。本機はバランス接続を含む複数のヘッドホン出力を提供し、オーバーサンプリング/非オーバーサンプリングモード付きの切り替え可能なゲイン設定を搭載しています。4.4Wのバランス出力パワーを謳うClass ABアンプリフィケーション を中心に構築されたEF400は、フラッグシップモデルよりもアクセスしやすい価格でR2R技術を提供するHiFiMANの試みを表しています。

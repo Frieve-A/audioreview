@@ -5,6 +5,7 @@ target_name: "Denon DP-57L"
 company_id: denon
 lang: en
 ref: denon-dp-57l
+audiodb_uid: adb-c502bd5cc473
 date: 2025-10-01
 rating: [2.3, 0.4, 0.2, 1.0, 0.1, 0.6]
 price: 585
@@ -12,7 +13,6 @@ summary: "1982 direct-drive turntable with exceptional 0.008% speed stability, c
 tags: [Turntable, Direct Drive, Vintage, High Performance]
 permalink: /products/en/denon-dp-57l/
 ---
-
 ## Overview
 
 The Denon DP-57L, manufactured in 1982, represents an era when direct-drive turntables achieved remarkable engineering precision. This quartz-locked direct-drive turntable features AC servo motor control, bi-directional speed regulation, and an S-shaped tonearm with dynamic servo tracer system. Weighing 11.5kg and measuring 485×185×410mm, the DP-57L was designed during Denon's focus on professional broadcasting equipment technology translated to consumer products. The model includes automatic features like end-of-record detection and auto-lift mechanism, along with non-contact electronic anti-skating control.

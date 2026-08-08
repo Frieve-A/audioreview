@@ -5,6 +5,7 @@ target_name: "TC Electronic LEVEL PILOT X"
 company_id: tc-electronic
 lang: en
 ref: tc-electronic-level-pilot-x
+audiodb_uid: adb-90d208ab1bbd
 date: 2026-06-06
 rating: [2.6, 0.5, 0.3, 0.6, 0.6, 0.6]
 price: 50
@@ -12,7 +13,6 @@ summary: "A passive balanced XLR volume controller for studio monitors. No audio
 tags: [Monitor Controller, Volume Controller, Passive, Desktop, Studio]
 permalink: /products/en/tc-electronic-level-pilot-x/
 ---
-
 ## Overview
 
 TC Electronic, founded in Denmark in 1976 and now part of the Music Tribe group, built its reputation on digital signal processing equipment. The LEVEL PILOT X is a passive analog stereo volume controller designed for use between an audio source and active studio monitors. Priced at 50 USD, it features two balanced XLR inputs and two balanced XLR outputs, a Bourns dual-gang potentiometer for level attenuation, an aluminum enclosure with a rubberized base, and requires no external power. A 1.5m XLR extension cable is included [1].

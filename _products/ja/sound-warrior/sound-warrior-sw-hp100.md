@@ -5,6 +5,7 @@ target_name: "Sound Warrior SW-HP100"
 company_id: sound-warrior
 lang: ja
 ref: sound-warrior-sw-hp100
+audiodb_uid: adb-cff91de3ee75
 date: 2025-08-15
 rating: [2.5, 0.5, 0.3, 0.8, 0.4, 0.5]
 price: 15520
@@ -12,7 +13,6 @@ summary: "日本製セミオープンヘッドホン。第三者測定に基づ�
 tags: [ヘッドホン, セミオープン, 日本, スタジオ, モニタリング]
 permalink: /products/ja/sound-warrior-sw-hp100/
 ---
-
 ## 概要
 
 Sound Warrior SW-HP100は、日本の城下工業が製造するセミオープン型ダイナミックヘッドホンです。40mmドライバー、38Ω、出力音圧レベル98dB（1kHz/1mW）、重量220gなどの仕様を備えます。左右ハウジングには2.5mmモノラルミニジャック×2の着脱式端子を採用し、付属の3.5mmステレオミニ接続コードに加え、バランス接続用XLRケーブル（別売）にも対応します [1]。第三者による計測レビューも公開されており、測定に裏打ちされた評価が可能です [2][3]。

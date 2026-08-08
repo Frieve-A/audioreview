@@ -5,6 +5,7 @@ target_name: "Gustard A18"
 company_id: gustard
 lang: ja
 ref: gustard-a18
+audiodb_uid: adb-0907cd097e2f
 date: 2025-08-10
 rating: [3.6, 0.9, 0.5, 1.0, 0.6, 0.6]
 price: 84000
@@ -12,7 +13,6 @@ summary: "AK4499搭載のバランス対応DAC。包括的な接続性と高品�
 tags: [DAC, バランス, AK4499, デスクトップ, Bluetooth]
 permalink: /products/ja/gustard-a18/
 ---
-
 ## 概要
 
 Gustard A18は、AKM社のフラッグシップチップAK4499EQを搭載したバランス対応デスクトップDACです。2020年頃にリリースされ、USB、同軸、光、I2S、AES、Bluetooth 5.0など包括的な接続性を提供し、PCM 768kHzおよびDSD512までのハイレゾフォーマットに対応しています。独立したリニア電源、4基のLME49860デュアルオペアンプを搭載し、RCA 3V、XLR 6Vという異例に高い出力レベルを持つRCAおよびXLR出力を備えています。

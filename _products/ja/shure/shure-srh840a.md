@@ -5,6 +5,7 @@ target_name: "Shure SRH840A"
 company_id: shure
 lang: ja
 ref: shure-srh840a
+audiodb_uid: adb-bc96209359ed
 date: 2025-07-30
 rating: [3.2, 0.6, 0.5, 0.7, 0.8, 0.6]
 price: 22350

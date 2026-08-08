@@ -5,6 +5,7 @@ target_name: "Luxman P-750U Mark II"
 company_id: luxman
 lang: en
 ref: luxman-p-750u-mark-ii
+audiodb_uid: adb-c8481ef8e3e6
 date: 2025-08-04
 rating: [2.4, 0.7, 0.8, 0.1, 0.5, 0.3]
 price: 2310

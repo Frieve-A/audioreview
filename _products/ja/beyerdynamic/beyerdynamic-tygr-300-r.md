@@ -5,6 +5,7 @@ target_name: "Beyerdynamic TYGR 300 R"
 company_id: beyerdynamic
 lang: ja
 ref: beyerdynamic-tygr-300-r
+audiodb_uid: adb-aab125205628
 date: 2025-08-26
 rating: [3.1, 0.6, 0.6, 0.3, 0.8, 0.8]
 price: 52990
@@ -12,7 +13,6 @@ summary: "ドイツ製のオープンバック有線ゲーミングヘッドホ�
 tags: [ゲーミング, オープンバック, Beyerdynamic, ヘッドホン, 32オーム]
 permalink: /products/ja/beyerdynamic-tygr-300-r/
 ---
-
 ## 概要
 
 Beyerdynamic TYGR 300 Rは、ドイツ製のオープンバック型ゲーミングヘッドホンです。32オーム設計で駆動が容易、**アコースティックフリース**によりDT 990 PROの周波数応答をベースにゲーミング向けに最適化したチューニングを採用します [1][7]。公称仕様は5–35,000 Hz、96 dB、ケーブル除く質量290 gです [1]。日本国内の実勢価格目安は約52,990円（並行輸入）です [8]。

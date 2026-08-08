@@ -5,6 +5,7 @@ target_name: "Monitor Audio Vestra W12"
 company_id: monitor-audio
 lang: en
 ref: monitor-audio-vestra-w12
+audiodb_uid: adb-64d96b9e0fa7
 date: 2025-08-11
 rating: [3.1, 0.6, 0.7, 0.7, 0.5, 0.6]
 price: 1099
@@ -12,7 +13,6 @@ summary: "12-inch sealed subwoofer with C-CAM driver technology and DSP control,
 tags: [Subwoofer, Monitor Audio, Sealed Box, Class D, DSP]
 permalink: /products/en/monitor-audio-vestra-w12/
 ---
-
 ## Overview
 
 The Monitor Audio Vestra W12 represents the company's entry into the competitive 12-inch sealed subwoofer market. Featuring Monitor Audio's proprietary C-CAM (Ceramic-Coated Aluminium Magnesium) driver technology with triple suspension design, the W12 combines a 500W Class-D amplifier with digital signal processing capabilities. Positioned as part of Monitor Audio's more accessible Vestra series, the W12 targets both music and home theater applications with three DSP modes and comprehensive connectivity options. The sealed cabinet design prioritizes controlled bass response over maximum output levels.

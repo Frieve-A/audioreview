@@ -5,6 +5,7 @@ target_name: "Sennheiser IE 100 PRO"
 company_id: sennheiser
 lang: en
 ref: sennheiser-ie-100-pro
+audiodb_uid: adb-253829bc71c1
 date: 2026-02-18
 rating: [3.6, 0.6, 0.8, 1.0, 0.6, 0.6]
 price: 89

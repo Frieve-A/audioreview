@@ -5,6 +5,7 @@ target_name: "Gustard R26"
 company_id: gustard
 lang: en
 ref: gustard-r26
+audiodb_uid: adb-7cf92969a14c
 date: 2025-08-10
 rating: [2.4, 0.4, 0.6, 0.9, 0.2, 0.3]
 price: 1800

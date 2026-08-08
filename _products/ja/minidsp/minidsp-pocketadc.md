@@ -5,6 +5,7 @@ target_name: "miniDSP PocketADC"
 company_id: minidsp
 lang: ja
 ref: minidsp-pocketadc
+audiodb_uid: adb-b6ef68bbd17e
 date: 2025-09-08
 rating: [3.8, 0.9, 0.7, 1.0, 0.4, 0.8]
 price: 7800
@@ -12,7 +13,6 @@ summary: "優秀な測定性能を持つコンパクトADC。等価以上の競�
 tags: [ADC, コンバーター, デジタルオーディオ, miniDSP]
 permalink: /products/ja/minidsp-pocketadc/
 ---
-
 ## 概要
 
 miniDSP PocketADCは、RCAステレオアナログ入力をS/PDIF同軸およびTOSLINK光デジタル出力に変換する極めてコンパクトな高分解能アナログデジタル変換器です。DIPスイッチで**48/96/192 kHz**のサンプリングレートを選択でき、メーカー公称で**SNR 118 dB**および**THD+N −114 dB**の性能を示します。 [1][2]

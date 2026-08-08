@@ -5,6 +5,7 @@ target_name: "HiFiMan Arya"
 company_id: hifiman
 lang: en
 ref: hifiman-arya
+audiodb_uid: adb-0663608ee3f8
 date: 2025-09-13
 rating: [2.3, 0.7, 0.4, 0.4, 0.3, 0.5]
 price: 599

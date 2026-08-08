@@ -5,6 +5,7 @@ target_name: "nMode X PM7 MKII"
 company_id: nmode
 lang: ja
 ref: nmode-x-pm7mkii
+audiodb_uid: adb-1a8cceaadee8
 date: 2025-09-02
 rating: [1.9, 0.5, 0.6, 0.2, 0.4, 0.2]
 price: 287820
@@ -12,7 +13,6 @@ summary: "独自の1ビット・DSD処理を採用する日本製プリメイン
 tags: [インテグレーテッドアンプ, DSD, 1ビット, 日本]
 permalink: /products/ja/nmode-x-pm7mkii/
 ---
-
 ## 概要
 
 nMode X PM7 MKIIは、入力されたアナログ信号をすべてDSDに変換して1ビット段で増幅する独自アーキテクチャのプリメインアンプです。RCA×3／XLR×2のアナログ入力、定格20W×2（8Ω）／32W×2（4Ω）、THD 0.005%（1kHz、1W）、BNC外部クロック入力（複数周波数選択）を備えます。国内実売は287,820円（参考：希望小売価格330,000円）。英語版の価格評価整合のため、本稿のCP計算では1,920 USD相当（287,820円時点）を用いています。 [1][2][3]

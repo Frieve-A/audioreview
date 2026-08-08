@@ -5,6 +5,7 @@ target_name: "Audio-Technica ATH-910"
 company_id: audio-technica
 lang: en
 ref: audio-technica-ath-910
+audiodb_uid: adb-c21c463eb400
 date: 2026-05-06
 rating: [1.6, 0.5, 0.1, 0.5, 0.3, 0.2]
 price: 40
@@ -12,7 +13,6 @@ summary: "A vintage closed-back dynamic headphone from the 1980s–1990s with no
 tags: [Headphones, Closed-Back, Wired, Vintage, Discontinued]
 permalink: /products/en/audio-technica-ath-910/
 ---
-
 ## Overview
 
 The Audio-Technica ATH-910 is a full-size closed-back dynamic headphone originating from the 1980s–1990s, marketed under a professional monitoring positioning. A closely related variant, the ATH-910PRO, was distributed in European markets with substantially identical stated specifications [1]. Both models are discontinued; no new units are available in the US market, and the product trades exclusively on the secondhand market at approximately 40 USD [2]. Audio-Technica's current professional closed-back lineup — ATH-M50x and ATH-M70x — represents the company's present product generation.

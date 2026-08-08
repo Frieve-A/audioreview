@@ -5,6 +5,7 @@ target_name: "AKG P120"
 company_id: akg
 lang: ja
 ref: akg-p120
+audiodb_uid: adb-a2578a598b7a
 date: 2025-11-04
 rating: [3.4, 0.6, 0.6, 0.7, 0.8, 0.7]
 price: 19350

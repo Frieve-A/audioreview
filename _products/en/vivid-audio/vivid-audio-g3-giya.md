@@ -5,6 +5,7 @@ target_name: "Vivid Audio G3 Giya"
 company_id: vivid-audio
 lang: en
 ref: vivid-audio-g3-giya
+audiodb_uid: adb-62de63bca452
 date: 2025-09-03
 rating: [3.4, 0.7, 0.8, 0.3, 0.7, 0.9]
 price: 43000
@@ -12,7 +13,6 @@ summary: "Engineering-focused 4-way floor-standing speakers with proprietary cat
 tags: [Speakers, Floor-standing, 4-way, High-end]
 permalink: /products/en/vivid-audio-g3-giya/
 ---
-
 ## Overview
 
 The Vivid Audio G3 Giya is a 4-way floor-standing loudspeaker featuring five proprietary drivers designed entirely in-house by Vivid Audio. Founded in 2001 by Laurence Dickie (formerly of B&W Nautilus) and Philip Guttentag, the company focuses on eliminating cabinet resonances through innovative driver and enclosure design. The G3 incorporates catenary dome profiles and tapered tube absorbers across all four driver subsystems, positioning itself as a premium engineering solution in the high-end audio market.

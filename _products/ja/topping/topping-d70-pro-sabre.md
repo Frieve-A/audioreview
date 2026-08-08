@@ -5,6 +5,7 @@ target_name: "Topping D70 Pro Sabre"
 company_id: topping
 lang: ja
 ref: topping-d70-pro-sabre
+audiodb_uid: adb-ece117a4aea5
 date: 2025-08-17
 rating: [3.5, 0.9, 0.7, 0.4, 0.6, 0.9]
 price: 105000
@@ -12,7 +13,6 @@ summary: "フラッグシップES9039SPROチップを使用した高性能DACで
 tags: [DAC, デスクトップ, ESS, Bluetooth, バランス]
 permalink: /products/ja/topping-d70-pro-sabre/
 ---
-
 ## 概要
 
 Topping D70 Pro Sabreは、ESS製**ES9039SPRO**を8ch構成（左右各4ch並列）で用いたプレミアムDACです。**2023年**リリースで、USB/光/同軸/AESに加え、Bluetooth 5.1（LDAC/aptX Adaptive/aptX HD/AAC/SBC）に対応します[2]。フルカラーの**Aurora UI**で再生情報やFFT・VUを表示でき、PCMフィルターは**7種類**（F-1〜F-7）、さらにSound mode（Off/Valve/Transistor）も用意されています[2]。出力レベルは標準の2.1 V/4.2 Vに加え、**RCA 2.5 V / XLR 5.0 V**設定も選べます[3]。

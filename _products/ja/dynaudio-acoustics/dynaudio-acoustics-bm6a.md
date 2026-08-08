@@ -5,6 +5,7 @@ target_name: "Dynaudio Acoustics BM6A"
 company_id: dynaudio-acoustics
 lang: ja
 ref: dynaudio-acoustics-bm6a
+audiodb_uid: adb-d767a64c9993
 date: 2025-08-02
 rating: [2.3, 0.5, 0.6, 0.2, 0.4, 0.6]
 price: 250000
@@ -12,7 +13,6 @@ summary: "Dynaudio Acoustics BM6Aは6.5インチ2ウェイアクティブニア�
 tags: [スタジオモニター, アクティブスピーカー, ニアフィールド, デンマーク]
 permalink: /products/ja/dynaudio-acoustics-bm6a/
 ---
-
 ## 概要
 
 Dynaudio Acoustics BM6Aは、デンマークの老舗スピーカーメーカーであるDynaudioが開発した6.5インチ2ウェイアクティブニアフィールドモニターです。現在は生産終了モデルであり、後継機種のBM6A MkIIも同様に生産が終了しています。本機はカスタム設計のドライバー、ディスクリートMOSFETアンプ、4次位相整列クロスオーバーを搭載し、プロのオーディオ環境での使用を想定して設計されました。公称スペックでは41Hzから21kHzの周波数特性と、ペアで118dB RMSの最大音圧レベルを実現し、主に音楽制作、放送、ポストプロダクションのスタジオで採用実績がありました。

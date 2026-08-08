@@ -5,6 +5,7 @@ target_name: "Topping A50III"
 company_id: topping
 lang: en
 ref: topping-a50iii
+audiodb_uid: adb-c6f62dab7222
 date: 2026-02-11
 rating: [4.0, 0.9, 0.7, 1.0, 0.5, 0.9]
 price: 199
@@ -12,7 +13,6 @@ summary: "High-performance desktop headphone amplifier with NFCA technology deli
 tags: [headphone-amplifier, desktop, nfca, balanced, topping]
 permalink: /products/en/topping-a50iii/
 ---
-
 ## Overview
 
 The Topping A50III is a desktop headphone amplifier featuring proprietary NFCA modules with ultra-low distortion specifications. Released in March 2024 at 199 USD, it delivers 3500mW output power with both single-ended and balanced connectivity. The amplifier targets enthusiasts seeking high-performance headphone amplification with professional-grade specifications and serves as a companion to Topping's D50III DAC.
