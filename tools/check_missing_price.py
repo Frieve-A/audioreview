@@ -162,7 +162,7 @@ class MissingPriceChecker:
                 try:
                     # Convert to float to validate it's a number
                     price_float = float(price_value)
-                    if price_float >= 0:  # Allow 0 for free products or undetermined prices
+                    if price_float >= 0:  # Allow 0 for unknown prices after exhaustive research
                         is_price_valid = True
                     else:
                         price_issues.append(f"Price must be greater than or equal to 0: {price_value}")

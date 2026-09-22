@@ -3,9 +3,11 @@ document.addEventListener('DOMContentLoaded', function() {
   const priceElements = document.querySelectorAll('.price-number');
   
   priceElements.forEach(function(element) {
-    const price = parseInt(element.getAttribute('data-price'));
-    if (!isNaN(price)) {
+    const price = Number(element.getAttribute('data-price'));
+    if (Number.isFinite(price) && price > 0) {
       element.textContent = price.toLocaleString();
+    } else {
+      element.textContent = '-';
     }
   });
 });

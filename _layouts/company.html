@@ -159,7 +159,7 @@ layout: default
                 <p class="product-summary">{{ product.summary }}</p>
                 <div class="meta-row">
                   {% if product.price %}
-                    <span><span class="price-number" data-price="{{ product.price }}">{{ product.price }}</span>{% if page.lang == 'ja' %} 円{% else %} USD{% endif %}</span>
+                    <span>{% include price.html price=product.price %}</span>
                   {% endif %}
                   <time class="product-date" datetime="{{ product.date | date: '%Y-%m-%d' }}">
                     {% if page.lang == 'ja' %}{{ product.date | date: '%Y年%m月%d日' }}{% else %}{{ product.date | date: '%B %d, %Y' }}{% endif %}

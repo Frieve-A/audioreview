@@ -204,8 +204,8 @@ class InfiniteScrollManager {
     html += `<p class="${isCompany ? 'company' : 'product'}-summary">${summary}</p>`;
     html += '<div class="meta-row">';
 
-    if (!isCompany && item.price) {
-      html += `<span>${this.currentLanguage === 'ja' ? '参考価格' : 'Reference Price'} ${this.formatPrice(item.price)}${this.currentLanguage === 'ja' ? ' 円' : ' USD'}</span>`;
+    if (!isCompany) {
+      html += `<span>${this.currentLanguage === 'ja' ? '参考価格' : 'Reference Price'} ${this.formatPrice(item.price)}${Number(item.price) > 0 ? (this.currentLanguage === 'ja' ? ' 円' : ' USD') : ''}</span>`;
     }
 
     html += `<time class="${isCompany ? 'company' : 'product'}-date" datetime="${item.date}">${dateLabel}</time>`;
@@ -425,8 +425,11 @@ class InfiniteScrollManager {
       }
 
       this.filteredData = this.filteredData.filter((item) => {
-        if (item.price === null || item.price === undefined) return true;
+        const maxPrice = this.currentLanguage === 'en' ? 1000000 : 100000000;
+        const active = this.state.priceFilter.min > 0 || this.state.priceFilter.max < maxPrice;
+        if (!active) return true;
         const price = Number(item.price);
+        if (!Number.isFinite(price) || price <= 0) return false;
         return price >= this.state.priceFilter.min && price <= this.state.priceFilter.max;
       });
     }
@@ -593,8 +596,8 @@ class InfiniteScrollManager {
   }
 
   formatPrice(price) {
-    if (price === null || price === undefined || Number.isNaN(Number(price))) {
-      return 'N/A';
+    if (!Number.isFinite(Number(price)) || Number(price) <= 0) {
+      return this.currentLanguage === 'ja' ? '-（価格情報なし）' : '- (Price unavailable)';
     }
     return Number(price).toLocaleString();
   }

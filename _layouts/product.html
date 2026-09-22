@@ -41,7 +41,7 @@ layout: default
                 {{ site.data.strings[page.lang].reference_price }}
                 <span class="price-tooltip" tabindex="0" role="img" aria-label="{{ site.data.strings[page.lang].price_tooltip }}" data-tooltip="{{ site.data.strings[page.lang].price_tooltip }}">?</span>
               </span>
-              <strong><span class="price-number" data-price="{{ page.price }}">{{ page.price }}</span>{% if page.lang == 'ja' %} 円{% else %} USD{% endif %}</strong>
+              <strong>{% include price.html price=page.price %}</strong>
             </div>
           {% endif %}
         </div>
@@ -226,7 +226,7 @@ layout: default
           {% endif %}
           {% if page.price %}
             <dt>{{ site.data.strings[page.lang].reference_price }}</dt>
-            <dd><span class="price-number" data-price="{{ page.price }}">{{ page.price }}</span>{% if page.lang == 'ja' %} 円{% else %} USD{% endif %}</dd>
+            <dd>{% include price.html price=page.price %}</dd>
           {% endif %}
           <dt>{{ site.data.strings[page.lang].review_date }}</dt>
           <dd>{% if page.lang == 'ja' %}{{ page.date | date: '%Y年%m月%d日' }}{% else %}{{ page.date | date: '%B %d, %Y' }}{% endif %}</dd>

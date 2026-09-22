@@ -710,6 +710,9 @@ class ReviewValidator:
         
         cp_score = review.individual_scores[2]  # Cost-Performance score
         
+        if review.layout == 'product' and review.price == 0 and cp_score != 0.5:
+            issues.append("Unknown price (0) requires CP score 0.5 (evaluation impossible)")
+
         # Check if CP exceeds 1.0 (calculation error)
         if cp_score > self.policy_requirements["cp_max_value"]:
             issues.append(f"CP score exceeds maximum allowed value ({cp_score} > {self.policy_requirements['cp_max_value']}) - this indicates calculation error")
@@ -1084,9 +1087,9 @@ class ReviewValidator:
                         ja_price = float(ja_review.price)
                         en_price = float(en_review.price)
                         
-                        # Skip validation if both prices are 0 (free software)
+                        # Skip exchange-rate validation if both prices are unknown
                         if ja_price == 0 and en_price == 0:
-                            # Both prices are 0, which is valid for free software
+                            # Both languages consistently record unknown prices
                             pass
                         elif en_price > 0:  # Avoid division by zero
                             exchange_rate = ja_price / en_price

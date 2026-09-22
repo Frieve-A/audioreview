@@ -10,6 +10,7 @@ vendor/
 
 # Development environments
 .claude/
+.codex/
 .qodo/
 .bashrc
 .zshrc

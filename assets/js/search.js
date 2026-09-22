@@ -443,10 +443,10 @@ class SearchEngine {
           <span class="rating-stars">★</span>
         </div>
         <p class="search-result-summary">${SearchCommon.escapeHtml(item.summary)}</p>
-        ${item.price ? `
+        ${(item.type === 'Product' || item.type === '製品') ? `
           <div class="product-card-price">
             <span class="price-label">${SearchCommon.getCurrentLanguage() === 'ja' ? '参考価格' : 'Reference Price'}:</span>
-            <span class="price-value">${this.formatPrice(item.price)} ${SearchCommon.getCurrentLanguage() === 'ja' ? '円' : 'USD'}</span>
+            <span class="price-value">${this.formatPrice(item.price)}${Number(item.price) > 0 ? (SearchCommon.getCurrentLanguage() === 'ja' ? ' 円' : ' USD') : ''}</span>
           </div>
         ` : ''}
         ${item.tags.length > 0 ? `
@@ -468,8 +468,8 @@ class SearchEngine {
   }
 
   formatPrice(price) {
-    if (price === null || price === undefined || isNaN(price)) {
-      return 'N/A';
+    if (!Number.isFinite(Number(price)) || Number(price) <= 0) {
+      return SearchCommon.getCurrentLanguage() === 'ja' ? '-（価格情報なし）' : '- (Price unavailable)';
     }
     
     // Convert to number and format with commas
