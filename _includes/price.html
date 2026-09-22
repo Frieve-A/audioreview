@@ -1,0 +1,5 @@
+{%- if include.price and include.price > 0 -%}
+<span class="price-number" data-price="{{ include.price }}">{{ include.price }}</span>{% if page.lang == 'ja' %} 円{% else %} USD{% endif %}
+{%- else -%}
+<span title="{% if page.lang == 'ja' %}価格情報なし{% else %}Price unavailable{% endif %}" aria-label="{% if page.lang == 'ja' %}価格情報なし{% else %}Price unavailable{% endif %}">-</span>
+{%- endif -%}
